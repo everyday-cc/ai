@@ -20,6 +20,22 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Marktechpost Launches AI Magazine Series"
+    excerpt: "Marktechpost launches its first AI Magazine Series. The first issue is on 'AI in Fintech'. As a premier publication on the subject of Artificial Intelligence (AI), Marktechpost provides insights into emerging technologies and industry developments that will shape the future."
+    publishedDateTime: 2021-12-28T16:08:00Z
+    webUrl: "https://www.wicz.com/story/45549209/marktechpost-launches-ai-magazine-series"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 39
+    images:
+      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+        width: 1200
+        height: 628
+        isCached: true
+
 secured: "phNuFRv0ykfw++NWMRNt0F8uFX+Wzm27ILlLG1eCPamVV+ypXC0UOPkXXwORa0d6SrmHRGsBsKna6jyu6TijPzsCgSifH+XNj0WyDyYEzIkhk4xDzFROpxMdzgMo8Dh4MvjqVGuxhlGJo2aEYCkIFKwftXEg1hX5M/jRBSCbA2D/MlEc3ZVW6yI1uJSI5Wvgm422YkfP0tAdVyUqPDwBp6KbDBNTnKZeX/3+WgrJr/aCYDdFmlyUETmZHHkITF7b3N6BgV/xKz29TlP2S+XHsU3vOiUaHj2JRTMpp/kuqTvA/kckf75wIcCrxaqLNiYjW7Eu0nf3puf3qWNYjR89wQLhAAXKzYvN7qnSsQxW6mY=;ExHYkJtQXgczIHN4MzM0lA=="
 ---
 

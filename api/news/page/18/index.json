@@ -2,6 +2,93 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-13-how-ethical-hackers-could-help-us-build-trust-in-ai.md",
+      "title": "How Ethical Hackers Could Help Us Build Trust in AI",
+      "excerpt": "Governments are increasingly mandating reporting of data breaches and hacks; the same could apply to incidents where AI systems cause harm.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
+      "originalUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/12/hackers-AI-computer-screen-code.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
+      "publishedDateTime": "2021-12-13T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-natural-language-processing-nlp-in-healthcare.md",
+      "title": "Natural Language Processing (NLP) in Healthcare",
+      "excerpt": "Worldwide Natural Language Processing (NLP) in Healthcare Market In-depth Research Report 2021, Forecast to 2026 is the latest research study released by AMA evaluating the market risk side ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "originalUrl": "https://www.openpr.com/news/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc13792323_g.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2496244/natural-language-processing-nlp-in-healthcare-market",
+      "publishedDateTime": "2021-12-13T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology.md",
       "title": "Podcastle Makes Creating Podcasts Easy Thanks To Ai Technology",
       "excerpt": "Podcastle is a new platform that aims to make the creation of podcasts easier and more professional thanks to some nifty AI technology and a text-to-speech editing tool.",
@@ -1085,91 +1172,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-12-tega-industries-to-debut-on-december-13-what-could-be-listing-premium.md",
-      "title": "Tega Industries to debut on December 13. What could be listing premium?",
-      "excerpt": "Tega Industries shares were available at a price of Rs 753 per share in the grey market, a massive 66.2 percent or Rs 300 premium over issue price of Rs 453 per share, as per the IPO Watch and IPO Central.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078",
-      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/tega-industries-to-debut-on-december-13-what-could-be-listing-premium-7816661.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-12T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-12-tech-enabled-banking-services-are-the-future-for-the-financial-services-industry.md",
-      "title": "Tech-enabled banking services are the future for the financial services industry",
-      "excerpt": "As we all know, the COVID-19 pandemic has thrown up many challenges as it has accelerated digital transformation and added urgency across industries. Even prior to the pandemic, the banking sector faced ongoing disruption from fintech entrants into the industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/tech-enabled-banking-services-future-financial-birgitta-oltersdorf",
-      "originalUrl": "https://www.linkedin.com/pulse/tech-enabled-banking-services-future-financial-birgitta-oltersdorf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQGst8kmC-gE0Q/article-cover_image-shrink_600_2000/0/1639287924961?e=1645660800&v=beta&t=icCNN0Enlryvl0UFT5kaEp0CkCiGtY96IGcycyCO_Rg",
-          "width": 602,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-11T21:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

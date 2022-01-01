@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "AI-Powered Stock Fund Bails Out of Mega-Cap FANG+ Stocks"
-    excerpt: "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship. The AI Powered Equity exchange-traded fund sold down its so-called FANG+ positions this month,"
-    publishedDateTime: 2021-12-30T08:34:00Z
-    webUrl: "https://www.bloombergquint.com/markets/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks"
+    excerpt: "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship."
+    publishedDateTime: 2021-12-30T00:12:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 39
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2021-12%2F3b39100a-adc8-4d80-a16f-4a5e16179274%2F330304682.jpg?rect=0%2C273%2C3999%2C2099&w=1200&auto=format%2Ccompress&ogImage=true"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiJaIdn1hD8/v0/1200x800.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "AI-powered stock fund bails out of mega-cap FANG+ stocks"
     excerpt: "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship."
