@@ -53,6 +53,15 @@ related:
         width: 902
         height: 507
         isCached: true
+  - title: "Square Enix wants to do it all: blockchain, cloud gaming, AI, XR"
+    excerpt: "Following its lofty blockchain play-to-earn plans, Square Enix has a history of promising to embrace new games technology."
+    publishedDateTime: 2022-01-01T21:27:00Z
+    webUrl: "https://www.tweaktown.com/news/83698/square-enix-wants-to-do-it-all-blockchain-cloud-gaming-ai-xr/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "/Q7G8WBp77oLjK/mC5nCh7/suJu76qMhnAeY6BcE/vQOSuWFnFOfGDtIv5rmbLg+NojlbtQyFcPH6v8wSxuA5+CvSGUps73Xb6g5fKitfTNmoWXoiQdbpRnbgSwWp8do+K9ca58eUi4bhW5jw95ALZUFv7FMAnYba49120FLDbkBt3m4r5pM6j86EGKXJnSMQTJ4XnDIySN4ESgXoUtZvk/E8He1w6KTG+3IpUuIOI0YlccU31Ws0nUjCTWcjYfF0KDBGw2raniDKMB+tCSza2q1HLVur7K3/1Pw4kt6L+Uli9xg+PDQ3e2cwKPOWrHZbxKvu+GkIcqPu4IZH+xeGxx/RUKPMyGTC3+EhbykrPI=;vRb7P5cEb7N2DCmyKDUSlw=="
 ---

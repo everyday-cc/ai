@@ -18,22 +18,31 @@ topics:
   - AI
 
 related:
-  - title: "Transforming Big Data Initiatives Into AI Insights: Board Directors And CEO’s Must Improve Their Digital Literacy"
-    excerpt: "This blog focuses on strategies to transform enterprise data into strategic real-time AI driven insights, and outlines the requirements for Board Directors, CEOs and leadership teams to increase their data literacy management skills."
-    publishedDateTime: 2021-12-28T07:00:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/"
+  - title: "Artificial Intelligence Manned Drone Market to Witness Huge Growth by 2027"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence Manned Drone Industry from its research database Artificial Intelligence Manned Drone Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence Manned Drone Market currently"
+    publishedDateTime: 2021-12-28T12:02:00Z
+    webUrl: "https://www.openpr.com/news/2512604/artificial-intelligence-manned-drone-market-to-witness-huge"
+    ampWebUrl: "https://www.openpr.com/amp/2512604/artificial-intelligence-manned-drone-market-to-witness-huge"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2512604/artificial-intelligence-manned-drone-market-to-witness-huge"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca1212809e5da36355466b%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.openpr.com/U/c/Uc28384503_g.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Global Artificial Intelligence Manned Drone Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
+    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence Manned Drone Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Artificial Intelligence Manned Drone market report provides a"
+    publishedDateTime: 2021-12-29T00:38:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5216929-global-artificial-intelligence-manned-drone-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
 
 secured: "SqYo5/90f8YFAfpI20i0Nu7qLzb5m+UnZEQ9rz1tBq/h6XaoszpERQE8kzwjhZF9jqqSV98g0MCNW8Bt0apTS2gWen2Df+jd61nAdb1sEefcs5Xp9gtXwWWab/Q1pRE6GQu6GD1T1EVsz7zKgEpGQyQepjWcBhUUHh9T8vTqAtvbrdtCue2+C12VEgsN41ajQWe+WeK7fLHngXCJ04r0uADFgWBcLBhnOAEN6UnoyDfAQ+wOd01Sm4BEqvj++PU3T1C5diTPpRtMx1/DahcSNwi9sFCuW9+t+UbRPQjAUjRza4YAYWo3DNVHK0nfzzQ6W0oLD2ptqiGOePRc02G/dinrqlrm3ImBTG1Vhw81BGE=;ugJZ67tkUFAY8bmStkjuFw=="
 ---

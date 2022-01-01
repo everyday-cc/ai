@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-s
 ampWebUrl: "https://venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/this-startup-uses-ai-to-put-worker-safety-first/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Computer Vision
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1163443516.jpg?w=1200&strip=all"

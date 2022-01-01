@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/home/news/21965257/rescuing-the-lang
 webUrl: "https://www.manufacturing.net/home/news/21965257/rescuing-the-languages-that-western-tech-ignores"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "In Africa, rescuing the languages that Western tech ignores"
-    excerpt: "We are getting to the point where if a machine doesn’t understand your language it will be like it never existed,” said Vukosi Marivate, chief of data science at the University of Pretoria in South Africa,"
-    publishedDateTime: 2021-12-28T07:01:00Z
-    webUrl: "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
-    ampWebUrl: "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/?amp"
-    cdnAmpWebUrl: "https://sacobserver-com.cdn.ampproject.org/c/s/sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/?amp"
-    type: article
-    provider:
-      name: The Sacramento Observer
-      domain: sacobserver.com
-    quality: 44
-    images:
-      - url: "https://i0.wp.com/sacobserver.com/wp-content/uploads/2021/12/tech.jpeg?fit=1000%2C667&ssl=1"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "In Africa, rescuing the languages that Western tech ignores"
     excerpt: "By Matt O’Brien and Chinedu Asadu Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least,"
     publishedDateTime: 2022-01-01T00:09:00Z

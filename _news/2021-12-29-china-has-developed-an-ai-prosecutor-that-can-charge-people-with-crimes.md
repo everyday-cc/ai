@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 803
         isCached: true
+  - title: "Chinese Company Names AI Debt Collector Employee of the Year"
+    excerpt: "Chinese real estate giant Vanke said its best employee of 2021 was not a human. The company declared an artificial intelligence-powered debt collector named Cui Xiaopan as its employee of the year, Sixth Tone’s sister publication The Paper reported Tuesday,"
+    publishedDateTime: 2021-12-31T01:38:00Z
+    webUrl: "https://www.sixthtone.com/news/1009347/chinese-company-names-ai-debt-collector-employee-of-the-year"
+    type: article
+    provider:
+      name: Sixth Tone
+      domain: sixthtone.com
+    quality: 37
+    images:
+      - url: "https://image5.sixthtone.com/image/5/48/447.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "China Develops Artificial Intelligence ‘Prosecutor’ to Charge People with Crimes"
     excerpt: "Scientists in China have reportedly developed an artificial intelligence program able to file criminal charges."
     publishedDateTime: 2021-12-28T20:05:00Z

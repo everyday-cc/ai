@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "California company tests driverless big-rig truck between Tucson and Phoenix"
+    excerpt: "The company claims its artificial intelligence software allows trucks to \"see\" 1,000 meters away, operate nearly continuously and achieve fuel savings of 10% or more compared to those driven manually."
+    publishedDateTime: 2021-12-29T23:00:00Z
+    webUrl: "https://www.azcentral.com/story/money/business/tech/2021/12/29/tusimple-completes-driverless-big-rig-truck-test-arizona/9044260002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/9044260002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/9044260002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 56
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/12/29/PPHX/a8ad51c7-2ee8-4726-a148-0c52165ac405-TuSimple_Truck_1.jpg?auto=webp&crop=2800,1575,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+LabP1Uyfhr+mxa/Nn0So9mBIj/7X8dohV5FIyDSZkm+3bwJVdvoYptocHGoWamFRr4SntFoVq7fWVrxLFTEKpzhIFEryJPittc5iiYSssYDv3W4lsZYE5Y0kzQiKUpo/Iokbl1M74BSnZji50O4kKMT12Udkv5JKofdeJLhWpwzZL1WqhXRathubSp2oghNW5R/xyvKJBzK56f2+XksCPKpkNRWDkN5m9wmlJi8VBGODRlOGi5PScdwDgeeTYb5xwGpGi7APbwiU69C/Q66jtAfUh0BRz4PCMkkNe1hjKOGu/25GByYHEkVV3Emmjvm6KibwT6lqQpaFdV7KFJvgUdS9EBbTcQCZdlQwgEX1/0=;PdFMkWvuKjjTSR+VxM4C9Q=="
 ---

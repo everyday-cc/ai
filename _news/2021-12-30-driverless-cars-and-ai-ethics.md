@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/amp/"
 type: article
 quality: 121
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc84e544afde6fd717943c%2F0x0.jpg"
         width: 1200
         height: 665
+        isCached: true
+  - title: "California company tests driverless big-rig truck between Tucson and Phoenix"
+    excerpt: "The company claims its artificial intelligence software allows trucks to \"see\" 1,000 meters away, operate nearly continuously and achieve fuel savings of 10% or more compared to those driven manually."
+    publishedDateTime: 2021-12-29T23:00:00Z
+    webUrl: "https://www.azcentral.com/story/money/business/tech/2021/12/29/tusimple-completes-driverless-big-rig-truck-test-arizona/9044260002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/9044260002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/9044260002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 56
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/12/29/PPHX/a8ad51c7-2ee8-4726-a148-0c52165ac405-TuSimple_Truck_1.jpg?auto=webp&crop=2800,1575,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "srw+OPUgE6/9ynFWyl4Wd3Hy9lXu111tVOiWf2yzzD3Z5cnmNAsOBnFP6+WFltm26bFXZ2qOFD18ZXZD99KYBAIGwPRuu8+4Rlw7WCDRxwLDRn2bEQyfsvioHeObdRqQN6a0raoj81dH/q4zwEslbmf+fV9fm3yCRbHorADd8X7v+Af0cAUXfwhrStYlV/uhvhQi0zv06PN2lgx4HBtAQz6q+i5oG/UZJKeofVLakQ4gHYmgWpnaz4HWX4PayA3s1M89v15+ulI20TXhgV4XJKA14Qc4SXqG3ipYcNTxNQ/X6YafaaOQkd13dq0TSJ+bAasONaSUogGlO54bwI4cF1tr3wSPpVBOzFcEujFkBlmP5XodJLPe0JhokYLMe8/NWYs+iiAfUlG0gecS53KvkdXiU2ZSgx5+Qrs/GzpgvVxnmHLUxhSZq7DWQt9HqShz3oVAZ9L3IJCLmQZWZUnbNbREcTQvocrjAJzofDtq9AkO3zWcHK/hIMmC898hV/0jQCpcigyCSA7USMURHM73Ew==;oaZAqG3eP7/ih5jRFAy+Pw=="

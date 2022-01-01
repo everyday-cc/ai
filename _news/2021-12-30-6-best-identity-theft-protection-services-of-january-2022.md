@@ -1,29 +1,29 @@
 ---
 category: news
 title: "6 Best Identity Theft Protection Services of January 2022"
-excerpt: "Identity theft protection services can provide the help you need if your data has been compromised. These services monitor your personal information, credit files and the web, alerting you to any suspicious or fraudulent activity."
-publishedDateTime: 2021-12-30T12:58:00Z
-originalUrl: "https://www.stltoday.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-january-2022/article_52011839-af8b-5ec3-8ebe-3c2dd0a747e1.html"
-webUrl: "https://www.stltoday.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-january-2022/article_52011839-af8b-5ec3-8ebe-3c2dd0a747e1.html"
+excerpt: "Identity Guard uses artificial intelligence to identify possible fraud earlier and send notifications faster. Their scanning platform is powered by IBM Watson, a supercomputer that can analyze and ..."
+publishedDateTime: 2021-12-30T14:33:00Z
+originalUrl: "https://omaha.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-january-2022/article_37cdd78e-d336-572d-bab7-0cd57884c584.html"
+webUrl: "https://omaha.com/business/investment/personal-finance/6-best-identity-theft-protection-services-of-january-2022/article_37cdd78e-d336-572d-bab7-0cd57884c584.html"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: St. Louis Post-Dispatch
-  domain: stltoday.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/3c/83c6ee6d-3614-55e6-9a79-59e6cbbb04a3/61cdc29b67191.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/f/29/f299a9fc-6398-546f-ba3f-308346cd0f2a/61cdc28e24cce.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "/Octs/oL3vadazYgedZuatQADxc8DyR4Iv9SRPpvVlw8m3PXIvvBAJuOSGAXXBlcq5VTUrvPJoLONnSKAozOu5Ywyec7zS6VpDxNDQGjjjOkbCYjA66nipUjLI1GAEuvPdZwbqW+c6QU4KT25NiAUF7lCkmA6AH/QOoILR+Q5ClMWEmKW3VnI5pMFYXV/tkr3MhB+CUnKD/Mj47CKsCc8g2JhQ7nlGzZRcJwQHL4kswLQZ6R54kh8VmZiPb8QezcQ+oS3PY+Sjwqnnoci9q6aExqXCY5tcCIme2G9g9ex6UWFPiMzk4/dEnJMs5BbDQ7MPKueURSk1hr1v6hQSu67Ig4JIRsoiM4mYXz53KoBuhZ/9wn/6Iz8KHcqJ9ihQ2QViUE1H+xoGOsQTwr8u+EkzL1UcMv23LbRJzcY4EHd7mh6Pnc4Sg8mxpxv2go24+Oyuy+Oe6Z5SbTU9JSgxhL91K4T/ACc5h9GU85b8lGo1hFpFfRW/JO+4YBEAzNy7UD7rAqkmwLfUkmiWIt0Iq0pQ==;+nozemgqV4+s4METGKDA2g=="
+secured: "JEAyYr6gDIeOBdtKmn+LEDDVq6p5Ws7lm5+Z8Ae6CcgaJNxPtjBDvx7m1VqXvUgI/RkFlQ++70jDwvsK5k/jpLEwWIA61c2RXMJEq/2zLSemtrh32HJRv75oS0X8bQmOnd3mKKRzCDjlSA7Wbp829Tnji6APIa94/VxViLnhGAxm7G5CGjMb1cDRVeq+yxsA6C2DtUF/at+Hl9P90FC6xEG8aU//n8bchml84Mfv/LJXhqAmjP85ATklqcoCCEPAi7/TJ2+NujA+Zr9Tdbj0u+QKXcbHQy4IxfLcvufkOfKrysXVfSJT1owDmKjQ1fMfCyVyx/00HQBrWVF45FKoRvBex2hrChlhfd5oAsMP0OI=;/GbZfExifkZ2AaVaimP/Jw=="
 ---
 
