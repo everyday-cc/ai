@@ -24,45 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Image Recognition Market Size Forecasted to Reach Valuation of USD 80.29 Billion in 2028"
-    excerpt: "According to a recent analysis, the global image recognition market size was valued at USD 25.67 Billion in 2020 and is forecast to exceed USD 80.29 Billion in terms of revenue, at a CAGR of 15.3% over 2021-2028."
-    publishedDateTime: 2021-12-31T11:15:00Z
-    webUrl: "https://techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/"
-    ampWebUrl: "https://techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/image-recognition-market-size-forecasted-to-reach-valuation-of-usd-80-29-billion-in-2028/amp/"
+  - title: "Consumer AI Market Regional Growth Drivers, Segments, Analysis, Opportunities and Trends 2022-2030"
+    excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
+    publishedDateTime: 2021-12-31T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2514897/consumer-ai-market-regional-growth-drivers-segments"
+    ampWebUrl: "https://www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 35
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/Image-Recognition.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.openpr.com/U/c/Uc31759564_g.jpg"
+        width: 800
+        height: 517
         isCached: true
-  - title: "Logistics Robots Market Size Expected to Reach USD 18.58 Billion at CAGR of 21.3%, By 2026"
-    excerpt: "USD 3.90 billion in 2018, Market Growth - CAGR of 21.3%, Market Trends – Growth of e-commerce and omnichannel retailing NEW YORK, NY, UNITED STATES, December 30, 2021 /EINPresswire.com / -- Increasing emphasis on end-to-end automation and issues pertaining to labor availability is estimated to stimulate market demand."
-    publishedDateTime: 2021-12-30T18:16:00Z
-    webUrl: "https://menafn.com/1103465327/Logistics-Robots-Market-Size-Expected-to-Reach-USD-1858-Billion-at-CAGR-of-213-By-2026"
+  - title: "Global System-on-Chips' R&D Portfolio Analysis and Growth Opportunities"
+    excerpt: "Reportlinker.com announces the release of the report \"Global System-on-Chips' R&D Portfolio Analysis and Growth Opportunities\" - https:"
+    publishedDateTime: 2021-12-29T09:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24809019/global-system-on-chips-r-d-portfolio-analysis-and-growth-opportunities"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24809019"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24809019"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/30/EP_0740dimage_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Global Artificial Intelligence (AI) in the Freight Transportation Scope"
-    publishedDateTime: 2021-12-29T06:45:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5228521-global-and-china-artificial-intelligence-ai-in-the-freight-transportation-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 8
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "ZF5HYL8gFS1sKUuGNjkV23UwSZFojwH+BpjdD6+n5xO5YtWdlnTaRbGO7FyOdIDp8V+sZpPcdyFd5VGb1uIrLaYCDkkkpWXkHSpyRIrDHejkbiDWHjsV646df0LFzLPQuZV4PFkSEiPv7KLylJ9a3IDcvl4ONwhKAZiYByMvdp0EGBtacOIhQjxn3UQntyFP8O4iQRFnNrukzSymZ/hXeBZTN54Oi/LIxfxXNag05A9JryLr2CiiX0XB/JhpZbrUuXU6Wo/EwooDjgmPzSsZ4lrEJ3la/MVIa1RYpFzRgBScwGe9Kiil2Tyw5oZ9I2st23XL+idqaGw0cDFVaiYek5/+KFmr07jem0Etrv6a0Vw5/tWzcIFqydIvdw35fS72BI5Yy8cIZP6hMcGLK7oEwy2KeghFSMtEKXfqGJc33AEKV2zDNhKgddw8WkTbeAnIkAHGZTr5mHrONUNMnPO/DSw94ezh0IcIg6zm1SN5xAJc78tzQDZpc9vmxTEniEFPAPElFgJYV15MPg6iPngsvg==;pvq2r5xq5yPEvk9CBjWY7g=="
 ---

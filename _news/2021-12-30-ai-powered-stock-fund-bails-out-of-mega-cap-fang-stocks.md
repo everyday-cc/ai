@@ -1,27 +1,30 @@
 ---
 category: news
 title: "AI-Powered Stock Fund Bails Out of Mega-Cap FANG+ Stocks"
-excerpt: "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship. The AI Powered Equity exchange-traded fund sold down its so-called FANG+ positions this month,"
-publishedDateTime: 2021-12-30T08:34:00Z
-originalUrl: "https://www.bloombergquint.com/markets/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks"
-webUrl: "https://www.bloombergquint.com/markets/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks"
+excerpt: "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship."
+publishedDateTime: 2021-12-30T00:12:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks"
+webUrl: "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks"
 type: article
-quality: 39
-heat: 39
-published: false
+quality: 67
+heat: 87
+published: true
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - IBM AI
   - AI
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2021-12%2F3b39100a-adc8-4d80-a16f-4a5e16179274%2F330304682.jpg?rect=0%2C273%2C3999%2C2099&w=1200&auto=format%2Ccompress&ogImage=true"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiJaIdn1hD8/v0/1200x800.jpg"
     width: 1200
-    height: 630
+    height: 800
     isCached: true
 
 related:
@@ -54,6 +57,6 @@ related:
         height: 349
         isCached: true
 
-secured: "s9JoJNcZkjYYIVMMxuCZ1tiK7bicztBBjkbZmQnfzZ4LiegQlzWgABKgTptI4q0zFwG+AGSPJuLXXrpgCua5KnKWTqYQAR1DPMBZVtVdv9XSWQvzHVdeyJxWns4kM5vdkWgZCmycl2g3cA9JJpZ+QTe9EMTy3WXt/zuG7DfsX8/JW1Q/yFsq7eTIbUfm1O2L7AV7rKjHhcN2KTHZX0ttuDJ6Ykw3+CSSD9qNbcwqn6nDtwVwTzKZ0pPzz2r77iFNnszmTFr3eG+k6vssCDrjnjJZc/dz/hcxS+Px7yuvUWX0dLzz1hOtjVx97Z1gWg8L9vthZecaj5boWpz1FN8mQT2aWAbgExbipzU80lmjwJo=;rzqJtXhtessCxK6CPVa7WA=="
+secured: "z54OxOVIV+LOARTNX0WdqxBjpmXyxbld8chIFij9dECy6CqJMdydEEKT8I7dsFgWoZSUHo1IXPlejiGTsBuJIUa7yUIi0SyUEWmFaJR+4XRXg23xJV/USjxCmFpkVOAC7cvyQEq9iO5T4xJQKK33A03/TdCvsYt3obX2ZBTsmelqthPSsY3V+Gg6Hlo+YjPYr50BwC9TEPYzbP8DE8ZnpqiH5g36iVGnCvFdYuf6v+jMPCormwfcmMnvig9OMukFXGGj4jRACRGNjKTRuH1clFwEHrCXDSS0VlfH9vpHOmF+OA7ipFXCu2IvJj8ObcoYwb5trC+zaCbVxl7aJrpf8SRS6RJ8d6bCkprTEj2FOYk=;xjc7zjjn1TlocKyhAq8b6A=="
 ---
 

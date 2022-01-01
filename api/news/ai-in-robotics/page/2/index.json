@@ -269,6 +269,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-18-double-amputee-controls-two-robotic-arms-with-his-mind.md",
+      "title": "Double amputee controls two robotic arms with his mind",
+      "excerpt": "Here's one other DARPA-funded robotic limb controlled by thoughts alone-- actually make that two, because Colorado man Les Baugh had two bionic arms attached from shoulder level. Baugh got them ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2014-12-18-double-amputee-mind-controlled-robot-arms.html",
+      "originalUrl": "https://www.engadget.com/2014-12-18-double-amputee-mind-controlled-robot-arms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/egVu9ARUmGB6z9JBX4Lahg--~B/aD00MTc7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/461b9ca05c279bece7310edda93dc0de/201267574/johns-hopkins-double-amputee.jpg",
+          "width": 630,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-killer-robots-arent-science-fiction-a-push-to-ban-them-is-growing.md",
       "title": "Killer Robots Aren’t Science Fiction. A Push to Ban Them Is Growing.",
       "excerpt": "A U.N. conference made little headway this week on limiting development and use of killer robots, prompting stepped-up calls to outlaw such weapons with a new treaty.",
@@ -1302,58 +1354,6 @@
         "AI in Autos",
         "Facebook AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-who-killed-the-robot-dog.md",
-      "title": "Who Killed the Robot Dog?",
-      "excerpt": "The robotic companion was once a dream of techno-utopianism, but has instead become a terrifying weapon. What happened?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
-      "originalUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b7e77093c301c027def249/master/pass/Who-Killed-the-Robot-Dog-.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
-      "publishedDateTime": "2021-12-14T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

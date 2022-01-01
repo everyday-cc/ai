@@ -90,6 +90,20 @@ related:
         width: 2000
         height: 1041
         isCached: true
+  - title: "SenseTime’s red-hot start makes Tang one of world’s richest"
+    excerpt: "SenseTime Group Inc co-founder Tang Xiao’ou has become one of the world’s richest people, after the Chinese artificial intelligence (AI) champion blew past concerns about American sanctions to surge as much as 23% on its Hong Kong debut."
+    publishedDateTime: 2022-01-01T01:29:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/01/01/sensetimes-red-hot-start-makes-tang-one-of-worlds-richest"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 22
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/01/1427541.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "b99uOsopW3nEX4UShQrWNUCFeqAORHO4DNs6QWAEf8QVmNeEdUJsFWfbMP2NTmFbxxxdJdYwdyFrXU7k45r2D2THza/tlPyUWDvyxLk56z6BhfpZhOVqaQYYT5pY7PtQUyFjZOs+MChVKZyRsHSM4mGyQRJFUH19gxngioeWhzFbUE33uf2ffmlHVKAXEdkZ1h8q+esg+qlApdUshhpyAOmq78SdRiL6xhteOoOUuIK0jAYqSKhHt2wx4yEHDrBQDiTsyTFwT3pTwBGVpuSatJJd1LBpY568jPnjTvglv6l8sNw4kErF3v0PFAUsh7lJlsk37UOI/4/cTcLR05dX3DtSq/dLTO0XSIusocmKSzbURv2jRtqBWb/qCCoFeNstTqkfI/qHDABR5+bQ7Ml2Vj/ktKVj2aS9dzRpkM8vcNgy+aECnKA+qm9ba48yi2+7H43uWXraZ1jKQV72/65DEFH7XTKWORjWClXh75wO+dvRf3421g4VQrllAgeWUspIT75rriZx7SAGw01I0p/mjA==;wFrmtQPDkZ+E5FC/lxCh0w=="
 ---

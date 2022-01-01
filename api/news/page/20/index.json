@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-10-deepminds-latest-ai-shines-light-on-dark-room-of-molecules.md",
+      "title": "DeepMind’s latest AI shines light on dark room of molecules",
+      "excerpt": "DeepMind has created the best chess player, one of the most accurate weather forecasting systems and a poker player that could give the card sharks of Las Vegas a run for their money. In its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3",
+      "originalUrl": "https://www.thetimes.co.uk/article/deepminds-latest-ai-shines-light-on-dark-room-of-molecules-thww79qk3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F004fe298-591b-11ec-81f2-17f963b74220.jpg?crop=3680%2C2070%2C92%2C107&resize=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-artificial-intelligence-ai-system-combatting-healthcare-associated-infections-hai.md",
       "title": "Artificial Intelligence (AI) System Combatting Healthcare Associated Infections (HAI)",
       "excerpt": "We often hear of patients being admitted into the hospital for an illness and coming out with a different infection which they acquired while in the hospital. This is known as a healthcare-associated infection (HAI).",
@@ -1108,40 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-group-backed-by-top-companies-moves-to-combat-ai-bias-in-hiring.md",
-      "title": "Group backed by top companies moves to combat AI bias in hiring",
-      "excerpt": "Some of the largest corporations in America are joining an effort to prevent artificial intelligence technology from delivering biased results that could perpetuate or even worsen past discrimination.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/bizjournals/news/2021/12/09/artificial-intelligence-bias-combat.html",
-      "originalUrl": "https://www.bizjournals.com/bizjournals/news/2021/12/09/artificial-intelligence-bias-combat.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T15:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-1
 cdnAmpWebUrl: "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html"
 type: article
 quality: 172
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/sensetime.png"
         width: 2000
         height: 1041
+        isCached: true
+  - title: "SenseTime’s red-hot start makes Tang one of world’s richest"
+    excerpt: "SenseTime Group Inc co-founder Tang Xiao’ou has become one of the world’s richest people, after the Chinese artificial intelligence (AI) champion blew past concerns about American sanctions to surge as much as 23% on its Hong Kong debut."
+    publishedDateTime: 2022-01-01T01:29:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/01/01/sensetimes-red-hot-start-makes-tang-one-of-worlds-richest"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 22
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/01/1427541.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "zl+gYbEn1KI4e9f8raYhW6wc0l+PNl+QfpV24ysY1+jC5yc8sQJSm90eRo3EsfBffaW2Twh7EVuwAIh1pdHJxkr0yHJs9KOstne6+KAXbbeywHL9xK/02zhEYGW6/JTsijiOOE7j/sJ9D2wBf4zyzb6JEt1lBtM2iiXlc8DRlNWW7ft6twG5TtBNfz7ynC1YXiFD7vpJxAzbm/Yi3PDCtmPZuRlzO3Ylzs7ZFl3MX1mGZIPQJpq1V2Bvc/thhQ9FoZ1FzHpUVDwQbBPmC8pvmu7widIgBE+V7XjwkjspnuSRlmq1aYX13IB+vi+oIam8BaihDRMtPkI2oZuTUCneLUkF9bS4t7Imi2KJe7+Mtr8=;3OQDvKmqaE532fv61X0UlA=="

@@ -1,28 +1,26 @@
 ---
 category: news
-title: "Chinese professor's wealth jumps to $4 billion with his AI startup's listing"
-excerpt: "Chinese professor Tang Xiao'ou has become one of the world's richest people after his artificial intelligence (AI) firm SenseTime's shares surged up to 23% on its Hong Kong debut. His fortune surged to nearly $4 billion after the stock ended the morning session 11% above its IPO price."
-publishedDateTime: 2021-12-30T07:23:00Z
-originalUrl: "https://inshorts.com/en/news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
-webUrl: "https://inshorts.com/en/news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
-ampWebUrl: "https://inshorts.com/m/en/amp_news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
-cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+title: "SenseTime’s red-hot start makes Tang one of world’s richest"
+excerpt: "SenseTime Group Inc co-founder Tang Xiao’ou has become one of the world’s richest people, after the Chinese artificial intelligence (AI) champion blew past concerns about American sanctions to surge as much as 23% on its Hong Kong debut."
+publishedDateTime: 2022-01-01T01:29:00Z
+originalUrl: "https://www.thestar.com.my/business/business-news/2022/01/01/sensetimes-red-hot-start-makes-tang-one-of-worlds-richest"
+webUrl: "https://www.thestar.com.my/business/business-news/2022/01/01/sensetimes-red-hot-start-makes-tang-one-of-worlds-richest"
 type: article
-quality: 54
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Inshorts
-  domain: inshorts.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI
 
 images:
-  - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/30_thu/img_1640848050962_528.jpg?"
-    width: 1080
-    height: 1748
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/01/01/1427541.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -58,6 +56,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Chinese professor's wealth jumps to $4 billion with his AI startup's listing"
+    excerpt: "Chinese professor Tang Xiao'ou has become one of the world's richest people after his artificial intelligence (AI) firm SenseTime's shares surged up to 23% on its Hong Kong debut. His fortune surged to nearly $4 billion after the stock ended the morning session 11% above its IPO price."
+    publishedDateTime: 2021-12-30T07:23:00Z
+    webUrl: "https://inshorts.com/en/news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/chinese-professors-wealth-jumps-to-$4-billion-with-his-ai-startups-listing-1640849039435"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 54
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/30_thu/img_1640848050962_528.jpg?"
+        width: 1080
+        height: 1748
+        isCached: true
   - title: "Chinese AI Giant SenseTime’s Shares Pop on Delayed Hong Kong Debut"
     excerpt: "Shares in SenseTime Group surged as much as 23 percent today after the Chinese artificial intelligence giant finally went public on the Hong Kong Stock Exchange after the initial date was pushed back two weeks after the company was added to a US government blacklist."
     publishedDateTime: 2021-12-30T09:48:00Z
@@ -86,21 +100,7 @@ related:
         width: 2000
         height: 1041
         isCached: true
-  - title: "SenseTime’s red-hot start makes Tang one of world’s richest"
-    excerpt: "SenseTime Group Inc co-founder Tang Xiao’ou has become one of the world’s richest people, after the Chinese artificial intelligence (AI) champion blew past concerns about American sanctions to surge as much as 23% on its Hong Kong debut."
-    publishedDateTime: 2022-01-01T01:29:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2022/01/01/sensetimes-red-hot-start-makes-tang-one-of-worlds-richest"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 22
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/01/1427541.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
-secured: "1uAPTnLeR6W5z137Ey7ivZd1aY6PbofY0wS12MCOLFGipMDtd21xqHTrKWdHRIjpf5y7Lnmzl5z6/sjAkwJ3qlazODCz6oPcyJ7gX7eHVXioT+DWNsxYjEBEg5acTs6UQsTSzOdkopMe2CiiQaBx6tSEpixHR2NpegJnVlCpKrWp28+5KMqZBcxmvU9KcjnBiFKiyn8A3hIhXumzJh01cfW6G8CjqJwf5/BBsiVHy9YC8MxM+pBQLykCPXqT3tLU698swKnJIuUlJe3Lv1Yk+6korPClvUgZXRgtBveDM9NK04ER/rFfZstcuttSX0RcHbumlZhSmgWuBIXsINbnYSCZkZTlKyLzvftZ8EEGu3Uf7zheUahpjP73Ged7Z3prAZmZOJNw+f8OdzbfHkLCxjJy6000KXuXrJaPD78pjT/r+cwDcoSwLEWTqnQMuMHvMnanP6e3cKOwi0Paq57R+51fFef8ZlfHHMYz0qSGx2p5bDu93ZBRENosGnhfSEGpQ5Xa5BBJBO+tqyXBm2h1rQ==;ovLkHAjCGKi4EC2iH8QzVw=="
+secured: "Bob05NUoptP7mtmQbuk8wXFBeHC9W4MMvjWuP0DjvEigtgWLc17fgvRxPxshRagCr+N7na1eUuY2k508nZFh5H0wOIMYP2CkTknJtndkqoBpKkQqp0h6GQQ5eS9R5vwb4mITuj2xSTMOIw/bH50XE5NOwgXDmPbij/rqAE8/C9OguYBOYapojCQePPO/WLgzZRH8CUlzPSqWJgI7p1R9VeEWFqJfH0+bG8FJYxVDT5BSu3S4TS2M7YuwKU53CROjaX22C3rBApiCaZCaa62h8jfTdl75VCRCRLpq7IqSKsRrFH/8Jwx+KgIopMBOaZ0Ji9qwfHx1C2BsjelbHQ4OkZft7VkNLS5g2nnGCRlISKw=;r6z8OmBtfPFXz97jHOKGRQ=="
 ---
 

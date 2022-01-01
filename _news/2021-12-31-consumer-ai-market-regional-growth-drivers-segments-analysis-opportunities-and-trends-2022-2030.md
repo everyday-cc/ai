@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2514897/consumer-ai-market-regional-growt
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,33 +27,30 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Education Market Analysis, Size, Share"
-    excerpt: "The global artificial intelligence in education market is expected to surpass US$ 4,340 million by 2027, growing at a CAGR of 31%. The primary market participants in the global artificial intelligence in education market include Amazon Web Services,"
-    publishedDateTime: 2021-12-27T10:03:00Z
-    webUrl: "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm"
+  - title: "Global System-on-Chips' R&D Portfolio Analysis and Growth Opportunities"
+    excerpt: "Reportlinker.com announces the release of the report \"Global System-on-Chips' R&D Portfolio Analysis and Growth Opportunities\" - https:"
+    publishedDateTime: 2021-12-29T09:43:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24809019/global-system-on-chips-r-d-portfolio-analysis-and-growth-opportunities"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24809019"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24809019"
     type: article
     provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 54
-    images:
-      - url: "http://www.pr-inside.com/images/uploads/pr/2021/109014/20211227_ami_109014.jpg"
-        width: 500
-        height: 333
-        isCached: true
-  - title: "Deep Learning Chip Market Top Market Participants , Research Report Including SWOT Analysis, Drivers, Restraints, industry analysis By 2028"
-    excerpt: "The global deep learning chip market is expected to reach a market size of USD 27.75 Billion by 2028 and register a high revenue CAGR, according to latest"
-    publishedDateTime: 2021-12-27T10:45:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chip-market-top-market-participants-research-report-including-swot-analysis-drivers-restraints-industry-analysis-by-2028"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "United States Artificial Intelligence (AI) In Drug Discovery Market Research Report 2021: Prospects, Trends Analysis, Market Size and Forecasts to 202"
+    excerpt: "The \"United States Artificial Intelligence (AI) In Drug Discovery Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2021-12-29T09:31:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=593415"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
     images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2021/08/4588be676eea01850b90591e58ee556b824d1307-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "qjUdX0igDVTjKVfntvVFpSMqN9OJERXIpuIe/T7AKVkNdHTq1htqm35HPzYbut9/rL8rAZ5GhjUcBq4MMe8bJ/0gGucBU3vRs6OMcXkKmJSuOO8Tx/m1Zn1eLrsLgtCQ6bogu5Cka+2YMxzJiBHv6jDsnthF8imfiBNfpWGoGflp1XDfzFTzycxWxwtZ5bM9kZ39mgi0Ws9cHyAUDXvMpu6pQCBUh708KgBS9f6q4fKc0LUYw8sJIA0z8FmWOaruXaglRWhELJmXEPt7ypK/slntpLwh5j1zyifqvZK422aeWy5+EP9ozFquu1AJcdN27/eKuBk79cKxW2d7QANcRMWnrmTgJp4FBc5wAT8WPndQjV+/fqTHbHVh/YRfJD1+u7OPBObQB6THWVRZ1ud9noAvBjmPxcGj0r4bD/8Ezy+fPYOFIqUAxAGbZE4KwODPJIU93F5Ygs4aBrlMV1Y/qxLr5s0WRFRzs9ydmp9XHYvrhwGwtUd06yQ84TzbSqvyQq++pOAsipHQLmStHEekiw==;zI3LYDyGqJepZdhZRWuztA=="

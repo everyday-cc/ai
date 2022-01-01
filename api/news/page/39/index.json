@@ -2,6 +2,57 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-11-30-using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2.md",
+      "title": "Using AI To Scrub Image Noise (And Save Money And Time) In The Addams Family 2",
+      "excerpt": "Removing visual noise from visual effects is a big challenge for post-production companies, but a new Intel de-noiser using artificial intelligence saved Cinesite an estimated 20 percent in creating the recently released 'The Addams Family 2' movie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/",
+      "originalUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a5675509704b2b0f06c332%2F0x0.jpg",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/dbloom/2021/11/29/using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2/amp/",
+      "publishedDateTime": "2021-11-29T15:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-clearview-ai-a-facial-recognition-company-is-fined-for-breach-of-britains-privacy-laws.md",
       "title": "Clearview AI, a facial recognition company, is fined for breach of Britain’s privacy laws.",
       "excerpt": "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software.",
@@ -1140,49 +1191,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-shark-cyber-monday-deal-save-200-off-ai-robot-vacuum-with-xl-hepa-self-empty-base.md",
-      "title": "Shark Cyber Monday Deal: Save $200 Off AI Robot Vacuum with XL HEPA Self-Empty Base",
-      "excerpt": "Several Shark robot vacuum cleaners empty themselves. Here’s everything you need to know if you’re trying to figure out which vacuum cleaner is right for you. We’ll start with the AI robot ...",
-      "sourceUrl": null,
-      "webUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-cyber-monday-deal/",
-      "originalUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-cyber-monday-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heavy.com/wp-content/uploads/2021/11/Shark-AV2501AE-AI-Robot-Vacuum-with-XL-HEPA-Self-Empty-Base.jpg?quality=65&strip=all",
-          "width": 780,
-          "height": 439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heavy.com/deals/shark-ai-robot-vacuum-cyber-monday-deal/amp/",
-      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/deals/shark-ai-robot-vacuum-cyber-monday-deal/amp/",
-      "publishedDateTime": "2021-11-29T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heavy.com",
-        "domain": "heavy.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Why AI-Driven Analytics Is Essential For Data-Driven Decision-Making"
-    excerpt: "AI-driven analytics can help companies make better decisions for their new business models and contribute to three pillars of business success: increasing revenue, controlling costs and ensuring high-quality user experiences."
-    publishedDateTime: 2021-12-27T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/why-ai-driven-analytics-is-essential-for-data-driven-decision-making/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/why-ai-driven-analytics-is-essential-for-data-driven-decision-making/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/27/why-ai-driven-analytics-is-essential-for-data-driven-decision-making/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b74df70fe6d9d008ff75e6%2F0x0.jpg"
-        width: 1200
-        height: 761
-        isCached: true
 
 secured: "+LabP1Uyfhr+mxa/Nn0So9mBIj/7X8dohV5FIyDSZkm+3bwJVdvoYptocHGoWamFRr4SntFoVq7fWVrxLFTEKpzhIFEryJPittc5iiYSssYDv3W4lsZYE5Y0kzQiKUpo/Iokbl1M74BSnZji50O4kKMT12Udkv5JKofdeJLhWpwzZL1WqhXRathubSp2oghNW5R/xyvKJBzK56f2+XksCPKpkNRWDkN5m9wmlJi8VBGODRlOGi5PScdwDgeeTYb5xwGpGi7APbwiU69C/Q66jtAfUh0BRz4PCMkkNe1hjKOGu/25GByYHEkVV3Emmjvm6KibwT6lqQpaFdV7KFJvgUdS9EBbTcQCZdlQwgEX1/0=;PdFMkWvuKjjTSR+VxM4C9Q=="
 ---

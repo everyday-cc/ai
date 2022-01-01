@@ -23,6 +23,17 @@ images:
     height: 1080
     isCached: true
 
+related:
+  - title: "The Advent of Artificial Intelligence in US Retirement Services"
+    excerpt: "Artificial Intelligence (AI) has found its way to numerous applications in our daily lives. From customized social media feeds to personalized online shopping – it’s everywhere. The latest technological advancements in AI have made it possible to provide better user experiences leading to higher customer satisfaction."
+    publishedDateTime: 2022-01-01T02:02:00Z
+    webUrl: "https://www.tcs.com/bancs/insurance/blog-artificial-intelligence-in-us-retirement-services"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 17
+
 secured: "uvDP5iUEaAQf9/7+ElBDJMcB5ZH0seIpJPczdX4E/QeGgKooC/FZgLcAEA6k2TCZNVhFyOnhXUHvrKQFmGT/s12DWRMfXhItF1IBY3ES/8xyPgCp9GSlvXF/M26khfw3xKdVSo1cwDXJWXo4P1hQGO816dxV4praDk9JRKIb7k9fD6JALk9dxcc5xVYvCj4s+aCTzAkgqXDd/N94qVzrNuDplbiUEcDWg/qX4+fMQMfKCnZ6wMbou5p7WWFxtn9kESFCF8i4gqsyx6j1gIHE3Sshn45snl8lw8RL8hGcRLGqP79t7YbOHnUIfuaHfzY62x9W9MOxd7JU+IkuILnHQfimqWYHghJ4JiC1DDI2/1U=;nfQviI79QR5mcvjAhYs9Bw=="
 ---
 

@@ -2,6 +2,57 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-04-how-to-turn-ai-failure-into-ai-success.md",
+      "title": "How to turn AI failure into AI success",
+      "excerpt": "Enterprises are racing into AI-driven analytics and processes, but there will be a steep learning curve before certain advances are made.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/data-e1619691430527.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/how-to-turn-ai-failure-into-ai-success/amp/",
+      "publishedDateTime": "2021-12-03T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-15-essential-alexa-skills-that-amazons-ai-assistant-can-learn-to-help-make-your-life-easier.md",
       "title": "15 essential Alexa skills that Amazon's AI assistant can learn to help make your life easier",
       "excerpt": "Amazon Alexa skills allow you to customize the artificially intelligent assistant to suit all sorts of needs.",
@@ -1135,58 +1186,6 @@
         "Google AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-real-world-computer-vision-applications-communications-experts-should-understand.md",
-      "title": "Real-World Computer Vision Applications Communications Experts Should Understand",
-      "excerpt": "As this technology gets better and better, I think we’re going to find more ways to use it to make our lives safer and better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D617%26cropY2%3D3768",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
-      "publishedDateTime": "2021-12-03T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -41,22 +41,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "How Fintech Companies Can Go The Extra Mile With Cybersecurity"
-    excerpt: "Hacking attacks and data theft are more rampant than ever. So cybersecurity is a crucial concern for modern businesses. While threats prevail in all domains, fintech companies need to be extra conscious."
-    publishedDateTime: 2021-12-27T10:53:00Z
-    webUrl: "https://techbullion.com/how-fintech-companies-can-go-the-extra-mile-with-cybersecurity/"
-    ampWebUrl: "https://techbullion.com/how-fintech-companies-can-go-the-extra-mile-with-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-fintech-companies-can-go-the-extra-mile-with-cybersecurity/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 44
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2021/12/Fintech-Companies-cybersecurity.jpg"
-        width: 700
-        height: 400
-        isCached: true
 
 secured: "cXqhIeERURYGgWTlQ5EztxZPqGPZCKb+DGFotEGj99IKFtw+ABv5HYRLHeA4lOEizwCls/XTSRyJxc9/dwJbamCSDRiier6Y+ISjE4X0FRvmAUjujbsEiUqGmJnanW91o0G7LGmsskKp4Nrb3qiJJw8yarAomcYkD18mikknRhf08/jLPHi1dFiMzPJmZftKx1r6xF0PpGtAONP5LbNnlwPUHkYMYKriHYJ/YQbWdEAkwqiXWvBsynIY9IAOc1PK/03duUGeNIBseh2KCKBel3Xg2p3OnakGXSM5Ifa2VDGnND9t3dntWKrPTw4L7BSYwDJ80GfMlkaPqBz52Bbg6JOAko34sNobm09JJtzUv2g4c7mNG2MarXfAzv0QsHDaR21UQFJe6XQsSiDJM+11Cz8yqLqWzLgJv7gMCRd2GORdXrRw76KZq7sCQMMsgiECWfle8Mut4rJSYeH+S4pKSHyqRx2KmEtH4io7uz/VGMu2UAsxvLy5mZEDezyf89IB/MvkvmVmwhQHHRh31nIqhg==;On1g8dvFIDaxsFL9H01NLQ=="
 ---

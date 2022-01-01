@@ -59,22 +59,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Year-ender quotes for Startup, Ed-tech, Fintech and Tech Sector"
-    excerpt: "Many of the trends that are showing green shoots today will bloom in the months to come. Having said that, I reckon cash will still be the king in the Fintech world, with banking services becoming more accessible for the last mile of the society,"
-    publishedDateTime: 2021-12-27T10:44:00Z
-    webUrl: "https://www.indiainfoline.com/article/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
-    ampWebUrl: "https://www.indiainfoline.com/article-amp/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
-    cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-sector-others/year-ender-quotes-for-startup-ed-tech-fintech-and-tech-sector-121122700049_1.html"
-    type: article
-    provider:
-      name: India Infoline
-      domain: indiainfoline.com
-    quality: 44
-    images:
-      - url: "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg"
-        width: 350
-        height: 233
-        isCached: true
   - title: "Top five trends likely in fintech sector in 2022"
     excerpt: "By the first half of 2021, the fintech sensation had gripped the entire world. Since then, this movement has only picked up pace and is set to gallop further as we journey onward to 2022. This phenomenal momentum has really been a product of many things."
     publishedDateTime: 2021-12-31T04:12:00Z
@@ -106,20 +90,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 672
-        isCached: true
-  - title: "How to Create a Reliable and Secure FinTech App?"
-    excerpt: "FinTech is one of the rapidly growing sectors across the globe. As reported by Research and Markets, the global FinTech market"
-    publishedDateTime: 2021-12-27T10:22:00Z
-    webUrl: "https://techacute.com/how-to-create-a-reliable-and-secure-fintech-app/"
-    type: article
-    provider:
-      name: techacute.com
-      domain: techacute.com
-    quality: 24
-    images:
-      - url: "https://techacute.com/wp-content/uploads/2021/12/How-to-Create-a-Reliable-and-Secure-FinTech-App.jpg"
-        width: 1400
-        height: 788
         isCached: true
   - title: "FinTech trends that will change the BFSI industry in 2022"
     excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
