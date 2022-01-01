@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pony.ai, Sinotrans to Form China Smart Logistics JV for Self-Driving Trucks"
-    excerpt: "Chinese autonomous driving startup Pony.ai and logistics group Sinotrans will set up a joint venture to build a smart logistics transport platform with self-driving technology as its heart and explore ways to use autonomous trucks on a mass scale."
-    publishedDateTime: 2021-12-27T11:09:00Z
-    webUrl: "https://www.yicaiglobal.com/news/ponyai-sinotrans-to-form-china-smart-logistics-jv-for-self-driving-trucks"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 37
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/ponyai-sinotrans-to-form-china-smart-logistics-jv-for-self-driving-trucks/18537605957681152.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "BYD, Momenta form JV for autonomous driving"
     excerpt: "China's BYD has partnered up with autonomous driving startup Momenta to establish a joint venture DiPi Intelligent Mobility in the city of Shenzhen to deepen its deployments in intelligent driving."
     publishedDateTime: 2021-12-29T07:55:00Z

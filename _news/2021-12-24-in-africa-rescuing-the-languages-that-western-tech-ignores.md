@@ -1,28 +1,28 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ..."
-publishedDateTime: 2021-12-23T21:56:00Z
-originalUrl: "https://www.spokesman.com/stories/2021/dec/23/in-africa-rescuing-the-languages-that-western-tech/"
-webUrl: "https://www.spokesman.com/stories/2021/dec/23/in-africa-rescuing-the-languages-that-western-tech/"
-ampWebUrl: "https://www.spokesman.com/stories/2021/dec/23/in-africa-rescuing-the-languages-that-western-tech/?amp-content=amp"
-cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2021/dec/23/in-africa-rescuing-the-languages-that-western-tech/?amp-content=amp"
+excerpt: "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ..."
+publishedDateTime: 2021-12-24T05:39:00Z
+originalUrl: "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/"
+webUrl: "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/9013584002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9013584002"
 type: article
 
 provider:
-  name: The Spokesman-Review
-  domain: spokesman.com
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://thumb.spokesman.com/rJKzKCrT32RZVcaGiw2Onlrx0aY=/480x0/media.spokesman.com/photos/2021/12/23/61c4cc1bb654a.hires.jpg"
-    width: 480
-    height: 320
+  - url: "https://www.gannett-cdn.com/presto/2021/12/24/PDTN/c7fad02d-adbe-4204-bd09-9f438ace1084-AP21356747118534.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
-secured: "YGzt+WAkeRbzeUPe+rLQiEVrvZhG2W7seXHNhOJ+VdmYyGtiG4O6R8N1yRIOBmkGrjPUiiK6cqQ6ou60q4beVnMxL9A8vYzVOlajL+baexK/vI3brpudQDSucxRZUqE6gZ+lQx9s5I+bjsT8Oo4/SMrk5Rl1WhGLdBRVsNUd3X+Avhu0fAKukbhVofpUQZLKC3urcHvh87iN7tnqvYyhKmD1uDBoOK8J3qmtNjeA/GSXZJyCOIYqwRH0vstxRlqTecNgDueMiiQ2SIH9fCSTeT9ZsosQKNhK0ikqSJNd3GbbxXsmRKl2A5KXjA8ZSFWLJ3iTp4X2sLDZ9sqor3+sEx5bgCxyKtNrlqSuGYm7eus=;vN11ZMn7NiGCxSxfKUX6AQ=="
+secured: "JrSA4p5c+H+HZza6oz/GVDE8HNz0fBL/X0oAUkA6BxfL6bPLZXsLuQH/hb+x115k50m1uAXB1u6fcGoFv0Dij6Bmf5fin3eN1wS25hct1MLfMQxP9v/kjrBbsB+6Vkuc2FvNRpv+9OFQYvHlogi0UXB496zlQ3TtVXuIJetcKtdYB05ZVbcZ9NURGUVIYI47wEO/6Ehkaalkn/0pwVPRYQFdWPvuuWIZPnL8/hIIIO0SKdQt3RtpfAjBG+wq+6wBt35xwO7fP+DDCQ0MelxlPJ94F2oGhoc+FSW8vdxDMRS90vp8Tyx+kpjK2KVoTGdLXaugLnsOdAi0rw3TDE56m3pNn21eFySbcAAJjlsE2Pw=;Nn0P3EXgLeitItDHv0n3kg=="
 ---
 

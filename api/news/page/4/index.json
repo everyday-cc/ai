@@ -1083,6 +1083,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-24-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
+      "title": "In Africa, rescuing the languages that Western tech ignores",
+      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/24/PDTN/c7fad02d-adbe-4204-bd09-9f438ace1084-AP21356747118534.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/9013584002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9013584002",
+      "publishedDateTime": "2021-12-23T21:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-accenture-partners-with-bbva-on-artificial-intelligence.md",
       "title": "Accenture Partners With BBVA on Artificial Intelligence",
       "excerpt": "With this partnership, Accenture will collaborate with BBVA to develop the latter’s agility of operations, by harnessing the power of analytics and artificial intelligence. This will be carried out with Accenture’s AI-powered SynOps platform,",
@@ -1112,49 +1155,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-use-of-robots-ai-in-defence-applications-rising-official.md",
-      "title": "Use of robots, AI in defence applications rising: official",
-      "excerpt": "Delivering a lecture at Velammal College of Engineering and Technology, as part of ‘Azadi Ka Amrit Mahotsav’ initiative, on role of DRDO in self-reliance and defence technologies, he said that application of Aritificial Intelligence (AI) and Machine Learning and use of robots was increasing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece",
-      "originalUrl": "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/news/cities/Madurai/4ludsb/article38025506.ece/ALTERNATES/LANDSCAPE_615/24MACity-DRDO",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Madurai/use-of-robots-ai-in-defence-applications-rising-official/article38025507.ece/amp/",
-      "publishedDateTime": "2021-12-23T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

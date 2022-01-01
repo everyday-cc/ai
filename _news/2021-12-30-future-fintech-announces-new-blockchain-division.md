@@ -39,6 +39,20 @@ related:
         width: 2570
         height: 1446
         isCached: true
+  - title: "Square Enix President’s New Year Message Discusses NFTs, Blockchain Games, Cloud, & AI"
+    excerpt: "Square Enix President Yosuke Matsuda published a New Year message on Square Enix’s official website. The letter includes a rather extensive discussion about blockchain games and NFT (Non-Fungible Tokens)."
+    publishedDateTime: 2022-01-01T04:20:00Z
+    webUrl: "https://twinfinite.net/2021/12/square-enix-nft-blockchain-games-cloud-ai/"
+    type: article
+    provider:
+      name: Twinfinite
+      domain: twinfinite.net
+    quality: 29
+    images:
+      - url: "https://twinfinite.net/wp-content/uploads/2021/05/Square-Enix-Logo.jpg"
+        width: 902
+        height: 507
+        isCached: true
 
 secured: "/Q7G8WBp77oLjK/mC5nCh7/suJu76qMhnAeY6BcE/vQOSuWFnFOfGDtIv5rmbLg+NojlbtQyFcPH6v8wSxuA5+CvSGUps73Xb6g5fKitfTNmoWXoiQdbpRnbgSwWp8do+K9ca58eUi4bhW5jw95ALZUFv7FMAnYba49120FLDbkBt3m4r5pM6j86EGKXJnSMQTJ4XnDIySN4ESgXoUtZvk/E8He1w6KTG+3IpUuIOI0YlccU31Ws0nUjCTWcjYfF0KDBGw2raniDKMB+tCSza2q1HLVur7K3/1Pw4kt6L+Uli9xg+PDQ3e2cwKPOWrHZbxKvu+GkIcqPu4IZH+xeGxx/RUKPMyGTC3+EhbykrPI=;vRb7P5cEb7N2DCmyKDUSlw=="
 ---

@@ -74,22 +74,6 @@ related:
         width: 744
         height: 419
         isCached: true
-  - title: "China develops AI 'prosecutor' that can press charges with ‘97% accuracy’"
-    excerpt: "The artificial intelligence 'prosecutor' received training for five years – from 2015 to 2020 – during which it went through 17,000 cases. The Chinese researchers claimed that it was able to identify and press charges for common crimes."
-    publishedDateTime: 2021-12-27T12:33:00Z
-    webUrl: "https://www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536.html"
-    ampWebUrl: "https://www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/science/china-develops-ai-prosecutor-that-can-press-charges-with-97-accuracy-101640608118536-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/img/2021/12/27/1600x900/china_artificial_intelligence_posecutor_1640608287032_1640608287151.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "China Has Developed An AI ‘Prosecutor’ That Can Charge People With Crimes"
     excerpt: "Advertisement Chinese researchers have developed a ‘prosecutor’ that can charge people with crimes using artificial intelligence. The technology can detect ‘dissent’ and other offenses such as fraud,"
     publishedDateTime: 2021-12-28T18:16:00Z
