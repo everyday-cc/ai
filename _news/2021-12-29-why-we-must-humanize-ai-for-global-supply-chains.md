@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/tech-science/why-we-must-humanize-a
 webUrl: "https://www.digitaljournal.com/tech-science/why-we-must-humanize-ai-for-global-supply-chains/article"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: National Review
       domain: nationalreview.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.nationalreview.com/wp-content/uploads/2022/01/ameca-engineered-arts-youtube.jpg?fit=1200%2C700"
         width: 1200

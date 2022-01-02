@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
+    excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively onl"
+    publishedDateTime: 2022-01-02T13:40:00Z
+    webUrl: "https://menafn.com/1103475461/AI-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 47
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/02/TC_35569image_story.jpg"
+        width: 1436
+        height: 957
+        isCached: true
 
 secured: "xlzC6EjK2r6HXkpBNUzbtP/v99NPonPj06B8LmlSYj/YxNsZB/CkC+JDGi+15SZtUyrSEdByVttvCy44hIIlF9uQO9bPlSo9K7bWjD4PNUhW+BBgdvEeEWTf0pT1FvET3OEVD54vbncbmBo+MhQxRQdBqcsh0IBHxIWqyGahu50VBkdG9IpEJOYrx29evWdsyNihlvbmf8T9o6x7HhlrgurEB4jgjKZUeX4bMS9xJVZAB6SdA9zr3ytiM81hD+F3Sa8023yWYav88v7MBC7VtO1Y8TnYa2oqwrCgcjsORUGg+MIEg2OqZhR/Z5O489PVWEiuV+HefypL1+573XDVRN9Rsybso+BMdroe2ut0ABM=;hYj2bZehjr+yTiG+2KYPBQ=="
 ---
