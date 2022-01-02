@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - AI in Security
+  - Computer Vision
 
 images:
   - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/12/istock-1206796363.ashx?h=500&w=878&la=en&hash=EEC19EE3DC58BD2024CC519D8151F636"

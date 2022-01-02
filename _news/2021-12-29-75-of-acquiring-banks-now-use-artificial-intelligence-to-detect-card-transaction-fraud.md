@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/75-pct-of-a
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/75-pct-of-acquiring-banks-now-use-artificial-intelligence-to-detect-card-transaction-fraud/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "75% of Acquiring Banks Use Artificial Intelligence to Detect Card Transaction Fraud"
-    excerpt: "AI In Focus, a PYMNTS and Brighterion collaboration, found that AI and related tech are needed to manage increases in both payments volume and fraud attacks."
-    publishedDateTime: 2021-12-28T15:30:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 51
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/artificial-intelligence-bank-fraud-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "How 104 Acquiring Banks Are Using AI to Beat Fraud, Boot Unprofitable Merchant Accounts"
     excerpt: "Gaining Ground On Merchant Monitoring examines how acquiring banks can harness AI to boost merchant profitability."
     publishedDateTime: 2021-12-29T09:00:00Z

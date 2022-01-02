@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/the-dark-side-of-machine-learn
 webUrl: "https://www.bbntimes.com/technology/the-dark-side-of-machine-learning-in-cybersecurity"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 902
     isCached: true
-
-related:
-  - title: "Industry Experts Team Up to Advance Cybersecurity With AI"
-    excerpt: "The C3.ai Digital Transformation Institute welcomed industry experts to submit proposals for advancing cybersecurity with AI in order to secure critical infrastructure."
-    publishedDateTime: 2021-12-28T17:00:00Z
-    webUrl: "https://healthitsecurity.com/news/industry-experts-team-up-to-advance-cybersecurity-with-ai"
-    ampWebUrl: "https://healthitsecurity.com/news/amp/industry-experts-team-up-to-advance-cybersecurity-with-ai"
-    cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/industry-experts-team-up-to-advance-cybersecurity-with-ai"
-    type: article
-    provider:
-      name: IT Security
-      domain: healthitsecurity.com
-    quality: 57
-    images:
-      - url: "https://healthitsecurity.com/images/sized/GettyImages-1136684203-39a26234983c4eca9381530cb872a66d.jpg"
-        width: 480
-        height: 278
-        isCached: true
 
 secured: "cXqhIeERURYGgWTlQ5EztxZPqGPZCKb+DGFotEGj99IKFtw+ABv5HYRLHeA4lOEizwCls/XTSRyJxc9/dwJbamCSDRiier6Y+ISjE4X0FRvmAUjujbsEiUqGmJnanW91o0G7LGmsskKp4Nrb3qiJJw8yarAomcYkD18mikknRhf08/jLPHi1dFiMzPJmZftKx1r6xF0PpGtAONP5LbNnlwPUHkYMYKriHYJ/YQbWdEAkwqiXWvBsynIY9IAOc1PK/03duUGeNIBseh2KCKBel3Xg2p3OnakGXSM5Ifa2VDGnND9t3dntWKrPTw4L7BSYwDJ80GfMlkaPqBz52Bbg6JOAko34sNobm09JJtzUv2g4c7mNG2MarXfAzv0QsHDaR21UQFJe6XQsSiDJM+11Cz8yqLqWzLgJv7gMCRd2GORdXrRw76KZq7sCQMMsgiECWfle8Mut4rJSYeH+S4pKSHyqRx2KmEtH4io7uz/VGMu2UAsxvLy5mZEDezyf89IB/MvkvmVmwhQHHRh31nIqhg==;On1g8dvFIDaxsFL9H01NLQ=="
 ---

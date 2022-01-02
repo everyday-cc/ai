@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
-excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
-publishedDateTime: 2021-12-30T19:23:00Z
-originalUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
-webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
+title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
+excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
+publishedDateTime: 2022-01-02T06:29:00Z
+originalUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/"
+webUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/"
+ampWebUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
+cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
 type: article
-quality: 4
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: Crowdfund Insider
+  domain: crowdfundinsider.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
+    width: 1200
+    height: 1500
+    isCached: true
 
 related:
   - title: "Increased FinTech And Bank Partnerships Will Benefit Small Businesses In 2022"
@@ -66,22 +74,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2021-07/f00f748a-951f-4708-b95c-9650a8fbc744/blockchain_3277336.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
-    excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
-    publishedDateTime: 2022-01-02T06:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
-        width: 1200
-        height: 1500
         isCached: true
   - title: "Fintech sector 2022: With more funding, increased tie-ups between players, outlooks promising"
     excerpt: "In the year 2021, the new-age fintech platforms offered consolidated fintech solutions to users, enabling them to carry out a range of operations such as spending, lending, investing, fund transfer, etc."
@@ -169,6 +161,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
+    excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
+    publishedDateTime: 2021-12-30T19:23:00Z
+    webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
     publishedDateTime: 2021-12-31T07:45:00Z
@@ -179,6 +180,6 @@ related:
       domain: finanznachrichten.de
     quality: 4
 
-secured: "W4XdxVTgNbGpS+jgUI8+zweStUo2My18WIMpj1Au7Q9tZaoWA30pE/8uIH4un6NEDehMgiQUya0o19xW4/BiflAol8bhfRNBuI/5wFAyUE6yOc4PRrYAkcxKVZxHpcMy2x0PXyMF4yzVkvCmNPD5Fq3ay8qCz5KFuUVNYI3kYuGHQKGkOdqWp5IWTAKl4UDxlVfnesbUFWRp4hxB6Zgzoc7ASwQ3aVBq6glDF2IJ4bz3DkWxorMKjd69Xtm4QqKytHBbx0R0SJsh+HbGz3UDII1UOItwYOuulkd0Xo/ri9yd20hTFLMZt3rtqkQkdHXvZKqXJJL8Nb/sckhEh2S4Vf0OTIPTOhlRaA1dT+QkTklGgpSAhAbvS2XmsrrndydckwLBsF0d7lIz3qO6J1r2LxCXWSmdmTBd4G3XBfqBxZ3R/bpjcm+jStwh6iJzxjDmPL9ErXzJQ3QttahBmr8a/OoC9TpEiFt+SsmFqTCL/8lmP4vN0aOR2/xraU2Ty/RjX2JBCTEtRDCltjrX//cyvw==;8ZjxI8ZaJBuTyZZvpiPPsQ=="
+secured: "FEjhzUbxNcrZWTg4zHuzRPL6sdIWt1AUG4aYjTXA9v2kSVj1/angkvvK46/jteWUtu6gU8sZS8oBO+XVv3o83uUO2la7Y9zR7dGBI1KfyNz1zdKVAm3cnGh126A3+KP5NLsMncN8usTHOee6HTvzRgUvgAxS2SbcuWgLJNp97vCy11Bc8O12L3zpsXdAj+Rj1siCrNgzqcqRvf4HhhLlxy3id9ztOGorPQdxgHO9YGmOKCahDaKYYBWlVTqJMESx94ilhV1yfbnrAOJN7eRMFUWmlbSgNCvndvWYxOQ7pAqO9BuX9kDRdPmUfdVeeXCN1YK+vgStV862QiJx5XeKNdlYxinSYvquUKXL4z/8y5M=;ceVxbeQYlPutmZVPVwHXuw=="
 ---
 

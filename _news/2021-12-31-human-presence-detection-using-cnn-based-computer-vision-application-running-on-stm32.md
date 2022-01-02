@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 897
         isCached: true
-  - title: "SEG Automotive brings precision and speed to the production line using artificial intelligence"
-    excerpt: "With the latest developments in artificial intelligence (AI) technology integrated with modern cloud platforms, embedding AI into business processes is no longer an expensive or lengthy process. Global supplier SEG Automotive is among the industry leaders showcasing a rapid approach to innovation by partnering with Infor to deploy an AI application in the manufacturing production line in just under one month."
-    publishedDateTime: 2021-12-28T16:54:00Z
-    webUrl: "https://www.publicnow.com/view/186D7AD0D27EE0AB35329A262A64D556B690A88A"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 5
 
 secured: "m2iILk1QyeeIoBEkMtJIRGzj5d2GGV3i1nv88uYx9apmyAejo3FkwiPPZNMm9PfiQAUxhH9kTHLUktlMjCffd4vkAVvUTavz9la+KwqbaUTynIWaF4A61Rdedi3JzbL4c1ac6WUpWOReTqdYC8l+ZaWHsLxSspSrb1U/Rn2MljpIZXvG6d7hOGmYugK0QEiGeNGtqmq9paRq5jwPTyrE84IXYhj5Dh7raAmYrNqssfCBJs4UT9CMY24UPXnbOvZROERvJuT45F7lUlhPNLFqjAQOrgizGmLcqyKDt515t9vRypbHX5YufG9+1dz3MYHYrg4clE+sKIiELKINsJxQP3saNGTVh13iDOj4++q9uM0=;mUc+s58KYnuYhGUZemI9Ww=="
 ---

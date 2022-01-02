@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
+    excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
+    publishedDateTime: 2022-01-02T06:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
+        width: 1200
+        height: 1500
+        isCached: true
   - title: "Fintech sector 2022: With more funding, increased tie-ups between players, outlooks promising"
     excerpt: "In the year 2021, the new-age fintech platforms offered consolidated fintech solutions to users, enabling them to carry out a range of operations such as spending, lending, investing, fund transfer, etc."
     publishedDateTime: 2021-12-31T11:01:00Z
