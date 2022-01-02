@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1640286945-GettyImages-1274394072.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Misuse of Artificial Intelligence in China"
-    excerpt: "It is unhelpful to reduce China's rapid AI development into a simplistic narrative about China as a threat or as a villain."
-    publishedDateTime: 2021-12-28T10:30:00Z
-    webUrl: "https://analyticsindiamag.com/misuse-of-artificial-intelligence-in-china/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/china-banner_11zon.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "UglnhfQRYQH74Px1QA4ByRG6RQFeOfkq88SxREVyK2Sv2bCsuN6pxyg9aBt3PPDHjpkase38uNC+xS2iDzNtYM4Um4cUJHXsWTnMJ3YNWmGnOXlLc0HDO0Gb1q/qH1u1vGUxUUFp3GP1+d7mUk5Fl8tTuKCcc27KX37j3tdT2aHlKiBvboCiR4WgA9ZtaTpODBD3i8udadPnHWr6XToHDzXY0BZRpmuYTXEkQI1JA0SfFV+2P1sfszq8gAppQ/uEfQl7q94E1Oug6VFW0OoOk3np9CCqMipq1hZLe8OBjZOhilZtup8hK7CPGpNGsFzRe1phi4dCalX+bE8acH/Vq5/12FA/BB3Isq1rJjTp2zvbtJ5qPw9n43yLw4FT3O8cnyfazUC2XpV/ISr+2BfjuKhKGXnp8wfM7FNVKxHi4gpYXkMKg1Ch2YaQZF9rKJIoZZBDjcCwDHvFErN8WztnWHRl5JDpSN7UxIj3fWJr4l8IgFYEZ+dAPn06h8zEZCbglg9zE5tGmj+RtzbX53f29w==;o2tDcB99YH514N9Iov9PoA=="

@@ -39,7 +39,7 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
         width: 1800
@@ -82,15 +82,6 @@ related:
         width: 1400
         height: 934
         isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
-    publishedDateTime: 2021-12-28T09:06:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5220819-global-artificial-intelligence-in-oil-and-gas-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "xXip3VrLR2zWnMbzZI4jGASSn3SRcrgxlLihqGh+Wt4cOsyaL5CrnbJu7ypfmWR4F1fOIWC0+bwQPc8UYoPT7cyWI5DonpJeP2CcYDAsnfKeSYXuI9yfOeiWlMSQGCIaTSllwPfnmzBFZFL/3N2/60KnhoPTFwJcwH7IWrDiSW6R3K6qO1QppipA497itiKFqt2BxUllg9rwxxkuuzNSNCImRavNyi0Va0CeZ+Eu9X1ww/hxE53oeIx4U1uGi36fTP/uF91p5l9PEYg6+nUUGPjH2HzK7eyAw9soH9TWOACZNmyvrkGJUNiAe7us/ud2Vlp7VUmb9Ynw57r8QYdzQjKnkYO+uAPBlyz44jLrtbOfdWEHS0JoatDlcLkVRmZwCVoEtJAwCxGL+fbVZqhZ5K+F0T3acNPPrADsgfhnmTC9osqp7lA0QaUoslqw0IEd8b7OkgNOwowAmRXYyZyXHykF+ula2bhXZaqIOz1TTZcQe124JONdGC+j9A+u/ByaDLRmDYTmXYAmrtlEpM7VKg==;BJgXFH5fx6eTIyjCUbg6kQ=="
 ---

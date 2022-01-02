@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
 quality: 86
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 672
-        isCached: true
-  - title: "FinTech trends that will change the BFSI industry in 2022"
-    excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
-    publishedDateTime: 2021-12-28T10:09:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "5 FinTech trends to keep an eye on in 2022"
     excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services"

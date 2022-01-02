@@ -6,7 +6,7 @@ publishedDateTime: 2021-12-31T13:13:00Z
 originalUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
 webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - IBM AI
   - AI
   - Machine Learning
+  - Natural Language Processing
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
@@ -89,16 +90,7 @@ related:
         width: 1400
         height: 934
         isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
-    publishedDateTime: 2021-12-28T09:06:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5220819-global-artificial-intelligence-in-oil-and-gas-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
-secured: "Y6zT5Zo7SAa5YtdOtYSTcf6cjXYXXBAl/P/erINfgFCFEVNglbJ1w7M0TtG3+LGK1LElTgroXhvT2c4FJZJmTFDvnTavO2n2/8uUbe3Mk+qmkPVzJdLOVE4iKDOhKkDJ7JJ4HO4UbIVh07Br5YihzTAgRF550Z6CyDSt4dnZzVC8QydLwd7M/Zfd23A/SzSVeh+peAHUzdNWEytDnDY/8kUVfM2/WE9kP19S3We+xOT3SxXyw1u8y0Ic9MUlKsjh/mJGWKdmA2qQm2TXKA4SX7Vgf52rOiJUWGQ9JhPrj+aRZ8u+7losVdBoBsSmKG5UoDfw2LUId/NUVa4saFHrtYvVCk+FjZORJsAkiWkDm04=;BVzqNIjcwP+pWLYdg0t5Rg=="
+secured: "WB8xXvydw8AMH9prwNU1j3lFlf4pmwNLAJt12YurcP9HR8b/UHG2SGYVRr5Pa9nesLP8+5mOhQeINf1b8Qn5UchSQVMgTmFM8B/n0R6AabbFN6FNY+QqZBpheZPzHe4dxzuRfsTbStgTqSvrW8O4ZOLiPL7Nbjqud7HEUQ9R/vWlX06aoTGI+2BqBZAOhkDmOTtkJNrwoqWZbVCDPvEI+JQR+VlrNg2Nx/NV+9CzeKvbl09iWj+w09DIWIumdlVNVhN4GZ+9GSfYA+z/NG5mycGOy/1W5Mg4LUwOMC3qMvYB0AT839WuLDKv7v6HjENakKzp02uAP09dTqOTjjULBsfmEomF+nTqxpuzYuKiJD1m4VfAr2C+/qYHLomKhEClnFsLMyse3czExibqyMB2XvdVzZyTGwNk4EbFEA3Acc0vjH7BfnWwR6uL5BVlUeWfnw+guPdT1cutp1TpgNqK13NmvsepGsq7SKbUIr5eWT7pzxcN7VNpqV8oyxBN5C1tQldfo1rha11UrKVLM+Zu7w==;CzmXE1G3elCPABNjPeuYpA=="
 ---
 

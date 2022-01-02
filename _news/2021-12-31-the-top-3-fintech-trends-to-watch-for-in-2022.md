@@ -93,20 +93,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "FinTech trends that will change the BFSI industry in 2022"
-    excerpt: "What are the trends that the FinTech Industry is expecting which are going to witness a resonance!?  To elaborate on that a few trends"
-    publishedDateTime: 2021-12-28T10:09:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/fintech-trends-that-will-change-the-bfsi-industry-in-2022/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/FinTech-Singapore-financial-technology-1.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "5 FinTech trends to keep an eye on in 2022"
     excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services"
     publishedDateTime: 2021-12-30T13:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How no-code, reusable AI will bridge the AI divide"
-    excerpt: "The ability to reuse pre-built AI solutions and components, and customize them without coding, will finally allow AI solutions to be created without requiring scarce AI talent or costly IT resources."
-    publishedDateTime: 2021-12-28T11:00:00Z
-    webUrl: "https://www.infoworld.com/article/3644968/how-no-code-reusable-ai-will-bridge-the-ai-divide.html"
-    ampWebUrl: "https://www.infoworld.com/article/3644968/how-no-code-reusable-ai-will-bridge-the-ai-divide.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3644968/how-no-code-reusable-ai-will-bridge-the-ai-divide.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.techhive.com/images/article/2014/05/golden-gate-bridge-in-fog-san-francisco-california-78393039-100265264-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 792
-        isCached: true
   - title: "Why Now Is The Time For An AI Bill Of Rights"
     excerpt: "AI-based systems are going to change everything about how we live and work. And, currently, there are no rules of the road."
     publishedDateTime: 2021-12-30T12:00:00Z

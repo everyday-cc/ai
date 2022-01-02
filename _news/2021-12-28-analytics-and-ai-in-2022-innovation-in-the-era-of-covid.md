@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
 type: article
 quality: 67
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -32,7 +32,7 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
         width: 1800
@@ -86,15 +86,6 @@ related:
         width: 1400
         height: 934
         isCached: true
-  - title: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
-    publishedDateTime: 2021-12-28T09:06:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5220819-global-artificial-intelligence-in-oil-and-gas-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "+ggcUZ2T43hykZsxycDEHJvLJ8+yaJo/m7opBV9cKYi+NmprA0WZEX0TSjs3Q7t5+yvmX33mL3ML9oWemE1HvBD7XMmd5V8cFH+N7Gu7yorUPRiJVRlpot0JGaJxFPoVYWh3/zdQd76N42RETcJ/UEa6OEugtMLk15oV3QVt6nN+bhhvEGxjyOJIyabUOaMbZV06fG25dGTrRO6uDKjj9rTIV8rzY1+svvol7VAn1klqfVoPQoX9s3KOZZMXmRKd+u0D9crYZvW2nFLxIzijcb6SXseB7reoFUkoQbDUJdzkMUNn5u3aZkDGWOhvn2mT19IJDCxzciJ95mjx1XE2C8m9bRypz3pFeyNDWEaUrqbFgtfXHzP4rlSnFUWlPZaybKTS8/YtNeWtk4Pl3y3WQK1CSkjBWZlGDHlBjnuv00asE0NyeKY3kq0av9A2DGiF+ZenDoByTJcryluBjSsYHEoRvtd2Lq+wpkfMYGcqIXbjf2XamdSsENGopLWRQp34+j7CvgzlGr7P1rXgsybJmA==;yKwHMD04ELvyU++/AbvW2A=="
 ---
