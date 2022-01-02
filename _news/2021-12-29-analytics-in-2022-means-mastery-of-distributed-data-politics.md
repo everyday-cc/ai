@@ -36,6 +36,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends"
+    excerpt: "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t"
+    publishedDateTime: 2021-12-31T13:13:00Z
+    webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
+        width: 1800
+        height: 600
+        isCached: true
   - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
     publishedDateTime: 2021-12-28T12:16:00Z

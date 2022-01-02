@@ -1,27 +1,32 @@
 ---
 category: news
-title: "Top 8 Data & Data Analytics Trends for 2022"
-excerpt: "With data driving all business decisions, it's critical to know the current trends in data analytics. Discover top trends now."
-publishedDateTime: 2021-12-29T20:52:00Z
-originalUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
-webUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
+title: "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends"
+excerpt: "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t"
+publishedDateTime: 2021-12-31T13:13:00Z
+originalUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
+webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
 type: article
-quality: 24
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Enterprise Networking Planet
-  domain: enterprisenetworkingplanet.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
+  - IBM AI
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/Top-Data-Data-Analytics-Trends-for-2022-scaled-e1640802374513.jpg"
-    width: 1400
-    height: 934
+  - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
+    width: 1800
+    height: 600
     isCached: true
 
 related:
@@ -36,20 +41,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
-  - title: "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends"
-    excerpt: "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t"
-    publishedDateTime: 2021-12-31T13:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
-        width: 1800
-        height: 600
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
     publishedDateTime: 2021-12-28T12:16:00Z
@@ -84,6 +75,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Top 8 Data & Data Analytics Trends for 2022"
+    excerpt: "With data driving all business decisions, it's critical to know the current trends in data analytics. Discover top trends now."
+    publishedDateTime: 2021-12-29T20:52:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 24
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/Top-Data-Data-Analytics-Trends-for-2022-scaled-e1640802374513.jpg"
+        width: 1400
+        height: 934
+        isCached: true
   - title: "Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence in Oil and Gas Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2021-12-28T09:06:00Z
@@ -94,6 +99,6 @@ related:
       domain: reportsnreports.com
     quality: 0
 
-secured: "WOupilLvQwicbcFmWP7naVh+X6h0uYNeB0n58VYaDQl+U/CH/Sr1aCjlETNqFjTnXDb0IOxVb+yJByvILoE4HlSOza4D19Ut4A0Pw2XcZWVReP8EbkBzA9TtoNsTfjcWduHwUu7PQaRuhY6xl/8D7dx96K6yyRjIkDEJ+srCUDSipKqBT97EYQIWwUmeUu2KtNs+K/4r6roJDW3Fuq2tFqRlj6XKgDh68CKM1e2SA6b4s8mzqKCUDwlrVDwQoVbyhKSanO/7xpSf2WbcN8Ewvm8cbAMglTtrKznCPq/6PAt5JiFKftmPOPzFXw9YqD0XwtltEu1kjYrfhBwazxOYisKE9xXqSKC8LZjpWK1PavuHsd8ySwO7rVL3lR6hQhY/V4/6DE2q5HbwaIZuYrfd5y6Bsgu+P0ZQY7YkcORv/qNPt5y19iR6zGB6Eed42RJDZezS6pyGyxq5hsVBb3mNZzjrc3ywMYV5CFXXYAEebnCJot5pL3e/+bWp2oFm0KuVZdbbojAqA7UNwSuKCfdkwg==;xh5jqdVLbNW3Xd8F/y85ag=="
+secured: "Y6zT5Zo7SAa5YtdOtYSTcf6cjXYXXBAl/P/erINfgFCFEVNglbJ1w7M0TtG3+LGK1LElTgroXhvT2c4FJZJmTFDvnTavO2n2/8uUbe3Mk+qmkPVzJdLOVE4iKDOhKkDJ7JJ4HO4UbIVh07Br5YihzTAgRF550Z6CyDSt4dnZzVC8QydLwd7M/Zfd23A/SzSVeh+peAHUzdNWEytDnDY/8kUVfM2/WE9kP19S3We+xOT3SxXyw1u8y0Ic9MUlKsjh/mJGWKdmA2qQm2TXKA4SX7Vgf52rOiJUWGQ9JhPrj+aRZ8u+7losVdBoBsSmKG5UoDfw2LUId/NUVa4saFHrtYvVCk+FjZORJsAkiWkDm04=;BVzqNIjcwP+pWLYdg0t5Rg=="
 ---
 

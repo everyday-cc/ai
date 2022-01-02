@@ -153,6 +153,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Need to invest in fintech knowledge"
+    excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."
+    publishedDateTime: 2022-01-02T00:52:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2022/01/02/need-to-invest-in-fintech-knowledge"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
     publishedDateTime: 2021-12-31T07:45:00Z

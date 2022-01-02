@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Hiring Bias Spurs Scrutiny and New Regs"
 excerpt: "With New York City’s passage of one of the toughest U.S. laws regulating the use of artificial intelligence tools in the workplace, federal officials are signaling that they too want to scrutinize how that new technology is being used to sift through a growing job applicant pool without running afoul of civil rights laws and baking in discrimination."
 publishedDateTime: 2021-12-29T10:30:00Z
-originalUrl: "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
-webUrl: "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
+originalUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
+webUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 369
     isCached: true
 
-secured: "2QEfY5MJEisclhBkoJysT4Imx8TVRK3dqTEvz8gjLXyeTurSKWRk/GheF2bb3gCw7WjyFpntdTimwwxvNcTLjjKYXRo3aP8zHQzvpmCGIm2LforXn0IVIVlCw4lUjKUOVuKbhraOQmQpQnR2GyjhVg4l2pHIzkhFAZWtjlI4r08HJ3bPQpz0pcmfFtEmqHWS/YTgrnuzeCyHlR5C+whiD706vl//jQ1lxot63iw9X2REizPAdk9QQ5eLu4YtC/Gur/VQdb/2oAArVjYxoESBy4E/S1cOpaH668WdPBqcbQtkpvC3D+L+H1Dm+FvUELLkHS/06MJWKtgbxb9ZtFH4tbVPJJhdqHLGOlrtAkz4Lds=;fTVQCo3DY8EvCWIywcTlnw=="
+secured: "3tNMnfUwY8BYeiVdm59zDGshzItzZyZiv3xnhC+RZpgcKOdgIFJlnQBIzyH/RkesqAGa8mEp5GCvHQQ/9ATPH6JBMLCIt2RrEsP92B8BqYkH7K4Hic+WxyickIKCwhq0nE7XP8wTwC627sE1rh4Tqzl7WStEEe1i55GygE/Vg28Cz4QMR6KtKEdVjjNOYMpFHWjjBX/QM+0x23kyPlG2Cgws5yLOOJrd2y1hsbLZD/1QhZiG1eLc8YsO9pnWCoHj61D6B19NJSdyWfcSVYj/gDbMoSqIMzACugIzn19bqW01xsZt1/aczXf8kx7+6xXTGukDEuy13ChS4QNRcJcKt15Tze2qn1VkHqPPRtIXho4=;6xT4r3471r6tHvKHaOpixg=="
 ---
 

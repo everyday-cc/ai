@@ -7,7 +7,7 @@ originalUrl: "https://developingtelecoms.com/telecom-technology/enterprise-ecosy
 webUrl: "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://content.indiainfoline.com/_media/iifl/img/article/2015-07/02/full/1435811383-8437.jpg"
         width: 350
         height: 233
-        isCached: true
-  - title: "Airtel and TCS demonstrate 5G based Remote Robotic Operations and Artificial Intelligence driven Quality Inspection for Factories of the Future"
-    excerpt: "Airtel and Tata Consultancy Services (TCS) announced the successful testing of innovative use cases from TCS’ Neural Manufacturing solutions suite on Airtel’s ultra-fast and low latency 5G network. Airtel has been allocated 5G trial spectrum by the Department of Telecommunications for the purpose of technology validation."
-    publishedDateTime: 2021-12-28T07:09:00Z
-    webUrl: "https://technuter.com/telecom/airtel-and-tcs-demonstrate-5g-based-remote-robotic-operations-and-artificial-intelligence-driven-quality-inspection-for-factories-of-the-future.html"
-    type: article
-    provider:
-      name: technuter.com
-      domain: technuter.com
-    quality: 35
-    images:
-      - url: "https://technuter.com/wp-content/uploads/2019/10/Airtel.jpg"
-        width: 441
-        height: 371
         isCached: true
   - title: "Airtel and TCS demonstrate 5G based Remote Robotic Operations and AI driven Quality Inspection for Factories of the Future"
     excerpt: "India's premier digital communications solutions provider, and Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), announced the successful testing of innovative use cases from TCS' Neural Manufa"

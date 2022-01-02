@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
 quality: 86
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -148,6 +148,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGmcHCSEXDDew/article-cover_image-shrink_600_2000/0/1640958089667?e=1646265600&v=beta&t=zqTWb0dV-TtUnp8ludQWoCK15kY8KEPpLaTm288LGu4"
         width: 900
         height: 500
+        isCached: true
+  - title: "Need to invest in fintech knowledge"
+    excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."
+    publishedDateTime: 2022-01-02T00:52:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2022/01/02/need-to-invest-in-fintech-knowledge"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
     excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."

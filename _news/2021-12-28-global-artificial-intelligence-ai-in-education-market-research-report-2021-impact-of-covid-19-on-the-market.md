@@ -30,6 +30,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 67
+  - title: "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends"
+    excerpt: "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t"
+    publishedDateTime: 2021-12-31T13:13:00Z
+    webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
+        width: 1800
+        height: 600
+        isCached: true
   - title: "DigiMax Launches ESG AI Division – Invests into Green Energy Solutions Company MADA Analytics"
     excerpt: "OPTION TO PURCHASE 100% OWNERSHIP OF THIS DISRUPTIVE ESG TECHNOLOGY SOLUTIONS COMPANY – TORONTO – Plato Data Intelligence"
     publishedDateTime: 2021-12-31T17:28:00Z

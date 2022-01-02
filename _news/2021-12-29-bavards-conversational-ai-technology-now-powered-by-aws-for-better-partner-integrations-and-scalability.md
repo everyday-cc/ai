@@ -9,7 +9,7 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=12670"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -51,15 +51,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
-  - title: "Global Conversational AI for Retail and E-commerce Market 2021 by Company, Regions, Type and Application, Forecast to 2026"
-    excerpt: "Pages Report] Check for Discount on Global Conversational AI for Retail and E-commerce Market 2021 by Company, Regions, Type and Application, Forecast to 2026 report by Global Info Research. The Conversational AI for Retail and E-commerce market"
-    publishedDateTime: 2021-12-28T08:33:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5217014-global-conversational-ai-for-retail-and-e-commerce-market-2021-by-company-regions-type-and-application-forecast-to-2026.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 0
 
 secured: "0ppyHUd+HMfdrXAgj9aqIMrQU1a+LNgzX40KCSKGzALw3+neAC0IM/aKIwKKdkVz5F1rDimL4dEWlxIYbnylCh2hNFu9s/3xMhfi1McEzepOdDbHXUptme9h9Ne0Jhiq3M6Kgjr9uH5cJxOfMXxl/1wWPIxbIPV/sS7GEUtM4DsXvjl0wFZITnA7EBDYt+8ZsmwVulsr/UlThTQIhG8hrc4EicsOrT2MLXdgBjrQqpAO5OKwt8lQ7rLAOcD4v67anLLM0jEereNAmsXeK+nOcj5ZSd8mWF4eazGb+ynySeZVYsJURgklwvcaPFuh/JuTlvq2AsCvA+bwMPAHwVTaKmSS7c84qor6TqQ7Htogi74=;q7D5nNbmdjIX/Ne7oB/Cjw=="
 ---
