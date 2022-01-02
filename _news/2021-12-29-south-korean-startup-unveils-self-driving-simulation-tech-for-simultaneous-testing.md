@@ -7,7 +7,7 @@ originalUrl: "https://www.autoevolution.com/news/south-korean-startup-unveils-se
 webUrl: "https://www.autoevolution.com/news/south-korean-startup-unveils-self-driving-simulation-tech-for-simultaneous-testing-177745.html"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 499
     height: 258
     isCached: true
-
-related:
-  - title: "MORAI to Unveil Cloud-Based Autonomous Driving Simulation Technology at CES 2022"
-    excerpt: "Unveiling of MORAI SIM Cloud, a new SaaS model to increase efficiency through test automation feature MORAI to strengthen global partnerships and technology exchange between industry partners LAS VEGAS,"
-    publishedDateTime: 2021-12-29T05:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=593217"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 34
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
 
 secured: "RT0eddKKw7256ySLSWMMkOAuxcox5DIX1bOFuDM3n4XhT8MYpb/hAEzc8KsKWYkfZj9hS1c2m2bPa0ah/t9kLNmomTUze8EZen4bMCz+LllEMRm2rvElqPxszzYd2EafPK+E6PBUtMFDtA6/GpSWd/oulWS4TBmTrX49QFCV5o+0RLa25RvbedM0hErJzt+Tv/HFhr2Fq6wdn4Vri1sBGhdXoklBPjqVTlVtwUdbbl298zKQ8emwlmknE6N1gl1KV4Z7yQdtp2qpUp+oKLLe3DgVmYZJq19DDiQuerQA67mxAuSFtULD++gcGkPASFHYBAFCCO9bEAkDRUTaB1+B2kmOTOQAZh+foCA8Wj/rL79hi2OzEV2TX1LDNNN2+MV/yX8fffBHT26zbsgDmHR24iMSwHlrXGvN/4k5AjMk6p3igeXGWvV0wfb0IcC/5Ekoyuga2lseUjtK+QtowpEis1mrMpRp5yRSi0MeNTEmQos/M1ApBhjDMYLfGan4YacUUgGy2U89OM7YnvvoTgReMQ==;v9nNzRcxE0oQSNSV6E7/XA=="
 ---
