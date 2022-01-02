@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/research/2021-year-review-google-quan
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/2021-year-review-google-quantum-ai/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "2021 in review: Oversight questions loom over federal AI efforts"
-    excerpt: "The Biden administration established several artificial intelligence bodies in 2021 likely to impact how agencies use the technology moving forward, but oversight mechanisms are lacking, experts say."
-    publishedDateTime: 2021-12-28T20:37:00Z
-    webUrl: "https://www.fedscoop.com/questions-around-federal-ai-oversight/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 39
-    images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
-        width: 629
-        height: 607
-        isCached: true
   - title: "Cubo Ai Plus smart baby monitor review: An adorable option that could use more smarts"
     excerpt: "The well-designed Cubo Ai Plus smart baby monitor comes with great covered face alerts and decent video. But it isn’t up for travel with an easy-to-lose additional temperature and humidity dongle that feels like an afterthought."
     publishedDateTime: 2021-12-28T22:10:00Z
