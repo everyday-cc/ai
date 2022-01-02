@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/amp/"
 type: article
 quality: 121
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/12/29/PPHX/a8ad51c7-2ee8-4726-a148-0c52165ac405-TuSimple_Truck_1.jpg?auto=webp&crop=2800,1575,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla rival races to introduce driverless cars by 2024"
+    excerpt: "Making predictions about technology is a notoriously dangerous sport, and the onset of driverless cars is a particularly perilous thing to forecast. Google once pledged that the public would be able to buy robot vehicles from 2020 - a deadline that Toyota,"
+    publishedDateTime: 2022-01-02T17:15:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2022/01/02/tesla-rival-races-introduce-driverless-cars-2024/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 54
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/business/2021/12/31/TELEMMGLPICT000280027361_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "srw+OPUgE6/9ynFWyl4Wd3Hy9lXu111tVOiWf2yzzD3Z5cnmNAsOBnFP6+WFltm26bFXZ2qOFD18ZXZD99KYBAIGwPRuu8+4Rlw7WCDRxwLDRn2bEQyfsvioHeObdRqQN6a0raoj81dH/q4zwEslbmf+fV9fm3yCRbHorADd8X7v+Af0cAUXfwhrStYlV/uhvhQi0zv06PN2lgx4HBtAQz6q+i5oG/UZJKeofVLakQ4gHYmgWpnaz4HWX4PayA3s1M89v15+ulI20TXhgV4XJKA14Qc4SXqG3ipYcNTxNQ/X6YafaaOQkd13dq0TSJ+bAasONaSUogGlO54bwI4cF1tr3wSPpVBOzFcEujFkBlmP5XodJLPe0JhokYLMe8/NWYs+iiAfUlG0gecS53KvkdXiU2ZSgx5+Qrs/GzpgvVxnmHLUxhSZq7DWQt9HqShz3oVAZ9L3IJCLmQZWZUnbNbREcTQvocrjAJzofDtq9AkO3zWcHK/hIMmC898hV/0jQCpcigyCSA7USMURHM73Ew==;oaZAqG3eP7/ih5jRFAy+Pw=="

@@ -3,16 +3,16 @@ category: news
 title: "Metaverse, AI and and other big digital trends to watch in 2022"
 excerpt: "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,"
 publishedDateTime: 2022-01-01T14:57:00Z
-originalUrl: "https://www.derbytelegraph.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
-webUrl: "https://www.derbytelegraph.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+originalUrl: "https://www.bristolpost.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+webUrl: "https://www.bristolpost.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Derby Telegraph
-  domain: derbytelegraph.co.uk
+  name: Bristol Post
+  domain: bristolpost.co.uk
 
 topics:
   - Facebook AI
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "w7FygUzyoNUcj6OPyIyleB+Dpweqz3CDxYU4jsMHko/GU57qj1oI8RmVYmwYBT1Ujl5hjRSBNEVfEfba6pW9UVP1cMz0mPFxuA7bQ/ZDc45dss0rUYMLmQi6FkUJg3hSWVc9nkZd8KII5obmmriDR4L+B96KCpQnB670S8TM6mmqZdqsblK2bxkgMm9YmbH/LdmE23Ww22+mAywdBilKojrGbKKiSGfe7VzaQedVhNBpwmNm1/n4J8fnPtWtKe+NIXU2xXrsov1E/o4q/gz8mAFqSUHVZYaqu0X6cHmZRcWwldr9/RPsJz1kQGEDbdejYj3dniNrSdgOYRfJQ0KcC4j6FllMe3XFYksQJyQ0B0w=;9Zcr98Qn8O18O64jRCdpYQ=="
+secured: "yA8y8PYLkjcedFhcYP2IzWrDwoWTxzo0cRusRt600ayj+xu++LBBBEz3RWHsHEzhB5BkxY2oZsgMk1DQl/5ogIhW4MxZ1XJxcaEP9ZIzeNz1EEvvvCkr2o3LOMPYoiml786hxQoDoQsVZ58KSCHUpuw9F1d6eUU43Ma4bcpLNxgnAJvXjj/Qwk3YB9PKhvqrCzeSZHWyS9p/GAp3pEcdXnbeW8WKQ5QBGnt3G0R8kTVEl0/lpN5Vw8MDbN1cfxZqT2Y9TpQdLJ4jedM5Zxa0XYOHKuhjIe0YPB+c2aGJXQwA8i9wPu6kHZE/EIO4ICX2bHbxW6yEFebyBFtPmlbUfGa9jIyyQyKpId86BB2pW28=;8e7hOgagD4R0SeaLPuAblQ=="
 ---
 
