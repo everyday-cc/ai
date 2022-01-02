@@ -82,8 +82,8 @@
       "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
       "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -592,6 +592,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-20-5-artificial-intelligence-stocks-in-cathie-woods-portfolio.md",
+      "title": "5 Artificial Intelligence Stocks in Cathie Wood’s Portfolio",
+      "excerpt": "(NYSE:TDOC) represented 5.01% of Cathie Wood’s portfolio. In Q3, the company reported revenue of $521.6 million, up 80.6% from the prior-year quarter. Of the 867 hedge funds tracked by Insider Monkey,",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg",
+          "width": 1613,
+          "height": 2048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-19T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai.md",
       "title": "Sheikh Mohammed attends first-ever Arabic Language Summit at Expo 2020 Dubai",
       "excerpt": "Dubai Ruler witnesses signing of UAE Declaration on the Arabic Language  Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, on Sunday attended the first edition of the Arabic Language Summit at Expo 2020 Dubai.",
@@ -1088,59 +1131,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-sure-deepminds-ai-is-impressive-but-can-it-guide-human-intuition.md",
-      "title": "Sure, DeepMind’s AI is impressive, but can it guide human intuition?",
-      "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning can help discover mathematical relations that evade human scientists,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication",
-      "originalUrl": "https://thenextweb.com/news/deepminds-ai-impressive-can-it-guide-human-intuition-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-3.jpg&signature=107dcf61f785ba39f0b1a80dccb68d4e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-18T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
       ]
     }
   ],

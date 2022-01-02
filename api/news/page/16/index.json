@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-12-15-new-goldman-sachs-aws-data-service-points-to-a-larger-banking-trend.md",
+      "title": "New Goldman Sachs-AWS data service points to a larger banking trend",
+      "excerpt": "Goldman Sachs and AWS have teamed up to help businesses seeking to crunch massive pools of data for smarter business insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/693733/new-goldman-sachs-aws-data-service-points-larger-banking-trend/",
+      "originalUrl": "https://www.reseller.co.nz/article/693733/new-goldman-sachs-aws-data-service-points-larger-banking-trend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_224442191.jpg",
+          "width": 473,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T21:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-continuous-renal-replacement-therapy-market-insights-trends-outlook-segmentation-latest-innovation-and-forecast-2021-to-2027.md",
       "title": "Continuous Renal Replacement Therapy Market Insights, Trends, Outlook, Segmentation, Latest Innovation and Forecast 2021 To 2027",
       "excerpt": "Global Continuous Renal Replacement Therapy Market size, segmentation 2021 Analysis Scope, Risk Factor, Opportunity, Market Overview, Driving Forces, Sales, Revenue and Production cost",
@@ -1114,49 +1157,6 @@
       "provider": {
         "name": "marinetechnologynews.com",
         "domain": "marinetechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
-      "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
-      "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
-      "originalUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://en-media.thebetterindia.com/uploads/2021/12/Robotex-India-Feature-1-1639488787.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-thebetterindia-com.cdn.ampproject.org/c/s/www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
-      "publishedDateTime": "2021-12-14T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheBetterIndia",
-        "domain": "thebetterindia.com",
         "images": null,
         "publishers": null,
         "authors": null

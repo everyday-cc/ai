@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-g
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/the-next-generation-of-robots-the-inside-skinny/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

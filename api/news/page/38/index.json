@@ -2,6 +2,40 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-12-01-would-artificial-neural-networks-implemented-in-clinical-wards-help-nephrologists-in-predicting-epoetin-responsiveness.md",
+      "title": "Would Artificial Neural Networks Implemented in Clinical Wards Help Nephrologists in Predicting Epoetin Responsiveness?",
+      "excerpt": "The aim of this study was to re-evaluate the impact of the main parameters known to influence the responsiveness to epoetin beta and to test the performance of artificial neural networks (ANNs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/548842",
+      "originalUrl": "https://www.medscape.com/viewarticle/548842",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost.md",
       "title": "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost",
       "excerpt": "Qualcomm has announced Snapdragon 8 Gen 1 featuring improved camera capabilities, artificial intelligence (AI) applications, and security enhancements.  During the annual Qualcomm Snapdragon Tech Summit,",
@@ -1159,49 +1193,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-aws-named-united-airlines-preferred-cloud-provider.md",
-      "title": "AWS Named United Airlines' Preferred Cloud Provider",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company , announced that United Airlines has selected AWS as its preferred cloud provider. AWS will support United's digital innovation, providing machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20132061.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20132061.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/transportation.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

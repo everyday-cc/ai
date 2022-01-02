@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2021/12/29/alexa-shockingly-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/29/alexa-shockingly-tells-10-year-old-girl-to-put-a-penny-into-an-electrical-socket-which-provides-important-lessons-for-ai-self-driving-cars/amp/"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Amazon updates Alexa after AI assistant tells 10-year-old to put penny into electrical plugs"
-    excerpt: "Amazon said it had updated its Alexa software after an Echo smart speaker told a 10-year-old to touch a coin to the partially exposed prongs of an electrical plug. “,” Kristin Livdahl wrote on Twitter along with a screenshot of the “challenge” her AI voice assistant had suggested to her daughter."
-    publishedDateTime: 2021-12-28T23:53:00Z
-    webUrl: "https://www.nydailynews.com/news/national/ny-alexa-update-penny-electrical-plug-10-year-old-20211229-qxjt5pakavgxznvgoiibrnvd4i-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/national/ny-alexa-update-penny-electrical-plug-10-year-old-20211229-qxjt5pakavgxznvgoiibrnvd4i-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/national/ny-alexa-update-penny-electrical-plug-10-year-old-20211229-qxjt5pakavgxznvgoiibrnvd4i-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 46
-    images:
-      - url: "https://www.nydailynews.com/resizer/HFQJZ82Y2mP_pqVeC8V-r-4HCTw=/1200x0/right/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/DXV5YRMPSNEWTCR3O7D3T3PJ3A.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Dangers of artificial intelligence: Alexa tells 10-year-old to put a coin on an exposed electric plug"
     excerpt: "Amazon’s Alexa, a virtual assistant, gave a 10-year-old a life-threatening suggestion. It came up when the girl asked Alexa for a “challenge to do.” “Plug in a phone charger about halfway into a wall outlet,"
     publishedDateTime: 2021-12-29T12:00:00Z

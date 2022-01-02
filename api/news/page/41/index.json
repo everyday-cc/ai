@@ -2,6 +2,58 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-11-29-cyber-monday-vacuum-deals-2021-todays-biggest-savings.md",
+      "title": "Cyber Monday vacuum deals 2021: today's biggest savings",
+      "excerpt": "Multiple control options – including touch and voice – and the 100-hour battery life make it a convenient and low-effort way to keep your home clean. Shark AV993 IQ Robot Vacuum: $379.99 Shark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
+      "originalUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TRr7iHHnTgY7byfwZYbziY-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T05:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai.md",
       "title": "Therapixel and Ferrum Health announce collaboration to facilitate access to Breast Imaging AI",
       "excerpt": "Therapixel, a software company specializing in artificial intelligence (AI) applied to breast cancer screening, announced a partnership with Ferrum Health, the developer of a Healthcare AI Hub utilized by health systems to simplify and organized the deployment of artificial intelligence.",
@@ -1164,49 +1216,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-itll-be-a-while-fully-automated-driverless-cars-are-further-away-than-you-think.md",
-      "title": "It'll Be A While: Fully Automated, Driverless Cars Are Further Away Than You Think",
-      "excerpt": "Thus was born Google's Chauffeur project, now Waymo. \"Imagine ... all of the hurdles still to be overcome are related to artificial intelligence-related driving. There's cyber-security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
-      "originalUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/sites/11/2019/01/Autonomous-State-10.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
-      "publishedDateTime": "2021-11-27T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
         "images": null,
         "publishers": null,
         "authors": null

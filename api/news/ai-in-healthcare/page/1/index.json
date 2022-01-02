@@ -798,6 +798,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-20-5-artificial-intelligence-stocks-in-cathie-woods-portfolio.md",
+      "title": "5 Artificial Intelligence Stocks in Cathie Wood’s Portfolio",
+      "excerpt": "(NYSE:TDOC) represented 5.01% of Cathie Wood’s portfolio. In Q3, the company reported revenue of $521.6 million, up 80.6% from the prior-year quarter. Of the 867 hedge funds tracked by Insider Monkey,",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-artificial-intelligence-stocks-in-cathie-woods-portfolio-1014281/5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/03/08164427/Cathie-Wood-ARK-Investment-Management-1267.jpg",
+          "width": 1613,
+          "height": 2048,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-19T11:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-characters-for-good-created-by-artificial-intelligence.md",
       "title": "Characters for good, created by artificial intelligence",
       "excerpt": "MIT Media Lab researchers offer positive use cases of AI-generated synthetic characters for education and well-being. A new paper provides an open-source, easy-to-use pipeline that combines AI-generated models to create synthetic characters with facial gestures,",
@@ -1280,58 +1323,6 @@
         "name": "PR Newswire",
         "domain": "prnewswire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-artificial-intelligence-ai-system-combatting-healthcare-associated-infections-hai.md",
-      "title": "Artificial Intelligence (AI) System Combatting Healthcare Associated Infections (HAI)",
-      "excerpt": "We often hear of patients being admitted into the hospital for an illness and coming out with a different infection which they acquired while in the hospital. This is known as a healthcare-associated infection (HAI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-ai-system-combatting-hai-jack-hueter",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-ai-system-combatting-hai-jack-hueter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFGbqD-W-beWg/article-cover_image-shrink_720_1280/0/1639149288885?e=1644451200&v=beta&t=vzFW9gR1npGI2BZMf1nn2k59xwGNGLFN8bjMjCsCxvE",
-          "width": 969,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

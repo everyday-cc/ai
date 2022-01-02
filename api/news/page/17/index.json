@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
+      "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
+      "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
+      "originalUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://en-media.thebetterindia.com/uploads/2021/12/Robotex-India-Feature-1-1639488787.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-thebetterindia-com.cdn.ampproject.org/c/s/www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
+      "publishedDateTime": "2021-12-14T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheBetterIndia",
+        "domain": "thebetterindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
       "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
       "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
@@ -1095,49 +1138,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-can-artificial-intelligence-ever-be-ethical-answer-might-surprise-you.md",
-      "title": "Can Artificial Intelligence Ever Be Ethical? Answer Might Surprise You",
-      "excerpt": "Ethical artificial intelligence (AI) might be the next big thing, as the number of use cases of AI is increasing significantly across the globe. What was once believed to be a hefty technology has now made its way to almost all industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
-      "originalUrl": "https://www.gizbot.com/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/2021/12/ethical-ai-1-1639466150.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/can-artificial-intelligence-ever-be-ethical-answer-is-no-078199.html",
-      "publishedDateTime": "2021-12-13T23:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

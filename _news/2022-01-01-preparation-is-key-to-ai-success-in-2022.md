@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 100
 published: true
 
 provider:

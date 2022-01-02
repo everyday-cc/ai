@@ -7,7 +7,7 @@ originalUrl: "https://customerthink.com/future-of-machine-learning-ways-ml-and-a
 webUrl: "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

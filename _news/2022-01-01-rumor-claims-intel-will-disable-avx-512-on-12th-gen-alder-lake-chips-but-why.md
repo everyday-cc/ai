@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/rumor-claims-intel-will-forcibly-di
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/rumor-claims-intel-will-forcibly-disable-avx-512-on-alder-lake"
 type: article
 quality: 71
-heat: 73
+heat: 74
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-12-01-machine-learning-reduces-uncertainty-in-breast-cancer-diagnoses.md",
+      "title": "Machine learning reduces uncertainty in breast cancer diagnoses",
+      "excerpt": "A Michigan Tech-developed machine learning model uses probability to more accurately classify breast cancer shown in histopathology images and evaluate the uncertainty of its predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/machine-learning-reduc-1.jpg",
+          "width": 1200,
+          "height": 2629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-machine-uncertainty-breast-cancer.amp",
+      "publishedDateTime": "2021-12-01T06:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-risc-vs-open-chip-processors-expected-to-double-in-2022-and-double-again-in-2023.md",
       "title": "RISC-V's open chip processors expected to double in 2022, and double again in 2023",
       "excerpt": "The open chip standard will go from \"one drop in the bucket to two,\" representing a small fraction of the overall ISA market but showing incredible growth, according to a new report from Deloitte.",
@@ -1099,40 +1142,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-would-artificial-neural-networks-implemented-in-clinical-wards-help-nephrologists-in-predicting-epoetin-responsiveness.md",
-      "title": "Would Artificial Neural Networks Implemented in Clinical Wards Help Nephrologists in Predicting Epoetin Responsiveness?",
-      "excerpt": "The aim of this study was to re-evaluate the impact of the main parameters known to influence the responsiveness to epoetin beta and to test the performance of artificial neural networks (ANNs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/548842",
-      "originalUrl": "https://www.medscape.com/viewarticle/548842",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

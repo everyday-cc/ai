@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-20
 webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
 type: article
 quality: 56
-heat: 96
+heat: 98
 published: true
 
 provider:
