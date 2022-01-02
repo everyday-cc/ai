@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-20-new-theory-of-consciousness-in-humans-animals-and-artificial-intelligence.md",
+      "title": "New theory of consciousness in humans, animals and artificial intelligence",
+      "excerpt": "Two researchers at Ruhr-Universität Bochum (RUB) have come up with a new theory of consciousness. They have long been exploring the nature of consciousness, the question of how and where the brain generates consciousness,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/braincells.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
+      "publishedDateTime": "2021-12-20T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality.md",
       "title": "DARPA invests in AI that can translate instruction manuals into augmented reality",
       "excerpt": "The proposed system would essentially convert existing instructional manuals into a format that could be used by augmented reality systems.",
@@ -1087,49 +1129,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-the-growing-cost-of-deep-learning-for-source-code.md",
-      "title": "The Growing Cost of Deep Learning for Source Code",
-      "excerpt": "This would surely have sounded like a vision of a distant future just a decade ago, but such quick progress is indicative of the substantial and unique potential of deep learning for software engineering tasks and domains.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
-      "originalUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dl.acm.org/cms/attachment/97e981c2-320d-4e42-8d57-5388c3495f2b/uf1.jpg",
-          "width": 1021,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-18T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

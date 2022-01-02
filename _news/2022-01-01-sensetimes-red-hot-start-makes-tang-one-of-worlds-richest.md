@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time"
-    excerpt: "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it."
-    publishedDateTime: 2021-12-29T05:46:00Z
-    webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363"
-    ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-456678/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "US-blacklisted AI firm SenseTime shares jump 23% in Hong Kong debut"
     excerpt: "Chinese artificial intelligence startup SenseTime jumped as much as 23% from their IPO price as they debuted on the Hong Kong Stock Exchange. The startup had raised $740 million in its IPO and priced its shares at $0."
     publishedDateTime: 2021-12-30T06:09:00Z
@@ -83,20 +67,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/sensetime.png"
         width: 2000
         height: 1041
-        isCached: true
-  - title: "Chinese Company Names AI Debt Collector Employee of the Year"
-    excerpt: "Chinese real estate giant Vanke said its best employee of 2021 was not a human. The company declared an artificial intelligence-powered debt collector named Cui Xiaopan as its employee of the year, Sixth Tone’s sister publication The Paper reported Tuesday,"
-    publishedDateTime: 2021-12-31T01:38:00Z
-    webUrl: "https://www.sixthtone.com/news/1009347/chinese-company-names-ai-debt-collector-employee-of-the-year"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 37
-    images:
-      - url: "https://image5.sixthtone.com/image/5/48/447.jpg"
-        width: 2000
-        height: 1000
         isCached: true
 
 secured: "Bob05NUoptP7mtmQbuk8wXFBeHC9W4MMvjWuP0DjvEigtgWLc17fgvRxPxshRagCr+N7na1eUuY2k508nZFh5H0wOIMYP2CkTknJtndkqoBpKkQqp0h6GQQ5eS9R5vwb4mITuj2xSTMOIw/bH50XE5NOwgXDmPbij/rqAE8/C9OguYBOYapojCQePPO/WLgzZRH8CUlzPSqWJgI7p1R9VeEWFqJfH0+bG8FJYxVDT5BSu3S4TS2M7YuwKU53CROjaX22C3rBApiCaZCaa62h8jfTdl75VCRCRLpq7IqSKsRrFH/8Jwx+KgIopMBOaZ0Ji9qwfHx1C2BsjelbHQ4OkZft7VkNLS5g2nnGCRlISKw=;r6z8OmBtfPFXz97jHOKGRQ=="

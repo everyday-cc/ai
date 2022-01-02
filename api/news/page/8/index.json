@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-22-50-global-hubs-for-top-ai-talent.md",
+      "title": "50 Global Hubs for Top AI Talent",
+      "excerpt": "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent",
+      "originalUrl": "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent",
+      "publishedDateTime": "2021-12-21T11:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-face-detection-in-untrained-deep-neural-networks.md",
       "title": "Face detection in untrained deep neural networks",
       "excerpt": "Researchers have found that higher visual cognitive functions can arise spontaneously in untrained neural networks. A KAIST research team led by Professor Se-Bum Paik from the Department of Bio and Brain Engineering has shown that visual selectivity of facial images can arise even in completely untrained deep neural networks.",
@@ -1062,49 +1104,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-explained-why-eu-needs-to-invest-in-chip-design-and-packaging.md",
-      "title": "Explained: Why E.U. needs to invest in chip design and packaging",
-      "excerpt": "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China.",
-      "sourceUrl": null,
-      "webUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "originalUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fl.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "cdnAmpWebUrl": "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "publishedDateTime": "2021-12-21T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2021/how-104-acquir
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2021/how-104-acquiring-banks-are-using-ai-to-beat-fraud-boot-unprofitable-merchant-accounts/amp/"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 457
     height: 274
     isCached: true
-
-related:
-  - title: "75% of Acquiring Banks Now Use Artificial Intelligence to Detect Card Transaction Fraud"
-    excerpt: "AI In Focus, a PYMNTS and Brighterion collaboration, found that AI and related tech are needed to manage increases in both payments volume and fraud attacks."
-    publishedDateTime: 2021-12-29T06:26:00Z
-    webUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/75-pct-of-acquiring-banks-now-use-artificial-intelligence-to-detect-card-transaction-fraud/"
-    ampWebUrl: "https://www.pymnts.com/news/artificial-intelligence/2021/75-pct-of-acquiring-banks-now-use-artificial-intelligence-to-detect-card-transaction-fraud/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/75-pct-of-acquiring-banks-now-use-artificial-intelligence-to-detect-card-transaction-fraud/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 49
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/artificial-intelligence-bank-fraud-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "HW+WUtZHl6U2U4zv3SSzzaSWzWZ/ODQgnulrk25QsRE8fRT5mUetsZoQ6iX3zBWrY5mJOaXPGl7OR2epNojPClDclS37Eech38ulpRMxI5RTkpL7myFaXs2VRUl9rwJMbtiarruc4pClTHZY28rZUXUwdsoBnMwdtCYRKu1rcmJNH5k9E8IyILZsD7Fq+9B/7SEWd9o3FD0xI3xdu5jpti/ZUh++zP5X0b5ofhYYNMijVsucv5mLxqqu1r7rF5N00v9oYaewP5n/Y5otOgcr+wpm8VglmIxKxIJeSrx+u+m7QfPvFVkstps+Xii/grX+QU2fVSa+9ODrhd4nCIFqq39LPBDGJuo5VlOsy5I/rsiHacSYFmAp2dxjd9AOswB3awrVUQadNwrLlu5izLaBpzzbsg3vvO7JPKn8fNv8vKy6+Tv5iMDtz/R93tEAC5gkAHvsdEIjsR5SnWUjLnPSMuoRikBCrAAIteqbWq5R9BWIlPbRPw+8VKTMOJXnIXnKgOEZ1IhnIfDfawxr+Cyjpw==;H0Yltdw1uIH+NFZy32NIvQ=="
 ---

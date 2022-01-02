@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-27-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report.md",
+      "title": "HAI ROBOTICS Celebrates 5th Anniversary, Gets AI Unicorn Nomination by Hurun Report",
+      "excerpt": "In the past five years, the company secured strong footholds in factories and warehouses with its ACR solution. It was named a global unicorn in the AI sector by Hurun's index of global unicorn this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
+      "originalUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/8115abd3-6755-4174-881a-6e904d3144cf.jpeg?height=635&t=1640621986&width=1200",
+          "width": 600,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-a-desert-robot-depicts-ais-vast-opportunities.md",
       "title": "A desert robot depicts AI’s vast opportunities",
       "excerpt": "The next chapter in AI development will be defined by two trends: increased accessibility and increased technical maturity.",
@@ -1144,48 +1187,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-2022-look-ahead-arms-race-will-dominate-us-china-competition.md",
-      "title": "2022 look ahead: Arms race will dominate U.S. - China competition",
-      "excerpt": "Admiral James Stavridis was 16th supreme allied commander of NATO and 12th dean of the Fletcher School of Law and Diplomacy at Tufts University. He spent the bulk of his operational career in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
-      "originalUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F7%252F0%252F3%252F38073077-1-eng-GB%252FA20211223%2520aircraft%2520carrier%2520Liaoning.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-25T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-12-14-meet-nous-an-underwater-artificial-mind.md",
+      "title": "Meet NOUS: An Underwater ‘Artificial Mind’",
+      "excerpt": "The establishment of Maritime Protective Areas (MPA) and marine archaeological sites has been an objective of the Ministries of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
+      "originalUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.marinetechnologynews.com/images/maritime/w800h600pad/images-courtesy-george-128204.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
+      "cdnAmpWebUrl": "https://www-marinetechnologynews-com.cdn.ampproject.org/c/s/www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
+      "publishedDateTime": "2021-12-14T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marinetechnologynews.com",
+        "domain": "marinetechnologynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
       "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
       "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
@@ -1085,49 +1128,6 @@
       "provider": {
         "name": "TelecomTV",
         "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition.md",
-      "title": "Movement of COVID cases in this country to be tracked by AI-facial recognition",
-      "excerpt": "The project, set to go online in January 2022, will make use of more than 10,820 CCTV cameras scattered across the city to track a COVID case's movements, anyone they come into contact with, and whether they're wearing a mask or not,",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
-      "originalUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/mashable_sea/photo/default/ap21334287133366_ywuk.jpg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/18586/movement-of-covid-cases-in-this-country-to-be-tracked-by-ai-facial-recognition?amp=1",
-      "publishedDateTime": "2021-12-13T23:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null

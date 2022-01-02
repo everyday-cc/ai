@@ -55,15 +55,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027"
-    excerpt: "Pages Report] Check for Discount on Global and China Artificial Intelligence (AI) in the Freight Transportation Market Size, Status and Forecast 2021-2027 report by QYResearch Group. Global Artificial Intelligence (AI) in the Freight Transportation Scope"
-    publishedDateTime: 2021-12-29T06:45:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5228521-global-and-china-artificial-intelligence-ai-in-the-freight-transportation-market-size-status-and-forecast-2021-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 8
 
 secured: "7KTWKJA9J7PHYAniZbY38HPfR2um1WzHKnKRYMXgv5Vhc8YMvJs0erAz6IkOV1ItnEk9jitKdpxyunncwLhsqJmdXbuVMBrldoZa+TQM1EGLuPu+Q+S6fwCpmHJZsPJJf+Hi8vwAvdsRjsOEL6dBdtbYnEP5aeO25ZRXMBsBrxCVMJciXfqnBmRcA7P2tAvCVWF2hNblpasoQVYZWKvbpPJPHiKJzjuW/ehvDrUZB6tKL+Y16WxCU1wto3kGxNXOiDSLIApBGBiFvRz6D8v1Rhk2cMZtZ9ttUQ5GDuFwuw6++zbih9nP7J3gOUZ55ay1/BfAD3uyFbTua1irXAdGUmDOLw5Xulsd+30PUtHMOhKydkfRYevi/Vor4+W0LJE8QTufxyNFalL5SwnT08JolbDj0Lb7a/jo15qwEHNoNnSWqBwBUfrqKfgyYus+33UiBM6whvvd09Z25lCHZSDrgowjPJGhENVh3PslcjMlUVr8eP7FLM+m/MnJjbBesXazJG7wIg/ffxCgcexULPR0ZA==;+kRfTBn+2YqKuFMm1DuIPQ=="
 ---

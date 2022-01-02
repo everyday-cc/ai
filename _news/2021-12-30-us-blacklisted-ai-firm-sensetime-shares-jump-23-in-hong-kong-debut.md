@@ -9,8 +9,8 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-s
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Inshorts
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time"
-    excerpt: "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it."
-    publishedDateTime: 2021-12-29T05:46:00Z
-    webUrl: "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363"
-    ampWebUrl: "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-456678/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Chinese AI Giant SenseTime’s Shares Pop on Delayed Hong Kong Debut"
     excerpt: "Shares in SenseTime Group surged as much as 23 percent today after the Chinese artificial intelligence giant finally went public on the Hong Kong Stock Exchange after the initial date was pushed back two weeks after the company was added to a US government blacklist."
     publishedDateTime: 2021-12-30T09:48:00Z
@@ -69,20 +53,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/sensetime.png"
         width: 2000
         height: 1041
-        isCached: true
-  - title: "Chinese Company Names AI Debt Collector Employee of the Year"
-    excerpt: "Chinese real estate giant Vanke said its best employee of 2021 was not a human. The company declared an artificial intelligence-powered debt collector named Cui Xiaopan as its employee of the year, Sixth Tone’s sister publication The Paper reported Tuesday,"
-    publishedDateTime: 2021-12-31T01:38:00Z
-    webUrl: "https://www.sixthtone.com/news/1009347/chinese-company-names-ai-debt-collector-employee-of-the-year"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 37
-    images:
-      - url: "https://image5.sixthtone.com/image/5/48/447.jpg"
-        width: 2000
-        height: 1000
         isCached: true
   - title: "SenseTime’s red-hot start makes Tang one of world’s richest"
     excerpt: "SenseTime Group Inc co-founder Tang Xiao’ou has become one of the world’s richest people, after the Chinese artificial intelligence (AI) champion blew past concerns about American sanctions to surge as much as 23% on its Hong Kong debut."

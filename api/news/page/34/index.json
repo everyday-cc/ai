@@ -2,6 +2,59 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-12-02-meta-picks-aws-to-help-expand-its-ai-services.md",
+      "title": "Meta picks AWS to help expand its AI services",
+      "excerpt": "Meta, the parent company of Facebook, said it will use AWS services to \"complement\" its on-premise infrastructure and also broaden its use of AWS compute, storage and security ser",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai",
+      "originalUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1638449640/itpro/pytorch_meta_aws_GettyImages-1236945622.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/cloud/cloud-computing/361723/meta-selects-aws-as-strategic-cloud-provider-ai?amp",
+      "publishedDateTime": "2021-12-02T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy-instruction.md",
       "title": "Leading Speech Technology for Kids Company Releases First-of-its-Kind Feature to Accelerate Literacy Instruction",
       "excerpt": "SoapBox Labs, the speech recognition company that powers joyful learning and play experiences for kids, has launched a new feature that gives educators unprecedented",
@@ -1084,59 +1137,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning.md",
-      "title": "AWS wants to make it easier to get to grips with machine learning",
-      "excerpt": "Getting to grips with Machine Learning (ML) technology could soon be much easier thanks to a new service from Amazon Web Services. The company has launched Amazon SageMaker Studio Lab, a free, no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
-      "originalUrl": "https://www.techradar.com/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/44N2dMX6W8iN7QUNtgTKWM-1200-80.jpg",
-          "width": 970,
-          "height": 516,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning",
-      "publishedDateTime": "2021-12-01T18:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

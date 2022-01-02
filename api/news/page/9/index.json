@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-21-explained-why-eu-needs-to-invest-in-chip-design-and-packaging.md",
+      "title": "Explained: Why E.U. needs to invest in chip design and packaging",
+      "excerpt": "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China.",
+      "sourceUrl": null,
+      "webUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
+      "originalUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fl.thgim.com/static/theme/default/base/img/og-image.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
+      "cdnAmpWebUrl": "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
+      "publishedDateTime": "2021-12-21T00:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-commentary-the-ethical-use-of-ai-in-the-security-defense-industry.md",
       "title": "Commentary: The Ethical Use of AI in the Security, Defense Industry",
       "excerpt": "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,",
@@ -1100,48 +1143,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-new-theory-of-consciousness-in-humans-animals-and-artificial-intelligence.md",
-      "title": "New theory of consciousness in humans, animals and artificial intelligence",
-      "excerpt": "Two researchers at Ruhr-Universität Bochum (RUB) have come up with a new theory of consciousness. They have long been exploring the nature of consciousness, the question of how and where the brain generates consciousness,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/braincells.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
-      "publishedDateTime": "2021-12-20T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

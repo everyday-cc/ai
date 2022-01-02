@@ -2,6 +2,57 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-12-digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations.md",
+      "title": "Digital Diplomacy: AI As A Tool To Strengthen International Relations",
+      "excerpt": "Steady international relations are necessary to maintain world peace and a stable global financial market. However, diplomacy should ideally also bridge the gap between the wealthy and poor countries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b5f38d64a905653f6a2ed4%2F0x0.jpg",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2021/12/12/digital-diplomacy-ai-as-a-tool-to-strengthen-international-relations/amp/",
+      "publishedDateTime": "2021-12-12T04:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-12-tega-industries-to-debut-on-december-13-what-could-be-listing-premium.md",
       "title": "Tega Industries to debut on December 13. What could be listing premium?",
       "excerpt": "Tega Industries shares were available at a price of Rs 753 per share in the grey market, a massive 66.2 percent or Rs 300 premium over issue price of Rs 453 per share, as per the IPO Watch and IPO Central.",
@@ -1098,58 +1149,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-exclusive-microsofts-16-billion-nuance-bid-set-for-eu-antitrust-approval-sources.md",
-      "title": "Exclusive-Microsoft's $16 billion Nuance bid set for EU antitrust approval -sources",
-      "excerpt": "A Microsoft logo is seen in Los Angeles, California U.S. November 7, 2017. REUTERS/Lucy Nicholson/File Photo/File Photo",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/",
-      "originalUrl": "https://www.reuters.com/news/picture/exclusive-microsofts-16-billion-nuance-b-idUSKBN2IP0UR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S6ULVEOZDVLILIHGLNYJ5EPUEE.jpg",
-          "width": 4657,
-          "height": 3105,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T08:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

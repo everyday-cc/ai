@@ -2,6 +2,57 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-08-newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts.md",
+      "title": "NewtonX raises $32M for AI that connects customers with subject-matter experts",
+      "excerpt": "NewtonX, a startup developing graph technology that connects experts with companies seeking answers to questions, has raised $32 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/",
+      "originalUrl": "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/newtonx-raises-32m-for-ai-that-connects-customers-with-subject-matter-experts/amp/",
+      "publishedDateTime": "2021-12-08T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-natural-language-processing-and-conversational-ai-in-the-call-center.md",
       "title": "Natural Language Processing and Conversational AI in the Call Center",
       "excerpt": "Natural language processing (NLP) and conversational AI are often used together with machine learning, natural language understanding (NLU) to create sophisticated applications that enable machines to communicate with human beings. This article will look ...",
@@ -1065,49 +1116,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations.md",
-      "title": "Cognitive Space 2021 Recap - Momentum in Artificial Intelligence for Satellite Operations",
-      "excerpt": "Recap - Momentum in Artificial Intelligence for Satellite Operations Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth for economic,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html",
-      "publishedDateTime": "2021-12-07T21:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
