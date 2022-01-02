@@ -9,7 +9,7 @@ ampWebUrl: "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of
 cdnAmpWebUrl: "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 87
 published: true
 
 provider:

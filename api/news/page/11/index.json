@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-12-18-9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-aiml-powering-metaverse-and-more.md",
+      "title": "9 Semiconductor Themes For 2022: Automotive Chip Shortage, Strong Cloud Demand, AI/ML Powering Metaverse And More",
+      "excerpt": "Recent supply chain conditions set up the semiconductor sector for substantial revenue in 2022 with much of the growth coming from substantial restocking by customers, according to an analyst at Morgan Stanley.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-ai-ml-powering-metaverse-and-more-1031054095",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-ai-ml-powering-metaverse-and-more-1031054095",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/microchips-4924170_1920.image_by_cristian_ibarra_from_pixabay.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free.md",
       "title": "As Log4j sent defenders scrambling, this startup made its threat data free",
       "excerpt": "In the wake of the Apache Log4j vulnerability disclosure, GreyNoise made its threat data freely available to the security industry.",
@@ -1154,49 +1207,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit.md",
-      "title": "Intel steers toward driverless future with Mobileye self-driving car unit",
-      "excerpt": "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "originalUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "publishedDateTime": "2021-12-17T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

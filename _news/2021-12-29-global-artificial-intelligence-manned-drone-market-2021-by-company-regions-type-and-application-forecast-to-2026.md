@@ -18,31 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Manned Drone Market to Witness Huge Growth by 2027"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence Manned Drone Industry from its research database Artificial Intelligence Manned Drone Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence Manned Drone Market currently"
-    publishedDateTime: 2021-12-28T12:02:00Z
-    webUrl: "https://www.openpr.com/news/2512604/artificial-intelligence-manned-drone-market-to-witness-huge"
-    ampWebUrl: "https://www.openpr.com/amp/2512604/artificial-intelligence-manned-drone-market-to-witness-huge"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2512604/artificial-intelligence-manned-drone-market-to-witness-huge"
+  - title: "AI based Edge Computing Chip Market Top Company, Geographical Region, and Industry Segments till 2027| Cambricon, Nvidia, Huawei Hisilicon"
+    excerpt: "LOS ANGELES United States The research study presented in this report offers complete and intelligent analysis of the competition segmentation dynamics and geographical advancement of the global AI based Edge Computing Chip market It takes into account the CAGR value"
+    publishedDateTime: 2021-12-31T17:41:00Z
+    webUrl: "https://www.openpr.com/news/2515048/ai-based-edge-computing-chip-market-top-company-geographical"
+    ampWebUrl: "https://www.openpr.com/amp/2515048/ai-based-edge-computing-chip-market-top-company-geographical"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515048/ai-based-edge-computing-chip-market-top-company-geographical"
     type: article
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 55
+    quality: 40
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc28384503_g.jpg"
+      - url: "https://cdn.openpr.com/U/c/Uc31458200_g.jpg"
         width: 800
-        height: 450
+        height: 407
         isCached: true
-  - title: "Global and Japan AI in Hardware Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and Japan AI in Hardware Market Insights, Forecast to 2027 report by QYResearch Group. AI in Hardware market is segmented by region (country),"
-    publishedDateTime: 2021-12-29T06:43:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5228559-global-and-japan-ai-in-hardware-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 17
 
 secured: "0V7DUz+EZrEYXAGPUe/84g7BYB5b/d2yWAMF737MALFksjl7vrVnccvtJTNNFvwDvDSz0NxQoNyZqinVnddKqt08FWSL9LcZYrcZVU7YXZvAgbXWE/cF43eeRSlIIil3Iz6AYjKlxvdoqgMp8LJ672bxx5BD0bW1Zizr8PcpRVVlR/RaE7HhA1jY7Mncv1LW6OkG2iLtpnD0nQmti/ffYNtnAZNKdEXi+0vvSbEJFjOcjjvbI6dvPXiSQJ/hH4vaEAA3mNFgIHwNSbFRb+iI7QBBYCrzt360PDGZOx30bX4iNik0mifmlQCFLeDRpKykQT3ztz75OVXFgUNRVSGzKU6N4GbUMXFzz0X0fbUSxuQ=;QJfs0IjbxvEopggy+2YsaQ=="
 ---

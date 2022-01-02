@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3161430/alibabas-research
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3161430/alibabas-research-academy-identifies-ai-applications-science-new"
 type: article
 quality: 83
-heat: 83
+heat: 85
 published: true
 
 provider:

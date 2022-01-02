@@ -41,22 +41,6 @@ related:
         width: 600
         height: 449
         isCached: true
-  - title: "Airtel, TCS successfully test neural manufacturing on 5G network"
-    excerpt: "These solutions help manufacturers build smart, cognitive factories which mimic resilient and adaptive behaviours"
-    publishedDateTime: 2021-12-28T12:19:00Z
-    webUrl: "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/airtel-tcs-successfully-test-neural-manufacturing-on-5g-network/article38053926.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 59
-    images:
-      - url: "https://www.thehindubusinessline.com/companies/ji9xdx/article38053925.ece/ALTERNATES/LANDSCAPE_615/airtel2021-08-30T111652Z483559939RC2NFP9O1PCURTRMADP3BHARTI-AIRTEL-INDIA-F"
-        width: 615
-        height: 384
-        isCached: true
   - title: "Airtel and TCS demonstrate 5G based Remote Robotic Operations and AI driven Quality Inspection for Factories of the Future"
     excerpt: "India's premier digital communications solutions provider, and Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), announced the successful testing of innovative use cases from TCS' Neural Manufa"
     publishedDateTime: 2021-12-28T18:13:00Z

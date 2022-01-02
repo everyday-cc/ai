@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2021/12/31/new-year-reso
 webUrl: "https://www.washingtonpost.com/technology/2021/12/31/new-year-resolutions-ai-artificial-intelligence/"
 type: article
 quality: 137
-heat: 138
+heat: 137
 published: true
 
 provider:

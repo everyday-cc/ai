@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-17-intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit.md",
+      "title": "Intel steers toward driverless future with Mobileye self-driving car unit",
+      "excerpt": "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022",
+      "sourceUrl": null,
+      "webUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "originalUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
+      "publishedDateTime": "2021-12-17T02:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechHQ",
+        "domain": "techhq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-mediatek-officially-launches-dimensity-9000-flagship-chip.md",
       "title": "MediaTek Officially Launches Dimensity 9000 Flagship Chip",
       "excerpt": "Built on the leading TSMC N4 process, Dimensity 9000 brings full flagship performance and power-efficiency to smartphones. First MediaTek powered devices will be available in Q1 of 2022",
@@ -1095,58 +1138,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-flexxon-ssds-laptops-have-ai-based-data-security-inside.md",
-      "title": "Flexxon SSDs, Laptops Have AI-Based Data Security Inside",
-      "excerpt": "The X-PHY AI Embedded Cyber Secure SSD is an internal SSD designed to detect any threats, known or unknown, to your data's security. The company also teamed with Lenovo on three lines of ThinkPad-based laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
-      "originalUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/07HRzuCVmrWvQRtlZ8AzTCg-1.fit_lim.size_1200x630.v1639629116.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/flexxon-ssds-laptops-have-ai-based-data-security-inside?amp=true",
-      "publishedDateTime": "2021-12-16T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

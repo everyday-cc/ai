@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2513030/ai-in-social-media-market-new-stu
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2513030/ai-in-social-media-market-new-study-offers-insights-for-2027"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 800
     height: 457
     isCached: true
+
+related:
+  - title: "Global and Japan AI in Hardware Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan AI in Hardware Market Insights, Forecast to 2027 report by QYResearch Group. AI in Hardware market is segmented by region (country),"
+    publishedDateTime: 2021-12-29T06:43:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5228559-global-and-japan-ai-in-hardware-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 17
 
 secured: "Csm0p1ymk45g+tlL7ah070jcVrN8vjjQ/E89u+ZaJWyLKGBRQEvqBgrp4B+eH+L7OLe2XNpXYKJCjUlTTF76pSDU9lPvaftiahUZcvaWW6ExhGhji8qHQbUl+XJbw0h6g5F0uuajGJJMLoIMBV6+2zaoN8NI+70iPDjFJCN4qDfqW669KILprOWy9pPJrRJnoDy2lWBp+vd6T4ekt/bXa9V8u5UgZDZDJK7G+hSsS1jVgb5EMrcNqsRfuh/HTjj48e8TEpbm+CrdMFIUWXVO/S+nYTOdmj5h8P/y95u0cVpKoch61CTfAbD5xY8/f4zM3Bf/y+XwlOlC4iDuhnqARF0gSJR99mSnvmxE4ojZc9Y=;djPW/HTFg6R0g+iAcJTwgw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-in
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
 type: article
 quality: 67
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
         width: 1800
         height: 600
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
-    publishedDateTime: 2021-12-28T12:16:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5164798-global-artificial-intelligence-ai-in-education-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 29
   - title: "DigiMax Launches ESG AI Division – Invests into Green Energy Solutions Company MADA Analytics"
     excerpt: "OPTION TO PURCHASE 100% OWNERSHIP OF THIS DISRUPTIVE ESG TECHNOLOGY SOLUTIONS COMPANY – TORONTO – Plato Data Intelligence"
     publishedDateTime: 2021-12-31T17:28:00Z

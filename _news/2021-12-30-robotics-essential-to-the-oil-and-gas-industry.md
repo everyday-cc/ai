@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hydrocarbonengineering.com/gas-processing/30122021/robot
 cdnAmpWebUrl: "https://www-hydrocarbonengineering-com.cdn.ampproject.org/c/s/www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

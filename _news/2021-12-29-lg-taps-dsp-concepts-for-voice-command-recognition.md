@@ -26,22 +26,6 @@ images:
     height: 835
     isCached: true
 
-related:
-  - title: "LG works together with DSP Concepts to deliver superior quality voice command recognition for innovative new premium TV"
-    excerpt: "LG chose DSP Concepts as their audio solutions provider. DSP Concepts used the Audio Weaver design platform to craft a custom solution for LG based on the renowned TalkTo audio front end. Because Audio Weaver makes it easy to design,"
-    publishedDateTime: 2021-12-28T12:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-    images:
-      - url: "https://mma.prnewswire.com/media/1716992/65ART90.jpg"
-        width: 400
-        height: 225
-        isCached: true
-
 secured: "BxMpdJ5ktYgwy/fKL5WWfAkEIvrdTEkksuNyz+vEXI4dXtRIPP/GutBKgEl+dC69HvdVKQY0diYcYobYwZMHCnDANJaN+93SGKg00BBMFQlANWKW1AUaKUmS+QGIPxfT4VYOhI+MQlG4ypcum2Fzuid8NyD+jqUjslL5CzPyoYrgNQvpf9OEDmqLVsJVxdWDI+SqFRyimwpY+f2c8s4q4YtK8jB3jh0q62wGTkZg2lGsAPMP3nS/VawWuFQrKd0O8rZ09AFWd65Lu7XjhA7czv/auIcisYC2ZnRk9oEC6QqfrMo7FgJvHrjBmSQXcEQNd/NLxTWrjcdOPJLLgzeKy0vv0as+DWCGmKaIO5Gem+1BJ0E86znLwIjgxObPOAk9iOjivsVOZCBLhQ3s9MMof9Nq8nW7TZR6oyEnYn1NNAD8EEiZ/5wFboirY4OUSq8vGXWU2k6449C4yEj0/vwedA2RZLxXlAe9eBc9iVEMAljnSSyUN1WpMALy2Qilt7PkN4aQdvwlGGZytUymbIWwWA==;FGSAsxmBL4qUnLuNagH0jw=="
 ---
 

@@ -45,15 +45,6 @@ related:
         width: 1800
         height: 600
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Education Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research. Artificial intelligence (AI) in education refers to the use"
-    publishedDateTime: 2021-12-28T12:16:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5164798-global-artificial-intelligence-ai-in-education-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 29
   - title: "Analytics in 2022 Means Mastery of Distributed Data Politics"
     excerpt: "Data is distributed and dispersed by its very nature. How organizations acknowledge and accommodate that reality is a matter of politics and pragmatism."
     publishedDateTime: 2021-12-29T13:00:00Z
