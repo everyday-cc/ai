@@ -7,7 +7,7 @@ originalUrl: "https://www.gulf-times.com/story/707285/Ministry-rolls-out-self-dr
 webUrl: "https://www.gulf-times.com/story/707285/Ministry-rolls-out-self-driving-minibus-trial-at-Q"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving minibus trial starts at Qatar Foundation campus"
-    excerpt: "Doha: The Ministry of Transport, in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the trial of an autonomous minibus with zero"
-    publishedDateTime: 2022-01-02T08:11:00Z
-    webUrl: "https://www.thepeninsulaqatar.com/article/02/01/2022/self-driving-minibus-trial-starts-at-qatar-foundation-campus"
+  - title: "Self driving minibus trial starts at Qatar Foundation campus"
+    excerpt: "The Ministry of Transport, in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the trial of an autonomo"
+    publishedDateTime: 2022-01-02T09:19:00Z
+    webUrl: "https://menafn.com/1103474515/Self-driving-minibus-trial-starts-at-Qatar-Foundation-campus"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
     images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20220102_1641111112-897.jpg?1641111112"
-        width: 1200
-        height: 900
+      - url: "https://menafn.com/updates/pr/2022-01/02/TP_c1c74image_story.jpg"
+        width: 600
+        height: 450
         isCached: true
+  - title: "Self-Driving Minibus on Roll Out Trial in Education City"
+    excerpt: "The Ministry of Transport (MOTC), in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the rollout of the trial for an autonomous minibus with zero carbon emissions in Education City."
+    publishedDateTime: 2022-01-02T10:11:00Z
+    webUrl: "https://www.marhaba.qa/self-driving-minibus-on-roll-out-trial-in-education-city/"
+    type: article
+    provider:
+      name: marhaba.qa
+      domain: marhaba.qa
+    quality: 21
   - title: "Ministry of Transport rolls out self-driving minibus trial at Qatar Foundation campus"
     excerpt: "Over the next 10 days, the autonomous minibus trial will take place within Education City along a predefined route. Know the full details here."
     publishedDateTime: 2022-01-02T08:26:00Z
@@ -54,6 +63,6 @@ related:
         height: 500
         isCached: true
 
-secured: "ZOpZ3OWmMR0Ofg+8kXLkKCMyuvRa1v+0qakCq2Z1MahbZvueJS3jT1DqT/DFTCrD6YZ20t2ScYk7m668YUhzhIkNEAsZs7FPG+zZEFzPNPvqnkuODO2e3a3v9VJYseUvAmLc2M0KRkFUbYz3QfP/HRiYihOOXRRKHFR3nabUGlrpZxy4R+gXaKJJFX5zK8qHO2FlAx3rpQ2OFivslsJqQoAIUVgfvd5s6zLEXw19AwbeuwOZaX2HC2Q9MM4J0uBhTd/cX29mgmGAMnZVVU6WyP3hsw2Fdw0rO9ZmNPswvOUl5bpOKCdnpgEP62NgbPNCXNqk/l52Y/655VH9tT9ResmDRTjP5GLVhbvhsuL//1w=;OXeNtwy8/arjUuWTrVMXzQ=="
+secured: "Jpk0qr5QFN8nOO/86OoRXoTjEXASOfWBBrZbRapmC9EqKefpG9PgiZ8EqPLFXF8h1xpmPE9+e+HiFsnGuXAQ9w71oY0akWXRvDjLM19/1+mv4TjWUBSlYa1J1HLzSGZCKikHJEMNdIZLZqNNkhQqUFOGUBJIx53eFIdeX/LFI+d0UUEV6gKRKwgbieR4DNRxO/PpAcsz2gvyxuDOSUNZLVNwoiPKBfgMR1Uv7YSGR9BkHgXPG2WSaqQSavqStY+e3eqsAsEjnNs4G6BX6N5U1D6bsyFN7FnDz9NcCrhJ/QYNPH7r06VRv0HZ8+gVAnRIyIzmHY9F0Z73vEyv2WIy9QEF+0oxxNBAQnwEqE4RCz4GUsCQcUbrttJkRNMlG4UQ+FKQB2MuGvFf0VuTCD/agGbUNrLdHJNbKrVvwthWcKFPXN22aVMfjvUnGY6+EsnUoGlrO/1wZJp1WW4f4/s5YHGIbFl+pXHqFqRV3ewbg+El30STLbqS0xvnfciQgXyq2lJYgzF/hwo7RDx9/uJYag==;IC1GL60mL7wdKv2xH38nmg=="
 ---
 

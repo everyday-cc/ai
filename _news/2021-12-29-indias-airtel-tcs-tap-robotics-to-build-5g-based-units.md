@@ -7,7 +7,7 @@ originalUrl: "https://developingtelecoms.com/telecom-technology/enterprise-ecosy
 webUrl: "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -42,15 +42,6 @@ related:
         width: 350
         height: 233
         isCached: true
-  - title: "Airtel and TCS demonstrate 5G based Remote Robotic Operations and AI driven Quality Inspection for Factories of the Future"
-    excerpt: "India's premier digital communications solutions provider, and Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS), announced the successful testing of innovative use cases from TCS' Neural Manufa"
-    publishedDateTime: 2021-12-28T18:13:00Z
-    webUrl: "https://www.equitybulls.com/admin/news2006/news_det.asp?id=304282"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 8
 
 secured: "uLpLifsZ9zfLvFFx+SssZE83qa0wXD8QA9VaslLO0Wr/Y7mTbeKOdF9weD/n07vpi7z8NWVEU7upn74I2+DJW1PLQUAf5SKJ4aS/8foQpp+3axejE7yBBlwNFzWwW4QAnrs09qYeMefSASXz2MAtC/Oer7ZJzzeo7wiTMpZETFPhYJ6HKaY/pm9tXUtswd2k2Pf2tLAI4yAxhpNbPiGbe6D/8/5SQbuDjlEOtpklUNMl5LqfWbEa650XwU1ZqyAIMn0lV+/qxbr3/HBdH2E4q60dQfXnXnZhbYxKbg83rrbaY2lfPmIvSAdRF+bVbLK2Ez219WO/fP9OtsOtW79scoxzlcgB3x1ppnQu44/XsXnCBrwcfbG8dfaMUgLFNmBfWr3knZxhEftQwJMYb3FWjBncDVABWXSdiHFhGGTB5KtDWJaIg1L5Lsb/7jvDeYALVwIb+FDCAnSSHHRUd3iMj6T/Zx7Y597vUFm9n1G1fjlCi0mpZxUYLp72sSylhzVO1OH1SeFbFyEcVX3DK/MOaQ==;3DTtjnoloDegUZJoI23B1g=="
 ---

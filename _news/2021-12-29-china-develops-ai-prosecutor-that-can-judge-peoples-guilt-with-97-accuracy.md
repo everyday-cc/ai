@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ladbible.com/news/latest-china-develops-ai-that-can-judg
 cdnAmpWebUrl: "https://www-ladbible-com.cdn.ampproject.org/c/s/www.ladbible.com/news/latest-china-develops-ai-that-can-judge-peoples-guilt-with-97-accuracy-20211229.amp.html"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "China Has Developed An AI ‘Prosecutor’ That Can Charge People With Crimes"
-    excerpt: "Advertisement Chinese researchers have developed a ‘prosecutor’ that can charge people with crimes using artificial intelligence. The technology can detect ‘dissent’ and other offenses such as fraud,"
-    publishedDateTime: 2021-12-28T18:16:00Z
-    webUrl: "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/"
-    ampWebUrl: "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 56
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2021/12/AI-Prosecutor-China-1-1640663571.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "China Develops Artificial Intelligence ‘Prosecutor’ to Charge People with Crimes"
     excerpt: "Scientists in China have reportedly developed an artificial intelligence program able to file criminal charges."
     publishedDateTime: 2021-12-28T20:05:00Z

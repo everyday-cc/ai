@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self driving minibus trial starts at Qatar Foundation campus"
+    excerpt: "The Ministry of Transport, in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the trial of an autonomo"
+    publishedDateTime: 2022-01-02T09:19:00Z
+    webUrl: "https://menafn.com/1103474515/Self-driving-minibus-trial-starts-at-Qatar-Foundation-campus"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/02/TP_c1c74image_story.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Ministry rolls out self-driving minibus trial at QF Campus"
     excerpt: "The Ministry of Transport, in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the trial of an autonomous minibus with zero carbon emissions at Qatar Foundation's Campus."
     publishedDateTime: 2022-01-02T08:45:00Z
@@ -39,20 +53,15 @@ related:
         width: 620
         height: 355
         isCached: true
-  - title: "Self-driving minibus trial starts at Qatar Foundation campus"
-    excerpt: "Doha: The Ministry of Transport, in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the trial of an autonomous minibus with zero"
-    publishedDateTime: 2022-01-02T08:11:00Z
-    webUrl: "https://www.thepeninsulaqatar.com/article/02/01/2022/self-driving-minibus-trial-starts-at-qatar-foundation-campus"
+  - title: "Self-Driving Minibus on Roll Out Trial in Education City"
+    excerpt: "The Ministry of Transport (MOTC), in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the rollout of the trial for an autonomous minibus with zero carbon emissions in Education City."
+    publishedDateTime: 2022-01-02T10:11:00Z
+    webUrl: "https://www.marhaba.qa/self-driving-minibus-on-roll-out-trial-in-education-city/"
     type: article
     provider:
-      name: The Peninsula
-      domain: thepeninsulaqatar.com
-    quality: 24
-    images:
-      - url: "https://thepeninsulaqatar.com/get/maximage/20220102_1641111112-897.jpg?1641111112"
-        width: 1200
-        height: 900
-        isCached: true
+      name: marhaba.qa
+      domain: marhaba.qa
+    quality: 21
 
 secured: "OdWxp23s/SpFXBIrWOnysqyQwy4fcmujQuJsxUobNh/fhX3oglR8z3CRJSJs6Z1v0HAzS1I8HJ7yIf+UdM1kVHFubYXYM+6eWqmVPLNLMx7IuaUaB+Tu0ntehdPB8LGFEH7nQtVE+/kZGOS8XViOh/ubbC13kJQ4XzFCzYcHVRQq46E83hEdpDSddwgEcmnMT/Fbu0MokiECbjBzVkOwpwKtWndhkyzpyUYBdl35/VAlYbMdkKYIiYcqlf5XD0HWZEt6RshyXmdj4NN6griE0VebrNESPsnx6MkntYsfSwZt92tac89cYKz2l3Ft3LaxAwqkY9CuElEx5Tt7bvzZaFvjMSqKr55Gu1zg+ZRVqCc=;lbXO2fvT/m9cxi8hYsQ2wQ=="
 ---
