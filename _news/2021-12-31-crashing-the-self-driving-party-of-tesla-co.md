@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/12/12/PMJS/18fdf1f4-31c6-47ed-9ba1-cd90d0760f69-MJS-EV00p1.jpg?quality=10"
         width: 4717
         height: 2775
-        isCached: true
-  - title: "2021 roundup: Year of the self-driving shuttle"
-    excerpt: "Over the course of this year, shuttles became an extremely popular platform for testing self-driving technologies. While there has been previous testing of shuttles globally, the sheer volume of autonomous shuttles that were deployed in 2021 was unlike anything the automotive market has seen previously."
-    publishedDateTime: 2021-12-28T13:05:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17563/2021-roundup-year-of-the-self-driving-shuttle"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/563/17563/National_parks2.jpg"
-        width: 750
-        height: 502
         isCached: true
 
 secured: "YseJzVPTndEOXdmGEOnS9l6tOmrhkGoMfYwFFSm7osFoQvgJUUBmsBhNKmTseE5GiYN4lWyAm+vSBiLFhSO9pDYkfDCtgrLz+lD+3Nwr6plMWghoYkrtfBJpfKEkZd4OC5vdcHo3DAjtiY5ZpA9HR5Aexc2evKwSd8hUCHMgLNzfZkETWbOv//YZwGx1nvCSlAJ7ah8c+Y2mCKmwBYVgoWbSNqkSZeifDBvvzx7fR+E06OwXlka5sMyP3Sx8IQlp8DURocCaM3frPvfVH3ZoDGsNulnihUlQSUZE1EllWHkVnEnoANdf0KYJrbwVTSH0ZKi3dgAs+c8omRUD0K2YcoIrtPALe7cPftG31wPA1Oi4LZZsYJsHH7s96aLxOnooew0f8erT2sU1d8kJqdDX+u4rDXAwPndEyZhy36sVJuAPgvOccJwhQUQyBy8CRxUTTUFBdrqieivLvfYirDGqL/mTWp9UP6s+n0gWaOlv27Uw3A4fsOT6FwxyLWizyL0F+dDL8+AgtvRRRd6s4ZTzSA==;E3i8p9uQfn1B9iYqm9DWHQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252510993/Top-10-technology-and-
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510993/Top-10-technology-and-ethics-stories-of-2021?amp=1"
 type: article
 quality: 59
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "FleetOwner's top 10 technology stories of 2021"
-    excerpt: "As autonomous freight networks begin to emerge and smart trucks and trailers become reality, FleetOwner editors and readers turned a lot of attention to the technology that is changing the trucking industry in 2021."
-    publishedDateTime: 2021-12-28T13:33:00Z
-    webUrl: "https://www.fleetowner.com/technology/article/21212365/fleetowners-top-10-technology-stories-of-2021"
-    type: article
-    provider:
-      name: Fleet Owner
-      domain: fleetowner.com
-    quality: 24
-    images:
-      - url: "https://img.fleetowner.com/files/base/ebm/fleetowner/image/2021/12/2021_technology_7_AI_and_humans_dreamstime_l_172987598.60ddc8098dea9.61c32b4be9e6e.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The 10 Most Popular Language Industry Stories of 2021"
     excerpt: "A recap of Slator’s top 10 stories of 2021 shows the translation industry — from job prospects to heavy hitters’ M&A — is thriving."
     publishedDateTime: 2021-12-29T11:11:00Z

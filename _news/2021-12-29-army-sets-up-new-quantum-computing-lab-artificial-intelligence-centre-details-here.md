@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-l
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1"
 type: article
 quality: 65
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://img.jagranjosh.com/images/2021/December/30122021/Qunatum_Lab.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Getting from here to there - Competing in the age of AI."
+    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
+    publishedDateTime: 2022-01-01T18:27:00Z
+    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
+        width: 756
+        height: 720
         isCached: true
   - title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
     excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pr"

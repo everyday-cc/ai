@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Chinese Scientists Created an AI 'Prosecutor' That Can Press Charges"
-    excerpt: "Researchers in China have created an AI \"prosecutor\" that can reportedly identify crimes and file charges against criminals."
-    publishedDateTime: 2021-12-28T14:30:00Z
-    webUrl: "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
-    ampWebUrl: "https://amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 57
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/9lwjQ1rK6E/sizes/in-a-first-chinese-scientists-create-ai-prosecutor-that-can-press-charges_resize_md.jpg"
-        width: 744
-        height: 419
-        isCached: true
   - title: "China Has Developed An AI ‘Prosecutor’ That Can Charge People With Crimes"
     excerpt: "Advertisement Chinese researchers have developed a ‘prosecutor’ that can charge people with crimes using artificial intelligence. The technology can detect ‘dissent’ and other offenses such as fraud,"
     publishedDateTime: 2021-12-28T18:16:00Z
@@ -67,20 +51,6 @@ related:
       - url: "https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fbb5eacc061cb924f69f24f5315d2cf2a.jpg"
         width: 1200
         height: 803
-        isCached: true
-  - title: "Chinese Company Names AI Debt Collector Employee of the Year"
-    excerpt: "Chinese real estate giant Vanke said its best employee of 2021 was not a human. The company declared an artificial intelligence-powered debt collector named Cui Xiaopan as its employee of the year, Sixth Tone’s sister publication The Paper reported Tuesday,"
-    publishedDateTime: 2021-12-31T01:38:00Z
-    webUrl: "https://www.sixthtone.com/news/1009347/chinese-company-names-ai-debt-collector-employee-of-the-year"
-    type: article
-    provider:
-      name: Sixth Tone
-      domain: sixthtone.com
-    quality: 37
-    images:
-      - url: "https://image5.sixthtone.com/image/5/48/447.jpg"
-        width: 2000
-        height: 1000
         isCached: true
 
 secured: "sPz1hEDCGAmLZGUMSVdnZq2o9FzlKmx92Dn5W0abj7ss9dsQtc2ZxRP+VKpvfoS+Do8a7RFlDNwo+4+UKbLYrU+5+m5kE0keyuOZZUtTl/qUtdzaNyhegt4zFYweiy6lg+MOmkFL/UqD464zBK12gRbsLhn6O1slXQNxZWQBnv97E5cwrkpfh/qRm04VvPecs8aO6z7A+wa6LIKzsuLF2E6CBTGptAs6JWRJyq6RlzC7sUTerHOTHXPk4DGtE4/yIGI4YC22vHKLrS96tfgYAGUpVNPTc4BJtl1tR8FM7CnHyr7X+h5WLLn3MqLQtw4WJm3K02gBDBxw9dSCytuOWgaZTcutVNR+PHaSLRBiHuE=;uSQTMBpP21fxWadTFxRbkw=="

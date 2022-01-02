@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analytics and AI in 2022: Innovation in the era of COVID"
-    excerpt: "This year's predictions focus less on analytics technology per se and more on its application to address pandemic-driven phenomena."
-    publishedDateTime: 2021-12-28T14:03:00Z
-    webUrl: "https://www.zdnet.com/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/analytics-and-ai-in-2022-innovation-in-the-era-of-covid/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
   - title: "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends"
     excerpt: "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t"
     publishedDateTime: 2021-12-31T13:13:00Z
@@ -49,6 +38,22 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
         width: 1800
         height: 600
+        isCached: true
+  - title: "Consumer AI Market Regional Growth Drivers, Segments, Analysis, Opportunities and Trends 2022-2030"
+    excerpt: "The Global Consumer AI Market size is estimated to be USD 5 00 billion in 2019 and is predicted to reach USD 149 60 billion by 2030 with a CAGR of 36 2 from 2020 2030 Artificial intelligence is also"
+    publishedDateTime: 2021-12-31T09:48:00Z
+    webUrl: "https://www.openpr.com/news/2514897/consumer-ai-market-regional-growth-drivers-segments"
+    ampWebUrl: "https://www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 45
+    images:
+      - url: "https://cdn.openpr.com/U/c/Uc31759564_g.jpg"
+        width: 800
+        height: 517
         isCached: true
   - title: "DigiMax Launches ESG AI Division – Invests into Green Energy Solutions Company MADA Analytics"
     excerpt: "OPTION TO PURCHASE 100% OWNERSHIP OF THIS DISRUPTIVE ESG TECHNOLOGY SOLUTIONS COMPANY – TORONTO – Plato Data Intelligence"

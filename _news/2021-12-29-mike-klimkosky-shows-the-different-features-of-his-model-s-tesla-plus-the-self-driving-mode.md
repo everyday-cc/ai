@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "2021 roundup: Year of the self-driving shuttle"
-    excerpt: "Over the course of this year, shuttles became an extremely popular platform for testing self-driving technologies. While there has been previous testing of shuttles globally, the sheer volume of autonomous shuttles that were deployed in 2021 was unlike anything the automotive market has seen previously."
-    publishedDateTime: 2021-12-28T13:05:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17563/2021-roundup-year-of-the-self-driving-shuttle"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/563/17563/National_parks2.jpg"
-        width: 750
-        height: 502
-        isCached: true
 
 secured: "tRiFD8jaz9smPmRI1BXZd1bAzgajf4B9hq46aL/BZD1V4g5TKnFMzb9YN2r+5cfbq/LLSRwecWwyINxQNDm/vr/1hobvC1RamjnzQSnnYH3druAEA17uYnRPzatfEE1VS1OfDwLFpX8S9TQOlUzV4xYC1HR3tVy4gr3OYuwUbIK5QzGA2j44atIZ6qBIenaUNLMAETE7NyW1pE8gORWf8p1RQ/+ZEI+Akk1sKcbgibxwyRR+Ud7PStjJEICKnqUKMGnLgK2o5vK6ZExHx7GJKv0qnUPeryvqN4PBlvwdeL8mNIn8b6t8a7v+I+paNZspPOvV2lTO7PS8Rb6TkCYmz7KO6iyk9hFevE2pJ9BppO5qcXBynrSXBSv8NE0XTxSZWCsp1ShYWoP8LKG3WzWba4jvzOFmIr65PKD9aKAlJ3HM8OLKlkO3dZWu3LvLfC/v+ELiMSMuc2iUJ4+ONlRYNl8D7tC/8otS8PCb2sL2AxP+VOOFB95qE4Jk/IuxlUdEaewGhpmHcMFsIVfzT39/2g==;famuKYbxOuShprEDIT7vjQ=="
 ---

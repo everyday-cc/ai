@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2514897/consumer-ai-market-regional-growt
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514897/consumer-ai-market-regional-growth-drivers-segments"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -27,30 +27,58 @@ images:
     isCached: true
 
 related:
-  - title: "Global System-on-Chips' R&D Portfolio Analysis and Growth Opportunities"
-    excerpt: "Reportlinker.com announces the release of the report \"Global System-on-Chips' R&D Portfolio Analysis and Growth Opportunities\" - https:"
-    publishedDateTime: 2021-12-29T09:43:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24809019/global-system-on-chips-r-d-portfolio-analysis-and-growth-opportunities"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24809019"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24809019"
+  - title: "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends"
+    excerpt: "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t"
+    publishedDateTime: 2021-12-31T13:13:00Z
+    webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
+        width: 1800
+        height: 600
+        isCached: true
+  - title: "DigiMax Launches ESG AI Division – Invests into Green Energy Solutions Company MADA Analytics"
+    excerpt: "OPTION TO PURCHASE 100% OWNERSHIP OF THIS DISRUPTIVE ESG TECHNOLOGY SOLUTIONS COMPANY – TORONTO – Plato Data Intelligence"
+    publishedDateTime: 2021-12-31T17:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24848717/digimax-launches-esg-ai-division-invests-into-green-energy-solutions-company-mada-analytics"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24848717"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24848717"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 39
-  - title: "United States Artificial Intelligence (AI) In Drug Discovery Market Research Report 2021: Prospects, Trends Analysis, Market Size and Forecasts to 202"
-    excerpt: "The \"United States Artificial Intelligence (AI) In Drug Discovery Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-12-29T09:31:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=593415"
+    quality: 26
+  - title: "Analytics in 2022 Means Mastery of Distributed Data Politics"
+    excerpt: "Data is distributed and dispersed by its very nature. How organizations acknowledge and accommodate that reality is a matter of politics and pragmatism."
+    publishedDateTime: 2021-12-29T13:00:00Z
+    webUrl: "https://thenewstack.io/analytics-in-2022-means-mastery-of-distributed-data-politics/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 24
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://cdn.thenewstack.io/media/2018/03/983e7af9-data-2899901_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Top 8 Data & Data Analytics Trends for 2022"
+    excerpt: "With data driving all business decisions, it's critical to know the current trends in data analytics. Discover top trends now."
+    publishedDateTime: 2021-12-29T20:52:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 24
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/Top-Data-Data-Analytics-Trends-for-2022-scaled-e1640802374513.jpg"
+        width: 1400
+        height: 934
         isCached: true
 
 secured: "qjUdX0igDVTjKVfntvVFpSMqN9OJERXIpuIe/T7AKVkNdHTq1htqm35HPzYbut9/rL8rAZ5GhjUcBq4MMe8bJ/0gGucBU3vRs6OMcXkKmJSuOO8Tx/m1Zn1eLrsLgtCQ6bogu5Cka+2YMxzJiBHv6jDsnthF8imfiBNfpWGoGflp1XDfzFTzycxWxwtZ5bM9kZ39mgi0Ws9cHyAUDXvMpu6pQCBUh708KgBS9f6q4fKc0LUYw8sJIA0z8FmWOaruXaglRWhELJmXEPt7ypK/slntpLwh5j1zyifqvZK422aeWy5+EP9ozFquu1AJcdN27/eKuBk79cKxW2d7QANcRMWnrmTgJp4FBc5wAT8WPndQjV+/fqTHbHVh/YRfJD1+u7OPBObQB6THWVRZ1ud9noAvBjmPxcGj0r4bD/8Ezy+fPYOFIqUAxAGbZE4KwODPJIU93F5Ygs4aBrlMV1Y/qxLr5s0WRFRzs9ydmp9XHYvrhwGwtUd06yQ84TzbSqvyQq++pOAsipHQLmStHEekiw==;zI3LYDyGqJepZdhZRWuztA=="

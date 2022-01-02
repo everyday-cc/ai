@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/new-ai-game-changer-coming-petar-mi
 webUrl: "https://www.linkedin.com/pulse/new-ai-game-changer-coming-petar-minev"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and ML are changing contact centers"
-    excerpt: "This has left call centers across industries plagued by long queue lines and insufficient bandwidth to offer the speed and personalization that customers want. However, the partnership between Talkdesk and Amazon Web Services (AWS) is now enabling businesses to leverage conversational AI and machine learning in the contact center."
-    publishedDateTime: 2022-01-01T10:52:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1628789921_101.html"
+  - title: "We Choose To Align AI"
+    excerpt: "Epistemic status: poetry \"We choose to go to the moon! We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard. Because that goal will serve to organize the best of our skills and energies."
+    publishedDateTime: 2022-01-01T20:16:00Z
+    webUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-align-ai"
     type: article
     provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 54
+      name: LessWrong
+      domain: lesswrong.com
+    quality: 37
     images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1628789921_101_lg.jpg"
-        width: 315
-        height: 408
+      - url: "http://www.todayifoundout.com/wp-content/uploads/2013/08/moonprint.jpg"
+        width: 596
+        height: 600
         isCached: true
 
 secured: "1KJSyxHkB27fWNuia/Ej3DRePxl3+DJGRAhMb1h/mpzjEJ+lq4R7zkLnpxgyNpqg18QfpPrpRQpx8QacJsXlA4BXMJwCrfLoLrhiNj/THb+m+LIbRqqs27mQLoyHJxrSsj9urBQKtIb1Dry6GERL7qZInyYMshEpUhbWgFZWQmCPgKQkXvJH60XDDA3YJhbF7K7AV3sfl7QWo2yHC+FJDhK9rf0buXGojkYA/yZh0fsCvzYqtSgKqWvnspWlnvKBqtttpn8EX5WDn+VOzS02e75E0NTFESZxNr5HzWxshjK5o0d1fGMdXPHcxF1roTRkHaYS+uQL/upFWk4+cjQ+oCHKKlQ030u5Gg+Yx1qdk+0dAL35XZvTjKTcFfnv+wXPutFyK0asIfUyYJzMxe2NQ7shkf7eheeefBv/tiGyHCmgTGc64A2WtJyUg6aabIh4TfwT+pQYUDIhdc+fBhup6HKStmyJqqlkWmDPPRDQjbqaTG/oc2UglBhLXado8Gu6XybGb+heZ2Kg159WZOQ4ag==;skmH7mSiwwvHSyDMpqHHUg=="

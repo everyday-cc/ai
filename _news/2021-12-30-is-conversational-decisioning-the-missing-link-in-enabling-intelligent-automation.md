@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-convers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/is-conversational-decisioning-the-missing-link-in-enabling-intelligent-automation/amp/"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Human presence detection using CNN-based computer vision application running on STM32"
+    excerpt: "Designed to determine if a person is present in a given area, human presence detection technology is very useful for a wide range of applications spanning user interfaces, security and safety. It can also be used to actively manage energy consumption by ..."
+    publishedDateTime: 2021-12-31T08:17:00Z
+    webUrl: "https://www.st.com/en/solutions-reference-designs/sl-snpsn011701v1.html"
+    type: article
+    provider:
+      name: ST
+      domain: st.com
+    quality: 32
+    images:
+      - url: "https://www.st.com/content/dam/logos/open-graph-logo.png"
+        width: 750
+        height: 560
+        isCached: true
   - title: "SEG Automotive brings precision and speed to the production line using artificial intelligence"
     excerpt: "With the latest developments in artificial intelligence (AI) technology integrated with modern cloud platforms, embedding AI into business processes is no longer an expensive or lengthy process. Global supplier SEG Automotive is among the industry leaders showcasing a rapid approach to innovation by partnering with Infor to deploy an AI application in the manufacturing production line in just under one month."
     publishedDateTime: 2021-12-28T16:54:00Z
