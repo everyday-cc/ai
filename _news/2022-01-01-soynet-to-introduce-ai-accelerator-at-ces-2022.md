@@ -33,11 +33,25 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
+    excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
+    publishedDateTime: 2022-01-03T18:38:00Z
+    webUrl: "https://www.glassmagazine.com/news/halio-inc-showcase-ai-controlled-smart-glass-ces-2022"
+    type: article
+    provider:
+      name: Glass Magazine
+      domain: glassmagazine.com
+    quality: 37
+    images:
+      - url: "https://www.glassmagazine.com/sites/gm/files/2021-11/Cover1_GM1121_900px.jpg"
+        width: 691
+        height: 900
         isCached: true
   - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
     excerpt: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022. LAS VEGAS, Jan. 03, 2022 (GLOBE NEWSWIRE) -- Fluent.ai, a leader in embedded"
@@ -54,6 +68,6 @@ related:
         height: 1050
         isCached: true
 
-secured: "Ov5xhSFBH5LOGuFbe0lh+sQcHKli6/teOiwcDQ+c1aVZA4RC5qmDYzTE73tGtX6JIPjD/tvSGt6HmF7wlUxEaOmYNxWJoD+XZyNYJ2YGS0jH5JuCmy4BdNmUY6V3Ay4LgB9GpPYk2VyoFXDAnTNJ7TpnH9fSgR8/46PRzXyGPJIcfiZXNNKLl/4F0yeRoiGBfIV1qBRUmWJQdRZ3J/E1fA7uRKfsIuZn+q+tMqZBbYb2zmZJUXUAC1wxFY9vL02Lu0R9FMcsFij/hc4QC2JjZy4nCY065YxnncM1HM7V21zjQriBq830WvwQxKbg237fUW1ldN31lOp5ARLTs7q+kXEzOXwFGT2NyUS95gddXh8=;AHtWJzFgrcM+RXbO7xHWYw=="
+secured: "kiVSSK/DXhDWLuA36Uo3RqMqPpoMbex4kQi519ndWIH4Sww42xTiPF8CFXEyTqUyUDVVdOlvQSouJEAEC5y+dxeVWSE/MnqzPk5ayvzVsGwCIjxGGX0ZyVZkVN7b4u0Ags36OhRrCjemlTb5cRAhXpkRS1qvxbcYBAHXFEMPFiiHdpYiEiwWohVWb7vIMHcN7nLWAkRp+9b+vFzZXpIlDidVv+LrHiOI3dRiByQnQVioRI0rkYdAOtj17VCQXnl1qZVv05JvMRTEDAdZlgIx+j2szgmUfIeMvw8+jJjAiC78HpzoH7x7MwjmiFDo+HWpZyZZdaTO/BxulHDqCyezNg2i3Iy6Kw8HS7HBD5K8ipiedVhvwhMlkCEyNs5xQyOernbvzlYFTA7/PrMw81pOOO/lJJb2k1sIGCky+qBuvEmkOQ9PQvIb+it38w3/dvepLZS1cfJ+ZNkZ/IiH9s6sBfsAVlmrc4/nLpc4AuDCTASgQwy2lS9THzZRcLa+zc2e6Dqje8/C7isbGVQjCShqTQ==;wQ8WU7ixgWdQqkB0Yr22nw=="
 ---
 

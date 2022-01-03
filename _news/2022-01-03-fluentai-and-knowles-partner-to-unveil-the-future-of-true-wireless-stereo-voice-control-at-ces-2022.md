@@ -47,11 +47,25 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
         width: 400
         height: 225
+        isCached: true
+  - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
+    excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
+    publishedDateTime: 2022-01-03T18:38:00Z
+    webUrl: "https://www.glassmagazine.com/news/halio-inc-showcase-ai-controlled-smart-glass-ces-2022"
+    type: article
+    provider:
+      name: Glass Magazine
+      domain: glassmagazine.com
+    quality: 37
+    images:
+      - url: "https://www.glassmagazine.com/sites/gm/files/2021-11/Cover1_GM1121_900px.jpg"
+        width: 691
+        height: 900
         isCached: true
 
 secured: "IsTZheNlPxbO8ueK+h2206waD57BFZrtyqDgAzZfoI5loqYnl6u0QPeextnMmXeFCk5A6QuzJ9MfSFXdzA4/aKMOnRa//domlP1bzTx7s+vL6vW7CfJgFMSiGQIy+20clYjtR1sCbNOk/tQGhAzzdC905pT4OLUGB0kU+pRoV0DME7MOeCm5GNQf94/WZbUBdfRscOZLSO40iYlrzpwhQ7gpn5K6dZRUvuGQPr45FefeCu0oUFyHeMS/cNKbOE+ay4FZI/Dg5y3sOwkwA3k2lTHCGAMtch9vPWvi+cGFQ3mHWrmH4JuIENPILMqVDRusYEuaBtae2oH3FOp9dBVWb0ax1eAgq34IJWAke/+snmc=;qlfbbagwQpY+QSkhVMdayA=="

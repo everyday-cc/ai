@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-03T14:33:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
@@ -39,6 +38,20 @@ related:
         width: 600
         height: 316
         isCached: true
+  - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
+    excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
+    publishedDateTime: 2022-01-03T18:38:00Z
+    webUrl: "https://www.glassmagazine.com/news/halio-inc-showcase-ai-controlled-smart-glass-ces-2022"
+    type: article
+    provider:
+      name: Glass Magazine
+      domain: glassmagazine.com
+    quality: 37
+    images:
+      - url: "https://www.glassmagazine.com/sites/gm/files/2021-11/Cover1_GM1121_900px.jpg"
+        width: 691
+        height: 900
+        isCached: true
   - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
     excerpt: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022. LAS VEGAS, Jan. 03, 2022 (GLOBE NEWSWIRE) -- Fluent.ai, a leader in embedded"
     publishedDateTime: 2022-01-03T15:33:00Z
@@ -54,6 +67,6 @@ related:
         height: 1050
         isCached: true
 
-secured: "25jgz1WKAPeo5BZ53AoBqibmStz6UAZKU12Gg4Szh4SG29DHTPfZE0oBRiuLc+kcasGWMs0TONvRo6wXxEmbL241IyXbiOySui01uOxnJJGSW/138dQwZx/XeKGpcOc210F6yeUp8xWv2yNPHeL92xx2+dKCwZWfG9YpFpCZ7D/CSJ1zRyeBGkSlv9tnF24il4DbcqRhrJEuM0sFWinXZFWK19jUV0wZpa07Rv5ImR6spcjjA1wYdtLnTcC9CQxa8ikCFCxHNL5wYTEqoOoZPAYn7p0EZc0YSxZN0/lng67lSAw+GTlNWqqbA5UGxd9bao5us+4cvYQqDuwJ3W1vscg0Lw6ul1PkBiI8taHFxUc=;rXVlSOM12uSCn3GG2qHW+A=="
+secured: "1cgfoyMunz+ioOd/pZ1pXcQ3WhvOaw6YVPXI3z/R+jwq2UyUVhqgcWfmygo7FF/HtoMWG5Qj6A3I3Lxnly/WihniHmL8l6cTaJpvuMg+moAzKKTLkOgrvjyvfkGFoScKd6VWLogC8hmzh7PU5AqqnPmytHes3aPQx8inR5UgBGUhzvcBfK4c1I/vGz/FXDTGAq5wMzMKdEFaw5x1/XcQ6UAKFpLX2JSiTYr6qmgjkQ6+TSSdrEyhIiOwTUCKXgtoy8MWiSrt0AnjkJlJi6Oi+Hqa23PHSaQONPYhxcl+RToAnfVF6Mja3e2vg/sJ5bJDPtc0qnEvgxAG+yawMU1bHndVn+YdvTkeNDrutQYE8io=;hAt/DRPay+FSwKG9bZb1/w=="
 ---
 

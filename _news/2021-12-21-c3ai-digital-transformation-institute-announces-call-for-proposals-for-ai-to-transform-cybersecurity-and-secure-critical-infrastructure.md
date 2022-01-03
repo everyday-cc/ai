@@ -2,55 +2,25 @@
 category: news
 title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
 excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-publishedDateTime: 2021-12-21T14:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04"
+publishedDateTime: 2021-12-21T13:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=591579"
+webUrl: "https://us.acrofan.com/detail.php?number=591579"
 type: article
-quality: 6
-heat: -1
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
     isCached: true
 
-related:
-  - title: "A Push For Digital Transformation: The Global AI Investment Boom"
-    excerpt: "A large amount of funding has been allotted to solutions supporting digitalization initiatives at the enterprise scale, with AI becoming the gold standard for contributing to that effort."
-    publishedDateTime: 2021-12-22T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/a-push-for-digital-transformation-the-global-ai-investment-boom/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/a-push-for-digital-transformation-the-global-ai-investment-boom/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/a-push-for-digital-transformation-the-global-ai-investment-boom/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b34bfb6bd8aa1effe59ed%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
-    excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-    publishedDateTime: 2021-12-21T18:15:00Z
-    webUrl: "https://cloud-computing.tmcnet.com/news/2021/12/21/9515494.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
-secured: "EPiOQLzl/3clAVFXBd8R8IQPHf/+l0xsybNjJh9+lWE3C2aQyMm7GsWZb9qNSpv1GXEfXYmiucxW0BMcgQCjUkkkA2hrVqgiQockvOgjOGJNBIivBIf5bba9hPgqv/QMb1DzA/qfZZ2IE9cAV1bDeC7Y+xeu2OBkCSH+iOuWUk/J/jVTYUnXF7z3PcprxfTDOPo/xhB89hlRp4QioM7Rw880rIkDqvPXDTJkcN3Gvm6Heo6F5kp8aa/M0jxYV4Utgdujl6eCjkBjkF24bGAPpcEGtklA7k6fZ3L0osKCtR8tf/I9bCU82fFjYfZ5IFmtlRF7smaJsSe/Q5NJSqjsj8UQZdL7ZWsOQVJxp7BoOio=;tDcPu3GSA3pozLeCTb52Yw=="
+secured: "fLVFVkNAeOqcchWNUcfg6Qgxj162QIhZ2RDmSb+2XjlCCBv8SOHhavlHoLqSRiK6lEpxpPbxUcUmWlbTz5eEafjKtQR0uuyspyuT5CH3QK0SfO70y+qKotadLAl+VVJc+UWZOA+dONm8yUY6RGJB8TyHEk1fxB/hAmwus1YSjpGz6ei/qEMxfyVbbIes9Ri9GjDkJUKUxUHlFandee728Hs584PfDqI6NgdLk+XcwbxOXrnMM68ozjywxg2cb2rxVxoZyqPQgnahkuXJo8SBdpX5bJmYUYYYkGiGTqsuBV+nCqL5Hks75+QxAxTsZr797OUqiDpu6jFUSntEuNDCt5DUkFTxCGPCeujqRfRAjjI=;6zaIf3U+ypNg14hiqQIB6A=="
 ---
 

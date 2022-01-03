@@ -2,6 +2,136 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-11-30-hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security.md",
+      "title": "Hyderabad: GITAM to host FDP on AI in Cyber Security",
+      "excerpt": "The Department of CSE, School of Technology of GITAM Deemed to be University, here, is organising a one-week faculty development programme (FDP) on ‘Role of Artificial Intelligence in",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/11/29/1124076-gitam.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/hyderabad-gitam-to-host-fdp-on-ai-in-cyber-security-717508",
+      "publishedDateTime": "2021-11-29T16:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-behavox-finds-financial-services-fraud-10-times-more-likely-on-voice-platforms-than-in-text-based-communications.md",
+      "title": "Behavox Finds Financial Services Fraud 10 Times More Likely on Voice Platforms Than in Text-Based Communications",
+      "excerpt": "Behavox Finds Financial Services Fraud 10 Times More Likely on Voice Platforms Than in Text-Based Communications. Behavox, which provides insights to protect enterprises and their",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/news/2021/11/30/9501273.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/news/2021/11/30/9501273.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
+          "width": 1577,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-30-aws-releases-a-machine-learning-enabled-hd-camera.md",
+      "title": "AWS releases a machine learning-enabled HD camera",
+      "excerpt": "Amazon Rekognition Video, a new computer vision service for analyzing videos in batches and in real-time. The DeepLens video camera’s machine learning capabilities have been built with Greengrass technology. One of the examples AWS talked about at the Re ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/news/aws-releases-a-machine-learning-enabled-hd-camera/97008",
+      "originalUrl": "https://www.itbusiness.ca/news/aws-releases-a-machine-learning-enabled-hd-camera/97008",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2017/11/AWSDeepLensWS-600x250-600x250.jpg",
+          "width": 600,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/news/aws-releases-a-machine-learning-enabled-hd-camera/97008?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/aws-releases-a-machine-learning-enabled-hd-camera/97008?amp=1",
+      "publishedDateTime": "2021-11-29T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-using-ai-to-scrub-image-noise-and-save-money-and-time-in-the-addams-family-2.md",
       "title": "Using AI To Scrub Image Noise (And Save Money And Time) In The Addams Family 2",
       "excerpt": "Removing visual noise from visual effects is a big challenge for post-production companies, but a new Intel de-noiser using artificial intelligence saved Cinesite an estimated 20 percent in creating the recently released 'The Addams Family 2' movie.",
@@ -1045,152 +1175,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-cyber-monday-vacuum-deals-2021-todays-biggest-savings.md",
-      "title": "Cyber Monday vacuum deals 2021: today's biggest savings",
-      "excerpt": "Multiple control options – including touch and voice – and the 100-hour battery life make it a convenient and low-effort way to keep your home clean. Shark AV993 IQ Robot Vacuum: $379.99 Shark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
-      "originalUrl": "https://www.techradar.com/uk/black-friday/best-black-friday-vacuum-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/TRr7iHHnTgY7byfwZYbziY-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai.md",
-      "title": "Therapixel and Ferrum Health announce collaboration to facilitate access to Breast Imaging AI",
-      "excerpt": "Therapixel, a software company specializing in artificial intelligence (AI) applied to breast cancer screening, announced a partnership with Ferrum Health, the developer of a Healthcare AI Hub utilized by health systems to simplify and organized the deployment of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai-1031008692",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/therapixel-and-ferrum-health-announce-collaboration-to-facilitate-access-to-breast-imaging-ai-1031008692",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1697342/Logo_Therapixel_Ferrum.jpg",
-          "width": 400,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-analytixinsight-reports-third-quarter-2021-financial-results.md",
-      "title": "AnalytixInsight Reports Third Quarter 2021 Financial Results",
-      "excerpt": "Artificial Intelligence company, AnalytixInsight Inc. (“AnalytixInsight”, or the “Company”) ( TSX-V: ALY; OTCQB: ATIXF), reports financial results for the third quarter ended September 30, 2021. Key Highlights: Business Review AnalytixInsight is an established AI-driven content supplier with the ability to offer scalable machine-created research content on approximately 50,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-artificial-intelligence-5995be13848d4baebd8346f92179d829",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-europe-artificial-intelligence-5995be13848d4baebd8346f92179d829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-29T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
