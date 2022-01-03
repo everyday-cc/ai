@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "FinTech Stocks Feel the Cold Winds of Change as Investor Demand Wanes"
-    excerpt: "Once the hottest stars on Wall Street, FinTech startups are feeling the winds of change as investor demand cools, triggering a freefall of tumbling share prices."
-    publishedDateTime: 2021-12-29T11:58:00Z
-    webUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/"
-    ampWebUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1941449059-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
     excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
     publishedDateTime: 2022-01-02T06:29:00Z

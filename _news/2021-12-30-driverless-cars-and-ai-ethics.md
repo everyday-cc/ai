@@ -65,18 +65,18 @@ related:
         height: 675
         isCached: true
   - title: "Tesla rival races to introduce driverless cars by 2024"
-    excerpt: "Making predictions about technology is a notoriously dangerous sport, and the onset of driverless cars is a particularly perilous thing to forecast.  Googl"
-    publishedDateTime: 2022-01-03T02:27:00Z
-    webUrl: "https://www.newstalkzb.co.nz/news/business/tesla-rival-races-to-introduce-driverless-cars-by-2024/"
+    excerpt: "Making predictions about technology is a notoriously dangerous sport, and the onset of driverless cars is a particularly perilous thing to forecast. Google once pledged that the public would be able to buy robot vehicles from 2020 - a deadline that Toyota,"
+    publishedDateTime: 2022-01-02T17:15:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2022/01/02/tesla-rival-races-introduce-driverless-cars-2024/"
     type: article
     provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
     quality: 54
     images:
-      - url: "https://www.newstalkzb.co.nz/media/fcidrzb5/amnon-shashua-co-founder-of-mobileye.jpg?mode=crop&width=635&height=395&rnd=132856969817230000"
-        width: 635
-        height: 395
+      - url: "https://www.telegraph.co.uk/content/dam/business/2021/12/31/TELEMMGLPICT000280027361_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
         isCached: true
 
 secured: "srw+OPUgE6/9ynFWyl4Wd3Hy9lXu111tVOiWf2yzzD3Z5cnmNAsOBnFP6+WFltm26bFXZ2qOFD18ZXZD99KYBAIGwPRuu8+4Rlw7WCDRxwLDRn2bEQyfsvioHeObdRqQN6a0raoj81dH/q4zwEslbmf+fV9fm3yCRbHorADd8X7v+Af0cAUXfwhrStYlV/uhvhQi0zv06PN2lgx4HBtAQz6q+i5oG/UZJKeofVLakQ4gHYmgWpnaz4HWX4PayA3s1M89v15+ulI20TXhgV4XJKA14Qc4SXqG3ipYcNTxNQ/X6YafaaOQkd13dq0TSJ+bAasONaSUogGlO54bwI4cF1tr3wSPpVBOzFcEujFkBlmP5XodJLPe0JhokYLMe8/NWYs+iiAfUlG0gecS53KvkdXiU2ZSgx5+Qrs/GzpgvVxnmHLUxhSZq7DWQt9HqShz3oVAZ9L3IJCLmQZWZUnbNbREcTQvocrjAJzofDtq9AkO3zWcHK/hIMmC898hV/0jQCpcigyCSA7USMURHM73Ew==;oaZAqG3eP7/ih5jRFAy+Pw=="

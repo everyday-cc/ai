@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/article/398924"
 webUrl: "https://www.entrepreneur.com/article/398924"
 type: article
 quality: 66
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: Entrepreneur
@@ -28,22 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Role of AI and Machine Learning across Different Sectors in 2021"
-    excerpt: "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are"
-    publishedDateTime: 2021-12-29T11:50:00Z
-    webUrl: "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183"
-    ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183"
+  - title: "Top eCommerce trends and how artificial intelligence can boost your business"
+    excerpt: "In this post, I will discuss how artificial intelligence in eCommerce will impact sales and conversion rates. 1. AI allows you to offer personalized product recommendations based on customer preferences 2."
+    publishedDateTime: 2022-01-02T01:35:00Z
+    webUrl: "https://artdaily.com/news/142530/Top-eCommerce-trends-and-how-artificial-intelligence-can-boost-your-business"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 78
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg"
-        width: 1000
-        height: 600
-        isCached: true
+      name: Artdaily
+      domain: artdaily.com
+    quality: 14
 
 secured: "MqlpVu/LWrMy0HisTktHRe3Bo/SQf9G1fNG38z5pX6H8mpro0g5ryXq8I7Zo4Bg7e51NmVb+SZlLqengalWbsXYoyjFuuBOvkrCZCrlbx4/WkqzSQ1w83h67mS0cDtnV/OXLuodth4h3hNJhFVMjVMkTzQRls6PxgKWSIxGP7F9CASC5gC9TQYJpBJ7RZPfwr2TpcMHeka/ZEJP2lAbvOTV85fW69NYXqLUymIMh4CWHk0g7y5lrS9sYD2a4e0k/oweqS1dv4CIqcXa3tpqLbXfLluKHrejehGFdfHrwmqooJ1kjXgK5OrvQoLiDLtn9W5hrF3nFXGIi7HvDoSSUMynbfh5kMtJ7F+AhD6ihll1rTqlJBbg8kk7WrNg20HMBMUONVsYxyADyfzAdS7Pz0A+nAj6IkcErosw8AqbaVBxiXATDUZ7LHXNsQZxjk6zh2YTP/0YMiDKuV9stYiy/+8pHL3kYadHZ07t5pVxdyEVyw8/3gBlTEnHoPOdfC8ShL3IQ/Hq7cKotLUUl4m+4bw==;CBArVGzEJEw8xDaOzg79FA=="
 ---

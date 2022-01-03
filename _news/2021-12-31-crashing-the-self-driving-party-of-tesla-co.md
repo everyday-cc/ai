@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2021/12/2022-Toyota-Mirai-14-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Mike Klimkosky shows the different features of his Model S Tesla plus the self-driving mode"
-    excerpt: "Tesla Club Wisconsin President Mike Klimkosky shows features, entertainment, self-driving mode and much more in his Model S."
-    publishedDateTime: 2021-12-29T12:17:00Z
-    webUrl: "https://www.jsonline.com/videos/news/2021/12/29/mike-klimkosky-shows-different-features-his-model-s-tesla-plus-self-driving-mode/8952473002/"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 29
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/12/12/PMJS/18fdf1f4-31c6-47ed-9ba1-cd90d0760f69-MJS-EV00p1.jpg?quality=10"
-        width: 4717
-        height: 2775
         isCached: true
 
 secured: "YseJzVPTndEOXdmGEOnS9l6tOmrhkGoMfYwFFSm7osFoQvgJUUBmsBhNKmTseE5GiYN4lWyAm+vSBiLFhSO9pDYkfDCtgrLz+lD+3Nwr6plMWghoYkrtfBJpfKEkZd4OC5vdcHo3DAjtiY5ZpA9HR5Aexc2evKwSd8hUCHMgLNzfZkETWbOv//YZwGx1nvCSlAJ7ah8c+Y2mCKmwBYVgoWbSNqkSZeifDBvvzx7fR+E06OwXlka5sMyP3Sx8IQlp8DURocCaM3frPvfVH3ZoDGsNulnihUlQSUZE1EllWHkVnEnoANdf0KYJrbwVTSH0ZKi3dgAs+c8omRUD0K2YcoIrtPALe7cPftG31wPA1Oi4LZZsYJsHH7s96aLxOnooew0f8erT2sU1d8kJqdDX+u4rDXAwPndEyZhy36sVJuAPgvOccJwhQUQyBy8CRxUTTUFBdrqieivLvfYirDGqL/mTWp9UP6s+n0gWaOlv27Uw3A4fsOT6FwxyLWizyL0F+dDL8+AgtvRRRd6s4ZTzSA==;E3i8p9uQfn1B9iYqm9DWHQ=="

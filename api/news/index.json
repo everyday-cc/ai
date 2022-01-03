@@ -105,7 +105,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -304,7 +304,7 @@
       "originalUrl": "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -487,7 +487,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1166,21 +1166,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-30-earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products.md",
-      "title": "EarthOptics Is Using Artificial Intelligence To Help Consumers Choose Climate Smart Products",
-      "excerpt": "If you could buy a climate-smart product and knew that your purchase contributed to the world's carbon neutrality goals, would you do it? This company is counting on it.",
+      "path": "_news/2021-12-30-the-complete-guide-to-ai-for-businesses-and-how-its-making-a-difference.md",
+      "title": "The Complete Guide to AI for Businesses and How It's Making a Difference",
+      "excerpt": "Here are some ways AI can enhance your company. Artificial intelligence (AI) is quickly changing the world. As an emerging area of study, it has already found many applications in business, technology and society.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/",
+      "webUrl": "https://www.entrepreneur.com/article/398924",
+      "originalUrl": "https://www.entrepreneur.com/article/398924",
       "featuredContent": null,
       "highlight": null,
       "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca168eaa93c35c46009205%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1640286945-GettyImages-1274394072.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1188,16 +1188,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2021/12/30/earthoptics-is-using-artificial-intelligence-to-help-consumers-choose-climate-smart-products/amp/",
-      "publishedDateTime": "2021-12-30T05:15:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T05:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

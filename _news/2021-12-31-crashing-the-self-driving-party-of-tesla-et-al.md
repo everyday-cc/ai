@@ -63,20 +63,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Mike Klimkosky shows the different features of his Model S Tesla plus the self-driving mode"
-    excerpt: "Tesla Club Wisconsin President Mike Klimkosky shows features, entertainment, self-driving mode and much more in his Model S."
-    publishedDateTime: 2021-12-29T12:17:00Z
-    webUrl: "https://www.jsonline.com/videos/news/2021/12/29/mike-klimkosky-shows-different-features-his-model-s-tesla-plus-self-driving-mode/8952473002/"
-    type: article
-    provider:
-      name: Milwaukee Journal Sentinel
-      domain: jsonline.com
-    quality: 29
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/12/12/PMJS/18fdf1f4-31c6-47ed-9ba1-cd90d0760f69-MJS-EV00p1.jpg?quality=10"
-        width: 4717
-        height: 2775
-        isCached: true
 
 secured: "zBE4uSpnaruWjgtj90o63XLRdxaQ9VusWmLXsh3ezqH43jILbuxpxTD1WaaYNgPOimsNJYZX7kZ/oYoFbiq2hUsSD+M7bnWJnmlODfBkcmlpiwf3YUHuyGOZuFWDz3BmRgaMeAM1V7VjHprwAKt4ikm53GYqd1zWMRYwCrd0lEK/Ht2YF2rg+Hju1iN39y8oq9/mKd/8mC2ydQHwTcifBgKVP9hwHriq4WpuvQiWNu4DPzVIOm20KwCK4C5FIRD2NOb3qyHk89Ly+U+G4ObykhnTVVS5Wj9nhgrhMTlmMwZJLJcGMmsZQ4myY6+/9/UOnyGTsX3yedAUD4RYCTfPxDeguyPHPZZQJkKB6Kxg4tTH2+D0Okws0/wEDjGhoCX/YSyCogBswIUDyESxR1z4glF5X6er2imILqsZ7aCMYzx6G1KDhejsaHSOQ7sDMzAjspY7feW+nLgdE+QRoiedxL4ADJCaWTPFtcy7/NiB1ILMfCJwRj3/nJmmTakT4iDZzniHpXCZZItNzIlmVOcu2Q==;96NEeiAMMl04NQ1hac4MwA=="
 ---

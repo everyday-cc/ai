@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
 quality: 86
-heat: 196
+heat: 186
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "FinTech Stocks Feel the Cold Winds of Change as Investor Demand Wanes"
-    excerpt: "Once the hottest stars on Wall Street, FinTech startups are feeling the winds of change as investor demand cools, triggering a freefall of tumbling share prices."
-    publishedDateTime: 2021-12-29T11:58:00Z
-    webUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/"
-    ampWebUrl: "https://www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/fintech-investments/2021/fintech-stocks-feel-the-cold-winds-of-change-as-investor-demand-wanes/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/shutterstock_1941449059-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Top five trends likely in fintech sector in 2022"
     excerpt: "By the first half of 2021, the fintech sensation had gripped the entire world. Since then, this movement has only picked up pace and is set to gallop further as we journey onward to 2022. This phenomenal momentum has really been a product of many things."
     publishedDateTime: 2021-12-31T04:12:00Z

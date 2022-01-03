@@ -52,20 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
-  - title: "Analytics in 2022 Means Mastery of Distributed Data Politics"
-    excerpt: "Data is distributed and dispersed by its very nature. How organizations acknowledge and accommodate that reality is a matter of politics and pragmatism."
-    publishedDateTime: 2021-12-29T13:00:00Z
-    webUrl: "https://thenewstack.io/analytics-in-2022-means-mastery-of-distributed-data-politics/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 24
-    images:
-      - url: "https://cdn.thenewstack.io/media/2018/03/983e7af9-data-2899901_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Top 8 Data & Data Analytics Trends for 2022"
     excerpt: "With data driving all business decisions, it's critical to know the current trends in data analytics. Discover top trends now."
     publishedDateTime: 2021-12-29T20:52:00Z

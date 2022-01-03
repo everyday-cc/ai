@@ -66,20 +66,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
-  - title: "Analytics in 2022 Means Mastery of Distributed Data Politics"
-    excerpt: "Data is distributed and dispersed by its very nature. How organizations acknowledge and accommodate that reality is a matter of politics and pragmatism."
-    publishedDateTime: 2021-12-29T13:00:00Z
-    webUrl: "https://thenewstack.io/analytics-in-2022-means-mastery-of-distributed-data-politics/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 24
-    images:
-      - url: "https://cdn.thenewstack.io/media/2018/03/983e7af9-data-2899901_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "WOupilLvQwicbcFmWP7naVh+X6h0uYNeB0n58VYaDQl+U/CH/Sr1aCjlETNqFjTnXDb0IOxVb+yJByvILoE4HlSOza4D19Ut4A0Pw2XcZWVReP8EbkBzA9TtoNsTfjcWduHwUu7PQaRuhY6xl/8D7dx96K6yyRjIkDEJ+srCUDSipKqBT97EYQIWwUmeUu2KtNs+K/4r6roJDW3Fuq2tFqRlj6XKgDh68CKM1e2SA6b4s8mzqKCUDwlrVDwQoVbyhKSanO/7xpSf2WbcN8Ewvm8cbAMglTtrKznCPq/6PAt5JiFKftmPOPzFXw9YqD0XwtltEu1kjYrfhBwazxOYisKE9xXqSKC8LZjpWK1PavuHsd8ySwO7rVL3lR6hQhY/V4/6DE2q5HbwaIZuYrfd5y6Bsgu+P0ZQY7YkcORv/qNPt5y19iR6zGB6Eed42RJDZezS6pyGyxq5hsVBb3mNZzjrc3ywMYV5CFXXYAEebnCJot5pL3e/+bWp2oFm0KuVZdbbojAqA7UNwSuKCfdkwg==;xh5jqdVLbNW3Xd8F/y85ag=="
 ---
