@@ -32,6 +32,22 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
+    excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
+    publishedDateTime: 2022-01-02T06:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
+        width: 1200
+        height: 1500
+        isCached: true
   - title: "Square Enix President’s New Year Message Discusses NFTs, Blockchain Games, Cloud, & AI"
     excerpt: "Square Enix President Yosuke Matsuda published a New Year message on Square Enix’s official website. The letter includes a rather extensive discussion about blockchain games and NFT (Non-Fungible Tokens)."
     publishedDateTime: 2022-01-01T04:20:00Z

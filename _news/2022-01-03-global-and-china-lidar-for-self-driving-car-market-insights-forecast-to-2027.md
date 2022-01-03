@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
+    excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
+    publishedDateTime: 2022-01-03T11:08:00Z
+    webUrl: "https://www.openpr.com/news/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+    images:
+      - url: "https://cdn.openpr.com/V/1/V103933766_g.jpg"
+        width: 800
+        height: 320
+        isCached: true
   - title: "Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027 report by QYResearch Group. Energy-efficient Artificial Intelligence Chip market is segmented by region"
     publishedDateTime: 2022-01-03T06:04:00Z
@@ -28,6 +44,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 21
+  - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
+    publishedDateTime: 2022-01-03T06:15:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5242220-global-and-united-states-face-recognition-turnstile-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
 
 secured: "Bn1J1g8nXdvJ+OPIoDXaFz4dzVOhPHPxk6J6CXLiwuBnDkhx4s4FrHKU1PPLMByazfV/9E2Y9ssahPI539Z675ZN8vrNpdIltxach/FZicTjU1fpF2A5ypieHItmHvyTOdBuvWAFonBztuZxHzkFQ/2FWkmFWy0XXWLG6+Pcv2y/UxE/uJr29DEBGj4JdhxN1oQJzAnHazQQmXnh5XOZXOtSe9bd3Du0Wqoufat6s8zcS+AKZDtgsxgslrTcorGBHmth+HDr5IR3/N/vliiiK3WotUnkLm2GohXN6UHFNOLjd4UjTIeuIYTuO/+2c9sdmKNIoZt+MrKK7einpmRiEYN/zEK6PykKJYrxQLnDcD8=;68Nv6l7LxV/PtcgL4NGFcw=="
 ---

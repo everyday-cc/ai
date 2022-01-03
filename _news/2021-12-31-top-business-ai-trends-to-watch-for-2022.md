@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "2022 Trends in AI"
+    excerpt: "As artificial intelligence (AI) has grown in popularity, we’ve seen it used in numerous applications to help organizations in a range of industries automate processes, make better-informed decisions,"
+    publishedDateTime: 2021-12-30T20:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/2022-trends-ai-lumiata"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHUvV4fLmLrwg/article-cover_image-shrink_600_2000/0/1640895648356?e=1646870400&v=beta&t=e_0K6Y5A6z6y6L03v3QhL7DBl4jAmY_2wWQDOX57MHo"
+        width: 705
+        height: 377
+        isCached: true
 
 secured: "TmWm737rbpHJPaNm9t9elhyS9MDBWRo/k1Rl4q54WRY4BhYZMoazfHElBQoyTRB0M/gRCR0/0Y/hlN7VQWMsgLD9UVive5MJastN985qtzBHoG+e0BZDkVfwewgYTEt46s3x2IpZszq+Ja7y3sLxOpKHKNKNVly49vcC9MC4ZGAcdclOVbVufOVfjGSe//Vnl92Kxtlho2vv6w0CNqJ5hzyKxfW2unkTGelPgCNCApG64eWhUeHBtsT3Q9gEoLXJ8m8xKDEG34lPa+BR457IufT48AksCFXGNBj1ZGA7ZWZF956SQatPQmCz2B6rX1TOh/DiM0qrzHYj4GAdZaI2lUYV8IXrfN7DkJXHVV3NiQY=;KnL89NSM1l6F/pA9f+TxFw=="
 ---

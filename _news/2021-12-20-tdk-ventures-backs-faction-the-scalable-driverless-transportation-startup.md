@@ -1,20 +1,24 @@
 ---
 category: news
 title: "TDK Ventures backs Faction, the scalable driverless transportation startup"
-excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their autocycle"
-publishedDateTime: 2021-12-20T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-301447063.html"
-webUrl: "https://www.prnewswire.com/news-releases/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-301447063.html"
+excerpt: "San Francisco-based driverless vehicle developer Faction reimagines urban transportation and micro-logistics with the development of their"
+publishedDateTime: 2021-12-20T13:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-1031056177"
+webUrl: "https://markets.businessinsider.com/news/stocks/tdk-ventures-backs-faction-the-scalable-driverless-transportation-startup-1031056177"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
-secured: "4ndhOWec4MgNEAZ8qw761sGksk8eb649ixHMeCThakPVNh+8itVpRvTDCt5pzG5hfqEY2MYM833pMVnZ8hT2O+y0YpHezsCSdEcwGczA7nZ29lXvqS5Y10LPGQcAWEivJYOszLf7ubxNGElB9uMigWyYOMBXIEHfSGF7L0I0c28S7fyCSGkgn4DLO9GDXtvNdStMyQ3QxzbiO3z3gGYOQ/jTEnWeKrjwuWeB249C0lxEiLAt9mkeU8CdCQ6OIRtaaYGIKWcHNPRRA4fDJrojygvMfZzb1dmNNVghsAMjuK1YiHSj4vsZWNX+X//0ToLaKZcOtOtbzO3JcnWrgf5h6TsGi00nDa10HxXdEDLJG0U=;AwArvKXsEKKlVY9Ek7LOiA=="
+secured: "7CY780qprhE2ZJAnPwdaTn/Tsxw/QGevTMx6nFXq3MVKVAMGv2ekrH/l+ZKSFkCPERnXca5sxczq/5kzKJVu7K13cEkRvqY2MqzP+a8zbvMVC5YbGLJ2nhNcTrqPzG34Z41YzsQHmX5CpqmiqmnEgLk2x17q9EsM8aUT7tH7gMCAQcv0H1IaVjqxdMZaAxwq5XSJSzQ1ypf9qus++6bl54zRqkr40ovu+wbWRxHjGCKMUJSsztYmPJYPv2CmSnnzqT/JO+DSs1ifz6cy0AQOQqZCpcIHLBNxHIqNLGU/ZD6TzhBrSZrGjaXe4qEbfPrABSRkylVG0fvOmYm7JFpscW7E33nekIPaLl6jvg74H2w=;f3E+tl1400KK+dQKuaDJpA=="
 ---
 

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Telangana High Court issues notice to state government on PIL against Facial Recognition Technology"
+    excerpt: "The PIL (drawn with the legal assistance provided by the 'Internet Freedom Foundation') states that Telangana is the most surveilled place in the world."
+    publishedDateTime: 2022-01-03T10:47:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 60
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/12/12/w600X390/JUSTICE.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Telangana High Court notice to State on plea challenging use of Facial Recognition Technology without law"
     excerpt: "The Telangana High Court on Monday issued notice to the State of Telangana on a plea challenging use of Facial Recognition Technology (FRT) by the State and Telangana Police without a valid law [ SQ Masood v State of Telangana ]."
     publishedDateTime: 2022-01-03T08:31:00Z
@@ -58,6 +74,6 @@ related:
         height: 792
         isCached: true
 
-secured: "8Ix4MWget3dkrr06ofMo9szNUHnRId1p/WaEId5K+bLH9kYKaLGotzWbVkBEAA7o9+Ld0ZaoqeOM04HKDIR5PGyu0qs69SZZoPh9h2q1NQAxEh0NyhNhikPthwfCL1LLPajD1RPY5WdUx5VuUZVi5Py20rk7X9wDt2H9bQpt6xE0sv/TM4skAJuq5piu+E3MI5UXT8mpAGkwRfhlyySVJkvFcrZBeDm7zKM0yHCiLCPhOOUwhmzQtUqsJgDKpQCPDuQQ0m9In2wV9+SRG4W5RwZa4tFzvjQ/CmoP2QKeSIJ1+U6jHUVJ3zQRIHyXCw/1vo+3bLTdvZ5udCy52zTqcmYgMVfAMleyP5bA0yntfLk=;27KpKv/Sl21Y67zKTKKjFA=="
+secured: "bjgoRXB+zWI4jdc8LAhDcLNo4VM7OS8tf54PUKDVNoLT2gT2cdZlMyo1zWQKrVyfYLIXXJ+UlZpO+UGONMN8xhK2ULb6hC4pM0Yp4B4qWhmFlvIqnaTy1St3eOgCsl8S2OFDlXXPQCVDCVcnsGnjcWDSVzolqb1kg2i/uBMmG+Xw1iNiywkdXeD3YnHh44u5k4ERqxawt3PMksheOSOmSHfZJw8dMEXbsr3nrFYYImG7tMyc3DdkIeIroqmCIGxv6NIS7BtNwq8zQ7kVFLdsM1KVuYtbMxPbaPRDgAK8lnOvbtJrmgU948xaJjQO2fLHvFkBwRQtMKMW3wOE7Y2oCWirexWbDr7sNYVWx/tFHnkzVJsspA3OVOALWTSbWTX6vpojj+liVIz2b7PVl2EMJmEhkBCv6aiBFLxgaxGSpI0GW7j+I+vbhZx+kk8dATxUZT1mw1eXT7samnLIbIlVGp5DB38yUSeluhUrjCFPPknrt0D7NfklHBF9gq5eWfuA14A/47rNUm7+C0WXb8TfhA==;QFSZaqesLhvsemILkk4JMw=="
 ---
 

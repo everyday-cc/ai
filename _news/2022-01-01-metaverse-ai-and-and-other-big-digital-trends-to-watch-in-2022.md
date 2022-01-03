@@ -3,25 +3,27 @@ category: news
 title: "Metaverse, AI and and other big digital trends to watch in 2022"
 excerpt: "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,"
 publishedDateTime: 2022-01-01T14:57:00Z
-originalUrl: "https://www.cornwalllive.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
-webUrl: "https://www.cornwalllive.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+originalUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+webUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+ampWebUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904.amp"
+cdnAmpWebUrl: "https://www-hulldailymail-co-uk.cdn.ampproject.org/c/s/www.hulldailymail.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904.amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Cornwall Live
-  domain: cornwalllive.com
+  name: Hull Daily Mail
+  domain: hulldailymail.co.uk
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://i2-prod.stokesentinel.co.uk/incoming/article2262542.ece/ALTERNATES/s1200/0_GettyImages-861148402.jpg"
-    width: 1200
-    height: 630
+  - url: "https://i2-prod.stokesentinel.co.uk/incoming/article2262542.ece/ALTERNATES/s615/0_GettyImages-861148402.jpg"
+    width: 615
+    height: 409
     isCached: true
 
 related:
@@ -35,6 +37,6 @@ related:
       domain: theaustralian.com.au
     quality: 0
 
-secured: "5mAuVXkzN62qcYs5M2AAVfvFjZmAyqBPvc6blLQoSkcyvuI8RwNLbcSNNniZTjXJN3tAd1RQeDtusfINtW44bRprVwWUsEGlExGGU/rCiShmkbrU3IAmHedB5LOW3wI9KjOxoR1YHgdq+rJVpEPJInLW9XTnULDMp+hmlQAyJhp6bHrFJyimk/5nmee755IbBXO6uGBQI2e0xYDLI0ejzZ9xQK0knM2jHdjfh1puYLsbbApF9HiezYZ5QQrscfLT1nxSlpq57ZdpcE/njGM6fsarSPqM/R78jDFfGxr6OQlZIoK1rZDm2FJ92h9K7MqwDpLRM6qVrANkNwdpG4tL/zxMatMnZZ9wIr9jwIylG8c=;lOqF08aM8dhi3MQgXQS/2w=="
+secured: "0k9iQC6dkh0n9pBuUFXm+fKIZm3G6zCiDZd3QsTKk0TPeO9fVPsQnuOLGiuDKBHx2qqoKVAmNBqqQs1i1Y6xkwQ8Lc+zQkgElTRLCzhs2c/pFkU8KN64/Y3NtyFb1ft0QIVnwqmTi22PZACPX9RHrvtagaNHqEQdqEYY0pJVfD0pfRp0ykERoTuq6Zpamd6rzDMSNNhDAwIonecQfmbMaGrw+AblhlunDUD6DJ2H59T9gyvhcTkZAlozrm7vDbQvG30E6OOUDsJXr3pD58YNWqh/nNmf+thWiV3gpnkPYJbxn74mhGFTKGMmvbVH1FKLS62/hbtLUG3guCsughsqoP+VKpZhgd0yNHeCvQgPyZ8=;O+xT2HwDJGnHczgURzwnyA=="
 ---
 

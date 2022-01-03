@@ -7,7 +7,7 @@ originalUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/12/
 webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/12/30/451085-utilizing-ai-chatbots-sensitive-healthcare-topics.htm"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://menafn.com/updates/pr/2022-01/02/TC_35569image_story.jpg"
         width: 1436
         height: 957
+        isCached: true
+  - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
+    excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and"
+    publishedDateTime: 2022-01-03T12:02:00Z
+    webUrl: "https://www.econotimes.com/AI-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching-1624317"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 47
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202201034b765fd4fad6d7657_th_1024x0.jpg"
+        width: 496
+        height: 293
         isCached: true
   - title: "Chatbot Market Global Industry Trends and Growth Opportunities 2021-2026: Development of Self-Learning Chatbots to Adapt to Changing Digital Environme"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global chatbot market exhibited strong growth during 2015-2020."

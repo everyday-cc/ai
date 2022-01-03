@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/"
 type: article
 quality: 95
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/BE9605C1-B5DC-4064-B5834527CA7477C9.jpg"
         width: 790
         height: 496
-        isCached: true
-  - title: "A year of local AI breakthroughs in the fight against COVID-19"
-    excerpt: "The challenge has been where the world can share data and research to find the best collaborative ways to fight a global pandemic. And in 2021, that central hub of AI was the Bay Area. With world-class educational and research institutions,"
-    publishedDateTime: 2021-12-29T20:30:00Z
-    webUrl: "https://www.sfexaminer.com/findings/a-year-of-local-ai-breakthroughs-in-the-fight-against-covid-19/"
-    type: article
-    provider:
-      name: San Francisco Examiner
-      domain: sfexaminer.com
-    quality: 37
-    images:
-      - url: "http://www.sfexaminer.com/wp-content/uploads/2021/12/27671320_web1_201105-WLT-AI1-edit.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "xlPCwVLroVtVecDrVgPLga1efihtdoGexYIMWlxDk/mlQh73NW0xOSjWqFt5f0yC9Uza5XNby+0n02ZL2fedS6Q2LUkOw6zhzFfR2rxpoVYQ84k9Jifva8Ya3kVcpNiF3B9Jf17wGjxJZlsDo00wbmcyTQD6EghJPw8igCwGmLfad//gZWbe5dGtkG0t60p4hPdH/9D6J5g43FU4swY98tokvnLHwkwqDgqPc404+Q6lFyKHG1F99dnEKaCviKprfUdF5kTOhWZbEcU0p5mxHGyPxQlk6VLt648tw4NjcZU6Gdj4/0Xu7VP19yYtBrLKaFAVL3yMUI3iWxlznXCc/JodtEk1SXNh/d2efkNTMsu4u9WdY+R2bditREs4IciladEunOSvtmAEVT+TJD7KJVy9wuRsZxkDwAh5hgvMDTHs4gw1JQQVelByb0UTQ0bDdxDdKX78UDAn3S5hCLm0r9KAYX+5EYF5GiKE+pfq7GJbIKEQ/GZjEVM+cdju+FSJE/QIL2CSh0ux0DNjsNKqkg==;Hbxv+VhJ8l6/XAYsOCPwWw=="

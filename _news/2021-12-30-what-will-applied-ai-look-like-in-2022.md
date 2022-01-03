@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "2022 Trends in AI"
+    excerpt: "As artificial intelligence (AI) has grown in popularity, we’ve seen it used in numerous applications to help organizations in a range of industries automate processes, make better-informed decisions,"
+    publishedDateTime: 2021-12-30T20:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/2022-trends-ai-lumiata"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHUvV4fLmLrwg/article-cover_image-shrink_600_2000/0/1640895648356?e=1646870400&v=beta&t=e_0K6Y5A6z6y6L03v3QhL7DBl4jAmY_2wWQDOX57MHo"
+        width: 705
+        height: 377
+        isCached: true
   - title: "Top Business AI Trends to Watch for 2022"
     excerpt: "Research shows that the global AI market can reach up to a $190 billion market valuation in 2025. Additionally, in 2022, companies are expected to run around 35 AI projects in their operations. Because AI and ML are becoming so ubiquitous,"
     publishedDateTime: 2021-12-30T17:18:00Z

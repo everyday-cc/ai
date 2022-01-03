@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Increased FinTech And Bank Partnerships Will Benefit Small Businesses In 2022"
-    excerpt: "The need for the banking industry to keep up with technology was never more apparent than during the Paycheck Protection Program (PPP), which the SBA and the Treasury Department established to provide a lifeline to small businesses that were struggling because of the COVID pandemic."
-    publishedDateTime: 2021-12-29T19:08:00Z
-    webUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
+  - title: "How can the Fintech revolution build a better economy?"
+    excerpt: "The evolution of Fintech solutions has been rapidly changing the financial services sector. As with most industries, significant players in the financial industry are gradually shifting from manual processes to digital."
+    publishedDateTime: 2021-12-30T17:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-the-fintech-revolution-build-a-better-economy/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-the-fintech-revolution-build-a-better-economy/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-can-the-fintech-revolution-build-a-better-economy/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ccbf5686e5c5ff85179440%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2826%26cropY1%3D54%26cropY2%3D1644"
-        width: 1200
-        height: 675
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
         isCached: true
   - title: "Top five trends likely in fintech sector in 2022"
     excerpt: "By the first half of 2021, the fintech sensation had gripped the entire world. Since then, this movement has only picked up pace and is set to gallop further as we journey onward to 2022. This phenomenal momentum has really been a product of many things."
@@ -61,38 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
-    excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
-    publishedDateTime: 2022-01-02T06:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 36
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
-        width: 1200
-        height: 1500
-        isCached: true
-  - title: "Fintech sector 2022: With more funding, increased tie-ups between players, outlooks promising"
-    excerpt: "In the year 2021, the new-age fintech platforms offered consolidated fintech solutions to users, enabling them to carry out a range of operations such as spending, lending, investing, fund transfer, etc."
-    publishedDateTime: 2021-12-31T11:01:00Z
-    webUrl: "https://www.freepressjournal.in/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 33
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "5 FinTech trends to keep an eye on in 2022"
     excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services"
     publishedDateTime: 2021-12-30T13:26:00Z
@@ -106,20 +74,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/fintech-malaysia-1.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "10 Innovative Ways Fintech's Helped Credit Card Development"
-    excerpt: "Uncovering ten of the most cutting-edge uses for financial technology in credit card development, from crypto payments to enhanced rewards for customers"
-    publishedDateTime: 2021-12-30T18:08:00Z
-    webUrl: "https://fintechmagazine.com/digital-payments/10-innovative-ways-fintechs-helped-credit-card-development"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/credit-card-payments-development.jpg.png?itok=OxUeFddE"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Need to invest in fintech knowledge"
     excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."
@@ -135,15 +89,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
-    excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
-    publishedDateTime: 2021-12-30T19:23:00Z
-    webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
     publishedDateTime: 2021-12-31T07:45:00Z
@@ -153,6 +98,17 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 4
+  - title: "United Kingdom InsurTech Market Landscape 2021-2026 - InsurTech is Thriving in the UK, Having Spun Out of the FinTech Revolution"
+    excerpt: "The \"United Kingdom InsurTech Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021-2026)\" report has been added"
+    publishedDateTime: 2021-12-31T10:38:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24843301/united-kingdom-insurtech-market-landscape-2021-2026-insurtech-is-thriving-in-the-uk-having-spun-ou"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24843301"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24843301"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "LUs6M2jRtaPIM3Zo/c1nI1atjRakyYjrEBhuixMSAtjNxw2etWnXUSALsyGBSiR6LJL83vaPU2MIcUHNp/oHGKdsLSLYzxBLCpTwxuLAbvRD3DVO06Qe+3N8XFuPpukBW6ouYtoNt8dgTU9pimXr1zel/c2jmFz9UJ2TdM9jADzSc2sLpJtyiYrpTwpy1kdtLGucEE1AjnOXZhbPe4DjrFYsSzdrc7YQnrNJSmlp3KDhY813u1Ebj0LQPMJ9vU+sExE1mekACTJCrUNuNBhXHLD3zaIN9qIG0C5pHWHFf8Avl5py7mkWi15/QiCKhAnSQKzmjicXaz+6iODx1JlqM9Ip91Zw+ht2l/kdePJkLmayduXcLaxd8YKkf2GKJODjM3x+6TYk/7rapT8jqWHVxED+tdAssN473u1ZF2HeUaapZ2k3bDvKVxgBHHFC8uDrvnhBAKF3BNs+BW9HeUm0mR3JZ9k9xKvqkQr7d9+IH9FSbCbVGynWYFXjgVvjx3ItZscRZv7+JzJzBpXuwI3QVQ==;emtOthTKcQqd47Y/iTW8gg=="
 ---

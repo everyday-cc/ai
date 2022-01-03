@@ -50,19 +50,33 @@ related:
         width: 800
         height: 517
         isCached: true
-  - title: "Top 8 Data & Data Analytics Trends for 2022"
-    excerpt: "With data driving all business decisions, it's critical to know the current trends in data analytics. Discover top trends now."
-    publishedDateTime: 2021-12-29T20:52:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/data-center/data-analytics-trends-2022/"
+  - title: "How analytics, AI tools can overlook multiracial patients"
+    excerpt: "Data-driven tools that incorporate race have to figure out how to account for patients who identify with more than one race, as multiracial people—today, 10% of Americans—become a larger segment of the U."
+    publishedDateTime: 2022-01-03T10:01:00Z
+    webUrl: "https://www.modernhealthcare.com/information-technology/how-analytics-ai-tools-can-overlook-multiracial-patients"
     type: article
     provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 24
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 37
     images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/Top-Data-Data-Analytics-Trends-for-2022-scaled-e1640802374513.jpg"
-        width: 1400
-        height: 934
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/racial-bias-algorithm%20.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "DigiMax Launches ESG AI Division; Invests into Green Energy Solutions Company MADA Analytics"
+    excerpt: "DIGIMAX GLOBAL INC. (the \"Company\" or \"DigiMax\") (CSE:DIGI) is excited to announce it is launching an ESG Solutions Division within th"
+    publishedDateTime: 2022-01-03T12:05:00Z
+    webUrl: "https://www.pr-inside.com/digimax-launches-esg-ai-division-invests-into-green-energy-solutions-company-mada-analytics-r4860774.htm"
+    type: article
+    provider:
+      name: PR-Inside
+      domain: pr-inside.com
+    quality: 26
+    images:
+      - url: "https://www.pr-inside.com/images/uploads/pr/2016/80989/20211228_low-inauguralworldfintechsummit_80989.jpg"
+        width: 600
+        height: 343
         isCached: true
 
 secured: "xXip3VrLR2zWnMbzZI4jGASSn3SRcrgxlLihqGh+Wt4cOsyaL5CrnbJu7ypfmWR4F1fOIWC0+bwQPc8UYoPT7cyWI5DonpJeP2CcYDAsnfKeSYXuI9yfOeiWlMSQGCIaTSllwPfnmzBFZFL/3N2/60KnhoPTFwJcwH7IWrDiSW6R3K6qO1QppipA497itiKFqt2BxUllg9rwxxkuuzNSNCImRavNyi0Va0CeZ+Eu9X1ww/hxE53oeIx4U1uGi36fTP/uF91p5l9PEYg6+nUUGPjH2HzK7eyAw9soH9TWOACZNmyvrkGJUNiAe7us/ud2Vlp7VUmb9Ynw57r8QYdzQjKnkYO+uAPBlyz44jLrtbOfdWEHS0JoatDlcLkVRmZwCVoEtJAwCxGL+fbVZqhZ5K+F0T3acNPPrADsgfhnmTC9osqp7lA0QaUoslqw0IEd8b7OkgNOwowAmRXYyZyXHykF+ula2bhXZaqIOz1TTZcQe124JONdGC+j9A+u/ByaDLRmDYTmXYAmrtlEpM7VKg==;BJgXFH5fx6eTIyjCUbg6kQ=="

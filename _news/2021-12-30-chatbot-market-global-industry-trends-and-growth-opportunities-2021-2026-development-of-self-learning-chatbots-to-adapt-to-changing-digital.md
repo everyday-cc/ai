@@ -53,6 +53,20 @@ related:
         width: 1436
         height: 957
         isCached: true
+  - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
+    excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and"
+    publishedDateTime: 2022-01-03T12:02:00Z
+    webUrl: "https://www.econotimes.com/AI-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching-1624317"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 47
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/202201034b765fd4fad6d7657_th_1024x0.jpg"
+        width: 496
+        height: 293
+        isCached: true
 
 secured: "xlzC6EjK2r6HXkpBNUzbtP/v99NPonPj06B8LmlSYj/YxNsZB/CkC+JDGi+15SZtUyrSEdByVttvCy44hIIlF9uQO9bPlSo9K7bWjD4PNUhW+BBgdvEeEWTf0pT1FvET3OEVD54vbncbmBo+MhQxRQdBqcsh0IBHxIWqyGahu50VBkdG9IpEJOYrx29evWdsyNihlvbmf8T9o6x7HhlrgurEB4jgjKZUeX4bMS9xJVZAB6SdA9zr3ytiM81hD+F3Sa8023yWYav88v7MBC7VtO1Y8TnYa2oqwrCgcjsORUGg+MIEg2OqZhR/Z5O489PVWEiuV+HefypL1+573XDVRN9Rsybso+BMdroe2ut0ABM=;hYj2bZehjr+yTiG+2KYPBQ=="
 ---
