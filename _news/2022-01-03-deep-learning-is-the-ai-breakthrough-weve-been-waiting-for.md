@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 835
         isCached: true
-  - title: "2021 is a banner year for AI Natural Language Processing"
-    excerpt: "This is what DeepMind claims to have achieved with RETRO. Having gained credibility in teaching AI to self-learn games like Go, and predict complex protein structures, Google acquired AI company DeepMind has tried to master natural language processing that ..."
-    publishedDateTime: 2021-12-29T18:31:00Z
-    webUrl: "https://www.khaleejtimes.com/opinion/2021-is-a-banner-year-for-ai-natural-language-processing"
-    ampWebUrl: "https://www.khaleejtimes.com/opinion/2021-is-a-banner-year-for-ai-natural-language-processing?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/opinion/2021-is-a-banner-year-for-ai-natural-language-processing?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 76
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=c7d19355-d5f9-5569-ae14-72b69f1da532&function=cropresize&type=preview&source=false&q=75&crop_w=0.94688&crop_h=0.99999&x=0.02656&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "A year of local AI breakthroughs in the fight against COVID-19"
     excerpt: "The challenge has been where the world can share data and research to find the best collaborative ways to fight a global pandemic. And in 2021, that central hub of AI was the Bay Area. With world-class educational and research institutions,"
     publishedDateTime: 2021-12-29T20:30:00Z

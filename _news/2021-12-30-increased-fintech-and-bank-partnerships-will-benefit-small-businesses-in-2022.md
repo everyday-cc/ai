@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/"
 type: article
 quality: 86
-heat: 186
+heat: 176
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/fintech-malaysia-1.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Tech Trends that will Change the Fintech Industry in 2022"
-    excerpt: "Prior to the epidemic, AI adoption in the banking industry was extremely sluggish. When the world came to a halt, financial institutions and their partners throughout the world were finally compelled to automate the rest of their banking services and make them more customer-centric."
-    publishedDateTime: 2021-12-29T18:21:00Z
-    webUrl: "https://www.linkedin.com/pulse/tech-trends-change-fintech-industry-2022-moumita-chakraborty"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHWZ_SWI0NTxQ/article-cover_image-shrink_600_2000/0/1640801725372?e=1646265600&v=beta&t=QwL5qhdq_0TlHMlFCxexbm8LPqiev6YbPVG_5mvSNys"
-        width: 701
-        height: 438
         isCached: true
   - title: "10 Innovative Ways Fintech's Helped Credit Card Development"
     excerpt: "Uncovering ten of the most cutting-edge uses for financial technology in credit card development, from crypto payments to enhanced rewards for customers"

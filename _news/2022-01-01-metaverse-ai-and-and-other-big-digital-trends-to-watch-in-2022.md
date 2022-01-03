@@ -3,16 +3,16 @@ category: news
 title: "Metaverse, AI and and other big digital trends to watch in 2022"
 excerpt: "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,"
 publishedDateTime: 2022-01-01T14:57:00Z
-originalUrl: "https://www.plymouthherald.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
-webUrl: "https://www.plymouthherald.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+originalUrl: "https://www.cornwalllive.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+webUrl: "https://www.cornwalllive.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Plymouth Herald
-  domain: plymouthherald.co.uk
+  name: Cornwall Live
+  domain: cornwalllive.com
 
 topics:
   - Facebook AI
@@ -35,6 +35,6 @@ related:
       domain: theaustralian.com.au
     quality: 0
 
-secured: "GBaI2vB8tr3fTsv5U1adG1ROlvtt2XuMTOA2dkYxtvzKpTbaZ2fl4HkOWoPDiHiT1kfeUg/iZkPJx9oyG9DFv30oc8vUjWwNqHWE8fpzHFxbHLhbGmSWQRvJyHXBnB6G8SORH1a19Yche7yO9Xd3Q7mlBJEn4tXYZFJCSoAbnkI94lJJ/eo5961USmcBEhKiTlIdMyJ44LvoOd7HotZUc1fK9H49ooAWvG7k3WGYC9LEYYJ1rukXyoV33zm6u+PNVpr+jOVHWjPjDlkkxZrFOyaZvOqy1L0nB37GwotLoGD+PPuyIilE3SU4cOThEzbJceZgrpEtVNjYjFM11BTSSfNVTZTZeqtw34PrFO1dfXg=;0Ozj6HVItOzW/yOZ3RPvww=="
+secured: "5mAuVXkzN62qcYs5M2AAVfvFjZmAyqBPvc6blLQoSkcyvuI8RwNLbcSNNniZTjXJN3tAd1RQeDtusfINtW44bRprVwWUsEGlExGGU/rCiShmkbrU3IAmHedB5LOW3wI9KjOxoR1YHgdq+rJVpEPJInLW9XTnULDMp+hmlQAyJhp6bHrFJyimk/5nmee755IbBXO6uGBQI2e0xYDLI0ejzZ9xQK0knM2jHdjfh1puYLsbbApF9HiezYZ5QQrscfLT1nxSlpq57ZdpcE/njGM6fsarSPqM/R78jDFfGxr6OQlZIoK1rZDm2FJ92h9K7MqwDpLRM6qVrANkNwdpG4tL/zxMatMnZZ9wIr9jwIylG8c=;lOqF08aM8dhi3MQgXQS/2w=="
 ---
 

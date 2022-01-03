@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-23-novel-biosensors-set-to-revolutionize-brain-controlled-robotics.md",
+      "title": "Novel biosensors set to revolutionize brain-controlled robotics",
+      "excerpt": "A novel carbon-based biosensor is set to drive new innovations in brain-controlled robotics. The biosensor adheres to the skin of the face and head in order to detect electrical signals being sent by the brain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-troopsai-now-available-in-the-microsoft-azure-marketplace.md",
       "title": "Troops.ai Now Available in the Microsoft Azure Marketplace",
       "excerpt": "Troops, a leader in workflow and automation delivering actionable, on-demand data from Microsoft Dynamics 365 to revenue teams working in Microsoft Teams, today announced the availability of direct integration with Dynamics 365 in the Microsoft Azure Marketplace,",
@@ -1126,49 +1169,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-is-artificial-intelligence-about-to-transform-the-mammogram.md",
-      "title": "Is artificial intelligence about to transform the mammogram?",
-      "excerpt": "An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K7FJNC6TMI6ZMPPZN4L44L7BY.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/"
 type: article
 quality: 95
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -34,22 +34,6 @@ images:
     isCached: true
 
 related:
-  - title: "2021 is a banner year for AI Natural Language Processing"
-    excerpt: "This is what DeepMind claims to have achieved with RETRO. Having gained credibility in teaching AI to self-learn games like Go, and predict complex protein structures, Google acquired AI company DeepMind has tried to master natural language processing that ..."
-    publishedDateTime: 2021-12-29T18:31:00Z
-    webUrl: "https://www.khaleejtimes.com/opinion/2021-is-a-banner-year-for-ai-natural-language-processing"
-    ampWebUrl: "https://www.khaleejtimes.com/opinion/2021-is-a-banner-year-for-ai-natural-language-processing?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/opinion/2021-is-a-banner-year-for-ai-natural-language-processing?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 76
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=c7d19355-d5f9-5569-ae14-72b69f1da532&function=cropresize&type=preview&source=false&q=75&crop_w=0.94688&crop_h=0.99999&x=0.02656&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Deep Learning Is the A.I. Breakthrough We've Been Waiting For"
     excerpt: "Their efforts rely heavily on something known as deep learning. This is a preview. Make a selection below to access this issue.Already have access? Sign in."
     publishedDateTime: 2022-01-02T23:12:00Z

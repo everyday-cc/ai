@@ -2,50 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-11-26-193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence.md",
-      "title": "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence",
-      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
-      "originalUrl": "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg",
-          "width": 830,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
-      "cdnAmpWebUrl": "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
-      "publishedDateTime": "2021-11-26T02:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sun",
-        "domain": "daily-sun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2021-11-26-artificial-intelligence-ethics-agreement-adopted-by-193-countries.md",
       "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
       "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",

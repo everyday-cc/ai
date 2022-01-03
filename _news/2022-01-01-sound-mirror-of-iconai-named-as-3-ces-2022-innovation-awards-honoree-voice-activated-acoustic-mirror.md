@@ -42,6 +42,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "CES 2022: Deepbrain humanises AI avatars"
+    excerpt: "DeepBrain AI’s industry-first approach to “humanising” AI assistants provides users with an experience that is familiar, enlightening and approachable. Its video synthesis solutions, a CES 2022 Innovation Awards Winner,"
+    publishedDateTime: 2022-01-03T09:35:00Z
+    webUrl: "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 37
+    images:
+      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2022/01/All_AI_Influencer_AI_Bank_teller_AI_doctors_utilized_AI.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "YLEnUa6ElmpOAJM+51gGyAJGJ7yA9Q0Kr9LF0LY2gFjoUSbrRrCvL1uVo1Gg3TnfE78270fUi62UMefKMMG6bOjHLrDbr0/ut/jWrjvAJhtBpVdi7FXbhK77FvuEALDd2/jLi+8uXNaQspE01RV6x6/5hpHzLAqeNvk/vjWkF97GT0P55RmrQBxpwHye3okl9iuvF/xXd595R7Gf9ITcKus4Tsu6vESgFneRDMO0uHgdC7wZL2/yWqwT+M35se2sSHsvtMKaFMKevjP226aXATr5e5/EmifkrZoHGAOal62Vp0SPrJwX2Sz4Qmg7R2f81CRZdM1uYHp7iGw+BI4zQolE+gr/lGOdgZe646ghRKYmPc/bQdylg3/4oFMH2Xgy1ZCcyzX8hwCknFFxfvf7vbDxijRg3zRSHFliVtdJ3X+lWUuwIrwGuHsy28fT2WTSxUiK5dFYnMx4xjJHo8Rq0bm66wEBgCBrZcCvHHk4/s+ZV7idfTBxASRbKuYfNdxQCekRPWQff6Urkcge+ZZTdw==;ehnZj/QqymT/HxjZnXVQtg=="
 ---

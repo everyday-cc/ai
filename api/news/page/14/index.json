@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-12-16-innoveo-and-techforceai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises.md",
+      "title": "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises",
+      "excerpt": "Adding to the robust catalog of Innoveo's pre-built industry accelerators, this partnership will enable Innoveo to provide out-of-the box capabilities powered by artificial intelligence (AI) and natural language processing (NLP) across intelligent OCR,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/innoveo-and-techforce-ai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises-1031050525",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/innoveo-and-techforce-ai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises-1031050525",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1170184/Innoveo_Logo.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment.md",
       "title": "DataRobot’s DataRobot Core aims to accelerate AI system deployment",
       "excerpt": "DataRobot 's new DataRobot Core platform is designed to deliver improved AI design tools to enterprises in a range of industries.",
@@ -1112,61 +1164,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model.md",
-      "title": "Build a computer vision model using Amazon Rekognition Custom Labels and compare the results with a custom trained TensorFlow model",
-      "excerpt": "Building accurate computer vision models to detect objects in images requires deep knowledge of each step in the process—from labeling, processing, and preparing the training and validation data, to making the right model choice and tuning the model’s hyperparameters adequately to achieve the maximum",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-3316-image001.jpg",
-          "width": 701,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T12:14:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

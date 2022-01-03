@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-22-is-artificial-intelligence-about-to-transform-the-mammogram.md",
+      "title": "Is artificial intelligence about to transform the mammogram?",
+      "excerpt": "An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K7FJNC6TMI6ZMPPZN4L44L7BY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-faster-safer-more-efficient-data-processing-with-edge-ai.md",
       "title": "Faster, safer, more efficient data processing with Edge AI",
       "excerpt": "The integration of AI into devices will improve the efficiency, security, and speed of data analytics. Edge AI is the future of data.",
@@ -1086,48 +1129,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers.md",
-      "title": "FTC Considering New Artificial Intelligence Regulation to Protect Consumers",
-      "excerpt": "The Federal Trade Commission is considering a range of options, including new rules and guidelines, to tackle data privacy concerns and algorithmic discrimination.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
-      "originalUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/ftc-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2021/ftc-considering-new-artificial-intelligence-regulation-to-protect-consumers/amp/",
-      "publishedDateTime": "2021-12-21T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

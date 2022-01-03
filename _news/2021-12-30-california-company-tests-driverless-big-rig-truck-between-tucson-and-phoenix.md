@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.azcentral.com/amp/9044260002"
 cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/9044260002"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 76
+published: true
 
 provider:
   name: The Arizona Republic
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless Cars And AI Ethics"
-    excerpt: "This blog discusses driverless cars and AI Ethics, and identifies a number of the ethical challenges in advancing this market carefully."
-    publishedDateTime: 2021-12-29T18:09:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cca2b92c13cab8e9179438%2F0x0.jpg"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Driverless Car Market Leaders Innovating The Transportation Industry"
-    excerpt: "The company uses artificial intelligence, cameras and other low ... and has over 180 employees. Asia -Driverless Cars I would be remiss if I did not highlight Asian driverless manufacturers ..."
-    publishedDateTime: 2021-12-29T17:27:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-car-market-leaders-innovating-the-transportation-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-car-market-leaders-innovating-the-transportation-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/29/driverless-car-market-leaders-innovating-the-transportation-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc84e544afde6fd717943c%2F0x0.jpg"
-        width: 1200
-        height: 665
-        isCached: true
   - title: "Tesla rival races to introduce driverless cars by 2024"
     excerpt: "Making predictions about technology is a notoriously dangerous sport, and the onset of driverless cars is a particularly perilous thing to forecast. Google once pledged that the public would be able to buy robot vehicles from 2020 - a deadline that Toyota,"
     publishedDateTime: 2022-01-02T17:15:00Z
@@ -73,6 +41,17 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "California legislation targets Amazon’s AI warehouse bosses"
+    excerpt: "A new California law designed to prevent the warehousing industry from overworking employees doesn't name a specific company. But the legislation's target is clear: Amazon."
+    publishedDateTime: 2021-12-30T22:29:00Z
+    webUrl: "https://www.seattletimes.com/business/california-legislation-targets-amazons-ai-warehouse-bosses/"
+    ampWebUrl: "https://www.seattletimes.com/business/california-legislation-targets-amazons-ai-warehouse-bosses/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/california-legislation-targets-amazons-ai-warehouse-bosses/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 37
 
 secured: "gc1QNq6hglKmQkLDZNBRDABdzL7ztkkiWXj7L149yK0vYHWUaVvNEDgG/ylCa7jOQuYtGtzxzlgYH7nR6oxdtFPHRJm/zFt9pyq01R3OzwGu6A0ChEv11Sg7Jk6/TUPqag5o8BH1t6GK98ycCV8PF4vDtbwEiu4D2YkwtrJKJQfE6bFYuObPDtYNk3kiB0CmbgptWRMy2RzhFs8IVfhP+0NXbv/t/b/JsNJKNenWSLYmFAtfjpBkbTRAveYdmliXWj3maFspRuE0bvNepGyG7VhJe7wAsx9kwimDxjn4LMtZ4ox9kb4aKz+xkqMNTg8XkuhLgSf/eVtHkQdJHMyLg7jMh7rzIjcb0J8eH2K08uk=;Ld0xQoHS4VS7DpjJx665aA=="
 ---

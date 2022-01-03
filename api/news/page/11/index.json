@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-12-19-facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content.md",
+      "title": "Facebook parent Meta uses AI to tackle new types of harmful content",
+      "excerpt": "Meta, formerly known as Facebook, said Wednesday it has created artificial intelligence technology ... that's being pushed at the forefront of research.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/w0oWTJaKxo5pqALFnH32KUwNH-w=/1200x630/2021/12/07/3116a286-fdac-435c-bb72-912eea99533a/gettyimages-1349988105.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-uses-ai-to-tackle-new-types-of-harmful-content/",
+      "publishedDateTime": "2021-12-18T22:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-19-teradata-and-dataiku-join-forces-to-improve-data-analytics.md",
       "title": "Teradata and Dataiku join forces to improve data analytics",
       "excerpt": "Teradata said the upgrades will drive agility for analytics and ML initiatives, accelerating time-to-value for joint customers.",
@@ -1131,49 +1183,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-surprise-surprise-teslas-full-self-driving-beta-causes-accident.md",
-      "title": "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident",
-      "excerpt": "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
-      "originalUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-Crash.gif",
-          "width": 600,
-          "height": 325,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
-      "publishedDateTime": "2021-12-17T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

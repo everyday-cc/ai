@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-26-how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse.md",
+      "title": "How AI, VR, AR, 5G, and blockchain may converge to power the metaverse",
+      "excerpt": "The metaverse could be the killer app for several of the most exciting emerging technologies that haven't yet found their footing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1311757065-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/",
+      "publishedDateTime": "2021-12-26T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-26-chinese-scientists-develop-ai-prosecutor-that-can-press-its-own-charges.md",
       "title": "Chinese scientists develop AI ‘prosecutor’ that can press its own charges",
       "excerpt": "Machine is so far able to identify eight common crimes such as fraud, gambling, dangerous driving and ‘picking quarrels’, researchers say.",
@@ -1109,58 +1160,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future.md",
-      "title": "At-Fault Robotaxi accidents For Waymo, Pony.AI, Olli And What They Mean For The Future",
-      "excerpt": "different robotaxi-related accidents at the end of this year raise some interesting issues about what they mean going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c3afe0943c99e74c35c794%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
-      "publishedDateTime": "2021-12-23T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

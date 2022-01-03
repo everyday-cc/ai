@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-03-jetour-x-1-hybrid-suv-unveiled-with-huawei-l3-autonomous-driving.md",
+      "title": "Jetour X-1 Hybrid SUV unveiled, with Huawei L3 autonomous driving",
+      "excerpt": "JETOUR Motors has just announced a new hybrid vehicle. It is the Jetour X-1 Hybrid SUV crossover, which is powered by the Huawei L3 autonomous driving assistance system and more. For those unaware, the Chinese company is a sub brand of Chery Automobiles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/01/03/huawei-l3-autonomous-driving-jietu-x-1-hybrid-suv/",
+      "originalUrl": "https://www.gizmochina.com/2022/01/03/huawei-l3-autonomous-driving-jietu-x-1-hybrid-suv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/01/Screenshot-2022-01-03-154320.png",
+          "width": 812,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/01/03/huawei-l3-autonomous-driving-jietu-x-1-hybrid-suv/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/03/huawei-l3-autonomous-driving-jietu-x-1-hybrid-suv/?amp=1",
+      "publishedDateTime": "2022-01-03T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-geely-owned-zeekr-and-waymo-developing-self-driving-ev.md",
       "title": "Geely-owned Zeekr and Waymo developing self-driving EV",
       "excerpt": "Chinese automaker Geely’s EV subsidiary Zeekr has teamed up with the Californian technology firm Waymo to develop an autonomous cab. Previewed in official renders, the electric MPV is designed for use",
@@ -84,6 +136,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-california-company-tests-driverless-big-rig-truck-between-tucson-and-phoenix.md",
+      "title": "California company tests driverless big-rig truck between Tucson and Phoenix",
+      "excerpt": "The company claims its artificial intelligence software allows trucks to \"see\" 1,000 meters away, operate nearly continuously and achieve fuel savings of 10% or more compared to those driven manually.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/money/business/tech/2021/12/29/tusimple-completes-driverless-big-rig-truck-test-arizona/9044260002/",
+      "originalUrl": "https://www.azcentral.com/story/money/business/tech/2021/12/29/tusimple-completes-driverless-big-rig-truck-test-arizona/9044260002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/29/PPHX/a8ad51c7-2ee8-4726-a148-0c52165ac405-TuSimple_Truck_1.jpg?auto=webp&crop=2800,1575,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/9044260002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/9044260002",
+      "publishedDateTime": "2021-12-29T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -917,8 +1012,8 @@
       "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
       "excerpt": "A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior has earned a second competitive utility patent from the United States Patent and Trademark Office.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/science-technology-business-philanthropy-patents-b6b0d37dd4957945e92e723d71335aad",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1314,92 +1409,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit.md",
-      "title": "Intel steers toward driverless future with Mobileye self-driving car unit",
-      "excerpt": "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "originalUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "publishedDateTime": "2021-12-17T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-connected-autonomous-shared-and-electric-case-market-outlook-2027-tmr.md",
-      "title": "Connected, Autonomous, Shared, and Electric (CASE) Market – Outlook 2027 – TMR",
-      "excerpt": "and Artificial Intelligence (AI), has led to a revolution in vehicle manufacturing. This has further helped in the development of driverless cars. Want to know the obstructions to your company’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/connected-autonomous-shared-and-electric-case-market-outlook-2027-tmr",
-      "originalUrl": "https://www.digitaljournal.com/pr/connected-autonomous-shared-and-electric-case-market-outlook-2027-tmr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/Spider-Man-Sony-1K-e1640613949235-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T12:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
