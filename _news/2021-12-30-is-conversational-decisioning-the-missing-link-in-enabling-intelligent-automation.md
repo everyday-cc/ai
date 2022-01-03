@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-convers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/is-conversational-decisioning-the-missing-link-in-enabling-intelligent-automation/amp/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Forbes
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 897
     isCached: true
-
-related:
-  - title: "Human presence detection using CNN-based computer vision application running on STM32"
-    excerpt: "Designed to determine if a person is present in a given area, human presence detection technology is very useful for a wide range of applications spanning user interfaces, security and safety. It can also be used to actively manage energy consumption by ..."
-    publishedDateTime: 2021-12-31T08:17:00Z
-    webUrl: "https://www.st.com/en/solutions-reference-designs/sl-snpsn011701v1.html"
-    type: article
-    provider:
-      name: ST
-      domain: st.com
-    quality: 32
-    images:
-      - url: "https://www.st.com/content/dam/logos/open-graph-logo.png"
-        width: 750
-        height: 560
-        isCached: true
 
 secured: "o9ZnRQ2CODUnpAsYOD1PofXDL/xWYAPwLzpE2ZZH0dDud0sM5atPcS27XAlt3GfSp3p2vouOuo87kY9Kezz/PC/danrnIND+e9H8mt6ZSzPqc2tzIG3gT+UzLebbdhLPcctf0Y8eOELfX/PVkLiWDPVXT6oUZYCybPfmlX5fIdOBM2QpYaA1qUeiyPpnz3WaylepYOaWE2+M5IgOSZV+DDcg51YymcManP2vix9HQxu74NbMnxxeBvCKnxBpMSDSNtsR74jSbsOb6PMzTlxXa6LJLi/WAYYutiEo2/wzyWxGWpcjv/BqsGybQ3APmH2vJ2S3QqJBDQgeLbDgaPZfXhQRGeWuEunE3ZY2kKrq/NfnfdrQxN0NoWQb9i+rkk4e8NdCAYoo4E7vA+SyY1d/OJsSEDRCY7TR+iVHwAkjTmzg/t2Uba+jnCTdfwsPikMT9DcLSbARDEuTKGyXwkkwjESN10wOhqeumlV9A7sI0vOH3Sia2E4v8bfDHEx/O3qP1lPNvNv4Uqb+3VbsWgTBcg==;vzYpd18yxiELNlgKh9T6kQ=="
 ---

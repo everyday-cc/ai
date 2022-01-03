@@ -40,6 +40,20 @@ related:
         width: 512
         height: 410
         isCached: true
+  - title: "Startup Viz.ai using artificial intelligence to treat stroke patients"
+    excerpt: "San Francisco-based Viz.ai is using artificial intelligence to detect diseases and speed up care to treat stroke patients, Forbes reported Jan. 3. Viz.ai's software cross-references CT images of a patient's brain with a database of scans to find early stages of large vessel occlusion strokes."
+    publishedDateTime: 2022-01-03T22:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/startup-viz-ai-using-artificial-intelligence-to-treat-stroke-patients.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 52
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "rbaPl0s4qLQnWarKXQ0/K8u9E3EmoXFrOs2k7xJnQsZFO73E19mbdSYu53TmvbaQCQ7etfdiGy5ylCh4ZUo/busPZSPpGtuvvaZAWha8i6TKg9YxTRBTMGiLYZl+/ENA585B98NH58jXKH9iVs7i4Xcmbv4pD2paJ2q/jhifk5FYqR1xSb+Y5e6s6phZcKR1MAymU0kNCf2Ovn6EnvKVM2hNMJmBiPOAVHIWTpKxeLd173C8L0IDYEYgUhpI7gzudQrA3mI7rOtr92L82jNvUCEUy25VCZFnYwqL8ifAEW32w6JE/hsFBTtPqRJHHLzlOJaZ480WpG0+uL4eFmV0G2I9VGnkYRzMppwUWnxrljk=;f0939R9XlGQ/ScuHnJrrQg=="
 ---

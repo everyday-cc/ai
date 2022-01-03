@@ -3,16 +3,16 @@ category: news
 title: "Metaverse, AI and and other big digital trends to watch in 2022"
 excerpt: "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,"
 publishedDateTime: 2022-01-01T14:57:00Z
-originalUrl: "https://www.cornwalllive.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
-webUrl: "https://www.cornwalllive.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+originalUrl: "https://www.bristolpost.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+webUrl: "https://www.bristolpost.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Cornwall Live
-  domain: cornwalllive.com
+  name: Bristol Post
+  domain: bristolpost.co.uk
 
 topics:
   - Facebook AI
@@ -35,6 +35,6 @@ related:
       domain: theaustralian.com.au
     quality: 0
 
-secured: "Kn0odkuNYWPfQ8pjvHuOD2ex+6rP7PtJu+M8p0Kds08q/oKUDtis10fN5ZeiTrkuivsMbzz33cXLs5my8/jnJASiUTbwLoWxFshghGA4fZQW5WZEhhJavhc1Df5Jjl3EL7fwtMx1KacvNfXvEtKJq03tBO70mlvumt/DimCuWouTIJCKz/3pW3fAdSznV8VozDuDhAzMHGv7SXt/F1wytYGHzOU4sH6W2PcLFGujwo5IB0IQ+xS2EMD5yePcg3pLluiIbRPQL/qxSlRMiWT4cj7YYLOgk6u723HU6DotJwGj7cGCL/Zj4s5cOspdg/SO5edwfpAvzyzZjiTudYUAg86I1MJXpnKf6vgPQvbDWe4=;xU1Wx2srdKfoxTr1NmBT8g=="
+secured: "6WZporaRAkmlxZ6zShmlwPMjpMRy2JnAsnyJuAyOkZpk4B7LzKzPa567OJDDd9a/skchD88F1duSyz8A6Vpj7MH1D0+aBK0HdTI6BKCSngiVcEXtHwoy6FUrEqTwyHsv1/BpBZl1jufCCsMUDytN6ePqkfeFbnTsKpd61vI16Y0LW1kdy683WjEvX8wWQO9c9Tgp8WeiWKE9jqKC3NYl4XR1iK44XcTiLABvbUgQVdiNPELZCBrAL2s/LhOuSlvMtHzoE4HLmHiVcbFBGyn5EXOJED2gKUSKECGh/SL6tmapIdvpNEZc3hdYkTzvXIfOG9/yCAhPopbx5dkWrALQ3eJ40NHe7vhSruXTBkJykHs=;nfk5PJsl1Y4ZQobQzu/veQ=="
 ---
 

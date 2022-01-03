@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-03T19:18:00Z
 originalUrl: "https://www.forbes.com/newsletters/jonmarkman/2022/01/03/popular-ai-powered-etf-suffers-from-human-flaw/"
 webUrl: "https://www.forbes.com/newsletters/jonmarkman/2022/01/03/popular-ai-powered-etf-suffers-from-human-flaw/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d358a8080028e4a355465d%2F0x0.jpg"
@@ -27,6 +28,6 @@ images:
     height: 1162
     isCached: true
 
-secured: "1yzAwcX3W7J2eQLQhZWvr8ZqVwJpmBx7wJHipMQFTkxu5MYCNDCUjBFIheUn+CofIaJQohFSoEI+J8gVWBzF50KrgyQXgPMZuAu0W+CEWGfPUEc/yw2aus9JuW+GmgV1iCJsbwaaCbCPf3UfA52pPH7n3943IsZbhJvjf253D8G2kUqzHSV131siJ/bPnAiyEjRLMx1B0gZTgaUIlj43IU3m450ro7xUgN+hL6OSXZTTlaeU6G07WnN8VZu/8nwf4kNpfITvrGRKkVKDSMyoYk9btQe4pXFH38kuwp9mfcyV1aHhduo671DCB0YER/ipNtdM/IXZuMopbwvGCMWSTa+TDtangzgXKd5l+lyIaLE=;yEnZQQqM3g1GZ592CSckZw=="
+secured: "4C+gmPVmC6o/vO0/FtwzhlEpgjAn85HBaWRGiLekGHBLkD46GfFIYu3Iw2OSdfczQ5hyXZaDeP7s/eaOvrb/dl1fLt7mPqyE1/UuKIwxbszhHl5PWE4fIaOOJno33yNseacjku1TJccw/PVfOafxeFBDkuO8m3VkiKE5g2CXamFAnyBRL6fE7bEyS6achU6l8NhTAfwD1oNRta9ohIBK8MXyaCkXukDJ+bfRL0yuLxM+XpW1iDWM00TU9DbpOoE+vw81yAsiXdWo1dPpqCpkPZ/eGrvrIQf20MD8IDrzrjAeT7cbBBI67TjyY+D9AB1MoURb5nF0jIYbrx9ZSloGXDJBGqL3dvyVYYphPegZE5U2qUa1WRGAaIpUMRBDbQ0r7ODAO7cHDKRbTVm3e07ASPfGyANHtZXjKoPhru0rqn4Q/SgJtVocvX5Pr98lDca96M+5Th4X4l2WrZNz5o+D7pOpiBX30w7055oPFvLk9SArxLvwuhq5csSUkv1vNK875ZWDz6uZF9aRN9ykwGAY+Q==;nsmRKrjDKPfUDTziBSzEMg=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Microsoft partners with Royal Spanish Academy for language resources"
 excerpt: "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,"
 publishedDateTime: 2021-12-21T10:35:00Z
-originalUrl: "https://www.technologyrecord.com/Article/microsoft-partners-with-royal-spanish-academy-for-language-resources-127708"
-webUrl: "https://www.technologyrecord.com/Article/microsoft-partners-with-royal-spanish-academy-for-language-resources-127708"
+originalUrl: "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709"
+webUrl: "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 443
     isCached: true
 
-secured: "5Pd8u5YYZHMr4yCve8/6bIsr3f5JTgPsVjmepGDp99SNeShDT0tJ6DFydcxfuhN/DGivcYvAgRjJk2LFVWYO/uVusWoFsmkInde9XG9qOvpdj65tG4a38uun6tFQIfYsuLfhJmZJmE4Cp+DgR6fEm8bakrIMqHdxb1x+w9Sf8jD5fG6etM1wDn1So6VH6+DByldFdeJ8vMjTGCSMS6jF9OIiVgtB+Nv/nMnHgNNNUEUZqYYnWubSgAhFk7ywoM7CF3DUgNDr8wulTJSe2TsNVGPW2DhvFDo1iXwq1Cm5Xwsx/4aerUhiGz6x+3zVzTq3fE25wr38MVu7ODMPulR3OECZqao4WXih/Z5K+LEtXwI=;faxXKtKxL9Pv4hwqUYd4gw=="
+secured: "n/2XLDDqvzIwkrjjkU76okfSPCA2e0pzvH+caNIBNSUXhWcBqOW+YOc+560QCRn6ONupKb8Za04FHFIgFy8Jzp/OC/WlvwQN4Tri9FbFwypud8jZ7+0uhXoDDQvjkIawwaBM79UOeW0tTePQCFRPyaW2srQHtvAHvZCELdpZC7Pk4Nhd/rGs9x/vAc3YH450Wysfv4ODtCOL6NQ/67ULLpMlpxZegs8hMN6Eq37gEdIVI/+P+vxnyGPkxscxePlJtdlp/t/yj9uTavdsuE00H0wEukP6c/s11l6f4sMAoz05Ma76qt5tHgBKjSdRJ5qAGyddv7geCVhpBdcrBo/wX/SDmJSfHiRZB7wI+Fd110o=;XRUNDjqQxcrRH8I9wusr6g=="
 ---
 

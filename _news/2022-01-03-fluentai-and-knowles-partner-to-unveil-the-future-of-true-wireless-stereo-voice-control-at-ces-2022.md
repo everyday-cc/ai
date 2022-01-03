@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-excerpt: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022. LAS VEGAS, Jan. 03, 2022 (GLOBE NEWSWIRE) -- Fluent.ai, a leader in embedded"
-publishedDateTime: 2022-01-03T15:33:00Z
-originalUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/01/03/9518710.htm"
-webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/01/03/9518710.htm"
+excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+publishedDateTime: 2022-01-03T14:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-    width: 1577
-    height: 1050
-    isCached: true
 
 related:
   - title: "SoyNet to introduce AI accelerator at CES 2022"
@@ -47,7 +41,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
         width: 400
@@ -68,6 +62,6 @@ related:
         height: 900
         isCached: true
 
-secured: "IsTZheNlPxbO8ueK+h2206waD57BFZrtyqDgAzZfoI5loqYnl6u0QPeextnMmXeFCk5A6QuzJ9MfSFXdzA4/aKMOnRa//domlP1bzTx7s+vL6vW7CfJgFMSiGQIy+20clYjtR1sCbNOk/tQGhAzzdC905pT4OLUGB0kU+pRoV0DME7MOeCm5GNQf94/WZbUBdfRscOZLSO40iYlrzpwhQ7gpn5K6dZRUvuGQPr45FefeCu0oUFyHeMS/cNKbOE+ay4FZI/Dg5y3sOwkwA3k2lTHCGAMtch9vPWvi+cGFQ3mHWrmH4JuIENPILMqVDRusYEuaBtae2oH3FOp9dBVWb0ax1eAgq34IJWAke/+snmc=;qlfbbagwQpY+QSkhVMdayA=="
+secured: "ODR6+qsGW3DP5wHNWNlPrY7/J9M0nNgHj2dYUpZJoA5b2YgX39vc+Kopmjk1Ua5PsQMO1OnAZQYeQtXearRmr+wYqt6TZB8WNImRp/pbaT6cgK9Bzh8tdTsIYkFx18jaSM7jkB6soEHBHAJGAkPVMcVtpDrSXUsZpsqEDODbmfFV2QXT3m0Qx+CFPKx0nZqjGe6Rv6lxafQxrAeW5MUFeSwipgoL1RuV8Nqcd6RlmnZKCnXOeenpEJVd42Y5OW+XyJE1hMlQMhz90EIeFcmLTJJJveSIuAozxyhx7+j2qEjY4HxG9H0Y5NM0u0fVzwH1LQuKWLt/sFFEkNona4+VNLngsd+W0qCiWZMOpxz5wes=;erub+USI3tOL83JowYYDTg=="
 ---
 

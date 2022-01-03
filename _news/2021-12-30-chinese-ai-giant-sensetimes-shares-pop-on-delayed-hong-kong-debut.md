@@ -7,7 +7,7 @@ originalUrl: "https://www.yicaiglobal.com/news/chinese-ai-giant-sensetime-shares
 webUrl: "https://www.yicaiglobal.com/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "US-blacklisted AI firm SenseTime shares jump 23% in Hong Kong debut"
-    excerpt: "Chinese artificial intelligence startup SenseTime jumped as much as 23% from their IPO price as they debuted on the Hong Kong Stock Exchange. The startup had raised $740 million in its IPO and priced its shares at $0."
-    publishedDateTime: 2021-12-30T06:09:00Z
-    webUrl: "https://inshorts.com/en/news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640"
+  - title: "Facial recognition heat check: SenseTime share price defies market gravity"
+    excerpt: "The IPO raised HK$5.55 billion, marking the largest stock launch of the year for a facial recognition algorithm developer."
+    publishedDateTime: 2022-01-03T17:29:00Z
+    webUrl: "https://www.biometricupdate.com/202201/facial-recognition-heat-check-sensetime-share-price-defies-market-gravity"
     type: article
     provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
     images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/30_thu/img_1640841454164_313.jpg?"
-        width: 1006
-        height: 1629
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
+        width: 2000
+        height: 1040
         isCached: true
   - title: "SenseTime’s red-hot start makes Tang one of world’s richest"
     excerpt: "SenseTime Group Inc co-founder Tang Xiao’ou has become one of the world’s richest people, after the Chinese artificial intelligence (AI) champion blew past concerns about American sanctions to surge as much as 23% on its Hong Kong debut."

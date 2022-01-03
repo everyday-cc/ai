@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Plea against use of facial recognition technology"
-    excerpt: "Telangana High Court on Monday issued notices to the State government and Hyderabad Police Commissioner over a PIL petition questioning usage of facial recognition technology (FRT) by the police. A social activist,"
-    publishedDateTime: 2022-01-03T16:18:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Telangana: Plea against use of facial recognition technology"
     excerpt: "Hyderabad: The Division Bench headed by Chief Justice Satish Chandra Sharma and Justice Abhinand Kumar Shavili on Monday issued notices to Principal Secretary, Municipal Administration & Urban Affairs and the Hyderabad city police commissioner directing them to respond to the notices on implementation of facial recognition technology in Telangana State within six months."
     publishedDateTime: 2022-01-03T20:00:00Z

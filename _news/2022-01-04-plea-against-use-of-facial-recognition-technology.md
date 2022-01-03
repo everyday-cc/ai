@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-f
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece/amp/"
 type: article
 quality: 74
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hindu
@@ -27,113 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana: Plea against use of facial recognition technology"
-    excerpt: "Hyderabad: The Division Bench headed by Chief Justice Satish Chandra Sharma and Justice Abhinand Kumar Shavili on Monday issued notices to Principal Secretary, Municipal Administration & Urban Affairs and the Hyderabad city police commissioner directing them to respond to the notices on implementation of facial recognition technology in Telangana State within six months."
-    publishedDateTime: 2022-01-03T20:00:00Z
-    webUrl: "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
-    ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
+  - title: "Identity verification using Amazon Rekognition"
+    excerpt: "In-person user identity verification is slow to scale, costly, and high friction for users. Machine learning (ML) powered facial recognition technology can enable online user identity verification. Amazon Rekognition offers pre-trained facial recognition capabilities that you can quickly add to your"
+    publishedDateTime: 2022-01-03T22:22:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/"
     type: article
     provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/10/25/1118832-hc.jpg"
-        width: 1000
-        height: 600
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/03/ML-7111-featured-image2.png"
+        width: 488
+        height: 344
         isCached: true
-  - title: "Telangana High Court issues notice to state government on PIL against Facial Recognition Technology"
-    excerpt: "The PIL (drawn with the legal assistance provided by the 'Internet Freedom Foundation') states that Telangana is the most surveilled place in the world."
-    publishedDateTime: 2022-01-03T10:47:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.amp"
+  - title: "UC Student Researchers Union Gains Recognition"
+    excerpt: "After months of negotiating deadlock, the University of California system formally recognized graduate student researchers as higher education employees and thus their right to unionize. “Almost every student researcher I’ve talked to knows someone who has been underpaid,"
+    publishedDateTime: 2021-12-31T22:31:00Z
+    webUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/"
+    ampWebUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 60
+      name: Santa Barbara Independent
+      domain: independent.com
+    quality: 59
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/12/12/w600X390/JUSTICE.jpg"
-        width: 600
-        height: 390
+      - url: "https://www.independent.com/wp-content/uploads/2021/12/student-researchers-union-protest.jpg?fit=1383%2C991"
+        width: 1383
+        height: 991
         isCached: true
-  - title: "Telangana HC issues notice to govt over PIL challenging use of facial recognition tech"
-    excerpt: "The Telangana High Court has issued a notice to the state government on a public interest litigation (PIL) filed over the use of facial recognition in the state. The petition, filed by Hyderabad-based activist SQ Masood with the support of the Internet Freedom Foundation,"
-    publishedDateTime: 2022-01-03T13:09:00Z
-    webUrl: "https://www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432"
-    ampWebUrl: "https://www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432?amp"
+  - title: "HC notice to state, cops for using face recognition tech"
+    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face"
+    publishedDateTime: 2022-01-03T22:27:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/articleshow/88676220.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/amp_articleshow/88676220.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/amp_articleshow/88676220.cms"
     type: article
     provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 51
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_policing_rep_1200x800.jpg"
-        width: 1200
-        height: 800
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
         isCached: true
-  - title: "Telangana High Court notice to State on plea challenging use of Facial Recognition Technology without law"
-    excerpt: "The Telangana High Court on Monday issued notice to the State of Telangana on a plea challenging use of Facial Recognition Technology (FRT) by the State and Telangana Police without a valid law [ SQ Masood v State of Telangana ]."
-    publishedDateTime: 2022-01-03T08:31:00Z
-    webUrl: "https://www.barandbench.com/news/telangana-high-court-notice-to-state-on-plea-challenging-use-of-facial-recognition-technology-without-law"
-    ampWebUrl: "https://www.barandbench.com/amp/story/news/telangana-high-court-notice-to-state-on-plea-challenging-use-of-facial-recognition-technology-without-law"
-    cdnAmpWebUrl: "https://www-barandbench-com.cdn.ampproject.org/c/s/www.barandbench.com/amp/story/news/telangana-high-court-notice-to-state-on-plea-challenging-use-of-facial-recognition-technology-without-law"
+  - title: "Human presence detection using CNN-based computer vision application running on STM32"
+    excerpt: "Designed to determine if a person is present in a given area, human presence detection technology is very useful for a wide range of applications spanning user interfaces, security and safety. It can also be used to actively manage energy consumption by ..."
+    publishedDateTime: 2021-12-31T08:17:00Z
+    webUrl: "https://www.st.com/en/solutions-reference-designs/sl-snpsn011701v1.html"
     type: article
     provider:
-      name: Bar & Bench
-      domain: barandbench.com
-    quality: 42
+      name: ST
+      domain: st.com
+    quality: 32
     images:
-      - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tag: Face Recognition Technology"
-    excerpt: "On Dec. 17, 2021, Mayor London Breed declared “the existence of a local emergency” based upon a spike of overdose deaths in the Tenderloin, but to a trained eye it appears in its true colors as a coup d’état."
-    publishedDateTime: 2022-01-01T06:22:00Z
-    webUrl: "https://sfbayview.com/tag/face-recognition-technology/"
-    type: article
-    provider:
-      name: San Francisco Bay View
-      domain: sfbayview.com
-    quality: 39
-    images:
-      - url: "https://sfbayview.com/wp-content/uploads/2021/02/Black-History-Month-graphic.jpg"
-        width: 792
-        height: 792
-        isCached: true
-  - title: "Garda body cams should not use facial recognition technology, committee warns"
-    excerpt: "Garda body-worn cameras should not use facial recognition technology and should not be used to racially profile people, according to recommendations from the Oireachtas justice committee. Provision for the use of body-worn cameras (BWCs) is set out in draft legislation,"
-    publishedDateTime: 2022-01-02T23:00:00Z
-    webUrl: "https://www.irishexaminer.com/news/courtandcrime/arid-40776777.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 36
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/5619/2809695_7_seoimageog_2.57972721.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Telangana High Court Issues Notice On PIL Challenging Deployment Of Facial Recognition Technology (FRT) In Telangana"
-    excerpt: "The Telangana High Court today issued a notice to the Telangana State Government in a Public Interest Litigation (PIL) plea filed challenging the deployment of Facial Recognition Technology (FRT) in the State of Telangana."
-    publishedDateTime: 2022-01-03T08:44:00Z
-    webUrl: "https://livelaw.in/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
-    ampWebUrl: "https://www.livelaw.in/amp/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
-    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
-    type: article
-    provider:
-      name: Live Law
-      domain: livelaw.in
-    quality: 36
-    images:
-      - url: "https://www.livelaw.in/h-upload/2022/01/03/406892-et-artworks-and-telangana-hc.jpg"
-        width: 842
-        height: 486
+      - url: "https://www.st.com/content/dam/logos/open-graph-logo.png"
+        width: 750
+        height: 560
         isCached: true
 
 secured: "0kyZhvXWTu1AXMrFmahGwNjrYfJA+fzU+k/N7KAAlGPB+dL8LSb/uZ7uvjbSM132B6b/6VsgoikQViB2GlSGMQhfIx0e30u2VgsxwQcJF7EWNlNNztbv0Qwb8kbRwdiowHfP6vaZHc9ZmyJH0wY5s26VVZTHKFwYPkvvt0eTZviuVqCCZeNDRd1Xh8ZDWyFPAcVuz5siC0n4pKzK6tZ4eUaHFcxj26dogySqhkXY3PPBHZ3Yd99gmNTDIYOnUqIXWuWAxLfVCt4fCodCKc0oYFCH5NS2AKTVPpg1du7oh6M8dYWqDKPNam3TIS1rEckCjdlDftWSgA8fkhuEUAw9X5WeCzbpwxvoHo0bWC88Odo=;9JAumqtbIxqXTcZgWphIYQ=="

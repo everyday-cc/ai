@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "US-blacklisted AI firm SenseTime shares jump 23% in Hong Kong debut"
-    excerpt: "Chinese artificial intelligence startup SenseTime jumped as much as 23% from their IPO price as they debuted on the Hong Kong Stock Exchange. The startup had raised $740 million in its IPO and priced its shares at $0."
-    publishedDateTime: 2021-12-30T06:09:00Z
-    webUrl: "https://inshorts.com/en/news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 57
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/30_thu/img_1640841454164_313.jpg?"
-        width: 1006
-        height: 1629
-        isCached: true
   - title: "Chinese AI Giant SenseTime’s Shares Pop on Delayed Hong Kong Debut"
     excerpt: "Shares in SenseTime Group surged as much as 23 percent today after the Chinese artificial intelligence giant finally went public on the Hong Kong Stock Exchange after the initial date was pushed back two weeks after the company was added to a US government blacklist."
     publishedDateTime: 2021-12-30T09:48:00Z
@@ -53,6 +37,20 @@ related:
       - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut/18604253874225152.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Facial recognition heat check: SenseTime share price defies market gravity"
+    excerpt: "The IPO raised HK$5.55 billion, marking the largest stock launch of the year for a facial recognition algorithm developer."
+    publishedDateTime: 2022-01-03T17:29:00Z
+    webUrl: "https://www.biometricupdate.com/202201/facial-recognition-heat-check-sensetime-share-price-defies-market-gravity"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/12/09151310/sensetime-new.jpg"
+        width: 2000
+        height: 1040
         isCached: true
 
 secured: "Bob05NUoptP7mtmQbuk8wXFBeHC9W4MMvjWuP0DjvEigtgWLc17fgvRxPxshRagCr+N7na1eUuY2k508nZFh5H0wOIMYP2CkTknJtndkqoBpKkQqp0h6GQQ5eS9R5vwb4mITuj2xSTMOIw/bH50XE5NOwgXDmPbij/rqAE8/C9OguYBOYapojCQePPO/WLgzZRH8CUlzPSqWJgI7p1R9VeEWFqJfH0+bG8FJYxVDT5BSu3S4TS2M7YuwKU53CROjaX22C3rBApiCaZCaa62h8jfTdl75VCRCRLpq7IqSKsRrFH/8Jwx+KgIopMBOaZ0Ji9qwfHx1C2BsjelbHQ4OkZft7VkNLS5g2nnGCRlISKw=;r6z8OmBtfPFXz97jHOKGRQ=="

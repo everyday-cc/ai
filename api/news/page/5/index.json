@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-27-if-ai-is-predicting-your-future-are-you-still-free.md",
+      "title": "If AI Is Predicting Your Future, Are You Still Free?",
+      "excerpt": "Yet the more we use AI to categorize people, predict their future, and treat them accordingly, the more we narrow human agency, which will in turn expose us to unchartered risks. Human beings have been using prediction since before the Oracle of Delphi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/",
+      "originalUrl": "https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61ba97fda08cdc8657dc495b/master/pass/Algorithmic-Prophecies-Undermine-Our-Free-Will.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithmic-prophecies-undermine-free-will/amp",
+      "publishedDateTime": "2021-12-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-the-year-everyone-remembered-that-chips-matter.md",
       "title": "The Year Everyone Remembered That Chips Matter",
       "excerpt": "Shortages of semiconductors messed up production of everything from cars to toys. Plans are in the works for more factories, but they'll take years.",
@@ -1125,48 +1177,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-2021-was-the-year-of-monster-ai-models.md",
-      "title": "2021 was the year of monster AI models",
-      "excerpt": "How big can they get, and at what cost? To support MIT Technology Review ... DeepMind released RETRO, a language model with only 7 billion parameters that competes with others 25 times its size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/",
-      "originalUrl": "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/12/gettyimages-80602579.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
-      "publishedDateTime": "2021-12-24T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -25,21 +25,67 @@ images:
     isCached: true
 
 related:
-  - title: "Is Conversational Decisioning The Missing Link In Enabling Intelligent Automation?"
-    excerpt: "Conversational decisioning can be used very effectively to develop complex conversational AI applications in many customer service areas."
-    publishedDateTime: 2021-12-30T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-conversational-decisioning-the-missing-link-in-enabling-intelligent-automation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-conversational-decisioning-the-missing-link-in-enabling-intelligent-automation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/is-conversational-decisioning-the-missing-link-in-enabling-intelligent-automation/amp/"
+  - title: "Identity verification using Amazon Rekognition"
+    excerpt: "In-person user identity verification is slow to scale, costly, and high friction for users. Machine learning (ML) powered facial recognition technology can enable online user identity verification. Amazon Rekognition offers pre-trained facial recognition capabilities that you can quickly add to your"
+    publishedDateTime: 2022-01-03T22:22:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 68
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc632e3e8827c08590a841%2F0x0.jpg"
-        width: 1200
-        height: 897
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/03/ML-7111-featured-image2.png"
+        width: 488
+        height: 344
+        isCached: true
+  - title: "Plea against use of facial recognition technology"
+    excerpt: "Telangana High Court on Monday issued notices to the State government and Hyderabad Police Commissioner over a PIL petition questioning usage of facial recognition technology (FRT) by the police. A social activist,"
+    publishedDateTime: 2022-01-03T16:18:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "UC Student Researchers Union Gains Recognition"
+    excerpt: "After months of negotiating deadlock, the University of California system formally recognized graduate student researchers as higher education employees and thus their right to unionize. “Almost every student researcher I’ve talked to knows someone who has been underpaid,"
+    publishedDateTime: 2021-12-31T22:31:00Z
+    webUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/"
+    ampWebUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
+    type: article
+    provider:
+      name: Santa Barbara Independent
+      domain: independent.com
+    quality: 59
+    images:
+      - url: "https://www.independent.com/wp-content/uploads/2021/12/student-researchers-union-protest.jpg?fit=1383%2C991"
+        width: 1383
+        height: 991
+        isCached: true
+  - title: "HC notice to state, cops for using face recognition tech"
+    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face"
+    publishedDateTime: 2022-01-03T22:27:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/articleshow/88676220.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/amp_articleshow/88676220.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/amp_articleshow/88676220.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1070
+        height: 579
         isCached: true
 
 secured: "m2iILk1QyeeIoBEkMtJIRGzj5d2GGV3i1nv88uYx9apmyAejo3FkwiPPZNMm9PfiQAUxhH9kTHLUktlMjCffd4vkAVvUTavz9la+KwqbaUTynIWaF4A61Rdedi3JzbL4c1ac6WUpWOReTqdYC8l+ZaWHsLxSspSrb1U/Rn2MljpIZXvG6d7hOGmYugK0QEiGeNGtqmq9paRq5jwPTyrE84IXYhj5Dh7raAmYrNqssfCBJs4UT9CMY24UPXnbOvZROERvJuT45F7lUlhPNLFqjAQOrgizGmLcqyKDt515t9vRypbHX5YufG9+1dz3MYHYrg4clE+sKIiELKINsJxQP3saNGTVh13iDOj4++q9uM0=;mUc+s58KYnuYhGUZemI9Ww=="

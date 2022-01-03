@@ -33,7 +33,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
         width: 400
@@ -54,19 +54,14 @@ related:
         height: 900
         isCached: true
   - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-    excerpt: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022. LAS VEGAS, Jan. 03, 2022 (GLOBE NEWSWIRE) -- Fluent.ai, a leader in embedded"
-    publishedDateTime: 2022-01-03T15:33:00Z
-    webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/01/03/9518710.htm"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 24
-    images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "kiVSSK/DXhDWLuA36Uo3RqMqPpoMbex4kQi519ndWIH4Sww42xTiPF8CFXEyTqUyUDVVdOlvQSouJEAEC5y+dxeVWSE/MnqzPk5ayvzVsGwCIjxGGX0ZyVZkVN7b4u0Ags36OhRrCjemlTb5cRAhXpkRS1qvxbcYBAHXFEMPFiiHdpYiEiwWohVWb7vIMHcN7nLWAkRp+9b+vFzZXpIlDidVv+LrHiOI3dRiByQnQVioRI0rkYdAOtj17VCQXnl1qZVv05JvMRTEDAdZlgIx+j2szgmUfIeMvw8+jJjAiC78HpzoH7x7MwjmiFDo+HWpZyZZdaTO/BxulHDqCyezNg2i3Iy6Kw8HS7HBD5K8ipiedVhvwhMlkCEyNs5xQyOernbvzlYFTA7/PrMw81pOOO/lJJb2k1sIGCky+qBuvEmkOQ9PQvIb+it38w3/dvepLZS1cfJ+ZNkZ/IiH9s6sBfsAVlmrc4/nLpc4AuDCTASgQwy2lS9THzZRcLa+zc2e6Dqje8/C7isbGVQjCShqTQ==;wQ8WU7ixgWdQqkB0Yr22nw=="
 ---

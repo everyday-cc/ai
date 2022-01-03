@@ -46,26 +46,21 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
         width: 400
         height: 225
         isCached: true
   - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-    excerpt: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022. LAS VEGAS, Jan. 03, 2022 (GLOBE NEWSWIRE) -- Fluent.ai, a leader in embedded"
-    publishedDateTime: 2022-01-03T15:33:00Z
-    webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/01/03/9518710.htm"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 24
-    images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "b+CV5hnH6HM8SbyXGLh7xd6Z2rJrA//3uHBh4NlU2CLMnIlnrSrSXGyynALNd+KYz56mRBAs840gCm7DJtdlDBxAAiIXI0bgEq+lFyao6DkFEFHL7vqIftGAwv/9dCeBHBfUl2L7zMX/Bo97HY4Ag6SOIitooizFAB+6eTJavR+DcFnQ02BKvDC2INncaDZn7f/y2ftJ1V/mzcUv1mrhCz7c5FdqWKh9S6pueb/Yc6CbmmmktijnqRJY6ojsBiAWIcTOyeRVFFTaRRcskdSEDGjSg9eVwXxzTVOpzShQhR5nzQJOftvgRuh0smrIemxRHT8IRtCI3RlJU6PuQU+dIhZZCBp6fx2gDYOZWSAwpV0=;eKVDRVFaECuvgsJdHuajog=="
 ---

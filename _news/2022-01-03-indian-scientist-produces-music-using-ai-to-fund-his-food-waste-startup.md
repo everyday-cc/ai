@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ibtimes.sg/indian-scientist-produces-music-using-ai-fund
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/indian-scientist-produces-music-using-ai-fund-his-food-waste-startup-62065"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Ellen
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Viz.ai using artificial intelligence to treat stroke patients"
+    excerpt: "San Francisco-based Viz.ai is using artificial intelligence to detect diseases and speed up care to treat stroke patients, Forbes reported Jan. 3. Viz.ai's software cross-references CT images of a patient's brain with a database of scans to find early stages of large vessel occlusion strokes."
+    publishedDateTime: 2022-01-03T22:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/startup-viz-ai-using-artificial-intelligence-to-treat-stroke-patients.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 52
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
     excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pr"
     publishedDateTime: 2021-12-30T11:22:00Z

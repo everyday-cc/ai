@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-us
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 134
+published: true
 
 provider:
   name: The Hans India
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Plea against use of facial recognition technology"
-    excerpt: "Telangana High Court on Monday issued notices to the State government and Hyderabad Police Commissioner over a PIL petition questioning usage of facial recognition technology (FRT) by the police. A social activist,"
-    publishedDateTime: 2022-01-03T16:18:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 74
-    images:
-      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Telangana High Court issues notice to state government on PIL against Facial Recognition Technology"
     excerpt: "The PIL (drawn with the legal assistance provided by the 'Internet Freedom Foundation') states that Telangana is the most surveilled place in the world."
     publishedDateTime: 2022-01-03T10:47:00Z
