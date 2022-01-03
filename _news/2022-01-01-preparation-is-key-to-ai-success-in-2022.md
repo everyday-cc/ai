@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/"
 type: article
 quality: 87
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Influencing Small Data in 2022"
-    excerpt: "If dealing with zero data is difficult, dealing with vast information is considerably more difficult. So yes, an overemphasis on big data jeopardizes"
-    publishedDateTime: 2021-12-30T00:00:00Z
-    webUrl: "https://www.cioapplications.com/news/artificial-intelligence-influencing-small-data-in-2022-nid-9001.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/x6a22450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "Xo3MRa8i/SWFWrxxRB37a3K+ts5SgxJw8olV+nKyOqpn5OXIdLbpBwFIuv52CihCevElvBvX0jlD1t7T0/cLfdgfRTDJXkk3HsXK2X1NdW67TM8Dqma3OwftkFjskXpQAMj2zHHft1Ch7Fysdf+ZLy0wCOnZshMorpBFN6ZA8TSHBE9U18tXYLRMkvThGBYbIbGsHFA+FjVkhs5xBlnhunpwI0TpNH8nTeeptAxJesU607g5PZIpCS7Q7QJELqw5TDXPd2t2cmb5Bll31xd15ZAVBmMt3XYOAVBveLFj0UxMaj56q5SLRD5KvIqO6A3q3Fr3d2YcvCNfkVo6ttEE9G8M+Py16cX/emX22Ps3SYMhZFBezU1A80V6guqULPw7Tf8kWLC4DDi+p7D76j8KKdn0XPQvpAVP4ZambF4o/oKyAYqgWTI+91k6BNXRG1Uon3Nl0jdfmt60Al+UaX/0OvwgW3TLwX7W1wITEX368Jl77ZHGW5gNhfuaDbKHDdN/wleTonJe4cT6/v3TQ7SUEQ==;tlEifxtcPaIXBzy8/VdFag=="
 ---

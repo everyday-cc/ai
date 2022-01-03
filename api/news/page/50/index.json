@@ -2,6 +2,49 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2021-11-21-artificial-intelligence-that-understands-object-relationships.md",
+      "title": "Artificial intelligence that understands object relationships",
+      "excerpt": "Researchers developed a machine learning model that understands the underlying relationships between objects in a scene and can generate accurate images of scenes from text descriptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2021/11/211129155110.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2021/11/211129155110.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-21-azure-cognitive-search-brings-knowledge-mining-to-the-enterprise.md",
       "title": "Azure Cognitive Search brings knowledge mining to the enterprise",
       "excerpt": "A recent report from Harvard Business Review Analytics Services also found 82% ... will move from finding to understanding. Microsoft’s Azure Cognitive Search solution will offer knowledge ...",

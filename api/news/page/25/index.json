@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-09-the-new-generation-of-kraussmaffei-lrx-linear-robots.md",
+      "title": "The new generation of KraussMaffei LRX linear robots",
+      "excerpt": "The new linear robot product line also includes customized gripper solutions tailored optimally to the mold and the component. All components are integrated centrally into the MC6 control system ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.plasticsnews.com/sponsored-content/new-generation-kraussmaffei-lrx-linear-robots",
+      "originalUrl": "https://www.plasticsnews.com/sponsored-content/new-generation-kraussmaffei-lrx-linear-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.plasticsnews.com/styles/800x600/s3/KM_2021_12_AUT_LRX_linear_robot_wrist_axis__200x200.png",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T13:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Plastics News",
+        "domain": "plasticsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-the-uks-new-ai-transparency-standard-is-a-step-closer-to-accountable-ai.md",
       "title": "The U.K.’s new AI transparency standard is a step closer to accountable AI",
       "excerpt": "The UK Government launched a new algorithmic transparency standard last week. Here's what it means for people and society.",
@@ -1128,49 +1171,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles.md",
-      "title": "Robot-assisted assembly of high-voltage connectors for electric vehicles",
-      "excerpt": "Against this background, a pioneering system with six Stäubli robots, 13 image processing systems and inline quality control at every ... immediately springs to mind: How did the designers ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103326141/Robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles",
-      "originalUrl": "https://menafn.com/1103326141/Robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-12/08/R&AN_550eeimage_story.jpg",
-          "width": 800,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

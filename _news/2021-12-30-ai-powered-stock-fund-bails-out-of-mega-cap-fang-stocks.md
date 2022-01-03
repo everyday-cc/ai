@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/markets/ai-powered-stock-fund-bails
 webUrl: "https://www.bloombergquint.com/markets/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Stock Fund Bails Out of Mega-Cap FANG Names"
-    excerpt: "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship."
-    publishedDateTime: 2021-12-30T00:12:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 167
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiJaIdn1hD8/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI-powered stock fund bails on megacap US techs"
     excerpt: "The AI Powered Equity exchange-traded fund sold down its so-called FANG+ positions this month, leaving just Apple in its top 20 holdings."
     publishedDateTime: 2021-12-30T22:29:00Z

@@ -26,26 +26,6 @@ images:
     height: 292
     isCached: true
 
-related:
-  - title: "Novant Health launches digital care platform that uses AI and automated communications"
-    excerpt: "Need help navigating your health care? Novant Health leveraging AI and automation in new all-in-one digital care platform allowing users to find experts, answers and health information. #technology #h"
-    publishedDateTime: 2021-12-30T14:36:00Z
-    webUrl: "https://www.bizjournals.com/triad/inno/stories/news/2021/12/30/novant-health-now-digital-care-platform.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 11
-  - title: "Novant Health launches digital care platform that uses AI and automated communications"
-    excerpt: "Need help navigating your health care? Novant Health leveraging AI and automation in new all-in-one digital care platform allowing users to find experts, answers and health information. #technology #h"
-    publishedDateTime: 2021-12-30T17:54:00Z
-    webUrl: "https://www.bizjournals.com/charlotte/news/2021/12/30/novant-health-now-digital-care-platform.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 11
-
 secured: "3ttOz5HLUKJpZg/UQuo81H+n8LyG6DsE8jGa9Niha7sm5Fn3N2WqhgBPR67cN7RufCEt37FJv0cN6Er/zIcl+3oZ/aBe938usFd3Cnxr4wcZxl3h6rrgD7HUiKrbs3ikzwdqlXxCb0+pow9g2vSom/3Kg+Lcvh3XFrkDq3iZUWQpjAY19GgemqJUtGHSfifnXJl4ywuHopmwtC6NoK+mY5Bak54gGuxbw2aSKvOe4UyvRXsu7AnU3UzCmH1KsfIbPyxcjOCFvjsXWjdTK2KEANKj2k9YP88r453cDbQrA9KNEng0OU2qdN0sxpyTPVBXJB2+gnm4H4KLrdxM/bOncsSpbYtAczN5KmuOo0NPGvwQZrqlODQayGCIXa9u6ZhzJSgmXtI08yw0hD5wPqNtwPjbwUwMV25ghoMKYygsbzv4isPW1j6ZJdBWeLuuOxYvlKkGDqPVV9lVHvkXjzBq3Vpb7r9TuyYE9fMRafVi2/RVj1R05cmmI+R132o0Xz+sPy0tePfBmH4ezYcgMATx7Q==;n49T1qkGB+IWjHSLuE9AGA=="
 ---
 

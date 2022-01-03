@@ -37,22 +37,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Daily Crunch: Using public roads, trucking startup TuSimple completes 80-mile autonomous run"
-    excerpt: "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
-    publishedDateTime: 2021-12-29T23:10:00Z
-    webUrl: "https://techcrunch.com/2021/12/29/daily-crunch-110/"
-    ampWebUrl: "https://techcrunch.com/2021/12/29/daily-crunch-110/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/29/daily-crunch-110/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 76
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?w=1024"
-        width: 1024
-        height: 539
-        isCached: true
   - title: "Self-Driving Semitruck Completes an 80-Mile Route with No Human On Board"
     excerpt: "The ride marked the first time a class 8 autonomous truck operated on open public roads without any human intervention. Last June, we brought you news of TuSimple, a transportation company focused on driverless tech for trucks,"
     publishedDateTime: 2021-12-30T17:27:00Z

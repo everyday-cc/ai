@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-03-ai-apps-and-platforms-get-real.md",
+      "title": "AI Apps And Platforms Get Real",
+      "excerpt": "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
+      "publishedDateTime": "2022-01-03T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-01-future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change.md",
       "title": "Future of Machine Learning: Ways ML and AI Will Drive Innovation & Change",
       "excerpt": "It’s not a surprise that Artificial Intelligence (AI) and Machine Learning (ML) are two of the top buzzwords in today’s technological world. But, how will the two technologies create innovation and change in the near future?",
@@ -775,8 +827,8 @@
       "title": "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence",
       "excerpt": "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1295,49 +1347,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-santas-christmas-secret-maybe-its-artificial-intelligence.md",
-      "title": "Santa’s Christmas secret? Maybe it’s artificial intelligence",
-      "excerpt": "AI’s ability to collect and analyze massive amounts of data has plenty of applications – including sorting millions of children as either naughty or nice",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
-      "originalUrl": "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/AOKpBVKlFz80JsC4iDqS036mcBo=/1200x863/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HASE5WN2KNFEXJ76HO6LG6GTCM",
-          "width": 1200,
-          "height": 863,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
-      "publishedDateTime": "2021-12-22T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

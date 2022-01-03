@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/deep-learning-is-the-a-
 webUrl: "https://www.scientificamerican.com/article/deep-learning-is-the-a-i-breakthrough-we-ve-been-waiting-for/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 790
     height: 496
     isCached: true
-
-related:
-  - title: "2021 was a breakthrough year for AI"
-    excerpt: "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide."
-    publishedDateTime: 2021-12-30T00:40:00Z
-    webUrl: "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/"
-    ampWebUrl: "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 95
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all"
-        width: 1200
-        height: 835
-        isCached: true
 
 secured: "Hkzes3tW22bg581ZwbmK8VnKewVnNAeoiK/IQQrts4WRw+sLJ7NY2AsJk7FTkOLSwN6pU2Qps2sBpsw1skkVau6g2uJyfTdmVpwLUEtJ+YE9MXI7dlTrZGqWeuvE8LDMktpP/USwzx/j0FaOUxh8/TcjIaQf3gRv15dXsja3v/fsm/HimF2gVvDtu4BbFqfrmFi+D+EZohRLEdEi0fuSRivi2p2o284hxzR2eYCz9qH2nhaQxlwaon583B5Nv5FDeIHgNdbCOwi9KCdw0U7vJBErvdO0gpMGKZA2Ra1QhpReNuUADlM5cX9vpZe5aA+/mWugDgOD6ECbJ/K+UEguhNjCDS2twfCcLbmp4lKZ0l2VQcM6eOxciDYoKCDu9lWWhf2kPKvdDhdR1OwP7oj1RgUr2SDibjfJvmqcwtOEKzsmFAsKob2rm8k10+nugjBKuOhnXAz6jjVckxu9sLkchbNDXxOdy3Xtf8YrPSu29fU8fHcyzMHYDfWG+8hgUWHDUdICIZxSSibUgcYntwY5yQ==;DpeZZT+tpmj62BeOofi+Hg=="
 ---

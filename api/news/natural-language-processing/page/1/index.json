@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-03-ai-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching.md",
+      "title": "AI-powered chatbots, designed ethically, can support high-quality university teaching",
+      "excerpt": "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
+      "originalUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
+      "publishedDateTime": "2022-01-03T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-01-investing-in-sustainability-for-emerging-markets.md",
       "title": "Investing In Sustainability For Emerging Markets",
       "excerpt": "Social justice requires emerging market countries to continue economic growth. Technology will evolve to help us grow with minimal use of natural capital. Investment opportunities abound in such technologies,",
@@ -1397,49 +1441,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-cloud-natural-language-processing-market-research-report-and-forecast-to-2028-3m-company-apple-amazon-webrvices.md",
-      "title": "Cloud Natural Language Processing Market Research Report and Forecast to 2028 3M Company, Apple, Amazon Webrvices",
-      "excerpt": "Natural Language Processing (NLP) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-research-report-and-forecast-to-2028-3m-company-apple-amazon-webrvices",
-      "originalUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-research-report-and-forecast-to-2028-3m-company-apple-amazon-webrvices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2021/12/Cloud-Natural-Language-Processing.jpeg",
-          "width": 600,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

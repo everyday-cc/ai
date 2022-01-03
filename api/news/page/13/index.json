@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-12-17-the-six-minute-training-hack-that-can-improve-face-recognition-skills.md",
+      "title": "The six-minute training hack that can improve face recognition skills",
+      "excerpt": "This is a significant increase because even experienced face identification staff can get as many as one in two wrong when it comes to comparing photos with unfamiliar faces. In their new piece of research in the Journal of Experimental Psychology: Learning,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/2-facialrecogn.jpg",
+          "width": 1920,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.amp",
+      "publishedDateTime": "2021-12-17T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-moneylion-to-acquire-even-financial-inc-an-embedded-finance-marketplace.md",
       "title": "MoneyLion to Acquire Even Financial Inc, an Embedded Finance Marketplace",
       "excerpt": "MoneyLion Inc. (NYSE: ML), the digital financial platform, has announced that it has agreed to acquire Even Financial Inc., the embedded finance marketplace, in order to 'accelerate its mission of providing financial access and advice to hardworking Americans.",
@@ -1074,59 +1117,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition.md",
-      "title": "Build custom Amazon SageMaker PyTorch models for real-time handwriting text recognition",
-      "excerpt": "In many industries, including financial services, banking, healthcare, legal, and real estate, automating document handling is an essential part of the business and customer service. In addition, strict compliance regulations make it necessary for businesses to handle sensitive documents, especially",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-custom-amazon-sagemaker-pytorch-models-for-real-time-handwriting-text-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-4925-image003.jpg",
-          "width": 4004,
-          "height": 2132,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T12:02:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Facebook AI"
       ]
     }
   ],

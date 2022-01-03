@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-21-the-story-of-john-stanley-ford-americas-first-black-software-engineer.md",
+      "title": "The Story of John Stanley Ford, America's First Black Software Engineer",
+      "excerpt": "Watson, then the CEO and chairman of IBM ... and woman and minorities are also underrepresented in the artificial intelligence sector in particular. This last bit becomes concerning as more and more companies adopt and develop AI technologies and reports ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
+      "originalUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/ThinkBlackCover.jpg",
+          "width": 428,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-dimensity-9000-fails-to-prove-its-premium-chipset.md",
       "title": "Dimensity 9000 fails to prove its premium chipset",
       "excerpt": "Lacks in GPU, 5G, imaging, features Media Dimensity 9000 got a lot of coverage, and the marketing machine is trying to promote this chipset as a premium. Guess what? Dimensity 9000 is not a premium chipset as it suffers from stitched stock Cortex IP,",
@@ -96,40 +139,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-21-dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
-      "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
-      "excerpt": "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24706789/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24706789/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24706789",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24706789",
-      "publishedDateTime": "2021-12-20T11:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-21-dtiqtm-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
       "title": "DTiQtm Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
       "excerpt": "DTiQtm, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer vision platform leader,",
@@ -159,6 +168,49 @@
       "provider": {
         "name": "Le Lézard",
         "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
+      "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
+      "excerpt": "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e5/4e5c49bb-1b34-5a68-9555-23d41196e8df/61c0e1244c993.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1059,49 +1111,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation.md",
-      "title": "MOL, JRCS to Research Potential of AI-based Object Recognition Technology to Support Watchkeeping Aboard Vessels ~ Aiming for Safer Operation",
-      "excerpt": "Mitsui O.S.K. Lines, Ltd. and JRCS Co., Ltd. announced joint research on the use of AI-based object recognition technology by leveraging each company’s knowledge and technologies, with the aim ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/",
-      "originalUrl": "https://www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o2c64VdVtTA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/amp/",
-      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/amp/",
-      "publishedDateTime": "2021-12-20T02:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hellenic Shipping News Worldwide",
-        "domain": "hellenicshippingnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

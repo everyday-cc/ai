@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "NC Health System Launches New Digital Care Access Tools"
-    excerpt: "Novant Health has unveiled virtual assistant and physician matcher tools that can connect healthcare consumers to clinical support and medical information."
-    publishedDateTime: 2021-12-30T13:30:00Z
-    webUrl: "https://mhealthintelligence.com/news/nc-health-system-launches-new-digital-care-access-tools"
-    ampWebUrl: "https://mhealthintelligence.com/news/amp/nc-health-system-launches-new-digital-care-access-tools"
-    cdnAmpWebUrl: "https://mhealthintelligence-com.cdn.ampproject.org/c/s/mhealthintelligence.com/news/amp/nc-health-system-launches-new-digital-care-access-tools"
+  - title: "AI Apps And Platforms Get Real"
+    excerpt: "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses."
+    publishedDateTime: 2022-01-03T14:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
     type: article
     provider:
-      name: mhealthintelligence.com
-      domain: mhealthintelligence.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://mhealthintelligence.com/images/sized/Getty_Images_Secure_Messaging-c65229a7f68414dbdbe51ff312b05f89.png"
-        width: 480
-        height: 292
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "Novant Health launches digital care platform that uses AI and automated communications"
     excerpt: "Need help navigating your health care? Novant Health leveraging AI and automation in new all-in-one digital care platform allowing users to find experts, answers and health information. #technology #h"

@@ -1,22 +1,26 @@
 ---
 category: news
 title: "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications"
-excerpt: "This partnership helps DTiQ fast-track the next generation of our Computer Vision AI, analytics, IoT, and machine learning solutions to increase value for our 45,000+ customers,\" says Mike Coffey ..."
-publishedDateTime: 2021-12-20T19:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24706789/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/n24706789/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications"
-ampWebUrl: "https://www.benzinga.com/amp/content/24706789"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24706789"
+excerpt: "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer"
+publishedDateTime: 2021-12-20T18:49:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "IJsxH8FdGp64TY0UkSHqfCh22roitevxjYHNsm1awdrP507jBMtnXjpzxGcHsTHmY1a8DDbVoDqRwJqtD1j6TU887i9tQlpcyAve16e5n1BPo8zN9Rt7eVGSd7OPBIE5j8rliyKcs5RyfJS9k4oUGEfub7IBU0z+vCfgGg4OQiMVFmIiKS1oUiXBh83Qu242nNMuYBQvouP6sCXYz3l8WL9s7Y8KQTB/iSyuYnPfEB5eLAENdSR1tdyeSGKPbmuvMb6y0Du26uM7vK7U9FXoR6PE6/ICiwWlLx80yDeFF9bkHz2VmzI9SKvwQPC01Tf31IGyg8+Y7MlSjiLYNxVCMI1rKMwbtPR4aaoORbmDqMk=;sgpAzgDhD3hsLan/nOFpAw=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e5/4e5c49bb-1b34-5a68-9555-23d41196e8df/61c0e1244c993.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "V75oqkeljpC7U+Pa0Pk5NI0vgm9eQUnTG7hyIkK8QvJxrfcjP3F6grDfiHuOL5Hc62u6nFiEDXW0RjThRajCEB9vuXwc7OpyV7aoY44HJx0HBxuj3cCMHlZUEicV0ZzDh6ENaLZlg/K0KsO+TKaNAgWcTuwf8sE9IFl33GT1rLbeAC5JkzHQ2NYka5lEmj2wPBr5F/u8bVuq9xh8yPhnhX+6TGsp571z5k5YrmF0itapxxUiXDTX9axSSrIoAAgmOrF8vfosKSRBZB1PE6N6c/1BxPlzBfvD95GWaEbIre8mIfqSS/fEQY+llH3OIS1mCoIlkiET2qNOQivPS2ftHzuLK5IvYd+5CifOgDEiXjo=;qFR76symg5/k1zgJZtaI+Q=="
 ---
 

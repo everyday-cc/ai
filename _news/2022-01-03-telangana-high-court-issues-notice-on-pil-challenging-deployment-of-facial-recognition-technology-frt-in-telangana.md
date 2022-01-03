@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Plea against use of facial recognition technology"
+    excerpt: "Telangana High Court on Monday issued notices to the State government and Hyderabad Police Commissioner over a PIL petition questioning usage of facial recognition technology (FRT) by the police. A social activist,"
+    publishedDateTime: 2022-01-03T16:18:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/plea-against-use-of-facial-recognition-technology/article38102346.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 74
+    images:
+      - url: "https://th.thgim.com/static/theme/default/base/img/og-image.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Telangana High Court issues notice to state government on PIL against Facial Recognition Technology"
     excerpt: "The PIL (drawn with the legal assistance provided by the 'Internet Freedom Foundation') states that Telangana is the most surveilled place in the world."
     publishedDateTime: 2022-01-03T10:47:00Z
@@ -88,6 +104,20 @@ related:
       - url: "https://sfbayview.com/wp-content/uploads/2021/02/Black-History-Month-graphic.jpg"
         width: 792
         height: 792
+        isCached: true
+  - title: "Garda body cams should not use facial recognition technology, committee warns"
+    excerpt: "Garda body-worn cameras should not use facial recognition technology and should not be used to racially profile people, according to recommendations from the Oireachtas justice committee. Provision for the use of body-worn cameras (BWCs) is set out in draft legislation,"
+    publishedDateTime: 2022-01-02T23:00:00Z
+    webUrl: "https://www.irishexaminer.com/news/courtandcrime/arid-40776777.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 36
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/5619/2809695_7_seoimageog_2.57972721.jpg.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "bjgoRXB+zWI4jdc8LAhDcLNo4VM7OS8tf54PUKDVNoLT2gT2cdZlMyo1zWQKrVyfYLIXXJ+UlZpO+UGONMN8xhK2ULb6hC4pM0Yp4B4qWhmFlvIqnaTy1St3eOgCsl8S2OFDlXXPQCVDCVcnsGnjcWDSVzolqb1kg2i/uBMmG+Xw1iNiywkdXeD3YnHh44u5k4ERqxawt3PMksheOSOmSHfZJw8dMEXbsr3nrFYYImG7tMyc3DdkIeIroqmCIGxv6NIS7BtNwq8zQ7kVFLdsM1KVuYtbMxPbaPRDgAK8lnOvbtJrmgU948xaJjQO2fLHvFkBwRQtMKMW3wOE7Y2oCWirexWbDr7sNYVWx/tFHnkzVJsspA3OVOALWTSbWTX6vpojj+liVIz2b7PVl2EMJmEhkBCv6aiBFLxgaxGSpI0GW7j+I+vbhZx+kk8dATxUZT1mw1eXT7samnLIbIlVGp5DB38yUSeluhUrjCFPPknrt0D7NfklHBF9gq5eWfuA14A/47rNUm7+C0WXb8TfhA==;QFSZaqesLhvsemILkk4JMw=="

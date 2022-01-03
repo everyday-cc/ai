@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-28-artificial-intelligence-manned-drone-market-to-witness-huge-growth-by-2027.md",
+      "title": "Artificial Intelligence Manned Drone Market to Witness Huge Growth by 2027",
+      "excerpt": "DeepResearchReports has uploaded a latest report on Artificial Intelligence Manned Drone Industry from its research database Artificial Intelligence Manned Drone Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence Manned Drone Market currently",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2512604/artificial-intelligence-manned-drone-market-to-witness-huge",
+      "originalUrl": "https://www.openpr.com/news/2512604/artificial-intelligence-manned-drone-market-to-witness-huge",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc28384503_g.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2512604/artificial-intelligence-manned-drone-market-to-witness-huge",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2512604/artificial-intelligence-manned-drone-market-to-witness-huge",
+      "publishedDateTime": "2021-12-28T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-the-three-core-pillars-of-responsible-ai.md",
       "title": "The Three Core Pillars Of Responsible AI",
       "excerpt": "A good way to raise executive-level awareness around the benefits of responsible AI is to establish a set of best practices your company can follow that map back to these three core pillars.",
@@ -776,8 +818,8 @@
       "title": "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence",
       "excerpt": "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1147,58 +1189,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-how-machine-intelligence-is-changing-the-modern-world.md",
-      "title": "How Machine Intelligence Is Changing The Modern World",
-      "excerpt": "Specialists and mass media expect technology advancements to allow complete redefining of the role of machine intelligence in modern life. This is about the development of computer vision, natural language processing and neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166fb6f1b212a984a12fd25%2F0x0.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
-      "publishedDateTime": "2021-12-27T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
