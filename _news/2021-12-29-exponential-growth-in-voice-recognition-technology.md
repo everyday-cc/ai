@@ -43,6 +43,20 @@ related:
         width: 792
         height: 792
         isCached: true
+  - title: "Garda body cams should not use facial recognition technology, committee warns"
+    excerpt: "Garda body-worn cameras should not use facial recognition technology and should not be used to racially profile people, according to recommendations from the Oireachtas justice committee. Provision for the use of body-worn cameras (BWCs) is set out in draft legislation,"
+    publishedDateTime: 2022-01-02T23:00:00Z
+    webUrl: "https://www.irishexaminer.com/news/courtandcrime/arid-40776777.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 36
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/5619/2809695_7_seoimageog_2.57972721.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "156WHG0ObxCy3szDobT3+y+HvVYASO2PQmM8Em4uaLnHgFwrMbU8B2aLsYg9rBdk8wztYeybv8hL+6Pbqrs5VLAaKQwq9IdWN+N844itleXcTF0+wE4Iv4rqMwHo4upInSvXeW6qI8hrYgRhP2wHp3ZjVr7FOmANWwiAiyU/AMf46A3Pbj3Tb3bUBuGQHEGY8TSHkOh7z/OfeBgqpn1FNjYuL2qYvqRrHt7DTLSWF3erVOQ+ZNo3nlxrvfz5MZLShvScrvnmN7lNVfWpKDq+u4uPf37x7tnY3iFHIX5o7gyEgiGBoHNUQhu46JBFw96aVB18lQrleQnOh+EBb1qfS70LzxL1G+k/m0Xvys7JPKMo1zNGWO+lTHF8fCIGeWISAdLvTxhVbvWWP70/AX/6wnj7yuxMiw0l+9mx1LQMvObiWwUzAPbsWfqvhNz/l6NIpNPQVXi3k1oOxKX9s7XI84mZU/BznJvQdmpv+mJIClS69QfvM+ZsAhfOtTyfbq4xQCxLPFyb7ljLkWAHzTEFLg==;Z5wIGV0sukA+VmxdI3gXCg=="
 ---

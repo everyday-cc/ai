@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Garda body cams should not use facial recognition technology, committee warns"
+    excerpt: "Garda body-worn cameras should not use facial recognition technology and should not be used to racially profile people, according to recommendations from the Oireachtas justice committee. Provision for the use of body-worn cameras (BWCs) is set out in draft legislation,"
+    publishedDateTime: 2022-01-02T23:00:00Z
+    webUrl: "https://www.irishexaminer.com/news/courtandcrime/arid-40776777.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 36
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/5619/2809695_7_seoimageog_2.57972721.jpg.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Exponential Growth in Voice Recognition Technology"
     excerpt: "It Is Expected To Reach $27.155 Billion By 2026! As we begin to rely more and more on voice recognition technology, the voice recognition market will continue to grow at a significant rate; It is expected to reach $27."
     publishedDateTime: 2021-12-29T10:12:00Z
