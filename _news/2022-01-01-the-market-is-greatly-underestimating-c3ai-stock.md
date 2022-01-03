@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-market-is-grea
 webUrl: "https://markets.businessinsider.com/news/stocks/the-market-is-greatly-underestimating-c3-ai-stock-1031072756"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,19 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Is C3.ai Stock Finally a Buy After an 85% Decline From Post-IPO Highs?"
-    excerpt: "Stock Market News, Stock Advice & Trading Tips. Years ago, I watched an interview with Tom Siebel, founder and CEO of C3.ai (NYSE:AI). I was completely enamored wi"
-    publishedDateTime: 2021-12-29T10:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs"
-    ampWebUrl: "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "0G2vb9fhGXzoRX3t2ROKFI0k+hDs24ayklKgODUl+QLk/2GIBYNoJXSGraGouu6EBq09xAeJEhx3/7VV7E7mKaff8uZzotgfkbDsfS2L+QiYS/hjFmX/VGtDdFeg4bRRVOoDI+YzQdD4oS4TOnWBveLbAwUl2umMbJXs7rDm0ougexPXfAkcF8/RibWOsDfNa67V42z8XbLhubfF8yHAebxAGhd2f68drkysaczpQv0Ss6jkGYIkBC5hubyap9fgdiX5iKrVHTy+Wxu4bustAmEcT+VkeH3GlS3YzZJgQATt8k16KeqRF1sT+NOEUPsKNszx5ZzsyqyifeIXIeUYTaX/QQevFfOAVbTx8gM5O3SbyZTa2cs/2dBZ6+vz8iyDkPTML9nBJucmpWxK3jaURO9mG6WXqDPrHDKAZD/+90w+fnjwrh55Iv6EQ5y2lEI7WtXuyGOVE9aCFN06yB51fkig96Szu8BRaq2rrcYJI/oymg5QLPbTVMgCd9RRjSGsChT0f+Ubp2Fzuj/PjsTHGg==;9DY3IX2r0d9Zi/naoUQRVQ=="
 ---

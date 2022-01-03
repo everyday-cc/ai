@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.techopedia.com/images/uploads/ai-for-smb.jpg"

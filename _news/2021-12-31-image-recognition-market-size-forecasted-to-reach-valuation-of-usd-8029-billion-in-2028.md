@@ -41,20 +41,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "United States Artificial Intelligence (AI) In Drug Discovery Market Research Report 2021: Prospects, Trends Analysis, Market Size and Forecasts to 202"
-    excerpt: "The \"United States Artificial Intelligence (AI) In Drug Discovery Market: Prospects, Trends Analysis, Market Size and Forecasts up to 2027\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2021-12-29T09:31:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=593415"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "7KTWKJA9J7PHYAniZbY38HPfR2um1WzHKnKRYMXgv5Vhc8YMvJs0erAz6IkOV1ItnEk9jitKdpxyunncwLhsqJmdXbuVMBrldoZa+TQM1EGLuPu+Q+S6fwCpmHJZsPJJf+Hi8vwAvdsRjsOEL6dBdtbYnEP5aeO25ZRXMBsBrxCVMJciXfqnBmRcA7P2tAvCVWF2hNblpasoQVYZWKvbpPJPHiKJzjuW/ehvDrUZB6tKL+Y16WxCU1wto3kGxNXOiDSLIApBGBiFvRz6D8v1Rhk2cMZtZ9ttUQ5GDuFwuw6++zbih9nP7J3gOUZ55ay1/BfAD3uyFbTua1irXAdGUmDOLw5Xulsd+30PUtHMOhKydkfRYevi/Vor4+W0LJE8QTufxyNFalL5SwnT08JolbDj0Lb7a/jo15qwEHNoNnSWqBwBUfrqKfgyYus+33UiBM6whvvd09Z25lCHZSDrgowjPJGhENVh3PslcjMlUVr8eP7FLM+m/MnJjbBesXazJG7wIg/ffxCgcexULPR0ZA==;+kRfTBn+2YqKuFMm1DuIPQ=="
 ---
