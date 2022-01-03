@@ -3,8 +3,8 @@ category: news
 title: "Artificial Intelligence Hiring Bias Spurs Scrutiny and New Regs"
 excerpt: "With New York City’s passage of one of the toughest U.S. laws regulating the use of artificial intelligence tools in the workplace, federal officials are signaling that they too want to scrutinize how that new technology is being used to sift through a growing job applicant pool without running afoul of civil rights laws and baking in discrimination."
 publishedDateTime: 2021-12-29T10:30:00Z
-originalUrl: "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
-webUrl: "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
+originalUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
+webUrl: "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs"
 type: article
 
 provider:
@@ -20,6 +20,6 @@ images:
     height: 369
     isCached: true
 
-secured: "P7bnIWqCFChE4cLYUL6b03d15sSJ6WMbHYvzwcIukKsTgJxv8Xm/ol6/06uBoDvqRccZC06TeUCKAK5zREhomJtIApzryXrbDbYQRWBLjqkeNzzlSBI8+XklVwkmXbiLKVCbatss7u+8xZSXqJ7GQIVp4RPItv4xKwOHbhL0Co4x2F0ROfQRKo8/YWmYqwXLl1IreUIWfQasHgJAZJUbYDJhpMTJEsM7F4WRbF6S0Od1roGeLgh0o06Sbj+UCabWXJ6RGTK/rMGIdmC7djRl7S/5KhhFZ7q/zfU/fYcvXdoflY8i5feaaFJpIpy9UB2hiDyXFWYFMYuIE9l91Z0XtLgnF0OJgDBqTsRRE+3t44g1xKmcE2xUFWuAhJ5nmE9J4oiZkKM8vcjLsLz2qyyn0oBsQVUH4NWIQ7eSUJ2rfmtAOcdyS94dwKazoyqkHgxoLnwdXyR3N1oT4x+kAU2l7wWhfj7dykJRF/ObshM4qziPzd8wecSI07OxIAEL+bP+jNzlFaFEaMubTE7jE8O4EA==;Tz4AtE8UZyxzuqNUATbLMQ=="
+secured: "0i1heU1wVutCgxBYmuKnQk2iCx6cbJv46C85riD/8afptVpo1Io30a3aqdkfRjsQfExEvUjAfaNpHTK2CuDbu6bW+e4wVfn2dlC8lTxioH3JIJS9EtupUZaar0tvA+2ADgTd3itH8HjvAUv47dyXi4RFLCmmcpmpt4HHfyQxKw6ye7H6iQp1b4WoVsnxEFjJueQtLKnet/NjE8aAQsHM7xL7/vLMZ/aUoLwEn2fTt2u1Wvz1kyz4XBwzVO5kxcL/MPsLa3b7mp61KV18l79tyOKsKFXyeF+W20HrtrGL4G+mIxrXnre/bP/nBGGtjtIAc/9YfPB2Y6XCxpXfkf8EI24BhaU11eQGCITsauzcnPc=;se+UQk3g82UzN+a+dtlMqA=="
 ---
 

@@ -2,6 +2,256 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-07-a-serious-game-microsoft-azure-champions-user-generated-content.md",
+      "title": "A Serious Game: Microsoft Azure Champions ‘User Generated Content’",
+      "excerpt": "User Generated Content brings communities together to turn games into ever-evolving platforms. By providing game developers with a set of tools to create open environments for players, they can increase engagement while empowering individual creators to share and monetize their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ad1e960cc6e9b23cb90539%2F0x0.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/",
+      "publishedDateTime": "2021-12-06T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters.md",
+      "title": "Alethea AI, BeingAI, and Binance NFT launch NFT-based AI game characters",
+      "excerpt": "Alethea AI and BeingAI are collaborating with the Binance NFT marketplace to introduce the AI game characters that are based on NFTs.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/06/alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters/",
+      "originalUrl": "https://venturebeat.com/2021/12/06/alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/BEING-AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/06/alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters/amp/",
+      "publishedDateTime": "2021-12-06T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-report-ai-investments-see-largest-year-over-year-growth-in-20-years.md",
+      "title": "Report: AI investments see largest year-over-year growth in 20 years",
+      "excerpt": "Results indicate that COVID-19 has contributed to a surging global interest in AI from both governments and investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "originalUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe-e1637353198623.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "publishedDateTime": "2021-12-06T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-clearview-ai-close-to-being-awarded-a-us-patent-for-its-facial-recognition-tech.md",
+      "title": "Clearview AI close to being awarded a US patent for its facial recognition tech",
+      "excerpt": "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "originalUrl": "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/12/2021-12-06-image-9.jpg",
+          "width": 2560,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "publishedDateTime": "2021-12-06T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before.md",
+      "title": "AI Is Discovering New Patterns In Pure Mathematics – Some Of Them Never Seen Before",
+      "excerpt": "Advertisement Using artificial intelligence (AI) and machine learning, scientists have created a new mathematical theorem. This discovery is the first to show that artificial intelligence can help with pure mathematics.",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/",
+      "originalUrl": "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/PRI_212914641.jpg",
+          "width": 778,
+          "height": 519,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/amp/",
+      "publishedDateTime": "2021-12-06T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-artificial-intelligence-driven-care-robots-tackle-the-suicide-rate.md",
       "title": "Artificial Intelligence-driven Care Robots Tackle the Suicide Rate",
       "excerpt": "Artificial intelligence-based care robots will help to communicate with residents who are living alone and dealing with mental health problems. According to government data in South Korea, Chungnam Province,",
@@ -981,229 +1231,6 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-automl-market-revenue-to-surpass-148308-million-by-2030-says-ps-intelligence.md",
-      "title": "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence",
-      "excerpt": "From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR of 45.6% from 2020 to 2030. The major factors driving the market are the burgeoning requirement for",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20140675.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20140675.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T01:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-can-a-tiny-ai-group-stand-up-to-google.md",
-      "title": "Can a Tiny AI Group Stand Up to Google?",
-      "excerpt": "Scientist Timnit Gebru has set up an AI research group one year after getting fired from Google, but she and others are fighting an uphill battle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2021-12-06/small-ai-startups-are-facing-gigantic-odds-in-the-competition-with-big-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEswj2yFA1x0/v1/1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-sensetime-launches-hong-kong-ipo-to-raise-up-to-767-million-term-sheet.md",
-      "title": "SenseTime Launches Hong Kong IPO to Raise up to $767 Million -Term Sheet",
-      "excerpt": "HONG KONG (Reuters) -Chinese artificial intelligence startup SenseTime Group is looking to raise up to $767 million in its Hong Kong initial public offering (IPO), according to a term sheet seen by Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-12-05/sensetime-launches-hong-kong-ipo-to-raise-up-to-767-million-term-sheet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-446639?width=860&height=573",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
-      "publishedDateTime": "2021-12-05T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth.md",
-      "title": "Increasing Investments in NLP in Healthcare and Life Sciences Market Bolsters Industry Growth",
-      "excerpt": "Natural Language Processing or NLP is a rapidly emerging sector in the overall artificial intelligence or AI technological field. Rising investments in the global NLP in healthcare and life sciences market have provided effective solutions to extract ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/",
-      "originalUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/12/brain-study-background-mental-health-care-medical-technology-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/",
-      "publishedDateTime": "2021-12-05T21:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-neuron-soundware-applying-sound-recognition-artificial-intelligence-to-minimize-unplanned-outages-published.md",
-      "title": "Neuron soundware: Applying Sound Recognition & Artificial Intelligence to Minimize Unplanned Outages published",
-      "excerpt": "Neuron soundware has developed a technology for automated predictive maintenance of industrial machinery. It uses sound/vibration analysis of the machines. Czech Republic, Central Europe., December 6,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/neuron-soundware-applying-sound-recognition-artificial-intelligence-minimize-unplanned-outages",
-      "originalUrl": "https://www.pressreleasepoint.com/neuron-soundware-applying-sound-recognition-artificial-intelligence-minimize-unplanned-outages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

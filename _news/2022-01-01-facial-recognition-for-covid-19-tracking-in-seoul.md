@@ -24,17 +24,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "A Survey on Masked Facial Detection Methods and Datasets for Fighting Against COVID-19"
-    excerpt: "Coronavirus disease 2019 (COVID-19) continues to pose a great challenge to the world since its outbreak. To fight against the disease, a series of artificial intelligence (AI) techniques are developed and applied to real-world scenarios such as safety monitoring,"
-    publishedDateTime: 2021-12-30T03:12:00Z
-    webUrl: "https://ieeexplore.ieee.org/document/9664332/"
-    type: article
-    provider:
-      name: IEEE
-      domain: ieee.org
-    quality: 11
-
 secured: "ZS7h8Xp6eJxzjzVuOkjBdoWUeEJ4SuYBxkyg4ym2Lrj2gxzULauxUDtYW3epBOmiA1vpnglu5tB6z8vFYnpc/CVhrjOxQFGrlgtxRs+KY77/QfD5BUOEKE2eRX9h1CNkTv8lulTdhD6BQRXaNZMRUCUCMCgzIWHREZXIpDj21TYjak8fdkaAfsCo6qeuMBPrnpbXpyMrfy0dRm6xbrcyimXjvH7k9Ue13CgHteDmk4FZHPJ8aMDMkwsxqz9l3jd0WvlthXU2N/j3sPDT+lQ1moq09XD1mEjVuKVn44B/yzA2dmNWbp7bRRA6eGgX2eLIm+LX7UemoKmrBgyNruiptkPAXudXs2GVsCPLPWxEtiI4NmTgnCB65B1owtCB+75qe9yHroO30VGGtlsnOo+oqNjVXV6APsV5UG7XwduEBvGCqvs06hRKz3CdYueKvcR99B9Au7Q5o0H1xRIQdAjVfYwfXPVaPkNan7zEP7Xz5hf0DEmqc9qplVg1jKCIErPTEV1ZGxnspQCSPmOeS/rLcg==;acST1ObZcn7myij77NnRYw=="
 ---
 

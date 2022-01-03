@@ -1,20 +1,26 @@
 ---
 category: news
 title: "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals"
-excerpt: "The fellows will work with the research translation centers underway ... education tech AI, Speech and language soluions for business, smart city device and AI analytics, social sector solutions ..."
-publishedDateTime: 2021-12-21T09:54:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Business/20211221/3877809.html"
-webUrl: "https://news.webindia123.com/news/Articles/Business/20211221/3877809.html"
+excerpt: "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals. Program to work on creating products and solutions from research. Take courses under Pro"
+publishedDateTime: 2021-12-21T10:24:00Z
+originalUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm"
+webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "vCFlPcJur8br9OignjDHJG8eytZQb6IzlLL2nq+gtUTch3G1MOOrfB06fTjCCqI8WMkL4gcKfFZ8Lc3AnGu1cujcqDnNF7OM/9the2Z3jxGMcJk23WtSr2WoxB9n2xjvxjo0GIf+9XJJkQWsfz32fRKwVt+msmrq1SEoEUzV00vJeFkDNxHU4sxSyNlWuB1ZbyRUx8bpd3zjpjzVLPbJEWUbWA2Li34oSTiRJhXmLF03DvbXHdupfHqwep+kMhPvwQnK/3D/EpzFIxegNuzO0JKPLvAQY7wvIpLr+YozPtyKpAxySk8OMBVlQfZUJIH3vWpN5XYbCLQIaXsDbV2MvwJWLRoPgH03K7wkC1yGCQg=;SSSjUGIVOJ3XWDvLSdzegA=="
+images:
+  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
+    width: 1577
+    height: 1050
+    isCached: true
+
+secured: "xtzop0bH9PSlLZBitGCcGTm2cfSJ+gqAS4RRp03di4/mzPtTTqNmx/St79pwqkg6xPgDo59VTTQrXQGyguS+JI1GOE4bVcSbHFt3qS00/WMAbrkgmcTe5IdNPjosZaaaTQIwwdgzeTQW5RpcQRBsMVR0fRnPpxZgQi7jUpT1rvYKEy2XCG2Ha8WOlCvwFXVy5CkXP4TXJo5sedibgwWdggtOYvG63QuFx8ArEdAJY1znGZbcl/3GRWYRS6o0/TRpuYXig/FaqsmN/w4mar7oJkWEXi8/6dfGfkdsLhJwFt07mNkgbvhAQnpitq4peQs7+mbr/72JM6HqPxpjR6/bveesTqDKcu1VACbTGodQ0qA=;IvwP+ScpinaZRybP7uguEg=="
 ---
 

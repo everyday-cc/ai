@@ -1,23 +1,21 @@
 ---
 category: news
 title: "Unbabel Acquires Language Translation Company Lingo24 to Deliver Multilingual Content for Global Marketing Teams"
-excerpt: "The Move Expands Unbabel's Language Operations (LangOps) Capabilities to Bring Multilingual Customer Experiences Across Marketing and Customer Service Unbabel, an AI-powered language operations ..."
-publishedDateTime: 2021-12-16T23:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/21/12/b24661629/unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-m"
-webUrl: "https://www.benzinga.com/pressreleases/21/12/b24661629/unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-m"
-ampWebUrl: "https://www.benzinga.com/amp/content/24661629"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24661629"
+excerpt: "SAN FRANCISCO--(BUSINESS WIRE)--Unbabel, an AI-powered language operations platform ... of its strategy to bring consistent and reliable translation to businesses around the world."
+publishedDateTime: 2021-12-16T23:18:00Z
+originalUrl: "https://www.businesswire.com/news/home/20211216005193/en/Unbabel-Acquires-Language-Translation-Company-Lingo24-to-Deliver-Multilingual-Content-for-Global-Marketing-Teams"
+webUrl: "https://www.businesswire.com/news/home/20211216005193/en/Unbabel-Acquires-Language-Translation-Company-Lingo24-to-Deliver-Multilingual-Content-for-Global-Marketing-Teams"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
   - AI in Marketing
 
-secured: "U2RH8V8t3LNRMOvxEQ+jTyp1jJdjnIHqbsU2r+lypIuSfB22VdtqKezUonH6/KbJ88yTRs1VH8vOBTDKYhdX1FSjePaiexnvWd/2npnvVS4qtrDRnMHaGX6MfW0avguzn3G1CHnwstQEBexAVv1jKe6fZhzNrQtD5VyBmKSCkuHiEC5+fQpS7++iX73akpgPLGImhxI4FRqmOj30sMHrCXtiAsjLelZOfcThGnkGYkuJLd42pdyDGCv5EhHWv4sKUPgoUqQv4txAbghDRm+qboMrzfFwXQxz545Gf7bu/pVlgPtdgmfEaEuCK4b/345E8BzJ6MuQZLAa0v1mjEWCxTwptngtLzdjEgZ6tvEadgA=;wKOJNvA0gzrpf8GaaRz3IA=="
+secured: "HTqX7gZ/YKccr66TaZYdMZ+w9Y3OsrIEsemNRalDEjCWwmyl8yXKgyOWeJLUDWUkb4Gs0x3BjsX9Ba1bA14SfOSi4cliXA0+PKxJdXGjffMCmhC/fM+HQtFbQimMeIuS513IPvWdkatMqLeRbdRKoioppNdl6ATNtWoXcN62M0WXhAMOUJvXIWwiOTLvL8aetEhWcWAen2kTjI4g026QFZmjIxTRyTbDULQh1rXfjxQBlRqXQ5qR+hJ2pWOPZS5QjEVf0WTfgPduVv3P5BAJazKaj/jLMMFemqNBeJJIUuKDsReOWD6wGiTUyODIgamxGh110y6kFsMiMdhDvsrPmew5c3tTQ/ooU/sWIzahqG0=;ryCZKh5kJ1unLwbKw4MTUg=="
 ---
 

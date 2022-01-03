@@ -7,8 +7,8 @@ originalUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-po
 webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/5-predictions-for-2022artificial-intelligence-and-machine-learning-will-go-mainstream/72685"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Forbes India
@@ -23,6 +23,22 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Data Science and AI Predictions for 2022"
+    excerpt: "The pace of technological change increased in 2021, and if history is any guide, will continue to accelerate in 2022. At the leading edge of high tech are"
+    publishedDateTime: 2022-01-03T19:48:00Z
+    webUrl: "https://www.datanami.com/2022/01/03/data-science-and-ai-predictions-for-2022/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/brain_gears_shutterstock_Superstar.jpg"
+        width: 1200
+        height: 748
+        isCached: true
 
 secured: "ODjC3QsI/3zZIPVUez1o/xSK/FRXmrKMXWD82+0Ht/TxirBhasICGohRgaRO4cLfWTF/DM+n9OrZFu4gmg3qR3Z16dqQc7T33zepR3aN+2ZrGY03Li4egOHc7brQD+vQTG3ljxifnxAx1dcaaqi3FPX71/ifXKqCz8qxu7VFuIYzOW7W7pIczAE7+AEUEyVk5uZf7nhl/yAEcPpGuEa0418p9gu/27IrWFX8pnZWSd67fIjI1HOJ5cgZtqbil7nWFFl2AAin7hjYlI9mve5pQJ1CRwH/1+62KBxeoSrBL4SOoAmuWa2KPb+Gp4h12WdJ0niJEbf3Y/0PYzYIo2WtFbOX4FtG2q/0KRVCSoTN7NWzUSGJrRhsgWKYX6VRUFCH46J3I4LwtnbaZjEa/e3YMaBxb2LmaROLOE7/9WCPvvrn6PEe9N1WdQDP8vIqw4y36W/xIAeGVFyn1G2bbbU1HQ8UTSUZVtM9/uYloK/KaqWFVOARgilajSVc5w1Aw/e3/UUMaRj5GEybBl5WWDc1qQ==;xDiCqUUhpz0lT/FIcPqdKg=="
 ---

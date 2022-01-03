@@ -3,16 +3,16 @@ category: news
 title: "Metaverse, AI and and other big digital trends to watch in 2022"
 excerpt: "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,"
 publishedDateTime: 2022-01-01T14:57:00Z
-originalUrl: "https://www.nottinghampost.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
-webUrl: "https://www.nottinghampost.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+originalUrl: "https://www.cornwalllive.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+webUrl: "https://www.cornwalllive.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Nottingham Post
-  domain: nottinghampost.com
+  name: Cornwall Live
+  domain: cornwalllive.com
 
 topics:
   - Facebook AI
@@ -35,6 +35,6 @@ related:
       domain: theaustralian.com.au
     quality: 0
 
-secured: "Rg7Xf8IytJN6Gk6cuLqiUH5wvMejaVws5OhETVPXVce3ZL+rSRtT63v8l0NjDnxQji4JBXA3/UwymoE6AbA2D1hDJjU2EH2lhnCxHAc3EBq7HLb31ZzmfG7E/jHUW4vcq1/fWE50whtK+8Zn/GKzW2M6GpShYK4Z3vAuzpx6nnh9dpuUcoF7ajwGMLjvwcQO5qHI5K9FU/jVOyfwZMnLoNxUH0KbATVgWnN90fmjLDnb27/5b2JVig0B5ADCdQ5cjFwMx61lupR2b4lgHqQilwy2qyqd1jdwikFP3AODAafXQ3zrXMrTNx93pBAVdQMCuzB0JHT9R3N+HfyWJeZlXloLZXhHBzsOvNZoQb/nWUUPbrWB4Xw0hEhWbjWkTNQrmBGoEZQd19CgzQ+Hv1/rMx5sD/aeIHjyLw+3uIvftAJ5Jsh3XMUkYE8l6u9HGV/zEQt7IxnvcjrFdmvYxp9pxGrYodbUhbwjQJVyht78ID2osUK0D3EDJGYOF4YaEm6K61EC0IS3D3Qtu5TC0/qvcA==;Ofu6wkfSTVteMqLCWadV9A=="
+secured: "Kn0odkuNYWPfQ8pjvHuOD2ex+6rP7PtJu+M8p0Kds08q/oKUDtis10fN5ZeiTrkuivsMbzz33cXLs5my8/jnJASiUTbwLoWxFshghGA4fZQW5WZEhhJavhc1Df5Jjl3EL7fwtMx1KacvNfXvEtKJq03tBO70mlvumt/DimCuWouTIJCKz/3pW3fAdSznV8VozDuDhAzMHGv7SXt/F1wytYGHzOU4sH6W2PcLFGujwo5IB0IQ+xS2EMD5yePcg3pLluiIbRPQL/qxSlRMiWT4cj7YYLOgk6u723HU6DotJwGj7cGCL/Zj4s5cOspdg/SO5edwfpAvzyzZjiTudYUAg86I1MJXpnKf6vgPQvbDWe4=;xU1Wx2srdKfoxTr1NmBT8g=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Microsoft partners with Royal Spanish Academy for language resources"
 excerpt: "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,"
 publishedDateTime: 2021-12-21T10:35:00Z
-originalUrl: "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709"
-webUrl: "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709"
+originalUrl: "https://www.technologyrecord.com/Article/microsoft-partners-with-royal-spanish-academy-for-language-resources-127708"
+webUrl: "https://www.technologyrecord.com/Article/microsoft-partners-with-royal-spanish-academy-for-language-resources-127708"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 443
     isCached: true
 
-secured: "DDbEl5/zPClqgd3QByZ21kOAjsjzfguIm1/LLW8yX5HgURsRo8xqg/bapZmeUBX569INBGkAc0dpajHci8I+TtfzM1I0ynCrNUaOojDPcaibROdBYOIMcGrO71BpiydLOui4MxKB4ZaUcZVWraMFCTGqBIjkgX9agPNUsZWUC6S15QupQzDcDmK+ZHpVsRzjTC1CGrh5Wtrm4U4Vaywu7AX7vtca0jpPaP0pG2dI/6D/YfuLP23w07F0YXBoQj0jxFmE8AQYcozDho2nhGQ5hbYLWYmejvdbQMTRzGJ6lTurA0ORDEkccVXSXfGAZ3tMZxGtXY1YQFTWvPthDEl3Lec5rGqU15dgdeavs9nFTPhnAyPW0IhuSsgs1bQEV+jf+uZUlrNic3SFiFn+1sDWJaWSb0bija8J9gyCc2TOZKUFMv5jjklJrZQxJ/YxsVjgaCGALDJ7unupbhCO/bHYJR0KrWB3mAbDRVYrpPjxJw9oo2IRl/7f7xGfFSNuuVcyKU544GCLe7ONcnqX1rtiUQ==;Vbf0hLZIBGYuBONMGwbFAw=="
+secured: "5Pd8u5YYZHMr4yCve8/6bIsr3f5JTgPsVjmepGDp99SNeShDT0tJ6DFydcxfuhN/DGivcYvAgRjJk2LFVWYO/uVusWoFsmkInde9XG9qOvpdj65tG4a38uun6tFQIfYsuLfhJmZJmE4Cp+DgR6fEm8bakrIMqHdxb1x+w9Sf8jD5fG6etM1wDn1So6VH6+DByldFdeJ8vMjTGCSMS6jF9OIiVgtB+Nv/nMnHgNNNUEUZqYYnWubSgAhFk7ywoM7CF3DUgNDr8wulTJSe2TsNVGPW2DhvFDo1iXwq1Cm5Xwsx/4aerUhiGz6x+3zVzTq3fE25wr38MVu7ODMPulR3OECZqao4WXih/Z5K+LEtXwI=;faxXKtKxL9Pv4hwqUYd4gw=="
 ---
 

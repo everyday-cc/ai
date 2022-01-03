@@ -2,25 +2,25 @@
 category: news
 title: "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure"
 excerpt: "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure."
-publishedDateTime: 2021-12-21T13:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=591579"
-webUrl: "https://us.acrofan.com/detail.php?number=591579"
+publishedDateTime: 2021-12-21T14:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04"
 type: article
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "fLVFVkNAeOqcchWNUcfg6Qgxj162QIhZ2RDmSb+2XjlCCBv8SOHhavlHoLqSRiK6lEpxpPbxUcUmWlbTz5eEafjKtQR0uuyspyuT5CH3QK0SfO70y+qKotadLAl+VVJc+UWZOA+dONm8yUY6RGJB8TyHEk1fxB/hAmwus1YSjpGz6ei/qEMxfyVbbIes9Ri9GjDkJUKUxUHlFandee728Hs584PfDqI6NgdLk+XcwbxOXrnMM68ozjywxg2cb2rxVxoZyqPQgnahkuXJo8SBdpX5bJmYUYYYkGiGTqsuBV+nCqL5Hks75+QxAxTsZr797OUqiDpu6jFUSntEuNDCt5DUkFTxCGPCeujqRfRAjjI=;6zaIf3U+ypNg14hiqQIB6A=="
+secured: "AlOV40eHAhaNdeFS14M4F6ho6XngL6ZvoMQw3dcStQ+y3j15IGo0YNTIjYA4RhPe5hvTAc8CNtbduJTzvuQvGGlKWpJjwWyc22e+WYeCfjiL19uJCNxABsvGl8Zx8clntXG3tQwH0YKbs5Mmboe+NK2n8TO3oCMegZjrGynCQcuYOdreAgy+rnexmJ7PohQgyVU4dgCmm89vt72K5iS4nutrAaB+cllRMczVJeCuTsPQH6325C4UgaM8aQyjWhW4EkgjjCGkztY0N79gojuwxTfPjuCSHSZ0g/AGws5dWmrj7nC0R9my/QlGia8CJuBG98XnQ7qXUkbr74uYdZpXJHTclhCbxltrm+XbPIEm0k0=;AD74A3vgjmmz87o9SlXSow=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-03T14:33:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
@@ -67,6 +68,6 @@ related:
         height: 1050
         isCached: true
 
-secured: "1cgfoyMunz+ioOd/pZ1pXcQ3WhvOaw6YVPXI3z/R+jwq2UyUVhqgcWfmygo7FF/HtoMWG5Qj6A3I3Lxnly/WihniHmL8l6cTaJpvuMg+moAzKKTLkOgrvjyvfkGFoScKd6VWLogC8hmzh7PU5AqqnPmytHes3aPQx8inR5UgBGUhzvcBfK4c1I/vGz/FXDTGAq5wMzMKdEFaw5x1/XcQ6UAKFpLX2JSiTYr6qmgjkQ6+TSSdrEyhIiOwTUCKXgtoy8MWiSrt0AnjkJlJi6Oi+Hqa23PHSaQONPYhxcl+RToAnfVF6Mja3e2vg/sJ5bJDPtc0qnEvgxAG+yawMU1bHndVn+YdvTkeNDrutQYE8io=;hAt/DRPay+FSwKG9bZb1/w=="
+secured: "2xb1lQ0oGmN12u5HmT5aoF6INd5t/0NG+m5JHqvFNmrzzcAI1PHgm1D53ARmRLmcqc5o7gU/TPd7FS11JESY++Tjm1QPyJMSMoDu8VTd13Vb6pAgwhknyvPl35DjuIm26zkk3HCZhEFg9gvvqS9QGxchuWteyaBdgIN84i3vRDKQ5UQABQoflD0bk9WQKCHMOQVdJpTz+sUdj1uSv4MT5vrw28rLEejpCqZpdSkbjgf0YZfi5irfPvKZuKXjiNxtSlN34FbuVLE9leo6UDNnGl+EIN0jtig4OwuLrq01LrQnid+nCgRdoJaHwmjRHLYIxuywyFarGqFltmiTddzAOFjIc8Va2vHxs/WXIs3XiPCuGdpPSu0+3KpA7CwFfIYDFFLPlk7Kkw88GFBMwCNCU+1rsUmpl15Zx2MGVH1yJdvCdebdiYN3ffLrjZubZY/Q4PCbkH6//ox0+8P4hqp/H9evOtKtzP+kdFawghYcEddJQriSpHd7xvhlk6pKrgnFpZTdXlmymx7IwJNlgzuyvw==;EmJDdZ0xJNGlwHwWb0uS6A=="
 ---
 

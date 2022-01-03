@@ -43,6 +43,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Telangana: Plea against use of facial recognition technology"
+    excerpt: "Hyderabad: The Division Bench headed by Chief Justice Satish Chandra Sharma and Justice Abhinand Kumar Shavili on Monday issued notices to Principal Secretary, Municipal Administration & Urban Affairs and the Hyderabad city police commissioner directing them to respond to the notices on implementation of facial recognition technology in Telangana State within six months."
+    publishedDateTime: 2022-01-03T20:00:00Z
+    webUrl: "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
+    ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
+    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 74
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2021/10/25/1118832-hc.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Telangana HC issues notice to govt over PIL challenging use of facial recognition tech"
     excerpt: "The Telangana High Court has issued a notice to the state government on a public interest litigation (PIL) filed over the use of facial recognition in the state. The petition, filed by Hyderabad-based activist SQ Masood with the support of the Internet Freedom Foundation,"
     publishedDateTime: 2022-01-03T13:09:00Z

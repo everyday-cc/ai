@@ -23,6 +23,22 @@ images:
     height: 333
     isCached: true
 
+related:
+  - title: "IDC top predictions include trend toward AI-driven supply chain forecasting"
+    excerpt: "IDC research makes the case for supply chain forecasts driven by artificial intelligence (AI) capabilities, to achieve better accuracy.{/exp:eehive_hacksaw"
+    publishedDateTime: 2022-01-03T20:31:00Z
+    webUrl: "https://www.scmr.com/article/idc_top_predictions_include_trend_toward_ai_driven_supply_chain_forecasting"
+    type: article
+    provider:
+      name: Supply Chain Management Review
+      domain: scmr.com
+    quality: 35
+    images:
+      - url: "https://scg-scmr.s3.amazonaws.com/images/scmr_computer_group.png"
+        width: 444
+        height: 333
+        isCached: true
+
 secured: "WsPsCLWxNdTZrLpcLQovhO9E+RdnLqkYXOF7imWcVTyJQESAJYO8qP8fx6j4/xJENkExGgNjJ1KLrZi+GhFxS7IUyStwhxUS23lckgxaSng3BrvLweOcKwGTmJxCjWYyZIS/T7TyqM6wQR2Lgxli8oyY1ZUrLNCYzJaQrVpPkptHBUFGQwa9dqT8oXF4OwFTaW6pmUpcmD4xuNnm7DQvdbOxN1kdTCDnKX7576ELZu2hiKBEy/J3h5qD/MSPk86oygpVcuFtok/2MXrjlRDQ6tznE/SOsJ5rtdC2DmwkjCHZes31z83CluKOsrm0KAQOGWRNoBNcczBBSuxwpABeWRqu5zWoAewy2SUuggap6A0=;MMVizIig97r+HbG8puNIpA=="
 ---
 

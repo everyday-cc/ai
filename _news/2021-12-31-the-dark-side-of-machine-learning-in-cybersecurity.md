@@ -24,6 +24,22 @@ images:
     height: 902
     isCached: true
 
+related:
+  - title: "Developing AI and RPA across DHS; cybersecurity and cross-agency collaboration in 2022"
+    excerpt: "On the latest episode of The Daily Scoop Podcast, DHS CTO David Larrimore on cutting-edge technologies at DHS components and Scoop News Group’s Billy Mitchell and Jeff Stone preview their top stories for 2022."
+    publishedDateTime: 2022-01-03T20:31:00Z
+    webUrl: "https://www.fedscoop.com/radio/developing-ai-and-rpa-across-dhs-cybersecurity-and-cross-agency-collaboration-in-2022/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 29
+    images:
+      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
+        width: 629
+        height: 607
+        isCached: true
+
 secured: "cXqhIeERURYGgWTlQ5EztxZPqGPZCKb+DGFotEGj99IKFtw+ABv5HYRLHeA4lOEizwCls/XTSRyJxc9/dwJbamCSDRiier6Y+ISjE4X0FRvmAUjujbsEiUqGmJnanW91o0G7LGmsskKp4Nrb3qiJJw8yarAomcYkD18mikknRhf08/jLPHi1dFiMzPJmZftKx1r6xF0PpGtAONP5LbNnlwPUHkYMYKriHYJ/YQbWdEAkwqiXWvBsynIY9IAOc1PK/03duUGeNIBseh2KCKBel3Xg2p3OnakGXSM5Ifa2VDGnND9t3dntWKrPTw4L7BSYwDJ80GfMlkaPqBz52Bbg6JOAko34sNobm09JJtzUv2g4c7mNG2MarXfAzv0QsHDaR21UQFJe6XQsSiDJM+11Cz8yqLqWzLgJv7gMCRd2GORdXrRw76KZq7sCQMMsgiECWfle8Mut4rJSYeH+S4pKSHyqRx2KmEtH4io7uz/VGMu2UAsxvLy5mZEDezyf89IB/MvkvmVmwhQHHRh31nIqhg==;On1g8dvFIDaxsFL9H01NLQ=="
 ---
 

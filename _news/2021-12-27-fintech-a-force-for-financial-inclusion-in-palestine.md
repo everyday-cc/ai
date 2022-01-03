@@ -3,8 +3,8 @@ category: news
 title: "Fintech: A force for financial inclusion in Palestine"
 excerpt: "Majd Zghyer is the strategy officer at uMake, an entrepreneurship support organisation (ESO) based in Ramallah, Palestine. This year"
 publishedDateTime: 2021-12-27T02:02:00Z
-originalUrl: "https://www.wamda.com/index.php/ar/2021/12/fintech-force-financial-inclusion-palestine"
-webUrl: "https://www.wamda.com/index.php/ar/2021/12/fintech-force-financial-inclusion-palestine"
+originalUrl: "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine"
+webUrl: "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 500
     isCached: true
 
-secured: "gXR7ohOlY94uB6OTtkMyUSWUCSSPX5vlLqcGrbCtnmjacqWPWleucz2LBp08qifWFixl9mRy2WJAaFlD5VK1PeA3pvtz6MR8kzCOj7t6oERHr8KgylYudwgaopePDTHgLjg6y7AWugtT3huTEuoIfv3srpkctcjs7My5Aq5ixiyN+9vJbiRRn4ithn522/H55ofg6Yj4+96rD5e3HnJEOsD7Hli0B+AWBBIB7jN042cqU+OTETx+HQfLQnec7jOd6HidulC6Xc8m43TowgWk9NsDCeK56gbDGdZ5Y9Dc9cAvxDeMTAqoXKRZyBnYeUg5LfkkGhoq+H28HcG6Q4OrYb4hoLh85HncfNb2c4rWm7g=;S0gyWszUd8QuJjpkWN4L/w=="
+secured: "m78KB43BbAuHGDCMedYbm4+joKmTqQ8RR128bhlekcY/SrMeuCQs1N1IoBkD0fidRUDPZPMqxV2iEXe/DLCKlojy1nUVTjQMgeSytFe8NhAhIYx8hTgAhgfJEvbHp7rDv8WpkYpJtTLUmCnFlox2FiBGb2Er2K+bUcxSzUERCordRe0FMwDi4wXHb5WgEB7DzS24lIk7W5FUi179vqdsanbse4gdbZ1sU4yRL+TKcGw3jG85E3vl/k/G1a5QdxASPGVDKLkFc/saof4FWV6QBKhu58TQkgff9Xw4PXVnKCCiHIAzwR6IF9wa/ZHHsDxyQKTSvfGJgieINWXCtEZpVdoYSqJ2UBP9V+m8DT+gnCg=;DNqNkWtK99Lc6wl/lIJdMQ=="
 ---
 
