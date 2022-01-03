@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Learn artificial intelligence, machine learning, Python and more for under $30"
-    excerpt: "Even with no tech experience, you can learn highly marketable skills to start and advance in a lucrative tech career without taking any time off from your full-time job."
-    publishedDateTime: 2021-12-29T14:00:00Z
-    webUrl: "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/"
+  - title: "Future of Machine Learning: Ways ML and AI Will Drive Innovation & Change"
+    excerpt: "It’s not a surprise that Artificial Intelligence (AI) and Machine Learning (ML) are two of the top buzzwords in today’s technological world. But, how will the two technologies create innovation and change in the near future?"
+    publishedDateTime: 2021-12-31T19:49:00Z
+    webUrl: "https://customerthink.com/future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 100
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 72
     images:
-      - url: "https://www.zdnet.com/a/img/resize/9492c3bd3b0d8d9e63d5201ac4b7deb90c2dded3/2021/12/23/864cc429-4142-4d13-9ec2-b68c0800219a/zdnet-premium-machine-learning.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
+      - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"
+        width: 1280
+        height: 960
         isCached: true
 
 secured: "ubafdfLSiMxPC6Ws5NfgFZL6VW1Qti5jQOf+E1x4Mn9kEQBDQd4gg9xvt486fp6603XKhya1pKio1ser+S2V7wcIsmrWZJ8XZJqerQ8m7Bna3IJYa3tdav1jonMTFKvhZiMrq4icLmSAbbeGkDNtUWRU7S0S8Q5IPBFQO3QU2bQt5DNYnbQcHZPwAhzegIFFntuG4qEiu03VjvxLPjmeaX2GnbYXr43mVp37VCVDKcpa/1KS/xEOR3hSBR9UX3BmCEpTHdzmRnInO3w3hyuDSYVZXKASyZBHI+vTGkuMyZPglK5IMR58fhMe+d5SSGmzJkaNm7qRAXgRh5C0dl4A4Mv0aebUhpaELTfBuFystZZVezR6gfwhSPGf/qZdpGQL6/9L1EkWG08UY3OKyUevw9iBPYx9X23K8o8QrK1bhQo1b/Ie6tLXwv60Fl8yFWV65+OQ/zqgToVrS9Vh2DFfAh59vLTbuE1NocA3rHFQUrnO2IJdTpf7P9/hyXtaJjoGn9tFgRDckfENrhlhrWW4hQ==;dXWNneziIiUoY0EfWymy7w=="

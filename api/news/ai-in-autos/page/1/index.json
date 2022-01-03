@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-12-31-geely-owned-zeekr-and-waymo-developing-self-driving-ev.md",
+      "title": "Geely-owned Zeekr and Waymo developing self-driving EV",
+      "excerpt": "Chinese automaker Geely’s EV subsidiary Zeekr has teamed up with the Californian technology firm Waymo to develop an autonomous cab. Previewed in official renders, the electric MPV is designed for use",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece",
+      "originalUrl": "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/life-and-style/motoring/bkidjc/article38081138.ece/ALTERNATES/LANDSCAPE_615/Zeekr-1",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/",
+      "publishedDateTime": "2021-12-31T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-crashing-the-self-driving-party-of-tesla-co.md",
       "title": "Crashing The Self-Driving Party Of Tesla & Co.",
       "excerpt": "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom.",
@@ -1359,58 +1402,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-21st-century-problems-insuring-ai-and-smart-devices.md",
-      "title": "21st Century Problems: Insuring AI and Smart Devices",
-      "excerpt": "How the insurance industry is grappling with covering AI, smart devices, and driverless cars Key takeaways: The insurance industry must evolve along with technology Changes relate to new analyses and",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
-      "originalUrl": "https://www.linkedin.com/pulse/21st-century-problems-insuring-ai-smart-devices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGUOs5a8rDx0w/article-cover_image-shrink_720_1280/0/1639675674648?e=1646265600&v=beta&t=3NBOtTROKhnxyceGRvCDbv1Y967Inrs0Aw2xoSFoymc",
-          "width": 1279,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

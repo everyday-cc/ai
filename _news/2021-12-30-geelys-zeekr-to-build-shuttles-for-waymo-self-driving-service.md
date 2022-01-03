@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geely’s Zeekr partners with Waymo to build its self-driving taxi fleet for the US market"
-    excerpt: "On Tuesday, the Chinese multinational automotive company Geely announced that their premium electric brand, Zeekr, will partner up with Waymo. This partnership is to build an all-electric, self-driving vehicle for the Waymo One ride-hailing autonomous fleet in the United States."
-    publishedDateTime: 2021-12-29T13:25:00Z
-    webUrl: "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/"
-    ampWebUrl: "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 80
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/12/Geely-van.jpg"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "Geely-owned Zeekr and Waymo developing self-driving EV"
     excerpt: "Chinese automaker Geely’s EV subsidiary Zeekr has teamed up with the Californian technology firm Waymo to develop an autonomous cab. Previewed in official renders, the electric MPV is designed for use"
     publishedDateTime: 2021-12-31T13:03:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-a
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Hindu
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geely’s Zeekr partners with Waymo to build its self-driving taxi fleet for the US market"
-    excerpt: "On Tuesday, the Chinese multinational automotive company Geely announced that their premium electric brand, Zeekr, will partner up with Waymo. This partnership is to build an all-electric, self-driving vehicle for the Waymo One ride-hailing autonomous fleet in the United States."
-    publishedDateTime: 2021-12-29T13:25:00Z
-    webUrl: "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/"
-    ampWebUrl: "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1"
-    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 80
-    images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2021/12/Geely-van.jpg"
-        width: 1200
-        height: 624
-        isCached: true
   - title: "Zeekr, Waymo working on self-driving EV"
     excerpt: "Chinese brand Zeekr will develop passenger-centric EV in Sweden before Waymo installs autonomous tech in the US. Click to know more."
     publishedDateTime: 2021-12-31T01:30:00Z

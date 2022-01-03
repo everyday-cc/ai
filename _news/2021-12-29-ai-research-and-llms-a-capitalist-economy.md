@@ -24,6 +24,7 @@ topics:
   - Microsoft AI
   - Machine Learning
   - AI Hardware
+  - AI Ethics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGYRd6sKCLr4g/article-cover_image-shrink_720_1280/0/1640709542622?e=1646265600&v=beta&t=08R0KA4ukOaN7NUUdizplG4mbE-2iCEsdgeKa6xE6Bs"

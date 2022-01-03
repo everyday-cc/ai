@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing the Trivergence: Transformation driven by blockchain, AI and the IoT"
-    excerpt: "New business models enabled by this Trivergence — artificial intelligence, blockchain and Internet of Things — are beginning to disrupt many industries and provide platforms for innovation in the economy for decades ahead."
-    publishedDateTime: 2021-12-29T14:10:00Z
-    webUrl: "https://cointelegraph.com/magazine/2021/12/29/introducing-trivergence-transformation-blockchain-ai-iot"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 36
-    images:
-      - url: "https://cointelegraph.com/magazine/wp-content/uploads/2021/12/magazine-blockchain-AI-and-the-IoT-min.jpg"
-        width: 2570
-        height: 1446
-        isCached: true
   - title: "Square Enix President’s New Year Message Discusses NFTs, Blockchain Games, Cloud, & AI"
     excerpt: "Square Enix President Yosuke Matsuda published a New Year message on Square Enix’s official website. The letter includes a rather extensive discussion about blockchain games and NFT (Non-Fungible Tokens)."
     publishedDateTime: 2022-01-01T04:20:00Z
