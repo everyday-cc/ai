@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 1500
         isCached: true
+  - title: "Taiwan-based startup BaaSid to showcase blockchain-based products and services at CES 2022"
+    excerpt: "With the ever-increasing popularity of blockchain-related technologies as well as the introduction of the metaverse, Taiwan-based technology startup BaaSid is now ready to showcase its blockchain-based products and services at the upcoming CES 2022,"
+    publishedDateTime: 2022-01-03T14:41:00Z
+    webUrl: "https://www.lelezard.com/en/news-20175129.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 27
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Square Enix wants to do it all: blockchain, cloud gaming, AI, XR"
     excerpt: "Following its lofty blockchain play-to-earn plans, Square Enix has a history of promising to embrace new games technology."
     publishedDateTime: 2022-01-01T21:27:00Z

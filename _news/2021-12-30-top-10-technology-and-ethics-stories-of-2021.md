@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252510993/Top-10-technology-and-
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252510993/Top-10-technology-and-ethics-stories-of-2021?amp=1"
 type: article
 quality: 59
-heat: 60
+heat: 59
 published: false
 
 provider:

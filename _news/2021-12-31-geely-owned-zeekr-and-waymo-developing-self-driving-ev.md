@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-a
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
         width: 700
         height: 394
-        isCached: true
-  - title: "Geely's Zeekr to build shuttles for Waymo self-driving service"
-    excerpt: "Alphabet Inc.'s Waymo unit will add an electric shuttle built by Zeekr to its U.S. fleet, the self-driving technology company said on Tuesday. Waymo's fleet currently relies on Chrysler Pacifica minivans and Jaguar I-Pace crossovers,"
-    publishedDateTime: 2021-12-29T21:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1134602_geely-s-zeekr-to-build-shuttles-for-waymo-self-driving-service"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/zeekr-shuttle-for-waymo-self-driving-service_100822268_h.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "B/EzoP35khmIPDvJ8F7ImOs++fcWXcUpMvfq++6R2yG9X1cB+fd2N/Bbw453t5bAmnX8Ih2zABsnvjbYyjU9rgqXBuvWF/XYo/aJSfCRBNoS0Rp/8qM4fLqWGGc/58dnSxcLa+nHsBiHkRtBpLsCI2L8kYTFXY+jFTlzYHf4atCNAcTYyrhWOnWEvj0MuWspTZJoLFzDFjjzcUSOd1tNSHhG0eG5Fmdi1/QSezW7u5Z2xT94RvuyrisaJfWbDS0CHmKn7lvonA/xBtt7lxjKqT3T1ux52v1cm6UHN2OQzwwn1+iefH+nJM7SrQU7b8xM51F0dzV+KliWC6SmCuYAwi8xc/eElRUC42S0JpaoaX5i9QawONlun2pEllrJn/PzdyIBzYJB5R13eul3fBp8OukVwa7aj7ksYFewo8CG7q8Ahn9LMp9PlVJU0vWnhDi8VnmzFvFNG8oXhKmtcX1TPe6dTR+ECexpdESN1OaZ1/1BMS69ASRTRArfrEQEIq8Ig6dddWAf5oHNdedUGAsTMw==;2q2pKiJRnwfdZzcyz8M5bQ=="

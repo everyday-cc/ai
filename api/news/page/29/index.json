@@ -2,6 +2,256 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-12-07-technique-enables-real-time-rendering-of-scenes-in-3d.md",
+      "title": "Technique enables real-time rendering of scenes in 3D",
+      "excerpt": "Researchers at MIT and elsewhere have demonstrated a novel technique that vastly increases the speed of rendering 3D scenes from images by using a neural network to reconstruct the 360-degree light field of the underlying 3D scene.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/3-d-image-rendering-1207",
+      "originalUrl": "https://news.mit.edu/2021/3-d-image-rendering-1207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202112/Light-Networks-01-PRESS.jpg",
+          "width": 2216,
+          "height": 1478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T21:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-mlcommons-releases-open-source-datasets-for-speech-recognition.md",
+      "title": "MLCommons releases open source datasets for speech recognition",
+      "excerpt": "The nonprofit consortium MLCommons has released a massive, license-free dataset for speech recognition system development and testing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
+      "originalUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
+      "publishedDateTime": "2021-12-06T21:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-sophia-ai-robot-to-be-tokenized-for-metaverse-appearance.md",
+      "title": "Sophia AI robot to be tokenized for Metaverse appearance",
+      "excerpt": "A virtual anime version of Sophia, the world-famous humanoid artificial intelligence (AI) robot, is set to be tokenized and auctioned off as part of an up-and-coming Metaverse project dubbed “Noah’s Ark.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
+      "originalUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvNDFmZmQ5NTgtMGQwOC00NmIxLTlkNDItYzBmNGM2NmVjZGY3LmpwZw==.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
+      "publishedDateTime": "2021-12-06T20:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-intel-will-take-mobileye-public-in-2022.md",
+      "title": "Intel Will Take Mobileye Public in 2022",
+      "excerpt": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 272,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
+      "publishedDateTime": "2021-12-06T19:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-this-robots-facial-expressions-are-so-lifelike-it-will-make-you-cringe-a-little.md",
+      "title": "This robot's facial expressions are so lifelike it will make you cringe a little",
+      "excerpt": "United Kingdom startup Engineered Arts (EA; not to be confused with Electronic Arts) has been manufacturing humanoid robots since 2005, but its creations have come a",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
+      "originalUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/12/2021-12-06-ts3_thumbs-c17.jpg",
+          "width": 800,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
+      "publishedDateTime": "2021-12-06T16:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022-2027.md",
       "title": "Speech Recognition Engine Market Companies, and Competitive Landscape Market Players : Nuance, Microsoft, Alphabet – 2022 - 2027",
       "excerpt": "Dec 07, 2021 (Heraldkeepers) -- The Speech Recognition Engine Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
@@ -937,239 +1187,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-how-ai-solutions-can-improve-the-travel-and-hotel-booking-experience.md",
-      "title": "How AI Solutions Can Improve the Travel and Hotel Booking Experience",
-      "excerpt": "User data paired with carefully tuned algorithms can create a personalized and deeply intuitive experience for every customer -- one that is fast, simple and constantly improving over time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/399816",
-      "originalUrl": "https://www.entrepreneur.com/article/399816",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1638471491-shutterstock-1494850982.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-using-ai-to-translate-old-code-and-fix-aging-computer-systems.md",
-      "title": "Using AI to translate old code and fix aging computer systems",
-      "excerpt": "UAB computer scientists are contributing to a DARPA-funded initiative with artificial intelligence-based programming languages that allow humans to understand the “safety and correctness of code in the wild.",
-      "sourceUrl": null,
-      "webUrl": "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems",
-      "originalUrl": "https://www.uab.edu/reporter/research/grants-awarded/item/9683-using-ai-to-translate-old-code-and-fix-aging-computer-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uab.edu/reporter/media/k2/items/cache/43dd04518ac7ab808ae810eda3a2d063_XL.jpg",
-          "width": 900,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaleido Scope",
-        "domain": "uab.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-microsoft-msft-to-support-cvs-healths-digital-transformation.md",
-      "title": "Microsoft (MSFT) to Support CVS Health's Digital Transformation",
-      "excerpt": "Microsoft MSFT is teaming up with CVS Health CVS to help the latter ramp up its digital transformation endeavours. This will help CVS health to provide a data-oriented and personal customer experience along with greater compliance with the company’s own patient confidentiality rules,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-to-support-cvs-healths-digital-transformation?amp",
-      "publishedDateTime": "2021-12-06T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-automl-market-revenue-set-to-surpass-14-billion-by-2030.md",
-      "title": "AutoML market revenue set to surpass $14 billion by 2030",
-      "excerpt": "The automated machine learning (ML) market is expected to grow from $346.2 million in 2020 to $14.8 billion by 2030, based on forecasts from P&S Intelligence, Leading the market is a surge in demand for fraud detection solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030",
-      "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1604666878/itpro/2020/11/shutterstock_brain_AI_machine_learning.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp",
-      "publishedDateTime": "2021-12-06T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-amazon-amzn-expands-cloud-offerings-with-aws-cloud-wan.md",
-      "title": "Amazon (AMZN) Expands Cloud Offerings With AWS Cloud WAN",
-      "excerpt": "AWS unveils a service, namely AWS Cloud WAN, which aids in seamless development, management, operation and monitoring of a global network with the help of a central dashboard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/400893",
-      "originalUrl": "https://www.entrepreneur.com/article/400893",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-400893.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

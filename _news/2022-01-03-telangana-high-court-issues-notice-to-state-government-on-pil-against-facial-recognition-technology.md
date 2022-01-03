@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/03/telang
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.amp"
 type: article
 quality: 60
-heat: 90
+heat: 100
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Telangana HC issues notice to govt over PIL challenging use of facial recognition tech"
+    excerpt: "The Telangana High Court has issued a notice to the state government on a public interest litigation (PIL) filed over the use of facial recognition in the state. The petition, filed by Hyderabad-based activist SQ Masood with the support of the Internet Freedom Foundation,"
+    publishedDateTime: 2022-01-03T13:09:00Z
+    webUrl: "https://www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432"
+    ampWebUrl: "https://www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 51
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_policing_rep_1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Telangana High Court notice to State on plea challenging use of Facial Recognition Technology without law"
     excerpt: "The Telangana High Court on Monday issued notice to the State of Telangana on a plea challenging use of Facial Recognition Technology (FRT) by the State and Telangana Police without a valid law [ SQ Masood v State of Telangana ]."
     publishedDateTime: 2022-01-03T08:31:00Z
@@ -74,6 +90,6 @@ related:
         height: 486
         isCached: true
 
-secured: "47zAp3KDOR+pNQ0G//OqOUn4WMbES1QGEAQVYRtPMge3aiR1Z4eo0frhXFpas9eiA0vDwRLVAjSKRmuhze5rdKnu8A72TCr0KVGuQRMIdmxr1yZd6lWPc5nQUl1FDEpnp8fkY/4xIe8WkKCVjodGT4vY60L9gOF1fld/zVA+umOpLL/FydJP/TxHxm+1iVHyabIfpRbXynPWu1NctpWHX8/cdX95IhDviJoN2CssnE/B8PEPFZD6JEFaXJ5MWorL1krrSoQ3b5bQr7kx7WCOsN3PJxAI/fi6Y2g54rikXGOGkJ8EL6Q2sh8jeMsO+UhAGWkRDxJFJS4A0S2jAwjWwOpaxKNrS8m6wTtqi9hARvI=;5AP6j7i7ZzNhtlSds3BBwg=="
+secured: "ibr+wDs9E5UPDCezYcsBdetX47DrFx94tCyRMO1uM37529HyB8tV8AnNLYL4UlAeZBC28MmTbU7ix+ITNr+cFLpSdmEF+ihGMqqZsdbYztil4teeE/sysZM/l4nC+DUyZLYHz5TpP6iGvYXcYkX00nO57WIX3p+ySy865vkLhviFCKEo/gCsDeYlgFIlaDtGaXSQzdNryOU3WmwZOVxxi8WixW6d5zFhaB9IEMvQyaT4BH1b3SpuP8rxzkLRzR2MGtdMkRVB2BT43XYJLuLnTD2M0EopNPcDg+TvPDfBiv88o5jEVy2GpDR9h9wgXn4jcuJ0VF2FhkadPncVw6/kt5pz5W516esIzWygylIcdGQMNUYRHQiCsje8xhChZWryH47PaBOQelD8dj7tUwQwGcfLS9yku4DWLS2Ls6wc6Tl1x44SMmmtrSZbpJVDgw8GEfP4hAYXGuhjIOguZ5p2RYJtxb6+UFzx8T05NKvWe5drsjlOSMTB8sC5r4WtE/iyXXVi+4vVFKrWsQj2pe2NNw==;WgVXK7kB3kiNvYe5TFcL9g=="
 ---
 

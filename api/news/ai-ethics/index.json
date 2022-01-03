@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-03-ai-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching.md",
+      "title": "AI-powered chatbots, designed ethically, can support high-quality university teaching",
+      "excerpt": "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
+      "originalUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
+      "publishedDateTime": "2022-01-03T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions.md",
       "title": "UNESCO AI Ethics Impacting 2022 Global Startups And Humanity’s Billions",
       "excerpt": "AI influences nearly 8 billion people and human & earth diverse ecosystems on an unprecedented scale. Startups accelerate to incorporate AI innovation as AI tools proliferate. UNESCO is the United Nations Educational,",
@@ -114,7 +157,7 @@
       "originalUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1405,59 +1448,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-12-we-invited-an-ai-to-debate-its-own-ethics-in-the-oxford-union-what-it-said-was-startling.md",
-      "title": "We invited an AI to debate its own ethics in the Oxford Union — what it said was startling",
-      "excerpt": "More seriously, former Google CEO Eric Schmidt recently combined with Henry Kissinger to publish The Age of AI: And Our Human Future, a book warning of the dangers of machine-learning AI systems so fast that they could react to hypersonic missiles by firing nuclear weapons before any human got into the decision-making process.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-debate-its-own-ethics",
-      "originalUrl": "https://thenextweb.com/news/ai-debate-its-own-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F03%2Frobot.jpg&signature=3e919487a34432e6e3ccbdb23e1b6f03",
-          "width": 1212,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-12T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

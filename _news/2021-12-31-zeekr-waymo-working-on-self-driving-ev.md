@@ -59,20 +59,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Geely's Zeekr to build shuttles for Waymo self-driving service"
-    excerpt: "Alphabet Inc.'s Waymo unit will add an electric shuttle built by Zeekr to its U.S. fleet, the self-driving technology company said on Tuesday. Waymo's fleet currently relies on Chrysler Pacifica minivans and Jaguar I-Pace crossovers,"
-    publishedDateTime: 2021-12-29T21:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1134602_geely-s-zeekr-to-build-shuttles-for-waymo-self-driving-service"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/zeekr-shuttle-for-waymo-self-driving-service_100822268_h.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "DmCrgQd33IYQ4CMbXNsu2kHqcy923RzPyMf55YSsvN8E9dA5U41UMS7mwpcEWRItdnkUEeexlzWbKwUh4TSD7PhgZNA7dP0ACSgw7P0/U4CjHGv6aqBIDiu0Z+4C5rxzmKiRLJl/quoyXJe5PZZlLmTPmwLBWXhCJLmQODPNpBifBivWGX5lg+zKrUzHPibKUT9vV0fI+BhINltK3XVsXtV3hVoEdrIXCjvokbt5bsXhIfPSfRttUbM8tMcUvAN/dNHjY+FY+XMi/mZCRRIw9lH2BvbfQ5uFanp/8SXEhT2FXyz1Jfowuy6re0q3LoNv9K04FiwlpelTMhQmVVqZuB5M8d3hDwMc215lmV5QpFTgD0rRZtWGgEbSVwQ9gHqS4iyA+gZ1lOOae8arRDcfREekIQhROw+ThJgbX4leiftTwlFNyY5yrTkQe2BQ9Y4EssBTfTzoLd1EyErpOjlTMxoGFCwm611EavEugP4kE+QAmPjxn9wuPxuOx0t/8AMp6acTSA6w4qiToTpaXeWuIw==;sLAKVR9qCgOETOPLoIoD1g=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/ai-in-insurance
 webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-insurance/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Datamation
       domain: datamation.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
         width: 2560

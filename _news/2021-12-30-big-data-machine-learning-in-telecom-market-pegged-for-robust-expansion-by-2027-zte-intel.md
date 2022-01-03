@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Building Market: Industry Regional Developments, Future Trends and Forecasts"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Building Industry from its research database Artificial Intelligence in Building Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Building Market currently"
+    publishedDateTime: 2022-01-03T10:58:00Z
+    webUrl: "https://www.openpr.com/news/2515621/artificial-intelligence-in-building-market-industry-regional"
+    ampWebUrl: "https://www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/V/1/V103998692_g.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Benchmarking AI Framework Market Offering New Study Visions for 2027 & COVID – 19 Analysis | CPU, Qualcomm Inc"
     excerpt: "The main objective of this Benchmarking AI Framework market research analysis is to discover the right opportunities provide right investment options and evaluate some actions to be taken for business growth It forecasts the competition level in the market for"
     publishedDateTime: 2021-12-30T13:45:00Z

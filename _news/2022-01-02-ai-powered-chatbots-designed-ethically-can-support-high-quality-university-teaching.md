@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
+    excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay."
+    publishedDateTime: 2022-01-03T14:20:00Z
+    webUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html"
+    ampWebUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 67
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg"
+        width: 1356
+        height: 668
+        isCached: true
   - title: "Utilizing AI Chatbots for Sensitive Healthcare Topics"
     excerpt: "University of Westminster and University College London collaborated to see if healthcare patients felt more comfortable discussing sensitive health issues with AI chatbots."
     publishedDateTime: 2021-12-30T18:10:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/1030862319-AdobeStock_313360233_AI_doctor_SUPERSIZE.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
-    excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and"
-    publishedDateTime: 2022-01-03T12:02:00Z
-    webUrl: "https://www.econotimes.com/AI-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching-1624317"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 47
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/202201034b765fd4fad6d7657_th_1024x0.jpg"
-        width: 496
-        height: 293
         isCached: true
   - title: "Chatbot Market Global Industry Trends and Growth Opportunities 2021-2026: Development of Self-Learning Chatbots to Adapt to Changing Digital Environme"
     excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global chatbot market exhibited strong growth during 2015-2020."

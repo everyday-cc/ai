@@ -2,6 +2,206 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-28-the-three-core-pillars-of-responsible-ai.md",
+      "title": "The Three Core Pillars Of Responsible AI",
+      "excerpt": "A good way to raise executive-level awareness around the benefits of responsible AI is to establish a set of best practices your company can follow that map back to these three core pillars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60d485278f05f9d68aa8b3e1%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/28/the-three-core-pillars-of-responsible-ai/amp/",
+      "publishedDateTime": "2021-12-28T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy.md",
+      "title": "Transforming Big Data Initiatives Into AI Insights: Board Directors And CEO’s Must Improve Their Digital Literacy",
+      "excerpt": "This blog focuses on strategies to transform enterprise data into strategic real-time AI driven insights, and outlines the requirements for Board Directors, CEOs and leadership teams to increase their data literacy management skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca1212809e5da36355466b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/",
+      "publishedDateTime": "2021-12-27T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-chinese-tech-company-baidu-says-artificial-intelligence-is-entering-a-golden-age-on-the-mainland.md",
+      "title": "Chinese tech company Baidu says artificial intelligence is entering a ‘golden age’ on the mainland",
+      "excerpt": "The company tells its annual developers’ conference, Baidu Create, that an expanding pool of talent is contributing to China’s AI development, with innovations in transportation, health care and space exploration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says",
+      "originalUrl": "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/28/caae92d2-6785-11ec-b7f8-afe79af1793e_image_hires_140747.png?itok=lQzGPHlG&v=1640671694",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T22:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-india-must-remain-practical-amid-politics-around-killer-robots.md",
+      "title": "India Must Remain Practical Amid Politics Around ‘Killer Robots’",
+      "excerpt": "Lethal Autonomous Weapons are systems that make their own decisions on who to kill, thus raising ethical questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thequint.com/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "originalUrl": "https://www.thequint.com/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thequint.com/thequint%2F2021-12%2F4a9b2ee4-42be-463d-a970-7e5d06ef108d%2Fhero_image_4__2_.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thequint.com/amp/story/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
+      "publishedDateTime": "2021-12-27T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Quint",
+        "domain": "thequint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-massachusetts-institute-of-technology-a-system-for-designing-and-training-intelligent-soft-robots.md",
       "title": "Massachusetts Institute of Technology: A system for designing and training intelligent soft robots",
       "excerpt": "Let’s say you wanted to build the world’s best stair-climbing robot. You’d need to optimize for both the brain and the body, perhaps by giving the bot some high-tech legs and feet, coupled with a powerful algorithm to enable the climb.",
@@ -572,6 +772,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-27-movendo-and-maragal-medical-partner-to-predict-the-fall-risk-of-older-adults-with-new-robotic-system-and-artificial-intelligence.md",
+      "title": "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence",
+      "excerpt": "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-the-robot-work-force-isnt-coming-its-already-here.md",
       "title": "The robot work force isn't coming. It's already here",
       "excerpt": "Retailers and restaurants are looking to robots and other technology to keep up with demand amid a labor crunch and booming online sales.",
@@ -956,231 +1199,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-artificial-intelligence-in-education-market-analysis-size-share.md",
-      "title": "Artificial Intelligence in Education Market Analysis, Size, Share",
-      "excerpt": "The global artificial intelligence in education market is expected to surpass US$ 4,340 million by 2027, growing at a CAGR of 31%. The primary market participants in the global artificial intelligence in education market include Amazon Web Services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm",
-      "originalUrl": "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.pr-inside.com/images/uploads/pr/2021/109014/20211227_ami_109014.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR-Inside",
-        "domain": "pr-inside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-chinas-byd-momenta-enter-venture-for-autonomous-driving-technology.md",
-      "title": "China's BYD, Momenta Enter Venture for Autonomous Driving Technology",
-      "excerpt": "China's BYD and autonomous driving startup Momenta have established a 100 million yuan ($15.7 million) joint venture to deploy autonomous driving capabilities across certain BYD car model lines, according to a Momenta statement and a person familiar with the matter.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2021-12-27/chinas-byd-momenta-enter-venture-for-autonomous-driving-technology",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-12-27/chinas-byd-momenta-enter-venture-for-autonomous-driving-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2021-12-27/chinas-byd-momenta-enter-venture-for-autonomous-driving-technology?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2021-12-27/chinas-byd-momenta-enter-venture-for-autonomous-driving-technology?context=amp",
-      "publishedDateTime": "2021-12-27T00:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-artificial-intelligence-chip-market-2021-will-record-massive-growth-trend-analysis-and-forecast-till-2028.md",
-      "title": "Artificial Intelligence Chip Market 2021 will Record Massive Growth, Trend Analysis and Forecast till 2028",
-      "excerpt": "Artificial intelligence AI chips are specialized silicon chips which incorporate AI technology and are used for machine learning AI helps in eliminating or minimizing the risk to human life in many industry verticals The need for more efficient systems for",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "originalUrl": "https://www.openpr.com/news/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc27270452_g.jpg",
-          "width": 737,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2511027/artificial-intelligence-chip-market-2021-will-record-massive",
-      "publishedDateTime": "2021-12-26T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-healthcare-artificial-intelligence-ai-market-global-outlook-forecast-2021-2026.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026",
-      "excerpt": "The global healthcare artificial i (AI) market was valued at USD 4.56 Billion in 2020 and is expected to reach USD 44.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
-      "originalUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFN3KUv92pUiA/article-cover_image-shrink_720_1280/0/1640584699270?e=1646265600&v=beta&t=NJFZ9MBZ46wpmQCKKHH9iE-Nkg81eoZOPikGjeSauBg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-aizen-creditconnect-new-paradigm-for-ai-banking.md",
-      "title": "AIZEN 'CreditConnect', New Paradigm for AI Banking",
-      "excerpt": "People can see the banking democratization trend, where bigtechs and fintechs present a new form of threat to traditional",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24776401/aizen-creditconnect-new-paradigm-for-ai-banking",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24776401/aizen-creditconnect-new-paradigm-for-ai-banking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/dccee0d5-78a0-4c6f-bf93-db8b36100510",
-          "width": 1380,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24776401",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24776401",
-      "publishedDateTime": "2021-12-26T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

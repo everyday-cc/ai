@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-14-ai-to-seed-sowing-bots-meet-the-team-teaching-24000-govt-school-kids-robotics.md",
+      "title": "AI to Seed Sowing Bots: Meet the Team Teaching 24000 Govt School Kids Robotics",
+      "excerpt": "There was a moment in 2018 when Payal Manan Rajpal, the founder of Robotex India realised what needed to be done. (Image above of government school",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
+      "originalUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://en-media.thebetterindia.com/uploads/2021/12/Robotex-India-Feature-1-1639488787.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-thebetterindia-com.cdn.ampproject.org/c/s/www.thebetterindia.com/268814/robotex-india-payal-rajpal-robotics-rural-underprivileged-students-innovation/amp/",
+      "publishedDateTime": "2021-12-14T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheBetterIndia",
+        "domain": "thebetterindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
       "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
       "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
@@ -1308,49 +1351,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-these-tiny-liquid-robots-never-run-out-of-juice-as-long-as-they-have-food.md",
-      "title": "These tiny liquid robots never run out of juice as long as they have food",
-      "excerpt": "When you think of a robot, images of R2-D2 or C-3PO might come to mind. But robots can serve up more than just entertainment on the big screen. In a lab, for example, robotic systems can improve safety and efficiency by performing repetitive tasks and handling harsh chemicals.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-tiny-liquid-robots-juice-food.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-tiny-liquid-robots-juice-food.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/these-tiny-liquid-robo.gif",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-tiny-liquid-robots-juice-food.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-tiny-liquid-robots-juice-food.amp",
-      "publishedDateTime": "2021-12-08T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -43,6 +43,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Telangana HC issues notice to govt over PIL challenging use of facial recognition tech"
+    excerpt: "The Telangana High Court has issued a notice to the state government on a public interest litigation (PIL) filed over the use of facial recognition in the state. The petition, filed by Hyderabad-based activist SQ Masood with the support of the Internet Freedom Foundation,"
+    publishedDateTime: 2022-01-03T13:09:00Z
+    webUrl: "https://www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432"
+    ampWebUrl: "https://www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 51
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_policing_rep_1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tag: Face Recognition Technology"
     excerpt: "On Dec. 17, 2021, Mayor London Breed declared “the existence of a local emergency” based upon a spike of overdose deaths in the Tenderloin, but to a trained eye it appears in its true colors as a coup d’état."
     publishedDateTime: 2022-01-01T06:22:00Z

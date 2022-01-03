@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Facial Recognition Door Access Solutions Market 2021 Industry Research, Business Growth, Future Investment and Emerging Trend to 2027"
+    excerpt: "The newest market analysis report namely Global Facial Recognition Door Access Solutions Market Growth (Status"
+    publishedDateTime: 2022-01-02T17:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-door-access-solutions-market-2021-industry-research-business-growth-future-investment-and-emerging-trend-to-2027-2022-01-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027 report by QYResearch Group. Energy-efficient Artificial Intelligence Chip market is segmented by region"
     publishedDateTime: 2022-01-03T06:04:00Z
@@ -54,6 +68,6 @@ related:
       domain: reportsnreports.com
     quality: 1
 
-secured: "pc9+rpDGAiIYLxWCO2RmxMZjZneHb8PSllQRhseCe9wW8pzjP1UlXCaaekrY8K7+/qX1wGdUoXU4dxem71mtCSLc358W0eHWGp2RL8o/AAFX1AoEZA7jzzR5BW/N95ZELT4Prgnrxk1OB3UgNYG9lAxfjwxl39fXEkE5rYZG8LIS8fUHkSgGqn/ffeMTqrydZHyCWyVDcXhnsEYy2SXrKI/XNyLjpkyP+rmyv97hRDHMWuz6/WJ3x3E4rlBKw79Ybd9qBtiYffOjyhaOFaUSlFBnOoprhHqOAyjuBYT/qfwFtD9X4O5IWjFnHH3jKqcV4iWzD9R5JIzsT0jr+XJdE68Dsl3VwPGFyUQnOZ5M+W8=;dPKKNC5+XhteMM7UFKvX7A=="
+secured: "c1Y/umyDd/6QR2ZQQpIJDiboJAtXzvLk0AIFhKGU5K7hiMIcfHYLJsKqAvwL4BUKvGez4YSSkJr2AIlTTd4PID25Qfppz1COex8Qf8lFiodgxwl0nXTk42Vlhs/T1zmp6gcW5QbLj0XzyPMzergKLJWXW+NX98lmgF8JXM5IEYiAHxPBcgo/oGkfV+VB56wkdXPnjMrp+QSMot84rSSoCZTKoK/4oVV7uOJAZGfMTaZkh5L8QsfAS9wVKEH6r0v5XidSfVK6whr0ryW/kbk1JCHEjHavbDdkhfYtpm9wh40eHYCwyUts6shQB2Y730w9AeWkY2KI50r1Wqv3t118KXY76jvMbla/Bg40V2Gz5KLSywhrTwWsQByb1I39elpAKZHUcgTS9OKqPpj9oLcj07LqzpomkLsouIiXsgINahCU5Cq0yrIlP1GMpCdhdR7GAM0TfYF4QGIVATE/PvBGRDBLLHmDYyJa+vO5LR7wTvRM2sZHUl2UACzxyiMc342JtVz/Q3QDWdQcM5bjX8XKjQ==;rhljdjJq7XxlSv9qq1K0CA=="
 ---
 

@@ -29,20 +29,49 @@ images:
     isCached: true
 
 related:
-  - title: "KBV Research: Increasing Government Initiatives to Help Drive Global AI Robots Market Growth"
-    excerpt: "A KBV Research report says the rise in the number of government initiatives to advance the development and adoption of artificial intelligence and robotics"
-    publishedDateTime: 2021-12-29T21:27:00Z
-    webUrl: "https://executivegov.com/2021/12/kbv-research-increasing-government-initiatives-to-drive-ai-robots-market-growth/"
+  - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
+    excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
+    publishedDateTime: 2022-01-03T11:08:00Z
+    webUrl: "https://www.openpr.com/news/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
     type: article
     provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 43
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
     images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2021/12/29/75/1b/db/92/f8/a8/1f/04/00P4y000019lelSEAQ-1.png"
-        width: 272
-        height: 270
+      - url: "https://cdn.openpr.com/V/1/V103933766_g.jpg"
+        width: 800
+        height: 320
         isCached: true
+  - title: "Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027 report by QYResearch Group. Energy-efficient Artificial Intelligence Chip market is segmented by region"
+    publishedDateTime: 2022-01-03T06:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5241734-global-and-japan-energy-efficient-artificial-intelligence-chip-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 21
+  - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
+    publishedDateTime: 2022-01-03T06:15:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5242220-global-and-united-states-face-recognition-turnstile-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
+  - title: "Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027 report by QYResearch Group. Lidar for Self-Driving Car market is segmented by region"
+    publishedDateTime: 2022-01-03T06:06:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5241872-global-and-china-lidar-for-self-driving-car-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 1
 
 secured: "vD2haUPidckILoL6zFTQ9rl1HO+hinjXJAy1HhceSTqHxsd9OwjY431thPTaurAIkz1gWF9+xBDwpXohU96rpICjPnBMMZYi24AyTeBgaYfwwAsrMWdRMvdl+F0nyyQG2sWJc4zZ2+7HBxxaUFkkpBq0e084P/xLteeYbpX2lNOsybA5YznJx6NwuKuobY0GqvqeroJZaM0dPFqh5Dq3YEMKBRaXBdjrg91Vv6GFZySGbUJpHnUaL3OVzrl+pNVHLWtnD2bwBv3xiKGC1P3zWyPHHFiYqF9Di0UIgYO3QqKtU8byXiorA30M43U+g997YFKrXJWN+7scQ2gZLyjYo/CidXwLT18VB1vetwhJtY4=;r53/fkOBjroMPOgupN7Qpg=="
 ---

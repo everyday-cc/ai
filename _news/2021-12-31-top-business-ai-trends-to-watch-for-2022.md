@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "What will applied AI look like in 2022?"
-    excerpt: "In 2022, applied AI is anticipated to further build on chips, health care, manufacturing, multimodal models, and large language models."
-    publishedDateTime: 2021-12-29T22:21:00Z
-    webUrl: "https://venturebeat.com/2021/12/29/what-will-applied-ai-look-like-in-2022/"
-    ampWebUrl: "https://venturebeat.com/2021/12/29/what-will-applied-ai-look-like-in-2022/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/what-will-applied-ai-look-like-in-2022/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1256603051-e1640794393590.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "2022 Trends in AI"
     excerpt: "As artificial intelligence (AI) has grown in popularity, we’ve seen it used in numerous applications to help organizations in a range of industries automate processes, make better-informed decisions,"
     publishedDateTime: 2021-12-30T20:22:00Z

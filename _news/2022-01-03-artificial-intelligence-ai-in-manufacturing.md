@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-03T10:00:00Z
 originalUrl: "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/"
 webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/"
 type: article
-quality: 54
-heat: -1
+quality: 56
+heat: 66
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
