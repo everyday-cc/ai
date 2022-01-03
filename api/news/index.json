@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-03-5-predictions-for-2022artificial-intelligence-and-machine-learning-will-go-mainstream.md",
+      "title": "5 predictions for 2022—artificial intelligence and machine learning will go mainstream",
+      "excerpt": "At the start of 2022, we bring you a series of episodes that pull together the five most interesting predictions we found in multiple areas in tech. In this episode, we focus on AI and machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/5-predictions-for-2022artificial-intelligence-and-machine-learning-will-go-mainstream/72685",
+      "originalUrl": "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/5-predictions-for-2022artificial-intelligence-and-machine-learning-will-go-mainstream/72685",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/audio/2022/Jan/forbesindiatechbriefingpodcast_800x600_logo.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-02T21:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-01-rumor-claims-intel-will-disable-avx-512-on-12th-gen-alder-lake-chips-but-why.md",
       "title": "Rumor Claims Intel Will Disable AVX-512 On 12th Gen Alder Lake Chips But Why?",
       "excerpt": "The saga of AVX-512 on Alder Lake has been an interesting one. Originally, folks reasonably assumed that the 12th-Gen Core processors would support AVX-512 extensions. After all, it was supported on the last-generation Rocket Lake chips,",
@@ -245,15 +288,15 @@
       ]
     },
     {
-      "path": "_news/2022-01-01-android-circuit-samsung-galaxy-s22s-new-ai-xiaomi-12-family-launched-surface-duos-android-update.md",
-      "title": "Android Circuit: Samsung Galaxy S22’s New AI, Xiaomi 12 Family Launched, Surface Duo’s Android Update",
-      "excerpt": "This week’s Android headlines; Samsung’s Galaxy S22 powerful AI, Galaxy S21 FE release dates, Xiaomi 12 family launch, Android 11 for the Surface Duo, details on the next Razr, a first look at Android 13 Tiramisu,",
+      "path": "_news/2022-01-01-android-circuit-samsung-galaxy-s22s-new-ai-xiaomi-12-launched-surface-duos-android-update.md",
+      "title": "Android Circuit: Samsung Galaxy S22’s New AI, Xiaomi 12 Launched, Surface Duo’s Android Update",
+      "excerpt": "This week’s Android headlines; Samsung’s Galaxy S22 powerful AI, Galaxy S21 FE release dates, Xiaomi 12 Pro launch, Android 11 for the Surface Duo, details on the next Razr, a first look at Android 13 Tiramisu,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-razr-tiramisu-surface-duo/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-razr-tiramisu-surface-duo/",
+      "webUrl": "https://www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-pro-razr-tiramisu-surface-duo/",
+      "originalUrl": "https://www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-pro-razr-tiramisu-surface-duo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -267,8 +310,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-razr-tiramisu-surface-duo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-razr-tiramisu-surface-duo/amp/",
+      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-pro-razr-tiramisu-surface-duo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-pro-razr-tiramisu-surface-duo/amp/",
       "publishedDateTime": "2021-12-31T09:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1163,49 +1206,6 @@
         "AI Ethics",
         "Microsoft AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-robotics-essential-to-the-oil-and-gas-industry.md",
-      "title": "Robotics essential to the oil and gas industry",
-      "excerpt": "Robot renting is expected to revolutionise the way oil & gas companies approach robotics, according to GlobalData.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
-      "originalUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dlgivnpf6gg8w.cloudfront.net/media/articles/pop/drone-tech-01.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
-      "cdnAmpWebUrl": "https://www-hydrocarbonengineering-com.cdn.ampproject.org/c/s/www.hydrocarbonengineering.com/gas-processing/30122021/robotics-essential-to-the-oil-and-gas-industry/amp/",
-      "publishedDateTime": "2021-12-30T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hydrocarbon Engineering",
-        "domain": "hydrocarbonengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

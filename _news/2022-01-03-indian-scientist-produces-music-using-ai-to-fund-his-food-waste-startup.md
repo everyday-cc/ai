@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.sg/indian-scientist-produces-music-using-ai-fund
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/indian-scientist-produces-music-using-ai-fund-his-food-waste-startup-62065"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 512
     height: 410
     isCached: true
+
+related:
+  - title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
+    excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pr"
+    publishedDateTime: 2021-12-30T11:22:00Z
+    webUrl: "https://menafn.com/1103463959/Indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre&source=25"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/updates/pr/2021-12/30/TNA_3764cimage_story.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "N42q0GauPs1umqv0f4ihC7tEzBuccE7KH7XT21TZ5W/x+QnFvvGSqnMjXbj4GV2VKbbAKmIUizzqMZSLkik7JlXSYJFcyUM6+9ffuxq3dcM8JzUmD+vLtimbQQidDzdDBm9NgFXxrCXx9LAOJAz6ZUSLzv+YTtIvtTJeUrx/dUcTonTg1EzmV690JBfjr6bvf/w0GYsgMtAqMgazFFrjoK/173Df950NjFgJXqZx/IKboiW2QFitZhJXa/gfjwvRBlH21exblbMEks/IQSJv44ufizddRemClDsmlS3hlJ6mDCM5tvKnWKsypXVXSnKz0VnncNCh5JatFu88B6tImMHtKVb5Z9KmOFzsufHaiOQ=;9e81qMQOU35uKAAxrKFfVQ=="
 ---

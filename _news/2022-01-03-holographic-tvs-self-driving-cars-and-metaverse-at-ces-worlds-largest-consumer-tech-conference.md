@@ -22,20 +22,18 @@ related:
   - title: "Metaverse, AI and and other big digital trends to watch in 2022"
     excerpt: "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,"
     publishedDateTime: 2022-01-01T14:57:00Z
-    webUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
-    ampWebUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904.amp"
-    cdnAmpWebUrl: "https://www-hulldailymail-co-uk.cdn.ampproject.org/c/s/www.hulldailymail.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904.amp"
+    webUrl: "https://www.plymouthherald.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
     type: article
     provider:
-      name: Hull Daily Mail
-      domain: hulldailymail.co.uk
-    quality: 59
+      name: Plymouth Herald
+      domain: plymouthherald.co.uk
+    quality: 39
     images:
-      - url: "https://i2-prod.stokesentinel.co.uk/incoming/article2262542.ece/ALTERNATES/s615/0_GettyImages-861148402.jpg"
-        width: 615
-        height: 409
+      - url: "https://i2-prod.stokesentinel.co.uk/incoming/article2262542.ece/ALTERNATES/s1200/0_GettyImages-861148402.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "mEj/Oie/1PRhyLjzB9YQNO3BQ4MoBJtvUsSYHPF/AKZZdT1cNWfh9z6yscyic9k8ATAiVtMi+5xd8UYaBX3xOQGM+Xb9PfILSYu1VGaSorymTkWDz1DKxeUH8VGyG0qdH11FYu+NiP1vgspRDEm2t2Su23Gs0E13vDvsGyF7q4nyJGU9h3MrNji929K7/B4Olz+FQd6KMYn/ITcQvFS6/gh9uGdBBFJtZuksYraWpkq46dToM4+bBbBWv0txHz7R+wwrDjCstcGeDanr54pRHQPCNAzQkTOCI6PczAwA6vGy4AnqYoAKpbkPDc9Fx4uK3OSLf+ZC3uRS0QTqFhEq4V/X7O8kWLDWjPM2QFuTUQ8=;JeEOqfh08yreJCvMFaCQSg=="
+secured: "COY5v70OWleVFDZUVwef6kO/NM9EOulIIZ0JhqmwDIUxgZEZBeP9omU4PNbXQdW2sPJl4lgfKom3rPSIkWzW+4e03vmF2dIQL0XHtP8WFsj2Dy38UenYyzae9TNqWKnyyzJ/wJYot/DK9EYOV7v9wLB2mIq+woC0yIs3rBrBFUWts0HfBnDtUwSlU8olliYX/HxOCz/My6n0gvgnTRjSp3Bdd/aWmGfkIYA7H3ggMYig/zFcd3U6ZAbAOVr6K3h9+Bb2oDSaPpzX+utUOBEp8MalbGQ2a7biNA+NIpnTNAnMd/toX+z7EMa2KGBwTAJRbhPsreYKYnRF0B7pMdT7IccyXkZahcu8jFiNdgmO8lHElmss7JlGtIL2NOefMIB8e8HbvuKW/riPvQwim1H54dHDrgnbV6Mlv/CIzP1bp1y4uj0nhf21/ZWuyThX3ks9ONlrWd0QdoGcAjxI5fE0WHnQ05DI8ugG2T35T445w6GC+rbihASSz9Bov5OAuh68Fy8js6LfIXTRmAL3hMu1uQ==;lyf7qB8Ao3tm576YENXQFQ=="
 ---
 

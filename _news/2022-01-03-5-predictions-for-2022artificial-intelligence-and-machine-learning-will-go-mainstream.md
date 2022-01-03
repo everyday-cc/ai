@@ -7,8 +7,8 @@ originalUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-po
 webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/5-predictions-for-2022artificial-intelligence-and-machine-learning-will-go-mainstream/72685"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Forbes India
@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
-secured: "WXKNlZMCbjtGXy0zhB9sqHUlka9NvzJlgJeOHz9yz3FICcRngeFFDo/nkFT6uAwKTKRvv1gLYCJwW10MYoK3mKYqtyhMKDGy7OiLH6QXTWWGY0jePeZ5rQztQXScZm62mRPz6RIDNi51v7jb0y+M9quIXa7pL/te3+f4qDV49g58SAeXHhGDG0N+w8znbpC5B0rCpA71wvoXlyQ62HDFWDlbEY5KsZvTsNUmW1RatKvyBe+drBhLCmf7uCHWxBB9/N1l1x2M5B0yBqfRxzTuEqmqqjWy9mUPj3sxqQh1y0rIyZASK3CaXcJS31r93/Av33Y1wjy2/PfZ2L5dHVvNUlhTKnrkCmt31K0mtU8zCNM=;jl+Yf8S4K6N0rEhynSl2mA=="
+related:
+  - title: "Top 5 Robotics trends and predictions for 2022"
+    excerpt: "Robotics is thriving in the tech-driven market to help industries boost efficiency in the workspace without any potential error. Robotics Trends and"
+    publishedDateTime: 2022-01-03T07:05:00Z
+    webUrl: "https://olisa.tv/top-5-robotics-trends-and-predictions-for-2022/"
+    type: article
+    provider:
+      name: olisa.tv
+      domain: olisa.tv
+    quality: 54
+    images:
+      - url: "https://i2.wp.com/olisa.tv/wp-content/uploads/2022/01/Robotics.jpg"
+        width: 900
+        height: 500
+        isCached: true
+
+secured: "CQU/h0p+HyM3IdsF1XHgD5+PkvJadzk44mDJuSl/KPmK8wXHosW+kPAgHrzB7YhGN/KXkxAmT9ZVQZ4sJE47ugOhqXiZLqoxE5GGktJMEvkVtQnm4PglXZVjVXC5/zTv3iqw7HwV9Ji7POclyFcq/72BJ613CNQ0IuiJIpk+0RdO/H0ZtpO99BbF0msjpzF4Dw3QWrhNvBcLE55iMe+BtimfM2+Gs6r3JFX/n02O5ldbXpKCvovK2qzV4EtjBKAb8Fap2TwnHYWb5JukaCMvko6v/d1T3tS7lJpQ/tjJPyNWxBIlVwdvoX4X2ox7DStIs0j70uod/0mP7CLssiBxsRNib/ieR60ixgI4G7nhSLJBw1Rx94oPVLajylTLaj6nHJTtAO+6tycru8FM29T+heVCAHk+4ZxYeYBhMuWCor8MpP7SbDiBQ69eOWHH3wupN+6/sn/1x3YA1PVMFGLD3/dZJgrrpYI6CrG0LH2Bnw2EZFrx7yKV8uMVQpjvxzE/lhtGdIR6rEZDzkPbY2PApA==;mxhBk8ZtY5MKlSgGwgTF/w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/education/army-sets-up-quantum-com
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/army-sets-up-quantum-computing-lab-ai-centre-at-engineering-institute-in-mhow-7697802/lite/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Army Sets Up New Quantum Computing Lab, Artificial Intelligence Centre. Details Here"
-    excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pradesh's Mhow."
-    publishedDateTime: 2021-12-29T15:48:00Z
-    webUrl: "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938"
-    ampWebUrl: "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 65
-    images:
-      - url: "https://c.ndtvimg.com/2021-12/imil18ks_indian-army-quantum-computing-lab_625x300_29_December_21.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Indian Army sets up New Quantum Computing Lab, artificial intelligence centre in MP’s Mhow"
     excerpt: "A Quantum computing laboratory and a centre for artificial intelligence at a military engineering institute in Mhow, Madhya Pradesh will carry out"
     publishedDateTime: 2021-12-30T06:10:00Z
@@ -58,43 +42,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Getting from here to there - Competing in the age of AI."
-    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
-    publishedDateTime: 2022-01-01T18:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
-        width: 756
-        height: 720
-        isCached: true
-  - title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
-    excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pr"
-    publishedDateTime: 2021-12-30T11:22:00Z
-    webUrl: "https://menafn.com/1103463959/Indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre&source=25"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/30/TNA_3764cimage_story.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Indian Army sets up Quantum, Artificial Intelligence Lab"
-    excerpt: "The Indian Army with the help of National Security Council Secretariat (NSCS) has established a Quantum and Artificial Intelligence Lab at Military College of Telecommunication Engineering in Madhya Pradesh's Mhow to spearhead research and training in this key developing field."
-    publishedDateTime: 2021-12-29T15:30:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20211229/3882486.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "/NnnpHuZRZRJhcp1haIGYIniHY8oTriybqy9vK3BTEOnhoJuY5PesdnYEkWks9yZmYnR4uipmbF6vP1zgNICBWq8pNbAMopwx+0pZ8N9wRyIS4F4o/QxCdTjfRz8joRjLG+UCRktPpuwl1gkiL8mLvo6VSVa/RCvejd4lgx6XGEHmufa6ii0KvfPC/O2LnOuKISnEYKlG1wi+zfJPfquYaxr8VRlBA0hnubKi1Xz0as2xeKY5+THrXsb21OvMhXVOluFB3lLt5Ka39to+8lVj6ZAdb6tnE02fAKmEgY7xg4rjnWBCVuBu0yqvxcyZ/l2zsxiMAOtIYsmPd7/cr8pQw8rUgJaxSkkrRCfNeHM+sQ=;TFx81umfQ7xLNyxFRbuIrA=="
 ---
