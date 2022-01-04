@@ -25,73 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "The future lies in AI"
-    excerpt: "It enables driverless vehicles and drones and autonomous ... Meanwhile worldwide spending on artificial intelligence (AI) systems is forecast to reach $35.8 billion in 2019, an increase of 44 ..."
-    publishedDateTime: 2022-01-01T13:01:00Z
-    webUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai"
-    ampWebUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
+  - title: "SoyNet to introduce AI accelerator at CES 2022"
+    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
+    publishedDateTime: 2021-12-31T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24847305"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24847305"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=caebb246-3f74-4d60-bfa8-8731bb4eefa4&function=cropresize&type=preview&source=false&q=75&crop_w=0.84296&crop_h=0.99999&x=0.07852&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The blurry image around AI"
-    excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
-    publishedDateTime: 2021-12-31T09:25:00Z
-    webUrl: "https://www.linkedin.com/pulse/blurry-image-around-ai-dhineshsunder-ganapathi"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
+  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022'"
+    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
+    publishedDateTime: 2022-01-04T09:48:00Z
+    webUrl: "https://menafn.com/1103480867/Avalanche-Computing-Launches-Revolutionary-Low-Code-AI-Tool-at-CES-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHOCklxwGhAMg/article-cover_image-shrink_720_1280/0/1640941427897?e=1646265600&v=beta&t=X72T924boTZVIMCv9zpSrL2wALNN4N7I7HJB3s306GI"
+      - url: "https://menafn.com/updates/pr/2022-01/03/PN_3bc7772a-0_Image_In_Body.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
+    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage"
+    publishedDateTime: 2022-01-03T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022/article_f48f0b1a-dec3-53ab-84f0-92c47fc09679.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 37
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/2d/e2db96ec-5423-5ca9-8f02-b0d434dc18c0/61d30947ed47a.image.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
+    excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
+    publishedDateTime: 2022-01-04T02:02:00Z
+    webUrl: "https://www.digitimes.com/news/a20220104PD202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20220104PD202_files/6_2b.jpg"
         width: 1280
-        height: 640
+        height: 853
         isCached: true
-  - title: "Getting from here to there - Competing in the age of AI."
-    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
-    publishedDateTime: 2022-01-01T18:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
+  - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
+    excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
+    publishedDateTime: 2022-01-03T18:38:00Z
+    webUrl: "https://www.glassmagazine.com/news/halio-inc-showcase-ai-controlled-smart-glass-ces-2022"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: Glass Magazine
+      domain: glassmagazine.com
     quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
-        width: 756
-        height: 720
+      - url: "https://www.glassmagazine.com/sites/gm/files/2021-11/Cover1_GM1121_900px.jpg"
+        width: 691
+        height: 900
         isCached: true
-  - title: "We Choose To Align AI"
-    excerpt: "Epistemic status: poetry \"We choose to go to the moon! We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard. Because that goal will serve to organize the best of our skills and energies."
-    publishedDateTime: 2022-01-01T20:16:00Z
-    webUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-align-ai"
-    type: article
-    provider:
-      name: LessWrong
-      domain: lesswrong.com
-    quality: 37
-    images:
-      - url: "http://www.todayifoundout.com/wp-content/uploads/2013/08/moonprint.jpg"
-        width: 596
-        height: 600
-        isCached: true
-  - title: "The Advent of Artificial Intelligence in US Retirement Services"
-    excerpt: "Artificial Intelligence (AI) has found its way to numerous applications in our daily lives. From customized social media feeds to personalized online shopping – it’s everywhere. The latest technological advancements in AI have made it possible to provide better user experiences leading to higher customer satisfaction."
-    publishedDateTime: 2022-01-01T02:02:00Z
-    webUrl: "https://www.tcs.com/bancs/insurance/blog-artificial-intelligence-in-us-retirement-services"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 17
 
 secured: "Fue5YVOna5QQLw2fKkTgveNbKhP5DRwpPdEtIyUkgDUHN2eStaZH9X8hWre1/h8TcDuDsWqt/ot9jvHxJSo16gaCt65Vw9mHtwRRM3ihe1JF1ZEnmUIRCFcXDttaj4A1hNqs2AuLOyZfQHrN7zrC+YBeZvYaz4TFu2oUGy/OEBltHN0f3lBxF527G+I3P7/f2lkynRx2RH2c+51YK5A7YuPiVES3thwp1cKQy4EwJxAVPHinH+vZC/Sl349YiADIgp5Dn7mweZ53yh3Aa+QlI8yyjX/g9ru/Evb281J/3UuFQ3VxZQy0WEqjFR5688+Qjg9FAl4GVJSfMfZp/l6pXquP7/PpZTxm2SUi9pdRDxw=;B0qL9QbnWa4SnRU+noH5pQ=="
 ---

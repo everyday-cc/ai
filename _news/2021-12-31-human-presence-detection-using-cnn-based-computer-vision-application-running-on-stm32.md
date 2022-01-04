@@ -87,6 +87,22 @@ related:
         width: 1070
         height: 579
         isCached: true
+  - title: "LG builds tech to start cars using facial recognition"
+    excerpt: "The technology will enable users to start their vehicles as well as make adjustments to control the vehicles through facial expressions and hand gestures."
+    publishedDateTime: 2022-01-04T12:24:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/7kfqy8/article38110437.ece/ALTERNATES/LANDSCAPE_615/LGfacialjpg"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "m2iILk1QyeeIoBEkMtJIRGzj5d2GGV3i1nv88uYx9apmyAejo3FkwiPPZNMm9PfiQAUxhH9kTHLUktlMjCffd4vkAVvUTavz9la+KwqbaUTynIWaF4A61Rdedi3JzbL4c1ac6WUpWOReTqdYC8l+ZaWHsLxSspSrb1U/Rn2MljpIZXvG6d7hOGmYugK0QEiGeNGtqmq9paRq5jwPTyrE84IXYhj5Dh7raAmYrNqssfCBJs4UT9CMY24UPXnbOvZROERvJuT45F7lUlhPNLFqjAQOrgizGmLcqyKDt515t9vRypbHX5YufG9+1dz3MYHYrg4clE+sKIiELKINsJxQP3saNGTVh13iDOj4++q9uM0=;mUc+s58KYnuYhGUZemI9Ww=="
 ---

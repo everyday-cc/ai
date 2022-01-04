@@ -77,6 +77,20 @@ related:
         width: 691
         height: 900
         isCached: true
+  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "byNCs8j6BSML7QFjzJ82XVeaJ1iE2dTdUAqrq9bsdhXu9BM2sNaVYrBgML5YPcqUw0mVYRYEpmV8tqXJ3WsmuyuB2ifanrKtVXl4JNtI6poqlz6WdrD9w+roQFRzn96+zpFgMlCS6i0xzDHM9O5aDQprW9pNlSm8CCcDAVieQvt1o+YLb9iNTO3Cm2ng/7l21YtUwqPXrbwRrjUxogTxoqVMLyBWJi5l80DiuvyRshW52J1SITXcwe5x807ZHpk3mUfnVWWQQ2nUZV/pP1P1AVSEsMHbyHbT/tHOm6DTD+Tj4+D8E3gXuEPkDhHs/4JjJcwXw7k8Gaw+XxmSF0boIGeoU7r41DfooOBKtFa3uQQ=;lB0nIgpMUJH75vkqdgWXwA=="
 ---

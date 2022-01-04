@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Khaleej Times
@@ -27,6 +27,45 @@ images:
     isCached: true
 
 related:
+  - title: "Understanding The AI Market"
+    excerpt: "Is the AI hype justified? It depends on who you ask. Artificial intelligence (AI) is populating different areas of the Gartner hype cycle. Chatbots? Disillusion. Machine learning? Great, but expectations have been lowered a bit."
+    publishedDateTime: 2022-01-04T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4714089da2fe280f7f974%2F0x0.jpg"
+        width: 1200
+        height: 776
+        isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market"
+    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering.The healthcare artificial intelligence market is expected to reach USD 44."
+    publishedDateTime: 2022-01-04T12:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-01-04/global-healthcare-artificial-intelligence-market-2021-to-2026-rising-investments-in-advanced-dru"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 54
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "The Market Is Greatly Underestimating C3.ai Stock"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With enterprise artificial intelligence software company C3.ai (NYSE:AI)"
+    publishedDateTime: 2021-12-31T21:54:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-market-is-greatly-underestimating-c3-ai-stock-1031072756"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "The blurry image around AI"
     excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
     publishedDateTime: 2021-12-31T09:25:00Z
@@ -55,43 +94,20 @@ related:
         width: 756
         height: 720
         isCached: true
-  - title: "We Choose To Align AI"
-    excerpt: "Epistemic status: poetry \"We choose to go to the moon! We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard. Because that goal will serve to organize the best of our skills and energies."
-    publishedDateTime: 2022-01-01T20:16:00Z
-    webUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-align-ai"
+  - title: "Contracting for AI in the Evolving Regulatory Landscape"
+    excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
+    publishedDateTime: 2022-01-04T12:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/01/04/contracting-for-ai-in-the-evolving-regulatory-landscape/"
     type: article
     provider:
-      name: LessWrong
-      domain: lesswrong.com
+      name: Law
+      domain: law.com
     quality: 37
     images:
-      - url: "http://www.todayifoundout.com/wp-content/uploads/2013/08/moonprint.jpg"
-        width: 596
-        height: 600
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
+        width: 768
+        height: 633
         isCached: true
-  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
-    publishedDateTime: 2022-01-03T14:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "The Advent of Artificial Intelligence in US Retirement Services"
-    excerpt: "Artificial Intelligence (AI) has found its way to numerous applications in our daily lives. From customized social media feeds to personalized online shopping – it’s everywhere. The latest technological advancements in AI have made it possible to provide better user experiences leading to higher customer satisfaction."
-    publishedDateTime: 2022-01-01T02:02:00Z
-    webUrl: "https://www.tcs.com/bancs/insurance/blog-artificial-intelligence-in-us-retirement-services"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 17
 
 secured: "cK5R88V2nNs5WXU3ScSK845O925r/SzUfvP25IaF35fouMBotT3Gn6BRaM/jh/sq0rXlSxiSynp97XugNefAHq+kOMbLPccb9viSUaIdDYovedduCxKLr78m1SPFk9V6fjGYZJiaKhi4iVVUT+n43tzRKpjxw7W9c2JHnojEkBJG/eZEsANZzPvgrX6bXLsqVtQY+5sJMAAEj+zdvQ6DYkdW2PTSytgzuQ1qJRB0pt4VdDwD09yUY9CL0jcXF9+5+f6Izb3QRQmFf7cmFuZ/kkNiKND7dLI9IUDjyRaPbWiLOE/PQW97XSOI7WNCm3YXM4PMug2uyTm5XrEsVKL/N7M2wFBw/6Bj2uIPabq34EA=;nKtiNggWt99GoPuI1TnbPQ=="
 ---

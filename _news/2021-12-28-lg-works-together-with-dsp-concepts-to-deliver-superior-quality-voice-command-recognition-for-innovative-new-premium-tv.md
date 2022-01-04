@@ -1,51 +1,26 @@
 ---
 category: news
 title: "LG works together with DSP Concepts to deliver superior quality voice command recognition for innovative new premium TV"
-excerpt: "LG chose DSP Concepts as their audio solutions provider. DSP Concepts used the Audio Weaver design platform to craft a custom solution for LG based on the renowned TalkTo audio front end. Because Audio Weaver makes it easy to design,"
-publishedDateTime: 2021-12-28T12:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084"
-webUrl: "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084"
+excerpt: "DSP Concepts, the creator of the Audio Weaver development framework that powers sound and voice functionality for many of the"
+publishedDateTime: 2021-12-28T11:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-301451148.html"
+webUrl: "https://www.prnewswire.com/news-releases/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-301451148.html"
 type: article
-quality: 30
-heat: -1
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1716992/65ART90.jpg"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1716992/65ART90.jpg?p=facebook"
+    width: 1485
+    height: 777
     isCached: true
 
-related:
-  - title: "LG taps DSP Concepts for voice command recognition"
-    excerpt: "LG Electronics has implemented DSP Concepts’ TalkTo audio front end for improved voice pick-up and speech recognition on its new LG Objet TV, the 65ART90."
-    publishedDateTime: 2021-12-29T08:46:00Z
-    webUrl: "https://www.rapidtvnews.com/2021122961811/lg-taps-dsp-concepts-for-voice-command-recognition.html"
-    ampWebUrl: "https://www.rapidtvnews.com/2021122961811/lg-taps-dsp-concepts-for-voice-command-recognition.amp.html"
-    cdnAmpWebUrl: "https://www-rapidtvnews-com.cdn.ampproject.org/c/s/www.rapidtvnews.com/2021122961811/lg-taps-dsp-concepts-for-voice-command-recognition.amp.html"
-    type: article
-    provider:
-      name: Rapid TV
-      domain: rapidtvnews.com
-    quality: 44
-    images:
-      - url: "https://www.rapidtvnews.com/images/2021/Dec_2021/lg-objet-tv-65art90-ces-screen.jpg"
-        width: 1485
-        height: 835
-        isCached: true
-
-secured: "LqiEYQhN0HuWL7CjbnL6ed5W3338ERJ4F8fESUHxv5nrAHJAi3R0XuZSli7h6afTKqAoQ1fZuySPYCjMzd+bFOExp0wfaO/6IefgxG+fD8TLr+Ckf1L0kTPlwjMAAk5UwCtYzMlnVFckDMrYo0ocIk170J6LLdGHKg0P/ucMk7huU0VaCu2bAKhCU8u2nzceYXv+46CvinVgiWO3ovf7Sfh4ZnbaxVUoK6fPeKp63W9IYHJoODyt9ytvCX/eKeD0vflmTJzIA+nffnpCk5EeRqlGb9zkQ2T0EF3gx7wQxq4VoCdoLvJfiajNhs1Jgi5149gNehQ+jUAyTwHF5msRp1Co/ewApSP1tAU2Jt+bVmKLbOIMSUfx5gSWtR99vJboVYAiFsfhyVWky2Da6taREg52pss4wqgS+xLZNEpBUVbjAT0HSQPf14ZhcfxylK4rQMgCYMtReFhduEqKJ9Ue86+2HYWV0nml2SfczsrvCyseXksqZov855Kt3ucmuBFdYatUQrVvc9Szif90Nqldxw==;uSN2DVTuEKCn5Orwe9dofQ=="
+secured: "9c9jvUWoNrYfIAO2/0puxQptLbNTk4DWm0GTCVSnnyg7le2cFyFLreVzG00ZuwlqiOcr2sBYyl9/gkndYCz7dlA1TcUaDj4dGThqPYyp8bqNJ3S+zw/gxbBQQsti1nrOsmXEpPxhu8cWCyMlGR/TJkoy55Hs5bYQinNdjeFGlSH1qO48V3M+2LvOjX030X9hN4SRIFFbdPEkHG3R3ppcQryQ9mFHr44ZVSdVZoJH4lKnllfRqoqUIDWvlTAiwg9LJV+/2jEpYOlw8UjhKzHfRSfjKhV5FrfjIL4CEnHsIQWMTdIWCf1vgnLjTAu/JSQJPk7AB3fl+hWWuzU1+JdyF8ML+COiVaF2URF5kTH+VMk=;w3LPOkRsPs3sfW3hlQaC/Q=="
 ---
 

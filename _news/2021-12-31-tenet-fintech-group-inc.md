@@ -109,15 +109,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
-    excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
-    publishedDateTime: 2021-12-30T19:23:00Z
-    webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "United Kingdom InsurTech Market Landscape 2021-2026 - InsurTech is Thriving in the UK, Having Spun Out of the FinTech Revolution"
     excerpt: "The \"United Kingdom InsurTech Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021-2026)\" report has been added"
     publishedDateTime: 2021-12-31T10:38:00Z

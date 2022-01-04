@@ -73,6 +73,22 @@ related:
         width: 1070
         height: 579
         isCached: true
+  - title: "LG builds tech to start cars using facial recognition"
+    excerpt: "The technology will enable users to start their vehicles as well as make adjustments to control the vehicles through facial expressions and hand gestures."
+    publishedDateTime: 2022-01-04T12:24:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/7kfqy8/article38110437.ece/ALTERNATES/LANDSCAPE_615/LGfacialjpg"
+        width: 615
+        height: 384
+        isCached: true
   - title: "Human presence detection using CNN-based computer vision application running on STM32"
     excerpt: "Designed to determine if a person is present in a given area, human presence detection technology is very useful for a wide range of applications spanning user interfaces, security and safety. It can also be used to actively manage energy consumption by ..."
     publishedDateTime: 2021-12-31T08:17:00Z

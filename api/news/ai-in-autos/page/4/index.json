@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-12-07-bulls-take-charge-as-omicron-concerns-ease.md",
-      "title": "Bulls take charge as Omicron concerns ease",
-      "excerpt": "Tech stocks climbed 5.6% in Europe, while the S&P information technology sector rose 3.5%, driving almost half of ... including JD.com Inc and Baidu Inc. Portfolio managers did not want to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://gazette.com/news/us-world/asia-stocks-bounce-from-one-year-low-china-gains-on-monetary-easing/article_29333c87-d1c5-55f3-88c5-81b48858801f.html",
-      "originalUrl": "https://gazette.com/news/us-world/asia-stocks-bounce-from-one-year-low-china-gains-on-monetary-easing/article_29333c87-d1c5-55f3-88c5-81b48858801f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/1/2d/12d1681b-ff09-503d-a9e6-edc87a647ab3/61aecb9669e4a.image.jpg?crop=800%2C420%2C0%2C56&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Gazette",
-        "domain": "gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-07-the-top-6-artificial-intelligence-plays-in-india.md",
       "title": "The Top 6 Artificial Intelligence Plays in India",
       "excerpt": "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible.",
@@ -1314,6 +1271,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027.md",
+      "title": "Self-driving Bus Market 2021: Industry Share, CAGR Status, Top Key Players, Geographical Region, Latest Development and SWOT Analysis 2027",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry. The global Self-driving Bus market was valued at USD million in 2020 and it is expected to reach USD million by the end of 2027,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027-2021-11-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-2021-industry-share-cagr-status-top-key-players-geographical-region-latest-development-and-swot-analysis-2027-2021-11-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T00:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Educat
 webUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -54,6 +54,17 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 57
+  - title: "AI Software Platforms Market Next Big Thing | Major Giants Cloudera, IPsoft, Uniphore"
+    excerpt: "A new research document is added in HTF MI database of 109 pages titled as AI Software Platforms Market Global Outlook and Forecast 2021 2027 with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players"
+    publishedDateTime: 2022-01-04T10:49:00Z
+    webUrl: "https://www.openpr.com/news/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    ampWebUrl: "https://www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "4fDhi14r4fD2l3edu3vG2TisdK7Z+MBmbuYg4YbB3wtFB2ztPmYPRd9iBhINJMoNoFYaa1WtV6YzSAH61ihiqTt+e1QTFkRiYuEjxiECilcNmsji+h7aFlcWZuygtLTJEF7GNXOLYQ8f1Ce+CLIMvJMUGzhsUsf1JkUFHSIvp650oyAnNDwLUt0r7CDmZJ6Sd/ZMvaBb1saaEP695+nGG7wRPYkU1HlZXMiACokePuTgosLOXVpyC0M7VzfxP/eIKQ/lo48aj9J60/z3glTpnV9JXNNXOgeGCK46+s1ikqi5lpYf9hqya6Gcl3T15hpmpLkk43f5dyb0Jhb89UUhQoClhN5hI4xWpUvpmM/WyMs=;4LdVech9PdFnE0b8SpO0OA=="
 ---

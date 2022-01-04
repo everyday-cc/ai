@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "5 predictions for 2022—artificial intelligence and machine learning will go mainstream"
-    excerpt: "At the start of 2022, we bring you a series of episodes that pull together the five most interesting predictions we found in multiple areas in tech. In this episode, we focus on AI and machine learning,"
-    publishedDateTime: 2022-01-03T05:11:00Z
-    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/5-predictions-for-2022artificial-intelligence-and-machine-learning-will-go-mainstream/72685"
+  - title: "The Danger of Leaving Weather Prediction to AI"
+    excerpt: "When it comes to forecasting the elements, many seem ready to welcome the machine. But humans still outperform the algorithms—especially in bad conditions."
+    publishedDateTime: 2022-01-04T12:00:00Z
+    webUrl: "https://www.wired.com/story/weather-forecasting-artifical-intelligence/"
+    ampWebUrl: "https://www.wired.com/story/weather-forecasting-artifical-intelligence/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/weather-forecasting-artifical-intelligence/amp"
     type: article
     provider:
-      name: Forbes India
-      domain: forbesindia.com
-    quality: 61
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://www.forbesindia.com/media/audio/2022/Jan/forbesindiatechbriefingpodcast_800x600_logo.jpg"
-        width: 800
-        height: 600
+      - url: "https://media.wired.com/photos/61bcfdf760b9d5dd7134793f/master/pass/The-Danger-of-Leaving-Weather-Prediction-to-AI.jpg"
+        width: 2400
+        height: 1350
         isCached: true
 
 secured: "uDCF7eH/E3fIvyr6GSp5/woVwYyHqt3auCYghoozHN/71xUz0mX8ornN3mkgKWgAb4LKN8RNj+gLnACvJ0I9crJ8+u2L5TfULNNcgS/DyMVhOzZWIqDbL1wYFsgaoB+DwwFJA5npnq52v+Xv5uFZmh8/lO9Uq3nHLi6gaBNejmwhYw4+t6AohPvRONk/gnvwRFz6nX+1y90s/VX/oDyqXwgQTg746h4sDQoEXr6EvVUiqFNC9TyfxbUrGWe9ou8pChZ75spToAGLaaWU71cMjZ0R6R/ttVYnCrNmfO6KK08c+9YySz8MmCK1Ysu8UJtdHWepoVhPJacxcRj/3lafmaqhzqIPS+0Q6LO7DP1juL5qwqAAyxEr2AiZzPhTLsYj9KLc/diKaj3MovI69fypNLbe600q7Y3wAKBjDHvflQJDQNVmsXMMOAKkRUD0kM/ZeYsycACT8vjAT8SJDxMkmxC7OTPpqvPLhH6Lkp1FtbyI9HC139bU0jSWmmsubs1Su4XkjQlYCikgtvjdq3cyfg==;BVkuWfyfFfEnfDrB6IUqLw=="

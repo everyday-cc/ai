@@ -2,6 +2,48 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-27-imagine-a-world-without-ai.md",
+      "title": "Imagine a world without AI",
+      "excerpt": "Artificial Intelligence is no more the future. It is already a part of practically every aspect of our lives. But AI depends heavily on AI models that..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88509489,imgsize-38988,width-1200,height-628,overlay-etcio/imagine-a-world-without-ai.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
+      "publishedDateTime": "2021-12-26T17:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-2021-in-review-out-with-jedi-in-with-jwcc.md",
       "title": "2021 in review: Out with JEDI, in with JWCC",
       "excerpt": "On the latest episode of The Daily Scoop Podcast, DOJ CIO Melinda Rogers, USASMDC Col. Samuel Glover and former Air Force Deputy CIO Bill Marion.",
@@ -1114,39 +1156,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-accenture-partners-with-bbva-on-artificial-intelligence.md",
-      "title": "Accenture Partners With BBVA on Artificial Intelligence",
-      "excerpt": "With this partnership, Accenture will collaborate with BBVA to develop the latter’s agility of operations, by harnessing the power of analytics and artificial intelligence. This will be carried out with Accenture’s AI-powered SynOps platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence",
-      "originalUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp",
-      "publishedDateTime": "2021-12-23T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

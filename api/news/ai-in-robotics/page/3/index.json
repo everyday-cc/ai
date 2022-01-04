@@ -402,61 +402,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
-      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
-      "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/402549",
-      "originalUrl": "https://www.entrepreneur.com/article/402549",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-402549.jpeg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Facebook AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-12-14-who-killed-the-robot-dog.md",
       "title": "Who Killed the Robot Dog?",
       "excerpt": "The robotic companion was once a dream of techno-utopianism, but has instead become a terrifying weapon. What happened?",
@@ -1365,6 +1310,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-transient-review-ps4-a-lovecraftian-story-set-in-a-cyberpunk-world-that-doesnt-do-either-one-justice.md",
+      "title": "Transient Review (PS4) – A Lovecraftian Story Set In A Cyberpunk World That Doesn’t Do Either One Justice",
+      "excerpt": "Transient is a Cyberpunk Lovcraftien horror story that is too confusing to follow and leaves a lot to be desired. Read our Transient PS4 review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psu.com/reviews/transient-review-ps4/",
+      "originalUrl": "https://www.psu.com/reviews/transient-review-ps4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.psu.com/wp/wp-content/uploads/2020/08/transient-ps4-news-reviews-videos.jpg",
+          "width": 1214,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Play Station Universe",
+        "domain": "psu.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

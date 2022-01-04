@@ -41,19 +41,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "2022 Trends in AI"
-    excerpt: "As artificial intelligence (AI) has grown in popularity, we’ve seen it used in numerous applications to help organizations in a range of industries automate processes, make better-informed decisions,"
-    publishedDateTime: 2021-12-30T20:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/2022-trends-ai-lumiata"
+  - title: "Top AI Trends of 2022"
+    excerpt: "If you have followed my writing over the last few years, you know that I'm obsessed with business, technology and A.I trends."
+    publishedDateTime: 2022-01-04T11:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-ai-trends-2022-michael-spencer-"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 39
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHUvV4fLmLrwg/article-cover_image-shrink_600_2000/0/1640895648356?e=1646870400&v=beta&t=e_0K6Y5A6z6y6L03v3QhL7DBl4jAmY_2wWQDOX57MHo"
-        width: 705
-        height: 377
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHo9TTRzwYcJg/article-cover_image-shrink_600_2000/0/1641293176916?e=1646870400&v=beta&t=MQe5VoKVFAESQpziWxHr97keZisMvYKA7_4RfdJLc50"
+        width: 958
+        height: 539
         isCached: true
 
 secured: "zjbvhpo/JIx8Uv/WBa75775hpL/eAyjOjHcQJtLM3FIEhyZ5uUaoo4rd43pDhURhbFH/BBJc2BDDx2irk7kVlraH7ySLJpv8meV9yx0vY/kiw5m/fdGhHfu+C65rpKCgFXe1g1KTvSt13V00xdRggaQMeGsNSgyM+zbDyqCmTzq5sqY17ime2qGXCLfvtab4qIM8gmDRjQxj0yPkbyxYtj3iatoz8ohKE6gs+7BA+ZHrsPlVXmIiSvKfxFb/FQL/lHahkzvHBOqkRJcApqT07MikYyorCg6FyRmKPumcP/jKDdveNnCHyjhXb16irvTFn12iYQR+hl5nDdTwGWt54VrrWqdMcItY5hYqVAPqbZY=;PLBmqDsCoIMuDaat3bvwBw=="

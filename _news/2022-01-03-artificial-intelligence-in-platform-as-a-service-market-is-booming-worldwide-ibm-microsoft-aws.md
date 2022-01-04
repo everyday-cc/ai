@@ -52,6 +52,17 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "AI Software Platforms Market Next Big Thing | Major Giants Cloudera, IPsoft, Uniphore"
+    excerpt: "A new research document is added in HTF MI database of 109 pages titled as AI Software Platforms Market Global Outlook and Forecast 2021 2027 with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players"
+    publishedDateTime: 2022-01-04T10:49:00Z
+    webUrl: "https://www.openpr.com/news/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    ampWebUrl: "https://www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "X0v3k+MP0SLjznducrkrYkyUAjQjmF9+8DK+SqQaxWTPqb4ExxN99ZjtPllEcFjUtRBmQQpvWSFFkNcBG8WjkXRlpUD2LqxnAeyg42YlTjIbSAtIuGREAHiFQxa9o+6dLivxrhCgiSvWQqU8f3AMHVi2zKWkUQRvkpN3e6quqPI+S7XEJGt+XxYP+bFkitDO5egpnnjSHO+jzWJXfoZUrQPCUszFugsQcdsuFsvlIxj5RTibuwAdlnBIiqlUnqQnPr+A7AKrxWgM5ghsZ2/18ahd3kScTL0iiL7pMxMo+zRzQQPm/+ZMox7izcVXiTmphoYXKlxp18GiZPp9mdOpPSfSSDDFQiZkj9sdOeOre3Q=;wZxPbfkJSSv07yk3ujo9lw=="
 ---

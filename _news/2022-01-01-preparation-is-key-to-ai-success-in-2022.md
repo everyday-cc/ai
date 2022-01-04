@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "2022 Trends in AI"
-    excerpt: "As artificial intelligence (AI) has grown in popularity, we’ve seen it used in numerous applications to help organizations in a range of industries automate processes, make better-informed decisions,"
-    publishedDateTime: 2021-12-30T20:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/2022-trends-ai-lumiata"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHUvV4fLmLrwg/article-cover_image-shrink_600_2000/0/1640895648356?e=1646870400&v=beta&t=e_0K6Y5A6z6y6L03v3QhL7DBl4jAmY_2wWQDOX57MHo"
-        width: 705
-        height: 377
-        isCached: true
   - title: "Top 10 Artificial Intelligence Stocks Set for a Bull Run in 2022"
     excerpt: "Investors should be aware of the top ten artificial intelligence stocks that are set for a bull run in 2022. AI-based companies are determined to provide highly profitable AI stocks for bull run."
     publishedDateTime: 2022-01-03T09:00:00Z
@@ -57,6 +43,20 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2022/01/Top-10-Artificial-Intelligence-Stocks-Set-for-a-Bull-Run-in-2022.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Top AI Trends of 2022"
+    excerpt: "If you have followed my writing over the last few years, you know that I'm obsessed with business, technology and A.I trends."
+    publishedDateTime: 2022-01-04T11:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-ai-trends-2022-michael-spencer-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHo9TTRzwYcJg/article-cover_image-shrink_600_2000/0/1641293176916?e=1646870400&v=beta&t=MQe5VoKVFAESQpziWxHr97keZisMvYKA7_4RfdJLc50"
+        width: 958
+        height: 539
         isCached: true
 
 secured: "Xo3MRa8i/SWFWrxxRB37a3K+ts5SgxJw8olV+nKyOqpn5OXIdLbpBwFIuv52CihCevElvBvX0jlD1t7T0/cLfdgfRTDJXkk3HsXK2X1NdW67TM8Dqma3OwftkFjskXpQAMj2zHHft1Ch7Fysdf+ZLy0wCOnZshMorpBFN6ZA8TSHBE9U18tXYLRMkvThGBYbIbGsHFA+FjVkhs5xBlnhunpwI0TpNH8nTeeptAxJesU607g5PZIpCS7Q7QJELqw5TDXPd2t2cmb5Bll31xd15ZAVBmMt3XYOAVBveLFj0UxMaj56q5SLRD5KvIqO6A3q3Fr3d2YcvCNfkVo6ttEE9G8M+Py16cX/emX22Ps3SYMhZFBezU1A80V6guqULPw7Tf8kWLC4DDi+p7D76j8KKdn0XPQvpAVP4ZambF4o/oKyAYqgWTI+91k6BNXRG1Uon3Nl0jdfmt60Al+UaX/0OvwgW3TLwX7W1wITEX368Jl77ZHGW5gNhfuaDbKHDdN/wleTonJe4cT6/v3TQ7SUEQ==;tlEifxtcPaIXBzy8/VdFag=="

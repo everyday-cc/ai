@@ -7,7 +7,7 @@ originalUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-ali
 webUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-align-ai"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,75 +22,6 @@ images:
     width: 596
     height: 600
     isCached: true
-
-related:
-  - title: "The future lies in AI"
-    excerpt: "It enables driverless vehicles and drones and autonomous ... Meanwhile worldwide spending on artificial intelligence (AI) systems is forecast to reach $35.8 billion in 2019, an increase of 44 ..."
-    publishedDateTime: 2022-01-01T13:01:00Z
-    webUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai"
-    ampWebUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=caebb246-3f74-4d60-bfa8-8731bb4eefa4&function=cropresize&type=preview&source=false&q=75&crop_w=0.84296&crop_h=0.99999&x=0.07852&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The blurry image around AI"
-    excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
-    publishedDateTime: 2021-12-31T09:25:00Z
-    webUrl: "https://www.linkedin.com/pulse/blurry-image-around-ai-dhineshsunder-ganapathi"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHOCklxwGhAMg/article-cover_image-shrink_720_1280/0/1640941427897?e=1646265600&v=beta&t=X72T924boTZVIMCv9zpSrL2wALNN4N7I7HJB3s306GI"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Getting from here to there - Competing in the age of AI."
-    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
-    publishedDateTime: 2022-01-01T18:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
-        width: 756
-        height: 720
-        isCached: true
-  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
-    publishedDateTime: 2022-01-03T14:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "The Advent of Artificial Intelligence in US Retirement Services"
-    excerpt: "Artificial Intelligence (AI) has found its way to numerous applications in our daily lives. From customized social media feeds to personalized online shopping – it’s everywhere. The latest technological advancements in AI have made it possible to provide better user experiences leading to higher customer satisfaction."
-    publishedDateTime: 2022-01-01T02:02:00Z
-    webUrl: "https://www.tcs.com/bancs/insurance/blog-artificial-intelligence-in-us-retirement-services"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 17
 
 secured: "OyVSlY62SqbiYOPYL7NzREdQVyUkQ5DqYWjSebZDp4I6qGMoCc2ubmn6zg+qkVXdssz97Jv1tYpt9U98bEFVy9637PS//qDLlJMFpTtuMigqUrqhrFcTLiXM4dIc0RT272XnNgBGz5gHWv82UHcTnOoBLQETHiyh2FAyuKNbOno7T3hQ5f22AcQiHBgdNdVV9mHkrywAyIMTdK4AkfJdITZuuzVzB4CP1m2hli7cV6D5KsPQSh6r5a+RyCHiMwEGlODt44ezme459DSJswDkibI9UankBJxZRQjlZSwzhKdQhd8kIRg2/0VidPtpwBANerUK32Q4ZlpDVrEPfh9NRGX9W4W/qH+0j8ouC7Iyb99WygSgDLV5cnILKq43WwuvC2iOTnmzAlgv/F48qBbOv1WKH3EU/Gi9v3T0DVKnAnMclgXceR6UCsjQfeZH9VGmWZ2eRTMQsHE7SQlc0ph/AhbHT9ZVRodAUdsO+jIidM23WQnhmlYbIzIdG86VVoFp7br9NFZYpLYF+1wV2ZV5Iw==;x+Qzjn5JlBKb4OHPzcAEDQ=="
 ---

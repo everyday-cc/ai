@@ -105,15 +105,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech Surge Expected to Continue in 2022 within the Payments Industry"
-    excerpt: "The global B2B payments landscape has undergone a metamorphosis in the wake of the COVID-19 pandemic, beyond a predictable decline in cash usage and shifting preferences towards electronic and e-commerce transactions."
-    publishedDateTime: 2021-12-30T19:23:00Z
-    webUrl: "https://www.finextra.com/blogposting/21506/fintech-surge-expected-to-continue-in-2022-within-the-payments-industry"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
     publishedDateTime: 2021-12-31T07:45:00Z

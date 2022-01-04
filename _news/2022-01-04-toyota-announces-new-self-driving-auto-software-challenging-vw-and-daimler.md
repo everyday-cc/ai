@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announce
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Toyota to launch self-driving-capable operating system, report says"
+    excerpt: "The system, which would be capable of handling advanced operations such as autonomous driving, will compete against platforms from VW and Daimler."
+    publishedDateTime: 2022-01-04T08:32:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-launch-self-driving-capable-operating-system-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Toyota%20automated%20behind%20wheel%20web_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "K0JNgzuZwHdEMCPigofhZc7+tokECDvddVjRCQtH7JADsROBXcDlalB8g7c9S188cWBoAhxxkDD9BpGFOFGzruny7GoLHPqsONIckYW4E196DDk52CXoaXcuDfkUO2XzylJ74Tjn+ZAdRVYAVIJaB6Br74QPHS484A8xV6gbGcVDzC2ndASJTBf9s8I8Or98gmd6ZBPisDcfZG6d9y8mY897clZO3MhN9OUEUAZdu6JXjgEHJW2V5Z4RzSjw/8iw3LgO99gk1l8QaADccX9Rty2gy0knvvttBAtPYWQZeKEeoYQ+RE57MTvDITyuxzhOo6y8LRG6VnVJi6U37lJJz9NPZH+SMANAoWN8jo1M0/KfNDgFedr/6Qc8fNLsF0hBHtM/Hom+R9UZVNRqg1PhQtFdjthtey4/O00h24r1uLWfbPO4SnYRwW/hkrDCDmustdSZ/aeB2FyOPGpB1Y26WPpvFKNdm5AJMVQYB0hmGWgR9ZPHTuUVJQn6qZe+kj4Ar/8h0a43SzTS6tv0LYugaw==;+yNHUD5lxPWx0MmEUPOu5Q=="
 ---

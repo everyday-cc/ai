@@ -2,6 +2,135 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-12-17-commerceai-expands-platform-availability-with-launch-into-microsoft-azure-marketplace.md",
+      "title": "Commerce.AI Expands Platform Availability With Launch Into Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to Commerce.AI, giving companies and their teams an easy way to leverage the power of unstructured data to build next-generation customer experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-d6899c2eb4b750d1aeab4f1b3546fb66",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-d6899c2eb4b750d1aeab4f1b3546fb66",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-education-partnership-to-improve-artificial-intelligence-practices.md",
+      "title": "Education Partnership To Improve Artificial Intelligence Practices",
+      "excerpt": "Partnering with Carnegie Mellon University, Moderna will launch an AI Academy to educate employees on best practices.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/education-partnership-to-improve-artificial-intelligence-practices",
+      "originalUrl": "https://healthitanalytics.com/news/education-partnership-to-improve-artificial-intelligence-practices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/Code_data-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/education-partnership-to-improve-artificial-intelligence-practices",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/education-partnership-to-improve-artificial-intelligence-practices",
+      "publishedDateTime": "2021-12-17T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-cloud-natural-language-processing-market-research-report-and-forecast-to-2028-3m-company-apple-amazon-webrvices.md",
+      "title": "Cloud Natural Language Processing Market Research Report and Forecast to 2028 3M Company, Apple, Amazon Webrvices",
+      "excerpt": "Natural Language Processing (NLP) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-research-report-and-forecast-to-2028-3m-company-apple-amazon-webrvices",
+      "originalUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-research-report-and-forecast-to-2028-3m-company-apple-amazon-webrvices",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2021/12/Cloud-Natural-Language-Processing.jpeg",
+          "width": 600,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-five-ways-ai-improves-brand-marketing-roi.md",
       "title": "Five Ways AI Improves Brand Marketing ROI",
       "excerpt": "AI does more than provide valuable data to inform your digital strategy or improve user experience; it reduces the time necessary to effect real change in your bottom line.",
@@ -986,144 +1115,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science.md",
-      "title": "Univ. of Washington AI protein folding discovery wins ‘Breakthrough of the Year’ award from Science",
-      "excerpt": "DeepMind published its approach in Nature the same week, and released its method to the scientific community. “Now structures can be obtained for samples that defy experimental methods ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/",
-      "originalUrl": "https://www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science/amp/",
-      "publishedDateTime": "2021-12-16T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-motherandroid-review-what-to-expect-when-youre-expecting-during-a-robot-uprising.md",
-      "title": "‘Mother/Android’ Review: What to Expect When You’re Expecting During a Robot Uprising",
-      "excerpt": "A young couple with a baby on the way tries to flee to safety after androids have gone rogue and decided to wipe out the human race.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "originalUrl": "https://www.wsj.com/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-452886/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mother-android-hulu-chloe-grace-moretz-algee-smith-mattson-tomlin-11639694880",
-      "publishedDateTime": "2021-12-16T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata.md",
-      "title": "US Energy Department tests new smart grid chip from Nvidia, Utilidata",
-      "excerpt": "The Department of Energy is aiming to use the chip to scale and commercialize its power flow optimization technology, allowing for more resources like electric vehicles and solar panels to connect to smart grid operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "originalUrl": "https://www.zdnet.com/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/us-energy-department-tests-new-smart-grid-chip-from-nvidia-utilidata/",
-      "publishedDateTime": "2021-12-16T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

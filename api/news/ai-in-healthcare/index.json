@@ -1287,61 +1287,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
-      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
-      "excerpt": "The continuous research and innovation in the AI field and across all industry verticals will boost the associated mutual funds further.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/402549",
-      "originalUrl": "https://www.entrepreneur.com/article/402549",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-402549.jpeg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Facebook AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2021-12-14-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-predictive-of-response-in-aml-patients.md",
       "title": "Cellworks Personalized Therapy Biosimulation Study Identifies Novel Biomarkers Predictive of Response in AML Patients",
       "excerpt": "Cellworks Group, Inc., a world leader in Personalized Medicine in the key therapeutic areas of Oncology and Immunology, today announced results from a clinical study using the Cellworks Biosimulation Platform and Computational Omics Biology Model (CBM) to predict therapy response for individual Acute Myeloid Leukemia (AML) patients were featured in a poster presentation at the 63rd American Society of Hematology (ASH) Annual Meeting and Exposition held December 11-14,",
@@ -1358,6 +1303,40 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-14T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-mycare-023-finds-cellworks-personalized-biosimulation-a-stronger-predictor-of-therapy-response-for-aml-patients-than-physician-prescribed-treatment.md",
+      "title": "myCare-023 Finds Cellworks Personalized Biosimulation a Stronger Predictor of Therapy Response for AML Patients than Physician Prescribed Treatment",
+      "excerpt": "Cellworks Group, Inc., a world leader in Personalized Medicine in the key therapeutic areas of Oncology and Immunology, today announced results from the myCare-023 clinical trial, which found that the Cellworks Biosimulation Platform with its Therapy Response Index (TRI) reliably predicts complete response (CR) and overall survival (OS) for individual Acute Myeloid Leukemia (AML) patients beyond physician prescribed treatment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-mycare-023-finds-cellworks-personalized-biosimulation-stronger-predictor-/2021/12/14/9510686.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mycare-023-finds-cellworks-personalized-biosimulation-stronger-predictor-/2021/12/14/9510686.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T05:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
