@@ -2,6 +2,104 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-10-how-machine-learning-is-changing-finance-forever.md",
+      "title": "How Machine Learning is Changing Finance Forever",
+      "excerpt": "Innovation drives things forward no matter the industry that is on the receiving end. In finance, innovation over the last decade has seen how financial institutions, banks, and lenders interact with their customers and provide financial services change exponentially.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/how-machine-learning-is-changing-finance-forever/",
+      "originalUrl": "https://techbullion.com/how-machine-learning-is-changing-finance-forever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/12/How-Machine-Learning-is-Changing-Finance-Forever.jpeg",
+          "width": 1200,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/how-machine-learning-is-changing-finance-forever/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-machine-learning-is-changing-finance-forever/amp/",
+      "publishedDateTime": "2021-12-09T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-brainbox-ai-brings-machine-learning-to-building-controls.md",
+      "title": "BrainBox AI brings machine learning to building controls",
+      "excerpt": "BrainBox AI focuses primarily on controlling HVAC systems, which accounts for the majority of the energy consumption in most buildings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
+      "originalUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
+      "publishedDateTime": "2021-12-09T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-instabase-adds-deep-learning-to-make-sense-of-unstructured-data.md",
       "title": "Instabase adds deep learning to make sense of unstructured data",
       "excerpt": "Instabase hopes to help businesses benefit from unstructured data with the help of some good, old-fashioned AI",
@@ -1345,93 +1443,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
-      "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
-      "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24428632",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24428632",
-      "publishedDateTime": "2021-12-03T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year.md",
-      "title": "Computing Security Awards 2021: Heimdal™ Wins AI and Machine Learning-Based Security of the Year",
-      "excerpt": "We are delighted to announce that Heimdal™ secured first place in the AI and Machine Learning-Based Security of the Year category at the Computing Security Awards 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/",
-      "originalUrl": "https://heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://heimdalsecurity.com/blog/wp-content/uploads/Computing-Security-Awards-Heimdal™s-prize-social-media-image.png",
-          "width": 698,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/amp/",
-      "cdnAmpWebUrl": "https://heimdalsecurity-com.cdn.ampproject.org/c/s/heimdalsecurity.com/blog/computing-security-awards-2021-heimdal-wins-ai-and-machine-learning-based-security-of-the-year/amp/",
-      "publishedDateTime": "2021-12-03T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Heimdal Security",
-        "domain": "heimdalsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

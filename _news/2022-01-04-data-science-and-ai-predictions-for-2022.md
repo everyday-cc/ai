@@ -40,6 +40,20 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "The Challenges of Pruning AI Models on the Edge"
+    excerpt: "In this special guest feature, Nick Romano, CEO, Deeplite, discusses how struggling to fit advanced models in edge devices with limited resources forces deep learning teams to start “pruning” models – essentially trimming parts of it that are deemed not critical,"
+    publishedDateTime: 2022-01-04T14:00:00Z
+    webUrl: "https://insidebigdata.com/2022/01/04/the-challenges-of-pruning-ai-models-on-the-edge/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
+        width: 252
+        height: 355
+        isCached: true
 
 secured: "uDCF7eH/E3fIvyr6GSp5/woVwYyHqt3auCYghoozHN/71xUz0mX8ornN3mkgKWgAb4LKN8RNj+gLnACvJ0I9crJ8+u2L5TfULNNcgS/DyMVhOzZWIqDbL1wYFsgaoB+DwwFJA5npnq52v+Xv5uFZmh8/lO9Uq3nHLi6gaBNejmwhYw4+t6AohPvRONk/gnvwRFz6nX+1y90s/VX/oDyqXwgQTg746h4sDQoEXr6EvVUiqFNC9TyfxbUrGWe9ou8pChZ75spToAGLaaWU71cMjZ0R6R/ttVYnCrNmfO6KK08c+9YySz8MmCK1Ysu8UJtdHWepoVhPJacxcRj/3lafmaqhzqIPS+0Q6LO7DP1juL5qwqAAyxEr2AiZzPhTLsYj9KLc/diKaj3MovI69fypNLbe600q7Y3wAKBjDHvflQJDQNVmsXMMOAKkRUD0kM/ZeYsycACT8vjAT8SJDxMkmxC7OTPpqvPLhH6Lkp1FtbyI9HC139bU0jSWmmsubs1Su4XkjQlYCikgtvjdq3cyfg==;BVkuWfyfFfEnfDrB6IUqLw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2021/12/japanese-manufacturers-to-play-cat
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/japanese-manufacturers-to-play-catch-up-to-tesla-and-others-with-self-driving-tech/amp/"
 type: article
 quality: 53
-heat: -1
+heat: 53
 published: false
 
 provider:
@@ -25,40 +25,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Crashing The Self-Driving Party Of Tesla & Co."
-    excerpt: "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom."
-    publishedDateTime: 2021-12-30T22:55:00Z
-    webUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/"
-    ampWebUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce44219eeac3a2a090a845%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2735%26cropY1%3D0%26cropY2%3D1537"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Crashing The Self-Driving Party Of Tesla Et al."
-    excerpt: "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom."
-    publishedDateTime: 2021-12-30T22:55:00Z
-    webUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/"
-    ampWebUrl: "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce44219eeac3a2a090a845%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2735%26cropY1%3D0%26cropY2%3D1537"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "c1vHOtSf0Bk4LeUVMV7QJG9DEpgfwR+vkndksom5o/gz50blsXuaXv7rd3Q3fJSV9MlVU63p+AOiU39YxMfhd73BNpE9JfPDz0ooHr8YinKqULWwxv18G2oNBYeVW9hEoGcy5dpm6/5eGfwNLfUFC6xr9M+tLzF63N5UtEzs19k1TTN1rBkOB+xa6otltAvZuGI3G8FbaO7H7YLTBTR8eX0nRiqwmS8GiHjOMQVEMyEviC7zGpJJWrKG0kjjUTM/51FWOqjWDxYoYUIZQA3y9FMLc3oqcvywNO923UVLMrhtqbF+LqWhUhSLIXAaIIOkKiYwy+oJiBQqM2PFwFGj8o52e01AJeLyr2cnhyF47RW7+fYeYMQzkQF4crFhCZshi009teIr2mAcvzDnGfHXgrkgllXpyo8myiW44tyitBZ8x34lnxeuFKrbynZ+k3n3G6bEmRCqF+e6rq+1+WTFxYOK4LbQoFqFcaLwhvmX+jHC+UKewv13QUIS3UqhVI31Pby/JyqUjg8AhOtDo4+kPg==;Wp0UTyH28ucDpH7ywjw/EA=="
 ---

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "MeetKai Inc. is the First to Deliver a Series of AI-Powered VR Experiences in MeetKai’s Metaverse"
+    excerpt: "MeetKai [  ], the next-gen conversational AI company, today unveils its first lifestyle VR world: MeetKai Metaverse,"
+    publishedDateTime: 2022-01-04T13:13:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-36de330fb1eb9da759c25ed7b9167d15"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Holographic TVs, self-driving cars and metaverse at CES, world’s largest consumer tech conference"
     excerpt: "The art of prediction increases in difficulty further when it is technology trends that are being forecast and thats before factoring in this very unusual year."
     publishedDateTime: 2022-01-03T06:09:00Z

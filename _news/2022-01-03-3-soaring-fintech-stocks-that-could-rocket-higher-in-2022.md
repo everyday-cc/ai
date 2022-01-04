@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-so
 webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
 type: article
 quality: 54
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech Led VC Investment Last Year. Here’s What To Look For In 2022"
+    excerpt: "Financial services was the leading sector for venture investment in 2021 with $134 billion invested, marking a whopping 177 percent year-over-year growth. That compares with overall global venture capital investment,"
+    publishedDateTime: 2022-01-04T13:30:00Z
+    webUrl: "https://news.crunchbase.com/news/fintech-startup-vc-forecast-2022/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 24
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Forecast_digest-2.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "TENET FINTECH GROUP INC"
     excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"

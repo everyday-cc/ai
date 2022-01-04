@@ -50,6 +50,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The future of medtech goes beyond Microsoft’s AI creep"
+    excerpt: "If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.7bn last April. Nuance is a UK based speech-recognition company best known for having provided the speech recognition engine that powers Siri,"
+    publishedDateTime: 2022-01-04T14:20:00Z
+    webUrl: "https://www.retail-insight-network.com/features/the-future-of-medtech-goes-beyond-microsofts-ai-creep/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 58
+    images:
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2021/11/Global-E-1-464x348.jpg"
+        width: 464
+        height: 348
+        isCached: true
   - title: "Artificial Intelligence in Platform as a Service Market is Booming Worldwide | IBM, Microsoft, AWS"
     excerpt: "Latest released the research study on Global Artificial Intelligence in Platform as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Platform as a Service Market research report shows the latest"
     publishedDateTime: 2022-01-03T10:49:00Z

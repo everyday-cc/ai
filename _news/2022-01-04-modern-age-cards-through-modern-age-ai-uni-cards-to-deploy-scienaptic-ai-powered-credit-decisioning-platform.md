@@ -47,6 +47,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CORRECTING and REPLACING Modern Age Cards Through Modern Age AI: Uni Cards to Deploy Scienaptic AI-Powered Credit Decisioning Platform"
+    excerpt: "MODERN AGE CARDS THROUGH MODERN AGE AI: UNI CARDS TO DEPLOY SCIENAPTIC AI-POWERED CREDIT DECISIONING PLATFORM Fintech start-up expects to approve more credit profiles and streamline decisioning processes Scienaptic AI,"
+    publishedDateTime: 2022-01-04T13:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-india-e416102b69ab40099af7e21dbd8fe7b3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 5
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "hL9Gh345/gRlCA1+jc41MWFIepDqrpNHEW4AMV5vc6ava3WQS/whsO40rDAb+e8etfvUjZOcW9oSt5RZ3e9rDQOoZPIupjYrK6towT3lu6dQqLS/+cKorsZH6ejMc4a/h51J5C7A8jFjPq10ICJo/LXQ8f16/Lxf17/JpHfQLZ9KgQ6p+XaYCiTlK/qzeZjyoVdsZgK1al4I5x1y2+Jk70cHLK93YO+BKlpjD44addGVG4m3CjDn6N/kvh/GeBSyLQWQcwmaKYOHzuxm6uMqkCVaIBF/WpLvvaG7xaQgXu/KEzJQ3EYb1UJqs4ixWUw0rT8hCILOiDPaG5Z45Y0na3ruIEZ2ug7XXd3jXzPQDEM=;vGYzp3GvIOBAI3Ase1ThiA=="
 ---

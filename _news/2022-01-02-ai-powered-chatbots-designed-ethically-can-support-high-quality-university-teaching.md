@@ -35,7 +35,7 @@ related:
     provider:
       name: Phys.org
       domain: phys.org
-    quality: 69
+    quality: 52
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg"
         width: 1356

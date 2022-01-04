@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Next Billion-Dollar Startups: How Viz.ai Helps Hospitals Treat Stroke Patients Earlier (Video)"
-excerpt: "When a stroke patient arrives at the ER every minute counts. Viz.ai uses artificial intelligence to treat patients earlier."
+excerpt: "When a stroke patient arrives at the ER, every minute counts. Viz.ai uses artificial intelligence to treat patients earlier."
 publishedDateTime: 2022-01-03T16:20:00Z
 originalUrl: "https://www.forbes.com/sites/amyfeldman/2022/01/03/next-billion-dollar-startups-how-vizai-helps-hospitals-treat-stroke-patients-earlier-video/"
-webUrl: "https://www.forbes.com/sites/amyfeldman/2022/01/03/next-billion-dollar-startups-how-vizai-helps-hospitals-treat-stroke-patients-earlier-video/"
+webUrl: "https://www.forbes.com/sites/amyfeldman/2022/01/03/next-billion-dollar-startups-how-vizai-helps-hospitals-treat-stroke-patients-earlier-video/?sh=15b0e2bf5e1c"
 type: article
-quality: 55
-heat: 55
-published: false
+quality: 155
+heat: 165
+published: true
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -27,6 +27,22 @@ images:
     height: 360
     isCached: true
 
-secured: "YYpbtCMYaklhxCyaJLr32KTTkFT4njEScEQteNzi9l1XArxOmnGCP0Vwn3IBvnuM/Gq8k+2PI4ereU452pIY8IcCf7JMnUDcp9xVKS250pXVuReSTpqHrDyF2pa+JnIuuVvRzbp9UmoHPHhc+Ozg0CLoVQIFpc+sl+2lYPNo3l+aWRHGem5YRE6LMNgx4PyxmMuPuiZBt3PzRsokTo60ReNHPeq935sea1slh++AcO9PMI/nGJPWgQDhhVo3SALuqbCLV78HOSA8lWqot+CEpQz8aWlWtxXW9XvkKRimLHUiDjnG2aGYWCVFjWiJHIfd7WJ0hsvU4xTxEu3ZEirlvURHZCoV30apNk6Y4lKjZNcGVIGsLLdz7xgHeZ/DaKFtSwWSq+tP59JuRU8FRZxyMr/2l8YLvs4fLfHSaIV4NTJjA96QR/KSEcVnsjVxss64Du+LAf+AA5p/aaMPyx/684jrIT9LyGm8wGrI7hUPzqNwnYM0nw7LwR9fYprRCENO0+k93645uKqMJwf0/rrDPA==;IresO8+NwH1cb5EbsFydXQ=="
+related:
+  - title: "Startup Viz.ai using artificial intelligence to treat stroke patients"
+    excerpt: "San Francisco-based Viz.ai is using artificial intelligence to detect diseases and speed up care to treat stroke patients, Forbes reported Jan. 3. Viz.ai's software cross-references CT images of a patient's brain with a database of scans to find early stages of large vessel occlusion strokes."
+    publishedDateTime: 2022-01-03T22:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/startup-viz-ai-using-artificial-intelligence-to-treat-stroke-patients.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 52
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
+
+secured: "LMcIItpBxdtkAMLqhkSQh2EHcTqiu/zms1hGJqo6DtqDC6f2R9wl7Vb4uYobPn7nLuQdM2wnT9oAHGKs59E/dT/uXKXzRVtiBVm9Tc7prqxTRqJwfh4PIVQbsq5+21oOmjDaoIyLK37pwI+HF44CET2ZRCtTHfuCg7x56NTbAY3VuN4ocgzNqaPt2sK9f1T7l7teUpByzcmR39csD1oStFsJ45WRG+dXwcV3sHRlFQL7JHK8nb82mzt6PiYvvoWqZKRrKuERn18EtMGdgreNoS3z1SUUOOtBe5JrenZOQAnLHo9CMRsox4knAOsU5qqBc7tErZkryembaFSKo0Ue6bdiAjc+JTxoCQV9VLJqMgs=;ZTN4nxZnpRi69raXBLrkDA=="
 ---
 

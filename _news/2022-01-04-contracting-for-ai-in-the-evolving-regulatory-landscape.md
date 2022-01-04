@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "The Human Side Of Building An AI Company"
+    excerpt: "After all, that team you're building will ultimately iterate and optimize the core technology that got you off the ground. Nobody gets to the next level working alone. Yet it's your role — and my role — in senior leadership that significantly influences what that team experience is."
+    publishedDateTime: 2022-01-04T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac1140ff5b5bffc474705%2F0x0.jpg"
+        width: 1200
+        height: 746
+        isCached: true
   - title: "The future lies in AI"
     excerpt: "It enables driverless vehicles and drones and autonomous ... Meanwhile worldwide spending on artificial intelligence (AI) systems is forecast to reach $35.8 billion in 2019, an increase of 44 ..."
     publishedDateTime: 2022-01-01T13:01:00Z
@@ -93,21 +109,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Getting from here to there - Competing in the age of AI."
-    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
-    publishedDateTime: 2022-01-01T18:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
-        width: 756
-        height: 720
-        isCached: true
 
-secured: "kWLA/AGqJk1NkJseRJgu+Ok1A1pI9+s6B5j5UYflq5jFAgScWpLpBGBqTugRX81vigjk06f9EJf9D02qyOhjZX4FuTyix6UNcqtwWolQdBTHwIIo+OLsVfJZKdQznruS25i4NNXjc/qf0q3AAIv7JVO7iW+Vszz6T62pOkU+qTfAmy8vEU7AnWndzruJynB7ixJrBAFwoq0UY1/oca/hp7bqDL5XYn+cF3FiO9n6r2+kGfq+bh8ywkOEF+kpBWm8a3K++XpxnbL36oO7EAimcAk7Y9fdbNpovybpRGmFbfNjPLz1K2AzNQuqsKXiXO98XqQhpiywY7zLflZI5gJB30I6lzduZ5aTmOFHuVE6ORw=;jM5Km36bA9O4uTvg0j3ffQ=="
+secured: "nRL7weWH023RB2Xi0kQml6JSc44I7iwHTiiSiQ01XjIyP+Zoa+hmMt8pGIEkSA0QA180Y7ukj+HcXSa9U46/yu/Ay9mNgYJRIC8x4tkBKM8PL+8XVBWfveJxEUXOlLir7bOtwlTcWeYmP5eemUeTd8TGZhZB1YQeVDymgSgUUIoU786XFY8cIdrtZELyqDe8Fi8BRZ/Xybwt9M2A2PE0njsetSN7UXOgv9j4cFMGwLVklbJvdY89bXkVjvpN7wcTX98qcVq5VDqBzgED2wb03lzbyybwpeFjGdQ5o3ygBN8JH6cjb6vvRjIK6DofdzoGEs+2VoESqtrxOsmXjhzL0LGQpKqX1mnl0tu1kayZG9xgHo7yY9024NEWENC+oXZmr+ErV54SnqIyFkzkqUhsjff6Qxy6Mm1HMmGBCjUh+Y485qrnT8bGamPOI0joxBUpav/H93piFInOcYeCf1v5fwd7yrDykKCN7PvXSboZKdDrZhI58GyyBpMoBIusJq4856zqdgsmGauDSVbgXbBEug==;gWanfPENWo8Z0iHc3UesIw=="
 ---
 

@@ -8,18 +8,17 @@ webUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-qualit
 ampWebUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 52
+heat: 62
+published: false
 
 provider:
   name: Phys.org
   domain: phys.org
 
 topics:
-  - AI Ethics
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg"
@@ -43,6 +42,6 @@ related:
         height: 957
         isCached: true
 
-secured: "lE2dU9I9DPYzcjE76jFooQvWhzP0bpSJQUX3J9b0QuUj4mBUoDn3bBxXG8t0n5vDRYaDHwske0S7Re01I+if0Qj/1khh4qgdu2THMRKh0PDqVgtxFHSBXC9VqCZPRnSceEdfQV3FgKS/e8xlGoLfY7F96NtKwD5eNrm+6/WSGW0MDQRNBMacEMBphDJK/4Xe4H/9sVqzn3odTpI8hs26tNtJGLy7hGXExnLVRr2N5v9ge5MFvTahEyhk2WgkUyvSYuDsb8CfqRTWGl/TLA1PmGnnh3iuG6ktm3gXMIi07AdkL48XYcSf7Y0DouHRLJOVpbC4vOuNODTc+GEHeUsIagD7vNFIKZOE4HTdZPv2opLYzWbu+M97Mo3RwP2UbDs6wzpS5PY6uK8e/vlPWaqtZ4ifnKt+2+7cBCt56n+natvhApyj8ubIE4ZH2y3KIE/1ytcyE/Ph6tmiIxnQLkF2hrmbGYtFasMxkd220DpvFbEr6jP2T1V9eb20uWSnTKxI/4SS7p8mIBfH9yDydwSZ1A==;H0rQMIy2DI9LjxNrWwPwmg=="
+secured: "FHIYywbiipAd4pxIyzfgMmxIs5dhrQ/al/3mRwCdyvBcCU5W5vBhUUWLmEKbdL9db//FaanF5cP6ilEJkA0OrTJD7uPGPTM84L3dH6gTxYt3W4fe31mpqhqkFqqEq9Lm4Hm7CZhZy9EASncQrUhIcD0x0xs1wLiLfiocoPGqzSk4imiPh0a7hfNKmnBAGJlDZlkt+LGRJq6OwLO/+5fCH4tocqPXtQR6er7KaDIHdonDoR/Pl2GHkKUq6R3GK53zr2BZyiWmBbSHQbulmSqNA0F9NTzFIvq8iJ2LGCrWstGQDRh6dvonMDBfL33Tcc5xkDnVvph6oszcC7jc0B0TGS56K5z389GsAaQJWuwUkC0=;fzNpk5/MTbnxb1lCpk2ogg=="
 ---
 

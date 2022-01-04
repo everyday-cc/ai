@@ -44,6 +44,15 @@ related:
         width: 700
         height: 434
         isCached: true
+  - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Valo Health, LLC (\"Valo\"), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
+    publishedDateTime: 2022-01-04T14:43:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/valo-health-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031076376"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
     excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
     publishedDateTime: 2022-01-04T03:41:00Z

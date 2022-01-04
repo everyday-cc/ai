@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 776
         isCached: true
+  - title: "The Human Side Of Building An AI Company"
+    excerpt: "After all, that team you're building will ultimately iterate and optimize the core technology that got you off the ground. Nobody gets to the next level working alone. Yet it's your role — and my role — in senior leadership that significantly influences what that team experience is."
+    publishedDateTime: 2022-01-04T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac1140ff5b5bffc474705%2F0x0.jpg"
+        width: 1200
+        height: 746
+        isCached: true
   - title: "The future lies in AI"
     excerpt: "It enables driverless vehicles and drones and autonomous ... Meanwhile worldwide spending on artificial intelligence (AI) systems is forecast to reach $35.8 billion in 2019, an increase of 44 ..."
     publishedDateTime: 2022-01-01T13:01:00Z
@@ -84,20 +100,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Getting from here to there - Competing in the age of AI."
-    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
-    publishedDateTime: 2022-01-01T18:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
-        width: 756
-        height: 720
-        isCached: true
   - title: "Contracting for AI in the Evolving Regulatory Landscape"
     excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
     publishedDateTime: 2022-01-04T12:06:00Z

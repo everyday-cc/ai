@@ -7,7 +7,7 @@ originalUrl: "https://www.marketingdive.com/spons/the-language-of-innovation-how
 webUrl: "https://www.marketingdive.com/spons/the-language-of-innovation-how-ai-is-improving-the-translation-experience/611576/"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Simpool Is Introducing AI-Based Simulation-as-a-Service For Product & Monetization Managers"
-    excerpt: "Technology is evolving at a rapid pace, and the digital revolution has come with all sorts of new and efficient services. One such service is a simulation"
-    publishedDateTime: 2022-01-03T16:45:00Z
-    webUrl: "https://www.criticalhit.net/technology/simpool-is-introducing-ai-based-simulation-as-a-service/"
+  - title: "OPPO is creating Innovative Experiences with Artificial Intelligence as it unveils its Smart Glass Technologies"
+    excerpt: "The keen emphasis on innovative mobile technology experience is bringing the likes of Neural Processing Unit (NPU), artificial intelligence (AI), and augmented reality (AR) to the forefront in Nigeria and major global tech giants are not leaving any stones unturned in the drive towards creating smarter cities around the world."
+    publishedDateTime: 2022-01-04T11:51:00Z
+    webUrl: "https://www.bellanaija.com/2022/01/oppo-smart-glass/"
+    ampWebUrl: "https://www.bellanaija.com/2022/01/oppo-smart-glass/amp/"
+    cdnAmpWebUrl: "https://www-bellanaija-com.cdn.ampproject.org/c/s/www.bellanaija.com/2022/01/oppo-smart-glass/amp/"
     type: article
     provider:
-      name: criticalhit.net
-      domain: criticalhit.net
-    quality: 27
+      name: BellaNaija
+      domain: bellanaija.com
+    quality: 37
     images:
-      - url: "https://media.criticalhit.net/2021/11/Top-Gear-Series-31-320x220.jpg"
-        width: 320
-        height: 220
+      - url: "https://www.bellanaija.com/wp-content/uploads/2022/01/IMG_1305-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "xJmz3Z6Grz/cEFXcKvcS2xdK2vtwpYNrNmvH5RKiDDn9+iaSKsjkjIvPoS+TUBauAMJUZron6TwpxsePEQUeAKBcEd7he4M7OX4MIbL5G2Uyj9d1JPJnE6oN/mL5DNr/LC3qgdX8tnBWqtVt//UMg3ZPkgiqWQSOXirEK9D41S32eRQ0/SR+TltLT5LWcaxRZRKXiKHXWUqQ84namxo2yA1fpYppF9rmM8VBGz8abJ7RE+MYVCjz/Lyi9ngCQw6vxH3Bv063f3M6lYXnyj6yQkqIQyak3hWRsI7NB4WHBOyvyDj4/hrHJvyGNix6yB2ProTjvtdSJwLD0+4WQ64ax6O2FaeHpvlmnwjC9QivdIM=;lGohn06l7C+shJ9azf1+Mw=="

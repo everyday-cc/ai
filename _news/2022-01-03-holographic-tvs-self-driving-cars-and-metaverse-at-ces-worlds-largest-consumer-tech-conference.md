@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "MeetKai Inc. is the First to Deliver a Series of AI-Powered VR Experiences in MeetKai’s Metaverse"
+    excerpt: "MeetKai [  ], the next-gen conversational AI company, today unveils its first lifestyle VR world: MeetKai Metaverse,"
+    publishedDateTime: 2022-01-04T13:13:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-36de330fb1eb9da759c25ed7b9167d15"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "COY5v70OWleVFDZUVwef6kO/NM9EOulIIZ0JhqmwDIUxgZEZBeP9omU4PNbXQdW2sPJl4lgfKom3rPSIkWzW+4e03vmF2dIQL0XHtP8WFsj2Dy38UenYyzae9TNqWKnyyzJ/wJYot/DK9EYOV7v9wLB2mIq+woC0yIs3rBrBFUWts0HfBnDtUwSlU8olliYX/HxOCz/My6n0gvgnTRjSp3Bdd/aWmGfkIYA7H3ggMYig/zFcd3U6ZAbAOVr6K3h9+Bb2oDSaPpzX+utUOBEp8MalbGQ2a7biNA+NIpnTNAnMd/toX+z7EMa2KGBwTAJRbhPsreYKYnRF0B7pMdT7IccyXkZahcu8jFiNdgmO8lHElmss7JlGtIL2NOefMIB8e8HbvuKW/riPvQwim1H54dHDrgnbV6Mlv/CIzP1bp1y4uj0nhf21/ZWuyThX3ks9ONlrWd0QdoGcAjxI5fE0WHnQ05DI8ugG2T35T445w6GC+rbihASSz9Bov5OAuh68Fy8js6LfIXTRmAL3hMu1uQ==;lyf7qB8Ao3tm576YENXQFQ=="
 ---
