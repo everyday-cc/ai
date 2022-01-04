@@ -47,7 +47,7 @@
       "bio": "Professor of EECS and Professor of Statistics, University of California, Berkeley",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=yxUduqMAAAAJ",
-        "citations": 229803
+        "citations": 230245
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Michael_I._Jordan"
@@ -86,7 +86,7 @@
       "website": "https://nickbostrom.com/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oQwpz3QAAAAJ",
-        "citations": 20293
+        "citations": 20324
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Nick_Bostrom"
@@ -183,7 +183,7 @@
       "bio": "Stuart Jonathan Russell is a computer scientist known for his contributions to artificial intelligence. He is a Professor of Computer Science at the University of California, Berkeley and Adjunct Professor of Neurological Surgery at the University of California, San Francisco. ",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=2oy3OXYAAAAJ",
-        "citations": 99025
+        "citations": 99181
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Stuart_J._Russell"
@@ -211,7 +211,7 @@
       "website": "https://mila.quebec/en/yoshua-bengio/",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=kukA0LcAAAAJ",
-        "citations": 478057
+        "citations": 479391
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yoshua_Bengio"
@@ -254,7 +254,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 162953
+        "citations": 163093
       },
       "affiliation": {
         "path": "",
@@ -354,7 +354,7 @@
       "twitter": {
         "username": "chrisbishopmsft",
         "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5634
+        "followers": 5633
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
@@ -407,7 +407,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=-hmxit8AAAAJ",
-        "citations": 44350
+        "citations": 44385
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Oren_Etzioni"
@@ -447,14 +447,14 @@
       "twitter": {
         "username": "rosalindpicard",
         "url": "https://twitter.com/rosalindpicard",
-        "followers": 12024
+        "followers": 12025
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rosalind-picard-0111bb/"
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1-hcASEAAAAJ",
-        "citations": 69147
+        "citations": 69222
       },
       "affiliation": {
         "path": "",
@@ -489,7 +489,7 @@
       "twitter": {
         "username": "verityharding",
         "url": "https://twitter.com/verityharding",
-        "followers": 2508
+        "followers": 2509
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Verity_Harding"
@@ -802,7 +802,7 @@
       "twitter": {
         "username": "jackclarksf",
         "url": "https://twitter.com/jackclarksf",
-        "followers": 43914
+        "followers": 43915
       },
       "topics": [
         "AI"
@@ -833,7 +833,7 @@
       "twitter": {
         "username": "lmoroney",
         "url": "https://twitter.com/lmoroney",
-        "followers": 25264
+        "followers": 25262
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/laurence-moroney/"
@@ -877,7 +877,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=W8yZCNsAAAAJ",
-        "citations": 45261
+        "citations": 45399
       },
       "affiliation": {
         "path": "",
@@ -967,11 +967,11 @@
       "twitter": {
         "username": "SebastianThrun",
         "url": "https://twitter.com/SebastianThrun",
-        "followers": 77375
+        "followers": 77376
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=7K34d7cAAAAJ",
-        "citations": 132607
+        "citations": 132805
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Sebastian_Thrun"
@@ -1025,7 +1025,7 @@
       "twitter": {
         "username": "TarynSouthern",
         "url": "https://twitter.com/TarynSouthern",
-        "followers": 65037
+        "followers": 65035
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/tarynsouthern/"
@@ -1061,7 +1061,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 243268
+        "followers": 243269
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
