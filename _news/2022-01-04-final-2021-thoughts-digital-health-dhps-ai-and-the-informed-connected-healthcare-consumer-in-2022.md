@@ -43,29 +43,20 @@ related:
         width: 700
         height: 434
         isCached: true
-  - title: "What are we likely to see in AI in Healthcare in 2022?"
-    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
-    publishedDateTime: 2021-12-30T23:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
-        width: 1016
-        height: 720
-        isCached: true
   - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Valo Health, LLC (\"Valo\"), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
-    publishedDateTime: 2022-01-04T14:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/valo-health-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031076376"
+    excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
+    publishedDateTime: 2022-01-04T15:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "bLUMzV81/CqJ8f9lRZDhqAqakiGJ+kFMbQCVttCeu6Psxm2RkdziQ5d2pnsQlRH/vaAQh+TvexluEWftfjUNXE6NO7aob8WLxl8h1g/GOPtYDtuEqWCHzoRIxUUz2vBmsskRH8gOqmW6NFtLD1sq0Npak9HXbo/26SZyd0HHhv73hcETnKR1BNOXql0raI8ZqSWd83BG2s8XXZpb61i+Yd0m8rga/Fb6HNGmxmv8BAu4bljKWeGPfIRUzgyL60dSVMlQ5JfuiKdKrLUMB6xqlSqohIJp8JKNh8R71K7M8GhZCHM5BH+7eg+rAXGqQ83sm4V2F1bWFqXDsPrxTzB0Xb+hvmQRTengcy/0+9dTShjHsq/rxa+4rDdOWlgNo77KDLu2tGvOnUMAb+6au93x0lD+0XRqdzSI9fAxIyCZzwGT2eJFPuFWaz5+Dtgrs7SZVRtCxCB0W6eb1bZGMJRUY1iCWAynzWtbNAokapNAMlNzkr83LqVjIAU7SQFcaiOVxWgFLvt0ayDz5P4Md3tW7g==;Qiu0oN1pqhUgpq0Ap8Ux9g=="
 ---

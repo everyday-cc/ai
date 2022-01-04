@@ -28,35 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "Preparation is key to AI success in 2022"
-    excerpt: "AI requires rethinking the way enterprises collect, process, and ultimately deploy data to achieve business and operational objectives."
-    publishedDateTime: 2021-12-31T22:20:00Z
-    webUrl: "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/"
-    ampWebUrl: "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/"
+  - title: "Why 2022 Will Be An AI-Powered Renaissance"
+    excerpt: "Now, electronic brains powered by human-designed AI are poised to play the role of protagonists in 2022 and potentially accelerate progress in our society to drive our very own Renaissance. Some say that the best way to predict the future is to create it,"
+    publishedDateTime: 2022-01-04T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-617375080.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Top 10 Artificial Intelligence Stocks Set for a Bull Run in 2022"
-    excerpt: "Investors should be aware of the top ten artificial intelligence stocks that are set for a bull run in 2022. AI-based companies are determined to provide highly profitable AI stocks for bull run."
-    publishedDateTime: 2022-01-03T09:00:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-stocks-set-for-a-bull-run-in-2022/"
+  - title: "Data Science and AI Predictions for 2022"
+    excerpt: "The pace of technological change increased in 2021, and if history is any guide, will continue to accelerate in 2022. At the leading edge of high tech are"
+    publishedDateTime: 2022-01-03T19:48:00Z
+    webUrl: "https://www.datanami.com/2022/01/03/data-science-and-ai-predictions-for-2022/"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
     images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2022/01/Top-10-Artificial-Intelligence-Stocks-Set-for-a-Bull-Run-in-2022.jpg"
-        width: 900
-        height: 500
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/brain_gears_shutterstock_Superstar.jpg"
+        width: 1200
+        height: 748
         isCached: true
 
 secured: "jTsviAnn9tieOvzCeMaPWDFytS7mVC2bLjv7LFfVFpkdlWehHPBdaiyYVqk4qjBPLdFUNO/x0y8FjFBvf9w13pZ8nHsgOLq6DmP5gB9KHfNHSqjwtIokisO50NberuoBBM90cK6cSjgySg++m9nb8e0w8Q+UNvT8NmLpVhJNEGh96Xgk8Sx9NxFefcXkTRFmxAYfb9xdE5ohz+cDNbHtcfjLC1Urw/l9xRTMGPmhxuqaMtHQRFnUnv6rJcE/8sRgyF/5VtQmrxWUnxKlNA3qKdiVWftaYwtpvLFrWMcyUYS5vdVt4C8Pw/kqAC6yKlxKUFopYLVqQBgA9VIpals8pdtpj90aVd1d0MqqAwL0Qus=;L2ZZxfF7gODosqc3Q32Bew=="

@@ -33,6 +33,20 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Credit Union of Georgia Chooses Scienaptic for Enhanced AI-Powered Credit Decisioning"
+    excerpt: "Scienaptic AI, a leading global AI-powered credit decisioning disruptor, announced that Credit Union of Georgia has selected its AI-powered platform, augmenting the credit union’s underwriting capabilities to make faster,"
+    publishedDateTime: 2022-01-04T16:19:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/credit-union-georgia-chooses-scienaptic-enhanced-ai-powered-credit"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 30
+    images:
+      - url: "https://financialit.net/sites/default/files/scienaptic_1_2.png"
+        width: 2090
+        height: 732
+        isCached: true
   - title: "Modern Age Cards Through Modern Age AI: Uni Cards to Deploy Scienaptic AI-Powered Credit Decisioning Platform"
     excerpt: "Scienaptic AI, a leading global AI-powered credit decision platform provider, announced the deployment of its technology for Uni Cards. This implementation will enable Uni Cards to expand credit access in India by providing instant decisions to applicants and an efficient process that redefines the way credit is consumed in India."
     publishedDateTime: 2022-01-03T14:32:00Z

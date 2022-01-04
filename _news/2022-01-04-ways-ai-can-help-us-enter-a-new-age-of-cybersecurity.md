@@ -41,20 +41,6 @@ related:
         width: 770
         height: 330
         isCached: true
-  - title: "The Dark Side of Machine Learning in Cybersecurity"
-    excerpt: "While machine learning (ML) is revolutionizing many industries including cybersecurity, it also has a dark side that often goes unaddressed."
-    publishedDateTime: 2021-12-30T23:19:00Z
-    webUrl: "https://www.bbntimes.com/technology/the-dark-side-of-machine-learning-in-cybersecurity"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 39
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/The_Dark_Side_of_Machine_Learning_in_Cybersecurity.jpg"
-        width: 1200
-        height: 902
-        isCached: true
   - title: "Developing AI and RPA across DHS; cybersecurity and cross-agency collaboration in 2022"
     excerpt: "On the latest episode of The Daily Scoop Podcast, DHS CTO David Larrimore on cutting-edge technologies at DHS components and Scoop News Group’s Billy Mitchell and Jeff Stone preview their top stories for 2022."
     publishedDateTime: 2022-01-03T20:31:00Z

@@ -35,6 +35,15 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 32
+  - title: "Cassidy Health Partners with athenahealth's Marketplace Program"
+    excerpt: "Cassidy Health, a provider of the only on-demand talent marketplace built specifically for the needs of healthcare revenue cycle, today announced a partnership with athenahealth, Inc. through the company's Marketplace program."
+    publishedDateTime: 2022-01-04T15:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cassidy-health-partners-with-athenahealths-marketplace-program-bring-/2022/01/04/9519416.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "1bLc8d9O3F8slk6IaRnsJBCIfR+4CC1aYAlMchffb01N96qKHv1d2D5skpX/+gu7fGe5qfPanjedCQDqJZ9/UjPnfC8nkkfzY04Ic3/FYSy18mWlC7A3fycByFfr5PTJgMce9Qye9YF8ewb25AtXSEUAdoYiJZ/3T7UgVN/Sf7JnN+ZR3d6nt4cJ84+x9wgTJE07VPblIMESvkWC7WrmpGYgLz3EYG36tG9b3F9eaNX8Oq1vPO941JT1+LseONFxOA5y80ebZ/6L9gIXfo9/mCykvC9KKW7WKnvBrfsw/4UXwWi8YrN+fAgJcvMOMqeHaK/t03TaOupqWQZaI9KqJpiLa2z14qOj8PaLkToWnJM=;tdb9Bn8Mu54H1vIN05xqCg=="
 ---

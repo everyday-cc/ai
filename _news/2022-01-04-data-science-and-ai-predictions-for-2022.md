@@ -24,35 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "The Danger of Leaving Weather Prediction to AI"
-    excerpt: "When it comes to forecasting the elements, many seem ready to welcome the machine. But humans still outperform the algorithms—especially in bad conditions."
+  - title: "Why 2022 Will Be An AI-Powered Renaissance"
+    excerpt: "Now, electronic brains powered by human-designed AI are poised to play the role of protagonists in 2022 and potentially accelerate progress in our society to drive our very own Renaissance. Some say that the best way to predict the future is to create it,"
     publishedDateTime: 2022-01-04T12:00:00Z
-    webUrl: "https://www.wired.com/story/weather-forecasting-artifical-intelligence/"
-    ampWebUrl: "https://www.wired.com/story/weather-forecasting-artifical-intelligence/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/weather-forecasting-artifical-intelligence/amp"
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://media.wired.com/photos/61bcfdf760b9d5dd7134793f/master/pass/The-Danger-of-Leaving-Weather-Prediction-to-AI.jpg"
-        width: 2400
-        height: 1350
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "The Challenges of Pruning AI Models on the Edge"
-    excerpt: "In this special guest feature, Nick Romano, CEO, Deeplite, discusses how struggling to fit advanced models in edge devices with limited resources forces deep learning teams to start “pruning” models – essentially trimming parts of it that are deemed not critical,"
-    publishedDateTime: 2022-01-04T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/01/04/the-challenges-of-pruning-ai-models-on-the-edge/"
+  - title: "Top AI Trends of 2022"
+    excerpt: "If you have followed my writing over the last few years, you know that I'm obsessed with business, technology and A.I trends."
+    publishedDateTime: 2022-01-04T11:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-ai-trends-2022-michael-spencer-"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 37
     images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHo9TTRzwYcJg/article-cover_image-shrink_600_2000/0/1641293176916?e=1646870400&v=beta&t=MQe5VoKVFAESQpziWxHr97keZisMvYKA7_4RfdJLc50"
+        width: 958
+        height: 539
         isCached: true
 
 secured: "uDCF7eH/E3fIvyr6GSp5/woVwYyHqt3auCYghoozHN/71xUz0mX8ornN3mkgKWgAb4LKN8RNj+gLnACvJ0I9crJ8+u2L5TfULNNcgS/DyMVhOzZWIqDbL1wYFsgaoB+DwwFJA5npnq52v+Xv5uFZmh8/lO9Uq3nHLi6gaBNejmwhYw4+t6AohPvRONk/gnvwRFz6nX+1y90s/VX/oDyqXwgQTg746h4sDQoEXr6EvVUiqFNC9TyfxbUrGWe9ou8pChZ75spToAGLaaWU71cMjZ0R6R/ttVYnCrNmfO6KK08c+9YySz8MmCK1Ysu8UJtdHWepoVhPJacxcRj/3lafmaqhzqIPS+0Q6LO7DP1juL5qwqAAyxEr2AiZzPhTLsYj9KLc/diKaj3MovI69fypNLbe600q7Y3wAKBjDHvflQJDQNVmsXMMOAKkRUD0kM/ZeYsycACT8vjAT8SJDxMkmxC7OTPpqvPLhH6Lkp1FtbyI9HC139bU0jSWmmsubs1Su4XkjQlYCikgtvjdq3cyfg==;BVkuWfyfFfEnfDrB6IUqLw=="

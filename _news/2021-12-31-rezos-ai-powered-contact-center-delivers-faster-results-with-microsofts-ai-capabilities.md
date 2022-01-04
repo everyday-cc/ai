@@ -9,8 +9,8 @@ ampWebUrl: "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-power
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Your Story
@@ -28,34 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft"
-    excerpt: "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S"
-    publishedDateTime: 2022-01-04T09:48:00Z
-    webUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "The future of medtech goes beyond Microsoft’s AI creep"
-    excerpt: "If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.7bn last April. Nuance is a UK based speech-recognition company best known for having provided the speech recognition engine that powers Siri,"
-    publishedDateTime: 2022-01-04T14:20:00Z
-    webUrl: "https://www.retail-insight-network.com/features/the-future-of-medtech-goes-beyond-microsofts-ai-creep/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 58
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2021/11/Global-E-1-464x348.jpg"
-        width: 464
-        height: 348
-        isCached: true
   - title: "Artificial Intelligence in Platform as a Service Market is Booming Worldwide | IBM, Microsoft, AWS"
     excerpt: "Latest released the research study on Global Artificial Intelligence in Platform as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Platform as a Service Market research report shows the latest"
     publishedDateTime: 2022-01-03T10:49:00Z
@@ -67,17 +39,20 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 57
-  - title: "AI Software Platforms Market Next Big Thing | Major Giants Cloudera, IPsoft, Uniphore"
-    excerpt: "A new research document is added in HTF MI database of 109 pages titled as AI Software Platforms Market Global Outlook and Forecast 2021 2027 with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players"
-    publishedDateTime: 2022-01-04T10:49:00Z
-    webUrl: "https://www.openpr.com/news/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    ampWebUrl: "https://www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+  - title: "How AI and ML are changing contact centers"
+    excerpt: "This has left call centers across industries plagued by long queue lines and insufficient bandwidth to offer the speed and personalization that customers want. However, the partnership between Talkdesk and Amazon Web Services (AWS) is now enabling businesses to leverage conversational AI and machine learning in the contact center."
+    publishedDateTime: 2022-01-01T10:52:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1628789921_101.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 54
+    images:
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1628789921_101_lg.jpg"
+        width: 315
+        height: 408
+        isCached: true
 
 secured: "nmM//7iRVNeORxqM2wrKZ6TL9WEy5ZPlO/2O72j3iQ8Nc/dLsOkTIDZVoZlxwY7Wk30APmJ8MHx+xkT7zBgAUx3dG0+VZRVei3iMbGjVefGq6ts/P0q6G+7j2LD1ai63N/8yA2Kh4b4IOzV0j5LC0Z06Wj0wEcCOyonInVtRO6ZQ2Jz3A2konmLGeM0byHeA53NJ4EGj4kPXFCcbLIjvNZA5X7DEML1tsh23SSnxQbpYMgtwXf31sjp9OK1v4a7Z0DnZmzYNDjJycdpyW+EvWCJI4RlRSgWB9NI7QgRBRLGPWmL9S9PrPx5WxnBYj35xgCw0A33+czP8AYibixFPwZNiwsXl1aQlOQXggfkcKyQ=;v9GoJmffG0Nqqg5OBwfoBw=="
 ---

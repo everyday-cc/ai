@@ -8,9 +8,9 @@ webUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-qualit
 ampWebUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
 type: article
-quality: 52
-heat: 62
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg"

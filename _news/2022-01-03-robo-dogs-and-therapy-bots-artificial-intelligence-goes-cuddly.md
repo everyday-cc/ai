@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-i
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.cityam.com/wp-content/uploads/2019/09/GettyImages-459229772.jpg"
         width: 594
         height: 378
+        isCached: true
+  - title: "robots, automation, AI and who owns the future"
+    excerpt: "Since corrupt people unite amongst themselves to constitute a force, then honest people must do the same.” Leo Tolstoy Today’s piece began with a stack of books and an idea."
+    publishedDateTime: 2022-01-03T18:31:00Z
+    webUrl: "https://www.linkedin.com/pulse/robots-automation-ai-who-owns-future-bruce-mctague/?trackingId=d5PSt%2FcluZWaD6yxuL2ZqQ%3D%3D"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGdxowTzByHvw/article-cover_image-shrink_600_2000/0/1641219112833?e=1646870400&v=beta&t=sMCb4adtY3E2mceP9iA8IDW1I6LLuZoGHCXoqCwvp-w"
+        width: 544
+        height: 306
         isCached: true
 
 secured: "XxP14Eqk70pk8eDa+E8gt+ZOWdjMInGS9QSwK8Bc8VotkAvs/f+A8vICZc2Hzw68zDGmhSkgQNfvlaKBjcs5MH2I6LOn0xfXPIR3yDQcDKEX1ihZhJ1qb/zECGVz4c8QFkLt9U/KOPEQ6XZTGdTEjydeGgVhFr5MMpxPM0+qxGTJWpWBT5zK4ggTKY7i54XUUTYHcatmDaHKKwlgek3wrUeEa49x68u8T42JPnbF2hcbJYBp7Ur8nNjWkBvXoZMidiAaRkY721EdG3lncBxTtvUgWvaInBZkF1lYsOMI4Ym1umEJ+NsoR3KfLvCaWNS8N7dKvm7fxsoBZd0qgdpLsRUHnRrsAafcP/DIPZ50gtU=;YdAKYvd+4XdiJ/eMLjll+w=="

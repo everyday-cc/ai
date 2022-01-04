@@ -1,0 +1,71 @@
+---
+category: news
+title: "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud"
+excerpt: "In June 2021, Microsoft and AT&T reached a major milestone when we announced an industry-first collaboration to adopt Microsoft cloud technology for AT&T’s 5G core network workloads. Since then, we have had requests from many operators, partners, and customers to share more details. This blog is intended"
+publishedDateTime: 2022-01-04T08:00:08Z
+originalUrl: "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/"
+webUrl: "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/"
+type: article
+quality: 77
+heat: 107
+published: true
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+
+images:
+  - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d6f2d867-07b3-4f08-94bf-04e32abac5cf.jpg"
+    width: 1024
+    height: 576
+    isCached: true
+
+related:
+  - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft"
+    excerpt: "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S"
+    publishedDateTime: 2022-01-04T09:48:00Z
+    webUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 69
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "The future of medtech goes beyond Microsoft’s AI creep"
+    excerpt: "If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.7bn last April. Nuance is a UK based speech-recognition company best known for having provided the speech recognition engine that powers Siri,"
+    publishedDateTime: 2022-01-04T14:20:00Z
+    webUrl: "https://www.retail-insight-network.com/features/the-future-of-medtech-goes-beyond-microsofts-ai-creep/"
+    type: article
+    provider:
+      name: Verdict Retail
+      domain: retail-insight-network.com
+    quality: 58
+    images:
+      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2021/11/Global-E-1-464x348.jpg"
+        width: 464
+        height: 348
+        isCached: true
+  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
+    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
+    publishedDateTime: 2022-01-04T15:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220104005270/en/Tekion-Expands-Cloud-Hosting-Options-with-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
+
+secured: "lPVmMgOHBXcchAXd/+CWRuMjcbdQQAWhEtsyNLJuQlt+mulw4+H1wolN6fX2TiIlfT/kULfl13RFGOuLYB4flseON5kJCJfdM6R8Cm0ehorAvcKruyskaSoTH3A2TvbvyR+sbZT/BO1SBN/lwd+L1VPvxN4LznSr2pVEqSwTNwUuhS6bZt2Fp6bdV09DdxD8ZC8vrlYhVwV41L6NnZXL7qoppbYzgR3JvdL0J/yV2yrnhIYd3xSSBsxdg+fRzuQSyNbzeRl2x30VzfpzHb/6YsVsBvPMcyanoOva0H8s1Po2+vr+30P2CuNUnQy9i1tQi4T4aEHj8Zi5gGQPvO2KsJzQy7sYL21+fltuL1/OiEY=;wOvum2e27whK9g3WXfDt2g=="
+---
+

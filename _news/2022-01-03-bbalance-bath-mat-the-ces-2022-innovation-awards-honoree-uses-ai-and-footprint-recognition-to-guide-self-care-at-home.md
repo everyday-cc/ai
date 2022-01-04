@@ -24,19 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "SOUND MIRROR™ of ICON.AI Named as 3 CES 2022 Innovation Awards Honoree: Voice-Activated Acoustic Mirror"
-    excerpt: "The SOUND MIRROR™ of ICON.AI has been named three CES Innovation Awards Honoree with Audio segments. The SOUND MIRROR™ is the world's first form factor and a voice-activated acoustic mirror to help customers enjoy an epic sound experience."
-    publishedDateTime: 2022-01-01T14:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sound-mirror-of-icon-ai-named-as-3-ces-2022-innovation-awards-honoree-voice-activated-acoustic-mirror-1031072829"
+  - title: "CES 2022 Innovation Awards: An airbag for your hips, a hands-free selfie drone and VR for ADH"
+    excerpt: "This collection of products from the CES 2022 Innovation Awards will help your life in ways you never imagined."
+    publishedDateTime: 2022-01-04T14:52:00Z
+    webUrl: "https://www.techrepublic.com/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 78
     images:
-      - url: "https://mma.prnewswire.com/media/1717922/PR_soundmirror_ICON_AI.jpg"
+      - url: "https://www.techrepublic.com/a/hub/i/r/2022/01/04/8104ba05-afbc-46b9-849c-82b6df46f80d/resize/400x/094cd4415c823d97fe5579ea3b4ded4d/air-neo-1111233-2-2.jpg"
         width: 400
-        height: 225
+        height: 301
         isCached: true
 
 secured: "NxxVL9lVFtp98ITMQfcgkZd1DfeNTQsaCr8Mz/XuoKcXrQoixETtCcgjiVfHxip0gmRi6r6+Ptn13ujfWXuq/kKBRdpBCeqY0BRxs9YpZWTHpc6I/djIaHIZHREdj/zVQxSgLzl4u28BvnUDod2RKN1O4QgzaSm+/xgELMVNQHj7RhX+/T1I+CKDTmMugqPrhQ0gpOtGCiLZCcaAyM/gRUwd6GLPo82oHdiefUgd62G7dq1Xmt2cAKwnGkdStrZ4YebdcyDh2mwLjT0sJwtqAYF9BD31C81COnSUJeZSizw243Ov/R3tzEFYz6KC8bq+PTgW7sRW+HS0IR3vvZtiFClvB2j3/KfRffkAoY1L9vQ=;AEbwJKwCQjZudw4ViFT7NQ=="

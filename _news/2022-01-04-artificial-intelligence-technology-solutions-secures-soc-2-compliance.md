@@ -15,8 +15,8 @@ provider:
   domain: menafn.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?900967"
@@ -24,6 +24,6 @@ images:
     height: 250
     isCached: true
 
-secured: "gG3N+V6okaqbHPWz/qJhhllme+caJaevzsh3zuzGeg7Vy2UCME1NjhNzEvKRNnN8mNLJKiPUBK+dnUpPGq/TPiFGtxWIA2/qCAQNuQswMAhVDbjqMVWLJUqjfUZm3/tJ8ZUb1tvwc1PyHCNnPsHPBTSh/qWhKR7Tylquwzt0qskMV5pMDs1GoDr9x8KVPG9kKdAlQBvOQQxqCzxJHJqurDTDv5K379fk4FH6Eq804pdemqW+0mWU68Fb+o/Cwt3Td6OxSbD4JhAaAT3DCizKMbzE9PtbfyoK5ZBx86AVuEMiCrou+6B4jw6/g63QYJI4FygSeDXNjiKbM9eFfs8yDrHJLleWknJX4hdhDx/rG2w=;8bMXP1+0xngKAyq6CM7+vg=="
+secured: "f7Zg8wR2IhZO9PYNpqc7svFUsMjZckbkW82Ln/5INGg+nI67L3Uk12NCmaVIz6GZo8ps9XG6LwdR+huN38/XCt1DsygUPCBiZxRhrr8w1Njx4e/7nPLGD9zwU6jzy/gudhurTpojLRfL/xL6vSqJLnpwUf5Zr8IQ8MMMuGoDGZRtyfFYnz2nNoDpm1OyxUvY/Q2NlC//jAINzp2LDRhwHeAwTSybmZBaJG714KaKgyojQUhsM0/M5YAmLKiktDbPTnZbosr0/OAYGDHxRC5XDj7VTav9szSKNZhvtzN3etrrt5kR8FfBzWgOyvwwnLHTh4Y9hAb39g0LQt82l9zOPhjcw1u8idUdhH5yr/2CDz8=;PW7oLbWrdKyF8qaIgno3GA=="
 ---
 

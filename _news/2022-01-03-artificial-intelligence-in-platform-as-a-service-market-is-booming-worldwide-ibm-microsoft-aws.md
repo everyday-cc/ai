@@ -22,20 +22,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft"
-    excerpt: "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S"
-    publishedDateTime: 2022-01-04T09:48:00Z
-    webUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Rezo’s AI-powered contact center delivers faster results with Microsoft’s AI capabilities"
     excerpt: "Azure AI helps startups access high-quality vision, speech, language and decision-making ... supporting a wide range of use cases, including translation for call centers, web page localisation ..."
     publishedDateTime: 2021-12-31T05:20:00Z
@@ -52,31 +38,20 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "The future of medtech goes beyond Microsoft’s AI creep"
-    excerpt: "If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.7bn last April. Nuance is a UK based speech-recognition company best known for having provided the speech recognition engine that powers Siri,"
-    publishedDateTime: 2022-01-04T14:20:00Z
-    webUrl: "https://www.retail-insight-network.com/features/the-future-of-medtech-goes-beyond-microsofts-ai-creep/"
+  - title: "How AI and ML are changing contact centers"
+    excerpt: "This has left call centers across industries plagued by long queue lines and insufficient bandwidth to offer the speed and personalization that customers want. However, the partnership between Talkdesk and Amazon Web Services (AWS) is now enabling businesses to leverage conversational AI and machine learning in the contact center."
+    publishedDateTime: 2022-01-01T10:52:00Z
+    webUrl: "https://www.bitpipe.com/detail/RES/1628789921_101.html"
     type: article
     provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 58
+      name: Bitpipe
+      domain: bitpipe.com
+    quality: 54
     images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2021/11/Global-E-1-464x348.jpg"
-        width: 464
-        height: 348
+      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1628789921_101_lg.jpg"
+        width: 315
+        height: 408
         isCached: true
-  - title: "AI Software Platforms Market Next Big Thing | Major Giants Cloudera, IPsoft, Uniphore"
-    excerpt: "A new research document is added in HTF MI database of 109 pages titled as AI Software Platforms Market Global Outlook and Forecast 2021 2027 with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players"
-    publishedDateTime: 2022-01-04T10:49:00Z
-    webUrl: "https://www.openpr.com/news/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    ampWebUrl: "https://www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
 
 secured: "X0v3k+MP0SLjznducrkrYkyUAjQjmF9+8DK+SqQaxWTPqb4ExxN99ZjtPllEcFjUtRBmQQpvWSFFkNcBG8WjkXRlpUD2LqxnAeyg42YlTjIbSAtIuGREAHiFQxa9o+6dLivxrhCgiSvWQqU8f3AMHVi2zKWkUQRvkpN3e6quqPI+S7XEJGt+XxYP+bFkitDO5egpnnjSHO+jzWJXfoZUrQPCUszFugsQcdsuFsvlIxj5RTibuwAdlnBIiqlUnqQnPr+A7AKrxWgM5ghsZ2/18ahd3kScTL0iiL7pMxMo+zRzQQPm/+ZMox7izcVXiTmphoYXKlxp18GiZPp9mdOpPSfSSDDFQiZkj9sdOeOre3Q=;wZxPbfkJSSv07yk3ujo9lw=="
 ---

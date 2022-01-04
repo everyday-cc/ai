@@ -40,21 +40,7 @@ related:
         width: 2400
         height: 1350
         isCached: true
-  - title: "Data Science and AI Predictions for 2022"
-    excerpt: "The pace of technological change increased in 2021, and if history is any guide, will continue to accelerate in 2022. At the leading edge of high tech are"
-    publishedDateTime: 2022-01-03T19:48:00Z
-    webUrl: "https://www.datanami.com/2022/01/03/data-science-and-ai-predictions-for-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/brain_gears_shutterstock_Superstar.jpg"
-        width: 1200
-        height: 748
-        isCached: true
 
-secured: "rWhBBBF9pN6WtO6U9B59RXNYnpK5vVLm+49/kDFkEwtPykyS1jdusdgEloTxtrxEcJsRNgDobz6jUnD6JBWITDLp+NBANkiFn2KP4j+xuOqub0y1znoSmZkidUr4SaT5pbaHQkKHWIK/4kpTr46rhFF7cmlGdw7GEP7mtKN+JN0EVLgp49X5rU1teytiyuYqc8+uQzKiXh49tYg+91svCiDUA+oRqZT9oKdUUJjFYNfUQO8O0NNNU/gBOdkC7a8T3UJ1DiDlZv2FfBwM+6ucKj3kZgvKQSHzHugjqZ1ns0zHBi1U5ZCrHytph2oF6HERJbBEFU5oRJl0cGQCdWxZGjh5c2ZPanR/4F/HStuhLkg=;iyoYNwOJpyPUhSRIFbx8RQ=="
+secured: "BlaS7rNrMEF1w62dHpggZK9asfqDuL1lF1QuT72gYDD5rfWtGqsiVzmaTrVx/GS7eK+ES8VE7uAWlCd8T3b1+uXzmwhbBFS3GBJ0Nk5kxlMY7v7t7vTaOJnNahVqJcVlpdbJ5GXMy/Wzu2JKUNqaL1YV15bRU9KIZsMV8mHJtIZv5V8X0xkYBqWoZsmobBr2KthF1qW9fyb6yxpVTSRxJpd1YsfLnuO0EBi4YPCrtYNrSEmdlrqTjpyBL9S8IFuC+khlzk+ihNstfd4b4SXurD2IkIVfZifBvStJG0jsL5wUpL1xFhHw0n4uBA/xhzzE9c2NZkcih2xvvN4NavbG9lTQ4pgizEUnOLAmAOPZwmoYWg2bM3bNPcahTvyzPAjIRv8d/RONPbIzFsP+yR6xDmMXIKuZR15bIPkOYQIkXZGHVES1DAYAEBugOH7+dWBWL6OKV2OGc3qckja11CNjKnnl5oj39t0BhnT5Q3GlK64szdRrv9/whfQhZiJiTAZw5+y2zKT5khXsZPZvzpD1zQ==;Om2DJUoEZqavdrP/Y31JyA=="
 ---
 

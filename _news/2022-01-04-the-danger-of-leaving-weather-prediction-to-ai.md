@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/weather-forecasting-artifical-intelligen
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/weather-forecasting-artifical-intelligence/amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data Science and AI Predictions for 2022"
-    excerpt: "The pace of technological change increased in 2021, and if history is any guide, will continue to accelerate in 2022. At the leading edge of high tech are"
-    publishedDateTime: 2022-01-03T19:48:00Z
-    webUrl: "https://www.datanami.com/2022/01/03/data-science-and-ai-predictions-for-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/brain_gears_shutterstock_Superstar.jpg"
-        width: 1200
-        height: 748
-        isCached: true
   - title: "The Challenges of Pruning AI Models on the Edge"
     excerpt: "In this special guest feature, Nick Romano, CEO, Deeplite, discusses how struggling to fit advanced models in edge devices with limited resources forces deep learning teams to start “pruning” models – essentially trimming parts of it that are deemed not critical,"
     publishedDateTime: 2022-01-04T14:00:00Z

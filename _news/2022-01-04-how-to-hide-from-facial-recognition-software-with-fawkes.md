@@ -25,17 +25,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "Facial Recognition Fail Spurs Bid to Ban It From Police Cameras"
-    excerpt: "One such lawmaker was Assemblyman Phil Ting, D-San Francisco, was matched with a mug shot by Amazon’s facial recognition software called Rekognition despite never having been arrested. “This is a demonstration that this software is not ready for ..."
-    publishedDateTime: 2021-12-31T00:01:00Z
-    webUrl: "https://www.courthousenews.com/facial-recognition-fail-spurs-bid-to-ban-it-from-police-cameras/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 36
-
 secured: "/MPwWavZ/LxVzueUdS+ruc+uamNRJh2ytaV5J5H5SMTkWrrTjEhExvWPdczGYAU2u0ymT6AJpPVoTyV4sdodi7wYSmvoVNy5K+/RS5r5VXhpsjPCnnam/UIKgCSF1yCgO1/iJ0HKcgn2G1px+qpLCJZKVj3kzkM4nRqHY2XGSbOOf16hUVZScrMyqp27INFti4YXgC3wy6u9T8X9dDy87nugjbMpJpnx+lsgjqql5TeroQKJZxihP4dj3/eKPaYk1fbYe9fTIlw83xcAX5CCLLy9vyX+LamzO2+wVJVjAXWd9nDsGo7zfmvgc3Fj2zzkcBZcLc86kML5lk6fewrcIrltUqIYAGY3BbFHWp4f0IL6LcG/Q1K8cHzLpOy8mFGVIQ/XdvZpr/LjMSsGcCfnz0By+isjaO+dLiPuGq0iKZUgdwc1DEzYtx+4OzIGESLT6Dan/a0wsXXbtNUGTn+gte3Wh5CkNZ4TD6AX+cO/lJt6i9ZOW7FEIaFVtavy4OdJY1Yom9xrjrBWZpDeYss4jw==;Lt8sGTYtD/1SRmK/YUUY1Q=="
 ---
 
