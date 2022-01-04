@@ -15,7 +15,6 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI in Finance
   - AI
 
 related:
@@ -34,6 +33,6 @@ related:
         height: 450
         isCached: true
 
-secured: "vuEkpiIuPP6GMqDMx+i1TCBJKWYbshBs0MJadJv9C81goddu9JTT5JNuINL5jURCGqy1PDU22HNtclzagF4h1VaL1639cmH6oDKUlHN6LLP2riT1Uec2GQdWvGB8m7F4k156jJ2CJYqaCHNVi+YcqRAvKn4KUM1LMzPqDq5nQ44fiyDzmwsm6Ubo8ny0mq+4K9aPIyMYJdMr6JGl2leDYusI3qZAOy0xXGR0l+6UY4EjVA2f9JnIWzsDa1dczBZwzukvBBfFhAsp2P94LNY8g+zfI5B070ppZVjpDuSB/EqOPdqU2zdRglhDGh8jt5kP5dwyU84oXx0bgYVpMtP1H3/Oq0Vc5/9iBf1b32/SbfQ=;giZq5O7q9xrbiOdMkiYv1w=="
+secured: "vNHmJt04dCfwWxNUO3K6iYYWB6WabuNJDPV/anPiU4cVr2UU+VcLBcPHnwW1iOQEBNiWjs6WtBJIeZ77M6ZFm3tDOcYyipSe3wPturjjtH7VKUsvYfhRo2pYaJKPlfJRUvKMi1BrleBSv3w0q8sjlOje8RKcLzcWL6eI1AD5GRmy1FqakH5dM7I/67QM1OTXdrdnT4+PPZXqhgtRWVH/jcZcmwLu6ELdWPsjWGL4RjnzferAwGSuPGOUvnJ50SUPx7BWpL9eIyJyu6KeHyxiZb1XTeCFHBCCLm4H8djfNAmZLMCEhOC2DPx2YzFyuiAvA0vrr7O9d2Tp9szt2z8JVX7NFjxprxdMVvsda5LbmxY=;1M60eWwdSPi0rvq2Yi0E7A=="
 ---
 

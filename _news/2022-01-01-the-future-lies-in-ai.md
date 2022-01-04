@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Khaleej Times
@@ -27,38 +27,71 @@ images:
     isCached: true
 
 related:
-  - title: "Why Now Is The Time For An AI Bill Of Rights"
-    excerpt: "AI-based systems are going to change everything about how we live and work. And, currently, there are no rules of the road."
-    publishedDateTime: 2021-12-30T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/why-now-is-the-time-for-an-ai-bill-of-rights/amp/"
+  - title: "What are we likely to see in AI in Healthcare in 2022?"
+    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
+    publishedDateTime: 2021-12-30T23:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc6a0501f1d4f18790a855%2F0x0.jpg"
-        width: 1200
-        height: 771
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
+        width: 1016
+        height: 720
         isCached: true
-  - title: "Human intervention is a must for artificial intelligence, Here’s why"
-    excerpt: "Given the risks arising from artificial intelligence powered systems, it brings us to the core question of whether human still holds primacy"
-    publishedDateTime: 2022-01-03T06:03:00Z
-    webUrl: "https://www.dqindia.com/human-intervention-is-a-must-for-artificial-intelligence-heres-why/"
-    ampWebUrl: "https://www.dqindia.com/human-intervention-is-a-must-for-artificial-intelligence-heres-why/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/human-intervention-is-a-must-for-artificial-intelligence-heres-why/amp/"
+  - title: "The blurry image around AI"
+    excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
+    publishedDateTime: 2021-12-31T09:25:00Z
+    webUrl: "https://www.linkedin.com/pulse/blurry-image-around-ai-dhineshsunder-ganapathi"
     type: article
     provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
     images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2022/01/oie_37012qFLgXGKQ.jpg"
-        width: 850
-        height: 400
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHOCklxwGhAMg/article-cover_image-shrink_720_1280/0/1640941427897?e=1646265600&v=beta&t=X72T924boTZVIMCv9zpSrL2wALNN4N7I7HJB3s306GI"
+        width: 1280
+        height: 640
         isCached: true
+  - title: "Getting from here to there - Competing in the age of AI."
+    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
+    publishedDateTime: 2022-01-01T18:27:00Z
+    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
+        width: 756
+        height: 720
+        isCached: true
+  - title: "We Choose To Align AI"
+    excerpt: "Epistemic status: poetry \"We choose to go to the moon! We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard. Because that goal will serve to organize the best of our skills and energies."
+    publishedDateTime: 2022-01-01T20:16:00Z
+    webUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-align-ai"
+    type: article
+    provider:
+      name: LessWrong
+      domain: lesswrong.com
+    quality: 37
+    images:
+      - url: "http://www.todayifoundout.com/wp-content/uploads/2013/08/moonprint.jpg"
+        width: 596
+        height: 600
+        isCached: true
+  - title: "The Advent of Artificial Intelligence in US Retirement Services"
+    excerpt: "Artificial Intelligence (AI) has found its way to numerous applications in our daily lives. From customized social media feeds to personalized online shopping – it’s everywhere. The latest technological advancements in AI have made it possible to provide better user experiences leading to higher customer satisfaction."
+    publishedDateTime: 2022-01-01T02:02:00Z
+    webUrl: "https://www.tcs.com/bancs/insurance/blog-artificial-intelligence-in-us-retirement-services"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 17
 
 secured: "cK5R88V2nNs5WXU3ScSK845O925r/SzUfvP25IaF35fouMBotT3Gn6BRaM/jh/sq0rXlSxiSynp97XugNefAHq+kOMbLPccb9viSUaIdDYovedduCxKLr78m1SPFk9V6fjGYZJiaKhi4iVVUT+n43tzRKpjxw7W9c2JHnojEkBJG/eZEsANZzPvgrX6bXLsqVtQY+5sJMAAEj+zdvQ6DYkdW2PTSytgzuQ1qJRB0pt4VdDwD09yUY9CL0jcXF9+5+f6Izb3QRQmFf7cmFuZ/kkNiKND7dLI9IUDjyRaPbWiLOE/PQW97XSOI7WNCm3YXM4PMug2uyTm5XrEsVKL/N7M2wFBw/6Bj2uIPabq34EA=;nKtiNggWt99GoPuI1TnbPQ=="
 ---

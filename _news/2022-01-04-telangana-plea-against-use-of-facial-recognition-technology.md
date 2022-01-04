@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-us
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/12/12/w600X390/JUSTICE.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "Telangana HC notice to state, cops for using face recognition tech"
+    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
+    publishedDateTime: 2022-01-04T04:33:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88680752,imgsize-25546,width-1200,height-628,overlay-etcio/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Telangana HC issues notice to govt over PIL challenging use of facial recognition tech"
     excerpt: "The Telangana High Court has issued a notice to the state government on a public interest litigation (PIL) filed over the use of facial recognition in the state. The petition, filed by Hyderabad-based activist SQ Masood with the support of the Internet Freedom Foundation,"
@@ -136,6 +152,6 @@ related:
         height: 486
         isCached: true
 
-secured: "lzHg/J7NKY4EfDRyEUpzULYCcXXOR6nLGIYBTMJ/ha9gbJgOWfR5kGRZdMYW/75rOKcEsYFOmwN3w1gJrTsO81q4hf8yZ+0V3sn0KJXH2atw9agEGrt0D7J+i6ltNlWIJb5+iIZNWe3wlpsz6FEgwZWZd+phrSsy4G5zVtmuj1CHfd22nTewCn0KltwgkVR6wt7/JWyUWQFIiv9HJNcifGBNjDWzKorNGbmmVtk1DSm1eH+SFXMPMfu38eKlBzAYhe5TP8RhuF9kheO1/M193DnaXe0e/W7EtQdkBmpka9ueXrds1qOvpbDj3eeDOg+HZJte4e4vwgcLsafAr0nmAOAv0okVFI+ytvKsFhK1PKU=;MCpOPJfLp/0+jekuFJaV1A=="
+secured: "MktSGNK73PitxpiZwzoWf8d8+tQnnwUXBrtarCH4Of8jtnwhMM0Rrit2gYdFXRFN0bD8uDtV4vmNBkxDRMtOstoofrZX5HujxKoOZ89f/lGV4MjfcUNXnueniLoNVbaLOuAZcqy0nZ2QflDeYdy6xuLxiiYs4GEmYUEL4z9AtS4UJExe8WGsp4cQaN2P/VwhN6If2MKqPxZSeMaLzjnNLwSYHRhzHT1z5pFvODnBoNTXIkB2qh+UOTfrqSkgrz1q65RtpWhq0zvffy6OEGvP6n7YQzQG6rUNcxpvVrtz9Gh5TApMJ+AD/HXmO80NQrknjNlwN+lSIQRzitCWxSNkcyeOnG9XyKkJliY24Zn2cwbXu9UDeJYyO29/biPDHPdMHZIGqooQ5YGQPtoQcDwXDIA5+TM1QOYWUDlg/pRWq6nv+N4d0PhfyATv+b1TmTB7J/76aNlzfEApsEv6xDol84CCLS+Rhm30tI6eDSZUIQG+XnEkbTD7himalUy2bVCAZaSE7UCg0UYvuByC8VszhA==;JTppwj7sGEsdrirY/wRiZg=="
 ---
 

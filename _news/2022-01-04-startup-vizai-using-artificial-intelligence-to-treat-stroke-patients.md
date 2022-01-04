@@ -40,20 +40,6 @@ related:
         width: 512
         height: 410
         isCached: true
-  - title: "Indian army sets up new quantum computing lab, artificial intelligence centre"
-    excerpt: "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pr"
-    publishedDateTime: 2021-12-30T11:22:00Z
-    webUrl: "https://menafn.com/1103463959/Indian-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre&source=25"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/30/TNA_3764cimage_story.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "y/J2hb7g5+JnMys2chTPPM2GJ/brTDVu+Wfw0CyFuOk4uiZydDvS6/MR8U3ZGHMk9NO2DcGfOrA4BMfQZTPyfCPuGEl8flc9K1j1UC2svL5oiP+L8J0uXme+zleNTcNCtQY4J1aODS3qqNiuoYN1sFi/c7Vwhh5YKxeN6n908S1i/S0QmCA996Bv59YfkktxZNhwXCFuYDUBjCEWXccPfmWVBOmPQCIWqqC5AX3IddheyVvvLoECjGf75h2iJIoAHHKsWHYuR2QEMDw957mcC9GcwhCF4U7H8vxIuzJ7DOsK2I1+tpgRfKoNhOf6ZXcCeCgd+oKIFyyoVo4hxrSDKI8D04NxAVyH6q9ryUeYeMg=;7l2haX9Cp8ygc2Ev+gZF3g=="
 ---

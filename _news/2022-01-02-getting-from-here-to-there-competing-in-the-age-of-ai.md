@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-
 webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,75 @@ images:
     width: 756
     height: 720
     isCached: true
+
+related:
+  - title: "The future lies in AI"
+    excerpt: "It enables driverless vehicles and drones and autonomous ... Meanwhile worldwide spending on artificial intelligence (AI) systems is forecast to reach $35.8 billion in 2019, an increase of 44 ..."
+    publishedDateTime: 2022-01-01T13:01:00Z
+    webUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai"
+    ampWebUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 59
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=caebb246-3f74-4d60-bfa8-8731bb4eefa4&function=cropresize&type=preview&source=false&q=75&crop_w=0.84296&crop_h=0.99999&x=0.07852&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "What are we likely to see in AI in Healthcare in 2022?"
+    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
+    publishedDateTime: 2021-12-30T23:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
+        width: 1016
+        height: 720
+        isCached: true
+  - title: "The blurry image around AI"
+    excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
+    publishedDateTime: 2021-12-31T09:25:00Z
+    webUrl: "https://www.linkedin.com/pulse/blurry-image-around-ai-dhineshsunder-ganapathi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHOCklxwGhAMg/article-cover_image-shrink_720_1280/0/1640941427897?e=1646265600&v=beta&t=X72T924boTZVIMCv9zpSrL2wALNN4N7I7HJB3s306GI"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "We Choose To Align AI"
+    excerpt: "Epistemic status: poetry \"We choose to go to the moon! We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard. Because that goal will serve to organize the best of our skills and energies."
+    publishedDateTime: 2022-01-01T20:16:00Z
+    webUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-align-ai"
+    type: article
+    provider:
+      name: LessWrong
+      domain: lesswrong.com
+    quality: 37
+    images:
+      - url: "http://www.todayifoundout.com/wp-content/uploads/2013/08/moonprint.jpg"
+        width: 596
+        height: 600
+        isCached: true
+  - title: "The Advent of Artificial Intelligence in US Retirement Services"
+    excerpt: "Artificial Intelligence (AI) has found its way to numerous applications in our daily lives. From customized social media feeds to personalized online shopping – it’s everywhere. The latest technological advancements in AI have made it possible to provide better user experiences leading to higher customer satisfaction."
+    publishedDateTime: 2022-01-01T02:02:00Z
+    webUrl: "https://www.tcs.com/bancs/insurance/blog-artificial-intelligence-in-us-retirement-services"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 17
 
 secured: "jW51B+8142bLLj64wN0OL6brBmUcoHWD4zYjAlVdgBMeu3T0HhLPXPK9dNrvJPBiuYXdel6WDILBMTBFC74lQPuG1ICeLihOId1HMQPC32Y5BS56h0Tz3HjxMvhhyMWIQfWLyKuEJ3inaVOiR/cSRg/L3eAg0XAgKaGD6vqjmN6mG0nFE5PBQEMWiz/FRFY8IN4Zm7RxZaLEk6b0qO1m1+rD6A9JSL7aD8sPKLynNsxX6md0TQouLzajFNrY3+lMaON2NHGt8OJuPYx+9oS6zGCKOFz2ehxoQoFUNNBwMExsY3tVxWBHclryRJY8w5USYB/tV5Efv40x5IrWKICue+DTxW822PW+1POdaVilQH9Ejk7WTs/Tq+WIOY7mheZSGDkR1GUs2wtyROKwGAuWZ1RUu2OTOMEbhH/jmnxv1RnPNa2ILIMQkpiyp6GKAMKpmrlEL3CLNKRGjpW9xLd/+uDdTpoDQDJ4MoN+JsUFl532abbqlb3Eh1XmtDZe/XCJfPiV364TSGrt24c736pqhg==;ogFYVhCcHE5F5+bh+2jzWQ=="
 ---

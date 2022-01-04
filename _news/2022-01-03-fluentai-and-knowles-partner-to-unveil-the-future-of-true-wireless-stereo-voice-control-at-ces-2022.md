@@ -1,48 +1,57 @@
 ---
 category: news
 title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
-publishedDateTime: 2022-01-03T14:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
+excerpt: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022. LAS VEGAS, Jan. 03, 2022 (GLOBE NEWSWIRE) -- Fluent.ai, a leader in embedded"
+publishedDateTime: 2022-01-03T15:33:00Z
+originalUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/01/03/9518710.htm"
+webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/01/03/9518710.htm"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Mobility Techzone
+  domain: mobilitytechzone.com
 
 topics:
   - Natural Language Processing
   - AI
 
+images:
+  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
+    width: 1577
+    height: 1050
+    isCached: true
+
 related:
-  - title: "SoyNet to introduce AI accelerator at CES 2022"
-    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
-    publishedDateTime: 2021-12-31T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24847305"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24847305"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
-    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage"
-    publishedDateTime: 2022-01-03T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022/article_f48f0b1a-dec3-53ab-84f0-92c47fc09679.html"
+    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
+    publishedDateTime: 2022-01-03T14:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Navy Launches SCOUT To Expand AI Capabilities"
+    excerpt: "The U.S. Navy’s SCOUT Experimentation aims to develop automated and emerging technologies into targeted problem areas among warfighters."
+    publishedDateTime: 2021-12-30T20:03:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/navy-launches-scout-expand-ai-capabilities/360249/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
     quality: 37
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/2d/e2db96ec-5423-5ca9-8f02-b0d434dc18c0/61d30947ed47a.image.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/30/big_brother_electronic_eye_concept_technologies_for_the_global_of_vector_id690772190/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
     excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
@@ -58,7 +67,30 @@ related:
         width: 691
         height: 900
         isCached: true
+  - title: "SoyNet to introduce AI accelerator at CES 2022"
+    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held in Las Vegas on"
+    publishedDateTime: 2021-12-31T16:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soynet-to-introduce-ai-accelerator-at-ces-2022/article_5a13cb4c-f37c-52c9-ae84-c73ba8058262.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 19
+  - title: "BBalance Bath Mat, the CES 2022 Innovation Awards Honoree, uses AI and footprint recognition to guide self-care at home"
+    excerpt: "BBalance is the world’s first smart bath mat with footprint recognition that combines three key health measurements into one; BBalance is a weight scale, balance and stability reader, and posture evaluator."
+    publishedDateTime: 2022-01-03T13:50:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-56962e910dcb57cad96f103b97b6a8f4"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "ODR6+qsGW3DP5wHNWNlPrY7/J9M0nNgHj2dYUpZJoA5b2YgX39vc+Kopmjk1Ua5PsQMO1OnAZQYeQtXearRmr+wYqt6TZB8WNImRp/pbaT6cgK9Bzh8tdTsIYkFx18jaSM7jkB6soEHBHAJGAkPVMcVtpDrSXUsZpsqEDODbmfFV2QXT3m0Qx+CFPKx0nZqjGe6Rv6lxafQxrAeW5MUFeSwipgoL1RuV8Nqcd6RlmnZKCnXOeenpEJVd42Y5OW+XyJE1hMlQMhz90EIeFcmLTJJJveSIuAozxyhx7+j2qEjY4HxG9H0Y5NM0u0fVzwH1LQuKWLt/sFFEkNona4+VNLngsd+W0qCiWZMOpxz5wes=;erub+USI3tOL83JowYYDTg=="
+secured: "7ctVds/Fa9racwhdWgPLJ20kMLqpyRLKK4kkRjA06j1acY3dOOhOmnKEtxVBvOS9tftSvXszfEIjNceWru6cUcWiCLeaLxA1D8DMY1aaRo+nDmkk0nLSypSqGNkya7s6KKvKblBDQXIxFtMvQ0u1yPHfUKyw7MRdvdEdmNQS61h39fd7478zQOeMGXZEONbhAdDCZyU9T39qhkNvjEWxN69Ybd6YbK4nWL2QIJaLbuUm4Pk+kXTQSNJaAGcdffoLuntlmp2Tf7cpe/BPEhHBiPY2wFCC+M3DpMEJpNGcbMnV3s/fkOjLCL3KF6tIOi45MKmctpOGKUYEe4Gosr3H552IxzpSB9vkFHgLz69HYCE=;UM7LHcoQ88foYJPwht7I1w=="
 ---
 

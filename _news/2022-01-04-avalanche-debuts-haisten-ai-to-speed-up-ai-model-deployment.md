@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-04T00:48:00Z
 originalUrl: "https://siliconangle.com/2022/01/03/avalanche-debuts-haisten-ai-speed-ai-model-deployment/"
 webUrl: "https://siliconangle.com/2022/01/03/avalanche-debuts-haisten-ai-speed-ai-model-deployment/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/avalanche.jpg"
@@ -23,6 +24,6 @@ images:
     height: 844
     isCached: true
 
-secured: "1KDXY8RCWBo9OCRuPU+JGmOJmuS3mdVsWDLGIeueBlm7xFB1Rf+VaOGJXF+E9eFsyESpnROaWuY/DdS6Oda3dGuvaGvKz1evhRAcqGw3rDIvRz7H0xHGCQD7SHbDyt/COdrfVdjj9t2pFYvfMhHem1aiXQTH/froV8KrAWRIxb0+BucPZ2hJpoiqdxBT9TdJppyPQZ/QN2nk2cGE5VZcqXM2o3E3lM565NHq6ULFakfACrCZJrNQUmaV1TxWT1Chyua7K5uNGNzAhy6CdqlUfYvdOGlm6LOnlyRtt070K/pK9tkNiikrrB3t87ugOyL4DDtjZkua3wuCDE+fIJYvW/HpBMvVhezj2qYqgZd5ThY=;ZgiL9qeXYsofOYo3kU8/Rg=="
+secured: "KV46cmuV65P+LAcfgUwmwNqXPbBCU+EyUBUN99XpNio53gObP+o/85VDzQJtUTZ1UmgN4dvOCxcp+FABK5XADJmtTgImQW4A3cvydMO106veN/Dggb0AXWn87n5dNMb7IHN8epT1TTTa3eNRSSMzjjixmA1UToQgpS18tY2WmohxAVyz2+Eq6cPNtdVcD+f/fije6MkfcH3L3gkKhEjD8EJgw7+xvDN1AFJMOfmnu4x6HTNaM8x3DTnvictlJBe91HWtVUGmrdZWgpTNR7SGyzgEG36Y3vEz5htvigjHJW2XEwcEE73IXy1qCAPfCQCI2Ata0dLfV3eK0OjhA6y6q3aSUOV+aW2cgocw4oNUdxHgAclXVsrnvnWAFZsn0m/rSMp0vp1IqiUOcmWt6+2GR+Tf6rrmvSmHmflE8HW0t4YH34dXUTQeXOKZUAxGQJQJ/yOAkL9roAK2WgpbwNIwT/lhVWWxUccBBYUbh8nKYQqV2zpN65y1cJW3KhC02RZF5soKlICsF16E5yjsoglg2A==;QaWk/ucI76pH6it4NTBUpg=="
 ---
 

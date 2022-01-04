@@ -59,6 +59,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Telangana HC notice to state, cops for using face recognition tech"
+    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
+    publishedDateTime: 2022-01-04T04:33:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88680752,imgsize-25546,width-1200,height-628,overlay-etcio/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Telangana HC issues notice to govt over PIL challenging use of facial recognition tech"
     excerpt: "The Telangana High Court has issued a notice to the state government on a public interest litigation (PIL) filed over the use of facial recognition in the state. The petition, filed by Hyderabad-based activist SQ Masood with the support of the Internet Freedom Foundation,"
     publishedDateTime: 2022-01-03T13:09:00Z
@@ -136,6 +152,6 @@ related:
         height: 486
         isCached: true
 
-secured: "NfQB3qe5hqPofZokYymxw5sQcZ8Rxbpg17JGXj4faxm/Hu8p9oRPNBgMDr1+ZCxpySAvVV8NFyq/iwISMGCOecOSDEv5ZV+ShJHF3Hg6jQUP5WiUtbShvO3RttKg08xFMXe5634+kySpJzQLkdLgaRTNOutxYT8QmA2crm3A7+97Ns11iWVRGaf7coAj5Sdd1CPus5PkiP1nPLEqC8IOlZEma7ZNjTnuVxOoFSZuJKiZPCjjUnAn4bmrgM1MxNOhQ7MTaEgxxaqU2ftmBCPizrtVd9dqrh+TbAmuDVYpLXh1IPRUYi0wRcVodiZHeNMinKQoftrOpFq0NkIGNXjndObgwfeJeXrYUvkzqOMpYMI=;QG0AlzgcVQN5PeiyAHq+2Q=="
+secured: "7braDdoKqQ9p7zZVI6I8GX8QlKV7ns1U6ZBHnewKmR4nD5tiwYnPsYsP6EN3N+z6v1fYk5Lyo/rY3mTCfpxiyDU58Nt+BprMODc5MZi9qJ7KKnjtfeRsC4DArDHiDqnk5FTHTRLBDm9WS9Gpr4kLwPPfz4nNJ5/+7yvrnk1j0oTnx56PazqVBcLnj+7wpu8VQ6vHIZ58XQvW8n6noN+zgQ76moRzmKspsJxQabbG5SxLloOmoP3LPit+pxELxgIy0cIdQwQfvTbrIpQThyP35PjdJkbCHcaeUK+f3PHlANQl/je2R+l4NDYgRmp5W/Yvrz1fT7RQXoWhu0RfgbWH8M93vIXrnG0g71qdH4kMhnYG5wdtG2YXevUc9afyRBj8v/ycLcF4KDl3p4+9M4a2zRvUlZeCdoq3KzQWBsFw0d0Mb9F10g5QBJttpnCjE5DvDaA9i1Ly+NduT/bOoWa4PgQSxthAhoImGd+zTu44AFcV9qNni5Z6wmXWmOYX5k13/mD1XKRhjo7P0T9yG1WVYA==;W+tq79IZxicu1G5nriTPNg=="
 ---
 
