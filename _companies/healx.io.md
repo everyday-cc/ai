@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "healx"
   url: "https://twitter.com/healx"
-  followers: 2474
+  followers: 2475
 
 size: 11-50 employees
 yearFounded: 2014
@@ -32,7 +32,7 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1468150011552747520/iDkw7vp0_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1478294769931587587/er05N7Gc_400x400.jpg"
     width: 400
     height: 400
     isCached: true
