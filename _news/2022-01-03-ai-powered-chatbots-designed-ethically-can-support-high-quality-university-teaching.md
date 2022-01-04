@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-qua
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-01/02/TC_35569image_story.jpg"
         width: 1436
         height: 957
-        isCached: true
-  - title: "Chatbot Market Global Industry Trends and Growth Opportunities 2021-2026: Development of Self-Learning Chatbots to Adapt to Changing Digital Environme"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global chatbot market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-12-30T10:49:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=593822"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
         isCached: true
 
 secured: "lE2dU9I9DPYzcjE76jFooQvWhzP0bpSJQUX3J9b0QuUj4mBUoDn3bBxXG8t0n5vDRYaDHwske0S7Re01I+if0Qj/1khh4qgdu2THMRKh0PDqVgtxFHSBXC9VqCZPRnSceEdfQV3FgKS/e8xlGoLfY7F96NtKwD5eNrm+6/WSGW0MDQRNBMacEMBphDJK/4Xe4H/9sVqzn3odTpI8hs26tNtJGLy7hGXExnLVRr2N5v9ge5MFvTahEyhk2WgkUyvSYuDsb8CfqRTWGl/TLA1PmGnnh3iuG6ktm3gXMIi07AdkL48XYcSf7Y0DouHRLJOVpbC4vOuNODTc+GEHeUsIagD7vNFIKZOE4HTdZPv2opLYzWbu+M97Mo3RwP2UbDs6wzpS5PY6uK8e/vlPWaqtZ4ifnKt+2+7cBCt56n+natvhApyj8ubIE4ZH2y3KIE/1ytcyE/Ph6tmiIxnQLkF2hrmbGYtFasMxkd220DpvFbEr6jP2T1V9eb20uWSnTKxI/4SS7p8mIBfH9yDydwSZ1A==;H0rQMIy2DI9LjxNrWwPwmg=="

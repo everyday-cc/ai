@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Telangana HC notices to government, Hyderabad police chief over use of facial recognition tech"
+    excerpt: "A PIL was filed in the Telangana HC challenging the deployment of facial recognition tech without any valid law on various grounds including violation of right to privacy, rule of law and equality."
+    publishedDateTime: 2022-01-04T02:24:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 47
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/18/w600X390/Telangana_High_Court.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "Tag: Face Recognition Technology"
     excerpt: "On Dec. 17, 2021, Mayor London Breed declared “the existence of a local emergency” based upon a spike of overdose deaths in the Tenderloin, but to a trained eye it appears in its true colors as a coup d’état."
     publishedDateTime: 2022-01-01T06:22:00Z

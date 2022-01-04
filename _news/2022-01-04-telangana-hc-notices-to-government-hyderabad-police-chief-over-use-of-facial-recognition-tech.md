@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Telangana High Court Issues Notice On PIL Challenging Deployment Of Facial Recognition Technology (FRT) In Telangana"
-excerpt: "The Telangana High Court today issued a notice to the Telangana State Government in a Public Interest Litigation (PIL) plea filed challenging the deployment of Facial Recognition Technology (FRT) in the State of Telangana."
-publishedDateTime: 2022-01-03T08:44:00Z
-originalUrl: "https://livelaw.in/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
-webUrl: "https://livelaw.in/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
-ampWebUrl: "https://www.livelaw.in/amp/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
-cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
+title: "Telangana HC notices to government, Hyderabad police chief over use of facial recognition tech"
+excerpt: "A PIL was filed in the Telangana HC challenging the deployment of facial recognition tech without any valid law on various grounds including violation of right to privacy, rule of law and equality."
+publishedDateTime: 2022-01-04T02:24:00Z
+originalUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.html"
+webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.html"
+ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
 type: article
-quality: 36
+quality: 47
 heat: -1
 published: false
 
 provider:
-  name: Live Law
-  domain: livelaw.in
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.livelaw.in/h-upload/2022/01/03/406892-et-artworks-and-telangana-hc.jpg"
-    width: 842
-    height: 486
+  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/18/w600X390/Telangana_High_Court.jpg"
+    width: 600
+    height: 390
     isCached: true
 
 related:
@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Telangana HC notices to government, Hyderabad police chief over use of facial recognition tech"
-    excerpt: "A PIL was filed in the Telangana HC challenging the deployment of facial recognition tech without any valid law on various grounds including violation of right to privacy, rule of law and equality."
-    publishedDateTime: 2022-01-04T02:24:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 47
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/18/w600X390/Telangana_High_Court.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Telangana High Court notice to State on plea challenging use of Facial Recognition Technology without law"
     excerpt: "The Telangana High Court on Monday issued notice to the State of Telangana on a plea challenging use of Facial Recognition Technology (FRT) by the State and Telangana Police without a valid law [ SQ Masood v State of Telangana ]."
     publishedDateTime: 2022-01-03T08:31:00Z
@@ -135,7 +119,23 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Telangana High Court Issues Notice On PIL Challenging Deployment Of Facial Recognition Technology (FRT) In Telangana"
+    excerpt: "The Telangana High Court today issued a notice to the Telangana State Government in a Public Interest Litigation (PIL) plea filed challenging the deployment of Facial Recognition Technology (FRT) in the State of Telangana."
+    publishedDateTime: 2022-01-03T08:44:00Z
+    webUrl: "https://livelaw.in/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
+    ampWebUrl: "https://www.livelaw.in/amp/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
+    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
+    type: article
+    provider:
+      name: Live Law
+      domain: livelaw.in
+    quality: 36
+    images:
+      - url: "https://www.livelaw.in/h-upload/2022/01/03/406892-et-artworks-and-telangana-hc.jpg"
+        width: 842
+        height: 486
+        isCached: true
 
-secured: "bjgoRXB+zWI4jdc8LAhDcLNo4VM7OS8tf54PUKDVNoLT2gT2cdZlMyo1zWQKrVyfYLIXXJ+UlZpO+UGONMN8xhK2ULb6hC4pM0Yp4B4qWhmFlvIqnaTy1St3eOgCsl8S2OFDlXXPQCVDCVcnsGnjcWDSVzolqb1kg2i/uBMmG+Xw1iNiywkdXeD3YnHh44u5k4ERqxawt3PMksheOSOmSHfZJw8dMEXbsr3nrFYYImG7tMyc3DdkIeIroqmCIGxv6NIS7BtNwq8zQ7kVFLdsM1KVuYtbMxPbaPRDgAK8lnOvbtJrmgU948xaJjQO2fLHvFkBwRQtMKMW3wOE7Y2oCWirexWbDr7sNYVWx/tFHnkzVJsspA3OVOALWTSbWTX6vpojj+liVIz2b7PVl2EMJmEhkBCv6aiBFLxgaxGSpI0GW7j+I+vbhZx+kk8dATxUZT1mw1eXT7samnLIbIlVGp5DB38yUSeluhUrjCFPPknrt0D7NfklHBF9gq5eWfuA14A/47rNUm7+C0WXb8TfhA==;QFSZaqesLhvsemILkk4JMw=="
+secured: "NfQB3qe5hqPofZokYymxw5sQcZ8Rxbpg17JGXj4faxm/Hu8p9oRPNBgMDr1+ZCxpySAvVV8NFyq/iwISMGCOecOSDEv5ZV+ShJHF3Hg6jQUP5WiUtbShvO3RttKg08xFMXe5634+kySpJzQLkdLgaRTNOutxYT8QmA2crm3A7+97Ns11iWVRGaf7coAj5Sdd1CPus5PkiP1nPLEqC8IOlZEma7ZNjTnuVxOoFSZuJKiZPCjjUnAn4bmrgM1MxNOhQ7MTaEgxxaqU2ftmBCPizrtVd9dqrh+TbAmuDVYpLXh1IPRUYi0wRcVodiZHeNMinKQoftrOpFq0NkIGNXjndObgwfeJeXrYUvkzqOMpYMI=;QG0AlzgcVQN5PeiyAHq+2Q=="
 ---
 

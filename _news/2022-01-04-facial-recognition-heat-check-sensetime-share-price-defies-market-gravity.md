@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202201/facial-recognition-heat-che
 webUrl: "https://www.biometricupdate.com/202201/facial-recognition-heat-check-sensetime-share-price-defies-market-gravity"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI Giant SenseTime’s Shares Pop on Delayed Hong Kong Debut"
-    excerpt: "Shares in SenseTime Group surged as much as 23 percent today after the Chinese artificial intelligence giant finally went public on the Hong Kong Stock Exchange after the initial date was pushed back two weeks after the company was added to a US government blacklist."
-    publishedDateTime: 2021-12-30T09:48:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 39
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-ai-giant-sensetime-shares-pop-on-delayed-hong-kong-debut/18604253874225152.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "SenseTime’s red-hot start makes Tang one of world’s richest"
     excerpt: "SenseTime Group Inc co-founder Tang Xiao’ou has become one of the world’s richest people, after the Chinese artificial intelligence (AI) champion blew past concerns about American sanctions to surge as much as 23% on its Hong Kong debut."
     publishedDateTime: 2022-01-01T01:29:00Z

@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
-excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
-publishedDateTime: 2022-01-03T14:33:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
+excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage"
+publishedDateTime: 2022-01-03T13:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022/article_f48f0b1a-dec3-53ab-84f0-92c47fc09679.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022/article_f48f0b1a-dec3-53ab-84f0-92c47fc09679.html"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
-    width: 400
-    height: 225
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/2d/e2db96ec-5423-5ca9-8f02-b0d434dc18c0/61d30947ed47a.image.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -60,6 +59,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "TrSC7IBUq90tIEfSck0IVhCfrgzD4KFpx7COiGx3D+1+rIbFw+MLtTDed2SqReD4SfvrlOfIyRZMXy3gha7RsJtPv0IlI2zvArrDcRzQFJTIGtfjEAg5Ahb93QpPtCce2ymJPs9RqOHX70S7QQchidYEqiYZufduJctyL/2PlYQXS+Yd/LVJjVaLGZQYl2s4HQXNkhnPuQSwDcoDwj0wObYTLDCcVSUFCZPtdVUtxrnhfpt5jBRTtABdBvufPJn/kOexh5Bp1H9bbimBFvaQZ9T9xhHwcBi8Cxpgo8/WsuqssWX1j/MhvwbSz42XPNOujFFGB9EHXu0VfPsUUzQhdEr9ZgvSi3/eUJ50nAewXzg=;/NLO+rSJUhIxW813863AlQ=="
+secured: "BqKBROH9ho/FNzEngVi6rEaRvJnm0TxpkjWs0MtAnKqYLbsUYdaHvfycbo8YyMVxujQTq1Yo3616b4uyJU0QV24XMIvWkg2gjEmdCXc6ryFylpBuiEy8VYUaeDB1g7eM5NCYJ0NjA/bS3ROEcHRn98x8942SKGhX5IBEi3OFN5BTdAfoSnlueniD1QtPA3JoY5fVzt0qVc7ixyYwIEaknV9m2NeDXtj1Zde5uSa7HWbpr5tc5KgmJT4tkjV/AWBQFHyGhi+AEELh38uZm2UB9U0ON4EOujXXE4Ks6jq2vXWre+5Su4xLXRAbCsH4J5PMnwK78Cr6QCJQd0Pom6Y2s/06UpsXB7kkpxjcw7yn138=;ygDw8A3ErfSHbj7a80tlJg=="
 ---
 

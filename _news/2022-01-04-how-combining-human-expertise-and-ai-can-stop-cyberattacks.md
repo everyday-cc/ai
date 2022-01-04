@@ -1,0 +1,44 @@
+---
+category: news
+title: "How combining human expertise and AI can stop cyberattacks"
+excerpt: "© 2022 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy. Disclaimer ..."
+publishedDateTime: 2022-01-03T20:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/how-combining-human-expertise-and-ai-can-stop-cyberattacks-10890221"
+webUrl: "https://markets.businessinsider.com/news/stocks/how-combining-human-expertise-and-ai-can-stop-cyberattacks-10890221"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "How combining human expertise and AI stop cyberattacks"
+    excerpt: "Enterprises fail to get the most value from threat monitoring and cybersecurity strategies because they're too focused on data collection."
+    publishedDateTime: 2022-01-03T19:30:00Z
+    webUrl: "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/"
+    ampWebUrl: "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1314526623-e1641229497586.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
+        isCached: true
+
+secured: "/ytAdmSNGxQV+qEPHU0orIb0F+6NA03dpGL+GF0Vr7xEae1yy+EqthFW204BGMc38MN+ve8/MKCQRWIbo4xwpS3SGzfoeeht5ajEOaPk0874QKWsNcj52UXEdK7spv70D1v4Kwqh87vxKpZmDstZU6tctk2YWwfkJnq5SS6CiGMJC0bBbQu9Ok4zjJ0RhFQHqxJKgOUPi5McchVFY4Bb+u8ktcDCI0ssT4qv/nguTluFE4O8GE3GFEAFUypoFGoNLfOI7C+VL4NN8cfu2Nta+WFmkL2YTIqpF0DcK2fZRWFR3bRObD5MKVzm7vSB6Fh0PrPKjVjK9HLmdzmVND08nslliNNxaACdp8eXjFqhRBM=;3eeAtJMpejCC2tuL9/qMDw=="
+---
+

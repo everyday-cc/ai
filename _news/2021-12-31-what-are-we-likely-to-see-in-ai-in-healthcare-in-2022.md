@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-20
 webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: LinkedIn
@@ -38,25 +38,11 @@ related:
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQEWk9x293v1PQ/article-cover_image-shrink_720_1280/0/1640804991983?e=1646870400&v=beta&t=Zo-SJWd57KbwfXXri2xw678-DFxSz0oZH3yHNJqsuAo"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Survey Finds Healthcare Execs Bullish on AI"
-    excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
-    publishedDateTime: 2021-12-30T17:36:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/survey-finds-healthcare-execs-bullish-ai"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 54
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1803136597.jpg"
-        width: 2732
-        height: 1200
         isCached: true
 
 secured: "Og+NuqMhOzZp3OupNiU5RdVi3UWTuN1TTSUwq2ug9bY0+UcC113n2MA0V79V/m3dLl0fyhqOy7P4OJiPitsauHhibD0CwD2y78/UaoUvDt2wnT/NbvbhXtAt3cwODwSs/BAABPKjUQ8BMx99rABrhK+WUnG9AghRD/1jjuXSvfg5yrpEYTGFVYL903t1x2Qbs0P6nM/dmfFD2ISIVVIMacvDZU1geYdImRGQ0kAZFkt3hoQdhM8muIKUyg0o9wbA1OfbshadofumC3i0szEEhQ1sA0BOE4E29dDK+n4UqsvwCBLRgUOQ0jj1bR8lTSttQr1F+DsXq1z4g/Cj94BsIuWCJ/IeOVIZmewSrS1eQYU=;SOjqX7yYKVvSLJlFMKj8Zg=="

@@ -158,7 +158,7 @@
       "originalUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -201,7 +201,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -295,7 +295,7 @@
       "originalUrl": "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 175,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -347,7 +347,7 @@
       "originalUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -494,7 +494,7 @@
       "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1126,49 +1126,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-31-geely-owned-zeekr-and-waymo-developing-self-driving-ev.md",
-      "title": "Geely-owned Zeekr and Waymo developing self-driving EV",
-      "excerpt": "Chinese automaker Geely’s EV subsidiary Zeekr has teamed up with the Californian technology firm Waymo to develop an autonomous cab. Previewed in official renders, the electric MPV is designed for use",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece",
-      "originalUrl": "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/life-and-style/motoring/bkidjc/article38081138.ece/ALTERNATES/LANDSCAPE_615/Zeekr-1",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/",
-      "publishedDateTime": "2021-12-31T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-31-maybe-2022-should-be-the-year-we-turn-over-decision-making-to-the-ai.md",
       "title": "Maybe 2022 should be the year we turn over decision-making to the AI",
       "excerpt": "An increasingly popular idea is to outsource choices to algorithms, even New Year's resolutions. It doesn’t sound half bad.",
@@ -1208,6 +1165,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-rezos-ai-powered-contact-center-delivers-faster-results-with-microsofts-ai-capabilities.md",
+      "title": "Rezo’s AI-powered contact center delivers faster results with Microsoft’s AI capabilities",
+      "excerpt": "Azure AI helps startups access high-quality vision, speech, language and decision-making ... supporting a wide range of use cases, including translation for call centers, web page localisation ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "originalUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/F800x400-d-1640887464935.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "publishedDateTime": "2021-12-30T21:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

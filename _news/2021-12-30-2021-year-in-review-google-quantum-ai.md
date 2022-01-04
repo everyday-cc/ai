@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/research/2021-year-review-google-quan
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/2021-year-review-google-quantum-ai/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 120
 published: true
 
 provider:

@@ -2,50 +2,6 @@
   "page": 20,
   "value": [
     {
-      "path": "_news/2021-12-14-machine-learning-trends-for-marketers-to-watch-in-2022.md",
-      "title": "Machine Learning Trends for Marketers to Watch in 2022",
-      "excerpt": "Machine learning and AI research are making strides daily, with interesting implications for business. While it feels like a lot of the cool innovations are happening only in the scientific fields, progress can be seen in the marketing discipline too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/94a7c49ae3ef4fc7ba5b3c945e91b28b.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
-      "publishedDateTime": "2021-12-13T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-12-14-unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams.md",
       "title": "Unique closes $6M Seed for its AI-driven video calls platform aimed at sales teams",
       "excerpt": "Unique, a video calls platform that uses AI to teach sales teams how to improve their pitches, has closed a $6 million Seed round from a bunch of Angel investors. These include Phillip Stauffer, U.S based founder and general partner of Fyrfly Venture Partners,",
@@ -1130,6 +1086,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-can-a-new-independent-institute-improve-the-ethics-of-ai.md",
+      "title": "Can a new independent institute improve the ethics of AI?",
+      "excerpt": "Former Google AI researcher Timnit Gebru is launching an independent AI institute to explore how the technology can exacerbate inequality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/",
+      "originalUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.maddyness.com/uk/app/uploads/2021/12/jackson-so-TQ3SgrW9lkM-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/?amp",
+      "cdnAmpWebUrl": "https://www-maddyness-com.cdn.ampproject.org/c/s/www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/?amp",
+      "publishedDateTime": "2021-12-12T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maddyness",
+        "domain": "maddyness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

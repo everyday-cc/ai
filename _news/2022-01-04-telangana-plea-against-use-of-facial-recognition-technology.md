@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-us
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_policing_rep_1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Telangana HC notices to government, Hyderabad police chief over use of facial recognition tech"
+    excerpt: "A PIL was filed in the Telangana HC challenging the deployment of facial recognition tech without any valid law on various grounds including violation of right to privacy, rule of law and equality."
+    publishedDateTime: 2022-01-04T02:24:00Z
+    webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.html"
+    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 47
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/18/w600X390/Telangana_High_Court.jpg"
+        width: 600
+        height: 390
         isCached: true
   - title: "Telangana High Court notice to State on plea challenging use of Facial Recognition Technology without law"
     excerpt: "The Telangana High Court on Monday issued notice to the State of Telangana on a plea challenging use of Facial Recognition Technology (FRT) by the State and Telangana Police without a valid law [ SQ Masood v State of Telangana ]."

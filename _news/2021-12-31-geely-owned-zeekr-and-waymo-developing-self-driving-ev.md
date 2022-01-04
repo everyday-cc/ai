@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-a
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Hindu
@@ -42,22 +42,6 @@ related:
       - url: "https://cdni.autocarindia.com/ExtraImages/20211230023648_Zeekr_Waymo_1.jpg"
         width: 900
         height: 596
-        isCached: true
-  - title: "Google's self-driving unit Waymo partners with Geely to develop electric robotaxis"
-    excerpt: "Google`s self-driving unit Waymo has partnered with Chinese automaker Geely to create a fleet of all-electric, self-driving robotaxis."
-    publishedDateTime: 2021-12-30T10:44:00Z
-    webUrl: "https://www.zeebiz.com/automobile/news-googles-self-driving-unit-waymo-partners-with-geely-to-develop-electric-robotaxis-174883"
-    ampWebUrl: "https://www.zeebiz.com/automobile/news-googles-self-driving-unit-waymo-partners-with-geely-to-develop-electric-robotaxis-174883/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/automobile/news-googles-self-driving-unit-waymo-partners-with-geely-to-develop-electric-robotaxis-174883/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 53
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
-        width: 700
-        height: 394
         isCached: true
 
 secured: "B/EzoP35khmIPDvJ8F7ImOs++fcWXcUpMvfq++6R2yG9X1cB+fd2N/Bbw453t5bAmnX8Ih2zABsnvjbYyjU9rgqXBuvWF/XYo/aJSfCRBNoS0Rp/8qM4fLqWGGc/58dnSxcLa+nHsBiHkRtBpLsCI2L8kYTFXY+jFTlzYHf4atCNAcTYyrhWOnWEvj0MuWspTZJoLFzDFjjzcUSOd1tNSHhG0eG5Fmdi1/QSezW7u5Z2xT94RvuyrisaJfWbDS0CHmKn7lvonA/xBtt7lxjKqT3T1ux52v1cm6UHN2OQzwwn1+iefH+nJM7SrQU7b8xM51F0dzV+KliWC6SmCuYAwi8xc/eElRUC42S0JpaoaX5i9QawONlun2pEllrJn/PzdyIBzYJB5R13eul3fBp8OukVwa7aj7ksYFewo8CG7q8Ahn9LMp9PlVJU0vWnhDi8VnmzFvFNG8oXhKmtcX1TPe6dTR+ECexpdESN1OaZ1/1BMS69ASRTRArfrEQEIq8Ig6dddWAf5oHNdedUGAsTMw==;2q2pKiJRnwfdZzcyz8M5bQ=="

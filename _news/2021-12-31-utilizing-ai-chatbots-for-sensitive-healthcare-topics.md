@@ -55,20 +55,6 @@ related:
         width: 1436
         height: 957
         isCached: true
-  - title: "Chatbot Market Global Industry Trends and Growth Opportunities 2021-2026: Development of Self-Learning Chatbots to Adapt to Changing Digital Environme"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The global chatbot market exhibited strong growth during 2015-2020."
-    publishedDateTime: 2021-12-30T10:49:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=593822"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "wYpc2lRBA5IZPkgzOTnu67Y+2twWdtMk1m58bV03IPkhqd5yWUMq+TEktNGEr1QmAyglUBzEwD1kb/2kUzx8/kzNxA9RLCb3U1obH1vYlWh+lXQCiW+6YR7RrwlX8Zeyzd6VOs6PoiignNEA6PdMb/D0QfoVBj2zKfsZLBYm9xLkT7Z6B9zkOqKqNoqDZ79Ae/UlrtcHbbZIhkeKM5HIdrMSLrOzzifYLgaQ7H6C2Nzf3XYl7o8wgUnzib6a8PhSVu5BBwLaUa4eKw99EGCBq9kX+uG3klQHyiXHq6tZWyhHmVuw4Bv7C+Gu6puB7IPloYNK6v58jaKE4R6yXARVqa8Gzg3vcUIcEyWg7AER07U=;U1g0Tk19HsW8l0jcbSZAeQ=="
 ---

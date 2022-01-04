@@ -2,9 +2,9 @@
 category: news
 title: "Self-driving tech a staple of the show; EV tech a relative newcomer"
 excerpt: "Some of the more intriguing startups this year are taking technologies developed by the auto-tech industry and deploying them in other applications."
-publishedDateTime: 2022-01-03T09:00:00Z
-originalUrl: "https://www.autonews.com/ces/5-mobility-startups-worth-watching"
-webUrl: "https://www.autonews.com/ces/5-mobility-startups-worth-watching"
+publishedDateTime: 2022-01-03T15:25:00Z
+originalUrl: "https://www.autonews.com/ces/5-mobility-startups-worth-watching-ces"
+webUrl: "https://www.autonews.com/ces/5-mobility-startups-worth-watching-ces"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 600
     isCached: true
 
-secured: "HDAPQefTJhiMtzcRYFjG0sT7MXNCnYPeH7sLQ2gLT0trPz0F+bu2YUytTAbUyabgEau/n7BEbQ7krtLyrIJ1SdEUGRZJ0TpqZu/vxGXRA+hb9cbXO57qMl5DpyHCzG6VJgADkogyWFF1agloa/1gooZi3FDrak6V5R3FayFowbfZh8SOCKt3voJWrn6s44V824UAeYD1hs9E69oJcWSOH0LmMWxrf9otNok6/hcRL3i6lExOdAv6xt0Ck1JQ1nygAQcz763BuhvX98pDotok3rQwpNdqyTNmpJWPV8nPcWEQVOTdMN4bnVJNMZ52cKerAE0etI08xTCqbJNJF1hUGDLxXCGb7ZPS41RpMG2V064=;kpMTcHUo5P8KpXXuUiFWgA=="
+secured: "x8ux2jEyTRJz2MNPhWTiFWo2YQp3qj8HKmckcdHj7cID7/uYfg0qKr36jtTBpPh6jlnusuiJWyo6AvJ1EZPb51zdrVBuiEl3C/yWY2yFynQoDgcCniJfSGtq1o1TrlXeM2sJvR05fHvn5ZtSx4dc45hTs8od20C4XoyjPLi8y80tORviMj6FkhxDNgNnB3orj7wtl2TVy5ObTqV4p2W77vd8p8bkgwYMVPf/WZ78lxwJiJjQ8AbqOX9A2hdCiaW/YrVkEI0wIC1YiMbICpz1GGbo8UwyTNQYtpTDc19O5PUM2x96S6fxHZaVe3HXHwwM47Wp/YlCoAfBBBsMsbq2I7GuVRZAlwcg41fZ4VRYQ94=;upG9cIYikFs3b0dWdGyL6g=="
 ---
 
