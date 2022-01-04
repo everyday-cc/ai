@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
+    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
+    publishedDateTime: 2022-01-03T15:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "SoyNet to introduce AI accelerator at CES 2022"
     excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
     publishedDateTime: 2021-12-31T16:00:00Z
@@ -49,20 +63,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
-    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage"
-    publishedDateTime: 2022-01-03T13:30:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022/article_f48f0b1a-dec3-53ab-84f0-92c47fc09679.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 37
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/2d/e2db96ec-5423-5ca9-8f02-b0d434dc18c0/61d30947ed47a.image.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
     excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
     publishedDateTime: 2022-01-04T02:02:00Z
@@ -76,6 +76,34 @@ related:
       - url: "https://www.digitimes.com/newsshow/20220104PD202_files/6_2b.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "CES 2022: FaceHeart Corp. Launches Visual Recognition AI Tech to Measure Vital Signs"
+    excerpt: "FaceHeart Corporation (  a tech-based provider of healthcare solutions, today announced the launch of its proprietary AI technology, capable of granting seamless access to vital sign measurement using existing consumer devices."
+    publishedDateTime: 2022-01-04T17:37:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-96c9a7885556c84c44c4c0a14388cc76"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "b+CV5hnH6HM8SbyXGLh7xd6Z2rJrA//3uHBh4NlU2CLMnIlnrSrSXGyynALNd+KYz56mRBAs840gCm7DJtdlDBxAAiIXI0bgEq+lFyao6DkFEFHL7vqIftGAwv/9dCeBHBfUl2L7zMX/Bo97HY4Ag6SOIitooizFAB+6eTJavR+DcFnQ02BKvDC2INncaDZn7f/y2ftJ1V/mzcUv1mrhCz7c5FdqWKh9S6pueb/Yc6CbmmmktijnqRJY6ojsBiAWIcTOyeRVFFTaRRcskdSEDGjSg9eVwXxzTVOpzShQhR5nzQJOftvgRuh0smrIemxRHT8IRtCI3RlJU6PuQU+dIhZZCBp6fx2gDYOZWSAwpV0=;eKVDRVFaECuvgsJdHuajog=="

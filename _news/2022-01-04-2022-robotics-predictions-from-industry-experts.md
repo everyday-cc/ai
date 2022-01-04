@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-indu
 webUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/"
 type: article
 quality: 84
-heat: 105
+heat: 104
 published: true
 
 provider:

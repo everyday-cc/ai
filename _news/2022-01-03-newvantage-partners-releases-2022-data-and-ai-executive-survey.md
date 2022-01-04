@@ -1,24 +1,29 @@
 ---
 category: news
 title: "NewVantage Partners Releases 2022 Data And AI Executive Survey"
-excerpt: "NewVantage Partners, A Wavestone Company, strategic advisors to Fortune 1000 clients in data-driven business leadership since 2001, has released the r"
-publishedDateTime: 2022-01-03T14:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20220103005036/en/NewVantage-Partners-Releases-2022-Data-And-AI-Executive-Survey"
-webUrl: "https://www.businesswire.com/news/home/20220103005036/en/NewVantage-Partners-Releases-2022-Data-And-AI-Executive-Survey"
+excerpt: "NewVantage Partners, A Wavestone Company, strategic advisors to Fortune 1000 clients in data-driven business leadership since 2001, has released the results of its annual Data and AI Leadership Executive Survey."
+publishedDateTime: 2022-01-03T14:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-sports-business-europe-674ee06549aa43c8bba0145e9242ec6b"
+webUrl: "https://apnews.com/press-release/BusinessWire/nfl-technology-sports-business-europe-674ee06549aa43c8bba0145e9242ec6b"
 type: article
-quality: 21
-heat: 21
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Ethics
   - AI
-  - AI Hardware
 
-secured: "QksJtCKgMEJXxZJdUXfhKw/f8SRrohNvbkTUgJiQc6pC8kMlMU0rW2wYtI1fw/b5HGEy45B+9wIxKet1FZu/xFlotHBpGRf7mHTIWEAi/rw7MIx48M9kp+Pj49RmR3SYEWuLG8zZnI/qH6E3wBFMAdlg7we43DQd5fb6rZzOXpcBI2EeciHuHuLD0r3k4xIIEOyzXvreZnEEr3Oy3CiF61GQk31jquAXtE/ED7BsN+yJDIU+BiH+1h5daK+p1HL61yJ38oK4dZPs5MtaFFc/2LjHVuVkweQ8FBZckDxstzOJKQpYm1vVxwlR/QZvCV7fKCYcRcrDeL7ElT37Q+eY/YL3aehMiv1Idr4FXQxg0Wg=;vXchAT62gzMJeUuRv6UETQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "viokHRch9F1rwzjC6jiseUMKnw3lEFMI2348rGmbZi4R+uGHkyWfh8vnzMoSKB6SRdl9ezwMNZ51Rtuwez5lj4d2K5T8Rahj5uXOd4ql5JWI1CiMOofNp8hipR640QFANnSBUGo2ZamTroHC/HfB8KpuZpaFEoQzTebJNrnW0+GzCBu/BF0KTcWEj1KnKFUOYXMo5QohumpkaxxjKKPtJQDZ9uKDlRF+RGxJaCE1T1+6pMTGzqGtpXaLhHJFH28xiDAs8rg6i4vuIQursraC0nWD4qYMoeIAoqia5CYuSDeI85ib0AN5yO9o4rarM4i4cSnqD0nLYVCfaPNKOexAL3kFWaCkhVolANLaCrxsMgk=;uM3J3eOYKoVu+WX7QBRcaQ=="
 ---
 

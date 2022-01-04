@@ -95,6 +95,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Understanding AI’s Limitations Is Key to Unlocking Its Potential"
+    excerpt: "Artificial intelligence (AI) is revolutionizing many processes across industries and applications—digital customer service assistants, autonomous"
+    publishedDateTime: 2022-01-04T16:03:00Z
+    webUrl: "https://www.datanami.com/2022/01/04/understanding-ais-limitations-is-key-to-unlocking-its-potential/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 41
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Danny-Schaarmann-300x300.png"
+        width: 300
+        height: 300
+        isCached: true
   - title: "The blurry image around AI"
     excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
     publishedDateTime: 2021-12-31T09:25:00Z
@@ -108,20 +122,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQHOCklxwGhAMg/article-cover_image-shrink_720_1280/0/1640941427897?e=1646265600&v=beta&t=X72T924boTZVIMCv9zpSrL2wALNN4N7I7HJB3s306GI"
         width: 1280
         height: 640
-        isCached: true
-  - title: "Understanding AI’s Limitations Is Key to Unlocking Its Potential"
-    excerpt: "Artificial intelligence (AI) is revolutionizing many processes across industries and applications—digital customer service assistants, autonomous"
-    publishedDateTime: 2022-01-04T16:03:00Z
-    webUrl: "https://www.datanami.com/2022/01/04/understanding-ais-limitations-is-key-to-unlocking-its-potential/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Danny-Schaarmann-300x300.png"
-        width: 300
-        height: 300
         isCached: true
 
 secured: "nRL7weWH023RB2Xi0kQml6JSc44I7iwHTiiSiQ01XjIyP+Zoa+hmMt8pGIEkSA0QA180Y7ukj+HcXSa9U46/yu/Ay9mNgYJRIC8x4tkBKM8PL+8XVBWfveJxEUXOlLir7bOtwlTcWeYmP5eemUeTd8TGZhZB1YQeVDymgSgUUIoU786XFY8cIdrtZELyqDe8Fi8BRZ/Xybwt9M2A2PE0njsetSN7UXOgv9j4cFMGwLVklbJvdY89bXkVjvpN7wcTX98qcVq5VDqBzgED2wb03lzbyybwpeFjGdQ5o3ygBN8JH6cjb6vvRjIK6DofdzoGEs+2VoESqtrxOsmXjhzL0LGQpKqX1mnl0tu1kayZG9xgHo7yY9024NEWENC+oXZmr+ErV54SnqIyFkzkqUhsjff6Qxy6Mm1HMmGBCjUh+Y485qrnT8bGamPOI0joxBUpav/H93piFInOcYeCf1v5fwd7yrDykKCN7PvXSboZKdDrZhI58GyyBpMoBIusJq4856zqdgsmGauDSVbgXbBEug==;gWanfPENWo8Z0iHc3UesIw=="

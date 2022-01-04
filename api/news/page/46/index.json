@@ -2,6 +2,292 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-11-26-baidu-ponyai-cleared-for-beijing-robotaxi-service.md",
+      "title": "Baidu, Pony.ai cleared for Beijing robotaxi service",
+      "excerpt": "SHANGHAI -- Chinese tech group Baidu Inc. and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the companies deploy not more than 100 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/china/baidu-ponyai-cleared-beijing-robotaxi-service",
+      "originalUrl": "https://www.autonews.com/china/baidu-ponyai-cleared-beijing-robotaxi-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/RTXEXMJ3%281%29.JPG",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T11:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-nvidias-latest-ai-technology-transforms-words-into-realistic-images.md",
+      "title": "Nvidia's latest AI technology transforms words into realistic images",
+      "excerpt": "Nvidia showed its GauGAN technology for the first time in 2019, but only recently we saw it being featured in a product available for the general",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html",
+      "originalUrl": "https://www.techspot.com/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogs.nvidia.com/wp-content/uploads/2021/11/gaugan2-corp-blog-128-adaptive-1280x680-1.gif",
+          "width": 1200,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92385-nvidia-latest-ai-technology-transforms-words-realistic-images.html",
+      "publishedDateTime": "2021-11-25T09:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-christiano-cotra-and-yudkowsky-on-ai-progress.md",
+      "title": "Christiano, Cotra, and Yudkowsky on AI progress",
+      "excerpt": "This post is a transcript of a discussion between Paul Christiano, Ajeya Cotra, and Eliezer Yudkowsky on AGI forecasting, following up on Paul and Eliezer's \"Takeoff Speeds\" discussion. Color key: Chat by Paul and EliezerChat by Ajeya 8.",
+      "sourceUrl": null,
+      "webUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
+      "originalUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.discordapp.com/attachments/887568029733519391/889924404392370226/ChessEnginePerformance.png",
+          "width": 1146,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T08:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LessWrong",
+        "domain": "lesswrong.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-vibrating-sleeve-gives-wearer-a-feel-for-languages.md",
+      "title": "Vibrating sleeve gives wearer a feel for languages",
+      "excerpt": "For the past year or so, a student team from the Eindhoven University of Technology has been working on a wearable that could allow folks to understand what's being said in another language through vibrations on the arm.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
+      "originalUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/0af92a6/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2F86%2F1b496d894a838893aaf9744a2057%2F1115-66cb700208516f8a063418572da51f8c.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
+      "publishedDateTime": "2021-11-25T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-vibrating-sleeve-gives-wearers-a-feel-for-languages.md",
+      "title": "Vibrating sleeve gives wearers a feel for languages",
+      "excerpt": "For the past year or so, a student team from the Eindhoven University of Technology has been working on a wearable that could allow folks to understand what's being said in another language through vibrations on the arm.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
+      "originalUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/0af92a6/2147483647/strip/true/crop/5000x3333+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2F86%2F1b496d894a838893aaf9744a2057%2F1115-66cb700208516f8a063418572da51f8c.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/team-hart-vibrating-sleeve-language-communication/?amp=true",
+      "publishedDateTime": "2021-11-25T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-these-machine-learning-algorithms-can-add-great-value-to-a-business-in-cutting-down-costs.md",
+      "title": "These machine learning algorithms can add great value to a business in cutting down costs",
+      "excerpt": "Machine learning algorithms can help computers play chess, get smart, personal, and perform surgeries. Machine learning is one of the vital technologies that has been used in the current world. Let’s see what ML algorithms for business can favour.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-10-machine-learning-algorithms-to-benefit-business-operations/",
+      "originalUrl": "https://www.analyticsinsight.net/top-10-machine-learning-algorithms-to-benefit-business-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-10-Machine-Learning-Algorithms-to-Benefit-Business-Operations.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-design-of-ai-may-change-with-the-open-source-apache-tvm-and-a-little-help-from-startup-octoml.md",
       "title": "Design of AI may change with the open-source Apache TVM and a little help from startup OctoML",
       "excerpt": "Optimizing the compute graph of neural nets for new hardware may change even the training of neural nets, says startup OctoML.",
@@ -888,299 +1174,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-ai-will-soon-oversee-its-own-data-management.md",
-      "title": "AI will soon oversee its own data management",
-      "excerpt": "Many organizations are turning to AI to help scrub the data that is needed by AI in order to function properly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/",
-      "originalUrl": "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/05/josh-hild-WjZ4eaHq9G4-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/ai-will-soon-oversee-its-own-data-management/amp/",
-      "publishedDateTime": "2021-11-24T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-heres-why-an-mit-professor-thinks-ai-will-cause-more-harm-than-good.md",
-      "title": "Here's Why an MIT Professor Thinks AI Will Cause More Harm Than Good",
-      "excerpt": "Artificial intelligence holds tremendous promise, but the technology also threatens society. According to MIT Economist Daron Acemoğlu, AI must be regulated now.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/will-ai-cause-more-harm-than-good",
-      "originalUrl": "https://interestingengineering.com/will-ai-cause-more-harm-than-good",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/V0OyvqBgGQ/sizes/multi-coloured-squares-in-mid-air-gathering-to-form-head-picture-id970317224_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/will-ai-cause-more-harm-than-good",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/will-ai-cause-more-harm-than-good",
-      "publishedDateTime": "2021-11-24T13:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-tesla-asks-full-self-driving-beta-drivers-to-consent-to-being-recorded-when-they-crash.md",
-      "title": "Tesla Asks Full Self-Driving Beta Drivers to Consent to Being Recorded When They Crash",
-      "excerpt": "Tesla's new requirement speaks to a larger issue around privacy trade-offs with certain types of in-car driver monitoring systems.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913",
-      "originalUrl": "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/e02a404fce0521f2a37718e625fb01e3.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-asks-full-self-driving-beta-drivers-to-consent-to-1848116913/amp",
-      "publishedDateTime": "2021-11-24T12:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens.md",
-      "title": "Robots and AI assist in designing and building Swiss university’s ‘hanging gardens’",
-      "excerpt": "Architecture and construction have always been, rather quietly, at the bleeding edge of tech and materials trends. It’s no surprise, then, especially at a renowned technical university like ETH Zurich,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/",
-      "originalUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Semiramis_RFL_DSC_7692.jpg?w=1024",
-          "width": 1024,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/24/robots-and-ai-assist-in-designing-and-building-swiss-universitys-hanging-gardens/amp/",
-      "publishedDateTime": "2021-11-24T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-2021-makex-robotics-competition-north-american-open-ends-successfully.md",
-      "title": "2021 MakeX Robotics Competition North American open. ends successfully",
-      "excerpt": "The robot itself is a complex system that combines ... There is a world of possibilities in STEAM ranging from artificial intelligence to the Internet of Things and the hope is that through ...",
-      "sourceUrl": null,
-      "webUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/",
-      "originalUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theislandnow.com/wp-content/uploads/2021/11/IMG_4408-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/",
-      "cdnAmpWebUrl": "https://theislandnow-com.cdn.ampproject.org/c/s/theislandnow.com/community-news/2021-makex-robotics-competition-north-american-open-ends-successfully/amp/",
-      "publishedDateTime": "2021-11-24T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Island Now",
-        "domain": "theislandnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-mediatek-chips-had-faced-a-vulnerability-that-allowed-apps-to-eavesdrop-on-users.md",
-      "title": "MediaTek chips had faced a vulnerability that allowed apps to eavesdrop on users",
-      "excerpt": "Earlier today (25th November 2021), a vulnerability was spotted in the AI and audio processing components in recently launched MediaTek chipsets. This vulnerability would’ve allowed apps to eavesdrop on users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/05/gsmarena_000.jpg",
-          "width": 1220,
-          "height": 526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/24/mediatek-chips-vulnerability-let-apps-eaverdrop/?amp=1",
-      "publishedDateTime": "2021-11-24T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

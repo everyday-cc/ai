@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
-publishedDateTime: 2022-01-04T15:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20220104005270/en/Tekion-Expands-Cloud-Hosting-Options-with-Microsoft-Azure"
-webUrl: "https://www.businesswire.com/news/home/20220104005270/en/Tekion-Expands-Cloud-Hosting-Options-with-Microsoft-Azure"
+excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
+publishedDateTime: 2022-01-04T15:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -62,6 +62,6 @@ related:
         height: 348
         isCached: true
 
-secured: "7sYvLoZY01gStEM+uttW98f59df96RL/EoEnHgCw9qP6WxwclW+JLDcNBn6zxiZo7ehtzb5TX+BsunmLImnyirDysSZp4zY47aN4YxzwxhEgmXbT3FYKm11dGimz2nJjrBJiidOER2Eg/c/AAiKbSsRtOuV/ito4aPweczlLlju39UKbG7Ms1HvG93qc8H5yZN1oXLU8fUWtJpY0fLoXKbhMyV/MrzZCJ61BVDyZPfdaLhwXzYGw4OK6B3AtLWIoZyBWcbqSe+cAn47g4dOd2P18PrQvEH2Pr1/GW2Vi9xVhAAf5judijnWeXwuyYGH+56BMcYOgLhVwKoRjYE3SI9DE929WshW6WVhzPQEUtqQ=;2jeKy7z6yfqyWwsxMf5ZHQ=="
+secured: "zNUdQiYtIDQOrvYudRJyf2Ph9L4laktoxkD55JNhN0efNELUKNTwJuTxTdm/J5UXUx+Zwm0IotXkOInT15rXBKJxh7FvSeukh6wvHGik9fmzSDu+pCB3ZkUIBfRlRItV3+HGgwCxusMzOoZ0Aty+n4pla/GQv+cRL23hRDVEJ1hio3es2A50wE58DD0qcvADvz6IQlfEdomVg+uy6nj58DwsIm5SOBM2KgsotDrdJ7ttxzp4m/kzDM9cQp5xBnb6miv8krRH3Q6Ec+HD8cYlWoWQPrpebpIcB3ZKveFWz9u2jutBEQr9qGEuEagtl7xpDby8kxhtZ/0+f/H4ArwmWs0e8Xput0tE0ZF5lupKESI=;YtmCszWKi58+r97cDtGguw=="
 ---
 

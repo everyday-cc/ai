@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "5 AI Trends to Watch out for in 2022"
+    excerpt: "Multi-Modal AI and Large Language Models are among the breakthroughs are among the breakthroughs that will keep AI moving ahead in 2022."
+    publishedDateTime: 2022-01-04T16:00:00Z
+    webUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
+        width: 918
+        height: 1024
+        isCached: true
 
 secured: "zjbvhpo/JIx8Uv/WBa75775hpL/eAyjOjHcQJtLM3FIEhyZ5uUaoo4rd43pDhURhbFH/BBJc2BDDx2irk7kVlraH7ySLJpv8meV9yx0vY/kiw5m/fdGhHfu+C65rpKCgFXe1g1KTvSt13V00xdRggaQMeGsNSgyM+zbDyqCmTzq5sqY17ime2qGXCLfvtab4qIM8gmDRjQxj0yPkbyxYtj3iatoz8ohKE6gs+7BA+ZHrsPlVXmIiSvKfxFb/FQL/lHahkzvHBOqkRJcApqT07MikYyorCg6FyRmKPumcP/jKDdveNnCHyjhXb16irvTFn12iYQR+hl5nDdTwGWt54VrrWqdMcItY5hYqVAPqbZY=;PLBmqDsCoIMuDaat3bvwBw=="
 ---

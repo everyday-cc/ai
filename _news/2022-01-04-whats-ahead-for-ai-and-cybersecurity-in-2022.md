@@ -9,8 +9,8 @@ ampWebUrl: "https://securityboulevard.com/2022/01/whats-ahead-for-ai-and-cyberse
 cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: securityboulevard.com
@@ -27,6 +27,34 @@ images:
     isCached: true
 
 related:
+  - title: "Tech Predictions for 2022: Cloud, Data, Cybersecurity, AI, and More"
+    excerpt: "“Enterprises will empower business users to become data analysts by applying well-trained natural language processing (NLP) and machine learning technologies, and implementing richly curated data catalogs to unleash the power of complex analytic"
+    publishedDateTime: 2022-01-04T18:04:00Z
+    webUrl: "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 69
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2021/04/business-meeting-tech-analytics.jpeg"
+        width: 1920
+        height: 1362
+        isCached: true
+  - title: "5 predictions for 2022—artificial intelligence and machine learning will go mainstream"
+    excerpt: "At the start of 2022, we bring you a series of episodes that pull together the five most interesting predictions we found in multiple areas in tech. In this episode, we focus on AI and machine learning,"
+    publishedDateTime: 2022-01-03T05:11:00Z
+    webUrl: "https://www.forbesindia.com/audio/forbes-india-daily-tech-brief-podcast/5-predictions-for-2022artificial-intelligence-and-machine-learning-will-go-mainstream/72685"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 61
+    images:
+      - url: "https://www.forbesindia.com/media/audio/2022/Jan/forbesindiatechbriefingpodcast_800x600_logo.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Ways AI can help us enter a new age of cybersecurity"
     excerpt: "Artificial Intelligence (AI) is becoming better as we speak. From business operations to home applications, AI is expanding rapidly everywhere across the globe. AI is proving helpful in various"
     publishedDateTime: 2022-01-04T09:52:00Z

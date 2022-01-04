@@ -2,6 +2,370 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-04-train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility.md",
+      "title": "Train graph neural nets for millions of proteins on Amazon SageMaker and Amazon DocumentDB (with MongoDB compatibility)",
+      "excerpt": "There are over 180,000 unique proteins with 3D structures determined, with tens of thousands new structures resolved every year. This is only a small fraction of the 200 million known proteins with distinctive sequences. Recent deep learning algorithms such as AlphaFold can accurately predict 3D structures",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/09/ML-5542-image001-978x630.png",
+          "width": 978,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:48:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-acers-swift-x-may-be-a-sleeper-gaming-hit-with-intels-arc-discrete-gpu.md",
+      "title": "Acer's Swift X May Be a Sleeper Gaming Hit With Intel's Arc Discrete GPU",
+      "excerpt": "Acer’s Swift X may secretly be a do-it-all laptop—but we still have questions about Intel's Arc, price, and battery life.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/acers-swift-x-may-be-a-sleeper-gaming-hit-with-intels-a-1848297245",
+      "originalUrl": "https://gizmodo.com/acers-swift-x-may-be-a-sleeper-gaming-hit-with-intels-a-1848297245",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6bc26af52a6d369274ea030192fd39d7.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/acers-swift-x-may-be-a-sleeper-gaming-hit-with-intels-a-1848297245/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/acers-swift-x-may-be-a-sleeper-gaming-hit-with-intels-a-1848297245/amp",
+      "publishedDateTime": "2022-01-04T10:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-intel-launches-its-arc-graphics-chips-for-pc-gaming.md",
+      "title": "Intel launches its Arc graphics chips for PC gaming",
+      "excerpt": "Intel aims to disrupt the duopoly of Nvidia and Advanced Micro Devices with its own Arc standalone graphics chips launching today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
+      "originalUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch-7.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
+      "publishedDateTime": "2022-01-04T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-the-convergence-of-deep-neural-networks-and-immunotherapy.md",
+      "title": "The convergence of deep neural networks and immunotherapy",
+      "excerpt": "What do deep neural networks and cancer immunotherapy have in common? While both are among the most transformational areas of modern science, 30 years ago, these fields were all but ridiculed by the scientific community.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/",
+      "originalUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1280246102.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/amp/",
+      "publishedDateTime": "2022-01-04T10:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-tech-predictions-for-2022-cloud-data-cybersecurity-ai-and-more.md",
+      "title": "Tech Predictions for 2022: Cloud, Data, Cybersecurity, AI, and More",
+      "excerpt": "“Enterprises will empower business users to become data analysts by applying well-trained natural language processing (NLP) and machine learning technologies, and implementing richly curated data catalogs to unleash the power of complex analytic",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
+      "originalUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/business-meeting-tech-analytics.jpeg",
+          "width": 1920,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-powerful-gpu-yet.md",
+      "title": "Nvidia's RTX 3090 Ti Is Here, and It Might Be the Most Powerful GPU Yet",
+      "excerpt": "The new RTX 3080 Ti, coming to dozens of new gaming systems in the next few months, comes with 16GB of GDDR6 RAM, and is supposedly more powerful than the desktop Titan RTX GPU. Nvidia claims these chips can run games at 1440p at 120 frames per second or higher.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289",
+      "originalUrl": "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/51c3b654e95e1c2a08cc845786909c6b.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289/amp",
+      "publishedDateTime": "2022-01-04T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks.md",
+      "title": "Nvidia Drive Hyperion 8 will pilot self-driving cars and trucks",
+      "excerpt": "Learn more Nvidia unveiled its latest generation platform for self-driving vehicles: the Drive Hyperion 8. The company unveiled the latest technology for self-driving cars and trucks at CES 2022, the tech trade show in Las Vegas this week.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/",
+      "originalUrl": "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/nvidia-ces-tusimple.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/",
+      "publishedDateTime": "2022-01-04T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-with-intel-mobileyes-newest-chip-automakers-can-bring-automated-driving-to-cars.md",
       "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars",
       "excerpt": "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving.",
@@ -10,7 +374,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -191,40 +555,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-knowles-kn-fluentai-to-offer-voice-controlled-tws-earbuds.md",
-      "title": "Knowles (KN), Fluent.ai to Offer Voice-Controlled TWS Earbuds",
-      "excerpt": "Knowles Corporation KN recently announced that it has partnered with speech recognition software provider Fluent.ai to unveil and demonstrate next-gen voice-controlled True Wireless Stereo (TWS) earbuds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds",
-      "originalUrl": "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds?amp",
-      "publishedDateTime": "2022-01-04T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -686,49 +1016,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-04-whats-ahead-for-ai-and-cybersecurity-in-2022.md",
-      "title": "What’s Ahead for AI and Cybersecurity in 2022",
-      "excerpt": "There was no shortage of cybersecurity headlines in 2021. From REvil's attacks, disappearance and resurgence to a brewing “cyber cold war” sweeping the",
-      "sourceUrl": null,
-      "webUrl": "https://securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/",
-      "originalUrl": "https://securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securityboulevard.com/wp-content/uploads/2018/11/AI-Machine-Learning-Biometric.jpg",
-          "width": 770,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/amp/",
-      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/amp/",
-      "publishedDateTime": "2022-01-04T00:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "securityboulevard.com",
-        "domain": "securityboulevard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-04-improving-the-cloud-for-telcos-updates-of-microsofts-acquisition-of-atts-network-cloud.md",
       "title": "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud",
       "excerpt": "In June 2021, Microsoft and AT&T reached a major milestone when we announced an industry-first collaboration to adopt Microsoft cloud technology for AT&T’s 5G core network workloads. Since then, we have had requests from many operators, partners, and customers to share more details. This blog is intended",
@@ -832,7 +1119,7 @@
       "originalUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -875,7 +1162,7 @@
       "originalUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -958,238 +1245,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast.md",
-      "title": "Start the New Year Right with TheDetroitBureau’s Headlight News Podcast",
-      "excerpt": "TheDetroitBureau.com covers the top stories occurring in the auto industry in the latest edition of the Headlight News podcast. The weekly roundup includes news, features, reviews and more. The on-again,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedetroitbureau.com/2021/12/geelys-zeekr-to-build-autonomous-vehicles-for-waymo/",
-      "originalUrl": "https://www.thedetroitbureau.com/2022/01/start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/waymo_zeekr-3.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T15:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheDetroitBureau",
-        "domain": "thedetroitbureau.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-1493-billion-in-2027.md",
-      "title": "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027",
-      "excerpt": "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/",
-      "originalUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/01/Logistics-Robots.jpg",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/",
-      "publishedDateTime": "2022-01-03T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-identity-verification-using-amazon-rekognition.md",
-      "title": "Identity verification using Amazon Rekognition",
-      "excerpt": "In-person user identity verification is slow to scale, costly, and high friction for users. Machine learning (ML) powered facial recognition technology can enable online user identity verification. Amazon Rekognition offers pre-trained facial recognition capabilities that you can quickly add to your",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/03/ML-7111-featured-image2.png",
-          "width": 488,
-          "height": 344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T14:22:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-telangana-plea-against-use-of-facial-recognition-technology.md",
-      "title": "Telangana: Plea against use of facial recognition technology",
-      "excerpt": "Hyderabad: The Division Bench headed by Chief Justice Satish Chandra Sharma and Justice Abhinand Kumar Shavili on Monday issued notices to Principal Secretary, Municipal Administration & Urban Affairs and the Hyderabad city police commissioner directing them to respond to the notices on implementation of facial recognition technology in Telangana State within six months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "originalUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/10/25/1118832-hc.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "publishedDateTime": "2022-01-03T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-how-combining-human-expertise-and-ai-stop-cyberattacks.md",
-      "title": "How combining human expertise and AI stop cyberattacks",
-      "excerpt": "Enterprises fail to get the most value from threat monitoring and cybersecurity strategies because they're too focused on data collection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
-      "originalUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1314526623-e1641229497586.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/",
-      "publishedDateTime": "2022-01-03T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

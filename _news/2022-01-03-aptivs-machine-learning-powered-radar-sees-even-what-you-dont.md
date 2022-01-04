@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-2022/?amp"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

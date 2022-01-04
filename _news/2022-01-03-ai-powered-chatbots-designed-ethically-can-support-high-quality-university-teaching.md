@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-qua
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
         width: 1436
         height: 957
         isCached: true
+  - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
+    excerpt: "Authors: Nadia Naffi, Assistant Professor, Educational Technology, Chair in Educational Leadership in the Innovative Pedagogical Practices in Digital Contexts, Universite Laval; Ann-Louise Davidson, Concordia University Research Chair,"
+    publishedDateTime: 2022-01-04T17:38:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/ai-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching"
+    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/ai-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching/wcm/da652a7a-95bb-4f4f-9c4e-f7cd24adbbcd/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/ai-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching/wcm/da652a7a-95bb-4f4f-9c4e-f7cd24adbbcd/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 47
 
 secured: "FHIYywbiipAd4pxIyzfgMmxIs5dhrQ/al/3mRwCdyvBcCU5W5vBhUUWLmEKbdL9db//FaanF5cP6ilEJkA0OrTJD7uPGPTM84L3dH6gTxYt3W4fe31mpqhqkFqqEq9Lm4Hm7CZhZy9EASncQrUhIcD0x0xs1wLiLfiocoPGqzSk4imiPh0a7hfNKmnBAGJlDZlkt+LGRJq6OwLO/+5fCH4tocqPXtQR6er7KaDIHdonDoR/Pl2GHkKUq6R3GK53zr2BZyiWmBbSHQbulmSqNA0F9NTzFIvq8iJ2LGCrWstGQDRh6dvonMDBfL33Tcc5xkDnVvph6oszcC7jc0B0TGS56K5z389GsAaQJWuwUkC0=;fzNpk5/MTbnxb1lCpk2ogg=="
 ---

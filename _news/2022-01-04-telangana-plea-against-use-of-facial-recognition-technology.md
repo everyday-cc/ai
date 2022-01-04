@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-us
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
 type: article
 quality: 74
-heat: 194
+heat: 195
 published: true
 
 provider:

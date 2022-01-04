@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-a
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/life-and-style/motoring/geely-owned-zeekr-and-waymo-developing-self-driving-ev/article38081139.ece/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 615
     height: 384
     isCached: true
-
-related:
-  - title: "Zeekr, Waymo working on self-driving EV"
-    excerpt: "Chinese brand Zeekr will develop passenger-centric EV in Sweden before Waymo installs autonomous tech in the US. Click to know more."
-    publishedDateTime: 2021-12-31T01:30:00Z
-    webUrl: "https://www.autocarindia.com/car-news/zeekr-waymo-working-on-self-driving-ev-423076"
-    ampWebUrl: "https://www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
-    cdnAmpWebUrl: "https://www-autocarindia-com.cdn.ampproject.org/c/s/www.autocarindia.com/car-news-amp/zeekr-waymo-working-on-self-driving-ev-423076"
-    type: article
-    provider:
-      name: Autocar India
-      domain: autocarindia.com
-    quality: 59
-    images:
-      - url: "https://cdni.autocarindia.com/ExtraImages/20211230023648_Zeekr_Waymo_1.jpg"
-        width: 900
-        height: 596
-        isCached: true
 
 secured: "B/EzoP35khmIPDvJ8F7ImOs++fcWXcUpMvfq++6R2yG9X1cB+fd2N/Bbw453t5bAmnX8Ih2zABsnvjbYyjU9rgqXBuvWF/XYo/aJSfCRBNoS0Rp/8qM4fLqWGGc/58dnSxcLa+nHsBiHkRtBpLsCI2L8kYTFXY+jFTlzYHf4atCNAcTYyrhWOnWEvj0MuWspTZJoLFzDFjjzcUSOd1tNSHhG0eG5Fmdi1/QSezW7u5Z2xT94RvuyrisaJfWbDS0CHmKn7lvonA/xBtt7lxjKqT3T1ux52v1cm6UHN2OQzwwn1+iefH+nJM7SrQU7b8xM51F0dzV+KliWC6SmCuYAwi8xc/eElRUC42S0JpaoaX5i9QawONlun2pEllrJn/PzdyIBzYJB5R13eul3fBp8OukVwa7aj7ksYFewo8CG7q8Ahn9LMp9PlVJU0vWnhDi8VnmzFvFNG8oXhKmtcX1TPe6dTR+ECexpdESN1OaZ1/1BMS69ASRTRArfrEQEIq8Ig6dddWAf5oHNdedUGAsTMw==;2q2pKiJRnwfdZzcyz8M5bQ=="
 ---

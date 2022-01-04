@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Drive Hyperion 8 will pilot self-driving cars and trucks"
+    excerpt: "Learn more Nvidia unveiled its latest generation platform for self-driving vehicles: the Drive Hyperion 8. The company unveiled the latest technology for self-driving cars and trucks at CES 2022, the tech trade show in Las Vegas this week."
+    publishedDateTime: 2022-01-04T16:52:00Z
+    webUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/"
+    ampWebUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/nvidia-ces-tusimple.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "TuSimple to use Nvidia chips for computing in self-driving trucks"
     excerpt: "Self-driving freight trucks, while still operating largely in pilot projects, have become a focus of the autonomous industry"
     publishedDateTime: 2022-01-04T12:36:00Z

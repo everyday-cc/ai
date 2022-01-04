@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Intel's Mobileye unveils a chip that could bring self-driving cars to the masses"
+    excerpt: "Self-driving car technology is currently limited to test programs and specialized vehicles, but Mobileye thinks it can play a key role in making driverless vehicles you can actually buy. The Intel-owned company has unveiled an EyeQ Ultra system-on-chip designed with consumer self-driving cars in mind."
+    publishedDateTime: 2022-01-04T18:16:00Z
+    webUrl: "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 66
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/1f232f00-ea43-11eb-afab-432c0d85748b"
+        width: 4000
+        height: 2667
+        isCached: true
 
 secured: "Gc+ylLFwtj7NG55VR/60jzHX+B0BUrDmSm1u3fPCFOrsaMgYHAGjDCbWh50Y18IM9EnIMCrep/8oa6zTr/1LbMUsZmW5PE6txecPFVlxmZNWYWChHsuH7R39WLCJnae61ZvFdp5cdiCuA97V9KI7kxP36/1ojqmkaMuCFjWwB+9bTZAVB17E6s4aNxIasPPHKFCnT1Vxd1FrreRs+QnYZ85Br/AN0SBHUBOIKJnCoH39D8gb+1qp6mxr+J4K7H88z1GeKMi+kaHkDyAyaPM9AHzQCJGqX1hvHIGwUIRsDK55cABrddPN0m/NxC5Djf7TKGfIbBgrG2ilhXdsFUw4HXwMfg2l1VtrMxVHpHqPqmE=;nIPh/p9m4ZVgaB/q06Lu8w=="
 ---

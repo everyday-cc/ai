@@ -2,6 +2,264 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-12-21-c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure.md",
+      "title": "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure",
+      "excerpt": "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation.md",
+      "title": "Calibrate Ventures raises $97M for second fund targeting AI, automation",
+      "excerpt": "With capital flowing freely lately, managing partners Jason Schoettler and Kevin Dunlap shared some insights on what it takes to win deals these days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/12/calibrate-ventures-raises-97m-fund-ii.html",
+      "originalUrl": "https://techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2018/09/broadly-400x293.jpg",
+          "width": 400,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes.md",
+      "title": "Why Expert Intelligence Is The Secret To Achieving Customer Outcomes",
+      "excerpt": "The only way to achieve an outcome-driven business model is to put experts from your ecosystem into the operating system of your company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b3f0f6cb5aa8f491ac04a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/amp/",
+      "publishedDateTime": "2021-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-deadwood-sd.md",
+      "title": "Computer Vision Scientist Salary in Deadwood, SD",
+      "excerpt": "How much does a Computer Vision Scientist make in Deadwood, SD? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
+      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheLadders.com",
+        "domain": "theladders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-rockville-ut.md",
+      "title": "Computer Vision Scientist Salary in Rockville, UT",
+      "excerpt": "How much does a Computer Vision Scientist make in Rockville, UT? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
+      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheLadders.com",
+        "domain": "theladders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers.md",
+      "title": "How to prevent mass extinction in the ocean using AI, robots and 3D printers",
+      "excerpt": "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible biodiversity, ranging from microscopic bacteria and viruses to the largest animal on Earth,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html",
+      "originalUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/how-to-prevent-mass-ex.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp",
+      "publishedDateTime": "2021-12-21T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research.md",
       "title": "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research",
       "excerpt": "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war.",
@@ -856,271 +1114,6 @@
       "topics": [
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ai-powered-dental-startup-overjet-raises-425m.md",
-      "title": "AI-powered dental startup Overjet raises $42.5M",
-      "excerpt": "Of all areas of healthcare, it seems like dental care is one that gets very little attention and disruption, but it's one that desperately needs it: i n 2019, there were almost 74 million people without dental insurance in the US,",
-      "sourceUrl": null,
-      "webUrl": "https://vator.tv/news/2021-12-20-ai-powered-dental-startup-overjet-raises-425m",
-      "originalUrl": "https://vator.tv/news/2021-12-20-ai-powered-dental-startup-overjet-raises-425m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vatortv.s3.amazonaws.com/images/videos/main/21409.jpg",
-          "width": 320,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T17:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vator",
-        "domain": "vator.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
-      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
-      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
-          "width": 1708,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-the-story-of-john-stanley-ford-americas-first-black-software-engineer.md",
-      "title": "The Story of John Stanley Ford, America's First Black Software Engineer",
-      "excerpt": "Watson, then the CEO and chairman of IBM ... and woman and minorities are also underrepresented in the artificial intelligence sector in particular. This last bit becomes concerning as more and more companies adopt and develop AI technologies and reports ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
-      "originalUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/ThinkBlackCover.jpg",
-          "width": 428,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-dimensity-9000-fails-to-prove-its-premium-chipset.md",
-      "title": "Dimensity 9000 fails to prove its premium chipset",
-      "excerpt": "Lacks in GPU, 5G, imaging, features Media Dimensity 9000 got a lot of coverage, and the marketing machine is trying to promote this chipset as a premium. Guess what? Dimensity 9000 is not a premium chipset as it suffers from stitched stock Cortex IP,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/mobile/54075-dimensity-9000-fails-to-prove-its-premium-chipset",
-      "originalUrl": "https://www.fudzilla.com/news/mobile/54075-dimensity-9000-fails-to-prove-its-premium-chipset",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/4b4d9ec382458cdd84ca55df6d7f999f_L.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-mperativ-aims-to-leverage-ai-in-new-revenue-analytics-platform.md",
-      "title": "Mperativ aims to leverage AI in new revenue analytics platform",
-      "excerpt": "By giving organizations richer data on the revenue supply chain, Mperativ hopes to give decision-makers the foundation to better leverage AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/",
-      "originalUrl": "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1291173179-e1640011949845.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/mperativ-raises-6m-for-new-revenue-analytics-platform/amp/",
-      "publishedDateTime": "2021-12-20T13:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-rigetti-provides-business-update-and-nine-month-2021-financial-highlights.md",
-      "title": "Rigetti Provides Business Update and Nine-Month 2021 Financial Highlights",
-      "excerpt": "Rigetti Computing (“Rigetti” or the “Company”), a pioneer and leader in hybrid quantum-classical computing, today announced business highlights for the year to date and financial highlights for the nine months ended October 31,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/business-c3b26fe1babf59b779f4567dd9528570",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-c3b26fe1babf59b779f4567dd9528570",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-19-the-work-of-the-future.md",
+      "title": "The work of the future",
+      "excerpt": "A decade ago, powerful mobile phones were still a novelty, driverless cars were never ... as the emerging capabilities of robotics and artificial intelligence began capturing headlines and the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2021/12/17/1040693/the-work-of-the-future-2/",
+      "originalUrl": "https://www.technologyreview.com/2021/12/17/1040693/the-work-of-the-future-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/11/JF22_MIT_jobs_GettyImages-885759452-3.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2021/12/17/1040693/the-work-of-the-future-2/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/17/1040693/the-work-of-the-future-2/amp/",
+      "publishedDateTime": "2021-12-18T18:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all.md",
       "title": "Here’s How Advances In Ambient Intelligence Will Make Riding In AI Self-Driving Cars Quite Cozy, Like A Pleasing Lullaby For Us All",
       "excerpt": "Here's how Ambient Intelligence systems will aid AI and especially enhance the passenger experience while riding in a self-driving car.",
@@ -1333,58 +1376,6 @@
         "name": "Business News Daily",
         "domain": "businessnewsdaily.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-a-leader-of-ubers-doomed-self-driving-car-project-now-runs-her-own-startup-heres-what-she-says-the-industry-should-be-doing-today.md",
-      "title": "A leader of Uber's doomed self-driving car project now runs her own startup. Here's what she says the industry should be doing today.",
-      "excerpt": "Earlier this year, Raquel Urtasun founded Waabi, a self-driving startup ... throughout her career, and is driving her company with artificial intelligence. Urtasun spoke with Insider about her ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
-      "originalUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61afd04006b6770018c47e7e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
-      "publishedDateTime": "2021-12-13T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

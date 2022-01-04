@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "CES 2022 preview: The metaverse, NFTs and a self-driving tractor? Plus more virtual events"
+    excerpt: "CES show, held Jan. 5-7 in Las Vegas, is not canceled. But COVID's effects have led to more virtual events than originally planned."
+    publishedDateTime: 2022-01-03T11:14:00Z
+    webUrl: "https://www.usatoday.com/story/tech/2022/01/03/ces-2022-nfts-metaverse-covid-virtual/8984145002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/8984145002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/8984145002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 34
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/12/22/USAT/187f924f-7b82-45f7-87c7-0fbbe1676294-CES__day_1_343.jpg?auto=webp&crop=4969,2795,x0,y223&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Holographic TVs, self-driving cars and metaverse at CES, world’s largest consumer tech conference"
     excerpt: "The art of prediction increases in difficulty further when it is technology trends that are being forecast and thats before factoring in this very unusual year."
     publishedDateTime: 2022-01-03T06:09:00Z

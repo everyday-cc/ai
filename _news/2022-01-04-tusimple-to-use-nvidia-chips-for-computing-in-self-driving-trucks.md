@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-
 cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Drive Hyperion 8 will pilot self-driving cars and trucks"
+    excerpt: "Learn more Nvidia unveiled its latest generation platform for self-driving vehicles: the Drive Hyperion 8. The company unveiled the latest technology for self-driving cars and trucks at CES 2022, the tech trade show in Las Vegas this week."
+    publishedDateTime: 2022-01-04T16:52:00Z
+    webUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/"
+    ampWebUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/nvidia-ces-tusimple.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CES 2022: TuSimple furthers Level 4 self-driving trucking with Nvidia"
     excerpt: "TuSimple, an autonomous trucking startup, is expanding its collaboration with chipmaker Nvidia to develop an advanced autonomous domain controller (ADC) designed specifically for Level 4 self-driving trucks."
     publishedDateTime: 2022-01-04T14:06:00Z

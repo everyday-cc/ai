@@ -108,7 +108,7 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Danny-Schaarmann-300x300.png"
         width: 300

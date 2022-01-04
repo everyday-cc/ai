@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-04-kindering-helps-children-with-special-needs-and-their-parents-live-better-lives.md",
+      "title": "Kindering helps children with special needs — and their parents — live better lives",
+      "excerpt": "The symptoms became clearer as Kuba grew: airway problems and difficulty feeding after birth, weak muscle tone, seizures and severe cognitive ... half the need for services on the east side ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/",
+      "originalUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/education/kindering-helps-children-with-special-needs-and-their-parents-live-better-lives/?amp=1",
+      "publishedDateTime": "2021-12-04T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-ai-for-speech-recognition-market-may-see-a-big-move-microsoft-google-amazon-apple.md",
       "title": "AI for Speech Recognition Market May See a Big Move | Microsoft, Google, Amazon, Apple",
       "excerpt": "Worldwide AI for Speech Recognition Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ...",
@@ -1328,40 +1362,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-cognitive-collaboration-market-to-grow-at-a-cagr-of-xxx-during-the-period-2021-2028.md",
-      "title": "Cognitive Collaboration Market to grow at a CAGR of XX.X% during the period 2021-2028",
-      "excerpt": "The Insight Partners delivers well-researched industry-wide information on the Cognitive Collaboration market. It provides information on the market’s essential aspects such as top participants ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "originalUrl": "https://www.openpr.com/news/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2475359/cognitive-collaboration-market-to-grow-at-a-cagr-of-xx-x-during",
-      "publishedDateTime": "2021-11-25T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

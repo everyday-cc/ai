@@ -1,26 +1,31 @@
 ---
 category: news
 title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
-excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage"
-publishedDateTime: 2022-01-03T13:30:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022/article_f48f0b1a-dec3-53ab-84f0-92c47fc09679.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022/article_f48f0b1a-dec3-53ab-84f0-92c47fc09679.html"
+excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
+publishedDateTime: 2022-01-03T15:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
+webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 69
+heat: 129
+published: true
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/2d/e2db96ec-5423-5ca9-8f02-b0d434dc18c0/61d30947ed47a.image.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -77,7 +82,35 @@ related:
         width: 691
         height: 900
         isCached: true
+  - title: "CES 2022: FaceHeart Corp. Launches Visual Recognition AI Tech to Measure Vital Signs"
+    excerpt: "FaceHeart Corporation (  a tech-based provider of healthcare solutions, today announced the launch of its proprietary AI technology, capable of granting seamless access to vital sign measurement using existing consumer devices."
+    publishedDateTime: 2022-01-04T17:37:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-96c9a7885556c84c44c4c0a14388cc76"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "BWwUm7dutxHpaKKgV9gZTEU2eE8WsVdqTriJocU/AZowdY+0mrvND6ikCPT/M8EmR5xc3cUrYlEOekswrI7F7+mFcF+gBawCObCaO44dNEazlgB/e/tqds3HFy9deXE7/YMSs5ksP3eGOYz9iTnQkb7Fq15bHqiqPS80OKQruD6e9Xhkaomi2Y4VYuINwnbuYURIgDExUVfa+MQLukw9helfuc9dfSmNriivb5m+bzXdewx3RXPHycqx+kBUeC5DavniI3/V6euDfzO4P7HPHOsh2p1kIoElLi7Fk56Spe790GzLb4KRXW2YNt/XsekbmKWvOoGY4rFY1qlD5FxCtYVHQJn3pmS3t1d7vnkwHPNlBxxBZacnmCbHc3QhkBq+OYLu8GeBaSgr3ssxPOVzCZP6X5XLLRgHmTUtrDv9t5nBbdgnXYtBh3KnhmhdCQLGBpGyKp+0t0RnKdgXvQUHaP/hbceu4eaw2AXwJZ3OVSxFX1wNQhy+B0T7zK6bh/GZrwh3dnxdO9CHXoHbTY/szQ==;l2aoN94EfOpKB/8A7M9fMw=="
+secured: "NHtz+aMatsLdomjy6hJFLiaOEG1vbQ1dgUOChAm93luRNfa2TMSDI9pD1YKEpY4HxGvpUtij2OcjCJPsiot4WxTS3KUtEJe2t/SscRXEiHQLGZCp1aK+irjsDVfd/Zxm2r3iyBxNxlF9y/m+Y++T88uwQOC2Y7gxbx+mihHWJ1s5A5UW+5tjF/iuSpYJ8SRrJPlUV0HCCK6w0ThfWs3lKXbgMZfSxc48J4p11jdLvV4d5iWeF4GXIp4LPZZF2bzvuDk8WJG1lfVAAueB3IEgCJZpXn7OAhXNrbAdLBEQcTIGpPOTCi48RzNRToAFH6XEfoa8iZbrqmSHuffZFcxXKY7vfglO49BymK3UJGr/uAg=;4F7OcBKHrqObP3+sBJliyw=="
 ---
 

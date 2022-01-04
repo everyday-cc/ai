@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-15-dimensity-9000-ai-running-score-far-exceeds-snapdragon-8-gen1.md",
+      "title": "Dimensity 9000 AI running score far exceeds Snapdragon 8 Gen1",
+      "excerpt": "Not long ago, Qualcomm and MediaTek have announced their new 4nm flagship chips. On paper, these two chips are surprisingly very similar. However, while Qualcomm’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/",
+      "originalUrl": "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1024x497.png",
+          "width": 1024,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/",
+      "publishedDateTime": "2021-12-15T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-solving-the-data-conundrum-with-hpc-and-ai.md",
+      "title": "Solving the data conundrum with HPC and AI",
+      "excerpt": "HPC’s GPU parallel computing has been a real game-changer for AI as parallel computing can process all this data, in a short amount of time using GPUs. As workloads have grown, so too have GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/solving-the-data-conundrum-with-hpc-and-ai/",
+      "originalUrl": "https://www.itproportal.com/features/solving-the-data-conundrum-with-hpc-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/j8xQT8TiEmHDu3wUTRJ647-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/solving-the-data-conundrum-with-hpc-and-ai/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/solving-the-data-conundrum-with-hpc-and-ai/",
+      "publishedDateTime": "2021-12-15T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-mediatek-dimensity-9000-is-over-4-times-faster-than-snapdragon-888-in-ai-benchmark-results.md",
+      "title": "MediaTek Dimensity 9000 is over 4 times faster than Snapdragon 888 in AI Benchmark results",
+      "excerpt": "A new benchmarking result has just showcased some interesting information regarding the upcoming MediaTek Dimensity 9000 SoC. The chip managed to easily outclass almost every other chipset in the high end smartphone market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/",
+      "originalUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Dimensity-9000.jpeg",
+          "width": 4949,
+          "height": 2775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/15/mediatek-dimensity-9000-4-times-faster-sd888-ai/?amp=1",
+      "publishedDateTime": "2021-12-14T23:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-the-battle-of-ai-processors-begins-in-2018.md",
       "title": "The Battle of AI Processors Begins in 2018",
       "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
@@ -1236,167 +1374,6 @@
         "AI",
         "AI in Autos",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-aws-reinvent-a-roundup-of-ml-and-ai-announcements.md",
-      "title": "AWS re:Invent - A Roundup Of ML And AI Announcements",
-      "excerpt": "Invent 2021, Amazon announced updates to machine learning and artificial intelligence product portfolio. Here is a quick summary and analysis of all the related announcements. Amazon SageMaker ML platform got a new no-code option to train models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aac36e7441210323e555ba%2F0x0.png",
-          "width": 769,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/amp/",
-      "publishedDateTime": "2021-12-03T16:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021.md",
-      "title": "Top 12 AI and machine learning announcements at AWS re:Invent 2021",
-      "excerpt": "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
-      "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
-      "publishedDateTime": "2021-12-03T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "AI in Finance",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-2-small-cap-chip-stocks-to-buy-in-december.md",
-      "title": "2 Small-Cap Chip Stocks to Buy in December",
-      "excerpt": "Rising investments to address the global semiconductor chip shortage by scaling up production, and increasing demand for chips from several industries, should propel the semiconductor industry's growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/400662",
-      "originalUrl": "https://www.entrepreneur.com/article/400662",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/stocknews/hero-image-stocknews-400662.jpeg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -57,13 +57,13 @@ related:
         height: 348
         isCached: true
   - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
-    publishedDateTime: 2022-01-04T15:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220104005270/en/Tekion-Expands-Cloud-Hosting-Options-with-Microsoft-Azure"
+    excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
+    publishedDateTime: 2022-01-04T15:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 34
 
 secured: "lPVmMgOHBXcchAXd/+CWRuMjcbdQQAWhEtsyNLJuQlt+mulw4+H1wolN6fX2TiIlfT/kULfl13RFGOuLYB4flseON5kJCJfdM6R8Cm0ehorAvcKruyskaSoTH3A2TvbvyR+sbZT/BO1SBN/lwd+L1VPvxN4LznSr2pVEqSwTNwUuhS6bZt2Fp6bdV09DdxD8ZC8vrlYhVwV41L6NnZXL7qoppbYzgR3JvdL0J/yV2yrnhIYd3xSSBsxdg+fRzuQSyNbzeRl2x30VzfpzHb/6YsVsBvPMcyanoOva0H8s1Po2+vr+30P2CuNUnQy9i1tQi4T4aEHj8Zi5gGQPvO2KsJzQy7sYL21+fltuL1/OiEY=;wOvum2e27whK9g3WXfDt2g=="

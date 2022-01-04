@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Synaptics VS680 Multimedia SoC Powers AI-Enriched Display and Vision Features in Askey OmniEdge Smart Signage"
-excerpt: "Synaptics® Incorporated (NASDAQ: SYNA ), today announced that Askey, part of ASUSTeK Computer Inc., is using Synaptics' Multimedia VS680 SoC to enable a range of artificial intelligence (AI) enabled interactive and personalization features in its new OmniEdge Smart Signage solution."
-publishedDateTime: 2022-01-04T09:47:00Z
-originalUrl: "https://menafn.com/1103482314/Synaptics-VS680-Multimedia-SoC-Powers-AI-Enriched-Display-and-Vision-Features-in-Askey-OmniEdge-Smart-Signage"
-webUrl: "https://menafn.com/1103482314/Synaptics-VS680-Multimedia-SoC-Powers-AI-Enriched-Display-and-Vision-Features-in-Askey-OmniEdge-Smart-Signage"
+excerpt: "Synaptics® Incorporated (NASDAQ: SYNA), today announced that Askey, part of ASUSTeK Computer Inc., is using Synaptics’ Multimedia VS680 SoC to enable a range of artificial intelligence (AI) enabled interactive and personalization features in its new OmniEdge Smart Signage solution."
+publishedDateTime: 2022-01-03T21:47:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-a9327670e22a8bdfc011ffc274de943a"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-artificial-intelligence-a9327670e22a8bdfc011ffc274de943a"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056"
-    width: 374
-    height: 250
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "6Sh0JR7deei+O7xeWp9fHDU/DLeS+vR9BN9Ex2Ld3gdVxUpVClMM32dooMzjbY6QJMUnMCULMiZ9n4kGrm+Ux+aPWWTA8heW03WJ/4alzaOVC5ZVllGY2DFfcCxrLM6xFZUkXn1CmG87XqWiGwS7UdHPgIyZ7ZNI+ZSNk0TLn0szLs47aJNp1MDEcCUiZjLn2Fl9ZydGHQiSRoPy6bBw9FCi/4rX884eqo85v4IZ0hYd720ivWtIA3VwFybxk1MyQSwsVm2i32Fli7mQO67QXLVOXLv2oR4vD0K625RCEd673UsbWQMPa2UKhs6kk0HWsuKynJNE+47E+/0ohjprrh5siCaK7bXeqrN0wpkVPQE=;QQR0Hyy7rwL954z/Hr9cAw=="
+secured: "y6y3Z172402ZkMF4spKohNqSxoOSHcPzfDgcdM283326SE4lKci+IejIn09y0lsEv/WTbL7I2ffSGTuJZ+pTu4tMS3dN3tGcLnvx7LAHQwGoCxS1qZI0gkYCYibodrqivFbPmGk8sPpceI/d69bi2Gp2nKPbKPczWD6zUZ7+w2jEZvkYvzctx/1zuyNqDuZp/E7ClG6C6N5llN6nqPwyOKN7F7t50UHS32BPMNU0jS8B9/mtYaEUGcTte/1CNXh1fiqW2TWN4aY0iJFMWDWzw3TcnDTN8v6NACgBPL8zvptV4jv1INJz2XwT3jin1PZBt831C3r/VsK6avVdtsjwZWKBhEXhVsf72yBwe/GMEZQ=;+Jt6kGNXfBuIiSZWnmc5Ag=="
 ---
 

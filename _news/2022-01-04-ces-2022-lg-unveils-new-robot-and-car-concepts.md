@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
+    excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
+    publishedDateTime: 2022-01-04T17:08:00Z
+    webUrl: "https://www.designboom.com/technology/beomni-1-0-robot-ces-01-04-2022/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 35
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
+        width: 1720
+        height: 900
+        isCached: true
   - title: "CES 2022: VM-Fi real-time translation technology"
     excerpt: "Taiwanese software developer VM-Fi will debut its groundbreaking real-time translating solution at CES 2022 from Jan 5-8, 2022. VM-Fi provides turnkey 5G real-time artificial intelligence (AI)-enabled simultaneous interpretation with wireless broadcasting to up to hundreds of personal smart devices."
     publishedDateTime: 2022-01-04T06:34:00Z

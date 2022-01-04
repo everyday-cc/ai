@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-04-train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility.md",
+      "title": "Train graph neural nets for millions of proteins on Amazon SageMaker and Amazon DocumentDB (with MongoDB compatibility)",
+      "excerpt": "There are over 180,000 unique proteins with 3D structures determined, with tens of thousands new structures resolved every year. This is only a small fraction of the 200 million known proteins with distinctive sequences. Recent deep learning algorithms such as AlphaFold can accurately predict 3D structures",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/09/ML-5542-image001-978x630.png",
+          "width": 978,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:48:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-identity-verification-using-amazon-rekognition.md",
       "title": "Identity verification using Amazon Rekognition",
       "excerpt": "In-person user identity verification is slow to scale, costly, and high friction for users. Machine learning (ML) powered facial recognition technology can enable online user identity verification. Amazon Rekognition offers pre-trained facial recognition capabilities that you can quickly add to your",
@@ -10,7 +62,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1373,59 +1425,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis.md",
-      "title": "AWS Deep Learning AMIs: New framework-specific DLAMIs for production complement the original multi-framework DLAMIs",
-      "excerpt": "Since its launch in November 2017, the&nbsp;AWS Deep Learning Amazon Machine Image (DLAMI) has been the preferred method for running deep learning frameworks on Amazon Elastic Compute Cloud (Amazon EC2). For deep learning practitioners and learners who want to accelerate deep learning in the cloud, the",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T13:50:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

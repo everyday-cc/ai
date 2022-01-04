@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/"
 type: article
 quality: 87
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2022/01/Top-10-Artificial-Intelligence-Stocks-Set-for-a-Bull-Run-in-2022.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "5 AI Trends to Watch out for in 2022"
+    excerpt: "Multi-Modal AI and Large Language Models are among the breakthroughs are among the breakthroughs that will keep AI moving ahead in 2022."
+    publishedDateTime: 2022-01-04T16:00:00Z
+    webUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 39
+    images:
+      - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
+        width: 918
+        height: 1024
         isCached: true
 
 secured: "Xo3MRa8i/SWFWrxxRB37a3K+ts5SgxJw8olV+nKyOqpn5OXIdLbpBwFIuv52CihCevElvBvX0jlD1t7T0/cLfdgfRTDJXkk3HsXK2X1NdW67TM8Dqma3OwftkFjskXpQAMj2zHHft1Ch7Fysdf+ZLy0wCOnZshMorpBFN6ZA8TSHBE9U18tXYLRMkvThGBYbIbGsHFA+FjVkhs5xBlnhunpwI0TpNH8nTeeptAxJesU607g5PZIpCS7Q7QJELqw5TDXPd2t2cmb5Bll31xd15ZAVBmMt3XYOAVBveLFj0UxMaj56q5SLRD5KvIqO6A3q3Fr3d2YcvCNfkVo6ttEE9G8M+Py16cX/emX22Ps3SYMhZFBezU1A80V6guqULPw7Tf8kWLC4DDi+p7D76j8KKdn0XPQvpAVP4ZambF4o/oKyAYqgWTI+91k6BNXRG1Uon3Nl0jdfmt60Al+UaX/0OvwgW3TLwX7W1wITEX368Jl77ZHGW5gNhfuaDbKHDdN/wleTonJe4cT6/v3TQ7SUEQ==;tlEifxtcPaIXBzy8/VdFag=="
