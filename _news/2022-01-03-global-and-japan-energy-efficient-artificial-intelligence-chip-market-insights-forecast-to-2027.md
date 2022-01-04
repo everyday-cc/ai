@@ -19,6 +19,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Artificial Intelligence in Building Market: Industry Regional Developments, Future Trends and Forecasts"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Building Industry from its research database Artificial Intelligence in Building Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Building Market currently"
+    publishedDateTime: 2022-01-03T10:58:00Z
+    webUrl: "https://www.openpr.com/news/2515621/artificial-intelligence-in-building-market-industry-regional"
+    ampWebUrl: "https://www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/V/1/V103998692_g.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
     excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
     publishedDateTime: 2022-01-03T11:08:00Z

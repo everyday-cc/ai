@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2515646/conversational-ai-for-retail-and-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Building Market: Industry Regional Developments, Future Trends and Forecasts"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Building Industry from its research database Artificial Intelligence in Building Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Building Market currently"
+    publishedDateTime: 2022-01-03T10:58:00Z
+    webUrl: "https://www.openpr.com/news/2515621/artificial-intelligence-in-building-market-industry-regional"
+    ampWebUrl: "https://www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
+    images:
+      - url: "https://cdn.openpr.com/V/1/V103998692_g.jpg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Global Facial Recognition Door Access Solutions Market 2021 Industry Research, Business Growth, Future Investment and Emerging Trend to 2027"
     excerpt: "The newest market analysis report namely Global Facial Recognition Door Access Solutions Market Growth (Status"
     publishedDateTime: 2022-01-02T17:43:00Z

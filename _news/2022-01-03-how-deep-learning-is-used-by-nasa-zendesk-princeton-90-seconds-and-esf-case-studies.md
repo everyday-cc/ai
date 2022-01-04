@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-03T10:50:00Z
 originalUrl: "https://www.datamation.com/artificial-intelligence/deep-learning-use-cases/"
 webUrl: "https://www.datamation.com/artificial-intelligence/deep-learning-use-cases/"
 type: article
-quality: 32
-heat: 32
+quality: 36
+heat: 36
 published: false
 
 provider:
@@ -18,6 +18,8 @@ topics:
   - Machine Learning
   - AI
   - AWS AI
+  - Computer Vision
+  - AI Hardware
 
 images:
   - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-1-1024x393.jpeg"

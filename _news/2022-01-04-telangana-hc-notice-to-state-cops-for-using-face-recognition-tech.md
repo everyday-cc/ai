@@ -59,6 +59,22 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Telangana HC Issues Notice on PIL Challenging Use of Facial Recognition Technology"
+    excerpt: "The PIL was filed by activist S.Q. Masood who was stopped by Hyderabad police in May last year and asked to take his mask off so they could take his photo, despite the second wave of COVID raging. When he refused,"
+    publishedDateTime: 2022-01-04T06:32:00Z
+    webUrl: "https://thewire.in/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology"
+    ampWebUrl: "https://m.thewire.in/article/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology/amp"
+    cdnAmpWebUrl: "https://m-thewire-in.cdn.ampproject.org/c/s/m.thewire.in/article/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology/amp"
+    type: article
+    provider:
+      name: The Wire
+      domain: thewire.in
+    quality: 53
+    images:
+      - url: "https://mcmscache.epapr.in/post_images/website_350/post_26198901/full.jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Telangana HC issues notice to govt over PIL challenging use of facial recognition tech"
     excerpt: "The Telangana High Court has issued a notice to the state government on a public interest litigation (PIL) filed over the use of facial recognition in the state. The petition, filed by Hyderabad-based activist SQ Masood with the support of the Internet Freedom Foundation,"
     publishedDateTime: 2022-01-03T13:09:00Z

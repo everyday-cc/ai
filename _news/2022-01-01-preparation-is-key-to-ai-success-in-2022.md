@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/"
 type: article
 quality: 87
-heat: 92
+heat: 123
 published: true
 
 provider:
@@ -28,6 +28,50 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "2022 Trends in AI"
+    excerpt: "As artificial intelligence (AI) has grown in popularity, we’ve seen it used in numerous applications to help organizations in a range of industries automate processes, make better-informed decisions,"
+    publishedDateTime: 2021-12-30T20:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/2022-trends-ai-lumiata"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHUvV4fLmLrwg/article-cover_image-shrink_600_2000/0/1640895648356?e=1646870400&v=beta&t=e_0K6Y5A6z6y6L03v3QhL7DBl4jAmY_2wWQDOX57MHo"
+        width: 705
+        height: 377
+        isCached: true
+  - title: "Top 10 Artificial Intelligence Stocks Set for a Bull Run in 2022"
+    excerpt: "Investors should be aware of the top ten artificial intelligence stocks that are set for a bull run in 2022. AI-based companies are determined to provide highly profitable AI stocks for bull run."
+    publishedDateTime: 2022-01-03T09:00:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-stocks-set-for-a-bull-run-in-2022/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2022/01/Top-10-Artificial-Intelligence-Stocks-Set-for-a-Bull-Run-in-2022.jpg"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Top Business AI Trends to Watch for 2022"
+    excerpt: "Research shows that the global AI market can reach up to a $190 billion market valuation in 2025. Additionally, in 2022, companies are expected to run around 35 AI projects in their operations. Because AI and ML are becoming so ubiquitous,"
+    publishedDateTime: 2021-12-30T17:18:00Z
+    webUrl: "https://www.enterprisenetworkingplanet.com/management/top-business-ai-trends-2022/"
+    type: article
+    provider:
+      name: Enterprise Networking Planet
+      domain: enterprisenetworkingplanet.com
+    quality: 37
+    images:
+      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/michael-dziedzic-nbW-kaz2BlE-unsplash-scaled.jpg"
+        width: 2560
+        height: 1600
+        isCached: true
 
 secured: "Xo3MRa8i/SWFWrxxRB37a3K+ts5SgxJw8olV+nKyOqpn5OXIdLbpBwFIuv52CihCevElvBvX0jlD1t7T0/cLfdgfRTDJXkk3HsXK2X1NdW67TM8Dqma3OwftkFjskXpQAMj2zHHft1Ch7Fysdf+ZLy0wCOnZshMorpBFN6ZA8TSHBE9U18tXYLRMkvThGBYbIbGsHFA+FjVkhs5xBlnhunpwI0TpNH8nTeeptAxJesU607g5PZIpCS7Q7QJELqw5TDXPd2t2cmb5Bll31xd15ZAVBmMt3XYOAVBveLFj0UxMaj56q5SLRD5KvIqO6A3q3Fr3d2YcvCNfkVo6ttEE9G8M+Py16cX/emX22Ps3SYMhZFBezU1A80V6guqULPw7Tf8kWLC4DDi+p7D76j8KKdn0XPQvpAVP4ZambF4o/oKyAYqgWTI+91k6BNXRG1Uon3Nl0jdfmt60Al+UaX/0OvwgW3TLwX7W1wITEX368Jl77ZHGW5gNhfuaDbKHDdN/wleTonJe4cT6/v3TQ7SUEQ==;tlEifxtcPaIXBzy8/VdFag=="
 ---

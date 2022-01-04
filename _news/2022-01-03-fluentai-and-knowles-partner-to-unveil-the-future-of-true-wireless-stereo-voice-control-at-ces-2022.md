@@ -1,96 +1,106 @@
 ---
 category: news
 title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-excerpt: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022. LAS VEGAS, Jan. 03, 2022 (GLOBE NEWSWIRE) -- Fluent.ai, a leader in embedded"
-publishedDateTime: 2022-01-03T15:33:00Z
-originalUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/01/03/9518710.htm"
-webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/01/03/9518710.htm"
+excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+publishedDateTime: 2022-01-03T14:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-    width: 1577
-    height: 1050
-    isCached: true
-
 related:
-  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
-    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
-    publishedDateTime: 2022-01-03T14:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
+  - title: "The future lies in AI"
+    excerpt: "It enables driverless vehicles and drones and autonomous ... Meanwhile worldwide spending on artificial intelligence (AI) systems is forecast to reach $35.8 billion in 2019, an increase of 44 ..."
+    publishedDateTime: 2022-01-01T13:01:00Z
+    webUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai"
+    ampWebUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
-        width: 400
-        height: 225
+      - url: "https://image.khaleejtimes.com?uuid=caebb246-3f74-4d60-bfa8-8731bb4eefa4&function=cropresize&type=preview&source=false&q=75&crop_w=0.84296&crop_h=0.99999&x=0.07852&y=0&width=1200&height=675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Navy Launches SCOUT To Expand AI Capabilities"
-    excerpt: "The U.S. Navy’s SCOUT Experimentation aims to develop automated and emerging technologies into targeted problem areas among warfighters."
-    publishedDateTime: 2021-12-30T20:03:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/navy-launches-scout-expand-ai-capabilities/360249/"
+  - title: "What are we likely to see in AI in Healthcare in 2022?"
+    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
+    publishedDateTime: 2021-12-30T23:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
+        width: 1016
+        height: 720
+        isCached: true
+  - title: "The blurry image around AI"
+    excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
+    publishedDateTime: 2021-12-31T09:25:00Z
+    webUrl: "https://www.linkedin.com/pulse/blurry-image-around-ai-dhineshsunder-ganapathi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHOCklxwGhAMg/article-cover_image-shrink_720_1280/0/1640941427897?e=1646265600&v=beta&t=X72T924boTZVIMCv9zpSrL2wALNN4N7I7HJB3s306GI"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Getting from here to there - Competing in the age of AI."
+    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
+    publishedDateTime: 2022-01-01T18:27:00Z
+    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
     quality: 37
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/30/big_brother_electronic_eye_concept_technologies_for_the_global_of_vector_id690772190/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
+        width: 756
+        height: 720
         isCached: true
-  - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
-    excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
-    publishedDateTime: 2022-01-03T18:38:00Z
-    webUrl: "https://www.glassmagazine.com/news/halio-inc-showcase-ai-controlled-smart-glass-ces-2022"
+  - title: "We Choose To Align AI"
+    excerpt: "Epistemic status: poetry \"We choose to go to the moon! We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard. Because that goal will serve to organize the best of our skills and energies."
+    publishedDateTime: 2022-01-01T20:16:00Z
+    webUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-align-ai"
     type: article
     provider:
-      name: Glass Magazine
-      domain: glassmagazine.com
+      name: LessWrong
+      domain: lesswrong.com
     quality: 37
     images:
-      - url: "https://www.glassmagazine.com/sites/gm/files/2021-11/Cover1_GM1121_900px.jpg"
-        width: 691
-        height: 900
+      - url: "http://www.todayifoundout.com/wp-content/uploads/2013/08/moonprint.jpg"
+        width: 596
+        height: 600
         isCached: true
-  - title: "SoyNet to introduce AI accelerator at CES 2022"
-    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held in Las Vegas on"
-    publishedDateTime: 2021-12-31T16:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soynet-to-introduce-ai-accelerator-at-ces-2022/article_5a13cb4c-f37c-52c9-ae84-c73ba8058262.html"
+  - title: "The Advent of Artificial Intelligence in US Retirement Services"
+    excerpt: "Artificial Intelligence (AI) has found its way to numerous applications in our daily lives. From customized social media feeds to personalized online shopping – it’s everywhere. The latest technological advancements in AI have made it possible to provide better user experiences leading to higher customer satisfaction."
+    publishedDateTime: 2022-01-01T02:02:00Z
+    webUrl: "https://www.tcs.com/bancs/insurance/blog-artificial-intelligence-in-us-retirement-services"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 19
-  - title: "BBalance Bath Mat, the CES 2022 Innovation Awards Honoree, uses AI and footprint recognition to guide self-care at home"
-    excerpt: "BBalance is the world’s first smart bath mat with footprint recognition that combines three key health measurements into one; BBalance is a weight scale, balance and stability reader, and posture evaluator."
-    publishedDateTime: 2022-01-03T13:50:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-56962e910dcb57cad96f103b97b6a8f4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 17
 
-secured: "7ctVds/Fa9racwhdWgPLJ20kMLqpyRLKK4kkRjA06j1acY3dOOhOmnKEtxVBvOS9tftSvXszfEIjNceWru6cUcWiCLeaLxA1D8DMY1aaRo+nDmkk0nLSypSqGNkya7s6KKvKblBDQXIxFtMvQ0u1yPHfUKyw7MRdvdEdmNQS61h39fd7478zQOeMGXZEONbhAdDCZyU9T39qhkNvjEWxN69Ybd6YbK4nWL2QIJaLbuUm4Pk+kXTQSNJaAGcdffoLuntlmp2Tf7cpe/BPEhHBiPY2wFCC+M3DpMEJpNGcbMnV3s/fkOjLCL3KF6tIOi45MKmctpOGKUYEe4Gosr3H552IxzpSB9vkFHgLz69HYCE=;UM7LHcoQ88foYJPwht7I1w=="
+secured: "fQYYRT3pwoMh41GP1lRoFQVkgdAEtJ8Akq3SGoRyekxvijLOYGU03zaNblcxyIv4F7o3SRiqbvzY+jb2OzQ/frpuwsDd4SmGIVa6RTd7S1lBtVVLmD6xWTZfE0886oUK8Y4SabYM58vAv+ASyI6q+PP7GRZWtVwHotUzzu9danDy4MFIt/u0ZJzubiEw9uSSvZYFHT0MEvLDtDrg0oCZuSwRd1ltLeGUwt0S/0CZnCxmkGRxlJfu++KI2/Ua44+2jV9U0zeLp3RaVe8ynWfq3JW+z0Ha5xcNkwM/qut5Ppvk/HkQ0rG2EBtjU56y5GfSkZtiOmamFEfrt7JnB3Wa7ns7q0/wBPHwIYVlkEbsShU=;g5W/WlfOuXDuND60VFRmeQ=="
 ---
 

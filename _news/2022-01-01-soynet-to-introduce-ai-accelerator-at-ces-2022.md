@@ -1,18 +1,20 @@
 ---
 category: news
 title: "SoyNet to introduce AI accelerator at CES 2022"
-excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held in Las Vegas on"
+excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
 publishedDateTime: 2021-12-31T16:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soynet-to-introduce-ai-accelerator-at-ces-2022/article_5a13cb4c-f37c-52c9-ae84-c73ba8058262.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/soynet-to-introduce-ai-accelerator-at-ces-2022/article_5a13cb4c-f37c-52c9-ae84-c73ba8058262.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
+ampWebUrl: "https://www.benzinga.com/amp/content/24847305"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24847305"
 type: article
-quality: 19
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
@@ -20,32 +22,32 @@ topics:
 
 related:
   - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
-    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
-    publishedDateTime: 2022-01-03T14:42:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
+    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage"
+    publishedDateTime: 2022-01-03T13:30:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022/article_f48f0b1a-dec3-53ab-84f0-92c47fc09679.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Navy Launches SCOUT To Expand AI Capabilities"
-    excerpt: "The U.S. Navy’s SCOUT Experimentation aims to develop automated and emerging technologies into targeted problem areas among warfighters."
-    publishedDateTime: 2021-12-30T20:03:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2021/12/navy-launches-scout-expand-ai-capabilities/360249/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 37
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2021/12/30/big_brother_electronic_eye_concept_technologies_for_the_global_of_vector_id690772190/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/2d/e2db96ec-5423-5ca9-8f02-b0d434dc18c0/61d30947ed47a.image.jpg?crop=1500%2C788%2C0%2C28&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
+    excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
+    publishedDateTime: 2022-01-04T02:02:00Z
+    webUrl: "https://www.digitimes.com/news/a20220104PD202.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 37
+    images:
+      - url: "https://www.digitimes.com/newsshow/20220104PD202_files/6_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
     excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
@@ -61,35 +63,7 @@ related:
         width: 691
         height: 900
         isCached: true
-  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-    excerpt: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022. LAS VEGAS, Jan. 03, 2022 (GLOBE NEWSWIRE) -- Fluent.ai, a leader in embedded"
-    publishedDateTime: 2022-01-03T15:33:00Z
-    webUrl: "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/01/03/9518710.htm"
-    type: article
-    provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 24
-    images:
-      - url: "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg"
-        width: 1577
-        height: 1050
-        isCached: true
-  - title: "BBalance Bath Mat, the CES 2022 Innovation Awards Honoree, uses AI and footprint recognition to guide self-care at home"
-    excerpt: "BBalance is the world’s first smart bath mat with footprint recognition that combines three key health measurements into one; BBalance is a weight scale, balance and stability reader, and posture evaluator."
-    publishedDateTime: 2022-01-03T13:50:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-56962e910dcb57cad96f103b97b6a8f4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "LIPFJEwp8hiJm2FcT4okiMI866E4s9FLZA54nkj8bhAMymde9mTtcaKoGhkJOgkiOn/LTcdOUzN9KehREgGgHkxnBLn9XjpLOQ3GFZLOXEI3GB2mIuU99+ev3q+nRrho2lBB+j/URQhMK/4h3IphoQLEAGsNI6AXk2B4Ty4qlcjdoYgTVdz+OaaVoEd7M4+dSZi+UhORJDymhFXmstmpiDGBbDQF4GY0QJzB7Rgv3l1r6tp3jB1x10yy3pcRsGSH1+hQLKd3eanOKoDdtN5BFrdgXSnT3jQ7kcqaUNb9ZRCua82D8zsiU5fNaFf9CNCBEP+WxwO8/4IPK4nhPSoBx0NrylldRCIwLJ/QdUFbsTX+aWrHP5xppy4w46+ARbFprtjjvTlJwSXgTHdIIZWWJt6QogGSsQPhmYA1fuNDR/Jcyg7M0UjMl3QY27Z20DefGa00Bg5hh9yjU1ziD5E7mmBIvYpls0xek3y9XxbWrO/d6qHJ8Wsw78Uf2pRFet5AgiaFDTHHEcGky3JFaV7I4A==;H0gDboAbS2qfInvWM1dMWA=="
+secured: "byNCs8j6BSML7QFjzJ82XVeaJ1iE2dTdUAqrq9bsdhXu9BM2sNaVYrBgML5YPcqUw0mVYRYEpmV8tqXJ3WsmuyuB2ifanrKtVXl4JNtI6poqlz6WdrD9w+roQFRzn96+zpFgMlCS6i0xzDHM9O5aDQprW9pNlSm8CCcDAVieQvt1o+YLb9iNTO3Cm2ng/7l21YtUwqPXrbwRrjUxogTxoqVMLyBWJi5l80DiuvyRshW52J1SITXcwe5x807ZHpk3mUfnVWWQQ2nUZV/pP1P1AVSEsMHbyHbT/tHOm6DTD+Tj4+D8E3gXuEPkDhHs/4JjJcwXw7k8Gaw+XxmSF0boIGeoU7r41DfooOBKtFa3uQQ=;lB0nIgpMUJH75vkqdgWXwA=="
 ---
 

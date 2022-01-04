@@ -97,6 +97,15 @@ related:
       name: Tata Consultancy Services
       domain: tcs.com
     quality: 17
+  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "Og+NuqMhOzZp3OupNiU5RdVi3UWTuN1TTSUwq2ug9bY0+UcC113n2MA0V79V/m3dLl0fyhqOy7P4OJiPitsauHhibD0CwD2y78/UaoUvDt2wnT/NbvbhXtAt3cwODwSs/BAABPKjUQ8BMx99rABrhK+WUnG9AghRD/1jjuXSvfg5yrpEYTGFVYL903t1x2Qbs0P6nM/dmfFD2ISIVVIMacvDZU1geYdImRGQ0kAZFkt3hoQdhM8muIKUyg0o9wbA1OfbshadofumC3i0szEEhQ1sA0BOE4E29dDK+n4UqsvwCBLRgUOQ0jj1bR8lTSttQr1F+DsXq1z4g/Cj94BsIuWCJ/IeOVIZmewSrS1eQYU=;SOjqX7yYKVvSLJlFMKj8Zg=="
 ---

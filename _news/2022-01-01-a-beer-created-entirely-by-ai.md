@@ -35,7 +35,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 69
+    quality: 71
     images:
       - url: "https://images.medindia.net/amp-images/health-images/x-ray1.jpg"
         width: 1200

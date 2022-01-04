@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Novant Health launches digital care platform that uses AI and automated communications"
-    excerpt: "Need help navigating your health care? Novant Health leveraging AI and automation in new all-in-one digital care platform allowing users to find experts, answers and health information. #technology #h"
-    publishedDateTime: 2021-12-30T14:36:00Z
-    webUrl: "https://www.bizjournals.com/triad/inno/stories/news/2021/12/30/novant-health-now-digital-care-platform.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 11
   - title: "Novant Health launches digital care platform that uses AI and automated communications"
     excerpt: "Need help navigating your health care? Novant Health leveraging AI and automation in new all-in-one digital care platform allowing users to find experts, answers and health information. #technology #h"
     publishedDateTime: 2021-12-30T17:54:00Z

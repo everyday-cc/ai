@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
       name: Tata Consultancy Services
       domain: tcs.com
     quality: 17
+  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "cK5R88V2nNs5WXU3ScSK845O925r/SzUfvP25IaF35fouMBotT3Gn6BRaM/jh/sq0rXlSxiSynp97XugNefAHq+kOMbLPccb9viSUaIdDYovedduCxKLr78m1SPFk9V6fjGYZJiaKhi4iVVUT+n43tzRKpjxw7W9c2JHnojEkBJG/eZEsANZzPvgrX6bXLsqVtQY+5sJMAAEj+zdvQ6DYkdW2PTSytgzuQ1qJRB0pt4VdDwD09yUY9CL0jcXF9+5+f6Izb3QRQmFf7cmFuZ/kkNiKND7dLI9IUDjyRaPbWiLOE/PQW97XSOI7WNCm3YXM4PMug2uyTm5XrEsVKL/N7M2wFBw/6Bj2uIPabq34EA=;nKtiNggWt99GoPuI1TnbPQ=="
 ---

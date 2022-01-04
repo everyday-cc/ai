@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-business
 webUrl: "https://apnews.com/press-release/business-wire/technology-business-india-24bcebc98ee84622971f6cfdcde63550"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Uni Cards to deploy Scienaptic AI-powered credit decisioning platform"
+    excerpt: "Scienaptic AI, a global AI-powered credit decision platform provider, announced the deployment of its technology for Uni Cards."
+    publishedDateTime: 2022-01-04T06:45:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/uni-cards-to-deploy-scienaptic-ai-powered-credit-decisioning-platform/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 37
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Modern Age Cards Through Modern Age AI: Uni Cards to Deploy Scienaptic AI-Powered Credit Decisioning Platform"
     excerpt: "Leading global AI-powered credit decision platform provider Scienaptic announced the deployment of its technology for Uni Cards."
     publishedDateTime: 2022-01-03T18:32:00Z

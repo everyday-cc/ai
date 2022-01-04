@@ -65,20 +65,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Future FinTech Announces New Blockchain Division"
-    excerpt: "Future FinTech Group Inc. (\"hereinafter referred to as \"Future FinTech\", \"FTFT\" or \"the Company\"), a leading blockchain-based e-commerce business and a fintech service provider, announced today that the Company has established a new"
-    publishedDateTime: 2021-12-30T13:48:00Z
-    webUrl: "https://www.lelezard.com/en/news-20173514.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 39
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
     excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
     publishedDateTime: 2022-01-02T06:29:00Z
@@ -110,20 +96,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 672
-        isCached: true
-  - title: "5 FinTech trends to keep an eye on in 2022"
-    excerpt: "FinTech refers to software and other modern technologies used by businesses that provide automated and improved financial services"
-    publishedDateTime: 2021-12-30T13:26:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/5-fintech-trends-to-keep-an-eye-on-in-2022/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/09/fintech-malaysia-1.jpg"
-        width: 300
-        height: 300
         isCached: true
   - title: "10 Innovative Ways Fintech's Helped Credit Card Development"
     excerpt: "Uncovering ten of the most cutting-edge uses for financial technology in credit card development, from crypto payments to enhanced rewards for customers"
