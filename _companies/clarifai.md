@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "clarifai"
   url: "https://twitter.com/clarifai"
-  followers: 8900
+  followers: 8897
 
 size: 51-200 employees
 yearFounded: 2013
