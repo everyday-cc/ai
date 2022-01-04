@@ -41,6 +41,17 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Artificial Intelligence in Platform as a Service Market is Booming Worldwide | IBM, Microsoft, AWS"
+    excerpt: "Latest released the research study on Global Artificial Intelligence in Platform as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Platform as a Service Market research report shows the latest"
+    publishedDateTime: 2022-01-03T10:49:00Z
+    webUrl: "https://www.openpr.com/news/2515593/artificial-intelligence-in-platform-as-a-service-market"
+    ampWebUrl: "https://www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
 
 secured: "9fjNpAkG1aAKrH4K57Iamu1pah5e7DvgdH9B43Nvl/kEL1NT6SIdO9iGPDBrcwicxCtGzqQWkTZAgD9AnqcKDAMmBGI7gEZwucOdx5Zru4AXjXCgwpK+FRVPlQ8k8WGUZrEiCDTPotUX5bL6QbMaMrosSX+bTE6oEick4IK/HMzAWgKvWQLw3oDj6SDmgqmshVEnyy2QCRDAFAct+8M0O2oE6qR3ayRk+oVgJYwyhpPPvCJPdg6yXCnL00BtKsYjQXrjgnHnvAMYT0U7BDgcKUYhKTsY+SGLJY8YEGh4biyN0cUcdeR3Gt3m6jpBnPmd9NNMZ0uehIqXLVqX6RXvQq/DqargyHshpNP9F0v/JWFVL/60xG61YHvE6RzwAgy7+BoT9OS+xZHgFFT/kMx5mVP1DmONd+5m44DtISTrWct/5BfLCSwYoAt8SLoW+YhRqIKbfmmhurEsGKcM94SeCaF2dzxY2cerozGk/Ve0DghvrAsAKKLEV9PT8HqKN2PvMn/Hv7U+xf14zmAb7tZ6Vw==;PP90/vDOKBj5Kg0KnViqKg=="
 ---

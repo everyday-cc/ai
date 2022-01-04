@@ -45,20 +45,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What are we likely to see in AI in Healthcare in 2022?"
-    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
-    publishedDateTime: 2021-12-30T23:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
-        width: 1016
-        height: 720
-        isCached: true
   - title: "Getting from here to there - Competing in the age of AI."
     excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
     publishedDateTime: 2022-01-01T18:27:00Z
@@ -87,6 +73,20 @@ related:
         width: 596
         height: 600
         isCached: true
+  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The Advent of Artificial Intelligence in US Retirement Services"
     excerpt: "Artificial Intelligence (AI) has found its way to numerous applications in our daily lives. From customized social media feeds to personalized online shopping – it’s everywhere. The latest technological advancements in AI have made it possible to provide better user experiences leading to higher customer satisfaction."
     publishedDateTime: 2022-01-01T02:02:00Z
@@ -96,15 +96,6 @@ related:
       name: Tata Consultancy Services
       domain: tcs.com
     quality: 17
-  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
-    publishedDateTime: 2022-01-03T14:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "kT3Wn1IfiuH1j76xMn9MLj+vDhv0eArf474TkQiRZcsO4H1IPgI0Pq6Czk34NhmBuY9eY2UP/UMZF7U2lyc51KPe1ncvJs2ZK447Ei2HZJJVfIqiP7FS+ArVRunkeeflh2pkXSQUdPYg3IggPdN0738nLlIdPPnZO+zA/zasMrNXKcQps6/bIq9hI4TrIn38TFyTBIxCqwPClbMtdplabREQE8KgJ04WYilLYio9ZVQHeirds8txPCsTXS3wV8ihMtsqG6dq2KSiOwI38JU65CJjN8NeRBzQXHW9PstsmeCK5ZyCiaBkECfrMJ1tjHPj9xibkzvga/SUHMd1ylhPNNPAWHwwIfXSHCPirYyrdoJruKU9B0PEG5H+gWm554AJCJKZRBOdEVvlput/gnQYEODr4Okrie30/99ToD5DfShrLiE4fJZTywrjsz0f5qZcx4eZlJxoIM905bJRsPhSOD+5Bt2mJym2Xd1ZMO82RssWVTYYXpv26rTxVFIrwP6QE3JV9H/v3IVr/7GZ+AALgg==;wQmCfsllv5Uy70kBANs72g=="
 ---

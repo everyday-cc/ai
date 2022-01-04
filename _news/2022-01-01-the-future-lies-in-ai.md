@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "What are we likely to see in AI in Healthcare in 2022?"
-    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
-    publishedDateTime: 2021-12-30T23:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
-        width: 1016
-        height: 720
-        isCached: true
   - title: "The blurry image around AI"
     excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
     publishedDateTime: 2021-12-31T09:25:00Z
@@ -83,6 +69,20 @@ related:
         width: 596
         height: 600
         isCached: true
+  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The Advent of Artificial Intelligence in US Retirement Services"
     excerpt: "Artificial Intelligence (AI) has found its way to numerous applications in our daily lives. From customized social media feeds to personalized online shopping – it’s everywhere. The latest technological advancements in AI have made it possible to provide better user experiences leading to higher customer satisfaction."
     publishedDateTime: 2022-01-01T02:02:00Z
@@ -92,15 +92,6 @@ related:
       name: Tata Consultancy Services
       domain: tcs.com
     quality: 17
-  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
-    publishedDateTime: 2022-01-03T14:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "cK5R88V2nNs5WXU3ScSK845O925r/SzUfvP25IaF35fouMBotT3Gn6BRaM/jh/sq0rXlSxiSynp97XugNefAHq+kOMbLPccb9viSUaIdDYovedduCxKLr78m1SPFk9V6fjGYZJiaKhi4iVVUT+n43tzRKpjxw7W9c2JHnojEkBJG/eZEsANZzPvgrX6bXLsqVtQY+5sJMAAEj+zdvQ6DYkdW2PTSytgzuQ1qJRB0pt4VdDwD09yUY9CL0jcXF9+5+f6Izb3QRQmFf7cmFuZ/kkNiKND7dLI9IUDjyRaPbWiLOE/PQW97XSOI7WNCm3YXM4PMug2uyTm5XrEsVKL/N7M2wFBw/6Bj2uIPabq34EA=;nKtiNggWt99GoPuI1TnbPQ=="
 ---

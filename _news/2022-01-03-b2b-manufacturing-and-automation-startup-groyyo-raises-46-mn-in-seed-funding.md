@@ -9,8 +9,8 @@ ampWebUrl: "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groy
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/amp/"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: inc42.com
@@ -41,6 +41,22 @@ related:
       - url: "https://www.thehindubusinessline.com/companies/ide0rx/article38077728.ece/ALTERNATES/LANDSCAPE_615/fundingIMGiStock-133800872121D991GL7Ljpg"
         width: 615
         height: 384
+        isCached: true
+  - title: "Customer Engagement Startup Exotel Bags $30 Mn In Series D Funding"
+    excerpt: "Bengaluru-based customer engagement startup Exotel has raised $30 Mn in a Series D funding round led by Steadview Capital."
+    publishedDateTime: 2022-01-04T06:53:00Z
+    webUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/"
+    ampWebUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 42
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/01/exotel-social.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "TRXewSRjgeK2DtJQU0/PfCprLOVGJvV/EStkC4dQ9J88BUeGWFcMYpi6m6acLB9DjIyOvKj5rB6Cr3SOIl0ZcgljAXPXAfR1KYc9AcznpZC4AkH9Am7cpj0Od1RTcaEzDG5lsgnLaJueMEKcbrbNc7T7ubEOn6dAvyy/k971pC8l5/c/LXBNQkxlRdHBHbNnXD5dYsQCWl92szVWaACJ4t10WMFj2HP9iSRyi5wF3/ObYgvBBmyeTxi41+VT6rQ7xQouJTyhyyEeKccpvQkqIq7XS9HKMLbTRfdwPVL+Q61WYuCksZEa5I4JNxXIRUVWefcrgLWdV3RtUKvsff+CGZlLFHIRkd2vrn/dZUSKaKh+Ee9dpcC6rNPM5mtoYheWlzz9fTOy0AqRssE3bvZ69fvAJRz78foyQKNAfy0ldQu4BDHnC0PYhJ/bPcA1MWgBn7bATOuSkggloltZyxn2dsYJ28GvdoG4FpCsx4AMqsWzdWjvLxzTTMRMseKJpNN5plFMBukJCnsZ6o05AMTL2A==;IuLR/9SIrI+OEouWvlVoMw=="

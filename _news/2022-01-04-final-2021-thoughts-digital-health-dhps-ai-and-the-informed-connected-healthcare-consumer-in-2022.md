@@ -29,19 +29,61 @@ images:
     isCached: true
 
 related:
-  - title: "AI In Healthcare Highlights & Milestones 2021"
-    excerpt: "In 2021 companies using AI in Healthcare made significant progress and reached many important milestones. We have reached the threshold of a new era in biomedicine where advanced analytical and deep learning methodologies hold the potential to vastly improve the way we understand and treat disease."
-    publishedDateTime: 2022-01-03T22:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-highlights-milestones-2021-margaretta-colangelo/"
+  - title: "AI, robotics, home care and mental health to lead healthcare delivery"
+    excerpt: "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,"
+    publishedDateTime: 2022-01-04T06:54:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
+    type: article
+    provider:
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 86
+    images:
+      - url: "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700"
+        width: 700
+        height: 434
+        isCached: true
+  - title: "What are we likely to see in AI in Healthcare in 2022?"
+    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
+    publishedDateTime: 2021-12-30T23:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 58
+    quality: 56
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEWk9x293v1PQ/article-cover_image-shrink_720_1280/0/1640804991983?e=1646870400&v=beta&t=Zo-SJWd57KbwfXXri2xw678-DFxSz0oZH3yHNJqsuAo"
-        width: 1280
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
+        width: 1016
         height: 720
+        isCached: true
+  - title: "Survey Finds Healthcare Execs Bullish on AI"
+    excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
+    publishedDateTime: 2021-12-30T17:36:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/survey-finds-healthcare-execs-bullish-ai"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1803136597.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
+  - title: "Utilizing AI Chatbots for Sensitive Healthcare Topics"
+    excerpt: "University of Westminster and University College London collaborated to see if healthcare patients felt more comfortable discussing sensitive health issues with AI chatbots."
+    publishedDateTime: 2021-12-30T18:10:00Z
+    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/12/30/451085-utilizing-ai-chatbots-sensitive-healthcare-topics.htm"
+    type: article
+    provider:
+      name: HealthTech
+      domain: healthtechzone.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/1030862319-AdobeStock_313360233_AI_doctor_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "bLUMzV81/CqJ8f9lRZDhqAqakiGJ+kFMbQCVttCeu6Psxm2RkdziQ5d2pnsQlRH/vaAQh+TvexluEWftfjUNXE6NO7aob8WLxl8h1g/GOPtYDtuEqWCHzoRIxUUz2vBmsskRH8gOqmW6NFtLD1sq0Npak9HXbo/26SZyd0HHhv73hcETnKR1BNOXql0raI8ZqSWd83BG2s8XXZpb61i+Yd0m8rga/Fb6HNGmxmv8BAu4bljKWeGPfIRUzgyL60dSVMlQ5JfuiKdKrLUMB6xqlSqohIJp8JKNh8R71K7M8GhZCHM5BH+7eg+rAXGqQ83sm4V2F1bWFqXDsPrxTzB0Xb+hvmQRTengcy/0+9dTShjHsq/rxa+4rDdOWlgNo77KDLu2tGvOnUMAb+6au93x0lD+0XRqdzSI9fAxIyCZzwGT2eJFPuFWaz5+Dtgrs7SZVRtCxCB0W6eb1bZGMJRUY1iCWAynzWtbNAokapNAMlNzkr83LqVjIAU7SQFcaiOVxWgFLvt0ayDz5P4Md3tW7g==;Qiu0oN1pqhUgpq0Ap8Ux9g=="

@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-04T06:05:00Z
 originalUrl: "https://www.bloomberg.com/news/newsletters/2022-01-04/stock-markets-today-elizabeth-holmes-apple-tesla-and-boosters"
 webUrl: "https://www.bloomberg.com/news/newsletters/2022-01-04/stock-markets-today-elizabeth-holmes-apple-tesla-and-boosters"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMKPFThj7Jjg/v0/1200x899.jpg"

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-qua
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Utilizing AI Chatbots for Sensitive Healthcare Topics"
-    excerpt: "University of Westminster and University College London collaborated to see if healthcare patients felt more comfortable discussing sensitive health issues with AI chatbots."
-    publishedDateTime: 2021-12-30T18:10:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/12/30/451085-utilizing-ai-chatbots-sensitive-healthcare-topics.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/1030862319-AdobeStock_313360233_AI_doctor_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
     excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively onl"
     publishedDateTime: 2022-01-02T13:40:00Z

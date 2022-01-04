@@ -2,21 +2,27 @@
 category: news
 title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
 excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
-publishedDateTime: 2022-01-03T14:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
+publishedDateTime: 2022-01-03T14:02:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "The future lies in AI"
@@ -34,20 +40,6 @@ related:
       - url: "https://image.khaleejtimes.com?uuid=caebb246-3f74-4d60-bfa8-8731bb4eefa4&function=cropresize&type=preview&source=false&q=75&crop_w=0.84296&crop_h=0.99999&x=0.07852&y=0&width=1200&height=675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "What are we likely to see in AI in Healthcare in 2022?"
-    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
-    publishedDateTime: 2021-12-30T23:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
-        width: 1016
-        height: 720
         isCached: true
   - title: "The blurry image around AI"
     excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
@@ -101,6 +93,6 @@ related:
       domain: tcs.com
     quality: 17
 
-secured: "fQYYRT3pwoMh41GP1lRoFQVkgdAEtJ8Akq3SGoRyekxvijLOYGU03zaNblcxyIv4F7o3SRiqbvzY+jb2OzQ/frpuwsDd4SmGIVa6RTd7S1lBtVVLmD6xWTZfE0886oUK8Y4SabYM58vAv+ASyI6q+PP7GRZWtVwHotUzzu9danDy4MFIt/u0ZJzubiEw9uSSvZYFHT0MEvLDtDrg0oCZuSwRd1ltLeGUwt0S/0CZnCxmkGRxlJfu++KI2/Ua44+2jV9U0zeLp3RaVe8ynWfq3JW+z0Ha5xcNkwM/qut5Ppvk/HkQ0rG2EBtjU56y5GfSkZtiOmamFEfrt7JnB3Wa7ns7q0/wBPHwIYVlkEbsShU=;g5W/WlfOuXDuND60VFRmeQ=="
+secured: "Fue5YVOna5QQLw2fKkTgveNbKhP5DRwpPdEtIyUkgDUHN2eStaZH9X8hWre1/h8TcDuDsWqt/ot9jvHxJSo16gaCt65Vw9mHtwRRM3ihe1JF1ZEnmUIRCFcXDttaj4A1hNqs2AuLOyZfQHrN7zrC+YBeZvYaz4TFu2oUGy/OEBltHN0f3lBxF527G+I3P7/f2lkynRx2RH2c+51YK5A7YuPiVES3thwp1cKQy4EwJxAVPHinH+vZC/Sl349YiADIgp5Dn7mweZ53yh3Aa+QlI8yyjX/g9ru/Evb281J/3UuFQ3VxZQy0WEqjFR5688+Qjg9FAl4GVJSfMfZp/l6pXquP7/PpZTxm2SUi9pdRDxw=;B0qL9QbnWa4SnRU+noH5pQ=="
 ---
 

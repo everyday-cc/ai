@@ -35,6 +35,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
+    excerpt: "Deep tech firm's new low-code tool, hAIsten AI, speeds up AI development, allowing users to train AI models with minimum effort in coding and deploy AI with a single click.TAIPEI, Jan. 3, 2022 // -- Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool,"
+    publishedDateTime: 2022-01-04T05:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=594334"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 39
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
     excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
     publishedDateTime: 2022-01-04T02:02:00Z
@@ -64,6 +78,6 @@ related:
         height: 900
         isCached: true
 
-secured: "yDDdYy7C+zy83oyVlfg+F6RyVOSOsc/Uk90C7LRC5n4CaqxoTD8zn8oKnqjmSF75HPYrcx9W/9TtEMK8ibU/5sqyNsoU0FUn7+iTCTSEmN2KuFJwrD0n9K7QjdIe6qZOEpocr4KnwPWv3NAqxGfLKHOYUxK+PU4BpA0WnUlQG6F2hgI8Qcv4tKr6ouZy86TsJRlDmnbAoUC2jvRrwulge/IXBerzzI/yD2l/xA+0YYeb7kgX9+A1m+mQLCNnffJbfMohqxdokb1zvbvbd4qxg33AZrrQadcpdpZX0Ws5NzbT2l0C3mu0qzuNW9I42T0m2n0iH4ynUSm+a/+IrgCIjT997qA8gutr/p34ILg13Lg=;ooBFyHPJyfYoEwCtJktGrA=="
+secured: "BWwUm7dutxHpaKKgV9gZTEU2eE8WsVdqTriJocU/AZowdY+0mrvND6ikCPT/M8EmR5xc3cUrYlEOekswrI7F7+mFcF+gBawCObCaO44dNEazlgB/e/tqds3HFy9deXE7/YMSs5ksP3eGOYz9iTnQkb7Fq15bHqiqPS80OKQruD6e9Xhkaomi2Y4VYuINwnbuYURIgDExUVfa+MQLukw9helfuc9dfSmNriivb5m+bzXdewx3RXPHycqx+kBUeC5DavniI3/V6euDfzO4P7HPHOsh2p1kIoElLi7Fk56Spe790GzLb4KRXW2YNt/XsekbmKWvOoGY4rFY1qlD5FxCtYVHQJn3pmS3t1d7vnkwHPNlBxxBZacnmCbHc3QhkBq+OYLu8GeBaSgr3ssxPOVzCZP6X5XLLRgHmTUtrDv9t5nBbdgnXYtBh3KnhmhdCQLGBpGyKp+0t0RnKdgXvQUHaP/hbceu4eaw2AXwJZ3OVSxFX1wNQhy+B0T7zK6bh/GZrwh3dnxdO9CHXoHbTY/szQ==;l2aoN94EfOpKB/8A7M9fMw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-us
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       - url: "https://www.livelaw.in/h-upload/2022/01/03/406892-et-artworks-and-telangana-hc.jpg"
         width: 842
         height: 486
+        isCached: true
+  - title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
+    excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
+    publishedDateTime: 2022-01-04T08:03:00Z
+    webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-petition-telangana/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 29
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g4b2d39e33_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "MktSGNK73PitxpiZwzoWf8d8+tQnnwUXBrtarCH4Of8jtnwhMM0Rrit2gYdFXRFN0bD8uDtV4vmNBkxDRMtOstoofrZX5HujxKoOZ89f/lGV4MjfcUNXnueniLoNVbaLOuAZcqy0nZ2QflDeYdy6xuLxiiYs4GEmYUEL4z9AtS4UJExe8WGsp4cQaN2P/VwhN6If2MKqPxZSeMaLzjnNLwSYHRhzHT1z5pFvODnBoNTXIkB2qh+UOTfrqSkgrz1q65RtpWhq0zvffy6OEGvP6n7YQzQG6rUNcxpvVrtz9Gh5TApMJ+AD/HXmO80NQrknjNlwN+lSIQRzitCWxSNkcyeOnG9XyKkJliY24Zn2cwbXu9UDeJYyO29/biPDHPdMHZIGqooQ5YGQPtoQcDwXDIA5+TM1QOYWUDlg/pRWq6nv+N4d0PhfyATv+b1TmTB7J/76aNlzfEApsEv6xDol84CCLS+Rhm30tI6eDSZUIQG+XnEkbTD7himalUy2bVCAZaSE7UCg0UYvuByC8VszhA==;JTppwj7sGEsdrirY/wRiZg=="

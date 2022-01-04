@@ -22,6 +22,20 @@ topics:
 
 related:
   - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
+    excerpt: "Deep tech firm's new low-code tool, hAIsten AI, speeds up AI development, allowing users to train AI models with minimum effort in coding and deploy AI with a single click.TAIPEI, Jan. 3, 2022 // -- Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool,"
+    publishedDateTime: 2022-01-04T05:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=594334"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 39
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
     excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage"
     publishedDateTime: 2022-01-03T13:30:00Z
     webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022/article_f48f0b1a-dec3-53ab-84f0-92c47fc09679.html"

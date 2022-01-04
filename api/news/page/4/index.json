@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-29-bavards-conversational-ai-technology-now-powered-by-aws-for-better-partner-integrations-and-scalability.md",
+      "title": "Bavard's Conversational AI Technology Now Powered by AWS for Better Partner Integrations and Scalability",
+      "excerpt": "Bavard, a leading conversational AI provider offering businesses a better way to support and engage customers 24/7, is excited to announce many enhancements to its platform, including now being powered by Amazon Web Services (AWS),",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12670_16407596930316574.jpg",
+          "width": 350,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12670",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670",
+      "publishedDateTime": "2021-12-28T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time.md",
+      "title": "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time",
+      "excerpt": "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
+      "originalUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-456678/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
+      "publishedDateTime": "2021-12-28T21:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
       "title": "India's Airtel, TCS tap robotics to build 5G-based units",
       "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
@@ -1081,100 +1176,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations.md",
-      "title": "Covid-19 Causes Global Supply Chain Havoc Intensifying Last Mile Logistics AI Innovations",
-      "excerpt": "This blog discusses COVID-19 impacts on the global supply chain and the havoc it has caused intensifying Last Mile Logistics and Real Time Monitoring of AI intelligence software solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca0586b099be41a4554665%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/",
-      "publishedDateTime": "2021-12-27T09:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges.md",
-      "title": "The Maritime Robotics Challenge: Collaboration to Solve “Unsolvable” Challenges",
-      "excerpt": "The Mohamed Bin Zayed International Robotics Challenge offers more than $3 million USD in prizes.  This year, the Maritime Robotics Challenge is designed to bring emerging technologies together to tac",
-      "sourceUrl": null,
-      "webUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
-      "originalUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dronelife.com/wp-content/uploads/2021/12/1024px-Maritime_Transportation-e1640629145440.jpg",
-          "width": 612,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
-      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
-      "publishedDateTime": "2021-12-27T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dronelife",
-        "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

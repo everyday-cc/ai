@@ -2,6 +2,144 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-14-un-head-calls-for-action-on-killer-robots-as-geneva-talks-start.md",
+      "title": "UN head calls for action on 'killer robots' as Geneva talks start",
+      "excerpt": "UN talks seek new rules on autonomous weapons. Activists petition states to launch binding treaty. Autonomous weapons may have been used in Libya. GENEVA: United Nations Secretary-General Antonio Guterres has called for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
+      "originalUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geo.tv/assets/uploads/updates/2021-12-14/l_387580_103201_updates.jpg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
+      "cdnAmpWebUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
+      "publishedDateTime": "2021-12-13T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geo News",
+        "domain": "www.geo.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-prenetics-scales-health-testing-capabilities-globally-with-aws.md",
+      "title": "Prenetics Scales Health Testing Capabilities Globally with AWS",
+      "excerpt": "With AWS, the leading genomic and diagnostic testing company performed more than 6 million COVID-19 tests globally during the pandemic, scaling daily testing capabilities by 8x HONG KONG SAR - Media OutReach - 14 December 2021 - Today,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/prenetics-scales-health-testing-capabilities-globally-aws",
+      "originalUrl": "https://www.asiaone.com/business/prenetics-scales-health-testing-capabilities-globally-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/AWS_6.jpg?itok=7XMmX0aH",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/prenetics-scales-health-testing-capabilities-globally-aws?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/prenetics-scales-health-testing-capabilities-globally-aws?amp",
+      "publishedDateTime": "2021-12-13T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-california-halts-ponyais-driverless-testing-permit-after-accident.md",
+      "title": "California halts Pony.ai's driverless testing permit after accident",
+      "excerpt": "A California regulator on Monday said it has suspended a driverless testing permit for startup technology firm Pony.ai following an accident.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "originalUrl": "https://www.cnbc.com/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106988806-1639451658671-gettyimages-1284253083-vcg111305489322.jpeg?v=1639451265",
+          "width": 4134,
+          "height": 2757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/14/california-halts-ponyais-driverless-testing-permit-after-accident.html",
+      "publishedDateTime": "2021-12-13T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-walmart-backed-symbotic-will-ipo-via-softbank-spac-for-55b.md",
       "title": "Walmart-Backed Symbotic Will IPO Via SoftBank SPAC For $5.5B",
       "excerpt": "Symbotic, a robotics and automation startup company, which is backed by Walmart WMT, said on Monday it is going public via a blank check merger with SoftBank Group, valuing it at $5.5 billion.   This deal will be conducted with SVF 3,",
@@ -984,144 +1122,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology.md",
-      "title": "Podcastle Makes Creating Podcasts Easy Thanks To Ai Technology",
-      "excerpt": "Podcastle is a new platform that aims to make the creation of podcasts easier and more professional thanks to some nifty AI technology and a text-to-speech editing tool.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/",
-      "originalUrl": "https://www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b766faecb256acfde84010%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marksparrow/2021/12/13/podcastle-makes-creating-podcasts-easy-thanks-to-ai-technology/amp/",
-      "publishedDateTime": "2021-12-13T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-synectics-introduces-cloud-capabilities-to-surveillance-control-rooms-powered-by-microsoft-azure.md",
-      "title": "Synectics introduces cloud capabilities to surveillance control rooms powered by Microsoft Azure",
-      "excerpt": "Control room teams around the world can now store, manage, and collaboratively share video footage more flexibly, due to integrated native cloud capabilities introduced to one of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html?ref=nav",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/synectics-security-wins-ip-video-security-system-contract-for-irish-rail-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/synectics-introduces-cloud-capabilities-surveillance-control-co-1623-ga.1639399489.html",
-      "publishedDateTime": "2021-12-13T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon.md",
-      "title": "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon",
-      "excerpt": "Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine Learning for Good Hackathon, which leveraged natural language processing (NLP) to analyze COVID-related mental health data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon/article_896ee044-8e3c-51a5-a5ed-2d105a967696.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon/article_896ee044-8e3c-51a5-a5ed-2d105a967696.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

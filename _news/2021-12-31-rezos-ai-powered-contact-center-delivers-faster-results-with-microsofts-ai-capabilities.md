@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-power
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Platform as a Service Market is Booming Worldwide | IBM, Microsoft, AWS"
+    excerpt: "Latest released the research study on Global Artificial Intelligence in Platform as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Platform as a Service Market research report shows the latest"
+    publishedDateTime: 2022-01-03T10:49:00Z
+    webUrl: "https://www.openpr.com/news/2515593/artificial-intelligence-in-platform-as-a-service-market"
+    ampWebUrl: "https://www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
   - title: "How AI and ML are changing contact centers"
     excerpt: "This has left call centers across industries plagued by long queue lines and insufficient bandwidth to offer the speed and personalization that customers want. However, the partnership between Talkdesk and Amazon Web Services (AWS) is now enabling businesses to leverage conversational AI and machine learning in the contact center."
     publishedDateTime: 2022-01-01T10:52:00Z

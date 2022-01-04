@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-23-eu-oks-microsofts-197b-deal-to-buy-telemedicine-tech-firm-nuance.md",
+      "title": "EU OKs Microsoft's $19.7B Deal to Buy Telemedicine Tech Firm Nuance",
+      "excerpt": "The European Union has cleared Microsoft’s buy of Nuance, an artificial intelligence (AI) and cloud computing company, as it doesn’t pose competition concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/microsoft-nuance-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2021/european-union-oks-microsoft-19-billion-dollar-buy-telemedicine-tech-firm-nuance/amp/",
+      "publishedDateTime": "2021-12-22T19:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-fintech-oportun-completes-acquisition-of-banking-platform-digit.md",
+      "title": "FinTech Oportun Completes Acquisition of Banking Platform Digit",
+      "excerpt": "Fintech Oportun has acquired neobanking platform Digit for $211.1 million, which included an aggregate of $112.6 million in cash and $98.5 million in stock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
+      "originalUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/international-acquisitions-b2b-payments-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
+      "publishedDateTime": "2021-12-22T18:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-gpu-accelerated-data-analytics-startup-brytlyt-raises-5m.md",
       "title": "GPU-accelerated data analytics startup Brytlyt raises $5M",
       "excerpt": "British data analytics and visualization technology startup Brytlyt Ltd. revealed today that it has closed on a $5 million round led by AlbionVC. Existing investors Amadeus Capital Partners and Finch Capital also participated in the Series A extension.",
@@ -1083,92 +1169,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island.md",
-      "title": "UAE: Self-driving taxis ‘TXAI’ to transport passengers on Abu Dhabi’s Yas Island",
-      "excerpt": "Commuters in Abu Dhabi can now travel on driverless taxis round the clock through the ‘TXAI’ app, available on Google Play and IOS App Store. Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "originalUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/22/Txai-1_17de0e47d18_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "publishedDateTime": "2021-12-21T22:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status.md",
-      "title": "Self-driving startup Haomo raises RMB 1 billion, reaches unicorn status",
-      "excerpt": "Chinese self-driving startup Haomo announced Tuesday it has secured a RMB 1 billion (around $157 million) Series A from investors including GL Ventures, the early-stage investment arm of private equity firm Hillhouse Capital,",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
-      "originalUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
-      "publishedDateTime": "2021-12-21T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

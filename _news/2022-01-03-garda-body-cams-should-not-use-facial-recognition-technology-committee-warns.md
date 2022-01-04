@@ -167,6 +167,20 @@ related:
         width: 842
         height: 486
         isCached: true
+  - title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
+    excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
+    publishedDateTime: 2022-01-04T08:03:00Z
+    webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-petition-telangana/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 29
+    images:
+      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g4b2d39e33_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "TWWryIobyy3Wmp0vaowNWzQNayIiI+Nm5vgBdhjN6pMg0ujX9shtxmJi8j2TlH3JpmQjGdLXBfx2AlET4YdLXoaSbHZ/NFUJeCxq8lLEFGotQcgf1FzyLp/OaST4sLBJpAJ5uttYqRlci7a4KEpLQ2OfhvOY36ORet6jn1tBKH8sZ3S2KGs+0uzi4qQQlt7MRGzWacyKl4/JUpDsOGRn6cF51T+BuOQGiAxsy7OexGV2dAhVPGXnHtgnBs60P6I8tW/o1oTlqKY2smTnfJu3F+d9d6g3VH2iyINsVwCBOuC97fdBVsRNFBFK7IuXomeIIs42zj5LYPsjz3oS55zxUSpIiDIH/vvsiKzN8CcW3prxnwZWu868AUjRSyamTccydAxf1BB7t+JpTsiHvY4HEWbYwQduldXHDyHOE3TadtTD3nFAkYE9nZZ1W6HPpqAjBZhcyxsYU+/IETSuKgWUJ4jrubteJ5NBtl1MiTE/4l6Q3fp5W50zrw/VEp9/D41Un4cBUDDZ4ren2s2B6k4afw==;r/QSbaDU1T8qzN7qEfQAdQ=="
 ---

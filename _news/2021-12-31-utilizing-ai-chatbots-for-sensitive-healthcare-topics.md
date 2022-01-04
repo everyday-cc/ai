@@ -25,35 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
-    excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay."
-    publishedDateTime: 2022-01-03T14:20:00Z
-    webUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html"
-    ampWebUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
+  - title: "AI, robotics, home care and mental health to lead healthcare delivery"
+    excerpt: "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,"
+    publishedDateTime: 2022-01-04T06:54:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 69
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 86
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg"
-        width: 1356
-        height: 668
+      - url: "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700"
+        width: 700
+        height: 434
         isCached: true
-  - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
-    excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively onl"
-    publishedDateTime: 2022-01-02T13:40:00Z
-    webUrl: "https://menafn.com/1103475461/AI-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching"
+  - title: "What are we likely to see in AI in Healthcare in 2022?"
+    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
+    publishedDateTime: 2021-12-30T23:39:00Z
+    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 47
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
     images:
-      - url: "https://menafn.com/updates/pr/2022-01/02/TC_35569image_story.jpg"
-        width: 1436
-        height: 957
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
+        width: 1016
+        height: 720
+        isCached: true
+  - title: "Survey Finds Healthcare Execs Bullish on AI"
+    excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
+    publishedDateTime: 2021-12-30T17:36:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/survey-finds-healthcare-execs-bullish-ai"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 54
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1803136597.jpg"
+        width: 2732
+        height: 1200
+        isCached: true
+  - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
+    excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
+    publishedDateTime: 2022-01-04T03:41:00Z
+    webUrl: "https://www.linkedin.com/pulse/final-2021-thoughts-digital-health-dhps-ai-informed-narciso"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFZBFErGiLOog/article-cover_image-shrink_600_2000/0/1641248546445?e=1646870400&v=beta&t=8wPkfEQyia0nTN0mcKb9B6lLgVHrUUnns4nBshi21ik"
+        width: 364
+        height: 301
         isCached: true
 
 secured: "wYpc2lRBA5IZPkgzOTnu67Y+2twWdtMk1m58bV03IPkhqd5yWUMq+TEktNGEr1QmAyglUBzEwD1kb/2kUzx8/kzNxA9RLCb3U1obH1vYlWh+lXQCiW+6YR7RrwlX8Zeyzd6VOs6PoiignNEA6PdMb/D0QfoVBj2zKfsZLBYm9xLkT7Z6B9zkOqKqNoqDZ79Ae/UlrtcHbbZIhkeKM5HIdrMSLrOzzifYLgaQ7H6C2Nzf3XYl7o8wgUnzib6a8PhSVu5BBwLaUa4eKw99EGCBq9kX+uG3klQHyiXHq6tZWyhHmVuw4Bv7C+Gu6puB7IPloYNK6v58jaKE4R6yXARVqa8Gzg3vcUIcEyWg7AER07U=;U1g0Tk19HsW8l0jcbSZAeQ=="

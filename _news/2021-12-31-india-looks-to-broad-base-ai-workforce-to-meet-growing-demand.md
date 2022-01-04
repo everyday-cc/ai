@@ -3,8 +3,8 @@ category: news
 title: "India looks to broad-base AI workforce to meet growing demand"
 excerpt: "Only 2.5 percent of engineers in India possess technical skills in artificial intelligence (AI) that the industry requires, the annual employabil"
 publishedDateTime: 2021-12-31T02:44:00Z
-originalUrl: "https://menafn.com/1103467048/India-looks-to-broad-base-AI-workforce-to-meet-growing-demand&source=30"
-webUrl: "https://menafn.com/1103467048/India-looks-to-broad-base-AI-workforce-to-meet-growing-demand&source=30"
+originalUrl: "https://menafn.com/1103467048/India-looks-to-broad-base-AI-workforce-to-meet-growing-demand&source=19"
+webUrl: "https://menafn.com/1103467048/India-looks-to-broad-base-AI-workforce-to-meet-growing-demand&source=19"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 629
     isCached: true
 
-secured: "2uFQfV45MACKzAlHOkuYnlsviTbzmETt+nhbvyHa4/Kkl6t50QeCDeW3G3gls6o+sbLWEbT57GOJUIqTId+oxG7nBibvQHsJLLxZxKfxpFOkS2MR86xWiM56Omn7ktuAMaHT2UVk8eixk3h057Irbk5Tm4lF1EZWzm4Td+5O22SQdf8TN0URbM3DW7JDhKnBCQBsL009SdPqUbIja9yOruX8oLzFkLdNPRyNTGiGm29O6/xBl1uZnFXpVwP+NeZ9mX+LI8x7S0gWxIb0JCPaz/ES0DhhJ5Y6fRcZz5hyRZ2k58BQ2hr4f/UntFhojc8YoaqVTIcUW7eYRJVKKSCB0gq9Fb6/fFSaWf+gmxOyBfc=;rn0RBlpLh3PF+1uW1CfOIQ=="
+secured: "MyhWVxnQAJeps6mHbyoFNwmstpZKtiR++Rt1ls7kNIzRKRHiZiPHIp1xso5wirUHFRczvoprIIveG+31akwxbNaeQl8WQjb/Ln5OOxvYpevTJ6SFFvTN2EKSGKV5W6eZ+z+g0EHNglFVEclQBTBEnDIU+QhoGPUuNsnLPE4BM5tifnzc42MTafjXIrPizMZkg4024E/6NjlJflzJKEo1B1H/W/sIZWn7I6S4xut12YQClAI6DlXKEH8QYgj0JmXsgCJX/9jCSwXp2SGbzbt3GDcTH+MQEYw6ilsymVHSCrT8HvW2KakEtzvfFguC2uju2JWWIzyvqADLz9JR720sxGzN8D7ZznmeEx1FtmzGs64=;hpVwMeHnYEfYKr2nqgJARA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Data, AI and cyber on the minds of CEOs"
+    excerpt: "Australia’s leading chief executives are investing billions in technology each year with the stated aim of better serving customers."
+    publishedDateTime: 2022-01-04T08:47:00Z
+    webUrl: "https://www.afr.com/chanticleer/data-ai-and-cyber-on-the-minds-of-ceos-20220104-p59lt0"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.6039%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_251/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/b542fd221519c296c27b1a58427965d322989400"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "exuuZOgu/b29rDEZHUtPgUPsEZ8Gt/fbsWxLpbM0pOOWXF5WcalylggrGum0s5McTi6dvGOt6yCpHvb8mCEq1D4nwncp0BuEvt0ghoqhSp1ui6gy10xST+nYr19rMQwOAnNa8EXPM/GJvcR4nFKvn6QUqSz9sbjYoKAi9X55NAZC5Tf81cZR2l6CK/bLG/EB1F4B3ImH1TJHAcWnxiI/Kn+LRUn9gBLtYklfznLd5cOoKn1rIquzpyMm9OwAUON0xnxF0IG1PqsF3+EoiXbEHZFlcd/oSUKUuNI2gUsErBZCK+XRswHSvsZkMohaJFEnx7XOEf5jw6wz8dpcXjnhKU/YqUlGOVhr2kNbN9E15lKRK5E1mi+NjLVHZLWPKmsSiSczWwG0pQ4nYW5Nkh4s7RAt9Y8xlSGk1k0/VKx9oTG4y8Z28VB5qd+Vw0OD7MwA9CHMnjsEcM+Bnfg0r8+cJ8hi/MTVquj+mXHNsa97K1oi6VS3LJJlI3JFzvyduh1+AFoLxEI1NMmSKs/TpBLHNA==;OkfwgLUkJir43NeeO910TA=="
 ---

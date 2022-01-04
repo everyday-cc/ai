@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What are we likely to see in AI in Healthcare in 2022?"
-    excerpt: "In 2021, we observed some significant developments in Artificial Intelligence (AI) in general and some progress in applying AI in healthcare. For health informaticians and clinicians, the slowness in the healthcare industry adopting AI is not surprising,"
-    publishedDateTime: 2021-12-30T23:39:00Z
-    webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEjiq_YkvCqAg/article-cover_image-shrink_720_1280/0/1640907151962?e=1646265600&v=beta&t=5J0KApYi6_5WUOcKok3XNjCZUK7pwioCsqTGvrDIuUA"
-        width: 1016
-        height: 720
-        isCached: true
   - title: "The blurry image around AI"
     excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
     publishedDateTime: 2021-12-31T09:25:00Z
@@ -92,13 +78,18 @@ related:
         isCached: true
   - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
     excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
-    publishedDateTime: 2022-01-03T14:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-fluentai-knowles-partner-unveil-future-true-wireless-stereo-/2022/01/03/9518710.htm"
+    publishedDateTime: 2022-01-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "LgdyiaB87IPzrEmix7n3lTwiVu3nFLlKXv3PATFX7VJ5RPguB1jsHIBkLbup/MKL1iikkYl1BhxC8C0yrgb2D5KlbYWalkQtUXt3G2K8x8zi4ZYnLsdtUVHbPKirejwFyZwCofauzDiDrQ1yPePbALBKSZLASCgAgABKkkpo7BOlxP8+TAn7wQs0RdDl9SN/Rk9t80J1ixgziZ3xkQdbRTMGXT0rZvA8SIsM78NAvDqWjRotvXaECY7HsLLy9K2DXJ8XLsKHUJw7gYA/xqwz0r/D0OjxZzYrLOhkyXxKswT0SL3C0OcOq2WFu3+1LGif4aM2mRkx7pNa0FM3i5FnHKt9P7htt1OUqckiPvPsZ7xgA/HPA4hSQdo+nxm/OHg7yoYMFTs5/oOvWdJVoNmQXnMwkqMyFd/YgK8GHy/NIRypNVhoCAwgQAsIQb1wT6wfiv4JUFUJhDXKkHM1LKDZYpJUAxNNNWW4AsVpZs4nwIZWkXU6eAflcrBhHt12SEgB1XUVQh2R8oG0e/tOJGvtYA==;JjDHN6WanSYrGvn24hfUhA=="
 ---

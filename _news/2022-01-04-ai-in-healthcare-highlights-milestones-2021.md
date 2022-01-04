@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-healthcare-highlights-milestones
 webUrl: "https://www.linkedin.com/pulse/ai-healthcare-highlights-milestones-2021-margaretta-colangelo/"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
-    excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
-    publishedDateTime: 2022-01-04T03:41:00Z
-    webUrl: "https://www.linkedin.com/pulse/final-2021-thoughts-digital-health-dhps-ai-informed-narciso"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFZBFErGiLOog/article-cover_image-shrink_600_2000/0/1641248546445?e=1646870400&v=beta&t=8wPkfEQyia0nTN0mcKb9B6lLgVHrUUnns4nBshi21ik"
-        width: 364
-        height: 301
-        isCached: true
 
 secured: "UT8Ro6q8yIUUvYD5BdHB49LUA+rDKG3YHOuySCGPZTyGsVfetq3FyWz/t2pKhNaQAT6ONwR3toZ+nFtKfZ+SPnwZQfq7PQsFkZ63l+WsUcFjLIIb23fjYSiibKkYaiAs1sMovaOjGRu57DJlvhHASwgPWUB0I0nHr0QNBiFrAKtEAF8hrJ8gSt1RcOMVtg4cscerMwMq+xbY93+TwgNImlkxQfFGsik8OL/HPoYyV7horpnqWLF+zonmSn5w8GXI+aazmwKyH8bX/jqbPdHc1KWWl/4einj7YxtIPSpdpaXesrn9u02E8kEqYuaE6u6ZlSXBnvyxwd7yAfv15rrHz0l0Ov2U4wWCLJmm5EvdHiM=;F3t2hiGld2it2aefBVp+Jw=="
 ---

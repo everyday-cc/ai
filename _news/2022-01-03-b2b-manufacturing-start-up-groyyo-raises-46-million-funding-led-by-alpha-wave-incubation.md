@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Customer Engagement Startup Exotel Bags $30 Mn In Series D Funding"
+    excerpt: "Bengaluru-based customer engagement startup Exotel has raised $30 Mn in a Series D funding round led by Steadview Capital."
+    publishedDateTime: 2022-01-04T06:53:00Z
+    webUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/"
+    ampWebUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 42
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/01/exotel-social.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "wM07M7cYHWS0hyyKKMg56UcVUYQ8YxnnUwPDXIQOS+5LoZZTpwLZ9csZD3GWtxulO1Gcwy7aIRI/u/nwAjQbp4mGoyZs3FRaenhR8OHkYn771EkUkk8WmLI6ijRau97leqIzB5PYQN8EuJooe1pDZUhk1babibFzbi6zcjYSmLJY1d5tlgDMYPM+MSnduLfNjVtabwIf/b/mu+wDdgoSF+xbRCh41GBvPIq894PjQbedoEnS5fkHY3OuJoxHcvkPLbhz/Hdyi564V2LOoMYU+uBcSYkVtMZap7HbB/c+8xCyBO1PpuOQwISW0stTRXRkOXdYbe+6dj5hoLCinZXy0qYBl+Vf8p8EtGKR60t7tJk=;7zG2HrNXh64/cj5tE2wD8g=="
 ---

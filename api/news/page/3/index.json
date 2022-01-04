@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-30-is-your-companys-network-a-black-hole.md",
+      "title": "Is Your Company’s Network A Black Hole?",
+      "excerpt": "Having visibility into the vast volume of data traveling across company networks is a complex problem, but one worth solving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cc642d30b627464217943c%2F0x0.jpg",
+          "width": 909,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/30/is-your-companys-network-a-black-hole/amp/",
+      "publishedDateTime": "2021-12-30T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-optical-chip-that-can-efficiently-solve-complex-ai-problems.md",
+      "title": "Optical Chip That Can Efficiently Solve Complex AI Problems",
+      "excerpt": "They combine photonics and electronics to process information at ultra-high speeds, low latency and low power consumption",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/Lightelligence-PACE.jpg",
+          "width": 500,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
+      "publishedDateTime": "2021-12-30T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-us-blacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut.md",
       "title": "US-blacklisted AI firm SenseTime shares jump 23% in Hong Kong debut",
       "excerpt": "Chinese artificial intelligence startup SenseTime jumped as much as 23% from their IPO price as they debuted on the Hong Kong Stock Exchange. The startup had raised $740 million in its IPO and priced its shares at $0.",
@@ -925,8 +1020,8 @@
       "title": "Artificial Intelligence Hiring Bias Spurs Scrutiny and New Regs",
       "excerpt": "With New York City’s passage of one of the toughest U.S. laws regulating the use of artificial intelligence tools in the workplace, federal officials are signaling that they too want to scrutinize how that new technology is being used to sift through a growing job applicant pool without running afoul of civil rights laws and baking in discrimination.",
       "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs",
-      "originalUrl": "https://news.bloomberglaw.com/social-justice/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs",
+      "webUrl": "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs",
+      "originalUrl": "https://news.bloomberglaw.com/daily-labor-report/artificial-intelligence-hiring-bias-spurs-scrutiny-and-new-regs",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1079,101 +1174,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-bavards-conversational-ai-technology-now-powered-by-aws-for-better-partner-integrations-and-scalability.md",
-      "title": "Bavard's Conversational AI Technology Now Powered by AWS for Better Partner Integrations and Scalability",
-      "excerpt": "Bavard, a leading conversational AI provider offering businesses a better way to support and engage customers 24/7, is excited to announce many enhancements to its platform, including now being powered by Amazon Web Services (AWS),",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12670_16407596930316574.jpg",
-          "width": 350,
-          "height": 215,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12670",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670",
-      "publishedDateTime": "2021-12-28T22:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time.md",
-      "title": "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time",
-      "excerpt": "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "originalUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-456678/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "publishedDateTime": "2021-12-28T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
