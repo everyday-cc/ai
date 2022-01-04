@@ -2,6 +2,93 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-12-03-new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots.md",
+      "title": "New ‘Slaughterbots’ Video Warns Of Need For Legal Controls On Killer Robots",
+      "excerpt": "A new video highlights the risks posed by autonomous weapons or ‘killer robots’ – and the steps needed prevent them from being used. It even has Elon Musk scared.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa2123f4a72238ce6b5bcc%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D768%26cropY1%3D3%26cropY2%3D435",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2021/12/03/new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots/amp/",
+      "publishedDateTime": "2021-12-03T04:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-fordham-university-hosts-global-ethical-vision-ai-conference.md",
+      "title": "Fordham University Hosts Global Ethical Vision AI Conference",
+      "excerpt": "guests and employees by identifying security and safety threats in real-time by exploiting the power of AI-based face and object recognition technologies. Mr. Nicolls presented a scale of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211203005109/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20211203005109/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T04:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-facebook-exiting-the-facial-recognition-game.md",
       "title": "Facebook Exiting The Facial Recognition Game",
       "excerpt": "Meta, the company formerly known as Facebook is pulling the plug on its facial recognition program. It's planning to delete more than one billion people’s individual facial recognition templates, and",
@@ -1055,93 +1142,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-cvs-health-and-microsoft-link-up-to-speed-healthcares-digital-shift-on-retails-frontlines.md",
-      "title": "CVS Health and Microsoft Link Up to Speed Healthcare’s Digital Shift on Retail’s Frontlines",
-      "excerpt": "Connected healthcare keeps making new connections as firms from different parts of the business world join forces to drive greater digital transformation for millions of consumers. New evidence of the gathering trend comes from CVS Health and Microsoft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/",
-      "originalUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/CVS-Health-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/healthcare/2021/cvs-health-and-microsoft-link-up-to-speed-healthcare-digital-shift/amp/",
-      "publishedDateTime": "2021-12-02T14:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing.md",
-      "title": "Who Is Shruti Rijhwani? PhD Candidate Working On Natural Language Processing",
-      "excerpt": "Shruti Rijhwani, Ph.D. from Carnegie Mellon University, USA has been named by Forbes as \"2022 Forbes 30 Under 30 in Science\" for her prolific work in the area for conservation of endangered language",
-      "sourceUrl": null,
-      "webUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
-      "originalUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.shethepeople.tv/wp-content/uploads/2021/12/Shruti-Rijhwani-1.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
-      "cdnAmpWebUrl": "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
-      "publishedDateTime": "2021-12-02T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Domestic",
-        "domain": "shethepeople.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -151,6 +151,20 @@ related:
         width: 792
         height: 792
         isCached: true
+  - title: "Facial recognition technology: Advent of totalitarian utopia?"
+    excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
+    publishedDateTime: 2022-01-04T09:58:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/darisan/facial-recognition-technology-advent-of-totalitarian-utopia-40247/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Telangana High Court Issues Notice On PIL Challenging Deployment Of Facial Recognition Technology (FRT) In Telangana"
     excerpt: "The Telangana High Court today issued a notice to the Telangana State Government in a Public Interest Litigation (PIL) plea filed challenging the deployment of Facial Recognition Technology (FRT) in the State of Telangana."
     publishedDateTime: 2022-01-03T08:44:00Z

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "What’s Ahead for AI and Cybersecurity in 2022"
+    excerpt: "There was no shortage of cybersecurity headlines in 2021. From REvil's attacks, disappearance and resurgence to a brewing “cyber cold war” sweeping the"
+    publishedDateTime: 2022-01-04T08:30:00Z
+    webUrl: "https://securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/"
+    ampWebUrl: "https://securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/amp/"
+    type: article
+    provider:
+      name: securityboulevard.com
+      domain: securityboulevard.com
+    quality: 59
+    images:
+      - url: "https://securityboulevard.com/wp-content/uploads/2018/11/AI-Machine-Learning-Biometric.jpg"
+        width: 770
+        height: 330
+        isCached: true
   - title: "The Dark Side of Machine Learning in Cybersecurity"
     excerpt: "While machine learning (ML) is revolutionizing many industries including cybersecurity, it also has a dark side that often goes unaddressed."
     publishedDateTime: 2021-12-30T23:19:00Z
@@ -37,6 +53,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/The_Dark_Side_of_Machine_Learning_in_Cybersecurity.jpg"
         width: 1200
         height: 902
+        isCached: true
+  - title: "Ways AI can help us enter a new age of cybersecurity"
+    excerpt: "Artificial Intelligence (AI) is becoming better as we speak. From business operations to home applications, AI is expanding rapidly everywhere across the globe. AI is proving helpful in various"
+    publishedDateTime: 2022-01-04T09:52:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/cybersecurity/ways-ai-can-help-us-enter-a-new-age-of-cybersecurity-40246/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/01/Picture1.png"
+        width: 624
+        height: 249
         isCached: true
 
 secured: "wa7jnaL1hmFNYT4NTpD0RZzbNFjgtRcsufzNbBo+6pgleOnhJBq7yvVnq0meMyyXItE8kVvRFqu6arxxP5xgN6seTDfxobCttSkg0THqeDsszort2sAYYvsBLLU8dg8N8zAu2O0l0PyGx+2mcDZQOV/4HBR+9R1UZNExmXlA/e7Vak1Q1iJZB2+CXcxFEQ9psjKJIhmx/h+1fcFc7Jja/e7/AVc6WmX3acOqEwVyln3DDqMYuxL4WCQSCzSFgTm92SB3V/X9/5QZeOu05uGcUO4gAmNz7iiXjwxzK0pCFwmzRiKcweZO9ChIsgOVKV3nl13+K/9KgFfZQ1iGru5TWKb9OdwNQ3qmSZh1WcDjnBw=;bUwQLrHFDWz7QOMM54ExbQ=="

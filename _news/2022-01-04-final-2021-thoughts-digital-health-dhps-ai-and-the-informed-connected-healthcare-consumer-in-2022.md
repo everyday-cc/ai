@@ -57,34 +57,6 @@ related:
         width: 1016
         height: 720
         isCached: true
-  - title: "Survey Finds Healthcare Execs Bullish on AI"
-    excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
-    publishedDateTime: 2021-12-30T17:36:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/survey-finds-healthcare-execs-bullish-ai"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 54
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1803136597.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
-  - title: "Utilizing AI Chatbots for Sensitive Healthcare Topics"
-    excerpt: "University of Westminster and University College London collaborated to see if healthcare patients felt more comfortable discussing sensitive health issues with AI chatbots."
-    publishedDateTime: 2021-12-30T18:10:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/12/30/451085-utilizing-ai-chatbots-sensitive-healthcare-topics.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/1030862319-AdobeStock_313360233_AI_doctor_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "bLUMzV81/CqJ8f9lRZDhqAqakiGJ+kFMbQCVttCeu6Psxm2RkdziQ5d2pnsQlRH/vaAQh+TvexluEWftfjUNXE6NO7aob8WLxl8h1g/GOPtYDtuEqWCHzoRIxUUz2vBmsskRH8gOqmW6NFtLD1sq0Npak9HXbo/26SZyd0HHhv73hcETnKR1BNOXql0raI8ZqSWd83BG2s8XXZpb61i+Yd0m8rga/Fb6HNGmxmv8BAu4bljKWeGPfIRUzgyL60dSVMlQ5JfuiKdKrLUMB6xqlSqohIJp8JKNh8R71K7M8GhZCHM5BH+7eg+rAXGqQ83sm4V2F1bWFqXDsPrxTzB0Xb+hvmQRTengcy/0+9dTShjHsq/rxa+4rDdOWlgNo77KDLu2tGvOnUMAb+6au93x0lD+0XRqdzSI9fAxIyCZzwGT2eJFPuFWaz5+Dtgrs7SZVRtCxCB0W6eb1bZGMJRUY1iCWAynzWtbNAokapNAMlNzkr83LqVjIAU7SQFcaiOVxWgFLvt0ayDz5P4Md3tW7g==;Qiu0oN1pqhUgpq0Ap8Ux9g=="
 ---

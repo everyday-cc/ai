@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-04-whats-ahead-for-ai-and-cybersecurity-in-2022.md",
+      "title": "What’s Ahead for AI and Cybersecurity in 2022",
+      "excerpt": "There was no shortage of cybersecurity headlines in 2021. From REvil's attacks, disappearance and resurgence to a brewing “cyber cold war” sweeping the",
+      "sourceUrl": null,
+      "webUrl": "https://securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/",
+      "originalUrl": "https://securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securityboulevard.com/wp-content/uploads/2018/11/AI-Machine-Learning-Biometric.jpg",
+          "width": 770,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/amp/",
+      "cdnAmpWebUrl": "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/01/whats-ahead-for-ai-and-cybersecurity-in-2022/amp/",
+      "publishedDateTime": "2022-01-04T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "securityboulevard.com",
+        "domain": "securityboulevard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-ai-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching.md",
       "title": "AI-powered chatbots, designed ethically, can support high-quality university teaching",
       "excerpt": "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay.",
@@ -781,6 +824,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-21-c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure.md",
+      "title": "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure",
+      "excerpt": "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
       "title": "What Does An AI Actually Think Of AI Ethics?",
       "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
@@ -1355,101 +1441,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-how-ethical-hackers-could-help-us-build-trust-in-ai.md",
-      "title": "How Ethical Hackers Could Help Us Build Trust in AI",
-      "excerpt": "Governments are increasingly mandating reporting of data breaches and hacks; the same could apply to incidents where AI systems cause harm.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
-      "originalUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2021/12/hackers-AI-computer-screen-code.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
-      "publishedDateTime": "2021-12-13T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-why-all-companies-must-explore-the-role-of-ethics-in-technology.md",
-      "title": "Why All Companies Must Explore The Role Of Ethics In Technology",
-      "excerpt": "The savviest companies must learn to understand and embrace the nuances at the intersection between technology and human values.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbd36a6c4bc20d159d34098%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/amp/",
-      "publishedDateTime": "2021-12-13T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

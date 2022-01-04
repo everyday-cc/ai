@@ -44,34 +44,6 @@ related:
         width: 700
         height: 434
         isCached: true
-  - title: "Survey Finds Healthcare Execs Bullish on AI"
-    excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
-    publishedDateTime: 2021-12-30T17:36:00Z
-    webUrl: "https://www.healthleadersmedia.com/technology/survey-finds-healthcare-execs-bullish-ai"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 54
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/shutterstock_1803136597.jpg"
-        width: 2732
-        height: 1200
-        isCached: true
-  - title: "Utilizing AI Chatbots for Sensitive Healthcare Topics"
-    excerpt: "University of Westminster and University College London collaborated to see if healthcare patients felt more comfortable discussing sensitive health issues with AI chatbots."
-    publishedDateTime: 2021-12-30T18:10:00Z
-    webUrl: "https://www.healthtechzone.com/topics/healthcare/articles/2021/12/30/451085-utilizing-ai-chatbots-sensitive-healthcare-topics.htm"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechzone.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2021-dec/1030862319-AdobeStock_313360233_AI_doctor_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
     excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
     publishedDateTime: 2022-01-04T03:41:00Z

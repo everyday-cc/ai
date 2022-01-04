@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-13-how-ethical-hackers-could-help-us-build-trust-in-ai.md",
+      "title": "How Ethical Hackers Could Help Us Build Trust in AI",
+      "excerpt": "Governments are increasingly mandating reporting of data breaches and hacks; the same could apply to incidents where AI systems cause harm.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
+      "originalUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/12/hackers-AI-computer-screen-code.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/13/how-ethical-hackers-could-help-us-build-trust-in-ai/?amp=1",
+      "publishedDateTime": "2021-12-13T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-why-all-companies-must-explore-the-role-of-ethics-in-technology.md",
+      "title": "Why All Companies Must Explore The Role Of Ethics In Technology",
+      "excerpt": "The savviest companies must learn to understand and embrace the nuances at the intersection between technology and human values.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbd36a6c4bc20d159d34098%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/13/why-all-companies-must-explore-the-role-of-ethics-in-technology/amp/",
+      "publishedDateTime": "2021-12-13T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-can-a-new-independent-institute-improve-the-ethics-of-ai.md",
       "title": "Can a new independent institute improve the ethics of AI?",
       "excerpt": "Former Google AI researcher Timnit Gebru is launching an independent AI institute to explore how the technology can exacerbate inequality.",
@@ -1339,105 +1434,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-ai-ethics-adopted-by-193-countries-ml-to-decode-rembrandts-painting-detectron-and-tensorflow-gnn.md",
-      "title": "AI Ethics adopted by 193 countries, ML to decode Rembrandt's Painting, Detectron, and Tensorflow GNN",
-      "excerpt": "Artificial intelligence (AI) used to be thought of as an idealistic technology that can only exist in sci-fi movies. Contrasting to the belief, today the technology has become so mature in a short tenure that all major companies are using it to their advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ai-ethics-adopted-193-countries-ml-decode-rembrandts-painting-nouri",
-      "originalUrl": "https://www.linkedin.com/pulse/ai-ethics-adopted-193-countries-ml-decode-rembrandts-painting-nouri",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQG5U3rk8CdQNA/article-cover_image-shrink_720_1280/0/1637931294675?e=1643241600&v=beta&t=oUlMQotZn9QUKwCxFHiYqvrtHeWSvVm6h0NT_bQaVQ0",
-          "width": 1280,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-un-countries-adopt-first-global-agreement-on-ai-ethics.md",
-      "title": "UN countries adopt first global agreement on AI ethics",
-      "excerpt": "The United Nations Thursday adopted a historical text defining the common values and principles needed to ensure the healthy development of artificial intelligence. The agreement was adopted at the",
-      "sourceUrl": null,
-      "webUrl": "https://www.jurist.org/news/2021/11/un-countries-adopt-first-global-agreement-on-ai-ethics/",
-      "originalUrl": "https://www.jurist.org/news/2021/11/un-countries-adopt-first-global-agreement-on-ai-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.jurist.org/news/wp-content/uploads/sites/4/2020/08/united_nations_1598635258.jpg",
-          "width": 1280,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-26T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jurist",
-        "domain": "jurist.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

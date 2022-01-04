@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-indu
 webUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/"
 type: article
 quality: 84
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://i2.wp.com/olisa.tv/wp-content/uploads/2022/01/Robotics.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Futuristic Predictions for the Fintech Industry by 2050"
+    excerpt: "What are the prospects for fintech in the long run? Some of our sources predict interplanetary payments and trillions going into decentralised finance"
+    publishedDateTime: 2022-01-04T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/futuristic-predictions-fintech-industry-2050"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/long-term-future-of-fintech.jpg.png?itok=grhrASz-"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4RwFrRpeDcYNLD+CDyU25nA3q+O6iCuYkM0e6yJWAKt2sIvaZtEOBF+bDz9wDHkjwgcFYGZIx+/+BfP9v1vaOGpuKj7lLySntwm8YKmf7lxgxGwPFMo4Ge13A/hTFpRfzCVM5tdLUmJ3hA6F9CGmobAdbU8v2l71ySdLir/XsdOyJ+3Fbv9SjWnAg2MmbC9fQeeKuR1ZaIugplFlqr11ZGPsbdVhAS01sOpfl6VMNAKHcBf9mQcFGN5p/fDHIOIEat2KTepvRAv+x75TsCKHkBiJboqbABhLMioDn/Z5kEIe7FP4n5Yg80LC69SklpXOSjC5nvrfrXjVkZ/z5evZNduNVTe7ItrelC2sudZZbEE=;a8P7LdT+U7wmOQLqUhySgQ=="

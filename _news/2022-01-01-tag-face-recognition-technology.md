@@ -137,6 +137,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Facial recognition technology: Advent of totalitarian utopia?"
+    excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
+    publishedDateTime: 2022-01-04T09:58:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/darisan/facial-recognition-technology-advent-of-totalitarian-utopia-40247/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Garda body cams should not use facial recognition technology, committee warns"
     excerpt: "Garda body-worn cameras should not use facial recognition technology and should not be used to racially profile people, according to recommendations from the Oireachtas justice committee. Provision for the use of body-worn cameras (BWCs) is set out in draft legislation,"
     publishedDateTime: 2022-01-02T23:00:00Z

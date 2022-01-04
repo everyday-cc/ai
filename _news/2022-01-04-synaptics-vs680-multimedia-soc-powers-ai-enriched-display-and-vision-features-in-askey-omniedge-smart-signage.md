@@ -1,23 +1,45 @@
 ---
 category: news
 title: "Synaptics VS680 Multimedia SoC Powers AI-Enriched Display and Vision Features in Askey OmniEdge Smart Signage"
-excerpt: "Synaptics VS680 Multimedia SoC Powers AI-Enriched Display and Vision Features in Askey OmniEdge Smart Signage. LAS VEGAS, Jan. 03, 2022 (GLOBE NEWSWIRE) -- CES ® 2022 -- Synaptic"
-publishedDateTime: 2022-01-03T23:31:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/01/03/9519006.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/01/03/9519006.htm"
+excerpt: "Synaptics® Incorporated (NASDAQ: SYNA ), today announced that Askey, part of ASUSTeK Computer Inc., is using Synaptics' Multimedia VS680 SoC to enable a range of artificial intelligence (AI) enabled interactive and personalization features in its new OmniEdge Smart Signage solution."
+publishedDateTime: 2022-01-04T09:47:00Z
+originalUrl: "https://menafn.com/1103482314/Synaptics-VS680-Multimedia-SoC-Powers-AI-Enriched-Display-and-Vision-Features-in-Askey-OmniEdge-Smart-Signage"
+webUrl: "https://menafn.com/1103482314/Synaptics-VS680-Multimedia-SoC-Powers-AI-Enriched-Display-and-Vision-Features-in-Askey-OmniEdge-Smart-Signage"
 type: article
-quality: 0
-heat: 0
+quality: 20
+heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "aRIlCCvH2DxR0aEFUOElYtSEcTksggv5ZflbsPwTXcaPZbozJ9rB4PNT5Cpe05uVrawonTQg5wqqjeuujt3PL7CvUjbmOk2on1Ek1q4uS1rbCSpcCh9Cw+ZyOSGEeG3wAtcQNdIjAa6MZovYKnfnFZ7fgOZ5cmVbnDr6J623mxeQ56BnlBJ5D6Tf6Ugk2Re9itJX0H0hDcPI5SmpWgb9lreCipmNjkTpD89LH1gyjWF79jwSpx/+HGZAFv6KQ1MkkfGX66aV4Cde2DbRpkuXbSAQNBcXxCn4KvNFxpA+vbiisVEZdF8uBXCEqBYfLFgGFClQvWlmT2ewRJfxwuywUTqt5WWa7Kf6nJI+vWsBrUE=;cem46PwDk8Pp/3He6sRuQA=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056"
+    width: 374
+    height: 250
+    isCached: true
+
+related:
+  - title: "Lenovo™ Selects Synaptics' Katana™ Ultra-Low-Power AI Solution for Yoga Tab 11"
+    excerpt: "Synaptics® Incorporated (Nasdaq: SYNA ) today announced that its Katana platform drives AI-enhanced voice processing in the Lenovo Yoga Tab 11, the latest member of the Yoga Family of tablets. The Katana system-on-chip (SoC) uses proprietary neural network-enabled hardware and algorithms to clearly discern and capture user voices and related commands in challenging environments to ensure a robust voice assistant experience in Lenovo's Yoga 11."
+    publishedDateTime: 2022-01-04T09:45:00Z
+    webUrl: "https://menafn.com/1103482304/Lenovo™Selects-Synaptics-Katana™Ultra-Low-Power-AI-Solution-for-Yoga-Tab-11"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 35
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056"
+        width: 374
+        height: 250
+        isCached: true
+
+secured: "6Sh0JR7deei+O7xeWp9fHDU/DLeS+vR9BN9Ex2Ld3gdVxUpVClMM32dooMzjbY6QJMUnMCULMiZ9n4kGrm+Ux+aPWWTA8heW03WJ/4alzaOVC5ZVllGY2DFfcCxrLM6xFZUkXn1CmG87XqWiGwS7UdHPgIyZ7ZNI+ZSNk0TLn0szLs47aJNp1MDEcCUiZjLn2Fl9ZydGHQiSRoPy6bBw9FCi/4rX884eqo85v4IZ0hYd720ivWtIA3VwFybxk1MyQSwsVm2i32Fli7mQO67QXLVOXLv2oR4vD0K625RCEd673UsbWQMPa2UKhs6kk0HWsuKynJNE+47E+/0ohjprrh5siCaK7bXeqrN0wpkVPQE=;QQR0Hyy7rwL954z/Hr9cAw=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "CFTE with its mission of education at scale in Fintech with 2021 a year of limitless possibilities"
 excerpt: "And it's a wrap for 2021 ! What a year ! ✨ as the Co-founder of CFTE, I find myself reflecting on the past year. 2021 has brought a lot of ups and downs to everyone, and we hope that you were safe this year."
 publishedDateTime: 2021-12-23T14:08:00Z
-originalUrl: "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen"
-webUrl: "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen"
+originalUrl: "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D"
+webUrl: "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 627
     isCached: true
 
-secured: "jp4ku+2DMSidf78Uf0LUEO9mydIvngTjHF7K9MDuN0/xcpu3ZzkmdioxB4gPH79vSKDEQj3vHhhKR+pk3AJ5rZoCRbnTR7PZSOUhBSBUWaGdHFXPjKb2CCv2tnWW0KQxNi7jRuQ2gmnvgTTP1Z7PdXj2+Ze7GbCqBPrax9UUUEhAlwVao+gpNvJEVQByqKUbqaUPPlDIUj5wgTow7fcFjSchLrnkPOzkpeYlc5ZA5qBn7L6SRkLSVnV1fjs3ooEJrSed11MJpFqim0fC3UiyqUOKhaK5QQQ2lWiGjEhqg+ZR5EfqojCPGgCNpo8PQDESK6HQ+w0Qnr+3SYZpMcheXKyjbPfDCSGpPW0Hq02raPbStyYE578PXPThkHpJMhz7tUjjEeS/2prvKqBXPCx3b4dChEbBiupGLZ1DbFMQcwSWfco0k3IIJ8XneIbPJ/s2qrxykYgt9v9EL+Zlo1Xnx+SfbqKjyf5R/OBoLWKbIGMmOahoMJvFEfyO0Bs1ema97MpTy4QazOkw5A3WPJdQ0w==;H91pxQ7z0Utg5P++jBPFsA=="
+secured: "BobEw5DHoXiZfG33N7NKpXvbi3uDbJk0lMuWrZzyJ6TpTqMidW2+e8eIFRz4UhNKzZ1KwcD+vs7CSuMpx70p9llxa2oeS6FRl6cYUIbFdstGIeY9eRh1edtUER+q2TUtf9Tp9JOPorVwyb/eQ7uu/rSVUGA5LPQ27yJ+y89HiJb7iLKjV9m898hVkgzB2696LtIq+QiO03YHX5bx2okzX0M8ezZTgGqAs1lW1cjo36vnGyERDkyA/PBLF/lGfdGupff+7ko0OOo2g1SaWCJallrD1VdqTQxDbzZFGS8MEhNcT6NAvFUQ18YifJ8gyP7zOWo2bBMd88FwuIL556hcSJn2tgCPExqkfnd35Y95uY8=;D9JkkTIt4P41SlJCmmMDtg=="
 ---
 

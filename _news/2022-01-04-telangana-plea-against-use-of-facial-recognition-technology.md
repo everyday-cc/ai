@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-us
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -136,6 +136,20 @@ related:
       - url: "https://sfbayview.com/wp-content/uploads/2021/02/Black-History-Month-graphic.jpg"
         width: 792
         height: 792
+        isCached: true
+  - title: "Facial recognition technology: Advent of totalitarian utopia?"
+    excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
+    publishedDateTime: 2022-01-04T09:58:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/darisan/facial-recognition-technology-advent-of-totalitarian-utopia-40247/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
   - title: "Garda body cams should not use facial recognition technology, committee warns"
     excerpt: "Garda body-worn cameras should not use facial recognition technology and should not be used to racially profile people, according to recommendations from the Oireachtas justice committee. Provision for the use of body-worn cameras (BWCs) is set out in draft legislation,"

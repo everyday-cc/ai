@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
-excerpt: "Deep tech firm's new low-code tool, hAIsten AI, speeds up AI development, allowing users to train AI models with minimum effort in coding and deploy AI with a single click.TAIPEI, Jan. 3, 2022 // -- Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool,"
-publishedDateTime: 2022-01-04T05:30:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=594334"
-webUrl: "https://us.acrofan.com/detail.php?number=594334"
+title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022'"
+excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
+publishedDateTime: 2022-01-04T09:48:00Z
+originalUrl: "https://menafn.com/1103480867/Avalanche-Computing-Launches-Revolutionary-Low-Code-AI-Tool-at-CES-2022"
+webUrl: "https://menafn.com/1103480867/Avalanche-Computing-Launches-Revolutionary-Low-Code-AI-Tool-at-CES-2022"
 type: article
-quality: 39
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
+  - url: "https://menafn.com/updates/pr/2022-01/03/PN_3bc7772a-0_Image_In_Body.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -79,6 +79,6 @@ related:
         height: 900
         isCached: true
 
-secured: "78e5QWnFsBUEByKjURl2R2BdvmLRcTI8adBS7NFJ9sBYB1rQOcZAGF0SbhSSMGl8bXZ+oboX4YWjBWHgQCP+ecmsFp6B0O8eIxnLPQBKH5uDMpv/vEtWHOTcizoaYFqp8ORjCDDp0omgaTsDKcQPvSuREktUsOG8CIzikyc8QNgLVyN7SNhd6dzjyvH1U58LMOlWBtDkidV6nDAYxqLuTJxCCB4aMdFDk5e1Ev+cf6GGQgBxelqPv7Be22N523XX3nLtlIfdLIugToPAFoXhS2lYGXAvsPTgzXpeZm0wQyHw6C9ypIhqf4Bm+T2miNuQLagwoOwHokjZc6v7PirrLSECnYkNrK5Je3d/QN808BM=;rVU/FHKdjm5kK5PgvlnXPA=="
+secured: "2i7Lrn7HkOvyLu0YI2nO4piLjMBrotlr1BrcDgxaY/hLy1UVAMShY99WBKpq3LepnDxBm8va5kWTObLtpsRvURh5Mkp6d04OXW9AjiJFMkEi2GdOgWtc3m0jkIqnfDFjZiWrZVZC34Tf8xngVTNoClUrM7kefbKgdCx4Mu0FCsfSauS/irMs3YsUF0zzoSD3LhId1i937mreakuk5O8Z6kZ95g+DETTUlpePi7MwbsVSVL5vg6O3L48Dgx7WnK3yRp1VXQOCy7zU7YKl4zC4kuRSgRZGAuy5kZ9dWWwTxE/loEVi0+ss9zr00GXtwvDGXnA2Q3e7T8zsj7fYqwp79Cv/TQg8VdN+MblrgKkXCTk=;/v3TzR0dGcJd1JQMvxKe2A=="
 ---
 

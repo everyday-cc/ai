@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Modern Age Cards Through Modern Age AI: Uni Cards to Deploy Scienaptic AI-Powered Credit Decisioning Platform"
-excerpt: "Leading global AI-powered credit decision platform provider Scienaptic announced the deployment of its technology for Uni Cards."
-publishedDateTime: 2022-01-03T18:32:00Z
-originalUrl: "https://www.businesswire.com/news/home/20220103005223/en/Modern-Age-Cards-Through-Modern-Age-AI-Uni-Cards-to-Deploy-Scienaptic-AI-Powered-Credit-Decisioning-Platform"
-webUrl: "https://www.businesswire.com/news/home/20220103005223/en/Modern-Age-Cards-Through-Modern-Age-AI-Uni-Cards-to-Deploy-Scienaptic-AI-Powered-Credit-Decisioning-Platform"
+excerpt: "Scienaptic AI, a leading global AI-powered credit decision platform provider, announced the deployment of its technology for Uni Cards. This implementation will enable Uni Cards to expand credit access in India by providing instant decisions to applicants and an efficient process that redefines the way credit is consumed in India."
+publishedDateTime: 2022-01-04T04:27:00Z
+originalUrl: "https://www.businesswireindia.com/modern-age-cards-through-modern-age-ai-uni-cards-to-deploy-scienaptic-ai-powered-credit-decisioning-platform-76697.html"
+webUrl: "https://www.businesswireindia.com/modern-age-cards-through-modern-age-ai-uni-cards-to-deploy-scienaptic-ai-powered-credit-decisioning-platform-76697.html"
 type: article
 quality: 0
 heat: -1
@@ -12,9 +12,10 @@ published: false
 
 provider:
   name: Business Wire
-  domain: businesswire.com
+  domain: businesswireindia.com
 
 topics:
+  - AI in Finance
   - AI
 
 related:
@@ -47,6 +48,6 @@ related:
         height: 450
         isCached: true
 
-secured: "BlNrArGlHFxj+PEpDhS8N7YXly3h1tmFS83QGt01ikFPbkWywBALjEbC80z8hRvM0lJ0WugqvBlts5K4TDbkivFcScqhx7e4OBVgI3r46QIZftBQXm1WO2Y/KHWPIioln/8Gl1ay9K3354p6gFJ5Pe2r9lf8mDLV9uNPWhlcyOGxYBNEuN6CDhXMs6bza6oKSWEzm2dl7wD8aHpcilTJbioGVkglYZoBmU3eQIHXY1Mg3NHcR3TBl0JsKUfeALzVExJQAdGj8hD7NhNTxcfUHHmoLmhJPR4Nt1I4VSZ73Y7WcNVNI+w+36nqIK0UqR63axS+0eLSFf9TEB4xA9gCVXRywToDSOAXknnzvHCxFBM=;KJ7klg/4FZycte6y1o3xsA=="
+secured: "0ReRo3t5HAWMSc2FoV8rIETUjvrGMEXV8BEGmeP/TeK1YNC6IaUGTiB+AJqNKH4gP82/fCLn+XZ0OUgvfNvnPjGnCT6iKAul/uJyz6IBy5M5/xa0wCyeqErwHm1vok5yCGAaNvpppAlnqvj5jXlQ36ubzXXnJV4wpJ/32MebxaKMdmlvpQeACCNdvwBQqisiH8yrXeyLL7sO535bZRW833sfti5zo7a4N/B9SXDk14opV4nh+Uuxm7CykOPfvIfeaCNUFU/A1QUMF7Ru+ZSLg9D/p7JL3AH/Vanp8R3OMlJjY9mMGFkfdruSTx/8XqI/zbqCvW3O2kL7rxp+rtSV9XgYVbwTh45XhDXMmy8KFRo=;ovFnJTjLmOcy2lGe6GPDNA=="
 ---
 

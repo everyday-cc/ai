@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "CES 2022: VM-Fi real-time translation technology"
+    excerpt: "Taiwanese software developer VM-Fi will debut its groundbreaking real-time translating solution at CES 2022 from Jan 5-8, 2022. VM-Fi provides turnkey 5G real-time artificial intelligence (AI)-enabled simultaneous interpretation with wireless broadcasting to up to hundreds of personal smart devices."
+    publishedDateTime: 2022-01-04T06:34:00Z
+    webUrl: "https://www.digitimes.com/news/a20220104VL203.html?chid=11"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 24
+    images:
+      - url: "https://www.digitimes.com/newsshow/20220104VL203_files/2_r.jpg"
+        width: 336
+        height: 224
+        isCached: true
 
 secured: "JSz4qiU8TkCF0z/odqSlc3S8XsE+xvHDIU43mCgqOvdy7govH+YC7qfvefziPMBkxkXdRHibY/lwrBR27DpIhuBIdcPReQU2Sli8AO6lTnCB0q6v0b93o/vrJFUq61UMCMqkuReSRAOSR4sO6C2V2gQKNGJphUj7oMp/FwWEN0KXt6mSWpe2ukZRvjsTP/ZPfzHpOuQFA5WllBSLf4x3Yp3IM6yhoUgFHOvv7aw5f4cBT9lg3T1EkM+iRipQgZukoFRry0vaGyloXkGMFH5VZaLrZLVxtaN197TQ+K/29KGZsprHb53sJD/eaYldirPxrAQLhB/92z/46pqyhYqWiU3c1DwCPx7n9a/vwiRjv/E=;GYz9JpvqDnSVIptMNYIsmA=="
 ---

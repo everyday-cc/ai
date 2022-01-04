@@ -41,22 +41,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "How can the Fintech revolution build a better economy?"
-    excerpt: "The evolution of Fintech solutions has been rapidly changing the financial services sector. As with most industries, significant players in the financial industry are gradually shifting from manual processes to digital."
-    publishedDateTime: 2021-12-30T17:41:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-the-fintech-revolution-build-a-better-economy/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-can-the-fintech-revolution-build-a-better-economy/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-can-the-fintech-revolution-build-a-better-economy/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
   - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
     excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
     publishedDateTime: 2022-01-02T06:29:00Z
@@ -88,20 +72,6 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 672
-        isCached: true
-  - title: "10 Innovative Ways Fintech's Helped Credit Card Development"
-    excerpt: "Uncovering ten of the most cutting-edge uses for financial technology in credit card development, from crypto payments to enhanced rewards for customers"
-    publishedDateTime: 2021-12-30T18:08:00Z
-    webUrl: "https://fintechmagazine.com/digital-payments/10-innovative-ways-fintechs-helped-credit-card-development"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/credit-card-payments-development.jpg.png?itok=OxUeFddE"
-        width: 1200
-        height: 630
         isCached: true
   - title: "The Top 3 Fintech Trends to Watch for in 2022"
     excerpt: "The Top 3 Fintech Trends to Watch for in 2022.” This article focuses entirely on what we see as the hottest trends and the biggest ideas that you need to know about as we move into a new age of payment processing!"

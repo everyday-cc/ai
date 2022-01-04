@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-28-the-2021-good-tech-awards.md",
+      "title": "The 2021 Good Tech Awards",
+      "excerpt": "This year, technology companies stepped up on housing and criminal justice — with a dash of whistle-blowers mixed in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/27/business/27roose/27roose-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
+      "publishedDateTime": "2021-12-27T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-our-most-technical-people-are-down-on-ai-and-thats-a-good-thing.md",
+      "title": "Our most technical people are down on AI ... and that's a good thing",
+      "excerpt": "Commentary: The IEEE crowd is skeptical about AI's most bullish claims, which turns out to be exactly what we need to push it forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "originalUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/27/45351a94-cac1-42d5-8bd6-3df2bf850703/resize/1200x/3aea1d8794e74fd59682cb05feb0db29/shutterstock-1277342386.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "publishedDateTime": "2021-12-27T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations.md",
       "title": "Covid-19 Causes Global Supply Chain Havoc Intensifying Last Mile Logistics AI Innovations",
       "excerpt": "This blog discusses COVID-19 impacts on the global supply chain and the havoc it has caused intensifying Last Mile Logistics and Real Time Monitoring of AI intelligence software solutions.",
@@ -1051,101 +1155,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-2021-in-review-out-with-jedi-in-with-jwcc.md",
-      "title": "2021 in review: Out with JEDI, in with JWCC",
-      "excerpt": "On the latest episode of The Daily Scoop Podcast, DOJ CIO Melinda Rogers, USASMDC Col. Samuel Glover and former Air Force Deputy CIO Bill Marion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/2021-in-review-out-with-jedi-in-with-jwcc/",
-      "originalUrl": "https://www.fedscoop.com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-the-perks-and-pitfalls-of-creating-prolific-ai-inventors.md",
-      "title": "The perks and pitfalls of creating prolific AI inventors",
-      "excerpt": "As more AI “invents,” they may become prolific inventors of the future. If patents are granted, who should get the rewards?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/",
-      "originalUrl": "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/amp/",
-      "publishedDateTime": "2021-12-26T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

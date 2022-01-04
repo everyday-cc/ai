@@ -55,20 +55,6 @@ related:
         width: 705
         height: 377
         isCached: true
-  - title: "Top Business AI Trends to Watch for 2022"
-    excerpt: "Research shows that the global AI market can reach up to a $190 billion market valuation in 2025. Additionally, in 2022, companies are expected to run around 35 AI projects in their operations. Because AI and ML are becoming so ubiquitous,"
-    publishedDateTime: 2021-12-30T17:18:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/management/top-business-ai-trends-2022/"
-    type: article
-    provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 37
-    images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/michael-dziedzic-nbW-kaz2BlE-unsplash-scaled.jpg"
-        width: 2560
-        height: 1600
-        isCached: true
 
 secured: "zjbvhpo/JIx8Uv/WBa75775hpL/eAyjOjHcQJtLM3FIEhyZ5uUaoo4rd43pDhURhbFH/BBJc2BDDx2irk7kVlraH7ySLJpv8meV9yx0vY/kiw5m/fdGhHfu+C65rpKCgFXe1g1KTvSt13V00xdRggaQMeGsNSgyM+zbDyqCmTzq5sqY17ime2qGXCLfvtab4qIM8gmDRjQxj0yPkbyxYtj3iatoz8ohKE6gs+7BA+ZHrsPlVXmIiSvKfxFb/FQL/lHahkzvHBOqkRJcApqT07MikYyorCg6FyRmKPumcP/jKDdveNnCHyjhXb16irvTFn12iYQR+hl5nDdTwGWt54VrrWqdMcItY5hYqVAPqbZY=;PLBmqDsCoIMuDaat3bvwBw=="
 ---

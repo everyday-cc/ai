@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/need-ban-killer-robots-bikram-lamba
 webUrl: "https://www.linkedin.com/pulse/need-ban-killer-robots-bikram-lamba"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1400
     height: 800
     isCached: true
-
-related:
-  - title: "Humanity's Final Arms Race: UN Fails to Agree on 'Killer Robot' Ban"
-    excerpt: "\"History could well identify this as the starting point of the next major arms race, one that has the potential to be humanity's final one.\""
-    publishedDateTime: 2021-12-30T17:36:00Z
-    webUrl: "https://www.commondreams.org/views/2021/12/30/humanitys-final-arms-race-un-fails-agree-killer-robot-ban"
-    type: article
-    provider:
-      name: Common Dreams
-      domain: commondreams.org
-    quality: 54
-    images:
-      - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2021-12/killer_robots.jpg?h=dbd8d3da&itok=IehajNaI"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "B5nbsNKnoS5nKRmZg3lPojPBFI43zCIni8KUQqB9zq6+elfV8GqTW66yNLYp8z/k0R8sgyMdocYGEDCEoRREwcnmMXi3trSA+slTdJnjayo6rzgHuV62udm3HViQ7QQm8kW4Vo+35fIPNqvVeydekaoP4zhgAMRWKYedQd0bcS13wnvYOMqYuKD4HNFTrtRpf16I20tr16sma3IPsPLcuLptkCUsYxqkIXz+XNhU7mR8BCp7CnIFnkk8ooJYBFojrTEcwBsoTGnEOVi3JihuZgHkh+bAM0gQwsR5cc5FeKMOOP1jl/DSLCQJT4xOPAiyL12g/PuYQDczlA8YKoJSC34h8yEchc8T+A6lkde+vEg=;UFkuvfqmBE6efH6m4QEftw=="
 ---

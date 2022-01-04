@@ -43,20 +43,6 @@ related:
         width: 696
         height: 392
         isCached: true
-  - title: "Logistics Robots Market Size Expected to Reach USD 18.58 Billion at CAGR of 21.3%, By 2026"
-    excerpt: "USD 3.90 billion in 2018, Market Growth - CAGR of 21.3%, Market Trends – Growth of e-commerce and omnichannel retailing NEW YORK, NY, UNITED STATES, December 30, 2021 /EINPresswire.com / -- Increasing emphasis on end-to-end automation and issues pertaining to labor availability is estimated to stimulate market demand."
-    publishedDateTime: 2021-12-30T18:16:00Z
-    webUrl: "https://menafn.com/1103465327/Logistics-Robots-Market-Size-Expected-to-Reach-USD-1858-Billion-at-CAGR-of-213-By-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/pr/2021-12/30/EP_0740dimage_story.jpeg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
     publishedDateTime: 2022-01-03T06:15:00Z

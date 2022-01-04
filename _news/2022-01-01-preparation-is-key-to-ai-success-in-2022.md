@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/"
 type: article
 quality: 87
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://www.analyticsinsight.net/wp-content/uploads/2022/01/Top-10-Artificial-Intelligence-Stocks-Set-for-a-Bull-Run-in-2022.jpg"
         width: 900
         height: 500
-        isCached: true
-  - title: "Top Business AI Trends to Watch for 2022"
-    excerpt: "Research shows that the global AI market can reach up to a $190 billion market valuation in 2025. Additionally, in 2022, companies are expected to run around 35 AI projects in their operations. Because AI and ML are becoming so ubiquitous,"
-    publishedDateTime: 2021-12-30T17:18:00Z
-    webUrl: "https://www.enterprisenetworkingplanet.com/management/top-business-ai-trends-2022/"
-    type: article
-    provider:
-      name: Enterprise Networking Planet
-      domain: enterprisenetworkingplanet.com
-    quality: 37
-    images:
-      - url: "https://www.enterprisenetworkingplanet.com/wp-content/uploads/2021/12/michael-dziedzic-nbW-kaz2BlE-unsplash-scaled.jpg"
-        width: 2560
-        height: 1600
         isCached: true
 
 secured: "Xo3MRa8i/SWFWrxxRB37a3K+ts5SgxJw8olV+nKyOqpn5OXIdLbpBwFIuv52CihCevElvBvX0jlD1t7T0/cLfdgfRTDJXkk3HsXK2X1NdW67TM8Dqma3OwftkFjskXpQAMj2zHHft1Ch7Fysdf+ZLy0wCOnZshMorpBFN6ZA8TSHBE9U18tXYLRMkvThGBYbIbGsHFA+FjVkhs5xBlnhunpwI0TpNH8nTeeptAxJesU607g5PZIpCS7Q7QJELqw5TDXPd2t2cmb5Bll31xd15ZAVBmMt3XYOAVBveLFj0UxMaj56q5SLRD5KvIqO6A3q3Fr3d2YcvCNfkVo6ttEE9G8M+Py16cX/emX22Ps3SYMhZFBezU1A80V6guqULPw7Tf8kWLC4DDi+p7D76j8KKdn0XPQvpAVP4ZambF4o/oKyAYqgWTI+91k6BNXRG1Uon3Nl0jdfmt60Al+UaX/0OvwgW3TLwX7W1wITEX368Jl77ZHGW5gNhfuaDbKHDdN/wleTonJe4cT6/v3TQ7SUEQ==;tlEifxtcPaIXBzy8/VdFag=="

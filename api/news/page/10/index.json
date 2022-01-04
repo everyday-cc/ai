@@ -2,6 +2,143 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-21-calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation.md",
+      "title": "Calibrate Ventures raises $97M for second fund targeting AI, automation",
+      "excerpt": "With capital flowing freely lately, managing partners Jason Schoettler and Kevin Dunlap shared some insights on what it takes to win deals these days.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2021/12/calibrate-ventures-raises-97m-fund-ii.html",
+      "originalUrl": "https://techcrunch.com/2021/12/21/calibrate-ventures-raises-97m-for-second-fund-targeting-ai-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2018/09/broadly-400x293.jpg",
+          "width": 400,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes.md",
+      "title": "Why Expert Intelligence Is The Secret To Achieving Customer Outcomes",
+      "excerpt": "The only way to achieve an outcome-driven business model is to put experts from your ecosystem into the operating system of your company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b3f0f6cb5aa8f491ac04a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/amp/",
+      "publishedDateTime": "2021-12-21T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-deadwood-sd.md",
+      "title": "Computer Vision Scientist Salary in Deadwood, SD",
+      "excerpt": "How much does a Computer Vision Scientist make in Deadwood, SD? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
+      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheLadders.com",
+        "domain": "theladders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-computer-vision-scientist-salary-in-rockville-ut.md",
       "title": "Computer Vision Scientist Salary in Rockville, UT",
       "excerpt": "How much does a Computer Vision Scientist make in Rockville, UT? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
@@ -161,49 +298,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure.md",
-      "title": "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure",
-      "excerpt": "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=591579",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=591579",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -1016,92 +1110,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-the-story-of-john-stanley-ford-americas-first-black-software-engineer.md",
-      "title": "The Story of John Stanley Ford, America's First Black Software Engineer",
-      "excerpt": "Watson, then the CEO and chairman of IBM ... and woman and minorities are also underrepresented in the artificial intelligence sector in particular. This last bit becomes concerning as more and more companies adopt and develop AI technologies and reports ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
-      "originalUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/ThinkBlackCover.jpg",
-          "width": 428,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-dimensity-9000-fails-to-prove-its-premium-chipset.md",
-      "title": "Dimensity 9000 fails to prove its premium chipset",
-      "excerpt": "Lacks in GPU, 5G, imaging, features Media Dimensity 9000 got a lot of coverage, and the marketing machine is trying to promote this chipset as a premium. Guess what? Dimensity 9000 is not a premium chipset as it suffers from stitched stock Cortex IP,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/mobile/54075-dimensity-9000-fails-to-prove-its-premium-chipset",
-      "originalUrl": "https://www.fudzilla.com/news/mobile/54075-dimensity-9000-fails-to-prove-its-premium-chipset",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/4b4d9ec382458cdd84ca55df6d7f999f_L.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

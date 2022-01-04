@@ -39,13 +39,13 @@ related:
         height: 450
         isCached: true
   - title: "Modern Age Cards Through Modern Age AI: Uni Cards to Deploy Scienaptic AI-Powered Credit Decisioning Platform"
-    excerpt: "Leading global AI-powered credit decision platform provider Scienaptic announced the deployment of its technology for Uni Cards."
-    publishedDateTime: 2022-01-03T18:32:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220103005223/en/Modern-Age-Cards-Through-Modern-Age-AI-Uni-Cards-to-Deploy-Scienaptic-AI-Powered-Credit-Decisioning-Platform"
+    excerpt: "Scienaptic AI, a leading global AI-powered credit decision platform provider, announced the deployment of its technology for Uni Cards. This implementation will enable Uni Cards to expand credit access in India by providing instant decisions to applicants and an efficient process that redefines the way credit is consumed in India."
+    publishedDateTime: 2022-01-04T04:27:00Z
+    webUrl: "https://www.businesswireindia.com/modern-age-cards-through-modern-age-ai-uni-cards-to-deploy-scienaptic-ai-powered-credit-decisioning-platform-76697.html"
     type: article
     provider:
       name: Business Wire
-      domain: businesswire.com
+      domain: businesswireindia.com
     quality: 0
 
 secured: "N9ckFqQxJzEEs4OlItGXG9jGuMpov7nOOssc8oklJ4ls8/sXE0M1Kk/M9mmtTv9d7Wgbsg+XVRfxJ26SVh6ReI1pK1EW3qCZErT2MvqvjTtw5CejdE2fvsoO//GVDp6buwKYWe2HB1EXBgyXy4D+AfV4cgpzcTnih0QGPCv9I7oQKb0fD6cqmC9eNysLkcMwUCzXc+wJ6HLL7qONccrIvdF/ZJY42rniEcqUGFxx15FBuOmuKP28fuddl8OcEWDAPY/TtjP44gDl0xKRZVLXOWRNNl71BPDfug5icRXCB2YjUm9FnPPMd8vAjGKmgQ6vj8AUqW9ABkRPn2qhTutEJ970pDB5Yp4h0aGJJIJWRQc=;Tsp+x6GSnJmvKzRW5Mj+pg=="

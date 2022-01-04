@@ -35,19 +35,19 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
-    excerpt: "Deep tech firm's new low-code tool, hAIsten AI, speeds up AI development, allowing users to train AI models with minimum effort in coding and deploy AI with a single click.TAIPEI, Jan. 3, 2022 // -- Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool,"
-    publishedDateTime: 2022-01-04T05:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=594334"
+  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022'"
+    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
+    publishedDateTime: 2022-01-04T09:48:00Z
+    webUrl: "https://menafn.com/1103480867/Avalanche-Computing-Launches-Revolutionary-Low-Code-AI-Tool-at-CES-2022"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 39
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
     images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://menafn.com/updates/pr/2022-01/03/PN_3bc7772a-0_Image_In_Body.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
     excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-18-heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all.md",
+      "title": "Here’s How Advances In Ambient Intelligence Will Make Riding In AI Self-Driving Cars Quite Cozy, Like A Pleasing Lullaby For Us All",
+      "excerpt": "Here's how Ambient Intelligence systems will aid AI and especially enhance the passenger experience while riding in a self-driving car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac349a2abc2a6e847f4a3f%2F0x0.jpg%3FcropX1%3D190%26cropX2%3D2096%26cropY1%3D110%26cropY2%3D1317",
+          "width": 1200,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/",
+      "publishedDateTime": "2021-12-18T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-stocks-to-buy-now.md",
       "title": "Stocks to Buy Now",
       "excerpt": "Nvidia's chips are powering everything from cryptocurrencies to driverless cars to artificial intelligence ... on driverless cars than Alphabet's Waymo, an actual driverless car project.",
@@ -1347,58 +1399,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-the-us-china-technology-arms-race-its-not-a-two-country-race-anymore.md",
-      "title": "The US-China Technology Arms Race. It’s Not A Two-Country Race Anymore.",
-      "excerpt": "The global technology arms race is no longer a race among a few countries, especially the US and China. It's expanded, and includes a large number of countries all vying for competitive advantage. The US — one of the major players — must double down on its technology investment strategy — or lose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b23ade927438ad6f8fdd64%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "publishedDateTime": "2021-12-13T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
