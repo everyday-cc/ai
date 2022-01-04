@@ -3,8 +3,8 @@ category: news
 title: "Computer Vision in Healthcare Market Overview by Rising Trends and Demand 2021 to 2028"
 excerpt: "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ..."
 publishedDateTime: 2021-12-17T16:53:00Z
-originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17?tesla=y"
-webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17?tesla=y"
+originalUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17"
+webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Rwu1EjV5I2pKWAzRcC8IAx/LvMuYZPTPN8EafRJDIBlaO+ZqrZPWzuyL/ebqZsTpYTXcykVAuDac0uoTUopHxNdzyMo1pWQyOIlxMaiKD34pWPGf53A3ycdotbcUWVC4bLotmNLcwSURiSQYxDZKyYmhvylttSBgCRr5zWecQVXjhxV6syYIHidQovRz5eaGohsw4kVAfagkzEtou3eSaVfd+7nJHwrhh+vxoCQQcBc2nkCEPCSZbwP8WdjUmzALR7QE5hhk3hcn907y+hStII6S7Dsv/3nL+11XUsh1/KGIMsgiB1cp+9nlDyzv9xu8i8WhizIPnPTrU9hCXuqLFKMAkYWmCw6qYBq0sOR+4iQ=;M69uyMYyPamliepM4PSr4A=="
+secured: "NFr6fUW4QEHDIUMdJfrc+EoXeIXk4mX2K9EmFAJ08MX2Ox5yTzxxGT+bwK3j5syIzUfJl8Cw8LMULWAo3MGPlT89EqVaRrMIW1rqEY+CqDMv9lMVv4himBNyj4WR1AW+VgqO9aptHTGk/U6GqmW7TFuvxuoaTpPR2t9k2cRYKgEPcUzUi14ueN8rEOIeCYDi/NLu9eZRhHP3tQcNzMh2xKaEXQASC5jaYzrJ5/rQPezxsFftmF6i+uXNKZy/wJa8+MYu+RWmMBecZb6Mqwue9V5c6+9qMC9lQlvAbnMNzuNiHedo73rvhxO67GXRhnNpdZNitRpXd9ZssRBk7dA86RDByx9gz4nruIOj7yINZ5g=;MnoqQwEr3WCnJuA6tHjblA=="
 ---
 

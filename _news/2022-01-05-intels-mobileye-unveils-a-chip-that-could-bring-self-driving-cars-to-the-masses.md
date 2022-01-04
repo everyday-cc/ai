@@ -46,6 +46,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Intel’s Mobileye, Zeekr plan to launch self-driving car in China in 2024"
+    excerpt: "The car will have level 4 autonomy, meaning that it will still have a steering wheel and require a licensed driver but will be able to drive itself in many situations."
+    publishedDateTime: 2022-01-04T18:45:00Z
+    webUrl: "https://nypost.com/2022/01/04/intels-mobileye-zeekr-plan-to-launch-self-driving-car-in-china-in-2024/"
+    ampWebUrl: "https://nypost.com/2022/01/04/intels-mobileye-zeekr-plan-to-launch-self-driving-car-in-china-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/01/04/intels-mobileye-zeekr-plan-to-launch-self-driving-car-in-china-in-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 43
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/01/zeekr.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Mobileye Announces EyeQ Ultra: A Level 4 Self-Driving System In A Single SoC"
     excerpt: "Aimed for a 2025 release, the EyeQ Ultra is Mobileye’s most ambitious SoC yet, and not just for performance. In fact, as a site that admittedly rarely covers automotive-related announcements, it’s the relative lack of performance that makes today’s announcement so interesting to us."
     publishedDateTime: 2022-01-04T15:00:00Z

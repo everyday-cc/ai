@@ -2,6 +2,110 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-11-27-the-200-best-amazon-black-friday-deals-still-available.md",
+      "title": "The 200+ Best Amazon Black Friday Deals Still Available",
+      "excerpt": "Many of Amazon's Black Friday deals are still live. Shop the best Cyber Monday deals on robot vacuums, Amazon devices, KitchenAid, Cuisinart, Samsung TVs and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/",
+      "originalUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thewirecutter.com/wp-content/media/2021/11/Amazondeals-2048px-triptych-3x2v2.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/amp/",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/amazon-black-friday-deals-2021-still-available/amp/",
+      "publishedDateTime": "2021-11-27T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd.md",
+      "title": "A mysterious Chinese GPU firm with deep pockets is gunning for Nvidia and AMD",
+      "excerpt": "Moore Threads has already rolled out its first generation of GPU products, which it is describes as “a standard GPU that includes graphics rendering, universal parallel computing, video codecing [sic],",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "originalUrl": "https://www.techradar.com/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/vRFjq3fcDEZp5RJTjH4u9N-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/a-mysterious-chinese-gpu-firm-with-deep-pockets-is-gunning-for-nvidia-and-amd",
+      "publishedDateTime": "2021-11-27T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-heres-what-defines-a-self-driving-car.md",
       "title": "Here's what defines a self-driving car",
       "excerpt": "Get the breakdown on what is and what isn't a self-driving car. Spoiler: Teslas aren't autonomous. Despite what some companies may say, there are no self-driving cars on sale. None. Zip. Not a single system currently bundled with a new car meets the SAE Scale of Autonomy's standard for a true autonomous car.",
@@ -1047,92 +1151,6 @@
         "AWS AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-facebook-to-shutter-its-facial-recognition-system-citing-societal-concerns.md",
-      "title": "Facebook to shutter its facial recognition system, citing 'societal concerns'",
-      "excerpt": "Facebook is shutting down its facial recognition program and deleting more than 1 billion users' faceprints, a company official said Tuesday. The move means more than one-third of Facebook’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.palmbeachpost.com/story/tech/2021/11/02/facebook-shutting-down-facial-recognition-system-deleting-faceprints/6252628001/",
-      "originalUrl": "https://www.palmbeachpost.com/story/tech/2021/11/02/facebook-shutting-down-facial-recognition-system-deleting-faceprints/6252628001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/10/28/USAT/8eca1c46-e3c3-4da6-a19e-6e1c73902a8b-AP_Facebook_Metaverse.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.palmbeachpost.com/amp/6252628001",
-      "cdnAmpWebUrl": "https://amp-palmbeachpost-com.cdn.ampproject.org/c/s/amp.palmbeachpost.com/amp/6252628001",
-      "publishedDateTime": "2021-11-25T14:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Palm Beach Post",
-        "domain": "palmbeachpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-supply-chain-analytics-market-growing-at-a-cagr-198-key-player-oracle-infor-microstrategy-salesforce-software-ag.md",
-      "title": "Supply Chain Analytics Market Growing at a CAGR 19.8% | Key Player Oracle, Infor, Microstrategy, Salesforce, Software AG",
-      "excerpt": "“SAP (Germany), Oracle (US), IBM (US), SAS Institute (US), Software ... need to enhance operation and supply chain efficiencies, and the advent of AI and machine learning into supply chain ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/11/ab24297697/supply-chain-analytics-market-growing-at-a-cagr-19-8-key-player-oracle-infor-microstrategy-salesf",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/11/ab24297697/supply-chain-analytics-market-growing-at-a-cagr-19-8-key-player-oracle-infor-microstrategy-salesf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24297697",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24297697",
-      "publishedDateTime": "2021-11-25T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

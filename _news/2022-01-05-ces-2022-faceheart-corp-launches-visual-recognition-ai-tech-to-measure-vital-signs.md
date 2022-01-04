@@ -1,27 +1,27 @@
 ---
 category: news
 title: "CES 2022: FaceHeart Corp. Launches Visual Recognition AI Tech to Measure Vital Signs"
-excerpt: "FaceHeart Corporation (  a tech-based provider of healthcare solutions, today announced the launch of its proprietary AI technology, capable of granting seamless access to vital sign measurement using existing consumer devices."
-publishedDateTime: 2022-01-04T17:37:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-96c9a7885556c84c44c4c0a14388cc76"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-96c9a7885556c84c44c4c0a14388cc76"
+excerpt: "Corporation ( a tech-based provider of healthcare solutions, today announced the launch of its proprietary AI technology, capable of granting seamless access to"
+publishedDateTime: 2022-01-04T16:36:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ces-2022-faceheart-corp-launches-visual-recognition-ai-tech-to-measure-vital-signs/article_ee7196df-aa11-5e34-be36-cfb88620d7b3.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ces-2022-faceheart-corp-launches-visual-recognition-ai-tech-to-measure-vital-signs/article_ee7196df-aa11-5e34-be36-cfb88620d7b3.html"
 type: article
 quality: 32
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/3f/33fc2e45-4a93-53f2-a58e-6b2425dceade/61d487e4b2813.image.jpg?crop=1869%2C981%2C0%2C63&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -107,6 +107,6 @@ related:
         height: 450
         isCached: true
 
-secured: "pQbDVSyTTuv522uxH+ZWLt2Pr4e8EeQqccR0dwlesWHrKtzZUfpAG3sX/200U8yUEAX+4ZTHPsq76WVQzvCZ1K2WIcI3+WkKoxxr2CSh0cwibkkB4YalEOkMP+C92dvFIfwzyyoXL9hB0zdaUxrm4G0t4dqUM7GbRWheu6ffgLqXKAzJDxs/8rJiJNeVPEF3pQfjeV5wG5ce9kZwGQ2kHdQHpwAZhVjx3vaYR9HQErZLwZqCNi1IPvpG5+DDJ+cDjgKCFhmdZvq9VXBR+SwUwfkAaVurqDqUQZ6Vef3zj0aUNa1SxIFJtuctTMKdM2LXNBQkEtLYy0405NGFMKGBf9a/nZbsmQk3j1Wes3LJuzM=;cJRpTMhU31x14wKU75x7Ew=="
+secured: "XkNsmNOEFjtRG1yT9OiQjw85vqfICMDpdPQ87i2hfWK0UuJPa9TfAFIyNPSiuevEoMeewtOZ1etDkjpZUGdza4GLwOwFwLoeCPnFSMsOmJyqgsQGxVK4zgiyQfpinvsElE0Di6BTZEkw7WYK1O7rLkyO9my/dxSQWGthYf57WT2xHJSUtzsoDh0GwPNhC3QK2r97sl2Hxe+aRCFLisdp/D2lMAxy2ckzH/J7nnpbCVIDQ2hEHJNo9Q/6rjKOrNjOfAZb8P7Q2sIia55QXMrG9M3nx1AJdbq1pbjIlUl8IK36HvNd5q50dD79Dpq2caEN3YPswoEJA+gXDeV2VZqKLYwYgkVrrfcUyNKaaYxH+P8=;9X/JmR9oDJue/hVeI8axZg=="
 ---
 

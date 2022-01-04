@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Xenobots: Ang Simula ng AI Robot Replication"
+    excerpt: "The latest advancement of tech brings to us a new kind of robot called Xenobots that have the ability to self-reproduce."
+    publishedDateTime: 2022-01-03T13:12:00Z
+    webUrl: "https://techacute.com/tl/xenobots-ang-simula-ng-ai-robot-replication/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 54
+    images:
+      - url: "https://techacute.com/wp-content/uploads/2021/12/Xenobots03.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "robots, automation, AI and who owns the future"
     excerpt: "Since corrupt people unite amongst themselves to constitute a force, then honest people must do the same.” Leo Tolstoy Today’s piece began with a stack of books and an idea."
     publishedDateTime: 2022-01-03T18:31:00Z

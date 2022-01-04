@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289/amp"
 type: article
 quality: 89
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmodo
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA RTX 3090 Ti and RTX 3050 revealed to quench your GPU thirst"
+    excerpt: "With CES kicking off here in the first week of 2022, NVIDIA is joining in on the fun with a few announcements of its own. Chief among those announcements were new RTX 3080 Ti and 3070 Ti mobile"
+    publishedDateTime: 2022-01-04T19:10:00Z
+    webUrl: "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/"
+    ampWebUrl: "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/nvidiartx3050.jpg"
+        width: 1063
+        height: 703
+        isCached: true
   - title: "Nvidia Announces RTX 3090 Ti GPU"
     excerpt: "To kick off CES, Nvidia announced its newest GPU, the RTX 3090 Ti. The new graphics card has 24 GB of GDDR6x VRAM at 21 Gbps, which makes it faster than the RTX 3090. During a presentation, Nvidia management called the GPU a \"monster\" and boasted that it will have 40 teraflops of performance (compared to 36 teraflops for the RTX 3090)."
     publishedDateTime: 2022-01-04T17:35:00Z
@@ -93,15 +109,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Paperspace Launches Catalog of High-powered NVIDIA Ampere Architecture GPU Compute Instances"
-    excerpt: "Paperspace, the accelerated computing infrastructure and software company, today announced public cluster availability for a catalog of the latest NVIDIA Ampere architecture GPU"
-    publishedDateTime: 2022-01-04T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/paperspace-launches-catalog-of-high-powered-nvidia-ampere-architecture-gpu-compute-instances/article_e8479f72-b297-5646-82fe-189d91204860.html"
+  - title: "NVIDIA GTC 2022 announced: next-gen MCM-based Hopper GPU reveal likely"
+    excerpt: "NVIDIA announces GTC 2022 as in-person event, Jensen Huang should reveal their next-gen Hopper GPU -- their first MCM-based design."
+    publishedDateTime: 2022-01-02T19:21:00Z
+    webUrl: "https://www.tweaktown.com/news/83701/nvidia-gtc-2022-announced-next-gen-mcm-based-hopper-gpu-reveal-likely/index.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 8
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "tTPoe8NZ4s6RE8Vh9PYwmw9J0dO1ahXUZE60UuMU0PaW60NdP4bWZ6I6rbn2CwiBfwerL/FNAjBupiKEPVNbWLRIod7ej4Xtiuh21knPO4iEweDSo4fXSNTqcozFfnk3w26xQddrsHJdPk5FFwQ63hDM7sm4yCFd+YLgWn2iQCDJDu05ujPh1AcILXRAeVPXFrqT/0qehHxAMcEoHIRwXZ6wyjyFZRMxAnIFtvuTOaw2d6ZU7fOeAkw9+2IyiHsLmxhgJOW42WkTU3+w5JMUZQXYjBqjq2zWJMmOtRvcV5uh50LkyTH2w4pLrg6rwisRDma99toNqb/lWYMuACcBTXVkc/bq2iHKXCQbHRl2exc=;w4W603Io3jWq5fdYOA2z3w=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "John Deere’s self-driving tractor arrives later this fall"
+    excerpt: "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing."
+    publishedDateTime: 2022-01-04T20:30:00Z
+    webUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/"
+    ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/john-deere-2.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Forget Tesla. At CES, Deere Demos a Self-Driving Tractor."
+    excerpt: "The company says its new tractor can till fields with no driver present, improving farm productivity by as much as 20%."
+    publishedDateTime: 2022-01-04T20:30:00Z
+    webUrl: "https://www.barrons.com/articles/ces-deere-self-driving-tractor-51641321288"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-461313/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "TuSimple to use Nvidia chips for computing in self-driving trucks"
     excerpt: "Self-driving freight trucks, while still operating largely in pilot projects, have become a focus of the autonomous industry"
     publishedDateTime: 2022-01-04T12:36:00Z
@@ -47,21 +79,7 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "CES 2022: TuSimple furthers Level 4 self-driving trucking with Nvidia"
-    excerpt: "TuSimple, an autonomous trucking startup, is expanding its collaboration with chipmaker Nvidia to develop an advanced autonomous domain controller (ADC) designed specifically for Level 4 self-driving trucks."
-    publishedDateTime: 2022-01-04T14:06:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17595/ces-2022-tusimple-furthers-level-4-self-driving-trucking-with-nvidia"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/595/17595/TuSimple.jpg"
-        width: 752
-        height: 501
-        isCached: true
 
-secured: "G45DWW3AcsEshR3b/YM8zn2erIDTCYAk5TSII+AX1Ara8izL8d2r0m5vEePsCkEWIV3BXsE121n6WzBpBnLuF3zNiycn29NSWl61r2rCiGzEjC2TBKA/LRjX5w1YqMAPKmI59ZboooplVEdqAA1epsgQFinfnmSFoM05+UlNvb64X9suwNYfcnp7dueQQFu32bEYm3eG4IQxGFRIxhCVSgm1ID7pPiaUFIrG8CPLUex5iiK0D4wklZfKW5EC+nrmsn8Yj6Qw1sDT/K6iE+16Yz25831ZWufvGN0ELb1cTILReAo2lEmHzPyeAcSi1AiUFq3TXBrlJZru2ZEFNg3xF753Gn29FwZiyhSFaHbnH50=;EEr3Y71U0SYrD+bE1iKXmA=="
+secured: "JgzYwmFTxlVhVBHJ7AHaSDBUjBUH7q9F6l8vrxQjdM/jgGy4lvmghZLTQ0vE0Ps4lrSOwq6xcGwM9utCL0hZgVkYXcFyYtbLmV8RXTvexpC+yqw9C+hG9Cfoubv6IX+IcofzQhiuwtsOqCXnTpUGB7UUVu3n4eml7PeNOuDswVcxMu729hrR5Lk71GnLH9n2t0Y5z3hpwHVyIaBEr3EZETr67m0xjfJt2MP+nh0xCS99mbSqgvIKXJGksAJ1/boUM4kIIyY+xf2qF7ZO/3ukWkXIRhC9gtfS9qz1T0BKMiFVUJRTQeLkPkW7oPD/92aHVE3HbEWzQ5mN2x+7NkHqUKSH9iqieDHjlA0TqaNkO/VAKB2C8h0T6S8JbbonAEyy30apwucbRYW/abjeGZBwS0MQp/1X5/K09Mt+wBFo7ZeD9L7eFMXmc0cZuYlYWKJ9HrRx5mSitFVMJixeLihEvPDJeHgZ4dKYE0EcOJhoNphN/XXwfRDvxpRxN4rY6oczLxk+WZJrqxaZmc+k6IPGDg==;uhWGStM9CMCYjyvK9TVxPg=="
 ---
 

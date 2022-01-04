@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-04T16:00:00Z
 originalUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
 webUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
@@ -56,6 +57,6 @@ related:
         height: 500
         isCached: true
 
-secured: "9hwB8uXKg2ZUxEB2Z+UnV4sX5deB8nFKRvgT2pTX7wmYHv8elrsCdOAlBb5YaQTIF+4Xy9UTQ9vMpL8M47AFaTEZCQ9JEFNjCYnBKaD6+oFspUGCa4vRxVy2inNx/+4J/r42p6FiUCJdleFPzV65OeGB9O64E7LS+AsptB3emDOyDS1cc8Z+GyXhHkSrd306vq6oxK/f29b7SAFocbgTVDwnb4isQjVe4ELDaFkS6VJkiwcWADkcxuXu0vok4YMB+TcFKgXdBclaIi64LNSIHVI6eFlpD3qkd8fkT1zzmgHNkbSXRnDEv2yQztqRDva7yPegmrlXxkG022BjmqcJczfY/qDLgy0a41Ham6DriHs=;mc+B2FF4dFhdPk0tGrqGdg=="
+secured: "wvc79VID2reV47zgBU1YuvoXq9fq3XzUd3TGgBBzuoann+p+ogXFhcPFyxGw9rdhdbeJ81YGEICyr8+dma3S9lmMcex8qLgesA5bzRNqx6J/ob0kT+6uDzJa8pBkwVDeYIHU90Lm2heCDDRVleKACsiNg6SL2UYVGvyqIGeZNbNckrVhi8vU7PJZUF0djxatkxNwzH6dgauImiXgtYRogcojebgLvXFfUsmiSKeLdVF+cqd2jOU9PJQc6nxi1hNmGVcJ+wwey307WQW/YWlRl4vTj2Ubaq+pa9dVdQdMINEtainb92Oq4xbNW+yEgz0u4XWoHBwnyBS5bQYxZieStgbL8NAPP75ZkXiDJNDbzdgSyc2R7dpcQGuzWd9U0j0wtgF38Novrh/Dqn+Vk9KgSeyeZp+iyNqdQHwsaefqtkdq0qWIv8E78uOrLTiMJUBDwGbig/4X3ft9MVEpDcVJOizFQONHZ9VW0iEZMxci1zQNlKgtnWorGOItWazc5FcdN7vtPIrI6c8u/lm5a3jxpQ==;4ebIR/CQq6ufGXhYfq6/3w=="
 ---
 

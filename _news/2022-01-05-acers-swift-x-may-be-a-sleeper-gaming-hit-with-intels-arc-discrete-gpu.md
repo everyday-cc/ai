@@ -9,8 +9,8 @@ ampWebUrl: "https://gizmodo.com/acers-swift-x-may-be-a-sleeper-gaming-hit-with-i
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/acers-swift-x-may-be-a-sleeper-gaming-hit-with-intels-a-1848297245/amp"
 type: article
 quality: 88
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gizmodo
@@ -30,6 +30,24 @@ images:
     height: 450
     isCached: true
 
-secured: "udlpFhIMUoDGAAjnXd3eIY1CqsWkau5T4KTZRr+RL34TCpSbbHjbSDRAGo5bk49+Sdl20EwJ6I1411sKWwq6xpRhA9z3B2gxThe8J7+jlx4iQgRFQRvsBzjXdh15jf3ntaoE9g8OATX5N5ECU/QJTjl76SI5VJQE35Q2Sc9/CHaaKmsFV3/HDtKOVBAiXKvdl1Dn2NG53+VDWKi6sgZXTde8LW3GNpg7otDZMBocrImlIMAEhi31AEX2zb9OzgDml6JV5wavMy+eXiq5NdOPzfJMcGJIpcsMmVD3rXTSFcr2BTBuBc6L+tOtf6SAvk7ptYY/oI1avufhr6M5hD3p7yBvCfSCtmRLPnq0qkijc84=;4YvcT2fd/UBloQJGxoRUlw=="
+related:
+  - title: "Intel overfloweth with 12th-gen CPUs, Arc discrete GPU at CES 2022"
+    excerpt: "The company announced roughly 50 CPUs as well as its long-awaited Arc discrete graphics chip. Intel dropped an Acme anvil of 12th-generation ( Alder Lake) processors on us at CES 2022: That's 22 for PCs,"
+    publishedDateTime: 2022-01-04T19:47:00Z
+    webUrl: "https://www.cnet.com/tech/computing/intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/v0h7p16AxkjfjQFwO9y-Tdw01zw=/1200x630/2022/01/04/253f6618-ad2f-4325-8278-5e8dd479b731/12th-gen-mobile-chip-pose-10-highres.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "foAyKb3Fngl+jvB2Bek2QJdQENqfOlv+1MhB62IFO26H+E3pekYjluBjAY3D8Sc+bPNImEen5wbYlHfJb7gTBusKa4tk73c8u/Xcbl+ANlXP8i+Y5jG6jchfO9xTDgybE1U/RMi9YmmBZm7meOeCAfo9dwtdEsTsyIBaWxcP1Clz4pyxSi9fNRqjauGiED5gYeX6M84iDNHgo4vthKprkYrNfudWskCR8HIWHzu6XFHICOzXKbM/k4D/gMFb/8TqwEvDt0EVBUx9pI9Dn/SGNUTMJZuuQpgJtgS8Cu6HN35Tk00j+6NOGDt/RCntBqcyRHNhy52xCS+SoKUiotM26iA3wsd+V/Jdq17R9Br86QiujwMNHIRMX3RD5TKi6vD5NnJZRbULHOWJFAHfjq4H2Nsj/sMoqyZKn4bTve/Iq45+6rZmTazMabIQGdbwi4Snt4IKnQa4tbbP6KeLWhqKtAUoLOUYNLXjyCVXVp4ELi3o8MLH0v4gDARaa0UcfCq+L2Y8U2GTY1qDBC5iA8BMlQ==;G4W1tZzKNdPpHMPJsb1q9A=="
 ---
 

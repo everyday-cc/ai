@@ -3,27 +3,27 @@ category: news
 title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,"
 publishedDateTime: 2022-01-04T11:13:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_74c7f691-7f03-585d-8f98-190b4209afdc.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_74c7f691-7f03-585d-8f98-190b4209afdc.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/3/11/31105f34-05f8-595e-be64-fbcdbdd02d47/61d43ac8c808a.image.jpg?crop=1124%2C590%2C0%2C421&resize=1124%2C590&order=crop%2Cresize"
-    width: 1124
-    height: 590
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
+    width: 400
+    height: 510
     isCached: true
 
-secured: "YAk/MkGFw0I8fdmHqHKgpRg+wAxC7+wNE90bGkZOgLqZIA8IcWvPL+KxM+Tr8kJhzjBP+Odtevd8Ls64lr584JmOKm8zR+3wnU835aDSIsfa/pdliONylBuKki2O52PO35PFhMdciYtEgX63Vs8w0tFOuBEu3DX2ZZnrrEfJ2ckMhzgy1x+jYYfjGl/oQCSY+FWW7MzQ79ZtIHthgxb2/cmZYIy7mQ16dlSe2/70aeP4jUvwT6r4xk6Yo6NAhgLaypQtzfi3ycF5tzS9d8iz/WMV6dzP8BJ8IvI9bkwKL3EqI5sfLoqhQteffFk1nX8uNX4gNQM77TvF+oeuih3GfpKgndbyAiB85piy5dOPOZk=;vu84lVFaaKufItbaLsrNWw=="
+secured: "V+GBkvklV0OUEj7Y7PCzpGJRQQk1CludpbSY6O3BlIkGFZqOHscjm6Y7ESL3FP59KzhGcaCMW+VPuJKaPSX7cecWZwGrWPqrJDwnLkPmgn0D02d/dit4ABro61muiB2+43d8k1sd1scXrNoQd8tRrjvheRV3E/6Mf0T5hCniYMdUCjvEUTiNbREMNUpgyDaiYWbIEIctqe67ngQWxbDKACOYT1NKFZLH5FdGeAIyahBjPL3BI7DtO1gRI78XTmlfsAXCflUwpEbFWIQdWO7VlmtiYGUDP+CnmWXLU3UX2T1Jbwh0+4IugYeCG+IvmuecAu7PXFH6VDvs63AhgymAVGkrW+wFlEO6Ojvf5tzgIss=;1oG52Ay7pRdASKlFN9aybA=="
 ---
 

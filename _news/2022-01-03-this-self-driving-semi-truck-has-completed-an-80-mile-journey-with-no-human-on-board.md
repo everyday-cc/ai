@@ -43,6 +43,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Self-driving autonomous truck run completed in Arizona"
+    excerpt: "Autonomous truck tech developer TuSimple says it completed an 80-mile trip with a Class 8 truck \"without a human in the vehicle and without human intervention.\" Also: Truck parking info signs added on Indiana Toll Road;"
+    publishedDateTime: 2022-01-04T19:08:00Z
+    webUrl: "https://www.overdriveonline.com/equipment/article/15286813/first-selfdriving-autonomous-run-completed-in-arizona"
+    type: article
+    provider:
+      name: Overdrive
+      domain: overdriveonline.com
+    quality: 24
+    images:
+      - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2022/01/tusimple_truck.61d31c942e9f0.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 633
+        isCached: true
 
 secured: "JWlRNaPIT9sb02Hmj6FjymKgk8PdDdi3ERK2DvDj6EzQw3ELpoW8hTJ7Kb2hBNDABhGvPsNThYfLM6ZbKF3qC1D409AmbwusWc4/jBvJPqnvalJncq4wrRG8Ya7vD1SW2RsyFJP6HPlf+2B9fJeKQ3xaca+Y73dE3ZNTkDaQ9aw4Mu33+O9H3n2ekyJfFsDI8GXuWsGMZaoEei9TJs+QtWWmL2ALswo3WD7Kj60Amy+x5tNmc7s+kO/mNOdQaNJJ95kIbiIHW3N/O47cgA6G+CIVmmDTsjZU7Zk/cW7cdv8Klrd+wXpzkosABMk2J3qf5q7jSGdpmZMH80FRozKnCWTRH3sUVAmDYVs7j63AGnk=;xzVZn9/wj3V7ePU6XQjckg=="
 ---

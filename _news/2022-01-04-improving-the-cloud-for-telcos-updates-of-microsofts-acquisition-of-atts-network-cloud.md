@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-up
 webUrl: "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/"
 type: article
 quality: 77
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -64,6 +64,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 34
+  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
+    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
+    publishedDateTime: 2022-01-04T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220104005270/en/Tekion-Expands-Cloud-Hosting-Options-with-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
     quality: 34
 
 secured: "lPVmMgOHBXcchAXd/+CWRuMjcbdQQAWhEtsyNLJuQlt+mulw4+H1wolN6fX2TiIlfT/kULfl13RFGOuLYB4flseON5kJCJfdM6R8Cm0ehorAvcKruyskaSoTH3A2TvbvyR+sbZT/BO1SBN/lwd+L1VPvxN4LznSr2pVEqSwTNwUuhS6bZt2Fp6bdV09DdxD8ZC8vrlYhVwV41L6NnZXL7qoppbYzgR3JvdL0J/yV2yrnhIYd3xSSBsxdg+fRzuQSyNbzeRl2x30VzfpzHb/6YsVsBvPMcyanoOva0H8s1Po2+vr+30P2CuNUnQy9i1tQi4T4aEHj8Zi5gGQPvO2KsJzQy7sYL21+fltuL1/OiEY=;wOvum2e27whK9g3WXfDt2g=="

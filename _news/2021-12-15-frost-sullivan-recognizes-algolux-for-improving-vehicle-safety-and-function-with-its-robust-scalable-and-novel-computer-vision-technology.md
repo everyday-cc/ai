@@ -3,8 +3,8 @@ category: news
 title: "Frost & Sullivan Recognizes Algolux for Improving Vehicle Safety and Function with Its Robust, Scalable, and Novel Computer Vision Technology"
 excerpt: "Algolux's solutions improve vision accuracy and address mission-critical safety concerns in the automotive, transport, and autonomous vehicle space"
 publishedDateTime: 2021-12-15T12:00:00Z
-originalUrl: "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_b5c28191-ed7a-5fe7-bc30-734770c493f0.html"
-webUrl: "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_b5c28191-ed7a-5fe7-bc30-734770c493f0.html"
+originalUrl: "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_d8d39368-9c8f-552e-a455-06e0643cf4bf.html"
+webUrl: "https://kdhnews.com/news/texas/frost-sullivan-recognizes-algolux-for-improving-vehicle-safety-and-function-with-its-robust-scalable-and/article_d8d39368-9c8f-552e-a455-06e0643cf4bf.html"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "pGiwRzmTt1TeP4gHphD+2N807FEtt2CrZ/gI/ZbRb+NI114v01LptLubtJYkacd5E8AeUKqBoFhrid5XPjKnnAKSmOgIKOC2ZP8JKzq9DqDNp6EnaVbBRDD3leRmcAYuodqVzqQikUjqko7Krieu94LUVog+yuO7vwqEHKmjuLxTc2HyBJvSWDtWCIPkjVyc/ywezj/TIGFo2Iq5tMih6UE7gKg75cLsmNQw45N3t+NYSUHgTxpGExeZ1zyPtNC5GAY7ltswdd/sMib17bjiLV1DEeojwOJFmpMMC7epx7vAZQK9iKdACrlmufWTKDHIvpMcgnsGz0Z99Ej8hhAggPkfJnZWtOVhg3tQsPsVLo8HiZsotwFM0By9mnDrRIudWhzsXRBFtHk069Fy3pc343dhe0qcG6Ic299bZR34ywrOSoM8WdRCUIRCTR5M0LJdeNevX1OqW0BG6otWmoCj1UWlNsm0oU3HKOiMxZDUzmElpykjmDMWyebwIvuXnC/XrevKlHq9zghXMpd7lIP+2A==;yueSLB5XU1m8XRgeo2XX7Q=="
+secured: "qCOx7eg8RK61KrwUS2jWYFblMhJX1HgswX1zK9OMQazalNKlIlM9TfJk+vWHxERQ7JnCFH7YEXoe/U5I5Pa/gPIVy+SVUC52I1lAmdWoL3CMLMxeh0WlW2PEX8J+o1REO/oxdZ60WCoweCLFqYYcDBoixyGGyQ2nRIFBMGkZKPKmTSFi4OGufILxoXRfu3pWb/ti6PTlKhEOozFBGhdmFu8V13kWSgE/MKTGK1alJLV5hImqnL23nJ7nGnQGWJVkWhXFCVdYreC0gQDehi2y7qjSgsQwedkuM2ey4eT+/ro4UEIeM/crc3UQZPrVliFWMnueK7+grGnLedriGaIEkCANhaCxRSMY4OCZUBcuhYM=;MZPAWtsXlbJRvN2lTK/HrQ=="
 ---
 

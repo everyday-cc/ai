@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-04T15:46:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/"
 webUrl: "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - Computer Vision
+  - AI in Finance
 
 images:
   - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2022/t_bec7b19019f440cca2783637ba05c5da_name_Chipotle_Thumb_2.jpg&w=1440"

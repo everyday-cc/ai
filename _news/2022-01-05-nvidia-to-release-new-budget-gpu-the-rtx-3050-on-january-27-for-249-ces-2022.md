@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA RTX 3090 Ti and RTX 3050 revealed to quench your GPU thirst"
+    excerpt: "With CES kicking off here in the first week of 2022, NVIDIA is joining in on the fun with a few announcements of its own. Chief among those announcements were new RTX 3080 Ti and 3070 Ti mobile"
+    publishedDateTime: 2022-01-04T19:10:00Z
+    webUrl: "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/"
+    ampWebUrl: "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/nvidiartx3050.jpg"
+        width: 1063
+        height: 703
+        isCached: true
   - title: "Nvidia's RTX 3090 Ti Is Here, and It Might Be the Most Powerful GPU Yet"
     excerpt: "The new RTX 3080 Ti, coming to dozens of new gaming systems in the next few months, comes with 16GB of GDDR6 RAM, and is supposedly more powerful than the desktop Titan RTX GPU. Nvidia claims these chips can run games at 1440p at 120 frames per second or higher."
     publishedDateTime: 2022-01-04T16:56:00Z
@@ -89,16 +105,16 @@ related:
         width: 946
         height: 630
         isCached: true
-  - title: "Paperspace Launches Catalog of High-powered NVIDIA Ampere Architecture GPU Compute Instances"
-    excerpt: "Paperspace, the accelerated computing infrastructure and software company, today announced public cluster availability for a catalog of the latest NVIDIA Ampere architecture GPU"
-    publishedDateTime: 2022-01-04T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/paperspace-launches-catalog-of-high-powered-nvidia-ampere-architecture-gpu-compute-instances/article_e8479f72-b297-5646-82fe-189d91204860.html"
+  - title: "NVIDIA GTC 2022 announced: next-gen MCM-based Hopper GPU reveal likely"
+    excerpt: "NVIDIA announces GTC 2022 as in-person event, Jensen Huang should reveal their next-gen Hopper GPU -- their first MCM-based design."
+    publishedDateTime: 2022-01-02T19:21:00Z
+    webUrl: "https://www.tweaktown.com/news/83701/nvidia-gtc-2022-announced-next-gen-mcm-based-hopper-gpu-reveal-likely/index.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 8
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
-secured: "uIwaV1eS01GRu3sqZGBLHmC73o4TUG4Kze2tcHVyEcEWb5SS2FRASg4RNCi3N+v4IyDwn2Ewl1DhzHdTiuFZW5s2TPvll8J8XGIQEyUqgyKSmtmtWwGV5VMs/UW5nuWxg0ZGACJshCchWyQSqZ+15FeU1OowXHAKlp58nIyaTFB99ufxVhCuJV2ni9ErIzfSBA053cr4TvilzoZSaLHWvD6/Xf22oBYvRJVr775I3gTAz+0qf+NXXghJYKMhJTfgI50rV0VvMxB1u4qR9EeI2K3WLKd5FyWR6wwvay9sCBLMkhrcSB8lRWQLdZPYSwx8WBZPv8S/ZmhlMCZyvTfrQcFHLl3wpjZzPxTDH93E2cc=;eW+kVMgFk434ZI1HBeCBfg=="
+secured: "mnxa8U4wu0+BsGyK+aHBCtti71mJONhZcSrjmEatvPqRXjj4+g+xu0CA1vigv9MoJrHjhKTeRZ9Irf7ipNzc+Z8dDX0eJq3S4EATUci9FHNJqqsA23MyPvJBpZfc6J5RhvHYY1D+8N2EgZCtphaBdb/xJgEIpw7sHpSTMAVS7HhblTTV7fRCzhlW9//mCQlw+3bI6fln4UuD9fAsrKwcLTtLHwmtFN+A0ad9QEj3d1WQb/flSZiBfNtOAmoxdjYL7L9tkPxiuVw3hqbR6745RqufskOuR6nCV5szDxLWML/85QiRuTZmtsqCAG5+PrDs1qhNImk/zMbjRnyj+qU/IXvXm9zUiHoExcg9zB5U9/MjY13UNLVMxsDtn1Nx0hndw8CCelXjs3Nm6L3JRnf7lEuTg2Zl/nfNln8EZdKjjw7Oevr7SLdmczHXA9c0+FfWbzeLTFjJH/kL/ipbkLcKJmkvXs8KKjIY22DgoK0azVjnQK4bnjyR3FjiXblj5mmXOKpFm1uj8SrqIEtQZ24QCA==;+6Zc7ZwKgL4gtjdDRUYmjw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verificatio
 webUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       - url: "https://www.st.com/content/dam/logos/open-graph-logo.png"
         width: 750
         height: 560
+        isCached: true
+  - title: "Worldwide Face Recognition with Edge Computing Industry to 2026 - Increasing Integration With Ai Drones and Video Surveillance Presents Opportunities"
+    excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to"
+    publishedDateTime: 2022-01-04T17:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-face-recognition-with-edge-computing-industry-to-2026---increasing-integration-with-ai-drones-and-video-surveillance-presents-opportunities-301453537.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "uwqt2opX8NvjXOKHgXmZJkJmvPvPnO/PeCfrFLZIU17JFeflSxDdwk46LJVXBKVQsVUxZbMznnuvg9xwjYMUbkSd1g7Mb8Ou1txXdJrxtRNmJri2JdeVgYoNGB/06/qLQj7P4TupmSM0IdZvYnssWqCr9sNLAhIertQClJaehqmQ49Gqgd82Ev9TBuPDVYyAx0NqvxAfhajf5jZd8bveho4EEc+tn1Crk5W5QoG5E+AriPxIh3ClqSe7cTAxNHZpIA/oFjY3MhHXvDhTQ4ok6iOBn4RAjIG+3M42n4w3MY8Xx0dWT4mMqkd6kj8JbJUfhxCcRIZcyP6+uKFYJ4Ph530bLZQ9+60UR050xsRYpwU=;CQFcN6kuZw4v8Ya4Q1yPIg=="

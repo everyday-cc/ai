@@ -93,18 +93,18 @@ related:
         height: 900
         isCached: true
   - title: "CES 2022: FaceHeart Corp. Launches Visual Recognition AI Tech to Measure Vital Signs"
-    excerpt: "FaceHeart Corporation (  a tech-based provider of healthcare solutions, today announced the launch of its proprietary AI technology, capable of granting seamless access to vital sign measurement using existing consumer devices."
-    publishedDateTime: 2022-01-04T17:37:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-96c9a7885556c84c44c4c0a14388cc76"
+    excerpt: "Corporation ( a tech-based provider of healthcare solutions, today announced the launch of its proprietary AI technology, capable of granting seamless access to"
+    publishedDateTime: 2022-01-04T16:36:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/ces-2022-faceheart-corp-launches-visual-recognition-ai-tech-to-measure-vital-signs/article_ee7196df-aa11-5e34-be36-cfb88620d7b3.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 32
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/3f/33fc2e45-4a93-53f2-a58e-6b2425dceade/61d487e4b2813.image.jpg?crop=1869%2C981%2C0%2C63&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Fue5YVOna5QQLw2fKkTgveNbKhP5DRwpPdEtIyUkgDUHN2eStaZH9X8hWre1/h8TcDuDsWqt/ot9jvHxJSo16gaCt65Vw9mHtwRRM3ihe1JF1ZEnmUIRCFcXDttaj4A1hNqs2AuLOyZfQHrN7zrC+YBeZvYaz4TFu2oUGy/OEBltHN0f3lBxF527G+I3P7/f2lkynRx2RH2c+51YK5A7YuPiVES3thwp1cKQy4EwJxAVPHinH+vZC/Sl349YiADIgp5Dn7mweZ53yh3Aa+QlI8yyjX/g9ru/Evb281J/3UuFQ3VxZQy0WEqjFR5688+Qjg9FAl4GVJSfMfZp/l6pXquP7/PpZTxm2SUi9pdRDxw=;B0qL9QbnWa4SnRU+noH5pQ=="

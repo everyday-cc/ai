@@ -64,6 +64,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
+    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
+    publishedDateTime: 2022-01-04T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220104005270/en/Tekion-Expands-Cloud-Hosting-Options-with-Microsoft-Azure"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "/lKTQOKG2wRRYJIv7Mif6rPInWqqKXrobn7C0mEfhNNGhYB7hKZqSSnORA9QRsUEG4J1nhOw+N09IOTF8CCTIrbHHYrwCoyz4Ra+65GHI4CAJkwxadSNOen7LaQRpQiUBmMFknxQFHkpd61RlcMoFskNhzBgPCr4+uZNYqobNE2Hvfvx2znQ+11Rzk8vfF5Ov/gnlFcqgNAZCRsF8Mo/gsZ5Ss3f/brORs1UNlAWyJRINhgRjnuXDxwemnEzomcnrcysmDnFVMRDn/z2kM7787zdpyJgkAFTJ8VFhYs2LeTuqpYi/lgsysz2N+7h9hQKyH7ts66r5yNOqewcpTimDhP8mQPLsxU342al0DYye18=;dq43Kw2T5NKC/FRVGmzBEA=="
 ---

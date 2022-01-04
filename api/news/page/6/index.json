@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-28-bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force.md",
+      "title": "BMW, IKEA Using AI-Powered Exoskeleton That Adds 66 Pounds Of Lift Force",
+      "excerpt": "Powered by a hot-swappable 40-volt battery, it consists of carbon-fiber backpack-like unit that connects to your body at the chest, hips, and upper legs. When the AI-enabled unit senses that you are trying to lift,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca23fc1d7ac666fbd10953%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/amp/",
+      "publishedDateTime": "2021-12-27T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-the-2021-good-tech-awards.md",
+      "title": "The 2021 Good Tech Awards",
+      "excerpt": "This year, technology companies stepped up on housing and criminal justice — with a dash of whistle-blowers mixed in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/27/business/27roose/27roose-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
+      "publishedDateTime": "2021-12-27T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-our-most-technical-people-are-down-on-ai-and-thats-a-good-thing.md",
       "title": "Our most technical people are down on AI ... and that's a good thing",
       "excerpt": "Commentary: The IEEE crowd is skeptical about AI's most bullish claims, which turns out to be exactly what we need to push it forward.",
@@ -1060,90 +1163,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-imagine-a-world-without-ai.md",
-      "title": "Imagine a world without AI",
-      "excerpt": "Artificial Intelligence is no more the future. It is already a part of practically every aspect of our lives. But AI depends heavily on AI models that..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88509489,imgsize-38988,width-1200,height-628,overlay-etcio/imagine-a-world-without-ai.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "publishedDateTime": "2021-12-26T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-2021-in-review-out-with-jedi-in-with-jwcc.md",
-      "title": "2021 in review: Out with JEDI, in with JWCC",
-      "excerpt": "On the latest episode of The Daily Scoop Podcast, DOJ CIO Melinda Rogers, USASMDC Col. Samuel Glover and former Air Force Deputy CIO Bill Marion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/2021-in-review-out-with-jedi-in-with-jwcc/",
-      "originalUrl": "https://www.fedscoop.com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "IIT Madras-incubated Startup GUVI partners with AICTE to offer free Python and AI courses to One million disadvantaged students"
+    excerpt: "IIT Madras and IIM Ahmedabad-incubated Startup GUVI is partnering with All India Council for Technical (AICTE) to offer Python and AI Upskilling courses free of charge to more than one million sociall"
+    publishedDateTime: 2022-01-04T13:23:00Z
+    webUrl: "https://indiaeducationdiary.in/iit-madras-incubated-startup-guvi-partners-with-aicte-to-offer-free-python-and-ai-courses-to-one-million-disadvantaged-students/"
+    ampWebUrl: "https://indiaeducationdiary.in/iit-madras-incubated-startup-guvi-partners-with-aicte-to-offer-free-python-and-ai-courses-to-one-million-disadvantaged-students/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-madras-incubated-startup-guvi-partners-with-aicte-to-offer-free-python-and-ai-courses-to-one-million-disadvantaged-students/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 29
+    images:
+      - url: "https://indiaeducationdiary.in/wp-content/uploads/2022/01/dpiit.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "IIT Madras Startup GUVI, AICTE To Offer Free Python, AI Courses To Disadvantaged Students"
     excerpt: "Madras, GUVI has collaborated with the All India Council for Technical Education (AICTE) to offer free Python and AI upskilling courses to socially and economically disadvantaged students."
     publishedDateTime: 2022-01-04T08:51:00Z

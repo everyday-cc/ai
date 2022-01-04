@@ -103,6 +103,20 @@ related:
         width: 750
         height: 560
         isCached: true
+  - title: "Worldwide Face Recognition with Edge Computing Industry to 2026 - Increasing Integration With Ai Drones and Video Surveillance Presents Opportunities"
+    excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to"
+    publishedDateTime: 2022-01-04T17:45:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/worldwide-face-recognition-with-edge-computing-industry-to-2026---increasing-integration-with-ai-drones-and-video-surveillance-presents-opportunities-301453537.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 15
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "wZNDn//8uem01YqX2KrsIjpc8BaEemhHqVftChL8jAQ6QoNYm3fSXh1wxefDLHGRjRnc7kmBZXgW+55tJ7OlotwdlmwvOvZ7LrB1cN8Oda6dm44qOabp/+I71vELueoUUG2h6ANxoy9VrWDgJb3Rk+oa07hNzp6RTjN8yo3uEOmmhJbJ02cLUQYtbik0GhUKqw9xNI5rBpAwh34XCIrcUkJFGQQznAv4+Tg+mgnYCpEN3OI08KHWvGWhDLVKTzTZ8Qw6j5BTv/keDFoHP1hQZmN5h2xjv1043j13IJdLDR7OFH5yqoQW567kGYFkKG/gDEb2PF8nKfPHUqZvstjobPZx3+RKFe6HDwgkDYnvAUt4vDsM3P5gkrcliP+xINchzqNEAH/QcyX+s2Abi0ug2ObQvudqK/vxd/kFnkQtRmKDdI061tKqmU7phspY3GkIycBiDcPZ/j/lHtQqV3efQyoQlDxT0g6+mTp6yhqgGCZtfGtyXxPAWnDUcg5Yyinh94uVjXi15fK8AtuRjPI5hg==;4oLGpz1nW+cljmaGIOiF9w=="
 ---

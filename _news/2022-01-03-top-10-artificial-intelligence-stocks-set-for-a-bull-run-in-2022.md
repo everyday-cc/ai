@@ -49,7 +49,7 @@ related:
     provider:
       name: thenewstack.io
       domain: thenewstack.io
-    quality: 39
+    quality: 41
     images:
       - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
         width: 918

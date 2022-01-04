@@ -61,6 +61,20 @@ related:
         width: 594
         height: 378
         isCached: true
+  - title: "Xenobots: Ang Simula ng AI Robot Replication"
+    excerpt: "The latest advancement of tech brings to us a new kind of robot called Xenobots that have the ability to self-reproduce."
+    publishedDateTime: 2022-01-03T13:12:00Z
+    webUrl: "https://techacute.com/tl/xenobots-ang-simula-ng-ai-robot-replication/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 54
+    images:
+      - url: "https://techacute.com/wp-content/uploads/2021/12/Xenobots03.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "KF8+vVc0ScEmNace5LaGYBxjuUe0hKepdvyWD8O2+8WR1hZq0xUp21ZFXOCmV12AyfcRose7Iro0DoPIkL2cxsflNpdeqIXiXpsrOCYdLRZHUCWpAmv1lH3IGlH3XNxgYkAI1AGnPguTiy3ZV49VPINAQcxBoKeMugOQBQQQVt8ZsNlBujLbreaRfC72Jbf0UJ5us8S/8o4uX6VIFcI1gnyGJc2qpCwGokDLna39F2bdlWtMXirQrpnIigYSlk7anYuRm8+phVh9n6vlaBSg+Lev1ZCClnoztAt1gXQxmTYloj2YAFWZgvrz/oM3aXpprerfwA77ZVhmddVE0fANQmBIcFHpzwR65LCWdcHveEc=;3KDVL+uBJAXPt+8oQB0UAw=="
 ---
