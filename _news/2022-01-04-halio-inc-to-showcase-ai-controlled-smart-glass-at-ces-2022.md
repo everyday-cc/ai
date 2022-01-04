@@ -25,19 +25,16 @@ images:
 
 related:
   - title: "SoyNet to introduce AI accelerator at CES 2022"
-    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held in Las Vegas on January 5, 2022"
-    publishedDateTime: 2022-01-01T02:00:00Z
-    webUrl: "https://www.asiaone.com/business/soynet-introduce-ai-accelerator-ces-2022"
+    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
+    publishedDateTime: 2021-12-31T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24847305"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24847305"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2022/pr-newswire_500_4.jpg?itok=Nz-7ue_n"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
     excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
     publishedDateTime: 2022-01-03T14:33:00Z
@@ -46,7 +43,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
         width: 400

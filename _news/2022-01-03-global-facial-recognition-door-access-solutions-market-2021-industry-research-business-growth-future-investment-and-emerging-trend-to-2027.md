@@ -54,15 +54,6 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 21
-  - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
-    publishedDateTime: 2022-01-03T06:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5242220-global-and-united-states-face-recognition-turnstile-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
   - title: "Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027 report by QYResearch Group. Lidar for Self-Driving Car market is segmented by region"
     publishedDateTime: 2022-01-03T06:06:00Z

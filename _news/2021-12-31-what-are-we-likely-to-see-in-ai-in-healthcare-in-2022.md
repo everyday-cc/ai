@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-20
 webUrl: "https://www.linkedin.com/pulse/what-we-likely-see-ai-healthcare-2022-sandeep-reddy"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: LinkedIn
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI In Healthcare Highlights & Milestones 2021"
+    excerpt: "In 2021 companies using AI in Healthcare made significant progress and reached many important milestones. We have reached the threshold of a new era in biomedicine where advanced analytical and deep learning methodologies hold the potential to vastly improve the way we understand and treat disease."
+    publishedDateTime: 2022-01-03T22:24:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-highlights-milestones-2021-margaretta-colangelo/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEWk9x293v1PQ/article-cover_image-shrink_720_1280/0/1640804991983?e=1646870400&v=beta&t=Zo-SJWd57KbwfXXri2xw678-DFxSz0oZH3yHNJqsuAo"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Survey Finds Healthcare Execs Bullish on AI"
     excerpt: "Optum's fourth annual survey on artificial intelligence in healthcare finds that nearly every executive either has an AI strategy or is planning one, and almost half are already using AI technology."
     publishedDateTime: 2021-12-30T17:36:00Z

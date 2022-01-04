@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Ethical impact of AI on health, safety and wellbeing"
-excerpt: "it takes a gargantuan amount of energy to run the computational infrastructures of Amazon Web Services or Microsoft’s Azure, and the carbon footprint of the AI systems that run on those platforms is growing. [2] ” I am currently studying for a Masters ..."
+excerpt: "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing."
 publishedDateTime: 2021-12-29T10:00:00Z
-originalUrl: "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/"
-webUrl: "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/"
-ampWebUrl: "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/"
-cdnAmpWebUrl: "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/"
+originalUrl: "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740"
+webUrl: "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740"
+ampWebUrl: "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp"
+cdnAmpWebUrl: "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp"
 type: article
-quality: 76
-heat: 76
-published: true
 
 provider:
   name: SHP Online
@@ -27,6 +24,6 @@ images:
     height: 443
     isCached: true
 
-secured: "dsExtX6PHj75NPbSP6wy88I8HnOj0TtG3p9FRjkByKg7fAG/hbdY68nRzVZyjQ0HgUkIFPVjahP8cZW7foOvfTvuesdjPN7Pi0YXjjuv8EmAuLzDmHtGOC6cwCoUckBLMv/Z2JxekD3pBz02srVHCktd511KrWL7pgv8gVFAHX15aJJQLEncsIJtSIGKFDhM3TVyZp+5YRNv9GSvwTfJ6hcY+t5aGexwZKaUaAcH/cHVqJjgfza5qhMPaGMIukeWsO8pq4iTO0PiFXH/hXPWfRQa44iRXE7IWPJ0cZsexAsI2SCeQlecl917prwJhD8DLR9VUghqDry2bwMp/Gtev0HrVsCeAZN8K9WD6SQdh3svvql+SOJqfJwB0WBbAOlGHEg/BDxEiCLytUeWvK9uYrzsFqWb0AiGoNdjjeCvz4kr7vcYEdfarSg7jOO6WwdNeVO8foLIEvl+lvwr9YSqT19um+B+2U8GlfsM8gyXJQNaquX5EjZwaTtBjaIiXUjQo28JAIx1r0UqYyv66IzTKQ==;dnmyIn0PbmJlIMbGeJIaLA=="
+secured: "qc17oNysIgP7/PBOVIg7WbSdqk2Hl/iSTIvUysfoReUCprc+qWXVTU9sabYvw4+zvyJQ4jDS4SjBWW4A7t1LXmOY5coTbEXXI2JWpf01wnhooetTEzZ+i3Y1a7APgBxr/HC5pYC50s+dLcK0iJ4TMR56ip/dpBehtbnyNc3oaBtCUL2GuoDywWtyAyLG5VZBXCwv3KTIjUQH/ukKu3CPHmlKp5cCAx0TKb+7a1MiWR5E+KvuBrMCDR77DUSshlkzAs8CVt7nLQg/KNj4q5dhNH9EkhT2N/tSRLcNGHxu5xb5uN6ZqRLMTHXPZcmNHGgPNohtRFOCUsB6DEQuVG99EP5fOEUqeqactYI5jDQcZd0=;lB1l9ypwNazlLtAcEKvA5w=="
 ---
 

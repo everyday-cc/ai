@@ -3,16 +3,16 @@ category: news
 title: "Metaverse, AI and and other big digital trends to watch in 2022"
 excerpt: "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,"
 publishedDateTime: 2022-01-01T14:57:00Z
-originalUrl: "https://www.bristolpost.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
-webUrl: "https://www.bristolpost.co.uk/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+originalUrl: "https://www.nottinghampost.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
+webUrl: "https://www.nottinghampost.com/news/uk-world-news/metaverse-ai-big-digital-trends-6429904"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Bristol Post
-  domain: bristolpost.co.uk
+  name: Nottingham Post
+  domain: nottinghampost.com
 
 topics:
   - Facebook AI
@@ -35,6 +35,6 @@ related:
       domain: theaustralian.com.au
     quality: 0
 
-secured: "6WZporaRAkmlxZ6zShmlwPMjpMRy2JnAsnyJuAyOkZpk4B7LzKzPa567OJDDd9a/skchD88F1duSyz8A6Vpj7MH1D0+aBK0HdTI6BKCSngiVcEXtHwoy6FUrEqTwyHsv1/BpBZl1jufCCsMUDytN6ePqkfeFbnTsKpd61vI16Y0LW1kdy683WjEvX8wWQO9c9Tgp8WeiWKE9jqKC3NYl4XR1iK44XcTiLABvbUgQVdiNPELZCBrAL2s/LhOuSlvMtHzoE4HLmHiVcbFBGyn5EXOJED2gKUSKECGh/SL6tmapIdvpNEZc3hdYkTzvXIfOG9/yCAhPopbx5dkWrALQ3eJ40NHe7vhSruXTBkJykHs=;nfk5PJsl1Y4ZQobQzu/veQ=="
+secured: "t4h/0i3x3mMBbcJuM6hWv405zN36vDGYVy+1zXunB6hN+pNfnbP0kPvSvhSBMwRDCpPEYfFCR6xvKzdIEIXQtp0+NKyayqgK1rPqPCJZqj8/lG+N1IW+0eZ3vLDLQmbX/tEU9tZzvS37s3D04+2UWOEqSfFK/+O5qHWRmSo53P9WxdsqmMfE2G7Mdhgo8S6iLSXb5vkrbuymVbmgR+FrXa748RNtI/qTKf/QcjYQad9QgFuxWnl9VE45J0jK1Bj868xPAto9oDgTpa83CQrz9EEZDmPynLONKYvnyk9u8VkUH/VFa0JywOJDlBJ7p758hWV6xUGHQv3RvS11tzxddLOIPIjR/xeOkjn2LQP9K+A=;+yCpPireNfvYWozcWYlmSQ=="
 ---
 

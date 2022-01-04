@@ -39,6 +39,20 @@ related:
         width: 1016
         height: 720
         isCached: true
+  - title: "AI In Healthcare Highlights & Milestones 2021"
+    excerpt: "In 2021 companies using AI in Healthcare made significant progress and reached many important milestones. We have reached the threshold of a new era in biomedicine where advanced analytical and deep learning methodologies hold the potential to vastly improve the way we understand and treat disease."
+    publishedDateTime: 2022-01-03T22:24:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-healthcare-highlights-milestones-2021-margaretta-colangelo/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEWk9x293v1PQ/article-cover_image-shrink_720_1280/0/1640804991983?e=1646870400&v=beta&t=Zo-SJWd57KbwfXXri2xw678-DFxSz0oZH3yHNJqsuAo"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "LdsI62WpvTBlouNNSt0kxX4hwNqNfqMrybVrzwNhBOMakqFWLoo4oeoOYNpoJ6ZYi+pVOES+RqjguKK2I1FKBpDaPxsVVxheaiUINX42BajPLJNsVrHhVfv1kIy9+zLqEVGF0V5ZLfcD4cmUOJ/Izll0RaVGuRTVrqFQtTHO1MKdXGuEFm/47qNDqNiHfbFgbivl3z4h2YBbOMtfl+wEzLUaofzY220t0VshE5VFcZnkEq8uEAmM20NGSS1EeAmNWqA1tt9orLIeSrVLf4IwI3ijlJiSfgC3RtTc2W/cJnPahCH7vR1mtPjXYGz4SknLY4nAjVaPTpvQ8uj31Hp3IqIEQnMEN1GoTcCt8Xs7erI=;CsNlXtkdz4BAj7I3ECtVtg=="
 ---

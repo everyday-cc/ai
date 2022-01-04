@@ -1,28 +1,24 @@
 ---
 category: news
 title: "SoyNet to introduce AI accelerator at CES 2022"
-excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held in Las Vegas on January 5, 2022"
-publishedDateTime: 2022-01-01T02:00:00Z
-originalUrl: "https://www.asiaone.com/business/soynet-introduce-ai-accelerator-ces-2022"
-webUrl: "https://www.asiaone.com/business/soynet-introduce-ai-accelerator-ces-2022"
+excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
+publishedDateTime: 2021-12-31T16:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
+webUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
+ampWebUrl: "https://www.benzinga.com/amp/content/24847305"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24847305"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2022/pr-newswire_500_4.jpg?itok=Nz-7ue_n"
-    width: 600
-    height: 316
-    isCached: true
 
 related:
   - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
@@ -33,7 +29,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
         width: 400
@@ -63,6 +59,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "kiVSSK/DXhDWLuA36Uo3RqMqPpoMbex4kQi519ndWIH4Sww42xTiPF8CFXEyTqUyUDVVdOlvQSouJEAEC5y+dxeVWSE/MnqzPk5ayvzVsGwCIjxGGX0ZyVZkVN7b4u0Ags36OhRrCjemlTb5cRAhXpkRS1qvxbcYBAHXFEMPFiiHdpYiEiwWohVWb7vIMHcN7nLWAkRp+9b+vFzZXpIlDidVv+LrHiOI3dRiByQnQVioRI0rkYdAOtj17VCQXnl1qZVv05JvMRTEDAdZlgIx+j2szgmUfIeMvw8+jJjAiC78HpzoH7x7MwjmiFDo+HWpZyZZdaTO/BxulHDqCyezNg2i3Iy6Kw8HS7HBD5K8ipiedVhvwhMlkCEyNs5xQyOernbvzlYFTA7/PrMw81pOOO/lJJb2k1sIGCky+qBuvEmkOQ9PQvIb+it38w3/dvepLZS1cfJ+ZNkZ/IiH9s6sBfsAVlmrc4/nLpc4AuDCTASgQwy2lS9THzZRcLa+zc2e6Dqje8/C7isbGVQjCShqTQ==;wQ8WU7ixgWdQqkB0Yr22nw=="
+secured: "Fgj5sTixrnNrP6rl+hxA8d80Krr1iF9mLcnEygWo1zxKJA4apC6uAjfdEPy6u3uipVOYNvFWECvmNDjL3Qx9+rBB/7L1L7WLV6u0Oyd/LMKHUrbpTFpMZnqHokB995mnwO6PBVWZHAZPYG7DCawEbi5rZpKHQFQQzIuU0hm3DMhd3FgKb7RubTleikve1j9n9lLBJ5xVW83rVA1QfLzk4RmesfhpT82eqifd0IQ7XYy8v+nqH9FiEjaAs3w+1Sc18YhldZS56i0TQ1//JJjOzPN71yoBirT/925DVWQKHF0/CAKspRa4xDzrSJVzM5aRNxyV03klboZXA1t1wXYwrRDP7rIB0oTMvQYLdiSuPWw=;ms+5tZf3ZS5mbuW3IpADIw=="
 ---
 

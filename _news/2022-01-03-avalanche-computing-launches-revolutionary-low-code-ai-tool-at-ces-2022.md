@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-03T14:33:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
@@ -25,19 +26,16 @@ images:
 
 related:
   - title: "SoyNet to introduce AI accelerator at CES 2022"
-    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held in Las Vegas on January 5, 2022"
-    publishedDateTime: 2022-01-01T02:00:00Z
-    webUrl: "https://www.asiaone.com/business/soynet-introduce-ai-accelerator-ces-2022"
+    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
+    publishedDateTime: 2021-12-31T16:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24847305"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24847305"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 39
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2022/pr-newswire_500_4.jpg?itok=Nz-7ue_n"
-        width: 600
-        height: 316
-        isCached: true
   - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
     excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
     publishedDateTime: 2022-01-03T18:38:00Z
@@ -62,6 +60,6 @@ related:
       domain: tmcnet.com
     quality: 4
 
-secured: "68K9ThhffIrYGdqIWz4cyg6tN83ceT7s7YPNM9Heeg0mQj2etd6V5wrjDtU5nzuiET6xUFroe9zgi0djrIZ7cJKfpccR8PYRL05Q06slU1Y/Js+8LnXHZdezdQDaoQ8ecaYmBDUFbqcH0jTzyLLBmVrC0CBddKM09ggm8+KJywX+d7pESw/sY+QScTwB4xPTa756lVgd2MIBu+FZAA3bRdAtwPXVLFDQY/VxaVBqHs329oITdFQPrWhPei32GhhL/ZTKuSw7hSMZMi1y+tL2DiyNNzWZH6CLabVoImR5gLFIV2K6kDcGyqFvI+fyEnosY1sTpP2MNVaGha3x+2OTjgO+9pMx0rNrfLiK0V+x29Y=;PtXL6fOtEVtcmn2SHlZHTQ=="
+secured: "TrSC7IBUq90tIEfSck0IVhCfrgzD4KFpx7COiGx3D+1+rIbFw+MLtTDed2SqReD4SfvrlOfIyRZMXy3gha7RsJtPv0IlI2zvArrDcRzQFJTIGtfjEAg5Ahb93QpPtCce2ymJPs9RqOHX70S7QQchidYEqiYZufduJctyL/2PlYQXS+Yd/LVJjVaLGZQYl2s4HQXNkhnPuQSwDcoDwj0wObYTLDCcVSUFCZPtdVUtxrnhfpt5jBRTtABdBvufPJn/kOexh5Bp1H9bbimBFvaQZ9T9xhHwcBi8Cxpgo8/WsuqssWX1j/MhvwbSz42XPNOujFFGB9EHXu0VfPsUUzQhdEr9ZgvSi3/eUJ50nAewXzg=;/NLO+rSJUhIxW813863AlQ=="
 ---
 

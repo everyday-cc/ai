@@ -14,6 +14,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

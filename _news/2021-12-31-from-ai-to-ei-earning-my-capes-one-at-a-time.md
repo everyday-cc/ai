@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/from-ai-ei-earning-my-capes-one-tim
 webUrl: "https://www.linkedin.com/pulse/from-ai-ei-earning-my-capes-one-time-emmanuelle-blons"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 659
     height: 363
     isCached: true
-
-related:
-  - title: "Hey AI, time to earn your keep!"
-    excerpt: "Comfort that organizations have with AI have reached a point where they can expect to see their investments in AI pay off"
-    publishedDateTime: 2021-12-30T08:53:00Z
-    webUrl: "https://www.dqindia.com/organizations-have-with-ai-have-reached-a-point-where-they-can-expect-to-see-their-investments-in-ai-pay-off/"
-    ampWebUrl: "https://www.dqindia.com/organizations-have-with-ai-have-reached-a-point-where-they-can-expect-to-see-their-investments-in-ai-pay-off/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/organizations-have-with-ai-have-reached-a-point-where-they-can-expect-to-see-their-investments-in-ai-pay-off/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/artificial-intelligence-4111582_640.jpg"
-        width: 816
-        height: 400
-        isCached: true
 
 secured: "Pxol7bUknileBXhgHQ76kaLUKRqMwSVlqXI4YGSl+Dg/NoKchbG93P3B116HsVtTdLJxxBgUu95JaT6Xrsr5rQ/7Fjw+StNvXWw4HQiMELmI26T/vyLOtjFsbx51l9kmR/f2bzLGdX43IIzKjsP6I4Us4yl6wR8Z6ran1w7jCcX/UC0ux9pGiF86aIaKqgnXPaB8NYc/8uJ2M66pI5cAW6ZS5ZJzteqp9w9GLFKIj5BrcCZAtbKXHIscuhdcg8Uj6pjJrKW8TzJW8PTmaIOIv5nOcQl8iby2n1qDrJF6Go8Wy4Dg4rFvQnHT3XC0ldTDO5I5qGATyQ/+A6Z7Li8s0OIokfME849+KqLyTZjvXhU=;MHZmyoQInYZpdQF/Cay5LQ=="
 ---
