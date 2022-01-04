@@ -24,6 +24,22 @@ images:
     height: 600
     isCached: true
 
+related:
+  - title: "Final project for the course of Deep Learning"
+    excerpt: "Alberto Bellumat ( alberto.bellumat@studenti.unitn.it ) Final Project - task 1.ipynb: the notebook with the code for the first task Final Project - task 2.ipynb: the noteboox with the code for the second task entire_model."
+    publishedDateTime: 2022-01-04T22:06:00Z
+    webUrl: "https://github.com/dipperalbel/deep-learning-project"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/00a08fc821100b2a422f910afe5ea25aa4ae91244efb96d35f6ad629b5deb370/dipperalbel/deep-learning-project"
+        width: 1200
+        height: 600
+        isCached: true
+
 secured: "N78VHZuDPM0hEtIXkQu+QG13rKxwso2v1/89HUXtQ11OKHzqGZi0VOIorOvhmsbP30fM1XcR1fGsleCNPZZ2cUfhlLPtDw4Z2JUo8TaIcxoqpOHrOAb2Su36MDRzhy1oD50Y1d3K3h/30/BMCN0MQtNyXDJmSe7Nc/ad79EoRDzPBOOU7rqmkdMpnng6/WKl86u1nUYOMxcZLidB+4WpC5pUmdJT5NCE/AnPqPY2nsnhXb7cjUj1p1/jcVECR5mbVdVQZnYcK+5Q+V2kU/c8JCjBPM5WqE8VrL/I6r9iNJ4eptCUkE9vYp+szeymz2sO2LjFY0FSj9bkxL8DvJF46/mk3yfZ5gQ4l7w6D1U0/Y8=;smnSmt5+ANcfJQW/XOEl1Q=="
 ---
 

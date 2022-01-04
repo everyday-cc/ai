@@ -7,8 +7,8 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/75-percent-b2b-
 webUrl: "https://www.datamation.com/artificial-intelligence/75-percent-b2b-sales-organizations-ai-selling-2025/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Datamation
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION"
+    excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led by ICCP SBI Venture Partners (ISVP), with additional funding from SEEDS Capital,"
+    publishedDateTime: 2022-01-04T22:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-selections-solution-1031077866"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+    images:
+      - url: "https://mma.prnewswire.com/media/1715264/Image_for_Cision_PR_Newswire__Series_A_Funding_Campaign__Nina.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Obstacles and Opportunities of Democratizing AI for Organizations"
     excerpt: "IBM’s Global AI Adoption Index revealed that a third of those surveyed will be investing in AI skills and solutions over the next 12 months. More expansive use of AI democratizes AI, providing access to insights to more people – technologists and non-technologists alike."
     publishedDateTime: 2022-01-04T16:02:00Z

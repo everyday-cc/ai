@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 678
         height: 408
         isCached: true
+  - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
+    excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio - the Snapdragon Ride™ Vision System - a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
+    publishedDateTime: 2022-01-04T19:21:00Z
+    webUrl: "https://www.publicnow.com/view/E93501B729CEED4E7D7BDFEE65B9D8BBD6666CE4"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 0
 
 secured: "H/pJ84l//y7ZA/5p/e++MXQMB1Gbiu8qLUHxeQgwHva3usA42whKnX1e6wtuZtXn9ZVyukZ4O/e4TbRxLvjUb16lRIrctBobf3Mzcqd5frIOyqAeK/CEQAkvePapfEpJH5riKtosdrTQcHalrAbFgPrjrXEzdYD3TW84mKIncViCEADIIZ5Vb2uRkIrJ5tNluzprLFqc5mMS5/mY2ivej3CEM8g1wg0wGMcVKCEbRO9o+xQAHFT22Lac/Ay9WR4BP4YcfuYFjgUyjnlTJ5I7tmQBzXQR6McxHr/YsoCGQGkdofJbGcZMU0XDeHgD3I9zdHOF31vKgmy0ZotMVNn/bawz8wpTcqyYRktCJF15yVY=;CY0FNeQ+Ei1sqbUICqc3hA=="
 ---

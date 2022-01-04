@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Cars are getting better at driving themselves, but you still can't sit back and nap"
-excerpt: "A lot of new cars can drive themselves down the middle of a lane and adjust speed to match traffic. Some even let you go hands-free at times. But they all require very close supervision."
-publishedDateTime: 2021-12-22T10:00:00Z
-originalUrl: "https://www.michiganradio.org/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap"
-webUrl: "https://www.michiganradio.org/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap"
-ampWebUrl: "https://www.michiganradio.org/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap?_amp=true"
-cdnAmpWebUrl: "https://www-michiganradio-org.cdn.ampproject.org/c/s/www.michiganradio.org/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap?_amp=true"
+excerpt: "\"There are exactly zero self-driving cars available for purchase ... they can have clear safety benefits. Baidu Apollo Robotaxis move on a street in Beijing on May 2. Chinese tech giant Baidu ..."
+publishedDateTime: 2021-12-22T10:07:00Z
+originalUrl: "https://www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap"
+webUrl: "https://www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap"
+ampWebUrl: "https://www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap?_amp=true"
+cdnAmpWebUrl: "https://www-wshu-org.cdn.ampproject.org/c/s/www.wshu.org/npr-news/2021-12-22/cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap?_amp=true"
 type: article
 
 provider:
-  name: Michigan Radio
-  domain: michiganradio.org
+  name: WSHU news
+  domain: wshu.org
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/26c5838/2147483647/strip/true/crop/2795x1573+253+0/resize/430x242!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F85%2Fa0%2Ff83dc01f449aa6742b746f2bf946%2F2022-banished-words-poster.png"
-    width: 430
-    height: 242
+  - url: "https://npr.brightspotcdn.com/dims4/default/6b99e63/2147483647/strip/true/crop/3205x1974+0+213/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2021%2F12%2F20%2Fap_21140129870069-852dfa883cd757930c04f9432840a9c0f8044504.jpg"
+    width: 880
+    height: 542
     isCached: true
 
-secured: "wgUI3Wpcyy2LvRelGobp4TgyFq4wb/Au5pISdMEL9JyP7sY8cRo2ZByJqSdYCPVhPU40oTYZYSSYLW8ly9o4z2c2G/ZDTJdiyWd/6Ruahgg0XLG+epGkxMfvATevkXOMNYrC7sB9ca3ZNwEfOvDA64N1X/UT8jvlY1zuENt/ajh6m4pnXyjq3PKwPW7rupdwv+k6FDlxL4nWZv/8R56NlxAom2/7Kv4f8l2crkrTq4L574wYJwmJIMXTjHQEvlrOVGDe8OQ/D/nVL5D56dkzgEKrfUUOZsCtrhHesXgnLv8e2ITewVHSJHCeKw+LqYWX++1Zf5Max++k2OaJ6lWcB93GhDcZnCeTXEEskRd0x+4=;dLhvbWmn8hoMADq3hHkvoQ=="
+secured: "jF82cxaRJX+T2kRJ0WsCFcp8UXxQJYsm/hQgiaii4CjmyEEIYmy9I3kQo6XAIz0BiLEGVDxZMm2du5KE4BjTGzgSwURwx57iTXKtVvNBkLtydmkSmeFGKTA2tc7lJ6OvohZeE64bkRBKXCsz4lRhZb4wKiXdEzb2dOQbr1HyYy016zYDkYyIaBHPLSJDdvTPRBe+9p9z1HY/asBEN4l3yoyagMcwJkGBLQ6eE8p7ORYRo7jbOwoujYZQnAWsk0QlafmaUCjrqb44SJJvu3pHAVU3DS/EksFEi5R2G7xqrK2+oKTxXZsFNpP85wdL4COTMku0vPFa3IMaWDH7i3wkx4WUOR+qj9bBFGiWZCp+cb0=;aB5iLCFEDeVNLtKxm/uqSg=="
 ---
 

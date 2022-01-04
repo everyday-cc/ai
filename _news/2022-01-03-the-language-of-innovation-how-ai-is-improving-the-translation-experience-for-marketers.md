@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "OPPO is creating Innovative Experiences with Artificial Intelligence as it unveils its Smart Glass Technologies"
-    excerpt: "The keen emphasis on innovative mobile technology experience is bringing the likes of Neural Processing Unit (NPU), artificial intelligence (AI), and augmented reality (AR) to the forefront in Nigeria and major global tech giants are not leaving any stones unturned in the drive towards creating smarter cities around the world."
-    publishedDateTime: 2022-01-04T11:51:00Z
-    webUrl: "https://www.bellanaija.com/2022/01/oppo-smart-glass/"
-    ampWebUrl: "https://www.bellanaija.com/2022/01/oppo-smart-glass/amp/"
-    cdnAmpWebUrl: "https://www-bellanaija-com.cdn.ampproject.org/c/s/www.bellanaija.com/2022/01/oppo-smart-glass/amp/"
+  - title: "Report: 43% of consumers feel transparency is key for positive AI innovations"
+    excerpt: "With the AI market growing at record rates of adoption, creators must be more explicit about AI's role and the support it provides."
+    publishedDateTime: 2022-01-04T22:20:00Z
+    webUrl: "https://venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/"
+    ampWebUrl: "https://venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/amp/"
     type: article
     provider:
-      name: BellaNaija
-      domain: bellanaija.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 84
     images:
-      - url: "https://www.bellanaija.com/wp-content/uploads/2022/01/IMG_1305-1000x600.jpg"
-        width: 1000
-        height: 600
+      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1269240296-e1640790933586.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "xJmz3Z6Grz/cEFXcKvcS2xdK2vtwpYNrNmvH5RKiDDn9+iaSKsjkjIvPoS+TUBauAMJUZron6TwpxsePEQUeAKBcEd7he4M7OX4MIbL5G2Uyj9d1JPJnE6oN/mL5DNr/LC3qgdX8tnBWqtVt//UMg3ZPkgiqWQSOXirEK9D41S32eRQ0/SR+TltLT5LWcaxRZRKXiKHXWUqQ84namxo2yA1fpYppF9rmM8VBGz8abJ7RE+MYVCjz/Lyi9ngCQw6vxH3Bv063f3M6lYXnyj6yQkqIQyak3hWRsI7NB4WHBOyvyDj4/hrHJvyGNix6yB2ProTjvtdSJwLD0+4WQ64ax6O2FaeHpvlmnwjC9QivdIM=;lGohn06l7C+shJ9azf1+Mw=="

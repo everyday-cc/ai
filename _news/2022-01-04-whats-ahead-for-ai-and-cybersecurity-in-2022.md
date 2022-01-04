@@ -55,6 +55,22 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Google Acquires Israeli Cybersecurity Startup Siemplify for $500M"
+    excerpt: "Google has acquired Israeli cybersecurity startup Siemplify for $500 million, with the company joining Google's Cloud security team and its Chronicle operation."
+    publishedDateTime: 2022-01-04T21:08:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Google-Siemplify-acquisition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Ways AI can help us enter a new age of cybersecurity"
     excerpt: "Artificial Intelligence (AI) is becoming better as we speak. From business operations to home applications, AI is expanding rapidly everywhere across the globe. AI is proving helpful in various"
     publishedDateTime: 2022-01-04T09:52:00Z

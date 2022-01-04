@@ -69,6 +69,22 @@ related:
         width: 770
         height: 330
         isCached: true
+  - title: "Google Acquires Israeli Cybersecurity Startup Siemplify for $500M"
+    excerpt: "Google has acquired Israeli cybersecurity startup Siemplify for $500 million, with the company joining Google's Cloud security team and its Chronicle operation."
+    publishedDateTime: 2022-01-04T21:08:00Z
+    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/"
+    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 42
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Google-Siemplify-acquisition-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Developing AI and RPA across DHS; cybersecurity and cross-agency collaboration in 2022"
     excerpt: "On the latest episode of The Daily Scoop Podcast, DHS CTO David Larrimore on cutting-edge technologies at DHS components and Scoop News Group’s Billy Mitchell and Jeff Stone preview their top stories for 2022."
     publishedDateTime: 2022-01-03T20:31:00Z
