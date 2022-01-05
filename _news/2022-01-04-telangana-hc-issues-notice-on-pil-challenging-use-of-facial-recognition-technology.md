@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Telangana’s facial recognition technology comes under scanner"
+    excerpt: "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places."
+    publishedDateTime: 2022-01-05T19:05:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html"
+    ampWebUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/01/05/1600x900/aa424bd6-6e53-11ec-9428-b30a84c15666_1641409525856.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Telangana HC issues notice to govt over PIL challenging use of facial recognition tech"
     excerpt: "The Telangana High Court has issued a notice to the state government on a public interest litigation (PIL) filed over the use of facial recognition in the state. The petition, filed by Hyderabad-based activist SQ Masood with the support of the Internet Freedom Foundation,"
     publishedDateTime: 2022-01-03T13:09:00Z

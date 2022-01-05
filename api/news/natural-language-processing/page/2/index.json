@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-18-ai-weekly-novel-architectures-could-make-large-language-models-more-scalable.md",
+      "title": "AI Weekly: Novel architectures could make large language models more scalable",
+      "excerpt": "Large language models are currently difficult to scale. But this could change with an architecture called mixture of experts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/",
+      "originalUrl": "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/amp/",
+      "publishedDateTime": "2021-12-17T11:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-why-innovation-is-critical-for-voice-technologys-diverse-user-base.md",
       "title": "Why Innovation Is Critical For Voice Technology’s Diverse User Base",
       "excerpt": "Today's voice recognition systems are, at best, plagued with imperfection and, at worst, discriminatory in various regional and other dialects, accents, patois, brogues, drawls and lilts.",
@@ -1375,58 +1427,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-3-impacts-of-ai-in-the-machine-translation-industry.md",
-      "title": "3 Impacts of AI in the Machine Translation Industry",
-      "excerpt": "Given that there are over 7,000 languages, content creation ... One of the key drivers of the advanced AI software being deployed for translation services is the access to huge datasets and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/394440",
-      "originalUrl": "https://www.entrepreneur.com/article/394440",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1637701700-shutterstock-687742111.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

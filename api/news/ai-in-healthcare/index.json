@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-05-top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022.md",
+      "title": "Top 8 Technology Trends to Revolutionize the Healthcare Industry in 2022",
+      "excerpt": "Let’s have a look at some of the best healthcare technology trends that can revolutionize the healthcare industry for the greater good.",
+      "sourceUrl": null,
+      "webUrl": "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/",
+      "originalUrl": "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-blog.credihealth.com/wp-content/uploads/2022/01/bermix-studio-4ov6VgaiiX0-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-credihealth-com.cdn.ampproject.org/c/s/www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/",
+      "publishedDateTime": "2022-01-04T21:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stress Fracture",
+        "domain": "credihealth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh.md",
       "title": "CES 2022 Innovation Awards: An airbag for your hips, a hands-free selfie drone and VR for ADH",
       "excerpt": "This collection of products from the CES 2022 Innovation Awards will help your life in ways you never imagined.",
@@ -1325,40 +1368,6 @@
       "provider": {
         "name": "WBOC",
         "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-predictive-of-response-in-aml-patients.md",
-      "title": "Cellworks Personalized Therapy Biosimulation Study Identifies Novel Biomarkers Predictive of Response in AML Patients",
-      "excerpt": "Cellworks Group, Inc., a world leader in Personalized Medicine in the key therapeutic areas of Oncology and Immunology, today announced results from a clinical study using the Cellworks Biosimulation Platform and Computational Omics Biology Model (CBM) to predict therapy response for individual Acute Myeloid Leukemia (AML) patients were featured in a poster presentation at the 63rd American Society of Hematology (ASH) Annual Meeting and Exposition held December 11-14,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-/2021/12/14/9510699.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-cellworks-personalized-therapy-biosimulation-study-identifies-novel-biomarkers-/2021/12/14/9510699.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T05:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -135,6 +135,34 @@ related:
         width: 1081
         height: 537
         isCached: true
+  - title: "GM says it’s aiming to sell you a self-driving car by middle of this decade"
+    excerpt: "General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade. GM has missed its own self-imposed self ..."
+    publishedDateTime: 2022-01-05T20:48:00Z
+    webUrl: "https://krdo.com/news/2022/01/05/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 37
+    images:
+      - url: "https://krdo.b-cdn.net/2020/07/krdo_ls.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Deere ploughs ahead with self-driving tractor"
+    excerpt: "John Deere demonstrated a fully autonomous tractor at CES 2022, touting the tech as a way to increase global food production."
+    publishedDateTime: 2022-01-05T17:21:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/deere-ploughs-ahead-with-self-driving-tractor"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 24
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/01/tractor.jpb_.jpeg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "zf1pDy5TQoJJ/mZmsujah9jgEiaAd+caok7elFRSwKK0rDCDx8i0NYl//cszP7b5FB++lvjCZ4dkJ3fa9Nv8svKuewy7ZOaO2OVXirzR/L5uvq2iKtFlJNG1s5ILTMYCao0lrN8J7Kufo3VGw5GLt0CKbZ9nj3IJvN9YVlmhnqvH8Gmu2uxbgU6QAcRpbRtQY3SuFmtWGGOtI1VSt4qEJbTUOKTNoJadRLSEJcYuKu4v3EG1rb8MrAeuQnU+nBoMzM67z/Fig/XdL5WoYdZwuKdCe6NlmxZpAISW46ndJOjoa8EA/Qcv1jfLcLw1Kum2O7yxUAXsL8SCAtj5PKY0rF1aylklGpuCcEMOETOR7bI=;q4fr+T5JePLvqUge0CVBtQ=="
 ---

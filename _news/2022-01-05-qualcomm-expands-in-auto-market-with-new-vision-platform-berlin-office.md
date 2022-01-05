@@ -65,6 +65,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
+    excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio the Snapdragon Ride™ Vision System a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
+    publishedDateTime: 2022-01-05T19:49:00Z
+    webUrl: "https://www.newswiretoday.com/news/176884/Qualcomm-Introduces-Snapdragon-Ride-Vision-System-an-Open-and-Scalable-Platform-for-Automated-Driving/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
 
 secured: "Vt+7iFpf3OnteeZNtLK49pDj7AP5uTnKu56yeQHMnHPoxGMt6EWk0QGlUbXpy3HS5iPuDMYGDvO97v5lgB7CwpR345RJWKsTrKAg9IYIBftHJq3iTbuxLGDWnpftleMC2DdaztZ9PS5zq9xubsJ5R/MvSjPHZxJR/Q3bEVY6gian2J6ZZLrTXykRuARgiQvoOqM+psGp78SuJ8Y47Zhi3Y4qUJQYpGybbCxFbN+3g8/CJmvM9NrqMOjyxGKTECN+/1Vx60rLm9lrRdwbCBR8K1vTGP4R3f9eLBHpMmNLWeuiLBE0dB9IF23Jtg7PlcRY6NB8BLALPGf2AKYTnGtSvzf+JiebbD1Im5NWv8Xu9Tw=;Bhez4ZtJr5FUPx7ijCTsxQ=="
 ---

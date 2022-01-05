@@ -3,8 +3,8 @@ category: news
 title: "Lenovo™ Selects Synaptics’ Katana™ Ultra-Low-Power AI Solution for Yoga Tab 11"
 excerpt: "Synaptics® Incorporated (Nasdaq: SYNA) today announced that its Katana platform drives AI-enhanced voice processing in the Lenovo Yoga Tab 11, the latest member of the Yoga Family of tablets. The Katana system-on-chip (SoC) uses proprietary neural network-enabled hardware and algorithms to clearly discern and capture user voices and related commands in challenging environments to ensure a robust voice assistant experience in Lenovo’s Yoga 11."
 publishedDateTime: 2022-01-03T21:32:00Z
-originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-lifestyle-yoga-67cef2b199044c90b639f9c86a4384da"
-webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-lifestyle-yoga-67cef2b199044c90b639f9c86a4384da"
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-lifestyle-yoga-67cef2b199044c90b639f9c86a4384da"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-lifestyle-yoga-67cef2b199044c90b639f9c86a4384da"
 type: article
 quality: 35
 heat: 35
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "3JAEliwuJOS3HLHS3Io77FKzc1sKajGelt0c0GsfRmzo9OaVgWIi/5cabwn8BH2UYSbOVZhXG1ZMGvBGq2Re79qDsH8hZrqwyXY0snDIQD0Imco7x5CAPSfbc8/BYzQ1Zv8vCj1fjjt+y/PkNYtjCOY8dti4XDvQuDkk+u7dMy6RCOjhRfNkpc0ecFc+jr7orKOuYbQ+Q1pmFGwgm99pH/uSq9N4s/YfNFmwJ2IXgKRpgmqZR2ZVJWTr2Tm3kZHNUiYvG5NF8r/H2rWEQ57ub8B0diRe59KhLgv4wALsPaAubPHuz8dG0JGNyP9nQnpO5ronQgmZzXl+5Z9mPB01OuvS8bdSbzWb1eG8UOCfFEs=;ja6xNhPnmtfNdhCpSDgkHw=="
+secured: "y4ON+HcvVRkbyuovuYm3lIjwfmbxGUNFP5+klO6rcJfQoB5+9V33qCm8GqteWigU2FwNlXc6IYhNDJYmDh4smfVY1BI0gweC+wGnWNu+6Kjg/9o1oM+MJnqz0gFoZGHbj76nPj+KF5Kaj+J2ySUSHs7vEmzpWN+8vxBAKoKbWUi94uBw0e0WmTVLKhUgophjoEBTyXFLm7tvoi73XVYutv6SK6gKe7ZoYpZR9poCqxyvoK20geYT1jEBOaUg4g4bdtGvT9TkAkKtSTeH1/kMKfjLoLxZQl8UEsiEC7l2KzO6bbH54Qi9e93yrvWf9uFsFDX6jTRl+G1Q7Yc60cgLTTtXkZPwBM4qskSzGPhSxHs=;sdfbPgrT9d/Au7/DZbDkSw=="
 ---
 

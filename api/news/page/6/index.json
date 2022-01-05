@@ -2,6 +2,128 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-29-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
+      "title": "Ethical impact of AI on health, safety and wellbeing",
+      "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740",
+      "originalUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s32891.pcdn.co/wp-content/uploads/2019/10/GettyImages-1051617224.jpg",
+          "width": 800,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp",
+      "cdnAmpWebUrl": "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp",
+      "publishedDateTime": "2021-12-29T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SHP Online",
+        "domain": "shponline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-is-c3ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs.md",
+      "title": "Is C3.ai Stock Finally a Buy After an 85% Decline From Post-IPO Highs?",
+      "excerpt": "Stock Market News, Stock Advice & Trading Tips. Years ago, I watched an interview with Tom Siebel, founder and CEO of C3.ai (NYSE:AI). I was completely enamored wi",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs",
+      "originalUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp",
+      "publishedDateTime": "2021-12-29T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-bavards-conversational-ai-technology-now-powered-by-aws-for-better-partner-integrations-and-scalability.md",
+      "title": "Bavard's Conversational AI Technology Now Powered by AWS for Better Partner Integrations and Scalability",
+      "excerpt": "Bavard, a leading conversational AI provider offering businesses a better way to support and engage customers 24/7, is excited to announce many enhancements to its platform, including now being powered by Amazon Web Services (AWS),",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_12670_16407596930316574.jpg",
+          "width": 350,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12670",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12670",
+      "publishedDateTime": "2021-12-28T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time.md",
       "title": "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time",
       "excerpt": "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it.",
@@ -1011,143 +1133,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-china-has-developed-an-ai-prosecutor.md",
-      "title": "China has developed an… AI prosecutor?",
-      "excerpt": "AI is so pervasive in China, that it’s used in everything from online shopping to… let’s just call it 'Big Brother' activities.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/",
-      "originalUrl": "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/12/andoird-judge-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/",
-      "publishedDateTime": "2021-12-27T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-report-meta-boosts-metaverse-push-with-help-of-synthetic-data-startup-aireverie.md",
-      "title": "Report: Meta boosts metaverse push with help of synthetic data startup AI.Reverie",
-      "excerpt": "Meta Platforms Inc. will will draw on its acquisition of synthetic data startup AI.Reverie, which closed earlier this year, to support its metaverse development efforts. The Financial Times reported Meta’s plans on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2021/12/27/report-meta-boosts-metaverse-push-help-synthetic-data-startup-ai-reverie/",
-      "originalUrl": "https://siliconangle.com/2021/12/27/report-meta-boosts-metaverse-push-help-synthetic-data-startup-ai-reverie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/meta.png",
-          "width": 1046,
-          "height": 587,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators.md",
-      "title": "Baidu Create 2021 Successfully Launched In Metaverse, Ushering In A Golden Decade Of AI For Creators",
-      "excerpt": "Having L4 intelligent driving capabilities, Baidu's smart EV venture, Jidu Auto, has been designed to operate under the concepts of \"free movement\", \"natural communication\", and \"self-improvement\".",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1716650/Baidu_Chief_Executive_Officer_Chairman_Co_Founder_Robin_Li_welcomed_a.jpg",
-          "width": 400,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

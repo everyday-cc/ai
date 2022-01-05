@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/volvo-ride-pilot-181545657.html"
 webUrl: "https://www.engadget.com/volvo-ride-pilot-181545657.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1600
     height: 1000
     isCached: true
+
+related:
+  - title: "Volvo announces Ride Pilot unsupervised self-driving system"
+    excerpt: "Volvo on Wednesday announced the new self-driving system Ride Pilot at the 2022 Consumer Electronics Show underway in Las Vegas. Ride Pilot is described as a hands-off, eyes-off system, meaning a driver will be free to do other things when the system is activated,"
+    publishedDateTime: 2022-01-05T19:00:00Z
+    webUrl: "https://motorauthority.com/news/1134649_volvo-announces-ride-pilot-unsupervised-self-driving-system"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/volvo-concept-recharge_100815470_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "y1JUMC3gAzxrz4YicjSTqC3rqSIT3AStUV4LWx88PZrCNRy5zyUtKWUI3Uh5R45H+Cn+k9rOv2YOZ6cK4Ascj/CSbwO+JrP6GYjDKYuYHjYMyiKi6f210aRF9/ziH5/QufcKh4l6U4B9DCdlCFCFzG01y8YCK/KlfBBS1McQuSJBdPgtyHwiDzB8Tb3EJ98xw3uBSH5mheyx+UWSOeavzNc/wXlHqHUKKPE8y1e/1Oi0YUXiiGYgRvX3/FnlBe29JkIC6tbMX0eT+RFmDRGlzmJ4EGDIHuSovUSS7CQiZokfRxygbh/XTLeVab81RbrPyN+bTAPxX4QpbsIMJAPyP9TroT8pCk5FHfG6jUrfBV8=;vhJZyOpjOjnXAaetaO5vLw=="
 ---

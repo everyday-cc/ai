@@ -19,17 +19,6 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "Amazon and Stellantis Collaborate to Introduce Customer-Centric Connected Experiences Across Millions of Vehicles, Helping Accelerate Stellantis’ Software Transformation"
-    excerpt: "Amazon (NASDAQ: AMZN) and Stellantis N.V. (NYSE/MTA/Euronext Paris: STLA), a leading global automaker and mobility provider, today announced a series"
-    publishedDateTime: 2022-01-05T16:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220105005609/en/Amazon-and-Stellantis-Collaborate-to-Introduce-Customer-Centric-Connected-Experiences-Across-Millions-of-Vehicles-Helping-Accelerate-Stellantis’-Software-Transformation"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
 secured: "Yyzc724oCMoWufjSFyPlIXLy+ioMkLYeO8IQa1r5m6zQ7BQ9YSt31RePTgdrh/lMCy8N5lMgxrcCmlr1RIyuwJr18DEDIhP/HfaI7Q/6R8zwUfiL0TFbtPfdg1s+mOM+UObln7I2DYtf49KMdg+l4yg/l5XLltdJkJgQKBS+fpT1H1y2bulh5suG4anY2G4RcMnIGCKSAR+NHn2coGL51PIs7L3GTC3QT7ah2X83EBAglrKS5vJ6xYHOa3A0lwtpqiQAAX4CHeBlifQpDZ72k2+9EFfqmc3JAfzAuMkfZSUQ2bpPiaOzBO1XdnX6l3topJ7B6vxJtsFijGJ8OvYSEyKnQzLVbAfr36rU/kgk+QQ=;WwfXAkHwAJX4zWl04IG5XA=="
 ---
 

@@ -35,6 +35,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Method Makes AI-Generated Voices More Expressive"
+    excerpt: "Researchers from the University of California San Diego have found a way to make AI-generated voices such as digital personal assistants more expressive with a minimal amount of training."
+    publishedDateTime: 2022-01-05T20:04:00Z
+    webUrl: "https://cacm.acm.org/careers/257705-method-makes-ai-generated-voices-more-expressive/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "VXB3lPl2YAM6NbE0YQ2wXAmVlcL3p3b4CZzoAEiyMLhqwe6MohCRlDdmycJDni3qFwkyqnhW1WGdqAg4vLbR153Irc5qgW2IHYFL/blsvreAMVpU9NCVQdLCK3uozvctPz4WiZHEFDUEHv2hT9/OyZuJlibMzYKeDR/vsPllUcCNc4LvTCM+jtquX65KrP96IqaTZT4EUZvN6z6Z0M/OioW6JM7r5JcLuwOE+xleF6J/xXcHQNd2HMRbe9OJwJMGr4xXD5/fDmZsFDceu42yEQTZDbZx24GQj4kRyye0e6nEQYMQhSssuaDnTCR7+MQpATVYaPU46wQDTon7OB3YvzLpszCSEgQa7Ep/yxs5CnY=;AovGHQchBKOP+CPy/PgMug=="
 ---

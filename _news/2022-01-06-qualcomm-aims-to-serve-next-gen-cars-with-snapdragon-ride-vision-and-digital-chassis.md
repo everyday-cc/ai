@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
       name: Telecompaper
       domain: telecompaper.com
     quality: 4
+  - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
+    excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio the Snapdragon Ride™ Vision System a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
+    publishedDateTime: 2022-01-05T19:49:00Z
+    webUrl: "https://www.newswiretoday.com/news/176884/Qualcomm-Introduces-Snapdragon-Ride-Vision-System-an-Open-and-Scalable-Platform-for-Automated-Driving/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
 
 secured: "uo6i1gG/QG134lkCN6wi4ijK2nuYyA8Fa7ZQ9O/h5ErwRNjQF98rLnOKV/KnqKtP8+ix0OiIFzlOpnKd74vrU4oyLJGdr3p0KG0SWCzDYW0HbAMsPJ/ogQJJYWee3TxeurGb7biV7uoGN2FRICNl6pVp5CdMXoMhVdBTSHEfBmEENeA9/XW6u+KcmrBNX4sainy9AabrhQdGG8bmHz5KFX8JEzB7+GD4ij/jNQT01sJW0BJZTrKX88r21kro+KVH+lxxSnpU+y4hGQAUs24iDNwEfFQNdL3Gg7Mni6GPsgdunvJRL8ZhDBeeDm1JmZJpd6SpfMpoMKOH8rYMzgSLMxccvUeBqzCgxgHEed1uaBI=;A+RKWouPMtMbiXd2rfkY5g=="
 ---

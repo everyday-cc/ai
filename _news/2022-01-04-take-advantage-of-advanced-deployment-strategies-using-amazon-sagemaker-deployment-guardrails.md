@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/take-advantage-of-ad
 webUrl: "https://aws.amazon.com/blogs/machine-learning/take-advantage-of-advanced-deployment-strategies-using-amazon-sagemaker-deployment-guardrails/"
 type: article
 quality: 93
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     width: 721
     height: 485
     isCached: true
+
+related:
+  - title: "Deploying ML models using SageMaker Serverless Inference (Preview)"
+    excerpt: "Amazon SageMaker Serverless Inference (Preview) was recently announced at re:Invent 2021 as a new model hosting feature that lets customers serve model predictions without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. Serverless Inference"
+    publishedDateTime: 2022-01-05T20:03:57Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-ml-models-using-sagemaker-serverless-inference-preview/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/03/ML-6976-image003.png"
+        width: 552
+        height: 239
+        isCached: true
 
 secured: "DECWZXhttwseI10HSeF5W63jSnB5Rxb18IV/8uAuwf/bWl20e/mLqfuMu5EyhtxQpvmHA29lfNoWwKSS1m4+X5h/enxytWv8b0wWx9d0EF34h6DZA0M8KakmwZ5B0SFoJf08MzFw2jf0CSDvIvbLEuiebGCE/d4DppKiRcDeBVsEXcki7b22nRmWQIa8XPlL6YfZTkbanL1bBZGSZ67I9Fwl0PrO58gVoJMYkOTshigegU9Yu4HCwUeNLdj093SBrbODA0TrO1oq0c2BunuKVE5y9ed+59QnpMTU1+Q3ziiRHO5j4Cq+5IipO10zfsF4Q97w7mhj2vDX9fT/qrxJUJxA2QjQGbb3EL88OGeRHN0=;8KcPXGB/wD+/T/YprdljLQ=="
 ---

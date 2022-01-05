@@ -36,6 +36,15 @@ related:
       name: techxplore.com
       domain: techxplore.com
     quality: 39
+  - title: "Method Makes AI-Generated Voices More Expressive"
+    excerpt: "Researchers from the University of California San Diego have found a way to make AI-generated voices such as digital personal assistants more expressive with a minimal amount of training."
+    publishedDateTime: 2022-01-05T20:04:00Z
+    webUrl: "https://cacm.acm.org/careers/257705-method-makes-ai-generated-voices-more-expressive/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "ihy8n1BjRAh3dwV/V04p2Vk6uaCOi44m2Ua8gHy4ksDX7C3waKqcsT6TYerp3Xf8tML0c7pJsfcQVixw4bocty5yJp0TDyAkxMPrLOPDjDXOyB1okrL81VFwQIGyZO+b4vcf2fEZ8vwoLmSJ6ZvymWA5k742OE+ONwmUjS1GswmhwjCFvXO8MmC4K+S050EsOhXjM2IXaXAdIhiLo+pklfoE4MPJP7lRQWDvWJ35K5VWL1GXBWQWG+l7yXw3EfRIk3jEfZHbZHG2cBubXqBuab2sVMxS6jaH2TCzCm9LSbXkDWDWfEbsFb8Qb6yJLu2KRiJZnRlsNXuO/6TTAxCyE1/14gEX4fucsl5LlhITFbQ=;FXoXs6dmIK30oye6qeCsHg=="
 ---

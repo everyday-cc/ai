@@ -125,6 +125,20 @@ related:
         width: 1081
         height: 537
         isCached: true
+  - title: "GM says it’s aiming to sell you a self-driving car by middle of this decade"
+    excerpt: "General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade. GM has missed its own self-imposed self ..."
+    publishedDateTime: 2022-01-05T20:48:00Z
+    webUrl: "https://krdo.com/news/2022/01/05/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
+    type: article
+    provider:
+      name: KRDO
+      domain: krdo.com
+    quality: 37
+    images:
+      - url: "https://krdo.b-cdn.net/2020/07/krdo_ls.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "John Deere unveils first autonomous tractor"
     excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."
     publishedDateTime: 2022-01-04T21:38:00Z
@@ -138,6 +152,20 @@ related:
       - url: "https://www.farmprogress.com/sites/farmprogress.com/files/Jahmy-Hindman-Deere-Autonomy-main.jpg"
         width: 1540
         height: 800
+        isCached: true
+  - title: "Deere ploughs ahead with self-driving tractor"
+    excerpt: "John Deere demonstrated a fully autonomous tractor at CES 2022, touting the tech as a way to increase global food production."
+    publishedDateTime: 2022-01-05T17:21:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/deere-ploughs-ahead-with-self-driving-tractor"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 24
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/01/tractor.jpb_.jpeg"
+        width: 650
+        height: 400
         isCached: true
 
 secured: "JgzYwmFTxlVhVBHJ7AHaSDBUjBUH7q9F6l8vrxQjdM/jgGy4lvmghZLTQ0vE0Ps4lrSOwq6xcGwM9utCL0hZgVkYXcFyYtbLmV8RXTvexpC+yqw9C+hG9Cfoubv6IX+IcofzQhiuwtsOqCXnTpUGB7UUVu3n4eml7PeNOuDswVcxMu729hrR5Lk71GnLH9n2t0Y5z3hpwHVyIaBEr3EZETr67m0xjfJt2MP+nh0xCS99mbSqgvIKXJGksAJ1/boUM4kIIyY+xf2qF7ZO/3ukWkXIRhC9gtfS9qz1T0BKMiFVUJRTQeLkPkW7oPD/92aHVE3HbEWzQ5mN2x+7NkHqUKSH9iqieDHjlA0TqaNkO/VAKB2C8h0T6S8JbbonAEyy30apwucbRYW/abjeGZBwS0MQp/1X5/K09Mt+wBFo7ZeD9L7eFMXmc0cZuYlYWKJ9HrRx5mSitFVMJixeLihEvPDJeHgZ4dKYE0EcOJhoNphN/XXwfRDvxpRxN4rY6oczLxk+WZJrqxaZmc+k6IPGDg==;uhWGStM9CMCYjyvK9TVxPg=="

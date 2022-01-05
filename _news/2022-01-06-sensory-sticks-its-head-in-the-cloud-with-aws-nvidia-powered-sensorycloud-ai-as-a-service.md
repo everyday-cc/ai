@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-wi
 cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Hackster
@@ -26,6 +26,22 @@ images:
     width: 900
     height: 506
     isCached: true
+
+related:
+  - title: "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services"
+    excerpt: "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services. SANTA CLARA, Calif., Jan. 5, 2022 /PRNewswire/ --Sensory Inc., a Silicon Valley innovator of machine learning so"
+    publishedDateTime: 2022-01-05T17:50:00Z
+    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/01/05/9520778.htm"
+    type: article
+    provider:
+      name: Mobility Techzone
+      domain: mobilitytechzone.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1529245/Sensory_Logo.jpg"
+        width: 400
+        height: 224
+        isCached: true
 
 secured: "6s+fuYqHB2oOuCq8fttSS5/2GrOPxRaFptdXZcZH7zoX2TaGIW3AjkECp/0tGRU48lDdRdfu0KjaatuRjeEx/aQvk+3fcA42kqLxLZtZ9Gf9SakyjhPgoIuz3JuQbE73PzhVyfywFndwgrAXmh5GsCpLChhOvAxDqEyr/h4vBuqq1JmgepFy0KnTtPioH1KR1mCmb7Uev1jwm6ipmi4flYOSCB2PR+raeAz7/KPY5wQKjB2S1pWsgnv/GbXBFSpD06A+ysNVdSeqQu+OL9/kLu+dpCQ3W1zk62hs8Dc7PJbMxtftbIPbOcnGXBetxJsdPc4OJRp/bfK5a3nw9+mH7twUdz3RaW/jch5AI/IidgI=;yK0o9vuMf0KMI4VqoOQMCg=="
 ---
