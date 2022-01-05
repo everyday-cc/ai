@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6bc26af52a6d369274ea030192fd39d7.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "CES 2022: Intel announces new 12th Gen Core processors, Arc GPU availability for partners, Intel Evo and vPro enhancements"
+    excerpt: "Over at CES 2022, Intel has announced several new products covering the spectrum of mobile CPUs and discreet GPUs alongside several facelifts for its Intel Evo certification and vPro sub-category offerings."
+    publishedDateTime: 2022-01-05T09:48:00Z
+    webUrl: "https://www.tech-critter.com/ces-2022-intel/"
+    ampWebUrl: "https://www.tech-critter.com/amp/ces-2022-intel/"
+    cdnAmpWebUrl: "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/ces-2022-intel/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 48
+    images:
+      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2022/01/CES-2022-Intel-3.jpg"
+        width: 1273
+        height: 715
         isCached: true
   - title: "Intel introduces third-gen Evo platform, provides update on Arc GPU availability"
     excerpt: "Intel has also updated its Intel Evo certification program to third-gen. The company has also provided an update on Intel Arc availability."

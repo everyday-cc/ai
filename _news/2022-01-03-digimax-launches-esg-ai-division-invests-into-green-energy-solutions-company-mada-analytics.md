@@ -38,17 +38,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "DigiMax Launches ESG AI Division – Invests into Green Energy Solutions Company MADA Analytics"
-    excerpt: "OPTION TO PURCHASE 100% OWNERSHIP OF THIS DISRUPTIVE ESG TECHNOLOGY SOLUTIONS COMPANY – TORONTO – Plato Data Intelligence"
-    publishedDateTime: 2021-12-31T17:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24848717/digimax-launches-esg-ai-division-invests-into-green-energy-solutions-company-mada-analytics"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24848717"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24848717"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "Aerodyne Group makes strategic investment in Malaysian AI and data analytics company – Synapse Innovation Sdn Bhd"
     excerpt: "Aerodyne Group, a Malaysia-headquartered international DT3 (Drone Tech, Data Tech, and Digital Transformation) solutions provider has signed an agreement to acquire a principal stake in Malaysia-based AI and Data Analytics company,"
     publishedDateTime: 2022-01-05T06:52:00Z

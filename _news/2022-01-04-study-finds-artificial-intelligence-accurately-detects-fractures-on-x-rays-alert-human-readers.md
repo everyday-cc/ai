@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "A beer created entirely by AI"
-    excerpt: "Computer science students at the University of Adelaide’s Australian Institute for Machine Learning (AIML) have created a neural network capable of learning how to make beer. Working in conjunction with Barossa Valley Brewing,"
-    publishedDateTime: 2021-12-31T18:01:00Z
-    webUrl: "https://insights.globalspec.com/article/17929/a-beer-created-entirely-by-ai"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://insights.globalspec.com/images/assets/929/17929/AMIL.png"
-        width: 721
-        height: 521
-        isCached: true
 
 secured: "Oj576HS4sJEZ+Edc2HlDaNSLjuGBO2dcQQEMRy65ST6hkmEZ+oRn9pMSZ2IJJtA+hU+L/S5zI8nd/3ObvTZD78QEk/Ryp9A+B61L0jPUZ2iUMwk2jjxQKUzsU67ej+oQZHiXVHT3pa2MxzU1Q8/Xt1+BkLqd7h5U5pXNTLDq7dca4RH2WtuuhGzxTgPPpFKxY6ILLSlj9ABsEogV1Vea5CTKl2Tujkk7Tsv3O9Vxyq1x1n++NYn+cjz2QEprjt+/w8nA8wHrf1z6xD7WN6G26EYVAwZ9hB8Jq5ImZ03UD+rv3jN4o3AOWUmgWk9BsuNIQkDvHQdQk/EKj3bPG+ZdYMiGyvnUzxrziW2sv6mvHL8=;VSUn0Q7QoG+dzXUOQnvHwA=="
 ---

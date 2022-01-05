@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2515593/artificial-intelligence-in-platfo
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: openpr.com
@@ -22,6 +22,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Annata and Microsoft deliver new retail and mobility services"
+    excerpt: "Iceland-based technology provider Annata has expanded its long-standing partnership with Microsoft to develop new retail and mobility services. The firm will enhance the Annata 365 cloud platform with new services to enable those involved in vehicle manufacturing and supply to upgrade legacy systems and better engage with customers."
+    publishedDateTime: 2022-01-05T10:16:00Z
+    webUrl: "https://www.technologyrecord.com/Article/annata-and-microsoft-deliver-new-retail-and-mobility-services-127836"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10658/img-Unsplash_Chris-Bair_road_vehicles_car_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "AI for Speech Recognition Market is Booming Worldwide | Google, Apple, IBM"
     excerpt: "Advance Market Analytics published a new research publication on “AI for Speech Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
     publishedDateTime: 2022-01-03T11:11:00Z

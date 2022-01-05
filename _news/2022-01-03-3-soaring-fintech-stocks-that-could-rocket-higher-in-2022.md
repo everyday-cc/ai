@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-so
 webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Motley Fool
@@ -44,34 +44,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
         width: 1200
         height: 1500
-        isCached: true
-  - title: "Need to invest in fintech knowledge"
-    excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."
-    publishedDateTime: 2022-01-02T00:52:00Z
-    webUrl: "https://www.thestar.com.my/news/education/2022/01/02/need-to-invest-in-fintech-knowledge"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fintech Led VC Investment Last Year. Here’s What To Look For In 2022"
-    excerpt: "Financial services was the leading sector for venture investment in 2021 with $134 billion invested, marking a whopping 177 percent year-over-year growth. That compares with overall global venture capital investment,"
-    publishedDateTime: 2022-01-04T13:30:00Z
-    webUrl: "https://news.crunchbase.com/news/fintech-startup-vc-forecast-2022/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Forecast_digest-2.jpg"
-        width: 900
-        height: 506
         isCached: true
 
 secured: "BOvL0YmChpMreKjRzLXnkMVKxLxSr5N6RGKeeIh2tWHpphwxQoH3k/H/Yoa0Qq+3oIzyhqRVHin60GT6spEE8O29jAM6WuLuUL2Ainv5bxNOFJodmY77q3/haNlnswJAWJavcVoK1wEI3srofI0mx8JsOvqyYyddh35SjZzMTECIF+9gsBOBdtOVs8ZmXqVYmBxf5dIIJEev7Jh8na+0LO33fRHw4mSfRyIEdEy+vLQeVy0bLQN+xI/0PIOMOfM+JOx7DTZtzm7wHn5v1ZgTtDHe+53GCHuplvAN0zJUQ9I7nJm2ilOGnXEO5DR8lgBNU3IfVRHRH5IXHE7kWAz3IJA7FKvRv8tc8l/i/HSPGddY+ocCkGnlfyZOeF9PcmCOkHJ33+31F9XLrJV81UKTwYsS4nLITbzZb4Q1/uUhxoBl878N+DDQW9HL9t9hNKAi/ybChED3I1zfj0zNW7Iz+TitG7o1DyKfIJ1aO8Tvx9Do6w0zfsPmL9N7yLDJWBIykQVqRgArEd5iFxBLNcnchA==;zIpWaZ922TalbcEOBd4uFg=="

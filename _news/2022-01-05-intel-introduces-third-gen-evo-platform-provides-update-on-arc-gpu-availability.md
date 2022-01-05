@@ -51,6 +51,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "CES 2022: Intel announces new 12th Gen Core processors, Arc GPU availability for partners, Intel Evo and vPro enhancements"
+    excerpt: "Over at CES 2022, Intel has announced several new products covering the spectrum of mobile CPUs and discreet GPUs alongside several facelifts for its Intel Evo certification and vPro sub-category offerings."
+    publishedDateTime: 2022-01-05T09:48:00Z
+    webUrl: "https://www.tech-critter.com/ces-2022-intel/"
+    ampWebUrl: "https://www.tech-critter.com/amp/ces-2022-intel/"
+    cdnAmpWebUrl: "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/ces-2022-intel/"
+    type: article
+    provider:
+      name: tech-critter.com
+      domain: tech-critter.com
+    quality: 48
+    images:
+      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2022/01/CES-2022-Intel-3.jpg"
+        width: 1273
+        height: 715
+        isCached: true
 
 secured: "Qenr4OEOLXFkFfisRG93ZA19FeJDq4AcAdVTJyUxiXq4SUCGpH8m2rbbhWTiRya0PH1OBFE7tHn7HHnAA1bnOvM/8F9M7FbKdFOZ3ZyLPYR0X/Xs/mUjisnQVAOYG/uSE03CBG8e/3DXGQMzG+9eBDk1nsf/rbe1NpiX7FrgqGK4ZpE6YsXLq+iV/0Im35Jb+FrzD2X6Qx3Q+uj1m8JIgDnzXhg1NdrUpAVB4gM4sFb54nwixRfYk6xoF7yWayKiZ8x12yop6N5iPHgfrsIQukiiUBL/5O6cxUdMAI56sAMvIAnTJa5SkzZOIeG73Ui74nry0nSGn0AyPF/tq4egVQZ1i4g7ZJBq1HHKKEcB8pg=;iHJp09J5kqxx/YWYkkOQow=="
 ---

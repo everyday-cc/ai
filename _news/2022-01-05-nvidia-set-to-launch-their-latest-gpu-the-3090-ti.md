@@ -169,6 +169,17 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "Nvidia Announces RTX 3090 Ti, The World’s Most Powerful Desktop GPU"
+    excerpt: "The new king of desktop GPUs has arrived to dethrone the RTX 3090. Nvidia's newly announced RTX 3090 Ti is now the most powerful desktop GPU to date and"
+    publishedDateTime: 2022-01-05T08:53:00Z
+    webUrl: "https://propakistani.pk/2022/01/05/nvidia-announces-rtx-3090-ti-the-worlds-most-powerful-desktop-gpu/"
+    ampWebUrl: "https://propakistani.pk/2022/01/05/nvidia-announces-rtx-3090-ti-the-worlds-most-powerful-desktop-gpu/amp/"
+    cdnAmpWebUrl: "https://propakistani-pk.cdn.ampproject.org/c/s/propakistani.pk/2022/01/05/nvidia-announces-rtx-3090-ti-the-worlds-most-powerful-desktop-gpu/amp/"
+    type: article
+    provider:
+      name: ProPakistani
+      domain: propakistani.pk
+    quality: 39
   - title: "NVIDIA to Release New Budget GPU, the RTX 3050, on January 27 for $249 [CES 2022]"
     excerpt: "Not to be outdone by AMD’s announcement of a budget Radeon GPU, NVIDIA today announced that they’ll also be releasing a budget-friendly entry GPU, the RTX 3050, on January 27, 2022."
     publishedDateTime: 2022-01-04T17:11:00Z

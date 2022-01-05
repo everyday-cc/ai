@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI based Edge Computing Chip Market Top Company, Geographical Region, and Industry Segments till 2027| Cambricon, Nvidia, Huawei Hisilicon"
-    excerpt: "LOS ANGELES United States The research study presented in this report offers complete and intelligent analysis of the competition segmentation dynamics and geographical advancement of the global AI based Edge Computing Chip market It takes into account the CAGR value"
-    publishedDateTime: 2021-12-31T17:41:00Z
-    webUrl: "https://www.openpr.com/news/2515048/ai-based-edge-computing-chip-market-top-company-geographical"
-    ampWebUrl: "https://www.openpr.com/amp/2515048/ai-based-edge-computing-chip-market-top-company-geographical"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515048/ai-based-edge-computing-chip-market-top-company-geographical"
+  - title: "Global Molded Fiber Packaging Machine Market 2021 Sales Statistics, Data Analysis, Size Estimation and Application Assessment by 2027"
+    excerpt: "Global Molded Fiber Packaging Machine Market 2021 by Manufacturers, Regions, Type and Application, Forecast to"
+    publishedDateTime: 2022-01-04T19:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-molded-fiber-packaging-machine-market-2021-sales-statistics-data-analysis-size-estimation-and-application-assessment-by-2027-2022-01-04"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 40
     images:
-      - url: "https://cdn.openpr.com/U/c/Uc31458200_g.jpg"
-        width: 800
-        height: 407
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+XY1yKK9nT4PGLWa13KTbNDv5+2PkZkOoatmeNBhVlSQXMabeZefZ+UpmL5i1FxgKoLuB7BdCt4J9Itk/4rUzW5757CEojjpIS36ATDDLuMi9/d8++LC5qvenFyIgDJCOvpl2bG+OQ+GuWpwfwG42c2GJRadG/9NzqnQkEVm/HeM1kWAt/as9dm2Fvm303t6F9Js7xHTp+I2hFBxHLSLUxpplnLFHh+hJsMMMzQ0amlqgyl2GzzUkTwVLamRRB3qFeuLWiXQVx4CP7OatHCXBd1SAAWMcMrs4cYTKXApiPb9s9MYSbHoUfSDMwxe//aJ327e1J/8cexm2Os+KlqD6sw4jkJuL33f4YN3UGu99jI=;qEGwZTifgSfZpAxnekKkDA=="

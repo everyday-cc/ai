@@ -41,34 +41,6 @@ related:
         width: 2121
         height: 1414
         isCached: true
-  - title: "Need to invest in fintech knowledge"
-    excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."
-    publishedDateTime: 2022-01-02T00:52:00Z
-    webUrl: "https://www.thestar.com.my/news/education/2022/01/02/need-to-invest-in-fintech-knowledge"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fintech Led VC Investment Last Year. Here’s What To Look For In 2022"
-    excerpt: "Financial services was the leading sector for venture investment in 2021 with $134 billion invested, marking a whopping 177 percent year-over-year growth. That compares with overall global venture capital investment,"
-    publishedDateTime: 2022-01-04T13:30:00Z
-    webUrl: "https://news.crunchbase.com/news/fintech-startup-vc-forecast-2022/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Forecast_digest-2.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "ewmyYT9RWkmmtOwajVY6cudBrwUKm6xkU53XQd+AGq0n4I9mqmGOZ5N3SdqBlvttCxN700iJPZvN2wXDATYat7WPwAGK8IOwgIWpSYHmxOczEzbKT7/x2npZo8/UkZCV67KnZfEI4hSaudn5Y68A2KIA3GfKl2Q6tsT5icsafVmMmGldd9zeHyc2rqhBwDxRVDm/sRK+y6l7pncYBI2nHrfvoe5LJl39uRMpwt5XLBdeVmQPGIw3Bnae5UPprT/6wYPoaCQQyavYWKHDTxh1Yle8BcDaeU32a0QnQWYxR+8GaiGt2WzEQW93PGSGkirePL2K2mNL6wJcrDHv/yzoCZYe2aKVWgnXneb+qYNB65yEKPUcUgcBxCBii0tG4N64Yixh9e4gbDvGWDijbBLz5+Koe/OQoTN0+wGBLBkWCM2p6MUFH3eu8wkNd9O645ljMeAT1cOGDLxdsWEbaEy5i5cZxShOH3+RTFJkx2QYsWxpxtErvwEqcjJjC6p3v2FzaCYpYeGhUbtg3J3bqXYRRQ==;LyzQJFhtT6BT+hW4J5+cfQ=="
 ---

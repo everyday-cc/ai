@@ -24,17 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "DigiMax Launches ESG AI Division – Invests into Green Energy Solutions Company MADA Analytics"
-    excerpt: "OPTION TO PURCHASE 100% OWNERSHIP OF THIS DISRUPTIVE ESG TECHNOLOGY SOLUTIONS COMPANY – TORONTO – Plato Data Intelligence"
-    publishedDateTime: 2021-12-31T17:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/ab24848717/digimax-launches-esg-ai-division-invests-into-green-energy-solutions-company-mada-analytics"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24848717"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24848717"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 26
   - title: "DigiMax Launches ESG AI Division; Invests into Green Energy Solutions Company MADA Analytics"
     excerpt: "DIGIMAX GLOBAL INC. (the \"Company\" or \"DigiMax\") (CSE:DIGI) is excited to announce it is launching an ESG Solutions Division within th"
     publishedDateTime: 2022-01-03T12:05:00Z
