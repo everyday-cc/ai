@@ -99,6 +99,15 @@ related:
         width: 629
         height: 607
         isCached: true
+  - title: "Cybersecurity for AI Solutions Provider TrojAI Inc. Closes $3M Seed Round"
+    excerpt: "Cybersecurity for AI Solutions Provider Closes $3M Seed Round and Expands Protections to Include Natural Language Processing"
+    publishedDateTime: 2022-01-04T22:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cybersecurity-for-ai-solutions-provider-trojai-inc-closes-3m-seed-round/article_d7a14c0b-ab73-548c-a00b-9c000053711f.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 16
 
 secured: "hRXh2fec5GfMjZ2cv9YIdqxVgUR15YsyJMUGWl9gAs4xpT7c4S4m6L111POWh8KOMT4ymkh+2q2hax3kY1AE/MJkrk4JQRSAPHoJtMs61MwnpY/ljyoF5iEPF49xV710TdN/UMk+SLlrINY2ifDOinsAgYYekJP4w4SfeZEXnjH/BU9+jdJTE0MpVu9D4Wj57Zqo4y4MwHOM44e3xHN4MPkSWBMMy3P0MppAKwxcFidmkoHCE3ThWZDI2fXwN3yhGv2+Cive8LNT/GbmsHfIqCQEvrqFVpx3jw1lhs/YXXCSoSF2+2Nhd3Jy4VHcjqErGLTpJ318Ck9qK5/vlmlt+aK4b/lDg4UnUqagBmPHZwg=;p68U0cb6Ci6p4Y0WRUs+Tw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecur
 webUrl: "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/"
 type: article
 quality: 69
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
         width: 629
         height: 607
         isCached: true
+  - title: "Cybersecurity for AI Solutions Provider TrojAI Inc. Closes $3M Seed Round"
+    excerpt: "Cybersecurity for AI Solutions Provider Closes $3M Seed Round and Expands Protections to Include Natural Language Processing"
+    publishedDateTime: 2022-01-04T22:35:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cybersecurity-for-ai-solutions-provider-trojai-inc-closes-3m-seed-round/article_d7a14c0b-ab73-548c-a00b-9c000053711f.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 16
 
 secured: "mSNH+ssHkImizxhy2+tt8dWeRIKGqzOhLAPblhApoLWa+SOgIkkIYzITgsuk0ZADBFSaeobzYE4xGjtVfe2WEH8DGpICD3ev/pefLzSXnAjaPIoAiii93uE3Z4GG0DJmgh/NLLcuWwUbgw3Cxk+0M6YJ6+J2tOihR6veEWZorcPgKuddgtJQfAUidvUAvly6AQqavZ3NbPc9NJl31MWjbu4Fau35mK0KG0oGhYjnys09Uwrem2q3HNEkz0Qin5GGzAy93AqnwlEmwNQkz5gnBGULacU/kAMzJc+cHPvTw9qmkY3TyDqNFB9knPFcg129oOwpkm+WQeYnpK7ATiXyUAvOjBoOTwBQ061bxrhDTpI=;fQg/ph0kCfMFmlvfH0JynA=="
 ---

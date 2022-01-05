@@ -61,7 +61,7 @@ related:
   - title: "robots, automation, AI and who owns the future"
     excerpt: "Since corrupt people unite amongst themselves to constitute a force, then honest people must do the same.” Leo Tolstoy Today’s piece began with a stack of books and an idea."
     publishedDateTime: 2022-01-03T18:31:00Z
-    webUrl: "https://www.linkedin.com/pulse/robots-automation-ai-who-owns-future-bruce-mctague/?trackingId=d5PSt%2FcluZWaD6yxuL2ZqQ%3D%3D"
+    webUrl: "https://www.linkedin.com/pulse/robots-automation-ai-who-owns-future-bruce-mctague"
     type: article
     provider:
       name: LinkedIn

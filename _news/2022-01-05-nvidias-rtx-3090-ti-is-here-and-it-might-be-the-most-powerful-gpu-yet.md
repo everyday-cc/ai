@@ -95,6 +95,22 @@ related:
         width: 946
         height: 630
         isCached: true
+  - title: "Nvidia announces RTX 3080 Ti and 3070 Ti laptop GPUs and RTX 3050 desktop GPU"
+    excerpt: "Nvidia today announced two new GPU options for notebooks, along with a new graphics card for desktop user. The company also teased an upcoming flagship desktop GPU. The RTX 3080 Ti and RTX 3070 Ti join the range of Nvidia 30-series GPU options for notebooks."
+    publishedDateTime: 2022-01-04T23:00:00Z
+    webUrl: "https://www.gsmarena.com/nvidia_announces_rtx_3080_ti_and_3070_ti_laptop_gpus_and_rtx_3050_desktop_gpu-news-52534.php"
+    ampWebUrl: "https://m.gsmarena.com/nvidia_announces_rtx_3080_ti_and_3070_ti_laptop_gpus_and_rtx_3050_desktop_gpu-amp-52534.php"
+    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/nvidia_announces_rtx_3080_ti_and_3070_ti_laptop_gpus_and_rtx_3050_desktop_gpu-amp-52534.php"
+    type: article
+    provider:
+      name: GSM Arena
+      domain: gsmarena.com
+    quality: 56
+    images:
+      - url: "https://fdn.gsmarena.com/imgroot/news/22/01/nvidia-ces-2022/-1220x526/gsmarena_000.jpg"
+        width: 1220
+        height: 526
+        isCached: true
   - title: "NVIDIA to Release New Budget GPU, the RTX 3050, on January 27 for $249 [CES 2022]"
     excerpt: "Not to be outdone by AMD’s announcement of a budget Radeon GPU, NVIDIA today announced that they’ll also be releasing a budget-friendly entry GPU, the RTX 3050, on January 27, 2022."
     publishedDateTime: 2022-01-04T17:11:00Z

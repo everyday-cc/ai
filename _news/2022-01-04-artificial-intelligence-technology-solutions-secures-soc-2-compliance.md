@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Secures SOC 2 Compliance"
-excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX ), today announced successful completion of their SOC 2 Type 1 examination. This achievement reflects the company's stated goals of best-in-class data protection and internal processes."
-publishedDateTime: 2022-01-04T14:40:00Z
-originalUrl: "https://menafn.com/1103486224/Artificial-Intelligence-Technology-Solutions-Secures-SOC-2-Compliance"
-webUrl: "https://menafn.com/1103486224/Artificial-Intelligence-Technology-Solutions-Secures-SOC-2-Compliance"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type"
+publishedDateTime: 2022-01-04T13:42:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/soccer-technology-sports-business-artificial-intelligence-5aff84712a7688108f589d493b8fd996"
+webUrl: "https://apnews.com/press-release/globe-newswire/soccer-technology-sports-business-artificial-intelligence-5aff84712a7688108f589d493b8fd996"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?988489"
-    width: 436
-    height: 249
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "tgqEKsfjQipgJbw+NfCXTskn+ENoXKmkrEWsW1JTaXgkgpRJ+ukrCAPpf8iuN5jbVPzo4ECE1oHjo9299rKEPrkm26Bu4CPx5y7KivAitGsrPFk8ZdHzhXFWSPi9iEdMsYW8IzHuGCRgUjp0rrjrsqlzmDXASuLEWxazrw/mtZpoUjJEmwaA33NzjyN1i0/Rqp2kKj/n2wxMzTJF8oZZyZZ+HkMuxz9CQ/yuK3vyRoE9Pvq2jZyUrKIDzoNjvPlVbX70pmi7HfJTmV3t+FeugajkgEiATQOwM8qgl6X0DHDCVkV0TT+MWCUHa6KyQzMABzmRRxjQujIwmf56i0HdRMWmSg6z+WnYv4vT5XJ/fAQ=;SAGjQm6I0HAsvvLyV9xP9A=="
+secured: "uD8fpclG1WuEFwiK8WFFH6Or1W9OF2o4THat7UsKDkW6pDSMo1ZnzJTShxzXXjBu+eMKYDOodczs0+nDqvH467IjfqU9Ep09bHbCKKz/IBqJluhe/RVw/7EK8D3cTDHzJV/KYYpzZfWslEziuK/wyAOnT3b1QZhUiOh/4j1wBN1p5Puhrz5jqVjzXVX82xJtnx2qqAW+0JweuthyHaH7wAmYsE7iybnplmIW9VJbKqFtzZtovkRlUaBkl7d1i/KcJmS34CIAkOiMlUvN7IKSSq9hl0AHKZTWqV8bGRdFM1/Y3Rel6mQJfxXSiAROob/V1wlwWUHyZvtlhjrRdcit0ufoHNDfsvvXRhBpZ8O74M0=;Fe6pNS7g0BlIbFZcabrXgw=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debat
 ampWebUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
 type: article
-quality: 89
-heat: 119
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg"
@@ -78,6 +79,6 @@ related:
         height: 800
         isCached: true
 
-secured: "jS4wbQsBBefQazL9iJU0k42BjqNVsy/7VNSCjOSMrvdzHaGhXZewTZjjTEbUchfIUKPiBpP9WjKj5yU1IklnPv5r4SklZUesU8w9yDtWXYFqKCp3f8K3rPgW4ziJHHVw5F6wPuFR7tmhWFiphWzMYICaTaI8QIp4J5Zq0phlpex7NV6WVvmk7w+kLHO5H7o00WCbn+sxYJWc6YUVP+xSG0W1bZSN2KjKQrgBFXdrMsNGoBGu2nxygWOA4IoxE/L2aa4sbAyGg7BOwnWkYorKZplOnh+74ugQcUYr2i+c/l4kbBKctJeGOTql1f4iPlDWaIeRYAOJ2PPNq14I1yQ/x0mrO/wOoro5ui6ZHlckd8A=;E4xGdszdtwjwcAXk30WtUw=="
+secured: "d1CTZIVut8DCxw++o4ja1mLdp4c6okqACE6i+YoHJ3m/aAWlVUOaG5owSIUi32mdhpDZaP43KyfwIN/2F/wq1EmduSvqbIBH7VAna9xZXjqcWWhADZRo6h+3eRa3AADOm+K1LYYbsN25MVR58vg0uON24fZjUsxpLN1Q+HItuLsKPCenTu4yZJTpfSpTlO4GRSxpok7+GXwBpd0rEvKZ1rZ5Kf2nEmPHvpmStUIn+vmihxCH4tJyANh2HDullQxf4Df4gg5+NvTvauDGOvveZLCa8ff7Tfn/hiJs4nPDtgIOCtjSxemWiaCUjYeqD9LGFJTzXk/TRj8SO6kOMgYFK5DHT9uTfEj0YhBYsA+sseBGPpDkCeUVsJNRqMA0A9ulAVP2prjrGcN5cJFvJ5LMKYj41QN26Y5KlTO5YJdY/ZQkN5A48BQ96N5N9Xz1ew4O5K9HMJ/VzJymJuQlebwC0kI+9DREvlIQULWWck3+k3GAx1EHYpmDXPasDO2HggGMBaXmWaBs3d+Mxfe88po8DQ==;t/59YFJPE7ua/YgQ9ecj1w=="
 ---
 

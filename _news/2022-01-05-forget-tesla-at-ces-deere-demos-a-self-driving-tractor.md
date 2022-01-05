@@ -37,7 +37,7 @@ related:
     provider:
       name: Wired
       domain: wired.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg"
         width: 2400

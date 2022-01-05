@@ -103,20 +103,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Human presence detection using CNN-based computer vision application running on STM32"
-    excerpt: "Designed to determine if a person is present in a given area, human presence detection technology is very useful for a wide range of applications spanning user interfaces, security and safety. It can also be used to actively manage energy consumption by ..."
-    publishedDateTime: 2021-12-31T08:17:00Z
-    webUrl: "https://www.st.com/en/solutions-reference-designs/sl-snpsn011701v1.html"
-    type: article
-    provider:
-      name: ST
-      domain: st.com
-    quality: 32
-    images:
-      - url: "https://www.st.com/content/dam/logos/open-graph-logo.png"
-        width: 750
-        height: 560
-        isCached: true
 
 secured: "7APolLAnwExjLbBMUUcDSeT0a5meyaMTyjiw5dHo1s6d6pafvreNY7RexC9daj6xB7QjZUp/OQw2N1JNOnB3J61Do9g9glK/2o0A00x/FYzesnywu73EW8wlntbM+xJxWZbyYvUq3iwshIWS4mVrvjPNbnP7pVLMMXPTAFCzQbFIWgyo+U0WsEyT8VZ2eO+4foXyuezF5kjFrP8LKh2OltiDFq3emxV4jYIk8gcG8Xr9osR6jL7AbrMxx2T4MLBNfBXbSM8oQy0IziYCtpO61oDg1/G9jFprUbYbBHuTJn3NGGF2PoraGvInFnO3xpOGzqGJtPFPodqqt6ZPrRIB7zU0164SvJoGqunmJMX4vxX5R0Q3RWpOQzpy4JMdrhhWaqVsUiJXmR2/o59KBCNnT0AIJ/eUyOdQ0a9ybKFwYuzJqyaHfJjUAh8QTQlUzAwi5JGjyOM5bpClH7WvudNx3u3iZgVtqMfxIGOB/lY963FdI5iF6LU9tcHN2pJz3D1lEQ4+p97CxVmtood9arnABw==;CcVHXTvoi4ybgpk2XeVblA=="
 ---

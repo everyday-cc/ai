@@ -2,6 +2,224 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-11-26-un-countries-adopt-first-global-agreement-on-ai-ethics.md",
+      "title": "UN countries adopt first global agreement on AI ethics",
+      "excerpt": "The United Nations Thursday adopted a historical text defining the common values and principles needed to ensure the healthy development of artificial intelligence. The agreement was adopted at the",
+      "sourceUrl": null,
+      "webUrl": "https://www.jurist.org/news/2021/11/un-countries-adopt-first-global-agreement-on-ai-ethics/",
+      "originalUrl": "https://www.jurist.org/news/2021/11/un-countries-adopt-first-global-agreement-on-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.jurist.org/news/wp-content/uploads/sites/4/2020/08/united_nations_1598635258.jpg",
+          "width": 1280,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-26T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jurist",
+        "domain": "jurist.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-193-countries-adopt-1st-global-agreement-on-ethics-of-ai.md",
+      "title": "193 countries adopt 1st global agreement on Ethics of AI",
+      "excerpt": "All member nations of the United Nations Educational, Scientific and Cultural Organization (UNESCO) adopted on Thursday a historical text that defines the common values and principles needed to ensure the healthy development of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.pna.gov.ph/articles/1161070",
+      "originalUrl": "https://www.pna.gov.ph/articles/1161070",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files01.pna.gov.ph/ograph/2021/11/26/304121.jpg",
+          "width": 720,
+          "height": 377,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-26T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gov",
+        "domain": "pna.gov.ph",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-193-countries-adopt-the-first-global-agreement-on-the-ethics-of-artificial-intelligence.md",
+      "title": "193 countries adopt the first global agreement on the Ethics of Artificial Intelligence",
+      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
+      "originalUrl": "https://www.daily-sun.com/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.daily-sun.com/assets/news_images/2021/11/26/UNESCO.jpg",
+          "width": 830,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
+      "cdnAmpWebUrl": "https://www-daily--sun-com.cdn.ampproject.org/c/s/www.daily-sun.com/amp/post/590238/193-countries-adopt-the-first-global-agreement-on-the-Ethics-of-Artificial-Intelligence",
+      "publishedDateTime": "2021-11-26T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sun",
+        "domain": "daily-sun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-baidu-begins-commercial-robotaxi-services-in-beijing.md",
+      "title": "Baidu begins commercial robotaxi services in Beijing",
+      "excerpt": "Baidu received the country’s first permit for commercial robotaxi services, a major milestone for Chinese self-driving car industry.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
+      "originalUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technode.com/wp-content/uploads/2021/11/WechatIMG558的副本.jpeg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/11/26/baidu-begins-commercial-robotaxi-services-in-beijing/",
+      "publishedDateTime": "2021-11-26T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-artificial-intelligence-ethics-agreement-adopted-by-193-countries.md",
+      "title": "Artificial Intelligence Ethics Agreement adopted by 193 countries",
+      "excerpt": "Artificial intelligence is present in everyday life, from booking flights and applying for loans to steering driverless cars. It is also used in specialized fields such as cancer screening or to help create inclusive environments for the disabled.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "originalUrl": "https://www.bna.bh/en/ArtificialIntelligenceEthicsAgreementadoptedby193countries.aspx?cms=q8FmFJgiscL2fwIzON1%2bDrz8DzhPcMs7PveA4l7hiiE%3d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/headquarters_flags_michel_ravassard-71532c23-f38e-4881-9939-f84f2b790098.jpeg",
+          "width": 740,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bna.bh",
+        "domain": "www.bna.bh",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-teslas-self-driving-business-is-powering-ahead-despite-setbacks.md",
       "title": "Tesla's Self-Driving Business Is Powering Ahead Despite Setbacks",
       "excerpt": "The run-up is partly due to Tesla’s solid execution, with deliveries for this year poised to grow by almost 70% to about 850,000 vehicles, despite the ongoing semiconductor shortage. Tesla’s sizable lead in the self-driving market has also traditionally been a very big driver of the company’s valuation.",
@@ -887,239 +1105,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt.md",
-      "title": "Kozhikode-based AI-driven healthcare start-up gets funding from Malta govt",
-      "excerpt": "Kozhikode: Kozhikode-based IT start-up Intpurple Technologies, which developed an Artificial Intelligence driven healthcare software, has received funding from the Government of Malta, the company said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
-      "originalUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.mathrubhumi.com/polopoly_fs/1.6210998.1637839781!/image/image.jpg_gen/derivatives/landscape_1080_600/image.jpg",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
-      "cdnAmpWebUrl": "https://english-mathrubhumi-com.cdn.ampproject.org/c/s/english.mathrubhumi.com/news/kerala/kozhikode-based-ai-driven-healthcare-start-up-gets-funding-from-malta-govt-intpurple-technologies-sahir-kungancheri-1.6210991",
-      "publishedDateTime": "2021-11-25T03:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mathrubhumi",
-        "domain": "mathrubhumi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-uk.md",
-      "title": "HAI ROBOTICS boosts e-commerce fulfillment for cross-border warehouse in U.K.",
-      "excerpt": "HAI ROBOTICS, a global leader in Autonomous Case-handling Robotic (ACR) system for warehouse logistics, announced that its first project in the U.K. with Chinese cross-border warehouse operator WINIT a success as deliveries for holiday shopping parcels are about to knock on the door.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hai-robotics-boosts-e-commerce-fulfillment-for-cross-border-warehouse-in-u-k-1031003268",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1696407/WINIT_cross_border_ecommerce_warehouse_in_UK.jpg",
-          "width": 400,
-          "height": 277,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T03:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-ponyai-approved-for-robotaxi-services-in-beijing.md",
-      "title": "Baidu, Pony.ai approved for robotaxi services in Beijing",
-      "excerpt": "SHANGHAI (Reuters) – Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.metro.us/baidu-pony-ai-approved-for/",
-      "originalUrl": "https://www.metro.us/baidu-pony-ai-approved-for/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2021binary_LYNXMPEHAO03V-BASEIMAGE.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.metro.us/baidu-pony-ai-approved-for/amp/",
-      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/baidu-pony-ai-approved-for/amp/",
-      "publishedDateTime": "2021-11-25T03:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro US",
-        "domain": "metro.us",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-ponyai-cleared-for-beijing-robotaxi-service.md",
-      "title": "Baidu, Pony.ai cleared for Beijing robotaxi service",
-      "excerpt": "SHANGHAI -- Chinese tech group Baidu and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the companies deploy not more than 100 vehicles in ...",
-      "sourceUrl": null,
-      "webUrl": "https://europe.autonews.com/technology/baidu-ponyai-cleared-beijing-robotaxi-service",
-      "originalUrl": "https://europe.autonews.com/technology/baidu-ponyai-cleared-beijing-robotaxi-service",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/RTXEXMJ3%281%29.JPG",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-baidu-kicks-off-its-robotaxi-business-after-getting-the-ok-to-charge-fees-in-beijing.md",
-      "title": "Baidu kicks off its robotaxi business, after getting the OK to charge fees in Beijing",
-      "excerpt": "Effective Thursday, Baidu's Apollo unit that runs the robotaxi business can collect fares from passengers taking one of 67 self-driving cars in Beijing's suburban district of Yizhuang. While the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "originalUrl": "https://www.cnbc.com/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106979826-1637738392441-gettyimages-1280199601-vcg111302456269.jpeg?v=1637738596",
-          "width": 4716,
-          "height": 3397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/25/baidu-kicks-off-robotaxi-business-after-beijing-citys-fare-approval.html",
-      "publishedDateTime": "2021-11-25T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The future trends of AI and ML"
+    excerpt: "Latest Trends For 2022 in the field of Artificial Intelligence and Machine Learning  The pandemic has become a catalyst in an increase of the digital transformation across the industries worldwide a phenomenon that happened faster than expected."
+    publishedDateTime: 2022-01-04T19:13:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-trends-ai-ml-ashutosh-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHsXZn2xiiJgQ/article-cover_image-shrink_600_2000/0/1641322997947?e=1646870400&v=beta&t=-Pnp7Ooz4jb5pdiiJHREeQy_eXwSyBewWhLWFd5Nesw"
+        width: 509
+        height: 339
+        isCached: true
 
 secured: "ZRzGwi4zPoHc6uB6SKW+xTf224icSXoqxwT2qe+8/+knrGjSnYMbbroc33R0hiqKIuIuWIw22KyK9a9KOKOG5ThDx+ZagjC94ULovKv/CNHqy9pIfbaAv4vCw+V6Gl0PG0ugzBwZm37K3z4NKCkDg8Xm7KGiDxq7CpPIsaQcmsVsOa5b0xOAvFt2OoqBg50Z3eRD4O+QlYedZwtYVkALUzzLAGjemkO4t8YfqpytRxGlgrklybs1x4h7vEW6fFlBYkWZ8TOO+MLM3BZKHsayQblm4DFnQuAcR1MOFJiAZfXTS2Wkgdg2bs6Lz84+pPK82+QstiGg77xha8aynFIcjp/SlE7PpJyXrWd89kcMkdE=;4ZToY4nH975RodA7V8Wu3Q=="
 ---

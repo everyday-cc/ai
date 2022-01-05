@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "The future trends of AI and ML"
+    excerpt: "Latest Trends For 2022 in the field of Artificial Intelligence and Machine Learning  The pandemic has become a catalyst in an increase of the digital transformation across the industries worldwide a phenomenon that happened faster than expected."
+    publishedDateTime: 2022-01-04T19:13:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-trends-ai-ml-ashutosh-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHsXZn2xiiJgQ/article-cover_image-shrink_600_2000/0/1641322997947?e=1646870400&v=beta&t=-Pnp7Ooz4jb5pdiiJHREeQy_eXwSyBewWhLWFd5Nesw"
+        width: 509
+        height: 339
+        isCached: true
   - title: "Three Rivers Casino Resort Selects OPTX's Casino Data Platform for Player Development, Slots, and Artificial Intelligence"
     excerpt: "Located in Florence, OR, Three Rivers Casino Resort has selected OPTX for its full suite of player development, slots, and artificial intelligence products. \"The decision to go with OPTX was an easy one,"
     publishedDateTime: 2022-01-04T16:46:00Z

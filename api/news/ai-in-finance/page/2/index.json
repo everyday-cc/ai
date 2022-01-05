@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-10-brainbox-ai-brings-machine-learning-to-building-controls.md",
+      "title": "BrainBox AI brings machine learning to building controls",
+      "excerpt": "BrainBox AI focuses primarily on controlling HVAC systems, which accounts for the majority of the energy consumption in most buildings.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
+      "originalUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
+      "publishedDateTime": "2021-12-09T15:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-upstart-upst-a-fintech-investment-to-act-on-today.md",
+      "title": "Upstart (UPST): A Fintech Investment To Act On Today",
+      "excerpt": "Upstart UPST, the AI-driven fintech innovator changing the way creditworthiness is assessed, is ripe for a buy today with a couple of key support levels ready to maintain its recent buoyancy, following an overdone sell-off last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
+      "originalUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
+      "publishedDateTime": "2021-12-09T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-fintech-ecosystem-in-the-commonwealth.md",
+      "title": "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding Fintech Ecosystem in the Commonwealth",
+      "excerpt": "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts. BOSTON, MA / ACCESSWIRE",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/Accesswire/technology-business-boston-massachusetts-financial-services-5b8364673b51a42051bfe4853117597c",
+      "originalUrl": "https://apnews.com/press-release/Accesswire/technology-business-boston-massachusetts-financial-services-5b8364673b51a42051bfe4853117597c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-bullish-on-industrial-consumer-healthcare-and-fintech-in-india-john-praveen.md",
       "title": "Bullish on industrial, consumer, healthcare and fintech in India: John Praveen",
       "excerpt": "Agencies  We probably won't see the kind of strong earnings we saw in 2021 either in the US or India and might see earnings more in the 15-20% range rather than in the 20-30% range, says John Praveen,",

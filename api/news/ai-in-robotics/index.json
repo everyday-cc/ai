@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-05-john-deeres-self-driving-tractor-stirs-debate-on-ai-in-farming.md",
+      "title": "John Deere's Self-Driving Tractor Stirs Debate on AI in Farming",
+      "excerpt": "John Deere’s new 8R tractor uses six pairs of stereo cameras and advanced artificial intelligence to perceive its environment and navigate. It can find its way to a field on its own when given a route and coordinates,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/",
+      "originalUrl": "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp",
+      "publishedDateTime": "2022-01-04T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-seoul-robotics-introduces-v2x-sensor-tower-to-automate-bmw-fleets-at-munich-manufacturing-facility.md",
       "title": "Seoul Robotics introduces V2X sensor tower to automate BMW fleets at Munich manufacturing facility",
       "excerpt": "Seoul Robotics, an AI-based perception software company, wants to turn first- and last-mile logistics hubs for automotive and trucking into mind hives, wherein one sensor tower controls the movements of a fleet,",
@@ -296,7 +349,7 @@
       "originalUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -339,7 +392,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1323,40 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022.md",
-      "title": "Pudu Robotics to Exhibit Leading Commercial Service Robots at CES 2022",
-      "excerpt": "Pudu Robotics, the global leader in commercial service robots, has announced it will participate in CES 2022, which will take place between January 5-8 in Las Vegas, Nevada, United States. Pudu Robotics will exhibit seven service robots at its booth,",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

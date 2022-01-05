@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

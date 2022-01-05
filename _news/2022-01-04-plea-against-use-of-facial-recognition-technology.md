@@ -89,20 +89,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Human presence detection using CNN-based computer vision application running on STM32"
-    excerpt: "Designed to determine if a person is present in a given area, human presence detection technology is very useful for a wide range of applications spanning user interfaces, security and safety. It can also be used to actively manage energy consumption by ..."
-    publishedDateTime: 2021-12-31T08:17:00Z
-    webUrl: "https://www.st.com/en/solutions-reference-designs/sl-snpsn011701v1.html"
-    type: article
-    provider:
-      name: ST
-      domain: st.com
-    quality: 32
-    images:
-      - url: "https://www.st.com/content/dam/logos/open-graph-logo.png"
-        width: 750
-        height: 560
-        isCached: true
   - title: "Worldwide Face Recognition with Edge Computing Industry to 2026 - Increasing Integration With Ai Drones and Video Surveillance Presents Opportunities"
     excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to"
     publishedDateTime: 2022-01-04T17:45:00Z

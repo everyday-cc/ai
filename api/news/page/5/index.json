@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-29-geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market.md",
+      "title": "Geely’s Zeekr partners with Waymo to build its self-driving taxi fleet for the US market",
+      "excerpt": "On Tuesday, the Chinese multinational automotive company Geely announced that their premium electric brand, Zeekr, will partner up with Waymo. This partnership is to build an all-electric, self-driving vehicle for the Waymo One ride-hailing autonomous fleet in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
+      "originalUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/12/Geely-van.jpg",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/29/geelys-zeekr-partners-with-waymo-to-build-its-self-driving-taxi-fleet-for-the-us-market/?amp=1",
+      "publishedDateTime": "2021-12-29T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
+      "title": "Role of AI and Machine Learning across Different Sectors in 2021",
+      "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "publishedDateTime": "2021-12-29T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-what-to-focus-on-when-driving-change.md",
       "title": "What To Focus On When Driving Change",
       "excerpt": "The inspiring story of Katrine Switzer's Marathon Woman got me thinking about how to drive change in startups. Switzer was the first woman to run the male-only Boston Marathon in 1967. She ran despite knowing she might be stopped.",
@@ -755,6 +852,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-28-sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges.md",
+      "title": "Sjain Ventures is set to launch Finleg, a service that will assist businesses with financial and legal challenges",
+      "excerpt": "Finleg, one of Sjain Ventures' wings, is set to launch in 2022 with its offices Raipur and Pune to serve as the company's first locations. Finleg offers income tax return (ITR) e-filing and GST compli",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges-121122801101_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges-121122801101_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/28/full/20211228170635.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges-121122801101_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges-121122801101_1.html",
+      "publishedDateTime": "2021-12-28T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-ai-may-cure-the-ills-in-healthcare-tech.md",
       "title": "AI May Cure The Ills In Healthcare Tech",
       "excerpt": "As our healthcare system struggles toward a model in which consumers are at the center of the equation, technology is playing a rapidly increasing role in smoothing their way through the ecosystem. Consumers are demanding a better healthcare experience,",
@@ -993,153 +1133,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-chinese-tech-company-baidu-says-artificial-intelligence-is-entering-a-golden-age-on-the-mainland.md",
-      "title": "Chinese tech company Baidu says artificial intelligence is entering a ‘golden age’ on the mainland",
-      "excerpt": "The company tells its annual developers’ conference, Baidu Create, that an expanding pool of talent is contributing to China’s AI development, with innovations in transportation, health care and space exploration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says",
-      "originalUrl": "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/28/caae92d2-6785-11ec-b7f8-afe79af1793e_image_hires_140747.png?itok=lQzGPHlG&v=1640671694",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-heterogeneous-integration-chip-let-system-package-alliance-established-to-expand-market-opportunities.md",
-      "title": "Heterogeneous Integration Chip-let System Package Alliance Established to Expand Market Opportunities",
-      "excerpt": "In order to enhance critical capabilities of Taiwan's chip industry for this emerging market, the Department of Industrial Technology (DoIT), Ministry of Economic Affairs (MOEA), Taiwan, has supported ITRI to establish the Heterogeneous Integration Chip-let System Package Alliance (Hi-CHIP).",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/heterogeneous-integration-chip-let-system-package-alliance-established-to-expand-market-opportunities-1031067491",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/heterogeneous-integration-chip-let-system-package-alliance-established-to-expand-market-opportunities-1031067491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1716890/Photo.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T21:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-googles-founders-visited-warren-buffett-and-decided-to-model-alphabet-on-berkshire-hathaway.md",
-      "title": "Google’s founders visited Warren Buffett — and decided to model Alphabet on Berkshire Hathaway",
-      "excerpt": "\"The genesis of Alphabet is a meeting that Larry and Sergey and I had about a decade ago where we flew ... to Omaha, and we visited Warren Buffett.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com.au/google-founders-modeled-alphabet-warren-buffett-berkshire-hathaway-2019-12-2",
-      "originalUrl": "https://www.businessinsider.com.au/google-founders-modeled-alphabet-warren-buffett-berkshire-hathaway-2019-12-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5de7ba49fd9db2057d3ad5d6?format=jpeg",
-          "width": 4352,
-          "height": 3264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com.au/google-founders-modeled-alphabet-warren-buffett-berkshire-hathaway-2019-12-2/amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com-au.cdn.ampproject.org/c/s/www.businessinsider.com.au/google-founders-modeled-alphabet-warren-buffett-berkshire-hathaway-2019-12-2/amp",
-      "publishedDateTime": "2021-12-27T20:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider Australia",
-        "domain": "businessinsider.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

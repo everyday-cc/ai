@@ -10,7 +10,7 @@
       "originalUrl": "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -196,6 +196,83 @@
       ]
     },
     {
+      "path": "_news/2021-12-28-sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges.md",
+      "title": "Sjain Ventures is set to launch Finleg, a service that will assist businesses with financial and legal challenges",
+      "excerpt": "Finleg, one of Sjain Ventures' wings, is set to launch in 2022 with its offices Raipur and Pune to serve as the company's first locations. Finleg offers income tax return (ITR) e-filing and GST compli",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/content/press-releases-ani/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges-121122801101_1.html",
+      "originalUrl": "https://www.business-standard.com/content/press-releases-ani/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges-121122801101_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-12/28/full/20211228170635.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/content-amp/press-releases-ani/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges-121122801101_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges-121122801101_1.html",
+      "publishedDateTime": "2021-12-28T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-aterian-signs-a-50-million-credit-facility-with-midcap-financial-trust.md",
+      "title": "Aterian Signs A $50 Million Credit Facility With MidCap Financial Trust",
+      "excerpt": "(Nasdaq: ATER) (“Aterian”) announced today that it has signed an asset backed credit facility with MidCap Financial Trust (“MidCap”), which is managed by a subsidiary of Apollo Global Management, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-aizen-creditconnect-new-paradigm-for-ai-banking.md",
       "title": "AIZEN 'CreditConnect', New Paradigm for AI Banking",
       "excerpt": "People can see the banking democratization trend, where bigtechs and fintechs present a new form of threat to traditional",
@@ -243,8 +320,8 @@
       "title": "Fintech: A force for financial inclusion in Palestine",
       "excerpt": "Majd Zghyer is the strategy officer at uMake, an entrepreneurship support organisation (ESO) based in Ramallah, Palestine. This year",
       "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/index.php/ar/2021/12/fintech-force-financial-inclusion-palestine",
-      "originalUrl": "https://www.wamda.com/index.php/ar/2021/12/fintech-force-financial-inclusion-palestine",
+      "webUrl": "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine",
+      "originalUrl": "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -268,6 +345,49 @@
       "provider": {
         "name": "wamda.com",
         "domain": "wamda.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-reviving-fintech-services-6-steps-to-prevent-false-declines.md",
+      "title": "Reviving Fintech Services: 6 Steps to Prevent False Declines",
+      "excerpt": "From using fraud tools to providing more data,, Managing Director EMEA for Signifyd, uncovers the importance of preventing false declines.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/digital-payments/reviving-fintech-services-6-steps-prevent-false-declines",
+      "originalUrl": "https://fintechmagazine.com/digital-payments/reviving-fintech-services-6-steps-prevent-false-declines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/data_2.jpg.png?itok=kYq70YSF",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-26T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1163,136 +1283,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-brainbox-ai-brings-machine-learning-to-building-controls.md",
-      "title": "BrainBox AI brings machine learning to building controls",
-      "excerpt": "BrainBox AI focuses primarily on controlling HVAC systems, which accounts for the majority of the energy consumption in most buildings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
-      "publishedDateTime": "2021-12-09T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-upstart-upst-a-fintech-investment-to-act-on-today.md",
-      "title": "Upstart (UPST): A Fintech Investment To Act On Today",
-      "excerpt": "Upstart UPST, the AI-driven fintech innovator changing the way creditworthiness is assessed, is ripe for a buy today with a couple of key support levels ready to maintain its recent buoyancy, following an overdone sell-off last month.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
-      "originalUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/upstart-upst%3A-a-fintech-investment-to-act-on-today?amp",
-      "publishedDateTime": "2021-12-09T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-mass-fintech-hub-more-than-doubles-membership-to-bolster-expanding-fintech-ecosystem-in-the-commonwealth.md",
-      "title": "Mass Fintech Hub More Than Doubles Membership to Bolster Expanding Fintech Ecosystem in the Commonwealth",
-      "excerpt": "Membership Drive Continues to Attract Key Leadership from Government, Financial Institutions, Startups, Venture Capital and Academia Across Massachusetts. BOSTON, MA / ACCESSWIRE",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Accesswire/technology-business-boston-massachusetts-financial-services-5b8364673b51a42051bfe4853117597c",
-      "originalUrl": "https://apnews.com/press-release/Accesswire/technology-business-boston-massachusetts-financial-services-5b8364673b51a42051bfe4853117597c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

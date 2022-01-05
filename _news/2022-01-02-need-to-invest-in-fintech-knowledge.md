@@ -99,15 +99,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "TENET FINTECH GROUP INC"
-    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the Business"
-    publishedDateTime: 2021-12-31T07:45:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2021-12/54867725-tenet-fintech-group-inc-tenet-releases-12-12-shopping-event-results-for-2021-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 4
   - title: "United Kingdom InsurTech Market Landscape 2021-2026 - InsurTech is Thriving in the UK, Having Spun Out of the FinTech Revolution"
     excerpt: "The \"United Kingdom InsurTech Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021-2026)\" report has been added"
     publishedDateTime: 2021-12-31T10:38:00Z

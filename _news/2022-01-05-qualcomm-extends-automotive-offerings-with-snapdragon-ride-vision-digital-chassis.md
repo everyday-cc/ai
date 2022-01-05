@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/qualcomm-extends-automotive-offerin
 webUrl: "https://www.linkedin.com/pulse/qualcomm-extends-automotive-offerings-snapdragon-ride-bob-o-donnell"
 type: article
 quality: 18
-heat: 18
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Qualcomm Unveils Gambit to Build \"Digital Chassis\" for Self-Driving Cars"
+    excerpt: "New initiatives for Qualcomm include next-generation ARM PCs, the metaverse, VR/AR, wireless fiber, and Advanced Driver-Assistance Systems (ADAS)."
+    publishedDateTime: 2022-01-04T23:41:00Z
+    webUrl: "https://interestingengineering.com/qualcomm-unveils-gambit-to-build-digital-chassis-for-self-driving-cars"
+    ampWebUrl: "https://amp.interestingengineering.com/qualcomm-unveils-gambit-to-build-digital-chassis-for-self-driving-cars"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/qualcomm-unveils-gambit-to-build-digital-chassis-for-self-driving-cars"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 43
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QjOddRPQOd/sizes/ces-2022-snapdragon-digital-chassis-render-01_resize_md.png"
+        width: 744
+        height: 419
+        isCached: true
 
 secured: "KEkPyEn9OSoyaMUkplf8nDraGd7wBfG42hkkMtjzVJ/Zyiv6jy6JAerRb+OvoPf0bZxxm6IM5Ypko0CCpY16/uJMWGlrpvTM8DQT7+K+yQzZR6BxdY0Rv9DRP0M5KVVPGdHq35tXq16dbQqPXThlpR7kodRx6awlcTA6klqciEbTGlDvR+Yq2Ui7iMgRUN2djIgvh0MewQILC8Q0ckkLxUhEonVlkIy+6IxvHFVmCElMlpANg4HqwsHSnJ3tA1nPOBGGQQIeg2hdGwvCmLYWC4v1YctlIHZGsmF8yyW1hrTvTt6g5+nTrApR7QlV7HXlWKaBZ3wg3NhmXKp2pw02RuPFWppp9Xh7AV0X5UqWDsA=;XJUinxcTWK/kwKI5vQoILQ=="
 ---

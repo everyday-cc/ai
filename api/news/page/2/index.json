@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-04-why-2022-will-be-an-ai-powered-renaissance.md",
+      "title": "Why 2022 Will Be An AI-Powered Renaissance",
+      "excerpt": "Now, electronic brains powered by human-designed AI are poised to play the role of protagonists in 2022 and potentially accelerate progress in our society to drive our very own Renaissance. Some say that the best way to predict the future is to create it,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/",
+      "publishedDateTime": "2022-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-understanding-the-ai-market.md",
+      "title": "Understanding The AI Market",
+      "excerpt": "Is the AI hype justified? It depends on who you ask. Artificial intelligence (AI) is populating different areas of the Gartner hype cycle. Chatbots? Disillusion. Machine learning? Great, but expectations have been lowered a bit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4714089da2fe280f7f974%2F0x0.jpg",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/",
+      "publishedDateTime": "2022-01-04T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-improving-the-cloud-for-telcos-updates-of-microsofts-acquisition-of-atts-network-cloud.md",
       "title": "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud",
       "excerpt": "In June 2021, Microsoft and AT&T reached a major milestone when we announced an industry-first collaboration to adopt Microsoft cloud technology for AT&T’s 5G core network workloads. Since then, we have had requests from many operators, partners, and customers to share more details. This blog is intended",
@@ -105,7 +209,7 @@
       "originalUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -328,7 +432,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -381,7 +485,7 @@
       "originalUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
       "featuredContent": null,
       "highlight": null,
-      "heat": 195,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -424,7 +528,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -475,7 +579,7 @@
       "originalUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -621,7 +725,7 @@
       "originalUrl": "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -725,7 +829,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -915,7 +1019,7 @@
       "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1111,92 +1215,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-b2b-manufacturing-and-automation-startup-groyyo-raises-46-mn-in-seed-funding.md",
-      "title": "B2B Manufacturing And Automation Startup Groyyo Raises $4.6 Mn In Seed Funding",
-      "excerpt": "Mumbai-based B2B manufacturing and automation startup Groyyo today has raised $4.6 Mn in a seed funding round led by Alpha Wave Incubation.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/",
-      "originalUrl": "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/01/factory-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/amp/",
-      "publishedDateTime": "2022-01-02T23:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-02-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
-      "title": "Ethical impact of AI on health, safety and wellbeing",
-      "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/",
-      "originalUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32891.pcdn.co/wp-content/uploads/2019/10/GettyImages-1051617224.jpg",
-          "width": 800,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/",
-      "cdnAmpWebUrl": "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/",
-      "publishedDateTime": "2022-01-02T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SHP Online",
-        "domain": "shponline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

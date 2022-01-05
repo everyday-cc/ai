@@ -2,6 +2,263 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-22-a-push-for-digital-transformation-the-global-ai-investment-boom.md",
+      "title": "A Push For Digital Transformation: The Global AI Investment Boom",
+      "excerpt": "A large amount of funding has been allotted to solutions supporting digitalization initiatives at the enterprise scale, with AI becoming the gold standard for contributing to that effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/a-push-for-digital-transformation-the-global-ai-investment-boom/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/a-push-for-digital-transformation-the-global-ai-investment-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614b34bfb6bd8aa1effe59ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/a-push-for-digital-transformation-the-global-ai-investment-boom/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/a-push-for-digital-transformation-the-global-ai-investment-boom/amp/",
+      "publishedDateTime": "2021-12-22T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm.md",
+      "title": "Sayollo partners with Speechly to bring voice recognition to gComm",
+      "excerpt": "Sayollo partners with Speechly to add voice recognition and navigation to mobile, in-game shops via its gComm software",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/",
+      "originalUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/sayollo-edit.png?w=1200&strip=all",
+          "width": 1080,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/amp/",
+      "publishedDateTime": "2021-12-22T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity.md",
+      "title": "Can AI Virtual Assistants Help Close The Gaps In Cybersecurity?",
+      "excerpt": "In the era of the Great Resignation, when your company may be short on skilled employees, time and financial resources, digital cybersecurity analysts may be an option worth exploring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1dc2e950fe36bb18fba64%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-how-leaders-can-use-facial-recognition-technology-as-a-force-for-good.md",
+      "title": "How Leaders Can Use Facial Recognition Technology As A Force For Good",
+      "excerpt": "Facial recognition, when used within moral codes of conduct and an ethical framework, can be very beneficial, and it could be key to streamlined experiences, secure processes and a safer society.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c2114d7a803060327c8938%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/22/how-leaders-can-use-facial-recognition-technology-as-a-force-for-good/amp/",
+      "publishedDateTime": "2021-12-22T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.md",
+      "title": "UN talks to ban 'slaughterbots' collapsed — here's why that matters",
+      "excerpt": "A UN conference failed to agree on banning the use and development of so-called \"slaughterbots\" at a meeting in Geneva last week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
+      "originalUrl": "https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106992652-1640169480556-gettyimages-1236334796-Armed_Police_Training.jpeg?v=1640176120",
+          "width": 4000,
+          "height": 2629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
+      "publishedDateTime": "2021-12-22T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-face-recognition-is-being-bannedbut-its-still-everywhere.md",
       "title": "Face Recognition Is Being Banned—but It’s Still Everywhere",
       "excerpt": "Two dozen cities and states prohibit use of the tech. But it’s on phones and is increasingly used in airports and in banks.",
@@ -904,202 +1161,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-sait-using-autonomous-robots-to-clean-main-campus.md",
-      "title": "SAIT using autonomous robots to clean main campus",
-      "excerpt": "SAIT has started using autonomous robots to clean the floors at its main campus. The robots are from Brain Corp, an artificial intelligence (AI) company, and contracted to SAIT for use through Calgary-based Bee Clean,",
-      "sourceUrl": null,
-      "webUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
-      "originalUrl": "https://calgary.ctvnews.ca/sait-using-autonomous-robots-to-clean-main-campus-1.5715514",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514/_jcr_content/root/responsivegrid/image.coreimg.jpg",
-          "width": 1020,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/calgary/2021/12/21/1_5715514.amp.html",
-      "publishedDateTime": "2021-12-21T12:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-50-global-hubs-for-top-ai-talent.md",
-      "title": "50 Global Hubs for Top AI Talent",
-      "excerpt": "As AI expands into more and more facets of our lives, there is also more scrutiny on who is developing it. Building ethical AI that works for everyone will require a diverse workforce that brings a broad range of perspectives.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent",
-      "originalUrl": "https://hbr.org/2021/12/50-global-hubs-for-top-ai-talent",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2021/11/Dec21_07_brian-kostiuk_luke-stackpoole_unsplash_2.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2021/12/50-global-hubs-for-top-ai-talent",
-      "publishedDateTime": "2021-12-21T11:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-face-detection-in-untrained-deep-neural-networks.md",
-      "title": "Face detection in untrained deep neural networks",
-      "excerpt": "Researchers have found that higher visual cognitive functions can arise spontaneously in untrained neural networks. A KAIST research team led by Professor Se-Bum Paik from the Department of Bio and Brain Engineering has shown that visual selectivity of facial images can arise even in completely untrained deep neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/938633",
-      "originalUrl": "https://www.eurekalert.org/news-releases/938633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/287aa929-bfb7-4958-9f9f-184912fa866c/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T09:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-omicron-looms-large-over-healthcare-workers-and-ai-can-help.md",
-      "title": "Omicron Looms Large Over Healthcare Workers, And AI Can Help",
-      "excerpt": "As COVID-19 vaccination rates rise and the U.S. and other countries gain more knowledge of the virus, decision-makers must adjust their policies to better prepare for omicron and future variants. Of the more than 240 million people confirmed to have contracted COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
-      "originalUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
-      "publishedDateTime": "2021-12-21T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-hosting-infrastructure-services-market-size-2021-global-industry-share-top-players-opportunities-and-forecast-to-2029.md",
-      "title": "Hosting Infrastructure Services Market Size 2021 Global Industry Share, Top Players, Opportunities And Forecast To 2029",
-      "excerpt": "The global hosting infrastructure services market is estimated to reach a value of US 12 billion in 2019 up from US 11 billion in 2018 according to a recently published report by Future Market Insights FMI Gains remain underpinned by",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "originalUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "publishedDateTime": "2021-12-21T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
