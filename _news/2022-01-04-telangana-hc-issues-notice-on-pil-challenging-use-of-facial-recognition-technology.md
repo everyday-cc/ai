@@ -139,20 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tag: Face Recognition Technology"
-    excerpt: "On Dec. 17, 2021, Mayor London Breed declared “the existence of a local emergency” based upon a spike of overdose deaths in the Tenderloin, but to a trained eye it appears in its true colors as a coup d’état."
-    publishedDateTime: 2022-01-01T06:22:00Z
-    webUrl: "https://sfbayview.com/tag/face-recognition-technology/"
-    type: article
-    provider:
-      name: San Francisco Bay View
-      domain: sfbayview.com
-    quality: 39
-    images:
-      - url: "https://sfbayview.com/wp-content/uploads/2021/02/Black-History-Month-graphic.jpg"
-        width: 792
-        height: 792
-        isCached: true
   - title: "Facial recognition technology: Advent of totalitarian utopia?"
     excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
     publishedDateTime: 2022-01-04T09:58:00Z

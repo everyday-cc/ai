@@ -35,6 +35,22 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "Fintech On Benzinga: 2022 Will See The Next Milestone In Fintech"
+    excerpt: "Nima Ghamsari, Co-Founder and CEO of Blend Labs (NYSE: BLND), presented on a sponsored panel at Digital Mortgage 2021 – a virtual conference a couple of weeks ago."
+    publishedDateTime: 2022-01-05T20:44:00Z
+    webUrl: "https://www.benzinga.com/fintech/22/01/24918260/fintech-on-benzinga-2022-will-see-the-next-milestone-in-fintech"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24918260"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24918260"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://www.benzinga.com/files/1_41.png"
+        width: 1840
+        height: 965
+        isCached: true
   - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
     excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
     publishedDateTime: 2022-01-02T06:29:00Z

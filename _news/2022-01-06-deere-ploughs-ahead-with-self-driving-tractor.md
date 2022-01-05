@@ -163,6 +163,20 @@ related:
         width: 1540
         height: 800
         isCached: true
+  - title: "Keeping self-driving cars safe from hackers"
+    excerpt: "IT firms in Japan are responding, by accelerating the development of security systems that protect the internet connections of self-driving vehicles. A venture company in Tokyo is working on cyber security for automobiles."
+    publishedDateTime: 2022-01-05T09:31:00Z
+    webUrl: "https://newsonjapan.com/html/newsdesk/article/132931.php"
+    type: article
+    provider:
+      name: NewsOnJapan
+      domain: newsonjapan.com
+    quality: 24
+    images:
+      - url: "https://newsonjapan.com/images/logo/noj-logo12.png"
+        width: 484
+        height: 263
+        isCached: true
 
 secured: "MQb+/ZRxUeMqAPoHzTeB9pnieFjnOr+vlRCtsjq3RyAZptzRn9JfihM9VTDK/zBQvNa5LzUH9BgA5w5ySx5J/Y2vnD0RnHIxPMb6bkmZEuV2BWPiYvjANi0/bJACD8nXNYaUc2Arui0iErkToZjv39R63hmShOjMkEmrxhFHgcEM+tIIEkgXuFoY0S7DKGpyu8OJszfyF7betoHZq5PKfXl1FdkpOMumbJ6phLkk5vTJved1EPsQqZMDzpLI31ltXu24ILCMmQHu541HSr6DDrzAc5c5E7pA+ABL1y8Xaq0HX9NHijNr9KiIPiHVpNU/oQo02+GujY5KF+MMP3IYrVVNGle0s3dWh1bhZt+7KkY=;HTZe6nK2xOCRxzCnHAax6A=="
 ---

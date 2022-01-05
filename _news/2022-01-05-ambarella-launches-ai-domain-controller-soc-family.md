@@ -49,7 +49,7 @@ related:
     provider:
       name: Houston Chronicle
       domain: chron.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://staticx-tuner.zacks.com/images/charts/0d/1641391398.png"
         width: 583

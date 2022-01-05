@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cadillac's next luxury concept is a self-driving sports car with no steering wheel"
+    excerpt: "Cadillac is pushing the boundaries of what luxury transportation looks like with its InnerSpace concept car. At a Wednesday livestream at the CES technology conference, Cadillac gave a dramatic preview of our autonomous future."
+    publishedDateTime: 2022-01-05T22:01:00Z
+    webUrl: "https://mashable.com/article/general-motors-cadillac-autonomous-concept-ces"
+    ampWebUrl: "https://mashable.com/article/general-motors-cadillac-autonomous-concept-ces?amp"
+    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/general-motors-cadillac-autonomous-concept-ces?amp"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 68
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/04UARbRIt9qvOR75ZiDcOPx/hero-image.fill.size_1200x675.v1641415937.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cadillac's new self-driving concept is a luxury loveseat on wheels"
     excerpt: "After introducing a six-person self-driving box and a frickin' ridable drone concept last year, GM's latest luxury self-driving EV idea is much more grounded. The InnerSpace concept looks like a futuristic car from the outside—but inside,"
     publishedDateTime: 2022-01-05T20:46:00Z

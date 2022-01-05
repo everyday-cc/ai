@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verificatio
 webUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/"
 type: article
 quality: 106
-heat: 157
+heat: 156
 published: true
 
 provider:

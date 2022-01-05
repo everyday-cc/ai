@@ -1,28 +1,30 @@
 ---
 category: news
 title: "A simple calculation can stop artificial intelligence sending you broke"
-excerpt: "Mike is a 40-something crop farmer from southern Queensland. With a chestnut tan, crushing handshake and a strong outback accent, he's the third"
-publishedDateTime: 2022-01-05T20:40:00Z
-originalUrl: "https://menafn.com/1103494337/A-simple-calculation-can-stop-artificial-intelligence-sending-you-broke"
-webUrl: "https://menafn.com/1103494337/A-simple-calculation-can-stop-artificial-intelligence-sending-you-broke"
+excerpt: "It’s easy to be swayed by the grand promises of AI. But new technology is not the solution to everything. Do your sums first."
+publishedDateTime: 2022-01-05T19:10:00Z
+originalUrl: "https://theconversation.com/a-simple-calculation-can-stop-artificial-intelligence-sending-you-broke-173501"
+webUrl: "https://theconversation.com/a-simple-calculation-can-stop-artificial-intelligence-sending-you-broke-173501"
+ampWebUrl: "https://theconversation.com/amp/a-simple-calculation-can-stop-artificial-intelligence-sending-you-broke-173501"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/a-simple-calculation-can-stop-artificial-intelligence-sending-you-broke-173501"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-01/05/TC_95b32image_story.jpg"
-    width: 1252
-    height: 834
+  - url: "https://images.theconversation.com/files/437491/original/file-20211214-27-6f1xq.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
     isCached: true
 
-secured: "wF7ujBXp2pukSGLWQO3HS5E+wegY0W0TUYCRXdF1EVtWuuZW9mhJUUcDNgs2n38gy9pMLRAYadRjrlIJyLjckaaTX+4LigwK7rpblmFMDWQsFiDbyVET1GtTrc5m31p0ZKSi5+GoRetYwXNWFWxH3M1sDGcos3LpYWinlBRrbsAJ+bs9lieSpo+i7tTcPVzuKbqNHMCrqDC0XBvuAIGWErZkbJhvcdmpJdmat0g/ZHkSjKs0kt0kElUg4cjhoXpdeo4chcpZlfs/LQyKvkEdjp4rc4A07uMeWK7pFMraFgvmlCKtDFPbK4GfUsxr5kX/gSK9oj81Mp117Yo2lDrpRpn8f3Xs1d8i5QQkKZHavN8=;XQ2lqJDrPM/ZG9GgE2CjYQ=="
+secured: "SUqbrzuUT0HfVBTPoQoFKrfhZZpgpj6Qgwy4gptujWfTbXkNwKL+OHpj/KN7MgzDyfW0LqaYA0NDcXfXYYlINj3UwccBFo8kiiYvD6nRiqzzAdDnS4eeLIOdX1qntcSykoDkpBRT49RyMg8at8vH5rb/w9NtHRl+J2D0Gl5U5ACMYHl428NwWt9Bb58Ydb07hW91YHCEvNxI5mEx/FuZBBqxVIHmOa9/lks/9y16szjZ56xYKvC++tGJK99resfKFieClZOO+/5haoeMRrjiNC0vJoLcAy99e7J1wkrN/YJwGcPoGIzkr73bUo8Xi6seJjokTMkgtnQdUdelJSPkn2qedKVLXxvgkb1GSwU8+wY=;jpWxul673umB+W16cv6gjg=="
 ---
 
