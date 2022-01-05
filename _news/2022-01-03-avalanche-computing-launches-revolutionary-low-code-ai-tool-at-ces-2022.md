@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computin
 webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
 type: article
 quality: 69
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoyNet to introduce AI accelerator at CES 2022"
-    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
-    publishedDateTime: 2021-12-31T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24847305"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24847305"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022'"
     excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
     publishedDateTime: 2022-01-04T09:48:00Z

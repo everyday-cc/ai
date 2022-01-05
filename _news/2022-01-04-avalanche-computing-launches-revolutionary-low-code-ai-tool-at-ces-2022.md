@@ -39,17 +39,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "SoyNet to introduce AI accelerator at CES 2022"
-    excerpt: "SoyNet (CEO Yong-hoKim, Jung-wooPark) will introduce an AI execution accelerator at the \"CES 2022\" which will be held"
-    publishedDateTime: 2021-12-31T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/n24847305/soynet-to-introduce-ai-accelerator-at-ces-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24847305"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24847305"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
     excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
     publishedDateTime: 2022-01-04T02:02:00Z

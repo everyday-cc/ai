@@ -103,6 +103,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Speech Recognition Market Segments, Leading Player, Application and Forecast Analysis 2026"
+    excerpt: "Speech Recognition Market Growth Analysis PORTLAND, OREGON, UNITED STATES, January 5, 2022 /EINPresswire.com / -- Allied Market Research"
+    publishedDateTime: 2022-01-05T08:43:00Z
+    webUrl: "https://menafn.com/1103490484/Speech-Recognition-Market-Segments-Leading-Player-Application-and-Forecast-Analysis-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/05/EP_5333dimage_story.jpeg"
+        width: 790
+        height: 466
+        isCached: true
 
 secured: "7APolLAnwExjLbBMUUcDSeT0a5meyaMTyjiw5dHo1s6d6pafvreNY7RexC9daj6xB7QjZUp/OQw2N1JNOnB3J61Do9g9glK/2o0A00x/FYzesnywu73EW8wlntbM+xJxWZbyYvUq3iwshIWS4mVrvjPNbnP7pVLMMXPTAFCzQbFIWgyo+U0WsEyT8VZ2eO+4foXyuezF5kjFrP8LKh2OltiDFq3emxV4jYIk8gcG8Xr9osR6jL7AbrMxx2T4MLBNfBXbSM8oQy0IziYCtpO61oDg1/G9jFprUbYbBHuTJn3NGGF2PoraGvInFnO3xpOGzqGJtPFPodqqt6ZPrRIB7zU0164SvJoGqunmJMX4vxX5R0Q3RWpOQzpy4JMdrhhWaqVsUiJXmR2/o59KBCNnT0AIJ/eUyOdQ0a9ybKFwYuzJqyaHfJjUAh8QTQlUzAwi5JGjyOM5bpClH7WvudNx3u3iZgVtqMfxIGOB/lY963FdI5iF6LU9tcHN2pJz3D1lEQ4+p97CxVmtood9arnABw==;CcVHXTvoi4ybgpk2XeVblA=="
 ---

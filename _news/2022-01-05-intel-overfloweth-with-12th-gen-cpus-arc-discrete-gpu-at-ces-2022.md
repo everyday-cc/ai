@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Intel introduces third-gen Evo platform, provides update on Arc GPU availability"
+    excerpt: "Intel has also updated its Intel Evo certification program to third-gen. The company has also provided an update on Intel Arc availability."
+    publishedDateTime: 2022-01-05T08:23:00Z
+    webUrl: "https://pocketnow.com/intel-introduces-third-gen-evo-platform-provides-update-arc-gpu-availability"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 29
 
 secured: "USeQOohNsuAwNYbl5zovcuZVcfVyhZddBOZugBDX4UxhErqebbRdYQPxcVRU0XSFnoq0FyqAJczme6svespnikQGzSoP1pMPkvOOQxbtjUkZ2L9bD56o7HAMegeyLtWcxYYkKn1vw6U+VABUJU/+FfLHt4ZjOkarC22ck7qPO9cSHNYM2i9h4UuRgKEhJIecoq2925VAo+DlBOqBuBG+Vo/T+khvt5tOj7rK0tOKLSqvJAXlj0Jza5VmDNDROquCl5N5v6BezxFTggzZiM9i5VUXINFbFcEMlTkqCH5kvR9yWgtiTpGDd9nLWLxif1b/S8E1VOw3qzMTRq06oyNVHMuR8F65EL4xnHHcuQBALiZzGeYRuZEjTMGmhtzn/bjjBAJwYTPQsUCdZZGm3okhWpsvTO/BjpI/T+6KRg8Zu2bA/XhU9QZ0Oy7l+mQawQQeT6eakHRVkI9BWKLL1F1bghpFEhiQFJAg9HMteXp4U9a9HUT36K4qCzDZdiWhz7D6npwDm0Lc3ssDvI5Hrc0yQw==;I/E9O1eEtiu+kv3UTh6MPw=="
 ---

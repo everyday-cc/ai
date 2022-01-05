@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verificatio
 webUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/"
 type: article
 quality: 106
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://www.thehindu.com/sci-tech/technology/7kfqy8/article38110437.ece/ALTERNATES/LANDSCAPE_615/LGfacialjpg"
         width: 615
         height: 384
+        isCached: true
+  - title: "Speech Recognition Market Segments, Leading Player, Application and Forecast Analysis 2026"
+    excerpt: "Speech Recognition Market Growth Analysis PORTLAND, OREGON, UNITED STATES, January 5, 2022 /EINPresswire.com / -- Allied Market Research"
+    publishedDateTime: 2022-01-05T08:43:00Z
+    webUrl: "https://menafn.com/1103490484/Speech-Recognition-Market-Segments-Leading-Player-Application-and-Forecast-Analysis-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/05/EP_5333dimage_story.jpeg"
+        width: 790
+        height: 466
         isCached: true
   - title: "Worldwide Face Recognition with Edge Computing Industry to 2026 - Increasing Integration With Ai Drones and Video Surveillance Presents Opportunities"
     excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to"

@@ -1,30 +1,27 @@
 ---
 category: news
 title: "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION"
-excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led by ICCP SBI Venture Partners (ISVP), with additional funding from SEEDS Capital,"
-publishedDateTime: 2022-01-04T22:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-selections-solution-1031077866"
-webUrl: "https://markets.businessinsider.com/news/stocks/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-selections-solution-1031077866"
+excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led"
+publishedDateTime: 2022-01-05T07:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
 type: article
-quality: 47
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1715264/Image_for_Cision_PR_Newswire__Series_A_Funding_Campaign__Nina.jpg"
-    width: 400
-    height: 300
+  - url: "https://mma.prnewswire.com/media/1715264/Image_for_Cision_PR_Newswire__Series_A_Funding_Campaign__Nina.jpg?p=facebook"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -57,6 +54,6 @@ related:
         height: 720
         isCached: true
 
-secured: "eD4hsejP4YyQy1qZDHylGXCt9C50wic4WtijDKA0Da52rFFS6IvFfJsnvU8S7iIHGMuVyt9MT6KKLrNGv2EfYXpGcqn0vwf2jmF27xTfNWaFjAe1YQk9/l4b9/ceqsYe4k0LNOSCt41RkVi2ayNqDEPQivv2DOPu6jI+YqTsQWQTEExzKdMb1qcQGaIfpVr636/Y41v7WI26dfxh3azr931PkRXVUvVWOZDN9k/y4xRnQdPOiAJG5cMCiiiAFQauPemEfsD6XuJYkYR/k+FzYmzhsiDlXVmgWBJ/COAaCqDWu4jfZNDuWgTUbhQcdShaP3lfR2jYrEICP3j8Y1SmLnjqythBO8U6YygK8sqL2C8=;oHMzO+mg3F5D4yyqDdDr/w=="
+secured: "pTkDdSYt2J1l3kVd+OdAvP5NIEC5tlpNbKtmWoRQEybebek24ul8sCH3ZvhtPQhSaqfCsqBqntRgGTGXMekiqRN75Fm8iZt6guVRGmHNUafPVZnqo+2cryOKUMHb4SR7HW27rtQJmWXOyVcsocQ4z27raP6rzeitLIu5Ue6HGbhk5girzZwRkPONROI2wV3CV5vOmDfIxojTErzR4LmWO72tmdauuMT72j0yzaA39huwloXmYUOEJbkoTxWsOpGi/wQ6ACHd/Arc6GCOBashfZJCUXriEG9MSWc+FObuc7KvfL9Bg8KXiMzcSQwbHy4hGO3I0YdJv7KcMtgKx0WG2LGhSRbKwOMillXQEQ90I+k=;PawxRskJhvuQkQf3luv+7Q=="
 ---
 

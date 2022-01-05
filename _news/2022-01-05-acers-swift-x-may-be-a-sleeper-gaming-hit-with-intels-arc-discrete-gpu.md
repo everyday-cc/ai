@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intel introduces third-gen Evo platform, provides update on Arc GPU availability"
+    excerpt: "Intel has also updated its Intel Evo certification program to third-gen. The company has also provided an update on Intel Arc availability."
+    publishedDateTime: 2022-01-05T08:23:00Z
+    webUrl: "https://pocketnow.com/intel-introduces-third-gen-evo-platform-provides-update-arc-gpu-availability"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 29
 
 secured: "foAyKb3Fngl+jvB2Bek2QJdQENqfOlv+1MhB62IFO26H+E3pekYjluBjAY3D8Sc+bPNImEen5wbYlHfJb7gTBusKa4tk73c8u/Xcbl+ANlXP8i+Y5jG6jchfO9xTDgybE1U/RMi9YmmBZm7meOeCAfo9dwtdEsTsyIBaWxcP1Clz4pyxSi9fNRqjauGiED5gYeX6M84iDNHgo4vthKprkYrNfudWskCR8HIWHzu6XFHICOzXKbM/k4D/gMFb/8TqwEvDt0EVBUx9pI9Dn/SGNUTMJZuuQpgJtgS8Cu6HN35Tk00j+6NOGDt/RCntBqcyRHNhy52xCS+SoKUiotM26iA3wsd+V/Jdq17R9Br86QiujwMNHIRMX3RD5TKi6vD5NnJZRbULHOWJFAHfjq4H2Nsj/sMoqyZKn4bTve/Iq45+6rZmTazMabIQGdbwi4Snt4IKnQa4tbbP6KeLWhqKtAUoLOUYNLXjyCVXVp4ELi3o8MLH0v4gDARaa0UcfCq+L2Y8U2GTY1qDBC5iA8BMlQ==;G4W1tZzKNdPpHMPJsb1q9A=="
 ---

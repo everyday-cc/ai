@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-net
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

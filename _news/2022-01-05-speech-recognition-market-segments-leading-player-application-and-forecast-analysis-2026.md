@@ -1,29 +1,27 @@
 ---
 category: news
-title: "UC Student Researchers Union Gains Recognition"
-excerpt: "After months of negotiating deadlock, the University of California system formally recognized graduate student researchers as higher education employees and thus their right to unionize. “Almost every student researcher I’ve talked to knows someone who has been underpaid,"
-publishedDateTime: 2021-12-31T22:31:00Z
-originalUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/"
-webUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/"
-ampWebUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
-cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
+title: "Speech Recognition Market Segments, Leading Player, Application and Forecast Analysis 2026"
+excerpt: "Speech Recognition Market Growth Analysis PORTLAND, OREGON, UNITED STATES, January 5, 2022 /EINPresswire.com / -- Allied Market Research"
+publishedDateTime: 2022-01-05T08:43:00Z
+originalUrl: "https://menafn.com/1103490484/Speech-Recognition-Market-Segments-Leading-Player-Application-and-Forecast-Analysis-2026"
+webUrl: "https://menafn.com/1103490484/Speech-Recognition-Market-Segments-Leading-Player-Application-and-Forecast-Analysis-2026"
 type: article
-quality: 59
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Santa Barbara Independent
-  domain: independent.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.independent.com/wp-content/uploads/2021/12/student-researchers-union-protest.jpg?fit=1383%2C991"
-    width: 1383
-    height: 991
+  - url: "https://menafn.com/updates/pr/2022-01/05/EP_5333dimage_story.jpeg"
+    width: 790
+    height: 466
     isCached: true
 
 related:
@@ -57,6 +55,22 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "UC Student Researchers Union Gains Recognition"
+    excerpt: "After months of negotiating deadlock, the University of California system formally recognized graduate student researchers as higher education employees and thus their right to unionize. “Almost every student researcher I’ve talked to knows someone who has been underpaid,"
+    publishedDateTime: 2021-12-31T22:31:00Z
+    webUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/"
+    ampWebUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
+    cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
+    type: article
+    provider:
+      name: Santa Barbara Independent
+      domain: independent.com
+    quality: 59
+    images:
+      - url: "https://www.independent.com/wp-content/uploads/2021/12/student-researchers-union-protest.jpg?fit=1383%2C991"
+        width: 1383
+        height: 991
+        isCached: true
   - title: "HC notice to state, cops for using face recognition tech"
     excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face"
     publishedDateTime: 2022-01-03T22:27:00Z
@@ -89,20 +103,6 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Speech Recognition Market Segments, Leading Player, Application and Forecast Analysis 2026"
-    excerpt: "Speech Recognition Market Growth Analysis PORTLAND, OREGON, UNITED STATES, January 5, 2022 /EINPresswire.com / -- Allied Market Research"
-    publishedDateTime: 2022-01-05T08:43:00Z
-    webUrl: "https://menafn.com/1103490484/Speech-Recognition-Market-Segments-Leading-Player-Application-and-Forecast-Analysis-2026"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 29
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/05/EP_5333dimage_story.jpeg"
-        width: 790
-        height: 466
-        isCached: true
   - title: "Worldwide Face Recognition with Edge Computing Industry to 2026 - Increasing Integration With Ai Drones and Video Surveillance Presents Opportunities"
     excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to"
     publishedDateTime: 2022-01-04T17:45:00Z
@@ -118,6 +118,6 @@ related:
         height: 419
         isCached: true
 
-secured: "wZNDn//8uem01YqX2KrsIjpc8BaEemhHqVftChL8jAQ6QoNYm3fSXh1wxefDLHGRjRnc7kmBZXgW+55tJ7OlotwdlmwvOvZ7LrB1cN8Oda6dm44qOabp/+I71vELueoUUG2h6ANxoy9VrWDgJb3Rk+oa07hNzp6RTjN8yo3uEOmmhJbJ02cLUQYtbik0GhUKqw9xNI5rBpAwh34XCIrcUkJFGQQznAv4+Tg+mgnYCpEN3OI08KHWvGWhDLVKTzTZ8Qw6j5BTv/keDFoHP1hQZmN5h2xjv1043j13IJdLDR7OFH5yqoQW567kGYFkKG/gDEb2PF8nKfPHUqZvstjobPZx3+RKFe6HDwgkDYnvAUt4vDsM3P5gkrcliP+xINchzqNEAH/QcyX+s2Abi0ug2ObQvudqK/vxd/kFnkQtRmKDdI061tKqmU7phspY3GkIycBiDcPZ/j/lHtQqV3efQyoQlDxT0g6+mTp6yhqgGCZtfGtyXxPAWnDUcg5Yyinh94uVjXi15fK8AtuRjPI5hg==;4oLGpz1nW+cljmaGIOiF9w=="
+secured: "F/aviERAhG7vpNXA4BGLo6aqegcl7dOs4advu85eoRO9as1RiQy6Q/LID0g/kbsqut6bClezxnbxEDX8gh4b59sl43pz2dgEMh06NvZuxztjX1Kgt2nj5K7OyH8OXcfaKl6D/5IMo9fgbnq8r/d2tjqKJraYFszlI6pLNO0IMxK8D94dvc6CXbz2S4nxnt5avWklWus/YLQ7CnNaVcqPxHtHNWF5YlMxmAUr9XRpNIiWZRiT/rEifduxJ3QKlh9ar8dy+50Gi5qv3T+NUSqJp/Nak2bUVNsoOR5KrGutks1orD/sFoPA/xI/tW0Ceh95riPeU3Mzp0jQOg9h0qne55hxBYw4tfH2yhe0DRn44AM=;fb0OjiydSeMsrpyIRsnyQA=="
 ---
 

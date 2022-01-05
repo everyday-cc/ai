@@ -1,24 +1,28 @@
 ---
 category: news
-title: "Lenovo™ Selects Synaptics' Katana™ Ultra-Low-Power AI Solution for Yoga Tab 11"
-excerpt: "Synaptics ® Incorporated (NASDAQ: SYNA) today announced that its Katana platform drives AI-enhanced voice processing in the Lenovo Yoga Tab 11, the latest member of the Yoga Family of tablets. The Katana system-on-chip (SoC) uses proprietary neural network-enabled hardware and algorithms to clearly discern and capture user voices and related commands in challenging environments to ensure a robust voice assistant experience in Lenovo's Yoga 11."
-publishedDateTime: 2022-01-03T20:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/g24870092/lenovo-selects-synaptics-katana-ultra-low-power-ai-solution-for-yoga-tab-11"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/g24870092/lenovo-selects-synaptics-katana-ultra-low-power-ai-solution-for-yoga-tab-11"
-ampWebUrl: "https://www.benzinga.com/amp/content/24870092"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24870092"
+title: "Lenovo™ Selects Synaptics’ Katana™ Ultra-Low-Power AI Solution for Yoga Tab 11"
+excerpt: "Synaptics® Incorporated (Nasdaq: SYNA) today announced that its Katana platform drives AI-enhanced voice processing in the Lenovo Yoga Tab 11, the latest member of the Yoga Family of tablets. The Katana system-on-chip (SoC) uses proprietary neural network-enabled hardware and algorithms to clearly discern and capture user voices and related commands in challenging environments to ensure a robust voice assistant experience in Lenovo’s Yoga 11."
+publishedDateTime: 2022-01-03T21:32:00Z
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/technology-lifestyle-yoga-67cef2b199044c90b639f9c86a4384da"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-lifestyle-yoga-67cef2b199044c90b639f9c86a4384da"
 type: article
 quality: 35
 heat: 35
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Synaptics VS680 Multimedia SoC Powers AI-Enriched Display and Vision Features in Askey OmniEdge Smart Signage"
@@ -36,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ocraCzkLLPN38/51xnYZUsLjDgPBgM2uD/YG0UGhsO7kBrcJD65Vi0dlO0Iga5Wbke9Wx+c8XZUdE5sdNFAtVMbwP4VV6lg2LOM73eD2rinfYCWaM7aa5HCCnQBDCD9QYC+zzaHdage7PiaC4t0eS5wmjiLasuCkxVbZSftWar8vXWmjb7lEltcljC7ZetK39w209JmCW1rRWtZgAse7V6hK758kpRGdxxPWLiG3cdZYLAnMpMU+fKu3E09/R2g2r6t1ENWyOi6MX9ddU48ImYrYuwR3BaZFvzy0QJEiYdHo+4bIlgOlu+q5ueSgXCPP1hZRiiOUcsVXbV1tmW6CrxG1G7RFcZqrZxZXdXXn8Hg=;24AF8mXbJqk7EP8RL6bhBA=="
+secured: "jXNVlsKwAPXJL4IB8BL8KXDSNjZd9Ppvx8tyuzjMCbdiR/JDw6n7Lllwh3ScZmc+D0WECo8HGF4bI4RQE2mbKxWFK1qRxuzth4sWCVz4xEEY7NWa/yMPh25vRSK/GgmmPVggf/lqR+2fm800763UwBcGmV2zo139/5lWxRcJXnvRuYLU6X0PeefSVaQd8voKbXWgY489yftkgG5oevCZc0HwyF/AZQ6gD2WGgxJkC8kmK4pmlEFNI7pjG4XZjnx7+zsrX0RuI5IzJd5Fih/gtp178cMKLGm0OSOiscRb0BgRxDAVhgdo/r5N7jzl4UiVQIgSGF8ikmEu77jrIAVLTmqyP4eKj8m/Nvbk3v4i32k=;qHp/3fKfOsr6B2WChpKe1Q=="
 ---
 

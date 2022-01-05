@@ -24,6 +24,17 @@ images:
     height: 512
     isCached: true
 
+related:
+  - title: "Global AI-enabled Vision Solution in Textile Market Research Report 2021 - Impact of COVID-19 on the Market"
+    excerpt: "Pages Report] Check for Discount on Global AI-enabled Vision Solution in Textile Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
+    publishedDateTime: 2022-01-05T07:48:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5225652-global-ai-enabled-vision-solution-in-textile-market-research-report-2021-impact-of-covid-19-on-the-market.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 0
+
 secured: "ZS7h8Xp6eJxzjzVuOkjBdoWUeEJ4SuYBxkyg4ym2Lrj2gxzULauxUDtYW3epBOmiA1vpnglu5tB6z8vFYnpc/CVhrjOxQFGrlgtxRs+KY77/QfD5BUOEKE2eRX9h1CNkTv8lulTdhD6BQRXaNZMRUCUCMCgzIWHREZXIpDj21TYjak8fdkaAfsCo6qeuMBPrnpbXpyMrfy0dRm6xbrcyimXjvH7k9Ue13CgHteDmk4FZHPJ8aMDMkwsxqz9l3jd0WvlthXU2N/j3sPDT+lQ1moq09XD1mEjVuKVn44B/yzA2dmNWbp7bRRA6eGgX2eLIm+LX7UemoKmrBgyNruiptkPAXudXs2GVsCPLPWxEtiI4NmTgnCB65B1owtCB+75qe9yHroO30VGGtlsnOo+oqNjVXV6APsV5UG7XwduEBvGCqvs06hRKz3CdYueKvcR99B9Au7Q5o0H1xRIQdAjVfYwfXPVaPkNan7zEP7Xz5hf0DEmqc9qplVg1jKCIErPTEV1ZGxnspQCSPmOeS/rLcg==;acST1ObZcn7myij77NnRYw=="
 ---
 
