@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-su
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 600
     isCached: true
 
-secured: "S9JIYSCHXOCz7gKUzj6ip9BK8hC2h2BCusnOeI63BHxLaDuWRZNCOrgnJTpq4DgVx//CburyjDgZc2lqvGmTwRcv+uybZJhrk4BjzXTFMq2oL4cCWqYhB2mxM+RYkaUQjuQdXgm9yJ+EzZK6pYfj1u/my3Q3CHaF9rn0uhKtOewQtclFwvxGseh9cVCuSCOizcPRSCbNsWAMZX4Dsn+RJoIR2OF14PXJkqMa2vRsvlPVQfwxj78C4/MOIoXltE8e3Wb6OFkVMOb1IrLce6U7JFThDqHp8do8FIfAK4YRJjrLxC1sV6VG75sJCEF1yB4tadNtFb6NJEjpgtT+MlTWkO5smTfE6langrF/cEV1Lsk=;J6mz9NkylbVBVjVNG1hufQ=="
+secured: "ruzQGccKCmdewbXe7cvUDoa5mjR+qmNHgkof4dGBfLfTJoZzN2GYMHQUWtxKJDSq1hl0AsBEyGZ+ldjGEyAcnaNs+GOB08kiExAiBLrvIxh7o9R1SLStQy9JW53s2m7UWZl5vNhyU5WbTyZRFxn95SOj/BdCJng1YLUfs3qiuSA/Py8oHRCbjlKM1KfPO6slq1Hp9QMXYPJWDTE6noUliFce2o+JPovc1XF6lwI2f1Tkuz+hZwCigAfQWdRaUBXR94xxIMvdun++QmuycJzZ6aMStGK6W498qFXXHEXogm15Oq7jhGWjZlx6SJMBcaf7Bp8h8PRYmyrEzj9kIrDYweeeVCgS9RuDv8xhK7sRnCWTvNZxai4hdRFdnUI5vBvILENhVxbP7HP4kxh3brsR361ejfMuwYSLDexCnFuQxUUATcac1zzmSHXIyc7VKWTYhMZNPq8BfZOqUEamisyaRMT7CZTLy28gFKo/EAsEZWZkJS+I8/KKTtT53E94TxCH0srZtav2RgfnzQ+MFsSOvg==;P9BKgjgJnZIQP+mKCzOgRQ=="
 ---
 

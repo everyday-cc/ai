@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.detroitnews.com/amp/9079796002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9079796002"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous car developers lobby to defang safety data regulations"
-    excerpt: "The fight over autonomous vehicle crash data is a harbinger of fiercer debates to come as humans increasingly interact with robots and artificial intelligence technology increasingly pervades the ..."
-    publishedDateTime: 2021-12-31T13:06:00Z
-    webUrl: "https://www.latimes.com/business/story/2021-12-31/industry-lobbies-to-defang-safety-data-regulations-for-autonomous-vehicles"
-    ampWebUrl: "https://www.latimes.com/business/story/2021-12-31/industry-lobbies-to-defang-safety-data-regulations-for-autonomous-vehicles?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-12-31/industry-lobbies-to-defang-safety-data-regulations-for-autonomous-vehicles?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 44
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/f3a3dad/2147483647/strip/true/crop/851x569+24+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F0a%2F0f51dd684bfabacdd9d547be0a0a%2Fla-na-az-tesla-crash.png"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Autonomous car developers lobby to defang US safety data regulations"
     excerpt: "The fast-rising autonomous vehicle industry is lobbying US federal safety regulators to limit the amount of data companies must report every time their cars crash, arguing that the current requirements get in the way of innovation that will benefit the public."
     publishedDateTime: 2022-01-03T05:39:00Z

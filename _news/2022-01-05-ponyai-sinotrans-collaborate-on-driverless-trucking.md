@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "Tesla rival races to introduce driverless cars by 2024"
-    excerpt: "After excitement over driverless cars peaked half a decade ... vision in the 1990s convinced him that cameras and artificial intelligence software would improve to the extent that driver ..."
-    publishedDateTime: 2022-01-03T02:26:00Z
-    webUrl: "https://www.newstalkzb.co.nz/news/business/tesla-rival-races-to-introduce-driverless-cars-by-2024/"
+    excerpt: "After excitement over driverless cars peaked half a decade ago ... His early work in computer vision in the 1990s convinced him that cameras and artificial intelligence software would improve to the extent that driver assistance systems would be able ..."
+    publishedDateTime: 2022-01-03T12:44:00Z
+    webUrl: "https://www.telegraph.co.uk/business/2022/01/02/tesla-rival-races-introduce-driverless-cars-2024/"
     type: article
     provider:
-      name: Newstalk ZB
-      domain: newstalkzb.co.nz
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
     quality: 54
     images:
-      - url: "https://www.newstalkzb.co.nz/media/fcidrzb5/amnon-shashua-co-founder-of-mobileye.jpg?mode=crop&width=635&height=395&rnd=132856969817230000"
-        width: 635
-        height: 395
+      - url: "https://www.telegraph.co.uk/content/dam/business/2021/12/31/TELEMMGLPICT000280027361_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=logo-overlay"
+        width: 1024
+        height: 536
         isCached: true
   - title: "Autonomous Trucking Milestone: Pony.ai Forms Joint Venture"
     excerpt: "Pony.ai, a leading global autonomous driving technology company, announced on December 27th that PonyTron, its autonomous trucking business unit, formed a joint venture with Sinotrans, part of China Merchants Group and one of China's leading logistics and freight forwarding companies."

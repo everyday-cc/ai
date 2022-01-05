@@ -121,6 +121,38 @@ related:
         width: 946
         height: 630
         isCached: true
+  - title: "NVIDIA unveils its new flagship GPU RTX 3090 Ti"
+    excerpt: "At CES 2022 press conference, NVIDIA unveiled its flagship GPU RTX 3090 Ti. The company didn't reveal many details and suggested us to wait a few days for"
+    publishedDateTime: 2022-01-05T06:09:00Z
+    webUrl: "https://techlomedia.in/2022/01/nvidia-unveils-its-new-flagship-gpu-rtx-3090-ti-88133/"
+    ampWebUrl: "https://techlomedia.in/2022/01/nvidia-unveils-its-new-flagship-gpu-rtx-3090-ti-88133/amp/"
+    cdnAmpWebUrl: "https://techlomedia-in.cdn.ampproject.org/c/s/techlomedia.in/2022/01/nvidia-unveils-its-new-flagship-gpu-rtx-3090-ti-88133/amp/"
+    type: article
+    provider:
+      name: techlomedia.in
+      domain: techlomedia.in
+    quality: 59
+    images:
+      - url: "https://i1.wp.com/techlomedia.in/wp-content/uploads/2022/01/3090-ti.jpg"
+        width: 900
+        height: 450
+        isCached: true
+  - title: "NVIDIA Announces RTX 3050 GPU With Ray Tracing And DLSS For Budget PC Gamers"
+    excerpt: "During NVIDIA’s CES 2022 showcase on Tuesday, the company announced a new entry-level GPU, the GeForce RTX 3050, bringing the performance and efficiency"
+    publishedDateTime: 2022-01-05T04:49:00Z
+    webUrl: "https://www.techworm.net/2022/01/nvidia-rtx-3050-gpu.html"
+    ampWebUrl: "https://www.techworm.net/2022/01/nvidia-rtx-3050-gpu.html/amp"
+    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/01/nvidia-rtx-3050-gpu.html/amp"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 56
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/01/RTX-3050.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia announces RTX 3080 Ti and 3070 Ti laptop GPUs and RTX 3050 desktop GPU"
     excerpt: "Nvidia today announced two new GPU options for notebooks, along with a new graphics card for desktop user. The company also teased an upcoming flagship desktop GPU. The RTX 3080 Ti and RTX 3070 Ti join the range of Nvidia 30-series GPU options for notebooks."
     publishedDateTime: 2022-01-04T23:00:00Z

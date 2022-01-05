@@ -75,6 +75,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 0
+  - title: "CORRECTING and REPLACING Modern Age Cards Through Modern Age AI: Uni Cards to Deploy Scienaptic AI-Powered Credit Decisioning Platform"
+    excerpt: "CORRECTING and REPLACING Modern Age Cards Through Modern Age AI: Uni Cards to Deploy Scienaptic AI-Powered Credit Decisioning Platform"
+    publishedDateTime: 2022-01-05T06:00:00Z
+    webUrl: "https://www.businesswireindia.com/correcting-and-replacing-modern-age-cards-through-modern-age-ai-uni-cards-to-deploy-scienaptic-ai-powered-credit-decisioning-platform-76723.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 0
 
 secured: "N6zI5Vrv1mipmHhGewf8CI2ONLe+oHA73rfQ3qykYCq6HQ7bpPUIP6CuDuYYlA/ZoQKeAibhHypCQ0vyyfpGniSlBhcB0q/6cXB4hkTKmKniWo6MJ9beqYysFAR+La15mmD7rxowxGPt2NZpdYIxY2wOXCSkR01RSyPOnWffV/0UbUQGjyRh0QXkspv+YsCOR6hzFubpK7XlER3fnPiOcEkTDokBT3diOYao9VilC387Ev7GdMn4CcELQRgkvpKtE4UT9IU5ZzOOWSuLFXj4NIWGS+3Ja5BmxlDhG498E00jUmRsFlkhpp71foAcyplBx4VeF1cRGUKPywgWsriz5uMWJhOJMoeIt/VT5QHOKpc=;6tQx0fPmCP3/TMTXUsRQHA=="
 ---

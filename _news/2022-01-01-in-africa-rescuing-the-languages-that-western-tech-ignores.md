@@ -7,7 +7,7 @@ originalUrl: "https://afro.com/in-africa-rescuing-the-languages-that-western-tec
 webUrl: "https://afro.com/in-africa-rescuing-the-languages-that-western-tech-ignores/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "Rescuing the Languages that Western Tech Ignores"
-    excerpt: "But try talking to your phone in Yoruba, Igbo or any number of widely spoken African languages and you’ll find glitches that can hinder access to information, trade, personal communications, customer service and other benefits of the global tech economy."
-    publishedDateTime: 2021-12-31T13:15:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21965257/rescuing-the-languages-that-western-tech-ignores"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2021/12/16x9/AP21356747118534.61c4a01fdf7c4.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "HxQE0UXnTotIPR8XDMT5+bFnu2JByr3I/Cssx0C0UrksKAHpH25Hjh5WDKevz64312zpwztSnlVHFLJShYqVLNQFNVusc3pz20e3cjr/0IF9/RkCBt8LScrFAdehAYrkglwSKzLmwoYUOwww7184czxdQpxdb7/fcZ9kEo5ZuBvTzrmGez50tTx0s7i5zxMq4rnSMz/jRS0vYue2ccWsX/DWkQhJmOHN7v+a9pn5X1wz2oRlJVvO2NxCF0MH7PouHTysdyVMXyRB7+GVBGV3gGahWLgbsdziHy+TfX/hn2CVCkjCTk5N5rcCogO6yOE53U6OgspjfXqjZBq7xboOJE8Jrj69V3tVes2Q/zsup832lVom2yibaadLZp80BWLMad1SNEuSESfKGJRxjpYqByB6cwz1u7qQD/tZSNH0mtTx7yuIRF2dVszNogM4zZOEotWTPvk9cdfGv1A+gooA6MXZ99MNTYnI6VRuQZRLzzcwfuvKjIauLAyOg7Jr1MwmVLPyjhNUoPAy63mWLjpQYg==;q/jKI4DeKxNYsi6ogIBJkg=="
 ---

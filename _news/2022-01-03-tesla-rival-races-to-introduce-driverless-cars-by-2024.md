@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Tesla rival races to introduce driverless cars by 2024"
-excerpt: "After excitement over driverless cars peaked half a decade ... vision in the 1990s convinced him that cameras and artificial intelligence software would improve to the extent that driver ..."
-publishedDateTime: 2022-01-03T02:26:00Z
-originalUrl: "https://www.newstalkzb.co.nz/news/business/tesla-rival-races-to-introduce-driverless-cars-by-2024/"
-webUrl: "https://www.newstalkzb.co.nz/news/business/tesla-rival-races-to-introduce-driverless-cars-by-2024/"
+excerpt: "After excitement over driverless cars peaked half a decade ago ... His early work in computer vision in the 1990s convinced him that cameras and artificial intelligence software would improve to the extent that driver assistance systems would be able ..."
+publishedDateTime: 2022-01-03T12:44:00Z
+originalUrl: "https://www.telegraph.co.uk/business/2022/01/02/tesla-rival-races-introduce-driverless-cars-2024/"
+webUrl: "https://www.telegraph.co.uk/business/2022/01/02/tesla-rival-races-introduce-driverless-cars-2024/"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Newstalk ZB
-  domain: newstalkzb.co.nz
+  name: The Daily Telegraph
+  domain: telegraph.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.newstalkzb.co.nz/media/fcidrzb5/amnon-shashua-co-founder-of-mobileye.jpg?mode=crop&width=635&height=395&rnd=132856969817230000"
-    width: 635
-    height: 395
+  - url: "https://www.telegraph.co.uk/content/dam/business/2021/12/31/TELEMMGLPICT000280027361_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=logo-overlay"
+    width: 1024
+    height: 536
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "FFj1o1i9QD/m4YLL/K/ARqTBibd89gOIXZtiksKwmULx6xIEIX0vS/bcmKZJy2SFjrqRKKAffaIt10xBZ1p1AsYvRR5K6wWfWAr9I7HLkb0Ip5Vo1tXaQ3tTnR32bpeGhsJInGSpaiXRDyvqHZT3iEKw9bEivDLx/M2mIf1wUg/JIHrVWYZcs+Nn5LpwDhG/rZgf2IZxYODGPTEgln17sLLB9DoiMO29YkCiIX/esv0YqpGaQOvX7jb4eS2/F0eLdSZkpjtHjqla005koNTCFrmTQ4bSxrKG2kQV8zHZnu5L+uN3Q+wpw8lmiW5/UbNn+1Eja2f4SZLjAeGGwUfsoWSw7+ncptsk3QrxJQv3OZw=;KBKzjmwa0G42tJWjgVFc6Q=="
+secured: "H1DJA1rU6qWTlByxp+i9sBMKqZF+A8TzMzyOIHN5LYOhYr5vYyvH9GhO1HrKBnc+f1O0OVmST6EsZRM1Um1+Tnnhm5C3Rey3Nw0ysHSw4MIUUc9jyc3RIfeGoi986SFQRraevxg5EtjU5N6+LHmLb3XURpbhyTgdPSwZOAYQqhh+KTMdfPyuOvn3lgebCtMFf+Rnyjv6gP81ObB6gILrQatePMEh46nUTnOv4Gxcj6eRlBIaeKFtpS+/0nwo0Lt1NIy1vt7ypmwEU1Xtzk0aOjZcIHeMp2HgnJRq8Z1zs4yGbcMZfI7HVRQB/2oXvXmaF/tCFssEUmJ7wc3CtrQV/tapjjDTD/xxlAtMTxdR1Gc=;fFUl2wp/sr8z8d9LP+ji0w=="
 ---
 

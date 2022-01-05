@@ -20,22 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Beyond COVID: Biotech And Health Care Trends To Watch In 2022"
-    excerpt: "The pandemic drew unprecedented investment to the health sector, but the industry’s momentum really comes from tech advances and regulatory changes, insiders say."
-    publishedDateTime: 2022-01-04T13:30:00Z
-    webUrl: "https://news.crunchbase.com/news/covid-biotech-health-care-trends-forecast-2022/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/cybersecurityreport-newsbutton-copy-scaled.jpg"
-        width: 2560
-        height: 2560
-        isCached: true
-
 secured: "cC1lHja40HLJ7FztHyG1RPQTaVXIWYCzLxIKBMXZ+s0TpZc/cGbGS+MELcKOtUWrKoJGc8AEsdZX/QLlBzym17oGJHi8j7PEqrNbLdYTDCPYK6KPp12hVukxfchaHd8hezWY2z/ukOKq6j1pn3PR4MomjQ5uJ8x6DMNZxNYvy1SozumCtNgVoWzSLbOGFrRYQP3In4JENT0aBti4Zft9UrBXcPJFY+Gn4CfQkdcaVdYBTVWPZwibXI+p7PPlgkNi3sHEkpv6v6zhcMT6FT+yVY52Xi7FGmtGS+ax4uokK4XVJXKkQlLP7dBeC1sByTom8OQfO+9S8T8fOzaR1WVdhNK59k1tJaw45+LLAzA01r8/+mxJiPit34zhtTtKu/f4Uw/IQrCt+E6oxH/i2OvQPGJM+nBJ9PSTwx8BlkbaxcldrlkVLNL2wIw7GfSASqhG7SkgDKCTU39zrUrpKcklSWGV6ZC3MPBcUgZj84Br0h2py2/nzu6fKMbzIBSvHMqAEXwOY+TAGJY3OD0c1QkPXw==;O8nFfK9QXqmat6FEvgHlVw=="
 ---
 

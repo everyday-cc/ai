@@ -20,20 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends"
-    excerpt: "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t"
-    publishedDateTime: 2021-12-31T13:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
-        width: 1800
-        height: 600
-        isCached: true
   - title: "How analytics, AI tools can overlook multiracial patients"
     excerpt: "Data-driven tools that incorporate race have to figure out how to account for patients who identify with more than one race, as multiracial people—today, 10% of Americans—become a larger segment of the U."
     publishedDateTime: 2022-01-03T10:01:00Z
@@ -61,6 +47,20 @@ related:
       - url: "https://www.pr-inside.com/images/uploads/pr/2016/80989/20211228_low-inauguralworldfintechsummit_80989.jpg"
         width: 600
         height: 343
+        isCached: true
+  - title: "Aerodyne Group makes strategic investment in Malaysian AI and data analytics company – Synapse Innovation Sdn Bhd"
+    excerpt: "Aerodyne Group, a Malaysia-headquartered international DT3 (Drone Tech, Data Tech, and Digital Transformation) solutions provider has signed an agreement to acquire a principal stake in Malaysia-based AI and Data Analytics company,"
+    publishedDateTime: 2022-01-05T06:52:00Z
+    webUrl: "https://www.suasnews.com/2022/01/aerodyne-group-makes-strategic-investment-in-malaysian-ai-and-data-analytics-company-synapse-innovation-sdn-bhd/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 16
+    images:
+      - url: "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2020/12/aerodyne-logo.jpg?resize=696%2C493&ssl=1"
+        width: 696
+        height: 493
         isCached: true
 
 secured: "xXip3VrLR2zWnMbzZI4jGASSn3SRcrgxlLihqGh+Wt4cOsyaL5CrnbJu7ypfmWR4F1fOIWC0+bwQPc8UYoPT7cyWI5DonpJeP2CcYDAsnfKeSYXuI9yfOeiWlMSQGCIaTSllwPfnmzBFZFL/3N2/60KnhoPTFwJcwH7IWrDiSW6R3K6qO1QppipA497itiKFqt2BxUllg9rwxxkuuzNSNCImRavNyi0Va0CeZ+Eu9X1ww/hxE53oeIx4U1uGi36fTP/uF91p5l9PEYg6+nUUGPjH2HzK7eyAw9soH9TWOACZNmyvrkGJUNiAe7us/ud2Vlp7VUmb9Ynw57r8QYdzQjKnkYO+uAPBlyz44jLrtbOfdWEHS0JoatDlcLkVRmZwCVoEtJAwCxGL+fbVZqhZ5K+F0T3acNPPrADsgfhnmTC9osqp7lA0QaUoslqw0IEd8b7OkgNOwowAmRXYyZyXHykF+ula2bhXZaqIOz1TTZcQe124JONdGC+j9A+u/ByaDLRmDYTmXYAmrtlEpM7VKg==;BJgXFH5fx6eTIyjCUbg6kQ=="

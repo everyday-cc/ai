@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends"
-    excerpt: "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t"
-    publishedDateTime: 2021-12-31T13:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
-        width: 1800
-        height: 600
-        isCached: true
   - title: "How analytics, AI tools can overlook multiracial patients"
     excerpt: "Data-driven tools that incorporate race have to figure out how to account for patients who identify with more than one race, as multiracial people—today, 10% of Americans—become a larger segment of the U."
     publishedDateTime: 2022-01-03T10:01:00Z
@@ -63,6 +49,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 26
+  - title: "Aerodyne Group makes strategic investment in Malaysian AI and data analytics company – Synapse Innovation Sdn Bhd"
+    excerpt: "Aerodyne Group, a Malaysia-headquartered international DT3 (Drone Tech, Data Tech, and Digital Transformation) solutions provider has signed an agreement to acquire a principal stake in Malaysia-based AI and Data Analytics company,"
+    publishedDateTime: 2022-01-05T06:52:00Z
+    webUrl: "https://www.suasnews.com/2022/01/aerodyne-group-makes-strategic-investment-in-malaysian-ai-and-data-analytics-company-synapse-innovation-sdn-bhd/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 16
+    images:
+      - url: "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2020/12/aerodyne-logo.jpg?resize=696%2C493&ssl=1"
+        width: 696
+        height: 493
+        isCached: true
 
 secured: "hO/KvDodwbxzZvhkGVz8KKaIllv6FyCwIqg6seLT7/BYA6ApUalFjCLAVj5AVKnyvrveQLJktRG7G53BTTUAiaGzsFWjY+Rb0imOKEO1nq/q6FftLDNmwjGYNaFFbVTdTGGctb9eH2VHc8AkENtfhqgIbwYYT/Z2FtLWXJIhkYuKxkqyz4Dc7Q32AU5b3wOfWxMoXIv7fCuSnyK1KmjC6Si52wuSfO+4j+9V1m4xlW275ioA2ta/Mxrov9zrOo/S7YtqhBIxcYDT6A/mTWZs+ub0hZgOt/rs1XvPLBlAO3XGaN91p+uNyIEm+ZzQnat1lukjRkOvHnmJacZoYkkNvhznzrF1FwO533qA1+XGO7I=;/vZ3aiV+OuBsKp1CfcfD2Q=="
 ---

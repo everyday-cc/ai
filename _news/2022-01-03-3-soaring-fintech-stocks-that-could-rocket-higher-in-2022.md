@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-so
 webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
         width: 1200
         height: 1500
-        isCached: true
-  - title: "The Top 3 Fintech Trends to Watch for in 2022"
-    excerpt: "The Top 3 Fintech Trends to Watch for in 2022.” This article focuses entirely on what we see as the hottest trends and the biggest ideas that you need to know about as we move into a new age of payment processing!"
-    publishedDateTime: 2021-12-31T13:45:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-3-fintech-trends-watch-2022-maria-karpowicz"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGmcHCSEXDDew/article-cover_image-shrink_600_2000/0/1640958089667?e=1646265600&v=beta&t=zqTWb0dV-TtUnp8ludQWoCK15kY8KEPpLaTm288LGu4"
-        width: 900
-        height: 500
         isCached: true
   - title: "Need to invest in fintech knowledge"
     excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."

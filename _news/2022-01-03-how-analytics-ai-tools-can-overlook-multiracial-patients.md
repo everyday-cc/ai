@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/information-technology/how-analyt
 webUrl: "https://www.modernhealthcare.com/information-technology/how-analytics-ai-tools-can-overlook-multiracial-patients"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Data, Analytics, ML and AI: Reflections on 2021 and thoughts on 2022 trends"
-    excerpt: "After the pandemic-induced digital transformation of 2020, the year 2021 saw great advancement in the use of data to drive real business decisions. Many organizations accelerated their investment in t"
-    publishedDateTime: 2021-12-31T13:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/data-analytics-ml-ai-reflections-2021-thoughts-2022-agbenyegah-cap"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHs7Tbjr_AwDw/article-cover_image-shrink_600_2000/0/1640954324924?e=1646870400&v=beta&t=4kxarYhLwVFFhz28Go9yR6p8710vmk1CgWlX9anWBJc"
-        width: 1800
-        height: 600
-        isCached: true
   - title: "DigiMax Launches ESG AI Division – Invests into Green Energy Solutions Company MADA Analytics"
     excerpt: "OPTION TO PURCHASE 100% OWNERSHIP OF THIS DISRUPTIVE ESG TECHNOLOGY SOLUTIONS COMPANY – TORONTO – Plato Data Intelligence"
     publishedDateTime: 2021-12-31T17:28:00Z
@@ -62,6 +48,20 @@ related:
       - url: "https://www.pr-inside.com/images/uploads/pr/2016/80989/20211228_low-inauguralworldfintechsummit_80989.jpg"
         width: 600
         height: 343
+        isCached: true
+  - title: "Aerodyne Group makes strategic investment in Malaysian AI and data analytics company – Synapse Innovation Sdn Bhd"
+    excerpt: "Aerodyne Group, a Malaysia-headquartered international DT3 (Drone Tech, Data Tech, and Digital Transformation) solutions provider has signed an agreement to acquire a principal stake in Malaysia-based AI and Data Analytics company,"
+    publishedDateTime: 2022-01-05T06:52:00Z
+    webUrl: "https://www.suasnews.com/2022/01/aerodyne-group-makes-strategic-investment-in-malaysian-ai-and-data-analytics-company-synapse-innovation-sdn-bhd/"
+    type: article
+    provider:
+      name: SUAS News
+      domain: suasnews.com
+    quality: 16
+    images:
+      - url: "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2020/12/aerodyne-logo.jpg?resize=696%2C493&ssl=1"
+        width: 696
+        height: 493
         isCached: true
 
 secured: "rtW94LozfFNMpye1A5rRgqJjigbYTiuyy+P5VJMcTI7Qd3Wmw8L5JtYSqC/ossBubvrc/ttIdj78Guwe59TQclV494DNpAfoeqncTGt2d0cB11DMxUHjdXtC6xn9fQMYi/3m87/jfm3FzkvGXU9o8eiFmnZ422XnverAhsXrYz/7EahM5Xo9bEBZ31lHhIz8sxQpGEED0UlNfi/gaYF/nA1xeW8XQjqG378m5fpV2k84F86dChWaFOeZsm9q48phD/VeFOjJKfTgn7oRyCuE63NbIzFCKycJpB2UPkLMdGRwXH5JXbv82DmALtW+f3mRqvb08JWph5j1VdJ4b6hU9I2eqSzl2LvdOAkancblvq8p1u7Cejz3NmYomWFwPxSmZuNeVu6njo+pDrUFIUbTrCasScf71kecmCSNabTZNguBkGqI7tr0ct0PTGzbirrWYDCCd3UgFkynVrqSamWA5Dzwxz33q4+2wFWrDJVt4sZutePGVFEf6LarHo2a0reFcNGsTseQ91/AkykKGnJh4g==;1ZwDOiVv00jL1C2PF48u7w=="

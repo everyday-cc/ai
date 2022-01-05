@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/labrador-retriever-robot-fo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labrador-retriever-robot-for-those-with-chronic-pain/"
 type: article
 quality: 104
-heat: 104
+heat: 106
 published: true
 
 provider:
