@@ -9,7 +9,7 @@ ampWebUrl: "https://heavy.com/entertainment/star-trek/zora-to-become-android-on-
 cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/star-trek/zora-to-become-android-on-discovery/amp/"
 type: article
 quality: 57
-heat: 57
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "2022 Startup Predictions: The Trends, Sectors, And Tech Worth Watching"
+    excerpt: "Will 2022 be another record year for investment into the European venture community? Here are a few of the trends and technologies likely to drive investment decisions in the year ahead."
+    publishedDateTime: 2022-01-05T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/"
+    ampWebUrl: "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 72
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d5a9fe900aca137e034ea8%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "VoD53C1wbNOmoSHefP7vm3itH/sMNTkg/wR1OF1vx2x8utp3O2ZzHSBUdnnfp/jeNVd40FMBBbHhrUUbYt+YKczr1fj6vdiM6sWvckX9jsGeBBmNzfhZhuy5yZzBcOTgpfVgukJA+8iP+7jS2Fp4NhSxFXq+FYi6pni8y7km1Codh1ReY8BcL1GYYqbABFGRaJROa4wVcjIBN8uFxVozCBk8Yv5PaAGg3IkTBNZrUdAWyyZkHeusl5pkqrCqSSn5GThR5wZR1keHRNWLK/KIK7kAORirrzSKnQrgFOZii3nKmw3acj5h5FLNSzbK3kYriU3YadE0PtAP8v03GpE/FirOmtmgYEBjbMWz7hP/kN4=;gNqZjOYxJifzgE8qDKD+DA=="
 ---

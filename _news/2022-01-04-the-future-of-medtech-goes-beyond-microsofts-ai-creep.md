@@ -55,15 +55,36 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-    excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
-    publishedDateTime: 2022-01-04T15:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
+  - title: "Wejo developing vehicle data processing platform with Microsoft"
+    excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
+    publishedDateTime: 2022-01-05T12:37:00Z
+    webUrl: "https://seekingalpha.com/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
+    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure."
+    publishedDateTime: 2022-01-04T15:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
     excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
     publishedDateTime: 2022-01-04T19:00:00Z

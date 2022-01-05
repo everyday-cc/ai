@@ -2,6 +2,302 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-15-ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now.md",
+      "title": "AI 50 2022 Nominations: Is Your Company Transforming An Industry Using Artificial Intelligence? Apply Now",
+      "excerpt": "AI is essential to nearly every industry, but it’s not easy to identify the companies that are using it in truly transformative ways from marketing hype.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alanohnsman/2021/12/14/ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now/?sh=78a486a85b90",
+      "originalUrl": "https://www.forbes.com/sites/alanohnsman/2021/12/14/ai-50-2022-nominations-is-your-company-transforming-an-industry-using-artificial-intelligence-apply-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b8cd6512ad166cf93ef288%2F0x0.jpg",
+          "width": 1200,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-artificial-intelligence-in-manufacturing-markets-2028-by-component-technology-ml-nlp-computer-vision-application-predictive-maintenance.md",
+      "title": "Artificial Intelligence in Manufacturing Markets, 2028 By Component, Technology (ML, NLP, Computer Vision), Application (Predictive Maintenance Qualit",
+      "excerpt": "The \"Artificial Intelligence in Manufacturing Market By Component, Technology, Application, Industry Vertical, & Geography - Global Forecast to 2028\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=587796",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=587796",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-ex-appletesla-leaders-raise-2000000-from-1000-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
+      "title": "Ex-Apple/Tesla Leaders Raise $2,000,000 from 1,000+ Retail Investors, On Track to Release World’s First Artificial Human Arm",
+      "excerpt": "Atom Limbs, a robotics company creating mind-controlled bionic limbs, has raised $2M from 1,000+ retail investors. Atom opened its Wefunder equity investment campaign in preparation for a 2023 rel ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-2-000-000-from-1-000-retail-investors-on-track/article_d1a4012c-c794-5810-990c-64987d106edb.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-2-000-000-from-1-000-retail-investors-on-track/article_d1a4012c-c794-5810-990c-64987d106edb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-audiobooks-an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions.md",
+      "title": "Audiobooks – An Under-Served Market For Artificial Intelligence Voice Text And Voice Solutions",
+      "excerpt": "Artificial intelligence (AI) can provide technology that can streamline audiobook production and meet the constantly increasing demand.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D876%26cropY1%3D20%26cropY2%3D514",
+          "width": 876,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2021/12/14/audiobooks--an-under-served-market-for-artificial-intelligence-voice-text-and-voice-solutions/amp/",
+      "publishedDateTime": "2021-12-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-ford-pilot-uses-self-driving-shuttles-to-deliver-food-to-detroit-seniors.md",
+      "title": "Ford pilot uses self-driving shuttles to deliver food to Detroit seniors",
+      "excerpt": "Ford is launching a pilot project that will have self-driving shuttles bring food to Detroit seniors in need..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/ford-self-driving-shuttle-pilot-142907017.html",
+      "originalUrl": "https://www.engadget.com/ford-self-driving-shuttle-pilot-142907017.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-12/a6ce9ca0-5ce4-11ec-bfe7-22eb2ba92db7",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-mobility-software-startup-apexai-lands-supplier-giants-continental-zf-as-investors.md",
+      "title": "Mobility software startup Apex.ai lands supplier giants Continental, ZF as investors",
+      "excerpt": "The four years that Apex.ai spent rewriting — and then safety certifying — the robot operating system to give automakers and other mobility companies a toolkit to integrate software applications into vehicles has paid off.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/",
+      "originalUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Continental_PP_Autonomous_Mobility.jpg?w=1024",
+          "width": 1024,
+          "height": 723,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/14/mobility-software-startup-apex-ai-lands-supplier-giants-continental-zf-as-investors/amp/",
+      "publishedDateTime": "2021-12-14T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-can-ai-help-make-social-media-more-accessible-inclusive-and-safe.md",
       "title": "Can AI Help Make Social Media More Accessible, Inclusive And Safe?",
       "excerpt": "In the latest edition of our “On AI Ethics” series, we caught up with Ramit Sawhney, Lead AI Scientist at Sharechat. Learn more about how the India-based social media unicorn leverages machine learning to to further its mission.",
@@ -870,265 +1166,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-s-korea-to-test-ai-powered-face-recognition-to-track-covid-19-cases.md",
-      "title": "S Korea to test AI-powered face recognition to track COVID-19 cases",
-      "excerpt": "South Korea is planning to soon roll out a pilot project using artificial intelligence, facial recognition and thousands of CCTV cameras to track people infected with COVID-19. Reuters reported that the project is due for launch in January 2022 in Bucheon,",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491",
-      "originalUrl": "https://inshorts.com/en/news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/13_mon/img_1639399210184_127.jpg?",
-          "width": 1080,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491",
-      "publishedDateTime": "2021-12-14T03:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-growth-of-global-gpu-as-a-service-market-report-till-2025.md",
-      "title": "Growth of Global GPU as a Service Market Report Till 2025",
-      "excerpt": "GPU as a Service (GPUaaS) market is projected to surpass USD 7 billion by 2025. The growth is attributed to a sudden surge in crypto mining and rapid growth in cloud gaming. The growing number of data centers to provide data storage and predictive analytics using deep learning to enterprises across various sectors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-gpu-as-a-service-market-report-till-2025-2021-12-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/growth-of-global-gpu-as-a-service-market-report-till-2025-2021-12-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T03:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath.md",
-      "title": "DRDO adding IT, artificial intelligence, robotics in tech warfare: Rajnath",
-      "excerpt": "Defence Minister Rajnath Singh on Tuesday said that the Defence Research and Development Organisation (DRDO) is adding new chapters like information technology (IT), artificial intelligence (AI) and robotics in technological warfare.",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "originalUrl": "https://inshorts.com/en/news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/14_tue/img_1639478703391_58.jpg?",
-          "width": 1080,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath-1639480671351",
-      "publishedDateTime": "2021-12-14T03:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations.md",
-      "title": "Cognitive Space 2021 Recap – Momentum in Artificial Intelligence for Satellite Operations",
-      "excerpt": "Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth",
-      "sourceUrl": null,
-      "webUrl": "https://businessghana.com/site/news/business/252586/Cognitive-Space-2021-Recap-Momentum-in-Artificial-Intelligence-for-Satellite-Operations",
-      "originalUrl": "https://businessghana.com/site/news/business/252586/Cognitive-Space-2021-Recap-Momentum-in-Artificial-Intelligence-for-Satellite-Operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://targetinfinity.com/as/www/delivery/avw.php?zoneid=39&cb=INSERT_RANDOM_NUMBER_HERE&n=a7f52682",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T02:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessGhana",
-        "domain": "businessghana.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with-google-microsoft-corporation-amazon-web-services-inc.md",
-      "title": "Artificial Intelligence (AI) in BFSI Market is Going to Boom with Google, Microsoft Corporation, Amazon Web Services Inc",
-      "excerpt": "The Artificial Intelligence AI in BFSI market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "originalUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc14789977_g.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
-      "publishedDateTime": "2021-12-14T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-aws-launches-region-in-indonesia.md",
-      "title": "AWS Launches Region in Indonesia",
-      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Asia Pacific (Jakarta) Region. Starting today, developers, startups, entrepreneurs, and enterprises as well as government, education, and nonprofit organizations can run their applications and serve end users from data centers located in Indonesia leveraging advanced AWS technologies to drive innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afp.com/en/news/1313/aws-launches-region-indonesia-202112120051641",
-      "originalUrl": "https://www.afp.com/en/news/1313/aws-launches-region-indonesia-202112120051641",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AFP",
-        "domain": "afp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

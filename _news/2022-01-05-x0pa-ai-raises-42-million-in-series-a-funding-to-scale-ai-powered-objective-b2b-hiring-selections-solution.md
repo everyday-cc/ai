@@ -1,30 +1,26 @@
 ---
 category: news
 title: "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION"
-excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led by ICCP SBI Venture Partners (ISVP), with additional funding from SEEDS Capital,"
-publishedDateTime: 2022-01-04T23:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-selections-solution-1031077866"
-webUrl: "https://markets.businessinsider.com/news/stocks/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-selections-solution-1031077866"
+excerpt: "The world's most objective hiring and selections platform plans to expand globally and innovate further with cutting-edge AI.SINGAPORE, Jan. 5, 2022 // -- X0PA AI, a leader in AI-powered objective hiring solutions,"
+publishedDateTime: 2022-01-05T13:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=595310"
+webUrl: "https://us.acrofan.com/detail.php?number=595310"
 type: article
-quality: 47
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1715264/Image_for_Cision_PR_Newswire__Series_A_Funding_Campaign__Nina.jpg"
-    width: 400
-    height: 300
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
     isCached: true
 
 related:
@@ -57,6 +53,6 @@ related:
         height: 720
         isCached: true
 
-secured: "5tmEmKR7gT+/6Sc60WjqW3P70Uodeqka36EajUVFF9nu0xlb9ooDJ/tOKYfPFIMd+hOYy9PlNhHe3gMOF3byeLHWdko7I5veDAfsgp6SGXmslEIj8KPuroFMUFmM+7zsQzcyEBQg2H4idTp06EbQ+17bbd61h471ln4OP9pbMm+q004jis7l0+KOH7yAhWNXrGho0XRW5AScS6h9bMYhOnigsYCRQdnoKyAvXBsgj2+H+m51Bc+Bc2MhSBeSNHJYVetN/YYbsq8kLkIk9WRrKUmmxWDtGgmr8hqSQXDvupRLOsGJqRv2oLJ6/Hv87dPqrE3cECbTwKj7qz1BQ6nS9y3ZT/IUYhG8fE4fNBJcESU=;zfChJ14XTS0TFr6BUvbcKw=="
+secured: "0xutYapl3qbb70ExruImSuvrB+t8xqhk3/1aR8sqrf+MkHEu8S3ZEgOXDJKT5xXqZU7kW/BYHT3LgkLiV5Lyl9X+MzNFbEcPj3YxuSmEL3f5nBc8PdGpxwJRVFLnl1SJvdeB3d4hCAOvIqKcNYHkpPIGFBRKNDbIhpwWOdklEPoArLp/9qU2oDYkxvfnEGRsLvjMLPtdb5EmCe3oUR1FFqdUu/0O/qxs7qEPbuvCgIKh/kxTykW7OiOys/QQeHQ1aEE5wdjJf0zypJqebOCVXDvfBhUnvNWLKrHO0502oJLZizZk1C4oMew135dzNv7FcLNkbmWDj4q8IuPbnfLQFQJn7/ZZDQWwhNkyRtjeOFk=;VPJ8ZDI9skSU37j2sG2QIg=="
 ---
 

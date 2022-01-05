@@ -2,6 +2,254 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-26-reviving-fintech-services-6-steps-to-prevent-false-declines.md",
+      "title": "Reviving Fintech Services: 6 Steps to Prevent False Declines",
+      "excerpt": "From using fraud tools to providing more data,, Managing Director EMEA for Signifyd, uncovers the importance of preventing false declines.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/digital-payments/reviving-fintech-services-6-steps-prevent-false-declines",
+      "originalUrl": "https://fintechmagazine.com/digital-payments/reviving-fintech-services-6-steps-prevent-false-declines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/data_2.jpg.png?itok=kYq70YSF",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-26T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse.md",
+      "title": "How AI, VR, AR, 5G, and blockchain may converge to power the metaverse",
+      "excerpt": "The metaverse could be the killer app for several of the most exciting emerging technologies that haven't yet found their footing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1311757065-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/how-ai-vr-ar-5g-and-blockchain-may-converge-to-power-the-metaverse/amp/",
+      "publishedDateTime": "2021-12-26T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-chinese-scientists-develop-ai-prosecutor-that-can-press-its-own-charges.md",
+      "title": "Chinese scientists develop AI ‘prosecutor’ that can press its own charges",
+      "excerpt": "Machine is so far able to identify eight common crimes such as fraud, gambling, dangerous driving and ‘picking quarrels’, researchers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/4265d674-399a-48e7-9d49-2483db66fb2a_9b813b1f.jpg?itok=DMdLjKwP&v=1640339277",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3160997/chinese-scientists-develop-ai-prosecutor-can-press-its-own",
+      "publishedDateTime": "2021-12-26T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-how-music-ai-could-create-a-future-grammy-award-winner.md",
+      "title": "How music AI could create a future Grammy award winner",
+      "excerpt": "Watching Paul McCartney create the eponymous song out of seemingly nothing, as George Harrison stands nearby yawning, is one of 2021's cinematic pleasures. The Beatles are arguably the most successful pop group in history and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
+      "originalUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/QDQTeZU5bWFyDnABg5xu4myWs1w=/1200x630/2021/12/08/3b88e432-d4c7-4139-8b5d-12067ff652c3/gettyimages-900233104.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
+      "publishedDateTime": "2021-12-26T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-26-learn-what-makes-a-self-driving-car-autonomous.md",
+      "title": "Learn what makes a self-driving car autonomous",
+      "excerpt": "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
+      "publishedDateTime": "2021-12-26T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-26-2022-look-ahead-arms-race-will-dominate-us-china-competition.md",
       "title": "2022 look ahead: Arms race will dominate U.S. - China competition",
       "excerpt": "Admiral James Stavridis was 16th supreme allied commander of NATO and 12th dean of the Fletcher School of Law and Diplomacy at Tufts University. He spent the bulk of his operational career in the ...",
@@ -882,260 +1130,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise.md",
-      "title": "A Market to Harness: Speech Recognition Artificial Intelligence (AI) Innovations On The Rise",
-      "excerpt": "This blog focuses on the speech recognition and AI market profiled market innovator AssemblyAI, EmotionalCloud and other innovations advancing the speech and emotional AI intelligence landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c4dab3dcce70ad2cdf606a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/23/a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise/amp/",
-      "publishedDateTime": "2021-12-23T14:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-introducing-hybrid-machine-learning.md",
-      "title": "Introducing hybrid machine learning",
-      "excerpt": "Gartner predicts that by the end of 2024, 75% of enterprises will shift from piloting to operationalizing artificial intelligence (AI), and the vast majority of workloads will end up in the cloud in the long run. For some enterprises that plan to migrate to the cloud, the complexity, magnitude, and length",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hybrid-machine-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hybrid-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/20/architecturepattern-1.jpg",
-          "width": 825,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T12:13:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing.md",
-      "title": "Use deep learning frameworks natively in Amazon SageMaker Processing",
-      "excerpt": "Until recently, customers who wanted to use a deep learning (DL) framework with Amazon SageMaker Processing faced increased complexity compared to those using scikit-learn or Apache Spark. This post shows you how SageMaker Processing has simplified running machine learning (ML) preprocessing and postprocessing",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T11:57:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant.md",
-      "title": "Robots and conveyor belts: Jacky Li talks kitchen tech at Roger Bar and Restaurant",
-      "excerpt": "Since opening in July, Roger Bar and Restaurant in Mountain View has faced hiring challenges amid a labor shortage during the pandemic. Leveraging tech tools can help alleviate some of the pressure.",
-      "sourceUrl": null,
-      "webUrl": "https://mv-voice.com/news/2021/12/23/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
-      "originalUrl": "https://mv-voice.com/news/2021/12/23/robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mv-voice.com/news/photos/2021/december/23/41319_col.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "mv-voice.com",
-        "domain": "mv-voice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future.md",
-      "title": "At-Fault Robotaxi accidents For Waymo, Pony.AI, Olli And What They Mean For The Future",
-      "excerpt": "different robotaxi-related accidents at the end of this year raise some interesting issues about what they mean going forward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c3afe0943c99e74c35c794%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
-      "publishedDateTime": "2021-12-23T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

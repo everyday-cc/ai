@@ -1,25 +1,27 @@
 ---
 category: news
-title: "Three Rivers Casino Resort Selects OPTX's Casino Data Platform for Player Development, Slots, and Artificial Intelligence"
-excerpt: "Located in Florence, OR, Three Rivers Casino Resort has selected OPTX for its full suite of player development, slots, and artificial intelligence products. \"The decision to go with OPTX was an easy one,"
-publishedDateTime: 2022-01-04T16:46:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/three-rivers-casino-resort-selects-optx-s-casino-data-platform-for-player-development-slots-and-artificial-intelligence-1031077298"
-webUrl: "https://markets.businessinsider.com/news/stocks/three-rivers-casino-resort-selects-optx-s-casino-data-platform-for-player-development-slots-and-artificial-intelligence-1031077298"
+title: "Three Rivers Casino Resort Selects OPTX’s Casino Data Platform for Player Development, Slots, and Artificial Intelligence"
+excerpt: "OPTX, the fast-growing Las Vegas-based tech start-up focused on streamlining casino player data into real-time insights for casino operators, is proud to incorporate Three Rivers Casino Resort to its rapidly expanding client list."
+publishedDateTime: 2022-01-04T16:42:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-casino-operators-b32c98e4024541188382ffb9702a627d"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-casino-operators-b32c98e4024541188382ffb9702a627d"
 type: article
-quality: 22
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AI Apps And Platforms Get Real"
@@ -53,6 +55,6 @@ related:
         height: 339
         isCached: true
 
-secured: "ZRzGwi4zPoHc6uB6SKW+xTf224icSXoqxwT2qe+8/+knrGjSnYMbbroc33R0hiqKIuIuWIw22KyK9a9KOKOG5ThDx+ZagjC94ULovKv/CNHqy9pIfbaAv4vCw+V6Gl0PG0ugzBwZm37K3z4NKCkDg8Xm7KGiDxq7CpPIsaQcmsVsOa5b0xOAvFt2OoqBg50Z3eRD4O+QlYedZwtYVkALUzzLAGjemkO4t8YfqpytRxGlgrklybs1x4h7vEW6fFlBYkWZ8TOO+MLM3BZKHsayQblm4DFnQuAcR1MOFJiAZfXTS2Wkgdg2bs6Lz84+pPK82+QstiGg77xha8aynFIcjp/SlE7PpJyXrWd89kcMkdE=;4ZToY4nH975RodA7V8Wu3Q=="
+secured: "2nOaEQ3enupDgsNJMQhRxgVUjQX5DXaavQiiT1FwB3Ll/CTOEF8WptfKDk077dmayeMsP63vdrXlCQOsqLN5gLM/dAPqTBUlGkbR/K2s00NvJWIsnTd5GbPwZbBaDVsVNrKUpTn2f9X3uaMWS36urQGaHM+/9vO/qn3+3RewuU8qfsxNNCOwqHNJIEYjI4kKk2MUAr/C0l7fApZT5E5DFTtsmvc/MGOLmQWEeocLivZ/qjYWYNT5GX+/87b/USBhUa7v1IpVdO6alm9aX/uWTJQMPi2P3K/3xth0ZDBn/M2vJrBbuUnTmWTQ8EwLza/NGRGTWuOqKSXEpN7d8Y02l8ZciTuNVuvcuVFJLccMmKw=;O3XIjnZcAsXioV9TrNTLXQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-ali
 webUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-align-ai"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 596
     height: 600
     isCached: true
+
+related:
+  - title: "Tackling Life’s Toughest AI Challenge"
+    excerpt: "Quris describes how a new AI approach can improve predictions of which drug candidates will work safely in the human body."
+    publishedDateTime: 2022-01-05T13:27:00Z
+    webUrl: "https://www.genengnews.com/artificial-intelligence/tackling-lifes-toughest-ai-challenge/"
+    type: article
+    provider:
+      name: GEN
+      domain: genengnews.com
+    quality: 39
+    images:
+      - url: "https://www.genengnews.com/wp-content/uploads/2022/01/ToughtestAIChallenge_Quris_Team.jpg"
+        width: 2040
+        height: 1360
+        isCached: true
 
 secured: "OyVSlY62SqbiYOPYL7NzREdQVyUkQ5DqYWjSebZDp4I6qGMoCc2ubmn6zg+qkVXdssz97Jv1tYpt9U98bEFVy9637PS//qDLlJMFpTtuMigqUrqhrFcTLiXM4dIc0RT272XnNgBGz5gHWv82UHcTnOoBLQETHiyh2FAyuKNbOno7T3hQ5f22AcQiHBgdNdVV9mHkrywAyIMTdK4AkfJdITZuuzVzB4CP1m2hli7cV6D5KsPQSh6r5a+RyCHiMwEGlODt44ezme459DSJswDkibI9UankBJxZRQjlZSwzhKdQhd8kIRg2/0VidPtpwBANerUK32Q4ZlpDVrEPfh9NRGX9W4W/qH+0j8ouC7Iyb99WygSgDLV5cnILKq43WwuvC2iOTnmzAlgv/F48qBbOv1WKH3EU/Gi9v3T0DVKnAnMclgXceR6UCsjQfeZH9VGmWZ2eRTMQsHE7SQlc0ph/AhbHT9ZVRodAUdsO+jIidM23WQnhmlYbIzIdG86VVoFp7br9NFZYpLYF+1wV2ZV5Iw==;x+Qzjn5JlBKb4OHPzcAEDQ=="
 ---

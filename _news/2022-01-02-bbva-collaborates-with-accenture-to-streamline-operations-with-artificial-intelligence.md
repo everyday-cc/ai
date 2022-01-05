@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2022/01/bbva-collaborates-with-accenture-t
 webUrl: "https://www.finsmes.com/2022/01/bbva-collaborates-with-accenture-to-streamline-operations-with-artificial-intelligence.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 400
     height: 400
     isCached: true
+
+related:
+  - title: "VA Turns to AI to Streamline Administrative Tasks"
+    excerpt: "The Department of Veterans Affairs is exploring how to use artificial intelligence tools to drive efficiencies in a wide range of medical and clerical areas."
+    publishedDateTime: 2022-01-05T14:34:00Z
+    webUrl: "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks"
+    ampWebUrl: "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp"
+    type: article
+    provider:
+      name: fedtechmagazine.com
+      domain: fedtechmagazine.com
+    quality: 74
+    images:
+      - url: "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202201/GettyImages-1300745916.jpg?itok=8Qx7rF5Z"
+        width: 1440
+        height: 500
+        isCached: true
 
 secured: "gtrFN1JD3UxKhWy8PvsrBw0FJJyCFdMUU3HWwyPyUVN15PzcUeq359iAOaon2y71wDQ1vh0QqfMdZ3nMomlCPRXc3cD4J2eDLj1VsYmpTYeP/4KHrqCbkB1HKukPOxwgvHWNKtuw1G6LfO4UOy5ybrkbdz+HJkh5f7K/uNr6pwFxCIi8/UddJy1zPMPcZ2OaQQcM9wRQnFWptSkzIgk7H5rTwqUmvFoNO+hYh5P3fJLXzIO8MzCJM/FL4qU6TwS4+NZ8jq0r83t+Nkt5kF9daeFa1QbFjZ5iwWy8XI+n0UkWa6JpBKnoujntjmHq4wocWppLXBPSFwV+xJ209OGaOREvkYYNONWlv68cH1nWmFg=;aeAI6qMtSKNJApzFBDHoEA=="
 ---

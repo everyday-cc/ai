@@ -47,15 +47,20 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Three Rivers Casino Resort Selects OPTX's Casino Data Platform for Player Development, Slots, and Artificial Intelligence"
-    excerpt: "Located in Florence, OR, Three Rivers Casino Resort has selected OPTX for its full suite of player development, slots, and artificial intelligence products. \"The decision to go with OPTX was an easy one,"
-    publishedDateTime: 2022-01-04T16:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/three-rivers-casino-resort-selects-optx-s-casino-data-platform-for-player-development-slots-and-artificial-intelligence-1031077298"
+  - title: "Three Rivers Casino Resort Selects OPTX’s Casino Data Platform for Player Development, Slots, and Artificial Intelligence"
+    excerpt: "OPTX, the fast-growing Las Vegas-based tech start-up focused on streamlining casino player data into real-time insights for casino operators, is proud to incorporate Three Rivers Casino Resort to its rapidly expanding client list."
+    publishedDateTime: 2022-01-04T16:42:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-casino-operators-b32c98e4024541188382ffb9702a627d"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "N4evAusk8GKIs0tztCe0TKR6mliBXYI9vFgaVMWH9ztxeUBngQO90ZwmrneQrcWlao9fvs4gHXANuPvXEaP3MLo4S7zC5ym3Q+K98s1Gg+/gPf/HGsjbgdAeRn+gN7/EKKrQxb/NYE4aVvHsl5JSvK5yJqmr6mCxB0SYXryRt2z6MNpP3lJYGqpOrp/1eXyznEXfr+VYSJjEMcyoZAm70ssOhRjrXKy/CGWpHv6a2hKpEP3K/zcbnZxAlPzyuiVze8wTWusRNHFWTsipmM/dBTH8CxHfn1QT+ixfu83iDb8DsQQcGz+G5r/Z0nxMaNAf+P5WlxoeKTvX6BAzyG+FJRmD/jp5DO4JOlr6lX2owmk=;6mD5UwtBdOoYUKBEyTkpbQ=="
 ---

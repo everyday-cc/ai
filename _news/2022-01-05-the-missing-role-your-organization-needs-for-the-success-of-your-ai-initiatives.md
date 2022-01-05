@@ -1,0 +1,23 @@
+---
+category: news
+title: "The Missing Role your Organization Needs for the Success of your AI Initiatives"
+excerpt: "In this contributed article, Alankrita Priya, AI/ML Product Manager at Hypergiant, discusses how MLOps platforms can operationalize new technologies and fully bridge the gap between data scientists and end business users."
+publishedDateTime: 2022-01-05T14:00:00Z
+originalUrl: "https://insidebigdata.com/2022/01/05/the-missing-role-your-organization-needs-for-the-success-of-your-ai-initiatives/"
+webUrl: "https://insidebigdata.com/2022/01/05/the-missing-role-your-organization-needs-for-the-success-of-your-ai-initiatives/"
+type: article
+quality: 15
+heat: 15
+published: false
+
+provider:
+  name: insidebigdata.com
+  domain: insidebigdata.com
+
+topics:
+  - AI Ethics
+  - AI
+
+secured: "C/M7avpOxHbvyzDMPiTHqjCVDMLKXdad3YCs9N9vVoEfVkeDFSeH+klnq5vZ1Jw0jAOUbhKzF1/+XjnvcELNKvPWbCRFKVJ9QEH/T3Z+t3yaMED4xqhuJ3fwzlQr/GWvkjVGotoINEU27JblzCTEm3sRAN/B06GGKwR1M4h5Gxtg970m/6YdmaFVZj3PEX/xqjQVg4zLHjoqgX1c+qbiim6roj4D7dW5L07CkCdCdxRhfZDFVnZ9LYmPOD1X46iJrJz5uUrd+rC9mVLjlhl27OCD/9B9l3VDi4FG5+QmUA2bh8qspZvk1tToA2gse5PaVur7xiEqAH2ZhfGJ7Qx+D2XZ50jejJLnGwfanFHY4no=;tasAu+vDvXxnCE5RzEvbOQ=="
+---
+

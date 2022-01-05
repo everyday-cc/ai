@@ -25,21 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2022: Roborock S7 MaxV Ultra Solves The Biggest Problem With Robot Mops"
-    excerpt: "Roborock has finally announced their latest robovac/mop and I couldn't be more excited. As much as I loved the Roborock S7 last year for its improved mopping capabilities and dock compatibility, it lacked the AI obstacle recognition of the S6 MaxV."
-    publishedDateTime: 2022-01-04T20:47:00Z
-    webUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/"
-    ampWebUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
+  - title: "CES 2022: HyperX's new wireless gaming headset runs for 300 hours"
+    excerpt: "HyperX is no stranger to the gaming-headset space, having created some of the best gaming headsets of the last decade or so. Now the company has introduced the HyperX Cloud Alpha Wireless, which cuts the cord from the tried-and-true HyperX Cloud Alpha."
+    publishedDateTime: 2022-01-04T18:10:00Z
+    webUrl: "https://www.ces.tech/Logistics/Dates-and-Hours.aspx"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 122
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d4be73f7c34d285255465d%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://cdn.ces.tech/ces/media/topics/tech-good-nav_580x204.png?ext=.png"
+        width: 580
+        height: 204
+        isCached: true
+  - title: "CES 2022: How radar and computer vision can help smart cities"
+    excerpt: "When designing its radar and computer vision-based internet of things (IoT) artificial intelligence platform, connected spaces startup Ulisse kept this in mind. The company has unveiled at this week’s CES 2022 a new analytics system designed for retailers,"
+    publishedDateTime: 2022-01-05T14:14:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17604/ces-2022-how-radar-and-computer-vision-can-help-smart-cities"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/604/17604/ulisse_MAIN.jpg"
+        width: 752
+        height: 735
         isCached: true
 
 secured: "JSz4qiU8TkCF0z/odqSlc3S8XsE+xvHDIU43mCgqOvdy7govH+YC7qfvefziPMBkxkXdRHibY/lwrBR27DpIhuBIdcPReQU2Sli8AO6lTnCB0q6v0b93o/vrJFUq61UMCMqkuReSRAOSR4sO6C2V2gQKNGJphUj7oMp/FwWEN0KXt6mSWpe2ukZRvjsTP/ZPfzHpOuQFA5WllBSLf4x3Yp3IM6yhoUgFHOvv7aw5f4cBT9lg3T1EkM+iRipQgZukoFRry0vaGyloXkGMFH5VZaLrZLVxtaN197TQ+K/29KGZsprHb53sJD/eaYldirPxrAQLhB/92z/46pqyhYqWiU3c1DwCPx7n9a/vwiRjv/E=;GYz9JpvqDnSVIptMNYIsmA=="

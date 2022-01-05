@@ -40,18 +40,18 @@ related:
         height: 933
         isCached: true
   - title: "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION"
-    excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led by ICCP SBI Venture Partners (ISVP), with additional funding from SEEDS Capital,"
-    publishedDateTime: 2022-01-04T23:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-selections-solution-1031077866"
+    excerpt: "The world's most objective hiring and selections platform plans to expand globally and innovate further with cutting-edge AI.SINGAPORE, Jan. 5, 2022 // -- X0PA AI, a leader in AI-powered objective hiring solutions,"
+    publishedDateTime: 2022-01-05T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595310"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 17
     images:
-      - url: "https://mma.prnewswire.com/media/1715264/Image_for_Cision_PR_Newswire__Series_A_Funding_Campaign__Nina.jpg"
-        width: 400
-        height: 300
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "FNpoUtLR0UwqbZFBaE37MxKdnNrRndX3Cb2R3sW3i3o7b5ZcchWY7cJrWqU5ut5foLrFFAES4OVzSSJgoVENEBUHJ8TjTMGfzQZ9TbxleMU9qj4iI+SK5FY+tKw44H2wWmKwNcpZE+1EbUncuzKtg4R48UXGKBHWpDtyh9G+ZD+nnDRtOFnVi0cT2ZTkRCQYKp1sVS4+XbLe4Ym72lbPMMOAA4iGlFfAkZJcXYmC2vIZjUUhyHjTZ+OPvxM4MP/cj5wYs+ge1puJKhRKI3uknhxInvSNGCtE4JA7ZFvj3UcBFiMhFqgBCXqaOU6wk+pdwITunx/vzm5CKxSSu9XrJ0mn70xbGycQmJHUseY9/5t8tO+801C00MrmPri5dxxbpeh8UWGMKakWErzzmeKDy6COeryHDhFp0bebqk4Xy/+S/TfYJJA1wx/nMYH/QavVEZZFBFDPKt7ashOm5dm3jYcuOT7ulVWxoMUoL4fB3LBHUAwGXEG8p6TFm9r4gekvqLLbxMbsZbaL9V7av4Zvuw==;+rS5Gf8trSW0v4Mj1/zSQg=="

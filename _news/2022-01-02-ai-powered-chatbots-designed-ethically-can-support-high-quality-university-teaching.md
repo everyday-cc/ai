@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103475461/AI-powered-chatbots-designed-ethical
 webUrl: "https://menafn.com/1103475461/AI-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
-    excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and"
-    publishedDateTime: 2022-01-03T12:02:00Z
-    webUrl: "https://www.econotimes.com/AI-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching-1624317"
+    excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay."
+    publishedDateTime: 2022-01-03T14:20:00Z
+    webUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html"
+    ampWebUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 47
+      name: Phys.org
+      domain: phys.org
+    quality: 67
     images:
-      - url: "https://s1.econotimes.com/assets/uploads/202201034b765fd4fad6d7657_th_1024x0.jpg"
-        width: 496
-        height: 293
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg"
+        width: 1356
+        height: 668
         isCached: true
   - title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
     excerpt: "Authors: Nadia Naffi, Assistant Professor, Educational Technology, Chair in Educational Leadership in the Innovative Pedagogical Practices in Digital Contexts, Universite Laval; Ann-Louise Davidson, Concordia University Research Chair,"

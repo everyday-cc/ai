@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Preparation is key to AI success in 2022"
-    excerpt: "AI requires rethinking the way enterprises collect, process, and ultimately deploy data to achieve business and operational objectives."
-    publishedDateTime: 2021-12-31T22:20:00Z
-    webUrl: "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/"
-    ampWebUrl: "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/"
+  - title: "What to consider while planning AI budget for 2022"
+    excerpt: "When planning for AI, the budget does not only include the implementation and software costs. There’s a lot more to AI budgets than meets the eye."
+    publishedDateTime: 2022-01-03T01:30:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-617375080.jpg?w=1200&strip=all"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88652471,imgsize-36498,width-1200,height-628,overlay-etcio/what-to-consider-while-planning-ai-budget-for-2022.jpg"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
   - title: "Top 10 Artificial Intelligence Stocks Set for a Bull Run in 2022"
     excerpt: "Investors should be aware of the top ten artificial intelligence stocks that are set for a bull run in 2022. AI-based companies are determined to provide highly profitable AI stocks for bull run."

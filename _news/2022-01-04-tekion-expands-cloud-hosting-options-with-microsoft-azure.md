@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
-publishedDateTime: 2022-01-04T15:05:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
+excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure."
+publishedDateTime: 2022-01-04T15:02:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud"
@@ -47,6 +53,22 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Wejo developing vehicle data processing platform with Microsoft"
+    excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
+    publishedDateTime: 2022-01-05T12:37:00Z
+    webUrl: "https://seekingalpha.com/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "The future of medtech goes beyond Microsoft’s AI creep"
     excerpt: "If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.7bn last April. Nuance is a UK based speech-recognition company best known for having provided the speech recognition engine that powers Siri,"
     publishedDateTime: 2022-01-04T14:20:00Z
@@ -71,6 +93,6 @@ related:
       domain: businesswire.com
     quality: 34
 
-secured: "zNUdQiYtIDQOrvYudRJyf2Ph9L4laktoxkD55JNhN0efNELUKNTwJuTxTdm/J5UXUx+Zwm0IotXkOInT15rXBKJxh7FvSeukh6wvHGik9fmzSDu+pCB3ZkUIBfRlRItV3+HGgwCxusMzOoZ0Aty+n4pla/GQv+cRL23hRDVEJ1hio3es2A50wE58DD0qcvADvz6IQlfEdomVg+uy6nj58DwsIm5SOBM2KgsotDrdJ7ttxzp4m/kzDM9cQp5xBnb6miv8krRH3Q6Ec+HD8cYlWoWQPrpebpIcB3ZKveFWz9u2jutBEQr9qGEuEagtl7xpDby8kxhtZ/0+f/H4ArwmWs0e8Xput0tE0ZF5lupKESI=;YtmCszWKi58+r97cDtGguw=="
+secured: "oBYcHokRQSFA1KLZf93IWWqx2phiXtUUWmM792kFXqjLo9E4XDAXunsPNXktGu7m+O+IzIPDTPk44TqU8p7dbsIcZl+cmWZTXffvDYFT8uJg8C/io+iK94h2VS0KqGg9O3SmjTi5ULkfb9Wuj4LpxA5LwiwB3FVmNZT6qAwlaqohTKMDCxgWpKOS+U2/drt9H7TXUiM5tMX61ne+hI8s2mlMmLtE3rSomsHZimbDq6CvbJm+w4qqZfKoE61/fUL7FOBTqNKP2Ua2VlUG34PsqCUgXfMaTPLr2I/HA9ZYhoP8F9bVkeLwE75mIJqbEYbohvqPcmXNwyqEzWy1p9OQysn2cTFvcY5WX7aQycsKDsM=;L+ZME4o4AhnDwpiqhoywFQ=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-05-john-deeres-self-driving-tractor-stirs-debate-on-ai-in-farming.md",
-      "title": "John Deere's Self-Driving Tractor Stirs Debate on AI in Farming",
-      "excerpt": "John Deere’s new 8R tractor uses six pairs of stereo cameras and advanced artificial intelligence to perceive its environment and navigate. It can find its way to a field on its own when given a route and coordinates,",
+      "path": "_news/2022-01-05-john-deeres-self-driving-tractor-arrives-later-this-fall.md",
+      "title": "John Deere’s self-driving tractor arrives later this fall",
+      "excerpt": "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/",
-      "originalUrl": "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/",
+      "webUrl": "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/",
+      "originalUrl": "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 244,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg",
-          "width": 2400,
-          "height": 1600,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/john-deere-2.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp",
+      "ampWebUrl": "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/",
       "publishedDateTime": "2022-01-04T12:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,8 +50,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -98,58 +97,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-05-nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks.md",
-      "title": "Nvidia Drive Hyperion 8 will pilot self-driving cars and trucks",
-      "excerpt": "Learn more Nvidia unveiled its latest generation platform for self-driving vehicles: the Drive Hyperion 8. The company unveiled the latest technology for self-driving cars and trucks at CES 2022, the tech trade show in Las Vegas this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/nvidia-ces-tusimple.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/",
-      "publishedDateTime": "2022-01-04T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-05-with-intel-mobileyes-newest-chip-automakers-can-bring-automated-driving-to-cars.md",
       "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars",
       "excerpt": "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving.",
@@ -158,7 +105,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1437,6 +1384,40 @@
       "provider": {
         "name": "ADVFN",
         "domain": "advfn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-20-novel-fau-technology-for-self-driving-cars-earns-second-us-patent.md",
+      "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
+      "excerpt": "BOCA RATON, Fla., Dec. 20, 2021 /PRNewswire/ -- A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

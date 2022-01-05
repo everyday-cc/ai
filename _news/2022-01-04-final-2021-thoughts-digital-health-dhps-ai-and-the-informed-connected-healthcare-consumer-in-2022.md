@@ -59,10 +59,26 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData"
+    excerpt: "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database."
+    publishedDateTime: 2022-01-05T12:45:00Z
+    webUrl: "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 71
+    images:
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg"
+        width: 750
+        height: 400
+        isCached: true
   - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
     publishedDateTime: 2022-01-04T15:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
     type: article
     provider:
       name: Associated Press

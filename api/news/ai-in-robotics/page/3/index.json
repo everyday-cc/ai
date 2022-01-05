@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-12-16-robots-taking-more-jobs-because-of-covid-19-pandemic.md",
-      "title": "Robots taking more jobs because of COVID-19 pandemic",
-      "excerpt": "The coronavirus pandemic very likely accelerated automation and research suggests that we’ll start feeling some effects as early as next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic",
-      "originalUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sbsun.com/wp-content/uploads/2021/12/RDF-L-WAREHOUSES-1203-01.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/",
-      "publishedDateTime": "2021-12-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The San Bernardino Sun",
-        "domain": "sbsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-15-robot-nurse-assistants-join-shannon-hospital-amid-texas-healthcare-worker-shortage.md",
       "title": "Robot nurse assistants join Shannon Hospital amid Texas healthcare worker shortage",
       "excerpt": "\"We are one of the first hospitals in the country to have this technology,\" said Lyndy Stone, Shannon's director of marketing.",
@@ -1335,6 +1292,49 @@
       "provider": {
         "name": "Scientific American",
         "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-jacksonville-dentist-goes-next-level-with-robot-assisted-dental-surgery.md",
+      "title": "Jacksonville dentist goes next-level with robot-assisted dental surgery",
+      "excerpt": "Even though the technology is robotic, Arauz maintains control at all times ... but takes advantage of the human mind in the brilliant aspect,\" said Arauz. Arauz received Yomi in February ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
+      "originalUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/02/NJDN/a0c0e71d-9897-4de8-9847-c29fada6ae52-drarauz.jpg?auto=webp&crop=959,540,x0,y128&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jdnews.com/amp/8768281002",
+      "cdnAmpWebUrl": "https://amp-jdnews-com.cdn.ampproject.org/c/s/amp.jdnews.com/amp/8768281002",
+      "publishedDateTime": "2021-12-10T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jacksonville Daily News",
+        "domain": "jdnews.com",
         "images": null,
         "publishers": null,
         "authors": null

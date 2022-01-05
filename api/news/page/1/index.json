@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-05-va-turns-to-ai-to-streamline-administrative-tasks.md",
+      "title": "VA Turns to AI to Streamline Administrative Tasks",
+      "excerpt": "The Department of Veterans Affairs is exploring how to use artificial intelligence tools to drive efficiencies in a wide range of medical and clerical areas.",
+      "sourceUrl": null,
+      "webUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
+      "originalUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202201/GettyImages-1300745916.jpg?itok=8Qx7rF5Z",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
+      "cdnAmpWebUrl": "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
+      "publishedDateTime": "2022-01-05T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fedtechmagazine.com",
+        "domain": "fedtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-2022-startup-predictions-the-trends-sectors-and-tech-worth-watching.md",
+      "title": "2022 Startup Predictions: The Trends, Sectors, And Tech Worth Watching",
+      "excerpt": "Will 2022 be another record year for investment into the European venture community? Here are a few of the trends and technologies likely to drive investment decisions in the year ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/",
+      "originalUrl": "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d5a9fe900aca137e034ea8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/",
+      "publishedDateTime": "2022-01-05T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar.md",
       "title": "Hong Kong Billionaire Professor Adds $2 Billion To His Wealth As Shares Of AI Giant SenseTime Soar",
       "excerpt": "Shares of SenseTime have almost doubled since its closely watched IPO last week, adding $2 billion to the net worth of Tang Xiao’ou, cofounder and the largest shareholder of the Chinese AI giant.",
@@ -113,7 +207,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -195,58 +289,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-deere-rolls-out-fully-autonomous-tractor-at-ces.md",
-      "title": "Deere Rolls Out Fully Autonomous Tractor at CES",
-      "excerpt": "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "originalUrl": "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-461772/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "publishedDateTime": "2022-01-04T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -464,7 +506,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -612,21 +654,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-05-john-deeres-self-driving-tractor-stirs-debate-on-ai-in-farming.md",
-      "title": "John Deere's Self-Driving Tractor Stirs Debate on AI in Farming",
-      "excerpt": "John Deere’s new 8R tractor uses six pairs of stereo cameras and advanced artificial intelligence to perceive its environment and navigate. It can find its way to a field on its own when given a route and coordinates,",
+      "path": "_news/2022-01-05-john-deeres-self-driving-tractor-arrives-later-this-fall.md",
+      "title": "John Deere’s self-driving tractor arrives later this fall",
+      "excerpt": "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/",
-      "originalUrl": "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/",
+      "webUrl": "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/",
+      "originalUrl": "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 244,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg",
-          "width": 2400,
-          "height": 1600,
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/john-deere-2.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -634,16 +676,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp",
+      "ampWebUrl": "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/",
       "publishedDateTime": "2022-01-04T12:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -660,8 +702,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -864,6 +905,48 @@
       ]
     },
     {
+      "path": "_news/2022-01-05-ces-2022-hyperxs-new-wireless-gaming-headset-runs-for-300-hours.md",
+      "title": "CES 2022: HyperX's new wireless gaming headset runs for 300 hours",
+      "excerpt": "HyperX is no stranger to the gaming-headset space, having created some of the best gaming headsets of the last decade or so. Now the company has introduced the HyperX Cloud Alpha Wireless, which cuts the cord from the tried-and-true HyperX Cloud Alpha.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ces.tech/Logistics/Dates-and-Hours.aspx",
+      "originalUrl": "https://www.tomsguide.com/news/ces-2022-hyperx-cloud-alpha-wireless",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ces.tech/ces/media/topics/tech-good-nav_580x204.png?ext=.png",
+          "width": 580,
+          "height": 204,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-intel-launches-its-arc-graphics-chips-for-pc-gaming.md",
       "title": "Intel launches its Arc graphics chips for PC gaming",
       "excerpt": "Intel aims to disrupt the duopoly of Nvidia and Advanced Micro Devices with its own Arc standalone graphics chips launching today.",
@@ -1020,58 +1103,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-05-nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks.md",
-      "title": "Nvidia Drive Hyperion 8 will pilot self-driving cars and trucks",
-      "excerpt": "Learn more Nvidia unveiled its latest generation platform for self-driving vehicles: the Drive Hyperion 8. The company unveiled the latest technology for self-driving cars and trucks at CES 2022, the tech trade show in Las Vegas this week.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/nvidia-ces-tusimple.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/",
-      "publishedDateTime": "2022-01-04T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-05-with-intel-mobileyes-newest-chip-automakers-can-bring-automated-driving-to-cars.md",
       "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars",
       "excerpt": "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving.",
@@ -1080,7 +1111,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1125,6 +1156,51 @@
       ]
     },
     {
+      "path": "_news/2022-01-04-future-of-work-computer-vision-and-machine-learning-may-soon-bolster-restaurant-jobs.md",
+      "title": "Future of Work: Computer vision and machine learning may soon bolster restaurant jobs",
+      "excerpt": "Chipotle CEO Brian Niccol expects the restaurant industry to adopt more emerging technologies to deal with challenges like supply chain snags, worker turnover and inefficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2022/t_bec7b19019f440cca2783637ba05c5da_name_Chipotle_Thumb_2.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-the-machine-learning-future-is-now-how-ai-is-disrupting-entire-industries.md",
       "title": "The Machine Learning Future Is Now: How AI is Disrupting Entire Industries",
       "excerpt": "M achine learning and artificial intelligence (AI) are no longer the concepts of science fiction – they’re a $1.41 billion industry that is already making big changes to the way we understand and use immense databases for a wide range of purposes.",
@@ -1154,111 +1230,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh.md",
-      "title": "CES 2022 Innovation Awards: An airbag for your hips, a hands-free selfie drone and VR for ADH",
-      "excerpt": "This collection of products from the CES 2022 Innovation Awards will help your life in ways you never imagined.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
-      "originalUrl": "https://www.techrepublic.com/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/04/8104ba05-afbc-46b9-849c-82b6df46f80d/resize/400x/094cd4415c823d97fe5579ea3b4ded4d/air-neo-1111233-2-2.jpg",
-          "width": 400,
-          "height": 301,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
-      "publishedDateTime": "2022-01-04T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution.md",
-      "title": "AI, ML bubble to the top in new beverage-ordering solution",
-      "excerpt": "The Bees application empowers users to place orders anytime, anywhere. They can order an array of products, earn rewards where applicable, gain insights on how their business is performing, and have flexibility with delivery dates and times.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/cafe-x-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/amp/",
-      "publishedDateTime": "2022-01-04T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

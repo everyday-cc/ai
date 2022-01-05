@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-de
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
 type: article
 quality: 91
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -42,11 +42,43 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 74
+    quality: 174
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2021/12/john-deere-2.jpg?w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Deere Rolls Out Fully Autonomous Tractor at CES"
+    excerpt: "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year."
+    publishedDateTime: 2022-01-05T00:42:00Z
+    webUrl: "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    ampWebUrl: "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-461772/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia Drive Hyperion 8 will pilot self-driving cars and trucks"
+    excerpt: "Learn more Nvidia unveiled its latest generation platform for self-driving vehicles: the Drive Hyperion 8. The company unveiled the latest technology for self-driving cars and trucks at CES 2022, the tech trade show in Las Vegas this week."
+    publishedDateTime: 2022-01-04T16:52:00Z
+    webUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/"
+    ampWebUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/nvidia-ces-tusimple.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Forget Tesla. At CES, Deere Demos a Self-Driving Tractor."
     excerpt: "The company says its new tractor can till fields with no driver present, improving farm productivity by as much as 20%."
@@ -63,6 +95,36 @@ related:
       - url: "https://images.barrons.com/im-461313/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "TuSimple to use Nvidia chips for computing in self-driving trucks"
+    excerpt: "Self-driving freight trucks, while still operating largely in pilot projects, have become a focus of the autonomous industry"
+    publishedDateTime: 2022-01-04T12:36:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/Q9ojqE_4Ec_VI5TiH65j1iEQ-MEm-GgiFRkesqb_thqHSrTdwwDexpn7hwZWmRVs-GTs9niUzvEW4px-JBybnj9UytQEByyY=s500"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
+    excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
+    publishedDateTime: 2022-01-04T22:31:00Z
+    webUrl: "https://www.datanami.com/2022/01/04/nothing-runs-like-a-gpu-powered-fully-autonomous-deere/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
+        width: 1081
+        height: 537
         isCached: true
   - title: "John Deere unveils first autonomous tractor"
     excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."

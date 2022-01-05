@@ -6,9 +6,9 @@ publishedDateTime: 2022-01-04T15:46:00Z
 originalUrl: "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/"
 webUrl: "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/"
 type: article
-quality: 51
-heat: 51
-published: false
+quality: 151
+heat: 151
+published: true
 
 provider:
   name: Washington Post
@@ -26,6 +26,6 @@ images:
     height: 810
     isCached: true
 
-secured: "o277KOicmD6J/boSNe3fd5ZVezSTTwTQIB1HPMSbaH7KlHOZqQNLjGUMQN8aTEZqI7U7dZ5bNxeS427G77oSsDaEWar4tA3Q4xtyGNWYr9Al+uZPqvU5allzvt7NBAKANr2CGp8xsqzivkWS0bURmxCr3ae+rU4KRU+/tGrgfB5GO4fH03eKepHHitjcRiVJ33+0iWLwppXNpLdDh3+aUSiRE89kbJ5Cm52QC9Z4pcYg+E8mnJpyw+sCWlB78PGajeDRwpZIrMFqbBOrPlKOr2NcMi8ApbonHRsuZZoCZuSrr5LhW62otX4ozPZJzL5Q6KkM+3/f8mM6i37NFGyjR/NFTTeBGLzw0VEkPWiS4c0=;uzFnRDmLGlsoMswGD5t5lQ=="
+secured: "I0qKACwNm48zn0cMWfkiuPDK6l4cSemdJvqnyOq47s89OgpyDVXcJETRfcJaeN4hGzgAJT6VtwgYCb3KfJgfhgZdG088Z4+ZpvPwZIoqg0f3UORCShHbnOGYz54KgG4zF9iAVqeYW511IpiqXS0GfnAKVI0rBZOR7lXpjwWNaOKjbMugNqlf4MK7zfO9RrkaLfuFBQioSyfHA2jbG/bfPT8/uyqYjXcE8PkErG+Oy2lKxzy1U7kvitIooTwi1e/KAJcefFCUFXxw+qDuR8QAkuvSJHZJARAEoeWo6jktP2yAGGn/MqVWD4VQfVJvocWcrC9681jJPnQpfJuZfFBIfhnqcQ0d4f8M0DSnIIN7b2Jxiq/4kaPOPTh8jX3Iwxsj;TlVtwYyUzvIFydq0UvfjbA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
 type: article
 quality: 74
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "John Deere’s self-driving tractor arrives later this fall"
+    excerpt: "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing."
+    publishedDateTime: 2022-01-04T20:30:00Z
+    webUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/"
+    ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 174
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/john-deere-2.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "John Deere's Self-Driving Tractor Stirs Debate on AI in Farming"
+    excerpt: "John Deere’s new 8R tractor uses six pairs of stereo cameras and advanced artificial intelligence to perceive its environment and navigate. It can find its way to a field on its own when given a route and coordinates,"
+    publishedDateTime: 2022-01-04T20:30:00Z
+    webUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/"
+    ampWebUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Deere Rolls Out Fully Autonomous Tractor at CES"
+    excerpt: "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year."
+    publishedDateTime: 2022-01-05T00:42:00Z
+    webUrl: "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    ampWebUrl: "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-461772/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Forget Tesla. At CES, Deere Demos a Self-Driving Tractor."
+    excerpt: "The company says its new tractor can till fields with no driver present, improving farm productivity by as much as 20%."
+    publishedDateTime: 2022-01-04T20:30:00Z
+    webUrl: "https://www.barrons.com/articles/ces-deere-self-driving-tractor-51641321288"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-461313/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "TuSimple to use Nvidia chips for computing in self-driving trucks"
     excerpt: "Self-driving freight trucks, while still operating largely in pilot projects, have become a focus of the autonomous industry"
     publishedDateTime: 2022-01-04T12:36:00Z
@@ -47,19 +111,33 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "CES 2022: TuSimple furthers Level 4 self-driving trucking with Nvidia"
-    excerpt: "TuSimple, an autonomous trucking startup, is expanding its collaboration with chipmaker Nvidia to develop an advanced autonomous domain controller (ADC) designed specifically for Level 4 self-driving trucks."
-    publishedDateTime: 2022-01-04T14:06:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17595/ces-2022-tusimple-furthers-level-4-self-driving-trucking-with-nvidia"
+  - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
+    excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
+    publishedDateTime: 2022-01-04T22:31:00Z
+    webUrl: "https://www.datanami.com/2022/01/04/nothing-runs-like-a-gpu-powered-fully-autonomous-deere/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
+        width: 1081
+        height: 537
+        isCached: true
+  - title: "John Deere unveils first autonomous tractor"
+    excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."
+    publishedDateTime: 2022-01-04T21:38:00Z
+    webUrl: "https://www.farmprogress.com/equipment/john-deere-unveils-first-autonomous-tractor"
+    type: article
+    provider:
+      name: Markets
+      domain: farmprogress.com
     quality: 24
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/595/17595/TuSimple.jpg"
-        width: 752
-        height: 501
+      - url: "https://www.farmprogress.com/sites/farmprogress.com/files/Jahmy-Hindman-Deere-Autonomy-main.jpg"
+        width: 1540
+        height: 800
         isCached: true
 
 secured: "JgzYwmFTxlVhVBHJ7AHaSDBUjBUH7q9F6l8vrxQjdM/jgGy4lvmghZLTQ0vE0Ps4lrSOwq6xcGwM9utCL0hZgVkYXcFyYtbLmV8RXTvexpC+yqw9C+hG9Cfoubv6IX+IcofzQhiuwtsOqCXnTpUGB7UUVu3n4eml7PeNOuDswVcxMu729hrR5Lk71GnLH9n2t0Y5z3hpwHVyIaBEr3EZETr67m0xjfJt2MP+nh0xCS99mbSqgvIKXJGksAJ1/boUM4kIIyY+xf2qF7ZO/3ukWkXIRhC9gtfS9qz1T0BKMiFVUJRTQeLkPkW7oPD/92aHVE3HbEWzQ5mN2x+7NkHqUKSH9iqieDHjlA0TqaNkO/VAKB2C8h0T6S8JbbonAEyy30apwucbRYW/abjeGZBwS0MQp/1X5/K09Mt+wBFo7ZeD9L7eFMXmc0cZuYlYWKJ9HrRx5mSitFVMJixeLihEvPDJeHgZ4dKYE0EcOJhoNphN/XXwfRDvxpRxN4rY6oczLxk+WZJrqxaZmc+k6IPGDg==;uhWGStM9CMCYjyvK9TVxPg=="

@@ -2,6 +2,183 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-29-china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes.md",
+      "title": "China Has Developed An AI ‘Prosecutor’ That Can Charge People With Crimes",
+      "excerpt": "Advertisement Chinese researchers have developed a ‘prosecutor’ that can charge people with crimes using artificial intelligence. The technology can detect ‘dissent’ and other offenses such as fraud,",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/",
+      "originalUrl": "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/AI-Prosecutor-China-1-1640663571.jpg",
+          "width": 600,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/",
+      "publishedDateTime": "2021-12-28T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-chinese-professor-lands-34-billion-fortune-with-sensetime-ipo.md",
+      "title": "Chinese Professor Lands $3.4 Billion Fortune With SenseTime IPO",
+      "excerpt": "Just weeks after the U.S. placed a unit of SenseTime Group Inc. on a blacklist for alleged human rights violations, the firm is about to make founder Tang Xiao’ou one of the world’s richest people.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.yahoo.com/news/chinese-professor-lands-3-4-170000404.html",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-28/chinese-professor-defies-odds-on-way-to-3-4-billion-fortune",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/QsTJaoukRkpOL4vgk74xWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/hITtFV9UNrwC3P.08DChNw--~B/aD0xMzYxO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/a935a2be1444e0667fa9f9e11c3e7bd8",
+          "width": 1175,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html",
+      "cdnAmpWebUrl": "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html",
+      "publishedDateTime": "2021-12-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-75-of-acquiring-banks-use-artificial-intelligence-to-detect-card-transaction-fraud.md",
+      "title": "75% of Acquiring Banks Use Artificial Intelligence to Detect Card Transaction Fraud",
+      "excerpt": "AI In Focus, a PYMNTS and Brighterion collaboration, found that AI and related tech are needed to manage increases in both payments volume and fraud attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/artificial-intelligence-bank-fraud-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/",
+      "publishedDateTime": "2021-12-28T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-chinese-scientists-created-an-ai-prosecutor-that-can-press-charges.md",
+      "title": "Chinese Scientists Created an AI 'Prosecutor' That Can Press Charges",
+      "excerpt": "Researchers in China have created an AI \"prosecutor\" that can reportedly identify crimes and file charges against criminals.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
+      "originalUrl": "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/9lwjQ1rK6E/sizes/in-a-first-chinese-scientists-create-ai-prosecutor-that-can-press-charges_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
+      "publishedDateTime": "2021-12-28T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-analytics-and-ai-in-2022-innovation-in-the-era-of-covid.md",
       "title": "Analytics and AI in 2022: Innovation in the era of COVID",
       "excerpt": "This year's predictions focus less on analytics technology per se and more on its application to address pandemic-driven phenomena.",
@@ -605,6 +782,48 @@
       ]
     },
     {
+      "path": "_news/2021-12-28-report-meta-boosts-metaverse-push-with-help-of-synthetic-data-startup-aireverie.md",
+      "title": "Report: Meta boosts metaverse push with help of synthetic data startup AI.Reverie",
+      "excerpt": "Meta Platforms Inc. will will draw on its acquisition of synthetic data startup AI.Reverie, which closed earlier this year, to support its metaverse development efforts. The Financial Times reported Meta’s plans on Friday.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/27/report-meta-boosts-metaverse-push-help-synthetic-data-startup-ai-reverie/",
+      "originalUrl": "https://siliconangle.com/2021/12/27/report-meta-boosts-metaverse-push-help-synthetic-data-startup-ai-reverie/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/meta.png",
+          "width": 1046,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators.md",
       "title": "Baidu Create 2021 Successfully Launched In Metaverse, Ushering In A Golden Decade Of AI For Creators",
       "excerpt": "Having L4 intelligent driving capabilities, Baidu's smart EV venture, Jidu Auto, has been designed to operate under the concepts of \"free movement\", \"natural communication\", and \"self-improvement\".",
@@ -944,232 +1163,6 @@
       "provider": {
         "name": "Dronelife",
         "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says.md",
-      "title": "Robotics might be ‘bigger than industrial revolution,’ Lightspeed Partner says",
-      "excerpt": "Raviraj Jain, whose firm has invested in a startup that’s developing a grasping tool, says warehouses represent ‘the biggest opportunity’ for robotics at present",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says-11640620538194.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says-11640620538194.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/12/27/600x338/Robotics_1640620827696_1640620827828.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says/amp-11640620538194.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says/amp-11640620538194.html",
-      "publishedDateTime": "2021-12-27T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report.md",
-      "title": "HAI ROBOTICS Celebrates 5th Anniversary, Gets AI Unicorn Nomination by Hurun Report",
-      "excerpt": "In the past five years, the company secured strong footholds in factories and warehouses with its ACR solution. It was named a global unicorn in the AI sector by Hurun's index of global unicorn this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
-      "originalUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/8115abd3-6755-4174-881a-6e904d3144cf.jpeg?height=635&t=1640621986&width=1200",
-          "width": 600,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-a-desert-robot-depicts-ais-vast-opportunities.md",
-      "title": "A desert robot depicts AI’s vast opportunities",
-      "excerpt": "The next chapter in AI development will be defined by two trends: increased accessibility and increased technical maturity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/12/27/1043030/a-desert-robot-depicts-ais-vast-opportunities/",
-      "originalUrl": "https://www.technologyreview.com/2021/12/27/1043030/a-desert-robot-depicts-ais-vast-opportunities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/12/Desert-robotsmall.png?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/12/27/1043030/a-desert-robot-depicts-ais-vast-opportunities/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/27/1043030/a-desert-robot-depicts-ais-vast-opportunities/amp/",
-      "publishedDateTime": "2021-12-27T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-will-natural-language-processing-nlp-change-digital-marketing.md",
-      "title": "Will Natural Language Processing (NLP) change Digital Marketing?",
-      "excerpt": "It wasn’t so long ago that having robots understand human speech was just the fantasy of movies and television.  Having a satellite navigation system is now considered standard, and we take for granted that we don’t have to wade through hundreds of maps to work out directions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/natural-language-processing-nlp-change-digital-marketing-dragas",
-      "originalUrl": "https://www.linkedin.com/pulse/natural-language-processing-nlp-change-digital-marketing-dragas",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFTWdfqhfvmqg/article-cover_image-shrink_600_2000/0/1640604524047?e=1646265600&v=beta&t=QQ8yAADvlDv5rrjDwMsu1_PLWIDwMPd8Hg_LT90Nry4",
-          "width": 700,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T06:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-movendo-and-maragal-medical-partner-to-predict-the-fall-risk-of-older-adults-with-new-robotic-system-and-artificial-intelligence.md",
-      "title": "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence",
-      "excerpt": "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

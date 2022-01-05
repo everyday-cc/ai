@@ -55,22 +55,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "UC Student Researchers Union Gains Recognition"
-    excerpt: "After months of negotiating deadlock, the University of California system formally recognized graduate student researchers as higher education employees and thus their right to unionize. “Almost every student researcher I’ve talked to knows someone who has been underpaid,"
-    publishedDateTime: 2021-12-31T22:31:00Z
-    webUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/"
-    ampWebUrl: "https://www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
-    cdnAmpWebUrl: "https://www-independent-com.cdn.ampproject.org/c/s/www.independent.com/2021/12/31/uc-student-researchers-union-gains-recognition/?amp=1"
-    type: article
-    provider:
-      name: Santa Barbara Independent
-      domain: independent.com
-    quality: 59
-    images:
-      - url: "https://www.independent.com/wp-content/uploads/2021/12/student-researchers-union-protest.jpg?fit=1383%2C991"
-        width: 1383
-        height: 991
-        isCached: true
   - title: "HC notice to state, cops for using face recognition tech"
     excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face"
     publishedDateTime: 2022-01-03T22:27:00Z

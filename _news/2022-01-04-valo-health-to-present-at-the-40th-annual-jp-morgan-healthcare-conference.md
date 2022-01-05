@@ -3,8 +3,8 @@ category: news
 title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
 excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
 publishedDateTime: 2022-01-04T15:41:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
 type: article
 quality: 37
 heat: -1
@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData"
+    excerpt: "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database."
+    publishedDateTime: 2022-01-05T12:45:00Z
+    webUrl: "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 71
+    images:
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg"
+        width: 750
+        height: 400
+        isCached: true
   - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
     excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
     publishedDateTime: 2022-01-04T03:41:00Z
@@ -70,6 +86,6 @@ related:
         height: 301
         isCached: true
 
-secured: "ExK8YIf+i0bpQDte+jJOl9QeOZKVB3ZRcREXdDYZ0uxoDbg1Ca/vVc33JeRAmI6MjEjru0WB7scibmMokPBQS7yUxKBcqcxn4ADL+bOryAEQ74xH5lKLK+NLPrtzF2ErU8BUb9zBlxabtrzz2ThxoLNpLy7sUrg3QQlieJtVhkeHzjxwTMTSIanrUVaPpCFc4Hplvo72Rnk6f7F46fq1JZ9aTU+Flr6jnVDLvGqXucWsKLedUFK89yQ1R4CT9SP56lYGD3KJ03eCMYRin1DffYHf/+iMd5xfvEmbdNLIMxMNROnJN8RymyhPu+DSuVlnt4Ce4/75O/Nks/xEO5mqeu0yo6+NDwVUCt5jDqiLMto=;jQ+BXG0tEic1wXeB1Bkttg=="
+secured: "PxZXnC/XsO0i1HhruiiCSG8QdlmkbeQSZk8w5mZlfKPnZyzzm940ZxeRBRC0b8j2Bd7lGgrLItu0Ax/2zbZNixDi74VDWiw+OtrlKyUix2CokzDK9SODys5mEm1PohvXN1GdaloZNvwxgHYPc8+E/8zyC71cnI7NA/gsEPD7RRf92zkRaJCkWOnBvR2fksHZf3p4KX5s/WXZEOSov9gk0HRKFU1Q6Bg8o6OWNrA3MBexxu/o//BXmW/G82sFXGcXLK3WafrJbMPhaxX3GxMMDNehBE+d8Vq6Qsaby+6r/L55dNkdAlgrQfvwkb6/1IZyLrQpnWzTNsce+VgbJZsU34VCPQRMJ3gwTi1gmOSHJhE=;Zez86VozQV7hWfLmAQti+A=="
 ---
 

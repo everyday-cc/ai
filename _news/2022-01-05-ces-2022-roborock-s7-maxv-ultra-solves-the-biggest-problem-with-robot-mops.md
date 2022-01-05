@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2022: LG unveils new robot and car concepts"
-    excerpt: "The world's largest consumer appliance manufacturer is showcasing a science fiction vision of an enhanced lifestyle for all, writes ARTHUR GOLDSTUCK"
-    publishedDateTime: 2022-01-04T07:00:00Z
-    webUrl: "https://gadget.co.za/ces-2022-lg-unveils-new-robot-and-car-concepts/"
+  - title: "The robots debuting at CES 2022"
+    excerpt: "Take a look at this roundup of robots, compiled by Electronics360, that are preparing for their CES 2022 debut. Hyundai Motor Group. Source: Hyundai Motor Group. Automotive manufa"
+    publishedDateTime: 2022-01-05T13:01:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17606/the-robots-debuting-at-ces-2022"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 39
     images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/lg-ces-2021.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
+      - url: "https://electronics360.globalspec.com/images/assets/606/17606/CES2022D.png"
+        width: 675
+        height: 555
         isCached: true
 
 secured: "56+k8NvPDBOJbxDiUSbc35pCWWjCpKWXo6RFYNYUZ71hvI9f/rd9kxEEUSrPODPzEyfF5iT4INWXGYOUkroywYm2i/gOVT5UOHr0s4aaJQJy6n5RErDGZFOkoJlO3XW28fxG+XtEtd4aMXuRIbDLLcBAU5uc9gPUvfP8S2HRU1BErzhkG3gFKFC9c8STT1XYGD8s6cZAEDZrDW/8YmcZVpFMe5l7omZoRfsvZwyxLcqERoDXEmB7J8kcEnNxf58KUfobT4IMI3EB9WhIVXUQcrDqvSlNIFEn+tq8Swc9mQA6dZTEbczmGY5psoErOnvDN6sSk3dBJtyiCFTJ3FBOxouRjtPyIfyapXoT2VKqIf4=;nVvzNSiMwlXX0PfPOMd4iQ=="

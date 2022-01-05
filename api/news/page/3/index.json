@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-03-ai-apps-and-platforms-get-real.md",
+      "title": "AI Apps And Platforms Get Real",
+      "excerpt": "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
+      "publishedDateTime": "2022-01-03T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-robo-dogs-and-therapy-bots-artificial-intelligence-goes-cuddly.md",
+      "title": "Robo-dogs and therapy bots: Artificial intelligence goes cuddly",
+      "excerpt": "In Japan mechanical companions are finding their way into the hearts of stressed-out adults, schoolchildren, and patients with PTSD or dementia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "originalUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/01/03/2fe2df27-a54e-457e-8391-a829769c3f6e/thumbnail/1200x630/bdc4a46af1af8eed58d370a42a8e332b/robo-dog.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "publishedDateTime": "2022-01-03T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-honor-watch-gs-3-real-life-images-emerge-comes-with-8-channel-heart-rate-ai-engine.md",
+      "title": "Honor Watch GS 3 real-life images emerge, comes with 8-channel heart rate AI engine",
+      "excerpt": "Real-life images of the Honor Watch GS 3 have emerged for the first time, comes with 8-channel AI heart rate engine but no wireless charging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/01/03/honor-watch-gs-3-real-life-images-emerge-no-wireless-charging/",
+      "originalUrl": "https://www.gizmochina.com/2022/01/03/honor-watch-gs-3-real-life-images-emerge-no-wireless-charging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2021/08/Honor-Watch-GS3-featured.png",
+          "width": 618,
+          "height": 386,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/01/03/honor-watch-gs-3-real-life-images-emerge-no-wireless-charging/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/03/honor-watch-gs-3-real-life-images-emerge-no-wireless-charging/?amp=1",
+      "publishedDateTime": "2022-01-03T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-75-of-b2b-sales-organizations-will-use-ai-guided-selling-by-2025.md",
       "title": "75% of B2B Sales Organizations Will Use AI-Guided Selling by 2025",
       "excerpt": "A new report shows that by 2025, 75% of B2B sales organizations will augment their efforts with selling guided by AI:",
@@ -316,6 +463,48 @@
       "provider": {
         "name": "inc42.com",
         "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-what-to-consider-while-planning-ai-budget-for-2022.md",
+      "title": "What to consider while planning AI budget for 2022",
+      "excerpt": "When planning for AI, the budget does not only include the implementation and software costs. There’s a lot more to AI budgets than meets the eye.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88652471,imgsize-36498,width-1200,height-628,overlay-etcio/what-to-consider-while-planning-ai-budget-for-2022.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
+      "publishedDateTime": "2022-01-02T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -992,207 +1181,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down.md",
-      "title": "Microsoft Has Become One Of The Most Powerful Forces In Healthcare, With No Signs Of Slowing Down",
-      "excerpt": "Microsoft announced its latest venture in healthcare, adding on to its existing repertoire in this industry. In a groundbreaking statement, the technology and innovation giant announced a partnership with renowned pharmaceutical company CVS Health to “reimagine personalized care and accelerate digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce208dfb05e99a9755465d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4861%26cropY1%3D0%26cropY2%3D2865",
-          "width": 1200,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/amp/",
-      "publishedDateTime": "2021-12-30T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-machine-learning-program-connects-to-human-brain-and-commands-robots.md",
-      "title": "Machine-Learning Program Connects to Human Brain and Commands Robots",
-      "excerpt": "Researchers at Ecole Polytechnique Fédérale de Lausanne have developed a machine-learning program that can be connected to a human brain and used to command a robot. The program can alter the robot’s movements based on electrical signals from the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
-      "originalUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/brain-2676370_1280.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-30T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions.md",
-      "title": "UNESCO AI Ethics Impacting 2022 Global Startups And Humanity’s Billions",
-      "excerpt": "AI influences nearly 8 billion people and human & earth diverse ecosystems on an unprecedented scale. Startups accelerate to incorporate AI innovation as AI tools proliferate. UNESCO is the United Nations Educational,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c769fb6adcbcb70b55465d%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/",
-      "publishedDateTime": "2021-12-30T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-2021-year-in-review-google-quantum-ai.md",
-      "title": "2021 Year in Review: Google Quantum AI",
-      "excerpt": "Google’s Quantum AI team has had a productive 2021. Despite ongoing global challenges, we’ve made significant progress in our effort to build a fully error-corrected quantum computer, working towards our next hardware milestone of building an error-corrected quantum bit (qubit) prototype. At the same",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/2021-year-review-google-quantum-ai/",
-      "originalUrl": "https://blog.google/technology/research/2021-year-review-google-quantum-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2019_SB_Google_0264_quantum_2880_x_1177_px.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/2021-year-review-google-quantum-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/2021-year-review-google-quantum-ai/amp/",
-      "publishedDateTime": "2021-12-30T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

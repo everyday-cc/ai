@@ -25,18 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Outlook on 2022: AI grid technology must become a bigger part of the climate conversation"
-    excerpt: "The growing role of AI in supporting the grid will be key to making our energy supply greener and more efficient, writes Moixa founer Simon Daniel ‘ Consign coal to history ' - these were the words echoed at COP26 this year as countries committed to ending coal investments and scale up clean power."
-    publishedDateTime: 2022-01-03T23:42:00Z
-    webUrl: "https://energycentral.com/news/outlook-2022-ai-grid-technology-must-become-bigger-part-climate-conversation"
+  - title: "CES 2022: VM-Fi 'World's First' Fast 5G AI Translation System"
+    excerpt: "VM-Fi is designed for the smart audio group tour business and is a device that does not require internet access. It can also translate to many people in a short amount of time. The goal of the device is the end of the world's communication barrier."
+    publishedDateTime: 2022-01-05T13:10:00Z
+    webUrl: "https://www.ibtimes.com/ces-2022-vm-fi-worlds-first-fast-5g-ai-translation-system-3366237"
+    ampWebUrl: "https://www.ibtimes.com/ces-2022-vm-fi-worlds-first-fast-5g-ai-translation-system-3366237?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ces-2022-vm-fi-worlds-first-fast-5g-ai-translation-system-3366237?amp=1"
     type: article
     provider:
-      name: Energy Central
-      domain: energycentral.com
-    quality: 28
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 59
     images:
-      - url: "https://energycentral.com/sites/default/files/styles/og_meta/public/ece/news_node_main/2021/28/dreamstime_s_1129660.jpg?itok=4H0XFP7L"
-        width: 800
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/03/badge-vm-fiphoto.png"
+        width: 900
         height: 600
         isCached: true
 

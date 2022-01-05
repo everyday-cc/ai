@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-12-10-jacksonville-dentist-goes-next-level-with-robot-assisted-dental-surgery.md",
-      "title": "Jacksonville dentist goes next-level with robot-assisted dental surgery",
-      "excerpt": "Even though the technology is robotic, Arauz maintains control at all times ... but takes advantage of the human mind in the brilliant aspect,\" said Arauz. Arauz received Yomi in February ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
-      "originalUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/12/02/NJDN/a0c0e71d-9897-4de8-9847-c29fada6ae52-drarauz.jpg?auto=webp&crop=959,540,x0,y128&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.jdnews.com/amp/8768281002",
-      "cdnAmpWebUrl": "https://amp-jdnews-com.cdn.ampproject.org/c/s/amp.jdnews.com/amp/8768281002",
-      "publishedDateTime": "2021-12-10T00:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jacksonville Daily News",
-        "domain": "jdnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-codifying-humanity-why-ai-sucks-at-content-moderation.md",
       "title": "Codifying humanity: Why AI sucks at content moderation",
       "excerpt": "Meta unveiled a new content moderation AI system that it claims is a step towards generalized AI systems. We think they might be exaggerating.",
@@ -1378,6 +1335,49 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-06-smart-robot-market-2021-2028.md",
+      "title": "Smart Robot Market 2021-2028",
+      "excerpt": "The global smart robot market size is expected to reach USD 31.11 billion by 2027, exhibiting a CAGR of 23.1% during the forecast period. Rapid industrialization coupled with intelligent infrastructure projects will contribute positively to the growth of the market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
+      "originalUrl": "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc06500488_g.jpg",
+          "width": 800,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
+      "publishedDateTime": "2021-12-06T04:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

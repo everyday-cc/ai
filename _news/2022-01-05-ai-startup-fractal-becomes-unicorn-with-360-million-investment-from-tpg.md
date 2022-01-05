@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/amp/"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -117,6 +117,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
         width: 1200
         height: 676
+        isCached: true
+  - title: "AI startup Fractal said to have become unicorn after $360m investment from TPG"
+    excerpt: "The round valued Fractal at over $1 billion, TechCrunch reported quoting Srikanth Velamakanni, co-founder and group chief executive at Fractal. In a statement, TPG said that it invested in Fractal through TPG Capital Asia,"
+    publishedDateTime: 2022-01-05T14:35:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/tpg-invests-in-fractal-276168/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 33
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/09/artificial-intelligence-pixabay-e1599049075680.jpg"
+        width: 979
+        height: 506
         isCached: true
 
 secured: "CE+hyMm52LOBT8f05HzQVVVjlS76RS1hJW7nQe5Qu8jR2pzQKxqkqcWzJbwpRVlkOVqbXl9jGRnxQsLqj1wexQDo9/3ynns2i64mY/IJOrMn/dn9CtlYIaedipJ431FzXv9YrIiNzkqN4kaMEj6fC10TnpnOZHZ+ZhyaIF+N8ayoHOdr1qWVAN5M0Iu9XKxVs5t1gUrxTR0Bvgnl5DCWW2++JsxLaqyK4WRkXHblEcEy3xkS33ck8vSb+WYAHK4/HImMZaPCCw/R9L3ymZryQLrCyXvfqoF3LesujNaQF8SSkOTJhfgNkkN7wfQuFebLV3MW8L5SqWvvgG2oeDReeYeKKoSktsxh8ijBiOhCzqg=;u11AvFF7dY4jslQMlTi2OA=="

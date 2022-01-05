@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "The Market Is Greatly Underestimating C3.ai Stock"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With enterprise artificial intelligence software company C3.ai (NYSE:AI)"
-    publishedDateTime: 2021-12-31T21:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-market-is-greatly-underestimating-c3-ai-stock-1031072756"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Understanding AI’s Limitations Is Key to Unlocking Its Potential"
     excerpt: "Artificial intelligence (AI) is revolutionizing many processes across industries and applications—digital customer service assistants, autonomous"
     publishedDateTime: 2022-01-04T16:03:00Z

@@ -41,6 +41,22 @@ related:
         width: 700
         height: 434
         isCached: true
+  - title: "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData"
+    excerpt: "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database."
+    publishedDateTime: 2022-01-05T12:45:00Z
+    webUrl: "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 71
+    images:
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg"
+        width: 750
+        height: 400
+        isCached: true
   - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
     excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
     publishedDateTime: 2022-01-04T03:41:00Z
@@ -58,7 +74,7 @@ related:
   - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
     publishedDateTime: 2022-01-04T15:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
     type: article
     provider:
       name: Associated Press
@@ -70,6 +86,6 @@ related:
         height: 450
         isCached: true
 
-secured: "eOftPKCdjuNreZW41ehJ3tv26ZvqP+M8GElYFaKY87psDtcQXv2KANW8F5FoYGZUfjimIWzkaOKGpL0rbHJQVx1fuQFMzAyFTj+hknEfRCTK21olexjfSyKG6cO6QM9cgQnMkAUV978Uh6Hqx/x7Qn1ANYmgx5vYjdxJUc3XLz6VNswvkLASAAIS8tKs/cavYVOLi2q9sVMIjAvVABnnDu3NWNftObnFK0penSASPbK2SeBZ932BwiEqfWfgTiOGX1wWtdFX5ionnTh87rM3DxMNqdK2jpK17zQPDyrqJT1D3xhtiTklVb/tJhcKTnuWq763dMvOr6cc7A6Ehsi/6LxVbX7BLUVPRs8Josl1HjU=;GlBQPTIsy6vr5gzt3bUeog=="
+secured: "pfOBqNpEdpNpCao9g0D4PqfvU5VW5DbWxH41HAepgkhcM6Ce+itSfciBA0kkja7ka4oQ62fu2omlcnwdd23x/Jh43DLA+njDwp9pD6sgKhQPAIdm+vXzV/gMsiFRQPUAcLRN+17JiJnC1VJ01lZFFmhoOZLH3MKAw/FC8u4ai/qvmHmElLhZtmVYreTA0CRYXXRD0jahH8p67jlwIKEYJaIMrHJU4BXSiRPfmVZOJcoLe5d74yAfKmOSp9WTRgekbFTqS8NRDrGJcF6f/IexaDz3Dc1XNr3KmpNlbb/ezC0Myu4mcm0K9i5/7+qIU+27fcxfWqUMM2VFHu9ebvGOUgfPAFe5/zeGxfpVRdlnsPyQD+F8K9U23MhWmPCrbS5vXHmlgY4WFiBz8tV+KRsYkcqArX7Z8OBDIBv6xJTUvQ9gpI8ywSGQ7RVE2wjToVMWUSU2wVBtq7ENSJnJx8nOIEJNlpBztJvnDa83hPzaL7BbmL2PXrvobLWcJ6mcbZwP5+LxqnhRy7rQ4U4+Pg92Zw==;P4Jmb5Xp+/vCGty/uALvgw=="
 ---
 

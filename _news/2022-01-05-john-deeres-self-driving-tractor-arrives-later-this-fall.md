@@ -8,9 +8,9 @@ webUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arri
 ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
 type: article
-quality: 74
-heat: -1
-published: false
+quality: 174
+heat: 244
+published: true
 
 provider:
   name: TechCrunch
@@ -47,6 +47,38 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Deere Rolls Out Fully Autonomous Tractor at CES"
+    excerpt: "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year."
+    publishedDateTime: 2022-01-05T00:42:00Z
+    webUrl: "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    ampWebUrl: "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-461772/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia Drive Hyperion 8 will pilot self-driving cars and trucks"
+    excerpt: "Learn more Nvidia unveiled its latest generation platform for self-driving vehicles: the Drive Hyperion 8. The company unveiled the latest technology for self-driving cars and trucks at CES 2022, the tech trade show in Las Vegas this week."
+    publishedDateTime: 2022-01-04T16:52:00Z
+    webUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/"
+    ampWebUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/nvidia-ces-tusimple.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Forget Tesla. At CES, Deere Demos a Self-Driving Tractor."
     excerpt: "The company says its new tractor can till fields with no driver present, improving farm productivity by as much as 20%."
     publishedDateTime: 2022-01-04T20:30:00Z
@@ -63,6 +95,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "TuSimple to use Nvidia chips for computing in self-driving trucks"
+    excerpt: "Self-driving freight trucks, while still operating largely in pilot projects, have become a focus of the autonomous industry"
+    publishedDateTime: 2022-01-04T12:36:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
+    type: article
+    provider:
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/Q9ojqE_4Ec_VI5TiH65j1iEQ-MEm-GgiFRkesqb_thqHSrTdwwDexpn7hwZWmRVs-GTs9niUzvEW4px-JBybnj9UytQEByyY=s500"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
+    excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
+    publishedDateTime: 2022-01-04T22:31:00Z
+    webUrl: "https://www.datanami.com/2022/01/04/nothing-runs-like-a-gpu-powered-fully-autonomous-deere/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
+        width: 1081
+        height: 537
+        isCached: true
   - title: "John Deere unveils first autonomous tractor"
     excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."
     publishedDateTime: 2022-01-04T21:38:00Z
@@ -78,6 +140,6 @@ related:
         height: 800
         isCached: true
 
-secured: "kcnldDpI+hUayK38lW7KMgvwOhJtDj3wv8reqIozTq6XMWKPx8mAN2UiZrZB9UJ2pB42AhC9U0O1oEeQ21SKQCFQejpYjJy77XknKplMgtedeqAmlUmvQ1/4t1QbL8/SR4O9C43dyK2CRrTaVG+Ouf7+UrnGv74h3FOjOWOQxevO9IP7NXxLbJCPZy5622zt0WPewBRrVwk3hq9QeCv8Mhczrdd3BjsRm30XfOYiiHscEvNB0YFdrYiVFiLbZ6A7Tu8qwDUDvukt4C3kPRT926CAdvxrNLyx8IOzjolu/9/MZV+f8uT3wzyfshsRFj+N+iMr+eDx1oggicFf1ZrmB0obk2E+AUy8xJ3eZexFbdN+LzFVXZK/gctE8FRnIPJ6IeDMIfhxhDBLxf6KJbz92Dn07NKjUOp6iVGX9nOCEYlDmUbKeswEn2VKAM8A8a4CrdFZNm6rdKp0ODlpksaflkINoNGFxZW21GyU2rH17mRwIrZ/s3obSA3HiLgjWAKOp+3/msa5YKmTSqohR4dKIA==;zWvR8s3fs9okAgBH/ccs9g=="
+secured: "vCWQ79BkORTl9hbIoKVpDSjHx94l1DBOQXIYfDzlpn6F+Ve0h7Ua+JLWbT+6aLsmIqMse+CeFb+0fjB5njelSm6VN88w0BZjX7odKt5ZoZEHxBa+ttFDSzYwHWbJRDoBFM3EYaAJjJVqVXFhyYgbG81w3HW7fmemTq0sfbsp8slgRFPss6lCSkOjpUd+GhbRN9hL4VTLH81E6tr/0WSggjuimnbTXBnaCnJG2Tl8MqdWfSLcJ6cJ+8KYe3Ng5MLnTtrgRV0WT1vkxcGDPdsHyXhvgYvw/Py3T2FkMFcMRYC7XtDd+duG72gQlH+nQvOS2QcofQbwg7vs9y9MAyXlS4e8THzWJKbd3jxSLtBafFypNMLYcaQHI0TCckTBk4Mq+bngceISx95on9tBlcW7fiCz86B4CRQY8xht6MthTXTRIqiGuiZLLHlIOmWlbDtSt9/AYD+tsE9+Xmt4Mrg9U04mtHfcUxj8Ia4OV2PQhCdWwPIhv61iZ76ivCQwAntENsm0ggzfDEpR4VqQY4MELOJkrAvqIFVb+qqO8vRtm6E=;Q7M3R72q7oyxClBrIGMNCA=="
 ---
 

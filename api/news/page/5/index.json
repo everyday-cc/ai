@@ -2,12 +2,202 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-30-increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022.md",
+      "title": "Increased FinTech And Bank Partnerships Will Benefit Small Businesses In 2022",
+      "excerpt": "The need for the banking industry to keep up with technology was never more apparent than during the Paycheck Protection Program (PPP), which the SBA and the Treasury Department established to provide a lifeline to small businesses that were struggling because of the COVID pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ccbf5686e5c5ff85179440%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2826%26cropY1%3D54%26cropY2%3D1644",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rohitarora/2021/12/29/increased-fintech-and-bank-partnerships-will-benefit-small-businesses-in-2022/amp/",
+      "publishedDateTime": "2021-12-29T11:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-san-antonios-plus-one-robotics-is-a-winner-in-rush-to-automate-amid-pandemic.md",
+      "title": "San Antonio’s Plus One Robotics is a winner in rush to automate amid pandemic",
+      "excerpt": "Plus One Robotics is still riding the wave of automation that’s remaking warehouses and other logistics operations. For the second time in less than a year, Erik Nieves is looking to expand the company’s Port San Antonio headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mysanantonio.com/sa-inc/article/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "originalUrl": "https://www.mysanantonio.com/sa-inc/article/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/33/20/21869568/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mysanantonio.com/sa-inc/amp/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/sa-inc/amp/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "publishedDateTime": "2021-12-29T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My San Antonio",
+        "domain": "mysanantonio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-indy-autonomous-challenge-to-host-first-autonomous-racecar-competition-at-ces.md",
+      "title": "Indy Autonomous Challenge to host first autonomous racecar competition at CES",
+      "excerpt": "Indy Autonomous Challenge is preparing to make history at CES 2022 by hosting the first autonomous racecar competition at the event. Energy Systems Network (ESN), principal organizer of the Indy ...",
+      "sourceUrl": null,
+      "webUrl": "https://roboticsandautomationnews.com/2021/12/28/indy-autonomous-challenge-to-host-first-autonomous-racecar-competition-at-ces/47873/",
+      "originalUrl": "https://menafn.com/1103458743/Indy-Autonomous-Challenge-to-host-first-autonomous-racecar-competition-at-CES",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2021/12/indy-autonomous-at-ces.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-driverless-cars-and-ai-ethics.md",
+      "title": "Driverless Cars And AI Ethics",
+      "excerpt": "This blog discusses driverless cars and AI Ethics, and identifies a number of the ethical challenges in advancing this market carefully.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cca2b92c13cab8e9179438%2F0x0.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/29/driverless-cars-and-ai-ethics/amp/",
+      "publishedDateTime": "2021-12-29T10:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-volkswagen-improves-the-voice-recognition-rate-of-the-golf.md",
       "title": "Volkswagen improves the voice recognition rate of the Golf",
       "excerpt": "A more streamlined interface alongside an improved voice recognition system are in store for new examples of the Volkswagen Golf. The Volkswagen Golf will soon get an improved infotainment system. Due to go into series production in the next few weeks,",
       "sourceUrl": null,
-      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
-      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
+      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
+      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -956,183 +1146,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes.md",
-      "title": "China Has Developed An AI ‘Prosecutor’ That Can Charge People With Crimes",
-      "excerpt": "Advertisement Chinese researchers have developed a ‘prosecutor’ that can charge people with crimes using artificial intelligence. The technology can detect ‘dissent’ and other offenses such as fraud,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/",
-      "originalUrl": "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/AI-Prosecutor-China-1-1640663571.jpg",
-          "width": 600,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/",
-      "publishedDateTime": "2021-12-28T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-chinese-professor-lands-34-billion-fortune-with-sensetime-ipo.md",
-      "title": "Chinese Professor Lands $3.4 Billion Fortune With SenseTime IPO",
-      "excerpt": "Just weeks after the U.S. placed a unit of SenseTime Group Inc. on a blacklist for alleged human rights violations, the firm is about to make founder Tang Xiao’ou one of the world’s richest people.",
-      "sourceUrl": null,
-      "webUrl": "https://finance.yahoo.com/news/chinese-professor-lands-3-4-170000404.html",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-28/chinese-professor-defies-odds-on-way-to-3-4-billion-fortune",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 222,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/QsTJaoukRkpOL4vgk74xWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/hITtFV9UNrwC3P.08DChNw--~B/aD0xMzYxO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/a935a2be1444e0667fa9f9e11c3e7bd8",
-          "width": 1175,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html",
-      "cdnAmpWebUrl": "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html",
-      "publishedDateTime": "2021-12-28T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-75-of-acquiring-banks-use-artificial-intelligence-to-detect-card-transaction-fraud.md",
-      "title": "75% of Acquiring Banks Use Artificial Intelligence to Detect Card Transaction Fraud",
-      "excerpt": "AI In Focus, a PYMNTS and Brighterion collaboration, found that AI and related tech are needed to manage increases in both payments volume and fraud attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/artificial-intelligence-bank-fraud-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/75-percent-acquiring-banks-use-artificial-intelligence-detect-card-transaction-fraud/amp/",
-      "publishedDateTime": "2021-12-28T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-chinese-scientists-created-an-ai-prosecutor-that-can-press-charges.md",
-      "title": "Chinese Scientists Created an AI 'Prosecutor' That Can Press Charges",
-      "excerpt": "Researchers in China have created an AI \"prosecutor\" that can reportedly identify crimes and file charges against criminals.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
-      "originalUrl": "https://interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/9lwjQ1rK6E/sizes/in-a-first-chinese-scientists-create-ai-prosecutor-that-can-press-charges_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/chinese-scientists-created-an-ai-prosecutor-that-can-press-charges",
-      "publishedDateTime": "2021-12-28T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -88,15 +88,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "The Market Is Greatly Underestimating C3.ai Stock"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With enterprise artificial intelligence software company C3.ai (NYSE:AI)"
-    publishedDateTime: 2021-12-31T21:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-market-is-greatly-underestimating-c3-ai-stock-1031072756"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Contracting for AI in the Evolving Regulatory Landscape"
     excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
     publishedDateTime: 2022-01-04T12:06:00Z

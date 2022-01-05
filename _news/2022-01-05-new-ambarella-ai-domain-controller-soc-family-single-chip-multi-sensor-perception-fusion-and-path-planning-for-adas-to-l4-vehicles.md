@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Ambarella launches AI domain controller SoC family"
+    excerpt: "Ambarella, an AI vision silicon company, has announced the CV3 AI domain controller family. A fully scalable, power-efficient CVflow family of SoCs, these devices are able to provide the automotive industry’s highest AI processing performance,"
+    publishedDateTime: 2022-01-05T14:10:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/ambarella-launches-ai-domain-controller-soc-family/243325/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/243325/amber.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Ambarella Launches AI Domain Controller SoC Family for Single-Chip Multi-Sensor Perception, Fusion and Path Planning in ADAS to L4 Autonomous Vehicles"
     excerpt: "(NASDAQ:AMBA), an AI vision silicon company, today announced during CES the CV3 AI domain controller family. This fully scalable, power-efficient CVflow® family of SoCs provides the automotive industry's highest AI processing performance,"
     publishedDateTime: 2022-01-04T20:05:00Z

@@ -71,6 +71,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "CES 2022: Mobileye rolls out new EyeQ self-driving chip"
+    excerpt: "Mobileye, Intel’s autonomous driving hardware and software wing, unveiled its latest generation of self-driving car system-on-chip at this week’s CES 2022. Called EyeQ Ultra, the SoC is built specifically for consumer autonomous driving and delivers 176 trillion of operations per second (TOPS)."
+    publishedDateTime: 2022-01-05T13:46:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17603/ces-2022-mobileye-rolls-out-new-eyeq-self-driving-chip"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 41
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/603/17603/Mobileye-EyeQ6H.jpg"
+        width: 752
+        height: 423
+        isCached: true
   - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
     excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio - the Snapdragon Ride™ Vision System - a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
     publishedDateTime: 2022-01-04T19:21:00Z
