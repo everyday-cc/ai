@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-so
 webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Motley Fool
@@ -44,6 +44,31 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
         width: 1200
         height: 1500
+        isCached: true
+  - title: "Upstart vs. LendingClub: Which Fintech Stock is a Better Buy?"
+    excerpt: "I will analyze and compare Upstart Holdings (UPST) and LendingClub (LC) to determine which fintech stock is currently the better investment."
+    publishedDateTime: 2022-01-05T15:51:00Z
+    webUrl: "https://stocknews.com/news/upst-lc-upstart-vs-lendingclub-which-fintech-stock-is-a-better-buy/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
+  - title: "What does 2022 have in store for fintech?"
+    excerpt: "Here’s what the experts expect in 2022 The fintech industry moved at break-neck speed in 2021, with pre-pandemic days feeling like ancient history. Expect an even faster pace of change in 2022, according to industry experts."
+    publishedDateTime: 2022-01-05T15:10:00Z
+    webUrl: "https://www.raconteur.net/finance/fintech/what-does-2022-have-in-store-for-fintech-2/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Fintech-trends-2022.jpg"
+        width: 1188
+        height: 668
         isCached: true
 
 secured: "BOvL0YmChpMreKjRzLXnkMVKxLxSr5N6RGKeeIh2tWHpphwxQoH3k/H/Yoa0Qq+3oIzyhqRVHin60GT6spEE8O29jAM6WuLuUL2Ainv5bxNOFJodmY77q3/haNlnswJAWJavcVoK1wEI3srofI0mx8JsOvqyYyddh35SjZzMTECIF+9gsBOBdtOVs8ZmXqVYmBxf5dIIJEev7Jh8na+0LO33fRHw4mSfRyIEdEy+vLQeVy0bLQN+xI/0PIOMOfM+JOx7DTZtzm7wHn5v1ZgTtDHe+53GCHuplvAN0zJUQ9I7nJm2ilOGnXEO5DR8lgBNU3IfVRHRH5IXHE7kWAz3IJA7FKvRv8tc8l/i/HSPGddY+ocCkGnlfyZOeF9PcmCOkHJ33+31F9XLrJV81UKTwYsS4nLITbzZb4Q1/uUhxoBl878N+DDQW9HL9t9hNKAi/ybChED3I1zfj0zNW7Iz+TitG7o1DyKfIJ1aO8Tvx9Do6w0zfsPmL9N7yLDJWBIykQVqRgArEd5iFxBLNcnchA==;zIpWaZ922TalbcEOBd4uFg=="

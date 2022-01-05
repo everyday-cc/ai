@@ -38,6 +38,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Cyber and AI year"
+    excerpt: "Cyber and AI year. Professional Security magazine online - an essential read for everyone in the security industry."
+    publishedDateTime: 2022-01-05T16:19:00Z
+    webUrl: "https://www.professionalsecurity.co.uk/news/interviews/cyber-and-ai-year/"
+    type: article
+    provider:
+      name: professionalsecurity.co.uk
+      domain: professionalsecurity.co.uk
+    quality: 41
+    images:
+      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2014/02/Ear1.jpg"
+        width: 535
+        height: 547
+        isCached: true
   - title: "Data, AI and cyber on the minds of CEOs"
     excerpt: "Australia’s leading chief executives are investing billions in technology each year with the stated aim of better serving customers."
     publishedDateTime: 2022-01-04T08:47:00Z

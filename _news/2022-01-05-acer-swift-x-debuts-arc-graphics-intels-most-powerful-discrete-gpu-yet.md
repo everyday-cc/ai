@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 611
         isCached: true
+  - title: "Intel showcased 12th gen core family SoC, Arc graphics and self-driving Soc at CES 2022"
+    excerpt: "Intel showcased more than 20 new devices powered by the 12th Gen Intel Core H-series.Intel and Mobileye also announced the new EyeQ Ultra system-on-chip for autonomous vehicles"
+    publishedDateTime: 2022-01-05T16:30:00Z
+    webUrl: "https://www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022-11641358282206.html"
+    ampWebUrl: "https://www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022/amp-11641358282206.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022/amp-11641358282206.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://images.livemint.com/img/2022/01/05/600x338/intel-ces-news-2-16x9.jpg.rendition.intel.web.1648.927_1641358607824_1641358613566.jpg"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "NRC6Vvq0iA9AIB7LWto1CxkUQ+Ub2qfw85anDXpNhO0a7Fy+zJQfcazk05LVfB9ZAka+veTTk/Iuxu9TcJPlzVM5xjODdP1O2sDTd5zQ3zScqvYy2gG9PrM1mzuBk5SW3mBPNUur9pm3ZkFmzVcYjiwjuRE9VJsgazQk4YAznaFMCuHL96njMpbU5Nmn1Cyzt2GQSUISsXhL3C4v7OsOhGKz1Rty6vHefFOml7A1lErtrIqbTYyDTYA/DcjCvsTTIGfLbXoyiduV2tXZ61M2Hu+iQ30fN7YevofpwOwOd1cwkUB2FCaKbkg00dkAqKrU303bNj1Qfn29KtDBYln2Jul7EOuxEbBctPQNvWhyrmk=;QdXWynHMltAUa7Jw1freyA=="
 ---

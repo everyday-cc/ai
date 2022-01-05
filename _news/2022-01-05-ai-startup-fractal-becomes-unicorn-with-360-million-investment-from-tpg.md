@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/amp/"
 type: article
 quality: 86
-heat: 156
+heat: 166
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/2019/06/money_clip.gif"
         width: 900
         height: 506
+        isCached: true
+  - title: "TPG backs AI firm Fractal"
+    excerpt: "TPG invested $360 million in Fractal, a provider of artificial intelligence and advanced analytics solutions to Fortune 500 companies."
+    publishedDateTime: 2022-01-05T15:55:00Z
+    webUrl: "https://www.pehub.com/tpg-backs-ai-firm-fractal/"
+    type: article
+    provider:
+      name: PE Hub
+      domain: pehub.com
+    quality: 37
+    images:
+      - url: "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_Logo5.jpg"
+        width: 1024
+        height: 768
         isCached: true
   - title: "TPG invests US$360 million in AI tech startup Fractal"
     excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a US$360 million investment from private equity firm TPG through its Asia focused investment platform. TPG's involv"

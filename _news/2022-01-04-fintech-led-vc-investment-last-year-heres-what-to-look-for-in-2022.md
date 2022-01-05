@@ -41,6 +41,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Artificial Intelligence: FinTech’s innovation driver"
+    excerpt: "FinTech refers to any idea or innovation that improves or optimizes the way individuals or companies conduct financial activities. Early FinTech concentrated on developing add-on products to complement existing financial services."
+    publishedDateTime: 2022-01-05T13:49:00Z
+    webUrl: "https://www.bworldonline.com/artificial-intelligence-fintechs-innovation-driver/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2021/04/economy-default.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Need to invest in fintech knowledge"
     excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."
     publishedDateTime: 2022-01-02T00:52:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 135
 published: true
 
 provider:

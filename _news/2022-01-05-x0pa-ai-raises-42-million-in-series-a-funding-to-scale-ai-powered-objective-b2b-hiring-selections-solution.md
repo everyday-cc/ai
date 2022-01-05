@@ -1,26 +1,27 @@
 ---
 category: news
 title: "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION"
-excerpt: "The world's most objective hiring and selections platform plans to expand globally and innovate further with cutting-edge AI.SINGAPORE, Jan. 5, 2022 // -- X0PA AI, a leader in AI-powered objective hiring solutions,"
-publishedDateTime: 2022-01-05T13:00:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=595310"
-webUrl: "https://us.acrofan.com/detail.php?number=595310"
+excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led"
+publishedDateTime: 2022-01-05T07:30:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
+  - url: "https://mma.prnewswire.com/media/1715264/Image_for_Cision_PR_Newswire__Series_A_Funding_Campaign__Nina.jpg?p=facebook"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -53,6 +54,6 @@ related:
         height: 720
         isCached: true
 
-secured: "0xutYapl3qbb70ExruImSuvrB+t8xqhk3/1aR8sqrf+MkHEu8S3ZEgOXDJKT5xXqZU7kW/BYHT3LgkLiV5Lyl9X+MzNFbEcPj3YxuSmEL3f5nBc8PdGpxwJRVFLnl1SJvdeB3d4hCAOvIqKcNYHkpPIGFBRKNDbIhpwWOdklEPoArLp/9qU2oDYkxvfnEGRsLvjMLPtdb5EmCe3oUR1FFqdUu/0O/qxs7qEPbuvCgIKh/kxTykW7OiOys/QQeHQ1aEE5wdjJf0zypJqebOCVXDvfBhUnvNWLKrHO0502oJLZizZk1C4oMew135dzNv7FcLNkbmWDj4q8IuPbnfLQFQJn7/ZZDQWwhNkyRtjeOFk=;VPJ8ZDI9skSU37j2sG2QIg=="
+secured: "2YebMbC2w/07aIlSP9Bne69kd7NNm/5+SR7Sq2iVYdAOoIgX2hBSmgpE5cSu2OWSjcognIgkJF13ODUC9s6LXN2avwR2GvGGprolYTybJk0cwJ8AMCTfFNvwgHH9ZWfHxzGLULt/c1bftQH4yKXKO7YFTE50SlBsBO73yVPI1b6NQ+e7wTXBfHuDPB6t7oirH5AqZSD+DD3SBoAAaRV/oxJc3pSSCRlbU/nuyx9V8Hx2uqUt334ADCAstUMw8gNwZfGN94efRqwyy4JS/ILKR8eT/9mOCIQ7gp1dEaXqBlZN/p9I/einzZedZrKFY1eY3YiGDG9kzl9c8tGIf9nsKlFflfxpuDwlqxG6ucTuo9A=;4r/DknnEyjeDaBXIKYyjAg=="
 ---
 

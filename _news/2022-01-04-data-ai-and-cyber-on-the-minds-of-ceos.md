@@ -49,6 +49,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "Cyber and AI year"
+    excerpt: "Cyber and AI year. Professional Security magazine online - an essential read for everyone in the security industry."
+    publishedDateTime: 2022-01-05T16:19:00Z
+    webUrl: "https://www.professionalsecurity.co.uk/news/interviews/cyber-and-ai-year/"
+    type: article
+    provider:
+      name: professionalsecurity.co.uk
+      domain: professionalsecurity.co.uk
+    quality: 41
+    images:
+      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2014/02/Ear1.jpg"
+        width: 535
+        height: 547
+        isCached: true
 
 secured: "n5SqkH78ha+9DNAMTNG8Gol0B9J/Vjwk/G9+Y+mFoCEM7ojtDP0XYI48CAePiJGnqLWR0uXC2LbaTAZtZATNsf+jIECZgZwTSaolow5OZY2wpC4qRB2g89B8oTvsTg9v9SrYjLfCdou4qW0mq5Tjy4kqUvYI0l3FkzyOd5/nQvQCwda7bWlvYyR543Yj94Nd+C0Xk5UuajtQOCjpX5m7R9gmPcZpPDpgfnd6yohN2rpL+ydWa7EkRI4AxEWxQdpf360OPKwhWQ2a0fOebsMiw0uPmXLsFNPvaPEt0dMrCWmfABt08JovL3PqUWSDM0mvT3UlEpd5RT1d0AbPv9vymnKWxOiRTb1KTv+GS9pjkqQ=;iDLw9gKPOIf+J1IX6u5LBw=="
 ---

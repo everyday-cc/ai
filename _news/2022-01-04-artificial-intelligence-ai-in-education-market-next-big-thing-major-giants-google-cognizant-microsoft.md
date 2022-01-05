@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Sysdig Adds Cloud Security for Microsoft Azure Cloud"
+    excerpt: "Sysdig, Inc. announced today cloud security for Microsoft Azure Cloud with configuration risk management and threat detection that is built on Sysdig's runtime security technology. The Sysdig platform brings new continuous cloud security"
+    publishedDateTime: 2022-01-05T16:12:00Z
+    webUrl: "https://www.lelezard.com/en/news-20179343.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 71
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Wejo developing vehicle data processing platform with Microsoft"
     excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
     publishedDateTime: 2022-01-05T12:37:00Z

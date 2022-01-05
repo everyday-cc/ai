@@ -114,6 +114,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "TPG backs AI firm Fractal"
+    excerpt: "TPG invested $360 million in Fractal, a provider of artificial intelligence and advanced analytics solutions to Fortune 500 companies."
+    publishedDateTime: 2022-01-05T15:55:00Z
+    webUrl: "https://www.pehub.com/tpg-backs-ai-firm-fractal/"
+    type: article
+    provider:
+      name: PE Hub
+      domain: pehub.com
+    quality: 37
+    images:
+      - url: "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_Logo5.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "AI startup Fractal said to have become unicorn after $360m investment from TPG"
     excerpt: "The round valued Fractal at over $1 billion, TechCrunch reported quoting Srikanth Velamakanni, co-founder and group chief executive at Fractal. In a statement, TPG said that it invested in Fractal through TPG Capital Asia,"
     publishedDateTime: 2022-01-05T14:35:00Z

@@ -100,6 +100,15 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Financial Marketing Firm Expands into Segmentation, Big Data, Machine Learning and Artificial Intelligence"
+    excerpt: "For 27 years, MKP communications inc. has developed and executed data-driven marketing and communications programs for its financial institution clients. With the launch"
+    publishedDateTime: 2022-01-05T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-marketing-firm-expands-into-segmentation-big-data-machine-learning-and-artificial-intelligence/article_7d2da779-019a-51a4-a924-691d1fbbb0f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
 
 secured: "nRL7weWH023RB2Xi0kQml6JSc44I7iwHTiiSiQ01XjIyP+Zoa+hmMt8pGIEkSA0QA180Y7ukj+HcXSa9U46/yu/Ay9mNgYJRIC8x4tkBKM8PL+8XVBWfveJxEUXOlLir7bOtwlTcWeYmP5eemUeTd8TGZhZB1YQeVDymgSgUUIoU786XFY8cIdrtZELyqDe8Fi8BRZ/Xybwt9M2A2PE0njsetSN7UXOgv9j4cFMGwLVklbJvdY89bXkVjvpN7wcTX98qcVq5VDqBzgED2wb03lzbyybwpeFjGdQ5o3ygBN8JH6cjb6vvRjIK6DofdzoGEs+2VoESqtrxOsmXjhzL0LGQpKqX1mnl0tu1kayZG9xgHo7yY9024NEWENC+oXZmr+ErV54SnqIyFkzkqUhsjff6Qxy6Mm1HMmGBCjUh+Y485qrnT8bGamPOI0joxBUpav/H93piFInOcYeCf1v5fwd7yrDykKCN7PvXSboZKdDrZhI58GyyBpMoBIusJq4856zqdgsmGauDSVbgXbBEug==;gWanfPENWo8Z0iHc3UesIw=="
 ---

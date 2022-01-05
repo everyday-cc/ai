@@ -25,21 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
+  - title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+    excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
+    publishedDateTime: 2022-01-05T15:04:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?p=facebook"
-        width: 5157
-        height: 2698
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 1
 
-secured: "mzd/b5oPSKLLdV90IOsImE+PaVXBnBF/ck8leWSTGLuwV8eefPtSWdafvNRuOax8y35XQtZJJIiahs389Bf1tHPL5SERj/6Kxcm1dYN/NbGI1L8dNFMxsmi4V2WpxUzJ7yZT+S9qAHywS1A26/zVoHaNLqMvxeRgpsX6zU/53/0UekzqidtD3CcMphCyjqGyEw+Z2G57P5pH1G8+WR6jiDYUa6+2FAd6VcZACfpLjR9iO5QRIn7SPD5tfb3uaAgU6C03KkyiuWqPZh/cSeapTzOgFUxCfiSIGYCxvokXAzu4sYFeNDEH08f8EieZ4JhCt4sMLHku8dVtLVGqbOrlwvN8RF4IQN9hSw7N6Us5rf8=;aZzWUNdgW1IY/lvy8cWhLQ=="
+secured: "tiD7frQAmou29ct+bKgBs9YbGBGCI8mdoBs8E5PO0JhThHrRFNJx+02pPW/CuwDwavSRZ/QwyRzEclpdlY4L5PjvtHT2YIE3bCsJUxWUN/CH04MGLxkRzGqk82I8uuNliR4jCj1AVzJ+b+J7NzhSs7nzOcYSwouOnf56aWeXVCib6HejXXr6j3aYRAkHWej0X3wPAZ/ASVYfH9fvaccS7jQnE+HuZGuV/YFgfhwo1odZCcAMTppKJzKOpFzgQfBxuJOury8kcViS5ju7ub74weg/eysPzrO7KQ9q33FTj/55hv/eBAP2PwvHflL93Khyw+CEhyfMnZrzL08nFDqUwF/lJmwmrgo9VsA2go29r+gn3z+o2PKlWcE/Q78OKno/xAvB+V0/6C0BHViPjaFaqRBI8u6d2sSdyPxhdYW+NQhXz21J4+FmJSOU2DZdkkxqneRsB+Ok53U3qAfrulsddygOR81Z58VjLwFFrp8C0r+uAFeWEzJnNBR44gtVlBey3ZFCrb6OQdmycyiv3xbSnw==;KTNrUqRgfalnZdaLZr9LhQ=="
 ---
 

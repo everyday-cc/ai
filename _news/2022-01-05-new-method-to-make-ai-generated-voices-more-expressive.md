@@ -20,6 +20,22 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "The journey to making AI-generated voiced more expressive"
+    excerpt: "Ai-generated voices have become an integral part of society and research into making these voices more personal and expressive is moving fast."
+    publishedDateTime: 2022-01-05T15:05:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-generated-voices/127109/"
+    type: article
+    provider:
+      name: openaccessgovernment.org
+      domain: openaccessgovernment.org
+    quality: 39
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/01/dreamstime_xxl_192418735-scaled.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+
 secured: "VXB3lPl2YAM6NbE0YQ2wXAmVlcL3p3b4CZzoAEiyMLhqwe6MohCRlDdmycJDni3qFwkyqnhW1WGdqAg4vLbR153Irc5qgW2IHYFL/blsvreAMVpU9NCVQdLCK3uozvctPz4WiZHEFDUEHv2hT9/OyZuJlibMzYKeDR/vsPllUcCNc4LvTCM+jtquX65KrP96IqaTZT4EUZvN6z6Z0M/OioW6JM7r5JcLuwOE+xleF6J/xXcHQNd2HMRbe9OJwJMGr4xXD5/fDmZsFDceu42yEQTZDbZx24GQj4kRyye0e6nEQYMQhSssuaDnTCR7+MQpATVYaPU46wQDTon7OB3YvzLpszCSEgQa7Ep/yxs5CnY=;AovGHQchBKOP+CPy/PgMug=="
 ---
 

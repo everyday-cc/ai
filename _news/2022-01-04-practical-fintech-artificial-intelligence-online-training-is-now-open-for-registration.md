@@ -24,6 +24,22 @@ images:
     height: 330
     isCached: true
 
+related:
+  - title: "Fintech Automation to utilise Finicity to add Open Banking data to platform"
+    excerpt: "Financial services are going through a rapid digital evolution to keep up with the needs of digital-native consumers."
+    publishedDateTime: 2022-01-05T15:52:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90891/fintech-automation-to-utilise-finicity-to-add-open-banking-data-to-platform"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 37
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+
 secured: "KhPyxDnKeDj8FrI8NhvHn4m/YFSV+Z9aiQfEbXkW1eAi4u6pJymFc7xvoomh1ix0zVNhaURpJ2btoNaFosquKbIAsVGBVP3ssEc3QiMBG/RoMWCyu4LgfDEygRKuX++77rK2qG2TS1bpsVsuivMKzwZj+q5RphS5aJdpAtIHbcDlp0K6wdePrmhRVZVLOhFBfXprttlu/Ik1gVjtNQV2RinmChCG7pdfReirudKHFOia8WHM98/t+HX1jnXf64AbXTEqedW0TPSLsz4FTDrsfCu9TxvyTh+U9FPZJ+utXTg8wk0jXQ5llTsT22f4IdVxaZoqpNDkrVUXEccI2VoMJ9SVeFxHKtcKgQreCle2njI=;x4GNISqfWY9LGdHR+sRYWw=="
 ---
 

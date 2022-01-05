@@ -10,7 +10,7 @@
       "originalUrl": "https://www.asiaone.com/business/bairong-inc-named-kpmgs-china-fintech-50-list-sixth-consecutive-year",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -87,6 +87,58 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-3-soaring-fintech-stocks-that-could-rocket-higher-in-2022.md",
+      "title": "3 Soaring Fintech Stocks That Could Rocket Higher in 2022",
+      "excerpt": "Now that 2021's come to a close, it's time to look back at the best-performing fintech stocks to see if they have what it takes to keep climbing. Global-E Online (NASDAQ:GLBE), Up",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/659497/couple-looking-at-stocks-on-tablet-getty.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1218,50 +1270,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders.md",
-      "title": "How Sars is using machine learning and big data to nail tax offenders",
-      "excerpt": "The South African Revenue Service said its efforts to expand the use of data to detect tax non-compliance is beginning to bear fruit.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
-      "originalUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcentral.co.za/wp-content/uploads/2021/09/tax-2156-1120-2.jpg",
-          "width": 2156,
-          "height": 1120,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
-      "cdnAmpWebUrl": "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
-      "publishedDateTime": "2021-12-10T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
         "images": null,
         "publishers": null,
         "authors": null

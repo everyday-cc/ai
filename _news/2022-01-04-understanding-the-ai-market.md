@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understand
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 768
         height: 633
         isCached: true
+  - title: "Financial Marketing Firm Expands into Segmentation, Big Data, Machine Learning and Artificial Intelligence"
+    excerpt: "For 27 years, MKP communications inc. has developed and executed data-driven marketing and communications programs for its financial institution clients. With the launch"
+    publishedDateTime: 2022-01-05T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-marketing-firm-expands-into-segmentation-big-data-machine-learning-and-artificial-intelligence/article_7d2da779-019a-51a4-a924-691d1fbbb0f8.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
 
 secured: "1hoEtOYPyEm8eowmM1ZHwk92OHFApy1Xvk73x+vJkW2vNAIiIyQGMdpmAeKPyZoxyT70VAjFIQKs2G3oFzMdMaXhDJTrQCLhHG9Rq3GUolNvi2cldXB/qdb8zueC/73WPbqeVeuhXDWvVklJsHO9dcTF3RtOnYZUZZ/hbEmZfZKoonqyvzMeTBxxzURHzeHrCeXQEPFFnCEIcF+bfQaIRbvXcKz/+gGpcupMkrg5B4rTIG+OCefGMHjsE1DQvqbqNawSDQqsdvSMRrKDyvay+EZszKlRHEH8k4q+kEdtcE9FkmayM2HL8uTcMHCxdcaFAAtrg6B5iIxg3SAjPH+zpGYsNah1Oj/VbSVTiHEe9Pc=;ByHq6oOEbOkHnCujmK4y8A=="
 ---

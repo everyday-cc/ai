@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Sysdig Adds Cloud Security for Microsoft Azure Cloud"
+    excerpt: "Sysdig, Inc. announced today cloud security for Microsoft Azure Cloud with configuration risk management and threat detection that is built on Sysdig's runtime security technology. The Sysdig platform brings new continuous cloud security"
+    publishedDateTime: 2022-01-05T16:12:00Z
+    webUrl: "https://www.lelezard.com/en/news-20179343.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 71
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft"
     excerpt: "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S"
     publishedDateTime: 2022-01-04T09:48:00Z
