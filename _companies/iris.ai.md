@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "theirisai"
   url: "https://twitter.com/theirisai"
-  followers: 2910
+  followers: 2911
 
 locations:
   - London, England
@@ -25,7 +25,7 @@ topics:
   - Natural Language Processing
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1471751805000458240/Ayj1eUBJ_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1478649780565852161/yB7I2FU1_400x400.jpg"
     width: 400
     height: 400
     isCached: true
