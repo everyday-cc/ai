@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-04T19:13:00Z
 originalUrl: "https://www.linkedin.com/pulse/future-trends-ai-ml-ashutosh-kumar"
 webUrl: "https://www.linkedin.com/pulse/future-trends-ai-ml-ashutosh-kumar"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - AI Ethics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQHsXZn2xiiJgQ/article-cover_image-shrink_600_2000/0/1641322997947?e=1646870400&v=beta&t=-Pnp7Ooz4jb5pdiiJHREeQy_eXwSyBewWhLWFd5Nesw"

@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2022: LG unveils new robot and car concepts"
-    excerpt: "The world's largest consumer appliance manufacturer is showcasing a science fiction vision of an enhanced lifestyle for all, writes ARTHUR GOLDSTUCK"
-    publishedDateTime: 2022-01-04T07:00:00Z
-    webUrl: "https://gadget.co.za/ces-2022-lg-unveils-new-robot-and-car-concepts/"
+  - title: "Outlook on 2022: AI grid technology must become a bigger part of the climate conversation"
+    excerpt: "The growing role of AI in supporting the grid will be key to making our energy supply greener and more efficient, writes Moixa founer Simon Daniel ‘ Consign coal to history ' - these were the words echoed at COP26 this year as countries committed to ending coal investments and scale up clean power."
+    publishedDateTime: 2022-01-03T23:42:00Z
+    webUrl: "https://energycentral.com/news/outlook-2022-ai-grid-technology-must-become-bigger-part-climate-conversation"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
+      name: Energy Central
+      domain: energycentral.com
+    quality: 28
     images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/lg-ces-2021.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
+      - url: "https://energycentral.com/sites/default/files/styles/og_meta/public/ece/news_node_main/2021/28/dreamstime_s_1129660.jpg?itok=4H0XFP7L"
+        width: 800
         height: 600
-        isCached: true
-  - title: "CES 2022: Deepbrain humanises AI avatars"
-    excerpt: "DeepBrain AI’s industry-first approach to “humanising” AI assistants provides users with an experience that is familiar, enlightening and approachable. Its video synthesis solutions, a CES 2022 Innovation Awards Winner,"
-    publishedDateTime: 2022-01-03T09:35:00Z
-    webUrl: "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 37
-    images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2022/01/All_AI_Influencer_AI_Bank_teller_AI_doctors_utilized_AI.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
-    excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
-    publishedDateTime: 2022-01-04T17:08:00Z
-    webUrl: "https://www.designboom.com/technology/beomni-1-0-robot-ces-01-04-2022/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 35
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
-        width: 1720
-        height: 900
         isCached: true
 
 secured: "oVb/4MYup9lOOfpIO3RT/BY7PvpaMPy9AKXaDqFlBNRJnoxub6VJpTGxiMlswVXbYtq4Kfv/K/pRhUUutOhe3YStFlPViEcLE4uNi2qOZRSkOdZTfFf6o56TPDvgBSiqoxPsPXcrvbOs3x7VlNDcInoCa9V4lnKswuo62BuOTldOAd0I5F9y/l8UaoWUdU7mq6UpS6dODwOmC9cRh+B1lPlDn+HO5aO1LCkR1/hMw1IkMOGBlqLCrDSQQuEFocdG8NTyGl5GWO0PJ2lgNmGUYHg9252bwcEAmpDqA8Vo3G0MiWrWx0xU6AjlKX3o2MdI+PgzvE+Lf07rn3TlZ5abTJbvTUOLdLQWVVIMzvzfJ+k=;ext+c6+x+K/2wKXkZvctOA=="

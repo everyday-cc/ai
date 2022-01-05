@@ -2,6 +2,238 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-27-second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world.md",
+      "title": "Second largest in AI talent pool, Bengaluru ranked fifth in the world",
+      "excerpt": "The ranking is derived based on a framework of indicators such as talent pool, investments, diversity of talent, the evolution of the country's digital foundations (TIDE).",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-06/01/full/1559400341-8581.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world-121122700777_1.html",
+      "publishedDateTime": "2021-12-27T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-aterian-signs-a-50-million-credit-facility-with-midcap-financial-trust.md",
+      "title": "Aterian Signs A $50 Million Credit Facility With MidCap Financial Trust",
+      "excerpt": "(Nasdaq: ATER) (“Aterian”) announced today that it has signed an asset backed credit facility with MidCap Financial Trust (“MidCap”), which is managed by a subsidiary of Apollo Global Management, Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aterian-signs-50-million-credit-facility-with-midcap-/2021/12/27/9517095.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-if-ai-is-predicting-your-future-are-you-still-free.md",
+      "title": "If AI Is Predicting Your Future, Are You Still Free?",
+      "excerpt": "Yet the more we use AI to categorize people, predict their future, and treat them accordingly, the more we narrow human agency, which will in turn expose us to unchartered risks. Human beings have been using prediction since before the Oracle of Delphi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/",
+      "originalUrl": "https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61ba97fda08cdc8657dc495b/master/pass/Algorithmic-Prophecies-Undermine-Our-Free-Will.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/algorithmic-prophecies-undermine-free-will/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/algorithmic-prophecies-undermine-free-will/amp",
+      "publishedDateTime": "2021-12-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-the-year-everyone-remembered-that-chips-matter.md",
+      "title": "The Year Everyone Remembered That Chips Matter",
+      "excerpt": "Shortages of semiconductors messed up production of everything from cars to toys. Plans are in the works for more factories, but they'll take years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/",
+      "originalUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7b723afed9525c50efcac/master/pass/YIR-Jennysharaf-Importance-of-Chips-1313967169.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/year-everyone-remembered-chips-matter/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/year-everyone-remembered-chips-matter/amp",
+      "publishedDateTime": "2021-12-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-your-rpa-is-only-as-good-as-the-data-it-understands.md",
+      "title": "Your RPA Is Only As Good As The Data It Understands",
+      "excerpt": "In comparison to traditional robotic process automation (RPA), hyperautomation is focused on expanding RPA's boundaries to encompass decision-making and analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca10c91854bb852614d23b%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/27/your-rpa-is-only-as-good-as-the-data-it-understands/amp/",
+      "publishedDateTime": "2021-12-27T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-robotics-firm-arapl-raas-raises-funding-for-warehouse-automation.md",
       "title": "Robotics firm ARAPL Raas raises funding for warehouse automation",
       "excerpt": "ARAPL RaaS, a robotics and automation company, said on Monday it has raised $0.7 million funding within two months of its existence as it strengthens its 10-minute delivery in supply management. The start-up,",
@@ -925,238 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-automation-is-driving-us-toward-self-employment.md",
-      "title": "Automation Is Driving Us Toward Self-Employment",
-      "excerpt": "Self-employment often seems like a dream for most, but with the onset of automation in traditional jobs and the evolving gig economy, we may be moving toward a new normal where self-employment is a traditional route.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php",
-      "originalUrl": "https://www.stamfordadvocate.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/23/30/65/21859668/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data.md",
-      "title": "Report: Computer vision teams worldwide say projects are delayed by insufficient data",
-      "excerpt": "The scarcity of domain-specific training data is compounded by the fact that computer vision lacks well-defined standards or best practices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/",
-      "originalUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision-e1640111168754.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/24/report-computer-vision-teams-worldwide-say-projects-are-delayed-by-insufficient-data/amp/",
-      "publishedDateTime": "2021-12-24T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-its-both-ai-technology-and-ethics-that-will-enable-jadc2.md",
-      "title": "It’s both AI technology and ethics that will enable JADC2",
-      "excerpt": "Responsible Artificial Intelligence principles will build justified confidence in AI systems that the DoD will depend upon for all-domain operations.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2021/12/its-both-ai-technology-and-ethics-that-will-enable-jadc2/",
-      "originalUrl": "https://breakingdefense.com/2021/12/its-both-ai-technology-and-ethics-that-will-enable-jadc2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/12/Artificial-intelligence-graphic-courtesy-of-Northrop-Grumman.-1.jpg",
-          "width": 489,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2021/12/its-both-ai-technology-and-ethics-that-will-enable-jadc2/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2021/12/its-both-ai-technology-and-ethics-that-will-enable-jadc2/amp/",
-      "publishedDateTime": "2021-12-24T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-2021-was-the-year-of-monster-ai-models.md",
-      "title": "2021 was the year of monster AI models",
-      "excerpt": "How big can they get, and at what cost? To support MIT Technology Review ... DeepMind released RETRO, a language model with only 7 billion parameters that competes with others 25 times its size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/",
-      "originalUrl": "https://www.technologyreview.com/2021/12/21/1042835/2021-was-the-year-of-monster-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/12/gettyimages-80602579.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
-      "publishedDateTime": "2021-12-24T08:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-tesla-agrees-to-stop-letting-drivers-play-video-games-while-driving.md",
-      "title": "Tesla agrees to stop letting drivers play video games while driving",
-      "excerpt": "Tesla, after being under pressure from the US auto safety regulations, has agreed to stop allowing drivers to play video games on the center touch screen in its vehicles while the car is on the move.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
-      "originalUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/07/Tesla-Model-S.jpeg",
-          "width": 2880,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/12/24/tesla-stops-letting-drivers-play-games/?amp=1",
-      "publishedDateTime": "2021-12-24T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

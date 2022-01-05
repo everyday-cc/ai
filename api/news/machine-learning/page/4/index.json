@@ -2,6 +2,60 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-04-aws-reinvent-a-roundup-of-ml-and-ai-announcements.md",
+      "title": "AWS re:Invent - A Roundup Of ML And AI Announcements",
+      "excerpt": "Invent 2021, Amazon announced updates to machine learning and artificial intelligence product portfolio. Here is a quick summary and analysis of all the related announcements. Amazon SageMaker ML platform got a new no-code option to train models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aac36e7441210323e555ba%2F0x0.png",
+          "width": 769,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2021/12/03/aws-reinventa-roundup-of-ml-and-ai-announcements/amp/",
+      "publishedDateTime": "2021-12-03T16:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-peter-jackson-details-how-get-back-used-machine-learning-to-restore-the-beatles-sound-and-footage-exclusive.md",
       "title": "Peter Jackson Details How ‘Get Back’ Used Machine Learning to Restore the Beatles’ Sound and Footage (EXCLUSIVE)",
       "excerpt": "There were several hurdles Peter Jackson’s “Get Back” had to mount before the eight-hour documentary could premiere on Disney Plus, including persuading the surviving members of",
@@ -1345,41 +1399,6 @@
         "AWS AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible.md",
-      "title": "AWS Announces Two New Initiatives That Make Machine Learning More Accessible",
-      "excerpt": "The program uses AWS DeepRacer and the new AWS DeepRacer Student League to teach students foundational machine learning concepts by giving them hands-on experience training machine learning models for autonomous race cars, while providing educational ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2021/12/01/aws-announces-two-new-initiatives-that-make-machine-learning-more-accessible",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

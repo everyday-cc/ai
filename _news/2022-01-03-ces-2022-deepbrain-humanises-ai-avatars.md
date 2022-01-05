@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/"
 webUrl: "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2022: LG unveils new robot and car concepts"
-    excerpt: "The world's largest consumer appliance manufacturer is showcasing a science fiction vision of an enhanced lifestyle for all, writes ARTHUR GOLDSTUCK"
-    publishedDateTime: 2022-01-04T07:00:00Z
-    webUrl: "https://gadget.co.za/ces-2022-lg-unveils-new-robot-and-car-concepts/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/lg-ces-2021.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
     excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
     publishedDateTime: 2022-01-04T17:08:00Z
@@ -51,20 +37,6 @@ related:
       - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
         width: 1720
         height: 900
-        isCached: true
-  - title: "CES 2022: VM-Fi real-time translation technology"
-    excerpt: "Taiwanese software developer VM-Fi will debut its groundbreaking real-time translating solution at CES 2022 from Jan 5-8, 2022. VM-Fi provides turnkey 5G real-time artificial intelligence (AI)-enabled simultaneous interpretation with wireless broadcasting to up to hundreds of personal smart devices."
-    publishedDateTime: 2022-01-04T06:34:00Z
-    webUrl: "https://www.digitimes.com/news/a20220104VL203.html?chid=11"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220104VL203_files/2_r.jpg"
-        width: 336
-        height: 224
         isCached: true
 
 secured: "OyPsYuTvWqMi0p3Y012shqvSpCrlI5W1+NjUbYA1slhUs0HJ3V4EIUR6haWDGbJadHudvAiNeo46n28YFB2PPXrsmoMLvbjevVjUU3vO7c4nX3ObyDoNwtrdyIrrg7Xgwhb67tgg4QQlqX6nbWzgZ8Tk3dhovFbh8QDuiFrs7faru0k4px+WN9O/ncQnqV/nLWoYhuCAg4vKoykgf4pFqo9f5o9ogZ5ta7JvmEvEJdoesQLTKkTDf45Xb4w72qcpezFG2q1RC7nO6fA0iHjHKufbLcaZWWeCU+odd5EegCdlKXrfKW8VVkxKICSBW0GYwYkgV1iP8dJP+8ScwHnkhpP0QnRJMhhbJMvnnQxo/Yw=;qBeXR6lzR9oRbuEItV/DXw=="

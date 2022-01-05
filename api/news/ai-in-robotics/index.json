@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-05-ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops.md",
+      "title": "CES 2022: Roborock S7 MaxV Ultra Solves The Biggest Problem With Robot Mops",
+      "excerpt": "Roborock has finally announced their latest robovac/mop and I couldn't be more excited. As much as I loved the Roborock S7 last year for its improved mopping capabilities and dock compatibility, it lacked the AI obstacle recognition of the S6 MaxV.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/",
+      "originalUrl": "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d4be73f7c34d285255465d%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/",
+      "publishedDateTime": "2022-01-04T12:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-john-deeres-self-driving-tractor-stirs-debate-on-ai-in-farming.md",
       "title": "John Deere's Self-Driving Tractor Stirs Debate on AI in Farming",
       "excerpt": "John Deere’s new 8R tractor uses six pairs of stereo cameras and advanced artificial intelligence to perceive its environment and navigate. It can find its way to a field on its own when given a route and coordinates,",
@@ -1334,58 +1386,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-the-robot-work-force-isnt-coming-its-already-here.md",
-      "title": "The robot work force isn't coming. It's already here",
-      "excerpt": "Retailers and restaurants are looking to robots and other technology to keep up with demand amid a labor crunch and booming online sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106991733-1640019336314-IMG_1518.jpg?v=1640019644",
-          "width": 5952,
-          "height": 3968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "publishedDateTime": "2021-12-27T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -97,20 +97,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "The blurry image around AI"
-    excerpt: "Two weeks back, I went to a garden store to purchase some plants for my home; the shopkeeper was kind and explained the nuances behind the watering of plants, the growth stage of plants, and many more."
-    publishedDateTime: 2021-12-31T09:25:00Z
-    webUrl: "https://www.linkedin.com/pulse/blurry-image-around-ai-dhineshsunder-ganapathi"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHOCklxwGhAMg/article-cover_image-shrink_720_1280/0/1640941427897?e=1646265600&v=beta&t=X72T924boTZVIMCv9zpSrL2wALNN4N7I7HJB3s306GI"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Contracting for AI in the Evolving Regulatory Landscape"
     excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
     publishedDateTime: 2022-01-04T12:06:00Z

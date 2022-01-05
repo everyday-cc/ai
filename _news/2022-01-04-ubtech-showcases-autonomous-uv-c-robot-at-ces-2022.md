@@ -3,27 +3,59 @@ category: news
 title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,"
 publishedDateTime: 2022-01-04T11:13:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_74c7f691-7f03-585d-8f98-190b4209afdc.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_74c7f691-7f03-585d-8f98-190b4209afdc.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
-    width: 400
-    height: 510
+  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/3/11/31105f34-05f8-595e-be64-fbcdbdd02d47/61d43ac8c808a.image.jpg?crop=1124%2C590%2C0%2C421&resize=1124%2C590&order=crop%2Cresize"
+    width: 1124
+    height: 590
     isCached: true
 
-secured: "Jvk8pQQGOATLgweT7FnNsUHPzCybVRJLxWoZmxSBe7MjwwXW2PfkFyJDc8ybJ+sgflPYfiHEWdkw8/5lqXjEzyrTiLk07dNXS3CnIoObRjyKWip49xDgAZ60h9vdlyYVC2yTZYBgg4cxD03xF210jj6MkqL7XzmeEQJN7qxQqAOvLefr8nJsto2QM0RbFIrSnKKrPIq8Fgka6mlu6cF4mXrXYVSx+GwvpJB731f4S1YfXQL+4mCCIawpBTT0/CGlKfYcD4Y3kGmvZfb+E23ENd6xlF446GgopuIdkx7GCu25gSUVTelHyPWYPSOW1MgKilMQ5z1KV/mPEmfbT0sdUsgT38+uxMmaVctOiOns7I4=;mFJJjqqWIUXzzcI1KYCyqg=="
+related:
+  - title: "Deere Rolls Out Fully Autonomous Tractor at CES"
+    excerpt: "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year."
+    publishedDateTime: 2022-01-05T00:42:00Z
+    webUrl: "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    ampWebUrl: "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-461772/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
+    excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
+    publishedDateTime: 2022-01-04T22:31:00Z
+    webUrl: "https://www.datanami.com/2022/01/04/nothing-runs-like-a-gpu-powered-fully-autonomous-deere/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
+        width: 1081
+        height: 537
+        isCached: true
+
+secured: "ufjDqdqaKYosBejAelxd0CQUDGChhbhk6Blg15BXHQbkTkfyvOt7afnMudBaqiknLtQfjcFbQeK7q86pSDxJtYfbgR7r4ixs58I8s2DBKYTl7vBpz2ylFXl0zzCk1QNmVJogfVGKJRWeyigdq87Finf2jlTuetgn9aHutoGwMp77NsfSd4CrQMdkLZSFtCvbJBKI9aS4ORZpIDpg5ZH7Aiuqu5NYOcS8/L6yK4zT+k6yCZPCHrr6hoK2CwWzgSvU75pmyo3txImIYEK4M7YQDZdeS06YhAq7mVdJ97EcJP/IhYnjSLYVG+JcDk9E53wN2ej8QumA7mWlcq1ZO4jm32j/4NY3/CwamXLp4r/+8pY=;dwLGB/34Ff12x9Z6Ag2Igw=="
 ---
 

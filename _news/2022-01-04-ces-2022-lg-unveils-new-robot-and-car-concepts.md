@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/ces-2022-lg-unveils-new-robot-and-car-concept
 webUrl: "https://gadget.co.za/ces-2022-lg-unveils-new-robot-and-car-concepts/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2022: Deepbrain humanises AI avatars"
-    excerpt: "DeepBrain AI’s industry-first approach to “humanising” AI assistants provides users with an experience that is familiar, enlightening and approachable. Its video synthesis solutions, a CES 2022 Innovation Awards Winner,"
-    publishedDateTime: 2022-01-03T09:35:00Z
-    webUrl: "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/"
+  - title: "CES 2022: Roborock S7 MaxV Ultra Solves The Biggest Problem With Robot Mops"
+    excerpt: "Roborock has finally announced their latest robovac/mop and I couldn't be more excited. As much as I loved the Roborock S7 last year for its improved mopping capabilities and dock compatibility, it lacked the AI obstacle recognition of the S6 MaxV."
+    publishedDateTime: 2022-01-04T20:47:00Z
+    webUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/"
+    ampWebUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 37
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2022/01/All_AI_Influencer_AI_Bank_teller_AI_doctors_utilized_AI.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
-    excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
-    publishedDateTime: 2022-01-04T17:08:00Z
-    webUrl: "https://www.designboom.com/technology/beomni-1-0-robot-ces-01-04-2022/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 35
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
-        width: 1720
-        height: 900
-        isCached: true
-  - title: "CES 2022: VM-Fi real-time translation technology"
-    excerpt: "Taiwanese software developer VM-Fi will debut its groundbreaking real-time translating solution at CES 2022 from Jan 5-8, 2022. VM-Fi provides turnkey 5G real-time artificial intelligence (AI)-enabled simultaneous interpretation with wireless broadcasting to up to hundreds of personal smart devices."
-    publishedDateTime: 2022-01-04T06:34:00Z
-    webUrl: "https://www.digitimes.com/news/a20220104VL203.html?chid=11"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220104VL203_files/2_r.jpg"
-        width: 336
-        height: 224
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d4be73f7c34d285255465d%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "JSz4qiU8TkCF0z/odqSlc3S8XsE+xvHDIU43mCgqOvdy7govH+YC7qfvefziPMBkxkXdRHibY/lwrBR27DpIhuBIdcPReQU2Sli8AO6lTnCB0q6v0b93o/vrJFUq61UMCMqkuReSRAOSR4sO6C2V2gQKNGJphUj7oMp/FwWEN0KXt6mSWpe2ukZRvjsTP/ZPfzHpOuQFA5WllBSLf4x3Yp3IM6yhoUgFHOvv7aw5f4cBT9lg3T1EkM+iRipQgZukoFRry0vaGyloXkGMFH5VZaLrZLVxtaN197TQ+K/29KGZsprHb53sJD/eaYldirPxrAQLhB/92z/46pqyhYqWiU3c1DwCPx7n9a/vwiRjv/E=;GYz9JpvqDnSVIptMNYIsmA=="

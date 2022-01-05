@@ -2,6 +2,239 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-21-sensors-set-to-revolutionise-brain-controlled-robotics.md",
+      "title": "Sensors set to revolutionise brain-controlled robotics",
+      "excerpt": "A novel carbon-based biosensor developed at UTS is set to drive new innovations in brain-controlled robotics. Developed by Professor Francesca Iacopi and her team in the UTS Faculty of Engineering and IT,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/sensors-set-to-revolut.jpg",
+          "width": 825,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-sensors-revolutionise-brain-controlled-robotics.amp",
+      "publishedDateTime": "2021-12-21T05:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft.md",
+      "title": "AI in Social Media Market by Product, Applications, Geographic and Key Players: Google, Facebook, Microsoft",
+      "excerpt": "Instagram (owned by Facebook) uses AI to identify visuals. The AI in Social Media Market research report provides a thorough and comprehensive analysis of the global Industry. It contains ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2021/12/AI-in-Social-Media.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-how-automation-is-transforming-healthcare-jobs.md",
+      "title": "How Automation Is Transforming Healthcare Jobs",
+      "excerpt": "Both current and future doctors will need to navigate a sea of big data as digitization and its allied technologies wind their way deeper and deeper into the fabric of our daily routines and work life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/21/how-automation-is-transforming-healthcare-jobs/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/21/how-automation-is-transforming-healthcare-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0836ec1528ae3dd90eb8d%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/21/how-automation-is-transforming-healthcare-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/21/how-automation-is-transforming-healthcare-jobs/amp/",
+      "publishedDateTime": "2021-12-21T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-get-ready-for-the-autonomous-weapons-race.md",
+      "title": "UN fails to agree on ‘killer robot’ ban — get ready for the autonomous weapons race",
+      "excerpt": "Autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming",
+      "originalUrl": "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fkiller-bots.jpeg&signature=e8721fa3d7faa8f7c1aa3cdc4fecbcba",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T04:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide.md",
+      "title": "AI program that started at Maricopa County colleges expanding nationwide",
+      "excerpt": "An artificial intelligence program that started at Maricopa Community Colleges in collaboration with Intel and Dell Technologies will expand nationwide by 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/",
+      "originalUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktar.com/wp-content/uploads/2021/12/pexels-mikhail-nilov-9158795-scaled-e1640037457534.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/",
+      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/4814964/ai-program-that-started-at-maricopa-county-colleges-expanding-nationwide/amp/",
+      "publishedDateTime": "2021-12-21T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-avodahmeds-human-centered-artificial-intelligence-focuses-on-primary-care-in-2022.md",
       "title": "AvodahMed’s Human-Centered Artificial Intelligence Focuses on Primary Care in 2022",
       "excerpt": "With the arrival of 2022 imminent, Avodah, a transformative SaaS company powering artificial intelligence (AI) capabilities, and its healthcare division AvodahMed are using new capital to extend its digital health services to primary care.",
@@ -887,238 +1120,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
-      "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
-      "excerpt": "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e5/4e5c49bb-1b34-5a68-9555-23d41196e8df/61c0e1244c993.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ai-workforce-training-bill-clears-senate.md",
-      "title": "AI Workforce Training Bill Clears Senate",
-      "excerpt": "The bipartisan legislation aims to strengthen federal employees’ AI knowledge, with a focus on procurement professionals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/20/GettyImages_1237079942/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T10:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-artificial-intelligence-ai-helps-improve-patient-and-doctor-communication.md",
-      "title": "Artificial Intelligence (AI) Helps Improve Patient and Doctor Communication",
-      "excerpt": "Understanding between a patient with low health literacy and doctors can be improved with the help of artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/doctor-patient.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
-      "publishedDateTime": "2021-12-20T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ai-chip-maker-kneron-raises-25m-for-autonomous-driving-push.md",
-      "title": "AI chip maker Kneron raises $25M for autonomous driving push",
-      "excerpt": "AI chips, which are semiconductors designed to accelerate machine learning, have many applications. One of the promising use cases, according to Albert Liu, is using AI chips in autonomous driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/",
-      "originalUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RLdt3wgnuDs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/ai-chip-kneron-25-million-funding/amp/",
-      "publishedDateTime": "2021-12-20T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-use-of-blockchain-technology-could-increase-human-trust-in-ai.md",
-      "title": "Use of blockchain technology could increase human trust in AI",
-      "excerpt": "Applying the benefits of blockchain technology can help address AI shortcomings and increase people's trust in AI-based applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1279332201.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/20/use-of-blockchain-technology-could-increase-human-trust-in-ai/amp/",
-      "publishedDateTime": "2021-12-20T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

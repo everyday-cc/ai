@@ -43,6 +43,22 @@ related:
         width: 1063
         height: 703
         isCached: true
+  - title: "Nvidia's RTX 3090 Ti Is Here, and It Could Be the Most Powerful GPU Yet"
+    excerpt: "The new RTX 3080 Ti, coming to dozens of new gaming systems in the next few months, comes with 16GB of GDDR6 RAM, and is supposedly more powerful than the desktop Titan RTX GPU. Nvidia claims these chips can run games at 1440p at 120 frames per second or higher."
+    publishedDateTime: 2022-01-04T19:17:00Z
+    webUrl: "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289"
+    ampWebUrl: "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/51c3b654e95e1c2a08cc845786909c6b.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Nvidia's RTX 3090 Ti Is Here, and It Might Be the Most Powerful GPU Yet"
     excerpt: "The new RTX 3080 Ti, coming to dozens of new gaming systems in the next few months, comes with 16GB of GDDR6 RAM, and is supposedly more powerful than the desktop Titan RTX GPU. Nvidia claims these chips can run games at 1440p at 120 frames per second or higher."
     publishedDateTime: 2022-01-04T16:56:00Z
@@ -107,6 +123,20 @@ related:
         width: 946
         height: 630
         isCached: true
+  - title: "NVIDIA set to launch their latest GPU: The 3090 Ti"
+    excerpt: "NVIDIA has announced its latest graphics card in the 30 series. Gamers all over the world are extremely excited to hear about the launch of RTX 3090 Ti. The RTX 3090 Ti is said to be the fastest gaming graphics card yet."
+    publishedDateTime: 2022-01-05T00:46:00Z
+    webUrl: "https://gameranx.com/features/id/284137/article/nvidia-set-to-launch-their-latest-gpu-the-3090-ti/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 39
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/01/GPU.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "NVIDIA to Release New Budget GPU, the RTX 3050, on January 27 for $249 [CES 2022]"
     excerpt: "Not to be outdone by AMD’s announcement of a budget Radeon GPU, NVIDIA today announced that they’ll also be releasing a budget-friendly entry GPU, the RTX 3050, on January 27, 2022."
     publishedDateTime: 2022-01-04T17:11:00Z
@@ -131,6 +161,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "I+fk93b91V9+HRHmRKYhbGyUEl0qVZoKUrVXri+NJh/Gjr4v8F3zKtaL7EqlvHnYCd3VcPSdYQje1GAYXFNbzcPgb5UEX13X8RyzS/gJ8Uubc9Rn1LxDeeFV4P2STyybMX5kuHlmIfasr8eYMPxhdovUSvfUvBBYfKlHWxFo0LDJh6obGmT2XuqlpbkQ4InN7N2S2t8SOohtNyLFU/0T4iGEnFNc06DV7wL+JaO13nNeXjufAWGTRZ3lwycEB9kM2f8ZcD/9ms6hPqX270HPrS3fK+hFOKUWbRdZWaex/5oekUJAWS0csPFT853jEBTQIKn6EjI8AabYFiJQz9uwD999LoFcq/YSFsrnSRcvfBA=;z5w2I70C5Z+SF9SCXtpiIg=="
+secured: "Vom63G9HmtLI/d1Wuef3apaIoNXOSFXwdEGx8+v74PuujlrNFw4vI9mzWnP6vyH8+tLs7sV8C2Cmcp+KCid6aGNNjg9sQT/t9N1wUIYQk1gxFZ7yLATbPORKwNznE2tFq+E4X/LVGVMIKC8MPKxb7RE8it27e7OKo6QN+uj1HcohN3DyrDRZbhChHfZjk+DNP+NaEGbgNbVyuyB/vstaadX2l4cIBWZph9bXAi5QCQmmgYi7zUhvVWvkPYrfWtBQI5wLudYOZ1a+wLHjpf897wRuxpMC/3WyozpBVQckJUH2DWIXzXMgsfyLjxt6X4Iy8Cji7CYKMfbwnEZ5Z06IXgtitDk+3/frPylUvr++3ftwwe66/cz4Ag0kw+o22wlqBrXtd3qox2OEl9zyGK1UK15tnEsE9oIdsTGd75QkriQcW/YGw51uJ0sR+qUs9bN/NicTfxtA5WQyjix9zXakqRGQwr3qTSBvM6WN8ezVoC+xBRfLb3RngptRKXxeYe9LaJEhFsreOgfQoGwvZWRoOQ==;Fy4wIbK0nULmUv8EWAf35g=="
 ---
 

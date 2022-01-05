@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Credit Union of Georgia Chooses Scienaptic for Enhanced AI-Powered Credit Decisioning"
-excerpt: "Scienaptic AI, a leading global AI-powered credit decisioning disruptor, announced that Credit Union of Georgia has selected its AI-powered platform, augmenting the credit union’s underwriting capabilities to make faster,"
-publishedDateTime: 2022-01-04T16:19:00Z
-originalUrl: "https://financialit.net/news/artificial-intelligence/credit-union-georgia-chooses-scienaptic-enhanced-ai-powered-credit"
-webUrl: "https://financialit.net/news/artificial-intelligence/credit-union-georgia-chooses-scienaptic-enhanced-ai-powered-credit"
+title: "Credit Union of Georgia chooses Scienaptic for enhanced AI-powered credit decisioning"
+excerpt: "Scienaptic AI, a leading global AI-powered credit decisioning disruptor, announced that Credit Union of Georgia has selected its AI-powered platform, augmenting the credit union’s underwriting capabilities to make faster,"
+publishedDateTime: 2022-01-05T02:39:00Z
+originalUrl: "https://www.cuinsight.com/press-release/credit-union-of-georgia-chooses-scienaptic-for-enhanced-ai-powered-credit-decisioning"
+webUrl: "https://www.cuinsight.com/press-release/credit-union-of-georgia-chooses-scienaptic-for-enhanced-ai-powered-credit-decisioning"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: Credit Union Insight
+  domain: cuinsight.com
 
 topics:
   - AI
 
 images:
-  - url: "https://financialit.net/sites/default/files/scienaptic_1_2.png"
-    width: 2090
-    height: 732
+  - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+    width: 792
+    height: 266
     isCached: true
 
 related:
@@ -76,6 +76,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "61o1jRuF/JDDAIs1+BDaSDp2UvKAqMQYIUGCDa/BlvlnIBztUUlC0vAdiPNpNKFGDDTkmVo6jtV1g1lGGYGDwN0rbPlqVI0PObQpQU4G1uM95JaWSfLMIPIStUnorbNecfC36GuyU4ZSs3F0Sy9SJItjpaWB0WomkJOiswp1Bf8OoNySZGEXbi3TqJ1Pr53Y0P2mUHH3267q2inB+v5u8cXGDnIoxw4ywK4eIw8X1rccYW3h4PUAV6lOc5Gwo0Y1G+ps+JDWSrHFIcqVAlIUgtcZ5IN1iuQj/Rn3lEYxjqZvmC5PNq+sBGZTGUXl9wpwiHnnTWYY+7v1RnXdkKBlTNjrJ0Z6PuzzwhvMqk6diHw=;Z/CQE+tEnc/Vo5a/dj1tEw=="
+secured: "SWNxwVBktWQbclI2IWOAsxrEEX0kSAvql25VRXJLgqRaMxvN//H5lbUb+gpmba3cqBhXFXZavLply8Y3bsQtjJEawyGZXutAFu2ixKpVCfbr/q8eccjiI8C95qcJhbaUlFteNwf0a7h8a0m6eHT0hm4b6vwlnSYHYozRkhms/w1Rc1pFr4VOT1v8zB3nulI1wINCB/f35AGyJk8MJibBK+u9FjSJesm9ZIs38za9hG7w51KVduhf1I1HAvpmxmgAO+tak1MFrjIWQi6MFdk4ay+h3Kr4obGRFFE46HznsqKgSsz06fa+WqIB7Zl5P2Mh4V9Na2OwFZh+E+wlSRaJvL76JsikytyXK66lDPSjXQo=;pwLSpYBqoThfeGkW6ABBaA=="
 ---
 

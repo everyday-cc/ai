@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Self-Driving Advances Could Accelerate in 2022"
+    excerpt: "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,"
+    publishedDateTime: 2022-01-04T21:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
 
 secured: "WPpEoG/kSlVDfXRJc4+GEaoB+2gT/w7OcXucmh1SCslQf8jSY8PTES8aTX/VBwbHfuS0y11rdKT3oOUwEeALjLn1n9BDwHjleO4VTOZi5cHHQW1/KW2rQwZ7aIiBH9iA53+A0bwkYWmOTWvTR7YVCy7z8A8j11vSiyiZ4I7Px04A5UV/kFSL03y/VY+P6fYFuDiwuRoVSsfJKpFTP+OeYtUD+VZ36MrYTFvBbYnMOWFbRTFzskQnuAKmNJUoOH2TTsRNOcnk9tBt0rlVG4hE5xI/IJMhC2UodynVTCw++LsV6fqQhm8nD+QkSRHa1iFklPud30rWCM9cFNwsn8BuFZX31AZdGUd3LzL1P7IymQUg90O5i6jYpb7KMogTD94luRR3Bcj9Fo/gdJrebq1df+djk4xb+8JnxNHoQvZZJqGjkepYTX9NeJbqh9D/UaRV++y0nMM94GSQsOGVsqGenETxyP2YKEKuf+qywgaWtYA0JxYbmKQoKKpkGVNS684U5w0fI+TZVxg7LroOG03Mhg==;dM262vbW0b1DOFiFutns7g=="
 ---

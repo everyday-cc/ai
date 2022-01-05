@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 1500
         isCached: true
-  - title: "Fintech sector 2022: With more funding, increased tie-ups between players, outlooks promising"
-    excerpt: "In the year 2021, the new-age fintech platforms offered consolidated fintech solutions to users, enabling them to carry out a range of operations such as spending, lending, investing, fund transfer, etc."
-    publishedDateTime: 2021-12-31T11:01:00Z
-    webUrl: "https://www.freepressjournal.in/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-sector-2022-with-more-funding-increased-tie-ups-between-players-outlooks-promising"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 33
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2020-02/c8a4770b-9848-4959-9f62-09611ff9f33a/Fin_tech.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 672
-        isCached: true
   - title: "Need to invest in fintech knowledge"
     excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."
     publishedDateTime: 2022-01-02T00:52:00Z
@@ -103,17 +87,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "United Kingdom InsurTech Market Landscape 2021-2026 - InsurTech is Thriving in the UK, Having Spun Out of the FinTech Revolution"
-    excerpt: "The \"United Kingdom InsurTech Market - Growth, Trends, COVID-19 Impact, and Forecasts (2021-2026)\" report has been added"
-    publishedDateTime: 2021-12-31T10:38:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/21/12/g24843301/united-kingdom-insurtech-market-landscape-2021-2026-insurtech-is-thriving-in-the-uk-having-spun-ou"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24843301"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24843301"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "LUs6M2jRtaPIM3Zo/c1nI1atjRakyYjrEBhuixMSAtjNxw2etWnXUSALsyGBSiR6LJL83vaPU2MIcUHNp/oHGKdsLSLYzxBLCpTwxuLAbvRD3DVO06Qe+3N8XFuPpukBW6ouYtoNt8dgTU9pimXr1zel/c2jmFz9UJ2TdM9jADzSc2sLpJtyiYrpTwpy1kdtLGucEE1AjnOXZhbPe4DjrFYsSzdrc7YQnrNJSmlp3KDhY813u1Ebj0LQPMJ9vU+sExE1mekACTJCrUNuNBhXHLD3zaIN9qIG0C5pHWHFf8Avl5py7mkWi15/QiCKhAnSQKzmjicXaz+6iODx1JlqM9Ip91Zw+ht2l/kdePJkLmayduXcLaxd8YKkf2GKJODjM3x+6TYk/7rapT8jqWHVxED+tdAssN473u1ZF2HeUaapZ2k3bDvKVxgBHHFC8uDrvnhBAKF3BNs+BW9HeUm0mR3JZ9k9xKvqkQr7d9+IH9FSbCbVGynWYFXjgVvjx3ItZscRZv7+JzJzBpXuwI3QVQ==;emtOthTKcQqd47Y/iTW8gg=="
 ---

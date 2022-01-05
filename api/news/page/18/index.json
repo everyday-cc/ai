@@ -2,6 +2,238 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-16-samsung-rolls-out-chips-for-self-driving-cars.md",
+      "title": "Samsung rolls out chips for self-driving cars",
+      "excerpt": "Samsung unveiled the industry‘s first universal flash storages for self-driving cars in 2017 ... Both products are used for servers and artificial intelligence-powered accelerators. The latest technology will better support complex processing of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20211216000657",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20211216000657",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2021%2F12%2F16%2F20211216000591_0.jpg",
+          "width": 630,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20211216000657",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20211216000657",
+      "publishedDateTime": "2021-12-15T22:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-3-startups-spearheading-ai-growth-in-south-korea.md",
+      "title": "3 startups spearheading AI growth in South Korea",
+      "excerpt": "According to McKinsey & Company, at least 70% of businesses worldwide would have adopted at least one type of AI technology by 2030. However, South Korea aims to be one step ahead of the rest. In line with its national strategy for artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea",
+      "originalUrl": "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us.md",
+      "title": "Tesla self driving Beta went against the most dangerous roads in the US",
+      "excerpt": "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
+      "originalUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png",
+          "width": 1024,
+          "height": 570,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T20:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-announcing-apperture-3d-computer-vision-for-connected-coaching-form-tracking.md",
+      "title": "Announcing (APP)ERTURE: 3D Computer Vision For Connected Coaching Form-Tracking",
+      "excerpt": "Today we’re announcing the (APP)ERTURE blueprint to sit alongside our (APP)AREL blueprint for 3D form-tracking for consumer fitness product. With the addition of 3D Motion Capture using advanced computer vision to the asensei.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/announcing-apperture-3d-computer-vision-connected-coaching-form-tracking-",
+      "originalUrl": "https://www.linkedin.com/pulse/announcing-apperture-3d-computer-vision-connected-coaching-form-tracking-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQH1cEpl6s0bbA/article-cover_image-shrink_720_1280/0/1639609841188?e=1645660800&v=beta&t=5c5NycySk7y80iZeufdnmxALd8jtjexSB-BRVYOYC8s",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T18:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027.md",
+      "title": "Global Facial Recognition Readers Solution Market 2021 Size, Revenue, Growth Rate, Restraints, Forecast Analysis by 2027",
+      "excerpt": "Another report by named, Global Facial Recognition Readers Solution Market Research Report 2021-2027 has been added into its tremendous archive by MarketQuest.biz. The report presents a far-reaching investigation of the market assessing the market on a worldwide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-facial-recognition-readers-solution-market-2021-size-revenue-growth-rate-restraints-forecast-analysis-by-2027-2021-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T16:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-cross-sectional-population-level-study.md",
       "title": "Breakfast skipping and cognitive and emotional engagement at school: A cross-sectional population level study",
       "excerpt": "This study investigated the association between breakfast skipping and cognitive and emotional aspects of school engagement. Design: Cross-sectional study using data from a population level survey of children and adolescents’ wellbeing and engagement at ...",
@@ -925,220 +1157,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-insilico-medicine-launches-trial-for-ai-discovered-drug.md",
-      "title": "Insilico Medicine launches trial for AI-discovered drug",
-      "excerpt": "The artificial intelligence-driven drug discovery company has dosed its first healthy volunteer in a trial for a candidate to treat idiopathic pulmonary fibrosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
-      "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/insilico-medicine-launches-trial-for-ai-discovered-drug/13097532-1-eng-GB/Insilico-Medicine-launches-trial-for-AI-discovered-drug.jpg",
-          "width": 750,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outsourcing-pharma",
-        "domain": "outsourcing-pharma.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-watch-teslas-full-self-driving-beta-tackle-the-tail-of-the-dragon.md",
-      "title": "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon",
-      "excerpt": "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
-      "originalUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/14232baa046af8b5536acf45c32f660f.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
-      "cdnAmpWebUrl": "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/watch-teslas-full-self-driving-beta-tackle-the-tail-of-1848219141/amp",
-      "publishedDateTime": "2021-12-15T07:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-aondevices-new-always-on-edge-ai-processor-enables-advanced-capabilities-for-emerging-voice-audio-and-sensor-applications.md",
-      "title": "AONDevices’ New Always-On Edge AI Processor Enables Advanced Capabilities for Emerging Voice, Audio and Sensor Applications",
-      "excerpt": "AONDevices, Inc., a provider of ultra-low power, high-performance processors for a new era of edge AI, today announced that engineering samples of its new AON1100™ processor are now available. The AON1100 Edge AI processor enables unprecedented sensing capabilities in battery-powered always-on devices that need to support local wake words,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-bf1bbe9f17577cb011e3e440ffbd233f",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-bf1bbe9f17577cb011e3e440ffbd233f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027.md",
-      "title": "Natural Language Processing (NLP) Software Market | Industry Outlook and Data Collected 2021-2027",
-      "excerpt": "The research report thoroughly examines the changing landscape of the Global Natural Language Processing (NLP) Software Market with the help of exhaustive amount of data compiled by the research analysts.",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027/",
-      "originalUrl": "https://manometcurrent.com/natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/R4cS544/Researchmoz-us-132.jpg",
-          "width": 1280,
-          "height": 862,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/natural-language-processing-nlp-software-market-industry-outlook-and-data-collected-2021-2027/",
-      "publishedDateTime": "2021-12-15T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-dimensity-9000-ai-running-score-far-exceeds-snapdragon-8-gen1.md",
-      "title": "Dimensity 9000 AI running score far exceeds Snapdragon 8 Gen1",
-      "excerpt": "Not long ago, Qualcomm and MediaTek have announced their new 4nm flagship chips. On paper, these two chips are surprisingly very similar. However, while Qualcomm’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/",
-      "originalUrl": "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/Dimensity-9000-1024x497.png",
-          "width": 1024,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/12/15/dimensity-9000-ai-running-score-far-exceed-snapdragon-8-gen1/amp/",
-      "publishedDateTime": "2021-12-15T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

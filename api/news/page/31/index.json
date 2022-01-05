@@ -2,6 +2,247 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-12-07-nds-cognitive-labs-experiences-record-growth-in-2021-bolstered-by-key-partnerships-and-executive-appointments.md",
+      "title": "NDS Cognitive Labs Experiences Record Growth in 2021, Bolstered by Key Partnerships and Executive Appointments",
+      "excerpt": "NDS Cognitive Labs (NDS) today announced the company’s record-setting 2021 company growth, enabled by partnerships with Clip (digital payment provider), major banks in Latin America, and global and US technology companies.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-mexico-information-technology-22186b257904452babb3796d3bd52f5b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations.md",
+      "title": "AI-powered customer engagement platform MoEngage raises $30M to grow operations",
+      "excerpt": "MoEngage, a startup developing an AI-driven customer engagement platform, has closed a $30 million venture capital round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/09/communication-6605648_1920-e1632854543166.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/ai-powered-customer-engagement-platform-moengage-raises-30m-to-grow-operations/amp/",
+      "publishedDateTime": "2021-12-07T06:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-cyberlinks-faceme-brings-best-in-class-facial-recognition-to-bitkeys-smart-office-platform-workhub.md",
+      "title": "CyberLink’s FaceMe® Brings Best-in-Class Facial Recognition to Bitkey’s Smart Office Platform, “workhub”",
+      "excerpt": "(5203.TW), a pioneer in AI and facial recognition technologies, today announced that its FaceMe ® facial recognition solution has been successfully implemented by bitkey Inc. into “workhub,” a connected smart office platform.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-we-love-technology-until-it-starts-loving-us-back.md",
+      "title": "We love technology, until it starts loving us back.",
+      "excerpt": "I'm on my on my science-possibly-not-so-fiction today. Sometimes being able to innovate means having the ability to think abstractly -- to still connect the dots wherever possible and to maintain accountability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
+      "originalUrl": "https://www.linkedin.com/pulse/we-love-technology-until-starts-loving-us-back-steven-rossi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEv42_PJI7xVg/article-cover_image-shrink_720_1280/0/1638885502860?e=1645056000&v=beta&t=mkCaj3AXTLeEVnl3BWlo4Du6y_3PzeWTv5tz1WqkvsY",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-mid-2022.md",
+      "title": "Intel plans to take self-driving car unit public in the U.S. in mid-2022",
+      "excerpt": "Intel has announced that it plans to list Mobileye, the Israeli autonomous driving firm it acquired for $15.3 billion in 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
+      "originalUrl": "https://www.cnbc.com/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1626819349",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/07/intel-plans-to-take-self-driving-car-unit-public-in-the-us-in-2022.html",
+      "publishedDateTime": "2021-12-07T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-bookmark-introduces-aida-an-artificial-intelligence-design-assistant-for-websites.md",
       "title": "Bookmark Introduces AiDA: An Artificial Intelligence Design Assistant for Websites",
       "excerpt": "Bookmark ( bookmark.com) is the world’s first and fastest Ai-powered website builder. By building revolutionary artificial intelligence algorithms over the past six years, their proprietary technology AiDA (Artificial Intelligence Design Assistant) is now available for anyone who needs a website or online store.",
@@ -867,256 +1108,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-technique-enables-real-time-rendering-of-scenes-in-3d.md",
-      "title": "Technique enables real-time rendering of scenes in 3D",
-      "excerpt": "Researchers at MIT and elsewhere have demonstrated a novel technique that vastly increases the speed of rendering 3D scenes from images by using a neural network to reconstruct the 360-degree light field of the underlying 3D scene.",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/3-d-image-rendering-1207",
-      "originalUrl": "https://news.mit.edu/2021/3-d-image-rendering-1207",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202112/Light-Networks-01-PRESS.jpg",
-          "width": 2216,
-          "height": 1478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T21:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-mlcommons-releases-open-source-datasets-for-speech-recognition.md",
-      "title": "MLCommons releases open source datasets for speech recognition",
-      "excerpt": "The nonprofit consortium MLCommons has released a massive, license-free dataset for speech recognition system development and testing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
-      "originalUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
-      "publishedDateTime": "2021-12-06T21:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-sophia-ai-robot-to-be-tokenized-for-metaverse-appearance.md",
-      "title": "Sophia AI robot to be tokenized for Metaverse appearance",
-      "excerpt": "A virtual anime version of Sophia, the world-famous humanoid artificial intelligence (AI) robot, is set to be tokenized and auctioned off as part of an up-and-coming Metaverse project dubbed “Noah’s Ark.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
-      "originalUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjEtMTIvNDFmZmQ5NTgtMGQwOC00NmIxLTlkNDItYzBmNGM2NmVjZGY3LmpwZw==.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/news/sophia-ai-robot-to-be-tokenized-for-metaverse-appearance/amp",
-      "publishedDateTime": "2021-12-06T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-will-take-mobileye-public-in-2022.md",
-      "title": "Intel Will Take Mobileye Public in 2022",
-      "excerpt": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 272,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "publishedDateTime": "2021-12-06T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-this-robots-facial-expressions-are-so-lifelike-it-will-make-you-cringe-a-little.md",
-      "title": "This robot's facial expressions are so lifelike it will make you cringe a little",
-      "excerpt": "United Kingdom startup Engineered Arts (EA; not to be confused with Electronic Arts) has been manufacturing humanoid robots since 2005, but its creations have come a",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "originalUrl": "https://www.techspot.com/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/ts3_thumbs/2021/12/2021-12-06-ts3_thumbs-c17.jpg",
-          "width": 800,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92523-robot-facial-expressions-lifelike-make-you-cringe-little.html",
-      "publishedDateTime": "2021-12-06T16:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
