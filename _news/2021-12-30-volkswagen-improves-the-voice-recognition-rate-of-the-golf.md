@@ -3,8 +3,8 @@ category: news
 title: "Volkswagen improves the voice recognition rate of the Golf"
 excerpt: "A more streamlined interface alongside an improved voice recognition system are in store for new examples of the Volkswagen Golf. The Volkswagen Golf will soon get an improved infotainment system. Due to go into series production in the next few weeks,"
 publishedDateTime: 2021-12-29T17:03:00Z
-originalUrl: "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm"
-webUrl: "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm"
+originalUrl: "https://www.sgcarmart.com/news/article.php?AID=26098"
+webUrl: "https://www.sgcarmart.com/news/article.php?AID=26098"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 683
     isCached: true
 
-secured: "H7h0HajRLJqIzsh/OCNRgza2wBDg/yVgNz0BFvfsWrfGo9RNAG3kL66W0qTbUFMY1X61YR/BM45mcSDyngsvJoj4PX3Uh6svFxE/G6dL2z2sQKatjKREcYpBW4KukuUm67M98vmgA3l9Uw0Wjb7Dv9PX95O5+CGjs7Wh4baSWp8DtonYu5jkGhHbD5asWyF3ztcmEPqwFSWpmRe4VDCaxHb8Xy+5Bv3SpuZ/iDzR3/Wb6GmOzAcISfcY+s80eQQ62k/U66mQuxXpyFqJJz+4wI/k4uB0tnDtQHI+ZH4kcrn6bO7wGi8BDM4tWzS3s4U6xqdw0tHxPWL2y/0yr6WXyNFF+gX32wZ1/GUf4lCs3EfzticUbw28yw/YoruzhAXx0Sq33ZxdG+WOQrXr+aEV7r3G3jX2AAmFyRyv3BWFOHIKNO4d77kaMesW2vkuaCCckn1nPCziB0231tjvYeOk7vKt+3MDg6rh2j2mgZqAJVCNL39ulT4KUjkyfT2c/nfr2Y0qbF/9drHyY7WlhiUXow==;sIYOiV5hcoNS5d8AnKjnvA=="
+secured: "3vgKF8VezYs11UYmIDUWaQx9PMQherNCVvGvTSbecqBnc+GUSsO1oY7f9PEeg6FDHOkYK3p7HE47lBFh+MPaZE5DHZ9s0JQ5o2FeEV75UlZxm8aZAaRUM4BMC+Ut8izx4M9x/zD9MFqk4UlM0tB+FIz8QPqlVlcJDTipWX91e0jf734d62Hgt4TAjJr/a38qoV3WfrcqjRSNwER5Mw1Gzt/e3xysWsQUnaciLNSL5raSjf3IhPaw7AIaEBebQDYXZBcg6yjYwm9G7bwEfSVhczdscWfXPA9mL/50Ig8BBE8XgjztpjJ0InPDUUNT1RJkpBFjtft1benY0ok6PBVuNcpMGmJOHqFx1mID+nC2Y64=;bvbmuS4Dv7KoHoRticHQ0g=="
 ---
 

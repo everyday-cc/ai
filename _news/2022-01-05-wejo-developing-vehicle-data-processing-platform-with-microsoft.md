@@ -27,34 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud"
-    excerpt: "In June 2021, Microsoft and AT&T reached a major milestone when we announced an industry-first collaboration to adopt Microsoft cloud technology for AT&T’s 5G core network workloads. Since then, we have had requests from many operators, partners, and customers to share more details. This blog is intended"
-    publishedDateTime: 2022-01-04T08:00:08Z
-    webUrl: "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d6f2d867-07b3-4f08-94bf-04e32abac5cf.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Sysdig Adds Cloud Security for Microsoft Azure Cloud"
-    excerpt: "Sysdig, Inc. announced today cloud security for Microsoft Azure Cloud with configuration risk management and threat detection that is built on Sysdig's runtime security technology. The Sysdig platform brings new continuous cloud security"
-    publishedDateTime: 2022-01-05T16:12:00Z
-    webUrl: "https://www.lelezard.com/en/news-20179343.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 71
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft"
     excerpt: "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S"
     publishedDateTime: 2022-01-04T09:48:00Z
@@ -69,43 +41,28 @@ related:
         width: 374
         height: 250
         isCached: true
-  - title: "The future of medtech goes beyond Microsoft’s AI creep"
-    excerpt: "If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.7bn last April. Nuance is a UK based speech-recognition company best known for having provided the speech recognition engine that powers Siri,"
-    publishedDateTime: 2022-01-04T14:20:00Z
-    webUrl: "https://www.retail-insight-network.com/features/the-future-of-medtech-goes-beyond-microsofts-ai-creep/"
+  - title: "Artificial Intelligence in Platform as a Service Market is Booming Worldwide | IBM, Microsoft, AWS"
+    excerpt: "Latest released the research study on Global Artificial Intelligence in Platform as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Platform as a Service Market research report shows the latest"
+    publishedDateTime: 2022-01-03T10:49:00Z
+    webUrl: "https://www.openpr.com/news/2515593/artificial-intelligence-in-platform-as-a-service-market"
+    ampWebUrl: "https://www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
     type: article
     provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 58
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2021/11/Global-E-1-464x348.jpg"
-        width: 464
-        height: 348
-        isCached: true
-  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure."
-    publishedDateTime: 2022-01-04T15:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+  - title: "AI Software Platforms Market Next Big Thing | Major Giants Cloudera, IPsoft, Uniphore"
+    excerpt: "A new research document is added in HTF MI database of 109 pages titled as AI Software Platforms Market Global Outlook and Forecast 2021 2027 with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players"
+    publishedDateTime: 2022-01-04T10:49:00Z
+    webUrl: "https://www.openpr.com/news/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    ampWebUrl: "https://www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
-    publishedDateTime: 2022-01-04T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220104005270/en/Tekion-Expands-Cloud-Hosting-Options-with-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "ufsGrZyWFcg9UyipxN4kXm37CUtiqpHaaWO5RlR/Ls+TC2XBjm3BznW9UeNeqEuJL3KoeiuuKENIOPUATKJtbn11wcDjyHE3aPuCvGUSWAyvIHbTQdJuFohMyp/rJSV8s+8UjeURkYEQ5UX/jQmWIMF+wgwRkBmpfgGQa42eqprw0a/APavWyR19/mTPggZXi1q2qZ22A9t+Ryl+TDeV/ZAZ0SWlUPe/DwVfzBVy2t7bOKcBBm7RJZo7oXvKCSOzN5B0mToTaLHUBi2LF23zK9vIdwW47halZTXZlh1Az+SJxZWqp14oJUAwfUOvUQnqF4yc/LzupXmZgL5/z553N5nqr7FrA5CtdSksvzIVbho=;kSr+iTeaK1cKE1jvCLMxCg=="
 ---

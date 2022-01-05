@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-06-qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses.md",
+      "title": "Qualcomm and Microsoft collaborate on custom chips for AR glasses",
+      "excerpt": "Qualcomm announced its intentions to integrate software platforms with Microsoft at Tuesday's CES 2022 keynote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "originalUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/05/d15a4544-a48e-4c75-b83d-46c610541963/resize/1200x/3c064522004e0f70855c4f2157fd60fe/ar-glasses.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "publishedDateTime": "2022-01-05T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-accelerate-the-in-vehicle-digital-experience-with-azure-cognitive-services.md",
       "title": "Accelerate the in-vehicle digital experience with Azure Cognitive Services",
       "excerpt": "Microsoft is helping to reshape the automotive industry in the way it serves its drivers with in-vehicle infotainment systems. Together with the car manufacturers, Microsoft is creating new driving experiences with speech based on the text-to-speech and speech-to-text capabilities within Azure Cognitive",
@@ -62,7 +115,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -107,21 +160,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-04-improving-the-cloud-for-telcos-updates-of-microsofts-acquisition-of-atts-network-cloud.md",
-      "title": "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud",
-      "excerpt": "In June 2021, Microsoft and AT&T reached a major milestone when we announced an industry-first collaboration to adopt Microsoft cloud technology for AT&T’s 5G core network workloads. Since then, we have had requests from many operators, partners, and customers to share more details. This blog is intended",
+      "path": "_news/2022-01-04-artificial-intelligence-ai-in-education-market-next-big-thing-major-giants-google-cognizant-microsoft.md",
+      "title": "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft",
+      "excerpt": "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S",
       "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/",
-      "originalUrl": "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/",
+      "webUrl": "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft",
+      "originalUrl": "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d6f2d867-07b3-4f08-94bf-04e32abac5cf.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056",
+          "width": 374,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -131,21 +184,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T00:00:08-08:00",
+      "publishedDateTime": "2022-01-04T01:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -154,6 +198,9 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education",
         "Microsoft AI"
       ]
     },
@@ -166,7 +213,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -207,41 +254,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-artificial-intelligence-in-platform-as-a-service-market-is-booming-worldwide-ibm-microsoft-aws.md",
-      "title": "Artificial Intelligence in Platform as a Service Market is Booming Worldwide | IBM, Microsoft, AWS",
-      "excerpt": "Latest released the research study on Global Artificial Intelligence in Platform as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Platform as a Service Market research report shows the latest",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2515593/artificial-intelligence-in-platform-as-a-service-market",
-      "originalUrl": "https://www.openpr.com/news/2515593/artificial-intelligence-in-platform-as-a-service-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market",
-      "publishedDateTime": "2022-01-03T02:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -922,6 +934,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-23-global-iot-technology-market-outlook-2026-evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others.md",
+      "title": "Global IoT Technology Market Outlook, 2026 | Evaluates Leading Vendors Nvidia, IBM, Intel, Samsung Electronics, Microsoft, and 45 Others",
+      "excerpt": "The report evaluates leading vendors, products, and services offerings ... evolves to allow IoT networks and systems to become more cognitive. The emerging AIoT market will enable systems to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/global-iot-technology-market-outlook-2026--evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others-301449820.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/global-iot-technology-market-outlook-2026--evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others-301449820.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook",
+          "width": 800,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-10-ai-predictions-for-2022.md",
       "title": "10 AI Predictions For 2022",
       "excerpt": "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence.",
@@ -1362,58 +1417,6 @@
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform.md",
-      "title": "Gtmhub raises $120M to expand its automatic OKR-tracking platform",
-      "excerpt": "Gtmhub, a company developing OKR-tracking software, has raised $120 million in capital, bringing its total raised to over $161 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "publishedDateTime": "2021-12-16T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

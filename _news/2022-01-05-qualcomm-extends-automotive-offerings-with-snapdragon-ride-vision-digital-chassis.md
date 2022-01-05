@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm aims to serve next-gen cars with Snapdragon Ride Vision and Digital Chassis"
+    excerpt: "Companies like the Intel's Mobileye, graphics giant Nvidia, and Qualcomm are all using CES 2022 to announce their newest offerings for the automotive industry, as well"
+    publishedDateTime: 2022-01-05T16:53:00Z
+    webUrl: "https://www.techspot.com/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 82
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-05-image-14.jpg"
+        width: 1376
+        height: 800
+        isCached: true
   - title: "Qualcomm Unveils Gambit to Build \"Digital Chassis\" for Self-Driving Cars"
     excerpt: "New initiatives for Qualcomm include next-generation ARM PCs, the metaverse, VR/AR, wireless fiber, and Advanced Driver-Assistance Systems (ADAS)."
     publishedDateTime: 2022-01-04T23:41:00Z
@@ -45,6 +61,15 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "Qualcomm expands in auto market with new vision platform, Berlin office"
+    excerpt: "Qualcomm is focusing on its expansion in the automotive sector at this year's CES. The company is grouping its products for cars under the umbrella 'Snapdragon Digital Chassis', and announced new deals with several automakers to incorporate the company's chips in their"
+    publishedDateTime: 2022-01-05T10:27:00Z
+    webUrl: "https://www.telecompaper.com/news/qualcomm-expands-in-auto-market-with-new-vision-platform-berlin-office--1409642"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 4
 
 secured: "KEkPyEn9OSoyaMUkplf8nDraGd7wBfG42hkkMtjzVJ/Zyiv6jy6JAerRb+OvoPf0bZxxm6IM5Ypko0CCpY16/uJMWGlrpvTM8DQT7+K+yQzZR6BxdY0Rv9DRP0M5KVVPGdHq35tXq16dbQqPXThlpR7kodRx6awlcTA6klqciEbTGlDvR+Yq2Ui7iMgRUN2djIgvh0MewQILC8Q0ckkLxUhEonVlkIy+6IxvHFVmCElMlpANg4HqwsHSnJ3tA1nPOBGGQQIeg2hdGwvCmLYWC4v1YctlIHZGsmF8yyW1hrTvTt6g5+nTrApR7QlV7HXlWKaBZ3wg3NhmXKp2pw02RuPFWppp9Xh7AV0X5UqWDsA=;XJUinxcTWK/kwKI5vQoILQ=="
 ---

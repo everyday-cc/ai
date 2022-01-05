@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-18-the-growing-cost-of-deep-learning-for-source-code.md",
+      "title": "The Growing Cost of Deep Learning for Source Code",
+      "excerpt": "This would surely have sounded like a vision of a distant future just a decade ago, but such quick progress is indicative of the substantial and unique potential of deep learning for software engineering tasks and domains.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
+      "originalUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dl.acm.org/cms/attachment/97e981c2-320d-4e42-8d57-5388c3495f2b/uf1.jpg",
+          "width": 1021,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-18T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-sure-deepminds-ai-is-impressive-but-can-it-guide-human-intuition.md",
       "title": "Sure, DeepMind’s AI is impressive, but can it guide human intuition?",
       "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning can help discover mathematical relations that evade human scientists,",
@@ -1393,52 +1436,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do.md",
-      "title": "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do",
-      "excerpt": "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
-      "originalUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg",
-          "width": 777,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
-      "publishedDateTime": "2021-12-11T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-up
 webUrl: "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/"
 type: article
 quality: 77
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: Microsoft
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm and Microsoft collaborate on custom chips for AR glasses"
+    excerpt: "Qualcomm announced its intentions to integrate software platforms with Microsoft at Tuesday's CES 2022 keynote."
+    publishedDateTime: 2022-01-05T17:40:00Z
+    webUrl: "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 91
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2022/01/05/d15a4544-a48e-4c75-b83d-46c610541963/resize/1200x/3c064522004e0f70855c4f2157fd60fe/ar-glasses.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Sysdig Adds Cloud Security for Microsoft Azure Cloud"
     excerpt: "Sysdig, Inc. announced today cloud security for Microsoft Azure Cloud with configuration risk management and threat detection that is built on Sysdig's runtime security technology. The Sysdig platform brings new continuous cloud security"
     publishedDateTime: 2022-01-05T16:12:00Z
@@ -41,36 +57,6 @@ related:
       - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft"
-    excerpt: "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S"
-    publishedDateTime: 2022-01-04T09:48:00Z
-    webUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Wejo developing vehicle data processing platform with Microsoft"
-    excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
-    publishedDateTime: 2022-01-05T12:37:00Z
-    webUrl: "https://seekingalpha.com/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 59
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "The future of medtech goes beyond Microsoft’s AI creep"
     excerpt: "If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.7bn last April. Nuance is a UK based speech-recognition company best known for having provided the speech recognition engine that powers Siri,"
@@ -100,6 +86,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Annata and Microsoft deliver new retail and mobility services"
+    excerpt: "Iceland-based technology provider Annata has expanded its long-standing partnership with Microsoft to develop new retail and mobility services. The firm will enhance the Annata 365 cloud platform with new services to enable those involved in vehicle manufacturing and supply to upgrade legacy systems and better engage with customers."
+    publishedDateTime: 2022-01-05T10:16:00Z
+    webUrl: "https://www.technologyrecord.com/Article/annata-and-microsoft-deliver-new-retail-and-mobility-services-127836"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10658/img-Unsplash_Chris-Bair_road_vehicles_car_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
     excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
     publishedDateTime: 2022-01-04T19:00:00Z
@@ -109,6 +109,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
+  - title: "Annata expands Microsoft collaboration to drive data and mobility services in automotive industry"
+    excerpt: "Annata is deepening their collaboration with Microsoft to further develop and bring to market solutions to enable the transformation of automotive distribution and retail with next-generation retail and mobility services."
+    publishedDateTime: 2022-01-04T19:05:00Z
+    webUrl: "https://www.publicnow.com/view/FDA572032D8621AF142C8E45870D13C9B5EBC453"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 6
 
 secured: "lPVmMgOHBXcchAXd/+CWRuMjcbdQQAWhEtsyNLJuQlt+mulw4+H1wolN6fX2TiIlfT/kULfl13RFGOuLYB4flseON5kJCJfdM6R8Cm0ehorAvcKruyskaSoTH3A2TvbvyR+sbZT/BO1SBN/lwd+L1VPvxN4LznSr2pVEqSwTNwUuhS6bZt2Fp6bdV09DdxD8ZC8vrlYhVwV41L6NnZXL7qoppbYzgR3JvdL0J/yV2yrnhIYd3xSSBsxdg+fRzuQSyNbzeRl2x30VzfpzHb/6YsVsBvPMcyanoOva0H8s1Po2+vr+30P2CuNUnQy9i1tQi4T4aEHj8Zi5gGQPvO2KsJzQy7sYL21+fltuL1/OiEY=;wOvum2e27whK9g3WXfDt2g=="
 ---

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Autonomous car developers lobby to defang safety data regulations"
-excerpt: "The autonomous vehicle industry is lobbying federal safety regulators to limit the amount of data companies must report every time their cars crash."
-publishedDateTime: 2022-01-03T16:45:00Z
+excerpt: "The fast-rising autonomous vehicle industry is lobbying federal safety regulators to limit the amount of data companies must report every time their cars crash, arguing that the current ..."
+publishedDateTime: 2022-01-03T17:48:00Z
 originalUrl: "https://www.detroitnews.com/story/business/autos/2022/01/03/autonomous-car-developers-lobby-defang-safety-data-regulations/9079796002/"
 webUrl: "https://www.detroitnews.com/story/business/autos/2022/01/03/autonomous-car-developers-lobby-defang-safety-data-regulations/9079796002/"
 ampWebUrl: "https://amp.detroitnews.com/amp/9079796002"
@@ -42,6 +42,6 @@ related:
         height: 827
         isCached: true
 
-secured: "0PFp/u3m/bTUQndv7nFE2ZpF0aacyUNLC9uU/27BCSO869RNyNRh47svPtSfnUulWDYfljmVcaButajSnPFeUJVVBCaMxngLSCyF4GGsQHj0xLl3saskFQSR7FtE77wWgJl7TFd1vyi56kXHD+48Bp3U4djFRd28rx15rwk1pnu9b23yusemwP1+Zccsj7fFGBez3eFS4hLxNDjs20DOXRZ9Q+cr3M6rIU59/BxPsK+p46qZIwEvnn9sVE73I/g7dGFrbUfC54pUnzYubksRJ7UsaprXuAHIgfsHxnjKeSkyDECfLg7yhHtrxQISuwz8sh/ZOKX1yPtCr/F/RnyehWfNTjcmsEk+0O7/oEdYfLI=;h9Po5n6MED0EomWl8/vBlQ=="
+secured: "cz5Lg0Z/ppPcMqtLTttu67bG5INxbamDkFzs4oIyOdJO3LgagLIvMjWHvFRYh0oYeMgPdvwmutHm2zWNbPoyjrjkPYKGnM009lbZZmNKswSSeiz1+P8xJLAOzXBnJbXjDaTb6wEmLkNrow/Vt+vjXtoq7LyMvOUQtpnnh0GSSzQhTGHNKkIVCekLU2IZ8vNlVrfulDCYcJFb80rXXex7m3SnkbYbdjyxtNqAzAFLEtyLAVycnUbIjxagud1jlmjQQl8LP7xSSDAhu+OO1LPBWmjepnG0kqsXKScbbXqL/13ep9MZEXNSqk82u7b+xgutU+R1cvPD1wBtToS5ZYcaJ8uuxCGbwJV7DFEZU2iN3YY=;jHiI0ktKCfFEX4i9QZaVGA=="
 ---
 

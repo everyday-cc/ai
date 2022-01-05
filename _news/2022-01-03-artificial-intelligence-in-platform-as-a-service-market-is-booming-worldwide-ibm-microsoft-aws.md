@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2515593/artificial-intelligence-in-platfo
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: openpr.com
@@ -22,34 +22,47 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Annata and Microsoft deliver new retail and mobility services"
-    excerpt: "Iceland-based technology provider Annata has expanded its long-standing partnership with Microsoft to develop new retail and mobility services. The firm will enhance the Annata 365 cloud platform with new services to enable those involved in vehicle manufacturing and supply to upgrade legacy systems and better engage with customers."
-    publishedDateTime: 2022-01-05T10:16:00Z
-    webUrl: "https://www.technologyrecord.com/Article/annata-and-microsoft-deliver-new-retail-and-mobility-services-127836"
+  - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft"
+    excerpt: "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S"
+    publishedDateTime: 2022-01-04T09:48:00Z
+    webUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft"
     type: article
     provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 69
     images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10658/img-Unsplash_Chris-Bair_road_vehicles_car_web.jpg"
-        width: 940
-        height: 443
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056"
+        width: 374
+        height: 250
         isCached: true
-  - title: "AI for Speech Recognition Market is Booming Worldwide | Google, Apple, IBM"
-    excerpt: "Advance Market Analytics published a new research publication on “AI for Speech Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2022-01-03T11:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-speech-recognition-market-booming-worldwide-google-ajay-jadhav"
+  - title: "Wejo developing vehicle data processing platform with Microsoft"
+    excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
+    publishedDateTime: 2022-01-05T12:37:00Z
+    webUrl: "https://seekingalpha.com/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 52
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFDsXy5f3t48Q/article-cover_image-shrink_720_1280/0/1641207989252?e=1646870400&v=beta&t=rU8Dbxv60xLUWiQyiXxOKiWcaqsAZ7Q7Ss58ixVGry0"
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200
-        height: 720
+        height: 1200
         isCached: true
+  - title: "AI Software Platforms Market Next Big Thing | Major Giants Cloudera, IPsoft, Uniphore"
+    excerpt: "A new research document is added in HTF MI database of 109 pages titled as AI Software Platforms Market Global Outlook and Forecast 2021 2027 with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players"
+    publishedDateTime: 2022-01-04T10:49:00Z
+    webUrl: "https://www.openpr.com/news/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    ampWebUrl: "https://www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 30
 
 secured: "X0v3k+MP0SLjznducrkrYkyUAjQjmF9+8DK+SqQaxWTPqb4ExxN99ZjtPllEcFjUtRBmQQpvWSFFkNcBG8WjkXRlpUD2LqxnAeyg42YlTjIbSAtIuGREAHiFQxa9o+6dLivxrhCgiSvWQqU8f3AMHVi2zKWkUQRvkpN3e6quqPI+S7XEJGt+XxYP+bFkitDO5egpnnjSHO+jzWJXfoZUrQPCUszFugsQcdsuFsvlIxj5RTibuwAdlnBIiqlUnqQnPr+A7AKrxWgM5ghsZ2/18ahd3kScTL0iiL7pMxMo+zRzQQPm/+ZMox7izcVXiTmphoYXKlxp18GiZPp9mdOpPSfSSDDFQiZkj9sdOeOre3Q=;wZxPbfkJSSv07yk3ujo9lw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/bairong-inc-named-kpmgs-china-finte
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/bairong-inc-named-kpmgs-china-fintech-50-list-sixth-consecutive-year?amp"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://www.bworldonline.com/wp-content/uploads/2021/04/economy-default.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
+    excerpt: "BEIJING, Jan. 5, 2022 /PRNewswire/ -- Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year. It is also ..."
+    publishedDateTime: 2022-01-05T18:15:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595359"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 36
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
   - title: "Need to invest in fintech knowledge"
     excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."

@@ -22,43 +22,34 @@ topics:
   - AI
 
 related:
-  - title: "AI-Powered Automation Can Be Both a Part of the Problem and Part of the Solution"
-    excerpt: "There are real security concerns that should be addressed ahead of further government adoption of a truly automated future."
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/01/ai-powered-automation-can-be-both-part-problem-and-part-solution/360294/"
+  - title: "TrojAI secures $3 million in seed funding to protect AI solutions against security threats"
+    excerpt: "The artificial intelligence (AI) protection startup TrojAI Inc. has secured $3 million in seed funding. Seattle’s Flying Fish Ventures and the Atlantic Canada venture capital fund Build Ventures led the round with participation from Techstars,"
+    publishedDateTime: 2022-01-05T18:37:00Z
+    webUrl: "https://betakit.com/trojai-secures-3-million-in-seed-funding-to-protect-ai-solutions-against-security-threats/"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
+      name: BetaKit
+      domain: betakit.com
+    quality: 44
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/03/aiNG20210103/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/01/EsMS-PcW8AYVjIr-1.jpeg"
+        width: 700
+        height: 467
         isCached: true
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "Manually keying in patient data into fields is not only time-consuming and inefficient, but also can be inaccurate and unreliable. etherFAX AI reduces error rates associated with manual data entry by extracting information that is stored in unstructured document types,"
-    publishedDateTime: 2022-01-05T14:17:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20220104-etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its/"
+  - title: "Artificial Intelligence Technology Solutions Secures SOC 2 Compliance"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type"
+    publishedDateTime: 2022-01-04T13:42:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/soccer-technology-sports-business-artificial-intelligence-5aff84712a7688108f589d493b8fd996"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 6
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1641334305/press_release/assets/company_logos/etherFAX-graphic-350x350_bzrxac.jpg"
-        width: 400
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "PRNewswire-PRWeb/ -- etherFAX today announced an artificial intelligence (AI) solution that facilitates advanced capabilities of searchable PDF, OCR, and other Key Value Pairs. These new"
-    publishedDateTime: 2022-01-04T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its-artificial-intelligence-solution-for-automated/article_ac564166-2a4e-5bb7-9d54-6fdbb9c9ec36.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "HrFKfB46VQ2/0YgkhvdHU/+3kN02yZxsVPEgR7/fxePzzxhIwT8q2TfqAXpeisULGgtiSfxVE7FY/xEm4m+OT3NU0Uah2HbfIJlYvqtBiQmphoa3wtS8qnl1y3GupwHQBRn7YfbtEoveut9EVwyAwbcKoNEi6TBGvK3vg1fWM5R4Gn4S82jRd+8BtmctaSEV7jGv0/wHVhCOGeayfK1WYMLOlvClytFVFaAXhqonNZxvD+FLyjA76UjNydItMxrtgJcFpQlji0o8bQDGjKoOa/d7aZqy4dHCxlv6ZRpRPNjWYa/imu+pSElBdggiZUq2jB24J7xT5tE4evR1rDrgzZ57jdHPQMHOw7o2UuQmIt+m6728ie0Ecdip5BcsRyfRHijQ0wLBeaSeyQcQR+43ZmolC5U/uszSvjKaPOtn1cfDNtPKBZn44p3ugOYsb21Dki7V1A+xJaAwYu6uk9ZO7YLE/xZTpANphwVWitDZSoghjp0EOWyAnkFwUvYOyuAe+hFFwUMK5qqL7yokbk7H/Q==;dTfTvtX8mHmgciXmH5q3hw=="
 ---

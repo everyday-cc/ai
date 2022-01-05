@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-speech-recognition-market-boomin
 webUrl: "https://www.linkedin.com/pulse/ai-speech-recognition-market-booming-worldwide-google-ajay-jadhav"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -27,33 +27,6 @@ images:
     width: 1200
     height: 720
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in Platform as a Service Market is Booming Worldwide | IBM, Microsoft, AWS"
-    excerpt: "Latest released the research study on Global Artificial Intelligence in Platform as a Service Market offers a detailed overview of the factors influencing the global business scope Artificial Intelligence in Platform as a Service Market research report shows the latest"
-    publishedDateTime: 2022-01-03T10:49:00Z
-    webUrl: "https://www.openpr.com/news/2515593/artificial-intelligence-in-platform-as-a-service-market"
-    ampWebUrl: "https://www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515593/artificial-intelligence-in-platform-as-a-service-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-  - title: "Annata and Microsoft deliver new retail and mobility services"
-    excerpt: "Iceland-based technology provider Annata has expanded its long-standing partnership with Microsoft to develop new retail and mobility services. The firm will enhance the Annata 365 cloud platform with new services to enable those involved in vehicle manufacturing and supply to upgrade legacy systems and better engage with customers."
-    publishedDateTime: 2022-01-05T10:16:00Z
-    webUrl: "https://www.technologyrecord.com/Article/annata-and-microsoft-deliver-new-retail-and-mobility-services-127836"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10658/img-Unsplash_Chris-Bair_road_vehicles_car_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
 
 secured: "zG09S84s9O9415CTMF0WF6T6ljYNBQ4e5kwACnMJ55QIspXATpHyCyz8kS/Zx2T5CotUey4uhVP0EX6ELChSpMgmgjyDoNccq1S3CFIvisjKbVcqTuZ4fJ1+kt+vMiVo+les8URhG7R2e2Lpp2MisUUitu6hZTX4KRLhPElFUGhiZoD0NxTgjKRbAYktM2rztYyLvj3m3Y8RsIyFBbZ539SZSwJwv2GCBxSuMFTb1KaQ6mRW6/98R+kY5+OZJjd60+wluM/3/DwmktZMjPLrWsGKJy6+8pZdz9nsaELix/GdonfE5Sfu4l++kfiK14Ue7QX80+q4gdrNufXdToQBMpRCWcasR9POwG00aTKbuvRFVssrd6nzpq9/HUct0X99Bd5xKZ34Fz26wZJnUGoMWmujLW1p7EkuVQIZ2zstuToaip3s+fuPA0xhVsZci4VmfRKVJsgobSfSsdV6c2WRKj0lMoQldAWBxixdcqdIRqwXpjdE+3rujEHnQC9WC9YWa29GqT7PQ3wdAlZlUOKHVQ==;GfQ+0nC2fGTBHixc3ZjwsQ=="
 ---

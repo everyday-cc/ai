@@ -1,0 +1,81 @@
+---
+category: news
+title: "Ambarella (AMBA) Introduces CV3 AI Domain Controller SoC"
+excerpt: "Ambarella AMBA recently unveiled CV3 artificial intelligence (“AI”) domain controller system-on-chips (“SoC”). The platform is ideal for implementing autonomous driving for vehicles from Level 2+ to Level 4,"
+publishedDateTime: 2022-01-05T17:10:00Z
+originalUrl: "https://www.chron.com/business/article/Ambarella-AMBA-Introduces-CV3-AI-Domain-16751421.php"
+webUrl: "https://www.chron.com/business/article/Ambarella-AMBA-Introduces-CV3-AI-Domain-16751421.php"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Houston Chronicle
+  domain: chron.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://staticx-tuner.zacks.com/images/charts/0d/1641391398.png"
+    width: 583
+    height: 265
+    isCached: true
+
+related:
+  - title: "Ambarella launches 16-core CV3 AI chip for autonomous vehicles"
+    excerpt: "Ambarella launched its latest CV3 artificial intelligence domain controller family to power autonomous vehicles."
+    publishedDateTime: 2022-01-04T21:05:00Z
+    webUrl: "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/"
+    ampWebUrl: "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/Ambarella-CV3_SUV-System-Diagram_Embargoed-Until-Jan.-4-2022.jpg?w=1200&strip=all"
+        width: 1200
+        height: 602
+        isCached: true
+  - title: "Ambarella launches AI domain controller SoC family"
+    excerpt: "Ambarella, an AI vision silicon company, has announced the CV3 AI domain controller family. A fully scalable, power-efficient CVflow family of SoCs, these devices are able to provide the automotive industry’s highest AI processing performance,"
+    publishedDateTime: 2022-01-05T14:10:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/ambarella-launches-ai-domain-controller-soc-family/243325/"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 39
+    images:
+      - url: "https://www.newelectronics.co.uk/article-images/243325/amber.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Ambarella Launches AI Domain Controller SoC Family for Single-Chip Multi-Sensor Perception, Fusion and Path Planning in ADAS to L4 Autonomous Vehicles"
+    excerpt: "(NASDAQ:AMBA), an AI vision silicon company, today announced during CES the CV3 AI domain controller family. This fully scalable, power-efficient CVflow® family of SoCs provides the automotive industry's highest AI processing performance,"
+    publishedDateTime: 2022-01-04T20:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g24893873/ambarella-launches-ai-domain-controller-soc-family-for-single-chip-multi-sensor-perception-fusion-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24893873"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24893873"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
+  - title: "New Ambarella AI domain controller SoC family; single-chip multi-sensor perception, fusion and path planning for ADAS to L4 vehicles"
+    excerpt: "Ambarella, an AI vision silicon company, announced the CV3 AI domain controller family at CES. This fully scalable, power-efficient CVflow family of SoCs provides the automotive industry’s highest AI processing performance,"
+    publishedDateTime: 2022-01-05T11:03:00Z
+    webUrl: "https://www.greencarcongress.com/2022/01/20220105-ambarella.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 3
+
+secured: "NPZdEkYR3s7kGXXUdDakoq7naFeYTfMyHW6eKzC4H0w4NRGW/AW6emkFyA3/FNEO7b6vfHNmde6vONVDcl+QpEGoEzww0+cwCPmrRTYPzuOARuUk4U1I08TvhYk+qQjAFq58NmHcrONXQ4adDBsq/AbchtCVIoJmU4tqCKFvBAsJVZWlTXLA54n8WhicRa1o4oQN/rrZSFU5cXmzXrCO6m+Um+iapI2Sx2rpJl/Y4hURQk24BUGAWXv6aSL+2pi6xCJCx4W86wx8HSmTGM7MLpuJQNMoxFT3rFSj0+19jpDzpBCMaaH03KyyyEGM7y7f/T5XfkFGKjafGTtvl7hKo4cjs1BwxTM7Es9x8MtJDyA=;l5Gvy3MARZ+7QL+X1Wg9Kw=="
+---
+

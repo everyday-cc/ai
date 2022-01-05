@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-18-clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator.md",
+      "title": "Clearview AI to Stop Facial Recognition and Delete Data, Says French Regulator",
+      "excerpt": "The French regulator CNIL ( Conseil Nationale de l’Informatique et des Libertés) on Thursday (Dec. 16) issued an order against Clearview AI requesting that the company stop collecting and using images and personal data obtained through facial recognition and to delete this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/clearview-ai-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "publishedDateTime": "2021-12-17T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-the-six-minute-training-hack-that-can-improve-face-recognition-skills.md",
+      "title": "The six-minute training hack that can improve face recognition skills",
+      "excerpt": "This is a significant increase because even experienced face identification staff can get as many as one in two wrong when it comes to comparing photos with unfamiliar faces. In their new piece of research in the Journal of Experimental Psychology: Learning,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.html",
+      "originalUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2018/2-facialrecogn.jpg",
+          "width": 1920,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-six-minute-hack-recognition-skills.amp",
+      "publishedDateTime": "2021-12-17T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-samsung-jetbot-ai-review.md",
       "title": "Samsung JetBot AI+ review",
       "excerpt": "This intelligent and gentle cleaner is packed with features like livestream home monitoring, object recognition, multiple cleaning pattern options, and a self-emptying base. On paper, it’s one ...",
@@ -1272,92 +1358,6 @@
         "name": "洗護用品和肥皂",
         "domain": "business-humanrights.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-state-farm-taps-object-recognition-with-carcapture-app.md",
-      "title": "State Farm taps object recognition with CarCapture app",
-      "excerpt": "State Farm is leveraging object recognition technology and partnering with Edmunds.com to launch the CarCapture mobile application that allows users to snap a photo of the back of a car and instantly receive detailed information. Consumers will be able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
-      "originalUrl": "https://www.marketingdive.com/ex/mobilemarketer/cms/news/software-technology/19347.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marketing Dive",
-        "domain": "marketingdive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-clearview-ai-close-to-being-awarded-a-us-patent-for-its-facial-recognition-tech.md",
-      "title": "Clearview AI close to being awarded a US patent for its facial recognition tech",
-      "excerpt": "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
-      "originalUrl": "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2021/12/2021-12-06-image-9.jpg",
-          "width": 2560,
-          "height": 1439,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
-      "publishedDateTime": "2021-12-06T08:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

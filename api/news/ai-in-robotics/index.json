@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-06-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman.md",
+      "title": "Australian man plans to marry robot after failing to find loving woman",
+      "excerpt": "Australian man wants to marry his expensive AI robot Emma and doesn't want to change anything about their relationship",
+      "sourceUrl": null,
+      "webUrl": "https://www.geo.tv/latest/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "originalUrl": "https://www.geo.tv/latest/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geo.tv/assets/uploads/updates/2022-01-05/l_391772_102300_updates.jpg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geo.tv/amp/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "cdnAmpWebUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "publishedDateTime": "2022-01-05T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geo News",
+        "domain": "www.geo.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-restaurant-robotics-shift-to-customer-facing-roles.md",
+      "title": "Restaurant Robotics Shift to Customer-Facing Roles",
+      "excerpt": "As labor challenges persist, restaurants are looking for solutions, and some tech companies are looking to bring robotics into customer-service roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/",
+      "originalUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/food-service-automation-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/amp/",
+      "publishedDateTime": "2022-01-05T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops.md",
       "title": "CES 2022: Roborock S7 MaxV Ultra Solves The Biggest Problem With Robot Mops",
       "excerpt": "Roborock has finally announced their latest robovac/mop and I couldn't be more excited. As much as I loved the Roborock S7 last year for its improved mopping capabilities and dock compatibility, it lacked the AI obstacle recognition of the S6 MaxV.",
@@ -1290,92 +1376,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-the-robot-work-force-isnt-coming-its-already-here.md",
-      "title": "The robot work force isn't coming. It's already here",
-      "excerpt": "Retailers and restaurants are looking to robots and other technology to keep up with demand amid a labor crunch and booming online sales.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106991733-1640019336314-IMG_1518.jpg?v=1640019644",
-          "width": 5952,
-          "height": 3968,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
-      "publishedDateTime": "2021-12-27T05:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022.md",
-      "title": "Pudu Robotics to Exhibit Leading Commercial Service Robots at CES 2022",
-      "excerpt": "Pudu Robotics, the global leader in commercial service robots, has announced it will participate in CES 2022, which will take place between January 5-8 in Las Vegas, Nevada, United States. Pudu Robotics will exhibit seven service robots at its booth,",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

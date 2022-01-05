@@ -2,6 +2,229 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-12-13-waymo-faces-competition-from-driverless-taxi-rivals.md",
+      "title": "Waymo faces competition from driverless taxi rivals",
+      "excerpt": "Companies including Ford Motor's Argo AI and General Motors' Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202112/13/WS61b6a977a310cdd39bc7aee4.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202112/13/WS61b6a977a310cdd39bc7aee4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202112/13/61b6a977a310cdd3d82052e6.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T02:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Daily",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-global-brain-cancer-surgery-and-radiation-therapy-market-research-2021.md",
+      "title": "Global Brain Cancer Surgery and Radiation Therapy Market Research 2021",
+      "excerpt": "The \"Surgery and Radiation Therapy in Brain Cancer - Market Insight, Competitive Landscape and Market Forecast - 2026\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24564999",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24564999",
+      "publishedDateTime": "2021-12-13T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist.md",
+      "title": "Chinese AI Giant SenseTime Remains Committed To IPO Despite U.S. Blacklist",
+      "excerpt": "Chinese artificial intelligence company SenseTime has decided to postpone its initial public offering in Hong Kong after it was put on a U.S. investment blacklist, although the company insists that it still intends to complete the listing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/",
+      "originalUrl": "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6f6a34d9d48fe56dda795%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/amp/",
+      "publishedDateTime": "2021-12-12T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-can-a-new-independent-institute-improve-the-ethics-of-ai.md",
+      "title": "Can a new independent institute improve the ethics of AI?",
+      "excerpt": "Former Google AI researcher Timnit Gebru is launching an independent AI institute to explore how the technology can exacerbate inequality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/",
+      "originalUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.maddyness.com/uk/app/uploads/2021/12/jackson-so-TQ3SgrW9lkM-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/?amp",
+      "cdnAmpWebUrl": "https://www-maddyness-com.cdn.ampproject.org/c/s/www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/?amp",
+      "publishedDateTime": "2021-12-12T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Maddyness",
+        "domain": "maddyness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting.md",
+      "title": "China’s AI giant SenseTime postpones IPO after US blacklisting",
+      "excerpt": "SenseTime, one of China’s most valuable AI solution providers, is putting its $767 million public listing on hold, the company said Monday. The announcement came three weeks after the Hong Kong Stock Exchange gave the go-ahead to SenseTime’s IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
+      "originalUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2018/08/sensetime1.jpg?w=1024",
+          "width": 1024,
+          "height": 546,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
+      "publishedDateTime": "2021-12-12T21:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-this-tiny-ai-powered-robot-is-learning-to-explore-the-ocean-on-its-own.md",
       "title": "This tiny AI-powered robot is learning to explore the ocean on its own",
       "excerpt": "A new Caltech robot could use machine learning to navigate through turbulent and unknown terrains in the ocean. The ocean is big, and our attempts to understand it are still largely surface-deep. According to the National Oceanic and Atmospheric Organization,",
@@ -897,238 +1120,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-chinese-ai-company-sensetime-delays-ipo-as-us-imposes-investment-ban.md",
-      "title": "Chinese AI Company SenseTime Delays IPO as U.S. Imposes Investment Ban",
-      "excerpt": "The Treasury Department formally placed SenseTime on a list of companies that support China’s military, barring Americans from investing in the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
-      "originalUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-449875/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetime-delays-ipo-as-u-s-prepares-investment-ban-11639150211",
-      "publishedDateTime": "2021-12-10T18:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-the-worlds-first-risc-v-gpu-could-be-on-the-horizon.md",
-      "title": "The world's first RISC-V GPU could be on the horizon",
-      "excerpt": "By creating GPUs specifically for RISC-V, it will be easier to conduct AI and machine learning work using chips featuring the architecture. However, by focusing on shaders, a GPU extension for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
-      "originalUrl": "https://www.techradar.com/uk/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/3KVYrh3xCBJEz6enRvignB-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
-      "publishedDateTime": "2021-12-10T17:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations.md",
-      "title": "Artificial Intelligence Being Used to Accurately Predict Synergistic Cancer Drug Combinations",
-      "excerpt": "VANCOUVER, BC, Dec. 10, 2021 /PRNewswire/ -- USA News Group - Researchers led by a scholar from City University of Hong Kong (CityU) have developed a novel artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/artificial-intelligence-being-used-to-accurately-predict-synergistic-cancer-drug-combinations-301442423.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.md",
-      "title": "Sega Toys, NeuroSky team up for \"mind-controlled\" toys",
-      "excerpt": "but Sega Toys (makers of freaky robots) and the brain-reading folks at NeuroSky have announced that they've teamed up in an effort to develop what they're only describing as \"mind-controlled tech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2007-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.html",
-      "originalUrl": "https://www.engadget.com/2007-12-11-sega-toys-neurosky-team-up-for-mind-controlled-toys.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T16:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-investing-in-the-future-burger-flipping-robots.md",
-      "title": "Investing in the Future: Burger-Flipping Robots?",
-      "excerpt": "Soon, that could include burger-flipping robots. Yes, you read that right. In this segment of Backstage Pass, recorded on Nov. 19, Motley Fool contributors Toby Bordelon and Rachel Warren discuss an innovative company called Miso Robotics that could soon change the way you order your fast-food burgers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/10/investing-in-the-future-burger-flipping-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/656059/gettyimages-954256282.jpg",
-          "width": 2120,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

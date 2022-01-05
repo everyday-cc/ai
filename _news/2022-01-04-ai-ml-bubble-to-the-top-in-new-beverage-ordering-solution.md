@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-be
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 117
 published: true
 
 provider:

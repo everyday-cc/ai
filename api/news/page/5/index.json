@@ -2,6 +2,207 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-30-2021-was-a-breakthrough-year-for-ai.md",
+      "title": "2021 was a breakthrough year for AI",
+      "excerpt": "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "publishedDateTime": "2021-12-29T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-ai-powered-stock-fund-bails-out-of-mega-cap-fang-names.md",
+      "title": "AI-Powered Stock Fund Bails Out of Mega-Cap FANG Names",
+      "excerpt": "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiJaIdn1hD8/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-california-company-tests-driverless-big-rig-truck-between-tucson-and-phoenix.md",
+      "title": "California company tests driverless big-rig truck between Tucson and Phoenix",
+      "excerpt": "The company claims its artificial intelligence software allows trucks to \"see\" 1,000 meters away, operate nearly continuously and achieve fuel savings of 10% or more compared to those driven manually.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azcentral.com/story/money/business/tech/2021/12/29/tusimple-completes-driverless-big-rig-truck-test-arizona/9044260002/",
+      "originalUrl": "https://www.azcentral.com/story/money/business/tech/2021/12/29/tusimple-completes-driverless-big-rig-truck-test-arizona/9044260002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/29/PPHX/a8ad51c7-2ee8-4726-a148-0c52165ac405-TuSimple_Truck_1.jpg?auto=webp&crop=2800,1575,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.azcentral.com/amp/9044260002",
+      "cdnAmpWebUrl": "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/9044260002",
+      "publishedDateTime": "2021-12-29T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Arizona Republic",
+        "domain": "azcentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-alibabas-research-academy-identifies-ai-applications-in-science-new-photonic-chips-as-top-tech-trends-for-2022.md",
+      "title": "Alibaba’s research academy identifies AI applications in science, new photonic chips as top tech trends for 2022",
+      "excerpt": "Artificial intelligence to improve scientific research and renewable energy, and photonics chips that work faster and use less energy, were two top future tech trends identified by Alibaba’s DAMO academy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3161430/alibabas-research-academy-identifies-ai-applications-science-new",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3161430/alibabas-research-academy-identifies-ai-applications-science-new",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/29/01828002-525c-4e1f-b3b0-3e4bdc8b4096_a3bd1f78.jpg?itok=ELW83iIu&v=1640772247",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3161430/alibabas-research-academy-identifies-ai-applications-science-new",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3161430/alibabas-research-academy-identifies-ai-applications-science-new",
+      "publishedDateTime": "2021-12-29T14:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-ibm-artificial-intelligence-supercomputer-watson-has-8-stock-picks-for-2022.md",
       "title": "IBM Artificial Intelligence Supercomputer Watson Has 8 Stock Picks For 2022",
       "excerpt": "It’s the time of year that investors consider which stocks to buy and sell to build their portfolio for the next 12 months.",
@@ -292,8 +493,8 @@
       "title": "Volkswagen improves the voice recognition rate of the Golf",
       "excerpt": "A more streamlined interface alongside an improved voice recognition system are in store for new examples of the Volkswagen Golf. The Volkswagen Golf will soon get an improved infotainment system. Due to go into series production in the next few weeks,",
       "sourceUrl": null,
-      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
-      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
+      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
+      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -975,188 +1176,6 @@
         "Natural Language Processing",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time.md",
-      "title": "Chinese AI Giant SenseTime’s IPO Comes at a Bad Time",
-      "excerpt": "SenseTime has developed strong AI technology. Next, it needs to figure out how to make money from it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "originalUrl": "https://www.wsj.com/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-456678/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinese-ai-giant-sensetimes-ipo-comes-at-a-bad-time-11640760363",
-      "publishedDateTime": "2021-12-28T21:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
-      "title": "India's Airtel, TCS tap robotics to build 5G-based units",
-      "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
-      "sourceUrl": null,
-      "webUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
-      "originalUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.developingtelecoms.com/images/stories/Places/India_-_train_journey.jpg",
-          "width": 600,
-          "height": 449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T21:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "developingtelecoms.com",
-        "domain": "developingtelecoms.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-mcdonalds-moves-closer-to-robot-drive-through-lanes.md",
-      "title": "McDonald's Moves Closer to Robot Drive-Through Lanes",
-      "excerpt": "McDonald's With a Side of IBM Watson IBM acquired McDonald's McD Tech ... Moving forward, IBM’s expertise in building customer care solutions with AI and natural language processing will help ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
-      "originalUrl": "https://www.thestreet.com/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgxMjQxNDgzNDU2Njg1NDE2/theranos_holmes_1_052421.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
-      "publishedDateTime": "2021-12-28T19:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-china-unveils-five-year-plan-for-robotics.md",
-      "title": "China unveils five-year plan for robotics",
-      "excerpt": "The five-year plan details the overarching goal of making China a key source of global robotics innovation by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/",
-      "originalUrl": "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/featured-web-qujar.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T18:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

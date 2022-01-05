@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-05T13:00:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-marketing-firm-expands-into-segmentation-big-data-machine-learning-and-artificial-intelligence/article_7d2da779-019a-51a4-a924-691d1fbbb0f8.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-marketing-firm-expands-into-segmentation-big-data-machine-learning-and-artificial-intelligence/article_7d2da779-019a-51a4-a924-691d1fbbb0f8.html"
 type: article
-quality: 33
+quality: 35
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Marketing
+  - AI in Finance
 
 related:
   - title: "Understanding The AI Market"

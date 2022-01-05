@@ -19,43 +19,42 @@ topics:
   - AI
 
 related:
-  - title: "AI-Powered Automation Can Be Both a Part of the Problem and Part of the Solution"
-    excerpt: "There are real security concerns that should be addressed ahead of further government adoption of a truly automated future."
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/01/ai-powered-automation-can-be-both-part-problem-and-part-solution/360294/"
+  - title: "Inspur Information Identified as a Strong Performer in AI Infrastructure Report"
+    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced today that Forrester, a leading global research company, released The Forrester Wave™: AI Infrastructure, Q4 2021, which identified Inspur Information as a Strong Performer and recognized its full-stack AI solutions."
+    publishedDateTime: 2022-01-04T14:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inspur-information-identified-as-strong-performer-ai-infrastructure-/2022/01/04/9519559.htm"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/03/aiNG20210103/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Green Hills Software with Apex.AI Offers Production-Focused Safe and Secure Automated Drive Software Platform Solutions"
-    excerpt: "Green Hills Software, the worldwide leader in embedded safety and security, in collaboration with Apex.AI, the leader in safety frameworks and middleware for mobility solutions, today announced the availability of their production-ready ROS 2-compatible development framework for safety and security-critical transportation solutions."
-    publishedDateTime: 2022-01-05T13:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/green-hills-software-with-apex-ai-offers-production-focused-safe-and-secure-automated-drive-software-platform-solutions-1031079063"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
+  - title: "Inspur Information Identified as a Strong Performer in AI Infrastructure Report"
+    excerpt: "Inspur Information was rated based on its current offerings, market presence, and strategy in the report which is a valuable reference for comparing AI infrastructure capabilities from top vendors. SAN JOSE,"
+    publishedDateTime: 2022-01-04T18:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220104005040/en/Inspur-Information-Identified-as-a-Strong-Performer-in-AI-Infrastructure-Report"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "Manually keying in patient data into fields is not only time-consuming and inefficient, but also can be inaccurate and unreliable. etherFAX AI reduces error rates associated with manual data entry by extracting information that is stored in unstructured document types,"
-    publishedDateTime: 2022-01-05T14:17:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20220104-etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its/"
+      name: Business Wire
+      domain: businesswire.com
+    quality: 15
+  - title: "WEKA Increases Funding to $140 Million to Accelerate AI Data Platform Adoption in the Enterprise"
+    excerpt: "WEKA, the data platform for AI, today announced that Hitachi Ventures led its recent round raising $73 million in funding, which brings the total amount raised to $140 million. Other investors participating in this round were strategic investors,"
+    publishedDateTime: 2022-01-04T14:57:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-weka-increases-funding-140-million-accelerate-ai-data-/2022/01/04/9519618.htm"
     type: article
     provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 6
-    images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1641334305/press_release/assets/company_logos/etherFAX-graphic-350x350_bzrxac.jpg"
-        width: 400
-        height: 400
-        isCached: true
+  - title: "WEKA Increases Funding to $140 Million to Accelerate AI Data Platform Adoption in the Enterprise"
+    excerpt: "WEKA, the data platform for AI, today announced that Hitachi Ventures led its recent round raising $73 million in funding, which brings the total amou"
+    publishedDateTime: 2022-01-04T18:55:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220104005382/en/WEKA-Increases-Funding-to-140-Million-to-Accelerate-AI-Data-Platform-Adoption-in-the-Enterprise"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 6
 
 secured: "kfodtCP8qjSHnumNVtBeeK40zcy9ZZwaT+1h7zakwCdWG9EixD68A3puE8YO1W0NoqyC3s/P2VrMoa0rIzUJ4sA73mhw6RaB1P9SstEnY+NYSjCMKVRBj2ymZm6Fw/j3rwu1/OobDXvs9TD9mImv12gH1TNAKEMhv9/9mvWG0L2JW39Am1JH7Z62R7pfbkxjstqWo70CsP61lL/LxJcIehQorGEZncSWJi/cX2ceCpEtcSs8wPsx74kW7sfk6XRZft5+hB6YdrqodCW9O/Hdh9RvnS3BLZeWNNEogpSOwdL0tmG0f1qGo+fAJ9hvtpBAmWQJTLWjHMxoOA3sZDVuA2+cYgXGxAOBqFhXny5FZK3JzWmoV0kDBtvJTcIbGVjwV/fv5fzf63GGjxot6zHKK0PKc2hnHyC/J/BeGiNgCx6hGIPk0fffrML5Iglv5q3wQFsfq+uIG9FhbO8IHiZ9PBiPMSYz+m2TX98e9uyrYNRVfQ6JBGJS7b5CQbT8U60CtL5Mc2nLOirL2+RjdkV2kA==;CrGMeQCd4CKlTiG1wxyIrg=="
 ---

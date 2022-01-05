@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-bill
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/amp/"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 817
     isCached: true
-
-related:
-  - title: "SenseTime’s red-hot start makes Tang one of world’s richest"
-    excerpt: "SenseTime Group Inc co-founder Tang Xiao’ou has become one of the world’s richest people, after the Chinese artificial intelligence (AI) champion blew past concerns about American sanctions to surge as much as 23% on its Hong Kong debut."
-    publishedDateTime: 2022-01-01T01:29:00Z
-    webUrl: "https://www.thestar.com.my/business/business-news/2022/01/01/sensetimes-red-hot-start-makes-tang-one-of-worlds-richest"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 22
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/01/1427541.jpg"
-        width: 1240
-        height: 826
-        isCached: true
 
 secured: "LndF8KMaS3jbUohuaJa5j0+1f/4jAr6tYB/Jv/guYfDZTUxfzEFhe3S8GS4kaXKJ49Hi09JmSu0Ohdmi2jXa2rFdyJx7P5+x/4Ka1ofFCATx0zWvUx+caRwKhER++Uxx7NWzeUEEKckjVWfuBtLbI4/3NgifqPJijNsD4Uuno6E8cVVqvQGRwvY/ckG0TuSQdS22SivZ52P0DNWDtvDIycoP9G+aJMymp2LodAdDosgkLnXMFUy+gosa9XhcyIs5gaI5+tlG51qQiJCkzLvXVxtuKaIp2XmsJbu4Fn4rnb6GM6yrIDGEJtpBT6xa7pIFfORY7KLX3QG0BfTxpvxftns62/4bKZ+QiDkHJVY43mwqI/n1qBctu/VlD+RBXrM0IvYFPp1RzFHkZSSIO9E/UfestomBYO5/xmtAfq3wKLDWnUINMTqFS5dwZlYqaR/8XAzkH9WKk1zMbDU2yhhOGeCbCPC3hUcYvhnBgVYQOKzd4t+tIuqj42e/gtmUEwA4hgPHKsmoEwFqNhaW78S21Q==;KuUmg2GPLTmqXXkkxWBLtA=="
 ---

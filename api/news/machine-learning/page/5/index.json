@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-02-study-shows-how-machine-learning-could-improve-covid-19-predictive-models.md",
+      "title": "Study shows how machine learning could improve COVID-19 predictive models",
+      "excerpt": "Throughout the COVID-19 pandemic, case rates have ebbed and flowed in ways that have been hard for epidemiological models to predict. A new study by mathematicians from Brown University uses an advanced machine learning technique to explore the strengths and weaknesses of commonly used models,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-machine-covid-.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-machine-covid-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/digitalnetwo.jpg",
+          "width": 1920,
+          "height": 1357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-machine-covid-.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-machine-covid-.amp",
+      "publishedDateTime": "2021-12-01T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-evolution-of-crestas-machine-learning-architecture-migration-to-aws-and-pytorch.md",
       "title": "Evolution of Cresta’s machine learning architecture: Migration to AWS and PyTorch",
       "excerpt": "Cresta Intelligence, a California-based AI startup, makes businesses radically more productive by using Expertise AI to help sales and service teams unlock their full potential. Cresta is bringing together world-renowned AI thought-leaders, engineers, and investors to create a real-time coaching and",
@@ -1358,50 +1401,6 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights.md",
-      "title": "Using machine learning and natural language processing to measure consumer reviews for product attribute insights",
-      "excerpt": "The study, forthcoming in the Journal of Marketing, is titled “Attribute Embedding: Learning Hierarchical Representations of Product Attributes from Consumer Reviews” and is authored by Xin (Shane) Wang,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "originalUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/11/newswise-logo-square.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "publishedDateTime": "2021-11-23T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
         "Machine Learning"
       ]
     }

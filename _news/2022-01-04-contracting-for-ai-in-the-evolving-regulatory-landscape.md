@@ -108,7 +108,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 33
+    quality: 35
 
 secured: "nRL7weWH023RB2Xi0kQml6JSc44I7iwHTiiSiQ01XjIyP+Zoa+hmMt8pGIEkSA0QA180Y7ukj+HcXSa9U46/yu/Ay9mNgYJRIC8x4tkBKM8PL+8XVBWfveJxEUXOlLir7bOtwlTcWeYmP5eemUeTd8TGZhZB1YQeVDymgSgUUIoU786XFY8cIdrtZELyqDe8Fi8BRZ/Xybwt9M2A2PE0njsetSN7UXOgv9j4cFMGwLVklbJvdY89bXkVjvpN7wcTX98qcVq5VDqBzgED2wb03lzbyybwpeFjGdQ5o3ygBN8JH6cjb6vvRjIK6DofdzoGEs+2VoESqtrxOsmXjhzL0LGQpKqX1mnl0tu1kayZG9xgHo7yY9024NEWENC+oXZmr+ErV54SnqIyFkzkqUhsjff6Qxy6Mm1HMmGBCjUh+Y485qrnT8bGamPOI0joxBUpav/H93piFInOcYeCf1v5fwd7yrDykKCN7PvXSboZKdDrZhI58GyyBpMoBIusJq4856zqdgsmGauDSVbgXbBEug==;gWanfPENWo8Z0iHc3UesIw=="
 ---

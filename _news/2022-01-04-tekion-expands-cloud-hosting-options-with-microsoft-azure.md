@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm and Microsoft collaborate on custom chips for AR glasses"
+    excerpt: "Qualcomm announced its intentions to integrate software platforms with Microsoft at Tuesday's CES 2022 keynote."
+    publishedDateTime: 2022-01-05T17:40:00Z
+    webUrl: "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 91
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2022/01/05/d15a4544-a48e-4c75-b83d-46c610541963/resize/1200x/3c064522004e0f70855c4f2157fd60fe/ar-glasses.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud"
     excerpt: "In June 2021, Microsoft and AT&T reached a major milestone when we announced an industry-first collaboration to adopt Microsoft cloud technology for AT&T’s 5G core network workloads. Since then, we have had requests from many operators, partners, and customers to share more details. This blog is intended"
     publishedDateTime: 2022-01-04T08:00:08Z
@@ -53,36 +69,6 @@ related:
         width: 640
         height: 480
         isCached: true
-  - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft"
-    excerpt: "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S"
-    publishedDateTime: 2022-01-04T09:48:00Z
-    webUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 69
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?133056"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Wejo developing vehicle data processing platform with Microsoft"
-    excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
-    publishedDateTime: 2022-01-05T12:37:00Z
-    webUrl: "https://seekingalpha.com/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 59
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "The future of medtech goes beyond Microsoft’s AI creep"
     excerpt: "If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.7bn last April. Nuance is a UK based speech-recognition company best known for having provided the speech recognition engine that powers Siri,"
     publishedDateTime: 2022-01-04T14:20:00Z
@@ -97,6 +83,20 @@ related:
         width: 464
         height: 348
         isCached: true
+  - title: "Annata and Microsoft deliver new retail and mobility services"
+    excerpt: "Iceland-based technology provider Annata has expanded its long-standing partnership with Microsoft to develop new retail and mobility services. The firm will enhance the Annata 365 cloud platform with new services to enable those involved in vehicle manufacturing and supply to upgrade legacy systems and better engage with customers."
+    publishedDateTime: 2022-01-05T10:16:00Z
+    webUrl: "https://www.technologyrecord.com/Article/annata-and-microsoft-deliver-new-retail-and-mobility-services-127836"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 54
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10658/img-Unsplash_Chris-Bair_road_vehicles_car_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
   - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
     excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
     publishedDateTime: 2022-01-04T19:00:00Z
@@ -106,6 +106,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 34
+  - title: "Annata expands Microsoft collaboration to drive data and mobility services in automotive industry"
+    excerpt: "Annata is deepening their collaboration with Microsoft to further develop and bring to market solutions to enable the transformation of automotive distribution and retail with next-generation retail and mobility services."
+    publishedDateTime: 2022-01-04T19:05:00Z
+    webUrl: "https://www.publicnow.com/view/FDA572032D8621AF142C8E45870D13C9B5EBC453"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 6
 
 secured: "oBYcHokRQSFA1KLZf93IWWqx2phiXtUUWmM792kFXqjLo9E4XDAXunsPNXktGu7m+O+IzIPDTPk44TqU8p7dbsIcZl+cmWZTXffvDYFT8uJg8C/io+iK94h2VS0KqGg9O3SmjTi5ULkfb9Wuj4LpxA5LwiwB3FVmNZT6qAwlaqohTKMDCxgWpKOS+U2/drt9H7TXUiM5tMX61ne+hI8s2mlMmLtE3rSomsHZimbDq6CvbJm+w4qqZfKoE61/fUL7FOBTqNKP2Ua2VlUG34PsqCUgXfMaTPLr2I/HA9ZYhoP8F9bVkeLwE75mIJqbEYbohvqPcmXNwyqEzWy1p9OQysn2cTFvcY5WX7aQycsKDsM=;L+ZME4o4AhnDwpiqhoywFQ=="
 ---

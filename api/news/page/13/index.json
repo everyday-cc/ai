@@ -2,6 +2,232 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-12-21-these-will-be-the-5-most-in-demand-tech-jobs-in-2022.md",
+      "title": "These will be the 5 most in-demand tech jobs in 2022",
+      "excerpt": "So, if you’re wondering what the most in demand tech jobs will be in 2022 ... A data scientist’s job is to use machine learning to predict and analyze data. Specific tasks include things ...",
+      "sourceUrl": null,
+      "webUrl": "https://insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/",
+      "originalUrl": "https://venturebeat.com/2021/12/21/these-will-be-the-5-most-in-demand-tech-jobs-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insights.dice.com/wp-content/uploads/2021/04/shutterstock_1379131412.jpg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/?amp",
+      "cdnAmpWebUrl": "https://insights-dice-com.cdn.ampproject.org/c/s/insights.dice.com/2022/01/04/what-tech-jobs-demand-a-i-and-machine-learning-skills-in-2022/?amp",
+      "publishedDateTime": "2021-12-21T03:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-microsoft-partners-with-royal-spanish-academy-for-language-resources.md",
+      "title": "Microsoft partners with Royal Spanish Academy for language resources",
+      "excerpt": "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709",
+      "originalUrl": "https://www.technologyrecord.com/Home/microsoft-partners-with-royal-spanish-academy-for-language-resources-127709",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10652/img-Microsoft-REA-partnership_940x443.jpg",
+          "width": 940,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "technologyrecord.com",
+        "domain": "technologyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-aws-offers-free-online-course-in-machine-learning.md",
+      "title": "AWS Offers Free Online Course in Machine Learning",
+      "excerpt": "AWS is offering a free online course called Math for Machine learning which can be taken up by anybody who is interested",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
+      "originalUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/02/Books-on-machine-learning.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/aws-offers-free-online-course-in-machine-learning/amp/",
+      "publishedDateTime": "2021-12-21T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals.md",
+      "title": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals",
+      "excerpt": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals. Program to work on creating products and solutions from research. Take courses under Pro",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
+          "width": 1577,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T02:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
+      "title": "What Does An AI Actually Think Of AI Ethics?",
+      "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
+      "sourceUrl": null,
+      "webUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "originalUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
+      "publishedDateTime": "2021-12-21T01:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BOOM",
+        "domain": "boomlive.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-explained-why-eu-needs-to-invest-in-chip-design-and-packaging.md",
       "title": "Explained: Why E.U. needs to invest in chip design and packaging",
       "excerpt": "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China.",
@@ -912,239 +1138,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights.md",
-      "title": "Reinventing Game Day: How The Bundesliga Uses Machine Learning To Deliver Real-Time, Data-Driven Soccer Insights",
-      "excerpt": "Machine learning is making this level of insight on matches possible for hundreds of millions of soccer fans globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/",
-      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0c778170ebe018990ec14%2F0x0.jpg",
-          "width": 1200,
-          "height": 737,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/",
-      "publishedDateTime": "2021-12-20T09:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech.md",
-      "title": "Overjet sinks its teeth into another round of capital for its dental AI tech",
-      "excerpt": "Just four months after announcing $27 million in Series A funding, Overjet, a company developing dental artificial intelligence software, came forward again with another $42.5 million in Series B financing backed by existing investors.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/",
-      "originalUrl": "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Overjet_Clinical_Intelligence_Platform.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/20/overjet-sinks-its-teeth-into-another-round-of-capital-for-its-dental-ai-tech/amp/",
-      "publishedDateTime": "2021-12-20T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-oracle-to-buy-cerner-for-283-bln-in-healthcare-sector-push.md",
-      "title": "Oracle to buy Cerner for $28.3 bln in healthcare sector push",
-      "excerpt": "Business software maker Oracle Corp said on Monday it would buy Cerner Corp for $28.3 billion in its biggest ever deal, gaining access to a trove of data from one of the biggest healthcare IT firms in the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
-      "originalUrl": "https://www.reuters.com/markets/us/oracle-buy-cerner-28-bln-2021-12-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/N2smgO867k2IbN2cIg-RJe6iHXI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/56HHVKWINZOFND6QDCR6OVOAWQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T08:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-ai-in-pharma-market-past-research-deep-analysis-and-present-data-with-ibm-watson-health-alphabet-inc-concreto-healthai.md",
-      "title": "AI In Pharma Market Past Research, Deep Analysis and Present Data With IBM Watson Health; Alphabet Inc.; Concreto HealthAI",
-      "excerpt": "The Global AI In Pharma Market is expected to grow at a significant CAGR of 31.4% by 2028. Growing adoption of artificial intelligence (AI) for clinical trials, increased use of artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-pharma-market-past-research-deep-analysis-and-present-data-with-ibm-watson-health-alphabet-inc-concreto-healthai",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-pharma-market-past-research-deep-analysis-and-present-data-with-ibm-watson-health-alphabet-inc-concreto-healthai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2021/12/AI-In-Pharma.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-rigetti-provides-business-update-and-nine-month-2021-financial-highlights.md",
-      "title": "Rigetti Provides Business Update and Nine-Month 2021 Financial Highlights",
-      "excerpt": "Rigetti Computing (“Rigetti” or the “Company”), a pioneer and leader in hybrid quantum-classical computing, today announced business highlights for the year to date and financial highlights for the nine months ended October 31,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8415388/rigetti-provides-business-update-and-nine-month-2021-financial-highlights",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8415388/rigetti-provides-business-update-and-nine-month-2021-financial-highlights",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

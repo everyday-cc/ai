@@ -25,38 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI-Powered Automation Can Be Both a Part of the Problem and Part of the Solution"
-    excerpt: "There are real security concerns that should be addressed ahead of further government adoption of a truly automated future."
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/01/ai-powered-automation-can-be-both-part-problem-and-part-solution/360294/"
+  - title: "Machinery Makers Invest in Automation"
+    excerpt: "Demand for big iron is booming, fueled by the rebounding global economy and the Biden administration’s infrastructure initiative. That’s good news for manufacturers of tractors and other types of agricultural and construction equipment."
+    publishedDateTime: 2022-01-04T16:32:00Z
+    webUrl: "https://www.assemblymag.com/articles/96812-machinery-makers-invest-in-automation"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
+      name: Assembly Mag
+      domain: assemblymag.com
+    quality: 24
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/03/aiNG20210103/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://www.assemblymag.com/ext/resources/Issues/2022/jan/machinery/asb0122machinery1.jpg?height=635&t=1641313476&width=1200"
+        width: 1170
+        height: 500
         isCached: true
-  - title: "Green Hills Software with Apex.AI Offers Production-Focused Safe and Secure Automated Drive Software Platform Solutions"
-    excerpt: "Green Hills Software, the worldwide leader in embedded safety and security, in collaboration with Apex.AI, the leader in safety frameworks and middleware for mobility solutions, today announced the availability of their production-ready ROS 2-compatible development framework for safety and security-critical transportation solutions."
-    publishedDateTime: 2022-01-05T13:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/green-hills-software-with-apex-ai-offers-production-focused-safe-and-secure-automated-drive-software-platform-solutions-1031079063"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 23
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "PRNewswire-PRWeb/ -- etherFAX today announced an artificial intelligence (AI) solution that facilitates advanced capabilities of searchable PDF, OCR, and other Key Value Pairs. These new"
-    publishedDateTime: 2022-01-04T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its-artificial-intelligence-solution-for-automated/article_ac564166-2a4e-5bb7-9d54-6fdbb9c9ec36.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "w1Nboa5FgjSXY7ZQc9T9mfHnGa0FfA6ppb8l7r6uvjH0/GWAPBVcxHZVlS2rkdGvEFSfpap3b3MRBGGfQS2m4V1bGGh+z6wnO1I9nkVmlVT04AIVbxAsOWA7NbA5bqseOaD2BC8nLd8Qgf640lwOihmBeuUNvZ36emZm2LDoekDQwf717HMI5C4rDivFYwURs9IT0GtZc4HZtqyfkHeMjxv7z9CcjZ/flIPX6MpoBnqlLt5Ey9AnLvOrSuJhQNS+gR5x+qTa/krol5Mh1YwcY63r/dXqKPErZM9g4pjV/2kBld1ep9HoUR8djz9bzrir7osuQ/Ux1pTHxllOY8X49oLNNLbYTZ0Zt0bVUk9m7iE=;r3LkOf4ayYEueupsdvm3Aw=="
 ---

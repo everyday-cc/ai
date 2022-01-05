@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-05-ces-2022-ai-is-driving-innovation-in-smart-tech.md",
-      "title": "CES 2022: AI is driving innovation in ‘smart’ tech",
-      "excerpt": "At CES 2022, a slew of smart tech innovations driven by AI and aimed at improving lives and businesses, are being unveiled publicly.",
+      "path": "_news/2022-01-06-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman.md",
+      "title": "Australian man plans to marry robot after failing to find loving woman",
+      "excerpt": "Australian man wants to marry his expensive AI robot Emma and doesn't want to change anything about their relationship",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/",
-      "originalUrl": "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/",
+      "webUrl": "https://www.geo.tv/latest/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "originalUrl": "https://www.geo.tv/latest/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1322183741.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
+          "url": "https://www.geo.tv/assets/uploads/updates/2022-01-05/l_391772_102300_updates.jpg",
+          "width": 700,
+          "height": 390,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/",
-      "publishedDateTime": "2022-01-05T07:59:00-08:00",
+      "ampWebUrl": "https://www.geo.tv/amp/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "cdnAmpWebUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "publishedDateTime": "2022-01-05T10:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Geo News",
+        "domain": "www.geo.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses.md",
+      "title": "Qualcomm and Microsoft collaborate on custom chips for AR glasses",
+      "excerpt": "Qualcomm announced its intentions to integrate software platforms with Microsoft at Tuesday's CES 2022 keynote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "originalUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/05/d15a4544-a48e-4c75-b83d-46c610541963/resize/1200x/3c064522004e0f70855c4f2157fd60fe/ar-glasses.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
+      "publishedDateTime": "2022-01-05T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,6 +92,206 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma.md",
+      "title": "CES 2022: Bosch tests deep audio AI developed on the ISS to detect asthma",
+      "excerpt": "Doctors will use a high-resolution microphone to record children as they speak and breathe to look for breathing problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/",
+      "originalUrl": "https://www.techrepublic.com/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/05/71827816-518b-472c-af88-edd717df8b36/resize/1200x/a155db81a2a1570f394412fb32f2f529/370a4810.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/",
+      "publishedDateTime": "2022-01-05T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-qualcomm-aims-to-serve-next-gen-cars-with-snapdragon-ride-vision-and-digital-chassis.md",
+      "title": "Qualcomm aims to serve next-gen cars with Snapdragon Ride Vision and Digital Chassis",
+      "excerpt": "Companies like the Intel's Mobileye, graphics giant Nvidia, and Qualcomm are all using CES 2022 to announce their newest offerings for the automotive industry, as well",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
+      "originalUrl": "https://www.techspot.com/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-05-image-14.jpg",
+          "width": 1376,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
+      "publishedDateTime": "2022-01-05T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here.md",
+      "title": "CES 2022: Watch GM's self driving car reveal and more big reveals here",
+      "excerpt": "GM will be kicking off Wednesday's CES day, and you can watch reveals from LG, Samsung and more. CES 2022 is underway, with the convention officially opening in Las Vegas Wednesday along with a digital experience for those who can't make it to the show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/F0An6NSLRV65zUiUBzE-y_7oV-M=/286x0:1286x499/1200x630/2021/12/16/bb0fe850-bbfe-4645-8fa1-ad20d3b775ff/ces-2022-desktop-hero-final2.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "publishedDateTime": "2022-01-05T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-restaurant-robotics-shift-to-customer-facing-roles.md",
+      "title": "Restaurant Robotics Shift to Customer-Facing Roles",
+      "excerpt": "As labor challenges persist, restaurants are looking for solutions, and some tech companies are looking to bring robotics into customer-service roles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/",
+      "originalUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/02/food-service-automation-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/restaurant-technology/2022/restaurant-robotics-shift-to-customer-facing-roles/amp/",
+      "publishedDateTime": "2022-01-05T08:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -155,7 +398,7 @@
       "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -361,7 +604,7 @@
       "originalUrl": "https://www.asiaone.com/business/bairong-inc-named-kpmgs-china-fintech-50-list-sixth-consecutive-year",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -558,7 +801,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -609,7 +852,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -1005,257 +1248,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ces-2022-hyperxs-new-wireless-gaming-headset-runs-for-300-hours.md",
-      "title": "CES 2022: HyperX's new wireless gaming headset runs for 300 hours",
-      "excerpt": "HyperX is no stranger to the gaming-headset space, having created some of the best gaming headsets of the last decade or so. Now the company has introduced the HyperX Cloud Alpha Wireless, which cuts the cord from the tried-and-true HyperX Cloud Alpha.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ces.tech/Logistics/Dates-and-Hours.aspx",
-      "originalUrl": "https://www.tomsguide.com/news/ces-2022-hyperx-cloud-alpha-wireless",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ces.tech/ces/media/topics/tech-good-nav_580x204.png?ext=.png",
-          "width": 580,
-          "height": 204,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-intel-launches-its-arc-graphics-chips-for-pc-gaming.md",
-      "title": "Intel launches its Arc graphics chips for PC gaming",
-      "excerpt": "Intel aims to disrupt the duopoly of Nvidia and Advanced Micro Devices with its own Arc standalone graphics chips launching today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch-7.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
-      "publishedDateTime": "2022-01-04T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-the-convergence-of-deep-neural-networks-and-immunotherapy.md",
-      "title": "The convergence of deep neural networks and immunotherapy",
-      "excerpt": "What do deep neural networks and cancer immunotherapy have in common? While both are among the most transformational areas of modern science, 30 years ago, these fields were all but ridiculed by the scientific community.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/",
-      "originalUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1280246102.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/amp/",
-      "publishedDateTime": "2022-01-04T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-tech-predictions-for-2022-cloud-data-cybersecurity-ai-and-more.md",
-      "title": "Tech Predictions for 2022: Cloud, Data, Cybersecurity, AI, and More",
-      "excerpt": "“Enterprises will empower business users to become data analysts by applying well-trained natural language processing (NLP) and machine learning technologies, and implementing richly curated data catalogs to unleash the power of complex analytic",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
-      "originalUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/business-meeting-tech-analytics.jpeg",
-          "width": 1920,
-          "height": 1362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T10:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-with-intel-mobileyes-newest-chip-automakers-can-bring-automated-driving-to-cars.md",
-      "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars",
-      "excerpt": "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/21065_ME_CHIP_EyeQ-Ultra.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
-      "publishedDateTime": "2022-01-04T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

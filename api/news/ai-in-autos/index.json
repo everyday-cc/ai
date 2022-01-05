@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-06-ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here.md",
+      "title": "CES 2022: Watch GM's self driving car reveal and more big reveals here",
+      "excerpt": "GM will be kicking off Wednesday's CES day, and you can watch reveals from LG, Samsung and more. CES 2022 is underway, with the convention officially opening in Las Vegas Wednesday along with a digital experience for those who can't make it to the show.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/F0An6NSLRV65zUiUBzE-y_7oV-M=/286x0:1286x499/1200x630/2021/12/16/bb0fe850-bbfe-4645-8fa1-ad20d3b775ff/ces-2022-desktop-hero-final2.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "publishedDateTime": "2022-01-05T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-john-deeres-self-driving-tractor-arrives-later-this-fall.md",
       "title": "John Deere’s self-driving tractor arrives later this fall",
       "excerpt": "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing.",
@@ -175,58 +227,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
       "publishedDateTime": "2022-01-03T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-self-driving-cars-2021-year-in-review.md",
-      "title": "Self-Driving Cars 2021 Year In Review",
-      "excerpt": "Here's a countdown of the 10 1/2 big stories of 2021 in self-driving cars — Cruise, Waymo, Apple, China, San Francisco, Delivery, Trucking — it's all here and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d3314f1796ff555ece8da2%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/",
-      "publishedDateTime": "2022-01-03T08:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

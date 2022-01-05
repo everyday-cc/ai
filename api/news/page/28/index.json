@@ -2,6 +2,239 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-12-09-transient-review-ps4-a-lovecraftian-story-set-in-a-cyberpunk-world-that-doesnt-do-either-one-justice.md",
+      "title": "Transient Review (PS4) – A Lovecraftian Story Set In A Cyberpunk World That Doesn’t Do Either One Justice",
+      "excerpt": "Transient is a Cyberpunk Lovcraftien horror story that is too confusing to follow and leaves a lot to be desired. Read our Transient PS4 review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psu.com/reviews/transient-review-ps4/",
+      "originalUrl": "https://www.psu.com/reviews/transient-review-ps4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.psu.com/wp/wp-content/uploads/2020/08/transient-ps4-news-reviews-videos.jpg",
+          "width": 1214,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Play Station Universe",
+        "domain": "psu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds.md",
+      "title": "Timekettle WT2 Edge: 1st Bi-Directional Simultaneous AI Translation Earbuds",
+      "excerpt": "For example, if we are in conference with foreign-language speakers, we normally have such kind of sense that we have to wait for the translation for a long time once we use some translation tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
+      "originalUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/676729/image.png",
+          "width": 602,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-berlin-is-leading-germany-in-ai-startups.md",
+      "title": "Berlin is Leading Germany in AI Startups",
+      "excerpt": "Berlin is actively taking part in this AI revolution of new startups and cutting-edge research. With a total of more than 300 AI companies, the city is a European center for innovators and visionaries in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/sponsored/berlin-leading-germany-ai-startups",
+      "originalUrl": "https://www.newsweek.com/sponsored/berlin-leading-germany-ai-startups",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1948190/berlin-main-second.jpg",
+          "width": 1387,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T02:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-empowering-enterprises-via-ict-miind-strategy.md",
+      "title": "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence empowering Enterprises via ICT-MiiND Strategy",
+      "excerpt": "In turn, the CAHK STAR Awards 2021 \"Best Innovation for Future Enterprise - Gold\" highlights the game-changing significance of CITIC Telecom CPC's AI-enabled Cognitive Object Recognition System ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering",
+      "originalUrl": "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/asiaone_default.jpg?itok=yY5XVIZh",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp",
+      "publishedDateTime": "2021-12-09T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-focus-robotaxi-race-opens-up-as-top-contender-waymo-in-low-gear-in-arizona.md",
+      "title": "FOCUS-Robotaxi race opens up as top contender Waymo in low gear in Arizona",
+      "excerpt": "Companies including Ford Motor Co’s Argo AI and General Motors Co’s Cruise are competing for the billions of dollars in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the field.",
+      "sourceUrl": null,
+      "webUrl": "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM",
+      "originalUrl": "https://cn.reuters.com/article/alphabet-waymo-idCNL1N2ST1XM",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20211208&t=2&i=1584054208&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB714Y",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2ST1XM",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2ST1XM",
+      "publishedDateTime": "2021-12-09T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-the-power-of-ai-can-be-unleashed-with-a-focus-on-ethics.md",
       "title": "The power of AI can be unleashed with a focus on ethics",
       "excerpt": "An EY survey reveals the public’s concerns around the growing use of artificial intelligence – but also the opportunities for organisations that take the right ethical approach.",
@@ -914,229 +1147,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-microsoft-corporation-msft-presents-at-ubs-2021-global-tmt-conference-transcript.md",
-      "title": "Microsoft Corporation (MSFT) Presents at UBS 2021 Global TMT Conference (Transcript)",
-      "excerpt": "UBS 2021 Global TMT Conference December 08, 2021 12:00 PM ET Company Participants Corey Sanders - Corporate VP, Microsoft Commercial Solution",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "publishedDateTime": "2021-12-08T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-new-windows-11-build-tests-voice-access-spotlight-backgrounds.md",
-      "title": "New Windows 11 build tests Voice Access, Spotlight backgrounds",
-      "excerpt": "Microsoft's Windows 11 Insider Build 22518 adds Voice Access for controlling your PC with your voice. Plus a new \"Spotlight\" background feature has been added, and Widgets has been reworked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html",
-      "originalUrl": "https://www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2021/12/Voice-access-tutorial.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html/amp",
-      "publishedDateTime": "2021-12-08T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-deepmind-says-its-new-language-model-can-beat-others-25-times-its-size.md",
-      "title": "DeepMind says its new language model can beat others 25 times its size",
-      "excerpt": "RETRO uses an external memory to look up passages of text on the fly, avoiding some of the costs of training a vast neural network",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/",
-      "originalUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2021/12/gettyimages-80602579.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2021/12/08/1041557/deepmind-language-model-beat-others-25-times-size-gpt-3-megatron/amp/",
-      "publishedDateTime": "2021-12-08T10:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership.md",
-      "title": "More access to mental health support for Canadians with new Canada Life-Dialogue partnership",
-      "excerpt": "Canada Life and virtual healthcare and wellness platform firm Dialogue Health Technologies have jointly announced that Dialogue’s internet-based cognitive ... with services provided by Dialogue.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856",
-      "originalUrl": "https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/12/GettyImages-1319230455.jpg",
-          "width": 755,
-          "height": 463,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/more-access-to-mental-health-support-for-canadians-with-new-canada-life-dialogue-partnership/467856?amp=1",
-      "publishedDateTime": "2021-12-08T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-cybersecurity-ai-startup-cyberq-secures-5mm-to-automate-ai-data-solutions.md",
-      "title": "CyberSecurity AI startup CyberQ secures 5Mm to automate AI data solutions",
-      "excerpt": "CyberQ Technologies Inc. has raised 5Mm in seed funding to expand its expert team of outcome based solution providers.Turing Technology Group (TTG) led the seed round. The new funding will help grow the team and expand recruiting,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-d612b1c80cb008b4cc1c07b6da2099fe",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-d612b1c80cb008b4cc1c07b6da2099fe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T10:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
+    excerpt: "BEIJING, Jan. 5, 2022 /PRNewswire/ -- Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year. It is also ..."
+    publishedDateTime: 2022-01-05T18:15:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595359"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 36
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "Fintech Led VC Investment Last Year. Here’s What To Look For In 2022"
     excerpt: "Financial services was the leading sector for venture investment in 2021 with $134 billion invested, marking a whopping 177 percent year-over-year growth. That compares with overall global venture capital investment,"
     publishedDateTime: 2022-01-04T13:30:00Z

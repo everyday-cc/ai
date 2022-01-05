@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-11-evolution-gym-sculpts-novel-robot-bodies-and-brains.md",
+      "title": "Evolution Gym Sculpts Novel Robot Bodies and Brains",
+      "excerpt": "But they usually design an animal-like robot body first and then train an AI to control it. In living creatures, though, the body and brain evolve together to tackle complex tasks. So some researchers are borrowing a page from nature’s playbook to design intelligent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
+      "originalUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/0197E040-CFB2-4AE4-99DF0AE00817D3CA.jpg",
+          "width": 790,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
+      "publishedDateTime": "2021-12-10T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-jacksonville-dentist-goes-next-level-with-robot-assisted-dental-surgery.md",
+      "title": "Jacksonville dentist goes next-level with robot-assisted dental surgery",
+      "excerpt": "Even though the technology is robotic, Arauz maintains control at all times ... but takes advantage of the human mind in the brilliant aspect,\" said Arauz. Arauz received Yomi in February ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
+      "originalUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/02/NJDN/a0c0e71d-9897-4de8-9847-c29fada6ae52-drarauz.jpg?auto=webp&crop=959,540,x0,y128&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jdnews.com/amp/8768281002",
+      "cdnAmpWebUrl": "https://amp-jdnews-com.cdn.ampproject.org/c/s/amp.jdnews.com/amp/8768281002",
+      "publishedDateTime": "2021-12-10T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jacksonville Daily News",
+        "domain": "jdnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-codifying-humanity-why-ai-sucks-at-content-moderation.md",
       "title": "Codifying humanity: Why AI sucks at content moderation",
       "excerpt": "Meta unveiled a new content moderation AI system that it claims is a step towards generalized AI systems. We think they might be exaggerating.",
@@ -1282,102 +1368,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body.md",
-      "title": "Ameca humanoid robot puts AI in a gender-neutral, ‘non-threatening’ body",
-      "excerpt": "Artificial intelligence, or AI, is one of the most prolific areas of research in several fields. AI has vast potential to improve medicine and many other fields of research. Typically, an AI lives",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
-      "originalUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ameca-ab-robot-hand.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/ameca-humanoid-robot-puts-ai-in-a-gender-neutral-non-threatening-body-06701342/amp/",
-      "publishedDateTime": "2021-12-06T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-smart-robot-market-2021-2028.md",
-      "title": "Smart Robot Market 2021-2028",
-      "excerpt": "The global smart robot market size is expected to reach USD 31.11 billion by 2027, exhibiting a CAGR of 23.1% during the forecast period. Rapid industrialization coupled with intelligent infrastructure projects will contribute positively to the growth of the market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "originalUrl": "https://www.openpr.com/news/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc06500488_g.jpg",
-          "width": 800,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2486378/smart-robot-market-2021-reach-valued-at-31-11-billion-and-grow",
-      "publishedDateTime": "2021-12-06T04:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],
