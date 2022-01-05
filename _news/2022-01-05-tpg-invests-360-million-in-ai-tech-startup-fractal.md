@@ -1,27 +1,49 @@
 ---
 category: news
-title: "TPG Invests $360 Million in AI Tech Startup Fractal"
-excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform. TPG's involvement in Fractal includes a mix of primary investment and a secondary share purchase from funds advised by buyout firm and existing investor Apax Partners."
-publishedDateTime: 2022-01-05T09:39:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-01-05/tpg-invests-360-million-in-ai-tech-startup-fractal"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-01-05/tpg-invests-360-million-in-ai-tech-startup-fractal"
+title: "TPG invests $360 million in AI tech startup Fractal"
+excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform."
+publishedDateTime: 2022-01-05T08:30:00Z
+originalUrl: "https://www.reuters.com/markets/us/tpg-invests-360-million-ai-tech-startup-fractal-2022-01-05/"
+webUrl: "https://www.reuters.com/markets/us/tpg-invests-360-million-ai-tech-startup-fractal-2022-01-05/"
 type: article
-quality: 47
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
 
+images:
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66"
+    width: 1200
+    height: 628
+    isCached: true
+
 related:
+  - title: "AI startup Fractal becomes unicorn with $360 million investment from TPG"
+    excerpt: "Fractal has raised $360 million from TPG in a new financing round and entered the unicorn club as the Mumbai and San Francisco-headquartered AI startup, which counts Google and Wells Fargo among its customers,"
+    publishedDateTime: 2022-01-05T09:31:00Z
+    webUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/"
+    ampWebUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024"
+        width: 1024
+        height: 481
+        isCached: true
   - title: "Fractal AI said to turn unicorn with $360 million funding from TPG"
     excerpt: "The transaction is a mix of primary investment and secondary share purchase from funds advised by Apax Partners. The British private equity firm will remain a majority shareholder in Fractal AI."
     publishedDateTime: 2022-01-05T10:35:00Z
@@ -37,6 +59,36 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-71428,msid-88711161/ai-thinkstock.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "TPG invests USD 360 million in AI tech startup Fractal"
+    excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform.    TPG`s involvement in Fractal includes a mix of primary investment and a secondary share purchase from funds advised by buyout firm and existing investor Apax Partners."
+    publishedDateTime: 2022-01-05T11:46:00Z
+    webUrl: "https://www.zeebiz.com/small-business/news-tpg-invests-usd-360-million-in-ai-tech-startup-fractal-175416"
+    ampWebUrl: "https://www.zeebiz.com/small-business/news-tpg-invests-usd-360-million-in-ai-tech-startup-fractal-175416/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-tpg-invests-usd-360-million-in-ai-tech-startup-fractal-175416/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 57
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Enterprise AI startup Fractal Analytics raises $360M"
+    excerpt: "Artificial intelligence and enterprise analytics software firm Fractal Analytics Inc. has raised $360 million via an investment from the equity capital firm TPG Capital Asia. The raise involved a combination of primary investment and secondary share purchase from funds advised by Apax Partners."
+    publishedDateTime: 2022-01-05T11:26:00Z
+    webUrl: "https://siliconangle.com/2022/01/05/enterprise-ai-startup-fractal-analytics-raises-360m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/Fractal.jpg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fractal Lands $360M From TPG As AI Demand Surges"
     excerpt: "New York-based Fractal locked up a $360 million investment from TPG through its Asia-focused private equity platform TPG Capital Asia, as demand for AI grows"
@@ -67,6 +119,6 @@ related:
         height: 676
         isCached: true
 
-secured: "0hKwYkY9thNTAgZ8rvX+ecxqEMZICi+KMuvMXWznZdtRCv6pv3OVCvHd5PW5jJT9eQNdsmKOafE1F9jlYnygc6EHAkq1A5B/ORaLO2S46hqEylFE99I5JFb43xxHpJRq2LFdu4ZS+jIozTsTsOvfz53NJAtIbd/ueIx0/wUtFLv63zKL8vNYTjJP04tJl5K66foFTd7wptaKghrr05cdDjCfn9Y4rsGeYi2vE3XiVeC0CjpLVTDYbs7mLctGR7OQd7GB0fo0rwbTi9kg37mlK23DJwVW4JNp2EAHmdzlKQIKuQWxSZVMQJNjeKfm2bFHvMQq/8AbHBX8iXA+ON+mFGlukQX4r79Ahr81ag+7Xes=;wLzC6Feb7AmwJRWdO97whQ=="
+secured: "doUQibtQ6rxlpMYHH/qNnI84EjW2u6Qyj4ftuBQz4EJPkLvhggOGDx+2F3lrm9qTYc0mrxMCOau9/xx2OrvtmXtLm5Cqg9yN6W87j44cIKAOp02aO72SCPVADSsJ4a9jEPjSQGo+wK0ek7qjcWx2XSRzlWRYIEr0r/kEJdLj4xORBtEhLjfhwQ8hw30JFTbcow5OxKAFNIKZFUQpKK4bMIatyewR1vj9I2jUmGvMvAsuNuF4VEuHj6MfQwab0wjduWQCidBYEX3djmeUBeV15wcawrzZlXHRrvVhGHMFxYoQaBaedOs96fQrJeKfroyIwe0KWQeOUnSfY16IvVMJqb0KNO4fLp3+dLbDDJnsRa0=;4NRrOyv6pyqXjOao66YU8g=="
 ---
 

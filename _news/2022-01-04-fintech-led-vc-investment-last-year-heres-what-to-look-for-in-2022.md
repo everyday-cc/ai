@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Technologies Reshaping the FinTech Industry"
+    excerpt: "Technologies Reshaping the FinTech Industry By CIOReview - some of the key technologies will drive business model reinventions and shape the competitive environment of the"
+    publishedDateTime: 2022-01-05T11:16:00Z
+    webUrl: "https://www.cioreview.com/news/technologies-reshaping-the-fintech-industry-nid-34809-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/skvkm.fintech.jpg"
+        width: 300
+        height: 350
+        isCached: true
 
 secured: "5Aej9n/lFdjTKxCGiFn4mtJK0K1SJgOINgrWB9xR8RGfEjRxsfF71gMjTu9FaL8BCG2jNXe6G3n+ax8YqKM0Yd2m+W7jLg03pE4BNCuZJXL3psrzSHYpEXauKAS1u0hFY0x9zMRRnLH5F0pY22MF3tTwHYy5iYzgvkSBuzzXGdK+l6qQ2n0P58VDtT9JMBBB0tZu/eR4ARv16w6jQH37gXS12+JU+NbHf9fUq9sQN8LTM9X82oe2ao6XisbPuc7GZk1meqMcit1QxiqR6fO7DSLyJ2ZGeCtwwjmu74k6XjAdEmau1IjzT/w26spii/pmMeL0a+NFQQxGtBzwsnLe/kEbLh7weKvwe8XGKDsbFeg=;EAWrMlp3aQ5jYbK/plOe+g=="
 ---

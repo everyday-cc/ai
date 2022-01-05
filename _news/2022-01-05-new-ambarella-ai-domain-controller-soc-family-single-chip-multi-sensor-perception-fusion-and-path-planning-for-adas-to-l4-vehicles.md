@@ -1,0 +1,52 @@
+---
+category: news
+title: "New Ambarella AI domain controller SoC family; single-chip multi-sensor perception, fusion and path planning for ADAS to L4 vehicles"
+excerpt: "Ambarella, an AI vision silicon company, announced the CV3 AI domain controller family at CES. This fully scalable, power-efficient CVflow family of SoCs provides the automotive industry’s highest AI processing performance,"
+publishedDateTime: 2022-01-05T11:03:00Z
+originalUrl: "https://www.greencarcongress.com/2022/01/20220105-ambarella.html"
+webUrl: "https://www.greencarcongress.com/2022/01/20220105-ambarella.html"
+type: article
+quality: 3
+heat: -1
+published: false
+
+provider:
+  name: Green Car Congress
+  domain: greencarcongress.com
+
+topics:
+  - AI Hardware
+  - AI
+
+related:
+  - title: "Ambarella launches 16-core CV3 AI chip for autonomous vehicles"
+    excerpt: "Ambarella launched its latest CV3 artificial intelligence domain controller family to power autonomous vehicles."
+    publishedDateTime: 2022-01-04T21:05:00Z
+    webUrl: "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/"
+    ampWebUrl: "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/Ambarella-CV3_SUV-System-Diagram_Embargoed-Until-Jan.-4-2022.jpg?w=1200&strip=all"
+        width: 1200
+        height: 602
+        isCached: true
+  - title: "Ambarella Launches AI Domain Controller SoC Family for Single-Chip Multi-Sensor Perception, Fusion and Path Planning in ADAS to L4 Autonomous Vehicles"
+    excerpt: "(NASDAQ:AMBA), an AI vision silicon company, today announced during CES the CV3 AI domain controller family. This fully scalable, power-efficient CVflow® family of SoCs provides the automotive industry's highest AI processing performance,"
+    publishedDateTime: 2022-01-04T20:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g24893873/ambarella-launches-ai-domain-controller-soc-family-for-single-chip-multi-sensor-perception-fusion-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24893873"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24893873"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 14
+
+secured: "NvPYZDdLAR/Gum/Jxzpwkb9r7rY8WA90F8+AkzwCfNzUo+jDI7AmldHCJ0RXl+jEDdm6Iiy/IfmXQjCOaQcw8c0nqfXb4fg+SiV+laRJpqfQnrmw7XZNcVD9FWtutFSWUSUOITiJhNGEDo9LnQF/jtftBzNElcfie34XD2hN4PeSoUKA4u31stJnHexkjF/pUdpTYW4INVPsdVz3OHVGTopKC26PopDouE2XgkwygE9/ev3kimSPp78WUe56D1zq/VJC8S5KHzcn8EY/8cqMee9jmMJsMvqW3HBG1YR3+q8pMpDO2gYVUn/ywbc+jjnQQT8uTImULZQFvtMkBDfj4U3Yl/Oat8ktQKvQzIUXcBk=;ZmezET4n4xFdF7T230b1gg=="
+---
+

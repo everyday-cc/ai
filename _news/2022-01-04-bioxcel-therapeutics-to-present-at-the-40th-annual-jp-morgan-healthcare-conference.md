@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Potrero Medical to present at 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Potrero Medical, innovator of the Accuryn Monitoring System, announced today that it has accepted an invitation to present at the 40 th Annual J.P. Morgan Healthcare Conference. Joe Urban, Potrero's Chief Executive Officer,"
+    publishedDateTime: 2022-01-05T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/potrero-medical-to-present-at-40th-annual-j-p-morgan-healthcare-conference-1031078920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "PRNewswire/ --® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that"
     publishedDateTime: 2022-01-04T10:30:00Z

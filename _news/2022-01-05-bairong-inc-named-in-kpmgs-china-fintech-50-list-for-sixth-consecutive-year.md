@@ -9,7 +9,7 @@ ampWebUrl: "https://www.asiaone.com/business/bairong-inc-named-kpmgs-china-finte
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/bairong-inc-named-kpmgs-china-fintech-50-list-sixth-consecutive-year?amp"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://news.crunchbase.com/wp-content/uploads/Forecast_digest-2.jpg"
         width: 900
         height: 506
+        isCached: true
+  - title: "Technologies Reshaping the FinTech Industry"
+    excerpt: "Technologies Reshaping the FinTech Industry By CIOReview - some of the key technologies will drive business model reinventions and shape the competitive environment of the"
+    publishedDateTime: 2022-01-05T11:16:00Z
+    webUrl: "https://www.cioreview.com/news/technologies-reshaping-the-fintech-industry-nid-34809-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/skvkm.fintech.jpg"
+        width: 300
+        height: 350
         isCached: true
 
 secured: "9MrcHIW5kFITmB3C7U1IE5qldsSFltOElh6x1U2HScZyIzsnIssyK82BkyvTDM7kW5+O/jnt+ls9ECXQT+dC8oedURpT9vildzwj5HypnW76+DmrRvIw73AOQazoJ61h73wA9h891kLyxe8hGNvzRmC6lMTvS3678bx73ze7GWS8l1LIX7KCsGW2Ej3LFgTmFtsbsFrxqwjnsHYEd+79TI5H/v3JAowBdBrphxv5zBoUqSwpDkkjzZ3mYNuIqcy4d461kgqhkQupQwAFcROkmtQwaeBrmnCneFHHjAz4lvjGLJ6FmyOqakKqleLAEJVCMypQ8YklsNrfmODuQ7TxvswYO6z0xG5sIyXKzCVOyoI=;dgi4tM0my+zk7Q818iOybw=="

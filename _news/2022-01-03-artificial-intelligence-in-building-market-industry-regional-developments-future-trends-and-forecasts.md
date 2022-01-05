@@ -90,6 +90,15 @@ related:
       name: ReportsnReports
       domain: reportsnreports.com
     quality: 1
+  - title: "Artificial Intelligence Market| Global Industry Analysis By Size, Share, Covid-19 Impact, Growth Factors And Regional Forecast To 2028"
+    excerpt: "Apple Inc. Baidu IBM Corporation IPsoft Microsoft Corporation MicroStrategy, Inc NVIDIA Qlik Technologies Inc. Verint Systems Inc. (Next IT Corp)"
+    publishedDateTime: 2022-01-04T10:38:00Z
+    webUrl: "https://www.wboc.com/story/45574320/artificial-intelligence-market-global-industry-analysis-by-size-share-covid-19-impact-growth-factors-and-regional-forecast-to-2028"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
 
 secured: "w55iroLxmqiwV2FD7F+QrWhC7dXbggB13XAtzgiRUTNUvb5LHTAyIVIOJzgMy0tGVQCRcWZp6sdS6U2fkff23tqT9aFvOJ8LdLkOexFhk98DBhxUXeoSHsjCrUBlTvdYHBzwbO5+WN/NT+mEtA6Po6AGbKcU7JqvFNyJ0pfA//kLfL31/8YLF+ZqccJfoGB14l+OHIGzDpBF3uDqlRFZQMyCz9d75IDrPx1dW/EY+BjasUYZ2HgCqk0kWsAvJHhxFyV2FfOfYL21ap9jSK4567rvMCQPMxmBkFGSepJZODd7Uzu8sDBwaYtLmD1VF5mJwTKBiNuaRvvZloG4vW5v/kPqLM6tpgKus83YbUeblxI=;DDhLgXZ/2AFAl+76vWoRow=="
 ---

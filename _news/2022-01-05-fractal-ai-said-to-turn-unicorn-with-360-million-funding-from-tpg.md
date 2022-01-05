@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/tech/funding/fractal-ai-said-to-turn-uni
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fractal-ai-said-to-turn-unicorn-with-360-million-funding-from-tpg/amp_articleshow/88711176.cms"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -26,15 +26,66 @@ images:
     isCached: true
 
 related:
-  - title: "TPG Invests $360 Million in AI Tech Startup Fractal"
-    excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform. TPG's involvement in Fractal includes a mix of primary investment and a secondary share purchase from funds advised by buyout firm and existing investor Apax Partners."
-    publishedDateTime: 2022-01-05T09:39:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2022-01-05/tpg-invests-360-million-in-ai-tech-startup-fractal"
+  - title: "AI startup Fractal becomes unicorn with $360 million investment from TPG"
+    excerpt: "Fractal has raised $360 million from TPG in a new financing round and entered the unicorn club as the Mumbai and San Francisco-headquartered AI startup, which counts Google and Wells Fargo among its customers,"
+    publishedDateTime: 2022-01-05T09:31:00Z
+    webUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/"
+    ampWebUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 47
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024"
+        width: 1024
+        height: 481
+        isCached: true
+  - title: "TPG invests $360 million in AI tech startup Fractal"
+    excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform."
+    publishedDateTime: 2022-01-05T08:30:00Z
+    webUrl: "https://www.reuters.com/markets/us/tpg-invests-360-million-ai-tech-startup-fractal-2022-01-05/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "TPG invests USD 360 million in AI tech startup Fractal"
+    excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform.    TPG`s involvement in Fractal includes a mix of primary investment and a secondary share purchase from funds advised by buyout firm and existing investor Apax Partners."
+    publishedDateTime: 2022-01-05T11:46:00Z
+    webUrl: "https://www.zeebiz.com/small-business/news-tpg-invests-usd-360-million-in-ai-tech-startup-fractal-175416"
+    ampWebUrl: "https://www.zeebiz.com/small-business/news-tpg-invests-usd-360-million-in-ai-tech-startup-fractal-175416/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-tpg-invests-usd-360-million-in-ai-tech-startup-fractal-175416/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 57
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "Enterprise AI startup Fractal Analytics raises $360M"
+    excerpt: "Artificial intelligence and enterprise analytics software firm Fractal Analytics Inc. has raised $360 million via an investment from the equity capital firm TPG Capital Asia. The raise involved a combination of primary investment and secondary share purchase from funds advised by Apax Partners."
+    publishedDateTime: 2022-01-05T11:26:00Z
+    webUrl: "https://siliconangle.com/2022/01/05/enterprise-ai-startup-fractal-analytics-raises-360m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/Fractal.jpg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fractal Lands $360M From TPG As AI Demand Surges"
     excerpt: "New York-based Fractal locked up a $360 million investment from TPG through its Asia-focused private equity platform TPG Capital Asia, as demand for AI grows"
     publishedDateTime: 2022-01-05T09:30:00Z

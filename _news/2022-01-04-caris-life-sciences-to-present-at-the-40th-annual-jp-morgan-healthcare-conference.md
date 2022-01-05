@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/caris-lif
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_691d77d2-f00a-5d1b-add3-8a945770574e.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Potrero Medical to present at 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Potrero Medical, innovator of the Accuryn Monitoring System, announced today that it has accepted an invitation to present at the 40 th Annual J.P. Morgan Healthcare Conference. Joe Urban, Potrero's Chief Executive Officer,"
+    publishedDateTime: 2022-01-05T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/potrero-medical-to-present-at-40th-annual-j-p-morgan-healthcare-conference-1031078920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "BioXcel Therapeutics to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
     publishedDateTime: 2022-01-04T12:08:00Z

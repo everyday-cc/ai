@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/machine-learninghelps-repair-
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learninghelps-repair-genetic-damage"
 type: article
 quality: 74
-heat: 76
+heat: 77
 published: true
 
 provider:
