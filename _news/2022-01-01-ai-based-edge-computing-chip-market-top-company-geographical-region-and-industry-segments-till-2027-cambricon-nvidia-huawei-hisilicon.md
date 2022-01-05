@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI+RAP Market To Witness Stunning Growth To Generate Massive Revenue Forecast to 2027| WorkFusion, Intellibot, EdgeVerve"
-    excerpt: "LOS ANGELES United States The research study presented in this report offers complete and intelligent analysis of the competition segmentation dynamics and geographical advancement of the global AI RAP market It takes into account the CAGR value volume revenue production"
-    publishedDateTime: 2021-12-31T12:22:00Z
-    webUrl: "https://www.openpr.com/news/2514971/ai-rap-market-to-witness-stunning-growth-to-generate-massive"
-    ampWebUrl: "https://www.openpr.com/amp/2514971/ai-rap-market-to-witness-stunning-growth-to-generate-massive"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2514971/ai-rap-market-to-witness-stunning-growth-to-generate-massive"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 32
-    images:
-      - url: "https://cdn.openpr.com/U/c/Uc31957331_g.jpg"
-        width: 800
-        height: 407
-        isCached: true
   - title: "Global Face Recognition using Edge Computing Market Research Report (2021 to 2026) - by Device Type, Component, Application and Region - ResearchAndMa"
     excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-01-04T09:03:00Z

@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Customer Engagement Startup Exotel Bags $30 Mn In Series D Funding"
+title: "Customer Engagement Startup Exotel Bags $40 Mn In Series D Funding"
 excerpt: "Bengaluru-based customer engagement startup Exotel has raised $30 Mn in a Series D funding round led by Steadview Capital."
-publishedDateTime: 2022-01-04T06:53:00Z
-originalUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/"
-webUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/"
-ampWebUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
-cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
+publishedDateTime: 2022-01-05T04:52:00Z
+originalUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/"
+webUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/"
+ampWebUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/amp/"
+cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/amp/"
 type: article
 quality: 42
 heat: -1
@@ -58,12 +58,12 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Customer Engagement Startup Exotel Bags $40 Mn In Series D Funding"
+  - title: "Customer Engagement Startup Exotel Bags $30 Mn In Series D Funding"
     excerpt: "Bengaluru-based customer engagement startup Exotel has raised $30 Mn in a Series D funding round led by Steadview Capital."
-    publishedDateTime: 2022-01-05T04:52:00Z
-    webUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/"
-    ampWebUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/amp/"
+    publishedDateTime: 2022-01-04T06:53:00Z
+    webUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/"
+    ampWebUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
     type: article
     provider:
       name: inc42.com
@@ -75,6 +75,6 @@ related:
         height: 628
         isCached: true
 
-secured: "WW7Tmx009E8mGHE6dDl1IxeZpu2/GjM6opntOhP921MG7Dk2EQh1gOmyezTP2XIiqj7tWo4YVgLt7pJiPoF/L9b3hlg7yN8pBql0MS7iCPQ8zfGYBIk4qlnyU4e5P5VMIsBugtdp6k8XQ+b3R6ErW/68xfsFuS8CcuRseaa5NOCtzBlcQR5a5PSgSoZoZDXHWDVb30VaokS7kczYYjk3YWzneMoD1PZX+4kYPuqT4Q4ORyt3wRDMnk6R6UtrGdZeKMsM2kzhgfXNH7E0KOYIzu00x+e1+C1A/iJ1/kQt8WcDnhwGyA1DpBvTzNsIZiORUQhbYQCG/rNnw/BEYJaIWlzhOp1xY4gBBOOlNFl4D+0=;fKlwKwSp1ZmdjuZbDLvSrQ=="
+secured: "EBXpdmjC0ilnqdxGrqiJNRAI9ehGPqGpobQxgxA0TFaW3SISKFK+3/LAwgR7HVMO3YhDTUCTcJEs0DhYiJdk71LdXo9Q7xkRErOjctFaRf6yZLbJnCMYJOFddIC6VqNg8T7D3sKl81red8C5exEEqslrr1/bCizL6iw7U5diPd8PHxiPqRodbhBBXwVEoZ2t/VY753xS0NnJErxNB/IOZ+vpFnKJzDzECiE6m4jLyh5Lb034xw9YLajVFZrEvKQHwItzHbYrV1NujwHcOVZ6x8nqIVZWR+lOhE/Hcy9cdjKzTlcNC+mSRefXE5AVZtR1xFM86ghfTI4iypSynNANtCFX/KCUETOiv8inD6/u7+0=;k87OiCbQGSd/kVwF96OSBg=="
 ---
 

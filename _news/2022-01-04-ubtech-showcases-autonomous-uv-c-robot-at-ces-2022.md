@@ -3,25 +3,25 @@ category: news
 title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,"
 publishedDateTime: 2022-01-04T11:13:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_74c7f691-7f03-585d-8f98-190b4209afdc.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_74c7f691-7f03-585d-8f98-190b4209afdc.html"
+originalUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/assets/v3/editorial/3/11/31105f34-05f8-595e-be64-fbcdbdd02d47/61d43ac8c808a.image.jpg?crop=1124%2C590%2C0%2C421&resize=1124%2C590&order=crop%2Cresize"
-    width: 1124
-    height: 590
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
+    width: 400
+    height: 510
     isCached: true
 
 related:
@@ -56,6 +56,6 @@ related:
         height: 537
         isCached: true
 
-secured: "ufjDqdqaKYosBejAelxd0CQUDGChhbhk6Blg15BXHQbkTkfyvOt7afnMudBaqiknLtQfjcFbQeK7q86pSDxJtYfbgR7r4ixs58I8s2DBKYTl7vBpz2ylFXl0zzCk1QNmVJogfVGKJRWeyigdq87Finf2jlTuetgn9aHutoGwMp77NsfSd4CrQMdkLZSFtCvbJBKI9aS4ORZpIDpg5ZH7Aiuqu5NYOcS8/L6yK4zT+k6yCZPCHrr6hoK2CwWzgSvU75pmyo3txImIYEK4M7YQDZdeS06YhAq7mVdJ97EcJP/IhYnjSLYVG+JcDk9E53wN2ej8QumA7mWlcq1ZO4jm32j/4NY3/CwamXLp4r/+8pY=;dwLGB/34Ff12x9Z6Ag2Igw=="
+secured: "NskR4EiJ40ONP0bcctksG16PFZot8UCfHN3d+WQXfGMyrQ/uL2IW/sVxHXsP2CdjW89CwLRzqmtsoQNyuvh9B6t2EVN1eHQ3L39jf9pSin6JzW3+n6l4V9jwOXi6JimJedSR/VeZX6JfA9EhJip6w2TMv0jT1914MaEYKy1Brt0icuxlwOv6rDT6Dg7p+zxj0RM07RTbL1uyEonpEGH39WVnsNQIcDmksOENFeTw2NOmCZKhNGRgSjDG6jxsQHlCuWqpJ/uVD9lUlkyg+qNO8xM7aBuWCTKS+OAlLaPv3qbaG+jmoXoi8ENpIAL2PFqIyn6Ofl9oM2wxpIBKp7D3FsfoZ/EbiRE2tKTWfPUu2UI=;BqVPN0CE1ZGy7qW+hdZzDQ=="
 ---
 

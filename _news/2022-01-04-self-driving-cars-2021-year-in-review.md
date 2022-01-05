@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-c
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,17 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Keeping self-driving cars safe from hackers"
+    excerpt: "Cars of the future will be heavily dependent on the internet for navigation and other basic operations. But that will also make them vulnerable to hacking attacks capable of causing serious damage."
+    publishedDateTime: 2022-01-05T03:48:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 24
 
 secured: "WPpEoG/kSlVDfXRJc4+GEaoB+2gT/w7OcXucmh1SCslQf8jSY8PTES8aTX/VBwbHfuS0y11rdKT3oOUwEeALjLn1n9BDwHjleO4VTOZi5cHHQW1/KW2rQwZ7aIiBH9iA53+A0bwkYWmOTWvTR7YVCy7z8A8j11vSiyiZ4I7Px04A5UV/kFSL03y/VY+P6fYFuDiwuRoVSsfJKpFTP+OeYtUD+VZ36MrYTFvBbYnMOWFbRTFzskQnuAKmNJUoOH2TTsRNOcnk9tBt0rlVG4hE5xI/IJMhC2UodynVTCw++LsV6fqQhm8nD+QkSRHa1iFklPud30rWCM9cFNwsn8BuFZX31AZdGUd3LzL1P7IymQUg90O5i6jYpb7KMogTD94luRR3Bcj9Fo/gdJrebq1df+djk4xb+8JnxNHoQvZZJqGjkepYTX9NeJbqh9D/UaRV++y0nMM94GSQsOGVsqGenETxyP2YKEKuf+qywgaWtYA0JxYbmKQoKKpkGVNS684U5w0fI+TZVxg7LroOG03Mhg==;dM262vbW0b1DOFiFutns7g=="
 ---

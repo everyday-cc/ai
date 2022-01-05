@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-04T13:13:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-gbt-developing-mobile-application-its-ai-based-healthcare-/2022/01/04/9519253.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-gbt-developing-mobile-application-its-ai-based-healthcare-/2022/01/04/9519253.htm"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 related:
   - title: "AI Healthcare Stock News: GBT (OTCPK: $GTCH) is Developing a Mobile Application for its AI Based Healthcare Advisory System"

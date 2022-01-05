@@ -2,101 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2021-12-10-artificial-intelligence-ai-system-combatting-healthcare-associated-infections-hai.md",
-      "title": "Artificial Intelligence (AI) System Combatting Healthcare Associated Infections (HAI)",
-      "excerpt": "We often hear of patients being admitted into the hospital for an illness and coming out with a different infection which they acquired while in the hospital. This is known as a healthcare-associated infection (HAI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-ai-system-combatting-hai-jack-hueter",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-ai-system-combatting-hai-jack-hueter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFGbqD-W-beWg/article-cover_image-shrink_720_1280/0/1639149288885?e=1644451200&v=beta&t=vzFW9gR1npGI2BZMf1nn2k59xwGNGLFN8bjMjCsCxvE",
-          "width": 969,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-intel-teases-alchemist-graphics-card-in-arc-gpu-gameplay-trailer-at-game-awards-show.md",
-      "title": "Intel Teases Alchemist Graphics Card In Arc GPU Gameplay Trailer At Game Awards Show",
-      "excerpt": "The discrete GPU race is currently a contest between just two major players, AMD and NVIDIA, but Intel is getting ready to enter the marathon very soon as well. Lest anyone happened to forget, Intel offered up a sneak peek of its upcoming Arc Alchemist graphics card during The Game Awards 2021 show,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
-      "originalUrl": "https://hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57017/content/small_intel_arc_alchemist_setup.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-teases-alchemist-graphics-card-arc-gpu-gameplay-trailer",
-      "publishedDateTime": "2021-12-10T07:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-10-will-ai-and-ml-revolutionize-the-financial-services-industry.md",
       "title": "Will AI and ML Revolutionize the Financial Services Industry?",
       "excerpt": "Hortz: What do you see that is holding up a greater usage of AI and ML? Bo Howell: Two major reasons for the slow spread of AI and ML in the financial services industry are a lack",
@@ -1142,6 +1047,109 @@
       ],
       "topics": [
         "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-secretive-ai-companies-need-to-cooperate-with-good-hackers-to-keep-us-all-safe-experts-warn.md",
+      "title": "Secretive AI Companies Need to Cooperate With Good Hackers to Keep Us All Safe, Experts Warn",
+      "excerpt": "Such a call to action is needed, the authors argue, because of the growing mistrust between the public and the software developers who create AI, and because current strategies to identify and report harmful instances of AI are inadequate.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849",
+      "originalUrl": "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/8e3899c1ccbdc7eeafc2c711e7db050d.jpg",
+          "width": 800,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/secretive-ai-companies-need-to-cooperate-with-good-hack-1848185849/amp",
+      "publishedDateTime": "2021-12-09T15:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-us-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker.md",
+      "title": "U.S. to Bar Investment in Chinese AI Giant, Considers Banning Key Exports to Top Chip Maker",
+      "excerpt": "The focus on SenseTime and Semiconductor Manufacturing International is part of broader Biden administration effort against China’s tech firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
+      "originalUrl": "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-449342/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
+      "publishedDateTime": "2021-12-09T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

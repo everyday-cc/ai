@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-so
 webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
 type: article
 quality: 54
-heat: 96
+heat: 94
 published: true
 
 provider:

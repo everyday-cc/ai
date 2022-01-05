@@ -1,28 +1,27 @@
 ---
 category: news
 title: "AI-powered chatbots, designed ethically, can support high-quality university teaching"
-excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay."
-publishedDateTime: 2022-01-03T14:20:00Z
-originalUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html"
-webUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html"
-ampWebUrl: "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp"
+excerpt: "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and"
+publishedDateTime: 2022-01-03T12:02:00Z
+originalUrl: "https://www.econotimes.com/AI-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching-1624317"
+webUrl: "https://www.econotimes.com/AI-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching-1624317"
 type: article
-quality: 50
-heat: 70
-published: true
+quality: 47
+heat: -1
+published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg"
-    width: 1356
-    height: 668
+  - url: "https://s1.econotimes.com/assets/uploads/202201034b765fd4fad6d7657_th_1024x0.jpg"
+    width: 496
+    height: 293
     isCached: true
 
 related:
@@ -52,6 +51,6 @@ related:
       domain: nationalpost.com
     quality: 47
 
-secured: "doZjtBZnZL3Akegp+BXiYtSWXwVx+teu6a6U8YYQ1/GLGzcWkWnpMUvrMxEn/2sfDaoFwslT/0tCmCZH+sL1m2ZDSQ+rD2j78Be9Xza5utNcWPuOZtP7ysPmSMTkSzJx1vD2RhI93kWn44a4PybONMxKVBxcs02Kb2DQJoYwDFyjZFEAgA6G4yNnG2A9IndFzwIB2520OYZ29K5m89bs2f5cgpQIVee1O3lnnIWHRm4qli32lRL0jgcBIflU2yx36Nbp+xyfKzoiG+PSD28ZoUk9GXAwi/ik0IF0fdWhHuCirjDFQcuojnv/SjMV53mo4qcZSciqYCAOknHJVvbp3N2rwoPXQkJAvFQjiWTylPQ=;d3NvF80dgp6Q/hIkUHQMOQ=="
+secured: "K/TMLjZsMqCB89fOCn71qBaEcYTA/p62Ub/ynSjq1MIDH0mUyCxooyEBJXI2j4rFD36SOGP0So5oAYnjdXRNw7t9YvBxho5u6wCQHREB3ttaZ25/QCZ5kwu5l1BRIQz955as5YAXZ6KntWv9aPh5vRHvafpz3Byr07OFN9HJSDjGDamKNhHbq6Ac5RxhVoOPVy8FVrf4lmq0QyPwy5UMmLsg+cBfW9/VDtX7+q5CERqqLO+g9s6KLqmKZ2aTM+snUhQShR7Qc/2vZNOWL5SYNOjGqDt5NA5XZaq2sBsoLdNex6APuqogTCb5wIwJ40J2YWjp7U1lsqnkvUAL0c48iEUqMdpDjZxonZOVuPmuLeQ=;6iAkFQ4aUQu0CXg+42YL4Q=="
 ---
 

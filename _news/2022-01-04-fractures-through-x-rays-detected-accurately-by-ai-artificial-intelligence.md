@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/fractures-through-x-rays-detected-
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm"
 type: article
 quality: 71
-heat: 91
+heat: 92
 published: true
 
 provider:

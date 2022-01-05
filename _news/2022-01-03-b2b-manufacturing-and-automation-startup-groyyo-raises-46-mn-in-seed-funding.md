@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groy
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/amp/"
 type: article
 quality: 53
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -48,6 +48,22 @@ related:
     webUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/"
     ampWebUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
     cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/customer-engagement-startup-exotel-bags-30-mn-in-series-d-funding/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 42
+    images:
+      - url: "https://inc42.com/wp-content/uploads/2022/01/exotel-social.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Customer Engagement Startup Exotel Bags $40 Mn In Series D Funding"
+    excerpt: "Bengaluru-based customer engagement startup Exotel has raised $30 Mn in a Series D funding round led by Steadview Capital."
+    publishedDateTime: 2022-01-05T04:52:00Z
+    webUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/"
+    ampWebUrl: "https://inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/customer-engagement-startup-exotel-bags-40-mn-in-series-d-funding/amp/"
     type: article
     provider:
       name: inc42.com

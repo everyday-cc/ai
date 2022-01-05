@@ -37,6 +37,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Keeping self-driving cars safe from hackers"
+    excerpt: "Cars of the future will be heavily dependent on the internet for navigation and other basic operations. But that will also make them vulnerable to hacking attacks capable of causing serious damage."
+    publishedDateTime: 2022-01-05T03:48:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 24
 
 secured: "ZFxlTigLDbNhvnwh7/+Ucm/roir2eM6hSnrilPUUnJCvBtvld/uVxoGaoX8USBxua33aC2lQfO4N4N2ly+qgTxSUZ8SWwgWO9vH/nS+knGKWlJrgabHCOpp1xQ+qCLX7FgehB3ELnErUfqsF910e5qDzuU6uTskv9IvF0R5KvnfispPszCKwy/kmVbirMJoXa973gRg7YYUiXVXvmLWq+oC4ImwAVoSDTtYjHrFuGgb3p8D/V5+BRmyx0NBxql9wgxxnq3Qx+SwSe0In4AQIUqQOpzooM2wncv54DcbmXFvielMgp+IhNz7prFKTEZThLCml/UJlY0Bd7AZ97BqevI7qw3roJ5QvSlGZdThYrPY0MXzBQTGogq12Ydx9MxdLQFJ8qEmgY4nIpOWp11VVx3BXnyaUDVyL82QEiqLaKRW2ADqa+sJPe4P/C722wJ83PzaANEDzxVYBQU5i+bV7Tq5gx9BVYnpfdgCZiRN9TTDchNlGlI9M7nvFwKbsoMLzt99TNjn1U0Zq/GVLvMzQSg==;fkWf75d4nr3mJXGXjsKVYw=="
 ---
