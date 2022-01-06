@@ -1,32 +1,22 @@
 ---
 category: news
-title: "Cadillac's new self-driving concept is a luxury loveseat on wheels"
-excerpt: "After introducing a six-person self-driving box and a frickin' ridable drone concept last year, GM's latest luxury self-driving EV idea is much more grounded. The InnerSpace concept looks like a futuristic car from the outside—but inside,"
-publishedDateTime: 2022-01-05T20:46:00Z
-originalUrl: "https://www.engadget.com/cadillac-innerspace-autonomous-concept-car-201347425.html?src=rss"
-webUrl: "https://www.engadget.com/cadillac-innerspace-autonomous-concept-car-201347425.html?src=rss"
+title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
+excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."
+publishedDateTime: 2022-01-06T01:48:00Z
+originalUrl: "https://news.metal.com/newscontent/101717404/General-materials-mass-production-self-driving-electric-car-Cadillac-self-driving-electric-concept-car-unveiled-in-2025/"
+webUrl: "https://news.metal.com/newscontent/101717404/General-materials-mass-production-self-driving-electric-car-Cadillac-self-driving-electric-concept-car-unveiled-in-2025/"
 type: article
-quality: 54
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Metal
+  domain: metal.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/9811cff0-6e61-11ec-b1bf-cde05721dd38"
-    width: 2000
-    height: 1334
-    isCached: true
 
 related:
   - title: "Cadillac's next luxury concept is a self-driving sports car with no steering wheel"
@@ -45,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Cadillac's new self-driving concept is a luxury loveseat on wheels"
+    excerpt: "After introducing a six-person self-driving box and a frickin' ridable drone concept last year, GM's latest luxury self-driving EV idea is much more grounded. The InnerSpace concept looks like a futuristic car from the outside—but inside,"
+    publishedDateTime: 2022-01-05T20:46:00Z
+    webUrl: "https://www.engadget.com/cadillac-innerspace-autonomous-concept-car-201347425.html?src=rss"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 54
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/9811cff0-6e61-11ec-b1bf-cde05721dd38"
+        width: 2000
+        height: 1334
+        isCached: true
   - title: "First Look: Cadillac’s Newest Self-Driving Car Concept Replaces the Cockpit With a Spa-Like Lounge"
     excerpt: "As with jet packs and flying cars, self-driving production vehicles are still more vaporware than reality, but major automakers continue to help us imagine what that future might be like. The latest to do so is Cadillac with its InnerSpace concept unveiled today at the 2022 Consumer Electronics Show (CES)."
     publishedDateTime: 2022-01-05T17:15:00Z
@@ -61,16 +65,7 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
-    excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."
-    publishedDateTime: 2022-01-06T01:48:00Z
-    webUrl: "https://news.metal.com/newscontent/101717404/General-materials-mass-production-self-driving-electric-car-Cadillac-self-driving-electric-concept-car-unveiled-in-2025/"
-    type: article
-    provider:
-      name: Metal
-      domain: metal.com
-    quality: 0
 
-secured: "5HW2tt3ACUUNv9ARUZiG9blMNujYCTkWUh8IUF4qMzg/k656rmEABb6QX5w9Z2YS07QufI+iUN5PlBF890GQyYVyxsYKtBijhlain68Xc5t12JYSXEYGlnHQhuPBp2jmLOljPcCjoyWz7Y+qUC82E2jEX3F3uHIMBB8iLw452Q689js3coBpVhwFipJTVlsrYqNuxZmbKi4/b0nQZ0BYA9PRBOkViem8MRbiv9d1MMP+HKKxpR/t2zNiWV+ZkLC24G97FFHEzwPROKyyQUbH7gll82K30arIHXJEUlQKrHEDrGvcXctAn8FEOL5kuhPBJ+RKpn2wWIu83bw9Ufn4vBUDwZJPbeQXyIjkcjpBiCaxP39NGGpN9jiTiDX81JtLJ7g62aMLTqM+PHNBgnnFO6spb2xIyxn93UHy0g5RJv2gorGgBhO9gV6IxE6Ow7dxMCYRu6+CRQfMJwvS9XfdWdXqeWMK65PWeOgujMsZ9meYjwHp6aGqWg59O1qMw57D2FgeSN1zsb/fKXvEeztXdQ==;iLgI6xS6hsa3rHQSDifqRw=="
+secured: "Wp6wcI+3pLQQuvv8H/U98oZHBWNSmpoc5R6PyHA/lmA9xSpvkmOKYnOv9XaC85wwXd2C0IPEIfKkbqsKg/mk9O3C3ufmCT6dB0wGmZdKd+XHajI/uzi/xl/MyItKSqYE76PeO2vQzP/Sx0WHiHcLXlLk12cnnHE7jJiXonopismgiGZnml56Y8ND4wxnl41JQP1Mq2H7TclFgfHavLlG/2h7whdRT8ZTak9xtlknLFOyK4QHffUvCSuXpJ5FVVtyHy9jhQlaH91za0+c7No6qrXkeuCthM3Ze36fOFqfxIVygjCHNnz0O5r04wiz/cZW5bAg++RuP9kAyNsTV/ph047bBxHk2jcclDax9/sWeVU=;rrvU2zcOq3WSMinteeCRdg=="
 ---
 

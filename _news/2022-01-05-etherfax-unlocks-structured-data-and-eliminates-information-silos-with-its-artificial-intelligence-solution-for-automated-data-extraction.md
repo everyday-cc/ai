@@ -25,20 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Machinery Makers Invest in Automation"
-    excerpt: "Demand for big iron is booming, fueled by the rebounding global economy and the Biden administration’s infrastructure initiative. That’s good news for manufacturers of tractors and other types of agricultural and construction equipment."
-    publishedDateTime: 2022-01-04T16:32:00Z
-    webUrl: "https://www.assemblymag.com/articles/96812-machinery-makers-invest-in-automation"
+  - title: "AI & Speciation – Symbiosis and the 4th Industrial Revolution"
+    excerpt: "AI & Speciation – Symbiosis and the 4th Industrial RevolutionVicar SayeediJanuary 6, 2022Seventy thousand years ago, humankind underwent a dramatic"
+    publishedDateTime: 2022-01-06T01:07:00Z
+    webUrl: "https://www.goodreads.com/author_blog_posts/22097420-ai-speciation-symbiosis-and-the-4th-industrial-revolution"
     type: article
     provider:
-      name: Assembly Mag
-      domain: assemblymag.com
-    quality: 24
+      name: Goodreads
+      domain: goodreads.com
+    quality: 37
     images:
-      - url: "https://www.assemblymag.com/ext/resources/Issues/2022/jan/machinery/asb0122machinery1.jpg?height=635&t=1641313476&width=1200"
-        width: 1170
-        height: 500
+      - url: "https://images.gr-assets.com/authors/1614972635p8/7086757.jpg"
+        width: 585
+        height: 933
         isCached: true
+  - title: "AI-Powered Automation Can Be Both a Part of the Problem and Part of the Solution"
+    excerpt: "There are real security concerns that should be addressed ahead of further government adoption of a truly automated future."
+    publishedDateTime: 2022-01-05T14:00:00Z
+    webUrl: "https://www.nextgov.com/ideas/2022/01/ai-powered-automation-can-be-both-part-problem-and-part-solution/360294/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/03/aiNG20210103/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
+    excerpt: "PRNewswire-PRWeb/ -- etherFAX today announced an artificial intelligence (AI) solution that facilitates advanced capabilities of searchable PDF, OCR, and other Key Value Pairs. These new"
+    publishedDateTime: 2022-01-04T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its-artificial-intelligence-solution-for-automated/article_ac564166-2a4e-5bb7-9d54-6fdbb9c9ec36.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
 
 secured: "w1Nboa5FgjSXY7ZQc9T9mfHnGa0FfA6ppb8l7r6uvjH0/GWAPBVcxHZVlS2rkdGvEFSfpap3b3MRBGGfQS2m4V1bGGh+z6wnO1I9nkVmlVT04AIVbxAsOWA7NbA5bqseOaD2BC8nLd8Qgf640lwOihmBeuUNvZ36emZm2LDoekDQwf717HMI5C4rDivFYwURs9IT0GtZc4HZtqyfkHeMjxv7z9CcjZ/flIPX6MpoBnqlLt5Ey9AnLvOrSuJhQNS+gR5x+qTa/krol5Mh1YwcY63r/dXqKPErZM9g4pjV/2kBld1ep9HoUR8djz9bzrir7osuQ/Ux1pTHxllOY8X49oLNNLbYTZ0Zt0bVUk9m7iE=;r3LkOf4ayYEueupsdvm3Aw=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-05T12:02:00Z
 originalUrl: "https://apnews.com/press-release/accesswire/technology-business-asia-robotics-thailand-ac87945878c7906390460302ed7ee85c"
 webUrl: "https://apnews.com/press-release/accesswire/technology-business-asia-robotics-thailand-ac87945878c7906390460302ed7ee85c"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

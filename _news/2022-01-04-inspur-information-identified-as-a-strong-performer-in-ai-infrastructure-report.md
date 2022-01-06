@@ -46,15 +46,6 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 6
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "PRNewswire-PRWeb/ -- etherFAX today announced an artificial intelligence (AI) solution that facilitates advanced capabilities of searchable PDF, OCR, and other Key Value Pairs. These new"
-    publishedDateTime: 2022-01-04T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its-artificial-intelligence-solution-for-automated/article_ac564166-2a4e-5bb7-9d54-6fdbb9c9ec36.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "kEa6QGDAYTnKqmm4MhahP5FQHLUdaleDYzl+cXl3v/HefKpTzK/wKNMpFH1r+HNrb+tze/pfa9LffI3NVGVj4szpuHCtOAlLQuPM+BjMlb2hr4SDUBXAcwCFHBD8nof4nb/MWlJU28/yNHvnE0quKdHdhpMSf7lZ2Wo1Sn+ePEsa3uG0nw8LQe3i+HJ9gFbg9lXVk550uV8OJSxUu6epPTQUabEqZTu5++B7cGSzsbpoL3TmXkNB2pL2pu49iTWIcqbH9dN1c/fc5ZAatDMd09l0Y0XDVcnQZcP2xGSUbGOImNXfCL3ebhurB2VSZsVVVS1eKoIhqn6crBX2nIuhAVRLA6tBDnsptaycw4p92Lc=;04ArTDAgBM7WKRmSetUeRA=="
 ---

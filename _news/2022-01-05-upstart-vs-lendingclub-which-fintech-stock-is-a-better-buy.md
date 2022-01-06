@@ -81,6 +81,20 @@ related:
         width: 1188
         height: 668
         isCached: true
+  - title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
+    excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
+    publishedDateTime: 2022-01-06T01:48:00Z
+    webUrl: "https://fintechnews.sg/58245/fintech/singapores-top-fintech-legal-firms-and-lawyers-in-2022/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/01/Singapores-Top-Fintech-Legal-Firms-and-Lawyers-in-2022.png?x95107"
+        width: 1210
+        height: 670
+        isCached: true
 
 secured: "sGgJU5IjukubVRZwo6jjgnIy4MQ8ZZeewXnMr3so75x/5eEAuBYMrLgZ+bHAdmASmQctojm89Y3qfmkL+B9a/JtYi/KVgSpANyFqukwFb6Nf0FljSzuk6qJN1Dia6up4puaI7p7K6t5iPTJG500vCL+5QtGwkfPFpLZB3ing2MdJkUgXOVj+IVbo5KKtUDn03qcs4iC6CSRPir5bcPKEJq/IE4fDlIHIHLmIIztqirBg+5X+W75mzvd3RVm3Jlk3yR56hRsYPhvSwaM/QmLDJBOSeTHba9tclMz7yLqNVAYt/PjoIVxyHgeqY47VQsRY9oFsQKm9n1ESjoAQ/lPD21rcQ7590UPTdPnxlhwtjco5rBtRH4D4uuG3tdsx80VA2OmG5Wk6MdMfiP1c7RpwnBO3RYk8Xmi59auWLSWsdVroCC1/rVlJFd7HLyqLLItqweL+QY5+10CY8CKrYHRUC9jeYNy/eDz1SD3DoPrHxvAhI15qCrvrKVbCwel0Yv4QSo0v3oFePa2EpEfH0yDMGA==;dArByinq3cr6yRrGTEToFg=="
 ---

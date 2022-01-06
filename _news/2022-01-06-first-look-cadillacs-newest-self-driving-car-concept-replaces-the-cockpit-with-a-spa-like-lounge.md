@@ -57,6 +57,15 @@ related:
         width: 2000
         height: 1334
         isCached: true
+  - title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
+    excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."
+    publishedDateTime: 2022-01-06T01:48:00Z
+    webUrl: "https://news.metal.com/newscontent/101717404/General-materials-mass-production-self-driving-electric-car-Cadillac-self-driving-electric-concept-car-unveiled-in-2025/"
+    type: article
+    provider:
+      name: Metal
+      domain: metal.com
+    quality: 0
 
 secured: "in2zCvGtcNC/ZryBAU/7XaIgKxRotOeBxKFQ7VOp/W5RQ7K8QMQCf5pZpmmhpMvd08rm0hCDUEjTw4TGyC79C7eoycY8O7hswLlOatq3E+eJM2+XxS+HN5/Ab+qP7akPMYRPuudJ/IJnx96y4IZ0C+2/Mc0XoZfY/VGzYWm0Hq9bPcTJ5VWC1qTiWYBWVc0xRQqRM0fGdBVx3y7CBp8WmcDSVSlUKfVu/fdeZrHOmzIlqQVvRgos9MXg6DyopSsuXmHzuLwnhUlPzeJRlt20uPj66wN74+ymQh+SbtzilxZ59sgM+cExmIPqPsrSbCMW3d9XY2Rbw/av9Z6nV4dG92h73RAr+66I8HMFmSAChjo=;pwhEWoCvPfdyO1lEXdNdRQ=="
 ---

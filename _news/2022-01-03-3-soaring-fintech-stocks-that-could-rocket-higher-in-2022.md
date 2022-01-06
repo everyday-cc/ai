@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-so
 webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Fintech-trends-2022.jpg"
         width: 1188
         height: 668
+        isCached: true
+  - title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
+    excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
+    publishedDateTime: 2022-01-06T01:48:00Z
+    webUrl: "https://fintechnews.sg/58245/fintech/singapores-top-fintech-legal-firms-and-lawyers-in-2022/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/01/Singapores-Top-Fintech-Legal-Firms-and-Lawyers-in-2022.png?x95107"
+        width: 1210
+        height: 670
         isCached: true
 
 secured: "BOvL0YmChpMreKjRzLXnkMVKxLxSr5N6RGKeeIh2tWHpphwxQoH3k/H/Yoa0Qq+3oIzyhqRVHin60GT6spEE8O29jAM6WuLuUL2Ainv5bxNOFJodmY77q3/haNlnswJAWJavcVoK1wEI3srofI0mx8JsOvqyYyddh35SjZzMTECIF+9gsBOBdtOVs8ZmXqVYmBxf5dIIJEev7Jh8na+0LO33fRHw4mSfRyIEdEy+vLQeVy0bLQN+xI/0PIOMOfM+JOx7DTZtzm7wHn5v1ZgTtDHe+53GCHuplvAN0zJUQ9I7nJm2ilOGnXEO5DR8lgBNU3IfVRHRH5IXHE7kWAz3IJA7FKvRv8tc8l/i/HSPGddY+ocCkGnlfyZOeF9PcmCOkHJ33+31F9XLrJV81UKTwYsS4nLITbzZb4Q1/uUhxoBl878N+DDQW9HL9t9hNKAi/ybChED3I1zfj0zNW7Iz+TitG7o1DyKfIJ1aO8Tvx9Do6w0zfsPmL9N7yLDJWBIykQVqRgArEd5iFxBLNcnchA==;zIpWaZ922TalbcEOBd4uFg=="

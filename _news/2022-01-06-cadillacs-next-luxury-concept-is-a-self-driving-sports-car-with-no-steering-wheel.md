@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/article/general-motors-cadillac-autonomous-conc
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/general-motors-cadillac-autonomous-concept-ces?amp"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
+    excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."
+    publishedDateTime: 2022-01-06T01:48:00Z
+    webUrl: "https://news.metal.com/newscontent/101717404/General-materials-mass-production-self-driving-electric-car-Cadillac-self-driving-electric-concept-car-unveiled-in-2025/"
+    type: article
+    provider:
+      name: Metal
+      domain: metal.com
+    quality: 0
 
 secured: "qzZXRHruPjrzqgyL3E8Ev1WOvcbdLz7LIKl8CptkwNfG7QhaquJiBYcDInc72+3pb+LBhyMXZZfdI/D0yKOYE6ZqWNiv2YDlEc8cJu8I3U3mT1WGQVkRHywoSqx/qf9f6lL8mDUVcw6UhO6qIZJOP25KtzJaRwcp6N62bMcfGBDiBVQIF7ejEoTwEpCUoNofHqlc1a9JnQslpo4B4f2lxexNgWP5HFVPDLnYlEiKHa5z7ay4hWJ6xLB2cUkUEwr4qKTfJZfiMunCh4Oa7mwSriSnOyXzWdnl4qfwu+bECthKeRc1l5vi4/Tu7V8X05GJlKBrYHpv9bFEgoZwkKO2zycQl06W29iCZZkAcQDFkQQ=;mlaq1gRCL5t51MuYMWDiPA=="
 ---

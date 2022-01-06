@@ -7,7 +7,7 @@ originalUrl: "https://shots.net/news/view/ai-and-aiko-show-love-can-happen-anywh
 webUrl: "https://shots.net/news/view/ai-and-aiko-show-love-can-happen-anywhere"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and ML are changing contact centers"
-    excerpt: "This has left call centers across industries plagued by long queue lines and insufficient bandwidth to offer the speed and personalization that customers want. However, the partnership between Talkdesk and Amazon Web Services (AWS) is now enabling businesses to leverage conversational AI and machine learning in the contact center."
-    publishedDateTime: 2022-01-01T10:52:00Z
-    webUrl: "https://www.bitpipe.com/detail/RES/1628789921_101.html"
+  - title: "Peter Draw, Moog Studio and Two AM Music Global team up to create the sequel for the beloved animated world of Ai & AIko"
+    excerpt: "It’s been two years since the release of the first Ai & AIko Christmas film, and fans have been eager to see what this year holds for the two iconic friends. The 2018 film centered around departure, reminding us that shared love will never be lost,"
+    publishedDateTime: 2022-01-03T22:45:00Z
+    webUrl: "https://campaignbriefasia.com/2022/01/04/peter-draw-moog-studio-and-two-am-music-global-team-up-to-create-the-sequel-for-the-beloved-animated-world-of-ai-aiko/"
     type: article
     provider:
-      name: Bitpipe
-      domain: bitpipe.com
-    quality: 54
+      name: campaignbriefasia.com
+      domain: campaignbriefasia.com
+    quality: 12
     images:
-      - url: "https://cdn.ttgtmedia.com/bitpipe/covers/1628789921_101_lg.jpg"
-        width: 315
-        height: 408
+      - url: "https://asset-cdn.campaignbrief.com/wp-content/uploads/sites/2/2021/12/29091849/AI-AND-AIKO2.jpg"
+        width: 1008
+        height: 567
         isCached: true
 
 secured: "vFcTOlZidRNXGdxVQp5cgKySEDpVY62gU93JL8sC9ebvKYvP9GH3E/Y+0OXdP87h8dO8myFTmkDPxBCtSiayyeXYCQ36jLYtoWe14bzH/0YrEex3tMufvuOyV96e4eF3/pM2y6+JlT13d3S/5SSYCjNH8P3qjQnxP+LYMlrmTCakyqLf++MExWGpDAG+yvNK6ivxnghoa1ONZC00eyEHYWTCstx8aHtBT6r/ZISHz8hd89pSEBgQO+vw1SqA+GkOofI1rjZ/CZN/5HfO9a1UJ+p9Lho811ZjdXuRlsGhCwj90XQ2zV8jYzslUVrgpxmzQ0/psSD3FubNF9569st53mW3/CKAWBMN/hH6xf/IGuc=;fuhBzAConnmqnGWlYfcZTQ=="

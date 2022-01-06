@@ -1,43 +1,42 @@
 ---
 category: news
-title: "AI-Powered Automation Can Be Both a Part of the Problem and Part of the Solution"
-excerpt: "There are real security concerns that should be addressed ahead of further government adoption of a truly automated future."
-publishedDateTime: 2022-01-05T14:00:00Z
-originalUrl: "https://www.nextgov.com/ideas/2022/01/ai-powered-automation-can-be-both-part-problem-and-part-solution/360294/"
-webUrl: "https://www.nextgov.com/ideas/2022/01/ai-powered-automation-can-be-both-part-problem-and-part-solution/360294/"
+title: "AI & Speciation – Symbiosis and the 4th Industrial Revolution"
+excerpt: "AI & Speciation – Symbiosis and the 4th Industrial RevolutionVicar SayeediJanuary 6, 2022Seventy thousand years ago, humankind underwent a dramatic"
+publishedDateTime: 2022-01-06T01:07:00Z
+originalUrl: "https://www.goodreads.com/author_blog_posts/22097420-ai-speciation-symbiosis-and-the-4th-industrial-revolution"
+webUrl: "https://www.goodreads.com/author_blog_posts/22097420-ai-speciation-symbiosis-and-the-4th-industrial-revolution"
 type: article
-quality: 34
-heat: -1
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Nextgov
-  domain: nextgov.com
+  name: Goodreads
+  domain: goodreads.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cdn.nextgov.com/media/img/cd/2022/01/03/aiNG20210103/open-graph.jpg"
-    width: 400
-    height: 400
+  - url: "https://images.gr-assets.com/authors/1614972635p8/7086757.jpg"
+    width: 585
+    height: 933
     isCached: true
 
 related:
-  - title: "AI & Speciation – Symbiosis and the 4th Industrial Revolution"
-    excerpt: "AI & Speciation – Symbiosis and the 4th Industrial RevolutionVicar SayeediJanuary 6, 2022Seventy thousand years ago, humankind underwent a dramatic"
-    publishedDateTime: 2022-01-06T01:07:00Z
-    webUrl: "https://www.goodreads.com/author_blog_posts/22097420-ai-speciation-symbiosis-and-the-4th-industrial-revolution"
+  - title: "AI-Powered Automation Can Be Both a Part of the Problem and Part of the Solution"
+    excerpt: "There are real security concerns that should be addressed ahead of further government adoption of a truly automated future."
+    publishedDateTime: 2022-01-05T14:00:00Z
+    webUrl: "https://www.nextgov.com/ideas/2022/01/ai-powered-automation-can-be-both-part-problem-and-part-solution/360294/"
     type: article
     provider:
-      name: Goodreads
-      domain: goodreads.com
-    quality: 37
+      name: Nextgov
+      domain: nextgov.com
+    quality: 34
     images:
-      - url: "https://images.gr-assets.com/authors/1614972635p8/7086757.jpg"
-        width: 585
-        height: 933
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/03/aiNG20210103/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
     excerpt: "Manually keying in patient data into fields is not only time-consuming and inefficient, but also can be inaccurate and unreliable. etherFAX AI reduces error rates associated with manual data entry by extracting information that is stored in unstructured document types,"
@@ -63,6 +62,6 @@ related:
       domain: wfmz.com
     quality: 0
 
-secured: "UqRgPS03ogFDMOSC+9EciIMHy5oAaP7xx4O5mjpNF9QGjqSkugJFZqzUpW/fDRxzBGJ5HPQQlUtOM+g1a5ugCZMkRGEhuu6IpkzypR9gJemkZLqfJq7dnvJwoXEJPcYc7fI/zc7Cbx5VTaZJf4x5X9fuHgdoRnj/66MJnvdh1d18nPzSjVKc3wVB4JTE9KQIr9PNla95KhAt4IW+mgqm0FEd8rvwYdew+iNFGFt3S9+c3bGW4Qdp6vOiIya6cXT+Ulswp8Ny3zVnZIwdxFn8e/tE5ahV2IcWaziM/ZygSRHBzeGTY+akuHX0Yj6bRLnJDZn8AbhQZ+YJxW7DANX+5I0HVH7flB0798f/MrzadQE=;TYWeUi1DuJ6JwexBWAJUag=="
+secured: "z4YQn96N9l0/Wf2dFTwvk5iIMq+nlE9gpKnqcnax43n98yI5mtN5qvmPht5N+TobEaNa/bxhyFeqlEBC8NZGOInpCP13r0opfwg2Xaib4HlD9mwBw0UoY3Q7bXgd7xb/aOAfLHB+6xw6r8N3i3KTDUeJK8bphVEmoYQib8Mr0zZ3LCWik4dejtEU9Ib1VU4Gh6ByFzQStnRg6I0ytU5MpPdOqmvYP+dORH7e1pFkGKphl+XXHqhAAqcBqtmnJjjhvtFq4MqUuQU6Iupp3EIrnoEitp9rJ8TtU0nXO6ueLdao4czwIb1n7dp/zxVLYFgUI+Viv0YnFv/+ju0pvtlpnDOOSN8wkwYmxu7TgnTWj0k=;/eHLrq+NA4kvKY9AYKxZXA=="
 ---
 

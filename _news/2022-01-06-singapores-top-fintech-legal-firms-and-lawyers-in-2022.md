@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
-excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
-publishedDateTime: 2022-01-02T06:29:00Z
-originalUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/"
-webUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/"
-ampWebUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
-cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
+title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
+excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
+publishedDateTime: 2022-01-06T01:48:00Z
+originalUrl: "https://fintechnews.sg/58245/fintech/singapores-top-fintech-legal-firms-and-lawyers-in-2022/"
+webUrl: "https://fintechnews.sg/58245/fintech/singapores-top-fintech-legal-firms-and-lawyers-in-2022/"
 type: article
-quality: 36
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Crowdfund Insider
-  domain: crowdfundinsider.com
+  name: Fintech Singapore
+  domain: fintechnews.sg
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
-    width: 1200
-    height: 1500
+  - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/01/Singapores-Top-Fintech-Legal-Firms-and-Lawyers-in-2022.png?x95107"
+    width: 1210
+    height: 670
     isCached: true
 
 related:
@@ -57,6 +55,22 @@ related:
         width: 1840
         height: 965
         isCached: true
+  - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
+    excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
+    publishedDateTime: 2022-01-02T06:29:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/01/184971-financial-tech-industry-professionals-from-finn-ai-mx-q2-rival-technologies-share-top-fintech-predictions-for-2022/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 36
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
+        width: 1200
+        height: 1500
+        isCached: true
   - title: "Upstart vs. LendingClub: Which Fintech Stock is a Better Buy?"
     excerpt: "I will analyze and compare Upstart Holdings (UPST) and LendingClub (LC) to determine which fintech stock is currently the better investment."
     publishedDateTime: 2022-01-05T15:51:00Z
@@ -82,21 +96,7 @@ related:
         width: 1188
         height: 668
         isCached: true
-  - title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
-    excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
-    publishedDateTime: 2022-01-06T01:48:00Z
-    webUrl: "https://fintechnews.sg/58245/fintech/singapores-top-fintech-legal-firms-and-lawyers-in-2022/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/01/Singapores-Top-Fintech-Legal-Firms-and-Lawyers-in-2022.png?x95107"
-        width: 1210
-        height: 670
-        isCached: true
 
-secured: "ewmyYT9RWkmmtOwajVY6cudBrwUKm6xkU53XQd+AGq0n4I9mqmGOZ5N3SdqBlvttCxN700iJPZvN2wXDATYat7WPwAGK8IOwgIWpSYHmxOczEzbKT7/x2npZo8/UkZCV67KnZfEI4hSaudn5Y68A2KIA3GfKl2Q6tsT5icsafVmMmGldd9zeHyc2rqhBwDxRVDm/sRK+y6l7pncYBI2nHrfvoe5LJl39uRMpwt5XLBdeVmQPGIw3Bnae5UPprT/6wYPoaCQQyavYWKHDTxh1Yle8BcDaeU32a0QnQWYxR+8GaiGt2WzEQW93PGSGkirePL2K2mNL6wJcrDHv/yzoCZYe2aKVWgnXneb+qYNB65yEKPUcUgcBxCBii0tG4N64Yixh9e4gbDvGWDijbBLz5+Koe/OQoTN0+wGBLBkWCM2p6MUFH3eu8wkNd9O645ljMeAT1cOGDLxdsWEbaEy5i5cZxShOH3+RTFJkx2QYsWxpxtErvwEqcjJjC6p3v2FzaCYpYeGhUbtg3J3bqXYRRQ==;LyzQJFhtT6BT+hW4J5+cfQ=="
+secured: "dD5W0Gw3/WYuT/SFQBzOrjUufPsUwVL9bZCuu5ibrgQ93xDw9tUs84Uv+H85AWTZhUDSxJkTJWbW9VY4pyxCp2ZtHlhRCySKFbRscMItAZeNBT8Xcq2v15D3/X7s8DYevVuNnHmvZfBv4lBjm5m0A0gFFyy5aMU2qGpoJqZkw7dw7U9GLTc+zPaaEHzz9sZB/qhUdXw6x6FzheFAgNmr40ZPMa74PaBi4qLXEBpHGclT+345I9E0Bcva83oPT4vt4y93c1ZPA/FntoqbA3i87yNsD5klrNptGf1FQRlOo2FBLcUbK3JHcSJjB4OvOUldjhBg1DStPLw9JPzD2a8MMLJc8oCadYEajadtcTeI50s=;MBcCIqiPkLTJbhrk/+5jrw=="
 ---
 

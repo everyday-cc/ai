@@ -1,31 +1,23 @@
 ---
 category: news
 title: "When researchers don't have the proteins they need, they can get AI to 'hallucinate' new structures"
-excerpt: "For many areas of biomedical research and drug development, however, there are no natural proteins that can serve as suitable starting points to build new proteins. Researchers designing new drugs to prevent COVID-19 infection,"
-publishedDateTime: 2022-01-05T20:02:00Z
-originalUrl: "https://www.seattlepi.com/news/article/When-researchers-don-t-have-the-proteins-they-16750747.php"
-webUrl: "https://www.seattlepi.com/news/article/When-researchers-don-t-have-the-proteins-they-16750747.php"
-ampWebUrl: "https://www.seattlepi.com/news/amp/When-researchers-don-t-have-the-proteins-they-16750747.php"
-cdnAmpWebUrl: "https://www-seattlepi-com.cdn.ampproject.org/c/s/www.seattlepi.com/news/amp/When-researchers-don-t-have-the-proteins-they-16750747.php"
+excerpt: "(The Conversation is an independent and nonprofit source of news, analysis and"
+publishedDateTime: 2022-01-05T19:02:00Z
+originalUrl: "https://www.thetelegraph.com/news/article/When-researchers-don-t-have-the-proteins-they-16750747.php"
+webUrl: "https://www.thetelegraph.com/news/article/When-researchers-don-t-have-the-proteins-they-16750747.php"
 type: article
-quality: 45
-heat: 45
+quality: 5
+heat: 5
 published: false
 
 provider:
-  name: seattlepi.com
-  domain: seattlepi.com
+  name: The Telegraph
+  domain: thetelegraph.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-    width: 600
-    height: 336
-    isCached: true
-
-secured: "yTzv0u4CL4iS5JlcJsWSElq5GVVEGf2tbwmHcvE7NsM9WCyDdCqTfNKM3LqoQqoMaHKdzH5PjrFQ26s6gyUddiWblan6o2HFKC1T5EO820XMQ/uM0vFNfTC7VwNF+1ipku0zfgNYQ8hHAu6BjUnVaTII4HCuFKZ6AT/642dtj28vor/Xis+vXE3LdDyAu7wX9v6VWiB2zMD9egZx0uqmeQOeAEjVsAgdA7Ri9GBCn78e4rdVqEjWyvmJQ5X0tHsdYStLNlzO/ueeLIxrjwPfN7VOu1UpWk8dkbF7qlZDucfUQP7jLObziQtDT+C8IS/RqbBDk9Gtb31LkXSda2oKCY+tsI6WfP29WLRlTJ+sZgc=;oyAv+RZVA5WrJPtIi42l1w=="
+secured: "I3MusZKfe8iwvWuAYQ+Gv9XrFW59OGe6s3LBkEfaUhc6ZgROHQFDObXQkY1/6tV/PnWROkHGa0SfZzFRT6X0tWe4pjE3PwyKKejh28YgaiRVNio2kaw3k4s4tXvWg/7YeuW0cnKme5jFje2395d9JIvE/7TLpyS5TJtxqPbDbL/0w+TPkx4t18q1dHHsM0VTyQA6TxQHNNMi7MwNPkZDYGwrNNg+zMnrr5wZsbMsDTpsrYc4mQwubqkcX2WDUcHNbkzwKV+BfTSFqmcdIuNLk324XWRZB2vSKzHmrOCv193N1Whzzl/MwHKnX0nNjlPqAs0eBViOHt24XhF+8my/et/cIeqjjsrfuknX7GQmbJA=;i4n0P0HcVwroo+Fd5rs8yQ=="
 ---
 

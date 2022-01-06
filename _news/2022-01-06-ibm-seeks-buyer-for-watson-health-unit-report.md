@@ -1,15 +1,15 @@
 ---
 category: news
-title: "IBM Reportedly Seeks Buyer for Watson Health Unit"
+title: "IBM Seeks Buyer for Watson Health Unit: Report"
 excerpt: "IBM has hired BofA Securities to solicit bids for artificial-intelligence unit Watson Health, according to Axios. IBM's looking for a price of more than $1 billion."
-publishedDateTime: 2022-01-05T17:03:00Z
+publishedDateTime: 2022-01-05T21:03:00Z
 originalUrl: "https://www.barrons.com/articles/ibm-watson-health-sale-51641401912"
 webUrl: "https://www.barrons.com/articles/ibm-watson-health-sale-51641401912"
 ampWebUrl: "https://www.barrons.com/amp/articles/ibm-watson-health-sale-51641401912"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ibm-watson-health-sale-51641401912"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,9 +27,9 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Seeks Buyer for Watson Health Unit: Report"
+  - title: "IBM Reportedly Seeks Buyer for Watson Health Unit"
     excerpt: "IBM has hired BofA Securities to solicit bids for artificial-intelligence unit Watson Health, according to Axios. IBM's looking for a price of more than $1 billion."
-    publishedDateTime: 2022-01-05T21:03:00Z
+    publishedDateTime: 2022-01-05T17:03:00Z
     webUrl: "https://www.barrons.com/articles/ibm-watson-health-sale-51641401912"
     ampWebUrl: "https://www.barrons.com/amp/articles/ibm-watson-health-sale-51641401912"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ibm-watson-health-sale-51641401912"
@@ -44,6 +44,6 @@ related:
         height: 640
         isCached: true
 
-secured: "6vhFqeUz1xMmSBA4pCq6izeYg0Qj4/fKywFKbFtg+QcfWoBx+EanLogRFfGAdI3EBLDhwtPRcGIjBdF1YWkkHxQEQexq8ekctJyMfNiwgkCugL5OGsr6144EFlZNckryasfkawj7mgnjNnV1nMjiJqblH/GtHqkMf51xHBF2LHZMW2pnC9sHrKQTJnLEQwu4VIqB7bX58+WzlFjMyfplZBYV+yQm6Ku0mZXQ362cPdSYfgLDaU/8nGIQ1GBQMd2/lLdi4PhfUMYANfbLF8laEnNcvGYhbVwFEcSFZYUHSb6XzaDE8VRDGkrpXA37E35Pi4VjGgdHK3EMrRTpqxXwBmLooIdt/a+MHZCagRrpVe4=;+9x46mLXSEo+XvCX1rHQZw=="
+secured: "7/5Y+rENFGdihGbHU4QRjea8+zGNKS7YYTGoyqEf9fIGbRRWkVWH25MZSIAt/VG4WJwpAeZQB5fzDP+VmtqEVlSWDBva5kJiiFRz0TxrbRWmqo1RJljuahvttmqcJsjF6ONNyauVCF0weZa9LaVXTLas1Rhw1aQjPHZkiKMYOt/gSHrVoteeLQUlMEn0x2vMEbLb8vLge3LJBl3BFcPPnqA+ZgnJxgoItRR2jKr5YG6cL9LLBgUUCKWnbaHspFFka1AUdc6b60X9ZWpAXr8WMuC/vw8hg6cqN2S8U9lXB63U9Clcfyk67RlJufU1VoXhp1WYjPB4Nxvra20GvHL2CWPeVU86Tl4gWrmE1QyoZKc=;S/rQKkrGBa+yq0/mt9MMcw=="
 ---
 

@@ -46,15 +46,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 6
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "PRNewswire-PRWeb/ -- etherFAX today announced an artificial intelligence (AI) solution that facilitates advanced capabilities of searchable PDF, OCR, and other Key Value Pairs. These new"
-    publishedDateTime: 2022-01-04T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its-artificial-intelligence-solution-for-automated/article_ac564166-2a4e-5bb7-9d54-6fdbb9c9ec36.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "uEwUILNMw78upr/UXcVnzf9Pkr5jfjgUg84aQQVScxSMcmhKMuwFNH03PDHBpsvmXHT2nGOqeE0QBU9jdmYaSkuYUpmsoOakw5c61D6HB2gdraG5XpzwbeYMqplCCtbCFKXW3Ki/MWW8bqs1Itfy+RNthoQpJvUu3Xmg14BPY/lncHqiw2E1/G0IUJI9Kge/TnbHZq7W0GdWKiRqKwRUJ+SrloygJEjAsaPSJSYPUcsnIgyzSCwjfl6Bg+9OT5zfNPVuQhpi3WHadpxZIHavfHOnvNxT51k1AXe2kBsi3NR46a6Z3UPsArWFdbikqwSx8XxsUaRZxy/bmO+upE+O3mr4N/EAlzVtMujLHxl1C7g=;V1ob1K8IxkkfeH8/R6Gs/Q=="
 ---
