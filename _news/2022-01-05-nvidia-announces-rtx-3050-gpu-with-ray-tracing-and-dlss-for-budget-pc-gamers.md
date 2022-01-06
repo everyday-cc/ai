@@ -139,6 +139,22 @@ related:
         width: 900
         height: 450
         isCached: true
+  - title: "Ray tracing and DLSS are included in Nvidia’s new $249 RTX 3050 GPU"
+    excerpt: "The RTX 3050, which starts at $249 and undercuts Nvidia’s previous entry-level RTX graphics card, the $329 RTX 3060, by a whopping $80, was revealed at CES 2022 by Nvidia. The RTX 3050, like the other RTX GPUs,"
+    publishedDateTime: 2022-01-06T04:00:00Z
+    webUrl: "https://technosports.co.in/2022/01/06/ray-and-dlss-are-included-in-nvidias/"
+    ampWebUrl: "https://technosports.co.in/2022/01/06/ray-and-dlss-are-included-in-nvidias/?amp"
+    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/01/06/ray-and-dlss-are-included-in-nvidias/?amp"
+    type: article
+    provider:
+      name: TechnoSports
+      domain: technosports.co.in
+    quality: 59
+    images:
+      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/01/DSC00697.0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia announces RTX 3080 Ti and 3070 Ti laptop GPUs and RTX 3050 desktop GPU"
     excerpt: "Nvidia today announced two new GPU options for notebooks, along with a new graphics card for desktop user. The company also teased an upcoming flagship desktop GPU. The RTX 3080 Ti and RTX 3070 Ti join the range of Nvidia 30-series GPU options for notebooks."
     publishedDateTime: 2022-01-04T23:00:00Z

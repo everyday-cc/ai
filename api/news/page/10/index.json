@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-24-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "The latest Gartner Magic Quadrant for Data Science and Machine Learning Platforms has just been released, and IBM is delighted to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "publishedDateTime": "2021-12-23T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-instacart-is-vetting-a-self-driving-robot-as-it-looks-to-speed-up-delivery-and-challenge-gopuff-jokr-and-buyk-leaked-documents-show.md",
       "title": "Instacart is vetting a self-driving robot as it looks to speed up delivery and challenge Gopuff, Jokr, and Buyk, leaked documents show",
       "excerpt": "Leaked documents show Instacart is vetting robotics warehouse startup Tortoise, as it looks to challenge Gopuff, Jokr, and other ultrafast delivery players",
@@ -767,8 +811,8 @@
       "title": "Facial Recognition Systems Regulation: Outlook for 2022",
       "excerpt": "Facial recognition systems (FRS) technology is developing rapidly, but so is the law around it, say Nixon Peabody LLP privacy and intellectual property attorneys Jenny Holmes and Palash Basu. They discuss latest trends in state and federal regulation of FRS use by government and business,",
       "sourceUrl": null,
-      "webUrl": "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022",
-      "originalUrl": "https://news.bloomberglaw.com/business-and-practice/facial-recognition-systems-regulation-outlook-for-2022",
+      "webUrl": "https://news.bloomberglaw.com/esg/facial-recognition-systems-regulation-outlook-for-2022",
+      "originalUrl": "https://news.bloomberglaw.com/esg/facial-recognition-systems-regulation-outlook-for-2022",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1021,6 +1065,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-23-natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till-2024.md",
+      "title": "Natural Language Processing (NLP) Market||Industry Analysis Insights, Future Growth, and Forecast till - 2024",
+      "excerpt": "Japan, Japan, Thu, 23 Dec 2021 04:35:31 / Comserve Inc. / -- MarketsandMarkets forecasts the global Natural Language Processing (NLP) market size to grow from USD 10.2 billion in 2019 to USD 26.4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-artificial-intelligence-may-be-just-code-but-its-our-code.md",
       "title": "Artificial Intelligence May Be Just Code, But It’s Our Code",
       "excerpt": "The reality is that an AI is just a statistical engine, and in a lot of cases, it’s a bad statistical engine.'",
@@ -1068,92 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-insights-on-the-artificial-intelligence-in-remote-patient-monitoring-global-market-to-2026-featuring-100-plus-aicure-and-cardiomo-among-others.md",
-      "title": "Insights on the Artificial Intelligence in Remote Patient Monitoring Global Market to 2026 - Featuring 100 Plus, AiCure and Cardiomo Among Others",
-      "excerpt": "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20169786.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20169786.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-novel-biosensors-set-to-revolutionize-brain-controlled-robotics.md",
-      "title": "Novel biosensors set to revolutionize brain-controlled robotics",
-      "excerpt": "A novel carbon-based biosensor is set to drive new innovations in brain-controlled robotics. The biosensor adheres to the skin of the face and head in order to detect electrical signals being sent by the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

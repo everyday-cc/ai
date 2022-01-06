@@ -7,7 +7,7 @@ originalUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-
 webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
 type: article
 quality: 86
-heat: 127
+heat: 126
 published: true
 
 provider:

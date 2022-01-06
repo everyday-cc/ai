@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/technology/2022/01/04/chipotle-bria
 webUrl: "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/"
 type: article
 quality: 151
-heat: 151
+heat: 152
 published: true
 
 provider:

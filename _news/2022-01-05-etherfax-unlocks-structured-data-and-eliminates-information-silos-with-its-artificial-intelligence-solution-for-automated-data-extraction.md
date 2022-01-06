@@ -39,20 +39,6 @@ related:
         width: 585
         height: 933
         isCached: true
-  - title: "AI-Powered Automation Can Be Both a Part of the Problem and Part of the Solution"
-    excerpt: "There are real security concerns that should be addressed ahead of further government adoption of a truly automated future."
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/01/ai-powered-automation-can-be-both-part-problem-and-part-solution/360294/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/03/aiNG20210103/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
     excerpt: "PRNewswire-PRWeb/ -- etherFAX today announced an artificial intelligence (AI) solution that facilitates advanced capabilities of searchable PDF, OCR, and other Key Value Pairs. These new"
     publishedDateTime: 2022-01-04T13:00:00Z

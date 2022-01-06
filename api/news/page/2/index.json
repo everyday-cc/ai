@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-05-ai-could-repair-the-damage-done-by-data-overload.md",
+      "title": "AI could repair the damage done by data overload",
+      "excerpt": "With AI we can start leveraging data to empower connections and enhance problem-solving, collaboration, and finding the answers we need.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
+      "originalUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-494436399.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
+      "publishedDateTime": "2022-01-04T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-how-incorta-uses-ai-to-address-supply-chain-issues.md",
       "title": "How Incorta uses AI to address supply-chain issues",
       "excerpt": "With the pandemic slowing down production lines and transportation, the 'supply chain' is regularly in headlines. Incorta hopes to improve it with AI.",
@@ -164,7 +215,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -415,7 +466,7 @@
       "originalUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -613,7 +664,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/04/the-convergence-of-deep-neural-networks-and-immunotherapy/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -770,7 +821,7 @@
       "originalUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -859,7 +910,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 92,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -945,7 +996,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1187,58 +1238,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-labrador-retriever-robot-for-those-with-chronic-pain.md",
-      "title": "Labrador \"Retriever\" robot for those with chronic pain",
-      "excerpt": "Labrador Systems . A new personal robot takes a page from the massive proliferation of enterprise materials handling robots over the past few years. The Retriever from developer L",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "originalUrl": "https://www.zdnet.com/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c5037216932a5c4b6dfc87f67948394f889a2866/2021/12/30/2e364f0a-8ac2-49bf-9803-73818ae17f83/labrador-retriever.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "publishedDateTime": "2022-01-04T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

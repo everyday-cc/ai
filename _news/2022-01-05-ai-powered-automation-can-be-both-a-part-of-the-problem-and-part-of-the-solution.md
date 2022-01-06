@@ -25,43 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI & Speciation – Symbiosis and the 4th Industrial Revolution"
-    excerpt: "AI & Speciation – Symbiosis and the 4th Industrial RevolutionVicar SayeediJanuary 6, 2022Seventy thousand years ago, humankind underwent a dramatic"
-    publishedDateTime: 2022-01-06T01:07:00Z
-    webUrl: "https://www.goodreads.com/author_blog_posts/22097420-ai-speciation-symbiosis-and-the-4th-industrial-revolution"
+  - title: "Food Automation Pioneer, Pazzi, launches Pazzi Robotics to propose F&B fully-automated kitchen"
+    excerpt: "January 2022 - Pazzi Robotics , a French kitchen software and robotics startup, recently announced the launch of fully-automated packaged solutions for the Food and Beverage (F&B) industry. The solutions range from food preparation to final assembly,"
+    publishedDateTime: 2022-01-06T04:40:00Z
+    webUrl: "https://menafn.com/1103495333/Food-Automation-Pioneer-Pazzi-launches-Pazzi-Robotics-to-propose-FB-fully-automated-kitchen"
     type: article
     provider:
-      name: Goodreads
-      domain: goodreads.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 42
     images:
-      - url: "https://images.gr-assets.com/authors/1614972635p8/7086757.jpg"
-        width: 585
-        height: 933
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?725876"
+        width: 375
+        height: 250
         isCached: true
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "Manually keying in patient data into fields is not only time-consuming and inefficient, but also can be inaccurate and unreliable. etherFAX AI reduces error rates associated with manual data entry by extracting information that is stored in unstructured document types,"
-    publishedDateTime: 2022-01-05T14:17:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20220104-etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 6
-    images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1641334305/press_release/assets/company_logos/etherFAX-graphic-350x350_bzrxac.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "PRNewswire-PRWeb/ -- etherFAX today announced an artificial intelligence (AI) solution that facilitates advanced capabilities of searchable PDF, OCR, and other Key Value Pairs. These new"
-    publishedDateTime: 2022-01-04T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its-artificial-intelligence-solution-for-automated/article_ac564166-2a4e-5bb7-9d54-6fdbb9c9ec36.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "UqRgPS03ogFDMOSC+9EciIMHy5oAaP7xx4O5mjpNF9QGjqSkugJFZqzUpW/fDRxzBGJ5HPQQlUtOM+g1a5ugCZMkRGEhuu6IpkzypR9gJemkZLqfJq7dnvJwoXEJPcYc7fI/zc7Cbx5VTaZJf4x5X9fuHgdoRnj/66MJnvdh1d18nPzSjVKc3wVB4JTE9KQIr9PNla95KhAt4IW+mgqm0FEd8rvwYdew+iNFGFt3S9+c3bGW4Qdp6vOiIya6cXT+Ulswp8Ny3zVnZIwdxFn8e/tE5ahV2IcWaziM/ZygSRHBzeGTY+akuHX0Yj6bRLnJDZn8AbhQZ+YJxW7DANX+5I0HVH7flB0798f/MrzadQE=;TYWeUi1DuJ6JwexBWAJUag=="
 ---

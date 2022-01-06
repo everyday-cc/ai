@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-10
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/?amp=1"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

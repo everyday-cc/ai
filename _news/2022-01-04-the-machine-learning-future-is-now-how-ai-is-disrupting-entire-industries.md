@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp"
 type: article
 quality: 82
-heat: 94
+heat: 92
 published: true
 
 provider:

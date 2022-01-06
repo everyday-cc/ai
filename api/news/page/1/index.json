@@ -506,6 +506,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-06-machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis.md",
+      "title": "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis",
+      "excerpt": "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ 3.",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/",
+      "originalUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Machine%20Learning%20as%20a%20Service%20(MLaaS)%20Market3.jpg?1641369830915",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1",
+      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1",
+      "publishedDateTime": "2022-01-05T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman.md",
       "title": "Australian man plans to marry robot after failing to find loving woman",
       "excerpt": "Australian man wants to marry his expensive AI robot Emma and doesn't want to change anything about their relationship",
@@ -749,7 +792,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -946,7 +989,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1175,57 +1218,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ai-could-repair-the-damage-done-by-data-overload.md",
-      "title": "AI could repair the damage done by data overload",
-      "excerpt": "With AI we can start leveraging data to empower connections and enhance problem-solving, collaboration, and finding the answers we need.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-494436399.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
-      "publishedDateTime": "2022-01-04T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

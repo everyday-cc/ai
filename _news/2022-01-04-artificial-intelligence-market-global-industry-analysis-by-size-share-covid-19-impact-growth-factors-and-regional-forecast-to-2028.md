@@ -50,20 +50,6 @@ related:
         width: 800
         height: 320
         isCached: true
-  - title: "Global Facial Recognition Door Access Solutions Market 2021 Industry Research, Business Growth, Future Investment and Emerging Trend to 2027"
-    excerpt: "The newest market analysis report namely Global Facial Recognition Door Access Solutions Market Growth (Status"
-    publishedDateTime: 2022-01-02T17:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-door-access-solutions-market-2021-industry-research-business-growth-future-investment-and-emerging-trend-to-2027-2022-01-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027 report by QYResearch Group. Energy-efficient Artificial Intelligence Chip market is segmented by region"
     publishedDateTime: 2022-01-03T06:04:00Z

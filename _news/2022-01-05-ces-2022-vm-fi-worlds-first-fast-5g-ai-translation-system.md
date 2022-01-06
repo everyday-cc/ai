@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "ITRI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
+    excerpt: "Technologies include the CES Innovation Award Honoree RGB-D AI Robot, the Autonomous Selfie Drone, and the Interactive Time Machine HSINCHU, Jan. 5, 2022 // -- The Industrial Technology Research Institute (ITRI),"
+    publishedDateTime: 2022-01-06T04:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595638"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 69
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "CES 2022: Mobileye rolls out new EyeQ self-driving chip"
     excerpt: "Mobileye, Intel’s autonomous driving hardware and software wing, unveiled its latest generation of self-driving car system-on-chip at this week’s CES 2022. Called EyeQ Ultra, the SoC is built specifically for consumer autonomous driving and delivers 176 trillion of operations per second (TOPS)."
     publishedDateTime: 2022-01-05T13:46:00Z

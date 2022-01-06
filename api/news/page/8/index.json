@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-27-artificial-intelligence-collaboration-aims-to-improve-alzheimers-care.md",
+      "title": "Artificial Intelligence Collaboration Aims To Improve Alzheimer’s Care",
+      "excerpt": "By leveraging data on artificial intelligence, consumer informatics, and aging, the University of Pennsylvania’s Collaboratory will aim to improve Alzheimer’s care.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
+      "originalUrl": "https://healthitanalytics.com/news/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/2019-11-04-GettyImages-1003444920-e4b00c1efb9503a805928b101c78b499.png",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligencecollaborationaimstoimprove-alzheimers-care",
+      "publishedDateTime": "2021-12-27T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-second-largest-in-ai-talent-pool-bengaluru-ranked-fifth-in-the-world.md",
       "title": "Second largest in AI talent pool, Bengaluru ranked fifth in the world",
       "excerpt": "The ranking is derived based on a framework of indicators such as talent pool, investments, diversity of talent, the evolution of the country's digital foundations (TIDE).",
@@ -1115,58 +1157,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-taiwans-opposition-kmt-rushes-to-regain-lost-voice-in-america.md",
-      "title": "Taiwan’s opposition KMT rushes to regain lost voice in America",
-      "excerpt": "High-level Kuomintang official is in Washington to speed up reopening of liaison office and counter the influence of Taiwan’s ruling DPP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "originalUrl": "https://www.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/24/01bf6034-a56d-4eaf-a516-1f55929838b3_9ced3255.jpg?itok=Jhq02AR0&v=1640357815",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/politics/article/3161024/taiwans-opposition-kmt-rushes-regain-lost-voice-america",
-      "publishedDateTime": "2021-12-25T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

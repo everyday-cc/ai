@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 746
         isCached: true
-  - title: "The future lies in AI"
-    excerpt: "It enables driverless vehicles and drones and autonomous ... Meanwhile worldwide spending on artificial intelligence (AI) systems is forecast to reach $35.8 billion in 2019, an increase of 44 ..."
-    publishedDateTime: 2022-01-01T13:01:00Z
-    webUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai"
-    ampWebUrl: "https://www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/article/the-future-lies-in-ai?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=caebb246-3f74-4d60-bfa8-8731bb4eefa4&function=cropresize&type=preview&source=false&q=75&crop_w=0.84296&crop_h=0.99999&x=0.07852&y=0&width=1200&height=675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Understanding AI’s Limitations Is Key to Unlocking Its Potential"
     excerpt: "Artificial intelligence (AI) is revolutionizing many processes across industries and applications—digital customer service assistants, autonomous"
     publishedDateTime: 2022-01-04T16:03:00Z
@@ -100,6 +84,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
         width: 768
         height: 633
+        isCached: true
+  - title: "China Matching Pentagon Spending on AI"
+    excerpt: "PLA investment in AI is now on par with the Pentagon’s, experts say. The United States views China as its top military and economic competitor. “Supported by a burgeoning AI defense industry, the Chinese military has made extraordinary progress in procuring AI systems for combat and support functions,"
+    publishedDateTime: 2022-01-06T03:48:00Z
+    webUrl: "https://www.nationaldefensemagazine.org/articles/2022/1/6/china-matching-pentagon-spending-on-ai"
+    type: article
+    provider:
+      name: National Defense Magazine
+      domain: nationaldefensemagazine.org
+    quality: 37
+    images:
+      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/istock-1268656202.ashx?h=500&w=878&la=en&hash=04C78034C4708706F095C6DF35330D3E"
+        width: 878
+        height: 500
         isCached: true
   - title: "Financial Marketing Firm Expands into Segmentation, Big Data, Machine Learning and Artificial Intelligence"
     excerpt: "For 27 years, MKP communications inc. has developed and executed data-driven marketing and communications programs for its financial institution clients. With the launch"

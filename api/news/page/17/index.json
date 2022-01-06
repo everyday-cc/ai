@@ -2,6 +2,152 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-12-17-commerceai-expands-platform-availability-with-launch-into-microsoft-azure-marketplace.md",
+      "title": "Commerce.AI Expands Platform Availability With Launch Into Microsoft Azure Marketplace",
+      "excerpt": "Microsoft Azure customers worldwide now gain access to Commerce.AI, giving companies and their teams an easy way to leverage the power of unstructured data to build next-generation customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/commerce-ai-expands-platform-availability-with-launch-into-microsoft-azure-marketplace",
+      "originalUrl": "https://www.digitaljournal.com/pr/commerce-ai-expands-platform-availability-with-launch-into-microsoft-azure-marketplace",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newswire.com/files/x/a2/ff/6eacbd817226ad531d0b95c7a86d.jpg",
+          "width": 512,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-why-innovation-is-critical-for-voice-technologys-diverse-user-base.md",
+      "title": "Why Innovation Is Critical For Voice Technology’s Diverse User Base",
+      "excerpt": "Today's voice recognition systems are, at best, plagued with imperfection and, at worst, discriminatory in various regional and other dialects, accents, patois, brogues, drawls and lilts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb5d7103da74fd38c61652%2F0x0.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/17/why-innovation-is-critical-for-voice-technologys-diverse-user-base/amp/",
+      "publishedDateTime": "2021-12-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now.md",
+      "title": "The AI Economy Is Focused on the Usual Superstar Cities. Let’s Fix It Now",
+      "excerpt": "There are things cities, states, companies and the federal government can do to make sure urban areas get a piece of the next big thing",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
+      "originalUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-435932/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
+      "publishedDateTime": "2021-12-17T05:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-most-uk-businesses-say-data-regulations-are-stifling-ai-innovation.md",
       "title": "Most UK businesses say data regulations are stifling AI innovation",
       "excerpt": "A new survey , commissioned by the Centre for Data Ethics and Innovation (CDEI) , asked 1,000 UK businesses about the key barriers to trustworthy innovation in data and AI. Nearly half of the surveyed businesses (43%) stated that limited technological capabilities are preventing them from investing in AI,",
@@ -1011,118 +1157,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship.md",
-      "title": "Kahu ki Rotorua: Kereama Heke growing future for whānau through electrical apprenticeship",
-      "excerpt": "Click here for English translation He tangata whakatō moemoeā e ngangahau ai tana whānau a Kereama ... where te reo Māori became their second language. One day I may speak on the pae like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/rotorua-daily-post/news/kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship/NATTO7NYPMKH3ADCNFHJCZ2ELQ/",
-      "originalUrl": "https://www.nzherald.co.nz/rotorua-daily-post/news/kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship/NATTO7NYPMKH3ADCNFHJCZ2ELQ/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nzherald.co.nz/resizer/L3cgkh8lOHYNFBetcINEGgsVvs8=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/QVCVEXFNA4ZKKTPAJTTIAEZ2GU.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-marketing-teams.md",
-      "title": "Unbabel Acquires Language Translation Company Lingo24 to Deliver Multilingual Content for Global Marketing Teams",
-      "excerpt": "The Move Expands Unbabel's Language Operations (LangOps) Capabilities to Bring Multilingual Customer Experiences Across Marketing and Customer Service Unbabel, an AI-powered language operations ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24661629/unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-m",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24661629/unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-m",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24661629",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24661629",
-      "publishedDateTime": "2021-12-16T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing.md",
-      "title": "Camvi Technologies Demonstrates Superior Vision AI in Dell Testing",
-      "excerpt": "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision AI provides superior performance in accuracy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T15:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

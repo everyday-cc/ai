@@ -1,20 +1,21 @@
 ---
 category: news
 title: "MicroAI Demonstrates Edge-Native AI at CES"
-excerpt: "MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) software, announces that it will be demon"
-publishedDateTime: 2022-01-06T00:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20220105005941/en/MicroAI-Demonstrates-Edge-Native-AI-at-CES"
-webUrl: "https://www.businesswire.com/news/home/20220105005941/en/MicroAI-Demonstrates-Edge-Native-AI-at-CES"
+excerpt: "MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) software, announces that it will be demonstrating its Launchpad™ quick-start deployment tool and MicroAI Security software at this year's CES® exhibition,"
+publishedDateTime: 2022-01-05T20:18:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-microai-demonstrates-edge-native-ai-ces-/2022/01/05/9520964.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-microai-demonstrates-edge-native-ai-ces-/2022/01/05/9520964.htm"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - Microsoft AI
   - AI
 
 related:
@@ -61,6 +62,6 @@ related:
         height: 450
         isCached: true
 
-secured: "jyesBmH8MJLIUepecgNEelLDs4Eu2PTG1e5fovlwmwxDwQpzGEU3wh00El+2aNSfV9t8g3s4kF0zrSUGYt3qkDMx6WAuSyhdVQUtOk6qgG4hPyDe6ijNkG/HWlazSM+G/cFg5QFcqAgrYminQRYkoWxT3Gd2AvvgBXMV5P6igWAx8h6apMmya0HCOGgYX/dhaGyPklOWm7cj7PhHKDwN1iJ4pVBpFEB41xisqDa5IR47Pum8uQ0e3T3jNfqzZAlaWY0mQ1GwSjLNT+1Aac8+I9Yae/KyXtHlDIo3BQVqoVxQGrcDiwP+Yc5OIXzm14W9aQwBc40AOYfdaA0q5YukNVofCF00ccV40jUKg0LW/wU=;nsjxwoqXtzJXLJm+TpcaVA=="
+secured: "5l1Xkia4/HDNQpRYZlrwPSfokl/hGe5wobbzZnJhIH8MryA4ZkOuAiC8lKEsZfjQ4xNAdJV2h4B1yJxVcDlV/vpTL80MvNwCD9G8Tx5viEH5m8nZBiWuaYvAZc78MPzWh0+igfhtjM9V/6volzJISqmw2EZl78+6koFTgpgaFt8UbSymoUtORCf0tS88kYA2vJRTDiO8jBT7PAC8Ksb49iPGyBdwQYjAC58ss4RZWpi9FcNP1NeHbuy8RgUq0fCi1zd5jROaEkB4AvgA6mSC9ML9Z3FcFmGWJ8x0GQ6pXXWsLpdVJDCshHEhnGW/JF03TWw+QvIoqrjhMxdQzVheu5a+X8Vy40f/5CtNkhp8kuc=;crD/oZw3w+hH0vh62eFMdA=="
 ---
 

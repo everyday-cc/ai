@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-us
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
 type: article
 quality: 74
-heat: 194
+heat: 204
 published: true
 
 provider:
@@ -152,6 +152,20 @@ related:
       - url: "https://static.toiimg.com/photo/75476733.cms"
         width: 640
         height: 360
+        isCached: true
+  - title: "Facial recognition technology makes for better giant panda protection"
+    excerpt: "While facial recognition technology continues to facilitate many aspects of human life, it is now also being applied to aid the protection of giant pandas. A nature reserve in Northwest China's Gansu province has built an AI-enabled video monitoring system to better protect wild giant pandas."
+    publishedDateTime: 2022-01-06T02:51:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202201/06/WS61d6594ca310cdd39bc7f797.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202201/06/61d6594ca310cdd3d8255110.jpeg"
+        width: 445
+        height: 296
         isCached: true
   - title: "Garda body cams should not use facial recognition technology, committee warns"
     excerpt: "Garda body-worn cameras should not use facial recognition technology and should not be used to racially profile people, according to recommendations from the Oireachtas justice committee. Provision for the use of body-worn cameras (BWCs) is set out in draft legislation,"

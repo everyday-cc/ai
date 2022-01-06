@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 259
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.techrepublic.com/a/hub/i/r/2022/01/05/71827816-518b-472c-af88-edd717df8b36/resize/1200x/a155db81a2a1570f394412fb32f2f529/370a4810.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "ITRI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
+    excerpt: "Technologies include the CES Innovation Award Honoree RGB-D AI Robot, the Autonomous Selfie Drone, and the Interactive Time Machine HSINCHU, Jan. 5, 2022 // -- The Industrial Technology Research Institute (ITRI),"
+    publishedDateTime: 2022-01-06T04:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595638"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 69
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
   - title: "CES 2022: VM-Fi 'World's First' Fast 5G AI Translation System"
     excerpt: "VM-Fi is designed for the smart audio group tour business and is a device that does not require internet access. It can also translate to many people in a short amount of time. The goal of the device is the end of the world's communication barrier."
