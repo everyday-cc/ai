@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "CyberMDX"
   url: "https://twitter.com/CyberMDX"
-  followers: 1187
+  followers: 1186
 
 size: 51-200 employees
 yearFounded: 2016
