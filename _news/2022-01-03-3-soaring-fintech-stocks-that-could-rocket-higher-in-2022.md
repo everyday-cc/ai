@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-so
 webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
 type: article
 quality: 54
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -83,20 +83,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
         width: 1200
         height: 1500
-        isCached: true
-  - title: "Need to invest in fintech knowledge"
-    excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."
-    publishedDateTime: 2022-01-02T00:52:00Z
-    webUrl: "https://www.thestar.com.my/news/education/2022/01/02/need-to-invest-in-fintech-knowledge"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Fintech Led VC Investment Last Year. Here’s What To Look For In 2022"
     excerpt: "Financial services was the leading sector for venture investment in 2021 with $134 billion invested, marking a whopping 177 percent year-over-year growth. That compares with overall global venture capital investment,"

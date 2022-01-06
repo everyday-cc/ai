@@ -53,6 +53,20 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "Seven Robotics Trends & Predictions for 2022"
+    excerpt: "Meili Robots. During the last five years, we have seen robots move from a developing technology to an indispensable tool for a large number of enterprises. Moreover, over the last two years, robotic trends such as Artificial Intelligence (AI) integration,"
+    publishedDateTime: 2022-01-06T15:18:00Z
+    webUrl: "https://www.ien.eu/article/seven-robotics-trends-predictions-for-2022/"
+    type: article
+    provider:
+      name: ien.eu
+      domain: www.ien.eu
+    quality: 54
+    images:
+      - url: "https://www.ien.eu/uploads/tx_etim/global-mobile-robot-market.png"
+        width: 1485
+        height: 1357
+        isCached: true
 
 secured: "qlilrZNijUKbNnguXEGO1hmSOg4z/olO0244kyimKvF3SNQUswHPLSMyhnnxNBvvn//e61xmv99qSylvqtbpRoKNBmxXIX2XvD5WyUoAuYVp1yYdo3r0PRIcoDYToL60+MwZ+n0/Dmj1nvven1Outu7s7NZLH58nEWILHWA3m9JPgoQ+j0v7uJCQp7fKM+Pj20U7dc8wmzCwm5UItsC4gmbslAt/P95/m2HxQVkh+FXBLslpYtW8W2G33WX/fLFGJCsdH0zLxsM4W/4VNTeT+vBWkRevFDYmDDXhQzqMuULnaSimTArkZSAXzpgVWCP5b//cr+ictFeSlkLueI1RuvqQjMb7UEwChUOCx9aFrxE=;XEq0jWQnXN2stBgAA7NMIA=="
 ---

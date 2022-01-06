@@ -9,8 +9,8 @@ ampWebUrl: "https://www.asiaone.com/china/chinese-scientists-build-factory-robot
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Asia One
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese regulators vying to be the hub of control over AI"
+    excerpt: "China is again drawing appreciative commentary about its AI governance. Not a lot is being written on the topic, but it is getting serious attention."
+    publishedDateTime: 2022-01-06T16:42:00Z
+    webUrl: "https://www.biometricupdate.com/202201/chinese-regulators-vying-to-be-the-hub-of-control-over-ai"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Chinese scientists build factory robot that can read minds on the assembly line"
     excerpt: "Trained robot monitored co-worker’s brain and muscle signals to predict needs, China Three Gorges University team says in domestic peer-reviewed paper. China is in dire need of more powerful robotic technology to address its problems of a shrinking workforce and rising labour costs."
     publishedDateTime: 2022-01-06T12:07:00Z

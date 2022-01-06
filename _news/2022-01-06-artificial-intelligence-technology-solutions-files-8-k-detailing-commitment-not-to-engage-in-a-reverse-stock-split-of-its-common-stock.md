@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Files 8-K Detailing Commitment Not to Engage in a Reverse Stock Split of its Common Stock"
-excerpt: "Artificial Intelligence Technology Solutions Files 8-K Detailing Commitment Not to Engage in a Reverse Stock Split of its Common Stock"
-publishedDateTime: 2022-01-06T14:21:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/01/06/artificial-intelligence-technology-solutions-files-8-k-detailing-commitment-not"
-webUrl: "https://stockhouse.com/news/press-releases/2022/01/06/artificial-intelligence-technology-solutions-files-8-k-detailing-commitment-not"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today filed a Form 8-K with the Securities and Exchange Commission that provides details on the company’s corporate charter amendment that has been filed with the Nevada Secretary of State."
+publishedDateTime: 2022-01-06T13:47:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/06/9521400.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/06/9521400.htm"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "e2o4LmmfrJDnvIUS2k+e7Iec9LWnRWhBgQIPwXrru/vZbSFxKtL9pz/YqQfZhIbuDQTFF62Sifl2yA8Gix5mApLaXzWadGr8oEHIT7MkAHNlIKZTN7HuT1Q7lA72tKcDd2FxXPPH7pC5pnEvQvhFgwovFSqJcy/G3MrO8GDuRWP/5/Zaai18BzFtn7EYs3AWebp6kHd16U8oMwo7zhNL9woCBnSxwFlqR/iBWfjbsq0B4ccHjQoJoPcnR+MKgJeRiEslrLcODFSO5cM+/LyYhvMMbVcb0e9bR8G1+YUIcJTFtrBZ26mUiHdVmxNE88b0/c8stmle9ftzayC/mmQK/Bo92YRMXfOn/ybUIWwsQgM=;lxK5SWFXtEEBvgaTJ4/hvA=="
+secured: "pUInlYuXG81AjUJvI8p6BLjFaBnX5c7LsobjtLqNFVm1+RWJ5BvyOLtiyzSJxdAflk5hU6PPNjZq8A2rPE7vIvPOkNHLL3lhXs6xBB93EDaH/2ko74ne31pLWezbxzFeOaC6gOvpCxMPxTlOOgGIw6DOzlG02IP3NaZVyi4HGMtPo4LubUxNcmnzRvyfyeHkY+H2Ll/mo9piQdJzqvL6s/cKd4nlwaP6M+3h0ARi90zFbEJ3KHEANXH0o/xXJjl6Uzqj3Wb2hx4TtAo9HyMDso0kJ5HdTUiCwPK8liO1ldHiubIKtwl0qXLxKA1HJgc5bqIgf9hoS7RuCJ5hIlCzMqxYtAPbbKUu/bYKngI3Fak=;dWP7twOJArlNaxUWtpg27Q=="
 ---
 

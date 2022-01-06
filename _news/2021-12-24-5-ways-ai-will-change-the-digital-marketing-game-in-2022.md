@@ -1,22 +1,15 @@
 ---
 category: news
 title: "5 Ways AI Will Change the Digital Marketing Game in 2022"
-excerpt: "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ..."
-publishedDateTime: 2021-12-23T17:16:00Z
-originalUrl: "https://www.entrepreneur.com/article/401518"
-webUrl: "https://www.entrepreneur.com/article/401518"
+excerpt: "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape."
+publishedDateTime: 2021-12-23T21:50:00Z
+originalUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
+webUrl: "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php"
 type: article
-quality: 86
-heat: 96
-published: true
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Times Union
+  domain: timesunion.com
 
 topics:
   - IBM AI
@@ -24,27 +17,11 @@ topics:
   - AI in Marketing
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg"
+  - url: "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
 
-related:
-  - title: "Will Artificial Intelligence Change the Stories?"
-    excerpt: "The Reindeer are chosen and line up for that last inspection before the lucky eight head out worldwide. Rudolf will lead the way again."
-    publishedDateTime: 2021-12-24T18:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-change-stories-ray-stasieczko-1e"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFC2rNylJzEgA/article-cover_image-shrink_720_1280/0/1640369457018?e=1645660800&v=beta&t=_wn983QULaC26g-MQif8zkxh5OPE3fjPkFfzyKAqYi8"
-        width: 1138
-        height: 720
-        isCached: true
-
-secured: "12x9VbPtxerVYnrTWgnA4PLITb5XaWt5QCsyE9PBgRNDQRCf1kWBihGwHOHVnnN5JLvgMuih9kAUkpr0Z1w4GD6RHCISQoAOeJSp5DbgZaQKSYWOrH72si9fGvMguHkUSw7r/pS1AgQelEcTIpSlRd31PFGFYkUiRo2qEyOasgvioKio6slwo0QqGfXkD8BcNu9FIEaeQEDIbZ0CQSvvRt90zXzLIcHa/+a4yYIijHN+wfA0Vh2wUnMHfy7nEwmcM3uRzQKu6SS00ZcRxtV6muYEZiYScJMmWuGkSXmpqPeF2H5qXtoRVYvWYmUK5M/ugf0imaXGEX6sXXK/v9AdYhLp2PCqyAvHqiAsNrb0E/E=;4lx8AwX5Vtp7hKmN/WohPw=="
+secured: "phvg2syWm4959jEvmxe0ufwD7yWJ6FhQXPREKR1TTTHpYLNzb0RrNL2WAb8hDWsz+kgpPGeaGqnFkWAI0qL41tscRY18OEsVaO0QJRGrHOVBLH5Ez+EgU7nUWS+jr1NJpPMvKEOQvcumKp8LwYjSiolsakryRyhJWfdq+K4z1Y6dZLwOTNjKcLnr8nWdV30V+wUwJRYRUEA8PP/EeT0edHhKLgF2m1pMSxuERmBk4vy39MKo4yOa5yINpWE8AjfVc06Zkalab52AX970MJke6Fc/ZynDPXKTdwFm8bOKqR8MmFmeAE5J/RtyaJmp2LmD6l1H2nXNE+FeDme37gW2D4wNwHsPldmsHSi7w9rHsYY=;wiB57AcEE402qSYrlzElIw=="
 ---
 

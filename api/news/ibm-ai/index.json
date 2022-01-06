@@ -294,17 +294,17 @@
     {
       "path": "_news/2021-12-24-5-ways-ai-will-change-the-digital-marketing-game-in-2022.md",
       "title": "5 Ways AI Will Change the Digital Marketing Game in 2022",
-      "excerpt": "Today's digital marketers are swimming in such a sea of data that sometimes it feels like you're simultaneously drowning and treading water. Then, artificial intelligence walks majestically into ...",
+      "excerpt": "What will AI mean for marketers in 2022? From chatbots and other virtual assistants to generating the content, enhancing user experiences and more, AI is already making major changes to the digital marketing landscape.",
       "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/401518",
-      "originalUrl": "https://www.entrepreneur.com/article/401518",
+      "webUrl": "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php",
+      "originalUrl": "https://www.timesunion.com/business/article/5-Ways-AI-Will-Change-the-Digital-Marketing-Game-16725315.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1639598334-GettyImages-1310347004.jpg",
+          "url": "https://s.hdnux.com/photos/01/23/27/75/21856078/3/rawImage.jpg",
           "width": 2000,
           "height": 1333,
           "title": null,
@@ -316,21 +316,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T09:16:00-08:00",
+      "publishedDateTime": "2021-12-23T13:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

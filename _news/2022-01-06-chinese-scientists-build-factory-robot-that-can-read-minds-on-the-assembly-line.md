@@ -41,6 +41,20 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Chinese regulators vying to be the hub of control over AI"
+    excerpt: "China is again drawing appreciative commentary about its AI governance. Not a lot is being written on the topic, but it is getting serious attention."
+    publishedDateTime: 2022-01-06T16:42:00Z
+    webUrl: "https://www.biometricupdate.com/202201/chinese-regulators-vying-to-be-the-hub-of-control-over-ai"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "q2B8HRsoFoyjpxQq3T6eNfZcCkrZdGN48D7krgklpQdT4GlN+Ziqy6PLPHPDyIJJrbWe+9LP9Hpba14IRxyvEZ+iaqVUFqvZF7iCAVK5TCVxBeVj/ouNJGVtODB8boH8hjX4Y2Trn9yzESkWeu1RdSHd6vFiSefn7293Rt6MGDjvz/CNqxoh2v3DIyH3gol8QBUpFpVMNg9vcXOq7O+MXkY+GT4nCzzjoX7sETfVVicfeq7920KmQO3lJBiy7hag1OpNWbz+tSaV0c9yOJdXjAmdhukcSJbE1hTX8SM3EY2aJ0BtTRrazGnYkVyAvkDJNQ5RwHczJGD8jWkPaEKnQKpB30H+KbB9SXbUWhXBGOA=;1HMsRKniIyXVi2H5Lofafg=="
 ---

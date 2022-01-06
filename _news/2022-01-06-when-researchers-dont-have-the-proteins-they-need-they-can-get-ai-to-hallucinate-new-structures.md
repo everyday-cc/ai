@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-01-dont-proteins-ai-hallucinate.html"
 ampWebUrl: "https://phys.org/news/2022-01-dont-proteins-ai-hallucinate.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-dont-proteins-ai-hallucinate.amp"
 type: article
-quality: 45
-heat: 45
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: phys.org
 
 topics:
-  - Machine Learning
   - AI
 
 images:
@@ -26,6 +25,6 @@ images:
     height: 1743
     isCached: true
 
-secured: "9rJUki974drNj5YIO9wt9eGk8sPKvT4pR1CmPgrP611vxZ8Pqy9XY47GtZEnoQXnHVdgD89uWaCScZNhhSC4anfY+0c7RB6Y/eFBTIDG8ZFdc0r8g8IX5ezmDv/8RtHWJcMGkIiLfCI9KuD7lECYZwm1fcR2Mo8Ue6NU7SUmsqOBgtiT6ztuldJ7ZnRfcOxAasDC66MX1chtaJtbQ4EhUr0J9dGmAVbf6yWr+TXGl8c4a18QTPX6yGoIt/dX6Ytg1QtXS5vgWEmqwk0dRiheKCC3btc3x0HEXrJc2gBIJ4iOHPTEI5PFTETRyZbPmHjSekqFe7te3pMgkHW0+73dDWAa14GYoVACmAfvRCMk/KE=;DjmGrC6LKJBCTC6yYpVPrA=="
+secured: "aqxQgHx06L/G8s/4Cjy6sjYADmO8NzgYAL6jfECGZ685H19MslR8+s116uGMRMJPiY+cltqrze5aIDQ50zFLMqKs7yG7pLLqg4yudTKACASl+ahErMNcUeMOwxtPkaMfTSfVEVFA67jAqqwIWHoiLDMDgwvyR/i9qPlT0mXnNVs9h7U0/ONXurZngh2x4zd3sUv0lVKlkKb6udGQ4o8Qfb+8qlw0+Qyj4FrivsiLcUqxEF3a3Qn+GVvCPwGiFSAJaC3rUIpZgXgmWrjXUCXN6kP5433r+tvDOIhZXC5X7MgqxtaNVnv+IPQxYh9UIsS/d2MMPQG07wDemlaMDuO4c0LqkiLlPiQLgLiwGXECsec=;4Xgp+xkE0Vh3nxo+BKscFg=="
 ---
 

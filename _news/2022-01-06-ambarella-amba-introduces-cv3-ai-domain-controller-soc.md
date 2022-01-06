@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Ambarella (AMBA) Introduces CV3 AI Domain Controller SoC"
-excerpt: "Ambarella (AMBA) launches CV3 AI domain controller SoC for implementing autonomous driving for vehicles from Level 2+ to Level 4."
-publishedDateTime: 2022-01-05T17:01:00Z
-originalUrl: "https://www.entrepreneur.com/article/411648"
-webUrl: "https://www.entrepreneur.com/article/411648"
+excerpt: "Ambarella AMBA recently unveiled CV3 artificial intelligence (“AI”) domain controller system-on-chips (“SoC”). The platform is ideal for implementing autonomous driving for vehicles from Level 2+ to Level 4,"
+publishedDateTime: 2022-01-05T21:10:00Z
+originalUrl: "https://www.chron.com/business/article/Ambarella-AMBA-Introduces-CV3-AI-Domain-16751421.php"
+webUrl: "https://www.chron.com/business/article/Ambarella-AMBA-Introduces-CV3-AI-Domain-16751421.php"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411648.jpeg"
-    width: 635
-    height: 400
+  - url: "https://staticx-tuner.zacks.com/images/charts/0d/1641391398.png"
+    width: 583
+    height: 265
     isCached: true
 
 related:
@@ -60,6 +56,20 @@ related:
       - url: "https://img1.s3wfg.com/web/img/images_uploaded/e/1/dl-seeing-machines-aim-technology-computer-vision-driving.jpg"
         width: 620
         height: 350
+        isCached: true
+  - title: "Ambarella's Artificial Intelligence Image Signal Processor (AISP)"
+    excerpt: "New neural network based ISP enhances low-light and HDR processing by up to 100X compared to state-of-the-art traditional ISPs"
+    publishedDateTime: 2022-01-06T16:40:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/product/21252265/ambarella-ambarellas-artificial-intelligence-image-signal-processor-aisp"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 54
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/ambarella_AISP_technology.61d719e523321.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Ambarella launches AI domain controller SoC family"
     excerpt: "Ambarella, an AI vision silicon company, has announced the CV3 AI domain controller family. A fully scalable, power-efficient CVflow family of SoCs, these devices are able to provide the automotive industry’s highest AI processing performance,"
@@ -96,6 +106,6 @@ related:
       domain: greencarcongress.com
     quality: 3
 
-secured: "11nJ9eCsRNWKz2sCLZrDXV6is8PZ+eh+wC9k+KM07RyLU9RXoCiV+JxA6ja+w3CWCjnVJNvLeRCFE/Wj14DwydYuk6x+70GNHPemmuWH2DTWxC5t6qsc4wAbwOjLJwPm8Hp/yhlxQ/kAGIM49xQvoCGZjjah2CFJZFRuiNJyL6iKWfrskQVB5gA+4fF5HlqjJFJppdBzLZR8NunEzQakD/obyK4DyaGfJ6vacatHlcv9+mdVAkmp59rTnoQtFXvEU/2EEulVEKxakGiELWLnp6FrzW/PnPsR/cssgjHRMA5f7YABWjFYaC6V2/emJG6Sa+4EoPDKtSC/PFjmai6ysKDe/q3qLMTJbm/Vn3cHXRI=;vtiujbMsBDdJvD6VMDWmjw=="
+secured: "ml3On0uxH5+DPQfMVHISvC0JJAeEkXfJZ7tfHvMayrT3Hhcanw3lsewx09ht4rkhzdiCY19Vo4bd227nbDBOajJglIVLdEddRjspGShuUTmD63guYg8YzycGZTeFl+WIlvcVur+/PvtE2haTCxtUeQKhHAARhjS03v/V+uCxEufoxhoy4VbO0Y9T2ugh7az92q4XwymwU7uBN5TAYnQOfASwPwSUO+76CkgozKJXVh7PCF9GxThn/IIJmclrvUSxoqIqan8gMMfkvPeB712u2x9DqCvDQe9st3mF0I13NH3AjB5q/D3KEg6lVHgtkCdYhSi70TA93GoXwzWMIe1gKURni4u6RctLM7RGQTwnyWA=;WVxFWxDa8lRSf1l6GH8J5A=="
 ---
 

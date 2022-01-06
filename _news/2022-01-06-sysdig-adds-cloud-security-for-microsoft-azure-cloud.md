@@ -98,6 +98,20 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Microsoft AI surpasses human performance in common sense Q&A"
+    excerpt: "Welcome to the 48th edition of the AI and Global Grand Challenges newsletter, where we explore how AI is tackling the largest problems facing the world. The aim: To inspire AI action by builders, regulators,"
+    publishedDateTime: 2022-01-05T11:49:00Z
+    webUrl: "https://www.linkedin.com/pulse/microsoft-ai-surpasses-human-performance-common-sense-marcel-hedman"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGcRRyk4eeGRA/article-cover_image-shrink_600_2000/0/1641381987976?e=1646870400&v=beta&t=upT6m_EjVjrDYowz0-Z_5XboiSunC7qUD-dVL6qAcMg"
+        width: 1800
+        height: 600
+        isCached: true
   - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
     excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
     publishedDateTime: 2022-01-04T19:00:00Z

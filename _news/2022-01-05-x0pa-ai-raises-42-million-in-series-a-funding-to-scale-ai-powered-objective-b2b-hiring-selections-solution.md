@@ -2,9 +2,9 @@
 category: news
 title: "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION"
 excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led"
-publishedDateTime: 2022-01-05T02:00:00Z
-originalUrl: "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
-webUrl: "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
+publishedDateTime: 2022-01-04T21:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring--selections-solution-301450354.html"
+webUrl: "https://www.prnewswire.com/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring--selections-solution-301450354.html"
 type: article
 quality: 19
 heat: -1
@@ -54,6 +54,6 @@ related:
         height: 720
         isCached: true
 
-secured: "vIKmscMn4KANatPMGqoAvaj6mgzaVMBcrYRl4zzDR14WXg2v43IM/jIpvez9KpEQL0tcK0NFABMxaJNKFF/mADCQ0PD9wSumr9Utv2CUD4Xx9YyvS50CpNPBKco7Zt0sElC1aojvy/eaLurfzJlcmZHyCkV3VQna0w1kDZT0aErvNNyL13Xw418T23YxlOi7gDo99s4lTY+KcFEEyrmlb9zt1O2pvm5+Cx6Z0gUOlLRfe0SPBRZ5VXdp6Edc1WDvbdv7SKRcNnKdppzZCJHMeZMuHPNc0T8SaijtMji/Trdc9SnZkFct5OzwnQ2/ChRDQmNWzfLY2vq76ei9vE06389nHlZJ9MZQWhU0RAB5Fa6NyAO/wxjG8B1P/K4u3d4wE9jhKFu3HH0u/1QVFssLXIIfnFRZH15ONAFBB95WsVUKjHxSWATbzSNRvWLmjAKZvyl6k2py65O8hjOiY2g/BL4opY52q6dc2Siw6JRDWh6AZuZeX9FcvKBvfPpnWtwyqZ2TsYG0RGmOmdZaxIGyLA==;Wy3bx1pHPC7plw/56xgtXA=="
+secured: "CxNSX56vQYN+Xjbgtt1Ojt940/PTcso8xjnf0pZ8g/S9kP+M6CGk4cy7AYZk+L4eFzbXqaUAxUag5let0n0cThFHcPc+4kE5VIwpVEPPLlnQiTZ1x+vDXZrMeU3SgjLfL2qqELjR0sRZhOBDnq0UvPiUK/Pzt/Yd1YECBIZ6tdRruu0p+ljWsdtGDsQEcF9XwkjZQajxAOF8ebxnG/UsTGkPmOBzYUZ1TOOH6vCb/3+2SY7pQUjyySqRdqGAKmc75RqcP0JZWMX8dgTPjtanJB4fTaFVdpH7Er1127G6e45ccQDsjmls3jcyH/XDxj9jtabiVJaicLHcTBXxGz789XrgK7/XKtLVrB6M0Aj4DtA=;Tm5bwqa+iyFBZTbDG8vtTg=="
 ---
 

@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
-publishedDateTime: 2022-01-05T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
+title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
+publishedDateTime: 2022-01-05T15:04:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
-    width: 1154
-    height: 606
-    isCached: true
 
 related:
   - title: "ITRI intros innovations in AI, robotics, and ICT at CES 2022"
@@ -90,7 +84,7 @@ related:
   - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
     excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
     publishedDateTime: 2022-01-06T14:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-deep-robotics-jueying-lite2-robot-dog-makes-its-/2022/01/06/9521548.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/06/9521548.htm"
     type: article
     provider:
       name: TMCnet
@@ -186,6 +180,6 @@ related:
         height: 450
         isCached: true
 
-secured: "+YFEmdH8pb+v46IHDsdnH3ULIvL4hCXHRAuHB2eSwotnSvw54IQL1Gp7Jtzz/12j8/8Ln3K6x+J0IQlBGhkWKLbrLsBtQIfCLMyrz/RRutoPPPcL/Q/ZMlJR2FkFL7H3EBug6EK88W0SdYThecfViIX+cOxMpyyfYWMFLzJsPqMPmPKx09+OBlrqEetyqXZqSEd4GH5eF38AL7prOLSYLvMWB+E5Wo7GOxkUy+Pl5GU3lQIRSucWNe4NL7N1/8V/oarqalOw1JCNkZNIStkXBxIHMfrd6nG5O78Ip5PFYwtVu0pWpptEWNmBpDOco0uQzEDaboXfJspfOiTz8n8kPejo+R4JR4g/X3uRzWdczp4=;0UAwjnqVWNAHUHnZbFMz6w=="
+secured: "aRiKZYsBB8aTVtUe0znsaa6KxfQc3WbrMHhALXqzIs8yOLxSuPi0+++IaFbzvNXkG7x1zZnUaAFnlfPdCNZ8idd28oINFQGbREkcnjYuepSRbLoBnHT/qjtCSslBCMc0+fwznaySagFhzqTI4sui7YnRRuN2dDYkpcCpG5iAlESt63y/hN6eGo2yY10UdcFVs1UPUFaWgEtMERlNEnLUe3KDw8U0YFTBjBKUh1KF8dA6GLjGodUExL7T46UjqV+PNcQDmu7pEGzjsP/jfQO8V7mFBSyTWUV1i6KsuFNxRa2j1cHARyRrZjqhEVUQLvEvYRL4qHwdBXLe9k6vv4F3SFUo2u4HdIzdpKZTml1B7CY=;6sr85JzpEd2ZJCYyKDRdXg=="
 ---
 

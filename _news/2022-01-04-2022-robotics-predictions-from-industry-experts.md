@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-indu
 webUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://i2.wp.com/olisa.tv/wp-content/uploads/2022/01/Robotics.jpg"
         width: 900
         height: 500
+        isCached: true
+  - title: "Seven Robotics Trends & Predictions for 2022"
+    excerpt: "Meili Robots. During the last five years, we have seen robots move from a developing technology to an indispensable tool for a large number of enterprises. Moreover, over the last two years, robotic trends such as Artificial Intelligence (AI) integration,"
+    publishedDateTime: 2022-01-06T15:18:00Z
+    webUrl: "https://www.ien.eu/article/seven-robotics-trends-predictions-for-2022/"
+    type: article
+    provider:
+      name: ien.eu
+      domain: www.ien.eu
+    quality: 54
+    images:
+      - url: "https://www.ien.eu/uploads/tx_etim/global-mobile-robot-market.png"
+        width: 1485
+        height: 1357
         isCached: true
   - title: "Futuristic Predictions for the Fintech Industry by 2050"
     excerpt: "What are the prospects for fintech in the long run? Some of our sources predict interplanetary payments and trillions going into decentralised finance"

@@ -82,14 +82,14 @@ related:
         height: 1200
         isCached: true
   - title: "MicroAI Demonstrates Edge-Native AI at CES"
-    excerpt: "MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) software, announces that it will be demonstrating its Launchpad™ quick-start deployment tool and MicroAI Security software at this year's CES® exhibition,"
-    publishedDateTime: 2022-01-05T20:18:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-microai-demonstrates-edge-native-ai-ces-/2022/01/05/9520964.htm"
+    excerpt: "MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) software, announces that it will be demon"
+    publishedDateTime: 2022-01-06T00:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220105005941/en/MicroAI-Demonstrates-Edge-Native-AI-at-CES"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "Fue5YVOna5QQLw2fKkTgveNbKhP5DRwpPdEtIyUkgDUHN2eStaZH9X8hWre1/h8TcDuDsWqt/ot9jvHxJSo16gaCt65Vw9mHtwRRM3ihe1JF1ZEnmUIRCFcXDttaj4A1hNqs2AuLOyZfQHrN7zrC+YBeZvYaz4TFu2oUGy/OEBltHN0f3lBxF527G+I3P7/f2lkynRx2RH2c+51YK5A7YuPiVES3thwp1cKQy4EwJxAVPHinH+vZC/Sl349YiADIgp5Dn7mweZ53yh3Aa+QlI8yyjX/g9ru/Evb281J/3UuFQ3VxZQy0WEqjFR5688+Qjg9FAl4GVJSfMfZp/l6pXquP7/PpZTxm2SUi9pdRDxw=;B0qL9QbnWa4SnRU+noH5pQ=="
 ---

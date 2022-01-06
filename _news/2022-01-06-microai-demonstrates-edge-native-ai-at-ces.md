@@ -1,21 +1,20 @@
 ---
 category: news
 title: "MicroAI Demonstrates Edge-Native AI at CES"
-excerpt: "MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) software, announces that it will be demonstrating its Launchpad™ quick-start deployment tool and MicroAI Security software at this year's CES® exhibition,"
-publishedDateTime: 2022-01-05T20:18:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-microai-demonstrates-edge-native-ai-ces-/2022/01/05/9520964.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-microai-demonstrates-edge-native-ai-ces-/2022/01/05/9520964.htm"
+excerpt: "MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) software, announces that it will be demon"
+publishedDateTime: 2022-01-06T00:05:00Z
+originalUrl: "https://www.businesswire.com/news/home/20220105005941/en/MicroAI-Demonstrates-Edge-Native-AI-at-CES"
+webUrl: "https://www.businesswire.com/news/home/20220105005941/en/MicroAI-Demonstrates-Edge-Native-AI-at-CES"
 type: article
-quality: 19
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - Microsoft AI
   - AI
 
 related:
@@ -90,6 +89,6 @@ related:
         height: 450
         isCached: true
 
-secured: "5l1Xkia4/HDNQpRYZlrwPSfokl/hGe5wobbzZnJhIH8MryA4ZkOuAiC8lKEsZfjQ4xNAdJV2h4B1yJxVcDlV/vpTL80MvNwCD9G8Tx5viEH5m8nZBiWuaYvAZc78MPzWh0+igfhtjM9V/6volzJISqmw2EZl78+6koFTgpgaFt8UbSymoUtORCf0tS88kYA2vJRTDiO8jBT7PAC8Ksb49iPGyBdwQYjAC58ss4RZWpi9FcNP1NeHbuy8RgUq0fCi1zd5jROaEkB4AvgA6mSC9ML9Z3FcFmGWJ8x0GQ6pXXWsLpdVJDCshHEhnGW/JF03TWw+QvIoqrjhMxdQzVheu5a+X8Vy40f/5CtNkhp8kuc=;crD/oZw3w+hH0vh62eFMdA=="
+secured: "hCUUmD0mqlL5AGIbBVWmDBdD/2n/tPfU4SfU2FvCbpfgvU9m+Qm2b+wFiJ1qgqNzbVc8VElZlPF4BP4jfc4qV1MEBkjqRUp/MpvkttmfpfUE8lF/vh+lttZKzm5iRzb5zJCTzW2RX30OXJnyJrBmrdkYUDSPXUS1a7XUeHSBgPa0qlX0a6ki+69HZWUUlE6ZYjm97mCFq4lOdSp5TKWG8SFx4ej278K6IeAMEBNi5xpEl9Dd7phlWJjYKTOk3+BqzsaYXKP4zXzWG3z55dr2tjmGkIMd2ybSQMP+Nn5Ef8XQdo8peOHV+L8AX3i3rWhKkoaHhPmAUU5JyfmyUHmrGrZeFkuJy3cu5MJNdXvlt80=;gteYJyW+IcpjCFliZ8TMlQ=="
 ---
 

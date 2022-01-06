@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Vantagepoint AI Awarded 2022 Leading A.I.-Powered Trading Software Provider"
-excerpt: "Corporate Vision Magazine has recognized Vantagepoint A.I. in its 2022 Corporate Excellence Awards. WESLEY CHAPEL, FL / ACCESSWIRE / January 3, 2022 / Coming off one of its best years to date, Vantagepoint A."
-publishedDateTime: 2022-01-03T13:02:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-business-software-philanthropy-patents-d9ba9e8181dd40c2ab45769beac4adfd"
-webUrl: "https://apnews.com/press-release/accesswire/technology-business-software-philanthropy-patents-d9ba9e8181dd40c2ab45769beac4adfd"
+excerpt: "Corporate Vision Magazine has recognized Vantagepoint A.I. in its 2022 Corporate Excellence Awards.WESLEY CHAPEL, FL / ACCESSWIRE / January 3, 2022 /"
+publishedDateTime: 2022-01-03T14:10:00Z
+originalUrl: "https://www.digitaljournal.com/pr/vantagepoint-ai-awarded-2022-leading-a-i-powered-trading-software-provider"
+webUrl: "https://www.digitaljournal.com/pr/vantagepoint-ai-awarded-2022-leading-a-i-powered-trading-software-provider"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.accesswire.com/users/newswire/images/680256/award-v3.jpg"
+    width: 552
+    height: 318
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 318
         isCached: true
 
-secured: "LItFRAYDHB4zPpUIWohV2QbFXBfCK6gpR4h710sJwfty7Hwsr6JtvrBIeUKBpNogUrgfYhjgO8b+3ncQ08p70VyNxYNM6TqR/qbpcX3AgfWVlm24ZUxMMIuFlYJpsirRLwM8XJUWfEEliYn0dDeOk3u7qHxvvs+15oGrhRAiyaTzVjlQz4IcU1rR3OJcjh0ohiNsTARw2xh4ulWBkH8fcWZaJ/hkJzRn1Ufe0zVDLLasvZWcIDDs0DK7oYFRhYva5RmJPxsNyQqlxqk9TbqwxmhXtORVFfvM4jyBvwPIM1blySExNgwelavLHWCf+8V3cjHQ3pQiiFTUSsZnx7pElxyi3aanx2kVqNWVD0b4TKI=;sUt3ewtZGiHNQjDakk3hCQ=="
+secured: "gq0tUuwliUF6qZvc5iVFYurg2uXdcKmbHXBMasg/GjmH/BTcmAEKCmV/e4wqxHa+aEFUFuucc8E3veg7cWA3ea3XKdB91FiCEn3nJg9PLLq1McQ2Uz03UJ8ktxnkaoeULriiJh0lK1o9Lx6YDWszo901gCg+afD2W5u3W3dbjgmhP/t/mhpAkgTr1MVUIQhkJ4cJopZ0dmgxi1BZvDHnH3rdSq3oIlE56u0O0sx3HBx9vdrrELrnlwt4dYb5UAqwjDWI5O60beiEnDRMlnypV/bTIsSWgzjtMeuykbtmc2kicJqqpxBFvCr1gFxkireQ5OTWgTGC5vQKXWnkD3xR05NjSIXEXBQLYLRAKCMt0uo=;D2p7Y7SFwFsj1WbLitii7w=="
 ---
 

@@ -86,6 +86,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+    publishedDateTime: 2022-01-06T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
 
 secured: "2DQ/Lhs+XWaSexK00d/KmUuIPzAtv0H4joAjWv8sCGp41rxKZXLyHuWp4tCFHnyEoDJsQWKCW0JfI1SqrpzYxDImkAtIJB6JN4RLYAW458ZaXE46nTobN0kFgYNYyH19I9VrMRc+oIg5ZiNgKtYR+p+WN4wlwquaUTFrojtms/xCr0IXAYRoqiK2HyA9IoRwEupRhNiKjt+TTo3Q3NJf5cONHln9yS6LSreWMGcqWUhEHy+QmMh5eHNp00FRkE7hvvoq8XxZ2IRCer7Eg1shywasns3/WqAmLKXXv/t4iabBui6fzaJD38PhQ5FCYSHBvNRdwSUM6fXNqudQ+TAVTbSjg20oUV8Dh9kil/Fe+AY=;QyK5RzXgRJ9dqKx5NzIIYg=="
 ---
