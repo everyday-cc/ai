@@ -41,6 +41,20 @@ related:
         width: 696
         height: 392
         isCached: true
+  - title: "The Worldwide Learning Management System Industry is Expected to Reach $37.9 Billion by 2026'"
+    excerpt: "The global LMS market is expected to grow from USD 15.8 billion in 2021 to USD 37.9 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 19.1% during the forecast period. The growing need for efficient and accessible learning to drive the LMS Market."
+    publishedDateTime: 2022-01-06T20:40:00Z
+    webUrl: "https://menafn.com/1103500440/The-Worldwide-Learning-Management-System-Industry-is-Expected-to-Reach-379-Billion-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?860987"
+        width: 416
+        height: 250
+        isCached: true
   - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
     publishedDateTime: 2022-01-03T06:15:00Z

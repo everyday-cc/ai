@@ -45,6 +45,22 @@ related:
         width: 1376
         height: 800
         isCached: true
+  - title: "GM, With Qualcomm, Is Taking a Tesla-Like Approach to Self-Driving Cars"
+    excerpt: "The Detroit auto maker and the chip manufacturer unveiled a new computing architecture that will take GM's autonomous driving functions to the next level."
+    publishedDateTime: 2022-01-06T19:00:00Z
+    webUrl: "https://www.barrons.com/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
+    ampWebUrl: "https://www.barrons.com/amp/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-284801/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Qualcomm Unveils Gambit to Build \"Digital Chassis\" for Self-Driving Cars"
     excerpt: "New initiatives for Qualcomm include next-generation ARM PCs, the metaverse, VR/AR, wireless fiber, and Advanced Driver-Assistance Systems (ADAS)."
     publishedDateTime: 2022-01-04T23:41:00Z

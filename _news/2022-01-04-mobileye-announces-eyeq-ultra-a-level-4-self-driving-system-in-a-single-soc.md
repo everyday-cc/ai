@@ -99,6 +99,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Geely to develop self-driving vehicle with Mobileye"
+    excerpt: "Geely Automobile Holdings plans to tap Intel’s Mobileye unit to develop a vehicle with L4 autonomy for Zeekr, its smart electric-vehicle brand."
+    publishedDateTime: 2022-01-06T17:37:00Z
+    webUrl: "https://www.autonews.com/china/geely-develop-self-driving-vehicle-mobileye"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/zeekrmobileye-700x525.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
     excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio - the Snapdragon Ride™ Vision System - a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
     publishedDateTime: 2022-01-04T19:21:00Z

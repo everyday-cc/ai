@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/zeekrlaunchnight_15042021-10.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Geely to develop self-driving vehicle with Mobileye"
+    excerpt: "Geely Automobile Holdings plans to tap Intel’s Mobileye unit to develop a vehicle with L4 autonomy for Zeekr, its smart electric-vehicle brand."
+    publishedDateTime: 2022-01-06T17:37:00Z
+    webUrl: "https://www.autonews.com/china/geely-develop-self-driving-vehicle-mobileye"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/zeekrmobileye-700x525.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Mobileye Announces EyeQ Ultra: A Level 4 Self-Driving System In A Single SoC"
     excerpt: "Aimed for a 2025 release, the EyeQ Ultra is Mobileye’s most ambitious SoC yet, and not just for performance. In fact, as a site that admittedly rarely covers automotive-related announcements, it’s the relative lack of performance that makes today’s announcement so interesting to us."

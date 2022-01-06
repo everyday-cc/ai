@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Manufacturing"
-    excerpt: "Many see artificial intelligence (AI) in manufacturing as a major part of what is being termed a “new industrial revolution.” This next stage of industrialization is being driven by robotics, digitalization,"
-    publishedDateTime: 2022-01-03T10:00:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/"
+  - title: "AI in closed-loop manufacturing can benefit edge computing systems: 4 things to consider in IIoT"
+    excerpt: "The convergence of AI and closed-loop manufacturing is coming. This could change IT thinking about edge IoT. Be prepared with these four things to know about it."
+    publishedDateTime: 2022-01-06T19:41:00Z
+    webUrl: "https://www.techrepublic.com/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 56
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 74
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg"
-        width: 2560
-        height: 1493
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance"
-    excerpt: "The insurance field has been investing in artificial intelligence (AI) for some time. In fact, AI in insurance could be considered to be relatively mature, at least on a basic level. Functions like chatbots and AI-based analytics are well-established in the field."
-    publishedDateTime: 2022-01-03T10:10:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-insurance/"
-    type: article
-    provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
-    images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-6-scaled.jpeg"
-        width: 2560
-        height: 1600
+      - url: "https://www.techrepublic.com/a/hub/i/r/2018/02/01/31ad99a6-f326-4598-aebd-9b67d7b2dbaa/resize/1200x/c54bf641da518b3167d8cd47626582af/auto10.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "/vh0TVfYuSP6+PbMrK3+e53JNrfrGHc2/gt69qSD3ce/LEyEYR2nf4e/kxQQZWxORthcKKD8AnMYCTakiOsm5n+q+0rA2dsOPP6wn7N3xf/Y7BsQ+vx1IDyaHbPZItupH3zceXTd7u9PP0a0P2Un5mMANIO9eABejdbjq2fIgyhnJR36y+sudj1QiGrLWqtj1lVEkVZ1yr/0rOTIJTJPqXO+2rSgZg3QUqSLCAWPyS9UfLHwunVoI2O1zkJt6DtJ8nQI6UefSLjOrlfftIpoWxsgY4hAbolr3EUlQjk6EQDjiVO+swwX97vDVlXpvlcYvS2wiBUGn6vTjgaYkq47VLiTNI7KGJ+UqA3kfqOrOjs=;pqZdHd4PTgTkybgRFo0olQ=="

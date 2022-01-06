@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-06T15:47:00Z
 originalUrl: "https://www.extremetech.com/extreme/330247-multimodal-ai-modeling-is-the-futurebut-its-also-pandoras-box"
 webUrl: "https://www.extremetech.com/extreme/330247-multimodal-ai-modeling-is-the-futurebut-its-also-pandoras-box"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.extremetech.com/wp-content/uploads/2022/01/Multimodal-AI-Feature-640x353.jpg"

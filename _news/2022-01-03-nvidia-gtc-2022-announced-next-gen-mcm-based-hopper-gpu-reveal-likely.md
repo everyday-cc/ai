@@ -67,6 +67,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Nvidia Research Plots A Course To Multiple Multichip GPU Engines"
+    excerpt: "There are two types of packaging that represent the future of computing, and both will have validity in certain domains: Wafer scale integration and"
+    publishedDateTime: 2022-01-06T20:20:00Z
+    webUrl: "https://www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/"
+    ampWebUrl: "https://www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 74
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
+        width: 714
+        height: 454
+        isCached: true
   - title: "Nvidia Announces RTX 3090 Ti GPU"
     excerpt: "To kick off CES, Nvidia announced its newest GPU, the RTX 3090 Ti. The new graphics card has 24 GB of GDDR6x VRAM at 21 Gbps, which makes it faster than the RTX 3090. During a presentation, Nvidia management called the GPU a \"monster\" and boasted that it will have 40 teraflops of performance (compared to 36 teraflops for the RTX 3090)."
     publishedDateTime: 2022-01-04T17:35:00Z

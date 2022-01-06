@@ -49,6 +49,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "The Worldwide Learning Management System Industry is Expected to Reach $37.9 Billion by 2026'"
+    excerpt: "The global LMS market is expected to grow from USD 15.8 billion in 2021 to USD 37.9 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 19.1% during the forecast period. The growing need for efficient and accessible learning to drive the LMS Market."
+    publishedDateTime: 2022-01-06T20:40:00Z
+    webUrl: "https://menafn.com/1103500440/The-Worldwide-Learning-Management-System-Industry-is-Expected-to-Reach-379-Billion-by-2026"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 13
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?860987"
+        width: 416
+        height: 250
+        isCached: true
 
 secured: "WCr0RtUmfQ+fo+dcah+RkpBwK9pZ7G43qAMr2YIdvVVDgFGg9mG0buMQWi+zUJ8D0T2TWcV/p5kXuYFOUjL1goHcUyBFPQY0M9Su/niKB9wCrAUIbIDLZZPRn0Nf1T8pd1aoLxoFm37TI9YiKmsbW0Vk88GRzb5/Uz7QJLl6RKHRk3PGirO4TBiboHYZxWji4hbsV/PcmSt3o5kp/BNf0h26bF0FVCDvulc7tJH6NL4VJKOb5t/ArhcPFSqfBXaZlflejaWX9T0XhdfjtmasBPctKdrbsbVgOqs11IVqxpgz917SeGiqtbMsXlxhFoe5K8O7uiXY8R3h/SoIawwwxKqLGUPKRBIkkWGexJVJhfA=;m2y29+edYGB5CaW7trD4Hg=="
 ---

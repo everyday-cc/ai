@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI in Computer Vision Market | Developments Analysis and Precise Growth Outlook 2022 to 2026 | Future Business Opportunities and Trends Forecast"
-    excerpt: "Final Report will add the Analysis of the Impact of COVID-19 on this AI in Computer Vision Industry. The Global “AI"
-    publishedDateTime: 2022-01-05T06:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-developments-analysis-and-precise-growth-outlook-2022-to-2026-future-business-opportunities-and-trends-forecast-2022-01-05"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Building Market: Industry Regional Developments, Future Trends and Forecasts"
     excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Building Industry from its research database Artificial Intelligence in Building Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Building Market currently"
     publishedDateTime: 2022-01-03T10:58:00Z
@@ -47,22 +33,6 @@ related:
       - url: "https://cdn.openpr.com/V/1/V103998692_g.jpg"
         width: 720
         height: 480
-        isCached: true
-  - title: "AI In Marketing Market Report 2022: Global Industry upcoming Trends, market challenges, Share, Size, Growth, Opportunity and Forecast Till 2026"
-    excerpt: "The latest report published by WMR shows that the AI In Marketing Market is likely to garner a great pace in the coming years Analysts examined market drivers confinements risks and openings in the world market The AI In Marketing"
-    publishedDateTime: 2022-01-05T05:03:00Z
-    webUrl: "https://www.openpr.com/news/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
-    ampWebUrl: "https://www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
-    images:
-      - url: "https://cdn.openpr.com/V/1/V105262270_g.jpg"
-        width: 800
-        height: 533
         isCached: true
   - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
     excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
@@ -80,45 +50,24 @@ related:
         width: 800
         height: 320
         isCached: true
-  - title: "Global Facial Recognition Door Access Solutions Market 2021 Industry Research, Business Growth, Future Investment and Emerging Trend to 2027"
-    excerpt: "The newest market analysis report namely Global Facial Recognition Door Access Solutions Market Growth (Status"
-    publishedDateTime: 2022-01-02T17:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-facial-recognition-door-access-solutions-market-2021-industry-research-business-growth-future-investment-and-emerging-trend-to-2027-2022-01-02"
+  - title: "Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027 report by QYResearch Group. Energy-efficient Artificial Intelligence Chip market is segmented by region"
+    publishedDateTime: 2022-01-03T06:04:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5241734-global-and-japan-energy-efficient-artificial-intelligence-chip-market-insights-forecast-to-2027.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Data Catalog Software Market Outlook | Growth Status, Industry Size and Share| Top Players Overview with Forecast Data 2022-2026"
-    excerpt: "Jan 04, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. “ Our Trending “Machine Learning"
-    publishedDateTime: 2022-01-04T10:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-outlook-growth-status-industry-size-and-share-top-players-overview-with-forecast-data-2022-2026-2022-01-04"
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 21
+  - title: "Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027 report by QYResearch Group. Lidar for Self-Driving Car market is segmented by region"
+    publishedDateTime: 2022-01-03T06:06:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5241872-global-and-china-lidar-for-self-driving-car-market-insights-forecast-to-2027.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Intelligent Apps Market to Witness Growth Opportunities from Advancements in Machine Learning Opportunities, says Fortune Business Insights"
-    excerpt: "The global Intelligent App Market is likely to grow in the coming years, favoured by increasing number of smart phone"
-    publishedDateTime: 2022-01-05T06:19:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g24900809/global-intelligent-apps-market-to-witness-growth-opportunities-from-advancements-in-machine-learni"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24900809"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24900809"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 3
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 1
 
 secured: "LwSPCE9PElaDx96R4b+YIM0ripOT9yGEdnZboEa+MhKwm9WPHGjUD5os9gA9R5wJawEvtRjSXK5WIilwAqJR1p5froDsA3Z5Uvoc/vndSSUuSnJgS/T88GZtTlLHwHVUPgo98WEV8NuRVDPllz0AwRCP1LKvhX6f3VFKfBBeBkoOCwY1SM3rfW7UtZVWmYWKFmmqaklkmP0vinN6vK2Qw+HegpsXdVSqw+mLTWymArIae0oImzuIRpVKD7iCoDpU4z3695AefW3+3FFs3HTjP8TfZxxChL3MM/2uXXrM3+gRsVjKd9yAaGCHCZybAQuMY8H+hBE+nkz6RBUnIswxe3WftuE5xRPWHuqkBMQrFcA=;nBuGsoau8vHpZ4+FWxJY+g=="
 ---

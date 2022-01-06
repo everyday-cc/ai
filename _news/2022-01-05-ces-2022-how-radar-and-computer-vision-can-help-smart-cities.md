@@ -39,6 +39,22 @@ related:
         width: 580
         height: 204
         isCached: true
+  - title: "CES 2022: GoVoBo Promises Tech Breakthrough For Deaf And Hard-Of-Hearing Users"
+    excerpt: "Developed in a partnership between Gallaudet University and AppTek, GoVoBo will make its debut at CES 2022 as the first universal automatic captioning and translation application designed for the deaf and hard-of-hearing communities."
+    publishedDateTime: 2022-01-06T03:00:00Z
+    webUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200"
+    ampWebUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 40
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/04/badge-gallaudet-university-apptekphoto.png"
+        width: 900
+        height: 472
+        isCached: true
   - title: "CES 2022: LG unveils new robot and car concepts"
     excerpt: "The world's largest consumer appliance manufacturer is showcasing a science fiction vision of an enhanced lifestyle for all, writes ARTHUR GOLDSTUCK"
     publishedDateTime: 2022-01-04T07:00:00Z

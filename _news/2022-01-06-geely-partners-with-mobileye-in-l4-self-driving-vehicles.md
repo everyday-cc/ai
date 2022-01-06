@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1279
         isCached: true
+  - title: "Geely to develop self-driving vehicle with Mobileye"
+    excerpt: "Geely Automobile Holdings plans to tap Intel’s Mobileye unit to develop a vehicle with L4 autonomy for Zeekr, its smart electric-vehicle brand."
+    publishedDateTime: 2022-01-06T17:37:00Z
+    webUrl: "https://www.autonews.com/china/geely-develop-self-driving-vehicle-mobileye"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/zeekrmobileye-700x525.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Mobileye Announces EyeQ Ultra: A Level 4 Self-Driving System In A Single SoC"
     excerpt: "Aimed for a 2025 release, the EyeQ Ultra is Mobileye’s most ambitious SoC yet, and not just for performance. In fact, as a site that admittedly rarely covers automotive-related announcements, it’s the relative lack of performance that makes today’s announcement so interesting to us."
     publishedDateTime: 2022-01-04T15:00:00Z

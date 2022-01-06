@@ -9,7 +9,7 @@ ampWebUrl: "https://en.antaranews.com/amp/news/207881/2000-university-students-h
 cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/207881/2000-university-students-hone-skills-through-huawei-ai-creation-program-to-incubate-indonesian-ai-based-startups"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,31 @@ images:
     width: 800
     height: 533
     isCached: true
+
+related:
+  - title: "Keys to Successful Innovation through Artificial Intelligence"
+    excerpt: "Artificial intelligence (AI) and machine learning (ML) are playing an increasingly outsized role in strengthening and transforming industries around the world. The global AI market value is expected to reach $267 billion by 2027,"
+    publishedDateTime: 2022-01-06T01:31:00Z
+    webUrl: "https://hbr.org/sponsored/2022/01/keys-to-successful-innovation-through-artificial-intelligence"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 39
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2022/01/HBRAS_CRE2485_thumb.png"
+        width: 1220
+        height: 686
+        isCached: true
+  - title: "The Missing Role your Organization Needs for the Success of your AI Initiatives"
+    excerpt: "In this contributed article, Alankrita Priya, AI/ML Product Manager at Hypergiant, discusses how MLOps platforms can operationalize new technologies and fully bridge the gap between data scientists and end business users."
+    publishedDateTime: 2022-01-05T14:00:00Z
+    webUrl: "https://insidebigdata.com/2022/01/05/the-missing-role-your-organization-needs-for-the-success-of-your-ai-initiatives/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 15
 
 secured: "rYGHqxVG9UqUr9yNGhqP0lVk1toFI6i/pfrV/ScEv+/9lnMNIFqtpuIfJ60xsA98778cmF8JkLArDHOCyW2VMNS+nxwkJ/uuZwBtDkKWjOaMrLN3HF/SiDttevMfeSqJWPwIYzK50HY80wpuJUybv3vSHIruXVL30XXmMm8my3NUxhDa8fl1EWX7vUJhG2F9hM2bXzjL3nLL5FCeBs+o+OmntdaVkT5Xs7xTrWl41Iou+dGZ6bWX1jceHpk/A9PsYNJnHHKjlVOILvsyOP6rPM0/EXbEDr7RAdwuhQo8DGP0N+VT16ko+4MNbbhG6qOuw0bPkv32B9S5FajsBLM7qG/uhq8f3cgurtm3D1KliSSo4Vtrnx42ia5J9IphAIgazi2MCmjFmMEO0S+dbSrktfo0MUcWX7siVOEjGQxRmV0yOfLE7syUNcUecSM5vw5VSi4VCoOJIyhyR7DB7uUDw4Csk+7y3TbjJPSySCO9ol5AeoT0P85GOZESn/cW/99mnstYmw5hhLBfHkkQz8RW7w==;j608NJyvWXLf5PYtqaD6vg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
 type: article
 quality: 174
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "John Deere and Naio robot tractor may be heading to a farm near you"
+    excerpt: "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas."
+    publishedDateTime: 2022-01-06T10:54:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 76
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/01/06/1600x900/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641471074615_1641471101321.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Deere Rolls Out Fully Autonomous Tractor at CES"
     excerpt: "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year."

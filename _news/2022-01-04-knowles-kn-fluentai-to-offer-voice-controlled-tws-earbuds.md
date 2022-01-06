@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/knowles-kn-fluent.ai-to-offer-voice-controlled-tws-earbuds?amp"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Nasdaq
@@ -19,6 +19,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Fluent.ai and Knowles showcase wireless earbuds and voice biometrics-controlled devices"
+    excerpt: "Fluent.ai’s ‘speech-to-intent’ technology is both multilingual and accent-agnostic and can enable voice commands to trigger a variety of TWS actions."
+    publishedDateTime: 2022-01-06T19:21:00Z
+    webUrl: "https://www.biometricupdate.com/202201/fluent-ai-and-knowles-showcase-wireless-earbuds-and-voice-biometrics-controlled-devices"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
 
 secured: "uzqBJRIJGlgWVk11OXSW2859noOdFNCsxszb65d1g1FQ6Xczl38L2q0yb3/BTToJtYB03ixqoTcBlAr7/yQiCLunS0V7bb4wn/PodirGXVWrbm+rvsu65GoJGX+YcOAAoVnC9WFoYYqEviHpW7Jnx34dC/+pmxQAvZDWxvNEVI/iXQxdZvUbnn/fw4R6IorQTN2f/1r5JepJf+/trzDKaFVhmVPerglwNPruPs4FsRLmy2deHNHIUQeDtTCZm9oPKFvQBvBC+Ty+nwmgNgWm9u1xEHd6LPZem6sa+ITJ0mjRZw2VCMV+8DTVK6Z6SlZLNTonji/Pun8hRH3vjU+22CnDQ4klRAm3VA14p6THdew=;IpiuCq44N4G0eCdGj9AmrQ=="
 ---

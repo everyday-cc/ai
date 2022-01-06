@@ -5,6 +5,8 @@ excerpt: "India should look at AI solutions that cater to Indian regional langua
 publishedDateTime: 2021-12-24T09:15:00Z
 originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210"
 webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210"
 type: article
 
 provider:
@@ -21,6 +23,6 @@ images:
     height: 628
     isCached: true
 
-secured: "EgcjFW6vxlKZkaIdInQwUJRqdaQXtbaYlDNFTDCUFI3miuvLajH6VJgdCdBOUCelOExv9YDghoCNMakxhRYDrz9HypQY5GhJOugRM3fgNK1O34XjmSzORnglNDJVDbGtu1YlPPl+pRtbbU3E6LPsGy8VITt5T5hVppYd4CnV7uNjSRk3dgdeHJDw7Bwwdn6TeZhrw9FoGMD2J5cXojuBtwmPdlE3bpdiihrNub8FTarr6+I73JLv304zbp/4fGV9c1sr4UPoSELTBpBkAza5We8CzLCcRFcj4LylXRZOwZUfCXiNYemsY8cXE/v5rWQ8vYqs2koZ3rRtYVx2HLl2QpwT+51TT9Ppags8+TPnLgI=;HuY1NBSd452ifzPE4P2dGw=="
+secured: "4kgKPRPsitTNm/BNzbbIRXL97Ttc9Mp4yMQrfz9jDGkwBnHAXF7GG8QbPFiKJAxS2FoQbhFxBgZDnE4iUV6oSbXahaScbxl+KksuMSb64P1CoB11q9hoPcXwcwYVFCzgpxu6Mzj5+i5ckL6lswXBJTWPAtqlbGJzZdTrGCqNxMuSPcVBBC28+XBi1rfnDPepIsw2wWncVBCyKg4HNf0tFQizn4LpHXPSfFkBALoAQszsuqHPm8oXmq+f1h8JOx8fh8JKrkrelDNkbtDrg4zzKcUpFtyME+EaKD3gRho0MO9rNIfKevOuqlCX0bbK8dz1XseG7auABB1EVy13Dqfk68sSlGnlaVylTHh8wSEc/8Pgd/8Jx38+5dqWGBQWhGUMXNeyjY1phr4c2d7pBtnuw/lT3x5hV/g9cB2lmwiNNBKVDqMhWktggByumIZnWdNlHVjoy4KBHTR9TLI385sZMfKX2CwF4fsxJNOn606Bf3YQ5d9sBh475C0lGC+xNGK0mzaHq1ZY/cxickEiUq7GXA==;/PK5I8rVZU7jSXvSyzOxkg=="
 ---
 
