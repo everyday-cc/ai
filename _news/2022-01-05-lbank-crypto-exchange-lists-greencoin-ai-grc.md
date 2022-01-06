@@ -42,6 +42,22 @@ related:
         width: 640
         height: 640
         isCached: true
+  - title: "Meet GreenCoin AI (GRC), the Burgeoning Green Cryptocurrency Offsetting the Industry’s Carbon Footprint"
+    excerpt: "As blockchain technology and cryptocurrency continue to make major inroads into the modern economic marketplace, major concerns have arisen about the technology’s ultimate impact on the world’s environment."
+    publishedDateTime: 2022-01-06T07:26:00Z
+    webUrl: "https://techbullion.com/meet-greencoin-ai-grc-the-burgeoning-green-cryptocurrency-offsetting-the-industrys-carbon-footprint/"
+    ampWebUrl: "https://techbullion.com/meet-greencoin-ai-grc-the-burgeoning-green-cryptocurrency-offsetting-the-industrys-carbon-footprint/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/meet-greencoin-ai-grc-the-burgeoning-green-cryptocurrency-offsetting-the-industrys-carbon-footprint/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 43
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/ezgif.com-gif-maker-2.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Dv0b0qmBfWjmGWe82LikmQoolVrEZTfQmSxIKrZruL4FDZDF/3wMXcC/0xcaNOE5JRrbCnc3WOMgcVu6hx7b1RqC74ejTXVJiSYbQSlkH/zE19XVoH6mWlCf4HZxKGpd7sZKRXe1F5Rpi2Arm6AmvkyNkYN3CIERbrCIRnR73gND2oAMBm4Ao1RkkGTWclCP9prfalWhwo6dtmxkh8qjqB+nyFem5eOKRB5JBlfD+U3QojqngGQk/0o1DKOi7DhjMu81qS6juj8+c/VbXPFYSGhYh2ugNQL7GqNqwf1TekK+ljgPVgCJQy5+5ikrqN+k4uAvinHjyOVTxhOosH1VR9n7IFe5lKR9JJ0KSJBiNYA=;x041PthpZwPILcMl9knqwQ=="
 ---

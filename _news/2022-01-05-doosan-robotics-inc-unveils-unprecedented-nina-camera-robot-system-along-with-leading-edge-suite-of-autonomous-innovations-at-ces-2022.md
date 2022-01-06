@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
-publishedDateTime: 2022-01-05T15:04:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
+title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
+publishedDateTime: 2022-01-05T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
+webUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?p=facebook"
+    width: 5157
+    height: 2698
+    isCached: true
 
 related:
   - title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
@@ -34,6 +40,6 @@ related:
         height: 510
         isCached: true
 
-secured: "IJsyoSvKesgdIcO8nZA0GCLxUNBKnLJQKb0JU5LMmqRroxYVU4bjUgZfR9155/whdQo77cWwDuHjx3IcPnpUxEftxoiK2aqHTMC+5dZRTXWwCTTCIh5ROOx6X+R5YJvN91dYl9DXzr5V9xD7LB5sc25WKvDyVzjmMG5VqQs7DLFMcxBWG7JmRkoBXCCJlM4k+2SixmTE945jblFh+q3NIhtPAiN6B0sNGQI0S+JvNeIXkSJ0YcdKSJWapvK97lEeDDRvFnqbDxVVhWACRy48KRJonJbQhXJqds4EISi78qW8Gj31x+orVmBXaOt/oe7Rq2+kdwdeuLDAWC6oCf6rFQve49diIHJ/faTPLgRJQ0A=;Y3uiftuH/mO1OXDbxaAKZg=="
+secured: "OCpAjGDCGSxd27jaSUhAsHJ32atf89bcjYSndQb3xUdtgIC4nIl/QrusTYP/imIn8cKNQWQVTiB18Ff4HlLyRR4r6gEo0nqIVHAnFAr9lcVLax/nwndTyYtbgh/4fyVNyQuscArzNEtWBBwnN4c8MApPmkPlS/ydDMmYj7+xmehhT12dcQV/+t45yUeI7l4e2tnqqdO3uP4Bpb15NkgWeJmRMPV9ro6sp6K///VTgOLVRSUWNWIdsQCvjNUchQ6qsnxEOJ/lb9u1hoS99sQXxGLZ4bhyf5UBRd7y0TBFyfUsOOkgw/mmojxq5NH3xtDSakiXKjN29ekyjAsZZeKVwwY5hOGK87R1w57MkV5Ku/g=;3Zw+bNZyIVM4KKQ084ESZQ=="
 ---
 

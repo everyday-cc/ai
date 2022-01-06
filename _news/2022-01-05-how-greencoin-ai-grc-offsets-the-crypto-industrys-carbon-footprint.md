@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/content-amp/specials/how-greencoin
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/how-greencoin-ai-grc-offsets-the-crypto-industry-s-carbon-footprint-122010100484_1.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Standard
@@ -42,6 +42,22 @@ related:
       - url: "https://www.getnews.info/uploads/44474dc0952234d7e7c331edd5c33bd5.png"
         width: 486
         height: 480
+        isCached: true
+  - title: "Meet GreenCoin AI (GRC), the Burgeoning Green Cryptocurrency Offsetting the Industry’s Carbon Footprint"
+    excerpt: "As blockchain technology and cryptocurrency continue to make major inroads into the modern economic marketplace, major concerns have arisen about the technology’s ultimate impact on the world’s environment."
+    publishedDateTime: 2022-01-06T07:26:00Z
+    webUrl: "https://techbullion.com/meet-greencoin-ai-grc-the-burgeoning-green-cryptocurrency-offsetting-the-industrys-carbon-footprint/"
+    ampWebUrl: "https://techbullion.com/meet-greencoin-ai-grc-the-burgeoning-green-cryptocurrency-offsetting-the-industrys-carbon-footprint/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/meet-greencoin-ai-grc-the-burgeoning-green-cryptocurrency-offsetting-the-industrys-carbon-footprint/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 43
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/ezgif.com-gif-maker-2.jpeg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "RmiD2cd4e568PDSOv2YkK9KvTI6ZdaV4PagduTh/2pTnpmatIjZ1IjVrTz99FFdBQA89QXb+pO4XamgDPeOAeX07yUlThRw3ov+QHU4xTB+WBrT8p18ZKnHXSlDq4s+DNGjBxfzsBp4keHZ979Dtaauv5TJ2+olkUlQZFsxIRa+H83Vzjht6ExtP2CkFfYgGhZG4HCWhrNgyWVQ+fQP7HAvXdFhH1V4wi2UnfKSdSt7Etb3G3nxRfmZvjlAKYK87CEC/wEgUHYdocYdcDRTKW8KqjtYqnFD/unMyAKbdKGJ3OqlQmk5NOO7+1e/YFVbi1Yc1ahT+JgrrYHg4qiurA7h5cFYraCGsP+Mtb/BYrmk=;fZeN6ORBKg7kG6OiZuo4cQ=="

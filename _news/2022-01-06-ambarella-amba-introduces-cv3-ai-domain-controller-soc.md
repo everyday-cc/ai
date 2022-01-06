@@ -1,28 +1,31 @@
 ---
 category: news
 title: "Ambarella (AMBA) Introduces CV3 AI Domain Controller SoC"
-excerpt: "Ambarella AMBA recently unveiled CV3 artificial intelligence (“AI”) domain controller system-on-chips (“SoC”). The platform is ideal for implementing autonomous driving for vehicles from Level 2+ to Level 4,"
-publishedDateTime: 2022-01-05T17:10:00Z
-originalUrl: "https://www.chron.com/business/article/Ambarella-AMBA-Introduces-CV3-AI-Domain-16751421.php"
-webUrl: "https://www.chron.com/business/article/Ambarella-AMBA-Introduces-CV3-AI-Domain-16751421.php"
+excerpt: "Ambarella (AMBA) launches CV3 AI domain controller SoC for implementing autonomous driving for vehicles from Level 2+ to Level 4."
+publishedDateTime: 2022-01-05T17:01:00Z
+originalUrl: "https://www.entrepreneur.com/article/411648"
+webUrl: "https://www.entrepreneur.com/article/411648"
 type: article
-quality: 41
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
-  - Machine Learning
 
 images:
-  - url: "https://staticx-tuner.zacks.com/images/charts/0d/1641391398.png"
-    width: 583
-    height: 265
+  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411648.jpeg"
+    width: 635
+    height: 400
     isCached: true
 
 related:
@@ -77,6 +80,6 @@ related:
       domain: greencarcongress.com
     quality: 3
 
-secured: "NPZdEkYR3s7kGXXUdDakoq7naFeYTfMyHW6eKzC4H0w4NRGW/AW6emkFyA3/FNEO7b6vfHNmde6vONVDcl+QpEGoEzww0+cwCPmrRTYPzuOARuUk4U1I08TvhYk+qQjAFq58NmHcrONXQ4adDBsq/AbchtCVIoJmU4tqCKFvBAsJVZWlTXLA54n8WhicRa1o4oQN/rrZSFU5cXmzXrCO6m+Um+iapI2Sx2rpJl/Y4hURQk24BUGAWXv6aSL+2pi6xCJCx4W86wx8HSmTGM7MLpuJQNMoxFT3rFSj0+19jpDzpBCMaaH03KyyyEGM7y7f/T5XfkFGKjafGTtvl7hKo4cjs1BwxTM7Es9x8MtJDyA=;l5Gvy3MARZ+7QL+X1Wg9Kw=="
+secured: "ap4QNvbcGaFfu/6Nzuow6AaGLUZSLx0hY7sqoc4r1krb+925GzaiUVo0m9K5gkL0/W8CL+aQMQGw0xdLBI6+p9ovRJtFi8yn/ClodMZ20H0zLt3rC0SeAnQeUODOYRNg7Uoz3KueErsvmkVrF1kUDdWvTDz1T5zrMoMgnPWHeUDNxGJYpSNdCbDoQ3CApl3afBrNw/thstOzaZw8IR0zhlxtrhiRh/2/kCiim8H1TgD6gr8uRQK4UiiBqtW3Mttt9LmX2vr7TasQ0zvwH/ATqh79D/vZVRuAe3AIWs8PvmCXctrzTuJK1HZA2lIsHkhx+Mr/tn4K3zEjgT2Hh1l4xYOvZnqYyBG1/MGvLBkuDg4=;+4Lt0OMApQHlBIfWmlMSIA=="
 ---
 

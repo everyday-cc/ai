@@ -669,6 +669,50 @@
       ]
     },
     {
+      "path": "_news/2022-01-03-artificial-intelligence-ai-in-manufacturing.md",
+      "title": "Artificial Intelligence (AI) in Manufacturing",
+      "excerpt": "Many see artificial intelligence (AI) in manufacturing as a major part of what is being termed a “new industrial revolution.” This next stage of industrialization is being driven by robotics, digitalization,",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intellgence-4-scaled.jpeg",
+          "width": 2560,
+          "height": 1493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-01-future-of-machine-learning-ways-ml-and-ai-will-drive-innovation-change.md",
       "title": "Future of Machine Learning: Ways ML and AI Will Drive Innovation & Change",
       "excerpt": "It’s not a surprise that Artificial Intelligence (AI) and Machine Learning (ML) are two of the top buzzwords in today’s technological world. But, how will the two technologies create innovation and change in the near future?",
@@ -1047,6 +1091,40 @@
       ]
     },
     {
+      "path": "_news/2021-12-29-worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-opportunities.md",
+      "title": "Worldwide Military Robots Industry to 2026 - Integration With Artificial Intelligence Presents Opportunities",
+      "excerpt": "The \"Military Robots Market Research Report by Type, Operation, and Region - Global Forecast to 2026 - Cumulative Impact of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24811209",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24811209",
+      "publishedDateTime": "2021-12-29T04:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
       "title": "Role of AI and Machine Learning across Different Sectors in 2021",
       "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
@@ -1295,92 +1373,6 @@
       "provider": {
         "name": "India Education Diary",
         "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges.md",
-      "title": "The Maritime Robotics Challenge: Collaboration to Solve “Unsolvable” Challenges",
-      "excerpt": "The Mohamed Bin Zayed International Robotics Challenge offers more than $3 million USD in prizes.  This year, the Maritime Robotics Challenge is designed to bring emerging technologies together to tac",
-      "sourceUrl": null,
-      "webUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
-      "originalUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dronelife.com/wp-content/uploads/2021/12/1024px-Maritime_Transportation-e1640629145440.jpg",
-          "width": 612,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
-      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
-      "publishedDateTime": "2021-12-27T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dronelife",
-        "domain": "dronelife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says.md",
-      "title": "Robotics might be ‘bigger than industrial revolution,’ Lightspeed Partner says",
-      "excerpt": "Raviraj Jain, whose firm has invested in a startup that’s developing a grasping tool, says warehouses represent ‘the biggest opportunity’ for robotics at present",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says-11640620538194.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says-11640620538194.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2021/12/27/600x338/Robotics_1640620827696_1640620827828.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says/amp-11640620538194.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says/amp-11640620538194.html",
-      "publishedDateTime": "2021-12-27T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null

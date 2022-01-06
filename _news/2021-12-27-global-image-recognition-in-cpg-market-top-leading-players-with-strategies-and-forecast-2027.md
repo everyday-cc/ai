@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 related:
   - title: "Image Recognition Market Size Forecasted to Reach Valuation of USD 80.29 Billion in 2028"

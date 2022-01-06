@@ -7,8 +7,8 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/ai-in-manufactu
 webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Datamation
@@ -39,6 +39,20 @@ related:
       - url: "https://www.datamation.com/wp-content/uploads/2021/04/artificial-intelligence-6-scaled.jpeg"
         width: 2560
         height: 1600
+        isCached: true
+  - title: "Manufacturing Shifts To AI Of Things"
+    excerpt: "Smart sensors and analytics are starting to impact uptime and efficiency as smart manufacturing kicks into gear."
+    publishedDateTime: 2022-01-06T08:02:00Z
+    webUrl: "https://semiengineering.com/manufacturing-shifts-to-ai-of-things/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/aiot.png?fit=936%2C478&#038;ssl=1"
+        width: 936
+        height: 478
         isCached: true
 
 secured: "DX0t9wUcnlpZ0DMPN/81gPoiClj0FN/ilgxnt0LQJ7+Qgb1wDVtKDSCC3s2YHTlTuwKG6+MK3Tj6WGLCZoR/7N0+2IhNzkBKAdDqy5g5zolarpBO6DJ3IBDuTFzNZLKjhBCUQo1JV9QnGX04nImpVLk4pGQeFc6cRaTdh7vtbTipG1VzaOn/dNPMAP+lHTyU9xn7AkGUlXJxx47+0MT5fHT4NDZcIRgGyJyGa66ldp5/DDNXpd0+oopcO8aiXrhetft0Ak871fBP2JB7a4upb7HAVldo9GcZJEWA91qPvczorAcZmiqnyeXHKAh9DXltudlKIVVVQWpbIij483Sig1vex5o9EuqtGM/eR14HMKZsfdIEqVzFryfIoXK43xmKQhtT+Te+jrJ6g8F7rXvHpy721iPBPDVWSAfCLKtnyaqp/MSHUJYZE0ufvM/gnBsQETuBDc9WdlR+N//2t9Lr8BrR+0XDZh7s4RBneqySt7j4eLlH7bN/uoK08KfIThYlErKq7qdtLJGz2BdnWQ0Vlg==;SSbLiTuOqO2MuuC1jAD4Bg=="

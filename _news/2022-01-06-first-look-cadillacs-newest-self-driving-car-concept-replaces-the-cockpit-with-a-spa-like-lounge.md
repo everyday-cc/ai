@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "GM reveals new self-driving Cadillac concept car, plans to offer personal autonomous vehicles by mid-decade"
+    excerpt: "General Motors unveiled a new personal self-driving electric concept car from its luxury brand Cadillac during the CES technology show Wednesday. The sleek two-passenger vehicle, called InnerSpace, is part of the brand's Halo Concept Portfolio,"
+    publishedDateTime: 2022-01-06T00:53:00Z
+    webUrl: "https://www.cnbc.com/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 56
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106997147-1641406573507-Cadillac-Halo-Concept-InnerSpace-001.jpg?v=1641406634"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
     excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."
     publishedDateTime: 2022-01-06T01:48:00Z

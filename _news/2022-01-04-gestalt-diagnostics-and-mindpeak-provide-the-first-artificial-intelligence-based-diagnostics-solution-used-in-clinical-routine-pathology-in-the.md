@@ -3,11 +3,11 @@ category: news
 title: "Gestalt Diagnostics and MindPeak provide the first Artificial Intelligence based diagnostics solution used in clinical routine pathology in the USA"
 excerpt: "Hamburg, Germany, based Mindpeak and Spokane, WA, based Gestalt Diagnostics have achieved a major success on their way to improve patient care with Digital Pathology and Artificial Intelligence (AI)."
 publishedDateTime: 2022-01-04T14:49:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-health-united-states-spokane-artificial-intelligence-192541526b721f6e8f049dabf37fb267"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-united-states-spokane-artificial-intelligence-192541526b721f6e8f049dabf37fb267"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-united-states-spokane-artificial-intelligence-192541526b721f6e8f049dabf37fb267"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-united-states-spokane-artificial-intelligence-192541526b721f6e8f049dabf37fb267"
 type: article
-quality: 1
-heat: 1
+quality: 0
+heat: 0
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -24,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "FeIdAG/nTSS1dbfPzHt5kLq8U1+6jJr1eTQ4oyHX3+vBSe9TDCg0NXfMFLkpaVVdXH+jXkmGdpJbV8FOydau2/tzTPOj145Elas27KDhiksQYST/Er03R5ZvYG40F7z+yRA57teiYtM7dYpkwIg4GAJsuLfvwv+ibcEoRGbDIM9da+AtnVqt8yNu6q3dhVsvcFpjkoX/I6A2gZ66DAYj2PAOMLeq1tklWjqp3BpLyu3oChoY8awHijTnNRDfEdnN4r+48C05VYABAsRMpR+7R5eMhcwB7OYK4ViBAgT15BU8FH8+bYElotrXoziKb88MmGhot+yOBFGQNXd8SDbYZhlAaaCDfXneFUFMaRTLVzU=;/+wpaoPhniW8HB7E0X55Og=="
+secured: "k5d3Ne0l6AhltBhsoGWfJuOQ1pwJhhDN8u0OHOe6VipsTBM/oMy/0ICsifV8iK2Q+O/Ss1+OXv/usxEh2WLle7kN1BAotAUYg+/3FiUU59fUxP0IU+6qwkrlUubRFMlg/BEPPDzs2eXHlwsLyybBoLJeMzkIPS+5zo3igdtG42hVKUXbu4OO2KV+8+gVden1v9KaA54vWUQqiTgGOvs7Iba89ZBFu3oahEjIUdm0IvK8puRmXz6yIkwRrnD7/PecqLOXYo+oSeDqbSuGPIWd/NUvNAac/0kBt1ixX1w5L/kfDxtzL13PrTgAklQ9RdCV1VJubO7Ci57tmdXE5dcv1GAl8M/pTKh5Ic6jnG6qohw=;uyQ4wOD79Skv9DbitBcvOQ=="
 ---
 

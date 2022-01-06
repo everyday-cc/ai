@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Food Automation Pioneer, Pazzi, launches Pazzi Robotics to propose F&B fully-automated kitchen"
-    excerpt: "January 2022 - Pazzi Robotics , a French kitchen software and robotics startup, recently announced the launch of fully-automated packaged solutions for the Food and Beverage (F&B) industry. The solutions range from food preparation to final assembly,"
-    publishedDateTime: 2022-01-06T04:40:00Z
-    webUrl: "https://menafn.com/1103495333/Food-Automation-Pioneer-Pazzi-launches-Pazzi-Robotics-to-propose-FB-fully-automated-kitchen"
+    excerpt: "SINGAPORE - Media OutReach - 6 January 2022 - Pazzi Robotics, a French kitchen software and robotics startup, recently announced the launch of fully-automated packaged solutions for the Food and Beverage (F&B) industry."
+    publishedDateTime: 2022-01-06T02:02:00Z
+    webUrl: "https://vietreader.com/business/media-outreach/53441-food-automation-pioneer-pazzi-launches-pazzi-robotics-to-propose-fb-fully-automated-kitchen.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: vietreader.com
+      domain: vietreader.com
     quality: 42
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?725876"
-        width: 375
-        height: 250
+      - url: "https://cdn.vietreader.com/uploads/posts/2022-01/food-automation-pioneer-pazzi-launches-pazzi-robotics-to-propose-fb-fully-automated-kitchen-1.jpg"
+        width: 624
+        height: 776
         isCached: true
 
 secured: "UqRgPS03ogFDMOSC+9EciIMHy5oAaP7xx4O5mjpNF9QGjqSkugJFZqzUpW/fDRxzBGJ5HPQQlUtOM+g1a5ugCZMkRGEhuu6IpkzypR9gJemkZLqfJq7dnvJwoXEJPcYc7fI/zc7Cbx5VTaZJf4x5X9fuHgdoRnj/66MJnvdh1d18nPzSjVKc3wVB4JTE9KQIr9PNla95KhAt4IW+mgqm0FEd8rvwYdew+iNFGFt3S9+c3bGW4Qdp6vOiIya6cXT+Ulswp8Ny3zVnZIwdxFn8e/tE5ahV2IcWaziM/ZygSRHBzeGTY+akuHX0Yj6bRLnJDZn8AbhQZ+YJxW7DANX+5I0HVH7flB0798f/MrzadQE=;TYWeUi1DuJ6JwexBWAJUag=="

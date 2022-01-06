@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/04UARbRIt9qvOR75ZiDcOPx/hero-image.fill.size_1200x675.v1641415937.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "GM reveals new self-driving Cadillac concept car, plans to offer personal autonomous vehicles by mid-decade"
+    excerpt: "General Motors unveiled a new personal self-driving electric concept car from its luxury brand Cadillac during the CES technology show Wednesday. The sleek two-passenger vehicle, called InnerSpace, is part of the brand's Halo Concept Portfolio,"
+    publishedDateTime: 2022-01-06T00:53:00Z
+    webUrl: "https://www.cnbc.com/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 56
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106997147-1641406573507-Cadillac-Halo-Concept-InnerSpace-001.jpg?v=1641406634"
+        width: 1280
+        height: 853
         isCached: true
   - title: "First Look: Cadillac’s Newest Self-Driving Car Concept Replaces the Cockpit With a Spa-Like Lounge"
     excerpt: "As with jet packs and flying cars, self-driving production vehicles are still more vaporware than reality, but major automakers continue to help us imagine what that future might be like. The latest to do so is Cadillac with its InnerSpace concept unveiled today at the 2022 Consumer Electronics Show (CES)."
