@@ -135,20 +135,6 @@ related:
         width: 1081
         height: 537
         isCached: true
-  - title: "Keeping self-driving cars safe from hackers"
-    excerpt: "IT firms in Japan are responding, by accelerating the development of security systems that protect the internet connections of self-driving vehicles. A venture company in Tokyo is working on cyber security for automobiles."
-    publishedDateTime: 2022-01-05T09:31:00Z
-    webUrl: "https://newsonjapan.com/html/newsdesk/article/132931.php"
-    type: article
-    provider:
-      name: NewsOnJapan
-      domain: newsonjapan.com
-    quality: 24
-    images:
-      - url: "https://newsonjapan.com/images/logo/noj-logo12.png"
-        width: 484
-        height: 263
-        isCached: true
   - title: "Deere ploughs ahead with self-driving tractor"
     excerpt: "John Deere demonstrated a fully autonomous tractor at CES 2022, touting the tech as a way to increase global food production."
     publishedDateTime: 2022-01-05T17:21:00Z

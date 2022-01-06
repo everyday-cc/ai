@@ -156,6 +156,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+    excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
+    publishedDateTime: 2022-01-05T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
+        width: 1154
+        height: 606
+        isCached: true
   - title: "BBalance Bath Mat, the CES 2022 Innovation Awards Honoree, uses AI and footprint recognition to guide self-care at home"
     excerpt: "BBalance is the world’s first smart bath mat with footprint recognition that combines three key health measurements into one; BBalance is a weight scale, balance and stability reader, and posture evaluator."
     publishedDateTime: 2022-01-03T13:50:00Z
@@ -170,15 +184,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
-    publishedDateTime: 2022-01-05T15:04:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 1
 
 secured: "b+CV5hnH6HM8SbyXGLh7xd6Z2rJrA//3uHBh4NlU2CLMnIlnrSrSXGyynALNd+KYz56mRBAs840gCm7DJtdlDBxAAiIXI0bgEq+lFyao6DkFEFHL7vqIftGAwv/9dCeBHBfUl2L7zMX/Bo97HY4Ag6SOIitooizFAB+6eTJavR+DcFnQ02BKvDC2INncaDZn7f/y2ftJ1V/mzcUv1mrhCz7c5FdqWKh9S6pueb/Yc6CbmmmktijnqRJY6ojsBiAWIcTOyeRVFFTaRRcskdSEDGjSg9eVwXxzTVOpzShQhR5nzQJOftvgRuh0smrIemxRHT8IRtCI3RlJU6PuQU+dIhZZCBp6fx2gDYOZWSAwpV0=;eKVDRVFaECuvgsJdHuajog=="
 ---

@@ -54,6 +54,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labour shortages, climate change and environmental protection, while trying to feed a growing world population."
+    publishedDateTime: 2022-01-06T17:54:00Z
+    webUrl: "https://phnompenhpost.com/lifestyle/robot-tractors-may-be-heading-farm-near-you"
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 41
+    images:
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/a_naio_weeding_robot_is_displayed_during_the_sima_mondial_des_fournisseurs_de_lagriculture_et_de_lelevage_2017_at_the_parc_des_expositions_paris_nord_in_villepinte_on_february_26_2017._afp.jpg"
+        width: 990
+        height: 660
+        isCached: true
 
 secured: "xdr0VBWzVT3cidDvgf1qYoGM01Xr8YpA4NmbhCsOCC8h27ms6O7YfpZ5ZA7nJ0V6EWCdOgybkjxsPoSXcWMfJPIjmt8F+ZVYl0GYNw9oso2Y6ZKc8/MjsAquEnfi3mKsYU4NLnhgjvEgPOUyDapgdVoef3CaznyBH+SbGOjQ/vyu5OJ1ssnJvzTq1zVstcS5WlXQsUOXzwBn+ldbsHw5mjdt48a1iYPMauv/vsJ1f6TQdz2Gw8OhzQ95Ab8/sUUv3hub6Jj/SxJ+sRxVl9x5sAornfV5N4n8UWT/7qnQUJIpgscH9mFlMvTEhwZqVKfS1M2qh9tQDGiiygmPZYV2VqDBppGeziQW9CAHhqFLX5g=;PlPiD4ahfomei9PL9ecVBA=="
 ---

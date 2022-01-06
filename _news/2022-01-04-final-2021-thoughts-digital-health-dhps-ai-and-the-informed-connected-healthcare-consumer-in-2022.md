@@ -89,6 +89,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AI for telehealth & the latest in health tech at CES"
+    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
+    publishedDateTime: 2022-01-06T18:10:00Z
+    webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 37
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
     excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
     publishedDateTime: 2022-01-06T14:00:00Z

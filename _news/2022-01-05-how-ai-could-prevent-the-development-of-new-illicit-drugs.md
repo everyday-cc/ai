@@ -7,7 +7,7 @@ originalUrl: "https://www.scientificamerican.com/article/how-ai-could-prevent-th
 webUrl: "https://www.scientificamerican.com/article/how-ai-could-prevent-the-development-of-new-illicit-drugs/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,18 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Study Shows How AI Can Predict Who Will Develop Dementia"
-    excerpt: "A new large-scale study has concluded that artificial intelligence (AI) can predict which people who attend memory clinics will develop dementia within two years. The AI can make this prediction with a 92 percent accuracy rate."
-    publishedDateTime: 2022-01-04T19:44:00Z
-    webUrl: "https://www.unite.ai/study-shows-how-ai-can-predict-who-will-develop-dementia/"
+  - title: "How no-code AI development platforms could introduce model bias"
+    excerpt: "Enterprises are embracing no-code AI development tools. But these tools abstract away processes in a way that could lead to issues like bias."
+    publishedDateTime: 2022-01-06T17:30:00Z
+    webUrl: "https://venturebeat.com/2022/01/06/how-no-code-ai-development-platforms-could-introduce-model-bias/"
+    ampWebUrl: "https://venturebeat.com/2022/01/06/how-no-code-ai-development-platforms-could-introduce-model-bias/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/06/how-no-code-ai-development-platforms-could-introduce-model-bias/amp/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/psychology-6852458_1280.jpg"
-        width: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2018/05/shutterstock_771480475-e1585240349686.jpg?w=1200&strip=all"
+        width: 1200
         height: 600
         isCached: true
 

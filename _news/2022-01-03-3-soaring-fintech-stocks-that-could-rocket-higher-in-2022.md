@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-so
 webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
 type: article
 quality: 54
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
       - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/01/Singapores-Top-Fintech-Legal-Firms-and-Lawyers-in-2022.png?x95107"
         width: 1210
         height: 670
+        isCached: true
+  - title: "Fintech’s Biggest Challenge for 2022: Customer Service"
+    excerpt: "As I reminisce on these past three years since founding OneBlinc, and the tremendous traction we have been able to obtain, I have been thinking incessantly about what has helped us win, the key challenges we have faced,"
+    publishedDateTime: 2022-01-06T17:05:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintechs-biggest-challenge-2022-customer-service-fabio-torelli"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG_lxJuQBnC6Q/article-cover_image-shrink_600_2000/0/1641488235356?e=1646870400&v=beta&t=TmCKFF_fZbi3r_Cx-VqbV_5nzI-6zEbuIQXBdfy95DM"
+        width: 740
+        height: 422
         isCached: true
 
 secured: "BOvL0YmChpMreKjRzLXnkMVKxLxSr5N6RGKeeIh2tWHpphwxQoH3k/H/Yoa0Qq+3oIzyhqRVHin60GT6spEE8O29jAM6WuLuUL2Ainv5bxNOFJodmY77q3/haNlnswJAWJavcVoK1wEI3srofI0mx8JsOvqyYyddh35SjZzMTECIF+9gsBOBdtOVs8ZmXqVYmBxf5dIIJEev7Jh8na+0LO33fRHw4mSfRyIEdEy+vLQeVy0bLQN+xI/0PIOMOfM+JOx7DTZtzm7wHn5v1ZgTtDHe+53GCHuplvAN0zJUQ9I7nJm2ilOGnXEO5DR8lgBNU3IfVRHRH5IXHE7kWAz3IJA7FKvRv8tc8l/i/HSPGddY+ocCkGnlfyZOeF9PcmCOkHJ33+31F9XLrJV81UKTwYsS4nLITbzZb4Q1/uUhxoBl878N+DDQW9HL9t9hNKAi/ybChED3I1zfj0zNW7Iz+TitG7o1DyKfIJ1aO8Tvx9Do6w0zfsPmL9N7yLDJWBIykQVqRgArEd5iFxBLNcnchA==;zIpWaZ922TalbcEOBd4uFg=="

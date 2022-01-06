@@ -93,6 +93,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "AI for telehealth & the latest in health tech at CES"
+    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
+    publishedDateTime: 2022-01-06T18:10:00Z
+    webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 37
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "mSO/O0MoXS9jeOMnRI5xZC1FU6kUcy44FGhcmBO3hzBzslnToDHE+Tr8ky3a6dM2qO7d49CicvJtn7k6zqw31yHnmHZWTCNtvLsXHMePs4wnlfaHT0lmMcmiXrUXFe0QXRsNzNDJdzqDU07NeZfs0RBwBqJiAYTzatqWzRhJ5ZERdoK1rzQ9LQlJu+dfqzQfY4A+c/07AuqVZo+fnvdcJf+WPL3grMTAVJetpVl4OIrfQ9qBXF2Cuu5F2bUpe9oFKoM/L3ZZcHkntchhfMDb4H1wfXaePa+3Ia1EsWZRki8qaVzMD/9GHjTCldqgqj8Bu2Puvl7M8rAhYS38L8AURcPN/qrRjfYjjja38hLRceo=;ArbTYURq7fmRqSfn3O2m7A=="
 ---

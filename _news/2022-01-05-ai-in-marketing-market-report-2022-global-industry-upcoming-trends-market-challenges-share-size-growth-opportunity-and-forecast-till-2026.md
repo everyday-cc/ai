@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis"
-    excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ 3."
-    publishedDateTime: 2022-01-05T18:35:00Z
-    webUrl: "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/"
-    ampWebUrl: "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 62
-    images:
-      - url: "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Machine%20Learning%20as%20a%20Service%20(MLaaS)%20Market3.jpg?1641369830915"
-        width: 700
-        height: 467
-        isCached: true
   - title: "AI in Computer Vision Market | Developments Analysis and Precise Growth Outlook 2022 to 2026 | Future Business Opportunities and Trends Forecast"
     excerpt: "Final Report will add the Analysis of the Impact of COVID-19 on this AI in Computer Vision Industry. The Global “AI"
     publishedDateTime: 2022-01-05T06:57:00Z
@@ -57,19 +41,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
-    excerpt: "Emergen Research Logo The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
-    publishedDateTime: 2022-01-06T07:42:00Z
-    webUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growth-Sales-Revenue-and-Key-Drivers-Analysis-Research-Report-by-2027"
+  - title: "Artificial Intelligence in Building Market: Industry Regional Developments, Future Trends and Forecasts"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Building Industry from its research database Artificial Intelligence in Building Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Building Market currently"
+    publishedDateTime: 2022-01-03T10:58:00Z
+    webUrl: "https://www.openpr.com/news/2515621/artificial-intelligence-in-building-market-industry-regional"
+    ampWebUrl: "https://www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?532764"
-        width: 445
-        height: 250
+      - url: "https://cdn.openpr.com/V/1/V103998692_g.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
+    excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
+    publishedDateTime: 2022-01-03T11:08:00Z
+    webUrl: "https://www.openpr.com/news/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+    images:
+      - url: "https://cdn.openpr.com/V/1/V103933766_g.jpg"
+        width: 800
+        height: 320
         isCached: true
   - title: "Global Facial Recognition Door Access Solutions Market 2021 Industry Research, Business Growth, Future Investment and Emerging Trend to 2027"
     excerpt: "The newest market analysis report namely Global Facial Recognition Door Access Solutions Market Growth (Status"
@@ -99,6 +101,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Intelligent Apps Market to Witness Growth Opportunities from Advancements in Machine Learning Opportunities, says Fortune Business Insights"
+    excerpt: "The global Intelligent App Market is likely to grow in the coming years, favoured by increasing number of smart phone"
+    publishedDateTime: 2022-01-05T06:19:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g24900809/global-intelligent-apps-market-to-witness-growth-opportunities-from-advancements-in-machine-learni"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24900809"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24900809"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
+  - title: "Artificial Intelligence Market| Global Industry Analysis By Size, Share, Covid-19 Impact, Growth Factors And Regional Forecast To 2028"
+    excerpt: "Apple Inc. Baidu IBM Corporation IPsoft Microsoft Corporation MicroStrategy, Inc NVIDIA Qlik Technologies Inc. Verint Systems Inc. (Next IT Corp)"
+    publishedDateTime: 2022-01-04T10:38:00Z
+    webUrl: "https://www.wboc.com/story/45574320/artificial-intelligence-market-global-industry-analysis-by-size-share-covid-19-impact-growth-factors-and-regional-forecast-to-2028"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
 
 secured: "3ccQS9iWFq6MbTR+IchJrGliy9ochEXVKzu1uxOhZCnYeGB4e/Ltla1NLnZunL9AC2Z07wQoC+xtqossJl1Ga96nkruRAul41i1WxBS0fd9HYqJWugy48rtuMWSNMcWFPqIzyReu+kDClBfMUY6fNLpnDG6lPb243geP6hixRc05XsjZMABwEjABy/gZ8qVlvDYNw9x7j+wGO3bqpBR/FaRQhWxdVXz2na8F2eRm2CeVyjsiNx7od1Y30ib7xMCnQ9EV9CPpTcQbZtt4ObI7odPsGxamffYI9qSVOheQyxcPuz/EZzU1pJRAFweHDuhFELnYIpHJytoDKIKPKhwhy/aQ1lB5lX2xeQsc72elyQ0=;AGlKFe9JL+FROkG6QQXqNw=="
 ---

@@ -75,6 +75,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Xenobots: Awal Replikasi Robot AI"
+    excerpt: "The latest advancement of tech brings to us a new kind of robot called Xenobots that have the ability to self-reproduce."
+    publishedDateTime: 2022-01-03T13:12:00Z
+    webUrl: "https://techacute.com/su/xenobots-awal-ai-réplikasi-robot/"
+    type: article
+    provider:
+      name: techacute.com
+      domain: techacute.com
+    quality: 54
+    images:
+      - url: "https://techacute.com/wp-content/uploads/2021/12/Xenobots03.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "0vRHmItCrto26uPLWFKN6Yntb/J22utRRPQAKwtjHyghbcr1UKuHav5mOG9QpWom3B3tzwQBcNdMEZwCftc/QRz53kjMXezvnMYi9mho5xekGU7I4fwUW8HGVOvRp/UnIAiCiJat8R6gPdgU4g3DotoX/YLQZc1X3hZpLcF8yUPON2SKWuNdwj7fubgkK10F90nYzGaDmib2FCWycbYJsXguxYqZ/0RBwPhRGTFTS369NrwkdMcXgzinOYc5t9Wc4iBk2WbygVTEgIyLjH2oCtHeHstRtJAI3+2jdu+JJd8SvfLKeBDdHnwiqDtBite45+IVuABOLUqFN4tTtYUsb3ZsrbvxWm0jd2cOrziyGaY=;v1VgccmyElShwsrE/Pobww=="
 ---

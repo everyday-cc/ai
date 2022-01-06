@@ -21,13 +21,18 @@ topics:
 related:
   - title: "Inspur Information Identified as a Strong Performer in AI Infrastructure Report"
     excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced today that Forrester, a leading global research company, released The Forrester Wave™: AI Infrastructure, Q4 2021, which identified Inspur Information as a Strong Performer and recognized its full-stack AI solutions."
-    publishedDateTime: 2022-01-04T14:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-inspur-information-identified-as-strong-performer-ai-infrastructure-/2022/01/04/9519559.htm"
+    publishedDateTime: 2022-01-04T14:09:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9dd91b63072a41d99ad49448991e2f5b"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 15
+      name: Associated Press
+      domain: apnews.com
+    quality: 35
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Inspur Information Identified as a Strong Performer in AI Infrastructure Report"
     excerpt: "Inspur Information was rated based on its current offerings, market presence, and strategy in the report which is a valuable reference for comparing AI infrastructure capabilities from top vendors. SAN JOSE,"
     publishedDateTime: 2022-01-04T18:09:00Z

@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Ambarella (AMBA) Unveils AI-Based Image Signal Processor"
+    excerpt: "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)"
+    publishedDateTime: 2022-01-06T15:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor"
+    ampWebUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 71
   - title: "Ambarella's Artificial Intelligence Image Signal Processor (AISP)"
     excerpt: "New neural network based ISP enhances low-light and HDR processing by up to 100X compared to state-of-the-art traditional ISPs"
     publishedDateTime: 2022-01-06T16:40:00Z

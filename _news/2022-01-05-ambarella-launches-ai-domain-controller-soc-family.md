@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Ambarella (AMBA) Unveils AI-Based Image Signal Processor"
+    excerpt: "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)"
+    publishedDateTime: 2022-01-06T15:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor"
+    ampWebUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 71
   - title: "Seeing Machines launches partnership with AI firm Ambrella"
     excerpt: "Driver monitoring technology company Seeing Machines announced a collaboration with artificial intelligence (AI) silicon company Ambarella on Thursday, to bring integrated advanced driver assistance system (ADAS) and occupant and driver monitoring system (OMS and DMS) products to market."
     publishedDateTime: 2022-01-06T11:52:00Z

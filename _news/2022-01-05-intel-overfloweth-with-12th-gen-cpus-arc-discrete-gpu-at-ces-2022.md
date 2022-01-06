@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2022/01/CES-2022-Intel-3.jpg"
         width: 1273
         height: 715
+        isCached: true
+  - title: "ASUS ROG Flow Z13 Windows 11 tablet with up to 12th Gen Intel Core i9 processor, up to RTX 3050 Ti GPU announced"
+    excerpt: "ASUS Republic of Gamers (ROG) this week at the CES 2022 announced ROG Flow Z13 gaming tablet, which the company claims to be the world’s most powerful gaming tablet. It runs Windows 11, is powered by up to a 14-core Intel Core i9-12900H CPU,"
+    publishedDateTime: 2022-01-06T10:52:00Z
+    webUrl: "https://www.fonearena.com/blog/354726/asus-rog-flow-z13-features.html"
+    ampWebUrl: "https://www.fonearena.com/blog/354726/asus-rog-flow-z13-features.html/amp"
+    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/354726/asus-rog-flow-z13-features.html/amp"
+    type: article
+    provider:
+      name: FoneArena
+      domain: fonearena.com
+    quality: 38
+    images:
+      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
   - title: "Intel introduces third-gen Evo platform, provides update on Arc GPU availability"
     excerpt: "Intel has also updated its Intel Evo certification program to third-gen. The company has also provided an update on Intel Arc availability."

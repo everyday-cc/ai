@@ -149,20 +149,6 @@ related:
         width: 1540
         height: 800
         isCached: true
-  - title: "Keeping self-driving cars safe from hackers"
-    excerpt: "IT firms in Japan are responding, by accelerating the development of security systems that protect the internet connections of self-driving vehicles. A venture company in Tokyo is working on cyber security for automobiles."
-    publishedDateTime: 2022-01-05T09:31:00Z
-    webUrl: "https://newsonjapan.com/html/newsdesk/article/132931.php"
-    type: article
-    provider:
-      name: NewsOnJapan
-      domain: newsonjapan.com
-    quality: 24
-    images:
-      - url: "https://newsonjapan.com/images/logo/noj-logo12.png"
-        width: 484
-        height: 263
-        isCached: true
   - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
     excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
     publishedDateTime: 2022-01-06T11:12:00Z

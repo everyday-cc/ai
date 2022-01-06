@@ -87,6 +87,20 @@ related:
         width: 615
         height: 384
         isCached: true
+  - title: "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology"
+    excerpt: "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,"
+    publishedDateTime: 2022-01-06T06:00:00Z
+    webUrl: "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 51
+    images:
+      - url: "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png"
+        width: 975
+        height: 650
+        isCached: true
   - title: "Worldwide Face Recognition with Edge Computing Industry to 2026 - Increasing Integration With Ai Drones and Video Surveillance Presents Opportunities"
     excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to"
     publishedDateTime: 2022-01-04T17:45:00Z

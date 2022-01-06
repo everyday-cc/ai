@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thenation.com/article/world/ai-weiwei-china/tnamp/"
 cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/ai-weiwei-china/tnamp/"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 385
     height: 505
     isCached: true
+
+related:
+  - title: "Chinese Dissident Ai Weiwei Dismissed Tennis Star Peng as Party ‘Soldier’"
+    excerpt: "Chinese dissident Ai Weiwei dismissed tennis star Peng Shuai as a “soldier” of the Communist Party, at a time when she appeared in state-media footage released to quell global concerns over her safety after she made allegations against a former top official."
+    publishedDateTime: 2022-01-06T18:03:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-01-06/china-s-ai-weiwei-dismissed-tennis-star-peng-as-party-soldier"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 66
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibtRNWbx9._I/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "/iQJ9NieFM11X13X19RodJeXjxu+vm+jB05mNyrEb6118WioaPJ0foYF/21aI9bv0yxcSniTWKcCG3DtYvwW4CtKyxS8LM6W1GzD1JwR8h9V3Ns5Y2gheiToI/8Xn/EiiUH1hVWTuzqwEGg7t3g5Z2N2cweAxImQnY4rrhm7hrvDCaEEFTn2OdQfXm/qJ2PicMey1ob4ocilSrpsTGwqG3utBLA6aqamfwl/vPVOjAEisXc+OfrbHsRyyGoEjUU/m5aHndqu8TM3vD7/RZm9Qy+a4xsyghgAU+Vv8tFYuHXyumuTu2Oolpx0SE2zuB/4Jf2lGuIq45TWsUwpIL1ruRt9fapu+FfH3ywnwwvtgjg=;ZSc8rVsNGeLrCoJg8Fu7cQ=="
 ---

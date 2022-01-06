@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-01-dont-proteins-ai-hallucinate.html"
 ampWebUrl: "https://phys.org/news/2022-01-dont-proteins-ai-hallucinate.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-dont-proteins-ai-hallucinate.amp"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/when-researchers-dont.jpg"

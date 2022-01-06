@@ -147,6 +147,20 @@ related:
         width: 1210
         height: 670
         isCached: true
+  - title: "Fintech’s Biggest Challenge for 2022: Customer Service"
+    excerpt: "As I reminisce on these past three years since founding OneBlinc, and the tremendous traction we have been able to obtain, I have been thinking incessantly about what has helped us win, the key challenges we have faced,"
+    publishedDateTime: 2022-01-06T17:05:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintechs-biggest-challenge-2022-customer-service-fabio-torelli"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG_lxJuQBnC6Q/article-cover_image-shrink_600_2000/0/1641488235356?e=1646870400&v=beta&t=TmCKFF_fZbi3r_Cx-VqbV_5nzI-6zEbuIQXBdfy95DM"
+        width: 740
+        height: 422
+        isCached: true
 
 secured: "V+zpFc4+8o/ZqPI3f1Pjwlrx0EZd6H7hfqXSimRPNTLlPrqOPUZpTtEqfx92x0SRPfG5iJdhiI+uGJAMt7O5qdZIbV984Q5xSm7eKM+Jkghyh/+o/VCfz8H+VqaS/7UuMtPQLaZ4ki+V/0y35wr8VevRQCQkzESvVe7QYXf/RbVV9JMkr6NCF4jG2jdBBiWGgrGyTve/sa6XYj2M18SQ9gXuVSpbMDyZ5xUOCKuyxNBUhQ/1mCrtXkp2g2XwYD4AwO2ZR+Yzk5phc2JeM8KtmMdlHj6lz4E7Zqe+i6lfAKYfX1sBhakW6uauHW8QVaIpG/nAdB+QVcvMGVeuVQyHroLIC/VWLd2APpcrMDks/7c=;4NopBbuR4j1S+7uAovRKxg=="
 ---
