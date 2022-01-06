@@ -39,6 +39,15 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Volvo is teaming up with Luminar to test a self-driving car system in California"
+    excerpt: "@volvocars has developed a fully autonomous highway driving system it plans to test later this year that uses @luminartech sensors."
+    publishedDateTime: 2022-01-05T22:24:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/01/05/volvo-luminar-to-debut-self-driving-in-california.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "CLKEXI91tDsAN3vRKglVLe2VsCcN8undMYP1CH9cmgzb22usQs+K3+KM5I0mktIw+znRtfavZvwej9/k7fjN9olWvLgy0ab0jOsWStcH5MBlCw5ysIXNLCIWExHISkKNooL51mMN8+5huHkzb48HCCn339s6UOlOInOklPjioW+XFgITFy942pwz2yQX4UPGlB8KDlH2S6ifLe4x5OizsC9m29fRepxLtj1WkFeP8X3wI9lfpU/kuBSw0SWTW300sQMNir4NFozU9wbe8+TIBhQFSTSdcD0V7ZAEa1YZsR4SG+3cXI2QhRF/mFu7FQWBAJQ1VaDcnXj8NmQyXoOEyjXu99o961Y3kC1afSTR0mc=;iVJQGxfa8uvDJGecrVOPbw=="
 ---

@@ -41,6 +41,31 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "University of Hawaii to compete in driverless car racing event in Las Vegas"
+    excerpt: "The University of Hawaiʻi will once again make history by competing in the world’s first-ever, head-to-head autonomous car racing competition scheduled to take place on Friday, Jan. 7."
+    publishedDateTime: 2022-01-05T23:18:00Z
+    webUrl: "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/"
+    ampWebUrl: "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/"
+    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 72
+    images:
+      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2022/01/1-15-UH-AUTONOMOUS.00_02_07_07.Still001.jpg?w=1280"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "University of Hawaii to compete in driverless car racing competition"
+    excerpt: "The University of Hawaii will soon compete in the world's first head-to-head autonomous car racing competition. The Autonomous Challenge at CES, or Consumer Electronics Show, will be held Jan. 7 in Las Vegas."
+    publishedDateTime: 2022-01-05T18:23:00Z
+    webUrl: "https://www.bizjournals.com/pacific/inno/stories/news/2022/01/05/uh-compete-in-history-making-driverless-car-race.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Autonomous Trucking Milestone: Pony.ai Forms Joint Venture"
     excerpt: "Pony.ai, a leading global autonomous driving technology company, announced on December 27th that PonyTron, its autonomous trucking business unit, formed a joint venture with Sinotrans, part of China Merchants Group and one of China's leading logistics and freight forwarding companies."
     publishedDateTime: 2022-01-04T18:12:00Z

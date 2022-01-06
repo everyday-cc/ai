@@ -3,8 +3,8 @@ category: news
 title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
 excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
 publishedDateTime: 2022-01-04T15:41:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
 type: article
 quality: 37
 heat: -1
@@ -86,6 +86,6 @@ related:
         height: 301
         isCached: true
 
-secured: "IH9saht3Zgc3RPacLFnRIN4z2iM4TqGb0tTYyOFJDZ6D91XHPHHcCGi7y+cZqIyOx5SvgytXDtWr+bBoLtISKyPgxT6NhTkhyO0nGUzk6750lGH14gOByqvTaNEeOtqzrN2yXIRhyTjkHgKcYBaWimILX0e1lM7MuoOj4/csC7+N/NHS67JlQFLR3Zu2IYz0hHTBNZjKtnojXxYenMILfDNAr2VxyIDX7qpXsLQyiXjM62gOJ2DbWqdhSKTncmYVTP7vk22BpRVMhVeVndkGwor/mRwpx4+cHfemcfxTMKffVtRhUVlAxY7T5OwNHHkQ6EVDGGL2qF/Fd8x58neD/MfxIlMR24o9hbxrDHjtCiQ=;eE+qC9iSQAxhwkztepjCIw=="
+secured: "KeQfgS+exG3WdUcIW4P2X50Gjk73HqqwdEI/b0PjlZR2wbLf97hcIVTsQNDWsqkAn8hqz8tYwKJ9LfLhu1AdiktappDv1q5TCdkG6mPaJ4V1CqftuJIaeyXVXi9m+tE+M5FjaJjEnQvsHvR/nMmiXVU45U5f31EFNwR4o8oNl7n/9gAtQy6qbOpc7sxedSIX3a3rIDXfkOkCmZ7Zk6YsAHaH5l4fqYuJMKKQ8+vdJ0zFUQEXdwZfOb6c4d5GB0YTDbYhunXDy1vgv0OJVJ4/Zq65cq4yNstR/7+cTyVQ4U7FepGWaYqkhVimcAhRRXgY9YHnAx62QaT2rinRv4QCC+F6EMd8d0yGFZPl+LyyIR8=;jxFn/Utq/M3cQfriaRNIdQ=="
 ---
 

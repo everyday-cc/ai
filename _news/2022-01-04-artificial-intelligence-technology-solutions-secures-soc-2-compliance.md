@@ -38,6 +38,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "SIERA.AI Announces $6.8 Million Seed Funding Round"
+    excerpt: "Connected Industrial Mobility leader, SIERA.AI, announced the completion of a $6.8 million seed funding round. The funding round was supported by Parkway Venture Capital, a New York venture capital firm and Ubiquity Ventures,"
+    publishedDateTime: 2022-01-05T16:27:00Z
+    webUrl: "https://apnews.com/press-release/send2press/business-austin-texas-venture-capital-0cc4206a4a437d17b53cc4529e05cb52"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Green Hills Software with Apex.AI Offers Production-Focused Safe and Secure Automated Drive Software Platform Solutions"
     excerpt: "Green Hills Software, the worldwide leader in embedded safety and security, in collaboration with Apex.AI, the leader in safety frameworks and middleware for mobility solutions, today announced the availability of their production-ready ROS 2-compatible development framework for safety and security-critical transportation solutions."
     publishedDateTime: 2022-01-05T13:10:00Z

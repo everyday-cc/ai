@@ -2,6 +2,224 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-12-10-jacksonville-dentist-goes-next-level-with-robot-assisted-dental-surgery.md",
+      "title": "Jacksonville dentist goes next-level with robot-assisted dental surgery",
+      "excerpt": "Even though the technology is robotic, Arauz maintains control at all times ... but takes advantage of the human mind in the brilliant aspect,\" said Arauz. Arauz received Yomi in February ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
+      "originalUrl": "https://www.jdnews.com/story/news/2021/12/09/jacksonville-nc-dentist-uses-robotic-dental-surgery/8768281002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/02/NJDN/a0c0e71d-9897-4de8-9847-c29fada6ae52-drarauz.jpg?auto=webp&crop=959,540,x0,y128&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.jdnews.com/amp/8768281002",
+      "cdnAmpWebUrl": "https://amp-jdnews-com.cdn.ampproject.org/c/s/amp.jdnews.com/amp/8768281002",
+      "publishedDateTime": "2021-12-10T00:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Jacksonville Daily News",
+        "domain": "jdnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-how-machine-learning-is-changing-finance-forever.md",
+      "title": "How Machine Learning is Changing Finance Forever",
+      "excerpt": "Innovation drives things forward no matter the industry that is on the receiving end. In finance, innovation over the last decade has seen how financial institutions, banks, and lenders interact with their customers and provide financial services change exponentially.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/how-machine-learning-is-changing-finance-forever/",
+      "originalUrl": "https://techbullion.com/how-machine-learning-is-changing-finance-forever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2021/12/How-Machine-Learning-is-Changing-Finance-Forever.jpeg",
+          "width": 1200,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/how-machine-learning-is-changing-finance-forever/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/how-machine-learning-is-changing-finance-forever/amp/",
+      "publishedDateTime": "2021-12-09T21:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-va-adding-physical-therapy-device-to-ai-roster.md",
+      "title": "VA Adding Physical Therapy Device To AI Roster",
+      "excerpt": "The Veterans Affairs Department is looking to pilot a new physical therapy application for injury treatment, Nextgov reports.",
+      "sourceUrl": null,
+      "webUrl": "https://ptproductsonline.com/industry-news/va-adding-physical-therapy-device-to-ai-roster/",
+      "originalUrl": "https://ptproductsonline.com/industry-news/va-adding-physical-therapy-device-to-ai-roster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ptproductsonline.com/wp-content/uploads/2021/12/ArtificialIntelligence2.jpg",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T18:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Physical Therapy Products",
+        "domain": "ptproductsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars.md",
+      "title": "All Hands on Tech – Amazon DeepRacer League encourages developers to train self-driving cars",
+      "excerpt": "At Amazon Web Services re:Invent in Las Vegas this year, Amazon launched an autonomous model car racing league and hosted the first race. Meant as a way to engage developers to train reinforcement learning models, Amazon says it will host more races at its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars",
+      "originalUrl": "https://www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/12/AHOT-AWS-Conference-Thumbnail-For-web.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars?amp=1",
+      "publishedDateTime": "2021-12-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-deepmind-says-its-new-ai-has-almost-the-reading-comprehension-of-a-high-schooler.md",
+      "title": "DeepMind Says Its New AI Has Almost the Reading Comprehension of a High Schooler",
+      "excerpt": "Alphabet’s AI research company DeepMind has released the next generation of its language model, and it says that it has close to the reading comprehension of a high schooler — a startling claim.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/deepmind-ai-reading-comprehension/amp",
+      "originalUrl": "https://futurism.com/deepmind-ai-reading-comprehension/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2021/12/deepmind-ai-reading-comprehension-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/deepmind-ai-reading-comprehension/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/deepmind-ai-reading-comprehension/amp",
+      "publishedDateTime": "2021-12-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-brainbox-ai-brings-machine-learning-to-building-controls.md",
       "title": "BrainBox AI brings machine learning to building controls",
       "excerpt": "BrainBox AI focuses primarily on controlling HVAC systems, which accounts for the majority of the energy consumption in most buildings.",
@@ -936,220 +1154,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-how-k12-schools-can-use-artificial-intelligence-in-education.md",
-      "title": "How K–12 Schools Can Use Artificial Intelligence in Education",
-      "excerpt": "What role will artificial intelligence play in the future of education? For educators, AI can feel like an exciting development — or a terrifying unknown. AI technology is advancing quickly and creating solutions once thought impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
-      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://edtechmagazine.com/k12/k12/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/GettyImages-1220250522.jpg?itok=y0r6bHRt",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
-      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
-      "publishedDateTime": "2021-12-09T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EdTech",
-        "domain": "edtechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-robust-intelligence-raises-30m-series-b-to-stress-test-ai-models.md",
-      "title": "Robust Intelligence raises $30M Series B to stress test AI models",
-      "excerpt": "Robust Intelligence, an AI startup that helps businesses stress test their AI models and prevent them from failing, today announced that it has raised a $30 million Series B funding round led by Tiger Global.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/",
-      "originalUrl": "https://techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1271697775.jpg?w=1024",
-          "width": 1024,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/09/robust-intelligence-raises-30m-series-b-to-stress-test-ai-models/amp/",
-      "publishedDateTime": "2021-12-09T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-trucks-catch-up-in-the-self-driving-vehicle-race.md",
-      "title": "Trucks catch up in the self-driving vehicle race",
-      "excerpt": "Instead, fully self-driving cars are struggling to get away from the starting grid and some investors are betting that driverless trucks will reach the chequered flag first. Only a year ago, startups developing robotaxis were pulling in eight times more funding than firms working on autonomous trucks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/europe/trucks-catch-up-self-driving-vehicle-race-2021-12-09/",
-      "originalUrl": "https://www.reuters.com/markets/europe/trucks-catch-up-self-driving-vehicle-race-2021-12-09/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/Hr14Tq7p2fycQMPHuA6TWf8EUME=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CFEGJMZYXNIUFCWLH2MD44CT4U.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-tail-this-billionaires-bet-on-artificial-intelligence.md",
-      "title": "Tail This Billionaire’s Bet on Artificial Intelligence",
-      "excerpt": "Mathematician and hedge fund manager Jim Simons is a legend in the capital markets, and his bet on artificial intelligence (AI) is one that investors should follow closely. It's a classic case of following the smart money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tail-this-billionaires-bet-on-artificial-intelligence",
-      "originalUrl": "https://www.nasdaq.com/articles/tail-this-billionaires-bet-on-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tail-this-billionaires-bet-on-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tail-this-billionaires-bet-on-artificial-intelligence?amp",
-      "publishedDateTime": "2021-12-09T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-us-demand-for-analytics-intensifies-as-enterprises-democratize-access-to-data-tools.md",
-      "title": "U.S. Demand for Analytics Intensifies as Enterprises Democratize Access to Data, Tools",
-      "excerpt": "U.S. enterprises are investing more in data analytics services and platforms, as employees at all levels gain more appreciation for the value of data, according to two new reports published today by Information Services Group ( ISG) (Nasdaq: III ),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/12/09/9508536.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/12/09/9508536.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T06:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

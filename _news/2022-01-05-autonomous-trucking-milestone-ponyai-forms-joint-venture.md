@@ -35,6 +35,22 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "University of Hawaii to compete in driverless car racing event in Las Vegas"
+    excerpt: "The University of Hawaiʻi will once again make history by competing in the world’s first-ever, head-to-head autonomous car racing competition scheduled to take place on Friday, Jan. 7."
+    publishedDateTime: 2022-01-05T23:18:00Z
+    webUrl: "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/"
+    ampWebUrl: "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/"
+    cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/"
+    type: article
+    provider:
+      name: KHON2
+      domain: khon2.com
+    quality: 72
+    images:
+      - url: "https://www.khon2.com/wp-content/uploads/sites/8/2022/01/1-15-UH-AUTONOMOUS.00_02_07_07.Still001.jpg?w=1280"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Tesla rival races to introduce driverless cars by 2024"
     excerpt: "After excitement over driverless cars peaked half a decade ago ... His early work in computer vision in the 1990s convinced him that cameras and artificial intelligence software would improve to the extent that driver assistance systems would be able ..."
     publishedDateTime: 2022-01-03T12:44:00Z
@@ -49,6 +65,15 @@ related:
         width: 1024
         height: 536
         isCached: true
+  - title: "University of Hawaii to compete in driverless car racing competition"
+    excerpt: "The University of Hawaii will soon compete in the world's first head-to-head autonomous car racing competition. The Autonomous Challenge at CES, or Consumer Electronics Show, will be held Jan. 7 in Las Vegas."
+    publishedDateTime: 2022-01-05T18:23:00Z
+    webUrl: "https://www.bizjournals.com/pacific/inno/stories/news/2022/01/05/uh-compete-in-history-making-driverless-car-race.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "/A3WV35NQz42peEpGvyrLpGhwJB4ja7L4KwI4em1t7AyoSQnArZaRN2Wy80lCLC47MD7e7c4fKn89/+TMNFnBBt47lsD6TZxk8dj7n2Kug2S6QATDGIXC7BjSLAH4PNBkiVectbyLbC3ylZGTReEk6eKy7MABIXsK12ssc8aXqXvzGeHr46IBXXkvWJc/U/j2lIH+UUP0yUNINqFbE1vffLVSPFpiMjQ8+sUa44KC1Hnx7QaknqbwnXXH5BdkfE3KXuOvpfBOdkuB55tp0N7T/9wyh86zorUoY8ktHh65otayLb5k4FK0nxM50N+pE+YWgMe4HtjAfW7RO8l5PgnV5YuiOOhRLXhszJmpCrQkbs=;klKvmkHHOFVvN1E/yk1Psw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://reverb.com/item/48843939-behringer-deepmind-12d-desktop-12
 webUrl: "https://reverb.com/item/48843939-behringer-deepmind-12d-desktop-12-voice-polyphonic-analog-synth-module"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 900
     height: 900
     isCached: true
-
-related:
-  - title: "A historical tale of DeepMind’s games"
-    excerpt: "It has since beat the world’s greatest player of the previous decade, Mr Lee Sedol, by a 4-1 victory with 200 million worldwide watchers sitting at the edge of their seats."
-    publishedDateTime: 2022-01-01T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/a-historical-tale-of-deepminds-games/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ezgif.com-gif-maker-14.gif"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "GgsHHIPPhh5SBOIQI4Kh8IepBUAWV9rCLH61YKmwYEsJp2gFTQh5DCHsot9wlEPkGvTQ8cqeBTTGKsrIsVH+CB6MeJBVcPvKhy/xtI7MFE9I1tqthWWq6l9yiWNdziFYRRhNgWhNyF08VW6OKkFhSy2hZNDZZnjnL4Umb+zLpDc3j5TjgJDm1bljsDIkOj2uFCbIltlQYoN2UxLN4t4NuIsa5GtZdCY6u4XzaHuH4sjvKca+dky8WBbZrupzMIXzOKWi98qh8686OTAcudPoXDPRXJBfY3TR/HA1mAhJqnqTGEg/Yz/hbBa4vfE2fjtGaHPQJmZ+hFo6WubOpz7lPzek0HGlnQ0qyqrJb5c6h1k=;9PE1H2FgrkOdEXiMuEPc0Q=="
 ---

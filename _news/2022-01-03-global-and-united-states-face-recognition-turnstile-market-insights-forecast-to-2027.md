@@ -35,6 +35,20 @@ related:
         width: 696
         height: 392
         isCached: true
+  - title: "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027"
+    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2."
+    publishedDateTime: 2022-01-05T23:11:00Z
+    webUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
+    type: article
+    provider:
+      name: Coub
+      domain: coub.com
+    quality: 51
+    images:
+      - url: "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png"
+        width: 1600
+        height: 840
+        isCached: true
 
 secured: "WCr0RtUmfQ+fo+dcah+RkpBwK9pZ7G43qAMr2YIdvVVDgFGg9mG0buMQWi+zUJ8D0T2TWcV/p5kXuYFOUjL1goHcUyBFPQY0M9Su/niKB9wCrAUIbIDLZZPRn0Nf1T8pd1aoLxoFm37TI9YiKmsbW0Vk88GRzb5/Uz7QJLl6RKHRk3PGirO4TBiboHYZxWji4hbsV/PcmSt3o5kp/BNf0h26bF0FVCDvulc7tJH6NL4VJKOb5t/ArhcPFSqfBXaZlflejaWX9T0XhdfjtmasBPctKdrbsbVgOqs11IVqxpgz917SeGiqtbMsXlxhFoe5K8O7uiXY8R3h/SoIawwwxKqLGUPKRBIkkWGexJVJhfA=;m2y29+edYGB5CaW7trD4Hg=="
 ---

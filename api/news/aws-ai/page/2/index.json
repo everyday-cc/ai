@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-14-latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science.md",
-      "title": "Latest Study on Natural Language Generation (Nlg) Market Hints a True Blockbuster : Artificial Solutions, AWS, IBM, Narrative Science",
-      "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 12/13/2021 -- HTF Market Intelligence added research publication document",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science",
-      "originalUrl": "https://www.digitaljournal.com/pr/latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/Spider-Man-Sony-1K-e1640613949235-600x337.jpeg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-13-machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass.md",
       "title": "Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass",
       "excerpt": "Discrete and continuous manufacturing lines generate a high volume of products at low latency, ranging from milliseconds to a few seconds. To identify defects at the same throughput of production, camera streams of images must be processed at low latency. Additionally, factories may have low network",
@@ -1406,6 +1363,41 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event.md",
+      "title": "Optus deploys 5G standalone on AWS DeepRacer vehicles at e-racing event",
+      "excerpt": "Optus also reports that the AWS DeepRacer is the first autonomous 1/18th scale car specifically developed to help people of all skill levels get hands-on with reinforcement learning, an advanced ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecompaper.com/news/optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event--1406273",
+      "originalUrl": "https://www.telecompaper.com/news/optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event--1406273",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T00:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecompaper",
+        "domain": "telecompaper.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

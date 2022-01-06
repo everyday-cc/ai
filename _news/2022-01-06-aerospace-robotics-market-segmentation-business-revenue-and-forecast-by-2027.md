@@ -1,0 +1,56 @@
+---
+category: news
+title: "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027"
+excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2."
+publishedDateTime: 2022-01-05T23:11:00Z
+originalUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
+webUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
+type: article
+quality: 51
+heat: -1
+published: false
+
+provider:
+  name: Coub
+  domain: coub.com
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png"
+    width: 1600
+    height: 840
+    isCached: true
+
+related:
+  - title: "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027"
+    excerpt: "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery."
+    publishedDateTime: 2022-01-03T22:49:00Z
+    webUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/"
+    ampWebUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 51
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/Logistics-Robots.jpg"
+        width: 696
+        height: 392
+        isCached: true
+  - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
+    excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
+    publishedDateTime: 2022-01-03T06:15:00Z
+    webUrl: "https://www.reportsnreports.com/reports/5242220-global-and-united-states-face-recognition-turnstile-market-insights-forecast-to-2027.html"
+    type: article
+    provider:
+      name: ReportsnReports
+      domain: reportsnreports.com
+    quality: 12
+
+secured: "J1XNhKbFkR1sp4FI8WoC1/ihTIK5wHsBxDtuRjCpirIrc/zlEQnsPjrQ0wrPMYBbNIXRd/drnecHvV2KnKDIyYO0TpkJfwgmao58uaDBXkH40JXKNi//OfSYx5bLu6oNqXhKXpj6fZeRG2QF9UDJH/77qpMXJiA6tj66zOVBHGj+NkCTgNrFq2nwuF2KNo2xItnaA2wHgaOi8y3uLKf3js5R/uooNaL4hTl4/1SpEhrjRZjT+decrkFM7IHn53gZf1NYusq+VCz/Eq7RDJzEuN41m4Bzsst4HNZVbf8rVgBwsmvUZ7grHCAmNzD/LLxZ+8gG6boHGkj+fwI+Xax2Dn4YOeX6zFlWY65Ij3Uu+bU=;NiYb2sPbIctNfry3tdnNgA=="
+---
+

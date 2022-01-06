@@ -22,6 +22,20 @@ topics:
   - Microsoft AI
 
 related:
+  - title: "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology"
+    excerpt: "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare"
+    publishedDateTime: 2022-01-06T00:45:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 70
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Artificial Intelligence (Ai) In Education Market Next Big Thing | Major Giants- Google, Cognizant, Microsoft"
     excerpt: "The Latest research study released by HTF MI“Worldwide Artificial Intelligence (Ai) In Education Market” with 100+ pages of analysis on business S"
     publishedDateTime: 2022-01-04T09:48:00Z
@@ -52,17 +66,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "AI Software Platforms Market Next Big Thing | Major Giants Cloudera, IPsoft, Uniphore"
-    excerpt: "A new research document is added in HTF MI database of 109 pages titled as AI Software Platforms Market Global Outlook and Forecast 2021 2027 with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players"
-    publishedDateTime: 2022-01-04T10:49:00Z
-    webUrl: "https://www.openpr.com/news/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    ampWebUrl: "https://www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
 
 secured: "X0v3k+MP0SLjznducrkrYkyUAjQjmF9+8DK+SqQaxWTPqb4ExxN99ZjtPllEcFjUtRBmQQpvWSFFkNcBG8WjkXRlpUD2LqxnAeyg42YlTjIbSAtIuGREAHiFQxa9o+6dLivxrhCgiSvWQqU8f3AMHVi2zKWkUQRvkpN3e6quqPI+S7XEJGt+XxYP+bFkitDO5egpnnjSHO+jzWJXfoZUrQPCUszFugsQcdsuFsvlIxj5RTibuwAdlnBIiqlUnqQnPr+A7AKrxWgM5ghsZ2/18ahd3kScTL0iiL7pMxMo+zRzQQPm/+ZMox7izcVXiTmphoYXKlxp18GiZPp9mdOpPSfSSDDFQiZkj9sdOeOre3Q=;wZxPbfkJSSv07yk3ujo9lw=="
 ---

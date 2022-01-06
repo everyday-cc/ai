@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/volvo-ride-pilot-181545657.html"
 webUrl: "https://www.engadget.com/volvo-ride-pilot-181545657.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Engadget
@@ -43,6 +43,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Volvo is teaming up with Luminar to test a self-driving car system in California"
+    excerpt: "@volvocars has developed a fully autonomous highway driving system it plans to test later this year that uses @luminartech sensors."
+    publishedDateTime: 2022-01-05T22:24:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/01/05/volvo-luminar-to-debut-self-driving-in-california.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "y1JUMC3gAzxrz4YicjSTqC3rqSIT3AStUV4LWx88PZrCNRy5zyUtKWUI3Uh5R45H+Cn+k9rOv2YOZ6cK4Ascj/CSbwO+JrP6GYjDKYuYHjYMyiKi6f210aRF9/ziH5/QufcKh4l6U4B9DCdlCFCFzG01y8YCK/KlfBBS1McQuSJBdPgtyHwiDzB8Tb3EJ98xw3uBSH5mheyx+UWSOeavzNc/wXlHqHUKKPE8y1e/1Oi0YUXiiGYgRvX3/FnlBe29JkIC6tbMX0eT+RFmDRGlzmJ4EGDIHuSovUSS7CQiZokfRxygbh/XTLeVab81RbrPyN+bTAPxX4QpbsIMJAPyP9TroT8pCk5FHfG6jUrfBV8=;vhJZyOpjOjnXAaetaO5vLw=="
 ---

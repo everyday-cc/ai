@@ -7,8 +7,8 @@ originalUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Educat
 webUrl: "https://menafn.com/1103482009/Artificial-Intelligence-Ai-In-Education-Market-Next-Big-Thing-Major-Giants-Google-Cognizant-Microsoft"
 type: article
 quality: 69
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Middle East North Africa Financial Network
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology"
+    excerpt: "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare"
+    publishedDateTime: 2022-01-06T00:45:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 70
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Wejo developing vehicle data processing platform with Microsoft"
     excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
     publishedDateTime: 2022-01-05T12:37:00Z
@@ -54,17 +68,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 57
-  - title: "AI Software Platforms Market Next Big Thing | Major Giants Cloudera, IPsoft, Uniphore"
-    excerpt: "A new research document is added in HTF MI database of 109 pages titled as AI Software Platforms Market Global Outlook and Forecast 2021 2027 with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players"
-    publishedDateTime: 2022-01-04T10:49:00Z
-    webUrl: "https://www.openpr.com/news/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    ampWebUrl: "https://www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2516675/ai-software-platforms-market-next-big-thing-major-giants"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 30
 
 secured: "4fDhi14r4fD2l3edu3vG2TisdK7Z+MBmbuYg4YbB3wtFB2ztPmYPRd9iBhINJMoNoFYaa1WtV6YzSAH61ihiqTt+e1QTFkRiYuEjxiECilcNmsji+h7aFlcWZuygtLTJEF7GNXOLYQ8f1Ce+CLIMvJMUGzhsUsf1JkUFHSIvp650oyAnNDwLUt0r7CDmZJ6Sd/ZMvaBb1saaEP695+nGG7wRPYkU1HlZXMiACokePuTgosLOXVpyC0M7VzfxP/eIKQ/lo48aj9J60/z3glTpnV9JXNNXOgeGCK46+s1ikqi5lpYf9hqya6Gcl3T15hpmpLkk43f5dyb0Jhb89UUhQoClhN5hI4xWpUvpmM/WyMs=;4LdVech9PdFnE0b8SpO0OA=="
 ---

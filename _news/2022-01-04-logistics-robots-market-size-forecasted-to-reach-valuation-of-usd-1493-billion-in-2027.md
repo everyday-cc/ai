@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-r
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
 type: article
 quality: 51
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: Impacts
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027"
+    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2."
+    publishedDateTime: 2022-01-05T23:11:00Z
+    webUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
+    type: article
+    provider:
+      name: Coub
+      domain: coub.com
+    quality: 51
+    images:
+      - url: "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
     publishedDateTime: 2022-01-03T06:15:00Z

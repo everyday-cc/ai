@@ -656,6 +656,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-27-in-africa-research-coalition-works-to-rescue-languages-that-western-tech-ignores.md",
+      "title": "In Africa, research coalition works to rescue languages that Western tech ignores",
+      "excerpt": "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world's dominant languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hotsr.com/news/2021/dec/27/in-africa-research-coalition-works-to-rescue/",
+      "originalUrl": "https://www.hotsr.com/news/2021/dec/27/in-africa-research-coalition-works-to-rescue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/200253389_8796040a4d724a62aa59121d9fe2817e-12d8e4c7682c4e849ca73e08fa360359-0_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel-Record",
+        "domain": "hotsr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-26-taiwans-opposition-kmt-rushes-to-regain-lost-voice-in-america.md",
       "title": "Taiwan’s opposition KMT rushes to regain lost voice in America",
       "excerpt": "High-level Kuomintang official is in Washington to speed up reopening of liaison office and counter the influence of Taiwan’s ruling DPP.",
@@ -1398,49 +1441,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai.md",
-      "title": "Sheikh Mohammed attends first-ever Arabic Language Summit at Expo 2020 Dubai",
-      "excerpt": "Dubai Ruler witnesses signing of UAE Declaration on the Arabic Language  Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, on Sunday attended the first edition of the Arabic Language Summit at Expo 2020 Dubai.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
-      "originalUrl": "https://gulfnews.com/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/19/MBR-Arabic-Language-Summit-1639923960465_17dd315caab_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/sheikh-mohammed-attends-first-ever-arabic-language-summit-at-expo-2020-dubai-1.84505660",
-      "publishedDateTime": "2021-12-19T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

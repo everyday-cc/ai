@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/01/ab24917702/ruffo-caselli-f
 ampWebUrl: "https://www.benzinga.com/amp/content/24917702"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24917702"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.abnewswire.com/uploads/ce34fec81d190bf2eafcb8a57827cc4c.png"

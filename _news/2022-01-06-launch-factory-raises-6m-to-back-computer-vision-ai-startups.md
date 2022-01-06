@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-05T20:57:00Z
 originalUrl: "https://finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html"
 webUrl: "https://finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.finsmes.com/wp-content/uploads/2022/01/launch-factory.png"
