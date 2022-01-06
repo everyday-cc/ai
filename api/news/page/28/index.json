@@ -2,6 +2,108 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-12-10-why-companies-should-be-using-ai-to-fight-cyberattacks.md",
+      "title": "Why companies should be using AI to fight cyberattacks",
+      "excerpt": "Cyberattackers use AI, so why not apply it as a defense? One expert explains why AI can take your cybersecurity to the next level of protection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
+      "originalUrl": "https://www.techrepublic.com/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/09/23/3e7446b6-3dd6-449f-8ed1-58422c4cbce8/resize/1200x/e9ca5d6441bc53fb4766cfe5fc5c7482/istock-1162361864.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/why-companies-should-be-using-ai-to-fight-cyberattacks/",
+      "publishedDateTime": "2021-12-09T10:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai.md",
+      "title": "Blockchain indexing firm The Graph awards $60M grant to Semiotic AI",
+      "excerpt": "The Graph, an indexing and querying layer for Web3, has awarded a grant worth $60 million to California-based Semiotic AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/blockchain-indexing-firm-the-graph-awards-60m-grant-to-semiotic-ai/amp/",
+      "publishedDateTime": "2021-12-09T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-ai-inference-acceleration-on-cpus.md",
       "title": "AI inference acceleration on CPUs",
       "excerpt": "The vast proliferation and adoption of AI over the past decade has started to drive a shift in AI compute demand from training to inference.",
@@ -1041,101 +1143,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-berlin-is-leading-germany-in-ai-startups.md",
-      "title": "Berlin is Leading Germany in AI Startups",
-      "excerpt": "Berlin is actively taking part in this AI revolution of new startups and cutting-edge research. With a total of more than 300 AI companies, the city is a European center for innovators and visionaries in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sponsored/berlin-leading-germany-ai-startups",
-      "originalUrl": "https://www.newsweek.com/sponsored/berlin-leading-germany-ai-startups",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1948190/berlin-main-second.jpg",
-          "width": 1387,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T02:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-empowering-enterprises-via-ict-miind-strategy.md",
-      "title": "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence empowering Enterprises via ICT-MiiND Strategy",
-      "excerpt": "In turn, the CAHK STAR Awards 2021 \"Best Innovation for Future Enterprise - Gold\" highlights the game-changing significance of CITIC Telecom CPC's AI-enabled Cognitive Object Recognition System ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering",
-      "originalUrl": "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/asiaone_default.jpg?itok=yY5XVIZh",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp",
-      "publishedDateTime": "2021-12-09T02:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

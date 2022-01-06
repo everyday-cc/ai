@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-t
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 239
 published: true
 
 provider:
@@ -214,6 +214,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia announces RTX 3050 graphics card for desktops"
+    excerpt: "On the first day of CES 2022, Nvidia announced the RTX 3050 for desktops. Although Nvidia has already released the 3050 for laptop devices, the desktop versions are set to be released on January 27th."
+    publishedDateTime: 2022-01-05T15:51:00Z
+    webUrl: "https://gameranx.com/features/id/284171/article/nvidia-announces-rtx-3050-graphics-card-for-desktops/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 24
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/01/3060.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA GTC 2022 announced: next-gen MCM-based Hopper GPU reveal likely"
     excerpt: "NVIDIA announces GTC 2022 as in-person event, Jensen Huang should reveal their next-gen Hopper GPU -- their first MCM-based design."
     publishedDateTime: 2022-01-02T19:21:00Z
@@ -222,6 +236,15 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
+    quality: 19
+  - title: "NVIDIA debuts low-cost RTX 3050, new laptop GPUs, and more at CES 2022"
+    excerpt: "NVIDIA has announced a couple of more additions to its GPU lineup at CES 2022. The newly announced lineup includes the GeForce RTX 3050 GPU, the most affordable GPU of the RTX 30 lineup, and a couple of more GPUs for laptops."
+    publishedDateTime: 2022-01-05T12:11:00Z
+    webUrl: "https://pocketnow.com/nvidia-debuts-low-cost-rtx-3050-new-laptop-gpus-and-more-ces-2022"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
     quality: 19
 
 secured: "N4aSU+A95HPDUSTxINLGyXQjjwyuSKeHjWBByaj3s7YTptLVGioHWghRcudgDqT9QWgKJQ+fc5L08rfGJmEvLjYDCtknfH5VzDsxBVMWgXiojhXpUVV9h4Lyq6XDNpoHTZk7MErGVLh8jp1jIe7auf2dlZ6wsQ+9GSP0MjgXg0cZ4mS3cqHLQpQMDvkjgBgRLGu1o42i3r/qjnPRnDlNLVzZuSkS2XQZ8HYoGWygD8HK1YD9u8w/jdb0yVr8amoS8aT5f4xf98vijaKc6J8MsfIt/H3AsbH6x8yQa8uYenoi8LHsauRSApla35pxkPmG3bJdoTQxRAUAcihNLn5VFnwuJW0zSFE/7E+Oqkr9TeBVOj5O82LiyD3b8dCN/6JW49LeXtRRWGPYXAPzCuxB3QAFG2AngKWfV4CrscCOyOvDUuUpsvwsw8zwUfY5VVxTT4gsVVZE3/fqPiXWC/TvwnkkNBHUadwIPcJm0Mu9hJab4pToWbkOOZ4LJN1qT8TPLKG29k8PnmfwyQQWwu6VbA==;43qNsFyk5ygVt5vrQIfGuA=="

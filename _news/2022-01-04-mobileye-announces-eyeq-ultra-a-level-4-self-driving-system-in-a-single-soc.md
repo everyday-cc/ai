@@ -85,6 +85,20 @@ related:
         width: 1920
         height: 1279
         isCached: true
+  - title: "Geely partners with Mobileye in L4 self-driving vehicles"
+    excerpt: "Chinese automaker Geely Holding Group announced this week its premium electric vehicle (EV) brand Zeekr will work together with Intel’s...Read"
+    publishedDateTime: 2022-01-06T09:00:00Z
+    webUrl: "https://www.just-auto.com/news/geely-partners-with-mobileye-in-l4-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/zeekrlaunchnight_15042021-10.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
     excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio - the Snapdragon Ride™ Vision System - a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
     publishedDateTime: 2022-01-04T19:21:00Z

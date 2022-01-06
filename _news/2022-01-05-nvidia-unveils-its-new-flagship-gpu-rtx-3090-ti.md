@@ -210,6 +210,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nvidia announces RTX 3050 graphics card for desktops"
+    excerpt: "On the first day of CES 2022, Nvidia announced the RTX 3050 for desktops. Although Nvidia has already released the 3050 for laptop devices, the desktop versions are set to be released on January 27th."
+    publishedDateTime: 2022-01-05T15:51:00Z
+    webUrl: "https://gameranx.com/features/id/284171/article/nvidia-announces-rtx-3050-graphics-card-for-desktops/"
+    type: article
+    provider:
+      name: Gameranx
+      domain: gameranx.com
+    quality: 24
+    images:
+      - url: "https://gameranx.com/wp-content/uploads/2022/01/3060.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA GTC 2022 announced: next-gen MCM-based Hopper GPU reveal likely"
     excerpt: "NVIDIA announces GTC 2022 as in-person event, Jensen Huang should reveal their next-gen Hopper GPU -- their first MCM-based design."
     publishedDateTime: 2022-01-02T19:21:00Z
@@ -218,6 +232,15 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
+    quality: 19
+  - title: "NVIDIA debuts low-cost RTX 3050, new laptop GPUs, and more at CES 2022"
+    excerpt: "NVIDIA has announced a couple of more additions to its GPU lineup at CES 2022. The newly announced lineup includes the GeForce RTX 3050 GPU, the most affordable GPU of the RTX 30 lineup, and a couple of more GPUs for laptops."
+    publishedDateTime: 2022-01-05T12:11:00Z
+    webUrl: "https://pocketnow.com/nvidia-debuts-low-cost-rtx-3050-new-laptop-gpus-and-more-ces-2022"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
     quality: 19
 
 secured: "JMipORVcSXb2HDiiDEzH8PHIgVTQNReBMLJq67rKoN8AMgu9eWntTxRClBlleP/R9vN4pzZpUhF5eJ5HtNolG/xRP1DlA5kMBnVtdA1L6wd5r1tEWrKPvPI5Xj16ULbpHvHeOBYk6FzjsWvP8GLOK2rUeUA8+xcjfr17QqEsR7Y26rnFC0efOCIfpQcIkEVYg0JM2Mv6B5iZqCk9+d6X8DS42P7NJYmkwqq0dLTk5YjPclOWJk1Xbl46Q+I0qrFA8piqfAjPPj6LfDocTp92EbkaUwwiv7C1ZSP7i45r7qzoXZYrbErG9Qm6eF0GV7v1RBAzjLgwufZJmlwHKiMtJFI5Cm/aw4yN2o0DRU/K6oA=;1+7LgrXpvDxD0qPXn56oCQ=="

@@ -39,6 +39,20 @@ related:
         width: 596
         height: 600
         isCached: true
+  - title: "2022 Global AI Challenge - Virtual Mentors Needed"
+    excerpt: "March 19-May 7, 2022. Competing in multinational teams, female and male underrepresented college/university students and entrepreneurs from over different countries (ages 18+) will learn foundational cloud skills leveraging AWS,"
+    publishedDateTime: 2022-01-06T10:22:00Z
+    webUrl: "https://www.volunteermatch.org/search/opp3443620.jsp"
+    type: article
+    provider:
+      name: VolunteerMatch
+      domain: volunteermatch.org
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/dktp1ybbx/image/upload/f_auto,fl_lossy,q_auto/v1632770244/organization/prod/678749/JwXsTWcUXx.png"
+        width: 1389
+        height: 1389
+        isCached: true
 
 secured: "j4cbifbPCKYpfCrxhLm4iJls1v45LDQ8MfFAW5c0WiXpEnrGNNCUHroTJdA885eb8jWfWRa0ZAJ4lgygiFcTDEpBY9daSjsmcwkwtwnCqa2CNM26eKbEbP7wHcob56QcRqwT4CIKjY4r/7HG7sGLrMcPeRNd1z3k+1Ksym0CVj6VRXfIkVOqYnSw/+0RnVKsyeQJNDRfRMRBNbFzT9rxM39wYvhbaXL1efHq7VqSpbUf6j0OO76t6NlRy2UErEw95fYfOsvFWHJaz4KwAqvMcn4aO+w4Qa57o8ylsiEZpQtzhLKhC2sabWuWRcB0qD8VF2UElOrjsesYQxq/9Nx3vS9a9otBJadyH/v9EvTQCaM=;xfoAAfeKSzwTiXfVxITcsw=="
 ---

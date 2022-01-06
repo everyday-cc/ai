@@ -178,6 +178,20 @@ related:
         width: 979
         height: 506
         isCached: true
+  - title: "Artificial intelligence startup reaches ‘unicorn’ status with $360M investment"
+    excerpt: "Artificial intelligence startup Fractal has achieved “unicorn” status, scoring a $360 million investment ahead of a forthcoming initial public offering, leaders announced Wednesday. Headquartered in New York City,"
+    publishedDateTime: 2022-01-06T09:08:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-fractal-unicorn-tpg-qureai"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 33
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2018-07/istock-917797174_super.jpg?itok=zddmbgvA"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "doUQibtQ6rxlpMYHH/qNnI84EjW2u6Qyj4ftuBQz4EJPkLvhggOGDx+2F3lrm9qTYc0mrxMCOau9/xx2OrvtmXtLm5Cqg9yN6W87j44cIKAOp02aO72SCPVADSsJ4a9jEPjSQGo+wK0ek7qjcWx2XSRzlWRYIEr0r/kEJdLj4xORBtEhLjfhwQ8hw30JFTbcow5OxKAFNIKZFUQpKK4bMIatyewR1vj9I2jUmGvMvAsuNuF4VEuHj6MfQwab0wjduWQCidBYEX3djmeUBeV15wcawrzZlXHRrvVhGHMFxYoQaBaedOs96fQrJeKfroyIwe0KWQeOUnSfY16IvVMJqb0KNO4fLp3+dLbDDJnsRa0=;4NRrOyv6pyqXjOao66YU8g=="
 ---

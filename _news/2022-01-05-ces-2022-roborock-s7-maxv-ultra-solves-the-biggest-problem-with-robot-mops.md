@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roboro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The robots debuting at CES 2022"
-    excerpt: "Take a look at this roundup of robots, compiled by Electronics360, that are preparing for their CES 2022 debut. Hyundai Motor Group. Source: Hyundai Motor Group. Automotive manufa"
-    publishedDateTime: 2022-01-05T13:01:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17606/the-robots-debuting-at-ces-2022"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/606/17606/CES2022D.png"
-        width: 675
-        height: 555
-        isCached: true
   - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
     excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
     publishedDateTime: 2022-01-06T05:12:00Z

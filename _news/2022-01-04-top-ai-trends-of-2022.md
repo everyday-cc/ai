@@ -44,34 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Data Science and AI Predictions for 2022"
-    excerpt: "The pace of technological change increased in 2021, and if history is any guide, will continue to accelerate in 2022. At the leading edge of high tech are"
-    publishedDateTime: 2022-01-03T19:48:00Z
-    webUrl: "https://www.datanami.com/2022/01/03/data-science-and-ai-predictions-for-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/brain_gears_shutterstock_Superstar.jpg"
-        width: 1200
-        height: 748
-        isCached: true
-  - title: "Popular Trends in Artificial Intelligence in 2022"
-    excerpt: "Deep learning models that have been pre-trained are heavily reliant on real-world data. Nevertheless, obtaining data on time and integrating it into"
-    publishedDateTime: 2022-01-06T05:58:00Z
-    webUrl: "https://www.cioapplications.com/news/popular-trends-in-artificial-intelligence-in-2022-nid-9045.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/zztsw450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "jTsviAnn9tieOvzCeMaPWDFytS7mVC2bLjv7LFfVFpkdlWehHPBdaiyYVqk4qjBPLdFUNO/x0y8FjFBvf9w13pZ8nHsgOLq6DmP5gB9KHfNHSqjwtIokisO50NberuoBBM90cK6cSjgySg++m9nb8e0w8Q+UNvT8NmLpVhJNEGh96Xgk8Sx9NxFefcXkTRFmxAYfb9xdE5ohz+cDNbHtcfjLC1Urw/l9xRTMGPmhxuqaMtHQRFnUnv6rJcE/8sRgyF/5VtQmrxWUnxKlNA3qKdiVWftaYwtpvLFrWMcyUYS5vdVt4C8Pw/kqAC6yKlxKUFopYLVqQBgA9VIpals8pdtpj90aVd1d0MqqAwL0Qus=;L2ZZxfF7gODosqc3Q32Bew=="
 ---

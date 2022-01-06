@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Getting from here to there - Competing in the age of AI."
-    excerpt: "Happy New Year 2022 to you all. Two books have resonated with me when it comes to leadership principles."
-    publishedDateTime: 2022-01-01T18:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/getting-from-here-competing-age-ai-dj-ursal-"
+  - title: "The last mile in AI deployment - answering the top questions"
+    excerpt: "My diginomica piece on the last mile in AI deployment raised issues - how do you bring AI projects into production, while mitigating the risks? Here's how I responded to top AI deployment questions."
+    publishedDateTime: 2022-01-06T10:12:00Z
+    webUrl: "https://diginomica.com/last-mile-ai-deployment-answering-top-questions"
+    ampWebUrl: "https://diginomica.com/last-mile-ai-deployment-answering-top-questions?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/last-mile-ai-deployment-answering-top-questions?amp"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEMEgpjYjnP1Q/article-cover_image-shrink_720_1280/0/1641061203286?e=1646265600&v=beta&t=n4Spa62jRBasGUcW5ddLGla0FMoU2iVaHkhZObpivZk"
-        width: 756
-        height: 720
+      - url: "https://diginomica.com/sites/default/files/images/2021-03/shutterstock_1005701926.png"
+        width: 740
+        height: 450
         isCached: true
 
 secured: "Fz3kG+20CxHm5sBnwQ59Jh32JIZnKH/m6nPLgN5balA3TDzyviEbczJkXunuO8/85vidnJIJGi8KQmm7quDwdbQkAlrVYWUyycSUQGl/sCWL1/gB/gNTSEg/lRvW8wZ3yDk+bbugNBSq3MU33n54j20rL56L8nzkUH/cn4uqm1cB8o7LtzmPgjqSlJjlubf4Vwk19s+iyiWqwttl9dnhOKBafcPt8kAPyD43SNKV0+WFJKhbAUOCAmIDs+t16gvC1Ed0RFoooFfpgmXTrb4oHzp/qKOOk+ralXQu3Z9aE2wrbjumENIQF3k0th9iE/TAifXsoA27eim4isPE+HUZ0WUoOxCV2KIa9aj6YwsXv/1HpVwKAp465XLWGIEDEz4E4f57xEiTZ0UPOQaly7pZ3zvBaHk6GQ+Ixj86JHuCaRj3F44R9+3502gI1LZcUJUvlm+oIOdUcsU4Wex5Tg2xpdjeNIJZCX6vaxl8ssClHj7fXILGSVgoU+464AIeGuLAy5z73Pp/jc8kBarItymS+A==;SSf5bseWjcJeuMYu4Q8IOA=="

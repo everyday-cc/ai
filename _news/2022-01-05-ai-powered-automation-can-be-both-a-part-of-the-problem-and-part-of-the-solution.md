@@ -39,6 +39,20 @@ related:
         width: 624
         height: 776
         isCached: true
+  - title: "UAE - Food Automation Pioneer, Pazzi, launches Pazzi Robotics to propose F&B fully-automated kitchen"
+    excerpt: "Pazzi Robotics , a French kitchen software and robotics startup, recently announced the launch of fully-automated packaged solutions for the Food and Beverage (F&B) industry. The solutions range from food preparation to final assembly,"
+    publishedDateTime: 2022-01-06T09:40:00Z
+    webUrl: "https://menafn.com/1103497062/UAE-Food-Automation-Pioneer-Pazzi-launches-Pazzi-Robotics-to-propose-FB-fully-automated-kitchen"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?12210"
+        width: 434
+        height: 250
+        isCached: true
 
 secured: "UqRgPS03ogFDMOSC+9EciIMHy5oAaP7xx4O5mjpNF9QGjqSkugJFZqzUpW/fDRxzBGJ5HPQQlUtOM+g1a5ugCZMkRGEhuu6IpkzypR9gJemkZLqfJq7dnvJwoXEJPcYc7fI/zc7Cbx5VTaZJf4x5X9fuHgdoRnj/66MJnvdh1d18nPzSjVKc3wVB4JTE9KQIr9PNla95KhAt4IW+mgqm0FEd8rvwYdew+iNFGFt3S9+c3bGW4Qdp6vOiIya6cXT+Ulswp8Ny3zVnZIwdxFn8e/tE5ahV2IcWaziM/ZygSRHBzeGTY+akuHX0Yj6bRLnJDZn8AbhQZ+YJxW7DANX+5I0HVH7flB0798f/MrzadQE=;TYWeUi1DuJ6JwexBWAJUag=="
 ---

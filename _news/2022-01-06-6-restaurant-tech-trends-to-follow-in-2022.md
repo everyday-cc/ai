@@ -55,6 +55,20 @@ related:
         width: 2560
         height: 2560
         isCached: true
+  - title: "5 Restaurant Tech Trends to Follow in 2022"
+    excerpt: "Tech on the mind. The last two years have been transformative for every sector, but perhaps none more so than the restaurant industry. Brands have had to develop new operating mod"
+    publishedDateTime: 2022-01-05T19:23:00Z
+    webUrl: "https://www.qsrmagazine.com/content/5-restaurant-tech-trends-follow-2022"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 24
+    images:
+      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/jimmy-john-s-rolling-loyalty-program-nationwide.jpg?itok=4lzwkLSO"
+        width: 765
+        height: 446
+        isCached: true
 
 secured: "I0HqhkBXVW91NYijs10c1PHtLeQXh9/bApWMQm5GIUiJSHP/TJYdCw6oIdkPgl0wjhtg5LhbiwgNBkcDTWDtpH4laRJE8nDtF46Z7baFVu2St0PwvRoEOswp4lX0UPAbVqktRHpt8JsfwWXgHF4IwYpKJNP6MFPku88+xAAwiYthZGF3lR2gNtKOCCXdStX1/h4gxU4rOJ9RGTg24QWEYmU7U32vTZaGvweyRDtoE1GL1dSJH81kxVfKKeMUlQJdQ5OMsZ1dTcabHxW/OwNYzWqrVSkcBEBwXXpWeHgbkZGyXVzlRBMA+X0gvjtdjFAOht6TZR7qAZQCUKKIk9q3W/N9hqTP01Rl7bYGjwnte5kRwIQG6XLp2uIbAmUZZjO6I4i2RbQ98a/wvivub2VJUPcZAAoaP9xUWAuM84Y9F7KIWfqGGhMBb+YSeDOkq2RZ2cTvyI6Lakq5gE5MFzO0hLD2mRpLdoI1zbOfGDGWQzoJ0CoZvB+GuIGGfmj7vV4F/osjgddI+FIwUxfnMke8wA==;jKfntjbcOyPh42VaoMioqw=="
 ---

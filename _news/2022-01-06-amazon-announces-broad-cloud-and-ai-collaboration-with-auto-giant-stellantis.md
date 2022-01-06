@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon and Stellantis Collaborate to Introduce Customer-Centric Connected Experiences Across Millions of Vehicles"
+    excerpt: "Amazon and Stellantis N.V., a leading global automaker and mobility provider, today announced a series of global, multi-year agreements that will transform the in-vehicle experience for millions of St"
+    publishedDateTime: 2022-01-06T08:50:00Z
+    webUrl: "https://iotbusinessnews.com/2022/01/06/13579-amazon-and-stellantis-collaborate-to-introduce-customer-centric-connected-experiences-across-millions-of-vehicles/"
+    type: article
+    provider:
+      name: IOT Business News
+      domain: iotbusinessnews.com
+    quality: 3
+    images:
+      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/connected-car-telematics.jpg"
+        width: 800
+        height: 360
+        isCached: true
   - title: "Amazon and Stellantis Collaborate to Introduce Customer-Centric Connected Experiences Across Millions of Vehicles, Helping Accelerate Stellantis’ Software Transformation"
     excerpt: "Amazon (NASDAQ: AMZN) and Stellantis N.V. (NYSE/MTA/Euronext Paris: STLA), a leading global automaker and mobility provider, today announced a series"
     publishedDateTime: 2022-01-05T16:59:00Z

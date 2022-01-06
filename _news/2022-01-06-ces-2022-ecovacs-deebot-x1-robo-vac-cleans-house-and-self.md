@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The robots debuting at CES 2022"
-    excerpt: "Take a look at this roundup of robots, compiled by Electronics360, that are preparing for their CES 2022 debut. Hyundai Motor Group. Source: Hyundai Motor Group. Automotive manufa"
-    publishedDateTime: 2022-01-05T13:01:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17606/the-robots-debuting-at-ces-2022"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/606/17606/CES2022D.png"
-        width: 675
-        height: 555
-        isCached: true
 
 secured: "4t9/QkJv5OJaY8dGyQFlc2FhUm5+O49mhCOibg3Ty8VJmsoaQYZ0bLtX2uF/Hh8pOlSx3UD4+sHBg/422HiXOjUMMVGxp7Qu/omv4vMRk4Fb5BOLy7nqTKB6LwZWHmWF63fne2a1y/uz8Mh2QaR5WWil0johmiC6XobXZ7IrT0Ao3mGpiVZiLihSD9oI8CfoJyvqruXhF3pA8IsGWb/YfAfaf6IDt7lZvV/7o6r70IPvDq/JPTPZ/YrdkQ7YJuA7ZsBhhmpSxoGSN+azgIJfH13AEkH/SnmgtsfaSclFzKWW2IExmq6QWAXGR/2DPANXCd64DCyjfPcZswJ6HDe+9glxxOttx0VybXXCFDPC9xc=;uJxCL1KAkmwYMkbZmjF6FA=="
 ---

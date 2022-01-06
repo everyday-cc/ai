@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
+      "title": "Robot tractors may be heading to a farm near you",
+      "excerpt": "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-01-robot-tractors-farm.html",
+      "originalUrl": "https://techxplore.com/news/2022-01-robot-tractors-farm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/john-deere-unveiled-th.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-01-robot-tractors-farm.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-robot-tractors-farm.amp",
+      "publishedDateTime": "2022-01-06T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels.md",
       "title": "Cadillac’s new self-driving concept is a luxury loveseat on wheels",
       "excerpt": "The InnerSpace concept looks like a futuristic car from the outside—but inside, there's a two-seat loveseat surrounded by one of the widest screens we've ever seen, and no steering wheel or pedals.",
@@ -106,21 +150,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-05-ces-2022-ai-is-driving-innovation-in-smart-tech.md",
-      "title": "CES 2022: AI is driving innovation in ‘smart’ tech",
-      "excerpt": "At CES 2022, a slew of smart tech innovations driven by AI and aimed at improving lives and businesses, are being unveiled publicly.",
+      "path": "_news/2022-01-06-ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here.md",
+      "title": "CES 2022: Watch GM's self driving car reveal and more big reveals here",
+      "excerpt": "GM will be kicking off Wednesday's CES day, and you can watch reveals from LG, Samsung and more. CES 2022 is underway, with the convention officially opening in Las Vegas Wednesday along with a digital experience for those who can't make it to the show.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/",
-      "originalUrl": "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/",
+      "webUrl": "https://www.cnet.com/tech/mobile/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 269,
+      "heat": 139,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1322183741.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 533,
+          "url": "https://www.cnet.com/a/img/F0An6NSLRV65zUiUBzE-y_7oV-M=/286x0:1286x499/1200x630/2021/12/16/bb0fe850-bbfe-4645-8fa1-ad20d3b775ff/ces-2022-desktop-hero-final2.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,16 +172,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/",
-      "publishedDateTime": "2022-01-05T07:59:00-08:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/",
+      "publishedDateTime": "2022-01-05T08:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -153,8 +197,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -261,7 +305,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -331,58 +375,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
       "publishedDateTime": "2022-01-03T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-self-driving-cars-2021-year-in-review.md",
-      "title": "Self-Driving Cars 2021 Year In Review",
-      "excerpt": "Here's a countdown of the 10 1/2 big stories of 2021 in self-driving cars — Cruise, Waymo, Apple, China, San Francisco, Delivery, Trucking — it's all here and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/",
-      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d3314f1796ff555ece8da2%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/",
-      "publishedDateTime": "2022-01-03T08:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

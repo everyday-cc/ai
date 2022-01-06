@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/amp/"
 type: article
 quality: 86
-heat: 186
+heat: 196
 published: true
 
 provider:
@@ -177,6 +177,20 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/09/artificial-intelligence-pixabay-e1599049075680.jpg"
         width: 979
         height: 506
+        isCached: true
+  - title: "Artificial intelligence startup reaches ‘unicorn’ status with $360M investment"
+    excerpt: "Artificial intelligence startup Fractal has achieved “unicorn” status, scoring a $360 million investment ahead of a forthcoming initial public offering, leaders announced Wednesday. Headquartered in New York City,"
+    publishedDateTime: 2022-01-06T09:08:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-fractal-unicorn-tpg-qureai"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 33
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2018-07/istock-917797174_super.jpg?itok=zddmbgvA"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "CE+hyMm52LOBT8f05HzQVVVjlS76RS1hJW7nQe5Qu8jR2pzQKxqkqcWzJbwpRVlkOVqbXl9jGRnxQsLqj1wexQDo9/3ynns2i64mY/IJOrMn/dn9CtlYIaedipJ431FzXv9YrIiNzkqN4kaMEj6fC10TnpnOZHZ+ZhyaIF+N8ayoHOdr1qWVAN5M0Iu9XKxVs5t1gUrxTR0Bvgnl5DCWW2++JsxLaqyK4WRkXHblEcEy3xkS33ck8vSb+WYAHK4/HImMZaPCCw/R9L3ymZryQLrCyXvfqoF3LesujNaQF8SSkOTJhfgNkkN7wfQuFebLV3MW8L5SqWvvgG2oeDReeYeKKoSktsxh8ijBiOhCzqg=;u11AvFF7dY4jslQMlTi2OA=="

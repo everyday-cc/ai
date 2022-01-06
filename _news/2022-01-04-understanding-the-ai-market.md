@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understand
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 160
 published: true
 
 provider:
