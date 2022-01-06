@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
 type: article
 quality: 174
-heat: 264
+heat: 274
 published: true
 
 provider:
@@ -166,6 +166,22 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/01/tractor.jpb_.jpeg"
         width: 650
         height: 400
+        isCached: true
+  - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
+    excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
+    publishedDateTime: 2022-01-06T11:12:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 7
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/06/11/52610271-0-image-a-15_1641467772637.jpg"
+        width: 636
+        height: 382
         isCached: true
 
 secured: "vCWQ79BkORTl9hbIoKVpDSjHx94l1DBOQXIYfDzlpn6F+Ve0h7Ua+JLWbT+6aLsmIqMse+CeFb+0fjB5njelSm6VN88w0BZjX7odKt5ZoZEHxBa+ttFDSzYwHWbJRDoBFM3EYaAJjJVqVXFhyYgbG81w3HW7fmemTq0sfbsp8slgRFPss6lCSkOjpUd+GhbRN9hL4VTLH81E6tr/0WSggjuimnbTXBnaCnJG2Tl8MqdWfSLcJ6cJ+8KYe3Ng5MLnTtrgRV0WT1vkxcGDPdsHyXhvgYvw/Py3T2FkMFcMRYC7XtDd+duG72gQlH+nQvOS2QcofQbwg7vs9y9MAyXlS4e8THzWJKbd3jxSLtBafFypNMLYcaQHI0TCckTBk4Mq+bngceISx95on9tBlcW7fiCz86B4CRQY8xht6MthTXTRIqiGuiZLLHlIOmWlbDtSt9/AYD+tsE9+Xmt4Mrg9U04mtHfcUxj8Ia4OV2PQhCdWwPIhv61iZ76ivCQwAntENsm0ggzfDEpR4VqQY4MELOJkrAvqIFVb+qqO8vRtm6E=;Q7M3R72q7oyxClBrIGMNCA=="

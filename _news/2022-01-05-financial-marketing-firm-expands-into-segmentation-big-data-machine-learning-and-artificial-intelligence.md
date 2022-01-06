@@ -109,6 +109,20 @@ related:
         width: 878
         height: 500
         isCached: true
+  - title: "To strengthen smart building sustainability and resilience, building owners should look to artificial intelligence and machine learning"
+    excerpt: "For many commercial building owners, the ability to capture and analyze facility performance data is rapidly emerging as a high priority and as a competitive differentiator. By focusing on data that pertains to both energy consumption and building asset maintenance,"
+    publishedDateTime: 2022-01-05T21:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/strengthen-smart-building-sustainability-resilience-owners-dréan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFnrVOPOef8Ww/article-cover_image-shrink_600_2000/0/1641417317586?e=1646870400&v=beta&t=dPl96Vz3rwrELJ4w_ul6Yvia5S57niRe4ZIzO92q7sc"
+        width: 768
+        height: 334
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
     excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
     publishedDateTime: 2022-01-06T05:40:00Z

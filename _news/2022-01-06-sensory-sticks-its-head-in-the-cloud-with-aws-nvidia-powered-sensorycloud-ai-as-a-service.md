@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services"
-    excerpt: "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services. SANTA CLARA, Calif., Jan. 5, 2022 /PRNewswire/ --Sensory Inc., a Silicon Valley innovator of machine learning so"
-    publishedDateTime: 2022-01-05T17:50:00Z
-    webUrl: "https://www.mobilitytechzone.com/lte/news/2022/01/05/9520778.htm"
+  - title: "SensoryCloud.ai Launches Cloud-Based Voice And Vision AI Services"
+    excerpt: "Sensory Inc., a Silicon Valley innovator of machine learning solutions for speech recognition and biometric identification, announces the beta release"
+    publishedDateTime: 2022-01-06T11:33:00Z
+    webUrl: "https://www.hostreview.com/news/220106-sensorycloudai-launches-cloud-based-voice-and-vision-ai-services"
     type: article
     provider:
-      name: Mobility Techzone
-      domain: mobilitytechzone.com
-    quality: 37
+      name: Host Review
+      domain: hostreview.com
+    quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/1529245/Sensory_Logo.jpg"
+      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
         width: 400
-        height: 224
+        height: 400
         isCached: true
 
 secured: "6s+fuYqHB2oOuCq8fttSS5/2GrOPxRaFptdXZcZH7zoX2TaGIW3AjkECp/0tGRU48lDdRdfu0KjaatuRjeEx/aQvk+3fcA42kqLxLZtZ9Gf9SakyjhPgoIuz3JuQbE73PzhVyfywFndwgrAXmh5GsCpLChhOvAxDqEyr/h4vBuqq1JmgepFy0KnTtPioH1KR1mCmb7Uev1jwm6ipmi4flYOSCB2PR+raeAz7/KPY5wQKjB2S1pWsgnv/GbXBFSpD06A+ysNVdSeqQu+OL9/kLu+dpCQ3W1zk62hs8Dc7PJbMxtftbIPbOcnGXBetxJsdPc4OJRp/bfK5a3nw9+mH7twUdz3RaW/jch5AI/IidgI=;yK0o9vuMf0KMI4VqoOQMCg=="

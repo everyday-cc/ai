@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/volvo-ride-pilot-181545657.html"
 webUrl: "https://www.engadget.com/volvo-ride-pilot-181545657.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://images.hgmsites.net/hug/volvo-concept-recharge_100815470_h.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Volvo to launch self-driving feature in California"
+    excerpt: "Volvo Cars and self-driving sensor maker Luminar Technologies plan to release a hands-free driving system called ‘Ride Pilot’ that will debut in California."
+    publishedDateTime: 2022-01-06T12:29:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/01/volvo-to-debut-self-driving-feature-in-california/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 24
+    images:
+      - url: "https://eandt.theiet.org/media/17410/2022-01-04t144149z_1944669228_rc2esr9xcrek_rtrmadp_3_volvo-cars-ceo.jpg?crop=0,0.23853879292805991,0,0.26927370707194004&cropmode=percentage&width=1200&height=450&rnd=132859435290000000"
+        width: 1200
+        height: 450
         isCached: true
   - title: "Volvo is teaming up with Luminar to test a self-driving car system in California"
     excerpt: "@volvocars has developed a fully autonomous highway driving system it plans to test later this year that uses @luminartech sensors."

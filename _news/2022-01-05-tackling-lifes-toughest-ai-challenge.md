@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "We Choose To Align AI"
-    excerpt: "Epistemic status: poetry \"We choose to go to the moon! We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard. Because that goal will serve to organize the best of our skills and energies."
-    publishedDateTime: 2022-01-01T20:16:00Z
-    webUrl: "https://www.lesswrong.com/posts/BseaxjsiDPKvGtDrm/we-choose-to-align-ai"
-    type: article
-    provider:
-      name: LessWrong
-      domain: lesswrong.com
-    quality: 37
-    images:
-      - url: "http://www.todayifoundout.com/wp-content/uploads/2013/08/moonprint.jpg"
-        width: 596
-        height: 600
-        isCached: true
   - title: "2022 Global AI Challenge - Virtual Mentors Needed"
     excerpt: "March 19-May 7, 2022. Competing in multinational teams, female and male underrepresented college/university students and entrepreneurs from over different countries (ages 18+) will learn foundational cloud skills leveraging AWS,"
     publishedDateTime: 2022-01-06T10:22:00Z

@@ -167,6 +167,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
+    excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
+    publishedDateTime: 2022-01-06T11:12:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 7
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/06/11/52610271-0-image-a-15_1641467772637.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "Es5K5JpQO0J4DrWOYEPhFwlBMRw6Yr7wZt8QZIxVh4dPEdmmo7T8ueyBPFkZnMk5LLEaJvCrf0RL3zTuCkKWlsy7jlUKGonEgEhlJ2b/fQShze3VgXAjDNjdbgxy5NqW8bpssO9eBVZPL4dpCZhRZmw/gTuVhPHPmzG5qQHOVLw8JW3E3zVX/2KQ/MsIYkoeP4lib1vbzwlCjsNAWqRN5pLmBqYFKrJFlTkaq1ovcbeXrCRe65W8J5P5N4N9AfEcUr+/EQgc2wdr1djUboYrUuxTGCZIP3Fmduemhkh8DMTZJzJPJXKF+2Dk1jxs4aG4CR2FdX72X5DG160fUjjf77cAasWgelOUJkZ0lXyAua0JTCu9vmXsKHbOcXkAf/6kNDvRm7uT5ShJuJE3jeKgZWllYsf1DDDhOEh5C94XV73z0a9v3rmsoIyim1HpwrNuRBcVWoxbWp62toxK1LrUOxWLqXvcVYZ7pvWSdUGayAZOZb6635M/xqAsTxzvY6LTBo9SdWL253xlVXA7YZD1zQ==;lqMrvJ4pJ3VVpG2nFrnk7Q=="
 ---

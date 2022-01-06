@@ -1,26 +1,27 @@
 ---
 category: news
-title: "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services"
-excerpt: "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services. SANTA CLARA, Calif., Jan. 5, 2022 /PRNewswire/ --Sensory Inc., a Silicon Valley innovator of machine learning so"
-publishedDateTime: 2022-01-05T17:50:00Z
-originalUrl: "https://www.mobilitytechzone.com/lte/news/2022/01/05/9520778.htm"
-webUrl: "https://www.mobilitytechzone.com/lte/news/2022/01/05/9520778.htm"
+title: "SensoryCloud.ai Launches Cloud-Based Voice And Vision AI Services"
+excerpt: "Sensory Inc., a Silicon Valley innovator of machine learning solutions for speech recognition and biometric identification, announces the beta release"
+publishedDateTime: 2022-01-06T11:33:00Z
+originalUrl: "https://www.hostreview.com/news/220106-sensorycloudai-launches-cloud-based-voice-and-vision-ai-services"
+webUrl: "https://www.hostreview.com/news/220106-sensorycloudai-launches-cloud-based-voice-and-vision-ai-services"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Mobility Techzone
-  domain: mobilitytechzone.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1529245/Sensory_Logo.jpg"
+  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
     width: 400
-    height: 224
+    height: 400
     isCached: true
 
 related:
@@ -41,6 +42,6 @@ related:
         height: 506
         isCached: true
 
-secured: "hX0qrdytS02ytJl36Ic7GeyMzwE7ZSZiE4nnG+Kmsa/WmKiobJdhjBCyKBIWNa5YCEQ/SfdtpJdm+eheF9Q2muHV5mLA7ZzgxbjTf/2chJHLpt7MSUj89YZmSWswAgrIkRtoapr+lytIu2BGZLXkXmdBkWzCGMQYJiLP2y/gsmri86X2xWzYde7qaylaFP7EJWcMZYJcnl/TEAtmd/eXbWvk7Jv9Y4EFk683pxwZuGP6KTkrghMitfFwSl2dzDmpGcb30Sni7MAK+zc1Axx+ouBhnXuxDUq10btBfHKWfkyNsKKWGVePB5VK8p3507a5OmgeGRX0YxRP7yvVKMmbQRx87b5wKloS9LwToV8uWqc=;1V3e3SfHOdMsYSUih2qk0g=="
+secured: "yjJ24NnsPVicykGT0/JY70huUbZurVvgESlSq6DCEJd7HMwz04fLlWe/w/WzWYXUyapVy2sJsqWqjU57DsCokMgHJ9kPHCcsgUp9DS7KrzO1bjeTtaTy9hEZ/8U4e0QsIDE4cCrTZumw4viKzUMsMt4s3Kyhqe0R0k0V8odJSsWoALeAa7pPbokphC8ILmXyz5/BBfcI/6oMS7ezmvmjuQUk7TLkdBLQINzV9B8JLIe1BSFBPN3H5HPBSSAbmp20w8hM08sYkJ+WG2KD9WODUFqUERC64QJN8Prvn4pHa7LDj/TYgE9AuGp19tSkQf/ztkEHHWaWxCZInKQntxB9X+DoyStX3ATcM3uMSwrt0FY=;ieHIfd5SQeJfnoMxMh3j+g=="
 ---
 

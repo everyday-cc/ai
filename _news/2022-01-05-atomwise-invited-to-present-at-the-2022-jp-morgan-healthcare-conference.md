@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Atomwise Invited to Present at the 2022 J.P. Morgan Healthcare Conference"
-excerpt: "Atomwise, a technology-enabled pharmaceutical company leveraging the power of artificial intelligence (AI) to revolutionize small molecule drug discovery, today announced that it has"
-publishedDateTime: 2022-01-05T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/atomwise-invited-to-present-at-the-2022-j-p-morgan-healthcare-conference/article_cf0002b6-ecf4-5705-b2c2-3e0fe380daab.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/atomwise-invited-to-present-at-the-2022-j-p-morgan-healthcare-conference/article_cf0002b6-ecf4-5705-b2c2-3e0fe380daab.html"
+excerpt: "a technology-enabled pharmaceutical company leveraging the power of artificial intelligence (AI) to revolutionize small molecule drug discovery, today announced that it has been invited to present next week at the 40th Annual J.P. Morgan Healthcare Conference."
+publishedDateTime: 2022-01-05T14:49:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-fb7983b7f72521c6f8fe4425d370a162"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-fb7983b7f72521c6f8fe4425d370a162"
 type: article
-quality: 18
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Atomwise: Empowering the Healthcare Sector with Artificial Intelligence Strategies"
@@ -34,6 +40,6 @@ related:
         height: 500
         isCached: true
 
-secured: "CdHWs69Ps9dq21swyvF/Yar2p4qGhhkg7QXvBTphfIU3+NkgP0GNkM0Be04G4Yhcm0P2plvEgrihia2yOfLXnJV9xYtwNEhDhOZBtsWVqmGxC3SfPLmyU7exefXlqdEIuZwgfmEKc25oHBhMCApMC+hHLgKKWQwRdPpgyLMdpdrSC49YWb0z09KfHfAX22jybkEMQ74gJWthDEIYHgoTu10Lxc2COzH6+5jPLJCZQuXrv5+ZZHK9AFTHMhO3TLthxA/SG0PLoe4eYRffI6V65xabGZoLD1fPhnpHsA/yfNouvRBAcIO+nhmsBzTzxTdju4XPnj4TMCLl9YmpkYyeaJrhcGmbopHTUGX6Acs7s4U=;nLf6MIgzmLRzySGxClbykA=="
+secured: "zFAAXyg+3O0sTcdO00PXgv1SxKHvI78jQHwVe6XrK3TO7wPUnZ3rP0m4rlg6wNIBVMKpfSimDZ0yl/pfqTvyUtqfq17lqVz+H6X2hUfdLS3HK411CsrkrDzIEo8t/FU9np37CExjtAp5byiWr9vsH5ZKjRDqPvgLMjPjfrWachGZlRihI10s95X/+ESiFIJZcof/VWkuPXEEv2JjyDbO+73CDlRMI3k06b0b/rpdU4P6iCUxrHhtKU1xUpmMqvHvPpWACH0/UEMWc+DhB9BOK6CsgcZzQ1OMvx6rKXUTpWFwLUdzlEiX8lEWZoKJ5uYfgnqTzJKEiedl+FNrmTyEeVXbgfD6UtVju+o4/63UUBU=;BmOucEN8dfrgLUQ9RlZ8Iw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ameca-the-robot-is-more-human-a
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

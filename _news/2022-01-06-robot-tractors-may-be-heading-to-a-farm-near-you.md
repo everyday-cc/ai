@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-01-robot-tractors-farm.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-robot-tractors-farm.amp"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robot tractors and autonomous tools may be heading to a farm near you"
+    excerpt: "By Patrick Fallon with Juliette Michel LAS VEGAS, United States—Driverless plows and autonomous tools to weed vegetable plots are the"
+    publishedDateTime: 2022-01-06T04:03:00Z
+    webUrl: "https://www.manilastandard.net/business/csr-mining/314027486/robot-tractors-and-autonomous-tools-may-be-heading-to-a-farm-near-you.html"
+    type: article
+    provider:
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 41
+    images:
+      - url: "https://www.manilastandard.net/wp-content/uploads/2022/01/robot-tractors.jpg"
+        width: 800
+        height: 595
+        isCached: true
   - title: "Robot tractors cause furrowed brows at Vegas tech show"
     excerpt: "LAS VEGAS - Driverless ploughs and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
     publishedDateTime: 2022-01-06T04:00:00Z

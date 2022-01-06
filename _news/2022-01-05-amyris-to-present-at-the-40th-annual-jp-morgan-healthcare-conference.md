@@ -32,6 +32,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
+  - title: "J.P. Morgan technologists Ignite careers with Communities of Practice"
+    excerpt: "By Subba Perepa, Managing Director, Consumer and Community Banking Technology, J.P. Morgan India India’s path to create a trillion dollar digital economy by 2025 presents a universal need - Mediawire"
+    publishedDateTime: 2022-01-06T11:55:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/j-p-morgan-technologists-ignite-careers-with-communities-of-practice/articleshow/88735268.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/j-p-morgan-technologists-ignite-careers-with-communities-of-practice/amp_articleshow/88735268.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/j-p-morgan-technologists-ignite-careers-with-communities-of-practice/amp_articleshow/88735268.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://m.economictimes.com/thumb/msid-88735266,width-640,height-480,resizemode-7/-.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that"
     publishedDateTime: 2022-01-04T10:30:00Z

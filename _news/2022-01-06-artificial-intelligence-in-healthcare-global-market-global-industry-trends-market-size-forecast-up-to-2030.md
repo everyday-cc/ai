@@ -113,6 +113,20 @@ related:
         width: 878
         height: 500
         isCached: true
+  - title: "To strengthen smart building sustainability and resilience, building owners should look to artificial intelligence and machine learning"
+    excerpt: "For many commercial building owners, the ability to capture and analyze facility performance data is rapidly emerging as a high priority and as a competitive differentiator. By focusing on data that pertains to both energy consumption and building asset maintenance,"
+    publishedDateTime: 2022-01-05T21:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/strengthen-smart-building-sustainability-resilience-owners-dréan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFnrVOPOef8Ww/article-cover_image-shrink_600_2000/0/1641417317586?e=1646870400&v=beta&t=dPl96Vz3rwrELJ4w_ul6Yvia5S57niRe4ZIzO92q7sc"
+        width: 768
+        height: 334
+        isCached: true
   - title: "Financial Marketing Firm Expands into Segmentation, Big Data, Machine Learning and Artificial Intelligence"
     excerpt: "For 27 years, MKP communications inc. has developed and executed data-driven marketing and communications programs for its financial institution clients. With the launch"
     publishedDateTime: 2022-01-05T13:00:00Z

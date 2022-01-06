@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 602
         isCached: true
+  - title: "Seeing Machines launches partnership with AI firm Ambrella"
+    excerpt: "Driver monitoring technology company Seeing Machines announced a collaboration with artificial intelligence (AI) silicon company Ambarella on Thursday, to bring integrated advanced driver assistance system (ADAS) and occupant and driver monitoring system (OMS and DMS) products to market."
+    publishedDateTime: 2022-01-06T11:52:00Z
+    webUrl: "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html"
+    ampWebUrl: "https://www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html"
+    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html"
+    type: article
+    provider:
+      name: Sharecast
+      domain: sharecast.com
+    quality: 59
+    images:
+      - url: "https://img1.s3wfg.com/web/img/images_uploaded/e/1/dl-seeing-machines-aim-technology-computer-vision-driving.jpg"
+        width: 620
+        height: 350
+        isCached: true
   - title: "Ambarella launches AI domain controller SoC family"
     excerpt: "Ambarella, an AI vision silicon company, has announced the CV3 AI domain controller family. A fully scalable, power-efficient CVflow family of SoCs, these devices are able to provide the automotive industry’s highest AI processing performance,"
     publishedDateTime: 2022-01-05T14:10:00Z
