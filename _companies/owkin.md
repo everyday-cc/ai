@@ -2,7 +2,7 @@
 name: "OWKIN"
 overview: "Owkin was co-founded in 2016 by Thomas Clozel, MD, a clinical research doctor and former assistant professor in clinical hematology and Gilles Wainrib, PhD, a pioneer in the field of Artificial Intelligence in biology."
 type: "profile"
-heat: 41
+heat: 58
 
 website: https://owkin.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=JSdUHfUR5gg"
 
-secured: "qDUQ/MZPuPRVdV28NSPtsXx6GpEjbCjRghANaEX7Ht2Wa7w1gqF4lHkCK4LBuDslhuAwvjPIO2VPHskV/+c77E9sG601bq7LZjK0g3WUeN/Pv4V9GVNVOr649N4AZg/D3WV5SpKmAybZXW1+lRwUluvD/7KgpLDHbBtEFqIogV5EU9x3q7A5RdhvTcyb46rsfOOnkYF5ykxCBtSH3RH+L4AeNo6pBtXrX9xBGN4st0vZyWJyirabiQME0yTpzgHBjyZV0OvhYOxiCxlbRC9dSgVkJ5lYyZ9pyI6aXRWZNV/6SVHZHXCV4F6LvQljnz/bEB0HXsULxH/cq1XX6pGbgwvYGS3VbEhPHikLXIWPRVHZxw/E8AwaWJ7XR0PH1Sf+N002rRn9V/G5UH2EQSORc0gcZ5V7y9KIzEx6o4kHjyA=;/RoXiqIfb4IthAHB87UaCg=="
+secured: "jflcWltd/L1Hqstk6nwUyl9vZ6biacQk8zv/6zooFhTXjOCWJKrdPmVSGsDiAugPPIkt3psYOwddOHvHktTUXaQfQk5VN/wLNN6XNEahzzQeQ6aInVWMc2rQMJjoFIIzjqprY6aYZ1oVnWWl17oqYRs546hzkn/qn55glKlgPk8V8NGY+ymNFoHU3xeoMTNk3d7LoX96W16ASjedMsLYwAEwqE68qmyPX9uMN11WDbeccQ1h6V7gU8OpiTtVIn9YjBIxEUuBeI7X2xnPuFB0ntHVsR/p0omCl0+B3jLmjAuClsbgviVW1H3IkAFzhBGwfZoYGLmgKnTQOItvb25tRroylgJdrGrHG6FcP7gTt55OO0jqL/YCbY+fjlAdgCOuLHpUaqmpuir04EFFgGs6DHVo6pXyfwfKR19zCyeHFfA=;NaNtR2XccCKVLVPmaOYiWA=="
 ---
 
