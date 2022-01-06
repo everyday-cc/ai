@@ -8,8 +8,8 @@ webUrl: "https://www.ibtimes.com/ai-powered-assistant-automated-more-50-incoming
 ampWebUrl: "https://www.ibtimes.com/ai-powered-assistant-automated-more-50-incoming-calls-bnp-paribas-cardif-russia-3369837?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ai-powered-assistant-automated-more-50-incoming-calls-bnp-paribas-cardif-russia-3369837?amp=1"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/05/cai-save.PNG"

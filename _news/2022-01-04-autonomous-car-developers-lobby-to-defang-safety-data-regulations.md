@@ -41,6 +41,15 @@ related:
         width: 1240
         height: 827
         isCached: true
+  - title: "Autonomous car developers lobby to defang safety data regulations"
+    excerpt: "The fight over autonomous vehicle crash data is a harbinger of fiercer debates to come as humans increasingly interact with robots and artificial intelligence technology increasingly pervades the ..."
+    publishedDateTime: 2022-01-03T12:31:00Z
+    webUrl: "https://omaha.com/ap/business/autonomous-car-developers-lobby-to-defang-safety-data-regulations/article_32a9ec4c-c99f-5e3d-8029-de747de71bba.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 4
 
 secured: "DSAgN7ZLo+NjK8S+N+TV/aUjJkryW672QPWfdj/ro49jGvIpeNdFhwCv/WqSCToQEY73D/dQZUUhlTISqnf/l1WxK79Oce7NUS6gNzydKRTb3pQZ1i7tZjPDE2cFD93+UENMcAgPYpLp8ZhPA0xRta/em75lRKWXgpk78TZW0SsTJZV9EQsZ+wh4L3YwtYuZNR++qdTf/jWKN3TLM+g1FVuFnodJJFdI5aeTMTTAgAKj867W9MWk3NZ4GK7VQNwz9AQzzMZwecpIE8drb1ykvs6uYqsc0ic0qMtjho1RxDe056BOVYu8DrixCN2rWA9+/ohZ5q7nKM6JW2p94jog9gZwW/HuHOiv0VpJo0z4hIg=;mz3eZMnq2U+VoTxHXBAeAg=="
 ---

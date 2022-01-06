@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
 type: article
 quality: 174
-heat: 274
+heat: 264
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
         width: 1081
         height: 537
-        isCached: true
-  - title: "GM says it’s aiming to sell you a self-driving car by middle of this decade"
-    excerpt: "General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade. GM has missed its own self-imposed self ..."
-    publishedDateTime: 2022-01-05T20:48:00Z
-    webUrl: "https://krdo.com/news/2022/01/05/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
-    type: article
-    provider:
-      name: KRDO
-      domain: krdo.com
-    quality: 37
-    images:
-      - url: "https://krdo.b-cdn.net/2020/07/krdo_ls.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "John Deere unveils first autonomous tractor"
     excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."

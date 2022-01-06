@@ -54,6 +54,20 @@ related:
         width: 958
         height: 539
         isCached: true
+  - title: "Popular Trends in Artificial Intelligence in 2022"
+    excerpt: "Deep learning models that have been pre-trained are heavily reliant on real-world data. Nevertheless, obtaining data on time and integrating it into"
+    publishedDateTime: 2022-01-06T05:58:00Z
+    webUrl: "https://www.cioapplications.com/news/popular-trends-in-artificial-intelligence-in-2022-nid-9045.html"
+    type: article
+    provider:
+      name: CIO Applications
+      domain: cioapplications.com
+    quality: 37
+    images:
+      - url: "https://www.cioapplications.com/newstransfer/upload/zztsw450308.jpg"
+        width: 450
+        height: 308
+        isCached: true
 
 secured: "uDCF7eH/E3fIvyr6GSp5/woVwYyHqt3auCYghoozHN/71xUz0mX8ornN3mkgKWgAb4LKN8RNj+gLnACvJ0I9crJ8+u2L5TfULNNcgS/DyMVhOzZWIqDbL1wYFsgaoB+DwwFJA5npnq52v+Xv5uFZmh8/lO9Uq3nHLi6gaBNejmwhYw4+t6AohPvRONk/gnvwRFz6nX+1y90s/VX/oDyqXwgQTg746h4sDQoEXr6EvVUiqFNC9TyfxbUrGWe9ou8pChZ75spToAGLaaWU71cMjZ0R6R/ttVYnCrNmfO6KK08c+9YySz8MmCK1Ysu8UJtdHWepoVhPJacxcRj/3lafmaqhzqIPS+0Q6LO7DP1juL5qwqAAyxEr2AiZzPhTLsYj9KLc/diKaj3MovI69fypNLbe600q7Y3wAKBjDHvflQJDQNVmsXMMOAKkRUD0kM/ZeYsycACT8vjAT8SJDxMkmxC7OTPpqvPLhH6Lkp1FtbyI9HC139bU0jSWmmsubs1Su4XkjQlYCikgtvjdq3cyfg==;BVkuWfyfFfEnfDrB6IUqLw=="
 ---

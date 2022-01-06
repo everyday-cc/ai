@@ -55,6 +55,20 @@ related:
         width: 1840
         height: 965
         isCached: true
+  - title: "Artificial Intelligence: FinTech’s innovation driver"
+    excerpt: "FinTech refers to any idea or innovation that improves or optimizes the way individuals or companies conduct financial activities. Early FinTech concentrated on developing add-on products to complement existing financial services."
+    publishedDateTime: 2022-01-05T13:49:00Z
+    webUrl: "https://www.bworldonline.com/artificial-intelligence-fintechs-innovation-driver/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
+    images:
+      - url: "https://www.bworldonline.com/wp-content/uploads/2021/04/economy-default.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Financial Tech Industry Professionals from Finn AI, MX, Q2, Rival Technologies Share Top Fintech Predictions for 2022"
     excerpt: "Financial tech industry professionals from Finn AI, MX, Q2, Rival Technologies have shared their top Fintech predictions for 2022,"
     publishedDateTime: 2022-01-02T06:29:00Z
@@ -70,6 +84,48 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Back-to-the-Future-Michael-J-Fox-naomi-tamar-unsplash.jpg"
         width: 1200
         height: 1500
+        isCached: true
+  - title: "Need to invest in fintech knowledge"
+    excerpt: "FINANCIAL technology (fintech) has made a huge impact on the financial services industry, including insurance."
+    publishedDateTime: 2022-01-02T00:52:00Z
+    webUrl: "https://www.thestar.com.my/news/education/2022/01/02/need-to-invest-in-fintech-knowledge"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Fintech Led VC Investment Last Year. Here’s What To Look For In 2022"
+    excerpt: "Financial services was the leading sector for venture investment in 2021 with $134 billion invested, marking a whopping 177 percent year-over-year growth. That compares with overall global venture capital investment,"
+    publishedDateTime: 2022-01-04T13:30:00Z
+    webUrl: "https://news.crunchbase.com/news/fintech-startup-vc-forecast-2022/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 24
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Forecast_digest-2.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "Technologies Reshaping the FinTech Industry"
+    excerpt: "Technologies Reshaping the FinTech Industry By CIOReview - some of the key technologies will drive business model reinventions and shape the competitive environment of the"
+    publishedDateTime: 2022-01-05T11:16:00Z
+    webUrl: "https://www.cioreview.com/news/technologies-reshaping-the-fintech-industry-nid-34809-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/skvkm.fintech.jpg"
+        width: 300
+        height: 350
         isCached: true
   - title: "Upstart vs. LendingClub: Which Fintech Stock is a Better Buy?"
     excerpt: "I will analyze and compare Upstart Holdings (UPST) and LendingClub (LC) to determine which fintech stock is currently the better investment."

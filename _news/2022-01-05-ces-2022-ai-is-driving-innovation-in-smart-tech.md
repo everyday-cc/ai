@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.cnet.com/a/img/F0An6NSLRV65zUiUBzE-y_7oV-M=/286x0:1286x499/1200x630/2021/12/16/bb0fe850-bbfe-4645-8fa1-ad20d3b775ff/ces-2022-desktop-hero-final2.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "IRTI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
+    excerpt: "ITRI’s featured technologies include the RGB-D AI Robot, a CES 2022 Innovation Awards Honoree, the first collaborative robot that integrates smart 3D vision as a built-in standard; the Autonomous Selfie Drone,"
+    publishedDateTime: 2022-01-06T05:40:00Z
+    webUrl: "https://geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/"
+    ampWebUrl: "https://geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 89
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2022/01/ITRI-RGB-D-AI-Robot.png"
+        width: 297
+        height: 291
         isCached: true
   - title: "CES 2022: Bosch tests deep audio AI developed on the ISS to detect asthma"
     excerpt: "Doctors will use a high-resolution microphone to record children as they speak and breathe to look for breathing problems."

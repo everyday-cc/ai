@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IRTI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
+    excerpt: "ITRI’s featured technologies include the RGB-D AI Robot, a CES 2022 Innovation Awards Honoree, the first collaborative robot that integrates smart 3D vision as a built-in standard; the Autonomous Selfie Drone,"
+    publishedDateTime: 2022-01-06T05:40:00Z
+    webUrl: "https://geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/"
+    ampWebUrl: "https://geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
+    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
+    type: article
+    provider:
+      name: Geek News Central
+      domain: geeknewscentral.com
+    quality: 89
+    images:
+      - url: "https://geeknewscentral.com/wp-content/uploads/2022/01/ITRI-RGB-D-AI-Robot.png"
+        width: 297
+        height: 291
+        isCached: true
   - title: "ITRI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
     excerpt: "Technologies include the CES Innovation Award Honoree RGB-D AI Robot, the Autonomous Selfie Drone, and the Interactive Time Machine HSINCHU, Jan. 5, 2022 // -- The Industrial Technology Research Institute (ITRI),"
     publishedDateTime: 2022-01-06T04:00:00Z

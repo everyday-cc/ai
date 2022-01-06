@@ -9,8 +9,8 @@ ampWebUrl: "https://mashable.com/article/general-motors-cadillac-autonomous-conc
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/general-motors-cadillac-autonomous-concept-ces?amp"
 type: article
 quality: 68
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mashable
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Cadillac's new self-driving concept is a luxury loveseat on wheels"
-    excerpt: "After introducing a six-person self-driving box and a frickin' ridable drone concept last year, GM's latest luxury self-driving EV idea is much more grounded. The InnerSpace concept looks like a futuristic car from the outside—but inside,"
-    publishedDateTime: 2022-01-05T20:46:00Z
-    webUrl: "https://www.engadget.com/cadillac-innerspace-autonomous-concept-car-201347425.html?src=rss"
+  - title: "Cadillac’s new self-driving concept is a luxury loveseat on wheels"
+    excerpt: "The InnerSpace concept looks like a futuristic car from the outside—but inside, there's a two-seat loveseat surrounded by one of the widest screens we've ever seen, and no steering wheel or pedals."
+    publishedDateTime: 2022-01-05T21:59:00Z
+    webUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/"
+    ampWebUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/9811cff0-6e61-11ec-b1bf-cde05721dd38"
-        width: 2000
-        height: 1334
+      - url: "https://i.ytimg.com/vi/RBDJBKZg9iA/hqdefault.jpg"
+        width: 480
+        height: 360
         isCached: true
   - title: "First Look: Cadillac’s Newest Self-Driving Car Concept Replaces the Cockpit With a Spa-Like Lounge"
     excerpt: "As with jet packs and flying cars, self-driving production vehicles are still more vaporware than reality, but major automakers continue to help us imagine what that future might be like. The latest to do so is Cadillac with its InnerSpace concept unveiled today at the 2022 Consumer Electronics Show (CES)."

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cadillac’s new self-driving concept is a luxury loveseat on wheels"
+    excerpt: "The InnerSpace concept looks like a futuristic car from the outside—but inside, there's a two-seat loveseat surrounded by one of the widest screens we've ever seen, and no steering wheel or pedals."
+    publishedDateTime: 2022-01-05T21:59:00Z
+    webUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/"
+    ampWebUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://i.ytimg.com/vi/RBDJBKZg9iA/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Cadillac's next luxury concept is a self-driving sports car with no steering wheel"
     excerpt: "Cadillac is pushing the boundaries of what luxury transportation looks like with its InnerSpace concept car. At a Wednesday livestream at the CES technology conference, Cadillac gave a dramatic preview of our autonomous future."
     publishedDateTime: 2022-01-05T22:01:00Z
@@ -42,20 +58,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/04UARbRIt9qvOR75ZiDcOPx/hero-image.fill.size_1200x675.v1641415937.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Cadillac's new self-driving concept is a luxury loveseat on wheels"
-    excerpt: "After introducing a six-person self-driving box and a frickin' ridable drone concept last year, GM's latest luxury self-driving EV idea is much more grounded. The InnerSpace concept looks like a futuristic car from the outside—but inside,"
-    publishedDateTime: 2022-01-05T20:46:00Z
-    webUrl: "https://www.engadget.com/cadillac-innerspace-autonomous-concept-car-201347425.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/9811cff0-6e61-11ec-b1bf-cde05721dd38"
-        width: 2000
-        height: 1334
         isCached: true
   - title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
     excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roboro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/606/17606/CES2022D.png"
         width: 675
         height: 555
+        isCached: true
+  - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
+    excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
+    publishedDateTime: 2022-01-06T05:12:00Z
+    webUrl: "https://www.channelnews.com.au/ces-2022-ecovacs-deebot-x1-robo-vac-cleans-house-and-self/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 24
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/01/Vac1.jpg"
+        width: 768
+        height: 432
         isCached: true
 
 secured: "56+k8NvPDBOJbxDiUSbc35pCWWjCpKWXo6RFYNYUZ71hvI9f/rd9kxEEUSrPODPzEyfF5iT4INWXGYOUkroywYm2i/gOVT5UOHr0s4aaJQJy6n5RErDGZFOkoJlO3XW28fxG+XtEtd4aMXuRIbDLLcBAU5uc9gPUvfP8S2HRU1BErzhkG3gFKFC9c8STT1XYGD8s6cZAEDZrDW/8YmcZVpFMe5l7omZoRfsvZwyxLcqERoDXEmB7J8kcEnNxf58KUfobT4IMI3EB9WhIVXUQcrDqvSlNIFEn+tq8Swc9mQA6dZTEbczmGY5psoErOnvDN6sSk3dBJtyiCFTJ3FBOxouRjtPyIfyapXoT2VKqIf4=;nVvzNSiMwlXX0PfPOMd4iQ=="

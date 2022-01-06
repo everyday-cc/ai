@@ -7,8 +7,8 @@ originalUrl: "https://thenextweb.com/news/why-home-robots-are-further-away-than-
 webUrl: "https://thenextweb.com/news/why-home-robots-are-further-away-than-you-think"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Next Web
@@ -27,6 +27,22 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Age of robots nearer than you might think"
+    excerpt: "From ground to sky, and at home, robots have permeated into daily lives; Korean tech firms – both small and big – are betting on this fast-emerging market this year"
+    publishedDateTime: 2022-01-06T05:13:00Z
+    webUrl: "https://www.phnompenhpost.com/lifestyle-creativity-innovation/age-robots-nearer-you-might-think"
+    type: article
+    provider:
+      name: The Phnom Penh Post
+      domain: phnompenhpost.com
+    quality: 39
+    images:
+      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/robots_work_on_car_components_in_the_main_company_of_germanys_carmaker_bmw_in_munich_southern_germany._afp.jpg"
+        width: 990
+        height: 660
+        isCached: true
 
 secured: "a87cSVRm6TIECUbq/AE7lKdD1H/jgEmzIP/DcYqIRewg4F0L3nABZK71d9g0O01rVWIsteXzK44hNPYFLxPsagYIljUM8k/pWOxHV7A8kFFbTbz6Bykyn8zdwu+qivjJUWQBZa8LjattV/OZ5qyIyFaPLQgmYACJYw1IFxXOQgvJ3GvepqvYQu85poJKh3Ao5M7cH9fUEWiqTOS3IpwgzTPZEUr3b4P3cD9oWbNZBzMgZ/MPcHHPZpD2SNE9y/1QJl/5yX7Ft74K0cKMS20bsFwwiJ0VXNya8eYe1m+Tm1VPgFZB5Ea+tU86kIzUvUTLrurgjlYtCQJKx55o/ZVYtdMgDnP9oqDwKKXmazhS+u1ERWUAuZa6B5ucJfPzfmTGtX2npKj2X4+9N7LLyyrjpSak+CknqUonjSMV1lW9ib/3WAQXQmdzQ2wKVviBlfnbWKQCl/2BHWiimtoZOxp1H63Zf8m2vhfeaEnJmhIyyh3E5pvWsWN6OkRzTRNFNwBGklkAw+pRoQHh13Q/P/irOw==;HJeWaiXJFO5JzuvDcDOI9w=="
 ---

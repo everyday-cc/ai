@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Cadillac's new self-driving concept is a luxury loveseat on wheels"
-excerpt: "After introducing a six-person self-driving box and a frickin' ridable drone concept last year, GM's latest luxury self-driving EV idea is much more grounded. The InnerSpace concept looks like a futuristic car from the outside—but inside,"
-publishedDateTime: 2022-01-05T20:46:00Z
-originalUrl: "https://www.engadget.com/cadillac-innerspace-autonomous-concept-car-201347425.html?src=rss"
-webUrl: "https://www.engadget.com/cadillac-innerspace-autonomous-concept-car-201347425.html?src=rss"
+title: "Cadillac’s new self-driving concept is a luxury loveseat on wheels"
+excerpt: "The InnerSpace concept looks like a futuristic car from the outside—but inside, there's a two-seat loveseat surrounded by one of the widest screens we've ever seen, and no steering wheel or pedals."
+publishedDateTime: 2022-01-05T21:59:00Z
+originalUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/"
+webUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/"
+ampWebUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 74
+heat: 104
+published: true
 
 provider:
-  name: Engadget
-  domain: engadget.com
+  name: TechCrunch
+  domain: techcrunch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - AI
 
 images:
-  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/9811cff0-6e61-11ec-b1bf-cde05721dd38"
-    width: 2000
-    height: 1334
+  - url: "https://i.ytimg.com/vi/RBDJBKZg9iA/hqdefault.jpg"
+    width: 480
+    height: 360
     isCached: true
 
 related:
@@ -71,6 +73,6 @@ related:
       domain: metal.com
     quality: 0
 
-secured: "5HW2tt3ACUUNv9ARUZiG9blMNujYCTkWUh8IUF4qMzg/k656rmEABb6QX5w9Z2YS07QufI+iUN5PlBF890GQyYVyxsYKtBijhlain68Xc5t12JYSXEYGlnHQhuPBp2jmLOljPcCjoyWz7Y+qUC82E2jEX3F3uHIMBB8iLw452Q689js3coBpVhwFipJTVlsrYqNuxZmbKi4/b0nQZ0BYA9PRBOkViem8MRbiv9d1MMP+HKKxpR/t2zNiWV+ZkLC24G97FFHEzwPROKyyQUbH7gll82K30arIHXJEUlQKrHEDrGvcXctAn8FEOL5kuhPBJ+RKpn2wWIu83bw9Ufn4vBUDwZJPbeQXyIjkcjpBiCaxP39NGGpN9jiTiDX81JtLJ7g62aMLTqM+PHNBgnnFO6spb2xIyxn93UHy0g5RJv2gorGgBhO9gV6IxE6Ow7dxMCYRu6+CRQfMJwvS9XfdWdXqeWMK65PWeOgujMsZ9meYjwHp6aGqWg59O1qMw57D2FgeSN1zsb/fKXvEeztXdQ==;iLgI6xS6hsa3rHQSDifqRw=="
+secured: "Ynd963VHEzc59c8Qn8jE/obvCjJ4dYxMT1fcQzm2tpigMKPQTZwq08yIo2WXmwK4cZ1MYcmewn3cnk2X6fDq68fN/L9MwgqPcacY+wiam4SNpMybe9KxSpC49s34t9FX4q+Y7Z+n5cYb7ndeiDiRERvfgNenvGjIGk1I2GNDrjQqSqGOrEQ/E88QIdYPAmEmkGVVOpVqV0p37PV+DEt8CHYqHE4B6qyKaybKp6zo+UAqr/btFqF/jUm2XTPfP5EbUKVYMN+h+uNfFfWs6Qhh9XWKcpFFOKOmKR7T7O5MStbEbho7UkSH49DjrFXALMtcj05AmFm40NIiSUGDZKkFQS6/tMuMSMBoSB+8wUbbO5U=;kWcAvSGkqsbrvjOMVZ+1pg=="
 ---
 
