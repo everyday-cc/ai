@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-micro
 webUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology"
 type: article
 quality: 70
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 57
+  - title: "SparkBeyond Discovery Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Today SparkBeyond announced the availability of its data science platform for supervised machine learning, SparkBeyond Discovery, in the Microsoft Azure Marketplace, an online"
+    publishedDateTime: 2022-01-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sparkbeyond-discovery-now-available-in-the-microsoft-azure-marketplace/article_f5efd05d-d42a-55f9-8e58-b4adcf101572.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 49
 
 secured: "0amEURnLVC2F+9hKL2HqFiK9LN1l0IRXjJvpsHt3ukl7pHffuSxIL7wCRbCLCTw/rvn12oP5966kESJWPo9LWJRyGskutIwfdgTocN1y0nS7M5gQb/EkLX35Lwg5XI7y3ZQUUXPUDBXaxm+VlR2IWfO3m1SvIhJhIu963ncaUqzev32nEJw+Qp/puUsJJ7i+gAXav8Z7OAO29YEJv872lf/nv/WL7llPicRIxTbh1xAlbskxerB0e7xyiEfaIXWHVtAQrGlTkaz4RJVn6d8+QR4P0H4UhnbhYeUoo+TJVuKz5BxWjFKHD+XXy2o1kfcvItPXVX+WKWnq+LPTSiBWo/xMDDQGzvFkwZ1D7brHB3w=;yECd9G0LP6eq/HKZJSnWWQ=="
 ---

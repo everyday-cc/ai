@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/weather-forecasting-artifical-intelligen
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/weather-forecasting-artifical-intelligence/amp"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The AI forecaster: Machine learning takes on weather prediction"
+    excerpt: "According to a 2009 study, U.S. adults look at weather forecasts nearly 300 billion times a year. Reliable forecasts can predict hazardous weather―such as blizzards, hurricanes, and flash floods―as early as 9–10 days before the event."
+    publishedDateTime: 2022-01-06T14:07:00Z
+    webUrl: "https://phys.org/news/2022-01-ai-machine-weather.html"
+    ampWebUrl: "https://phys.org/news/2022-01-ai-machine-weather.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-machine-weather.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-ai-forecaster-mach.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Challenges of Pruning AI Models on the Edge"
     excerpt: "In this special guest feature, Nick Romano, CEO, Deeplite, discusses how struggling to fit advanced models in edge devices with limited resources forces deep learning teams to start “pruning” models – essentially trimming parts of it that are deemed not critical,"
     publishedDateTime: 2022-01-04T14:00:00Z

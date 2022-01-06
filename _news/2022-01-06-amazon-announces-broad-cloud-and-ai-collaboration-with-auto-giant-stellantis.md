@@ -6,9 +6,9 @@ publishedDateTime: 2022-01-05T18:40:00Z
 originalUrl: "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/"
 webUrl: "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 134
+heat: 154
+published: true
 
 provider:
   name: SiliconANGLE
@@ -48,6 +48,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "PFUYh5IeSxsabIeUzNVRz4p7BnLnA2nL2nCCo9/Gl5pfWwXK81Rs1W8G+6+rEhghVH2CuzEAkj0z3VbeLjH2p0FxT45jCpXXkrDkg9VNUoUW8dQuHn7Ipeq9eSA8hOP0J4kGHfedvGcNqjX8oYRszKVxJcySKzzLcf9MAiGlnaBeDMeEqgTXZifeC2hM5rdXsGtvhnwpRdleqPSj6u5OosEkIlfebXqemuk2lQG5KYAlhdaKIgRQmkOUJ3diRyUEDSGgIh1uje/TMowPfSAR5f91k85V6RT4BrzbEnxSFQzHN8a8qiIvWESjZ8c6l9xCt1w/BbzJPTBJE+wZMep/OUKT5NwwQ8qMhpjWcf4CdYA=;SPVVCPV2DO8L78aF7iPAAA=="
+secured: "fI0AqQhSc4GkFMY2FYOIZkYSz+u4BmZiGG2/Xq6fFaiWQuO3AvOoqfduP6ZjRmbwV/xFf8rDnZaka7W6qGyEmz9Tbd/X0cX+2A7zA4X+GC18Pih8HkUP2t7xcgf014ZD3blbKHSvQI3JPrBCByyRBSbW+vr6y3RRYRrylkKPRyxVg+0SPRxhlt4+RXKWcwMpRvfuN0uiVGNrdb03C8+uCixPskJpFE0Q37TD3wMJi3Nz8g7p4AJ2v81cE0IHIVTP8HIUTWLzc4TxsUhD22WrD92Q5IwI2LhW65yRDma2ng6mt2vrCePz2ORuSgrhFLbdTgSGyuLZMt/qZo37T3yYSKBg67SMf4CeYco2MGR+qSxB8WAmDcU337SooeB7ltYr;DNaK5CteRNbe70cboXWdcw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.credihealth.com/blog/top-8-technology-trends-to-revoluti
 cdnAmpWebUrl: "https://www-credihealth-com.cdn.ampproject.org/c/s/www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/jimmy-john-s-rolling-loyalty-program-nationwide.jpg?itok=4lzwkLSO"
         width: 765
         height: 446
+        isCached: true
+  - title: "Five health tech innovations to watch in 2022"
+    excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
+    publishedDateTime: 2022-01-06T14:30:00Z
+    webUrl: "https://www.raconteur.net/healthcare/health-tech-innovations-2022/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-health-tech-innovations-to-watch-in-2022.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "uFbbSBjMRtG6MODbcGLXCalc/Zx4Ta6VeAfzVVwp4N0zl9bE9onTosoRfZZ1GZ9LK9AWmgs8jwq9fTtj/dN/2+dw0/w3/sJ4nIB6JnEYru8gRaIApfpuxdAtptlhR2lezP194xLKCSkrL42/K5b8aAX/5KujeospetXYY+HenC38O6RzTh+3uc73dDw1AOxFhfymUuP4JE+S0QcKcnv7JmjVKhp22a4wWl8hABzlRaHLKEU5i4hdyhtN/FHBpEzuC56IIHmrOeUUU5UPleFZ1Qxeku5ffkMLavKY7bLaKQrkyOvzs45key+hxd7YMee31QdtgtXUVUypnBoIb/2XBsaa3DTBxZkCGiK+LVaaQqM=;LGpKO1RWebNv5VDYQCRQwA=="

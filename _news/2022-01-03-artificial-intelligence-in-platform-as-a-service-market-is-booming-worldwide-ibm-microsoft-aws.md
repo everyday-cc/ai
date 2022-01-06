@@ -66,6 +66,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "SparkBeyond Discovery Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Today SparkBeyond announced the availability of its data science platform for supervised machine learning, SparkBeyond Discovery, in the Microsoft Azure Marketplace, an online"
+    publishedDateTime: 2022-01-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sparkbeyond-discovery-now-available-in-the-microsoft-azure-marketplace/article_f5efd05d-d42a-55f9-8e58-b4adcf101572.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 49
 
 secured: "X0v3k+MP0SLjznducrkrYkyUAjQjmF9+8DK+SqQaxWTPqb4ExxN99ZjtPllEcFjUtRBmQQpvWSFFkNcBG8WjkXRlpUD2LqxnAeyg42YlTjIbSAtIuGREAHiFQxa9o+6dLivxrhCgiSvWQqU8f3AMHVi2zKWkUQRvkpN3e6quqPI+S7XEJGt+XxYP+bFkitDO5egpnnjSHO+jzWJXfoZUrQPCUszFugsQcdsuFsvlIxj5RTibuwAdlnBIiqlUnqQnPr+A7AKrxWgM5ghsZ2/18ahd3kScTL0iiL7pMxMo+zRzQQPm/+ZMox7izcVXiTmphoYXKlxp18GiZPp9mdOpPSfSSDDFQiZkj9sdOeOre3Q=;wZxPbfkJSSv07yk3ujo9lw=="
 ---

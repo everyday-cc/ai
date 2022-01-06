@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "GM aims for self-driving car; Chevy unveils electric Silverado"
+    excerpt: "General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade. And Chevy is rolling out an electric Silverado."
+    publishedDateTime: 2022-01-06T13:47:00Z
+    webUrl: "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/"
+    ampWebUrl: "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1"
+    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2022/01/chevy-silverado-ev-e1641476751743-1024x577.jpg"
+        width: 1024
+        height: 577
+        isCached: true
   - title: "GM Aims to Launch Personal Self-Driving Car by Mid-Decade -CEO"
     excerpt: "General Motors Co aims to introduce a \"personal autonomous vehicle\" by mid-decade, Chief Executive Mary Barra said on Wednesday. The self-driving vehicle for personal use is being co-developed with GM's majority-owned Cruise,"
     publishedDateTime: 2022-01-05T17:20:00Z

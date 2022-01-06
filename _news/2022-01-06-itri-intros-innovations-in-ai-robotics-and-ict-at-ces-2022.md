@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-i
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
 type: article
 quality: 91
-heat: 191
+heat: 201
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "http://us.acrofan.com/img/noImg.jpg"
         width: 500
         height: 324
+        isCached: true
+  - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
+    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
+    publishedDateTime: 2022-01-06T14:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deep-robotics-jueying-lite2-robot-dog-makes-its-/2022/01/06/9521548.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1721003/Jueying_Lite2_on_2022_CES.jpg"
+        width: 400
+        height: 294
         isCached: true
   - title: "The robots debuting at CES 2022"
     excerpt: "Take a look at this roundup of robots, compiled by Electronics360, that are preparing for their CES 2022 debut. Hyundai Motor Group. Source: Hyundai Motor Group. Automotive manufa"
@@ -144,6 +158,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+    excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
+    publishedDateTime: 2022-01-05T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
+        width: 1154
+        height: 606
+        isCached: true
   - title: "BBalance Bath Mat, the CES 2022 Innovation Awards Honoree, uses AI and footprint recognition to guide self-care at home"
     excerpt: "BBalance is the world’s first smart bath mat with footprint recognition that combines three key health measurements into one; BBalance is a weight scale, balance and stability reader, and posture evaluator."
     publishedDateTime: 2022-01-03T13:50:00Z
@@ -158,15 +186,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
-    publishedDateTime: 2022-01-05T15:04:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 1
 
 secured: "o+kvEfbRG5qlcRsHhDQfaURpfM6u3zsw44PYEm8qUI6dK9T9yj4LYS0Xhw/VFyS73EwZ78r2GAUOAiuITiwwERyJEBuN84L+mfHFx0vkVOEjDR4+otZiOkinRO2dbiEh6lKU2QWN/BlLqHeUc/2iFR2Dc8se6YGWq1XodXkNRd2pYmc0R3Bl0lz2swSgIPMtsTyDZpL6P2pV0BaT9R8ZCs01oA+6a6rPCJf/8N8P9mXb3krOspid0LYeEPq2LiplllS8iGp/hX2t49zS7ht2VLufqeR5QCe4UhFAWg8Vy3AXH/qaYruLLGEL8kojgKIHGgxTSYe5BNdcQHTJ9xxVFfsE2MjhFd6KXw85Z4f5LWA=;97715cfnPrERYhu18kv+NA=="
 ---

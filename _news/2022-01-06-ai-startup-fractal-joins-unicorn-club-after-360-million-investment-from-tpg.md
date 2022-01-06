@@ -31,20 +31,18 @@ images:
 
 related:
   - title: "AI startup Fractal becomes unicorn with $360 million investment from TPG"
-    excerpt: "Fractal has raised $360 million from TPG in a new financing round and entered the unicorn club as the Mumbai and San Francisco-headquartered AI startup, which counts Google and Wells Fargo among its customers,"
+    excerpt: "Fractal has raised $360 million from TPG in a new financing round and entered the unicorn club as the Mumbai and New York-based AI startup, which counts Google and Wells Fargo among its customers, scales its offerings and begins preparation for an IPO."
     publishedDateTime: 2022-01-05T09:31:00Z
-    webUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/"
-    ampWebUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/amp/"
+    webUrl: "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 86
+    quality: 166
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1294890276.jpg?w=1024"
-        width: 1024
-        height: 481
+      - url: "https://s.yimg.com/ny/api/res/1.2/yjWJApiXP.r3.tXCfl4n6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjU-/https://s.yimg.com/uu/api/res/1.2/tRJXoqN6AhGj67TxBBsBaQ--~B/aD00MDAwO3c9ODUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/9d520e0099165578729ab4784e4fc873"
+        width: 1200
+        height: 565
         isCached: true
   - title: "TPG invests $360 million in AI tech startup Fractal"
     excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform."
@@ -191,6 +189,20 @@ related:
       - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2018-07/istock-917797174_super.jpg?itok=zddmbgvA"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AI-powered client relationship platform Lift lifts off with $3 million in new capital"
+    excerpt: "Copenhagen-based Lift has raised $3 million in a new funding round. The startup, which splits operations between Denmark and South Carolina in the US, offers an AI-based service that can predict the risks and opportunities of losing or growing client ..."
+    publishedDateTime: 2022-01-04T09:17:00Z
+    webUrl: "https://tech.eu/brief/ai-powered-client-relationship-platform-lift-lifts-off-with-3-million-in-new-capital/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 30
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2022/01/1562928016763.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "BhesotJXlxfWkryIAy9nDsNv8mG+CQBIKufI3UbM5Ox4MrHyEVzp6JzqY6xZqXjXtjepiLmRrt/35zTrQ5qzCntYW7cXgfNXaFVUJpakUcIE6SIFcQ1zxlRfqFEnVV8OMzu6JPTGX53grCgXTIauiID4cVi6BiS00i/hDKhLdBsuhsb0hJT8kzJMFJJ6Zr4fKlJlJnsUkTdxt4Os7C4MJdaSctAmUJ6flyCkpW75LVrDEoziC/5EDDSO1k0zEi+M4JVrl101syllTx5CLD6W3K9ot6He+zRKYL69SySG8klV8cOTcYfWc/0FdoR4Nnd3tLqkPuAeUH4xnpcPaG2d5mu2HEGgWvFHCvN6gzjzSEU=;3QpKTyst6RiQlqNYhtjFWg=="

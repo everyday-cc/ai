@@ -1,29 +1,30 @@
 ---
 category: news
-title: "Odyssey Therapeutics Acquires Rahko, a Quantum Machine Learning Company'"
+title: "Odyssey Therapeutics Acquires Rahko, a Quantum Machine Learning Company"
 excerpt: "Odyssey Therapeutics, a biotechnology company pioneering next generation precision immunomodulators and oncology medicines, today announced that it has acquired Rahko, a leading quantum machine learning company,"
-publishedDateTime: 2022-01-06T12:41:00Z
-originalUrl: "https://menafn.com/1103498184/Odyssey-Therapeutics-Acquires-Rahko-a-Quantum-Machine-Learning-Company"
-webUrl: "https://menafn.com/1103498184/Odyssey-Therapeutics-Acquires-Rahko-a-Quantum-Machine-Learning-Company"
+publishedDateTime: 2022-01-06T12:19:00Z
+originalUrl: "https://www.lelezard.com/en/news-20180348.html"
+webUrl: "https://www.lelezard.com/en/news-20180348.html"
 type: article
-quality: 38
-heat: 38
+quality: 41
+heat: 41
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?331857"
-    width: 413
-    height: 249
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
     isCached: true
 
-secured: "2u41ZV6+d8RskiGcV2H3KZ6ZlmIjV0erB19q+NFnlXrtZRnjXUvZhD3LGOYoGWPa2+96rUMn7XdlW9XY9N4sHlggM3BOkClKlAOTjX6GYEaAzqO0Sp2JdGfOPzaiXaJEeXoMY3gVNhTELDk2ssWCkSibTspvm4JXx3Tj0ayhGYsyYERAgb89RTTA6Vq/FVtT0MMmQf7Jv82pb5ocZg3tVYqSmqtl2t+tZogS6QgzNXin3g4/kL53mG4ekSRe3TdhOclI4UBb141YN9Cg0e1iMsQbn8Y781WANO7g8Mppnjr4R0BTpKVI883VXvS+rfPihEcAjYytdlICi/eK/E6sVjygZD/OvWKKObso3bX48JU=;fgRctVLvl728Wy8yoxvIkw=="
+secured: "2s768rCCVqvDg/U/HGTBgBUy7tUFPbZRN9fsNXd8Sj0/IQyYvLpQqn41ksNuHqdPPJM+WF8uvcGhrtRoxm1aL/lrV+bzdQBjRS+IxKU3LCFxOSQnsd6FC9gXMDVkXSKlE9aAUxES2esGqtTWyg/XNx6I6FBnWCCmZ9qvxtV52DmqIe1D97h2ZX27XhgCZNRt6AjGxTAlrEjHu5SAilfxuBwmxnd20NlBC7QYooSqMW4NM4kapqScSTKySUKNI4vGsP5V8G1h98+l8GDdjLXJtanVuBK9JYwS8FPU548GemnPFKpV9h9vhTw1jQguRKvpC5AVaJknl+7a/x73SPxQXMCRMtp6/qptG4j3hphGDWY=;r9Bh6EKw6T9REnavIgBozw=="
 ---
 

@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
-      "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population.",
+      "path": "_news/2022-01-06-gm-aims-for-self-driving-car-chevy-unveils-electric-silverado.md",
+      "title": "GM aims for self-driving car; Chevy unveils electric Silverado",
+      "excerpt": "General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade. And Chevy is rolling out an electric Silverado.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-01-robot-tractors-farm.html",
-      "originalUrl": "https://techxplore.com/news/2022-01-robot-tractors-farm.html",
+      "webUrl": "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/",
+      "originalUrl": "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/john-deere-unveiled-th.jpg",
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2022/01/chevy-silverado-ev-e1641476751743-1024x577.jpg",
           "width": 1024,
-          "height": 682,
+          "height": 577,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-01-robot-tractors-farm.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-robot-tractors-farm.amp",
-      "publishedDateTime": "2022-01-06T01:44:00-08:00",
+      "ampWebUrl": "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1",
+      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1",
+      "publishedDateTime": "2022-01-06T05:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,8 +41,59 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI in Robotics"
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-pete-buttigieg-wants-vision-tests-for-self-driving-cars.md",
+      "title": "Pete Buttigieg wants vision tests for self-driving cars",
+      "excerpt": "The US secretary of transportation wants to talk about innovation, infrastructure, and electric vehicles — but not about Tesla It’s something of a tradition for the US secretary of transportation to address the annual Consumer Electronics Show in Las Vegas and talk about all the ways that the government hopes to foster innovation in technology and transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22869190/pete-buttigieg-self-driving-cars-electric-tesla-decoder",
+      "originalUrl": "https://www.theverge.com/22869190/pete-buttigieg-self-driving-cars-electric-tesla-decoder",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/ZP8kG7rAlFuaJYrKi_y0LzupnMU=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23147858/VRG_ILLO_Decoder_Pete_Buttigeig_s.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -54,7 +105,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1403,49 +1454,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island.md",
-      "title": "UAE: Self-driving taxis ‘TXAI’ to transport passengers on Abu Dhabi’s Yas Island",
-      "excerpt": "Commuters in Abu Dhabi can now travel on driverless taxis round the clock through the ‘TXAI’ app, available on Google Play and IOS App Store. Hassan Al Hosani, CEO of Bayanat for Mapping and Surveying Services,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "originalUrl": "https://gulfnews.com/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2021/12/22/Txai-1_17de0e47d18_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/uae-self-driving-taxis-txai-to-transport-passengers-on-abu-dhabis-yas-island-1.84553816",
-      "publishedDateTime": "2021-12-21T22:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
         "images": null,
         "publishers": null,
         "authors": null

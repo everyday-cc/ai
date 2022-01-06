@@ -68,6 +68,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 57
+  - title: "SparkBeyond Discovery Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Today SparkBeyond announced the availability of its data science platform for supervised machine learning, SparkBeyond Discovery, in the Microsoft Azure Marketplace, an online"
+    publishedDateTime: 2022-01-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sparkbeyond-discovery-now-available-in-the-microsoft-azure-marketplace/article_f5efd05d-d42a-55f9-8e58-b4adcf101572.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 49
 
 secured: "4fDhi14r4fD2l3edu3vG2TisdK7Z+MBmbuYg4YbB3wtFB2ztPmYPRd9iBhINJMoNoFYaa1WtV6YzSAH61ihiqTt+e1QTFkRiYuEjxiECilcNmsji+h7aFlcWZuygtLTJEF7GNXOLYQ8f1Ce+CLIMvJMUGzhsUsf1JkUFHSIvp650oyAnNDwLUt0r7CDmZJ6Sd/ZMvaBb1saaEP695+nGG7wRPYkU1HlZXMiACokePuTgosLOXVpyC0M7VzfxP/eIKQ/lo48aj9J60/z3glTpnV9JXNNXOgeGCK46+s1ikqi5lpYf9hqya6Gcl3T15hpmpLkk43f5dyb0Jhb89UUhQoClhN5hI4xWpUvpmM/WyMs=;4LdVech9PdFnE0b8SpO0OA=="
 ---

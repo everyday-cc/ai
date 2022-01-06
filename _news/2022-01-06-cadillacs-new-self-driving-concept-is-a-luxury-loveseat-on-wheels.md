@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://robbreport.com/wp-content/uploads/2022/01/2-2.jpg?w=1000"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Cadillac previews a personal self-driving car with Halo InnerSpace concept"
+    excerpt: "Cadillac has explored this with its Halo InnerSpace concept car shown virtually on Wednesday during the 2022 Consumer Electronics Show in Las Vegas. The InnerSpace is the third member in a series of fully autonomous concepts from Cadillac."
+    publishedDateTime: 2022-01-06T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134662_cadillac-previews-a-personal-self-driving-car-with-halo-innerspace-concept"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/cadillac-halo-innerspace-concept_100822973_h.jpg"
+        width: 1920
+        height: 1357
         isCached: true
   - title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
     excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."

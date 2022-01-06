@@ -41,6 +41,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "ForwardAI Named Finalist in 2022 LendIt Fintech Industry Awards"
+    excerpt: "Nomination demonstrates need to modernize Small and Medium-Sized Business (SMB) lending, highlights potential of digital technologies for lenders"
+    publishedDateTime: 2022-01-06T14:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/forwardai-named-finalist-in-2022-lendit-fintech-industry-awards-1031081601"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Artificial Intelligence: FinTech’s innovation driver"
     excerpt: "FinTech refers to any idea or innovation that improves or optimizes the way individuals or companies conduct financial activities. Early FinTech concentrated on developing add-on products to complement existing financial services."
     publishedDateTime: 2022-01-05T13:49:00Z

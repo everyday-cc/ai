@@ -69,6 +69,20 @@ related:
         width: 765
         height: 446
         isCached: true
+  - title: "Five health tech innovations to watch in 2022"
+    excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
+    publishedDateTime: 2022-01-06T14:30:00Z
+    webUrl: "https://www.raconteur.net/healthcare/health-tech-innovations-2022/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-health-tech-innovations-to-watch-in-2022.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "04rjo1abx//qhAi9es9cA7LdPbQAGFLAUnh2jZz9uA8SopS/zuBZntOxH1xqJdusuQfbBf93Da2sRyVxeZsbKGdBJCtJ7E2tBr82x36gzGBfhDOCeZr7A/SJLek9bvArpArk77sMckQDlMFeuhNdEFKc+91MmzPX+BHmNmdjETXAiPCqEK/Eu/Qk115TsKOeGpLg3GL0YNuDyzkBKcz/0bMQXk60D7sSwK+jeUPh1+lJXLETUA3o95el5KONi9A30QNhupkQeYSlp9DBggpzT6slrIZcLdkLkCugdG2BNE4n1q3TsYOuD/lyRx51gpyRVxGSVHJ/Sj1HUPMzDIw1/8n91887K1NMLEXufyPrtRc=;FGDMcECOZMSoo4wh+PUfgw=="
 ---

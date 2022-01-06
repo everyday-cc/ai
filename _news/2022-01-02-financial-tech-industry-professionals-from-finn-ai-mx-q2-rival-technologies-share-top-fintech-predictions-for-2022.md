@@ -41,6 +41,15 @@ related:
         width: 2121
         height: 1414
         isCached: true
+  - title: "ForwardAI Named Finalist in 2022 LendIt Fintech Industry Awards"
+    excerpt: "Nomination demonstrates need to modernize Small and Medium-Sized Business (SMB) lending, highlights potential of digital technologies for lenders"
+    publishedDateTime: 2022-01-06T14:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/forwardai-named-finalist-in-2022-lendit-fintech-industry-awards-1031081601"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Fintech On Benzinga: 2022 Will See The Next Milestone In Fintech"
     excerpt: "Nima Ghamsari, Co-Founder and CEO of Blend Labs (NYSE: BLND), presented on a sponsored panel at Digital Mortgage 2021 – a virtual conference a couple of weeks ago."
     publishedDateTime: 2022-01-05T20:44:00Z

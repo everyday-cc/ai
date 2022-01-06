@@ -86,6 +86,20 @@ related:
         width: 500
         height: 324
         isCached: true
+  - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
+    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
+    publishedDateTime: 2022-01-06T14:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deep-robotics-jueying-lite2-robot-dog-makes-its-/2022/01/06/9521548.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://mma.prnewswire.com/media/1721003/Jueying_Lite2_on_2022_CES.jpg"
+        width: 400
+        height: 294
+        isCached: true
   - title: "The robots debuting at CES 2022"
     excerpt: "Take a look at this roundup of robots, compiled by Electronics360, that are preparing for their CES 2022 debut. Hyundai Motor Group. Source: Hyundai Motor Group. Automotive manufa"
     publishedDateTime: 2022-01-05T13:01:00Z
@@ -156,15 +170,20 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
-    publishedDateTime: 2022-01-05T15:04:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
+  - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+    excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
+    publishedDateTime: 2022-01-05T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 1
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 21
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
+        width: 1154
+        height: 606
+        isCached: true
 
 secured: "NxxVL9lVFtp98ITMQfcgkZd1DfeNTQsaCr8Mz/XuoKcXrQoixETtCcgjiVfHxip0gmRi6r6+Ptn13ujfWXuq/kKBRdpBCeqY0BRxs9YpZWTHpc6I/djIaHIZHREdj/zVQxSgLzl4u28BvnUDod2RKN1O4QgzaSm+/xgELMVNQHj7RhX+/T1I+CKDTmMugqPrhQ0gpOtGCiLZCcaAyM/gRUwd6GLPo82oHdiefUgd62G7dq1Xmt2cAKwnGkdStrZ4YebdcyDh2mwLjT0sJwtqAYF9BD31C81COnSUJeZSizw243Ov/R3tzEFYz6KC8bq+PTgW7sRW+HS0IR3vvZtiFClvB2j3/KfRffkAoY1L9vQ=;AEbwJKwCQjZudw4ViFT7NQ=="
 ---

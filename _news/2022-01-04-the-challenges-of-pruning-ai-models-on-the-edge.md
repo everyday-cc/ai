@@ -40,6 +40,22 @@ related:
         width: 2400
         height: 1350
         isCached: true
+  - title: "The AI forecaster: Machine learning takes on weather prediction"
+    excerpt: "According to a 2009 study, U.S. adults look at weather forecasts nearly 300 billion times a year. Reliable forecasts can predict hazardous weather―such as blizzards, hurricanes, and flash floods―as early as 9–10 days before the event."
+    publishedDateTime: 2022-01-06T14:07:00Z
+    webUrl: "https://phys.org/news/2022-01-ai-machine-weather.html"
+    ampWebUrl: "https://phys.org/news/2022-01-ai-machine-weather.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-machine-weather.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-ai-forecaster-mach.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "BlaS7rNrMEF1w62dHpggZK9asfqDuL1lF1QuT72gYDD5rfWtGqsiVzmaTrVx/GS7eK+ES8VE7uAWlCd8T3b1+uXzmwhbBFS3GBJ0Nk5kxlMY7v7t7vTaOJnNahVqJcVlpdbJ5GXMy/Wzu2JKUNqaL1YV15bRU9KIZsMV8mHJtIZv5V8X0xkYBqWoZsmobBr2KthF1qW9fyb6yxpVTSRxJpd1YsfLnuO0EBi4YPCrtYNrSEmdlrqTjpyBL9S8IFuC+khlzk+ihNstfd4b4SXurD2IkIVfZifBvStJG0jsL5wUpL1xFhHw0n4uBA/xhzzE9c2NZkcih2xvvN4NavbG9lTQ4pgizEUnOLAmAOPZwmoYWg2bM3bNPcahTvyzPAjIRv8d/RONPbIzFsP+yR6xDmMXIKuZR15bIPkOYQIkXZGHVES1DAYAEBugOH7+dWBWL6OKV2OGc3qckja11CNjKnnl5oj39t0BhnT5Q3GlK64szdRrv9/whfQhZiJiTAZw5+y2zKT5khXsZPZvzpD1zQ==;Om2DJUoEZqavdrP/Y31JyA=="
 ---

@@ -83,6 +83,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Cadillac previews a personal self-driving car with Halo InnerSpace concept"
+    excerpt: "Cadillac has explored this with its Halo InnerSpace concept car shown virtually on Wednesday during the 2022 Consumer Electronics Show in Las Vegas. The InnerSpace is the third member in a series of fully autonomous concepts from Cadillac."
+    publishedDateTime: 2022-01-06T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134662_cadillac-previews-a-personal-self-driving-car-with-halo-innerspace-concept"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/cadillac-halo-innerspace-concept_100822973_h.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
 
 secured: "Wp6wcI+3pLQQuvv8H/U98oZHBWNSmpoc5R6PyHA/lmA9xSpvkmOKYnOv9XaC85wwXd2C0IPEIfKkbqsKg/mk9O3C3ufmCT6dB0wGmZdKd+XHajI/uzi/xl/MyItKSqYE76PeO2vQzP/Sx0WHiHcLXlLk12cnnHE7jJiXonopismgiGZnml56Y8ND4wxnl41JQP1Mq2H7TclFgfHavLlG/2h7whdRT8ZTak9xtlknLFOyK4QHffUvCSuXpJ5FVVtyHy9jhQlaH91za0+c7No6qrXkeuCthM3Ze36fOFqfxIVygjCHNnz0O5r04wiz/cZW5bAg++RuP9kAyNsTV/ph047bBxHk2jcclDax9/sWeVU=;rrvU2zcOq3WSMinteeCRdg=="
 ---

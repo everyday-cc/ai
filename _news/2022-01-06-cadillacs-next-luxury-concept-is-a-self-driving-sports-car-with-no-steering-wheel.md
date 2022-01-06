@@ -75,6 +75,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Cadillac previews a personal self-driving car with Halo InnerSpace concept"
+    excerpt: "Cadillac has explored this with its Halo InnerSpace concept car shown virtually on Wednesday during the 2022 Consumer Electronics Show in Las Vegas. The InnerSpace is the third member in a series of fully autonomous concepts from Cadillac."
+    publishedDateTime: 2022-01-06T13:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134662_cadillac-previews-a-personal-self-driving-car-with-halo-innerspace-concept"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 22
+    images:
+      - url: "https://images.hgmsites.net/hug/cadillac-halo-innerspace-concept_100822973_h.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
   - title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
     excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."
     publishedDateTime: 2022-01-06T01:48:00Z
@@ -85,6 +99,6 @@ related:
       domain: metal.com
     quality: 0
 
-secured: "qzZXRHruPjrzqgyL3E8Ev1WOvcbdLz7LIKl8CptkwNfG7QhaquJiBYcDInc72+3pb+LBhyMXZZfdI/D0yKOYE6ZqWNiv2YDlEc8cJu8I3U3mT1WGQVkRHywoSqx/qf9f6lL8mDUVcw6UhO6qIZJOP25KtzJaRwcp6N62bMcfGBDiBVQIF7ejEoTwEpCUoNofHqlc1a9JnQslpo4B4f2lxexNgWP5HFVPDLnYlEiKHa5z7ay4hWJ6xLB2cUkUEwr4qKTfJZfiMunCh4Oa7mwSriSnOyXzWdnl4qfwu+bECthKeRc1l5vi4/Tu7V8X05GJlKBrYHpv9bFEgoZwkKO2zycQl06W29iCZZkAcQDFkQQ=;mlaq1gRCL5t51MuYMWDiPA=="
+secured: "XrRfvxWm+wJhLNqoPBZLitu5BdXIcLyDOwqjuL6RcWzazAByK3cnllwi3S2UTvgTk/Jb/pjMkqz0H2oxeIzf3amVzzeKi/levbPPj/2lcabsswYOWZiWtoNZkTV64y5wZByzNGhy9v3VpKg9gBvnzK+IV73HOEmF6n/RZA5JpppHiKQ/xYAsOFrX3CboWQ37ir1DieZsolN0Khz/tIL6XuEUVF1ycAnvtZcvCn6FPXbj1NlbpobchkLza9CxksOU45sKJZvkJP6DM6DEbTQ4tipo/XgBl8Ed1wBSYHln1N9DaS2boVVeTHkpZ8e82j08uQWh558/Itikpr7vq0Uaeu3ZySOP59tItIWLPB15qK9QeeCB3KdXe3kcmaeE/VJM5mNJh303j3JkNDsdiss1mOM8LK46CI4W4cnCpVCS7tMkRLeiJ6a1vmkntMjAF2pyRvuMgoG7TmNIUNGklP+IaoCL9FB2nTunQzIqqLv9qpz6EBYFUkgge1JLzGVMm7b3PFfrQYOIa8MO3GHm3HO2LQ==;w2AtVQVFTwvSrD2WxhoqaQ=="
 ---
 
