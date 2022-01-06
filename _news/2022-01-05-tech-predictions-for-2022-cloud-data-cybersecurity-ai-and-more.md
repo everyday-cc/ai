@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecur
 webUrl: "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/"
 type: article
 quality: 69
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/01/Picture1.png"
         width: 624
         height: 249
+        isCached: true
+  - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
+    excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
+    publishedDateTime: 2022-01-06T19:53:00Z
+    webUrl: "https://federalnewsnetwork.com/defense-news/2022/01/nga-cio-eyes-big-shifts-for-cloud-cybersecurity-and-machine-learning-in-2022/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 36
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo-400x270.png"
+        width: 400
+        height: 270
         isCached: true
   - title: "Developing AI and RPA across DHS; cybersecurity and cross-agency collaboration in 2022"
     excerpt: "On the latest episode of The Daily Scoop Podcast, DHS CTO David Larrimore on cutting-edge technologies at DHS components and Scoop News Group’s Billy Mitchell and Jeff Stone preview their top stories for 2022."

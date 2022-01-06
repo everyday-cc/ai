@@ -52,6 +52,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
+  - title: "Ambarella (AMBA) Introduces CV3 AI Domain Controller SoC"
+    excerpt: "Ambarella (AMBA) launches CV3 AI domain controller SoC for implementing autonomous driving for vehicles from Level 2+ to Level 4."
+    publishedDateTime: 2022-01-05T17:01:00Z
+    webUrl: "https://www.entrepreneur.com/article/411648"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411648.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "Seeing Machines launches partnership with AI firm Ambrella"
     excerpt: "Driver monitoring technology company Seeing Machines announced a collaboration with artificial intelligence (AI) silicon company Ambarella on Thursday, to bring integrated advanced driver assistance system (ADAS) and occupant and driver monitoring system (OMS and DMS) products to market."
     publishedDateTime: 2022-01-06T11:52:00Z
@@ -81,20 +95,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/ambarella_AISP_technology.61d719e523321.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Ambarella (AMBA) Introduces CV3 AI Domain Controller SoC"
-    excerpt: "Ambarella AMBA recently unveiled CV3 artificial intelligence (“AI”) domain controller system-on-chips (“SoC”). The platform is ideal for implementing autonomous driving for vehicles from Level 2+ to Level 4,"
-    publishedDateTime: 2022-01-05T21:10:00Z
-    webUrl: "https://www.chron.com/business/article/Ambarella-AMBA-Introduces-CV3-AI-Domain-16751421.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 39
-    images:
-      - url: "https://staticx-tuner.zacks.com/images/charts/0d/1641391398.png"
-        width: 583
-        height: 265
         isCached: true
   - title: "Ambarella Launches AI Domain Controller SoC Family for Single-Chip Multi-Sensor Perception, Fusion and Path Planning in ADAS to L4 Autonomous Vehicles"
     excerpt: "(NASDAQ:AMBA), an AI vision silicon company, today announced during CES the CV3 AI domain controller family. This fully scalable, power-efficient CVflow® family of SoCs provides the automotive industry's highest AI processing performance,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106997147-1641406573507-Cadillac-Halo-Concept-InnerSpace-001.jpg?v=1641406634"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Cadillac To Feature GM's New Autonomous Driving System"
+    excerpt: "General Motors' - Get General Motors Company Report luxury car brand Cadillac will outfit its Celestiq sedan with the company's Ultra Cruise autonomous driving assistant, making t"
+    publishedDateTime: 2022-01-06T22:25:00Z
+    webUrl: "https://www.thestreet.com/investing/cadillac-celestiq-features-ultra-cruise"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/cadillac-celestiq-features-ultra-cruise"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/cadillac-celestiq-features-ultra-cruise"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5NzgwNjA3MjM5MjY3NTY2/stock.jpg"
+        width: 620
+        height: 400
         isCached: true
   - title: "First Look: Cadillac’s Newest Self-Driving Car Concept Replaces the Cockpit With a Spa-Like Lounge"
     excerpt: "As with jet packs and flying cars, self-driving production vehicles are still more vaporware than reality, but major automakers continue to help us imagine what that future might be like. The latest to do so is Cadillac with its InnerSpace concept unveiled today at the 2022 Consumer Electronics Show (CES)."

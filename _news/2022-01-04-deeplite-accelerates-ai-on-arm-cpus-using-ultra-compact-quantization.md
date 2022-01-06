@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "DeepliteRT Enables Fast and Efficient AI Modeling on Edge Devices"
+    excerpt: "Enterprises today have increasingly complex and expansive datasets that require substantial computing resources to manage. Machine learning with"
+    publishedDateTime: 2022-01-06T22:10:00Z
+    webUrl: "https://www.datanami.com/2022/01/06/deeplitert-enables-fast-and-efficient-ai-modeling-on-edge-devices/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/ARM-Chip.png"
+        width: 602
+        height: 401
+        isCached: true
   - title: "Deeplite Accelerates AI on Arm CPUs Using Ultra-Compact Quantization"
     excerpt: "Deeplite, a provider of AI optimization software designed to make AI model inference faster, more compact and energy-efficient, today announced Deeplite Runtime (DeepliteRT), a new addition to its platform that makes AI models even smaller and faster in production deployment,"
     publishedDateTime: 2022-01-04T18:14:00Z

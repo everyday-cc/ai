@@ -98,6 +98,20 @@ related:
         width: 624
         height: 249
         isCached: true
+  - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
+    excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
+    publishedDateTime: 2022-01-06T19:53:00Z
+    webUrl: "https://federalnewsnetwork.com/defense-news/2022/01/nga-cio-eyes-big-shifts-for-cloud-cybersecurity-and-machine-learning-in-2022/"
+    type: article
+    provider:
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 36
+    images:
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo-400x270.png"
+        width: 400
+        height: 270
+        isCached: true
   - title: "Cybersecurity for AI Solutions Provider TrojAI Inc. Closes $3M Seed Round"
     excerpt: "Cybersecurity for AI Solutions Provider Closes $3M Seed Round and Expands Protections to Include Natural Language Processing"
     publishedDateTime: 2022-01-04T22:35:00Z

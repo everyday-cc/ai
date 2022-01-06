@@ -1,28 +1,39 @@
 ---
 category: news
 title: "Torc Robotics expands footprint with new engineering office in Austin, Supporting fast growth in drive to commercialize self-driving trucks"
-excerpt: "Torc Robotics will open its third U.S. location — in Austin, Texas, in early 2022. The approximately 21,000-square-foot office will complement the self-driving truck firm's Blacksburg, Virginia, headquarters and its Albuquerque,"
-publishedDateTime: 2022-01-06T13:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/torc-robotics-expands-footprint-with-new-engineering-office-in-austin-supporting-fast-growth-in-drive-to-commercialize-self-driving-trucks-1031081398"
-webUrl: "https://markets.businessinsider.com/news/stocks/torc-robotics-expands-footprint-with-new-engineering-office-in-austin-supporting-fast-growth-in-drive-to-commercialize-self-driving-trucks-1031081398"
+excerpt: "We are confident that our future Austin Torc'rs will share our passion for this technology and mission of Saving Lives."
+publishedDateTime: 2022-01-06T14:14:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=18029"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=18029"
 type: article
-quality: 32
-heat: 32
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
+  - AI
 
-secured: "mBqZMtiIa8NDsj9gqoNxm2kPZvORtNR0EkF+Xvz1lQU8rNnlXM4bgRO3c0AgSsWIIK1E64XLPdKAn6aFUvVnsfxBCl8J/DUXnG21IvgM2qe4xT6IjRHGm2uw2xsxv5FIIik9+V5zXi1JgJt+22WRaDwDsX8Dur4gYVBwZ1Ocy8WeOCRxsKNAnCQv3nP/x4YXiwH3zpStM7lY7mCk9ATYEGlqlckt7KAhEyKLs/H2teUwRNuShO4XCcg0lUspvoYRjzbwNdrZxEUM8KkzS9ocyYuNA6mWAMKDDIUIBF465fjRvP4W/NAFMMb6qryccJRMn1x5Xcpv2+bPG9eh+shHWo5bTxSCHE1sOQ9iXl8N/Fc=;M6MarWwTYIX25EGR8bkmbw=="
+related:
+  - title: "From self-driving trucks to psychedelic drugs: 10 Pittsburgh tech companies to watch in 2022"
+    excerpt: "This year's list features both new and familiar names, highlighting the top technology coming out of Pittsburgh."
+    publishedDateTime: 2022-01-06T16:22:00Z
+    webUrl: "https://nextpittsburgh.com/city-design/from-self-driving-trucks-to-psychedelic-drugs-10-pittsburgh-tech-companies-to-watch-in-2022/"
+    type: article
+    provider:
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 13
+    images:
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2022/01/05163524/Screen-Shot-2022-01-05-at-4.34.49-PM-e1641418549543.png"
+        width: 750
+        height: 420
+        isCached: true
+
+secured: "HwffZAAbZhjqitXXE6H78F0OPFejr0DopEfhwXYubKZjk1sYPqJWsE2+deyUEqYEqAfOni2X+ZESRDw+BF5A4oQ5Ty+w5EODmm9YZmYhPKWSN1b4DbKTaglTTsTvA9oCMjgRzm2LiL7S1GzS379ATxmjW1m12qz9pwYu8hVXp1cps0xpKOID40N28ePaUjVeC28TmcJ0KFQUgkgySgYFjesKL9NxMmf4JRwUN77p3fpXwh2Jw/hNBKgPanOBLjt9pqeGZ5v1ZjNgexo/hdHlw0ztrRA+u7EG3fx1aGDsRw9ugf5Eyc92ZlriiotpuyScXEMk1Rk1hfXgE2vOXmviapUzqkRZ5esGP4/+6BSd/Bo=;XFIKYk/tVAA6Vl/wa+JSlw=="
 ---
 

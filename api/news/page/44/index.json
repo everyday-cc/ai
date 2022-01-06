@@ -2,6 +2,40 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2021-12-01-viewpoint-why-employers-must-create-disability-inclusive-cultures.md",
+      "title": "Viewpoint: Why employers must create disability-inclusive cultures",
+      "excerpt": "And yet many disabilities – including cognitive and mental health challenges ... strategies that such firms as Fidelity, Biogen, Microsoft, and others have adopted. These include recruitment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/boston/news/2021/12/01/viewpoint-why-employers-must-create-disability-in.html",
+      "originalUrl": "https://www.bizjournals.com/boston/news/2021/12/01/viewpoint-why-employers-must-create-disability-in.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T03:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-ethics-of-ai-193-members-of-unesco-adopt-recommendations.md",
       "title": "Ethics Of AI: 193 Members Of UNESCO Adopt Recommendations",
       "excerpt": "In a historic global agreement, all 193 members of UNESCO adopt the recommendations on the ethics of AI document",
@@ -1119,49 +1153,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-ex-google-ai-ethics-chief-boost-worker-power-to-curb-harmful-ai.md",
-      "title": "Ex-Google AI ethics chief: Boost worker power to curb harmful AI",
-      "excerpt": "Governments need to curb the power of tech companies and increase the power of workers in order to safeguard people from unsafe uses of artificial intelligence, Google's former AI ethics chief Timnit Gebru told a hearing at the European Parliament on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
-      "originalUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2021/11/30/GettyImages-1028811892-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/ex-google-ai-ethics-chief-timnit-gebru-boost-worker-power-to-curb-harmful-ai/amp/",
-      "publishedDateTime": "2021-11-30T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vogue.co.uk/fashion/article/lior-cole-model-ai-technolog
 cdnAmpWebUrl: "https://www-vogue-co-uk.cdn.ampproject.org/c/s/www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi/amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,93 @@ images:
     isCached: true
 
 related:
-  - title: "The problem with AI is there is no EI"
-    excerpt: "The customer experience in the Moving business is going to hell because we are trying to replace emotional Intelligence with artificial intelligence. Our cool-dashboard mentality is taking our focus off the customer and placing it on technology."
-    publishedDateTime: 2022-01-05T17:40:00Z
-    webUrl: "https://www.linkedin.com/pulse/problem-ai-ei-larry-kruger"
+  - title: "Seeking a way of preventing audio models for AI machine learning from being fooled"
+    excerpt: "Artificial intelligence (AI) is increasingly based on machine learning models, trained using large datasets. Likewise, human-computer interaction is increasingly dependent on speech communication, mainly due to the remarkable performance of machine learning models in speech recognition tasks."
+    publishedDateTime: 2022-01-06T21:51:00Z
+    webUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 68
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHvALMYwg5ADg/article-cover_image-shrink_720_1280/0/1641402386744?e=1646870400&v=beta&t=vnBTvSdDbv7ac-aGGF7buuzeq3SrjiBKTG7t96e0DiA"
-        width: 540
-        height: 720
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/seeking-a-way-of-preve.jpg"
+        width: 775
+        height: 500
+        isCached: true
+  - title: "AI Model May Aid Screening for Acute Pulmonary Embolism"
+    excerpt: "A model integrating clinical data with electrocardiogram (ECG) waveforms may improve prediction of pulmonary embolism (PE), according to a study recently published in the European Heart Journal-Digital Health ."
+    publishedDateTime: 2022-01-04T12:33:00Z
+    webUrl: "https://www.physiciansweekly.com/ai-model-may-aid-screening-for-acute-pulmonary-embolism/"
+    ampWebUrl: "https://www.physiciansweekly.com/ai-model-may-aid-screening-for-acute-pulmonary-embolism/amp/"
+    cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/ai-model-may-aid-screening-for-acute-pulmonary-embolism/amp/"
+    type: article
+    provider:
+      name: Too Old to Operate
+      domain: physiciansweekly.com
+    quality: 57
+    images:
+      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/01/image1641299513.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Deep Learning Is the A.I. Breakthrough We've Been Waiting For"
+    excerpt: "Their efforts rely heavily on something known as deep learning. This is a preview. Make a selection below to access this issue.Already have access? Sign in."
+    publishedDateTime: 2022-01-02T23:12:00Z
+    webUrl: "https://www.scientificamerican.com/article/deep-learning-is-the-a-i-breakthrough-we-ve-been-waiting-for/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 54
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/BE9605C1-B5DC-4064-B5834527CA7477C9.jpg"
+        width: 790
+        height: 496
+        isCached: true
+  - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
+    excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."
+    publishedDateTime: 2022-01-06T14:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ust-launches-ust-aisense-an-ai-led-sensory-solution-that-makes-hyper-personalized-shopping-recommendations-for-wine-beer-and-food-1031081739"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1422658/UST_Logo.jpg"
+        width: 387
+        height: 400
+        isCached: true
+  - title: "fylm.ai 1.1 update brings online raw processing and grading for photographers"
+    excerpt: "The fylm.ai 1.1 update is a “Photographers Release”, bringing the worlds of still photography and video closer than ever fylm.ai is a subscription based online color grading tool designed for both videographers and stills photographers."
+    publishedDateTime: 2022-01-05T17:25:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/fylmai-11-update-brings-online-raw-processing-and-grading-for-photographers"
+    type: article
+    provider:
+      name: digitalcameraworld.com
+      domain: digitalcameraworld.com
+    quality: 34
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/d49GFiVxggCLNzS4AbbZ4V-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "First-of-its-kind artificial intelligence - a helping hand for commodities trading"
+    excerpt: "Revenue.AI, a Dutch company, is optimizing the way traders crunch big data with the release of its newest augmented intelligenc"
+    publishedDateTime: 2022-01-05T04:42:00Z
+    webUrl: "https://menafn.com/1103488896/First-of-its-kind-artificial-intelligence-a-helping-hand-for-commodities-trading"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?853851"
+        width: 378
+        height: 250
         isCached: true
 
 secured: "AiEXBDUTRdG+IwtIWphJRyKdVz+9HXCajtl5FBf/cwpEcYgBx1Np+mHWG4zTFPo80YZF1KHWjN8is5jOvU+9hZhFZt9LMwppjINoc4Q3+yb+SXkOoN2SKFTZSjO/1cNXwS1mBtC2n2Bofrp18avthzYQ1OgRy6Z8DSXkzJTRhboVnz4pIdanOjQBAFrDzbeVc0VHSTML2s1jIw09b9GeXvvRkLJAA30hiQEslEpiZAM8GI6Z+wpwe7dmgQCUqXzMbs2Fm1TQTL87O5Y0Ysxyx74hyzjCMolI2xNeUTSRl3AXfKcEPdM9nc0BkzMsuCrAaPiX4qhUv6FReTiF28m0DcvBy/yLXhjxhp6dxBkzgI0=;zpwz7b+0v38uA+AtTyT++A=="

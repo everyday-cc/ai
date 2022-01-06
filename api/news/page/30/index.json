@@ -2,6 +2,50 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-09-education-is-key-to-helping-cees-healthcare-professionals-embrace-ai.md",
+      "title": "Education is key to helping CEE’s healthcare professionals embrace AI",
+      "excerpt": "Education is the most important factor for the fast adoption of healthcare innovations. In Central, Eastern and Southern Europe, EIT Health and GE Healthcare are making it happen.",
+      "sourceUrl": null,
+      "webUrl": "https://emerging-europe.com/news/education-is-key-to-helping-cees-healthcare-professionals-embrace-ai/",
+      "originalUrl": "https://emerging-europe.com/news/education-is-key-to-helping-cees-healthcare-professionals-embrace-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://emerging-europe.com/wp-content/uploads/2021/12/bigstock-portrait-of-a-female-researche-16436390.jpeg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T03:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "emerging-europe.com",
+        "domain": "emerging-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-deeprouteai-unveils-affordable-advanced-autonomous-driving-solution-for-mass-production.md",
       "title": "DeepRoute.ai unveils ‘affordable’ advanced autonomous driving solution for mass production",
       "excerpt": "The L4 solution’s price point is the same as current L2 solutions. Shenzhen-based autonomous driving startup DeepRoute.",
@@ -1097,57 +1141,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-facebook-says-its-new-ai-can-identify-more-problems-faster.md",
-      "title": "Facebook Says Its New AI Can Identify More Problems Faster",
-      "excerpt": "Shot Learner” system doesn’t need to see as many examples to identify troublesome posts, and it works in more than 100 languages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
-      "originalUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61aff1d012b63df686feaff1/master/pass/Facebook&apos;s-new-moderation-AI.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/facebook-says-new-ai-identify-more-problems-faster/amp",
-      "publishedDateTime": "2021-12-08T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

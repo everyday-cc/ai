@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Cadillac To Feature GM's New Autonomous Driving System"
+    excerpt: "General Motors' - Get General Motors Company Report luxury car brand Cadillac will outfit its Celestiq sedan with the company's Ultra Cruise autonomous driving assistant, making t"
+    publishedDateTime: 2022-01-06T22:25:00Z
+    webUrl: "https://www.thestreet.com/investing/cadillac-celestiq-features-ultra-cruise"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/cadillac-celestiq-features-ultra-cruise"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/cadillac-celestiq-features-ultra-cruise"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5NzgwNjA3MjM5MjY3NTY2/stock.jpg"
+        width: 620
+        height: 400
+        isCached: true
   - title: "First Look: Cadillac’s Newest Self-Driving Car Concept Replaces the Cockpit With a Spa-Like Lounge"
     excerpt: "As with jet packs and flying cars, self-driving production vehicles are still more vaporware than reality, but major automakers continue to help us imagine what that future might be like. The latest to do so is Cadillac with its InnerSpace concept unveiled today at the 2022 Consumer Electronics Show (CES)."
     publishedDateTime: 2022-01-05T17:15:00Z
@@ -99,6 +115,6 @@ related:
       domain: metal.com
     quality: 0
 
-secured: "YxWbisrdM7e5PShAKM8/mQk0s6Aeekwrs6bRU+DGK+tJndw+HJw53wsprnl0wf0fc4WGNcW5ryDcwxs7rkYQb6GrSmlHfujI3kv8pzU4NfvqXODAyDPfnjvpHTiQy9vbopRMneLG5cwGumz8mXqdEy/i22TxxrxCia8J66qNfyKEoJpahTNimVzTc2XG+aFiGj3rX4YMZ+2RmNKl89ulTv2gSj65AOGraLK87hdpmGvwsk4msGULijBPMSVdhJnH8ZyuN+6Mx9jlcCXoSUlBVSxcTpNRGfdykH3fEpaWAgQJPmDVPUg+7hJ9WRW8JYPAANb++EC1WL1Tk05yIw/YaAQ5h6TH5CLgsoCpAKxOKtk=;EtDUnCGLmRvGzCWhXuhyWw=="
+secured: "Rdi5uIADmQcDMSH6VVlk6KHUYx/JCU6Id9oczpomKlWvttWu6Ei0KmN4EPFC8sW4uqiBl/8Zs84sf8+5FcnAOWgSWMI4T0uojumBGPX8RU13EdUZHnfZwJEFqP6NqXpVqCmwGdgqb/sAT1CtgJIZvPpsG8OjpNJsAetBz5cmxP/PIaPutzpEg08PBOrpIM/okQqqdStg8VX/OHhb5NbIOnbQqgxyj/LFFDV+sMb7JZTcNwa/Wmrn0GE0SzKbVzk6McfqhYa4jY2MLHWgUIWopJ8Oo0Un5i/c13a1GHHch8l/f5M6pGwMbbxhB7IhbCNXIXVQiCqBzoJf3HLrwiSbaE2bQ1Uv+zDNhlpg+eSbPfUQULuiPqaE0ToHGoD4ZzIcALtMvQwV+RcMGUVzpZEsN88pL8UX05jlwpdbqJQCH+0qRfs1IhszzHoQ/ah4RK6mf85EwrFV2TGrSv0MF+UnLrgYZb7IuViX+XpxcamJuMgHDtpoaJhs79zs4LnNmthZQ3DOMBEyiqfNP+K1VQvdTA==;qLYR8g96D9UmaDq1h/L/Og=="
 ---
 
