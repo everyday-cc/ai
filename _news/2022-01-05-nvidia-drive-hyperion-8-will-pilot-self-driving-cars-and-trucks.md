@@ -157,20 +157,6 @@ related:
         width: 1081
         height: 537
         isCached: true
-  - title: "GM says it's aiming to sell you a self-driving car by middle of this decade"
-    excerpt: "GM has missed its own self-imposed self-driving deadlines in the past. The automaker claimed back in 2017 that it would be mass producing fully autonomous vehicles by the end of 2019, which didn't occur."
-    publishedDateTime: 2022-01-05T20:56:00Z
-    webUrl: "https://www.wicz.com/story/45591223/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade"
-    type: article
-    provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 37
-    images:
-      - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "John Deere unveils first autonomous tractor"
     excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."
     publishedDateTime: 2022-01-04T21:38:00Z

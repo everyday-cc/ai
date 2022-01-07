@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-cro
 ampWebUrl: "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/01/Copy-of-Shail-and-Eamonn.jpg?w=680"

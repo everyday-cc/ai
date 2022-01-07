@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Secures SOC 2 Compliance"
-excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type"
-publishedDateTime: 2022-01-04T13:42:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/soccer-technology-sports-business-artificial-intelligence-5aff84712a7688108f589d493b8fd996"
-webUrl: "https://apnews.com/press-release/globe-newswire/soccer-technology-sports-business-artificial-intelligence-5aff84712a7688108f589d493b8fd996"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type 1 examination. This achievement reflects"
+publishedDateTime: 2022-01-04T12:40:00Z
+originalUrl: "https://www.djournal.com/artificial-intelligence-technology-solutions-secures-soc-2-compliance/article_ae65b57f-6adb-54de-b9a0-a9152d1d2096.html"
+webUrl: "https://www.djournal.com/artificial-intelligence-technology-solutions-secures-soc-2-compliance/article_ae65b57f-6adb-54de-b9a0-a9152d1d2096.html"
 type: article
-quality: 37
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Journal
+  domain: djournal.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "TrojAI secures $3 million in seed funding to protect AI solutions against security threats"
@@ -62,6 +56,6 @@ related:
       domain: businessinsider.com
     quality: 23
 
-secured: "hj9k05f0N6gBWTvpo4zIs4149EjewX+nxX29RprI7BrEP0wj7Db1yfCOpTfXiOsRhM98n43d1jdqx0UcW9RWGhqVAi5w6OeC1nkGJCwUvrccuCe9Tk5syuvgYd4HvZzLmjr5gyMNZoEPBxu4sZbzZlwvseBv/0CSWpDerLlB13OKsKIhWG9BtBRSmAmZQknMjrDuTUZQ4EHdgNk5s2xFl2FfiURwCjh44zRqCBUFL6SEneVH51xd1cHvb+tkM00cbJ0sTMtVD7hAkEbu3jFN77xu9+Pc0l6EtWYv+bFdGdttP62wMboTd9cQbW57cL2iEd1Fopp251N13UnAE+SgQ2JHi9xi/dVPotTSnd7vETs=;KSWh1F68pmEcm0rrEWgGqg=="
+secured: "fskSrMX7s/f0ek4zECcQP0teakC6O7pKLJLLQMDZfqGyw07YgNLCRCGSHH7BPN3ZJrCLui9IWYP/BQ9NLx4WyTUjo5n17jUbxX6xEj2xazupEWp/IBdFDANjSX8+7w2jbHJoS15M/dvnupVdaFPmo5nFJex5F5/weXb21FRE0A6PIEaQ5OvJb91XpSttC8tc6WSsJ/nDAX60G3z4xkBTiu3lvjm2LRNIc4PmywJuyZMiW83x5QuUrApAf4vi4J1R7ZZpIY4SqaKnrRnEeG45f9IZgcVXMMCy7m/lCvfEVzgTqF72WpXRFRf0+3EHxe5V3AjsWLXzB+NExBmjBnYzXUgIjo7i7nCmQaQONGdgVm079RrTqFE1SM0aVRQLghrzXrD1mQPXw8PuT7rCeV9h+HIrn3twc9rnzs1AX52ma9Ax5kYCQrkDtcjn2Bh+ZGrkI4ZP9pbwCzrYYOHOfZfFMQ7tYSm7e4FbrqhfOAjFOFhzPALCMqfWl0h5X94pMY70LZGnvsG+L42vpnqd2TL/Lw==;pLrvDSIpgWx6XCRxslx2Fg=="
 ---
 

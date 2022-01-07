@@ -141,6 +141,15 @@ related:
         width: 740
         height: 422
         isCached: true
+  - title: "Tenet Fintech Group Inc.: Tenet CEO to Provide Business Update and Address Recent Stock Performance in Q&A Interview"
+    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the"
+    publishedDateTime: 2022-01-07T18:32:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54922290-tenet-fintech-group-inc-tenet-ceo-to-provide-business-update-and-address-recent-stock-performance-in-q-a-interview-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "sGgJU5IjukubVRZwo6jjgnIy4MQ8ZZeewXnMr3so75x/5eEAuBYMrLgZ+bHAdmASmQctojm89Y3qfmkL+B9a/JtYi/KVgSpANyFqukwFb6Nf0FljSzuk6qJN1Dia6up4puaI7p7K6t5iPTJG500vCL+5QtGwkfPFpLZB3ing2MdJkUgXOVj+IVbo5KKtUDn03qcs4iC6CSRPir5bcPKEJq/IE4fDlIHIHLmIIztqirBg+5X+W75mzvd3RVm3Jlk3yR56hRsYPhvSwaM/QmLDJBOSeTHba9tclMz7yLqNVAYt/PjoIVxyHgeqY47VQsRY9oFsQKm9n1ESjoAQ/lPD21rcQ7590UPTdPnxlhwtjco5rBtRH4D4uuG3tdsx80VA2OmG5Wk6MdMfiP1c7RpwnBO3RYk8Xmi59auWLSWsdVroCC1/rVlJFd7HLyqLLItqweL+QY5+10CY8CKrYHRUC9jeYNy/eDz1SD3DoPrHxvAhI15qCrvrKVbCwel0Yv4QSo0v3oFePa2EpEfH0yDMGA==;dArByinq3cr6yRrGTEToFg=="
 ---

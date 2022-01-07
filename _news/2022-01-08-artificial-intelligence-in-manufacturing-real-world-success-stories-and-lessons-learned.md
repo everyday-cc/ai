@@ -46,15 +46,6 @@ related:
         width: 2560
         height: 1600
         isCached: true
-  - title: "Cloud Security Alliance Releases Guidance on Use of Artificial Intelligence (AI) in Healthcare"
-    excerpt: "The Cloud Security Alliance (CSA), the world’s leading organization dedicated to defining standards, certifications, and best practices to help ensure"
-    publishedDateTime: 2022-01-06T17:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220106005239/en/Cloud-Security-Alliance-Releases-Guidance-on-Use-of-Artificial-Intelligence-AI-in-Healthcare"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
 
 secured: "NmP6TgW0fKOSGRs9gZq50NX43MuoXzzcfEk8PIod97nmJs0qDTMvtemcN+vwyCXXG/fbnEvRET6H7T+oJvsswK2vu7kEeuvn3QM8ZIWiphg3qo1SakXa04boj8pX4BjlmK/kTgGNmDX9HgH6h0xBhh4Z5NN6+Aat0LBt5eJ0+6wVOkpMZEhrHK93Xdva401xzcMoWKpuGtS2/rRpvP4ky9/UDEE0aO1UI6E2yqdvTLw5ynB6YwiPNUAK6tfNId4W8lQtp03MS7MEiPLGLYfqSEat+RC6U6iWG8nnfJK7TY2AUVzVzYAKw2o2+W4N0WhZ7k6gCQkoNKWF4SkVibgNeajLOwSXTWiUzUkS8JZ86W8=;mNXjSuvlm+lv/eckR88WHg=="
 ---

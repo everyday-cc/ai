@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "5 AI Trends to Watch out for in 2022"
+    excerpt: "Multi-Modal AI and Large Language Models are among the breakthroughs are among the breakthroughs that will keep AI moving ahead in 2022."
+    publishedDateTime: 2022-01-04T16:00:00Z
+    webUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 41
+    images:
+      - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
+        width: 918
+        height: 1024
+        isCached: true
+  - title: "Top 10 Artificial Intelligence Stocks Set for a Bull Run in 2022"
+    excerpt: "Investors should be aware of the top ten artificial intelligence stocks that are set for a bull run in 2022. AI-based companies are determined to provide highly profitable AI stocks for bull run."
+    publishedDateTime: 2022-01-03T09:00:00Z
+    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-stocks-set-for-a-bull-run-in-2022/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 39
+    images:
+      - url: "https://www.analyticsinsight.net/wp-content/uploads/2022/01/Top-10-Artificial-Intelligence-Stocks-Set-for-a-Bull-Run-in-2022.jpg"
+        width: 900
+        height: 500
+        isCached: true
   - title: "Beyond COVID: Biotech And Health Care Trends To Watch In 2022"
     excerpt: "The pandemic drew unprecedented investment to the health sector, but the industry’s momentum really comes from tech advances and regulatory changes, insiders say."
     publishedDateTime: 2022-01-04T13:30:00Z

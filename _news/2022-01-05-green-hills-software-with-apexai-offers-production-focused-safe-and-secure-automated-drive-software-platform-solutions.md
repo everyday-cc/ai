@@ -36,20 +36,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "Artificial Intelligence Technology Solutions Secures SOC 2 Compliance"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type"
-    publishedDateTime: 2022-01-04T13:42:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/soccer-technology-sports-business-artificial-intelligence-5aff84712a7688108f589d493b8fd996"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "SIERA.AI Announces $6.8 Million Seed Funding Round"
     excerpt: "Connected Industrial Mobility leader, SIERA.AI, announced the completion of a $6.8 million seed funding round. The funding round was supported by Parkway Venture Capital, a New York venture capital firm and Ubiquity Ventures,"
     publishedDateTime: 2022-01-05T16:27:00Z
@@ -64,6 +50,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Artificial Intelligence Technology Solutions Secures SOC 2 Compliance"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type 1 examination. This achievement reflects"
+    publishedDateTime: 2022-01-04T12:40:00Z
+    webUrl: "https://www.djournal.com/artificial-intelligence-technology-solutions-secures-soc-2-compliance/article_ae65b57f-6adb-54de-b9a0-a9152d1d2096.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 17
 
 secured: "HrFKfB46VQ2/0YgkhvdHU/+3kN02yZxsVPEgR7/fxePzzxhIwT8q2TfqAXpeisULGgtiSfxVE7FY/xEm4m+OT3NU0Uah2HbfIJlYvqtBiQmphoa3wtS8qnl1y3GupwHQBRn7YfbtEoveut9EVwyAwbcKoNEi6TBGvK3vg1fWM5R4Gn4S82jRd+8BtmctaSEV7jGv0/wHVhCOGeayfK1WYMLOlvClytFVFaAXhqonNZxvD+FLyjA76UjNydItMxrtgJcFpQlji0o8bQDGjKoOa/d7aZqy4dHCxlv6ZRpRPNjWYa/imu+pSElBdggiZUq2jB24J7xT5tE4evR1rDrgzZ57jdHPQMHOw7o2UuQmIt+m6728ie0Ecdip5BcsRyfRHijQ0wLBeaSeyQcQR+43ZmolC5U/uszSvjKaPOtn1cfDNtPKBZn44p3ugOYsb21Dki7V1A+xJaAwYu6uk9ZO7YLE/xZTpANphwVWitDZSoghjp0EOWyAnkFwUvYOyuAe+hFFwUMK5qqL7yokbk7H/Q==;dTfTvtX8mHmgciXmH5q3hw=="
 ---

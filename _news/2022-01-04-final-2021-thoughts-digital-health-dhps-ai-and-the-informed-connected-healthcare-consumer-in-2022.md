@@ -75,20 +75,6 @@ related:
         width: 750
         height: 400
         isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market"
-    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering.The healthcare artificial intelligence market is expected to reach USD 44."
-    publishedDateTime: 2022-01-04T12:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-01-04/global-healthcare-artificial-intelligence-market-2021-to-2026-rising-investments-in-advanced-dru"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
     publishedDateTime: 2022-01-04T15:41:00Z

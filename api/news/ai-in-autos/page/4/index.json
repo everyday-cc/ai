@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-08-focus-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
+      "title": "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race",
+      "excerpt": "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
+      "originalUrl": "https://www.reuters.com/article/alphabet-waymo-idUSL1N2R80CD",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/rHX0XRhoxv2jlP3Cl9R9TkKoGhk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P24VXENWUVLHRBQ5MHF5O3ZDWQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
+      "title": "Waymo’s slow-going in Arizona opens up U.S. robotaxi race",
+      "excerpt": "Alphabet Inc's Waymo risks losing its lead in the U.S. race to prove robotaxis are a viable business as it sticks to a limited service and rivals backed by automakers near their own",
+      "sourceUrl": null,
+      "webUrl": "https://kfgo.com/2021/12/08/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/",
+      "originalUrl": "https://kfgo.com/2021/12/08/waymos-slow-going-in-arizona-opens-up-u-s-robotaxi-race/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2021-12/08/2021-12-08T132723Z_1_LYNXMPEHB70NY_RTROPTP_3_ALPHABET-WAYMO.JPG",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T04:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KFGO",
+        "domain": "kfgo.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-how-ai-powered-banking-is-impacting-revenue.md",
       "title": "How AI powered banking is impacting revenue",
       "excerpt": "Artificial intelligence (AI) continues to entrench itself in financial institution infrastructure, and many credit unions are turning to AI to solve call center and overall member communication challenges.",
@@ -1288,83 +1383,6 @@
       "provider": {
         "name": "Zawya",
         "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-27-itll-be-a-while-fully-automated-driverless-cars-are-further-away-than-you-think.md",
-      "title": "It'll Be A While: Fully Automated, Driverless Cars Are Further Away Than You Think",
-      "excerpt": "Thus was born Google's Chauffeur project, now Waymo. \"Imagine ... all of the hurdles still to be overcome are related to artificial intelligence-related driving. There's cyber-security.",
-      "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
-      "originalUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.motortrend.com/uploads/sites/11/2019/01/Autonomous-State-10.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/features/driverless-autonomous-cars-timeline/amp/",
-      "publishedDateTime": "2021-11-27T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report.md",
-      "title": "Baidu’s Robotaxi Service Approved For Commercial Deployment in Beijing – Report",
-      "excerpt": "Baidu (BIDU) and self-driving startup Pony.ai can proceed and launch paid driverless robotaxi services in Beijing. According to a report published by Reuters, the two companies have secured the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report",
-      "originalUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report?amp",
-      "publishedDateTime": "2021-11-26T06:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

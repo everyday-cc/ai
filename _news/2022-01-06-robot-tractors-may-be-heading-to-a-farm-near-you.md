@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Robot tractors may be heading to a farm near you"
-excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
-publishedDateTime: 2022-01-06T09:44:00Z
-originalUrl: "https://techxplore.com/news/2022-01-robot-tractors-farm.html"
-webUrl: "https://techxplore.com/news/2022-01-robot-tractors-farm.html"
-ampWebUrl: "https://techxplore.com/news/2022-01-robot-tractors-farm.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-robot-tractors-farm.amp"
+excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
+publishedDateTime: 2022-01-06T02:35:00Z
+originalUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
+webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
 type: article
-quality: 59
-heat: 89
-published: true
+quality: 41
+heat: -1
+published: false
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/john-deere-unveiled-th.jpg"
-    width: 1024
-    height: 682
+  - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
+    width: 768
+    height: 512
     isCached: true
 
 related:
@@ -65,6 +64,6 @@ related:
       domain: courthousenews.com
     quality: 19
 
-secured: "kvkBdUEA6GOWhPuUYh0bvwCDPBeTAz0alBn1IeMsqlyS9BEwsnt3EM+HtLze8ec+iSmzBP0s/V+O82R+MoEcbiJhm/r2CbPi8UlJ792yQV+1s9DVYDFEU7tu4wOK8BiV+kMnLQC/B+UXHFSqaGDb+l1IoVH/Llo5MYfAbxOcsAKvYCGTJL1ZPx2zZOXv9Kslduj8Nvz6SBy9pwJHIp2O1oMM+WiwuMLnpEDkJujON3jt01euShSMxMyImY6XJ+kDrjJQ4tlYE6gxGWlxJDfQ3Fgi/rmmw7IxpUAedXfw2E2bVxTqlXEb8anqfJGnM/wctgj8mAeU497iPXw2ItHWJvJ7KI/Pqa98kB9rxhrJQU8=;OeiuZguypJfVct/2ZdzoVw=="
+secured: "fXer4OSmt5Yic2wP2Mkh5gFKBdRZk2mPD5ztcBFzYKvi0+ZZQh1qD9IRfAbzBPYOmxkTD5RMpg2R8qrAiaa7uW3D01QZrYIfIS2hyvIK7Cp05IrA+uY2ffvVjdXBc2xpCMC8W4XD79l/83m+WzpLLMW1qE6jjj2c0UCjBD6wwCjAN80pTvqco5k4Jdmt447ddOydR/WFO84PB7cD5B18T00qCMhcfKH2+n37om9t5NLC0t2VdEksxHyIZ45gDz2lnXPMIb9LfSyYPrrpmnOkiZq6XShdryb1hgE21BUuzPAvkFZHwNwg7HgYX8TuhGGgYR0Q7J7ZNF4EtulzmWp3mWYVsH/pMVWRm6hFzddTy08=;7rXiekoXhjqvu3/2YnWTVA=="
 ---
 

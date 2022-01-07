@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/ai-in-manufactu
 webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -40,15 +40,6 @@ related:
         width: 2560
         height: 1600
         isCached: true
-  - title: "Cloud Security Alliance Releases Guidance on Use of Artificial Intelligence (AI) in Healthcare"
-    excerpt: "The Cloud Security Alliance (CSA), the world’s leading organization dedicated to defining standards, certifications, and best practices to help ensure"
-    publishedDateTime: 2022-01-06T17:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220106005239/en/Cloud-Security-Alliance-Releases-Guidance-on-Use-of-Artificial-Intelligence-AI-in-Healthcare"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
   - title: "Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned"
     excerpt: "In the recent MEP National Network™/Modern Machine Shop webinar \"Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned,\" Andy Carr of South Carolina MEP (SCMEP) and Delta Bravo Founder and CEO Rick Oppedisano discussed AI solutions that work best for small and medium-sized manufacturers (SMMs)."
     publishedDateTime: 2022-01-07T16:18:00Z

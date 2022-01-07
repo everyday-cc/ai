@@ -24,19 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Medical Moment: Artificial intelligence prevents dementia?"
-    excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. It’s all the buzz in the healthcare industry right now. It’s already in the operating room with robot-assisted surgeries and behind the scenes safe-guarding your private health records."
-    publishedDateTime: 2022-01-07T00:50:00Z
-    webUrl: "https://www.wndu.com/2022/01/07/medical-moment-artificial-intelligence-prevents-dementia/"
+  - title: "This Is How AI Content Marketing Will Shake Up 2022"
+    excerpt: "With the embers of the outgoing year fizzling out, businesses are already gearing up and getting ready to take 2022 by storm. The need to seek out alternatives to standard-issue messaging — to stay relevant — is not an option,"
+    publishedDateTime: 2022-01-07T18:25:00Z
+    webUrl: "https://www.timesunion.com/business/article/This-Is-How-AI-Content-Marketing-Will-Shake-Up-16757547.php"
     type: article
     provider:
-      name: WNDU
-      domain: wndu.com
-    quality: 43
+      name: Times Union
+      domain: timesunion.com
+    quality: 54
     images:
-      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/yHYXahwuYrNxszKkMAELOAaEGUE=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/NKRZUIWK35EXZLRJ2HILUXZEMY.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.hdnux.com/photos/01/23/41/25/21894520/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "The Shift to Generalized AI to Better Identify Violating Content"
+    excerpt: "Addressing content that violates our Community Standards and Guidelines is one of the top priorities at Meta AI. Over the past five years, AI has become one of the most effective tools for reducing the prevalence of violating content,"
+    publishedDateTime: 2022-01-05T14:04:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-shift-to-generalized-ai-to-better-identify-violating-content/12399/"
+    type: article
+    provider:
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 37
+    images:
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
+        width: 270
+        height: 270
         isCached: true
 
 secured: "+PflJBFTX3QCyTdwoKyDVgqz32biwn1AVbs1hLUFeF5QWydfnJqzyoE4PO7wnhtfQr3vTOGLqjw11KfBo6AKGN5HUiawREGDl34AmtfVDroK+QuoCZfsXP+Mg2K/it9spsTlKiKzQf5wz97WQaHw0nNfCGA31kcthw2O/DSo0qAH8Tj6YYgY7pq2rZXcCNj7hOWF4pSalz9KX1VU+tBCUybQFo45m2ivUDzTOPPibTnJSRYqCOuSCf9ypnUfEM78xaYZfLgLKw9oaIi8FiDMdF8j9y+rz/NwDIjGl02CWfJNWAS/fsqv72XGymGpzcLsGl8RW1xv9yFNPnrX1ukjimtnpvH8L4hfOh3hU6gOLFo=;1xJQzqr0tYSRSTQMIlvWDw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp"
 type: article
 quality: 54
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -141,6 +141,15 @@ related:
         width: 740
         height: 422
         isCached: true
+  - title: "Tenet Fintech Group Inc.: Tenet CEO to Provide Business Update and Address Recent Stock Performance in Q&A Interview"
+    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the"
+    publishedDateTime: 2022-01-07T18:32:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54922290-tenet-fintech-group-inc-tenet-ceo-to-provide-business-update-and-address-recent-stock-performance-in-q-a-interview-296.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "07LcPz1Fw3t4J6efqW8sT8SqUqKiDQN5RrS7PRv0sG/sExshnQUecCSqLS84KKTzf9aXzVWJJQV9FUU3NQPp5ZQj2ZtD3DvgYUQPVjHWFS3vW8zt11t+0KiWWwhwaYb8EC2dNQSz/sPD4GhJh/gFhX/LPaRVdJhc2MXCeFhTSR6RpKqYQZAGrtCrwt3U5Kr3R2TkhJPL5uJXQ8yCV+FbOoRko1ZKOFRVIyIlXJIR6cwTTcrG716q7kZPp9qCldIU4K4OxoA6fMRz6Q5CcGRNMtG+Au2ne8WEXvJ9oO+JSOm1S92uxMMyWMfr3mBovGTPCY7uTCupggbys1SCDju1dK6xLvxPtPP8ppfIqPt4vkE=;TYAIBa5E7URvHHi6EOWicA=="
 ---

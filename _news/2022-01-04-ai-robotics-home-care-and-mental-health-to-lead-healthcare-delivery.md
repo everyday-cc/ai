@@ -7,7 +7,7 @@ originalUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-
 webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
 type: article
 quality: 86
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg"
         width: 750
         height: 400
-        isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market"
-    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering.The healthcare artificial intelligence market is expected to reach USD 44."
-    publishedDateTime: 2022-01-04T12:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-01-04/global-healthcare-artificial-intelligence-market-2021-to-2026-rising-investments-in-advanced-dru"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
         isCached: true
   - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
     excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
