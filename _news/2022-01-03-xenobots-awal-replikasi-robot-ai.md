@@ -71,20 +71,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "robots, automation, AI and who owns the future"
-    excerpt: "Since corrupt people unite amongst themselves to constitute a force, then honest people must do the same.” Leo Tolstoy Today’s piece began with a stack of books and an idea."
-    publishedDateTime: 2022-01-03T18:31:00Z
-    webUrl: "https://www.linkedin.com/pulse/robots-automation-ai-who-owns-future-bruce-mctague"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGdxowTzByHvw/article-cover_image-shrink_600_2000/0/1641219112833?e=1646870400&v=beta&t=sMCb4adtY3E2mceP9iA8IDW1I6LLuZoGHCXoqCwvp-w"
-        width: 544
-        height: 306
-        isCached: true
 
 secured: "AWMxqgs6v4gMARrgpzs5WaUO71qlsZssRn9bHAjKpENok8AiMxqonPIj1PR3TisY7yZ8KLYakRocpNLxUe9XsgwymbLANYTWDETUivxS0870sMSyrrXLEb99wSlrFWm+qkkUoOrWNR9AmaPlzcHDnRgFD2lFKhOgUc7yj2cr1b4gciJCQeC3/Vx8uSGv94+1P5WC93si+4TNkyXrRlZd2AE/wZmSfyPFQNcFCRiR1SqVAYp/6kmklzu1j038cXMWMCIoPnyKMwNbuU8SjRbQOFgT/5iTiE/mIQy3mSnnt7lF6zFORKfSruQXVkPC9UWLsk1QGtZoJA2UyFzTWoa5jz88tPRZ4E9YE6XsdSIA5DGTLGJbpDzX3dDOR6bjWUWNqpfwiZnmy0s1qWK+mBjPqVt1eOYmCkhvjQhiN+eKJL99p1lZCsIlYxX58CrFY/7DpAWOcXD4fBkktKAM6HzPIiXwWyox6f7UtV7FCYGqWtD67lNxktnnyQZum6eNE+TT4FPgGXpCZN9Jyib/bqKSSw==;s3ud9utdGPJUMepEaSG5uA=="
 ---

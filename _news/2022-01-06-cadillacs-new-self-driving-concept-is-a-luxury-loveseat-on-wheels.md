@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
 type: article
 quality: 74
-heat: 135
+heat: 136
 published: true
 
 provider:

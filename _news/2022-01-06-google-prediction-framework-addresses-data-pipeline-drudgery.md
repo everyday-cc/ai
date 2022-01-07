@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3646429/google-prediction-framewor
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

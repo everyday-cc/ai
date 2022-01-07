@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in"
-publishedDateTime: 2022-01-07T02:19:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/insilico-medicine-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-889862028.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/insilico-medicine-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-889862028.html"
+excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in the 40th Annual J.P. Morgan Healthcare Conference. Alex Zhavoronkov,"
+publishedDateTime: 2022-01-07T10:55:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=596729"
+webUrl: "https://us.acrofan.com/detail.php?number=596729"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1538694/Insilico_Medicine_Hong_Kong_Limited_Logo.jpg?p=facebook"
-    width: 2249
-    height: 1179
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
     isCached: true
 
 related:
@@ -94,6 +94,6 @@ related:
       domain: tmcnet.com
     quality: 12
 
-secured: "s65h9bLlN1SzVv9BAiKXovEbxEYFRgTysFFNtIIgOzz0/ItqEOYBTAAIo6svnktNHWoQoYdyPECbBEU4beUNQOmwzpP+WdNLiC/DQotWUvdD42QIUPcEUUkPWxWQUxEYrgB3beFZ6bESBPcZJX0I0V7lRH1bQ8i3NLlBp8ZyU80yNTe5edwmJj2GoBQ7FenIS4H1d6fujCCPTAsU1h5cOa7JPVfd8vDGcaV7yye3So4A/2UwHdEEXqgDCVhO5L4wKAgbW2kXxDCVhw3BUrSyBdI6J8+REq8GqjIoYiFsVp6nZvyRSR4yXMM980OpZyTgJkiQOI+jDKghdXjrPutXjykJ1+7DAw/U88VEIGFlYIo=;uidxZN9dji0j0hQD3R1bzQ=="
+secured: "xwwU7xOVs1rEAnICvIv2kQ6uX5fDFVG0r5aEZdDcwAwmMpJg2HkM1wmobWb+3TIZ8NGY9rdWAcn8ah6+tSjjQEFQq5P1eiFcKCCaQ+31kMnN3Wdtz+SW9clbkAC7tMwOuYXS8i4hr7zpOblsnDuBKmwOwviZrgrtWYxEM2w1kB/PQP6z5IqfVJBZ3Q4J7iLauYJsOSAuR9YTakC9VsLkEYGFiZhGJ6Pw/lajvbv5A7U6bAC/kEJtEEijCpXKcKhE4kGr28rrrwAyat+LaR4fHSmgova/aZf49zuLaVpDHY0NWSBuJbjRZMEzN8I+oz8F+wXSYwj4jnOmB80NgWYr9iZz0eG3wADjiugrvZtKK94=;4d51ZV0w1UI2kkqqN2xGdw=="
 ---
 

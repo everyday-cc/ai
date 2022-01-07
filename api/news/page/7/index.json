@@ -2,6 +2,155 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-30-us-blacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut.md",
+      "title": "US-blacklisted AI firm SenseTime shares jump 23% in Hong Kong debut",
+      "excerpt": "Chinese artificial intelligence startup SenseTime jumped as much as 23% from their IPO price as they debuted on the Hong Kong Stock Exchange. The startup had raised $740 million in its IPO and priced its shares at $0.",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "originalUrl": "https://inshorts.com/en/news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/30_thu/img_1640841454164_313.jpg?",
+          "width": 1006,
+          "height": 1629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/usblacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut-1640844563640",
+      "publishedDateTime": "2021-12-29T22:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-looking-back-on-2021.md",
+      "title": "Looking Back on 2021",
+      "excerpt": "It's that time of year again. You know, the time where you start to question everything you are doing with your life, wonder if you have achieved anything at all - and desperately try to fill in your quarterly review forms with the words \"What was my impact?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/looking-back-2021-michelle-sandford",
+      "originalUrl": "https://www.linkedin.com/pulse/looking-back-2021-michelle-sandford",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQG9G1db4qVsZg/article-cover_image-shrink_720_1280/0/1640665123412?e=1646870400&v=beta&t=3EIRwk89uk3naAHwI5JhLIBrwj0R9SXyHXf7GdBaGyA",
+          "width": 1277,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-2021-was-a-breakthrough-year-for-ai.md",
+      "title": "2021 was a breakthrough year for AI",
+      "excerpt": "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
+      "originalUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
+      "publishedDateTime": "2021-12-29T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-ai-powered-stock-fund-bails-out-of-mega-cap-fang-names.md",
       "title": "AI-Powered Stock Fund Bails Out of Mega-Cap FANG Names",
       "excerpt": "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship.",
@@ -438,8 +587,8 @@
       "title": "Volkswagen improves the voice recognition rate of the Golf",
       "excerpt": "A more streamlined interface alongside an improved voice recognition system are in store for new examples of the Volkswagen Golf. The Volkswagen Golf will soon get an improved infotainment system. Due to go into series production in the next few weeks,",
       "sourceUrl": null,
-      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
-      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
+      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
+      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1032,119 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-for-personalized-financial-services.md",
-      "title": "Global AI and Advance Machine Learning in BFSI Market Report (2021 to 2030): Increasing Preferences for Personalized Financial Services",
-      "excerpt": "The \"AI and Advance Machine Learning in BFSI Market By Component, Deployment Model, Enterprise Size and Application:",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24809416",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24809416",
-      "publishedDateTime": "2021-12-29T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
-      "title": "Ethical impact of AI on health, safety and wellbeing",
-      "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740",
-      "originalUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32891.pcdn.co/wp-content/uploads/2019/10/GettyImages-1051617224.jpg",
-          "width": 800,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp",
-      "cdnAmpWebUrl": "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/?elq_mid=6740&amp",
-      "publishedDateTime": "2021-12-29T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SHP Online",
-        "domain": "shponline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-is-c3ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs.md",
-      "title": "Is C3.ai Stock Finally a Buy After an 85% Decline From Post-IPO Highs?",
-      "excerpt": "Stock Market News, Stock Advice & Trading Tips. Years ago, I watched an interview with Tom Siebel, founder and CEO of C3.ai (NYSE:AI). I was completely enamored wi",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs",
-      "originalUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/is-c3.ai-stock-finally-a-buy-after-an-85-decline-from-post-ipo-highs?amp",
-      "publishedDateTime": "2021-12-29T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

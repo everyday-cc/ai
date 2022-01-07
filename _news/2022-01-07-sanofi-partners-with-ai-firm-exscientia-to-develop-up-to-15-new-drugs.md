@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Sanofi partners with AI firm Exscientia to develop up to 15 new drugs"
-excerpt: "French drugmaker Sanofi SA will partner with British AI firm Exscientia Plc to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to $5.2 billion in milestone payments,"
-publishedDateTime: 2022-01-07T06:27:00Z
-originalUrl: "https://www.fxempire.com/news/article/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs-858898"
-webUrl: "https://www.fxempire.com/news/article/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs-858898"
+excerpt: "French drugmaker Sanofi SA SASY.PA will partner with British AI firm Exscientia Plc EXAI.O to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to $5.2 billion in milestone payments,"
+publishedDateTime: 2022-01-07T05:01:00Z
+originalUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs"
+webUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs"
+ampWebUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs?amp"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 107
+published: true
 
 provider:
-  name: FXEmpire.com
-  domain: fxempire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
-
-images:
-  - url: "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/01/tagreuters.com2022newsml_LYNXMPEI0605T1.jpg"
-    width: 600
-    height: 400
-    isCached: true
 
 related:
   - title: "Healthcare group Sanofi forms research deal with the company Exscientia"
@@ -66,7 +62,16 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sanofi, Ex­sci­en­tia ink the next AI megadeal, sign­ing terms on a $100M up­front pact with up to 15 drugs on the line"
+    excerpt: "Drug R&D has for years had an abysmal track record of success, with the vast majority of drug candidates never making it to market. The promise of AI to shorten the discovery time for new drugs and up"
+    publishedDateTime: 2022-01-07T06:01:00Z
+    webUrl: "https://endpts.com/sanofi-exscientia-ink-the-next-ai-megadeal-signing-terms-on-a-100m-upfront-pact-with-up-to-15-drugs-on-the-line/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 0
 
-secured: "fi4vg9JtgE49fQKRTzsCHJLO2nH9EAYXmPyO8gyd0LXhu8AH2MNVsGpfUycZlCPe44w+D6ogQ0XSnaSSbqBUjepzg8Dq6wMiJWLKhsPa4e//i4Odz+hqmPp8VfPwdCaOUnBA3nIzfuTkMmfW5sc37tKCHNrfW4RUYiKSAYRvaNhh4BCh2pI9M5yWafQ+Vx1zRHf3187ksuWKiaQKkCYBIoU8OCVDya3SF69T9ScouSNT4Sv2pgy8J3zOFVWDhY56JCQ9ESoFHZSfxjVmVVR9kegZuLDPaic04ui4GkbVsRXs6HZMZnaJyi9NgEVWxv1PMfTk6ABtZJtxsh9rY17APcHk81FQDs6VWEce1aeuYAw=;HYpn/y72TFfX653tUv7XaA=="
+secured: "cOiIuU5fj7YFPOqOMxx7o/PEKaKHcOuRmnSAUBCKvKORLpO9I1+g8NpJRwq4st5nxkxr34DGlaRnb7rATzT2EUSX0+vNDe/h2z6MfdTvLYOEAIxpXgcl7P7/GUoe3xdpuw7xEpF8VdsTA7cvBDYSqfiLEQ4W9qf2NWGuMkM5RDLEiemXPsz/HEj3neXCeFKM6EhtKMVHREwdLBheFaI55mDfbzCWBE/WmTse6LCo3KOmUn+GwBZqC+SqtCpF5KYz/BETUo+MejDkRHfyM04gKurE+rSOFF+aOq074oFrgV8RYopzlKWs+KgdSYpvIlCsExWGvZGvuQDFVYZLSCTAwK5DdBQFFnZ4NEPfRNexbt8=;8ABGp2naPpBxN83LBseWdQ=="
 ---
 

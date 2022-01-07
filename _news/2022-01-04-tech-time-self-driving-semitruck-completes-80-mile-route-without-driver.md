@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Self-Driving Semi Truck Has Completed An 80-Mile Journey With No Human On Board"
-    excerpt: "Advertisement Last June, a transportation company worked on driverless tech for trucks and managed to complete a 950-mile (1,528-km) trip 10 hours faster than a human driver could. At the time, eighty percent of the journey was conducted by the autonomous system,"
-    publishedDateTime: 2022-01-02T18:18:00Z
-    webUrl: "https://wonderfulengineering.com/this-self-driving-semi-truck-has-completed-an-80-mile-journey-with-no-human-on-board/"
-    ampWebUrl: "https://wonderfulengineering.com/this-self-driving-semi-truck-has-completed-an-80-mile-journey-with-no-human-on-board/amp/"
-    cdnAmpWebUrl: "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-self-driving-semi-truck-has-completed-an-80-mile-journey-with-no-human-on-board/amp/"
-    type: article
-    provider:
-      name: Wonderful Engineering
-      domain: wonderfulengineering.com
-    quality: 37
-    images:
-      - url: "https://wonderfulengineering.com/wp-content/uploads/2022/01/imgonline-com-ua-resize-Nkv6c5oLCD.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "Self-driving autonomous truck run completed in Arizona"
     excerpt: "Autonomous truck tech developer TuSimple says it completed an 80-mile trip with a Class 8 truck \"without a human in the vehicle and without human intervention.\" Also: Truck parking info signs added on Indiana Toll Road;"
     publishedDateTime: 2022-01-04T19:08:00Z

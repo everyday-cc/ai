@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-net
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: SourceSecurity
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Grid Dynamics Recognized as AWS Advanced Consulting Partner"
+    excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced that it has been recognized as an (Amazon Web Services) AWS Advanced Consulting Partner."
+    publishedDateTime: 2022-01-06T21:07:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-b4f5a20ff9c14b408b3f71caba817269"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "HFCL powers its Network offerings with AI, joins hands with Aprecomm"
     excerpt: "HFCL Limited, has announced powering its network offerings with Artificial Intelligence (AI) based Analytics, partnering with Aprecomm, the leading AI-powered Wi-Fi analytics technology provider."
     publishedDateTime: 2022-01-06T08:43:00Z

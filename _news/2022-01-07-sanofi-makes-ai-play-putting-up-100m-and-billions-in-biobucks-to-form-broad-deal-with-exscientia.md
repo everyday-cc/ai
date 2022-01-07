@@ -24,6 +24,17 @@ images:
     isCached: true
 
 related:
+  - title: "Sanofi partners with AI firm Exscientia to develop up to 15 new drugs"
+    excerpt: "French drugmaker Sanofi SA SASY.PA will partner with British AI firm Exscientia Plc EXAI.O to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to $5.2 billion in milestone payments,"
+    publishedDateTime: 2022-01-07T05:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs"
+    ampWebUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Healthcare group Sanofi forms research deal with the company Exscientia"
     excerpt: "French healthcare company Sanofi, which has been under pressure to revive its drug pipeline after some setbacks in the COVID-19 vaccine race, announced on Friday a research deal with the company Exscientia to develop new medicines."
     publishedDateTime: 2022-01-07T06:44:00Z
@@ -37,20 +48,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--VLEtxmPC--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-01-07t064223z_2_lynxmpei06064_rtroptp_3_sanofi-results.jpg?itok=gm1J4PRI"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Sanofi partners with AI firm Exscientia to develop up to 15 new drugs"
-    excerpt: "French drugmaker Sanofi SA will partner with British AI firm Exscientia Plc to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to $5.2 billion in milestone payments,"
-    publishedDateTime: 2022-01-07T06:27:00Z
-    webUrl: "https://www.fxempire.com/news/article/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs-858898"
-    type: article
-    provider:
-      name: FXEmpire.com
-      domain: fxempire.com
-    quality: 37
-    images:
-      - url: "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/01/tagreuters.com2022newsml_LYNXMPEI0605T1.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Exscientia and Sanofi establish strategic research collaboration to develop AI-driven pipeline of precision-engineered medicines"
     excerpt: "Collaborative efforts aim to accelerate drug discovery and improve clinical success Agreement to utilize Exscientia’s AI-based capabilities and personalised medicine platform from target identification through patient selection Research will be focused on up to 15 novel small molecule candidates across oncology and immunology Exscientia will receive an upfront cash payment of $100 million with the potential of $5."
@@ -66,6 +63,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sanofi, Ex­sci­en­tia ink the next AI megadeal, sign­ing terms on a $100M up­front pact with up to 15 drugs on the line"
+    excerpt: "Drug R&D has for years had an abysmal track record of success, with the vast majority of drug candidates never making it to market. The promise of AI to shorten the discovery time for new drugs and up"
+    publishedDateTime: 2022-01-07T06:01:00Z
+    webUrl: "https://endpts.com/sanofi-exscientia-ink-the-next-ai-megadeal-signing-terms-on-a-100m-upfront-pact-with-up-to-15-drugs-on-the-line/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 0
 
 secured: "jNXnUL46kRN4gExQM5Gz4DUCDcHFnhUC6TUGFyPjiO2y7ZRJd+FQdrWYawND04qPOeq1/Bh3GCyt7PqBThqykEzL7viZOGqOJEaH8rhNjhdOxBFKQAEHw6rVn0GUHaEwuPDPg0oOlgZD7P1ROE86PcH1CtsC5jfOTU+PjeRR0LslN/ucnRQ8RcXUcjwSKtQgdMbkQNcAvzjWNgBhrX3q0HEbVch2n/+Cf26BdwNqxtsNU5RwpFgPtmzvNLIQ79AGcEgnxSMpPwL5kqR1lWjb++I040ueoJZKVxs8qEjVssVIHDa7gMoZI9KxzwV2vp88U3EfrCsCD5semxUEuNCuavpduomuKJf77SqRcU+jf9M=;SooxgvC4gcMwy4CrTwCcvQ=="
 ---

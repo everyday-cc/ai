@@ -1,31 +1,27 @@
 ---
 category: news
 title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
-excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world's leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
-publishedDateTime: 2022-01-06T16:07:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/keenon-robotics-showcases-full-line-up-of-service-robots-at-ces-2022-1031082044"
-webUrl: "https://markets.businessinsider.com/news/stocks/keenon-robotics-showcases-full-line-up-of-service-robots-at-ces-2022-1031082044"
+excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
+publishedDateTime: 2022-01-06T16:01:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-lifestyle-business-travel-robotics-67dee87015347605abe336102b739cc2"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-lifestyle-business-travel-robotics-67dee87015347605abe336102b739cc2"
 type: article
-quality: 84
-heat: 114
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1721262/KEENON_ROBOTS_CES2022_1.jpg"
-    width: 400
-    height: 301
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -45,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
-    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,"
-    publishedDateTime: 2022-01-04T11:13:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 39
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
-        width: 400
-        height: 510
-        isCached: true
   - title: "Creepy meets cool in humanoid robots at CES tech show"
     excerpt: "A lifelike, child-size doll writhed and cried before slightly shocked onlookers snapping smartphone pictures at the CES tech show."
     publishedDateTime: 2022-01-05T22:40:00Z
@@ -74,6 +56,6 @@ related:
         height: 682
         isCached: true
 
-secured: "UbFmCW8294L952jX4nd8aNlHoUPz4LOGGyUnKo/y8uEWMCCvMQ4/M2l7Iltugm9nAqzo/MTUKYaxgv2lIeiYo2zjmw4fzGvwlQ3Li3FpBuGsLc7qMtVGUBHtyEHmBDbu51eTwMAamm0rCaBBsXHLL7WV3huXPuzEQW8+K8wlY0CDN5liw4mXwtZavAWs+veH1U4XMhqoQ+B88uxjqCiU/nDUIUdjC5O8PT28vyNqeKuRhuHXNgAYmEAXyL4J3t282EQ7RtV+LpUBpHOwHPO9z8h0Vpk6s0OyV9BP1SxKL3MrwvBK5UzXmWPrxVTXvloxUKQ+/W88OMwUF4MeTB+3tvYTxb6+0ZZ573cJgAXtxw0=;G/5Q8rnuEBMaQvwUfUCTcg=="
+secured: "axwZeBkmc98nz2or6kuC/yrF48ARtrou057QqzLFL3P1NIsE9QJndtUpM6HaMByjEpXxdHvPHksPvstlJ3r8HzVjN+DBU81+xRYmQzpFQzpsWGMPzQTjlEeiaAN0Q3KYGMdpn/rlXcajyssRD0XMap6yqADXbRXdl7ZXYuJdXuEvqGrTJi0ftbgDzu8q5sk0BrJy4RRGJD2E7m2jYRKG9517ZFonNg6X5wJyS0HPhSwDSMRLODwjUY/dCQvepq7d8x9sJXWOL6V4v/W49l5jouUI7SCYvZNkYsRAixT1qL1UbBtWODe3mDurqrkKTG+VSX/hsjaB7QQQD5SKUfFLCe9WnaqNPgSni2RGSvzu8vY=;oyt5lHkmzFUuSvjeeilqdQ=="
 ---
 

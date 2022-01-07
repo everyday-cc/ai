@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Ulisse Launches the Only Radar and Computer Vision Platform to Transform Every Physical Space Into an Intelligent Place"
-excerpt: "is launching the only radar and computer vision-based IoT AI platform to help retailers, businesses, cities, and more turn their spaces into intelligent places to improve overall experiences and ..."
-publishedDateTime: 2022-01-05T14:07:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54900688-ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54900688-ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place-200.htm"
+excerpt: "The company’s proprietary AI and IoT technology is ‘privacy first,’ allowing for both anonymity and accuracy; learns from surrounding environment and people’s behavior to deliver better analytics, experiences,"
+publishedDateTime: 2022-01-05T14:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/space-launches-technology-business-351c6b3e1faf5df837091a4870af2f78"
+webUrl: "https://apnews.com/press-release/accesswire/space-launches-technology-business-351c6b3e1faf5df837091a4870af2f78"
 type: article
-quality: 0
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Ulisse Launches the Only Radar and Computer Vision Platform to Transform ..."
@@ -34,6 +40,6 @@ related:
         height: 628
         isCached: true
 
-secured: "Wk1gZe9yOwzIC+pmReQjp2Yd98VTlQtNbj8IK5P26nWv0FxgH7Tc1ILxgIXGTOLt2Mdm30WkZ8PKOkJJwowAWjmv/OwcK0oqNSn5bC4KDTlBd1KG702vcE+FQDFMYCHyIQMgPI3TJNLDUT38NegK/8T+GJz5uDne0z4wRIdEJHJuf76oo9WGf81OX444jrGMD3jl2Lg0oigVFyL7ZZDKCNEYILkmzGiR95FILn6nD+Mr0zGrE6zvCLRIxLE6em7qMuJmI1w/AZm8vI3qRQfEgV2X4+oCpE/Rk9nus7jV36l/NpjTwoimrQKz9A4/E0ouVaG/5RUpvBR7yPB7/SmgyNTczM4lRp/KRwk8gPN18Uo=;0eMjkjXXd43DLaR1vEMF1Q=="
+secured: "lxsofm8fQa7WdXwZk+7PpIbxuaMtKKYW8JV7ESgZzK5LHePzLf4XVdpvGQ8tmuvRj4W891nUsRdiuonvqq+JX94yNbScg94i8Qrmog4Fp+CYMDthrmtbH78PYZAmkjc5XVVo9nilVWyX1YDcdKUBXNhb66GfNpsGjTFu635IbzfBcD/oaEc0A2dupHLNvc/sqJY5r4kuhF5iz6nWhjfTToIXb1Atf2fg0nKkdFxq21ImPFhzbrJD7Q+eqnVXCbAdI29dv5T2bjFjTXxR8FOax7s/af327ezSzS1/NWMfQBTNTcA3RxJmgUgjUzvGcvGyxDAI8Xle8y20bXBJEEOsxCQoqYggJicGt44R7CmlqBE=;lwhdcw5j2Ipdx9C2ZrPwyQ=="
 ---
 

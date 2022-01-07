@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-07-ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding.md",
+      "title": "AI and Computer Vision platform Avataar raises $45 mn in Series B funding",
+      "excerpt": "Avataar's platform powers the largest global eCommerce marketplaces and leading D2C brands, shaping consumer journeys with life-sized 3D product evaluation coupled with interactive feature discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/06/full/1609874455-1747.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html",
+      "publishedDateTime": "2022-01-07T01:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-us-sanctioned-chinas-top-facial-recognition-firm-over-uyghur-concerns-it-still-raised-millions.md",
       "title": "US sanctioned China’s top facial recognition firm over Uyghur concerns. It still raised millions",
       "excerpt": "SenseTime raised $512m from non-US investors and recently debuted on the Hong Kong stock exchange",
@@ -1341,49 +1384,6 @@
       "provider": {
         "name": "WBOC",
         "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-computer-science-course-listing.md",
-      "title": "Computer Science Course Listing",
-      "excerpt": "and object recognition. An advanced course in computer graphics for students familiar with basic issues in computer graphics. Details on hidden line and surface removal. 2D and 3D curve and surface generation, rendering, illumination, and color models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
-      "originalUrl": "https://www.uml.edu/Catalog/Undergraduate/Sciences/Departments/Computer-Science/Course-Listing.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.uml.edu/Images/Allen-House-river-1400_tcm18-197005.jpg?w=x",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UMass Lowell",
-        "domain": "uml.edu",
         "images": null,
         "publishers": null,
         "authors": null

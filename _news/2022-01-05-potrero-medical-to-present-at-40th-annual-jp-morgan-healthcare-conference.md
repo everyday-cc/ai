@@ -49,18 +49,18 @@ related:
         height: 480
         isCached: true
   - title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in"
-    publishedDateTime: 2022-01-07T02:19:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/insilico-medicine-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-889862028.html"
+    excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in the 40th Annual J.P. Morgan Healthcare Conference. Alex Zhavoronkov,"
+    publishedDateTime: 2022-01-07T10:55:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=596729"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/1538694/Insilico_Medicine_Hong_Kong_Limited_Logo.jpg?p=facebook"
-        width: 2249
-        height: 1179
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
   - title: "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that"

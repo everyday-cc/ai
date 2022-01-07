@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-07-cyberlinks-faceme-brings-best-in-class-facial-recognition-to-bitkeys-smart-office-platform-workhub.md",
+      "title": "CyberLink’s FaceMe® Brings Best-in-Class Facial Recognition to Bitkey’s Smart Office Platform, “workhub”",
+      "excerpt": "(5203.TW), a pioneer in AI and facial recognition technologies, today announced that its FaceMe ® facial recognition solution has been successfully implemented by bitkey Inc. into “workhub,” a connected smart office platform.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-277ccb86edb24e23b37f3183b66638af",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-facial-recognition-isnt-working-for-some-windows-11-users.md",
       "title": "Facial recognition isn’t working for some Windows 11 users",
       "excerpt": "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself.",
@@ -1306,58 +1349,6 @@
         "name": "research",
         "domain": "research-live.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-clearview-ai-a-facial-recognition-company-is-fined-for-breach-of-britains-privacy-laws.md",
-      "title": "Clearview AI, a facial recognition company, is fined for breach of Britain’s privacy laws.",
-      "excerpt": "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/29/business/29clearview-1/29clearview-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html",
-      "publishedDateTime": "2021-11-29T15:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

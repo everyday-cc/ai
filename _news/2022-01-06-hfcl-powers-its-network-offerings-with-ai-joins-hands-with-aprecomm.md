@@ -40,6 +40,20 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Grid Dynamics Recognized as AWS Advanced Consulting Partner"
+    excerpt: "Grid Dynamics Holdings, Inc. (NASDAQ:GDYN) (Grid Dynamics), a leader in enterprise-level digital transformation services and solutions, announced that it has been recognized as an (Amazon Web Services) AWS Advanced Consulting Partner."
+    publishedDateTime: 2022-01-06T21:07:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-b4f5a20ff9c14b408b3f71caba817269"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "LNJCGQIP90fvUJUkWEUM4xTtfDerr7sHTktLMyUZi4wHFmdY7bIT6Ic+O+okbJ7o2idHe6XfwAV08R+7rCYaUUB8Y15LYgagMHQ93HcAPvvm+AwSiriMAWG4vYPBG8+u5KHKaEWN9FSrHexE4AboN1aO3av4bQGJ2GqvaLl22Wq05vI1cKJNZaW+6dnLx00EidKXWrMqAL1s576yev8/oyw+b9A/ZDNvSJWqzyzAFFsa/e1oRdd0Rsd7C3j2SwxnmIIZ9pDbfdiblMBz0iXRNiNgY+DDGlOnSxzJjA8MM981A9FhGDUMEXoCm/hjFJaynLPPvoXOH/sDcLIcsM2ssvkirdTB3j+vBJubG4/EJxw=;6GTNkvbuPb695sK/ml7q6w=="
 ---

@@ -1,31 +1,40 @@
 ---
 category: news
 title: "Robot tractors may be heading to a farm near you"
-excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labour shortages, climate change and environmental protection, while trying to feed a growing world population."
-publishedDateTime: 2022-01-06T17:54:00Z
-originalUrl: "https://phnompenhpost.com/lifestyle/robot-tractors-may-be-heading-farm-near-you"
-webUrl: "https://phnompenhpost.com/lifestyle/robot-tractors-may-be-heading-farm-near-you"
+excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
+publishedDateTime: 2022-01-06T16:57:00Z
+originalUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
+webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
 type: article
-quality: 41
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: The Phnom Penh Post
-  domain: phnompenhpost.com
+  name: Courthouse News Service
+  domain: courthousenews.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Robotics
-
-images:
-  - url: "https://www.phnompenhpost.com/sites/default/files/field/image/a_naio_weeding_robot_is_displayed_during_the_sima_mondial_des_fournisseurs_de_lagriculture_et_de_lelevage_2017_at_the_parc_des_expositions_paris_nord_in_villepinte_on_february_26_2017._afp.jpg"
-    width: 990
-    height: 660
-    isCached: true
+  - AI
 
 related:
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. \"I'm sure that's really expensive. And I kind of want to be out there ..."
+    publishedDateTime: 2022-01-06T02:03:00Z
+    webUrl: "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
+    ampWebUrl: "https://amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
+    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
+    type: article
+    provider:
+      name: RFI
+      domain: www.rfi.fr
+    quality: 61
+    images:
+      - url: "https://s.rfi.fr/media/display/1e31ffa6-6e94-11ec-95b3-005056bf30b7/w:1280/p:16x9/35bfec8f88a8a4c0579ca6ad4c79d4985b2550a3.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Robot tractors and autonomous tools may be heading to a farm near you"
     excerpt: "By Patrick Fallon with Juliette Michel LAS VEGAS, United States—Driverless plows and autonomous tools to weed vegetable plots are the"
     publishedDateTime: 2022-01-06T04:03:00Z
@@ -40,35 +49,7 @@ related:
         width: 800
         height: 595
         isCached: true
-  - title: "Robot tractors cause furrowed brows at Vegas tech show"
-    excerpt: "LAS VEGAS - Driverless ploughs and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
-    publishedDateTime: 2022-01-06T04:00:00Z
-    webUrl: "https://www.bangkokpost.com/tech/2243063/robot-tractors-cause-furrowed-brows-at-vegas-tech-show"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20220106/c1_4192079_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
-    publishedDateTime: 2022-01-06T02:35:00Z
-    webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
-        width: 768
-        height: 512
-        isCached: true
 
-secured: "MZ/0MPOib6MkeV5szPWPx5tcpUmuyUIf0znRj1kxU4tZBiRwT9PoUbePxY+uVMlg4Ol8XORqtaBCbULdFjSWEKQsOTs32EG9s9DVzrNbAgNFcaS3GHaqJnzP9j+ZsAyoyiHec1CDSBLg8HpE1d9nNKUarWdfeSDemDIVDK+AAetx3T3zfvGuqr1jDBxP1Fv5lkzSNFKA7OzrgrWNyaR1luRgZfZ3AeX6hmTsOTELdWPTkCUslJ8AjobDxhQVwRclQQSQfbn4+P0AMOsg6JEyKXZfrOl00qgB+hLg/MvTBR3hQJCcPWtz647WhlwtrU5hJcFKnt3LZgn+FkO4acf76zm3idX6iU9+mN55AvkG9zS5RJNiVkQrFx0rSOMMzBvrFNMCnMEJ4zVJWXQoyw31Ly/qgd9DvdW7Z1hKjZaZdtndS1qcl4PNdFu6BDE6265PHzIO+kFJHcimkH0gpzGfORJfGbDTYefJRKMM7FcqwhRHnFnmFEZeN3YRignTs+lar7EXAajixcxVLsC+MGHTgQ==;uN2EbG7S5XktVh/4ziq/pg=="
+secured: "9mhC3XQ13y8exG4brPManuIWnQv2Y3s2C0cX423FzVgW9eVho04E9UDjCaGeFxYB1jbjOXk1AQ80yfDsq9vPDq3Be26yLRbq9cuPj1rjLFLtH97oHCKdEQpkXh9cQC+HckASirImFTowX0pmvbVnM3nMcMcLX6CYPgfdFrcXWOVg44hueSW1Qj0ctJvs/U4EWMhK+Wn93TIOPmruRFMwF8DTvO/kwmL09/E60iflQfDZtewKTeWcE7iceKGk5G5se93CRGXDh1XN80tEVY58uND9rnc9SXwb9U/XJpTgx1tjslq8ZLdJ/xf6ofFX9r6j4cT2bnVM/bETJRGTIYJ6dsx+djcgO61zepKh96T7S7E=;SLhOYrbuU6Mnf4m+Zk3gww=="
 ---
 

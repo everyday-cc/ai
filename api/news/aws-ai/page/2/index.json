@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-13-machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass.md",
+      "title": "Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass",
+      "excerpt": "Discrete and continuous manufacturing lines generate a high volume of products at low latency, ranging from milliseconds to a few seconds. To identify defects at the same throughput of production, camera streams of images must be processed at low latency. Additionally, factories may have low network",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/hero-image.png",
+          "width": 1028,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T10:44:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
       "title": "Live transcriptions of F1 races using Amazon Transcribe",
       "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
@@ -1345,50 +1398,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-introduces-new-features-to-make-ml-more-accessible.md",
-      "title": "AWS introduces new features to make ML more accessible",
-      "excerpt": "Amazon Web Services (AWS) has announced a slew of features and services to make technologies like machine learning more accessible and cost-effective,..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st.etb2bimg.com/Themes/Release/images/responsive/etcio-logo-400x400.jpg",
-          "width": 850,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/aws-introduces-new-features-to-make-ml-more-accessible/88046233",
-      "publishedDateTime": "2021-12-01T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

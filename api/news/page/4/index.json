@@ -2,6 +2,199 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-05-tech-predictions-for-2022-cloud-data-cybersecurity-ai-and-more.md",
+      "title": "Tech Predictions for 2022: Cloud, Data, Cybersecurity, AI, and More",
+      "excerpt": "“Enterprises will empower business users to become data analysts by applying well-trained natural language processing (NLP) and machine learning technologies, and implementing richly curated data catalogs to unleash the power of complex analytic",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
+      "originalUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2021/04/business-meeting-tech-analytics.jpeg",
+          "width": 1920,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-with-intel-mobileyes-newest-chip-automakers-can-bring-automated-driving-to-cars.md",
+      "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars",
+      "excerpt": "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
+      "originalUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/21065_ME_CHIP_EyeQ-Ultra.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
+      "publishedDateTime": "2022-01-04T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-future-of-work-computer-vision-and-machine-learning-may-soon-bolster-restaurant-jobs.md",
+      "title": "Future of Work: Computer vision and machine learning may soon bolster restaurant jobs",
+      "excerpt": "Chipotle CEO Brian Niccol expects the restaurant industry to adopt more emerging technologies to deal with challenges like supply chain snags, worker turnover and inefficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2022/t_bec7b19019f440cca2783637ba05c5da_name_Chipotle_Thumb_2.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-smart-tvs-virtual-bikes-robot-chefs-fun-gadgets-at-ces-2022.md",
+      "title": "Smart TVs, virtual bikes, robot chefs: Fun gadgets at CES 2022",
+      "excerpt": "New TVs, VR headsets and home health tech highlight growing popularity of home entertainment systems amid pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/ces-gadgets-tv-metaverse-smart-home/",
+      "originalUrl": "https://www.cbsnews.com/news/ces-gadgets-tv-metaverse-smart-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/04/73aec007-da9c-4116-9abb-05d8627b24cf/thumbnail/1200x630/5b7b85fb6d83ca7204d0f2986cff8269/lg-virtual-ride.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/ces-gadgets-tv-metaverse-smart-home/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ces-gadgets-tv-metaverse-smart-home/",
+      "publishedDateTime": "2022-01-04T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-a-neural-network-solves-grades-generates-university-level-mathematics-problems-by-program-synthesis.md",
       "title": "A Neural Network Solves, Grades & Generates University-Level Mathematics Problems by Program Synthesis",
       "excerpt": "Despite the impressive achievements of deep neural networks (DNNs) in recent years, researchers generally believe these models are still not “intelligent” enough to solve advanced mathematical problems in calculus,",
@@ -994,194 +1187,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-telangana-plea-against-use-of-facial-recognition-technology.md",
-      "title": "Telangana: Plea against use of facial recognition technology",
-      "excerpt": "Hyderabad: The Division Bench headed by Chief Justice Satish Chandra Sharma and Justice Abhinand Kumar Shavili on Monday issued notices to Principal Secretary, Municipal Administration & Urban Affairs and the Hyderabad city police commissioner directing them to respond to the notices on implementation of facial recognition technology in Telangana State within six months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "originalUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/10/25/1118832-hc.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "publishedDateTime": "2022-01-03T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-how-combining-human-expertise-and-ai-stop-cyberattacks.md",
-      "title": "How combining human expertise and AI stop cyberattacks",
-      "excerpt": "Enterprises fail to get the most value from threat monitoring and cybersecurity strategies because they're too focused on data collection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
-      "originalUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1314526623-e1641229497586.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/",
-      "publishedDateTime": "2022-01-03T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-2022-robotics-predictions-from-industry-experts.md",
-      "title": "2022 robotics predictions from industry experts",
-      "excerpt": "Leading robotics experts, including Juan Aparicio and Ken Goldberg, share what they'll be keeping an eye on in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
-      "originalUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/2022-robotics-predictions.jpg",
-          "width": 796,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-next-billion-dollar-startups-how-vizai-helps-hospitals-treat-stroke-patients-earlier-video.md",
-      "title": "Next Billion-Dollar Startups: How Viz.ai Helps Hospitals Treat Stroke Patients Earlier (Video)",
-      "excerpt": "When a stroke patient arrives at the ER, every minute counts. Viz.ai uses artificial intelligence to treat patients earlier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2022/01/03/next-billion-dollar-startups-how-vizai-helps-hospitals-treat-stroke-patients-earlier-video/?sh=15b0e2bf5e1c",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2022/01/03/next-billion-dollar-startups-how-vizai-helps-hospitals-treat-stroke-patients-earlier-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d32ef21796ff555ece8d9a%2F0x0.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

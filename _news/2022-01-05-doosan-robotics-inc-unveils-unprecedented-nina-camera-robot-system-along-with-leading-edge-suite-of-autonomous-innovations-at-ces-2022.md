@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
-publishedDateTime: 2022-01-05T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
-webUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
+title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
+publishedDateTime: 2022-01-05T15:04:00Z
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?p=facebook"
-    width: 5157
-    height: 2698
-    isCached: true
 
 related:
   - title: "ITRI intros innovations in AI, robotics, and ICT at CES 2022"
@@ -87,19 +81,19 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
-    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
-    publishedDateTime: 2022-01-06T14:37:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/01/06/9521548.htm"
+  - title: "DEEP Robotics’ Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
+    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry’s annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
+    publishedDateTime: 2022-01-06T14:45:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-china-asia-robotics-367ae93a9f70b62ab37261b1a4597fea"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Associated Press
+      domain: apnews.com
     quality: 54
     images:
-      - url: "https://mma.prnewswire.com/media/1721003/Jueying_Lite2_on_2022_CES.jpg"
-        width: 400
-        height: 294
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
     excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
@@ -200,6 +194,6 @@ related:
         height: 450
         isCached: true
 
-secured: "32TFX2ByYvaAJBSMLPNxGQsgWPk2uXjyYsqSUmZ8NTfUqdTB5TRBuS967aLaJCn7bsD4FluSQ6t1jahX4fdgh+eeumBBZrJLqj2NaLBX5zvqA2B2mMBg71SaKqBoBogtTd1/9JT7xqyhx6gJObMc9CrIwPbAs4xh6CtnSkAeh7jLDCnaGLVhQ6q6/NJovyH3lJPthHEEToPdP0sAUk74xkdeNZ+JheqXRO6gV6vRkzvrzdm6En75mbFsgZEZZr4+GdGLfHl/lxnYSEdrvbevIcIk0xvXWv6x/X3wMmblgJexXvMWhGnTcSGLPfxUR3LN4cOsfPv2aRE3Fob1cuin9QkEEL/w62n8wXtqK+04ieU=;J8Wn6FvKniUmgI6jiAZjOQ=="
+secured: "X+haRjxcRELP0NZ4WZDNwmmjbmmgq6y05olwR4xh8ygccIEU1b4WTes7qGVU9Kc9ULFlGKEarC0fV3c2kJ32k16IShv1L49G1+t9Q4FTpNR6b7rrEhdi+Qh1SF7Lr8aX4d99cBOGG+yk7QoYMaJy6c8yzSNqaeiVRS2afVGAh23xuIZQViGslniiHk56PnTwwIvfSZFQXZTy+2rrcdDmsVQE7MBhH0f/Z+tV1Zjjh5LUgHhDlIKFFiSkx64mQv6+AOUiORLoiM2sCdTWM/lbSb3pmFMRfhtSPnoh8GwxZyyXtpdpJqLddXk9gxpYqEn9CbZRdtDjxVPMJcGiA2dBwJi9ZNXnNdWVsH40OPr2FzA=;trsu8P17lwz1QoVs/eJkVw=="
 ---
 

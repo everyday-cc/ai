@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/healthcare-group-sanofi-f
 webUrl: "https://www.channelnewsasia.com/business/healthcare-group-sanofi-forms-research-deal-company-exscientia-2420706"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "Sanofi partners with AI firm Exscientia to develop up to 15 new drugs"
-    excerpt: "French drugmaker Sanofi SA will partner with British AI firm Exscientia Plc to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to $5.2 billion in milestone payments,"
-    publishedDateTime: 2022-01-07T06:27:00Z
-    webUrl: "https://www.fxempire.com/news/article/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs-858898"
+    excerpt: "French drugmaker Sanofi SA SASY.PA will partner with British AI firm Exscientia Plc EXAI.O to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to $5.2 billion in milestone payments,"
+    publishedDateTime: 2022-01-07T05:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs"
+    ampWebUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs?amp"
     type: article
     provider:
-      name: FXEmpire.com
-      domain: fxempire.com
-    quality: 37
-    images:
-      - url: "https://responsive.fxempire.com/width/600/webp-lossy-70.q50/_fxempire_/2022/01/tagreuters.com2022newsml_LYNXMPEI0605T1.jpg"
-        width: 600
-        height: 400
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Sanofi makes AI play, putting up $100M and billions in biobucks to form broad deal with Exscientia"
     excerpt: "Sanofi is getting deeper into AI-driven R&D. After working with AI drug discovery shop Exscientia for five years, Sanofi has significantly expanded its relationship, putting up $100 million and $5.2 billion on the backend for the chance to work on up to 15 small molecules across oncology and immunology."
     publishedDateTime: 2022-01-07T05:01:00Z
@@ -67,6 +64,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Sanofi, Ex­sci­en­tia ink the next AI megadeal, sign­ing terms on a $100M up­front pact with up to 15 drugs on the line"
+    excerpt: "Drug R&D has for years had an abysmal track record of success, with the vast majority of drug candidates never making it to market. The promise of AI to shorten the discovery time for new drugs and up"
+    publishedDateTime: 2022-01-07T06:01:00Z
+    webUrl: "https://endpts.com/sanofi-exscientia-ink-the-next-ai-megadeal-signing-terms-on-a-100m-upfront-pact-with-up-to-15-drugs-on-the-line/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 0
 
 secured: "bx/RMTVG+6P6VfycRlZV842lGowNRUUQtBEnniE2eLpybvys+CPXBeNTPIevImim3jQp9raDdukd8E5WoNrdO5rq3NhGLfQ2/UTEeT4qbWgxPAYdQ87Y0YUjFGt91AJY04M9RFn2HnZBdodTJQjZcNgmfYKIH1mV9yz9yB2uERH6+wTxKFelh+G0C+ZRMdHkozlZFIkBFwNWlFrEdmbLnG1A/SKzrXVUzWgsiNtPktSEBkrztLKHdQPW/XWrJIWbMWK0EsLSJg8BlGHtiBvL7Pw2mmYLRSwJP9SsXU1zI1zcsmMgzflm4cJQRq0uPVAzEKBwxtaAGBppPhNzrrZESttRcGZpIXJEH9/6FoVetGc=;iObEuuJImZMnjoJRjE+Gzw=="
 ---

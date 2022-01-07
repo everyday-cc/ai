@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-13-softbank-poised-to-complete-first-spac-deal-with-ai-robotics-company-symbotic.md",
+      "title": "SoftBank poised to complete first Spac deal with AI robotics company Symbotic",
+      "excerpt": "Japanese investor has raised multiple Spacs and has been looking for a deal as market cools .. Full story on ft.com POLICE have launched a witness appealing following a collision involving a police vehicle and an ambulance on a major North Yorkshire road last night.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsoneplace.com/1892112/ai-softbank-spac-symbotic-poised-complete-robotics",
+      "originalUrl": "https://www.newsoneplace.com/1892112/ai-softbank-spac-symbotic-poised-complete-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.weserv.nl/?url=https://metro.co.uk/wp-content/uploads/2021/12/PRI_215669582.jpg?quality=90&strip=all&w=1024&h=276&fit=inside&cbg=white",
+          "width": 526,
+          "height": 276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "newsoneplace.com",
+        "domain": "newsoneplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-human-like-brain-helps-robot-out-of-a-maze.md",
       "title": "Human-like brain helps robot out of a maze",
       "excerpt": "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,",
@@ -1300,49 +1343,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human.md",
-      "title": "Artificial Intelligence in the Food Manufacturing Industry: Machine Conquers Human?",
-      "excerpt": "By Lior Akavia, CEO and co-founder of Seebo Four years ago, Elon Musk famously predicted that artificial intelligence will overtake human intelligence by the year 2025. “We’re headed toward a",
-      "sourceUrl": null,
-      "webUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/",
-      "originalUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://foodindustryexecutive.com/wp-content/uploads/2021/12/bigstock-Close-Up-Of-Notebook-With-Crea-440550755.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/amp/",
-      "cdnAmpWebUrl": "https://foodindustryexecutive-com.cdn.ampproject.org/c/s/foodindustryexecutive.com/2021/12/artificial-intelligence-in-the-food-manufacturing-industry-machine-conquers-human/amp/",
-      "publishedDateTime": "2021-12-07T15:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "foodindustryexecutive",
-        "domain": "foodindustryexecutive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

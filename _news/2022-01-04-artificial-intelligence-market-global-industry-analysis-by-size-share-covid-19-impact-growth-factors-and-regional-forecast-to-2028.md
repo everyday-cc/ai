@@ -62,6 +62,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Global Disposable Pipette Tips Market Forecast Report 2021-2028 - Use of Artificial Intelligence (AI) and Biomarkers in Biomarker-Related Analysis and"
+    excerpt: "The \"Disposable Pipette Tips Market Forecast to 2028 - COVID-19 Impact and Global Analysis\" report has been added to ResearchAndMarkets.com's offering. The disposable pipette tips market is projected to reach US$ 166."
+    publishedDateTime: 2022-01-07T09:03:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=596928"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
     publishedDateTime: 2022-01-03T06:15:00Z

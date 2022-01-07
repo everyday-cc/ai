@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Robot tractors may be heading to a farm near you"
-excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
-publishedDateTime: 2022-01-06T02:35:00Z
-originalUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
-webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
+excerpt: "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. \"I'm sure that's really expensive. And I kind of want to be out there ..."
+publishedDateTime: 2022-01-06T02:03:00Z
+originalUrl: "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
+webUrl: "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
+ampWebUrl: "https://amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
+cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
 type: article
-quality: 41
-heat: -1
-published: false
+quality: 61
+heat: 81
+published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: RFI
+  domain: www.rfi.fr
 
 topics:
   - AI in Autos
@@ -20,9 +22,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
-    width: 768
-    height: 512
+  - url: "https://s.rfi.fr/media/display/1e31ffa6-6e94-11ec-95b3-005056bf30b7/w:1280/p:16x9/35bfec8f88a8a4c0579ca6ad4c79d4985b2550a3.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -40,35 +42,16 @@ related:
         width: 800
         height: 595
         isCached: true
-  - title: "Robot tractors cause furrowed brows at Vegas tech show"
-    excerpt: "LAS VEGAS - Driverless ploughs and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
-    publishedDateTime: 2022-01-06T04:00:00Z
-    webUrl: "https://www.bangkokpost.com/tech/2243063/robot-tractors-cause-furrowed-brows-at-vegas-tech-show"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 41
-    images:
-      - url: "https://static.bangkokpost.com/media/content/20220106/c1_4192079_700.jpg"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labour shortages, climate change and environmental protection, while trying to feed a growing world population."
-    publishedDateTime: 2022-01-06T17:54:00Z
-    webUrl: "https://phnompenhpost.com/lifestyle/robot-tractors-may-be-heading-farm-near-you"
+    excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
+    publishedDateTime: 2022-01-06T16:57:00Z
+    webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
     type: article
     provider:
-      name: The Phnom Penh Post
-      domain: phnompenhpost.com
-    quality: 41
-    images:
-      - url: "https://www.phnompenhpost.com/sites/default/files/field/image/a_naio_weeding_robot_is_displayed_during_the_sima_mondial_des_fournisseurs_de_lagriculture_et_de_lelevage_2017_at_the_parc_des_expositions_paris_nord_in_villepinte_on_february_26_2017._afp.jpg"
-        width: 990
-        height: 660
-        isCached: true
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 19
 
-secured: "C8E2IHQyw2tvIx6g6wT3hxOUzWBoeBUQM6TCf7oqUVKigFrxHNwE1qBoZqCcO8HxfERvUgnzULquu0EAveO9iTwUGEDwShnK5i0KPtuS0HhSbXETzxpNlEaBo9414rdjLmEXcXsbbDNd8UeY+nwtZ2+VUXDFzFeJ3uvjK0a7N08PYyDbT7agIpjWFPwePFAOeyBQwafS14pBzjzjfJyDI7N4X3BVBzjnLTB0Epe/ObJ8k1aHtKdK3zvG3O8PEGf9eAsK7R1QgsPsRjZUJOkGWqo1ib+O7eehI5UzwMhH6zaxTKVZlD7gq0TVKlxybwljVPsWYYFyOGUuCZh3JJmealyrv7a3exiblnR0c2ibSZA=;7Q5PkwZaWy5YPnHKSCISnQ=="
+secured: "VYmujc8ACL9QGy7julHw6UmSakb56lT/AQjnu6soonbAjGpOoBoDOtn1RqSodrfUsF6nEoeL2yYsM3hqaxCDELOe3tWDDhCiTkSs94EIXEjN9AeJ+rNU2Vc7KGPEdDimRLcKxM2NA0cN58USx93BNjYrPqgJipBd8GxISkYKJgp0Pp/Kbexw6jrKxT6muXWkfnSKuWvenOOK3ES3ePS8bd8EtQQOhNdbW9te2qckUGgUhaA4cGYTOrgWWvRCqkCgrquRrvSw7iwsDT195kbNVOQVj9pCBNEPFA5s4ClqTmxtVO0pYd5djsgwKxE2qSyxzrwqFEEowL4EgEvyY0Dc0Ju6mU4S/g3Mo3f/kIluOD4=;gFFaj8WBoJWOruXMWgqEyw=="
 ---
 

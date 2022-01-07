@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-30-clearview-ai-a-facial-recognition-company-is-fined-for-breach-of-britains-privacy-laws.md",
+      "title": "Clearview AI, a facial recognition company, is fined for breach of Britain’s privacy laws.",
+      "excerpt": "The Information Commissioner’s Office said it fined Clearview AI for failing to inform British residents that it was collecting billions of photos from sites including Facebook, Instagram and LinkedIn to build its facial recognition software.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.html",
+      "originalUrl": "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/11/29/business/29clearview-1/29clearview-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/29/technology/clearview-ai-uk-privacy-fine.amp.html",
+      "publishedDateTime": "2021-11-29T15:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-robot-company-offers-200k-for-your-face.md",
       "title": "Robot company offers $200K for your face",
       "excerpt": "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever.",

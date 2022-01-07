@@ -106,6 +106,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Ambarella introduces new AI-based image signal processor"
+    excerpt: "Ambarella, an AI vision silicon company, announced its new Artificial Intelligence Image Signal Processor (AISP). Ambarella’s new AI-based ISP architecture uses neural networks to augment the image processing done by the hardware ISP integrated into its SoCs."
+    publishedDateTime: 2022-01-07T08:53:00Z
+    webUrl: "https://www.greencarcongress.com/2022/01/20220107-ambarellaisp.html"
+    type: article
+    provider:
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 37
+    images:
+      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef02788064de4b200d-600wi"
+        width: 600
+        height: 308
+        isCached: true
   - title: "New Ambarella AI domain controller SoC family; single-chip multi-sensor perception, fusion and path planning for ADAS to L4 vehicles"
     excerpt: "Ambarella, an AI vision silicon company, announced the CV3 AI domain controller family at CES. This fully scalable, power-efficient CVflow family of SoCs provides the automotive industry’s highest AI processing performance,"
     publishedDateTime: 2022-01-05T11:03:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-pre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 83
 published: true
 
 provider:

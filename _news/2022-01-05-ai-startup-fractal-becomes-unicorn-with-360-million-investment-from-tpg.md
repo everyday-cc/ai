@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unico
 webUrl: "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html"
 type: article
 quality: 166
-heat: 296
+heat: 297
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/at-ces-nvidia-sets-the-stag
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/at-ces-nvidia-sets-the-stage-for-ai-everywhere/"
 type: article
 quality: 69
-heat: 99
+heat: 101
 published: true
 
 provider:

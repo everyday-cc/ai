@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Mobileye’s Self-Driving Secret? 200PB of Data"
-excerpt: "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
-publishedDateTime: 2022-01-05T20:36:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33"
+title: "Mobileye's Self-Driving Secret? 200PB of Data"
+excerpt: "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
+publishedDateTime: 2022-01-05T20:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
 type: article
-quality: 24
-heat: 24
+quality: 4
+heat: 4
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "ZPj3Olov6T8VqTbIDOs6CfjE2CjcVEka+U0X3J9Wg9a9hFwWrfkSSlr9Gl9tzIRUGgbdKxNKq/fcgFrHceI8o4cVLXCEipZO7IzxVBeJ0wpVu1xmQHo5ibtsAggZGJYjURwPLXnzhW68f64X9yJy5sBxr3b3bi1DERvi6JqLHZMOjYlBNro+J+gB6x7I6fiuHuJ/UU02p2Gh0tzICKWX7/qxOc1Q06vTT60mabUHTNHwYPg9/LqnkbZvAlaUVKuNrRDFQzVakRLpOlKLE+XkZ4dU928OVkjtewl/tyJU9noDNzwtELj+EslxioA3+DbGm4cKJKBZ70lVWaGHH3Gf4B43pnrGExYAfV/7GgTFOu4=;axtDegvJwJlr+Q1pxpe2qw=="
+secured: "f6Q1ORD7daepZMDEKgk29fzHdLx0fsoaX3etPKeGnkiRqI6SQlo3f+ZYlhVk+FWoQO2zD/xP+lQ1K3dSHCN/tr293ea7nhPlXrEuy0d2BNxyRzne+l20qN4EGZlBMaGvd5C/kFadfhCZOPMq0eUpFfSAUaLQW1u2YMRXa3CUBqBERb2/+TbLc32FZHq9+dgKlxcAzvnTtIB8IhmoM5vhCzHsp/JxngcQvCZfkkouneKfqSB42jU2cx+Yteye0w416PokJbxESAlV7d/VApS0tPr3vDsZBwbS9RL7sIpKYLxPhcWbHtTdgJHtEcRX9XZna+I0DKb3dbuzeHPaBH5BVnhzVFGsh5RhV0Ug48E2/eY=;rns2QA2sbYAbUAn317jK6A=="
 ---
 
