@@ -26,6 +26,22 @@ images:
     height: 360
     isCached: true
 
+related:
+  - title: "General Motors Unveils Advanced Computing Architecture for Self Driving Cars"
+    excerpt: "General Motors showcased its new computing architecture for its Ultra Cruise system. The architecture was developed in collaboration with Qualcomm, and it involves the first dedicated Snapdragon system-on-chips."
+    publishedDateTime: 2022-01-07T10:31:00Z
+    webUrl: "https://www.autoevolution.com/news/general-motors-unveils-advanced-computing-architecture-for-self-driving-cars-178561.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/general-motors-unveils-advanced-computing-architecture-for-self-driving-cars-178561_1.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+
 secured: "sEQxJZ75Sn987jTal/IpV57T0Pd1Wdd8dZoGsucg5u/6ElTKSXEvfJchpfg+dCFEi1tJvR0Cu4xL7ozlqqwN87eW8vSsue4vPAcOXj/2tsiorPq0WZSrwV7S5qLXdlO+hMDJJww0sNFzPKFc5Zt598RpERVmQ0rgZmPDO5ZjXGQldRq4WQyrzspBKjs681M+eESwTXDeLQH4jbWbDNsI+VPhXm+pezZuoV9xyZZxBLhqAdeuE9AsFVDcNOJOk1IyOpPYgz5yaxLuKvAX9Alw/PXFcH1I0dKn1eBi8iH342TEO3HSdQIAuS/MYZjBZys7YwLl1sxn9c8wkEcBPSr0UUJgCHWX0ajgkx5S+x59fq4=;G77MuuGKUnJFTxGoelbNVA=="
 ---
 

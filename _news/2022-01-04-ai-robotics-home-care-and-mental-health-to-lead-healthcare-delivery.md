@@ -7,7 +7,7 @@ originalUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-
 webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
 type: article
 quality: 86
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -58,19 +58,19 @@ related:
         width: 750
         height: 400
         isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-    publishedDateTime: 2022-01-06T15:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-20181152.html"
+  - title: "Global Healthcare Artificial Intelligence Market"
+    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering.The healthcare artificial intelligence market is expected to reach USD 44."
+    publishedDateTime: 2022-01-04T12:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-01-04/global-healthcare-artificial-intelligence-market-2021-to-2026-rising-investments-in-advanced-dru"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 53
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 54
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
   - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
     excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
@@ -114,6 +114,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+    publishedDateTime: 2022-01-06T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
 
 secured: "7lGdPquWt1/E7Y4qWjR+ysI/FkjD/Ja8svFi9fy7bpvXMuGGzWQri1TLkw4r3Z6mXYN6jvkAakVVvXrb4Agvsiy59fx/u2mBz+gT+pWJZht/uLcOEiFlW/69UVCSAY2lIwWS9wFfI+PMXXVfTE8bmkJDFUTJEqVBQcAXVV9Zwi0zp8zeMMdtvfFrnN1mpAeFZkvLRd87KRB4mYF7RlP/44A0G/EIN9Dy3Y7aZJ/SNvPF3t6WeEd3a9Us9sbK4su+z4KjMdFhEh8q+wLm7WwxrX3/xFDgG4JfwfctAtabYcWnS1ESyYB+evFyIs6GlF2bSzuMebySFE2sCpWaNjq9aVhcp+lSllO04dogvLGtuy4894i63alMK54XQjzMWJja57ZiZb3eXybQjynN+R0aGsFmeiBHgHzfqCXBGL3F7O8gCKhRTlFYNG6Jc3Mqz3fxt9NevjCKm80O3DniMXIJBycFIgi1+GWzDUz28Oo7Byx0goKYEc8aPvza36M8R1UuWfVe164hrF5hJYjfTvgC3Q==;QUpYJ2PHABPM2NFP9TrMnw=="
 ---

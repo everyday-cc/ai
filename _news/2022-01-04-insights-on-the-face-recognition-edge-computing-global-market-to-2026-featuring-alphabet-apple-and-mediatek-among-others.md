@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "AI for Pharma and Biotech Market is Booming Worldwide | CureMetrix, PFIZER, Abbott"
+    excerpt: "Latest released the research study on Global AI for Pharma and Biotech Market offers a detailed overview of the factors influencing the global business scope AI for Pharma and Biotech Market research report shows the latest market insights current situation"
+    publishedDateTime: 2022-01-07T11:26:00Z
+    webUrl: "https://www.openpr.com/news/2520650/ai-for-pharma-and-biotech-market-is-booming-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2520650/ai-for-pharma-and-biotech-market-is-booming-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2520650/ai-for-pharma-and-biotech-market-is-booming-worldwide"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/V/1/V107767815_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
 
 secured: "+MS5tUffdparcLaoNytDX6TEaVCAUFU0BY63T5li23MBE4FeTBg9g02AX3zbyGrf+irEVeOjlE/XBINQgOSEmSbQjzdn+pb6VTO5KVfjmyUgKcWsSznq2cwWRKCCsLAqbr7FDk54Jig/2UOLdkwP3Xtrj7Wzr1zujIiUVsVwrCIBBRXtjds3j+4QkWIDLcleytSVNqj0C5Lscr7OsvfscXmDveUkJICViPOV9iXpNiUJe2qTmDkSnYR7b2dVjc2br+dAPjk6zTjbLRmGHScE/OIjq+gJyMM4p+SWPYA3eOufGlHBe+1trKm6PgmWFiPbKg4B1ICpLmaR8P7BCegOPoRTAVdaZJECEVOIpTSo/lk=;jH+syws62eJlVedDaPCaCA=="
 ---

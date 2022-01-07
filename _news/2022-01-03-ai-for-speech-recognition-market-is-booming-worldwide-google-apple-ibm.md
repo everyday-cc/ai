@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/ai-speech-recognition-market-boomin
 webUrl: "https://www.linkedin.com/pulse/ai-speech-recognition-market-booming-worldwide-google-ajay-jadhav"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: LinkedIn
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI for Pharma and Biotech Market is Booming Worldwide | CureMetrix, PFIZER, Abbott"
+    excerpt: "Latest released the research study on Global AI for Pharma and Biotech Market offers a detailed overview of the factors influencing the global business scope AI for Pharma and Biotech Market research report shows the latest market insights current situation"
+    publishedDateTime: 2022-01-07T11:26:00Z
+    webUrl: "https://www.openpr.com/news/2520650/ai-for-pharma-and-biotech-market-is-booming-worldwide"
+    ampWebUrl: "https://www.openpr.com/amp/2520650/ai-for-pharma-and-biotech-market-is-booming-worldwide"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2520650/ai-for-pharma-and-biotech-market-is-booming-worldwide"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 51
+    images:
+      - url: "https://cdn.openpr.com/V/1/V107767815_g.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Insights on the Face Recognition Edge Computing Global Market to 2026 - Featuring Alphabet, Apple and Mediatek Among Others"
     excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region -"
     publishedDateTime: 2022-01-04T10:33:00Z

@@ -22,19 +22,16 @@ topics:
 
 related:
   - title: "3 Soaring Fintech Stocks That Could Rocket Higher in 2022"
-    excerpt: "Now that 2021's come to a close, it's time to look back at the best-performing fintech stocks to see if they have what it takes to keep climbing. Global-E Online (NASDAQ:GLBE), Up"
-    publishedDateTime: 2022-01-03T15:50:00Z
-    webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
+    excerpt: "N ow that 2021's come to a close, it's time to look back at the best-performing fintech stocks to see if they have what it takes to keep climbing. Global-E Online (NASDAQ: GLBE), Upstart Holdings (NASDAQ: UPST),"
+    publishedDateTime: 2022-01-03T11:50:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
+      name: Nasdaq
+      domain: nasdaq.com
     quality: 54
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/659497/couple-looking-at-stocks-on-tablet-getty.jpg"
-        width: 2121
-        height: 1414
-        isCached: true
   - title: "ForwardAI Named Finalist in 2022 LendIt Fintech Industry Awards"
     excerpt: "Nomination demonstrates need to modernize Small and Medium-Sized Business (SMB) lending, highlights potential of digital technologies for lenders"
     publishedDateTime: 2022-01-06T14:12:00Z

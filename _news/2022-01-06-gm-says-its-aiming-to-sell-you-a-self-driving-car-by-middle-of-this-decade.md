@@ -1,56 +1,201 @@
 ---
 category: news
 title: "GM says it’s aiming to sell you a self-driving car by middle of this decade"
-excerpt: "\"text/javascript\" src=\" data-newsource-publisher=\"853\" data-player-data=\"7466534a93ecc5d02263fdc67c881b4\" data-max-width=\"auto\" data-autoplay=\"1\" data-player-type=\"1010\" data-embed-type=\"3020\">General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade."
-publishedDateTime: 2022-01-05T19:45:00Z
-originalUrl: "https://www.channel3000.com/i/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
-webUrl: "https://www.channel3000.com/i/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
+excerpt: "By Matt McFarland, CNN Business General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade. GM has missed its own self-imposed self-driving deadlines in the past."
+publishedDateTime: 2022-01-06T01:45:00Z
+originalUrl: "https://localnews8.com/news/2022/01/05/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
+webUrl: "https://localnews8.com/news/2022/01/05/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Channel 3000
-  domain: channel3000.com
+  name: Local News 8
+  domain: localnews8.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/01/y/j/e906202de0c5a97d1134441109cf96a48e2bddca.jpg"
-    width: 1100
-    height: 619
+  - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
+    width: 2560
+    height: 1441
     isCached: true
 
 related:
-  - title: "GM aims for self-driving car; Chevy unveils electric Silverado"
-    excerpt: "General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade. And Chevy is rolling out an electric Silverado."
-    publishedDateTime: 2022-01-06T13:47:00Z
-    webUrl: "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/"
-    ampWebUrl: "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1"
-    cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1"
+  - title: "John Deere’s self-driving tractor arrives later this fall"
+    excerpt: "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing."
+    publishedDateTime: 2022-01-04T20:30:00Z
+    webUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/"
+    ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
     type: article
     provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 174
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/12/john-deere-2.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "John Deere's Self-Driving Tractor Stirs Debate on AI in Farming"
+    excerpt: "John Deere’s new 8R tractor uses six pairs of stereo cameras and advanced artificial intelligence to perceive its environment and navigate. It can find its way to a field on its own when given a route and coordinates,"
+    publishedDateTime: 2022-01-04T20:30:00Z
+    webUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/"
+    ampWebUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 91
+    images:
+      - url: "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "John Deere and Naio robot tractor may be heading to a farm near you"
+    excerpt: "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas."
+    publishedDateTime: 2022-01-06T10:54:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 76
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2022/01/06/1600x900/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641471074615_1641471101321.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Deere Rolls Out Fully Autonomous Tractor at CES"
+    excerpt: "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year."
+    publishedDateTime: 2022-01-05T00:42:00Z
+    webUrl: "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    ampWebUrl: "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 74
+    images:
+      - url: "https://images.wsj.net/im-461772/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Nvidia Drive Hyperion 8 will pilot self-driving cars and trucks"
+    excerpt: "Learn more Nvidia unveiled its latest generation platform for self-driving vehicles: the Drive Hyperion 8. The company unveiled the latest technology for self-driving cars and trucks at CES 2022, the tech trade show in Las Vegas this week."
+    publishedDateTime: 2022-01-04T16:52:00Z
+    webUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/"
+    ampWebUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/nvidia-ces-tusimple.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Forget Tesla. At CES, Deere Demos a Self-Driving Tractor."
+    excerpt: "The company says its new tractor can till fields with no driver present, improving farm productivity by as much as 20%."
+    publishedDateTime: 2022-01-04T20:30:00Z
+    webUrl: "https://www.barrons.com/articles/ces-deere-self-driving-tractor-51641321288"
+    ampWebUrl: "https://www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 59
     images:
-      - url: "https://www.wraltechwire.com/wp-content/uploads/2022/01/chevy-silverado-ev-e1641476751743-1024x577.jpg"
-        width: 1024
-        height: 577
+      - url: "https://images.barrons.com/im-461313/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "GM Aims to Launch Personal Self-Driving Car by Mid-Decade -CEO"
-    excerpt: "General Motors Co aims to introduce a \"personal autonomous vehicle\" by mid-decade, Chief Executive Mary Barra said on Wednesday. The self-driving vehicle for personal use is being co-developed with GM's majority-owned Cruise,"
-    publishedDateTime: 2022-01-05T17:20:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-01-05/gm-aims-to-launch-personal-self-driving-car-by-mid-decade-ceo"
+  - title: "TuSimple to use Nvidia chips for computing in self-driving trucks"
+    excerpt: "Self-driving freight trucks, while still operating largely in pilot projects, have become a focus of the autonomous industry"
+    publishedDateTime: 2022-01-04T12:36:00Z
+    webUrl: "https://www.businesslive.co.za/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
+    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
+    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: businesslive.co.za
+      domain: businesslive.co.za
+    quality: 44
+    images:
+      - url: "https://lh3.googleusercontent.com/Q9ojqE_4Ec_VI5TiH65j1iEQ-MEm-GgiFRkesqb_thqHSrTdwwDexpn7hwZWmRVs-GTs9niUzvEW4px-JBybnj9UytQEByyY=s500"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
+    excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
+    publishedDateTime: 2022-01-04T22:31:00Z
+    webUrl: "https://www.datanami.com/2022/01/04/nothing-runs-like-a-gpu-powered-fully-autonomous-deere/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
+        width: 1081
+        height: 537
+        isCached: true
+  - title: "John Deere unveils first autonomous tractor"
+    excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."
+    publishedDateTime: 2022-01-04T21:38:00Z
+    webUrl: "https://www.farmprogress.com/equipment/john-deere-unveils-first-autonomous-tractor"
+    type: article
+    provider:
+      name: Markets
+      domain: farmprogress.com
+    quality: 24
+    images:
+      - url: "https://www.farmprogress.com/sites/farmprogress.com/files/Jahmy-Hindman-Deere-Autonomy-main.jpg"
+        width: 1540
+        height: 800
+        isCached: true
+  - title: "Deere ploughs ahead with self-driving tractor"
+    excerpt: "John Deere demonstrated a fully autonomous tractor at CES 2022, touting the tech as a way to increase global food production."
+    publishedDateTime: 2022-01-05T17:21:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/deere-ploughs-ahead-with-self-driving-tractor"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 24
+    images:
+      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/01/tractor.jpb_.jpeg"
+        width: 650
+        height: 400
+        isCached: true
+  - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
+    excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
+    publishedDateTime: 2022-01-06T11:12:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 7
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/06/11/52610271-0-image-a-15_1641467772637.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
-secured: "YsQVUSPbhart1eRIYYxhcYMPHj3TOZbUD82RnQeTGE9Zkxs34WyhpDA6s2PRD2KlZt5E3BJipBd095VKELPe+X7sBOY+oz/POJCZtTllzFtNg9qPGppBVHFoTgOWiJLU4zVBA6HNfGjtaJ2JV7zMx4ArEuiUm4KQNRzrx0HlctBIV6i/MJJ/G2oFsoL4txsyyqWq6ln8hVDDeikesiaSLIazg+zRW10SCvYTLVuYTnzAM0EnvTUEU0/WT4sO/tMA9+u3f4Bp1Gt28nqhTdqvcIn+MLRjzdgql2K43Ss+9PF6S6MtKzhMKyKZAcKs6Ye67fByJBS7Gg4RjDk9VsoBTXmcEZwpLHCIL+keeu7qVzPneFZsIQu9ZhSqkkYKNznwkp2TN0Rx2pdUO11obzNkHBeGifhiO8SqDVl1lJDttbepZFFFM/QWpIO0mQX0nMZWgEc9wBHSrCGf45h3lbsvrtpwnL5pnOlnHqp2212SwHNQiuJmQxEEkvVRIxjaTTDEXpcGyy4nW873fW+8GovxTA==;oIaxyiCzibsMVNeTkeRBBg=="
+secured: "yalcVE6G2RzjQB5qsP389qrZEio3SFz9Bp6+Zu86vdjk5+mjZeUfHFIgFyADPox+b59NB/3pgaMuBJ1FGn78Z64KGdlQIZ0UlnB4t0pRfZJUSUIFhBcjSVecvtrMWcXpL8nBCxDOL/mRQgxvRG+4BdPVcEHpMpzNI3YRZxhbbM1BzcmDejETgQXFcjbzb7al/5wXuVGmj74pJbgLfQS8W00Dq3jPXJXSXugfJmdEU3xuMitQgWdkd79FhuhKZjCoZOYjQAraLonoifjlSa+oQPJ1tWB+GCR61BeobhNi25DvVV+oYHE+gTNRfz3i59MvmMOtWlYpgvR1ZRgRrFgaSnQy8xoVO4otCdZsCto39Z8=;8vSo7YebiMKrdbMkM+QBcw=="
 ---
 

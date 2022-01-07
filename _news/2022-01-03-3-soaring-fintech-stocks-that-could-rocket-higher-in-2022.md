@@ -1,32 +1,24 @@
 ---
 category: news
 title: "3 Soaring Fintech Stocks That Could Rocket Higher in 2022"
-excerpt: "Now that 2021's come to a close, it's time to look back at the best-performing fintech stocks to see if they have what it takes to keep climbing. Global-E Online (NASDAQ:GLBE), Up"
-publishedDateTime: 2022-01-03T15:50:00Z
-originalUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
-webUrl: "https://www.fool.com/investing/2022/01/03/3-biotech-stocks-that-soared-in-2021-can-they-do-i/"
+excerpt: "N ow that 2021's come to a close, it's time to look back at the best-performing fintech stocks to see if they have what it takes to keep climbing. Global-E Online (NASDAQ: GLBE), Upstart Holdings (NASDAQ: UPST),"
+publishedDateTime: 2022-01-03T11:50:00Z
+originalUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022"
+webUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022"
+ampWebUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp"
 type: article
 quality: 54
 heat: 144
 published: true
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://g.foolcdn.com/editorial/images/659497/couple-looking-at-stocks-on-tablet-getty.jpg"
-    width: 2121
-    height: 1414
-    isCached: true
 
 related:
   - title: "ForwardAI Named Finalist in 2022 LendIt Fintech Industry Awards"
@@ -150,6 +142,6 @@ related:
         height: 422
         isCached: true
 
-secured: "BOvL0YmChpMreKjRzLXnkMVKxLxSr5N6RGKeeIh2tWHpphwxQoH3k/H/Yoa0Qq+3oIzyhqRVHin60GT6spEE8O29jAM6WuLuUL2Ainv5bxNOFJodmY77q3/haNlnswJAWJavcVoK1wEI3srofI0mx8JsOvqyYyddh35SjZzMTECIF+9gsBOBdtOVs8ZmXqVYmBxf5dIIJEev7Jh8na+0LO33fRHw4mSfRyIEdEy+vLQeVy0bLQN+xI/0PIOMOfM+JOx7DTZtzm7wHn5v1ZgTtDHe+53GCHuplvAN0zJUQ9I7nJm2ilOGnXEO5DR8lgBNU3IfVRHRH5IXHE7kWAz3IJA7FKvRv8tc8l/i/HSPGddY+ocCkGnlfyZOeF9PcmCOkHJ33+31F9XLrJV81UKTwYsS4nLITbzZb4Q1/uUhxoBl878N+DDQW9HL9t9hNKAi/ybChED3I1zfj0zNW7Iz+TitG7o1DyKfIJ1aO8Tvx9Do6w0zfsPmL9N7yLDJWBIykQVqRgArEd5iFxBLNcnchA==;zIpWaZ922TalbcEOBd4uFg=="
+secured: "07LcPz1Fw3t4J6efqW8sT8SqUqKiDQN5RrS7PRv0sG/sExshnQUecCSqLS84KKTzf9aXzVWJJQV9FUU3NQPp5ZQj2ZtD3DvgYUQPVjHWFS3vW8zt11t+0KiWWwhwaYb8EC2dNQSz/sPD4GhJh/gFhX/LPaRVdJhc2MXCeFhTSR6RpKqYQZAGrtCrwt3U5Kr3R2TkhJPL5uJXQ8yCV+FbOoRko1ZKOFRVIyIlXJIR6cwTTcrG716q7kZPp9qCldIU4K4OxoA6fMRz6Q5CcGRNMtG+Au2ne8WEXvJ9oO+JSOm1S92uxMMyWMfr3mBovGTPCY7uTCupggbys1SCDju1dK6xLvxPtPP8ppfIqPt4vkE=;TYAIBa5E7URvHHi6EOWicA=="
 ---
 

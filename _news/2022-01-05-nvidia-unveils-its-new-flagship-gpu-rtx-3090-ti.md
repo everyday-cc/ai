@@ -240,15 +240,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA GTC 2022 announced: next-gen MCM-based Hopper GPU reveal likely"
-    excerpt: "NVIDIA announces GTC 2022 as in-person event, Jensen Huang should reveal their next-gen Hopper GPU -- their first MCM-based design."
-    publishedDateTime: 2022-01-02T19:21:00Z
-    webUrl: "https://www.tweaktown.com/news/83701/nvidia-gtc-2022-announced-next-gen-mcm-based-hopper-gpu-reveal-likely/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "NVIDIA debuts low-cost RTX 3050, new laptop GPUs, and more at CES 2022"
     excerpt: "NVIDIA has announced a couple of more additions to its GPU lineup at CES 2022. The newly announced lineup includes the GeForce RTX 3050 GPU, the most affordable GPU of the RTX 30 lineup, and a couple of more GPUs for laptops."
     publishedDateTime: 2022-01-05T12:11:00Z

@@ -25,33 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
-    excerpt: "Emergen Research Logo The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
-    publishedDateTime: 2022-01-06T07:42:00Z
-    webUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growth-Sales-Revenue-and-Key-Drivers-Analysis-Research-Report-by-2027"
+  - title: "AI in Computer Vision Market: Explore Top Factors that Will Boost the Global Market in Future"
+    excerpt: "AI in Computer Vision Market Computer vision is widely used in industries ranging from energy & utilities to manufacturing and automotive"
+    publishedDateTime: 2022-01-07T06:28:00Z
+    webUrl: "https://menafn.com/1103501989/AI-in-Computer-Vision-Market-Explore-Top-Factors-that-Will-Boost-the-Global-Market-in-Future"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 40
+    quality: 43
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?532764"
-        width: 445
-        height: 250
+      - url: "https://menafn.com/updates/pr/2022-01/07/EP_2e58eimage_story.jpeg"
+        width: 790
+        height: 466
         isCached: true
-  - title: "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com"
-    excerpt: "The Global Image Recognition Market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026. Alphabet Inc. Hitachi Ltd. Honeywell International Inc."
-    publishedDateTime: 2022-01-05T11:29:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=595571"
+  - title: "Artificial Intelligence in Building Market: Industry Regional Developments, Future Trends and Forecasts"
+    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Building Industry from its research database Artificial Intelligence in Building Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Building Market currently"
+    publishedDateTime: 2022-01-03T10:58:00Z
+    webUrl: "https://www.openpr.com/news/2515621/artificial-intelligence-in-building-market-industry-regional"
+    ampWebUrl: "https://www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 3
+      name: openpr.com
+      domain: openpr.com
+    quality: 41
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://cdn.openpr.com/V/1/V103998692_g.jpg"
+        width: 720
+        height: 480
+        isCached: true
+  - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
+    excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
+    publishedDateTime: 2022-01-03T11:08:00Z
+    webUrl: "https://www.openpr.com/news/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    ampWebUrl: "https://www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
+    images:
+      - url: "https://cdn.openpr.com/V/1/V103933766_g.jpg"
+        width: 800
+        height: 320
         isCached: true
 
 secured: "1vZRP6ENHBZ7uUW/XvbTbXMfWs/2p3eEjkHSF/nal4M29D7kgLdOg2KtA80Ekq2tlDdgQLpgFyhpXXrH8nJwLgYNQtSQ4oZ3qkymY+9iFQOLUrcGxuovzT/DernoDpa0JAUq1zFZ090LmzldOY3+eRp9xVaurxp5fSmrPcMJCKYiEqopdrEz2r78HcRiMgpP9NCjMKHXVy2QlWqRNr5b18tVDvz3MMC6V3tqGvdliUhGwttsf2j5Gi08zoqzDhMPOJ7LzkjpYmjAaKgFWljMxAZQnErBE2WGu1vk28QFlmYjjrXex5rpxnfS4oDGCAd0uJn0llsQaT9dtQyriWN0KZSOqpfiFavTARXFtoxFnUI=;o7Ue/9ny+hkLBwC82ueQLg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/business/china-business/article/3162412/chinese
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Baidu to launch Level 2 autonomous car in 2023"
+    excerpt: "China’s technology giant Baidu is stepping up its efforts to expand in the autonomous vehicle segment with the commercial launch...Read"
+    publishedDateTime: 2022-01-07T12:12:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-to-launch-level-2-autonomous-car-in-2023/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
+        width: 1270
+        height: 846
+        isCached: true
   - title: "Autonomous Vehicles Market to Witness Massive Growth by Baidu, Audi, Jaguar"
     excerpt: "It is widely known as a driverless car, robot car, self-driving car or autonomous vehicle. These vehicles use Artificial Intelligence, light detection & ranging (LiDAR) and RADAR sensing ..."
     publishedDateTime: 2022-01-03T12:44:00Z

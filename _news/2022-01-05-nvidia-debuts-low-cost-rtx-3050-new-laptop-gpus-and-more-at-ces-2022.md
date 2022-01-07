@@ -248,15 +248,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA GTC 2022 announced: next-gen MCM-based Hopper GPU reveal likely"
-    excerpt: "NVIDIA announces GTC 2022 as in-person event, Jensen Huang should reveal their next-gen Hopper GPU -- their first MCM-based design."
-    publishedDateTime: 2022-01-02T19:21:00Z
-    webUrl: "https://www.tweaktown.com/news/83701/nvidia-gtc-2022-announced-next-gen-mcm-based-hopper-gpu-reveal-likely/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
 secured: "d5FZsx5g0c+2N/R+YvY/0NJEMAVNvQRNCNpJl9YtYmc+xSkkx4hI3v7aw5gyMVgvVcfB7MrlD8+J4qQ7Mx7QQnvVwk9WtzZUj5wsTu3TUU78s/9Z0sA9b2Yfi16ND7bgAVjU5ehv9VCM7f514akA1y9luT6S8jly3Wd4L/pYM0gkl55GsU8/yL7lBHusQUh9PJRCojfFgmY6hlzbEPHUm4aL0WNRlALgwCla12BG+SITlW+dkLkbfpAyaETvaR3l+NMtwWSroH2FzxCQ2vmtDZL3NU2yGN27ClRsmv7Rsj7O1bbxCyJT+LGqCdvcV4FJBrlwkjHGQ0+kQXlIhfkfBUjMnL328pjchCJZydl1QLI=;IHChXCuB6BS8vVw1eXf1xw=="
 ---

@@ -19,38 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Building Market: Industry Regional Developments, Future Trends and Forecasts"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Building Industry from its research database Artificial Intelligence in Building Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Building Market currently"
-    publishedDateTime: 2022-01-03T10:58:00Z
-    webUrl: "https://www.openpr.com/news/2515621/artificial-intelligence-in-building-market-industry-regional"
-    ampWebUrl: "https://www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
-    images:
-      - url: "https://cdn.openpr.com/V/1/V103998692_g.jpg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
-    excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
-    publishedDateTime: 2022-01-03T11:08:00Z
-    webUrl: "https://www.openpr.com/news/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/V/1/V103933766_g.jpg"
-        width: 800
-        height: 320
-        isCached: true
   - title: "Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027"
     excerpt: "Pages Report] Check for Discount on Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027 report by QYResearch Group. Energy-efficient Artificial Intelligence Chip market is segmented by region"
     publishedDateTime: 2022-01-03T06:04:00Z

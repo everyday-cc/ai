@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-publishedDateTime: 2022-01-06T15:15:00Z
-originalUrl: "https://www.lelezard.com/en/news-20181152.html"
-webUrl: "https://www.lelezard.com/en/news-20181152.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+publishedDateTime: 2022-01-06T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "AI, robotics, home care and mental health to lead healthcare delivery"
@@ -71,6 +65,20 @@ related:
         width: 750
         height: 400
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market"
+    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering.The healthcare artificial intelligence market is expected to reach USD 44."
+    publishedDateTime: 2022-01-04T12:00:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-01-04/global-healthcare-artificial-intelligence-market-2021-to-2026-rising-investments-in-advanced-dru"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 54
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
   - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
     excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
     publishedDateTime: 2022-01-04T03:41:00Z
@@ -114,6 +122,6 @@ related:
         height: 576
         isCached: true
 
-secured: "thoXisAQK59/qkGbQvEEajMYjhqqwvI7MoGJkABTgH6RaKYFMalmpz5RZ54pQmm4PryD1/Rvz8abahJ2R6rSZYGOgrcrvJVlmHOWoZDKDdmrE4y/0/X4h4kPkJHYxumafWiR8ljouWIgVFNzy+R/UXmzblDUpYaQSOn+EbRgAWcmsZYW+P2kBNuHdXae6m/9MkSPkmiyMhD0UUlIjWJRfU5f3Cd9exhfdPrZNKj5kYQNgiy1CZHVcqk0ftwlONrmnjZ/2/eSQC4ydN9xcw8mZfzyRMS1VAJAtik/ZCF+3BrQk5BlEmhgHFef2yUYKkMJbZDOKFfowy8IvtSOLVwnFMa6tJjaQeI/J/Qi4wtdPT0=;L7xB/B31LCcz5ge4qkTjUA=="
+secured: "abCugu7tzbhjKb1F0NaoQ/GXezts3YdC/tE5t+XdQacA9Xn8cBwnbfMbtl3ZYacfXR87JreDAD6guDey8VqTacJcfx6kBsUhPcgVgl0SfE0uwLFvjPw/F0/oybzA5zHOoUSUruLVS2flwkoP62T/k8/z6Os4xi3sIoVzkK8phGaN7Dz/mY7pBiHL9/3U/ze/2QEGBC8waeJN6x7aChZK6ZV1w+hDdGKIJGPc5C8Qjstaqep7HRE+lVWxQVOIiRXVkjeYZQhQAHWzXQXlZsejUELZ5M6JL+U4Iq3QDQK+esCoHfDBZ8PQPeGgnruio9rkXU9ejewQZ2nhfFhy6lkTqG7k32b2Nxsad3L1a4cDK+U=;oCjOXf8Iqramwv0Tegprpg=="
 ---
 

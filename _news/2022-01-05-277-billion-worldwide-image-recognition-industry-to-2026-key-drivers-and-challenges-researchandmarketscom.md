@@ -1,28 +1,22 @@
 ---
 category: news
 title: "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com"
-excerpt: "The Global Image Recognition Market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026. Alphabet Inc. Hitachi Ltd. Honeywell International Inc."
+excerpt: "By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application, By End User, By Region, Competition, Forecast & Opportunities, 2026\" report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-01-05T11:29:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=595571"
-webUrl: "https://us.acrofan.com/detail.php?number=595571"
+originalUrl: "https://www.galvnews.com/news_ap/business/article_b17a83e5-f71b-5812-b2d7-008a6601f37a.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_b17a83e5-f71b-5812-b2d7-008a6601f37a.html"
 type: article
-quality: 3
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-    width: 580
-    height: 339
-    isCached: true
 
 related:
   - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
@@ -39,21 +33,7 @@ related:
         width: 445
         height: 250
         isCached: true
-  - title: "Global Legal Software Market Report 2021 with Focus on Machine Learning - ResearchAndMarkets.com"
-    excerpt: "Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global legal software (focus on machine learning) market is expected to grow from $0."
-    publishedDateTime: 2022-01-05T17:28:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-software-microsoft-corp-3eef4ecf3cb44b9786a7a855cd53ff46"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
-secured: "8KhAIuFVGkKRWz7Npi9BFwfyHOEWrAR+rCm8IbwvdhEnw2MQkokLAvYOJJEwUnmnOlQpVr50Wwe17WT/ZM6sovUw/sY3Q8q1qqLXDkqdVML/GOrKT/toXHtD5S2MNf2QGdUmvxinFc7gWCkz52PrA97t91InXG/PRn3nhLTB15cwweKvDx3UuhJ2HpjKlOtD3uZYXTfFYNnIPK131+ovbRxH/+9c/yI+u+gmQEKGTCCTyC9/JoiW8+CADXthSjCtiA0FmX+85n/Jdn6CdOap9nQTqNt+g+/KotDvHu8XySKAtQlH7N1ogZbQ67R1a1GK4cwiM+5yVYwhU4wS84Su7tzycqqUCl6QDPCbDSCrn84=;9N5+TYc6xaZQ+/FGoA0/Dw=="
+secured: "RNVISESLK8U3uWpMs0+dL64Bt9vyLf+eqQ0kAhR35lx0mo5jG+CCsbnFU7ItTwSo/yPLWvl/48NnfAvYTOcdyQQDFrN9BREJhh7vje5cyjpOlmnVVSFhRp33JuFwTon3K6JbjMOga0+TktgAQ4OFZvlMD1Ul0xZzIhB3QEHNeICp7KBdPyt3zGGGkJeDAGyz8Q0le/1wMJSoJKC8rhktoL+xtPSFOiUv7kzOiiCRwPxvKr1jkyTP4lMbH7At3E7LPaGPqf7p7DZvHODEtT8i2fm3VZ4jhVLbHEtnT/HZIoV+p51W5KoDd9Ig9qCuEk21atW+ZpLlYJ5wk0z0PqRwjybsK6FHn2MvQFA9RJBVgPQ=;Uu5D/ZH889pzu14/+46Xag=="
 ---
 

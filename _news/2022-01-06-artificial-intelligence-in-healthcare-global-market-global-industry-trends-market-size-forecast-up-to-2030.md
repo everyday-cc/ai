@@ -25,131 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding The AI Market"
-    excerpt: "Is the AI hype justified? It depends on who you ask. Artificial intelligence (AI) is populating different areas of the Gartner hype cycle. Chatbots? Disillusion. Machine learning? Great, but expectations have been lowered a bit."
-    publishedDateTime: 2022-01-04T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
+  - title: "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027"
+    excerpt: "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery."
+    publishedDateTime: 2022-01-03T22:49:00Z
+    webUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/"
+    ampWebUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Impacts
+      domain: techbullion.com
+    quality: 51
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4714089da2fe280f7f974%2F0x0.jpg"
-        width: 1200
-        height: 776
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/Logistics-Robots.jpg"
+        width: 696
+        height: 392
         isCached: true
-  - title: "The Human Side Of Building An AI Company"
-    excerpt: "After all, that team you're building will ultimately iterate and optimize the core technology that got you off the ground. Nobody gets to the next level working alone. Yet it's your role — and my role — in senior leadership that significantly influences what that team experience is."
-    publishedDateTime: 2022-01-04T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
+  - title: "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027"
+    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2."
+    publishedDateTime: 2022-01-05T23:11:00Z
+    webUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Coub
+      domain: coub.com
+    quality: 51
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac1140ff5b5bffc474705%2F0x0.jpg"
-        width: 1200
-        height: 746
+      - url: "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png"
+        width: 1600
+        height: 840
         isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market"
-    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering.The healthcare artificial intelligence market is expected to reach USD 44."
-    publishedDateTime: 2022-01-04T12:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-01-04/global-healthcare-artificial-intelligence-market-2021-to-2026-rising-investments-in-advanced-dru"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
-  - title: "AI in Computer Vision Market: Explore Top Factors that Will Boost the Global Market in Future"
-    excerpt: "AI in Computer Vision Market Computer vision is widely used in industries ranging from energy & utilities to manufacturing and automotive"
-    publishedDateTime: 2022-01-07T06:28:00Z
-    webUrl: "https://menafn.com/1103501989/AI-in-Computer-Vision-Market-Explore-Top-Factors-that-Will-Boost-the-Global-Market-in-Future"
+  - title: "The Worldwide Learning Management System Industry is Expected to Reach $37.9 Billion by 2026'"
+    excerpt: "The global LMS market is expected to grow from USD 15.8 billion in 2021 to USD 37.9 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 19.1% during the forecast period. The growing need for efficient and accessible learning to drive the LMS Market."
+    publishedDateTime: 2022-01-06T20:40:00Z
+    webUrl: "https://menafn.com/1103500440/The-Worldwide-Learning-Management-System-Industry-is-Expected-to-Reach-379-Billion-by-2026"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 43
+    quality: 13
     images:
-      - url: "https://menafn.com/updates/pr/2022-01/07/EP_2e58eimage_story.jpeg"
-        width: 790
-        height: 466
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?860987"
+        width: 416
+        height: 250
         isCached: true
-  - title: "Understanding AI’s Limitations Is Key to Unlocking Its Potential"
-    excerpt: "Artificial intelligence (AI) is revolutionizing many processes across industries and applications—digital customer service assistants, autonomous"
-    publishedDateTime: 2022-01-04T16:03:00Z
-    webUrl: "https://www.datanami.com/2022/01/04/understanding-ais-limitations-is-key-to-unlocking-its-potential/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Danny-Schaarmann-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Contracting for AI in the Evolving Regulatory Landscape"
-    excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
-    publishedDateTime: 2022-01-04T12:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/01/04/contracting-for-ai-in-the-evolving-regulatory-landscape/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "China Matching Pentagon Spending on AI"
-    excerpt: "PLA investment in AI is now on par with the Pentagon’s, experts say. The United States views China as its top military and economic competitor. “Supported by a burgeoning AI defense industry, the Chinese military has made extraordinary progress in procuring AI systems for combat and support functions,"
-    publishedDateTime: 2022-01-06T03:48:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2022/1/6/china-matching-pentagon-spending-on-ai"
-    type: article
-    provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 37
-    images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/istock-1268656202.ashx?h=500&w=878&la=en&hash=04C78034C4708706F095C6DF35330D3E"
-        width: 878
-        height: 500
-        isCached: true
-  - title: "To strengthen smart building sustainability and resilience, building owners should look to artificial intelligence and machine learning"
-    excerpt: "For many commercial building owners, the ability to capture and analyze facility performance data is rapidly emerging as a high priority and as a competitive differentiator. By focusing on data that pertains to both energy consumption and building asset maintenance,"
-    publishedDateTime: 2022-01-05T21:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/strengthen-smart-building-sustainability-resilience-owners-dréan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFnrVOPOef8Ww/article-cover_image-shrink_600_2000/0/1641417317586?e=1646870400&v=beta&t=dPl96Vz3rwrELJ4w_ul6Yvia5S57niRe4ZIzO92q7sc"
-        width: 768
-        height: 334
-        isCached: true
-  - title: "Financial Marketing Firm Expands into Segmentation, Big Data, Machine Learning and Artificial Intelligence"
-    excerpt: "For 27 years, MKP communications inc. has developed and executed data-driven marketing and communications programs for its financial institution clients. With the launch"
-    publishedDateTime: 2022-01-05T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-marketing-firm-expands-into-segmentation-big-data-machine-learning-and-artificial-intelligence/article_7d2da779-019a-51a4-a924-691d1fbbb0f8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 35
 
 secured: "flLsjw0ywDSEObaHq4Mig6PRI9QkJfZvEmMOq8MWVMSDj+G1/u6lgMkWkOz6opRh8JFQcf8TOk/hR7hKGZbCNP8AB5FQgxADexOMRBH1F2jyS4x6jCZET8wm+/ajf30tbcazWD3cF85wK9qoVoFHxVgFNaQ5fU8GNr0JRgGJExy6QvQgOGdBijz57oDUfT1LFyF0vrCA4nxA7RYtVmHlt8m/5M3V1hHOLgNDgQ4a3QBJxyi2Exv3YU0DKIub/13J7utTg13vMII8bSls+vioOo+HHrN1/6U5PM9av8RbSW59N/ti85sXbzegqLVAUlksqJ55i8jY4K5empscJBUDknNJZAV+jCgEBY0gQT4Wra0=;7jcErPvz6NGm76/P2ks0qw=="
 ---

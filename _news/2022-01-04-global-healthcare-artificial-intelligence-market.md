@@ -25,131 +25,103 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding The AI Market"
-    excerpt: "Is the AI hype justified? It depends on who you ask. Artificial intelligence (AI) is populating different areas of the Gartner hype cycle. Chatbots? Disillusion. Machine learning? Great, but expectations have been lowered a bit."
-    publishedDateTime: 2022-01-04T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
+  - title: "AI, robotics, home care and mental health to lead healthcare delivery"
+    excerpt: "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,"
+    publishedDateTime: 2022-01-04T06:54:00Z
+    webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Fortune India
+      domain: fortuneindia.com
+    quality: 86
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4714089da2fe280f7f974%2F0x0.jpg"
+      - url: "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700"
+        width: 700
+        height: 434
+        isCached: true
+  - title: "TTcare: Revolutionary AI-Based Solution For Pets' Total Healthcare Needs"
+    excerpt: "AI FOR PET is set to launch a pet healthcare app at the CES 2022 Dubbed TTcare, the app is a CES 2022 Innovation Award honoree TTcare highlights promising innovations in animal healthcare Technological breakthroughs like artificial intelligence (AI) and the internet of things (IoT),"
+    publishedDateTime: 2022-01-05T10:10:00Z
+    webUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135"
+    ampWebUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/20/ttcare-app.jpg"
         width: 1200
-        height: 776
+        height: 675
         isCached: true
-  - title: "The Human Side Of Building An AI Company"
-    excerpt: "After all, that team you're building will ultimately iterate and optimize the core technology that got you off the ground. Nobody gets to the next level working alone. Yet it's your role — and my role — in senior leadership that significantly influences what that team experience is."
-    publishedDateTime: 2022-01-04T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
+  - title: "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData"
+    excerpt: "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database."
+    publishedDateTime: 2022-01-05T12:45:00Z
+    webUrl: "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 71
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac1140ff5b5bffc474705%2F0x0.jpg"
-        width: 1200
-        height: 746
+      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg"
+        width: 750
+        height: 400
         isCached: true
-  - title: "AI in Computer Vision Market: Explore Top Factors that Will Boost the Global Market in Future"
-    excerpt: "AI in Computer Vision Market Computer vision is widely used in industries ranging from energy & utilities to manufacturing and automotive"
-    publishedDateTime: 2022-01-07T06:28:00Z
-    webUrl: "https://menafn.com/1103501989/AI-in-Computer-Vision-Market-Explore-Top-Factors-that-Will-Boost-the-Global-Market-in-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/07/EP_2e58eimage_story.jpeg"
-        width: 790
-        height: 466
-        isCached: true
-  - title: "Understanding AI’s Limitations Is Key to Unlocking Its Potential"
-    excerpt: "Artificial intelligence (AI) is revolutionizing many processes across industries and applications—digital customer service assistants, autonomous"
-    publishedDateTime: 2022-01-04T16:03:00Z
-    webUrl: "https://www.datanami.com/2022/01/04/understanding-ais-limitations-is-key-to-unlocking-its-potential/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Danny-Schaarmann-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Contracting for AI in the Evolving Regulatory Landscape"
-    excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
-    publishedDateTime: 2022-01-04T12:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/01/04/contracting-for-ai-in-the-evolving-regulatory-landscape/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "China Matching Pentagon Spending on AI"
-    excerpt: "PLA investment in AI is now on par with the Pentagon’s, experts say. The United States views China as its top military and economic competitor. “Supported by a burgeoning AI defense industry, the Chinese military has made extraordinary progress in procuring AI systems for combat and support functions,"
-    publishedDateTime: 2022-01-06T03:48:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2022/1/6/china-matching-pentagon-spending-on-ai"
-    type: article
-    provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 37
-    images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/istock-1268656202.ashx?h=500&w=878&la=en&hash=04C78034C4708706F095C6DF35330D3E"
-        width: 878
-        height: 500
-        isCached: true
-  - title: "To strengthen smart building sustainability and resilience, building owners should look to artificial intelligence and machine learning"
-    excerpt: "For many commercial building owners, the ability to capture and analyze facility performance data is rapidly emerging as a high priority and as a competitive differentiator. By focusing on data that pertains to both energy consumption and building asset maintenance,"
-    publishedDateTime: 2022-01-05T21:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/strengthen-smart-building-sustainability-resilience-owners-dréan"
+  - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
+    excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
+    publishedDateTime: 2022-01-04T03:41:00Z
+    webUrl: "https://www.linkedin.com/pulse/final-2021-thoughts-digital-health-dhps-ai-informed-narciso"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFZBFErGiLOog/article-cover_image-shrink_600_2000/0/1641248546445?e=1646870400&v=beta&t=8wPkfEQyia0nTN0mcKb9B6lLgVHrUUnns4nBshi21ik"
+        width: 364
+        height: 301
+        isCached: true
+  - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
+    publishedDateTime: 2022-01-04T15:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFnrVOPOef8Ww/article-cover_image-shrink_600_2000/0/1641417317586?e=1646870400&v=beta&t=dPl96Vz3rwrELJ4w_ul6Yvia5S57niRe4ZIzO92q7sc"
-        width: 768
-        height: 334
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Financial Marketing Firm Expands into Segmentation, Big Data, Machine Learning and Artificial Intelligence"
-    excerpt: "For 27 years, MKP communications inc. has developed and executed data-driven marketing and communications programs for its financial institution clients. With the launch"
-    publishedDateTime: 2022-01-05T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-marketing-firm-expands-into-segmentation-big-data-machine-learning-and-artificial-intelligence/article_7d2da779-019a-51a4-a924-691d1fbbb0f8.html"
+  - title: "AI for telehealth & the latest in health tech at CES"
+    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
+    publishedDateTime: 2022-01-06T18:10:00Z
+    webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 37
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+    publishedDateTime: 2022-01-06T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
     type: article
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 35
-  - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-    excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2022-01-06T05:40:00Z
-    webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?704764"
-        width: 425
-        height: 250
-        isCached: true
+    quality: 33
 
 secured: "js9q8gr7+Bs5+eNJd7Mu+FXBl/lGwpUCIg7ubmP0NRQfEGsIP024K/3hgwpE6S707D4jqSAF2wZTiOeAiKJMUf0yob2xlr/Da1JYj/lNZ2MeQAI1uHLkR8ETystnbssAXWK7SRe0tPr2Dkkj9/mLPeYAyozUtXBM1vopquj+Vxt5EUMNcgiR+0qtJqCsbrTNC1oQP9guq49jtVw3AVCsQ7aC17FN5l1tZYfmgvvbdxL9FMiCvuO8KP+nyvjXlb0Lts9B+vSllIFWILJSO42hZHPfSzY92A7jdOSlzM6Ku7z9NZTt2a80Xxy/ND8zhrn6ZNJSfflvwHBXWsAEIGkgw1noXSMUfHbGaFtmPQlht6E=;G42ejr0q9ipvMbzH3xvfPQ=="
 ---

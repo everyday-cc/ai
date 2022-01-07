@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp"
 type: article
 quality: 68
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/BE9605C1-B5DC-4064-B5834527CA7477C9.jpg"
         width: 790
         height: 496
+        isCached: true
+  - title: "Contracting for AI in the Evolving Regulatory Landscape"
+    excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
+    publishedDateTime: 2022-01-04T12:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/01/04/contracting-for-ai-in-the-evolving-regulatory-landscape/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
+        width: 768
+        height: 633
         isCached: true
   - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
     excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."

@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-07T09:49:00Z
 originalUrl: "https://www.campussafetymagazine.com/news/making-video-verification-more-effective-with-artificial-intelligence/"
 webUrl: "https://www.campussafetymagazine.com/news/making-video-verification-more-effective-with-artificial-intelligence/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/01/Artificial-Intelligence-Adobe-by-ipopba-scaled.jpeg"

@@ -24,6 +24,17 @@ images:
     height: 514
     isCached: true
 
+related:
+  - title: "Advances in Biomedical Image Segmentation and Analysis using Deep Learning"
+    excerpt: "The advances of the recent decade in Deep Learning had a significant impact on Biomedical Image Segmentation and Analysis. The state-of-the-art has been conquered by methods based on Convolutional Neural Networks (CNNs), with various CNN-based ..."
+    publishedDateTime: 2022-01-07T12:14:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/31225/advances-in-biomedical-image-segmentation-and-analysis-using-deep-learning"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 17
+
 secured: "n+ywQ4xmi7AwZ5dlSPUisPUmty2PKzg7TyDv6QJxW/XXAcNC7mTrgYi7XcJWPgIJMlGT/5jQrxf0wD5VyoPiO3iTEt1fDvU2cwZyx8hmlCThglIuzg9emJiCSL2cTDuThgFTyw7X4yX5wNPwGGXXoKZxK3c0ZHaMEXGsw3cXJtNxvIu96N6DktpIThsKWNpVMXvc8uzaD0IUGxIS7/czhuWNPdOmSWkpjGEjBQDvlGf5d8p8tH19pmJyiUz3Bus0b+/6CYurOcrr5uOISdzmPE8qMZZCbM3pf4PaQcoTOEuiZsU+1XibXFJQBt4e10cCDsfAiR1LENiGX86Q7Ga2Qr9puEmwxnnBFbjnlbvqYWs=;FdMdMv8Quz2LyvLpIz5Jng=="
 ---
 

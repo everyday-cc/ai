@@ -3,8 +3,8 @@ category: news
 title: "REALM IDx™ to Participate Virtually in the 40th Annual J.P. Morgan Health Care Conference"
 excerpt: "REALM IDx, Inc., a leader in integrated diagnostics, announced the company will participate in the upcoming 40th Annual J.P. Morgan Health Care Conference. This premier health care conference features global industry leaders,"
 publishedDateTime: 2022-01-06T23:57:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/technology-health-ff232c02aa05615ba640af196270be1d"
-webUrl: "https://apnews.com/press-release/PRNewswire/technology-health-ff232c02aa05615ba640af196270be1d"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-ff232c02aa05615ba640af196270be1d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-ff232c02aa05615ba640af196270be1d"
 type: article
 quality: 15
 heat: -1
@@ -94,6 +94,6 @@ related:
       domain: tmcnet.com
     quality: 12
 
-secured: "w6pWc07ZhsGjis2ZpBxELuHHy0Qrf0M9DFT2ZHaTe6wiilfyC+Q7gI3M5UQH+t6HVrFmR+owzlq3WIFWxLDXoJnFBq3WXzLgDEkSgBzwniTHYZLE4xvI+747FG2XpP3j79War3o02+1q0litjbJ1M2vMjNaaXwJ+XZwYx+xJ9MEoZrEVjll4PKUOHC90P//9XYK5C0ucPrpRRpqDL1WWoBo5qZ/Nv2xp03JFp83f+T/1Zptf9M3dqtJG1pQb/jpmpowpCvv/K10BVaWnK5D+EQUZUBgcd8i+/Em3gZWjOMIYlhp597fhmiN2JwfulqFrA5DrRdLjPBAJFcRW6eNkynpz0LMLDBRe6EseZpyNU1I=;4SfzmD/Y41/dYbCpJxY+QQ=="
+secured: "WtI59SUnDXvXlkwem2f8Hi6KrbIQGoVwNsve0R4OTcOtkBY2ptuVyMSyU46eQrpzkSJCRZRlrwIrolDhOXylbkyqGE/ftxVx/RFkLMNDcasOWquE8ZSsF4+e4aqbXewKiniiNuZ8VcyIzirT2NFYDuFuqzPsQpZqG8Zxxkt1DUuJvB5DYC8752SL7/hmCKeEs8A6K0iq9qL9t8cd8tEq9JN+ytTFldaFxp65809BFkpJJpCzFHUEYSb4T94Lrg6yrza04N+FGYLEDObJyANrJssouhz9RHDZ0yp6dCl5erM5yDGNGe68u10w1hM7yHCJvfd658XoLxhBw/TA6wYvvRv9yz8gN5S3C1faG03lGCg=;44v4sG0IDrCgldGzQd8dew=="
 ---
 

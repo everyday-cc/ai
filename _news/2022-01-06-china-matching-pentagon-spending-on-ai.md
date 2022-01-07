@@ -24,130 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Understanding The AI Market"
-    excerpt: "Is the AI hype justified? It depends on who you ask. Artificial intelligence (AI) is populating different areas of the Gartner hype cycle. Chatbots? Disillusion. Machine learning? Great, but expectations have been lowered a bit."
-    publishedDateTime: 2022-01-04T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
+  - title: "AIML machine learning students develop beer using AI"
+    excerpt: "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing."
+    publishedDateTime: 2022-01-07T00:00:00Z
+    webUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Food Magazine
+      domain: foodmag.com.au
+    quality: 69
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ff4714089da2fe280f7f974%2F0x0.jpg"
+      - url: "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg"
         width: 1200
-        height: 776
+        height: 800
         isCached: true
-  - title: "The Human Side Of Building An AI Company"
-    excerpt: "After all, that team you're building will ultimately iterate and optimize the core technology that got you off the ground. Nobody gets to the next level working alone. Yet it's your role — and my role — in senior leadership that significantly influences what that team experience is."
-    publishedDateTime: 2022-01-04T13:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
+  - title: "The legal pitfalls of using AI in recruitment"
+    excerpt: "Gwynneth Tan highlights the issues employers should be aware of when considering adopting technology into their hiring processes"
+    publishedDateTime: 2022-01-07T12:36:00Z
+    webUrl: "https://www.peoplemanagement.co.uk/experts/legal/legal-pitfalls-using-artificial-intelligence-recruitment"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac1140ff5b5bffc474705%2F0x0.jpg"
-        width: 1200
-        height: 746
-        isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market"
-    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering.The healthcare artificial intelligence market is expected to reach USD 44."
-    publishedDateTime: 2022-01-04T12:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-01-04/global-healthcare-artificial-intelligence-market-2021-to-2026-rising-investments-in-advanced-dru"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
-  - title: "AI in Computer Vision Market: Explore Top Factors that Will Boost the Global Market in Future"
-    excerpt: "AI in Computer Vision Market Computer vision is widely used in industries ranging from energy & utilities to manufacturing and automotive"
-    publishedDateTime: 2022-01-07T06:28:00Z
-    webUrl: "https://menafn.com/1103501989/AI-in-Computer-Vision-Market-Explore-Top-Factors-that-Will-Boost-the-Global-Market-in-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/07/EP_2e58eimage_story.jpeg"
-        width: 790
-        height: 466
-        isCached: true
-  - title: "Understanding AI’s Limitations Is Key to Unlocking Its Potential"
-    excerpt: "Artificial intelligence (AI) is revolutionizing many processes across industries and applications—digital customer service assistants, autonomous"
-    publishedDateTime: 2022-01-04T16:03:00Z
-    webUrl: "https://www.datanami.com/2022/01/04/understanding-ais-limitations-is-key-to-unlocking-its-potential/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 41
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/Danny-Schaarmann-300x300.png"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Contracting for AI in the Evolving Regulatory Landscape"
-    excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
-    publishedDateTime: 2022-01-04T12:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/01/04/contracting-for-ai-in-the-evolving-regulatory-landscape/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
+      name: People Management
+      domain: peoplemanagement.co.uk
     quality: 37
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
-  - title: "To strengthen smart building sustainability and resilience, building owners should look to artificial intelligence and machine learning"
-    excerpt: "For many commercial building owners, the ability to capture and analyze facility performance data is rapidly emerging as a high priority and as a competitive differentiator. By focusing on data that pertains to both energy consumption and building asset maintenance,"
-    publishedDateTime: 2022-01-05T21:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/strengthen-smart-building-sustainability-resilience-owners-dréan"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFnrVOPOef8Ww/article-cover_image-shrink_600_2000/0/1641417317586?e=1646870400&v=beta&t=dPl96Vz3rwrELJ4w_ul6Yvia5S57niRe4ZIzO92q7sc"
-        width: 768
-        height: 334
-        isCached: true
-  - title: "Financial Marketing Firm Expands into Segmentation, Big Data, Machine Learning and Artificial Intelligence"
-    excerpt: "For 27 years, MKP communications inc. has developed and executed data-driven marketing and communications programs for its financial institution clients. With the launch"
-    publishedDateTime: 2022-01-05T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-marketing-firm-expands-into-segmentation-big-data-machine-learning-and-artificial-intelligence/article_7d2da779-019a-51a4-a924-691d1fbbb0f8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 35
-  - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-    excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2022-01-06T05:40:00Z
-    webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?704764"
-        width: 425
-        height: 250
+      - url: "https://www.peoplemanagement.co.uk/Images/artificial-intelligence_tcm27-104992_w1228_n.jpg"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "VN5XVVbOAcDUAM0Eqrz0rXojVuOpg7hGLWaER0EzswUYm2aHk18YadUTOysH92MMhV+4up8szkl4haKv93Tzkhjutif/LedfX64WEpFxkrFqSkilZjTt/n+XBbjvr7lPJqsshwwIV9SPbMkNq6NUWq9Txht9R/QvBCh3cMSszHVP0n0MK1gQNCrALYtcOIgm6bC9ZVQEHRF9ppS6UG8BAXIwQjcBrIPKtjQomIOAGu9XCsyh9hzsZxNU1jvWf7MIKVjgWR0s2J7wBX9+Lg42HvpceQlvfnP96tXIcPID5kF8uYmstRE/7ZkLsnRSjmr02WF+4J0tJ6t2ybkNzGM1QY6mJLfvzRHgEwLa2eQh6JX2JgBcOxMPpPhsI+BEbf0vf6TS27mx7GKXKcBbZH7crphM6tCxu3TDjSsdqq1XXwXMi5JQWuoflNGcanfo4AbHbI5FchVJ/1llhkjHVWgDZfY/3jIklENH0ArfE4WhkMRih/H2uyyheNMniUK0fzXIC9QfHSxTGNhjmBZP6JO0Zg==;R9iRpZnUFtkgD0TmzfF00A=="

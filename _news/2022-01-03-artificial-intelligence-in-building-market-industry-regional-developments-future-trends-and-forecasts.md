@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2515621/artificial-intelligence-in-buildi
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI in Computer Vision Market: Explore Top Factors that Will Boost the Global Market in Future"
+    excerpt: "AI in Computer Vision Market Computer vision is widely used in industries ranging from energy & utilities to manufacturing and automotive"
+    publishedDateTime: 2022-01-07T06:28:00Z
+    webUrl: "https://menafn.com/1103501989/AI-in-Computer-Vision-Market-Explore-Top-Factors-that-Will-Boost-the-Global-Market-in-Future"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 43
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/07/EP_2e58eimage_story.jpeg"
+        width: 790
+        height: 466
+        isCached: true
   - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
     excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
     publishedDateTime: 2022-01-03T11:08:00Z
@@ -42,24 +56,20 @@ related:
         width: 800
         height: 320
         isCached: true
-  - title: "Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027 report by QYResearch Group. Energy-efficient Artificial Intelligence Chip market is segmented by region"
-    publishedDateTime: 2022-01-03T06:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5241734-global-and-japan-energy-efficient-artificial-intelligence-chip-market-insights-forecast-to-2027.html"
+  - title: "Global Legal Software Market Report 2021 with Focus on Machine Learning - ResearchAndMarkets.com"
+    excerpt: "Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global legal software (focus on machine learning) market is expected to grow from $0."
+    publishedDateTime: 2022-01-05T17:28:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-software-microsoft-corp-3eef4ecf3cb44b9786a7a855cd53ff46"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 21
-  - title: "Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027 report by QYResearch Group. Lidar for Self-Driving Car market is segmented by region"
-    publishedDateTime: 2022-01-03T06:06:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5241872-global-and-china-lidar-for-self-driving-car-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 1
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "w55iroLxmqiwV2FD7F+QrWhC7dXbggB13XAtzgiRUTNUvb5LHTAyIVIOJzgMy0tGVQCRcWZp6sdS6U2fkff23tqT9aFvOJ8LdLkOexFhk98DBhxUXeoSHsjCrUBlTvdYHBzwbO5+WN/NT+mEtA6Po6AGbKcU7JqvFNyJ0pfA//kLfL31/8YLF+ZqccJfoGB14l+OHIGzDpBF3uDqlRFZQMyCz9d75IDrPx1dW/EY+BjasUYZ2HgCqk0kWsAvJHhxFyV2FfOfYL21ap9jSK4567rvMCQPMxmBkFGSepJZODd7Uzu8sDBwaYtLmD1VF5mJwTKBiNuaRvvZloG4vW5v/kPqLM6tpgKus83YbUeblxI=;DDhLgXZ/2AFAl+76vWoRow=="
 ---
