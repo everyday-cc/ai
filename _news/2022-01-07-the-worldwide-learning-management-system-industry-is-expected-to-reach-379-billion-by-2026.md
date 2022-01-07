@@ -55,20 +55,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-    excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2022-01-06T05:40:00Z
-    webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?704764"
-        width: 425
-        height: 250
-        isCached: true
 
 secured: "PucO0O4wHxdOuVWCx92dFcurZ2qt/XmY4sOJGL6mvKhU/kRhtr5MwtSghR1j2eNH3e2pxrYvn1Wek9TNVH/s0tTKTCXgaOJGC9wjBN2FhRTRsvx7ZsvGfmzzBR2Jt3rKfcxk7Wt4peRJa2KbJy4iAmDcIVdbF2uwLXIbHoxER7MwUX7ktEryOhkOv4/faP0IAeXJ8JKdv+f5gx77TEWr+3Djr/VBgTGB/6UfcdxWowzfAayRWk+iDvMigQ3d1XqthnbHUY804yz18kms+SKndcrmg4Jf+zBYognc3Orw7FG9zWm89XARmCrXtl8tN6MystR5xmQSAjWu+v2IQQ8jlzm/NPWyvfSwX1EugcRcRUg=;rbz/DQi2lKMr5EdWC+Tmzw=="
 ---

@@ -195,20 +195,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Garda body cams should not use facial recognition technology, committee warns"
-    excerpt: "Garda body-worn cameras should not use facial recognition technology and should not be used to racially profile people, according to recommendations from the Oireachtas justice committee. Provision for the use of body-worn cameras (BWCs) is set out in draft legislation,"
-    publishedDateTime: 2022-01-02T23:00:00Z
-    webUrl: "https://www.irishexaminer.com/news/courtandcrime/arid-40776777.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 36
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/5619/2809695_7_seoimageog_2.57972721.jpg.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Telangana High Court Issues Notice On PIL Challenging Deployment Of Facial Recognition Technology (FRT) In Telangana"
     excerpt: "The Telangana High Court today issued a notice to the Telangana State Government in a Public Interest Litigation (PIL) plea filed challenging the deployment of Facial Recognition Technology (FRT) in the State of Telangana."
     publishedDateTime: 2022-01-03T08:44:00Z

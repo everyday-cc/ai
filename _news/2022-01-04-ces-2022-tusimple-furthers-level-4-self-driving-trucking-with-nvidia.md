@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FOCUS-At CES, tech alliances firm up in the self-driving car wars"
+    excerpt: "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market."
+    publishedDateTime: 2022-01-07T11:00:00Z
+    webUrl: "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL"
+        width: 830
+        height: 545
+        isCached: true
   - title: "CES 2022: Mobileye rolls out new EyeQ self-driving chip"
     excerpt: "Mobileye, Intel’s autonomous driving hardware and software wing, unveiled its latest generation of self-driving car system-on-chip at this week’s CES 2022. Called EyeQ Ultra, the SoC is built specifically for consumer autonomous driving and delivers 176 trillion of operations per second (TOPS)."
     publishedDateTime: 2022-01-05T13:46:00Z
@@ -70,20 +86,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/603/17603/Mobileye-EyeQ6H.jpg"
         width: 752
         height: 423
-        isCached: true
-  - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
-    excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
-    publishedDateTime: 2022-01-04T17:08:00Z
-    webUrl: "https://www.designboom.com/technology/beomni-1-0-robot-ces-01-04-2022/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 35
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
-        width: 1720
-        height: 900
         isCached: true
   - title: "CES 2022: VM-Fi real-time translation technology"
     excerpt: "Taiwanese software developer VM-Fi will debut its groundbreaking real-time translating solution at CES 2022 from Jan 5-8, 2022. VM-Fi provides turnkey 5G real-time artificial intelligence (AI)-enabled simultaneous interpretation with wireless broadcasting to up to hundreds of personal smart devices."
@@ -99,6 +101,20 @@ related:
         width: 336
         height: 224
         isCached: true
+  - title: "At CES, auto tech alliances firm up in the self-driving car wars"
+    excerpt: "Mobileye, Qualcomm and Nvidia -- emerged at the CES in Las Vegas in locking down the brains of self-driving cars for the next decade."
+    publishedDateTime: 2022-01-07T12:25:00Z
+    webUrl: "https://www.autonews.com/ces/ces-auto-tech-alliances-firm-self-driving-car-wars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/CES_ROUNDUP-02_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
     excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
     publishedDateTime: 2022-01-07T08:44:00Z
@@ -113,6 +129,15 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "CES 2022: China’s JiDU adopts Nvidia’s Orin for first self-driving car"
+    excerpt: "Nvidia announced at CES 2022 another automotive startup has chosen its semiconductors to power future Level 4 autonomous driving vehicles. JiDU, a Chinese automotive startup backed by Baidu, will use Nvidia’s Drive Orin system-on-chip (SoC) for its first production model that will be unveiled at the upcoming Beijing Auto Show in April and is slated for mass production and delivery by 2023."
+    publishedDateTime: 2022-01-07T13:45:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17624/ces-2022-china-s-jidu-adopts-nvidia-s-orin-for-first-self-driving-car"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "64wBAya6sitAu7akAIVkRtNLkOWEVJkEbmKGVSSS2CIdEBFS4doCNBIcZ9PBTrZ8+jQe+m+5wric7NXPCAymojJ7YnEdMDFleopVxEfN3+quOZ+84S53FPel17ey2JTBo8jEvXmD1bsT/hpMT0yOallSIp6TdMZc7HZnWdU+OgwmDPUFNz5lBSAdrA07jlMCr/TCcEMW8V2xpljjK619qpJeryETr85+tnR3sChq4qOEbgkp8PK8FOyVHv4jWWVjwQCgGxVA6tore/0tDVdY+BmhBTtsYP5PT4g9Plmiu9ThS+NpxxOHIRo5fCE+tt4cBQiETURb0f0HOrG2Hm1iXHxgBf7JBMSJEEtm/SUAw5NIpKIkrNM++ylsWoUxKaryRA/nAl7DN0PaGoBxhb2ofV0v3w4+kJGpSP5wSwhxUgX16QLjtlMrOiDRhTL4wOOxbHHVovtJdmnTev9rWu4o82+GfNteh0HG9Xvjv6aCBNN494qsr+uPk+DbuUEoZyrNQ5uy0sU39x1TXuyjyqXa3A==;HkoH656XaelIReWP4JuW0A=="
 ---

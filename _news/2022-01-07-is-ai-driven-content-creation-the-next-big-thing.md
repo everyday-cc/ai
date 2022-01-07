@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-07T10:53:00Z
 originalUrl: "https://www.linkedin.com/pulse/ai-driven-content-creation-next-big-thing-janina-krockenberger-"
 webUrl: "https://www.linkedin.com/pulse/ai-driven-content-creation-next-big-thing-janina-krockenberger-"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHfyPCxrDpz1g/article-cover_image-shrink_600_2000/0/1641548658213?e=1646870400&v=beta&t=-resx6JtII0PgXA1NV5BF3iNz93K5kH0m57urgCkh1s"

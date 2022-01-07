@@ -43,22 +43,6 @@ related:
         width: 531
         height: 337
         isCached: true
-  - title: "CES 2022: AI is driving innovation in ‘smart’ tech"
-    excerpt: "At CES 2022, a slew of smart tech innovations driven by AI and aimed at improving lives and businesses, are being unveiled publicly."
-    publishedDateTime: 2022-01-05T15:59:00Z
-    webUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/"
-    ampWebUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1322183741.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
   - title: "ITRI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
     excerpt: "Technologies include the CES Innovation Award Honoree RGB-D AI Robot, the Autonomous Selfie Drone, and the Interactive Time Machine HSINCHU, Jan. 5, 2022 // -- The Industrial Technology Research Institute (ITRI),"
     publishedDateTime: 2022-01-06T04:00:00Z
@@ -114,20 +98,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/606/17606/CES2022D.png"
         width: 675
         height: 555
-        isCached: true
-  - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
-    excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
-    publishedDateTime: 2022-01-04T02:02:00Z
-    webUrl: "https://www.digitimes.com/news/a20220104PD202.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220104PD202_files/6_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Data Science and AI Predictions for 2022"
     excerpt: "The pace of technological change increased in 2021, and if history is any guide, will continue to accelerate in 2022. At the leading edge of high tech are"

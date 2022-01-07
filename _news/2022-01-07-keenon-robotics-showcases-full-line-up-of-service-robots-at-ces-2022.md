@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Creepy meets cool in humanoid robots at CES tech show"
-    excerpt: "A lifelike, child-size doll writhed and cried before slightly shocked onlookers snapping smartphone pictures at the CES tech show."
-    publishedDateTime: 2022-01-05T22:40:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/creepy-meets-cool-in-humanoid-robots-at-ces-tech-show/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/CES-Las-Vegas-AFP-1K-01.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "axwZeBkmc98nz2or6kuC/yrF48ARtrou057QqzLFL3P1NIsE9QJndtUpM6HaMByjEpXxdHvPHksPvstlJ3r8HzVjN+DBU81+xRYmQzpFQzpsWGMPzQTjlEeiaAN0Q3KYGMdpn/rlXcajyssRD0XMap6yqADXbRXdl7ZXYuJdXuEvqGrTJi0ftbgDzu8q5sk0BrJy4RRGJD2E7m2jYRKG9517ZFonNg6X5wJyS0HPhSwDSMRLODwjUY/dCQvepq7d8x9sJXWOL6V4v/W49l5jouUI7SCYvZNkYsRAixT1qL1UbBtWODe3mDurqrkKTG+VSX/hsjaB7QQQD5SKUfFLCe9WnaqNPgSni2RGSvzu8vY=;oyt5lHkmzFUuSvjeeilqdQ=="
 ---

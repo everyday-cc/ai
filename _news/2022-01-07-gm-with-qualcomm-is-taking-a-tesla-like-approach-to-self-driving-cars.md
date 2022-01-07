@@ -59,6 +59,20 @@ related:
         width: 744
         height: 419
         isCached: true
+  - title: "GM's Ultra Cruise self-driving system to use Qualcomm's Snapdragon Ride hardware"
+    excerpt: "GM plans to launch an upgraded version called Ultra Cruise, which the automaker says will handle 95% of the country's roads, meaning many journeys won't require any actual driving by a human. Like Super Cruise,"
+    publishedDateTime: 2022-01-07T14:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134674_gm-s-ultra-cruise-self-driving-system-to-use-qualcomm-s-snapdragon-ride-hardware"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 19
+    images:
+      - url: "https://images.hgmsites.net/hug/cadillac-super-cruise_100625568_h.jpg"
+        width: 1920
+        height: 1275
+        isCached: true
   - title: "Qualcomm Extends Automotive Offerings with Snapdragon Ride Vision, Digital Chassis"
     excerpt: "Over the last several years, some of the most intriguing developments to come out of CES have been car related. From information-rich cockpit experiences to promises of assisted and autonomous driving,"
     publishedDateTime: 2022-01-04T20:04:00Z

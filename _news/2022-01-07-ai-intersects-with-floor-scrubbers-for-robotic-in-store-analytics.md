@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-sc
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
 type: article
 quality: 57
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: pymnts.com
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
+    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud."
+    publishedDateTime: 2022-01-07T13:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lifestyle-weather-9e3472f9b0d14e0d1ba48cfa3a2147cc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 67
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "How analytics, AI tools can overlook multiracial patients"
     excerpt: "Data-driven tools that incorporate race have to figure out how to account for patients who identify with more than one race, as multiracial people—today, 10% of Americans—become a larger segment of the U."
     publishedDateTime: 2022-01-03T10:01:00Z
@@ -39,34 +53,6 @@ related:
       - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/racial-bias-algorithm%20.png"
         width: 800
         height: 600
-        isCached: true
-  - title: "DigiMax Launches ESG AI Division; Invests into Green Energy Solutions Company MADA Analytics"
-    excerpt: "DIGIMAX GLOBAL INC. (the \"Company\" or \"DigiMax\") (CSE:DIGI) is excited to announce it is launching an ESG Solutions Division within th"
-    publishedDateTime: 2022-01-03T12:05:00Z
-    webUrl: "https://www.pr-inside.com/digimax-launches-esg-ai-division-invests-into-green-energy-solutions-company-mada-analytics-r4860774.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 26
-    images:
-      - url: "https://www.pr-inside.com/images/uploads/pr/2016/80989/20211228_low-inauguralworldfintechsummit_80989.jpg"
-        width: 600
-        height: 343
-        isCached: true
-  - title: "Aerodyne Group makes strategic investment in Malaysian AI and data analytics company – Synapse Innovation Sdn Bhd"
-    excerpt: "Aerodyne Group, a Malaysia-headquartered international DT3 (Drone Tech, Data Tech, and Digital Transformation) solutions provider has signed an agreement to acquire a principal stake in Malaysia-based AI and Data Analytics company,"
-    publishedDateTime: 2022-01-05T06:52:00Z
-    webUrl: "https://www.suasnews.com/2022/01/aerodyne-group-makes-strategic-investment-in-malaysian-ai-and-data-analytics-company-synapse-innovation-sdn-bhd/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 16
-    images:
-      - url: "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2020/12/aerodyne-logo.jpg?resize=696%2C493&ssl=1"
-        width: 696
-        height: 493
         isCached: true
 
 secured: "9kOG//BVy+kQRZ1bXNNVFkV+GUQbQA0G6UxW9NV/PBcAYVkqsm8HYZtpuN8SNZo8FfwI7zDkpmiUdFWMmHbchIv3h9pSVSAnlC6aQp7AoxAWRVS72josg8Vrfsl+JmDktWkgPPhDs7H6rN19cgjuYGBslnGoVr8tcKqdHADnBaQeRDFO7Go+MzvqR54k50C62Ui1bX6cLfpFSQhLTdjHd2F68YG6HFH8FIZB/SruXOZleOtGX9dM7dKH//fHC/aME02bETSIIwRND8TbMTOLWVG9e/Xru5WlCJdj81M/deTs7wVDcyxDRmRMJApGgoBLHKaxdOTdS+4aWS8CExJ3JYSBu4RfKT5focDktY6C8v8=;DLQZIwsUNw2tmyFo9SbjLg=="

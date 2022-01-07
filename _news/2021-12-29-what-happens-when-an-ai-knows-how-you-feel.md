@@ -3,24 +3,30 @@ category: news
 title: "What Happens When an AI Knows How You Feel?"
 excerpt: "Technology used to only deliver our messages. Now it wants to write them for us by understanding our emotions."
 publishedDateTime: 2021-12-29T12:00:00Z
-originalUrl: "https://www.wired.co.uk/article/artificial-emotional-intelligence"
-webUrl: "https://www.wired.co.uk/article/artificial-emotional-intelligence"
+originalUrl: "https://www.wired.com/story/artificial-emotional-intelligence/"
+webUrl: "https://www.wired.com/story/artificial-emotional-intelligence/"
+ampWebUrl: "https://www.wired.com/story/artificial-emotional-intelligence/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-emotional-intelligence/amp"
 type: article
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://media.wired.co.uk/photos/61a8a600bd53d4f6291929d3/master/w_1600%2Cc_limit/1822-WIRED-02.jpg"
-    width: 1600
-    height: 2182
+  - url: "https://media.wired.com/photos/61bc7f6c70540627801a5b48/master/pass/Business-AI-Emotions-1290287917-648538841-2.jpg"
+    width: 2400
+    height: 1600
     isCached: true
 
-secured: "0Gi6qa9e7QTHMmxVuczqslguFu8NHiuH5rD55nTFkKV1zruuvyzDDOskLdbsQSQxk9VFS9whl/oeThmkYjrKcWn/NGzd2NPREXiv5WQjpYQ/bG+XW1mD/Y1iQk5DIB5sVa2ByYpoXtSpu2adcOaF4EZmEa9lkpxxoOj/NUhdXNvk5xik8EIsKgWXXvCmEUz22IheuqUAbG0hlxgu2Z/R/WLl49LlN9IT63kKpDbyLJ8mOsqyYULWWz+0F7m0QoTW2TKgTUuAxF/9QOIj0XAdfz5UfQM72qxQKcv1Da5nI0KGO1wSjI19lsLyThM0QTqkp5oItZcMvu/wpewoEkVDsy/qawtfLp+YnFAemjrkFJI=;Gn01ARdp6QuJt2oAsdAKgw=="
+secured: "fTHcCQh7UNjAcm4fTaFZSoM1Mk6wixazctqmkNteYjCJaT/1maK4nO12B84Gcio7mp2ROrNMcbjMxdRirAEayryUF7r++md7iMqArTSFde/43P7Dh/S6RApSqCGIrEeQuPwhH+rF1iybugps2sO3WiPB7EWPFP81Sa4vvw1UbgFuJlJAkfJZkRZoeHg1qYq8YehOaWYM51S+a6r7v/9KssIIJvy6eXaqaR4FeD47iMP+YiYKbvzbwjyev/MXolubHDkdi6qC010kOh/ij/5JO1Oblwru6umk3wf//ybrf7SytR95Q5e2cvobxZOrYWp3F+7foMraF+GlDpsSsoLGfnhS1uwSMQW77IYT2/Isy+U=;VH78CIqdNv0YKCWw6RDinA=="
 ---
 

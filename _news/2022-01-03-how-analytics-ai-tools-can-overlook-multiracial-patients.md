@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
+    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud."
+    publishedDateTime: 2022-01-07T13:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lifestyle-weather-9e3472f9b0d14e0d1ba48cfa3a2147cc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 67
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI Intersects with Floor Scrubbers for Robotic In-store Analytics"
     excerpt: "AI robotics firm Brain Corp is partnering with Tennant Company to launch the data capture solution Inventory Scan, which is fitted to autonomous floor scrubbers."
     publishedDateTime: 2022-01-07T00:14:00Z
@@ -39,34 +53,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/temast-457x305.jpeg"
         width: 457
         height: 305
-        isCached: true
-  - title: "DigiMax Launches ESG AI Division; Invests into Green Energy Solutions Company MADA Analytics"
-    excerpt: "DIGIMAX GLOBAL INC. (the \"Company\" or \"DigiMax\") (CSE:DIGI) is excited to announce it is launching an ESG Solutions Division within th"
-    publishedDateTime: 2022-01-03T12:05:00Z
-    webUrl: "https://www.pr-inside.com/digimax-launches-esg-ai-division-invests-into-green-energy-solutions-company-mada-analytics-r4860774.htm"
-    type: article
-    provider:
-      name: PR-Inside
-      domain: pr-inside.com
-    quality: 26
-    images:
-      - url: "https://www.pr-inside.com/images/uploads/pr/2016/80989/20211228_low-inauguralworldfintechsummit_80989.jpg"
-        width: 600
-        height: 343
-        isCached: true
-  - title: "Aerodyne Group makes strategic investment in Malaysian AI and data analytics company – Synapse Innovation Sdn Bhd"
-    excerpt: "Aerodyne Group, a Malaysia-headquartered international DT3 (Drone Tech, Data Tech, and Digital Transformation) solutions provider has signed an agreement to acquire a principal stake in Malaysia-based AI and Data Analytics company,"
-    publishedDateTime: 2022-01-05T06:52:00Z
-    webUrl: "https://www.suasnews.com/2022/01/aerodyne-group-makes-strategic-investment-in-malaysian-ai-and-data-analytics-company-synapse-innovation-sdn-bhd/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 16
-    images:
-      - url: "https://i2.wp.com/www.suasnews.com/wp-content/uploads/2020/12/aerodyne-logo.jpg?resize=696%2C493&ssl=1"
-        width: 696
-        height: 493
         isCached: true
 
 secured: "rtW94LozfFNMpye1A5rRgqJjigbYTiuyy+P5VJMcTI7Qd3Wmw8L5JtYSqC/ossBubvrc/ttIdj78Guwe59TQclV494DNpAfoeqncTGt2d0cB11DMxUHjdXtC6xn9fQMYi/3m87/jfm3FzkvGXU9o8eiFmnZ422XnverAhsXrYz/7EahM5Xo9bEBZ31lHhIz8sxQpGEED0UlNfi/gaYF/nA1xeW8XQjqG378m5fpV2k84F86dChWaFOeZsm9q48phD/VeFOjJKfTgn7oRyCuE63NbIzFCKycJpB2UPkLMdGRwXH5JXbv82DmALtW+f3mRqvb08JWph5j1VdJ4b6hU9I2eqSzl2LvdOAkancblvq8p1u7Cejz3NmYomWFwPxSmZuNeVu6njo+pDrUFIUbTrCasScf71kecmCSNabTZNguBkGqI7tr0ct0PTGzbirrWYDCCd3UgFkynVrqSamWA5Dzwxz33q4+2wFWrDJVt4sZutePGVFEf6LarHo2a0reFcNGsTseQ91/AkykKGnJh4g==;1ZwDOiVv00jL1C2PF48u7w=="

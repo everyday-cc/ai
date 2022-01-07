@@ -37,6 +37,22 @@ related:
         width: 1000
         height: 525
         isCached: true
+  - title: "These are the 13 Largest NYC Tech Startup Funding Rounds of Q4 2021"
+    excerpt: "Everything you need to need to know about the largest NYC startup funding rounds of Q4 2021; broken down by industry, stage, investors, and"
+    publishedDateTime: 2022-01-07T14:27:00Z
+    webUrl: "https://www.alleywatch.com/2022/01/nyc-startup-funding-top-largest-q4-2021-vc/"
+    ampWebUrl: "https://www.alleywatch.com/2022/01/nyc-startup-funding-top-largest-q4-2021-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/01/nyc-startup-funding-top-largest-q4-2021-vc/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 42
+    images:
+      - url: "https://www.alleywatch.com/wp-content/uploads/2022/01/Q4-2021-nyc-top-startup-funding.jpg"
+        width: 1000
+        height: 525
+        isCached: true
   - title: "Startup Funding: December 2021"
     excerpt: "For December 2021, we take a look at 94 companies that collectively raised more than $5B. Eswin Technology raised CNY 2.5B (~$392.6M) in Series C financing led by China Internet Investment Fund and GoldStone Investment,"
     publishedDateTime: 2022-01-04T08:01:00Z

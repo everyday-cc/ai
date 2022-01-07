@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computin
 webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -84,20 +84,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg"
         width: 2048
         height: 1366
-        isCached: true
-  - title: "CES 2022: Typewise’s AI Text Prediction Solution Closes Gap On What Users Think, About To Type"
-    excerpt: "The Swiss deep tech company, Typewise, will launch its latest technology – the AI text prediction solution, along with a new usser-friendly keyboard - at the Consumer Electronics Show in Las Vegas."
-    publishedDateTime: 2022-01-05T11:10:00Z
-    webUrl: "https://www.ibtimes.com/ces-2022-typewises-ai-text-prediction-solution-closes-gap-what-users-think-about-type-3361890"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 25
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/30/typewiseimage.jpg"
-        width: 1200
-        height: 1200
         isCached: true
   - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
     excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"

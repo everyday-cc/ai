@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
-    excerpt: "Emergen Research Logo The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
-    publishedDateTime: 2022-01-06T07:42:00Z
-    webUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growth-Sales-Revenue-and-Key-Drivers-Analysis-Research-Report-by-2027"
+  - title: "Global Image Recognition Market (2021 to 2026) - Featuring Amazon, Alphabet and Qualcomm Among Others"
+    excerpt: "The 'Global Image Recognition Market, By Component (Software, Hardware, Services), By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application,"
+    publishedDateTime: 2022-01-06T11:41:00Z
+    webUrl: "https://menafn.com/1103497889/Global-Image-Recognition-Market-2021-to-2026-Featuring-Amazon-Alphabet-and-Qualcomm-Among-Others"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 40
+    quality: 9
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?532764"
-        width: 445
-        height: 250
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?331857"
+        width: 413
+        height: 249
         isCached: true
 
 secured: "RNVISESLK8U3uWpMs0+dL64Bt9vyLf+eqQ0kAhR35lx0mo5jG+CCsbnFU7ItTwSo/yPLWvl/48NnfAvYTOcdyQQDFrN9BREJhh7vje5cyjpOlmnVVSFhRp33JuFwTon3K6JbjMOga0+TktgAQ4OFZvlMD1Ul0xZzIhB3QEHNeICp7KBdPyt3zGGGkJeDAGyz8Q0le/1wMJSoJKC8rhktoL+xtPSFOiUv7kzOiiCRwPxvKr1jkyTP4lMbH7At3E7LPaGPqf7p7DZvHODEtT8i2fm3VZ4jhVLbHEtnT/HZIoV+p51W5KoDd9Ig9qCuEk21atW+ZpLlYJ5wk0z0PqRwjybsK6FHn2MvQFA9RJBVgPQ=;Uu5D/ZH889pzu14/+46Xag=="

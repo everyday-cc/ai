@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-07-ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding.md",
-      "title": "AI and Computer Vision platform Avataar raises $45 mn in Series B funding",
-      "excerpt": "Avataar's platform powers the largest global eCommerce marketplaces and leading D2C brands, shaping consumer journeys with life-sized 3D product evaluation coupled with interactive feature discovery.",
+      "path": "_news/2022-01-07-bluru-based-ai-and-computer-vision-startup-avataar-raises-45-mn.md",
+      "title": "B'luru-based AI and computer vision startup Avataar raises $45 mn",
+      "excerpt": "Bengaluru and San Francisco-based AI and computer vision startup Avataar has raised $45 million in Series B funding led by Tiger Global. Existing investor Sequoia Capital India also participated in the round.",
       "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html",
+      "webUrl": "https://inshorts.com/en/news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
+      "originalUrl": "https://inshorts.com/en/news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/06/full/1609874455-1747.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/01_jan/7_fri/img_1641559494701_750.jpg?",
+          "width": 736,
+          "height": 395,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html",
-      "publishedDateTime": "2022-01-07T01:26:00-08:00",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
+      "publishedDateTime": "2022-01-07T05:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
+        "name": "Inshorts",
+        "domain": "inshorts.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -253,7 +253,7 @@
       "originalUrl": "https://www.techspot.com/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -507,7 +507,7 @@
       "originalUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {

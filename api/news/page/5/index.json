@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-04-toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler.md",
+      "title": "Toyota Announces New Self-Driving Auto Software, Challenging VW And Daimler",
+      "excerpt": "Year-end sales figures are expected to show Toyota breaking General Motors’ 95-year hold on the U.S. top spot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/",
+      "originalUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d39019dc6c1246f755465d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5778%26cropY1%3D275%26cropY2%3D3527",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
+      "publishedDateTime": "2022-01-03T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast.md",
+      "title": "Start the New Year Right with TheDetroitBureau’s Headlight News Podcast",
+      "excerpt": "TheDetroitBureau.com covers the top stories occurring in the auto industry in the latest edition of the Headlight News podcast. The weekly roundup includes news, features, reviews and more. The on-again,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedetroitbureau.com/2021/12/geelys-zeekr-to-build-autonomous-vehicles-for-waymo/",
+      "originalUrl": "https://www.thedetroitbureau.com/2022/01/start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/waymo_zeekr-3.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheDetroitBureau",
+        "domain": "thedetroitbureau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-1493-billion-in-2027.md",
       "title": "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027",
       "excerpt": "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -106,7 +200,7 @@
       "originalUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -294,7 +388,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -397,7 +491,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -533,6 +627,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-75-of-b2b-sales-organizations-will-use-ai-guided-selling-by-2025.md",
+      "title": "75% of B2B Sales Organizations Will Use AI-Guided Selling by 2025",
+      "excerpt": "A new report shows that by 2025, 75% of B2B sales organizations will augment their efforts with selling guided by AI:",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/75-percent-b2b-sales-organizations-ai-selling-2025/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/75-percent-b2b-sales-organizations-ai-selling-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/10/A-rep-and-an-employee-meet-around-a-conference-room-table.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -873,21 +1010,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-03-b2b-manufacturing-and-automation-startup-groyyo-raises-46-mn-in-seed-funding.md",
-      "title": "B2B Manufacturing And Automation Startup Groyyo Raises $4.6 Mn In Seed Funding",
-      "excerpt": "Mumbai-based B2B manufacturing and automation startup Groyyo today has raised $4.6 Mn in a seed funding round led by Alpha Wave Incubation.",
+      "path": "_news/2022-01-03-ces-2022-deepbrain-humanises-ai-avatars.md",
+      "title": "CES 2022: Deepbrain humanises AI avatars",
+      "excerpt": "DeepBrain AI’s industry-first approach to “humanising” AI assistants provides users with an experience that is familiar, enlightening and approachable. Its video synthesis solutions, a CES 2022 Innovation Awards Winner,",
       "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/",
-      "originalUrl": "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/",
+      "webUrl": "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/",
+      "originalUrl": "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 267,
       "tags": null,
       "images": [
         {
-          "url": "https://inc42.com/wp-content/uploads/2022/01/factory-social.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://i1.wp.com/gadget.co.za/wp-content/uploads/2022/01/All_AI_Influencer_AI_Bank_teller_AI_doctors_utilized_AI.jpg?resize=1000%2C600&#038;ssl=1",
+          "width": 1000,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -895,13 +1032,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/amp/",
-      "publishedDateTime": "2022-01-02T23:56:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T01:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
+        "name": "gadget.co.za",
+        "domain": "gadget.co.za",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1040,143 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-01-metaverse-ai-and-and-other-big-digital-trends-to-watch-in-2022.md",
-      "title": "Metaverse, AI and and other big digital trends to watch in 2022",
-      "excerpt": "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,",
-      "sourceUrl": null,
-      "webUrl": "https://www.coventrytelegraph.net/news/uk-world-news/metaverse-ai-big-digital-trends-22621948",
-      "originalUrl": "https://www.coventrytelegraph.net/news/uk-world-news/metaverse-ai-big-digital-trends-22621948",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-01T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coventry Telegraph",
-        "domain": "coventrytelegraph.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-01-investing-in-sustainability-for-emerging-markets.md",
-      "title": "Investing In Sustainability For Emerging Markets",
-      "excerpt": "Social justice requires emerging market countries to continue economic growth. Technology will evolve to help us grow with minimal use of natural capital. Investment opportunities abound in such technologies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/",
-      "originalUrl": "https://www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cfee17f0ba727b2855465f%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shivaramrajgopal/2022/01/01/investing-in-sustainability-for-emerging-markets/amp/",
-      "publishedDateTime": "2021-12-31T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-01-preparation-is-key-to-ai-success-in-2022.md",
-      "title": "Preparation is key to AI success in 2022",
-      "excerpt": "AI requires rethinking the way enterprises collect, process, and ultimately deploy data to achieve business and operational objectives.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/",
-      "originalUrl": "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/07/GettyImages-617375080.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/31/preparation-is-key-to-ai-success-in-2022/amp/",
-      "publishedDateTime": "2021-12-31T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

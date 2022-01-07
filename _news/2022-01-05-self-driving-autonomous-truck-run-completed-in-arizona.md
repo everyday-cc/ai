@@ -41,6 +41,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Journal Times editorial: Self-driving semis? We're not quite ready"
+    excerpt: "We don’t know if we’re quite ready for this. But it’s probably coming soon to an Interstate highway near you. Soon. We read with interest the news accounts of a test drive of a semitruck that completed an 80-mile route in Arizona with no human on board and no human intervention during the trip using technology developed by TuSimple,"
+    publishedDateTime: 2022-01-07T12:30:00Z
+    webUrl: "https://journaltimes.com/opinion/editorial/journal-times-editorial-self-driving-semis-were-not-quite-ready/article_a6d0d8ec-9c3a-5848-9838-474290237e37.html"
+    type: article
+    provider:
+      name: The Journal Times
+      domain: journaltimes.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/a/6d/a6d0d8ec-9c3a-5848-9838-474290237e37/61d62fd678ed3.preview.jpg?crop=1200%2C630%2C0%2C1&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "05dDK+LP5IWqRTrJOV+Q/z/mBJBmf7QkRw+kKvjRtu28+mVJ6D3QTj3Nje92kNwoA0rFtEWB+7NNWHHlMqHYSuMfbCsxjIUzIaiRfgfCdNw20ItEbhLmBpr7jOTTAoOEiuBX93ZkVfr55cLsDY09KY1O+C4ohMdzEa9zvDOGSQrh1TtB4O4V+NAIHe6KjCYGoVkHAFdbSuLEE7gQQUuX4h4p0OuMbCFLeEtAD5vKY5wOBAjwQ+lkxpk3JOyhSAt5/bJMeJr78PTIUzwjV/9va7RRNW9/DbRQfPUdqpnbQ8mXFUiXDHEVlW0ufqnexG5Q/1GiUJHHYj14LKK40XtIEViVnRSnFiIlryKK853n3TZrRIgw8zt9kZCQftxYuYmm7Vt2B8qC1TWbaDxvo+WEDijM0VTFGZRAOnYOnC6XWOMlzMkA+TwlGX59M6ion39l1QLcZVI0hd01WJTZMocWoFmOh4nKgpgD0h4qxWVeZ/d+t0J9+bc1+DIETtXbCAz6IPny8OPae7K6kgC7ltBG7w==;tDNmrQUXBlm+bKRzbDhTYQ=="
 ---

@@ -1,27 +1,27 @@
 ---
 category: news
-title: "GM says it’s aiming to sell you a self-driving car by middle of this decade"
-excerpt: "By Matt McFarland, CNN Business General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade. GM has missed its own self-imposed self-driving deadlines in the past."
-publishedDateTime: 2022-01-06T01:45:00Z
-originalUrl: "https://localnews8.com/news/2022/01/05/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
-webUrl: "https://localnews8.com/news/2022/01/05/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
+title: "GM says it's aiming to sell you a self-driving car by middle of this decade"
+excerpt: "GM has missed its own self-imposed self-driving deadlines in the past. The automaker claimed back in 2017 that it would be mass producing fully autonomous vehicles by the end of 2019, which didn't occur."
+publishedDateTime: 2022-01-05T20:56:00Z
+originalUrl: "https://www.wicz.com/story/45591223/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade"
+webUrl: "https://www.wicz.com/story/45591223/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2020/12/Joint-KIFI-Local-News-8-and-MIFI-Eyewitness-News-3-Now-logo-scaled.jpg"
-    width: 2560
-    height: 1441
+  - url: "https://WICZ.images.worldnow.com/images/20397967_G.png"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -196,6 +196,6 @@ related:
         height: 382
         isCached: true
 
-secured: "yalcVE6G2RzjQB5qsP389qrZEio3SFz9Bp6+Zu86vdjk5+mjZeUfHFIgFyADPox+b59NB/3pgaMuBJ1FGn78Z64KGdlQIZ0UlnB4t0pRfZJUSUIFhBcjSVecvtrMWcXpL8nBCxDOL/mRQgxvRG+4BdPVcEHpMpzNI3YRZxhbbM1BzcmDejETgQXFcjbzb7al/5wXuVGmj74pJbgLfQS8W00Dq3jPXJXSXugfJmdEU3xuMitQgWdkd79FhuhKZjCoZOYjQAraLonoifjlSa+oQPJ1tWB+GCR61BeobhNi25DvVV+oYHE+gTNRfz3i59MvmMOtWlYpgvR1ZRgRrFgaSnQy8xoVO4otCdZsCto39Z8=;8vSo7YebiMKrdbMkM+QBcw=="
+secured: "6uuf6cEXDnxu8gEoB7RlvZqyWIuhcW6TQ2aRd8lhHKPz4C9GPaNwk9HW14cG/KsixqB0D84KujifFHAq+iUjeXF9ndXhgck6YGTMt8FvOqNTzQ6Y66zGTu40UxL4Fwoxj36IwkZlYM2isnqB17bjg9Z1RCCzgrula4ClrTHhj0oUH1nQQ6kfo2ZprAlzGp1DXDczgyiaLQBy54dp1uALCqD/7zgARzEw4uVAVs+WFuas9Vvu9z4NEpyZIWd07ybFYxyD72WFYEzfIPSudif/h+YTzi8vWht9a1CJPMBh9Mve8u6JzEAwgrAOuCySfDLF+qvPWtqKdJwZcS1DhdVDRtkQrS/7LrELIDBYEAV9VGw=;4AXPjKjhoRjYTqgu/2rNog=="
 ---
 

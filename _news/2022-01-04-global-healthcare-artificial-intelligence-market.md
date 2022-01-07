@@ -71,6 +71,20 @@ related:
         width: 750
         height: 400
         isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+    publishedDateTime: 2022-01-06T15:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-20181152.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 53
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
     excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
     publishedDateTime: 2022-01-04T03:41:00Z
@@ -113,15 +127,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
 
 secured: "js9q8gr7+Bs5+eNJd7Mu+FXBl/lGwpUCIg7ubmP0NRQfEGsIP024K/3hgwpE6S707D4jqSAF2wZTiOeAiKJMUf0yob2xlr/Da1JYj/lNZ2MeQAI1uHLkR8ETystnbssAXWK7SRe0tPr2Dkkj9/mLPeYAyozUtXBM1vopquj+Vxt5EUMNcgiR+0qtJqCsbrTNC1oQP9guq49jtVw3AVCsQ7aC17FN5l1tZYfmgvvbdxL9FMiCvuO8KP+nyvjXlb0Lts9B+vSllIFWILJSO42hZHPfSzY92A7jdOSlzM6Ku7z9NZTt2a80Xxy/ND8zhrn6ZNJSfflvwHBXWsAEIGkgw1noXSMUfHbGaFtmPQlht6E=;G42ejr0q9ipvMbzH3xvfPQ=="
 ---

@@ -27,20 +27,34 @@ images:
 
 related:
   - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. \"I'm sure that's really expensive. And I kind of want to be out there ..."
-    publishedDateTime: 2022-01-06T02:03:00Z
-    webUrl: "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
-    ampWebUrl: "https://amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
-    cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
+    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
+    publishedDateTime: 2022-01-06T09:44:00Z
+    webUrl: "https://techxplore.com/news/2022-01-robot-tractors-farm.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-robot-tractors-farm.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-robot-tractors-farm.amp"
     type: article
     provider:
-      name: RFI
-      domain: www.rfi.fr
-    quality: 61
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://s.rfi.fr/media/display/1e31ffa6-6e94-11ec-95b3-005056bf30b7/w:1280/p:16x9/35bfec8f88a8a4c0579ca6ad4c79d4985b2550a3.jpg"
-        width: 1280
-        height: 720
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/john-deere-unveiled-th.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Robot tractors cause furrowed brows at Vegas tech show"
+    excerpt: "LAS VEGAS - Driverless ploughs and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
+    publishedDateTime: 2022-01-06T04:00:00Z
+    webUrl: "https://www.bangkokpost.com/tech/2243063/robot-tractors-cause-furrowed-brows-at-vegas-tech-show"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 41
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20220106/c1_4192079_700.jpg"
+        width: 700
+        height: 467
         isCached: true
   - title: "Robot tractors may be heading to a farm near you"
     excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."

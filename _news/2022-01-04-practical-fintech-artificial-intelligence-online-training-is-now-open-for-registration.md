@@ -39,6 +39,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "How to Develop a Fintech Mobile Application?"
+    excerpt: "Here’s an elaborate guide on How to Develop a Fintech Mobile Application in 2022. It includes feature set, functions and cost to set up successful business."
+    publishedDateTime: 2022-01-07T13:30:00Z
+    webUrl: "https://www.octalsoftware.com/blog/how-to-develop-fintech-mobile-app"
+    type: article
+    provider:
+      name: iPhone App Development
+      domain: octalsoftware.com
+    quality: 24
+    images:
+      - url: "https://www.octalsoftware.com/blog/public/storage/img/blog/1641562156feature.jpg"
+        width: 1024
+        height: 512
+        isCached: true
 
 secured: "KhPyxDnKeDj8FrI8NhvHn4m/YFSV+Z9aiQfEbXkW1eAi4u6pJymFc7xvoomh1ix0zVNhaURpJ2btoNaFosquKbIAsVGBVP3ssEc3QiMBG/RoMWCyu4LgfDEygRKuX++77rK2qG2TS1bpsVsuivMKzwZj+q5RphS5aJdpAtIHbcDlp0K6wdePrmhRVZVLOhFBfXprttlu/Ik1gVjtNQV2RinmChCG7pdfReirudKHFOia8WHM98/t+HX1jnXf64AbXTEqedW0TPSLsz4FTDrsfCu9TxvyTh+U9FPZJ+utXTg8wk0jXQ5llTsT22f4IdVxaZoqpNDkrVUXEccI2VoMJ9SVeFxHKtcKgQreCle2njI=;x4GNISqfWY9LGdHR+sRYWw=="
 ---

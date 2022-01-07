@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "These are the 13 Largest NYC Tech Startup Funding Rounds of Q4 2021"
+    excerpt: "Everything you need to need to know about the largest NYC startup funding rounds of Q4 2021; broken down by industry, stage, investors, and"
+    publishedDateTime: 2022-01-07T14:27:00Z
+    webUrl: "https://www.alleywatch.com/2022/01/nyc-startup-funding-top-largest-q4-2021-vc/"
+    ampWebUrl: "https://www.alleywatch.com/2022/01/nyc-startup-funding-top-largest-q4-2021-vc/amp/"
+    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/01/nyc-startup-funding-top-largest-q4-2021-vc/amp/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 42
+    images:
+      - url: "https://www.alleywatch.com/wp-content/uploads/2022/01/Q4-2021-nyc-top-startup-funding.jpg"
+        width: 1000
+        height: 525
+        isCached: true
   - title: "These 16 Largest NYC Tech Startup Funding Rounds of 2021"
     excerpt: "Everything you need to need to know about the largest NYC startup funding rounds of 2021; broken down by industry, stage, investors, and"
     publishedDateTime: 2022-01-03T16:07:00Z
