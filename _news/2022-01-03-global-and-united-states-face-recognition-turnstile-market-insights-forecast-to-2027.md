@@ -19,50 +19,59 @@ topics:
   - AI
 
 related:
-  - title: "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027"
-    excerpt: "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery."
-    publishedDateTime: 2022-01-03T22:49:00Z
-    webUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/"
-    ampWebUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
+  - title: "Artificial Intelligence (AI) Hardware Market Scenario, Strategies, Growth Factors and Forecast 2027"
+    excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
+    publishedDateTime: 2022-01-03T14:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-scenario-strategies-growth-factors-and-forecast-2027-2022-01-03"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 51
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/Logistics-Robots.jpg"
-        width: 696
-        height: 392
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027"
-    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2."
-    publishedDateTime: 2022-01-05T23:11:00Z
-    webUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
+  - title: "AI in Computer Vision Market | Developments Analysis and Precise Growth Outlook 2022 to 2026 | Future Business Opportunities and Trends Forecast"
+    excerpt: "Final Report will add the Analysis of the Impact of COVID-19 on this AI in Computer Vision Industry. The Global “AI"
+    publishedDateTime: 2022-01-05T06:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-developments-analysis-and-precise-growth-outlook-2022-to-2026-future-business-opportunities-and-trends-forecast-2022-01-05"
     type: article
     provider:
-      name: Coub
-      domain: coub.com
-    quality: 51
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png"
-        width: 1600
-        height: 840
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "The Worldwide Learning Management System Industry is Expected to Reach $37.9 Billion by 2026'"
-    excerpt: "The global LMS market is expected to grow from USD 15.8 billion in 2021 to USD 37.9 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 19.1% during the forecast period. The growing need for efficient and accessible learning to drive the LMS Market."
-    publishedDateTime: 2022-01-06T20:40:00Z
-    webUrl: "https://menafn.com/1103500440/The-Worldwide-Learning-Management-System-Industry-is-Expected-to-Reach-379-Billion-by-2026"
+  - title: "AI In Marketing Market Report 2022: Global Industry upcoming Trends, market challenges, Share, Size, Growth, Opportunity and Forecast Till 2026"
+    excerpt: "The latest report published by WMR shows that the AI In Marketing Market is likely to garner a great pace in the coming years Analysts examined market drivers confinements risks and openings in the world market The AI In Marketing"
+    publishedDateTime: 2022-01-05T05:03:00Z
+    webUrl: "https://www.openpr.com/news/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
+    ampWebUrl: "https://www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 13
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?860987"
-        width: 416
-        height: 250
+      - url: "https://cdn.openpr.com/V/1/V105262270_g.jpg"
+        width: 800
+        height: 533
         isCached: true
+  - title: "Artificial Intelligence Market| Global Industry Analysis By Size, Share, Covid-19 Impact, Growth Factors And Regional Forecast To 2028"
+    excerpt: "Apple Inc. Baidu IBM Corporation IPsoft Microsoft Corporation MicroStrategy, Inc NVIDIA Qlik Technologies Inc. Verint Systems Inc. (Next IT Corp)"
+    publishedDateTime: 2022-01-04T10:38:00Z
+    webUrl: "https://www.wboc.com/story/45574320/artificial-intelligence-market-global-industry-analysis-by-size-share-covid-19-impact-growth-factors-and-regional-forecast-to-2028"
+    type: article
+    provider:
+      name: WBOC
+      domain: wboc.com
+    quality: 0
 
 secured: "WCr0RtUmfQ+fo+dcah+RkpBwK9pZ7G43qAMr2YIdvVVDgFGg9mG0buMQWi+zUJ8D0T2TWcV/p5kXuYFOUjL1goHcUyBFPQY0M9Su/niKB9wCrAUIbIDLZZPRn0Nf1T8pd1aoLxoFm37TI9YiKmsbW0Vk88GRzb5/Uz7QJLl6RKHRk3PGirO4TBiboHYZxWji4hbsV/PcmSt3o5kp/BNf0h26bF0FVCDvulc7tJH6NL4VJKOb5t/ArhcPFSqfBXaZlflejaWX9T0XhdfjtmasBPctKdrbsbVgOqs11IVqxpgz917SeGiqtbMsXlxhFoe5K8O7uiXY8R3h/SoIawwwxKqLGUPKRBIkkWGexJVJhfA=;m2y29+edYGB5CaW7trD4Hg=="
 ---

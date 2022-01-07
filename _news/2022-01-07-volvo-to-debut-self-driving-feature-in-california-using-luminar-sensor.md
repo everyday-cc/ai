@@ -1,22 +1,30 @@
 ---
 category: news
-title: "Volvo is teaming up with Luminar to test a self-driving car system in California"
-excerpt: "@volvocars has developed a fully autonomous highway driving system it plans to test later this year that uses @luminartech sensors."
-publishedDateTime: 2022-01-05T22:24:00Z
-originalUrl: "https://www.bizjournals.com/sanjose/news/2022/01/05/volvo-luminar-to-debut-self-driving-in-california.html"
-webUrl: "https://www.bizjournals.com/sanjose/news/2022/01/05/volvo-luminar-to-debut-self-driving-in-california.html"
+title: "Volvo to debut self-driving feature in California using Luminar sensor"
+excerpt: "Volvo is planning to deploy the technology, which will allow the car to fully take over driving tasks in some limited situations, in a forthcoming all.."
+publishedDateTime: 2022-01-07T04:12:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
+webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
 type: article
-quality: 0
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Business Journals
-  domain: bizjournals.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://etimg.etb2bimg.com/thumb/msid-88747763,imgsize-905021,width-1200,height-628,overlay-etcio/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Volvo will debut its 'self-driving' Ride Pilot feature in California"
@@ -32,22 +40,6 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fd19e8b0-6e52-11ec-bf4c-1aada46c0efc"
         width: 1600
         height: 1000
-        isCached: true
-  - title: "Volvo to debut self-driving feature in California using Luminar sensor"
-    excerpt: "Volvo is planning to deploy the technology, which will allow the car to fully take over driving tasks in some limited situations, in a forthcoming all.."
-    publishedDateTime: 2022-01-07T04:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88747763,imgsize-905021,width-1200,height-628,overlay-etcio/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Volvo announces Ride Pilot unsupervised self-driving system"
     excerpt: "Volvo on Wednesday announced the new self-driving system Ride Pilot at the 2022 Consumer Electronics Show underway in Las Vegas. Ride Pilot is described as a hands-off, eyes-off system, meaning a driver will be free to do other things when the system is activated,"
@@ -77,7 +69,16 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Volvo is teaming up with Luminar to test a self-driving car system in California"
+    excerpt: "@volvocars has developed a fully autonomous highway driving system it plans to test later this year that uses @luminartech sensors."
+    publishedDateTime: 2022-01-05T22:24:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/01/05/volvo-luminar-to-debut-self-driving-in-california.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
-secured: "L3giewwTiywsSG20YSTTb2Gc3sJhfGs3PV5+vIsZrPfOJ8UGlbLVgPKWuO2ZU9hmzEKxRUKcAdtfMYbkhs9WFta9bQmeBomDRlCEK0SHG8/z/LjrJoJpF/1brZeC5gsgtmCRkO/BsrXToIv9/p7+XVRkeWMORMNRTKqXx8u5thTNe4Hol6yQ5khi1hI6gERjWwuPaLBT4UeFA5eDXC7V7ipJqqWgXLnOxmPNqELI1LSIEJ5GKrXR3nEiJIRx0/Q6iefAdZPYRv0IbPB0sF51hbhQr7D44e0J7mUksYmwENv5uXvKHm2OGuuPgkdTgIw9Owh+PXKpa/vDGdc8T3V29w+RTYsyYuDCpH4YDuirzFs=;DBtAVJ3Kkq32iv2kbMi6dA=="
+secured: "6FBj2k4QtrbZAQS0/vxxGCwbAKuAQp+WP804dtg9MmO7x9b7I6ntqbyi2WaSE19PdVq/8zXbHQItolKrM6HsfuHahbY1/8bxC+J49Dh8MMdHKgxB3Kb5q7cwKaM9VL01lNQaDjKmGZfQK+tJjYsbofRAdwlmAzZ61nLlNe3UYkj8TuUrRwfJprW54lnIk9DeC8MtxmaZLCRp4LDRnUqQtKHKwP1VT+kGGGzf+OCS10aYyK/kyBIgcBleTri5/8k9WqshbihE9LCwpLfFYmtedhO/vXlPbF2ZfpxodOd4/nie8UFu+qXH8o2e4o+v1Gez+FEdrCazmrS77bp0sE3U1MsUcDUKgE2CRzK+DFSK5fA=;gZDnT2GTn1BHPOVFYLSXbg=="
 ---
 

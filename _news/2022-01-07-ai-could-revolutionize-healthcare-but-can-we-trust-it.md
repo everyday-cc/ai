@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-could-revolutionize-health
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
 type: article
 quality: 74
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn-blog.credihealth.com/wp-content/uploads/2022/01/bermix-studio-4ov6VgaiiX0-unsplash-scaled.jpg"
         width: 2560
         height: 1759
+        isCached: true
+  - title: "Why 1 CMIO thinks AI can't revolutionize healthcare just yet"
+    excerpt: "Despite successfully integrating some AI platforms into his practice, Brett A. Oliver, MD, chief medical information officer at Louisville, Ky.-based Baptist Health Medical Group, isn't convinced that AI is in a place to transform healthcare."
+    publishedDateTime: 2022-01-06T16:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/why-1-cmio-thinks-ai-can-t-revolutionize-healthcare-just-yet.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "dzv+4Ra4svGkHP5tJPt0HofwyDcGRos44Dp8KVidWs0EiUZ9miY3tq9828GB5AVeAHfUCribnkpoMcH47vYsGA9fioyOh7U3OCADIHtyW442eI6BryReC2mk//SgG9sxilI3VnNLj0Nmdj+AnECzAGWsZ9leGQjWfxudZsG05AHW8RVq+0HlALJUq+8AJIduQmmBupn3nNVhj95WVZe63HCMkO4Zi2Z2wsLycZEMzdDmftdNKEFiUDIbHWt4ZMVb6E1r3ozU7iGfXNvZuV+kerDfbZXHt+jJbuc6sa3uzmf57A/Jm7C/CplzLSZeQf8n0zduVi/Ovj3nRwvge2tW84jkKxU47vmSlyfLldsoaCY=;slnGUO73DEJM/LKe81LtKg=="

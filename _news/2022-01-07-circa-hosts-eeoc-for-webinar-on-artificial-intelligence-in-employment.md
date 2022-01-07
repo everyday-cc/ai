@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Circa Hosts EEOC for Webinar on Artificial Intelligence in Employment"
-excerpt: "Circa is excited to welcome Keith E. Sonderling, Commissioner, U.S. Equal Employment Opportunity Commission (EEOC) at 11 a.m. CT on Jan. 13, 2022 for a complimentary webinar on \"The Promise and Perils of Artificial Intelligence (AI) in"
-publishedDateTime: 2022-01-06T20:05:00Z
-originalUrl: "https://www.lelezard.com/en/news-20181633.html"
-webUrl: "https://www.lelezard.com/en/news-20181633.html"
+excerpt: "Circa is excited to welcome Keith E. Sonderling, Commissioner, U.S. Equal Employment Opportunity Commission (EEOC) at 11 a.m. CT on Jan. 13, 2022 for a complimentary webinar on “The Promise and Perils of Artificial Intelligence (AI) in Employment Decision-Making."
+publishedDateTime: 2022-01-06T19:15:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-74a93497755881e2e9c20357998f9328"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-74a93497755881e2e9c20357998f9328"
 type: article
-quality: 39
-heat: 39
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "qpLy6qu/nQlovFwPQOyyN5T/b1xFi7F7cfkhXGb0/T6rrcr2P9x2kqlObKv4SImIos0fbg5z3YEw8h+vDHk5ghNdwvxaN+vUU5cId6Kyqog7l9C0H9P3lF3QKrTCtL4q0hYcP+5GgzGn6XOALi4PcmRo+0xV6h90u1MCYvfqPYNvOoTtHki2jnSOAcBmnCY/doSl7NrZ6dimhGUbZ4u5eCMGrHXpoQx07giK/sKUhb8kNas8RU2zEwPaZtcTPnTGXjvsegwQOqayKzdXbEMn+5pXOFsXnc+vJDpTRrZrFmPwTq0wdsqGE2fjfxRkwqpOAofDAQQjqaaoyzAY9yBnXW3nvHaqdXR/ItgzDTCTqNQ=;orNv+ZpxpW1cAPp7WTEiJQ=="
+secured: "6j2svALDJN6mq5orQwsg70p36rUiBAcmsRDmCWqxCtU15lOZiZQvjzyjH3v3VqZH3eAJ4m43bAZCpKnmeznGtYQQmTLGqv4yJB9sxGAv3SmfLWv9Cnqc+8HeUpcuAqB8pry046cY0RfKIxwMdjg6YTryqEp0+6Gbcjf66m0LzeI7J6ZivLWwY/ZtvZQfyiZQydhSj+BC4UJOOG3AKqYOKI7ZA6XRhMf/DUeUONAOfb66D/+NEgPudac4dhDYegiyK9ULLlYCkI9alatyJaY1HoLW4TFCumKvy49yTQdH80CMnEMVzkGQJuVEw/6Ny9Q0gO6sR4K0JlM/fBd0EYLWIdrrI1OjcbQGHebkYKSienw=;3CNE7/A1/TW5GLhl0vZ+Hg=="
 ---
 

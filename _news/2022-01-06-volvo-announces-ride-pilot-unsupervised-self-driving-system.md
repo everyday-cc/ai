@@ -39,6 +39,22 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Volvo to debut self-driving feature in California using Luminar sensor"
+    excerpt: "Volvo is planning to deploy the technology, which will allow the car to fully take over driving tasks in some limited situations, in a forthcoming all.."
+    publishedDateTime: 2022-01-07T04:12:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88747763,imgsize-905021,width-1200,height-628,overlay-etcio/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Volvo to launch self-driving feature in California"
     excerpt: "Volvo Cars and self-driving sensor maker Luminar Technologies plan to release a hands-free driving system called ‘Ride Pilot’ that will debut in California."
     publishedDateTime: 2022-01-06T12:29:00Z

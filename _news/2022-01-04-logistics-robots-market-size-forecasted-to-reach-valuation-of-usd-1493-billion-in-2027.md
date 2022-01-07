@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-r
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 416
         height: 250
         isCached: true
-  - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
-    publishedDateTime: 2022-01-03T06:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5242220-global-and-united-states-face-recognition-turnstile-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
 
 secured: "OExHHr4NZsbW4GBKGKOeDZrDGq7YP59XXwS9pTpKsexzY34PQqkP0u0Nhz845R1vZfzjeIGpH9hHkFWUr50bcY/afwrl8DQvfW4ZEKf61EgqGEDAdkr5GO5Dcdvcpwh4GcY/oQ887qA3+0+ngT4godcgFNCRlmDZTBOtQY0yNqyCsH6bT4FIJS8FFXe7+LnL6VG69JcMnom/+mrv6QTlJgeQxnEKCSxznG3+k5lpw7iq44UkwruszdG7UxkQ9nTlF3por9MpRhuXWtAOw81fknrzvt2fAM6WKTFA/kcrkElyXioKbzJClC2517flWoAgzF7awCxbkR/N7Kt8oNPKIKCRyT9saHF7Pv3AvLrfhe8=;OPm9yrzlqTCqUX6+2wYbqw=="
 ---

@@ -55,15 +55,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
-    publishedDateTime: 2022-01-03T06:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5242220-global-and-united-states-face-recognition-turnstile-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
 
 secured: "PucO0O4wHxdOuVWCx92dFcurZ2qt/XmY4sOJGL6mvKhU/kRhtr5MwtSghR1j2eNH3e2pxrYvn1Wek9TNVH/s0tTKTCXgaOJGC9wjBN2FhRTRsvx7ZsvGfmzzBR2Jt3rKfcxk7Wt4peRJa2KbJy4iAmDcIVdbF2uwLXIbHoxER7MwUX7ktEryOhkOv4/faP0IAeXJ8JKdv+f5gx77TEWr+3Djr/VBgTGB/6UfcdxWowzfAayRWk+iDvMigQ3d1XqthnbHUY804yz18kms+SKndcrmg4Jf+zBYognc3Orw7FG9zWm89XARmCrXtl8tN6MystR5xmQSAjWu+v2IQQ8jlzm/NPWyvfSwX1EugcRcRUg=;rbz/DQi2lKMr5EdWC+Tmzw=="
 ---

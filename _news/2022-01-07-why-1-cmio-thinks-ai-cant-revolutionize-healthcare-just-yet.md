@@ -1,0 +1,63 @@
+---
+category: news
+title: "Why 1 CMIO thinks AI can't revolutionize healthcare just yet"
+excerpt: "Despite successfully integrating some AI platforms into his practice, Brett A. Oliver, MD, chief medical information officer at Louisville, Ky.-based Baptist Health Medical Group, isn't convinced that AI is in a place to transform healthcare."
+publishedDateTime: 2022-01-06T16:53:00Z
+originalUrl: "https://www.beckershospitalreview.com/innovation/why-1-cmio-thinks-ai-can-t-revolutionize-healthcare-just-yet.html"
+webUrl: "https://www.beckershospitalreview.com/innovation/why-1-cmio-thinks-ai-can-t-revolutionize-healthcare-just-yet.html"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: Becker's Hospital Review
+  domain: beckershospitalreview.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+    width: 800
+    height: 600
+    isCached: true
+
+related:
+  - title: "AI Could Revolutionize Healthcare. But Can We Trust It?"
+    excerpt: "At CES 2022, A panel of AI experts discussed what role AI might play in the future of healthcare. In a session titled \"Consumer Safety Driven by AI,\" Pat Baird, an AI engineer and software developer who works in standards and regulations for Phillips,"
+    publishedDateTime: 2022-01-06T21:45:00Z
+    webUrl: "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
+    ampWebUrl: "https://amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 74
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/bM6A39gRO7/sizes/alex-knight-2ejcsulrwc8-unsplash_resize_md.jpg"
+        width: 744
+        height: 496
+        isCached: true
+  - title: "Top 8 Technology Trends to Revolutionize the Healthcare Industry in 2022"
+    excerpt: "Let’s have a look at some of the best healthcare technology trends that can revolutionize the healthcare industry for the greater good."
+    publishedDateTime: 2022-01-05T05:29:00Z
+    webUrl: "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/"
+    ampWebUrl: "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-credihealth-com.cdn.ampproject.org/c/s/www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/"
+    type: article
+    provider:
+      name: Stress Fracture
+      domain: credihealth.com
+    quality: 58
+    images:
+      - url: "https://cdn-blog.credihealth.com/wp-content/uploads/2022/01/bermix-studio-4ov6VgaiiX0-unsplash-scaled.jpg"
+        width: 2560
+        height: 1759
+        isCached: true
+
+secured: "42f2jKAfJ49lDDa5RvIx2xeodVYp8ljNOjcTNpo3MFh1iTGV6K6ibvL6cJQHfZsUJuHv2OcYXY5MKkmLVMflcYYqTLRglAfTO/p1Csp9U4s+voYvkuvop7gHX9ck2+AakYf8EH7Pwf7dIUILJMaFhGiOfDhuxXlw4jmNkpuGljqy7nAv1cv5ktWBLJxN1tE3203zrk+eoyC6oLODGWOpjRr40wBogT/TUBa5sNChF9iL3AzaTALGCHpt095n71wpIopYzXX0hcV9Zr0gx8q9xY27KbvMmdy79fzQJ5jrx13ifpRAwwiR080DFOHATk2ruSDyd0yrEaNFR7Loo0ZJE8s8oacVH3nO1pLrnjWLMMY=;TX3M2LHTho98eH1dG3jrEQ=="
+---
+

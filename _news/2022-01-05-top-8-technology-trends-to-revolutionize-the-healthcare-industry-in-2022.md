@@ -43,6 +43,20 @@ related:
         width: 744
         height: 496
         isCached: true
+  - title: "Why 1 CMIO thinks AI can't revolutionize healthcare just yet"
+    excerpt: "Despite successfully integrating some AI platforms into his practice, Brett A. Oliver, MD, chief medical information officer at Louisville, Ky.-based Baptist Health Medical Group, isn't convinced that AI is in a place to transform healthcare."
+    publishedDateTime: 2022-01-06T16:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/why-1-cmio-thinks-ai-can-t-revolutionize-healthcare-just-yet.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "uFbbSBjMRtG6MODbcGLXCalc/Zx4Ta6VeAfzVVwp4N0zl9bE9onTosoRfZZ1GZ9LK9AWmgs8jwq9fTtj/dN/2+dw0/w3/sJ4nIB6JnEYru8gRaIApfpuxdAtptlhR2lezP194xLKCSkrL42/K5b8aAX/5KujeospetXYY+HenC38O6RzTh+3uc73dDw1AOxFhfymUuP4JE+S0QcKcnv7JmjVKhp22a4wWl8hABzlRaHLKEU5i4hdyhtN/FHBpEzuC56IIHmrOeUUU5UPleFZ1Qxeku5ffkMLavKY7bLaKQrkyOvzs45key+hxd7YMee31QdtgtXUVUypnBoIb/2XBsaa3DTBxZkCGiK+LVaaQqM=;LGpKO1RWebNv5VDYQCRQwA=="
 ---
