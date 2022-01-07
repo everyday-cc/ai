@@ -1,23 +1,29 @@
 ---
 category: news
 title: "SK Hynix tipped for Qualcomm AI chip partnership"
-excerpt: "SK Hynix vice chairman and CEO Park Jung-ho told The Korea Herald at CES 2022 it is working on plans to jointly invest with sister company SK Telecom (SKT) and US-based Qualcomm to develop energy-efficient AI chips."
-publishedDateTime: 2022-01-06T15:30:00Z
-originalUrl: "https://tynmagazine.com/sk-hynix-tipped-for-qualcomm-ai-chip-partnership/"
-webUrl: "https://tynmagazine.com/sk-hynix-tipped-for-qualcomm-ai-chip-partnership/"
+excerpt: "SK Hynix vice chairman and CEO Park Jung-ho revealed plans to jointly invest in developing energy-efficient AI chips."
+publishedDateTime: 2022-01-06T08:50:00Z
+originalUrl: "https://www.mobileworldlive.com/asia/asia-news/sk-hynix-tipped-for-qualcomm-ai-chip-partnership"
+webUrl: "https://www.mobileworldlive.com/asia/asia-news/sk-hynix-tipped-for-qualcomm-ai-chip-partnership"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: tynmagazine.com
-  domain: tynmagazine.com
+  name: Mobile World Live
+  domain: mobileworldlive.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "eEYN4xjsAeHKvTRI3rAYa6D6vK3RezQcexWoLL/rP50RxoFuBN5dyabIjUUrFm2WmIkcxVa2wySFwKBzsj3DE23VUnLvvEk1JG06iHyu7yRfTqTrpfqzTjSPxPed6QqL2PN77uu0Z63I57PBcfdYBGbkzMqWqegAWZuzjiei0t0uZyQBf14/i38QP065p5UDu5D7E6fE8MNoCe/DzgaIcMYAP3fxbVE4YyqImKwxtKX1SBgbuWL61hx0gtkRkE2XxASNvgXZWz5Tk/iJ2maIjlMG/7r7v6DzqGjIFgl5+XFRq3UchOQbP4615CRXlcEvpSuCPK3L2BG52cxl+G+NA67Re5XhRp8BS5E/FK4eBuY=;OQIPRhtAfQluq2Pr9WjXAQ=="
+images:
+  - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/10/SK-Hynix.jpg"
+    width: 650
+    height: 400
+    isCached: true
+
+secured: "DqWgPgbBmDgA2fnAYx7UEWzLeGAkgp7CzJvSY+iYJQkRGj6wzM5lJYe6V9GrexquS51rrSgx25if7etKBche3vzIV5F3ajoDRjMlvsLl+e8K9lQ+/85ESSXgSnCOPFtrcPSdYStMo7ZKZMkCFdhrNAQZsQzdozgYvNxTaJQ63E0XfFCkQrifcqDfJjXPsB0jTdg5jdI0n2q6sE/m+yq22nu4Q+zONDaLZ3GpQZ61LUDq3gT+4M+hdTL8xCGa10Pk5KRzJ9QmlPqzdK8p7t5wn/WofdW8oGivPVQGPuHA4dpTfPHoFqVGfz0EbCfMi0I/bYgByvgkO9c8FfQKS/DV1mjtFuGyxjTWyEdfGwSheO0=;jKW5OhIByZLhY+tZGx0lzw=="
 ---
 

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Intersects with Floor Scrubbers for Robotic In-store Analytics"
+    excerpt: "AI robotics firm Brain Corp is partnering with Tennant Company to launch the data capture solution Inventory Scan, which is fitted to autonomous floor scrubbers."
+    publishedDateTime: 2022-01-07T00:14:00Z
+    webUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/"
+    ampWebUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/temast-457x305.jpeg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "How analytics, AI tools can overlook multiracial patients"
     excerpt: "Data-driven tools that incorporate race have to figure out how to account for patients who identify with more than one race, as multiracial people—today, 10% of Americans—become a larger segment of the U."
     publishedDateTime: 2022-01-03T10:01:00Z

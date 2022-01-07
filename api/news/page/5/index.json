@@ -2,6 +2,204 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-03-75-of-b2b-sales-organizations-will-use-ai-guided-selling-by-2025.md",
+      "title": "75% of B2B Sales Organizations Will Use AI-Guided Selling by 2025",
+      "excerpt": "A new report shows that by 2025, 75% of B2B sales organizations will augment their efforts with selling guided by AI:",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/75-percent-b2b-sales-organizations-ai-selling-2025/",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/75-percent-b2b-sales-organizations-ai-selling-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datamation.com/wp-content/uploads/2021/10/A-rep-and-an-employee-meet-around-a-conference-room-table.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-jon-nordmark-builds-iterateai-as-digital-transformation-accelerator.md",
+      "title": "Jon Nordmark Builds Iterate.ai As Digital Transformation Accelerator",
+      "excerpt": "When former hockey player and luggage e-commerce entrepreneur John Nordmark was recruited as a board member for an Eastern European accelerator, he had little idea that the journey would lead to the development of an AI-powered,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cf504a2261ffd176941f6f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2146%26cropY1%3D86%26cropY2%3D1293",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/amp/",
+      "publishedDateTime": "2022-01-03T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-aptivs-machine-learning-powered-radar-sees-even-what-you-dont.md",
+      "title": "Aptiv’s machine learning-powered radar sees even what you don’t",
+      "excerpt": "Aptiv is using machine leaning technology to help self-driving cars see objects, even if they're out of sight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-2022/",
+      "originalUrl": "https://www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/lyft-aptiv-screen-press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-2022/?amp",
+      "publishedDateTime": "2022-01-03T03:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-how-ar-and-computer-vision-lead-to-smart-policing.md",
+      "title": "How AR And Computer Vision Lead To Smart Policing",
+      "excerpt": "AR and computer vision play their part in smart city policing by automating routine yet critical tasks performed by law enforcement personnel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d2ae2e967372eeb3ce8cd4%2F0x0.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/amp/",
+      "publishedDateTime": "2022-01-03T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-jetour-x-1-hybrid-suv-unveiled-with-huawei-l3-autonomous-driving.md",
       "title": "Jetour X-1 Hybrid SUV unveiled, with Huawei L3 autonomous driving",
       "excerpt": "JETOUR Motors has just announced a new hybrid vehicle. It is the Jetour X-1 Hybrid SUV crossover, which is powered by the Huawei L3 autonomous driving assistance system and more. For those unaware, the Chinese company is a sub brand of Chery Automobiles.",
@@ -574,6 +772,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-31-autonomous-car-developers-lobby-to-defang-safety-data-regulations.md",
+      "title": "Autonomous car developers lobby to defang safety data regulations",
+      "excerpt": "They collect user data for their own ends, but when it comes to allowing crash data to be used to improve safety, these companies push for less transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/autonomous-car-developers-lobby-defang-130037856.html",
+      "originalUrl": "https://www.aol.com/news/autonomous-car-developers-lobby-defang-130037856.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/pZO11xkcYPIQRQKW9S3Yjw--~B/aD00OTk7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/1f2a5350a0516b213da3605401b63478",
+          "width": 840,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-maybe-2022-should-be-the-year-we-turn-over-decision-making-to-the-ai.md",
       "title": "Maybe 2022 should be the year we turn over decision-making to the AI",
       "excerpt": "An increasingly popular idea is to outsource choices to algorithms, even New Year's resolutions. It doesn’t sound half bad.",
@@ -942,265 +1183,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions.md",
-      "title": "UNESCO AI Ethics Impacting 2022 Global Startups And Humanity’s Billions",
-      "excerpt": "AI influences nearly 8 billion people and human & earth diverse ecosystems on an unprecedented scale. Startups accelerate to incorporate AI innovation as AI tools proliferate. UNESCO is the United Nations Educational,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c769fb6adcbcb70b55465d%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2021/12/30/unesco-ai-ethics-impacting-2022-global-startups-and-humanitys-billions/amp/",
-      "publishedDateTime": "2021-12-30T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-2021-year-in-review-google-quantum-ai.md",
-      "title": "2021 Year in Review: Google Quantum AI",
-      "excerpt": "Google’s Quantum AI team has had a productive 2021. Despite ongoing global challenges, we’ve made significant progress in our effort to build a fully error-corrected quantum computer, working towards our next hardware milestone of building an error-corrected quantum bit (qubit) prototype. At the same",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/2021-year-review-google-quantum-ai/",
-      "originalUrl": "https://blog.google/technology/research/2021-year-review-google-quantum-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2019_SB_Google_0264_quantum_2880_x_1177_px.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/2021-year-review-google-quantum-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/2021-year-review-google-quantum-ai/amp/",
-      "publishedDateTime": "2021-12-30T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-ethical-ai-a-perfect-world-or-a-perfect-storm-blog-1-of-2.md",
-      "title": "Ethical AI : A Perfect World Or A Perfect Storm Blog 1 Of 2.",
-      "excerpt": "This blog is one of two discussing Ethical AI offering perspectives of a Perfect World or a Perfect Storm or the AI Dilemma that leader must navigate forward to use AI practices effectively, and efficiently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc42c9bc60197a26472c1fc%2F0x0.jpg",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/amp/",
-      "publishedDateTime": "2021-12-30T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution.md",
-      "title": "CES 2022 Innovation Award Honoree DeepBrain AI to showcase its AI Human solution!",
-      "excerpt": "DeepBrain AI's video synthesis solutions, a CES 2022 Innovation Awards Winner, leverages the power of Artificial Intelligence to quickly create lifelike human-based AI avatars that inform, solve and guide users through thousands of possible scenarios and real time interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution-1031071561",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution-1031071561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1717439/The_technology_implemented_forms_industry_fields.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-30T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-unlock-your-windows-11-laptop-using-your-face-with-windows-hello.md",
-      "title": "Unlock your Windows 11 laptop using your face with Windows Hello",
-      "excerpt": "It isn't exclusive to the iPhone. You can log in to your Windows 10 or Windows 11 laptop just by looking at the webcam.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
-      "originalUrl": "https://www.cnet.com/tech/computing/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/O9M85vzPI46U5dANLE-2mEbt1Vw=/1200x630/2017/08/28/d55d6635-687d-485d-9416-92f083955b66/lenovo-miix-720-15.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/unlock-your-windows-11-laptop-using-your-face-with-windows-hello/",
-      "publishedDateTime": "2021-12-30T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

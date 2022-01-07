@@ -34,34 +34,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Ministry rolls out self-driving minibus trial at QF Campus"
-    excerpt: "The Ministry of Transport, in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the trial of an autonomous minibus with zero carbon emissions at Qatar Foundation's Campus."
-    publishedDateTime: 2022-01-02T08:45:00Z
-    webUrl: "https://www.gulf-times.com/story/707285/Ministry-rolls-out-self-driving-minibus-trial-at-Q"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 24
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/120222114530384050130.jpg"
-        width: 620
-        height: 355
-        isCached: true
-  - title: "Ministry of Transport rolls out self-driving minibus trial at Qatar Foundation campus"
-    excerpt: "Over the next 10 days, the autonomous minibus trial will take place within Education City along a predefined route. Know the full details here."
-    publishedDateTime: 2022-01-02T08:26:00Z
-    webUrl: "https://www.iloveqatar.net/news/travel/ministry-of-transport-rolls-out-self-driving-minibus-trial-at-qatar-foundation-campus"
-    type: article
-    provider:
-      name: I Love Qatar
-      domain: iloveqatar.net
-    quality: 17
-    images:
-      - url: "https://www.iloveqatar.net/public/images/local/_760x500_clip_center-center_none/Ministry-of-Transport-rolls-out-self-driving-minibus-trial-at-Qatar-Foundation-campus.jpg"
-        width: 760
-        height: 500
-        isCached: true
 
 secured: "vdr5oetbOrR0TX3OOCwtCDhcCXcoNHNGpWSADmTo4BEMILi/daffUF7XMfyp1KQkG+s3YS5S4LbPomzbro9HoUwgG4ulriXELF2rVwo8zlhAMPaLaCnRjKewWtAwqkNggLUp4gkGjAk4o/NshACAOfnIH1UBQMV1dN0/Pgr8dCjyyrI/Rn4SRU97PDuR5a1MmbDJxWMP167RlSUblBHyYTAtnOBu225UoCHvqq+3GPgMr8O4z/7BY/72jOLb7WmGGbAkxcNWwxGajWlMLj+o727rxPaKYlf141glDZHxNJjhqZhK41H5Q+Juv5zafSTPsuF5P0zeDmol4PPPmyMuPKC7jRHU0oBOQ2OasomcPZyXl2LrVv1VUzVIu/RAdejQGNM8WaFHKKGZHEcNO35EE2qChRLJwnAc5STqvDfeW4rcGHVWmRw8mDdvsyKJ79HOc0yw2TCyn7030B5PteTB58EgQ5+ES0TcAQuVZwaIARM5vab0ZdtnksfrkZWHeidjw01Xk0V+b0pBBv3bfax7Vw==;PgQ2ffcEmf9gamXZM33UyQ=="
 ---

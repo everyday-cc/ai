@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-wi
 cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hackster
@@ -28,19 +28,48 @@ images:
     isCached: true
 
 related:
-  - title: "SensoryCloud.ai Launches Cloud-Based Voice And Vision AI Services"
-    excerpt: "Sensory Inc., a Silicon Valley innovator of machine learning solutions for speech recognition and biometric identification, announces the beta release"
-    publishedDateTime: 2022-01-06T11:33:00Z
-    webUrl: "https://www.hostreview.com/news/220106-sensorycloudai-launches-cloud-based-voice-and-vision-ai-services"
+  - title: "At CES, NVIDIA sets the stage for AI everywhere"
+    excerpt: "Although many of the CES themes may seem unrelated, there is one underlying technology – and that's artificial intelligence."
+    publishedDateTime: 2022-01-06T22:48:00Z
+    webUrl: "https://www.zdnet.com/article/at-ces-nvidia-sets-the-stage-for-ai-everywhere/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/at-ces-nvidia-sets-the-stage-for-ai-everywhere/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/at-ces-nvidia-sets-the-stage-for-ai-everywhere/"
     type: article
     provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 39
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+  - title: "CES 2022: Gamers, Creators, Drivers Feel GeForce RTX, NVIDIA AI Everywhere"
+    excerpt: "An address prior to CES showed next-gen games, new tools for creating virtual worlds, and AI vehicles — all accelerated by NVIDIA technologies."
+    publishedDateTime: 2022-01-06T15:56:00Z
+    webUrl: "https://innotechtoday.com/ces-2022-gamers-creators-drivers-feel-geforce-rtx-nvidia-ai-everywhere/"
+    ampWebUrl: "https://innotechtoday.com/ces-2022-gamers-creators-drivers-feel-geforce-rtx-nvidia-ai-everywhere/amp/"
+    cdnAmpWebUrl: "https://innotechtoday-com.cdn.ampproject.org/c/s/innotechtoday.com/ces-2022-gamers-creators-drivers-feel-geforce-rtx-nvidia-ai-everywhere/amp/"
+    type: article
+    provider:
+      name: Innovation & Tech Today
+      domain: innotechtoday.com
+    quality: 57
     images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
+      - url: "https://innotechtoday.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
+  - title: "Nvidia's upgraded AI art tool turned my obscure squiggles into a masterpiece"
+    excerpt: "It's incredible, the things we can do with AI nowadays. For artists looking to integrate artificial intelligence into their workflow, there are ever more advanced tools popping up all over the net. One such tool is Nvidia Canvas,"
+    publishedDateTime: 2022-01-06T12:28:00Z
+    webUrl: "https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/"
+    ampWebUrl: "https://www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/"
+    cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 54
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/dyzDakosYHUsMs4BkwAvr4-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "6s+fuYqHB2oOuCq8fttSS5/2GrOPxRaFptdXZcZH7zoX2TaGIW3AjkECp/0tGRU48lDdRdfu0KjaatuRjeEx/aQvk+3fcA42kqLxLZtZ9Gf9SakyjhPgoIuz3JuQbE73PzhVyfywFndwgrAXmh5GsCpLChhOvAxDqEyr/h4vBuqq1JmgepFy0KnTtPioH1KR1mCmb7Uev1jwm6ipmi4flYOSCB2PR+raeAz7/KPY5wQKjB2S1pWsgnv/GbXBFSpD06A+ysNVdSeqQu+OL9/kLu+dpCQ3W1zk62hs8Dc7PJbMxtftbIPbOcnGXBetxJsdPc4OJRp/bfK5a3nw9+mH7twUdz3RaW/jch5AI/IidgI=;yK0o9vuMf0KMI4VqoOQMCg=="

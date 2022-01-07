@@ -2,6 +2,238 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-12-28-our-most-technical-people-are-down-on-ai-and-thats-a-good-thing.md",
+      "title": "Our most technical people are down on AI ... and that's a good thing",
+      "excerpt": "Commentary: The IEEE crowd is skeptical about AI's most bullish claims, which turns out to be exactly what we need to push it forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "originalUrl": "https://www.techrepublic.com/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/27/45351a94-cac1-42d5-8bd6-3df2bf850703/resize/1200x/3aea1d8794e74fd59682cb05feb0db29/shutterstock-1277342386.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/our-most-technical-people-are-down-on-ai-and-thats-a-good-thing/",
+      "publishedDateTime": "2021-12-27T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations.md",
+      "title": "Covid-19 Causes Global Supply Chain Havoc Intensifying Last Mile Logistics AI Innovations",
+      "excerpt": "This blog discusses COVID-19 impacts on the global supply chain and the havoc it has caused intensifying Last Mile Logistics and Real Time Monitoring of AI intelligence software solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca0586b099be41a4554665%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/27/covid-19-causes-global-supply-chain-havoc-intensifying-last-mile-logistics-ai-innovations/amp/",
+      "publishedDateTime": "2021-12-27T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges.md",
+      "title": "The Maritime Robotics Challenge: Collaboration to Solve “Unsolvable” Challenges",
+      "excerpt": "The Mohamed Bin Zayed International Robotics Challenge offers more than $3 million USD in prizes.  This year, the Maritime Robotics Challenge is designed to bring emerging technologies together to tac",
+      "sourceUrl": null,
+      "webUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
+      "originalUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2021/12/1024px-Maritime_Transportation-e1640629145440.jpg",
+          "width": 612,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
+      "publishedDateTime": "2021-12-27T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dronelife",
+        "domain": "dronelife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says.md",
+      "title": "Robotics might be ‘bigger than industrial revolution,’ Lightspeed Partner says",
+      "excerpt": "Raviraj Jain, whose firm has invested in a startup that’s developing a grasping tool, says warehouses represent ‘the biggest opportunity’ for robotics at present",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says-11640620538194.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says-11640620538194.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2021/12/27/600x338/Robotics_1640620827696_1640620827828.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says/amp-11640620538194.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says/amp-11640620538194.html",
+      "publishedDateTime": "2021-12-27T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report.md",
+      "title": "HAI ROBOTICS Celebrates 5th Anniversary, Gets AI Unicorn Nomination by Hurun Report",
+      "excerpt": "In the past five years, the company secured strong footholds in factories and warehouses with its ACR solution. It was named a global unicorn in the AI sector by Hurun's index of global unicorn this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
+      "originalUrl": "https://www.dcvelocity.com/articles/53333-hai-robotics-celebrates-5th-anniversary-gets-ai-unicorn-nomination-by-hurun-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dcvelocity.com/ext/resources/user-submissions/articles/8115abd3-6755-4174-881a-6e904d3144cf.jpeg?height=635&t=1640621986&width=1200",
+          "width": 600,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T07:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DC Velocity",
+        "domain": "dcvelocity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-a-desert-robot-depicts-ais-vast-opportunities.md",
       "title": "A desert robot depicts AI’s vast opportunities",
       "excerpt": "The next chapter in AI development will be defined by two trends: increased accessibility and increased technical maturity.",
@@ -895,238 +1127,6 @@
       "provider": {
         "name": "wamda.com",
         "domain": "wamda.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-imagine-a-world-without-ai.md",
-      "title": "Imagine a world without AI",
-      "excerpt": "Artificial Intelligence is no more the future. It is already a part of practically every aspect of our lives. But AI depends heavily on AI models that..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88509489,imgsize-38988,width-1200,height-628,overlay-etcio/imagine-a-world-without-ai.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/imagine-a-world-without-ai/88509489",
-      "publishedDateTime": "2021-12-26T17:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-2021-in-review-out-with-jedi-in-with-jwcc.md",
-      "title": "2021 in review: Out with JEDI, in with JWCC",
-      "excerpt": "On the latest episode of The Daily Scoop Podcast, DOJ CIO Melinda Rogers, USASMDC Col. Samuel Glover and former Air Force Deputy CIO Bill Marion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fedscoop.com/2021-in-review-out-with-jedi-in-with-jwcc/",
-      "originalUrl": "https://www.fedscoop.com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png",
-          "width": 629,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-the-perks-and-pitfalls-of-creating-prolific-ai-inventors.md",
-      "title": "The perks and pitfalls of creating prolific AI inventors",
-      "excerpt": "As more AI “invents,” they may become prolific inventors of the future. If patents are granted, who should get the rewards?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/",
-      "originalUrl": "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/GettyImages-1179964586.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/26/the-perks-and-pitfalls-of-creating-prolific-ai-inventors/amp/",
-      "publishedDateTime": "2021-12-26T13:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-ai-camera-intelligence-a-company-to-watch-smarterai.md",
-      "title": "AI Camera Intelligence : A Company To Watch SmarterAI",
-      "excerpt": "This blog focuses on AI Smarter Camera Intelligence, trends in this market segment and an interview with the CEO of Smarter AI, Chris Piche.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intelligence--a-company-to-watch-smarterai/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intelligence--a-company-to-watch-smarterai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c62c2e34d9dede0a90a84d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intelligence--a-company-to-watch-smarterai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/26/ai-camera-intelligence--a-company-to-watch-smarterai/amp/",
-      "publishedDateTime": "2021-12-26T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-reviving-fintech-services-6-steps-to-prevent-false-declines.md",
-      "title": "Reviving Fintech Services: 6 Steps to Prevent False Declines",
-      "excerpt": "From using fraud tools to providing more data,, Managing Director EMEA for Signifyd, uncovers the importance of preventing false declines.",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/digital-payments/reviving-fintech-services-6-steps-prevent-false-declines",
-      "originalUrl": "https://fintechmagazine.com/digital-payments/reviving-fintech-services-6-steps-prevent-false-declines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/data_2.jpg.png?itok=kYq70YSF",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

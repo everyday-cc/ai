@@ -7,7 +7,7 @@ originalUrl: "https://www.modernhealthcare.com/information-technology/how-analyt
 webUrl: "https://www.modernhealthcare.com/information-technology/how-analytics-ai-tools-can-overlook-multiracial-patients"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Intersects with Floor Scrubbers for Robotic In-store Analytics"
+    excerpt: "AI robotics firm Brain Corp is partnering with Tennant Company to launch the data capture solution Inventory Scan, which is fitted to autonomous floor scrubbers."
+    publishedDateTime: 2022-01-07T00:14:00Z
+    webUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/"
+    ampWebUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/temast-457x305.jpeg"
+        width: 457
+        height: 305
+        isCached: true
   - title: "DigiMax Launches ESG AI Division; Invests into Green Energy Solutions Company MADA Analytics"
     excerpt: "DIGIMAX GLOBAL INC. (the \"Company\" or \"DigiMax\") (CSE:DIGI) is excited to announce it is launching an ESG Solutions Division within th"
     publishedDateTime: 2022-01-03T12:05:00Z

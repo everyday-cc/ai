@@ -1,63 +1,26 @@
 ---
 category: news
 title: "Autonomous car developers lobby to defang safety data regulations"
-excerpt: "The fight over autonomous vehicle crash data is a harbinger of fiercer debates to come as humans increasingly interact with robots and artificial intelligence technology increasingly pervades the ..."
-publishedDateTime: 2021-12-31T13:06:00Z
-originalUrl: "https://www.latimes.com/business/story/2021-12-31/industry-lobbies-to-defang-safety-data-regulations-for-autonomous-vehicles"
-webUrl: "https://www.latimes.com/business/story/2021-12-31/industry-lobbies-to-defang-safety-data-regulations-for-autonomous-vehicles"
-ampWebUrl: "https://www.latimes.com/business/story/2021-12-31/industry-lobbies-to-defang-safety-data-regulations-for-autonomous-vehicles?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2021-12-31/industry-lobbies-to-defang-safety-data-regulations-for-autonomous-vehicles?_amp=true"
+excerpt: "They collect user data for their own ends, but when it comes to allowing crash data to be used to improve safety, these companies push for less transparency."
+publishedDateTime: 2021-12-31T12:00:00Z
+originalUrl: "https://www.aol.com/news/autonomous-car-developers-lobby-defang-130037856.html"
+webUrl: "https://www.aol.com/news/autonomous-car-developers-lobby-defang-130037856.html"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/f3a3dad/2147483647/strip/true/crop/851x569+24+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2F0a%2F0f51dd684bfabacdd9d547be0a0a%2Fla-na-az-tesla-crash.png"
-    width: 320
-    height: 214
+  - url: "https://s.yimg.com/uu/api/res/1.2/pZO11xkcYPIQRQKW9S3Yjw--~B/aD00OTk7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/1f2a5350a0516b213da3605401b63478"
+    width: 840
+    height: 499
     isCached: true
 
-related:
-  - title: "Autonomous car developers lobby to defang safety data regulations"
-    excerpt: "The autonomous vehicle industry is lobbying federal safety regulators to limit the amount of data companies must report every time their cars crash."
-    publishedDateTime: 2022-01-03T16:45:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/01/03/autonomous-car-developers-lobby-defang-safety-data-regulations/9079796002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/9079796002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9079796002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/11/10/PDTN/61f3951e-d307-446d-b600-d079e3f8641c-AP21314730688964.jpg?auto=webp&crop=1839,1035,x0,y211&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Autonomous car developers lobby to defang US safety data regulations"
-    excerpt: "The fast-rising autonomous vehicle industry is lobbying US federal safety regulators to limit the amount of data companies must report every time their cars crash, arguing that the current requirements get in the way of innovation that will benefit the public."
-    publishedDateTime: 2022-01-03T05:39:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/03/autonomous-car-developers-lobby-to-defang-us-safety-data-regulations"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/03/1429567.jpg"
-        width: 1240
-        height: 827
-        isCached: true
-
-secured: "htx9s0GYil6ouGteOjO8els6vVLPRml4UrrZAGCi36TPh2/2EQjrmnw7w+KhewIX9z7m/+QD2+kuD1gfcgxWFAmr7P6iBjEHrDjQqjQkT9fBfpX3J2LTjC04yznoBPAK2yfgx2FcUAzpn/5SNDs5lG1Br6frB5kQ83a2sj7UViDgy3an8D9oibyc38YgBOt0XgMWrne9+9zsJekaFcCB+Z53JAAcjo8RWbXI4Op0RSbzCjqU8GuHNPklgYKVBzUgWleXRA4KdV626g574iGFaGE9A5Jmn5OC8UGIUqaQ1VlH9DU0A4qh1hVl5uolVG3dWY4ccHgHkVeBi+xXRid+MYcckjlJ/4+9UwP+NsCo6uM=;DD/POkXsVT+7rOWWPdondg=="
+secured: "fBJ7QZm5yei9trfFZiwTq0DKYqFPCL18mCDKtZTvsXl8JCPsh8I8UnpQ+13b663Zivxj3/6KzanpXbie/YREX1RhRfuOTLVWTG9WA/GkvsB0ZwTBKKY5t5itMeL0LWqxMbpTejcUPMJQnTMSbBpNNtQ2DCtPRBWE7JIXTOzNs3cAfZhKqKEJcv6GayLMccqropZ5mge5vxnMtLct6xknLm8iP/Nfxuo9nukYeEenDyinmMYH+KAt0qGLjkCmvnefXRq9sXr0WBt5qEZfPIX2cXzxp6EK1CtP4MWcrSyFW/hgsDDTzwOBvaktEF9bHhCk+beClU9x5DQfXlZrIe4sc6hkjPjw2ss1iy1chCQnuE8=;rRyT7vmVxM92IcsEaHNmWg=="
 ---
 

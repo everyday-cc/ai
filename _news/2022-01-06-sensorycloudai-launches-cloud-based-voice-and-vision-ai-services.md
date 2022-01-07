@@ -7,7 +7,7 @@ originalUrl: "https://www.hostreview.com/news/220106-sensorycloudai-launches-clo
 webUrl: "https://www.hostreview.com/news/220106-sensorycloudai-launches-cloud-based-voice-and-vision-ai-services"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 400
     height: 400
     isCached: true
-
-related:
-  - title: "Sensory Sticks Its Head in the Cloud with AWS, NVIDIA-Powered SensoryCloud AI-as-a-Service"
-    excerpt: "Aims to offer key AI services, like facial recognition and speech-to-text, for any internet-connected device via a simple API."
-    publishedDateTime: 2022-01-05T16:29:00Z
-    webUrl: "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2"
-    ampWebUrl: "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp"
-    cdnAmpWebUrl: "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp"
-    type: article
-    provider:
-      name: Hackster
-      domain: hackster.io
-    quality: 66
-    images:
-      - url: "https://hackster.imgix.net/uploads/attachments/1393136/image_ESTGfad4pO.png?auto=compress%2Cformat"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "yjJ24NnsPVicykGT0/JY70huUbZurVvgESlSq6DCEJd7HMwz04fLlWe/w/WzWYXUyapVy2sJsqWqjU57DsCokMgHJ9kPHCcsgUp9DS7KrzO1bjeTtaTy9hEZ/8U4e0QsIDE4cCrTZumw4viKzUMsMt4s3Kyhqe0R0k0V8odJSsWoALeAa7pPbokphC8ILmXyz5/BBfcI/6oMS7ezmvmjuQUk7TLkdBLQINzV9B8JLIe1BSFBPN3H5HPBSSAbmp20w8hM08sYkJ+WG2KD9WODUFqUERC64QJN8Prvn4pHa7LDj/TYgE9AuGp19tSkQf/ztkEHHWaWxCZInKQntxB9X+DoyStX3ATcM3uMSwrt0FY=;ieHIfd5SQeJfnoMxMh3j+g=="
 ---

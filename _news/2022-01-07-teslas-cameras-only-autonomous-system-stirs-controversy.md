@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-01-tesla-cameras-only-autonomous-co
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-tesla-cameras-only-autonomous-controversy.amp"
 type: article
 quality: 61
-heat: 61
-published: false
+heat: 71
+published: true
 
 provider:
   name: techxplore.com
@@ -26,6 +26,17 @@ images:
     width: 1024
     height: 682
     isCached: true
+
+related:
+  - title: "Tesla’s cameras-only driving system stirs controversy"
+    excerpt: "Tesla chief executive Elon Musk has touted a system built around eight “surround” cameras that feed data into the auto’s “deep neural network”, according to Tesla’s website. But as with so many other things involving Tesla,"
+    publishedDateTime: 2022-01-07T00:10:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/01/07/teslas-cameras-only-driving-system-stirs-controversy/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "wbTOP8MwMiZUZUDjpzcJHTj8M3owyKJMLgWc8y8a529WbUMSPndIaovSDQ9Rm2gzu3ClPNJKlhgNWoslDXkSI8Nls7N+wRdKcRWheMU3O6VJEyXo390qKpxc+Bj8xgLtWsxJeEJiomTmN4YpKAI/E2BK1+GrwvoHKbqsfFj/1Mi7ngqVzIhmMlcp6n0X+Jb0A+NsOyPNyBY5NrUrEB9pjn2q3t8W+6LjQPTsmFKwiGS43GTgvc9kLoshxUxM0kQsdNQKYN4XpuNDcgpMgGa2M8Rg70Jm9QwRfSsAlAk5bLpa3NSHNVfq012Dq/G7g3u8U9P4tH6J3rhxfTWBo23wE+soPjbpnwz8xKxiPVeo8L8=;x2FmxiaDaLExlweN08qBEQ=="
 ---

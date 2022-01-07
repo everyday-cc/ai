@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-intro
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 87
 published: true
 
 provider:

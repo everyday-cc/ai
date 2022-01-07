@@ -2,6 +2,206 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-06-cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels.md",
+      "title": "Cadillac’s new self-driving concept is a luxury loveseat on wheels",
+      "excerpt": "The InnerSpace concept looks like a futuristic car from the outside—but inside, there's a two-seat loveseat surrounded by one of the widest screens we've ever seen, and no steering wheel or pedals.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/",
+      "originalUrl": "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RBDJBKZg9iA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/",
+      "publishedDateTime": "2022-01-05T13:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model.md",
+      "title": "MVP versus EVP: Is it time to introduce ethics into the agile startup model?",
+      "excerpt": "Rather than developing a minimum viable product (MVP), companies should develop and roll out an ethically viable product (EVP) based on responsible artificial intelligence (RAI).",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/",
+      "originalUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-166085866.jpg?w=1024",
+          "width": 1024,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/amp/",
+      "publishedDateTime": "2022-01-05T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022.md",
+      "title": "Which tech players gained the most in 2021, and what trends can we expect in 2022?",
+      "excerpt": "Which ASX listed tech player had the biggest gains this year? And what will 2022 bring in AI and Cyber Security?",
+      "sourceUrl": null,
+      "webUrl": "https://stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/",
+      "originalUrl": "https://stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://stockhead.com.au/wp-content/uploads/2021/12/tech_winners.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/?amp",
+      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/?amp",
+      "publishedDateTime": "2022-01-05T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "stockhead",
+        "domain": "stockhead.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe.md",
+      "title": "How Wix empowers customer care with AI capabilities using Amazon Transcribe",
+      "excerpt": "With over 200 million users worldwide, Wix is a leading cloud-based development platform for building fully personalized, high-quality websites. Wix makes it easy for anyone to create a beautiful and professional web presence. When Wix started, it was easy to understand user sentiment and identify product",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/21/ml-5841-image003.png",
+          "width": 1432,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T13:21:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity.md",
       "title": "As third-party cookies fade, the cold start problem becomes an opportunity",
       "excerpt": "The demise of the third-party cookie could transform the cold start problem into an opportunity for businesses and their customers.",
@@ -304,6 +504,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-06-machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis.md",
+      "title": "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis",
+      "excerpt": "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ 3.",
+      "sourceUrl": null,
+      "webUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/",
+      "originalUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Machine%20Learning%20as%20a%20Service%20(MLaaS)%20Market3.jpg?1641369830915",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1",
+      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1",
+      "publishedDateTime": "2022-01-05T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inter Press Service",
+        "domain": "ipsnews.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman.md",
       "title": "Australian man plans to marry robot after failing to find loving woman",
       "excerpt": "Australian man wants to marry his expensive AI robot Emma and doesn't want to change anything about their relationship",
@@ -595,50 +838,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service.md",
-      "title": "Sensory Sticks Its Head in the Cloud with AWS, NVIDIA-Powered SensoryCloud AI-as-a-Service",
-      "excerpt": "Aims to offer key AI services, like facial recognition and speech-to-text, for any internet-connected device via a simple API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2",
-      "originalUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackster.imgix.net/uploads/attachments/1393136/image_ESTGfad4pO.png?auto=compress%2Cformat",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp",
-      "cdnAmpWebUrl": "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp",
-      "publishedDateTime": "2022-01-05T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackster",
-        "domain": "hackster.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -985,7 +1184,7 @@
       "originalUrl": "https://www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1025,211 +1224,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg.md",
-      "title": "AI startup Fractal becomes unicorn with $360 million investment from TPG",
-      "excerpt": "Fractal has raised $360 million from TPG in a new financing round and entered the unicorn club as the Mumbai and New York-based AI startup, which counts Google and Wells Fargo among its customers, scales its offerings and begins preparation for an IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html",
-      "originalUrl": "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/yjWJApiXP.r3.tXCfl4n6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjU-/https://s.yimg.com/uu/api/res/1.2/tRJXoqN6AhGj67TxBBsBaQ--~B/aD00MDAwO3c9ODUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/9d520e0099165578729ab4784e4fc873",
-          "width": 1200,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-accelerate-the-in-vehicle-digital-experience-with-azure-cognitive-services.md",
-      "title": "Accelerate the in-vehicle digital experience with Azure Cognitive Services",
-      "excerpt": "Microsoft is helping to reshape the automotive industry in the way it serves its drivers with in-vehicle infotainment systems. Together with the car manufacturers, Microsoft is creating new driving experiences with speech based on the text-to-speech and speech-to-text capabilities within Azure Cognitive",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
-      "originalUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/832c79d4-6a7e-4c24-bb1f-cd13680e49ec.jpg",
-          "width": 1074,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T00:00:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ai-could-repair-the-damage-done-by-data-overload.md",
-      "title": "AI could repair the damage done by data overload",
-      "excerpt": "With AI we can start leveraging data to empower connections and enhance problem-solving, collaboration, and finding the answers we need.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-494436399.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
-      "publishedDateTime": "2022-01-04T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-how-incorta-uses-ai-to-address-supply-chain-issues.md",
-      "title": "How Incorta uses AI to address supply-chain issues",
-      "excerpt": "With the pandemic slowing down production lines and transportation, the 'supply chain' is regularly in headlines. Incorta hopes to improve it with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/supply_chain-e1624645852641.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/amp/",
-      "publishedDateTime": "2022-01-04T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

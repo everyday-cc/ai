@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-19-robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan.md",
+      "title": "Robotics & AI will transform many sectors: Governor Tamilisai Soundararajan",
+      "excerpt": "Hyderabad: Governor Dr Tamilisai Soundararajan on Saturday said that robotics and the artificial intelligence will bring in transformational changes in many sectors like defence and healthcare etc., She stated that innovations in robotics have an immense potential to benefit our country and it is high time that we strive to be leaders in the emerging fields like Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/18/1136384-tamilisai-soundararajan.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "publishedDateTime": "2021-12-18T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-double-amputee-controls-two-robotic-arms-with-his-mind.md",
       "title": "Double amputee controls two robotic arms with his mind",
       "excerpt": "Here's one other DARPA-funded robotic limb controlled by thoughts alone-- actually make that two, because Colorado man Les Baugh had two bionic arms attached from shoulder level. Baugh got them ...",
@@ -1318,50 +1361,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-human-like-brain-helps-robot-out-of-a-maze.md",
-      "title": "Human-like brain helps robot out of a maze",
-      "excerpt": "Psychologists use mazes to assess the learning capacity of mice or rats. But how about robots? Can they learn to navigate the twists and turns of a labyrinth? Now, researchers at the Eindhoven University of Technology (TU/e) in the Netherlands and the Max Planck Institute for Polymer Research in Mainz,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
-      "originalUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/human-like-brain-helps.jpg",
-          "width": 1152,
-          "height": 1536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-human-like-brain-robot-maze.amp",
-      "publishedDateTime": "2021-12-13T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

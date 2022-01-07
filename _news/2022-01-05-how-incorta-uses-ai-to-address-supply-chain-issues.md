@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-su
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/amp/"
 type: article
 quality: 87
-heat: 99
+heat: 97
 published: true
 
 provider:

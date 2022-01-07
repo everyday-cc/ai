@@ -975,6 +975,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-24-natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till-2020.md",
+      "title": "Natural Language Processing Market||Industry Analysis Insights, Future Growth, and Forecast till - 2020",
+      "excerpt": "Japan, Japan, Fri, 24 Dec 2021 05:27:03 / Comserve Inc. / -- Natural Language Processing Market has prioritized the use of innovative technologies. Many healthcare and life sciences business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till---2020-2021-12-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till---2020-2021-12-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-a-market-to-harness-speech-recognition-artificial-intelligence-ai-innovations-on-the-rise.md",
       "title": "A Market to Harness: Speech Recognition Artificial Intelligence (AI) Innovations On The Rise",
       "excerpt": "This blog focuses on the speech recognition and AI market profiled market innovator AssemblyAI, EmotionalCloud and other innovations advancing the speech and emotional AI intelligence landscape.",
@@ -1388,58 +1440,6 @@
         "name": "openpr.com",
         "domain": "openpr.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm.md",
-      "title": "Sayollo partners with Speechly to bring voice recognition to gComm",
-      "excerpt": "Sayollo partners with Speechly to add voice recognition and navigation to mobile, in-game shops via its gComm software",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/",
-      "originalUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/sayollo-edit.png?w=1200&strip=all",
-          "width": 1080,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/22/sayollo-partners-with-speechly-to-bring-voice-recognition-to-gcomm/amp/",
-      "publishedDateTime": "2021-12-22T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

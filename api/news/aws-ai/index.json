@@ -160,50 +160,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-06-sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service.md",
-      "title": "Sensory Sticks Its Head in the Cloud with AWS, NVIDIA-Powered SensoryCloud AI-as-a-Service",
-      "excerpt": "Aims to offer key AI services, like facial recognition and speech-to-text, for any internet-connected device via a simple API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2",
-      "originalUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackster.imgix.net/uploads/attachments/1393136/image_ESTGfad4pO.png?auto=compress%2Cformat",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp",
-      "cdnAmpWebUrl": "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp",
-      "publishedDateTime": "2022-01-05T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackster",
-        "domain": "hackster.io",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-04-train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility.md",
       "title": "Train graph neural nets for millions of proteins on Amazon SageMaker and Amazon DocumentDB (with MongoDB compatibility)",
       "excerpt": "There are over 180,000 unique proteins with 3D structures determined, with tens of thousands new structures resolved every year. This is only a small fraction of the 200 million known proteins with distinctive sequences. Recent deep learning algorithms such as AlphaFold can accurately predict 3D structures",
@@ -1434,6 +1390,59 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass.md",
+      "title": "Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass",
+      "excerpt": "Discrete and continuous manufacturing lines generate a high volume of products at low latency, ranging from milliseconds to a few seconds. To identify defects at the same throughput of production, camera streams of images must be processed at low latency. Additionally, factories may have low network",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/hero-image.png",
+          "width": 1028,
+          "height": 528,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T10:44:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
       ]
     }
   ],

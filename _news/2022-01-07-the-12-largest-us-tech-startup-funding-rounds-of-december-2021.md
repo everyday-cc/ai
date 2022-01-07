@@ -8,8 +8,8 @@ webUrl: "https://www.alleywatch.com/2022/01/us-startup-funding-top-largest-decem
 ampWebUrl: "https://www.alleywatch.com/2022/01/us-startup-funding-top-largest-december-2021-vc/amp/"
 cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/01/us-startup-funding-top-largest-december-2021-vc/amp/"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.alleywatch.com/wp-content/uploads/2022/01/December-2021-us-top-startup-fundings.jpg"

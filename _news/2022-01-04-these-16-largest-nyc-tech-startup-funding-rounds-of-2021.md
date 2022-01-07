@@ -31,7 +31,7 @@ related:
     provider:
       name: alleywatch.com
       domain: alleywatch.com
-    quality: 42
+    quality: 44
     images:
       - url: "https://cdn.alleywatch.com/wp-content/uploads/2022/01/December-2021-us-top-startup-fundings.jpg"
         width: 1000

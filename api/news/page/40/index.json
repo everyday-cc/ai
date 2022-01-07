@@ -2,6 +2,293 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-12-03-who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing.md",
+      "title": "Who Is Shruti Rijhwani? PhD Candidate Working On Natural Language Processing",
+      "excerpt": "Shruti Rijhwani, Ph.D. from Carnegie Mellon University, USA has been named by Forbes as \"2022 Forbes 30 Under 30 in Science\" for her prolific work in the area for conservation of endangered language",
+      "sourceUrl": null,
+      "webUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
+      "originalUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.shethepeople.tv/wp-content/uploads/2021/12/Shruti-Rijhwani-1.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
+      "cdnAmpWebUrl": "https://www-shethepeople-tv.cdn.ampproject.org/c/s/www.shethepeople.tv/top-stories/inspiration/who-is-shruti-rijhwani-phd-candidate-working-on-natural-language-processing/amp/",
+      "publishedDateTime": "2021-12-02T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Domestic",
+        "domain": "shethepeople.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-aws-brings-no-code-to-amazon-sagemaker-machine-learning.md",
+      "title": "AWS brings no-code to Amazon SageMaker machine learning",
+      "excerpt": "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
+      "publishedDateTime": "2021-12-02T12:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-us-rejects-calls-for-regulating-or-banning-killer-robots.md",
+      "title": "US rejects calls for regulating or banning ‘killer robots’",
+      "excerpt": "US official proposes ‘non-binding code of conduct’ at United Nations but campaigners disagree",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c4d5bdc56149c16b78594a9c8b70d3f570bbba2d/0_70_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=0fe3dc3678121882d7e62f5530c8dae3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/dec/02/us-rejects-calls-regulating-banning-killer-robots",
+      "publishedDateTime": "2021-12-02T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-after-being-pushed-out-of-google-timnit-gebru-forms-her-own-ai-research-institute-dair.md",
+      "title": "After being pushed out of Google, Timnit Gebru forms her own AI research institute: DAIR",
+      "excerpt": "Timnit Gebru, one of the leaders of Google’s ethics in AI team and one of the foremost experts in that topic, was fired after sending an email of concern to her team. Now she has set up shop herself with a brand new research institute,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dair-institute.org/press-release",
+      "originalUrl": "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png",
+          "width": 1440,
+          "height": 695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-this-russian-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots.md",
+      "title": "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots",
+      "excerpt": "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
+      "originalUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
+      "publishedDateTime": "2021-12-02T10:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-that-radio-dj-you-hear-might-already-be-a-robot.md",
+      "title": "That radio DJ you hear might already be a robot",
+      "excerpt": "Our phones, speakers and rice cookers have been talking to us for years, but their voices have been robotic. Seattle-based AI startup WellSaid Labs says it has finessed the technology to create",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "originalUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/12/robot-radio-dj-ai-voice-01.jpeg?quality=90&strip=all&w=809",
+          "width": 809,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/12/02/that-radio-dj-you-hear-might-already-be-a-robot/amp/",
+      "publishedDateTime": "2021-12-02T09:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-artificial-intelligence-ai-to-detect-signs-of-anxiety.md",
       "title": "Artificial Intelligence (AI) to Detect Signs of Anxiety",
       "excerpt": "Artificial intelligence (AI) has been used to detect behavioral signs of anxiety with more than 90% accuracy, reveled researchers.",
@@ -862,285 +1149,6 @@
         "Facebook AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy-instruction.md",
-      "title": "Leading Speech Technology for Kids Company Releases First-of-its-Kind Feature to Accelerate Literacy Instruction",
-      "excerpt": "SoapBox Labs, the speech recognition company that powers joyful learning and play experiences for kids, has launched a new feature that gives educators unprecedented",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy/article_54ca7c6a-f5c8-59b9-95f6-f898363c5f1f.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/leading-speech-technology-for-kids-company-releases-first-of-its-kind-feature-to-accelerate-literacy/article_54ca7c6a-f5c8-59b9-95f6-f898363c5f1f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/ff/fff8b4fc-ff0d-5c9a-9854-f68427317181/60ace803540e5.image.jpg?crop=878%2C461%2C560%2C0&resize=878%2C461&order=crop%2Cresize",
-          "width": 878,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-smartling-lands-160m-to-help-companies-translate-their-content-automatically.md",
-      "title": "Smartling lands $160M to help companies translate their content automatically",
-      "excerpt": "Smartling, a company providing a mix of AI- and human-powered translation services, has raised $160 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
-      "originalUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-3324171_1920-e1631120646603.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/smartling-lands-160m-to-help-companies-translate-their-content-automatically/amp/",
-      "publishedDateTime": "2021-12-02T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-enzolytics-announces-progress-as-it-recognizes-world-aids-day.md",
-      "title": "Enzolytics Announces Progress As It Recognizes World AIDS Day",
-      "excerpt": "COLLEGE STATION, TX / ACCESSWIRE / December 2, 2021 / Enzolytics wishes to recognize and acknowledge World AIDS Day - a day to call attention to the continued need for a more effective treatment for HIV,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
-      "originalUrl": "https://apnews.com/press-release/Accesswire/coronavirus-pandemic-technology-science-business-health-b3280a8c4aa90116b7919d23da08f298",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T04:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-you-can-now-get-150000-if-you-let-a-robot-use-your-face-and-voice.md",
-      "title": "You can now get £150,000 if you let a robot use your face and voice",
-      "excerpt": "A European artificial intelligence company is offering people £150,000 to anyone willing to let their face and voice be used for a new robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "originalUrl": "https://www.her.ie/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL20wLmhlci5pZVxcXC93cC1jb250ZW50XFxcL3VwbG9hZHNcXFwvMjAyMVxcXC8xMlxcXC8wMjEyMTYyNlxcXC9TdHVkaW8tUHJvamVjdC0yMDIxLTEyLTAyVDEyMTYwOC43MDYucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lmhlci5pZVxcXC9hc3NldHNcXFwvaW1hZ2VzXFxcL2hlclxcXC9uby1pbWFnZS5wbmc_aWQ9YjZmODRkNjI3YjQxMTRmMDBmNTBcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiMmRjMjZjNzA0ZTc4YWE2N2QxMzkzMDY3NmEwODQzZDIxMzY1ZGYyYyJ9/studio-project-2021-12-02t121608-706.png",
-          "width": 647,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "cdnAmpWebUrl": "https://www-her-ie.cdn.ampproject.org/c/s/www.her.ie/amp/tech/can-now-get-150000-let-robot-use-face-voice-541783",
-      "publishedDateTime": "2021-12-02T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Her",
-        "domain": "www.her.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-the-movement-to-hold-ai-accountable-gains-more-steam.md",
-      "title": "The Movement to Hold AI Accountable Gains More Steam",
-      "excerpt": "A New York City law requires algorithms used in hiring to be “audited” for bias. It’s the first in the US—and part of a larger push toward regulation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
-      "originalUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61a8157414eaf61b0530a9fd/master/pass/Business_Papers_1332101305.jpg",
-          "width": 2400,
-          "height": 1601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/movement-hold-ai-accountable-gains-steam/amp",
-      "publishedDateTime": "2021-12-02T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-introduces-a-new-platform-for-developing-robotics-applications.md",
-      "title": "AWS Introduces A New Platform For Developing Robotics Applications",
-      "excerpt": "Amazon introduced AWS IoT RoboRunner during a keynote address at its Amazon Web Services (AWS) re:Invent 2021 conference – a new robotics service meant to make it easier for organisations to build and deploy apps that enable fleets of robots to work together.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
-      "originalUrl": "https://analyticsindiamag.com/aws-introduces-a-new-platform-for-developing-robotics-applications-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://analyticsindiamag.com/wp-content/uploads/2021/12/aws-banner_11zon-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

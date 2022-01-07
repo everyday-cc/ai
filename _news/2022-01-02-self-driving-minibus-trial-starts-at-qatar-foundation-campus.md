@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ministry rolls out self-driving minibus trial at QF Campus"
-    excerpt: "The Ministry of Transport, in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the trial of an autonomous minibus with zero carbon emissions at Qatar Foundation's Campus."
-    publishedDateTime: 2022-01-02T08:45:00Z
-    webUrl: "https://www.gulf-times.com/story/707285/Ministry-rolls-out-self-driving-minibus-trial-at-Q"
-    type: article
-    provider:
-      name: Gulf Times
-      domain: gulf-times.com
-    quality: 24
-    images:
-      - url: "https://img.gulf-times.com/Content/Upload/Slider/120222114530384050130.jpg"
-        width: 620
-        height: 355
-        isCached: true
   - title: "Self-Driving Minibus on Roll Out Trial in Education City"
     excerpt: "The Ministry of Transport (MOTC), in cooperation with Mowasalat (Karwa) and Qatar Foundation, announced the rollout of the trial for an autonomous minibus with zero carbon emissions in Education City."
     publishedDateTime: 2022-01-02T10:11:00Z
@@ -48,20 +34,6 @@ related:
       name: marhaba.qa
       domain: marhaba.qa
     quality: 21
-  - title: "Ministry of Transport rolls out self-driving minibus trial at Qatar Foundation campus"
-    excerpt: "Over the next 10 days, the autonomous minibus trial will take place within Education City along a predefined route. Know the full details here."
-    publishedDateTime: 2022-01-02T08:26:00Z
-    webUrl: "https://www.iloveqatar.net/news/travel/ministry-of-transport-rolls-out-self-driving-minibus-trial-at-qatar-foundation-campus"
-    type: article
-    provider:
-      name: I Love Qatar
-      domain: iloveqatar.net
-    quality: 17
-    images:
-      - url: "https://www.iloveqatar.net/public/images/local/_760x500_clip_center-center_none/Ministry-of-Transport-rolls-out-self-driving-minibus-trial-at-Qatar-Foundation-campus.jpg"
-        width: 760
-        height: 500
-        isCached: true
 
 secured: "UWvKPiFdUGsq0w8TttTb8D0ppcVHETkac081Mm8ymLk7XsyB0CnrIxDap24FKOVd1MTnrp/Mf8eVPT9SK3I/7ZMI6jbFbPYMXkiOXFjr9aEHm4pZ4gmVW9trNLT8JNDUzCBDYChCiwO0lZVUDTIMY0Ky8C5R+gkfKVcuPRmNgQH6E5xCPZO/R1b5AeKaow7QQ2TNPfTsQscRYQuKNJPescS7D2LzwVHXotjM6nAsqHx8Woi8KpTHW1iyHPh4X/BLd5gjk8iwlfQWQmksA6PYcP5N73PD6m/ikUI7SHHMSqpKZ/zljAYtedzje0z3ac/87jfStLCWZT4egZAIDH3KCYhKSSzAq/4IqrKRtmux3mNz3pkiDMN6qcihYfxHu6O/xZVSpQ14vB4vPIQeXtzBkJzjmSMIh+/ZcEeGm8ijKjLeCfgEZwxt78cXB05yiikpgD+3zSrVUTVKT4TrbmKda3YQc2TCwbkWZOhozMY0sbdK4OnKO66xwKv8dvjFPIxHgtuma5j7FQJQhaeWj7UtYw==;g86Q7uN0l9JBZPELKfDq+g=="
 ---
