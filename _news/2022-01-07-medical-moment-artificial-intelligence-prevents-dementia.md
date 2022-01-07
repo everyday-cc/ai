@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-07T00:50:00Z
 originalUrl: "https://www.wndu.com/2022/01/07/medical-moment-artificial-intelligence-prevents-dementia/"
 webUrl: "https://www.wndu.com/2022/01/07/medical-moment-artificial-intelligence-prevents-dementia/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/yHYXahwuYrNxszKkMAELOAaEGUE=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/NKRZUIWK35EXZLRJ2HILUXZEMY.jpg"

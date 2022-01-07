@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://www.digitimes.com/newsshow/20220104VL203_files/2_r.jpg"
         width: 336
         height: 224
+        isCached: true
+  - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
+    excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
+    publishedDateTime: 2022-01-07T08:44:00Z
+    webUrl: "https://gadget.co.za/ces-2022-intels-mobileye-reveals-big-deals-for-self-driving/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/Mobileye-CES-partners.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "q/9rhq5PibKZou5MHpnRcREfoCP5UvwikxOH1CvOa0+KFFOo/mMdY1y1gFIX3vsxo5zHmJUdpqzS3c4XvbMi/9FUtIoNmssf99QtwDxcFTmNmN0LXICujHoENcQNOyr1pQkRMAdVQ6RBdeL+9aNev9QGaNhPmdRVmxg3Z+SjK7u/Mz8BfdkWkmLdMDeOi1jlhZP7tEEqmYBQlbFfpYXRbv4tx/k0998N2rVhDCrDLOZO9NQl4MUMwHqpRZJmInvQ5H10is7hrgGU3zLcO4XivnEMtiB+LtJjYI3YoRJiewsBveceD5VxfQdJfmxoLBYwARLZ29Tjorr5K2+cdkz1NiW6hJKTOmMc/El/c6ShvBY=;HVJKkh+Ax6k1+pWXdFgkkQ=="

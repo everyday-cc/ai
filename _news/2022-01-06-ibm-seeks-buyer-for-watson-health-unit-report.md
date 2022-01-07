@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "IBM seeks healthcare exit with potential $1B-plus sale of Watson Health"
+    excerpt: "IBM is reportedly hoping to exit the healthcare space with a more than $1 billion sale of its Watson Health business, Axios reported Wednesday citing anonymous sources. The tech giant has spent more than $4 billion to assemble its offerings in medicine through a series of acquisitions."
+    publishedDateTime: 2022-01-07T08:46:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/ibm-healthcare-watson-health-sale-1-billion"
+    type: article
+    provider:
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 56
+    images:
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2020-04/ibm.jpg?h=37c28fac&itok=q6Krt6Xe"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7/5Y+rENFGdihGbHU4QRjea8+zGNKS7YYTGoyqEf9fIGbRRWkVWH25MZSIAt/VG4WJwpAeZQB5fzDP+VmtqEVlSWDBva5kJiiFRz0TxrbRWmqo1RJljuahvttmqcJsjF6ONNyauVCF0weZa9LaVXTLas1Rhw1aQjPHZkiKMYOt/gSHrVoteeLQUlMEn0x2vMEbLb8vLge3LJBl3BFcPPnqA+ZgnJxgoItRR2jKr5YG6cL9LLBgUUCKWnbaHspFFka1AUdc6b60X9ZWpAXr8WMuC/vw8hg6cqN2S8U9lXB63U9Clcfyk67RlJufU1VoXhp1WYjPB4Nxvra20GvHL2CWPeVU86Tl4gWrmE1QyoZKc=;S/rQKkrGBa+yq0/mt9MMcw=="
 ---

@@ -2,6 +2,75 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-17-unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-marketing-teams.md",
+      "title": "Unbabel Acquires Language Translation Company Lingo24 to Deliver Multilingual Content for Global Marketing Teams",
+      "excerpt": "The Move Expands Unbabel's Language Operations (LangOps) Capabilities to Bring Multilingual Customer Experiences Across Marketing and Customer Service Unbabel, an AI-powered language operations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24661629/unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-m",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24661629/unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24661629",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24661629",
+      "publishedDateTime": "2021-12-16T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing.md",
+      "title": "Camvi Technologies Demonstrates Superior Vision AI in Dell Testing",
+      "excerpt": "Camvi Technologies announced today that Dell Technologies Labs has validated that Camvi's NIST world #1 ranked Vision AI provides superior performance in accuracy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/camvi-technologies-demonstrates-superior-vision-ai-in-dell-testing/article_dd2ea4d1-ad06-5964-82fe-ef539ffd8ab2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T15:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-univ-of-washington-ai-protein-folding-discovery-wins-breakthrough-of-the-year-award-from-science.md",
       "title": "Univ. of Washington AI protein folding discovery wins ‘Breakthrough of the Year’ award from Science",
       "excerpt": "DeepMind published its approach in Nature the same week, and released its method to the scientific community. “Now structures can be obtained for samples that defy experimental methods ...",
@@ -1122,109 +1191,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-cxos-are-we-ready-for-ai-to-assist-human-decision-making.md",
-      "title": "CXOs: Are we ready for AI to assist human decision-making?",
-      "excerpt": "One of the emerging areas of AI use in corporations is to assist in human decisions. But is it ready, and are the decision-makers ready for it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
-      "originalUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
-      "publishedDateTime": "2021-12-16T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022.md",
-      "title": "Motional and Uber partner to launch autonomous delivery pilot in Santa Monica in 2022",
-      "excerpt": "Motional, a driverless technology company, is partnering with Uber to launch an autonomous delivery pilot in Santa Monica, according to Motional. Uber Eats customers will be able to order restaurant meal kits to be delivered to them via one of Motional’s retrofitted all-electric Hyundai",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/",
-      "originalUrl": "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/image001.png?w=1024",
-          "width": 1024,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/amp/",
-      "publishedDateTime": "2021-12-16T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

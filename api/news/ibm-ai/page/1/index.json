@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-06-ibm-reportedly-seeks-buyer-for-watson-health-unit.md",
+      "title": "IBM Reportedly Seeks Buyer for Watson Health Unit",
+      "excerpt": "IBM has hired BofA Securities to solicit bids for artificial-intelligence unit Watson Health, according to Axios. IBM's looking for a price of more than $1 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/ibm-watson-health-sale-51641401912",
+      "originalUrl": "https://www.barrons.com/articles/ibm-watson-health-sale-51641401912",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-462335/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/ibm-watson-health-sale-51641401912",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ibm-watson-health-sale-51641401912",
+      "publishedDateTime": "2022-01-05T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-five-barriers-to-successfully-adopting-higher-level-mathematics-in-the-supply-chain.md",
       "title": "Five Barriers To Successfully Adopting Higher-Level Mathematics In The Supply Chain",
       "excerpt": "Here are the five main barriers to successful adoption of AI and data science. 1. Poor Matching Of Problem To Tool. Over 50 journals are devoted to using applied mathematics to so",
@@ -1327,50 +1370,7 @@
         "IBM AI",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-11-22-medtronic-and-ibm-launch-a-sweet-new-diabetes-app.md",
-      "title": "Medtronic and IBM Launch a Sweet New Diabetes App",
-      "excerpt": "The latest example of the industry embracing AI's capabilities for the millions of people living with diabetes is an app co-developed by Medtronic and IBM Watson Health dubbed the Sugar.IQ smart diabetes assistant. The app is designed to simplify and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "originalUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/SugarIQ%20Insight%20Sample%20ScreenShot_0.png",
-          "width": 1125,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }

@@ -2,6 +2,101 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-19-robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan.md",
+      "title": "Robotics & AI will transform many sectors: Governor Tamilisai Soundararajan",
+      "excerpt": "Hyderabad: Governor Dr Tamilisai Soundararajan on Saturday said that robotics and the artificial intelligence will bring in transformational changes in many sectors like defence and healthcare etc., She stated that innovations in robotics have an immense potential to benefit our country and it is high time that we strive to be leaders in the emerging fields like Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/18/1136384-tamilisai-soundararajan.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
+      "publishedDateTime": "2021-12-18T13:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all.md",
+      "title": "Here’s How Advances In Ambient Intelligence Will Make Riding In AI Self-Driving Cars Quite Cozy, Like A Pleasing Lullaby For Us All",
+      "excerpt": "Here's how Ambient Intelligence systems will aid AI and especially enhance the passenger experience while riding in a self-driving car.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ac349a2abc2a6e847f4a3f%2F0x0.jpg%3FcropX1%3D190%26cropX2%3D2096%26cropY1%3D110%26cropY2%3D1317",
+          "width": 1200,
+          "height": 760,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/18/heres-how-advances-in-ambient-intelligence-will-make-riding-in-ai-self-driving-cars-quite-cozy-like-a-pleasing-lullaby-for-us-all/amp/",
+      "publishedDateTime": "2021-12-18T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-the-growing-cost-of-deep-learning-for-source-code.md",
       "title": "The Growing Cost of Deep Learning for Source Code",
       "excerpt": "This would surely have sounded like a vision of a distant future just a decade ago, but such quick progress is indicative of the substantial and unique potential of deep learning for software engineering tasks and domains.",
@@ -1108,109 +1203,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now.md",
-      "title": "The AI Economy Is Focused on the Usual Superstar Cities. Let’s Fix It Now",
-      "excerpt": "There are things cities, states, companies and the federal government can do to make sure urban areas get a piece of the next big thing",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "originalUrl": "https://www.wsj.com/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-435932/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/the-ai-economy-is-focused-on-the-usual-superstar-cities-lets-fix-it-now-11639752549",
-      "publishedDateTime": "2021-12-17T05:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-most-uk-businesses-say-data-regulations-are-stifling-ai-innovation.md",
-      "title": "Most UK businesses say data regulations are stifling AI innovation",
-      "excerpt": "A new survey , commissioned by the Centre for Data Ethics and Innovation (CDEI) , asked 1,000 UK businesses about the key barriers to trustworthy innovation in data and AI. Nearly half of the surveyed businesses (43%) stated that limited technological capabilities are preventing them from investing in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1639748270/itpro/artificial_intelligence_data_GettyImages-1305428682.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361871/most-uk-businesses-say-data-regulations-stifle-ai?amp",
-      "publishedDateTime": "2021-12-17T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

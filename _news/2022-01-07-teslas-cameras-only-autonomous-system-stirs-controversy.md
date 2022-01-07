@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Tesla's cameras-only autonomous system stirs controversy"
-excerpt: "As it pursues the goal of fully autonomous driving, Tesla has bet entirely on cameras and artificial intelligence."
-publishedDateTime: 2022-01-07T06:24:00Z
-originalUrl: "https://www.digitaljournal.com/tech-science/teslas-cameras-only-autonomous-system-stirs-controversy/article"
-webUrl: "https://www.digitaljournal.com/tech-science/teslas-cameras-only-autonomous-system-stirs-controversy/article"
+title: "Tesla's Cameras-only Autonomous System Stirs Controversy"
+excerpt: "As it pursues the goal of fully autonomous driving, Tesla has bet entirely on cameras and artificial intelligence, shunning other commonly used tools such as laser detection. Tesla Chief Executive Elon Musk has touted a system built around eight \"surround\" cameras that feed data into the auto's \"deep neural network,"
+publishedDateTime: 2022-01-06T20:27:00Z
+originalUrl: "https://www.ibtimes.com/teslas-cameras-only-autonomous-system-stirs-controversy-3370551"
+webUrl: "https://www.ibtimes.com/teslas-cameras-only-autonomous-system-stirs-controversy-3370551"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: International Business Times
+  domain: ibtimes.com
 
 topics:
   - Machine Learning
@@ -20,9 +20,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Tesla-Cameras-AFP-1K-02.jpg"
-    width: 1024
-    height: 682
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/06/luminars-lidar-based-proactive-safety-pre-collision-braking.jpg"
+    width: 768
+    height: 511
     isCached: true
 
 related:
@@ -36,6 +36,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "X1hQptPGRTXbyMsS0QgQmTM9vmhepHixlTVmb42fEex3eF76Rj2ko9PKBgeTXJqNIZh05BJcyzcc2nrEuv23hOnsQQExqY96NZFll467bLWyTBCr9cJh2cJ+EhbxxJ4SXsS+WsMAVsv2SHIRhrR6Jbclt71MNIdxHcqrBITs3/wtE8KU1ydb5rIThWgTle0ejVRx+UIcJh8RdKvHE8DKynW2hY0G/0l0twx2MOkt21I+19cme/pc5+isGr4GeytDegj6UBmS23FoIxIW/wmq6G1JMxow6n3IMKhUKGdxZY6Qaih2QeDSkIA6c9mByGRsCZRdLbtOKo7PzyA9t4wy5C2WbJnNUpFTz4JUUJ3ujgA=;18UHD+fUSZHHYHXnWMhFRg=="
+secured: "RyTTs2gMw5TeZSqSnLmlqwBKauq0Ft2a1HmWSdg84kIm/3hKQqiNGYs60Ia8MV2vqbsti1WFh/0IsiHqbwO9ikrP/zyp9+v0NN1V0j+YSkJofPzf0VfZMHP54g3WIOG3VeI1dlx+8TR2GyuRU0KYIqBHNmSfQfhOt6POL3+tpYl66zUzKig1L2SJn+SM36mMvvMT3WEVpOYuO0vQw0L90bvsNeOB8Ce7FSKOzEw+7Wa7GTiAVpO9cZ68CkezjcppZ7MY5kRpa8WRNcHsCzrq/5AbPXlCkElh3obNt+7+LrPT8H4mC0tI9AekfPhe98a149vKdNrQpR+6xCvWyYIrjSS4eVTGzgYuKIvLE/D9isg=;JHM73KggyZAXk4txtceVzA=="
 ---
 

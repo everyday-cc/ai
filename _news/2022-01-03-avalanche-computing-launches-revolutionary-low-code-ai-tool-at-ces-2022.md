@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computin
 webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
 type: article
 quality: 69
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Technology Company, Hello Llama Debuts at CES"
+    excerpt: "Hello Llama, an Atlanta-based AI technology company, launches globally today with the release of Llama Vision - the Advanced Driver-Assistance Systems (ADAS) for Light Electric Vehicles (LEVs). This technology creates a safer environment for riders and communities,"
+    publishedDateTime: 2022-01-06T18:45:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-atlanta-artificial-intelligence-consumer-electronics-show-8961bfbaf9e30bfdb234b90b023fb92d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022'"
     excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
     publishedDateTime: 2022-01-04T09:48:00Z

@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-30-ai-powered-stock-fund-bails-out-of-mega-cap-fang-names.md",
+      "title": "AI-Powered Stock Fund Bails Out of Mega-Cap FANG Names",
+      "excerpt": "An artificial intelligence-guided fund that has been lagging the market has jettisoned its mega-cap tech names in a bid to right the ship.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-30/ai-powered-stock-fund-bails-out-of-mega-cap-fang-stocks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyiJaIdn1hD8/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T16:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-california-company-tests-driverless-big-rig-truck-between-tucson-and-phoenix.md",
       "title": "California company tests driverless big-rig truck between Tucson and Phoenix",
       "excerpt": "The company claims its artificial intelligence software allows trucks to \"see\" 1,000 meters away, operate nearly continuously and achieve fuel savings of 10% or more compared to those driven manually.",
@@ -387,8 +438,8 @@
       "title": "Volkswagen improves the voice recognition rate of the Golf",
       "excerpt": "A more streamlined interface alongside an improved voice recognition system are in store for new examples of the Volkswagen Golf. The Volkswagen Golf will soon get an improved infotainment system. Due to go into series production in the next few weeks,",
       "sourceUrl": null,
-      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
-      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
+      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
+      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1094,40 +1145,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-air-pollution-prediction-in-smart-city-deep-learning-approach.md",
-      "title": "Air-pollution prediction in smart city, deep learning approach.",
-      "excerpt": "In this paper, we implemented a deep learning solution to predict the hourly forecast of PM2.5 concentration in Beijing, China, based on CNN-LSTM, with a spatial-temporal feature by combining historical data of pollutants,",
-      "sourceUrl": null,
-      "webUrl": "https://europepmc.org/article/MED/34956819",
-      "originalUrl": "https://europepmc.org/article/MED/34956819",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T23:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Europe PMC",
-        "domain": "europepmc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

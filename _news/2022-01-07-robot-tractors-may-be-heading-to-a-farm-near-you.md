@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
-    publishedDateTime: 2022-01-06T09:44:00Z
-    webUrl: "https://techxplore.com/news/2022-01-robot-tractors-farm.html"
-    ampWebUrl: "https://techxplore.com/news/2022-01-robot-tractors-farm.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-robot-tractors-farm.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/john-deere-unveiled-th.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Robot tractors and autonomous tools may be heading to a farm near you"
     excerpt: "By Patrick Fallon with Juliette Michel LAS VEGAS, United States—Driverless plows and autonomous tools to weed vegetable plots are the"
     publishedDateTime: 2022-01-06T04:03:00Z
@@ -69,6 +53,20 @@ related:
       - url: "https://static.bangkokpost.com/media/content/20220106/c1_4192079_700.jpg"
         width: 700
         height: 467
+        isCached: true
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
+    publishedDateTime: 2022-01-06T02:35:00Z
+    webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
+        width: 768
+        height: 512
         isCached: true
 
 secured: "MZ/0MPOib6MkeV5szPWPx5tcpUmuyUIf0znRj1kxU4tZBiRwT9PoUbePxY+uVMlg4Ol8XORqtaBCbULdFjSWEKQsOTs32EG9s9DVzrNbAgNFcaS3GHaqJnzP9j+ZsAyoyiHec1CDSBLg8HpE1d9nNKUarWdfeSDemDIVDK+AAetx3T3zfvGuqr1jDBxP1Fv5lkzSNFKA7OzrgrWNyaR1luRgZfZ3AeX6hmTsOTELdWPTkCUslJ8AjobDxhQVwRclQQSQfbn4+P0AMOsg6JEyKXZfrOl00qgB+hLg/MvTBR3hQJCcPWtz647WhlwtrU5hJcFKnt3LZgn+FkO4acf76zm3idX6iU9+mN55AvkG9zS5RJNiVkQrFx0rSOMMzBvrFNMCnMEJ4zVJWXQoyw31Ly/qgd9DvdW7Z1hKjZaZdtndS1qcl4PNdFu6BDE6265PHzIO+kFJHcimkH0gpzGfORJfGbDTYefJRKMM7FcqwhRHnFnmFEZeN3YRignTs+lar7EXAajixcxVLsC+MGHTgQ==;uN2EbG7S5XktVh/4ziq/pg=="

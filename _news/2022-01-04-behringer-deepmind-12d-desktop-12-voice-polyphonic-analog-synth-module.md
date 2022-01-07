@@ -24,6 +24,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Behringer DeepMind 12 Polyphonic Analog Synth"
+    excerpt: "Anyone can sell on Reverb. List your Behringer DeepMind 12 Polyphonic Analog Synth today to get it in front of thousands of eyes, quickly and easily. Learn more on the Seller Hub."
+    publishedDateTime: 2022-01-05T20:55:00Z
+    webUrl: "https://reverb.com/item/48779685-behringer-deepmind-12-polyphonic-analog-synth"
+    type: article
+    provider:
+      name: Reverb.com
+      domain: reverb.com
+    quality: 39
+    images:
+      - url: "https://images.reverb.com/image/upload/s--LtAZSQ6l--/f_auto,t_large/v1641151015/mmqonznovnrozsqxlpov.jpg"
+        width: 800
+        height: 600
+        isCached: true
+
 secured: "GgsHHIPPhh5SBOIQI4Kh8IepBUAWV9rCLH61YKmwYEsJp2gFTQh5DCHsot9wlEPkGvTQ8cqeBTTGKsrIsVH+CB6MeJBVcPvKhy/xtI7MFE9I1tqthWWq6l9yiWNdziFYRRhNgWhNyF08VW6OKkFhSy2hZNDZZnjnL4Umb+zLpDc3j5TjgJDm1bljsDIkOj2uFCbIltlQYoN2UxLN4t4NuIsa5GtZdCY6u4XzaHuH4sjvKca+dky8WBbZrupzMIXzOKWi98qh8686OTAcudPoXDPRXJBfY3TR/HA1mAhJqnqTGEg/Yz/hbBa4vfE2fjtGaHPQJmZ+hFo6WubOpz7lPzek0HGlnQ0qyqrJb5c6h1k=;9PE1H2FgrkOdEXiMuEPc0Q=="
 ---
 

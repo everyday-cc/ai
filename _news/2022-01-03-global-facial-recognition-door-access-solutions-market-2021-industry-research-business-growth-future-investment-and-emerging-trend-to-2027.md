@@ -29,56 +29,50 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Building Market: Industry Regional Developments, Future Trends and Forecasts"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Building Industry from its research database Artificial Intelligence in Building Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Building Market currently"
-    publishedDateTime: 2022-01-03T10:58:00Z
-    webUrl: "https://www.openpr.com/news/2515621/artificial-intelligence-in-building-market-industry-regional"
-    ampWebUrl: "https://www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
+  - title: "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis"
+    excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ 3."
+    publishedDateTime: 2022-01-05T18:35:00Z
+    webUrl: "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/"
+    ampWebUrl: "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1"
+    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 62
     images:
-      - url: "https://cdn.openpr.com/V/1/V103998692_g.jpg"
-        width: 720
-        height: 480
+      - url: "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Machine%20Learning%20as%20a%20Service%20(MLaaS)%20Market3.jpg?1641369830915"
+        width: 700
+        height: 467
         isCached: true
-  - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
-    excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
-    publishedDateTime: 2022-01-03T11:08:00Z
-    webUrl: "https://www.openpr.com/news/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
+  - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
+    excerpt: "Emergen Research Logo The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
+    publishedDateTime: 2022-01-06T07:42:00Z
+    webUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growth-Sales-Revenue-and-Key-Drivers-Analysis-Research-Report-by-2027"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
     images:
-      - url: "https://cdn.openpr.com/V/1/V103933766_g.jpg"
-        width: 800
-        height: 320
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?532764"
+        width: 445
+        height: 250
         isCached: true
-  - title: "Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and Japan Energy-efficient Artificial Intelligence Chip Market Insights, Forecast to 2027 report by QYResearch Group. Energy-efficient Artificial Intelligence Chip market is segmented by region"
-    publishedDateTime: 2022-01-03T06:04:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5241734-global-and-japan-energy-efficient-artificial-intelligence-chip-market-insights-forecast-to-2027.html"
+  - title: "Machine Learning Data Catalog Software Market Outlook | Growth Status, Industry Size and Share| Top Players Overview with Forecast Data 2022-2026"
+    excerpt: "Jan 04, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. “ Our Trending “Machine Learning"
+    publishedDateTime: 2022-01-04T10:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-outlook-growth-status-industry-size-and-share-top-players-overview-with-forecast-data-2022-2026-2022-01-04"
     type: article
     provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 21
-  - title: "Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and China Lidar for Self-Driving Car Market Insights, Forecast to 2027 report by QYResearch Group. Lidar for Self-Driving Car market is segmented by region"
-    publishedDateTime: 2022-01-03T06:06:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5241872-global-and-china-lidar-for-self-driving-car-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 1
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vD2haUPidckILoL6zFTQ9rl1HO+hinjXJAy1HhceSTqHxsd9OwjY431thPTaurAIkz1gWF9+xBDwpXohU96rpICjPnBMMZYi24AyTeBgaYfwwAsrMWdRMvdl+F0nyyQG2sWJc4zZ2+7HBxxaUFkkpBq0e084P/xLteeYbpX2lNOsybA5YznJx6NwuKuobY0GqvqeroJZaM0dPFqh5Dq3YEMKBRaXBdjrg91Vv6GFZySGbUJpHnUaL3OVzrl+pNVHLWtnD2bwBv3xiKGC1P3zWyPHHFiYqF9Di0UIgYO3QqKtU8byXiorA30M43U+g997YFKrXJWN+7scQ2gZLyjYo/CidXwLT18VB1vetwhJtY4=;r53/fkOBjroMPOgupN7Qpg=="
 ---

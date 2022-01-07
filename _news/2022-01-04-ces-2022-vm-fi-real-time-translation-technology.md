@@ -99,6 +99,20 @@ related:
         width: 752
         height: 501
         isCached: true
+  - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
+    excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
+    publishedDateTime: 2022-01-07T08:44:00Z
+    webUrl: "https://gadget.co.za/ces-2022-intels-mobileye-reveals-big-deals-for-self-driving/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/Mobileye-CES-partners.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "oVb/4MYup9lOOfpIO3RT/BY7PvpaMPy9AKXaDqFlBNRJnoxub6VJpTGxiMlswVXbYtq4Kfv/K/pRhUUutOhe3YStFlPViEcLE4uNi2qOZRSkOdZTfFf6o56TPDvgBSiqoxPsPXcrvbOs3x7VlNDcInoCa9V4lnKswuo62BuOTldOAd0I5F9y/l8UaoWUdU7mq6UpS6dODwOmC9cRh+B1lPlDn+HO5aO1LCkR1/hMw1IkMOGBlqLCrDSQQuEFocdG8NTyGl5GWO0PJ2lgNmGUYHg9252bwcEAmpDqA8Vo3G0MiWrWx0xU6AjlKX3o2MdI+PgzvE+Lf07rn3TlZ5abTJbvTUOLdLQWVVIMzvzfJ+k=;ext+c6+x+K/2wKXkZvctOA=="
 ---
