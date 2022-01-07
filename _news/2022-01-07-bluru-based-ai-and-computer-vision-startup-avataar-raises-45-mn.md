@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833"
 type: article
 quality: 74
-heat: 114
+heat: 125
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
     quality: 73
     images:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/06/full/1609874455-1747.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "AI & Computer Vision platform Avatar raises $45mn in Tiger Global-led round"
+    excerpt: "The Series B round saw co-participation from existing investor Sequoia Capital India. The financing is one of the largest fundraising rounds in the Applied 3D/AR space"
+    publishedDateTime: 2022-01-07T19:38:00Z
+    webUrl: "https://www.business-standard.com/article/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 72
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg&width=1200"
         width: 1200
         height: 900
         isCached: true

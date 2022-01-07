@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-featur
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI giant Baidu ups the ante on autonomous driving, plans to launch its first car with level 4 automation next year"
-    excerpt: "The Chinese AI giant’s electric vehicle being developed by its carmaking arm, Jidu Automotive, will have level 4 autonomous driving capability."
-    publishedDateTime: 2022-01-06T20:10:00Z
-    webUrl: "https://www.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
-    ampWebUrl: "https://amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 63
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/06/2fcd70af-ee76-43a9-aa18-bb710e2fe3d4_375a1050.jpg?itok=eNZLUxs8&v=1641470840"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Volvo will debut its 'self-driving' Ride Pilot feature in California"
     excerpt: "Volvo will debut “Ride Pilot,” its take on a Tesla-like autonomous driving feature, in California, the automaker announced on Wednesday during CES 2022.."
     publishedDateTime: 2022-01-05T18:47:00Z

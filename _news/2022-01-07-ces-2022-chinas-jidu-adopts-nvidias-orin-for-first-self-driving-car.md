@@ -19,123 +19,93 @@ topics:
   - AI
 
 related:
-  - title: "CES 2022: Watch GM's self driving car reveal and more big reveals here"
-    excerpt: "GM will be kicking off Wednesday's CES day, and you can watch reveals from LG, Samsung and more. CES 2022 is underway, with the convention officially opening in Las Vegas Wednesday along with a digital experience for those who can't make it to the show."
-    publishedDateTime: 2022-01-05T16:51:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
+  - title: "The First Model From Baidu's New EV Brand JiDU to Use the NVIDIA DRIVE Orin System-on-a-Chip to Support L4 Autonomous Driving"
+    excerpt: "JiDU Automotive, the new electric vehicle venture formed by China’s internet technology giant Baidu Inc and Chinese automaker Geely, will use the powerful NVIDIA DRIVE Orin system-on-a-chip (SoC) in its first model to support L4 autonomous driving capabilities,"
+    publishedDateTime: 2022-01-07T17:00:00Z
+    webUrl: "https://www.geospatialworld.net/news/jidu-level-4-self-driving-vehicle-powered-by-nvidia-drive-orin-to-begin-production-next-year/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: futurecar
+      domain: futurecar.com
+    quality: 127
     images:
-      - url: "https://www.cnet.com/a/img/F0An6NSLRV65zUiUBzE-y_7oV-M=/286x0:1286x499/1200x630/2021/12/16/bb0fe850-bbfe-4645-8fa1-ad20d3b775ff/ces-2022-desktop-hero-final2.png"
+      - url: "https://www.geospatialworld.net/wp-content/uploads/2022/01/image-1-scaled.jpeg"
+        width: 2560
+        height: 1440
+        isCached: true
+  - title: "Chinese AI giant Baidu ups the ante on autonomous driving, plans to launch its first car with level 4 automation next year"
+    excerpt: "The Chinese AI giant’s electric vehicle being developed by its carmaking arm, Jidu Automotive, will have level 4 autonomous driving capability."
+    publishedDateTime: 2022-01-06T20:10:00Z
+    webUrl: "https://www.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
+    ampWebUrl: "https://amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 63
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/06/2fcd70af-ee76-43a9-aa18-bb710e2fe3d4_375a1050.jpg?itok=eNZLUxs8&v=1641470840"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Cars 2021 Year In Review"
-    excerpt: "Here's a countdown of the 10 1/2 big stories of 2021 in self-driving cars — Cruise, Waymo, Apple, China, San Francisco, Delivery, Trucking — it's all here and more."
-    publishedDateTime: 2022-01-03T16:31:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/"
+  - title: "Nvidia to supply chips for Baidu’s consumer EVs"
+    excerpt: "Jidu Auto, an electric vehicle joint venture from tech giant Baidu and auto major Geely, has become the latest carmaker to commit to using Nvidia’s next-generation computer Drive Orin for its models' self-driving functions,"
+    publishedDateTime: 2022-01-07T05:35:00Z
+    webUrl: "https://technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
+    ampWebUrl: "https://technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: TechNode
+      domain: technode.com
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d3314f1796ff555ece8da2%2F0x0.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
-  - title: "FOCUS-At CES, tech alliances firm up in the self-driving car wars"
-    excerpt: "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market."
-    publishedDateTime: 2022-01-07T11:00:00Z
-    webUrl: "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT"
+  - title: "Baidu to launch Level 2 autonomous car in 2023"
+    excerpt: "China’s technology giant Baidu is stepping up its efforts to expand in the autonomous vehicle segment with the commercial launch...Read"
+    publishedDateTime: 2022-01-07T12:12:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-to-launch-level-2-autonomous-car-in-2023/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL"
-        width: 830
-        height: 545
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
+        width: 1270
+        height: 846
         isCached: true
-  - title: "CES 2022: Mobileye rolls out new EyeQ self-driving chip"
-    excerpt: "Mobileye, Intel’s autonomous driving hardware and software wing, unveiled its latest generation of self-driving car system-on-chip at this week’s CES 2022. Called EyeQ Ultra, the SoC is built specifically for consumer autonomous driving and delivers 176 trillion of operations per second (TOPS)."
-    publishedDateTime: 2022-01-05T13:46:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17603/ces-2022-mobileye-rolls-out-new-eyeq-self-driving-chip"
+  - title: "Self-Driving Truck Developer TuSimple Partners with NVIDIA on a Domain Controller for L4 Autonomous Driving"
+    excerpt: "Autonomous truck developer TuSimple has expanded its ongoing partnership with chipmaker NVIDIA to design and develop an advanced \"autonomous domain controller\" (ADC) specifically for TuSimple's Level 4 autonomous trucks."
+    publishedDateTime: 2022-01-05T22:30:00Z
+    webUrl: "https://www.futurecar.com/5110/Self-Driving-Truck-Developer-TuSimple-Partners-with-NVIDIA-on-a-Domain-Controller-for-L4-Autonomous-Driving--"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 41
+      name: futurecar
+      domain: futurecar.com
+    quality: 21
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/603/17603/Mobileye-EyeQ6H.jpg"
-        width: 752
-        height: 423
-        isCached: true
-  - title: "CES 2022: TuSimple furthers Level 4 self-driving trucking with Nvidia"
-    excerpt: "TuSimple, an autonomous trucking startup, is expanding its collaboration with chipmaker Nvidia to develop an advanced autonomous domain controller (ADC) designed specifically for Level 4 self-driving trucks."
-    publishedDateTime: 2022-01-04T14:06:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17595/ces-2022-tusimple-furthers-level-4-self-driving-trucking-with-nvidia"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/595/17595/TuSimple.jpg"
-        width: 752
-        height: 501
-        isCached: true
-  - title: "CES 2022: VM-Fi real-time translation technology"
-    excerpt: "Taiwanese software developer VM-Fi will debut its groundbreaking real-time translating solution at CES 2022 from Jan 5-8, 2022. VM-Fi provides turnkey 5G real-time artificial intelligence (AI)-enabled simultaneous interpretation with wireless broadcasting to up to hundreds of personal smart devices."
-    publishedDateTime: 2022-01-04T06:34:00Z
-    webUrl: "https://www.digitimes.com/news/a20220104VL203.html?chid=11"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220104VL203_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
-  - title: "At CES, auto tech alliances firm up in the self-driving car wars"
-    excerpt: "Mobileye, Qualcomm and Nvidia -- emerged at the CES in Las Vegas in locking down the brains of self-driving cars for the next decade."
-    publishedDateTime: 2022-01-07T12:25:00Z
-    webUrl: "https://www.autonews.com/ces/ces-auto-tech-alliances-firm-self-driving-car-wars"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/CES_ROUNDUP-02_i.jpg"
+      - url: "https://img.futurecar.com/202201/05/l_61d62a782d2be.jpeg"
         width: 800
-        height: 600
+        height: 480
         isCached: true
-  - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
-    excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
-    publishedDateTime: 2022-01-07T08:44:00Z
-    webUrl: "https://gadget.co.za/ces-2022-intels-mobileye-reveals-big-deals-for-self-driving/"
+  - title: "Self-Driving Truck Developer TuSimple Builds a Domain Controller for L4 Autonomous Driving Using the NVIDIA DRIVE Orin SoC"
+    excerpt: "Autonomous truck developer TuSimple has expanded its ongoing partnership with chipmaker NVIDIA to design and develop an advanced \"autonomous domain controller\" (ADC) specifically for TuSimple's Level 4 autonomous trucks."
+    publishedDateTime: 2022-01-05T22:30:00Z
+    webUrl: "https://www.futurecar.com/5110/Self-Driving-Truck-Developer-TuSimple-Builds-a-Domain-Controller-for-L4-Autonomous-Driving-Using-the-NVIDIA-DRIVE-Orin-SoC"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
+      name: futurecar
+      domain: futurecar.com
+    quality: 13
     images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/Mobileye-CES-partners.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
+      - url: "https://img.futurecar.com/202201/05/l_61d62a782d2be.jpeg"
+        width: 800
+        height: 480
         isCached: true
 
 secured: "BC00fM5k+4X2hJhKpoTMNmocGUtbS2LIDjAbRLbNashDHtSajDM5RGQ9wRpje/QrB9/T1MIA4/yGIw+99/88EUzrDEfCbnlCF1P38S7voHH4NBHiCzhJ0DHyjJiwpWIubeJVExppjxhxKO0VeIt/aAIlBd1YfVji96MFTxOdOiT89P6BedQzXYvBDWLr1yaRThwZlXkOJf21mK7ptVB4vN+n5F6io2/VDGuFYkl9oMV3Dy1BeX32A467taxkAeXOy+vgTzGc9012ScwCu0/YVOCdg3S6+0c+ZExPZvEzRVz9UnRsvT/mLaOjdIh8DUoNrR93kY2830KqBvZShKhnBQJjaOo6OzznEpBxOVC7y3E=;bzXvilqPFOE1wxLask15Rw=="

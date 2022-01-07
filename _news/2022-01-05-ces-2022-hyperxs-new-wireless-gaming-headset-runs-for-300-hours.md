@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/news/ces-2022-hyperx-cloud-alpha-wireles
 webUrl: "https://www.ces.tech/Logistics/Dates-and-Hours.aspx"
 type: article
 quality: 122
-heat: 123
+heat: 122
 published: true
 
 provider:

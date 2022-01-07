@@ -41,6 +41,20 @@ related:
         width: 642
         height: 671
         isCached: true
+  - title: "How AI Can Enable and Support Both Caregivers and Patients"
+    excerpt: "Artificial intelligence will never replace the human touch in healthcare, but when used properly and to its full capability, it has the potential to serve both caregivers and patients for the better."
+    publishedDateTime: 2022-01-07T18:25:00Z
+    webUrl: "https://www.timesunion.com/business/article/How-AI-Can-Enable-and-Support-Both-Caregivers-and-16757330.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/41/17/21894119/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "BO/bqiWAMPvokUfS/Tocw6mdG0/roPJPdl5lsTdEdAZ8desfMqVRjNp2KyVC6FsoS3NWBC2L6Z+bOZ6idSG9ngR2jdTDF6fkKZ6XlE9sHCU6YE3D+d6+nm2I1ahwovzWGaYFTtLOQLjHbBSbG6qVb/exC7s25yIqnaM81zK1ZH16hGEwfjtCKlcij2WnTpoJa7+6C0MNRsYefvUaxP7aja35VESGn8U/oqLqVQFxZ6Jt5SHZHDIHW23GEapaHOR7emPHSWovYw2ogIMyeXSNjv5zgTHyZ6tXA0lNMseN5+zSIoTl03KSA3YnVwgpE4JFZtQSq8piUDdoN28SGlQ0r+8sFVo49DS0OOw9z7iiTtw=;47EzSfBHaMtPuEXmmBIDcg=="
 ---

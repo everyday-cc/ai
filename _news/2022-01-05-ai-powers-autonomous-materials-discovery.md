@@ -50,6 +50,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "New AI Could Discover Hidden Physical Laws"
+    excerpt: "A new artificial intelligence (AI) technology that could discover hidden physical laws has been developed by researchers at Kobe University and Osaka University. The AI can extract hidden equations of motion from regular observational data,"
+    publishedDateTime: 2022-01-07T19:46:00Z
+    webUrl: "https://www.unite.ai/new-ai-could-discover-hidden-physical-laws/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/physics-6780710_1280.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Merck leans into AI with $610M in biobucks for Absci drug discovery pact"
     excerpt: "Merck is taking a deep dive into complex proteins with the help of AI-powered drug discovery company Absci. The two companies have signed a research collaboration for up to three targets in a deal worth up to $610 million in upfront fees and milestone payments."
     publishedDateTime: 2022-01-07T14:55:00Z

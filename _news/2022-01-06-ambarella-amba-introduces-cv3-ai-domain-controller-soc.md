@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Ambarella (AMBA) Introduces CV3 AI Domain Controller SoC"
-excerpt: "Ambarella AMBA recently unveiled CV3 artificial intelligence (“AI”) domain controller system-on-chips (“SoC”). The platform is ideal for implementing autonomous driving for vehicles from Level 2+ to Level 4,"
-publishedDateTime: 2022-01-05T21:10:00Z
-originalUrl: "https://www.chron.com/business/article/Ambarella-AMBA-Introduces-CV3-AI-Domain-16751421.php"
-webUrl: "https://www.chron.com/business/article/Ambarella-AMBA-Introduces-CV3-AI-Domain-16751421.php"
+excerpt: "Ambarella (AMBA) launches CV3 AI domain controller SoC for implementing autonomous driving for vehicles from Level 2+ to Level 4."
+publishedDateTime: 2022-01-05T17:01:00Z
+originalUrl: "https://www.entrepreneur.com/article/411648"
+webUrl: "https://www.entrepreneur.com/article/411648"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Houston Chronicle
-  domain: chron.com
+  name: Entrepreneur
+  domain: entrepreneur.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://staticx-tuner.zacks.com/images/charts/0d/1641391398.png"
-    width: 583
-    height: 265
+  - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411648.jpeg"
+    width: 635
+    height: 400
     isCached: true
 
 related:
@@ -82,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ambarella (AMBA), Seeing Machines Tie Up For Integrated ADAS"
+    excerpt: "Ambarella (AMBA) and Canberra-based Seeing Machines collaborate to develop integrated forward-facing ADAS solution combined with the latter's occupant and driver monitoring system technology."
+    publishedDateTime: 2022-01-07T19:01:00Z
+    webUrl: "https://www.entrepreneur.com/article/412098"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 54
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412098.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "Ambarella launches AI domain controller SoC family"
     excerpt: "Ambarella, an AI vision silicon company, has announced the CV3 AI domain controller family. A fully scalable, power-efficient CVflow family of SoCs, these devices are able to provide the automotive industry’s highest AI processing performance,"
     publishedDateTime: 2022-01-05T14:10:00Z
@@ -131,6 +149,6 @@ related:
       domain: greencarcongress.com
     quality: 3
 
-secured: "Iht7+lp3PB2CO4zlfzP5s+NCLGiNjJzS4z603PU8/lj0r5yRXiBnKZLWiubgUMrQFeiWN9T/Y1SlgR/H/4GfrlJcPGm0LdS/rU4wOJctcyQvn0q0zdI2K5XzYKKz5wETI3gvUdbiD6fFw2Jiau9LUUo6rbzjTDmCwcUlxW/1ejDfYXJGhdhtKcsoVPAmnnYNEtJyWcMAJGQ4O/dg5FNZSIDRfja49BL3HAGqM7Ej9H2EmBiVDVWNP/ZpB6ZLRRRT9UrF+Iun6rWNoE6pUUMmGva99ffGHFqVehPN6e6TDHcFJuBxkBGCp56eBJWUtV03c83l8Jpava1iAhZJT9aV/iu1a6cW65Hc1FTtwUWoKbI=;KGXfJhlIKSfkD8Ux6efvHA=="
+secured: "PfLHHGUSjVcWYrPH6Wuov/SNIqwjHs7SarkUWwNBQwP8gG1ifMi03PZEMzTCf2NI2BlQhh+f8gNl6UhI3g6RsdLvbkjrnHNEKxrTdCbN9NM+qVZbo9DEMH5BX3UVGaR9TkiUIQBgjqGPbTPiygAsjtus6GrmeLSgau2DwefG01Yp5xKWkHpZhXm90t6ZyM49DULxgcgIC2llrbXNXhvFjnIuf7sRGapAFACYUYINL+A9SLfiHuWOgSYWxT1wRrxhJUQHAIAVoGsD6sBEKy6tZDRSZepSb79o8HbKiPj9qP5O586FnJhtJeSuA4fgnD497dtmZu6VD1SmsKZUll7hxapNFCE68wJiMhfT52GZbnw=;EsewgY/+bIM3XAr9/7M/Ww=="
 ---
 

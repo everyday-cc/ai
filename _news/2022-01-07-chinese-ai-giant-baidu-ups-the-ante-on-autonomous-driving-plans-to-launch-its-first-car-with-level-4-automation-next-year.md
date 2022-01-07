@@ -31,105 +31,87 @@ images:
     isCached: true
 
 related:
-  - title: "Volvo Ride Pilot autonomous driving feature to launch in California"
-    excerpt: "Many automotive manufacturers have been working to develop autonomous driving capabilities for their vehicles. The ability for a car to drive itself without supervision from a human is an"
-    publishedDateTime: 2022-01-07T16:41:00Z
-    webUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/"
-    ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
+  - title: "The First Model From Baidu's New EV Brand JiDU to Use the NVIDIA DRIVE Orin System-on-a-Chip to Support L4 Autonomous Driving"
+    excerpt: "JiDU Automotive, the new electric vehicle venture formed by China’s internet technology giant Baidu Inc and Chinese automaker Geely, will use the powerful NVIDIA DRIVE Orin system-on-a-chip (SoC) in its first model to support L4 autonomous driving capabilities,"
+    publishedDateTime: 2022-01-07T17:00:00Z
+    webUrl: "https://www.geospatialworld.net/news/jidu-level-4-self-driving-vehicle-powered-by-nvidia-drive-orin-to-begin-production-next-year/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
+      name: futurecar
+      domain: futurecar.com
+    quality: 127
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/volvo-concept-recharge-side.jpg"
-        width: 1440
-        height: 800
+      - url: "https://www.geospatialworld.net/wp-content/uploads/2022/01/image-1-scaled.jpeg"
+        width: 2560
+        height: 1440
         isCached: true
-  - title: "Volvo will debut its 'self-driving' Ride Pilot feature in California"
-    excerpt: "Volvo will debut “Ride Pilot,” its take on a Tesla-like autonomous driving feature, in California, the automaker announced on Wednesday during CES 2022.."
-    publishedDateTime: 2022-01-05T18:47:00Z
-    webUrl: "https://www.engadget.com/volvo-ride-pilot-181545657.html"
+  - title: "Nvidia to supply chips for Baidu’s consumer EVs"
+    excerpt: "Jidu Auto, an electric vehicle joint venture from tech giant Baidu and auto major Geely, has become the latest carmaker to commit to using Nvidia’s next-generation computer Drive Orin for its models' self-driving functions,"
+    publishedDateTime: 2022-01-07T05:35:00Z
+    webUrl: "https://technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
+    ampWebUrl: "https://technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
+      name: TechNode
+      domain: technode.com
+    quality: 59
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fd19e8b0-6e52-11ec-bf4c-1aada46c0efc"
-        width: 1600
-        height: 1000
+      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
+        width: 540
+        height: 540
         isCached: true
-  - title: "Volvo to debut self-driving feature in California using Luminar sensor"
-    excerpt: "Volvo is planning to deploy the technology, which will allow the car to fully take over driving tasks in some limited situations, in a forthcoming all.."
-    publishedDateTime: 2022-01-07T04:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
+  - title: "Baidu to launch Level 2 autonomous car in 2023"
+    excerpt: "China’s technology giant Baidu is stepping up its efforts to expand in the autonomous vehicle segment with the commercial launch...Read"
+    publishedDateTime: 2022-01-07T12:12:00Z
+    webUrl: "https://www.just-auto.com/news/baidu-to-launch-level-2-autonomous-car-in-2023/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88747763,imgsize-905021,width-1200,height-628,overlay-etcio/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
+        width: 1270
+        height: 846
         isCached: true
-  - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
-    excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
-    publishedDateTime: 2022-01-07T13:22:00Z
-    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+  - title: "Self-Driving Truck Developer TuSimple Partners with NVIDIA on a Domain Controller for L4 Autonomous Driving"
+    excerpt: "Autonomous truck developer TuSimple has expanded its ongoing partnership with chipmaker NVIDIA to design and develop an advanced \"autonomous domain controller\" (ADC) specifically for TuSimple's Level 4 autonomous trucks."
+    publishedDateTime: 2022-01-05T22:30:00Z
+    webUrl: "https://www.futurecar.com/5110/Self-Driving-Truck-Developer-TuSimple-Partners-with-NVIDIA-on-a-Domain-Controller-for-L4-Autonomous-Driving--"
     type: article
     provider:
-      name: The Scottish Sun
-      domain: thescottishsun.co.uk
-    quality: 42
+      name: futurecar
+      domain: futurecar.com
+    quality: 21
     images:
-      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1500
-        height: 1000
+      - url: "https://img.futurecar.com/202201/05/l_61d62a782d2be.jpeg"
+        width: 800
+        height: 480
         isCached: true
-  - title: "Volvo announces Ride Pilot unsupervised self-driving system"
-    excerpt: "Volvo on Wednesday announced the new self-driving system Ride Pilot at the 2022 Consumer Electronics Show underway in Las Vegas. Ride Pilot is described as a hands-off, eyes-off system, meaning a driver will be free to do other things when the system is activated,"
-    publishedDateTime: 2022-01-05T19:00:00Z
-    webUrl: "https://motorauthority.com/news/1134649_volvo-announces-ride-pilot-unsupervised-self-driving-system"
+  - title: "Self-Driving Truck Developer TuSimple Builds a Domain Controller for L4 Autonomous Driving Using the NVIDIA DRIVE Orin SoC"
+    excerpt: "Autonomous truck developer TuSimple has expanded its ongoing partnership with chipmaker NVIDIA to design and develop an advanced \"autonomous domain controller\" (ADC) specifically for TuSimple's Level 4 autonomous trucks."
+    publishedDateTime: 2022-01-05T22:30:00Z
+    webUrl: "https://www.futurecar.com/5110/Self-Driving-Truck-Developer-TuSimple-Builds-a-Domain-Controller-for-L4-Autonomous-Driving-Using-the-NVIDIA-DRIVE-Orin-SoC"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
+      name: futurecar
+      domain: futurecar.com
+    quality: 13
     images:
-      - url: "https://images.hgmsites.net/hug/volvo-concept-recharge_100815470_h.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://img.futurecar.com/202201/05/l_61d62a782d2be.jpeg"
+        width: 800
+        height: 480
         isCached: true
-  - title: "Volvo to launch self-driving feature in California"
-    excerpt: "Volvo Cars and self-driving sensor maker Luminar Technologies plan to release a hands-free driving system called ‘Ride Pilot’ that will debut in California."
-    publishedDateTime: 2022-01-06T12:29:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/01/volvo-to-debut-self-driving-feature-in-california/"
+  - title: "CES 2022: China’s JiDU adopts Nvidia’s Orin for first self-driving car"
+    excerpt: "Nvidia announced at CES 2022 another automotive startup has chosen its semiconductors to power future Level 4 autonomous driving vehicles. JiDU, a Chinese automotive startup backed by Baidu, will use Nvidia’s Drive Orin system-on-chip (SoC) for its first production model that will be unveiled at the upcoming Beijing Auto Show in April and is slated for mass production and delivery by 2023."
+    publishedDateTime: 2022-01-07T13:45:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17624/ces-2022-china-s-jidu-adopts-nvidia-s-orin-for-first-self-driving-car"
     type: article
     provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/17410/2022-01-04t144149z_1944669228_rc2esr9xcrek_rtrmadp_3_volvo-cars-ceo.jpg?crop=0,0.23853879292805991,0,0.26927370707194004&cropmode=percentage&width=1200&height=450&rnd=132859435290000000"
-        width: 1200
-        height: 450
-        isCached: true
-  - title: "Volvo is teaming up with Luminar to test a self-driving car system in California"
-    excerpt: "@volvocars has developed a fully autonomous highway driving system it plans to test later this year that uses @luminartech sensors."
-    publishedDateTime: 2022-01-05T22:24:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/01/05/volvo-luminar-to-debut-self-driving-in-california.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "u9YazIusWNiLPeVT87Jh0suu09pGBrLb69W61BOHdzXeBQni3xQ0i+OCcIEHOG15BpSez7MX5AHlzY4H6gcl0RRL7V1f9Nuj0S7J1qnUjFLqQP5k/RnJOpGujnOzyCmRhgvRLE7SAuyLJXxjBVKaf8PA7eHEWTNEFcRoaP0s7RruNwmFaZ0fPHl36K6jket010EYv6VWtJZjVdEWD1zaNWwDfeUxKZVaaP9p7b81Caawqwt4vOGro1u24tkJDWtpDz6nAP3+nX06CVs8FeeMEumYnxP/feHtZ/PHrRNKUzj+z8HG6suoyZFHdZgNQa4tV2D+79s6ZUr/LjbY8ZxqV5pHAFBUa/uajXQ6ZbfsBjQ=;NMzI1bGz2nlpk1eVaTPETg=="
 ---

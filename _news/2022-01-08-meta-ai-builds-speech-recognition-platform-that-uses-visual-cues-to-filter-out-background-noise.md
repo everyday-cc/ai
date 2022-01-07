@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-07T17:04:00Z
 originalUrl: "https://siliconangle.com/2022/01/07/meta-ai-built-speech-recognition-platform-relies-visual-cues-filter-background-noise/"
 webUrl: "https://siliconangle.com/2022/01/07/meta-ai-built-speech-recognition-platform-relies-visual-cues-filter-background-noise/"
 type: article
-quality: 42
-heat: 42
+quality: 44
+heat: 44
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/AV-HuBERT.png"

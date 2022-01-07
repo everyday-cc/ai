@@ -129,15 +129,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "CES 2022: China’s JiDU adopts Nvidia’s Orin for first self-driving car"
-    excerpt: "Nvidia announced at CES 2022 another automotive startup has chosen its semiconductors to power future Level 4 autonomous driving vehicles. JiDU, a Chinese automotive startup backed by Baidu, will use Nvidia’s Drive Orin system-on-chip (SoC) for its first production model that will be unveiled at the upcoming Beijing Auto Show in April and is slated for mass production and delivery by 2023."
-    publishedDateTime: 2022-01-07T13:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17624/ces-2022-china-s-jidu-adopts-nvidia-s-orin-for-first-self-driving-car"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "abusmlRDfU97BKp7oHwOMQs7owhXvJT+OmecXBxMKQLBFTxsWmk5dnmbfF6Y9uvTJTb7yiY3I901VDh2knk9BkLhuY+e6OGsrSNMd/XJj/u/Rc1JwO5o4mxBRUn3JH6YAy2EemoHI5GT2e1NzKVZC3IoyGd5QFv5UxOGYcqhf8i59sxRoyTcF17xgJ4ObERVVMPd1UyeEG+drCZUiLYtgBk9YJFHU11wy5a3lHqq10wkClPOSfKqLw7qhqS7rHR46Q0961G7f4MNG7aiNlRJvdYcoJrS9yHECxN75bebFNJkBRsLr9+yuQ9r6oJZMz16s0Pym8vova1GKKkZOZKAS75529RI+lMu+aFjYIyM4G4=;vehRHkCTcXLcI++8yr1h+A=="
 ---

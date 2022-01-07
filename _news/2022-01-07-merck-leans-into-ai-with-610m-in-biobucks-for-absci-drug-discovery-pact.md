@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 575
         isCached: true
+  - title: "New AI Could Discover Hidden Physical Laws"
+    excerpt: "A new artificial intelligence (AI) technology that could discover hidden physical laws has been developed by researchers at Kobe University and Osaka University. The AI can extract hidden equations of motion from regular observational data,"
+    publishedDateTime: 2022-01-07T19:46:00Z
+    webUrl: "https://www.unite.ai/new-ai-could-discover-hidden-physical-laws/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 37
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/physics-6780710_1280.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "AI Powers Autonomous Materials Discovery"
     excerpt: "Cornell University researchers have developed an artificial intelligence tool that aims to speed up the process of materials discovery."
     publishedDateTime: 2022-01-04T18:31:00Z

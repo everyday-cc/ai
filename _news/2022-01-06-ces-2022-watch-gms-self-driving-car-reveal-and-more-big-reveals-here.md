@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
 type: article
 quality: 89
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -133,15 +133,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "CES 2022: China’s JiDU adopts Nvidia’s Orin for first self-driving car"
-    excerpt: "Nvidia announced at CES 2022 another automotive startup has chosen its semiconductors to power future Level 4 autonomous driving vehicles. JiDU, a Chinese automotive startup backed by Baidu, will use Nvidia’s Drive Orin system-on-chip (SoC) for its first production model that will be unveiled at the upcoming Beijing Auto Show in April and is slated for mass production and delivery by 2023."
-    publishedDateTime: 2022-01-07T13:45:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17624/ces-2022-china-s-jidu-adopts-nvidia-s-orin-for-first-self-driving-car"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "q/9rhq5PibKZou5MHpnRcREfoCP5UvwikxOH1CvOa0+KFFOo/mMdY1y1gFIX3vsxo5zHmJUdpqzS3c4XvbMi/9FUtIoNmssf99QtwDxcFTmNmN0LXICujHoENcQNOyr1pQkRMAdVQ6RBdeL+9aNev9QGaNhPmdRVmxg3Z+SjK7u/Mz8BfdkWkmLdMDeOi1jlhZP7tEEqmYBQlbFfpYXRbv4tx/k0998N2rVhDCrDLOZO9NQl4MUMwHqpRZJmInvQ5H10is7hrgGU3zLcO4XivnEMtiB+LtJjYI3YoRJiewsBveceD5VxfQdJfmxoLBYwARLZ29Tjorr5K2+cdkz1NiW6hJKTOmMc/El/c6ShvBY=;HVJKkh+Ax6k1+pWXdFgkkQ=="
 ---

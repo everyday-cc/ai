@@ -2,28 +2,25 @@
 category: news
 title: "Odyssey Therapeutics Acquires Rahko, a Quantum Machine Learning Company"
 excerpt: "Odyssey Therapeutics, a biotechnology company pioneering next generation precision immunomodulators and oncology medicines, today announced that it has acquired Rahko, a leading quantum machine learning company,"
-publishedDateTime: 2022-01-06T12:19:00Z
-originalUrl: "https://www.lelezard.com/en/news-20180348.html"
-webUrl: "https://www.lelezard.com/en/news-20180348.html"
+publishedDateTime: 2022-01-06T12:09:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/odyssey-therapeutics-acquires-rahko-a-quantum-machine-learning-company-1031081200"
+webUrl: "https://markets.businessinsider.com/news/stocks/odyssey-therapeutics-acquires-rahko-a-quantum-machine-learning-company-1031081200"
 type: article
-quality: 41
-heat: 41
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
+  - AI
 
 related:
   - title: "BRIEF—Odyssey Therapeutics buys quantum machine learning firm Rahko"
@@ -36,6 +33,6 @@ related:
       domain: thepharmaletter.com
     quality: 19
 
-secured: "8gYQeWM17dkKC723XrwHiNfLpf3juKFnZ0ylPp7kSAeoVHWrD2FzxRlCSdXuugX1Fu1258w21ECkPMxvU/SlfF6XcWlnqKX+zUAD9gbe/Wgblif+ckTRqm1GiapA2pO5+xw4G7CI3iK1o3LMSmI254fq2y0YTwpntdBrnDH/hPnZ9h2oXyB3cxt4gPLrqqfCI+A3r9VynIxYpmaUj0d78IefaSbA95mwGX/Ila3J1jTDQtlUuYQZyrjq1ubgaZcHqf6dwvt/W8FkzXQfwzoiRkejEgwPkbiY3jERWMZHRzhtuODmvJxnkI2AMm+ytcCYCBgBLYXvKMtczwzD0a3B3qS9UkOrFtYSAwmowLAre30=;NbFXg/pVQM7R++1HS17lDA=="
+secured: "UkrXeEUyC6AvpMWmufCD1u9H8+TIRGkuKm4TG4kK2KR64OS2yn6xgyD2mrpkkwGU8sjQvsZmQSnjzh/pof7slswSeLI6a6afCeQGMCwszlCpdFoEU1K4DnmZ8AEWFh+LwbInSaNaysaxQsGbU+g6K7T2mUK9/1Wlwl4bVZUS6qMpSde3UzogstIEeF9IC7RsWi9EyWla4iZOy4Kz0BI/wRfYoFPC0hsJmugN7FgImrMOkL1/mWt88Mxskm9ji+0koIXCuE5rFlLfiNR5j4+bQTzIAovP+YhBkbKJCrLcl2xhC9b3//MPfpZ2W2o1GGkW692pr+V68WdOWox/HF+Nj2bXRRFV+xmriaBCzY4dfRI=;v2ebvygHUkVeTKf+DFH6IA=="
 ---
 

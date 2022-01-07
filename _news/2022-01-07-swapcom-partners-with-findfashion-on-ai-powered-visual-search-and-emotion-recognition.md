@@ -40,6 +40,20 @@ related:
         width: 488
         height: 344
         isCached: true
+  - title: "Blur faces in videos automatically with Amazon Rekognition Video"
+    excerpt: "With the advent of artificial intelligence (AI) and machine learning (ML), customers and the general public have become increasingly aware of their privacy, as well as the value that it holds in today’s data-driven world. Enterprises are actively seeking out and marketing privacy-first solutions, especially"
+    publishedDateTime: 2022-01-07T19:45:55Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-5902-image005-new-1260x537.png"
+        width: 1260
+        height: 537
+        isCached: true
   - title: "Plea against use of facial recognition technology"
     excerpt: "Telangana High Court on Monday issued notices to the State government and Hyderabad Police Commissioner over a PIL petition questioning usage of facial recognition technology (FRT) by the police. A social activist,"
     publishedDateTime: 2022-01-03T16:18:00Z

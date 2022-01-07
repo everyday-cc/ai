@@ -8,8 +8,8 @@ webUrl: "https://www.newscientist.com/article/2303858-beth-singler-interview-the
 ampWebUrl: "https://www.newscientist.com/article/2303858-beth-singler-interview-the-dangers-of-treating-ai-like-a-god/amp/"
 cdnAmpWebUrl: "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2303858-beth-singler-interview-the-dangers-of-treating-ai-like-a-god/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2021/12/07163845/beth_singler-2.jpg?width=1200&enable=upscale"

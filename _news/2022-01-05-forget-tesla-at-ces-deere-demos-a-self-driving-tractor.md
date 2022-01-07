@@ -139,6 +139,22 @@ related:
         width: 500
         height: 333
         isCached: true
+  - title: "Deere Unveils First Self-Driving Tractor"
+    excerpt: "Deere's autonomous tractor can be controlled by a smartphone. Deere revealed its first self-driving tractor that farmers can control with a smartphone at CES 2022. The company created autonomous equipment including a box that is placed on the front and one on the back of existing agricultural machinery such as the 8R 410 row crop tractor that has a total of 12 stereo cameras and an Nvidia GPU."
+    publishedDateTime: 2022-01-07T20:02:00Z
+    webUrl: "https://www.thestreet.com/investing/agriculture-vehicles-autonomous-technology"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjgyNDYyNjUzMTYyOTE0/john-deere_2.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
     excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
     publishedDateTime: 2022-01-04T22:31:00Z

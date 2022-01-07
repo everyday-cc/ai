@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-cance
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-cancer-patients-excessive.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Can Enable and Support Both Caregivers and Patients"
+    excerpt: "Artificial intelligence will never replace the human touch in healthcare, but when used properly and to its full capability, it has the potential to serve both caregivers and patients for the better."
+    publishedDateTime: 2022-01-07T18:25:00Z
+    webUrl: "https://www.timesunion.com/business/article/How-AI-Can-Enable-and-Support-Both-Caregivers-and-16757330.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/41/17/21894119/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Helping cancer patients avoid excessive radiation"
     excerpt: "A Case Western Reserve University-led team of scientists has used Artificial Intelligence (AI) to identify which patients with certain head and neck cancers would benefit from reducing the intensity of treatments such as radiation therapy and chemotherapy."
     publishedDateTime: 2022-01-06T00:00:00Z
