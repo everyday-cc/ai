@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Tesla's cameras-only autonomous system stirs controversy"
+  - title: "Tesla's Cameras-only Autonomous System Stirs Controversy"
     excerpt: "As it pursues the goal of fully autonomous driving, Tesla has bet entirely on cameras and artificial intelligence, shunning other commonly used tools such as laser detection."
-    publishedDateTime: 2022-01-06T21:56:00Z
-    webUrl: "https://techxplore.com/news/2022-01-tesla-cameras-only-autonomous-controversy.html"
-    ampWebUrl: "https://techxplore.com/news/2022-01-tesla-cameras-only-autonomous-controversy.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-tesla-cameras-only-autonomous-controversy.amp"
+    publishedDateTime: 2022-01-07T01:27:00Z
+    webUrl: "https://www.barrons.com/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607"
+    ampWebUrl: "https://www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
+      name: Barron's
+      domain: barrons.com
     quality: 61
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/luminars-lidar-based-p.jpg"
-        width: 1024
-        height: 682
+      - url: "https://www.barrons.com/asset/external-media/afp/AFP2290651458905673483301423814943866312474---1.jpg"
+        width: 768
+        height: 511
         isCached: true
 
 secured: "FnKvwu4/U0wbpbrPSuGb5ok+84V4Cl325y7x1A17SxFS9EUcHnhe7c5sR2XRXavuKDL1kSoLrBfMs+4l3ZjUNZfRxyFkzghLg0MVk25gRiATq42pajfL/HsBQltTCTihUIaLubB7L70i7DYD8svfTMNKXI+X8+Fo2HG6QqkWBIVH0MV/d2l+llSPjTL1wc2nO91lbUJ7dGo1yVxc+lBLKbMWDDafYM/CN05t1FfM6VjE9sTQJLNZl9Rvs6/K8DvswcnbKBv1WY+xPVOWdyy211oN/l8tm9sHA9gid24G23QYzcmPAakkhjrefPyH4ktsQ01msJZJWjI9MwP15Pyo4v9nTj4ksmVU88kLzzL6Vr4=;ucwSkOyhBpqz0S+AOxrJ/A=="

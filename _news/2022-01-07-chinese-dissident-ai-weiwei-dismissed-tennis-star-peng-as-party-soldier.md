@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2022-01-06/china-s-ai-weiw
 webUrl: "https://www.bloomberg.com/news/articles/2022-01-06/china-s-ai-weiwei-dismissed-tennis-star-peng-as-party-soldier"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ai Weiwei Doesn't Care What the Critics Think"
+    excerpt: "Emma Barnett meets with the acclaimed artist and dissident Ai Weiwei to talk about his detention in China, his fight for human rights and the art of protest. (Source: Bloomberg)"
+    publishedDateTime: 2022-01-07T01:44:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2022-01-07/ai-weiwei-doesn-t-care-what-the-critics-think-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibhDPmwQksh4/v50/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "No Other Way to Live: Why Ai Weiwei Left China"
     excerpt: "In the face of power, I would always be at a disadvantage, I knew, but I was a born contrarian, and there’s no other way for me to live except by taking an oppositional stance,” Ai Weiwei, China’s most famous artist and activist in exile,"
     publishedDateTime: 2022-01-06T10:00:00Z

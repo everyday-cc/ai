@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ai Weiwei Doesn't Care What the Critics Think"
+    excerpt: "Emma Barnett meets with the acclaimed artist and dissident Ai Weiwei to talk about his detention in China, his fight for human rights and the art of protest. (Source: Bloomberg)"
+    publishedDateTime: 2022-01-07T01:44:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2022-01-07/ai-weiwei-doesn-t-care-what-the-critics-think-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibhDPmwQksh4/v50/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Chinese Dissident Ai Weiwei Dismissed Tennis Star Peng as Party ‘Soldier’"
     excerpt: "Chinese dissident Ai Weiwei dismissed tennis star Peng Shuai as a “soldier” of the Communist Party, at a time when she appeared in state-media footage released to quell global concerns over her safety after she made allegations against a former top official."
     publishedDateTime: 2022-01-06T18:03:00Z

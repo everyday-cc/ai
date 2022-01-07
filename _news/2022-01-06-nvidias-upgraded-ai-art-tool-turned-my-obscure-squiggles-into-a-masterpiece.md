@@ -36,7 +36,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 69
   - title: "Sensory Sticks Its Head in the Cloud with AWS, NVIDIA-Powered SensoryCloud AI-as-a-Service"
     excerpt: "Aims to offer key AI services, like facial recognition and speech-to-text, for any internet-connected device via a simple API."
     publishedDateTime: 2022-01-05T16:29:00Z

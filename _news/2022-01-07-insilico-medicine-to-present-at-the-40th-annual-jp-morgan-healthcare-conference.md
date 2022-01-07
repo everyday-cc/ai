@@ -1,28 +1,39 @@
 ---
 category: news
-title: "AMYRIS TO PRESENT AT THE 40th ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE"
-excerpt: "(Nasdaq: AMRS), a leading synthetic biotechnology company accelerating the world's transition to sustainable consumption through its Lab-to-Market™ operating platform, today announced that management will present at the 40 th Annual J."
-publishedDateTime: 2022-01-05T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/amyris-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031079094"
-webUrl: "https://markets.businessinsider.com/news/stocks/amyris-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031079094"
+title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
+excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in"
+publishedDateTime: 2022-01-07T02:19:00Z
+originalUrl: "https://www.prnewswire.com/in/news-releases/insilico-medicine-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-889862028.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/insilico-medicine-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-889862028.html"
 type: article
-quality: 49
-heat: 49
+quality: 34
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://mma.prnewswire.com/media/1538694/Insilico_Medicine_Hong_Kong_Limited_Logo.jpg?p=facebook"
+    width: 2249
+    height: 1179
+    isCached: true
+
 related:
+  - title: "AMYRIS TO PRESENT AT THE 40th ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE"
+    excerpt: "(Nasdaq: AMRS), a leading synthetic biotechnology company accelerating the world's transition to sustainable consumption through its Lab-to-Market™ operating platform, today announced that management will present at the 40 th Annual J."
+    publishedDateTime: 2022-01-05T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amyris-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031079094"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Potrero Medical to present at 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Potrero Medical, innovator of the Accuryn Monitoring System, announced today that it has accepted an invitation to present at the 40 th Annual J.P. Morgan Healthcare Conference. Joe Urban, Potrero's Chief Executive Officer,"
     publishedDateTime: 2022-01-05T12:19:00Z
@@ -47,20 +58,6 @@ related:
       - url: "https://m.economictimes.com/thumb/msid-88735266,width-640,height-480,resizemode-7/-.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in"
-    publishedDateTime: 2022-01-07T02:19:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/insilico-medicine-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-889862028.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1538694/Insilico_Medicine_Hong_Kong_Limited_Logo.jpg?p=facebook"
-        width: 2249
-        height: 1179
         isCached: true
   - title: "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that"
@@ -97,6 +94,6 @@ related:
       domain: tmcnet.com
     quality: 12
 
-secured: "Z1F0pcN9BUsOJO/ZT+4Z1wR71/QhVXqRu8HWlAvvcXdVRANIcaoKB5Xk5mSBHpaPNRk+RuzO6x6CqxtiH0snZBJiJb1CXlYc9R4JA4pd/NWD+cIypGY0BHk1Q6XVPjYdy0zWbZxlgaid201gO/reVttAII5Ml5EL+gr3eYsRJ3HPgSAB9yg10rnZx+54FYfOXgK/9JZl5OMAzsH2Ro5u2oTpTzDEUhS2Id6NYIcbD/46F1/Opi2v09oXlXLI01RvMUHu4pSgjJRMu8dc4Gdq9NwlJFdO+jkk9ncnoNxMf1uSh/FEF+7njHPMfT0LyuiK+ne7+K40sN92fx6ZenswMkVE6XczjF35AtwN6aB555g=;nNdiTvenM4tqcoPxA9lT+Q=="
+secured: "s65h9bLlN1SzVv9BAiKXovEbxEYFRgTysFFNtIIgOzz0/ItqEOYBTAAIo6svnktNHWoQoYdyPECbBEU4beUNQOmwzpP+WdNLiC/DQotWUvdD42QIUPcEUUkPWxWQUxEYrgB3beFZ6bESBPcZJX0I0V7lRH1bQ8i3NLlBp8ZyU80yNTe5edwmJj2GoBQ7FenIS4H1d6fujCCPTAsU1h5cOa7JPVfd8vDGcaV7yye3So4A/2UwHdEEXqgDCVhO5L4wKAgbW2kXxDCVhw3BUrSyBdI6J8+REq8GqjIoYiFsVp6nZvyRSR4yXMM980OpZyTgJkiQOI+jDKghdXjrPutXjykJ1+7DAw/U88VEIGFlYIo=;uidxZN9dji0j0hQD3R1bzQ=="
 ---
 

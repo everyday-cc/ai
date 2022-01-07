@@ -181,6 +181,20 @@ related:
         width: 445
         height: 296
         isCached: true
+  - title: "Facial recognition technology makes for better giant panda protection"
+    excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
+    publishedDateTime: 2022-01-07T01:54:00Z
+    webUrl: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Telangana High Court Issues Notice On PIL Challenging Deployment Of Facial Recognition Technology (FRT) In Telangana"
     excerpt: "The Telangana High Court today issued a notice to the Telangana State Government in a Public Interest Litigation (PIL) plea filed challenging the deployment of Facial Recognition Technology (FRT) in the State of Telangana."
     publishedDateTime: 2022-01-03T08:44:00Z

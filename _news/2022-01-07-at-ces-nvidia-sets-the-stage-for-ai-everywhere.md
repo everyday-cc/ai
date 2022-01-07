@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/at-ces-nvidia-sets-the-stage-for-ai-every
 ampWebUrl: "https://www.zdnet.com/google-amp/article/at-ces-nvidia-sets-the-stage-for-ai-everywhere/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/at-ces-nvidia-sets-the-stage-for-ai-everywhere/"
 type: article
-quality: 67
-heat: 97
+quality: 69
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "Sensory Sticks Its Head in the Cloud with AWS, NVIDIA-Powered SensoryCloud AI-as-a-Service"

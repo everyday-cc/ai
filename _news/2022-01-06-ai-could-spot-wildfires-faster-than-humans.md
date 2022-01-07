@@ -7,7 +7,7 @@ originalUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/ai-c
 webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/ai-could-spot-wildfires-faster-than-humans/12390/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 270
     height: 270
     isCached: true
-
-related:
-  - title: "Beware Amoral Humans, Not Artificial Intelligence"
-    excerpt: "The coming AI revolution could be a boon to mankind — unless it’s driven by radicals unmoored from virtue and morality."
-    publishedDateTime: 2022-01-02T10:30:00Z
-    webUrl: "https://www.nationalreview.com/2022/01/beware-amoral-humans-not-artificial-intelligence/"
-    type: article
-    provider:
-      name: National Review
-      domain: nationalreview.com
-    quality: 39
-    images:
-      - url: "https://www.nationalreview.com/wp-content/uploads/2022/01/ameca-engineered-arts-youtube.jpg?fit=1200%2C700"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "f9q9Jpybdsf7PBgYDoSfW9FEZ4StFG6ttzR2keIffASOHJQ1y9lezodBOsCsnosLG2XBDOL0tiLN19saLJYteCd1EQjh1X0oNIQcI5TnWfTUBGKbyfHrngxjtmORe1SiatYCjmJkylojukvvQghkjE/3484zBxKvo6b9rlcnX+V1SFMgbivGgG9IBs0UbXDAdwuTfursiCGA0GzoXrnsSJNXP9tv0F++QjC8Cwdnj0xkYZYzT2Jij2ynCL9iuRIEJXKrU3L4wkzCsRnCtIA52Gyy5UhPZKUUCbQIxOJhkgnRpww3MvsER+l2ZinpJhSKMwHGbLknJdLFYCTX6fxB7V9GSKaWe1wrR9/vQykm8QE=;+qI7gGZ2nOBVf8ahaC9M+A=="
 ---

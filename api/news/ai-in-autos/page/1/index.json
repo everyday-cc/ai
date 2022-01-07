@@ -3,20 +3,20 @@
   "value": [
     {
       "path": "_news/2022-01-07-teslas-cameras-only-autonomous-system-stirs-controversy.md",
-      "title": "Tesla's cameras-only autonomous system stirs controversy",
+      "title": "Tesla's Cameras-only Autonomous System Stirs Controversy",
       "excerpt": "As it pursues the goal of fully autonomous driving, Tesla has bet entirely on cameras and artificial intelligence, shunning other commonly used tools such as laser detection.",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-01-tesla-cameras-only-autonomous-controversy.html",
-      "originalUrl": "https://techxplore.com/news/2022-01-tesla-cameras-only-autonomous-controversy.html",
+      "webUrl": "https://www.barrons.com/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
+      "originalUrl": "https://www.barrons.com/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
       "featuredContent": null,
       "highlight": null,
       "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/luminars-lidar-based-p.jpg",
-          "width": 1024,
-          "height": 682,
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP2290651458905673483301423814943866312474---1.jpg",
+          "width": 768,
+          "height": 511,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-01-tesla-cameras-only-autonomous-controversy.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-tesla-cameras-only-autonomous-controversy.amp",
-      "publishedDateTime": "2022-01-06T13:56:00-08:00",
+      "ampWebUrl": "https://www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
+      "publishedDateTime": "2022-01-06T17:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
+        "name": "Barron's",
+        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null

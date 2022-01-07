@@ -53,6 +53,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in"
+    publishedDateTime: 2022-01-07T02:19:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/insilico-medicine-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-889862028.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1538694/Insilico_Medicine_Hong_Kong_Limited_Logo.jpg?p=facebook"
+        width: 2249
+        height: 1179
+        isCached: true
   - title: "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that"
     publishedDateTime: 2022-01-04T10:30:00Z
@@ -64,6 +78,20 @@ related:
       name: Tyler Morning Telegraph
       domain: tylerpaper.com
     quality: 33
+  - title: "REALM IDx™ to Participate Virtually in the 40th Annual J.P. Morgan Health Care Conference"
+    excerpt: "REALM IDx, Inc., a leader in integrated diagnostics, announced the company will participate in the upcoming 40th Annual J.P. Morgan Health Care Conference. This premier health care conference features global industry leaders,"
+    publishedDateTime: 2022-01-06T23:57:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-ff232c02aa05615ba640af196270be1d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3pmWDi/PoFp6bwLHbUAAGmDQEklTRAu+K5E5eoycGMtxyfHtJwpi7vFjLEWtWNcCG9IWR8N3+gvOdX7WkqgW3X6dckWmRMcuBnJiJoTf3z2voCGWUmkmmtEwe4mNjpoYlYGtj6vkioHMkIqgK43065pQrPxl8sqZmD/JeNRi0KN4NRvChhypzQ6x99PATrjpuiBPRW+Dt8IqHtFpbO9vlBmq+XOdGooyd4mgXr40G4HLxy3U3AinuJmeQuBuuHIP4IeuvCvGveKe3W3gk0U5gw7QmEMdD1UqqznYK8mVc3DVHtFgW1Zti0or75pGLDX+PGDjWcsnsC26YypmrH3lrZF2AIKOHyv3CK+7DbF3UeY=;H6+KH9BMIahzLPkycyVVPQ=="
 ---

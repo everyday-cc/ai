@@ -38,7 +38,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 69
   - title: "CES 2022: Gamers, Creators, Drivers Feel GeForce RTX, NVIDIA AI Everywhere"
     excerpt: "An address prior to CES showed next-gen games, new tools for creating virtual worlds, and AI vehicles — all accelerated by NVIDIA technologies."
     publishedDateTime: 2022-01-06T15:56:00Z

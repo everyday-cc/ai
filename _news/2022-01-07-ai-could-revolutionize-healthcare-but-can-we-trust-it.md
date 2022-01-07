@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-could-revolutionize-health
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

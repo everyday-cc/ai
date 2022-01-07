@@ -1,33 +1,31 @@
 ---
 category: news
 title: "When researchers don't have the proteins they need, they can get AI to 'hallucinate' new structures"
-excerpt: "Using a form of artificial intelligence called deep neural networks, researchers can generate new proteins from scratch without having to consult nature."
-publishedDateTime: 2022-01-05T16:00:00Z
-originalUrl: "https://www.entrepreneur.com/article/411600"
-webUrl: "https://www.entrepreneur.com/article/411600"
+excerpt: "All living organisms use proteins, which encompass a vast number of complex molecules. They perform a wide array of functions, from allowing plants to use solar energy for oxygen production to helping your immune system fight against pathogens to letting your muscles perform physical work."
+publishedDateTime: 2022-01-06T13:19:00Z
+originalUrl: "https://phys.org/news/2022-01-dont-proteins-ai-hallucinate.html"
+webUrl: "https://phys.org/news/2022-01-dont-proteins-ai-hallucinate.html"
+ampWebUrl: "https://phys.org/news/2022-01-dont-proteins-ai-hallucinate.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-dont-proteins-ai-hallucinate.amp"
 type: article
-quality: 55
-heat: 55
+quality: 45
+heat: 45
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/providers/the-conversation/hero-image-the-conversation-411600.jpeg"
-    width: 1440
-    height: 1077
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/when-researchers-dont.jpg"
+    width: 1000
+    height: 1743
     isCached: true
 
-secured: "iu5CPUn5tinTKOgBZ9FkA3N+QXDJQyTj0Vfjsg3qMwEW7Bys6IeDdhZLAQJRfHeSuvgkFnNyDDf2guCZeNqjHsbujjZgjhZC0Iyi2ft1qYxINaRPurasqCLiPkhfhN0kOorUSePnDPxvhOBsyZwytqi0VRmnVF/bXNX8C8r7GEQy3McMXrHIjx+SYn8Hmrriyztn7GnTZr5aiK8fFcrbsWXt2/r/Z22m9y5In5T0rtaV5QwQEaR2A7jHZyZDcUyq5YGYhu0lgIPWSt6ok6P7XDLBxKYRB7ZskDaK6d3MX+FifTwf2VrTKnKcFlUhw5Gy3WEWd3BhkLIbIq81oEK8fJ4n4i4wGWCXFZGiR3zoVCU=;3kDeAaIKhtWZJ3uFZ1W3ww=="
+secured: "BrFcWSVn5VAOFmzjUfxfhPFyvHT83+UQr2aPmf024mepAiLIvjHGVOZTfZ0WUI1tN/meY6Sxp6+E+ff87clR36CWjqcav+qmEL9FjmKnAhH7gbbF9yy9TM77kIfx7qCe4JSqfPcsqCsZ7wGMDjKX6SUARJ2CvFsVQTiQdqrCR2NehgpPWkzpH+xBTU30VZEJnGo4ma9PZPP2BSn8WekLffh/kO+dAkyx9ovbT2x+KwRDyugV//gtZfMQh2Fq7LfK83uZSu7bxBoHheP8ZIPuBQbuTshrLzokoMMPqtHUldGklQuOexKPvi0CeBMyMLPcOc7Rcr+UCqVA97CNGowNC3aZ3Vicd5PqzBJOlwKVePE=;H+dKl+MQVFjuQNkJiHSEnw=="
 ---
 

@@ -1,28 +1,39 @@
 ---
 category: news
-title: "AMYRIS TO PRESENT AT THE 40th ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE"
-excerpt: "(Nasdaq: AMRS), a leading synthetic biotechnology company accelerating the world's transition to sustainable consumption through its Lab-to-Market™ operating platform, today announced that management will present at the 40 th Annual J."
-publishedDateTime: 2022-01-05T14:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/amyris-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031079094"
-webUrl: "https://markets.businessinsider.com/news/stocks/amyris-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031079094"
+title: "REALM IDx™ to Participate Virtually in the 40th Annual J.P. Morgan Health Care Conference"
+excerpt: "REALM IDx, Inc., a leader in integrated diagnostics, announced the company will participate in the upcoming 40th Annual J.P. Morgan Health Care Conference. This premier health care conference features global industry leaders,"
+publishedDateTime: 2022-01-06T23:57:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-ff232c02aa05615ba640af196270be1d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-ff232c02aa05615ba640af196270be1d"
 type: article
-quality: 49
-heat: 49
+quality: 15
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
 related:
+  - title: "AMYRIS TO PRESENT AT THE 40th ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE"
+    excerpt: "(Nasdaq: AMRS), a leading synthetic biotechnology company accelerating the world's transition to sustainable consumption through its Lab-to-Market™ operating platform, today announced that management will present at the 40 th Annual J."
+    publishedDateTime: 2022-01-05T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amyris-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031079094"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Potrero Medical to present at 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Potrero Medical, innovator of the Accuryn Monitoring System, announced today that it has accepted an invitation to present at the 40 th Annual J.P. Morgan Healthcare Conference. Joe Urban, Potrero's Chief Executive Officer,"
     publishedDateTime: 2022-01-05T12:19:00Z
@@ -73,20 +84,6 @@ related:
       name: Tyler Morning Telegraph
       domain: tylerpaper.com
     quality: 33
-  - title: "REALM IDx™ to Participate Virtually in the 40th Annual J.P. Morgan Health Care Conference"
-    excerpt: "REALM IDx, Inc., a leader in integrated diagnostics, announced the company will participate in the upcoming 40th Annual J.P. Morgan Health Care Conference. This premier health care conference features global industry leaders,"
-    publishedDateTime: 2022-01-06T23:57:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-ff232c02aa05615ba640af196270be1d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "BioXcel Therapeutics to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
     publishedDateTime: 2022-01-04T12:08:00Z
@@ -97,6 +94,6 @@ related:
       domain: tmcnet.com
     quality: 12
 
-secured: "Z1F0pcN9BUsOJO/ZT+4Z1wR71/QhVXqRu8HWlAvvcXdVRANIcaoKB5Xk5mSBHpaPNRk+RuzO6x6CqxtiH0snZBJiJb1CXlYc9R4JA4pd/NWD+cIypGY0BHk1Q6XVPjYdy0zWbZxlgaid201gO/reVttAII5Ml5EL+gr3eYsRJ3HPgSAB9yg10rnZx+54FYfOXgK/9JZl5OMAzsH2Ro5u2oTpTzDEUhS2Id6NYIcbD/46F1/Opi2v09oXlXLI01RvMUHu4pSgjJRMu8dc4Gdq9NwlJFdO+jkk9ncnoNxMf1uSh/FEF+7njHPMfT0LyuiK+ne7+K40sN92fx6ZenswMkVE6XczjF35AtwN6aB555g=;nNdiTvenM4tqcoPxA9lT+Q=="
+secured: "eB5SxbUswPebFD2OhsU/dlQO3WiiNDKowIIX23UKH6Ravgk0ys1Gy1wzEHpdwWP6HSb9+ATfAEKWNvBSUKL0YRNv8NhvFgulaYSAwGWBp13gXH+oksEXojHX90Jwew4hImdNhP2oVeepwEEDOhoR1TSIBLL/DexMhuqu8yhJI83G3CYcnphiGphzmq6iF8XeraRmyYvHlBxL+zEF0axkvN5w4t009kaepqg7pCxySvi/27NqI533VCxlFjw1cBD09dT36olPZfTe93lxIXiPSvy6mlP+75LdOoAv0BxNoiNZNXflYeIZpFKLaBv46UWOEh9TD9pmG43QizHlvUraDREy8bH1F7y3ogwKiTXFsH4=;8/JkU+LNvF/LCdeh8V07iw=="
 ---
 

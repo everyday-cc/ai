@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Telangana HC notice to state, cops for using face recognition tech"
-excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
-publishedDateTime: 2022-01-04T04:33:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+title: "Facial recognition technology makes for better giant panda protection"
+excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
+publishedDateTime: 2022-01-07T01:54:00Z
+originalUrl: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/index.html"
+webUrl: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/index.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: CGTN
+  domain: cgtn.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-88680752,imgsize-25546,width-1200,height-628,overlay-etcio/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech.jpg"
-    width: 1200
-    height: 628
+  - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
+    width: 750
+    height: 422
     isCached: true
 
 related:
@@ -58,6 +56,22 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/12/12/w600X390/JUSTICE.jpg"
         width: 600
         height: 390
+        isCached: true
+  - title: "Telangana HC notice to state, cops for using face recognition tech"
+    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
+    publishedDateTime: 2022-01-04T04:33:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88680752,imgsize-25546,width-1200,height-628,overlay-etcio/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Telangana’s facial recognition technology comes under scanner"
     excerpt: "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places."
@@ -167,20 +181,6 @@ related:
         width: 445
         height: 296
         isCached: true
-  - title: "Facial recognition technology makes for better giant panda protection"
-    excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
-    publishedDateTime: 2022-01-07T01:54:00Z
-    webUrl: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Garda body cams should not use facial recognition technology, committee warns"
     excerpt: "Garda body-worn cameras should not use facial recognition technology and should not be used to racially profile people, according to recommendations from the Oireachtas justice committee. Provision for the use of body-worn cameras (BWCs) is set out in draft legislation,"
     publishedDateTime: 2022-01-02T23:00:00Z
@@ -240,6 +240,6 @@ related:
         height: 853
         isCached: true
 
-secured: "KUPaxzlvZxIp5s2bqdjXYAZiP1J3Vx4a9So3FDV9jCYyVoNmXvOgHM+2/GVyaK5bUXxt9xdDOA7cANDaq/MxH+c5A6/jDQVgT1akHPrrcnf5tX66+QCJxkBIR+ZaNLTUSaPYqRjfTPhZ185F+2ppaycGPuKgZInDKxFU3jtrbXukOhEIA+XV6KP6/mjDmHUhMlNNviKtUidR4BuZbKrNQ1Q2K/BrIc+s/xnco2KV0rk2eLOAlAyoHXcnhuLp9QEr163eJGoBgYM+fAKSGUA+Bk3Hh31PFNzbUQMMiaJRdi6zEYkhFqtzZB4CKnXdWjTpzX6JQowR4t/4Ni+g3DlbeTIWeJ1lao2DSn9UYng4lXM=;Jc3T+qUanMtRaUZqv0yeSw=="
+secured: "jQ/m0gsXKudiVL2ehN3Wke7Jnkcbbk50MHuHySwDcH+F0YDKxQRQ7gTYXlcUdd8nPm44LJqQ4Ciko9u0OBC1dLzKioDAuc1Xs5emIK3jKilOn8E5hzEYZUk2DqIL+91QY4km+Cc7Zr3F2fMFe5xC7VcPhcTUYVyocZQSjIwoGQLgjFulwESIN2yOPT5ncqvNd7CjTw12EgHxcPReFJ3draeMnO1gYfupe4GUj+2iQPj6FxgomaK12r24ayDx2jJFi2CuR0hhZKjb0BuWS/kT2n6OlJ+MWzpdL6cDYk+o4+8nMfRc6L3vb7cD2XQeCkkckkBMxFXF0V12jNVtCw6jqjGs0MARh/Xphm4g4xm+wkM=;97N27qTqH15SxBwsOCeC5g=="
 ---
 
