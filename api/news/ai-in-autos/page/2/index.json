@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-23-public-streets-are-the-lab-for-self-driving-experiments.md",
-      "title": "Public Streets Are the Lab for Self-Driving Experiments",
-      "excerpt": "When the U.S. ordered companies to report accidents involving driver-assistance tech, Tesla was thought to be the motivation. But 108 companies were listed, showing how widespread the testing may be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/23/multimedia/23wheels/23wheels-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.amp.html",
-      "publishedDateTime": "2021-12-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-23-exploring-ai-ethics-and-accountability.md",
       "title": "Exploring AI ethics and accountability",
       "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
@@ -1340,6 +1288,58 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027.md",
+      "title": "Global Driverless Apron Bus Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2027",
+      "excerpt": "Dec 15, 2021 (CDN Newswire via Comtex) -- Global Driverless Apron Bus Market ... inventory management by via Artificial Intelligence(AI), product tracking, local production, accessible customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-12-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-12-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

@@ -2,6 +2,142 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-06-kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better.md",
+      "title": "Kokoon Nightbuds now use AI to help manage your sound sleep better",
+      "excerpt": "Now, Kukoon has announced new features to improve your sleep quality further and claims its new algorithm uses AI to offer a deeper analysis to help you get more rest at night. Kukoon’s earbuds house crucial sensors to detect your sleep including an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/",
+      "originalUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/2e4044c474547bd67f0e0598228f61af.jpg",
+          "width": 1440,
+          "height": 959,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/amp/",
+      "publishedDateTime": "2022-01-06T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-veriff-joins-aws-partner-network.md",
+      "title": "Veriff joins AWS Partner Network",
+      "excerpt": "Veriff, a global identity verification (IDV) provider announced that it has joined the Amazon Web Services (AWS) Partner Network (APN). By joining the APN as an AWS Advanced Technology Partner,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/robo-shadow-cyber-security-platform-software-reporting-devices-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
+      "publishedDateTime": "2022-01-06T04:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece.md",
+      "title": "Nvidia's upgraded AI art tool turned my obscure squiggles into a masterpiece",
+      "excerpt": "It's incredible, the things we can do with AI nowadays. For artists looking to integrate artificial intelligence into their workflow, there are ever more advanced tools popping up all over the net. One such tool is Nvidia Canvas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "originalUrl": "https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dyzDakosYHUsMs4BkwAvr4-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "publishedDateTime": "2022-01-06T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-how-abigail-annkah-is-using-ai-to-improve-maps-in-africa.md",
       "title": "How Abigail Annkah is using AI to improve maps in Africa",
       "excerpt": "As a university student, Abigail Annkah fell in love with mathematics, which soon led to her interest in artificial intelligence. After graduating from the African Institute for Mathematical Sciences, Abigail made it through the competitive process to become an AI resident at Google Research, Accra.",
@@ -991,58 +1127,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-06-volvo-will-debut-its-self-driving-ride-pilot-feature-in-california.md",
-      "title": "Volvo will debut its 'self-driving' Ride Pilot feature in California",
-      "excerpt": "Volvo will debut “Ride Pilot,” its take on a Tesla-like autonomous driving feature, in California, the automaker announced on Wednesday during CES 2022..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/volvo-ride-pilot-181545657.html",
-      "originalUrl": "https://www.engadget.com/volvo-ride-pilot-181545657.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fd19e8b0-6e52-11ec-bf4c-1aada46c0efc",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-06-amazon-announces-broad-cloud-and-ai-collaboration-with-auto-giant-stellantis.md",
       "title": "Amazon announces broad cloud and AI collaboration with auto giant Stellantis",
       "excerpt": "Stellantis NV, one of the world’s top automakers, that will encompass smart vehicles, a cloud-based data mesh and other ambitious technology initiatives. Stellantis was formed in 2021 from the merger of Chrysler Automobiles and PSA Group.",
@@ -1081,49 +1165,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis",
-      "excerpt": "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ 3.",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/",
-      "originalUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Machine%20Learning%20as%20a%20Service%20(MLaaS)%20Market3.jpg?1641369830915",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1",
-      "publishedDateTime": "2022-01-05T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -1168,59 +1209,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses.md",
-      "title": "Qualcomm and Microsoft collaborate on custom chips for AR glasses",
-      "excerpt": "Qualcomm announced its intentions to integrate software platforms with Microsoft at Tuesday's CES 2022 keynote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "originalUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/05/d15a4544-a48e-4c75-b83d-46c610541963/resize/1200x/3c064522004e0f70855c4f2157fd60fe/ar-glasses.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "publishedDateTime": "2022-01-05T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

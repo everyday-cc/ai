@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscien
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs?amp"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -33,6 +33,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--VLEtxmPC--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-01-07t064223z_2_lynxmpei06064_rtroptp_3_sanofi-results.jpg?itok=gm1J4PRI"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Sanofi bets big on AI again, paying $100M to start drug R&D pact with Exscientia"
+    excerpt: "Sanofi’s new alliance with artificial intelligence biotech Exscientia spans up to 15 small molecule drugs in cancer and immunology. If drugs from the partnership reach the market, Exscientia could earn as much as $5."
+    publishedDateTime: 2022-01-07T16:15:00Z
+    webUrl: "https://medcitynews.com/2022/01/sanofi-bets-big-on-ai-again-paying-100m-to-start-drug-rd-pact-with-exscientia/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 32
+    images:
+      - url: "https://medcitynews.com/uploads/2021/04/GettyImages-1230836886.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Sanofi makes AI play, putting up $100M and billions in biobucks to form broad deal with Exscientia"
     excerpt: "Sanofi is getting deeper into AI-driven R&D. After working with AI drug discovery shop Exscientia for five years, Sanofi has significantly expanded its relationship, putting up $100 million and $5.2 billion on the backend for the chance to work on up to 15 small molecules across oncology and immunology."

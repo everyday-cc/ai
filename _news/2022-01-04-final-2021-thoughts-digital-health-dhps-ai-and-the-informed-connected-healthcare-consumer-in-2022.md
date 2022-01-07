@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 448
         isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-    publishedDateTime: 2022-01-06T15:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-20181152.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 53
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
     publishedDateTime: 2022-01-04T15:41:00Z
@@ -131,6 +117,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+    publishedDateTime: 2022-01-06T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
 
 secured: "bLUMzV81/CqJ8f9lRZDhqAqakiGJ+kFMbQCVttCeu6Psxm2RkdziQ5d2pnsQlRH/vaAQh+TvexluEWftfjUNXE6NO7aob8WLxl8h1g/GOPtYDtuEqWCHzoRIxUUz2vBmsskRH8gOqmW6NFtLD1sq0Npak9HXbo/26SZyd0HHhv73hcETnKR1BNOXql0raI8ZqSWd83BG2s8XXZpb61i+Yd0m8rga/Fb6HNGmxmv8BAu4bljKWeGPfIRUzgyL60dSVMlQ5JfuiKdKrLUMB6xqlSqohIJp8JKNh8R71K7M8GhZCHM5BH+7eg+rAXGqQ83sm4V2F1bWFqXDsPrxTzB0Xb+hvmQRTengcy/0+9dTShjHsq/rxa+4rDdOWlgNo77KDLu2tGvOnUMAb+6au93x0lD+0XRqdzSI9fAxIyCZzwGT2eJFPuFWaz5+Dtgrs7SZVRtCxCB0W6eb1bZGMJRUY1iCWAynzWtbNAokapNAMlNzkr83LqVjIAU7SQFcaiOVxWgFLvt0ayDz5P4Md3tW7g==;Qiu0oN1pqhUgpq0Ap8Ux9g=="
 ---

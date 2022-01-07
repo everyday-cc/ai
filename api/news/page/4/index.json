@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-05-ponyai-sinotrans-collaborate-on-driverless-trucking.md",
+      "title": "Pony.ai, Sinotrans Collaborate on Driverless Trucking",
+      "excerpt": "Autonomous driving firm Pony.ai is working with Chinese logistics company Sinotrans to build a smart logistics network that uses autonomous trucking tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/pony.ai_-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/",
+      "publishedDateTime": "2022-01-04T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst.md",
       "title": "NVIDIA RTX 3090 Ti and RTX 3050 revealed to quench your GPU thirst",
       "excerpt": "With CES kicking off here in the first week of 2022, NVIDIA is joining in on the fun with a few announcements of its own. Chief among those announcements were new RTX 3080 Ti and 3070 Ti mobile",
@@ -114,7 +157,7 @@
       "originalUrl": "https://www.tomsguide.com/news/ces-2022-hyperx-cloud-alpha-wireless",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1160,49 +1203,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-spreading-the-wing-to-enter-taiwans-robotics-market-to-catch-up-with-amr-trend.md",
-      "title": "Spreading the wing to enter Taiwan's robotics market to catch up with AMR trend",
-      "excerpt": "All major robotic manufacturers invested a lot to keep up with the trend of AMR. In the Automation Taipei exhibition, many players have launched their flagship AMR products",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
-      "originalUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
-      "publishedDateTime": "2022-01-03T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

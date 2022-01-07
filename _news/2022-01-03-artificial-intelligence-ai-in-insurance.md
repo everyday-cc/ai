@@ -48,6 +48,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 54
+  - title: "Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned"
+    excerpt: "In the recent MEP National Network™/Modern Machine Shop webinar \"Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned,\" Andy Carr of South Carolina MEP (SCMEP) and Delta Bravo Founder and CEO Rick Oppedisano discussed AI solutions that work best for small and medium-sized manufacturers (SMMs)."
+    publishedDateTime: 2022-01-07T16:18:00Z
+    webUrl: "https://www.publicnow.com/view/E1A12CAC87232C8E026C6B337ACE858D8150DD8C"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 8
 
 secured: "AyHXEH8kcBlZIrkSAdImFNJ5zvfCTrYTHvaauGiho569C6vHBa+MFxCfvUy9xVsQjx6179HcMMs/UbXl14pi7+znsxW+/nmn3kbUAs6GzVc0sGxUrIh9wz5KgNfzEVrH71LhvyMu6d2frBlFtPLbYKtEKYuZ4cK+eRuwjckai2flQrTdOHKU0MY66KWBM1t0c3c3PN8FLf0t3hTOgLGKTBeVDkNvFsPm5e8sG9ZDTWQukJPdk0tDaMWg+BwOtZcgjJx4aIrzZerPVDAiWfAoFG3mbQUU09tJYPSknr15GJN3TtuPTWCJVlSY8Y7AEsc8q7anEbORNe7cbTpz+twts3CgpA37Vd8/FAiZmNXxk9C23Txhg7Q15qslF8GkzRdWOsGMcONxatyaZWJt/fkKSNdXM6lrJM9C9HdCX7fbMAASsKW7fkmIcJ48LwJeNcyZzN7mwXGN29LVQJv/SmDQHBrE3bCl1fw6dbzmauleJ/cGNhbrq8JGeIKZRAfTOxLkZnG3gTx5+qb1STyuPTak/A==;+80ViQvQWdut+ukvxqTapw=="
 ---

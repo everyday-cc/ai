@@ -68,6 +68,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "European Parliament Agenda for 2022 Includes Regulating Online Platforms, Artificial Intelligence and Crypto Assets"
+    excerpt: "Among the major issues facing the European Parliament in the new year is the region’s digital conversion. Headquartered in Strasbourg, France, the European Parliament, the European Union’s only directly elected institution,"
+    publishedDateTime: 2022-01-07T13:40:00Z
+    webUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/"
+    ampWebUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 35
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/European-Parliament-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "2nOaEQ3enupDgsNJMQhRxgVUjQX5DXaavQiiT1FwB3Ll/CTOEF8WptfKDk077dmayeMsP63vdrXlCQOsqLN5gLM/dAPqTBUlGkbR/K2s00NvJWIsnTd5GbPwZbBaDVsVNrKUpTn2f9X3uaMWS36urQGaHM+/9vO/qn3+3RewuU8qfsxNNCOwqHNJIEYjI4kKk2MUAr/C0l7fApZT5E5DFTtsmvc/MGOLmQWEeocLivZ/qjYWYNT5GX+/87b/USBhUa7v1IpVdO6alm9aX/uWTJQMPi2P3K/3xth0ZDBn/M2vJrBbuUnTmWTQ8EwLza/NGRGTWuOqKSXEpN7d8Y02l8ZciTuNVuvcuVFJLccMmKw=;O3XIjnZcAsXioV9TrNTLXQ=="
 ---

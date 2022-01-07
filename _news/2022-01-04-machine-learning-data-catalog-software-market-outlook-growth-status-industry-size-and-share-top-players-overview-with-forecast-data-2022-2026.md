@@ -30,47 +30,17 @@ images:
 
 related:
   - title: "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis"
-    excerpt: "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ 3."
-    publishedDateTime: 2022-01-05T18:35:00Z
-    webUrl: "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/"
-    ampWebUrl: "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1"
-    cdnAmpWebUrl: "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 62
-    images:
-      - url: "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Machine%20Learning%20as%20a%20Service%20(MLaaS)%20Market3.jpg?1641369830915"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
-    excerpt: "Emergen Research Logo The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
-    publishedDateTime: 2022-01-06T07:42:00Z
-    webUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growth-Sales-Revenue-and-Key-Drivers-Analysis-Research-Report-by-2027"
+    excerpt: "According to the latest report by IMARC Group, titled,“  Machine Learning as a Service (MLaaS) Market : Global Industry Trends, Sh"
+    publishedDateTime: 2022-01-05T20:41:00Z
+    webUrl: "https://menafn.com/1103494442/Machine-Learning-as-a-Service-MLaaS-Market-2022-2027-Industry-Size-Growth-Share-Analysis"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 40
+    quality: 44
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?532764"
-        width: 445
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-    excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2022-01-06T05:40:00Z
-    webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?704764"
-        width: 425
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?592428"
+        width: 456
         height: 250
         isCached: true
 

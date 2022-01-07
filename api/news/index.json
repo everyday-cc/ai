@@ -2,6 +2,351 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-08-volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california.md",
+      "title": "Volvo Ride Pilot autonomous driving feature to launch in California",
+      "excerpt": "Many automotive manufacturers have been working to develop autonomous driving capabilities for their vehicles. The ability for a car to drive itself without supervision from a human is an",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/",
+      "originalUrl": "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/volvo-concept-recharge-side.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/",
+      "publishedDateTime": "2022-01-07T08:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
+      "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
+      "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the adoption of artificial intelligence and machine learning, next-gen automotive and mobility,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/why-nvidia-is-needham-s-top-ai-ml-stock-pick-for-2022-1031087901",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/why-nvidia-is-needham-s-top-ai-ml-stock-pick-for-2022-1031087901",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-gc3f7ba6fb_1920.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-farmsense-uses-sensors-and-machine-learning-to-bug-proof-crops.md",
+      "title": "FarmSense uses sensors and machine learning to bug-proof crops",
+      "excerpt": "The damages caused to agriculture by insect pests like the Japanese beetle (pictured above) exceed $100 billion every year, according to the Agricultural Research Service of the USDA. And along with plant diseases,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/",
+      "originalUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Copy-of-Shail-and-Eamonn.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/",
+      "publishedDateTime": "2022-01-07T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-seeking-a-way-of-preventing-audio-models-for-ai-machine-learning-from-being-fooled.md",
+      "title": "Seeking a way of preventing audio models for AI machine learning from being fooled",
+      "excerpt": "Warnings have emerged about the unreliability of the metrics used to detect whether an audio perturbation designed to fool AI models can be perceived by humans. Researchers show that the distortion metrics used to detect intentional perturbations in audio signals are not a reliable measure of human perception,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/01/220107084434.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/01/220107084434.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-the-best-robot-vacuums-of-ces-2022.md",
+      "title": "The best robot vacuums of CES 2022",
+      "excerpt": "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
+      "publishedDateTime": "2022-01-07T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-data-observability-platform-timeseerai-emerges-from-stealth-with-6m.md",
+      "title": "Data observability platform Timeseer.ai emerges from stealth with $6M",
+      "excerpt": "Timeseer.ai, a time-series data observability platform, has come out of stealth with $6 million in seed funding from Crane Ventures, others.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/07/data-observability-platform-timeseer-ai-emerges-from-stealth-with-6m/",
+      "originalUrl": "https://venturebeat.com/2022/01/07/data-observability-platform-timeseer-ai-emerges-from-stealth-with-6m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1331215115-e1640030875556.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/07/data-observability-platform-timeseer-ai-emerges-from-stealth-with-6m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/data-observability-platform-timeseer-ai-emerges-from-stealth-with-6m/amp/",
+      "publishedDateTime": "2022-01-07T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-artificial-intelligence-aids-effective-fitness-training.md",
+      "title": "Artificial intelligence aids effective fitness training",
+      "excerpt": "Whether for squats or sit-ups, the software created by the start-up VAY alerts exercisers about incorrect movements via a smartphone screen. Now the ETH spin-off has been acquired by connected fitness equipment manufacturer Nautilus.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-1.jpg",
+          "width": 930,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp",
+      "publishedDateTime": "2022-01-07T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-humanoid-robot-ameca-wows-visitors-at-ces.md",
       "title": "Humanoid robot Ameca wows visitors at CES",
       "excerpt": "Innovations Humanoid robot Ameca wows visitors at CES. Posted . Meet Ameca, a humanoid robot that can make engaging human facial gestures by using ground-breaking advancements in",
@@ -10,7 +355,7 @@
       "originalUrl": "https://www.reuters.com/video/watch/idOVFT8S7L3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -189,57 +534,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-observability-ai-and-context-protecting-apis-from-todays-and-tomorrows-attacks.md",
-      "title": "Observability, AI And Context: Protecting APIs From Today's (And Tomorrow's) Attacks",
-      "excerpt": "In today's world, application programming interfaces (APIs) — the connective communication tissue between applications — are everywhere. Everyday consumer electronics, from cars to TVs, are busy talking to servers and to each other,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/07/observability-ai-and-context-protecting-apis-from-todays-and-tomorrows-attacks/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/07/observability-ai-and-context-protecting-apis-from-todays-and-tomorrows-attacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eed009b5c3e3a00074773a7%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/07/observability-ai-and-context-protecting-apis-from-todays-and-tomorrows-attacks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/07/observability-ai-and-context-protecting-apis-from-todays-and-tomorrows-attacks/amp/",
-      "publishedDateTime": "2022-01-07T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -443,7 +737,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -614,49 +908,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-07-seeking-a-way-of-preventing-audio-models-for-ai-machine-learning-from-being-fooled.md",
-      "title": "Seeking a way of preventing audio models for AI machine learning from being fooled",
-      "excerpt": "Artificial intelligence (AI) is increasingly based on machine learning models, trained using large datasets. Likewise, human-computer interaction is increasingly dependent on speech communication, mainly due to the remarkable performance of machine learning models in speech recognition tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
-      "originalUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/seeking-a-way-of-preve.jpg",
-          "width": 775,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp",
-      "publishedDateTime": "2022-01-06T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-01-07-ai-could-revolutionize-healthcare-but-can-we-trust-it.md",
       "title": "AI Could Revolutionize Healthcare. But Can We Trust It?",
       "excerpt": "At CES 2022, A panel of AI experts discussed what role AI might play in the future of healthcare. In a session titled \"Consumer Safety Driven by AI,\" Pat Baird, an AI engineer and software developer who works in standards and regulations for Phillips,",
@@ -696,58 +947,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-chinese-ai-giant-baidu-ups-the-ante-on-autonomous-driving-plans-to-launch-its-first-car-with-level-4-automation-next-year.md",
-      "title": "Chinese AI giant Baidu ups the ante on autonomous driving, plans to launch its first car with level 4 automation next year",
-      "excerpt": "The Chinese AI giant’s electric vehicle being developed by its carmaking arm, Jidu Automotive, will have level 4 autonomous driving capability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans",
-      "originalUrl": "https://www.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/06/2fcd70af-ee76-43a9-aa18-bb710e2fe3d4_375a1050.jpg?itok=eNZLUxs8&v=1641470840",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans",
-      "publishedDateTime": "2022-01-06T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -863,7 +1062,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/06/how-no-code-ai-development-platforms-could-introduce-model-bias/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -989,195 +1188,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better.md",
-      "title": "Kokoon Nightbuds now use AI to help manage your sound sleep better",
-      "excerpt": "Now, Kukoon has announced new features to improve your sleep quality further and claims its new algorithm uses AI to offer a deeper analysis to help you get more rest at night. Kukoon’s earbuds house crucial sensors to detect your sleep including an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/",
-      "originalUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/2e4044c474547bd67f0e0598228f61af.jpg",
-          "width": 1440,
-          "height": 959,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better-06705971/amp/",
-      "publishedDateTime": "2022-01-06T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead.md",
-      "title": "How Machine Learning Observability Helps America First Credit Union Stay A Step Ahead",
-      "excerpt": "America First Credit Union's Data Science Manager Richard Woolston shares how his team taps into machine learning observability to help ensure speed, inclusiveness and a great customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d70f8b8bfed47184299df6%2F0x0.jpg",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/amp/",
-      "publishedDateTime": "2022-01-06T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-veriff-joins-aws-partner-network.md",
-      "title": "Veriff joins AWS Partner Network",
-      "excerpt": "Veriff, a global identity verification (IDV) provider announced that it has joined the Amazon Web Services (AWS) Partner Network (APN). By joining the APN as an AWS Advanced Technology Partner,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/robo-shadow-cyber-security-platform-software-reporting-devices-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
-      "publishedDateTime": "2022-01-06T04:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece.md",
-      "title": "Nvidia's upgraded AI art tool turned my obscure squiggles into a masterpiece",
-      "excerpt": "It's incredible, the things we can do with AI nowadays. For artists looking to integrate artificial intelligence into their workflow, there are ever more advanced tools popping up all over the net. One such tool is Nvidia Canvas,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
-      "originalUrl": "https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/dyzDakosYHUsMs4BkwAvr4-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
-      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
-      "publishedDateTime": "2022-01-06T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

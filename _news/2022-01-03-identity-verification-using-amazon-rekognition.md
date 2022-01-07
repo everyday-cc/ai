@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verificatio
 webUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png"
         width: 975
         height: 650
+        isCached: true
+  - title: "Swap.com Partners with FIND.Fashion on AI-Powered Visual Search and Emotion Recognition"
+    excerpt: "Swap.com began working with FIND.Fashion visual search to give shoppers artificial intelligence and emotion recognition to search millions of items."
+    publishedDateTime: 2022-01-07T15:38:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 49
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/visual-search-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Speech Recognition Market Segments, Leading Player, Application and Forecast Analysis 2026"
     excerpt: "Speech Recognition Market Growth Analysis PORTLAND, OREGON, UNITED STATES, January 5, 2022 /EINPresswire.com / -- Allied Market Research"

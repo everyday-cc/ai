@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roboro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,6 +31,66 @@ images:
     isCached: true
 
 related:
+  - title: "The best robot vacuums of CES 2022"
+    excerpt: "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with."
+    publishedDateTime: 2022-01-07T15:06:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/"
+    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
+    type: article
+    provider:
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 91
+    images:
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Smart TVs, virtual bikes, robot chefs: Fun gadgets at CES 2022"
+    excerpt: "New TVs, VR headsets and home health tech highlight growing popularity of home entertainment systems amid pandemic."
+    publishedDateTime: 2022-01-04T15:46:00Z
+    webUrl: "https://www.cbsnews.com/news/ces-gadgets-tv-metaverse-smart-home/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ces-gadgets-tv-metaverse-smart-home/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ces-gadgets-tv-metaverse-smart-home/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/04/73aec007-da9c-4116-9abb-05d8627b24cf/thumbnail/1200x630/5b7b85fb6d83ca7204d0f2986cff8269/lg-virtual-ride.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
+    excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
+    publishedDateTime: 2022-01-06T16:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-lifestyle-business-travel-robotics-67dee87015347605abe336102b739cc2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,"
+    publishedDateTime: 2022-01-04T11:13:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
+        width: 400
+        height: 510
+        isCached: true
   - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
     excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
     publishedDateTime: 2022-01-06T05:12:00Z
@@ -45,15 +105,6 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "Roborock S7 MaxV Ultra is a robot vacuum that self-empties, self-cleans, and refills its own mop"
-    excerpt: "Roborock has announced S7 MaxV Ultra that takes cleaning connivance to next level thanks to its new multipurpose dock that empties, washes and refills itself."
-    publishedDateTime: 2022-01-07T06:15:00Z
-    webUrl: "https://pocketnow.com/roborock-s7-maxv-ultra"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 6
 
 secured: "56+k8NvPDBOJbxDiUSbc35pCWWjCpKWXo6RFYNYUZ71hvI9f/rd9kxEEUSrPODPzEyfF5iT4INWXGYOUkroywYm2i/gOVT5UOHr0s4aaJQJy6n5RErDGZFOkoJlO3XW28fxG+XtEtd4aMXuRIbDLLcBAU5uc9gPUvfP8S2HRU1BErzhkG3gFKFC9c8STT1XYGD8s6cZAEDZrDW/8YmcZVpFMe5l7omZoRfsvZwyxLcqERoDXEmB7J8kcEnNxf58KUfobT4IMI3EB9WhIVXUQcrDqvSlNIFEn+tq8Swc9mQA6dZTEbczmGY5psoErOnvDN6sSk3dBJtyiCFTJ3FBOxouRjtPyIfyapXoT2VKqIf4=;nVvzNSiMwlXX0PfPOMd4iQ=="
 ---

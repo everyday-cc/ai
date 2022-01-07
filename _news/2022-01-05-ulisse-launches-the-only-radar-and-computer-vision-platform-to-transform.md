@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "Ulisse Launches the Only Radar and Computer Vision Platform to Transform Every Physical Space Into an Intelligent Place"
-    excerpt: "The company’s proprietary AI and IoT technology is ‘privacy first,’ allowing for both anonymity and accuracy; learns from surrounding environment and people’s behavior to deliver better analytics, experiences,"
-    publishedDateTime: 2022-01-05T14:01:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/space-launches-technology-business-351c6b3e1faf5df837091a4870af2f78"
+    excerpt: "is launching the only radar and computer vision-based IoT AI platform to help retailers, businesses, cities, and more turn their spaces into intelligent places to improve overall experiences and ..."
+    publishedDateTime: 2022-01-05T14:07:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54900688-ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place-200.htm"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "QdrxM2mC+mL9iUfsstDjLS5/MoYnR+5JWf1t3jwRQHxRq72ocylKMeScBxnXjAWeFilFpm92XrvfcW5eb5TWw4dlX2YMERGQd55+ajKITL8HAEjqxRCjH+rxY4hJ5L0v0OpuQsVI/bozqRkw2EvP4y49oIU0xZiifqz25pszouGU72YEB+srdFKkwkQbAEm6N1rYL2/YeLndCE6kv1JgjNVZJY9krYdO6CRfT1RRTMPPBob9SWLy+CXLn8Xsswo6mbQ+KCeCl53oTiKrlCmwDXaEB2YD3z72QLTUaLMzscmAtTo/lMgM9OZV2Z4P5qMNgCdO9m/YrydVWjLXeBjgUHmuOohNl3E9wr/KGF4UonA=;pTPkx+hmt6T9KXsW8NNlHg=="
 ---

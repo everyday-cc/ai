@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-an
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://arizent.brightspotcdn.com/dims4/default/dbb30f2/2147483647/strip/true/crop/7862x4128+0+253/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb1%2F76%2Fd13de0354a5898a81329328cec36%2Fadobestock-428564931.jpeg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "European Parliament Agenda for 2022 Includes Regulating Online Platforms, Artificial Intelligence and Crypto Assets"
+    excerpt: "Among the major issues facing the European Parliament in the new year is the region’s digital conversion. Headquartered in Strasbourg, France, the European Parliament, the European Union’s only directly elected institution,"
+    publishedDateTime: 2022-01-07T13:40:00Z
+    webUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/"
+    ampWebUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 35
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/European-Parliament-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Three Rivers Casino Resort Selects OPTX’s Casino Data Platform for Player Development, Slots, and Artificial Intelligence"
     excerpt: "OPTX, the fast-growing Las Vegas-based tech start-up focused on streamlining casino player data into real-time insights for casino operators, is proud to incorporate Three Rivers Casino Resort to its rapidly expanding client list."

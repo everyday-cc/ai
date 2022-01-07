@@ -27,6 +27,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "A new start­up thinks it's found a key to drug­ging 'dis­or­dered' pro­teins — and it has plen­ty of cash to get start­ed"
+    excerpt: "The saying goes necessity is the mother of invention — and few areas of drug development are in greater need than oncology. A new startup is now repurposing promising technology to tackle the hardest-to-drug proteins,"
+    publishedDateTime: 2022-01-07T16:00:00Z
+    webUrl: "https://endpts.com/a-new-startup-thinks-its-found-a-key-to-drugging-disordered-proteins-and-it-has-plenty-of-cash-to-get-started/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 0
+
 secured: "TjEi0mMown29QEGTctPz39XUBw0lb54VKsRRxQjcV5VEbkktaLtHNb5hM648QdOZiJqHG/KJuk/3adS2AO7+6A2U++WbXoUFhEYiXPwM/cpZhdoRhEXefY14lYWFYfDhAD4TyjodDthdzwKMqERbPZf2hTB20OUJtIiAUChOC6s3/gJmBPnMcnaklqEY25wbcpGVH4tJvpYDvr9tzIthZuTnbV1kUwBXFqrYaqmnXmvsB6qIw4+CKOwf/Z5uGxWzuES9ASItjnNUqf3eusTAhHwUiwMTh0eOnVwzICIyCkfGPkKLpFVZ4TVKrIhugSsjdDZB36ZsZe8h0iGoQ5KxnxBBrMb61wzmK27/AlsACd0=;eYORz0yFUOS4Qy64/1wpeg=="
 ---
 

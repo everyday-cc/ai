@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-07-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
+      "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
+      "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the adoption of artificial intelligence and machine learning, next-gen automotive and mobility,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/why-nvidia-is-needham-s-top-ai-ml-stock-pick-for-2022-1031087901",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/why-nvidia-is-needham-s-top-ai-ml-stock-pick-for-2022-1031087901",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-gc3f7ba6fb_1920.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-farmsense-uses-sensors-and-machine-learning-to-bug-proof-crops.md",
+      "title": "FarmSense uses sensors and machine learning to bug-proof crops",
+      "excerpt": "The damages caused to agriculture by insect pests like the Japanese beetle (pictured above) exceed $100 billion every year, according to the Agricultural Research Service of the USDA. And along with plant diseases,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/",
+      "originalUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Copy-of-Shail-and-Eamonn.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/",
+      "publishedDateTime": "2022-01-07T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-seeking-a-way-of-preventing-audio-models-for-ai-machine-learning-from-being-fooled.md",
+      "title": "Seeking a way of preventing audio models for AI machine learning from being fooled",
+      "excerpt": "Warnings have emerged about the unreliability of the metrics used to detect whether an audio perturbation designed to fool AI models can be perceived by humans. Researchers show that the distortion metrics used to detect intentional perturbations in audio signals are not a reliable measure of human perception,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/01/220107084434.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/01/220107084434.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T07:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-alteryx-announces-intent-to-buy-trifacta.md",
       "title": "Alteryx announces intent to buy Trifacta",
       "excerpt": "Analytics company Alteryx announced late yesterday its intent to acquire data preparation provider Trifacta for $400 million in cash. The deal will also include $75 million of restricted stock as inducement for Trifacta staff to say on.",
@@ -141,49 +288,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-07-seeking-a-way-of-preventing-audio-models-for-ai-machine-learning-from-being-fooled.md",
-      "title": "Seeking a way of preventing audio models for AI machine learning from being fooled",
-      "excerpt": "Artificial intelligence (AI) is increasingly based on machine learning models, trained using large datasets. Likewise, human-computer interaction is increasingly dependent on speech communication, mainly due to the remarkable performance of machine learning models in speech recognition tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
-      "originalUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/seeking-a-way-of-preve.jpg",
-          "width": 775,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp",
-      "publishedDateTime": "2022-01-06T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-01-07-how-no-code-ai-development-platforms-could-introduce-model-bias.md",
       "title": "How no-code AI development platforms could introduce model bias",
       "excerpt": "Enterprises are embracing no-code AI development tools. But these tools abstract away processes in a way that could lead to issues like bias.",
@@ -192,7 +296,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/06/how-no-code-ai-development-platforms-could-introduce-model-bias/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -231,59 +335,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead.md",
-      "title": "How Machine Learning Observability Helps America First Credit Union Stay A Step Ahead",
-      "excerpt": "America First Credit Union's Data Science Manager Richard Woolston shares how his team taps into machine learning observability to help ensure speed, inclusiveness and a great customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d70f8b8bfed47184299df6%2F0x0.jpg",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/amp/",
-      "publishedDateTime": "2022-01-06T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -391,49 +442,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis.md",
-      "title": "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis",
-      "excerpt": "According to the latest report by IMARC Group, titled, “Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027“, the global machine learning as a service (MLaaS) market reached a value of US$ 3.",
-      "sourceUrl": null,
-      "webUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/",
-      "originalUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta-kiosk.icrowdnewswire.com/assets/source/users/kamal.negi/Machine%20Learning%20as%20a%20Service%20(MLaaS)%20Market3.jpg?1641369830915",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1",
-      "cdnAmpWebUrl": "https://ipsnews-net.cdn.ampproject.org/c/s/ipsnews.net/business/2022/01/05/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share-analysis/?amp=1",
-      "publishedDateTime": "2022-01-05T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inter Press Service",
-        "domain": "ipsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {

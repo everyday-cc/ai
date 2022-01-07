@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/06/how-no-code-ai-development-platfo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/06/how-no-code-ai-development-platforms-could-introduce-model-bias/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 101
 published: true
 
 provider:

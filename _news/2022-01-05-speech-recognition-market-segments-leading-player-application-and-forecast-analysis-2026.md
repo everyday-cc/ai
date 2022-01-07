@@ -101,6 +101,22 @@ related:
         width: 975
         height: 650
         isCached: true
+  - title: "Swap.com Partners with FIND.Fashion on AI-Powered Visual Search and Emotion Recognition"
+    excerpt: "Swap.com began working with FIND.Fashion visual search to give shoppers artificial intelligence and emotion recognition to search millions of items."
+    publishedDateTime: 2022-01-07T15:38:00Z
+    webUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/"
+    ampWebUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 49
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/visual-search-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Worldwide Face Recognition with Edge Computing Industry to 2026 - Increasing Integration With Ai Drones and Video Surveillance Presents Opportunities"
     excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to"
     publishedDateTime: 2022-01-04T17:45:00Z

@@ -49,6 +49,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Sanofi bets big on AI again, paying $100M to start drug R&D pact with Exscientia"
+    excerpt: "Sanofi’s new alliance with artificial intelligence biotech Exscientia spans up to 15 small molecule drugs in cancer and immunology. If drugs from the partnership reach the market, Exscientia could earn as much as $5."
+    publishedDateTime: 2022-01-07T16:15:00Z
+    webUrl: "https://medcitynews.com/2022/01/sanofi-bets-big-on-ai-again-paying-100m-to-start-drug-rd-pact-with-exscientia/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 32
+    images:
+      - url: "https://medcitynews.com/uploads/2021/04/GettyImages-1230836886.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Exscientia and Sanofi establish strategic research collaboration to develop AI-driven pipeline of precision-engineered medicines"
     excerpt: "Collaborative efforts aim to accelerate drug discovery and improve clinical success Agreement to utilize Exscientia’s AI-based capabilities and personalised medicine platform from target identification through patient selection Research will be focused on up to 15 novel small molecule candidates across oncology and immunology Exscientia will receive an upfront cash payment of $100 million with the potential of $5."
     publishedDateTime: 2022-01-07T06:02:00Z

@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Inspur Information Identified as a Strong Performer in AI Infrastructure Report"
-    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced today that Forrester, a leading global research company, released The Forrester Wave™: AI Infrastructure, Q4 2021, which identified Inspur Information as a Strong Performer and recognized its full-stack AI solutions."
-    publishedDateTime: 2022-01-04T14:09:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9dd91b63072a41d99ad49448991e2f5b"
+  - title: "WEKA Announces $73 Million Series D for Data Platform for AI"
+    excerpt: "A symbol of artificial intelligence. Photo: public domain. CTech – Israeli data storage startup WEKA, formerly WekaIO, has announced that"
+    publishedDateTime: 2022-01-07T15:54:00Z
+    webUrl: "https://www.algemeiner.com/2022/01/07/weka-announces-73-million-series-d-for-data-platform-for-ai/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 35
+      name: Algemeiner
+      domain: algemeiner.com
+    quality: 37
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.algemeiner.com/wp-content/uploads/2021/11/Artificial-Intelligence.jpg"
+        width: 720
+        height: 360
         isCached: true
-  - title: "Inspur Information Identified as a Strong Performer in AI Infrastructure Report"
-    excerpt: "Inspur Information was rated based on its current offerings, market presence, and strategy in the report which is a valuable reference for comparing AI infrastructure capabilities from top vendors. SAN JOSE,"
-    publishedDateTime: 2022-01-04T18:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220104005040/en/Inspur-Information-Identified-as-a-Strong-Performer-in-AI-Infrastructure-Report"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 15
   - title: "WEKA Increases Funding to $140 Million to Accelerate AI Data Platform Adoption in the Enterprise"
     excerpt: "WEKA, the data platform for AI, today announced that Hitachi Ventures led its recent round raising $73 million in funding, which brings the total amou"
     publishedDateTime: 2022-01-04T18:55:00Z

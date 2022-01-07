@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-a
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
 type: article
 quality: 174
-heat: 284
+heat: 304
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "The weirdest stuff we saw at CES 2022: John Deere's self-driving tractor, robot masseuses"
+    excerpt: "Among the odder sights at this year's Consumer Electronics Show: an autonomous tractor from John Deere and robots that will give you a massage."
+    publishedDateTime: 2022-01-07T14:46:00Z
+    webUrl: "https://www.usatoday.com/story/tech/columnist/2022/01/07/ces-best-products-weird/9126052002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/9126052002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9126052002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/01/07/USAT/2b6a08d9-7ce8-4a07-9ea0-90a298e2b917-ameca-robot-horiz.jpg?auto=webp&crop=3010,1693,x13,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "TuSimple to use Nvidia chips for computing in self-driving trucks"
     excerpt: "Self-driving freight trucks, while still operating largely in pilot projects, have become a focus of the autonomous industry"
     publishedDateTime: 2022-01-04T12:36:00Z
@@ -182,6 +198,20 @@ related:
       - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/01/tractor.jpb_.jpeg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Deere sets cautious rollout of self-driving tractors"
+    excerpt: "Deere seems to be aware that it can't afford to roll out the new tractors if there are still bugs, which could hurt its sterling reputation in unveiling new agricultural technology."
+    publishedDateTime: 2022-01-07T15:43:00Z
+    webUrl: "https://www.chicagobusiness.com/manufacturing/deere-expects-slow-rollout-autonomous-tractors-year"
+    type: article
+    provider:
+      name: Crain's Chicago Business
+      domain: chicagobusiness.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.chicagobusiness.com/styles/800x600/s3/deere_6.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
     excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."

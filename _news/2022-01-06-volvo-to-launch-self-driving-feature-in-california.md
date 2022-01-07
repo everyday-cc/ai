@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "Volvo Ride Pilot autonomous driving feature to launch in California"
+    excerpt: "Many automotive manufacturers have been working to develop autonomous driving capabilities for their vehicles. The ability for a car to drive itself without supervision from a human is an"
+    publishedDateTime: 2022-01-07T16:41:00Z
+    webUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/"
+    ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 74
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/volvo-concept-recharge-side.jpg"
+        width: 1440
+        height: 800
+        isCached: true
+  - title: "Chinese AI giant Baidu ups the ante on autonomous driving, plans to launch its first car with level 4 automation next year"
+    excerpt: "The Chinese AI giant’s electric vehicle being developed by its carmaking arm, Jidu Automotive, will have level 4 autonomous driving capability."
+    publishedDateTime: 2022-01-06T20:10:00Z
+    webUrl: "https://www.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
+    ampWebUrl: "https://amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
+    type: article
+    provider:
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 63
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/06/2fcd70af-ee76-43a9-aa18-bb710e2fe3d4_375a1050.jpg?itok=eNZLUxs8&v=1641470840"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Volvo will debut its 'self-driving' Ride Pilot feature in California"
     excerpt: "Volvo will debut “Ride Pilot,” its take on a Tesla-like autonomous driving feature, in California, the automaker announced on Wednesday during CES 2022.."
     publishedDateTime: 2022-01-05T18:47:00Z
@@ -58,16 +90,16 @@ related:
   - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
     excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
     publishedDateTime: 2022-01-07T13:22:00Z
-    webUrl: "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/"
-    ampWebUrl: "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/"
-    cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/"
+    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
     type: article
     provider:
-      name: Irish Sun
-      domain: thesun.ie
+      name: The Scottish Sun
+      domain: thescottishsun.co.uk
     quality: 42
     images:
-      - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1500
         height: 1000
         isCached: true

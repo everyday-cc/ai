@@ -7,7 +7,7 @@ originalUrl: "https://www.datamation.com/artificial-intelligence/ai-in-manufactu
 webUrl: "https://www.datamation.com/artificial-intelligence/ai-in-manufacturing/"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -49,6 +49,15 @@ related:
       name: Business Wire
       domain: businesswire.com
     quality: 54
+  - title: "Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned"
+    excerpt: "In the recent MEP National Network™/Modern Machine Shop webinar \"Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned,\" Andy Carr of South Carolina MEP (SCMEP) and Delta Bravo Founder and CEO Rick Oppedisano discussed AI solutions that work best for small and medium-sized manufacturers (SMMs)."
+    publishedDateTime: 2022-01-07T16:18:00Z
+    webUrl: "https://www.publicnow.com/view/E1A12CAC87232C8E026C6B337ACE858D8150DD8C"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 8
 
 secured: "DX0t9wUcnlpZ0DMPN/81gPoiClj0FN/ilgxnt0LQJ7+Qgb1wDVtKDSCC3s2YHTlTuwKG6+MK3Tj6WGLCZoR/7N0+2IhNzkBKAdDqy5g5zolarpBO6DJ3IBDuTFzNZLKjhBCUQo1JV9QnGX04nImpVLk4pGQeFc6cRaTdh7vtbTipG1VzaOn/dNPMAP+lHTyU9xn7AkGUlXJxx47+0MT5fHT4NDZcIRgGyJyGa66ldp5/DDNXpd0+oopcO8aiXrhetft0Ak871fBP2JB7a4upb7HAVldo9GcZJEWA91qPvczorAcZmiqnyeXHKAh9DXltudlKIVVVQWpbIij483Sig1vex5o9EuqtGM/eR14HMKZsfdIEqVzFryfIoXK43xmKQhtT+Te+jrJ6g8F7rXvHpy721iPBPDVWSAfCLKtnyaqp/MSHUJYZE0ufvM/gnBsQETuBDc9WdlR+N//2t9Lr8BrR+0XDZh7s4RBneqySt7j4eLlH7bN/uoK08KfIThYlErKq7qdtLJGz2BdnWQ0Vlg==;SSbLiTuOqO2MuuC1jAD4Bg=="
 ---

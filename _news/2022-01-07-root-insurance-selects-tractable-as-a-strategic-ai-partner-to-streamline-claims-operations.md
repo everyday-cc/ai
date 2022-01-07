@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Root Insurance selects Tractable as a strategic AI partner to streamline claims operations"
-excerpt: "Root Insurance, a leading US insurtech, will use artificial intelligence (AI) to streamline and accelerate its claims operations using Tractable’s suite of AI solutions. Root will launch the partnership with the AI Subro solution from Tractable to enable Root to assess and respond to subrogation demands more accurately and efficiently."
-publishedDateTime: 2022-01-07T13:09:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-accidents-artificial-intelligence-insurance-industry-daa843da7577d1f2c2b836f5c4b1ccab"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-accidents-artificial-intelligence-insurance-industry-daa843da7577d1f2c2b836f5c4b1ccab"
+excerpt: "Root Insurance, a leading US insurtech, will use artificial intelligence (AI) to streamline and accelerate its claims operations using Tractable's suite of AI solutions. Root will launch the partnership with the AI Subro solution from Tractable to enable Root to assess and respond to subrogation demands more accurately and efficiently."
+publishedDateTime: 2022-01-07T15:03:00Z
+originalUrl: "https://wgntv.com/business/press-releases/cision/20220107NY24188/root-insurance-selects-tractable-as-a-strategic-ai-partner-to-streamline-claims-operations/"
+webUrl: "https://wgntv.com/business/press-releases/cision/20220107NY24188/root-insurance-selects-tractable-as-a-strategic-ai-partner-to-streamline-claims-operations/"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: WGN-TV
+  domain: wgntv.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1721694/Final_Subro_Use_Case_PR_01__1.jpg"
+    width: 400
+    height: 263
     isCached: true
 
 related:
@@ -41,6 +41,6 @@ related:
         height: 500
         isCached: true
 
-secured: "zEM449k08Ys//64t8hDV8VRyF7elRFoD1hKBUPp6mgYa9YPwZbU331Ajz63GOCX6ywcmpZcAq9uOCSJKxDUybkR11FzsUzhJXHKENWQ5znG6IHMp7YiFOU+Qc8X27wfWuu3seeozmIkX91H8FCWfK30CwYlYQSd/e9jSVfcE3bI6JuZpvwiJpzDMgpL8mK4EXoKu+IpyHe0FrQzwTxxJbB3btkoC42O6UlXJZ1NvQZPXd5rGcsP3RGF19yp5M4vHA4t9WNZBR7WtNR9bCVlGhUQRCn/pUVscLuUu1b16YVJC0rG7W7QCSepWiLy7IMOd5RJvsV9sykjBK7YniBtFjRmIY0RRhDCHpoiQAB/3jyQ=;PLjxNejVDvUGsbSaDulypw=="
+secured: "zH2bGcB//rYBkdQ1gqy99pcwL6ow/8nZ0RBKAV1GeX42rPjRIIBUe/6zfH+S1UOqFLj4dOOKcAbAFlpbah21Rv+xUbFUketrDEiiK5gHswj4m1hxLFANv3pQMUUM95TETYGBWzrn7+hbK3YMvUNH7cq3Xh/BNaPBmlDQq87TUOco+yt+wPSCl8xNqRdTF2b8cL0mYbH+APwoS6amaSCy0s52KWCuDxM6lnJ+v64euExiPtWKaeDQTlDcrw6tvmTNTJCraw+jTg0zVu7DLUFV+6J2EwyY0321SS5B2PfZNNMErgVXPG7rZqEq91Hc8RF/VXk4Fu7BGKTioPI4pnGeaO8VztX2yQ54iDBmLPfMlZk=;RbbUQHbRiUp+2lXRmuFFjg=="
 ---
 

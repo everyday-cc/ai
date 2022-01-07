@@ -41,6 +41,20 @@ related:
         width: 696
         height: 392
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
+    excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
+    publishedDateTime: 2022-01-06T05:40:00Z
+    webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?704764"
+        width: 425
+        height: 250
+        isCached: true
   - title: "The Worldwide Learning Management System Industry is Expected to Reach $37.9 Billion by 2026'"
     excerpt: "The global LMS market is expected to grow from USD 15.8 billion in 2021 to USD 37.9 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 19.1% during the forecast period. The growing need for efficient and accessible learning to drive the LMS Market."
     publishedDateTime: 2022-01-06T20:40:00Z

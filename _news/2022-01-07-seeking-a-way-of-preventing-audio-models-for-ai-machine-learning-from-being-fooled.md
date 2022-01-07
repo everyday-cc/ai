@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Seeking a way of preventing audio models for AI machine learning from being fooled"
-excerpt: "Artificial intelligence (AI) is increasingly based on machine learning models, trained using large datasets. Likewise, human-computer interaction is increasingly dependent on speech communication, mainly due to the remarkable performance of machine learning models in speech recognition tasks."
-publishedDateTime: 2022-01-06T21:51:00Z
-originalUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.html"
-webUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.html"
-ampWebUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp"
+excerpt: "Warnings have emerged about the unreliability of the metrics used to detect whether an audio perturbation designed to fool AI models can be perceived by humans. Researchers show that the distortion metrics used to detect intentional perturbations in audio signals are not a reliable measure of human perception,"
+publishedDateTime: 2022-01-07T15:36:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/01/220107084434.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/01/220107084434.htm"
 type: article
-quality: 68
-heat: 138
+quality: 58
+heat: 98
 published: true
 
 provider:
-  name: techxplore.com
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
   - Machine Learning
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/seeking-a-way-of-preve.jpg"
-    width: 775
-    height: 500
-    isCached: true
 
 related:
   - title: "AI Model May Aid Screening for Acute Pulmonary Embolism"
@@ -43,36 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Lior Cole Is The Model Combining Artificial Intelligence With Religion"
-    excerpt: "Last Fashion Week in Milan, Lior Cole headed to the National Museum of Science and Technology of Milan on her one day off from walking runways. A science buff studying information science at Cornell,"
-    publishedDateTime: 2022-01-06T11:25:00Z
-    webUrl: "https://www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi"
-    ampWebUrl: "https://www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi/amp"
-    cdnAmpWebUrl: "https://www-vogue-co-uk.cdn.ampproject.org/c/s/www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi/amp"
-    type: article
-    provider:
-      name: British Vogue
-      domain: vogue.co.uk
-    quality: 57
-    images:
-      - url: "https://media.vogue.co.uk/photos/61d6c6d7ea688ceb329b3f28/master/pass/lior-promo.jpeg"
-        width: 956
-        height: 956
-        isCached: true
-  - title: "Deep Learning Is the A.I. Breakthrough We've Been Waiting For"
-    excerpt: "Their efforts rely heavily on something known as deep learning. This is a preview. Make a selection below to access this issue.Already have access? Sign in."
-    publishedDateTime: 2022-01-02T23:12:00Z
-    webUrl: "https://www.scientificamerican.com/article/deep-learning-is-the-a-i-breakthrough-we-ve-been-waiting-for/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 54
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/BE9605C1-B5DC-4064-B5834527CA7477C9.jpg"
-        width: 790
-        height: 496
-        isCached: true
   - title: "Contracting for AI in the Evolving Regulatory Landscape"
     excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
     publishedDateTime: 2022-01-04T12:06:00Z
@@ -86,20 +52,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
         width: 768
         height: 633
-        isCached: true
-  - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
-    excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."
-    publishedDateTime: 2022-01-06T14:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ust-launches-ust-aisense-an-ai-led-sensory-solution-that-makes-hyper-personalized-shopping-recommendations-for-wine-beer-and-food-1031081739"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1422658/UST_Logo.jpg"
-        width: 387
-        height: 400
         isCached: true
   - title: "fylm.ai 1.1 update brings online raw processing and grading for photographers"
     excerpt: "The fylm.ai 1.1 update is a “Photographers Release”, bringing the worlds of still photography and video closer than ever fylm.ai is a subscription based online color grading tool designed for both videographers and stills photographers."
@@ -130,6 +82,6 @@ related:
         height: 250
         isCached: true
 
-secured: "rJGK9lv2CPxE0hyRRyYziciqDSR95pxTMU32yzgLjZBRO73QBU0nZaGP+5D7RvNA2H+no1e0cb0g4QCml7yJphWAR71ftBv+dF+YesnOWSmo/ZW2Bxaos2DHvT8qbm5UZ9ps8CwHqR585DR84qR3jc7rB1XjSkyDssw4YJgx/qafc014GwCrwDf2qyQQA4LQ7B7hya3IG+Gg7quank3ObJxIt4cpP/zS687FvH6NimDTuC1GMJR2++KY5xID5CjVGe0/bsuYfZlqO5kcXpWXPP2zqVIvlKQaxcGkv/YkHVc2AuatTXOBedbNFU+94kJq+oZti6mHFhOX8ypgvZI04dGoT4wID81acMiLAt7dztg=;NkTlAqaUrHS6brn0rs00Eg=="
+secured: "eyQKkYln5SVk+VXkiJpONdvv+ObBPJnaq26ysplkORfeMcnqacbnFJMwiWVk3R2MEoLIfHwuVN+uxllA3JvamHmZPCPl6ni+XAGN3RzfdRcbQ5LOGUT+ayTsNkRmk5TOVeUDjujAgL6xh1yjsEI7nyisW6D2quQnIpIlmSCwSxTTlEQpj8AvT6aXjW8BtGFg4ZJ/syGYGDBiiYk5F7F37t0f0rvlFsCsS3H2vdKG7uN1V4u7QfsiOvvWDCoijAUd4z70d/PQfoYgzo+VYJSz0qCgM63DNJeLaIZEhD9D0uHVk3OII3njI5DcawGLofMoIdfjLbTpMSACrEZFFHuCTBkJqh0Hwhh5j1BlQt53oFc=;nBFNnwNke6aA3yYFr3at6g=="
 ---
 
