@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp"
 type: article
 quality: 68
-heat: 138
+heat: 128
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://static.scientificamerican.com/sciam/cache/file/BE9605C1-B5DC-4064-B5834527CA7477C9.jpg"
         width: 790
         height: 496
-        isCached: true
-  - title: "ICAI to focus on adapting AI, ethics and forensic auditing"
-    excerpt: "Kolkata: The Institute of Chartered Accountants of India (ICAI), the second largest professional body of chartered accountants in t"
-    publishedDateTime: 2022-01-03T07:43:00Z
-    webUrl: "https://menafn.com/1103477858/ICAI-to-focus-on-adapting-AI-ethics-and-forensic-auditing"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/03/pr_11684_9dabf4b7_image_story.jpg"
-        width: 662
-        height: 448
         isCached: true
   - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
     excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."

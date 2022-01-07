@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/news/covid-biotech-health-care-trends-
 webUrl: "https://news.crunchbase.com/news/covid-biotech-health-care-trends-forecast-2022/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,17 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Covid: Pupils to wear face masks in class to tackle Omicron"
-    excerpt: "Face masks are to be worn in secondary classrooms in England's schools to reduce the spread of the Omicron variant, the government has announced. The temporary reintroduction of face coverings aims to address concerns about schools remaining open for face-to-face learning this coming term."
-    publishedDateTime: 2022-01-02T14:59:00Z
-    webUrl: "https://www.jagonews24.com/en/international/news/59645"
-    ampWebUrl: "https://www.jagonews24.com/en/amp/59645"
-    cdnAmpWebUrl: "https://www-jagonews24-com.cdn.ampproject.org/c/s/www.jagonews24.com/en/amp/59645"
+  - title: "Five health tech innovations to watch in 2022"
+    excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
+    publishedDateTime: 2022-01-06T14:30:00Z
+    webUrl: "https://www.raconteur.net/healthcare/health-tech-innovations-2022/"
     type: article
     provider:
-      name: Jago News 24
-      domain: jagonews24.com
+      name: Raconteur
+      domain: raconteur.net
     quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-health-tech-innovations-to-watch-in-2022.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "wJaEwn1jVqwkFPXDy+rCHPKiAW0kWp1iXRAv1iXNjrQYyQq113T6E7deXIR5M+d67GZxz3zmnHgL6uVwX4j39vKnMrV7/dKJBIqaPscDnY+J/OXRYzLqwj/fT5jn3yz7pJGMfotRBEPu4LtEaycEcEzEdUwl1x6dEZexoK8mmuO5gSqb7J1Pp3r68VkwxLUHQW96z7dNpMJX/UouswdW1pXCtgqWAxN2X/X4smTw9xUBfYpfwHIaFWDhbeWilN9StIAvdoCNegsk1ciou7guUbbnpGGgK55sQe1c6bRS1BieHqvksQy+R7b88V7aChXjI53K0n39EO1X1o66F+ef5zQ8uxSgBNoBH1IiCCLBVtAX8dEc6poqgrfZpEvPFX0Y+fEBxdSJrl+C2rBq0c2+guajGXIFNJPzsAqP2ZDYt9DSDPW3A9lEYmOx2y1fCm18vMyYa2NyIDQyRzKe368yqLpXRXm7Zx1yKSyBAJYhmcUVDJcmVIo1rinFZhIa6GsWPbyNhPJ0arw5gRLr6cbexA==;5sVXDF2sRP4gw/Brfe7EGQ=="
 ---

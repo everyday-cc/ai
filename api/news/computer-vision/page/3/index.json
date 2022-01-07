@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-07-facial-recognition-isnt-working-for-some-windows-11-users.md",
+      "title": "Facial recognition isn’t working for some Windows 11 users",
+      "excerpt": "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself.",
+      "sourceUrl": null,
+      "webUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
+      "originalUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.windowsreport.com/wp-content/uploads/2021/12/facial-recognition-windows-11.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/?amp",
+      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp",
+      "publishedDateTime": "2021-12-07T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows",
+        "domain": "windowsreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-your-face-is-or-will-be-your-boarding-pass.md",
       "title": "Your Face Is, or Will Be, Your Boarding Pass",
       "excerpt": "Tech-driven changes are coming fast and furiously to airports, including advancements in biometrics that verify identity and shorten security procedures for those passengers who opt into the programs.",
@@ -1325,50 +1368,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-robot-company-offers-200k-for-your-face.md",
-      "title": "Robot company offers $200K for your face",
-      "excerpt": "A robot manufacturing company is looking for a human face to put on its newest product. Promobot, a European company, said in a press release that it is willing to pay $200,000 to someone for the rights to use their face forever.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
-      "originalUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/4i5kX0KZOnbyyPlSvYI4czaobwk=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/XR5L5PB3QFA3HDDEALPG5F3BCQ.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/trending/robot-company-offers-200k-your-face/GCYHHS3IWBHMZKMBXTFD4STJGI/?outputType=amp",
-      "publishedDateTime": "2021-11-29T14:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KIRO-TV",
-        "domain": "kiro7.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

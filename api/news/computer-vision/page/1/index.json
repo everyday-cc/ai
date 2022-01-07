@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-07-us-sanctioned-chinas-top-facial-recognition-firm-over-uyghur-concerns-it-still-raised-millions.md",
+      "title": "US sanctioned China’s top facial recognition firm over Uyghur concerns. It still raised millions",
+      "excerpt": "SenseTime raised $512m from non-US investors and recently debuted on the Hong Kong stock exchange",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2022/jan/06/china-sensetime-facial-recognition-uyghur-surveillance-us-sanctions",
+      "originalUrl": "https://www.theguardian.com/world/2022/jan/06/china-sensetime-facial-recognition-uyghur-surveillance-us-sanctions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3c3ac29a836e0bc02c98e3505aa066ae5c9ec0c5/0_232_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=b83551eebcae6c253fddc9676a62d28b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2022/jan/06/china-sensetime-facial-recognition-uyghur-surveillance-us-sanctions",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jan/06/china-sensetime-facial-recognition-uyghur-surveillance-us-sanctions",
+      "publishedDateTime": "2022-01-06T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022.md",
       "title": "Which tech players gained the most in 2021, and what trends can we expect in 2022?",
       "excerpt": "Which ASX listed tech player had the biggest gains this year? And what will 2022 bring in AI and Cyber Security?",
@@ -1332,49 +1384,6 @@
       "provider": {
         "name": "UMass Lowell",
         "domain": "uml.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-the-top-10-computer-vision-papers-of-2021.md",
-      "title": "The Top 10 Computer Vision Papers of 2021",
-      "excerpt": "A curated list of the top 10 computer vision papers in 2021 with video demos, articles, code and paper reference. - top-10-cv-papers-2021/README.md at main · louisfb01/top-10-cv-papers-2021",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/louisfb01/top-10-cv-papers-2021/blob/main/README.md",
-      "originalUrl": "https://github.com/louisfb01/top-10-cv-papers-2021/blob/main/README.md",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/322b60a1434cfb2f63fb8e3883041d60a569aa8f4a49791b59b3cc884a174b96/louisfb01/top-10-cv-papers-2021",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-18T21:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
         "images": null,
         "publishers": null,
         "authors": null

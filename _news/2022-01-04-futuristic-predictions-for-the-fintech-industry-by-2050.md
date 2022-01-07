@@ -67,6 +67,20 @@ related:
         width: 1485
         height: 1357
         isCached: true
+  - title: "Top 7 Robotics Trends & Predictions for 2022"
+    excerpt: "With the huge shift towards automation across industries all around the world as a result of the Covid-19 pandemic, it is time to explore the effects this may have on the way business is conducted during the next twelve months."
+    publishedDateTime: 2022-01-06T19:58:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2022/top-7-robotics-trends-predictions-2022"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 54
+    images:
+      - url: "https://www.automation.com/getmedia/ec7db2d7-abf5-4b93-828e-1fcb2b9bc51c/MichelleSchlechtriem-feature-Jan-6-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "qlilrZNijUKbNnguXEGO1hmSOg4z/olO0244kyimKvF3SNQUswHPLSMyhnnxNBvvn//e61xmv99qSylvqtbpRoKNBmxXIX2XvD5WyUoAuYVp1yYdo3r0PRIcoDYToL60+MwZ+n0/Dmj1nvven1Outu7s7NZLH58nEWILHWA3m9JPgoQ+j0v7uJCQp7fKM+Pj20U7dc8wmzCwm5UItsC4gmbslAt/P95/m2HxQVkh+FXBLslpYtW8W2G33WX/fLFGJCsdH0zLxsM4W/4VNTeT+vBWkRevFDYmDDXhQzqMuULnaSimTArkZSAXzpgVWCP5b//cr+ictFeSlkLueI1RuvqQjMb7UEwChUOCx9aFrxE=;XEq0jWQnXN2stBgAA7NMIA=="
 ---

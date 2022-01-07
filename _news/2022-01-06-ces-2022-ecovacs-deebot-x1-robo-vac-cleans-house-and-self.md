@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Roborock S7 MaxV Ultra is a robot vacuum that self-empties, self-cleans, and refills its own mop"
+    excerpt: "Roborock has announced S7 MaxV Ultra that takes cleaning connivance to next level thanks to its new multipurpose dock that empties, washes and refills itself."
+    publishedDateTime: 2022-01-07T06:15:00Z
+    webUrl: "https://pocketnow.com/roborock-s7-maxv-ultra"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 6
 
 secured: "4t9/QkJv5OJaY8dGyQFlc2FhUm5+O49mhCOibg3Ty8VJmsoaQYZ0bLtX2uF/Hh8pOlSx3UD4+sHBg/422HiXOjUMMVGxp7Qu/omv4vMRk4Fb5BOLy7nqTKB6LwZWHmWF63fne2a1y/uz8Mh2QaR5WWil0johmiC6XobXZ7IrT0Ao3mGpiVZiLihSD9oI8CfoJyvqruXhF3pA8IsGWb/YfAfaf6IDt7lZvV/7o6r70IPvDq/JPTPZ/YrdkQ7YJuA7ZsBhhmpSxoGSN+azgIJfH13AEkH/SnmgtsfaSclFzKWW2IExmq6QWAXGR/2DPANXCd64DCyjfPcZswJ6HDe+9glxxOttx0VybXXCFDPC9xc=;uJxCL1KAkmwYMkbZmjF6FA=="
 ---

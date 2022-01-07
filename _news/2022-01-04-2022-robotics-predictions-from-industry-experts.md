@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-indu
 webUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       - url: "https://www.ien.eu/uploads/tx_etim/global-mobile-robot-market.png"
         width: 1485
         height: 1357
+        isCached: true
+  - title: "Top 7 Robotics Trends & Predictions for 2022"
+    excerpt: "With the huge shift towards automation across industries all around the world as a result of the Covid-19 pandemic, it is time to explore the effects this may have on the way business is conducted during the next twelve months."
+    publishedDateTime: 2022-01-06T19:58:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2022/top-7-robotics-trends-predictions-2022"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 54
+    images:
+      - url: "https://www.automation.com/getmedia/ec7db2d7-abf5-4b93-828e-1fcb2b9bc51c/MichelleSchlechtriem-feature-Jan-6-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "Futuristic Predictions for the Fintech Industry by 2050"
     excerpt: "What are the prospects for fintech in the long run? Some of our sources predict interplanetary payments and trillions going into decentralised finance"

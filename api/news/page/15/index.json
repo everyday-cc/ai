@@ -2,6 +2,83 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-rockville-ut.md",
+      "title": "Computer Vision Scientist Salary in Rockville, UT",
+      "excerpt": "How much does a Computer Vision Scientist make in Rockville, UT? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
+      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheLadders.com",
+        "domain": "theladders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers.md",
+      "title": "How to prevent mass extinction in the ocean using AI, robots and 3D printers",
+      "excerpt": "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible biodiversity, ranging from microscopic bacteria and viruses to the largest animal on Earth,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html",
+      "originalUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/how-to-prevent-mass-ex.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp",
+      "publishedDateTime": "2021-12-21T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research.md",
       "title": "UN fails to agree on 'killer robot' ban as nations pour billions into autonomous weapons research",
       "excerpt": "Autonomous weapon systems—commonly known as killer robots—may have killed human beings for the first time ever last year, according to a recent United Nations Security Council report on the Libyan civil war.",
@@ -1027,92 +1104,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-the-story-of-john-stanley-ford-americas-first-black-software-engineer.md",
-      "title": "The Story of John Stanley Ford, America's First Black Software Engineer",
-      "excerpt": "Watson, then the CEO and chairman of IBM ... and woman and minorities are also underrepresented in the artificial intelligence sector in particular. This last bit becomes concerning as more and more companies adopt and develop AI technologies and reports ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
-      "originalUrl": "https://www.designnews.com/electronics-test/story-john-stanley-ford-americas-first-black-software-engineer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/ThinkBlackCover.jpg",
-          "width": 428,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-dimensity-9000-fails-to-prove-its-premium-chipset.md",
-      "title": "Dimensity 9000 fails to prove its premium chipset",
-      "excerpt": "Lacks in GPU, 5G, imaging, features Media Dimensity 9000 got a lot of coverage, and the marketing machine is trying to promote this chipset as a premium. Guess what? Dimensity 9000 is not a premium chipset as it suffers from stitched stock Cortex IP,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/mobile/54075-dimensity-9000-fails-to-prove-its-premium-chipset",
-      "originalUrl": "https://www.fudzilla.com/news/mobile/54075-dimensity-9000-fails-to-prove-its-premium-chipset",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/4b4d9ec382458cdd84ca55df6d7f999f_L.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T15:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

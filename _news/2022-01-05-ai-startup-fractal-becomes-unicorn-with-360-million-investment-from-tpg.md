@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unico
 webUrl: "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html"
 type: article
 quality: 166
-heat: 286
+heat: 296
 published: true
 
 provider:
@@ -189,6 +189,20 @@ related:
       - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2018-07/istock-917797174_super.jpg?itok=zddmbgvA"
         width: 1200
         height: 630
+        isCached: true
+  - title: "News: AI startup Fractal becomes unicorn with $360 million investment from TPG"
+    excerpt: "The Mumbai and San Francisco-headquartered AI startup that provides artificial intelligence and analytics solutions to scores of Fortune 100 firms enters the unicorn club"
+    publishedDateTime: 2022-01-07T06:03:00Z
+    webUrl: "https://www.peoplematters.in/news/technology/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg-32168"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 33
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1639636029/ad-kqkzykwk.jpg"
+        width: 990
+        height: 550
         isCached: true
   - title: "AI-powered client relationship platform Lift lifts off with $3 million in new capital"
     excerpt: "Copenhagen-based Lift has raised $3 million in a new funding round. The startup, which splits operations between Denmark and South Carolina in the US, offers an AI-based service that can predict the risks and opportunities of losing or growing client ..."

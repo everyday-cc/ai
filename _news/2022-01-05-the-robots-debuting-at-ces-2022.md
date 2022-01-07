@@ -101,6 +101,20 @@ related:
         width: 400
         height: 294
         isCached: true
+  - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
+    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
+    publishedDateTime: 2022-01-07T05:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=596509"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
     excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
     publishedDateTime: 2022-01-04T02:02:00Z

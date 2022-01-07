@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-07-teslas-cameras-only-autonomous-system-stirs-controversy.md",
-      "title": "Tesla's Cameras-only Autonomous System Stirs Controversy",
-      "excerpt": "As it pursues the goal of fully autonomous driving, Tesla has bet entirely on cameras and artificial intelligence, shunning other commonly used tools such as laser detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
-      "originalUrl": "https://www.barrons.com/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP2290651458905673483301423814943866312474---1.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
-      "publishedDateTime": "2022-01-06T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-01-07-chinese-ai-giant-baidu-ups-the-ante-on-autonomous-driving-plans-to-launch-its-first-car-with-level-4-automation-next-year.md",
       "title": "Chinese AI giant Baidu ups the ante on autonomous driving, plans to launch its first car with level 4 automation next year",
       "excerpt": "The Chinese AI giant’s electric vehicle being developed by its carmaking arm, Jidu Automotive, will have level 4 autonomous driving capability.",
@@ -1457,6 +1413,58 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future.md",
+      "title": "At-Fault Robotaxi accidents For Waymo, Pony.AI, Olli And What They Mean For The Future",
+      "excerpt": "different robotaxi-related accidents at the end of this year raise some interesting issues about what they mean going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c3afe0943c99e74c35c794%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
+      "publishedDateTime": "2021-12-23T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

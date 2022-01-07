@@ -58,6 +58,20 @@ related:
         width: 385
         height: 505
         isCached: true
+  - title: "No Other Way to Live: Why Ai Weiwei Left China"
+    excerpt: "In the face of power, I would always be at a disadvantage, I knew, but I was a born contrarian, and there’s no other way for me to live except by taking an oppositional stance,” Ai Weiwei, China’s most famous artist and activist in exile,"
+    publishedDateTime: 2022-01-07T06:29:00Z
+    webUrl: "https://www.hrw.org/news/2022/01/07/no-other-way-live-why-ai-weiwei-left-china"
+    type: article
+    provider:
+      name: Human Rights Watch
+      domain: hrw.org
+    quality: 37
+    images:
+      - url: "https://www.hrw.org/sites/default/files/media_2022/01/202201asia_china_aiweiwei.jpg"
+        width: 885
+        height: 574
+        isCached: true
 
 secured: "DAaNvlQSGRhT3HCYtBEpTS028YszcQ6fB0c/oC2EuPB4JxGhorUQS1b1vl5PW30DCmd7xqaEOFfo3HawshSJwkCIAYDDzSZk3t2ws6s3TijxjApzQVaLevbtfEYCJHXmqgUD2gBrMpTVy1g3GyBSwpiB/lcM+N7HSfHffqpYtjovQpwkdEfg9Y7xFrnfI8mF6kUVp9gYswKQVxtg+SrC0/W2/AL+oOjq1BtmsYhy8X+Rkx2hDlx/JmduPkfmheKOQButxoSo/lbJLUDoQA4C6d8hU17ub/VN365Wll0aY0OOR8FnBT2TwUTpygR4NhmPaGtZGZ7i2kH9ausT3gqsN3w5mPy1h0TI4todYHpoLb8=;D7aZ8vvIGmKzHD5prXSTwA=="
 ---

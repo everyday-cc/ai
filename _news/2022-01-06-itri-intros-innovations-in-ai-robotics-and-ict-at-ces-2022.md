@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-i
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
 type: article
 quality: 91
-heat: 201
+heat: 211
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1721003/Jueying_Lite2_on_2022_CES.jpg"
         width: 400
         height: 294
+        isCached: true
+  - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
+    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
+    publishedDateTime: 2022-01-07T05:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=596509"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
   - title: "The robots debuting at CES 2022"
     excerpt: "Take a look at this roundup of robots, compiled by Electronics360, that are preparing for their CES 2022 debut. Hyundai Motor Group. Source: Hyundai Motor Group. Automotive manufa"

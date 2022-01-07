@@ -200,6 +200,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "News: AI startup Fractal becomes unicorn with $360 million investment from TPG"
+    excerpt: "The Mumbai and San Francisco-headquartered AI startup that provides artificial intelligence and analytics solutions to scores of Fortune 100 firms enters the unicorn club"
+    publishedDateTime: 2022-01-07T06:03:00Z
+    webUrl: "https://www.peoplematters.in/news/technology/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg-32168"
+    type: article
+    provider:
+      name: People Matters
+      domain: peoplematters.in
+    quality: 33
+    images:
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1639636029/ad-kqkzykwk.jpg"
+        width: 990
+        height: 550
+        isCached: true
 
 secured: "c5KXvpFb37WecKxk5sAhq9Kn6VM8JwzPq1uv13VtYCgwZxB84a/lmXcdHkoZZMqh/xjjAgS+eObcoMrZ5RQLTMEbkKy6nS2FIZIp7rw7CuVE+udoJMpjixOJpGc2hxaCaxrRE5Y2HVNP4UelgmwP6gYmypgqdqqjkGsWqEd/HyzhyacXw3tyFHOpqm61t7kCFpMpk1s9ehoqh42nR2fT0neCFteiBs1VjJgy+3GW58RRpgbcALWy0JtGLTYbfIQSaMrmTeVgxxyGOjG9Cip8p34DIo14YYFdYU7+9a9SKRrygZRwa03GpX5a+h6zlVRBkWZEBCz8PXQMYTS5Z/RzkN7B/vht6Zc/7LlMCCBCEKdvZhZI3pSgc/Ne1OCI4q3MrmISsApyrvQEW+29vQ1zDBPJp6okze/pG5zzQi71qLI0bE7vNFJ1rJ5ouh8YU+v6leqjCfKlCKZD5gn2UzIZxub3mqzR/4jRzkMWYDc84HXIL+k6Lj46gSYvGHqO1TbL4kIFuUWreziS/9i4pXg3ZQ==;oPtJUearGSEU2ettkqanpA=="
 ---

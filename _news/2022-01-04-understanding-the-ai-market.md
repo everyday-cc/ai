@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/understand
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/understanding-the-ai-market/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
         height: 448
+        isCached: true
+  - title: "AI in Computer Vision Market: Explore Top Factors that Will Boost the Global Market in Future"
+    excerpt: "AI in Computer Vision Market Computer vision is widely used in industries ranging from energy & utilities to manufacturing and automotive"
+    publishedDateTime: 2022-01-07T06:28:00Z
+    webUrl: "https://menafn.com/1103501989/AI-in-Computer-Vision-Market-Explore-Top-Factors-that-Will-Boost-the-Global-Market-in-Future"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 43
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/07/EP_2e58eimage_story.jpeg"
+        width: 790
+        height: 466
         isCached: true
   - title: "Understanding AI’s Limitations Is Key to Unlocking Its Potential"
     excerpt: "Artificial intelligence (AI) is revolutionizing many processes across industries and applications—digital customer service assistants, autonomous"

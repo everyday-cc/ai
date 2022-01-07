@@ -90,20 +90,6 @@ related:
         width: 790
         height: 496
         isCached: true
-  - title: "ICAI to focus on adapting AI, ethics and forensic auditing"
-    excerpt: "Kolkata: The Institute of Chartered Accountants of India (ICAI), the second largest professional body of chartered accountants in t"
-    publishedDateTime: 2022-01-03T07:43:00Z
-    webUrl: "https://menafn.com/1103477858/ICAI-to-focus-on-adapting-AI-ethics-and-forensic-auditing"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/03/pr_11684_9dabf4b7_image_story.jpg"
-        width: 662
-        height: 448
-        isCached: true
   - title: "fylm.ai 1.1 update brings online raw processing and grading for photographers"
     excerpt: "The fylm.ai 1.1 update is a “Photographers Release”, bringing the worlds of still photography and video closer than ever fylm.ai is a subscription based online color grading tool designed for both videographers and stills photographers."
     publishedDateTime: 2022-01-05T17:25:00Z

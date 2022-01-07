@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roboro
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Roborock S7 MaxV Ultra is a robot vacuum that self-empties, self-cleans, and refills its own mop"
+    excerpt: "Roborock has announced S7 MaxV Ultra that takes cleaning connivance to next level thanks to its new multipurpose dock that empties, washes and refills itself."
+    publishedDateTime: 2022-01-07T06:15:00Z
+    webUrl: "https://pocketnow.com/roborock-s7-maxv-ultra"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 6
 
 secured: "56+k8NvPDBOJbxDiUSbc35pCWWjCpKWXo6RFYNYUZ71hvI9f/rd9kxEEUSrPODPzEyfF5iT4INWXGYOUkroywYm2i/gOVT5UOHr0s4aaJQJy6n5RErDGZFOkoJlO3XW28fxG+XtEtd4aMXuRIbDLLcBAU5uc9gPUvfP8S2HRU1BErzhkG3gFKFC9c8STT1XYGD8s6cZAEDZrDW/8YmcZVpFMe5l7omZoRfsvZwyxLcqERoDXEmB7J8kcEnNxf58KUfobT4IMI3EB9WhIVXUQcrDqvSlNIFEn+tq8Swc9mQA6dZTEbczmGY5psoErOnvDN6sSk3dBJtyiCFTJ3FBOxouRjtPyIfyapXoT2VKqIf4=;nVvzNSiMwlXX0PfPOMd4iQ=="
 ---

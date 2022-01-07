@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-07-as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority.md",
+      "title": "As Dubai Moves on AI Track, Tackling Ethical Risk Becomes Top Priority",
+      "excerpt": "Data has emerged as the new oil for economic growth. This is especially so in the case of the UAE which is fast evolving into a knowledge-based economy with Dubai as the fountainhead of in - Mediawire",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority/articleshow/88749274.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority/articleshow/88749274.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/msid-88749271,width-640,height-480,resizemode-7/pexels-pixabay-219692-2.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority/amp_articleshow/88749274.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority/amp_articleshow/88749274.cms",
+      "publishedDateTime": "2022-01-06T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-us-sanctioned-chinas-top-facial-recognition-firm-over-uyghur-concerns-it-still-raised-millions.md",
+      "title": "US sanctioned China’s top facial recognition firm over Uyghur concerns. It still raised millions",
+      "excerpt": "SenseTime raised $512m from non-US investors and recently debuted on the Hong Kong stock exchange",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2022/jan/06/china-sensetime-facial-recognition-uyghur-surveillance-us-sanctions",
+      "originalUrl": "https://www.theguardian.com/world/2022/jan/06/china-sensetime-facial-recognition-uyghur-surveillance-us-sanctions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/3c3ac29a836e0bc02c98e3505aa066ae5c9ec0c5/0_232_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=b83551eebcae6c253fddc9676a62d28b",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2022/jan/06/china-sensetime-facial-recognition-uyghur-surveillance-us-sanctions",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/jan/06/china-sensetime-facial-recognition-uyghur-surveillance-us-sanctions",
+      "publishedDateTime": "2022-01-06T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-ai-weiwei-doesnt-care-what-the-critics-think.md",
       "title": "Ai Weiwei Doesn't Care What the Critics Think",
       "excerpt": "Emma Barnett meets with the acclaimed artist and dissident Ai Weiwei to talk about his detention in China, his fight for human rights and the art of protest. (Source: Bloomberg)",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.bloomberg.com/news/videos/2022-01-07/ai-weiwei-doesn-t-care-what-the-critics-think-video",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -50,50 +145,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-teslas-cameras-only-autonomous-system-stirs-controversy.md",
-      "title": "Tesla's Cameras-only Autonomous System Stirs Controversy",
-      "excerpt": "As it pursues the goal of fully autonomous driving, Tesla has bet entirely on cameras and artificial intelligence, shunning other commonly used tools such as laser detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
-      "originalUrl": "https://www.barrons.com/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/external-media/afp/AFP2290651458905673483301423814943866312474---1.jpg",
-          "width": 768,
-          "height": 511,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607",
-      "publishedDateTime": "2022-01-06T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     },
     {
@@ -190,7 +241,7 @@
       "originalUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -233,7 +284,7 @@
       "originalUrl": "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1069,6 +1120,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
+      "title": "Robot tractors may be heading to a farm near you",
+      "excerpt": "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-01-robot-tractors-farm.html",
+      "originalUrl": "https://techxplore.com/news/2022-01-robot-tractors-farm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/john-deere-unveiled-th.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-01-robot-tractors-farm.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-robot-tractors-farm.amp",
+      "publishedDateTime": "2022-01-06T01:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022.md",
       "title": "ITRI intros innovations in AI, robotics, and ICT at CES 2022",
       "excerpt": "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, will introduce AI, robotics, and ICT technologies at its CES 2022 booth",
@@ -1077,7 +1171,7 @@
       "originalUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1110,93 +1204,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-chinese-scientists-build-factory-robot-that-can-read-minds.md",
-      "title": "Chinese scientists build factory robot that can read minds",
-      "excerpt": "Researchers in China say they have developed an industrial robot that can read a human co-worker’s mind with 96 per cent accuracy.The robot not only monitored the worker’s brain waves, but also collected electric signals from muscles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds",
-      "originalUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/9a25a14b-7d84-4317-888e-fbcad66d54b5_d05c091f.jpg?itok=uu4W3u9u",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp",
-      "publishedDateTime": "2022-01-05T17:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology.md",
-      "title": "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology",
-      "excerpt": "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T16:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

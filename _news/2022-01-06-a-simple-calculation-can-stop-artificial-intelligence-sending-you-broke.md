@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/a-simple-calculation-can-stop-artifi
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/a-simple-calculation-can-stop-artificial-intelligence-sending-you-broke-173501"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 320
     height: 213
     isCached: true
+
+related:
+  - title: "A simple calculation can stop artificial intelligence sending you broke"
+    excerpt: "Mike is a 40-something crop farmer from southern Queensland. With a chestnut tan, crushing handshake and a strong outback accent, hes the third generation of his family to grow sorghum, a cereal mostly used for"
+    publishedDateTime: 2022-01-07T06:02:00Z
+    webUrl: "https://www.econotimes.com/A-simple-calculation-can-stop-artificial-intelligence-sending-you-broke-1624523"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 37
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/2022010626e855accc227a0bf_th_1024x0.jpg"
+        width: 496
+        height: 248
+        isCached: true
 
 secured: "SUqbrzuUT0HfVBTPoQoFKrfhZZpgpj6Qgwy4gptujWfTbXkNwKL+OHpj/KN7MgzDyfW0LqaYA0NDcXfXYYlINj3UwccBFo8kiiYvD6nRiqzzAdDnS4eeLIOdX1qntcSykoDkpBRT49RyMg8at8vH5rb/w9NtHRl+J2D0Gl5U5ACMYHl428NwWt9Bb58Ydb07hW91YHCEvNxI5mEx/FuZBBqxVIHmOa9/lks/9y16szjZ56xYKvC++tGJK99resfKFieClZOO+/5haoeMRrjiNC0vJoLcAy99e7J1wkrN/YJwGcPoGIzkr73bUo8Xi6seJjokTMkgtnQdUdelJSPkn2qedKVLXxvgkb1GSwU8+wY=;jpWxul673umB+W16cv6gjg=="
 ---

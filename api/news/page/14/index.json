@@ -2,6 +2,93 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-12-22-explore-amazon-sagemaker-serverless-inference-for-deploying-ml-models.md",
+      "title": "Explore Amazon SageMaker Serverless Inference for Deploying ML Models",
+      "excerpt": "Invent 2021 user conference earlier this month, Amazon Web Services‘ Amazon SageMaker Serverless Inference is a new inference option to deploy machine learning models without configuring and managing the compute infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/explore-amazon-sagemaker-serverless-inference-deploying-janakiram-msv",
+      "originalUrl": "https://www.linkedin.com/pulse/explore-amazon-sagemaker-serverless-inference-deploying-janakiram-msv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF_v9S4FOAWYQ/article-cover_image-shrink_600_2000/0/1640146369662?e=1646870400&v=beta&t=7XPeAvELZF1fxTTBuiJ3JdPVUs4qxJgnjMSIh3-SWd4",
+          "width": 640,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T20:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-advent-international-acquires-majority-stake-in-encora-a-leading-provider-of-digital-engineering-services.md",
+      "title": "Advent International Acquires Majority Stake in Encora, a Leading Provider of Digital Engineering Services",
+      "excerpt": "Encora, a global digital engineering services company specializing in software product development services for fast-growing enterprises and digitally-native companies and Advent International (\"Advent\"),",
+      "sourceUrl": null,
+      "webUrl": "https://www.newswit.com/en/LRbT",
+      "originalUrl": "https://www.newswit.com/en/LRbT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "academy",
+        "domain": "newswit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-waymo-adds-750-million-to-war-chest-as-driverless-cars-prove-tough-to-deploy.md",
       "title": "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy",
       "excerpt": "In the world of driverless cars, the big keep getting ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than ...",
@@ -1036,83 +1123,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-rockville-ut.md",
-      "title": "Computer Vision Scientist Salary in Rockville, UT",
-      "excerpt": "How much does a Computer Vision Scientist make in Rockville, UT? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
-      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheLadders.com",
-        "domain": "theladders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-how-to-prevent-mass-extinction-in-the-ocean-using-ai-robots-and-3d-printers.md",
-      "title": "How to prevent mass extinction in the ocean using AI, robots and 3D printers",
-      "excerpt": "The ocean is the most defining physical feature of Earth, covering 71% of the surface of this planet. It is home to incredible biodiversity, ranging from microscopic bacteria and viruses to the largest animal on Earth,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html",
-      "originalUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/how-to-prevent-mass-ex.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2021-12-mass-extinction-ocean-ai-robots.amp",
-      "publishedDateTime": "2021-12-21T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

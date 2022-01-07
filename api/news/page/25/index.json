@@ -2,6 +2,84 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-14-artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with-google-microsoft-corporation-amazon-web-services-inc.md",
+      "title": "Artificial Intelligence (AI) in BFSI Market is Going to Boom with Google, Microsoft Corporation, Amazon Web Services Inc",
+      "excerpt": "The Artificial Intelligence AI in BFSI market research report added by Report Ocean is an in depth analysis of the latest developments market size status upcoming technologies industry drivers challenges regulatory policies with key company profiles and strategies of players",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "originalUrl": "https://www.openpr.com/news/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc14789977_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2497367/artificial-intelligence-ai-in-bfsi-market-is-going-to-boom-with",
+      "publishedDateTime": "2021-12-14T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-aws-launches-region-in-indonesia.md",
+      "title": "AWS Launches Region in Indonesia",
+      "excerpt": "(NASDAQ: AMZN), today announced the launch of the AWS Asia Pacific (Jakarta) Region. Starting today, developers, startups, entrepreneurs, and enterprises as well as government, education, and nonprofit organizations can run their applications and serve end users from data centers located in Indonesia leveraging advanced AWS technologies to drive innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.afp.com/en/news/1313/aws-launches-region-indonesia-202112120051641",
+      "originalUrl": "https://www.afp.com/en/news/1313/aws-launches-region-indonesia-202112120051641",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AFP",
+        "domain": "afp.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-mts-to-acquire-ai-computer-vision-leader-visionlabs.md",
       "title": "MTS to Acquire AI Computer Vision Leader VisionLabs",
       "excerpt": "Mobile TeleSystems Public Joint Stock Company (“MTS” or “the Company”) (NYSE: MBT; MOEX: MTSS), Russia’s largest mobile operator and a",
@@ -1044,92 +1122,6 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles.md",
-      "title": "Asia-Pacific is seeing a hiring boom in railway industry machine learning roles",
-      "excerpt": "Asia-Pacific was the fastest growing region for machine learning hiring among railway industry companies in the three months ending October.  That was followed by Europe, which saw a 1.4 year-on-year percentage point change in machine learning roles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.railway-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles/",
-      "originalUrl": "https://www.railway-technology.com/features/asia-pacific-is-seeing-a-hiring-boom-in-railway-industry-machine-learning-roles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.railway-technology.com/wp-content/uploads/sites/24/2021/12/blur-g504dc2ffe_1280.jpg",
-          "width": 1280,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Railway Technology",
-        "domain": "railway-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-tantech-subsidiary-receives-milestone-order-for-twelve-driverless-street-sweepers-develops-next-generation-sweeper-with-enhanced-features.md",
-      "title": "Tantech Subsidiary Receives Milestone Order for Twelve Driverless Street Sweepers; Develops Next Generation Sweeper with Enhanced Features",
-      "excerpt": "The innovative driverless and autonomous street sweeper ... data analysis systems, artificial intelligence controls, positioning and navigation systems, automatic actuators, and safety assurance ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/tantech-subsidiary-receives-milestone-order-twelve-driverless-street-sweepers-develops",
-      "originalUrl": "https://www.asiaone.com/business/tantech-subsidiary-receives-milestone-order-twelve-driverless-street-sweepers-develops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/pr-newswire_500_4_1284.jpg?itok=sjEXc39Y",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/tantech-subsidiary-receives-milestone-order-twelve-driverless-street-sweepers-develops?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/tantech-subsidiary-receives-milestone-order-twelve-driverless-street-sweepers-develops?amp",
-      "publishedDateTime": "2021-12-13T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

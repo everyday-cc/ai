@@ -2,50 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-12-08-moderna-stock-is-sold-by-this-robot-trader-it-bought-tesla-and-merck-instead.md",
-      "title": "Moderna Stock Is Sold by This Robot Trader. It Bought Tesla and Merck Instead.",
-      "excerpt": "Artificial intelligence-run fund AMOM also loaded up on shares of Netflix, and bet big on a very low-profile medical device specialist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
-      "originalUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-77576/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
-      "publishedDateTime": "2021-12-08T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2021-12-08-focus-waymos-slow-going-in-arizona-opens-up-us-robotaxi-race.md",
       "title": "FOCUS-Waymo's slow-going in Arizona opens up U.S. robotaxi race",
       "excerpt": "Dec 8 (Reuters) - Alphabet Inc’s Waymo risks losing its lead in ... in financing needed to automate driving through artificial intelligence software and expensive sensors. Waymo has led the ...",
@@ -1385,6 +1341,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-27-uae-launches-first-driverless-autonomous-vehicle.md",
+      "title": "UAE launches first driverless autonomous vehicle",
+      "excerpt": "The driverless and 100% electric shuttle is one of the first-ever autonomous vehicles to be deployed in the UAE in a ‘mixed traffic mode’, as it can drive on the road with other cars",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/UAE_launches_first_driverless_autonomous_vehicle-WAM20211127065004189/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/UAE_launches_first_driverless_autonomous_vehicle-WAM20211127065004189/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210304070927YBEN.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20211127065004189/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20211127065004189/",
+      "publishedDateTime": "2021-11-27T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

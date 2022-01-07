@@ -40,18 +40,18 @@ related:
         height: 720
         isCached: true
   - title: "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION"
-    excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led"
-    publishedDateTime: 2022-01-04T21:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring--selections-solution-301450354.html"
+    excerpt: "The world's most objective hiring and selections platform plans to expand globally and innovate further with cutting-edge AI.SINGAPORE, Jan. 5, 2022 // -- X0PA AI, a leader in AI-powered objective hiring solutions,"
+    publishedDateTime: 2022-01-05T13:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595310"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 19
     images:
-      - url: "https://mma.prnewswire.com/media/1715264/Image_for_Cision_PR_Newswire__Series_A_Funding_Campaign__Nina.jpg?p=facebook"
-        width: 600
-        height: 315
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "L57783P4U4dvWHq97d9IKskYDGtjuhPZvrbrU3mn719qoZ1YORVqv2eDanAP97BI6EHSNjyBnRq3PIjPNucc28wV50fIqCMXGsDe8ZYPGU2cOHNHAD6Suctg/Zim2cZnrKGjgQQ+yreDduo59DLW7D4t2MM7Bir92zyhEo9Wj0pELjAnI+NMrlvipAq2w/mUMmdW1u229ompJ0A05A75erWl5RPiJbJOh5q8Na6wTNMXlZtvetVHIv1tF9kfaE5qKx4MYCEijROY1n7teHGQuXQ7yPWD/35CNP8xMAxUG6GrBQ67tqXP/qDB0O4eBLr50Gz0JZzgB+B46G9rQZeS41/GVTtPpe84hiuBGcAQeHHeXfJKdXg4DaZdcr4LuIgu0x4O9qIAv3VgGOhUviA5jDq1KEQNACCrs09sD7MKV2Jf+zyspkJbVBV6RFfvxjxZPaEIVMn7BzNxcbilwz9M7y8s3hGf9U1zFjoyVk4TNqRDfZjLI1id3hTJIMYoB2QrYOAhpgNjjyD/7L0Ne+/BMg==;/hrm1c2t3sEK/xg6ce8Ksw=="

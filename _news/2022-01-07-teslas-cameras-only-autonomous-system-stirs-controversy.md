@@ -1,20 +1,18 @@
 ---
 category: news
-title: "Tesla's Cameras-only Autonomous System Stirs Controversy"
-excerpt: "As it pursues the goal of fully autonomous driving, Tesla has bet entirely on cameras and artificial intelligence, shunning other commonly used tools such as laser detection."
-publishedDateTime: 2022-01-07T01:27:00Z
-originalUrl: "https://www.barrons.com/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607"
-webUrl: "https://www.barrons.com/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607"
-ampWebUrl: "https://www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607"
-cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/tesla-s-cameras-only-autonomous-system-stirs-controversy-01641504607"
+title: "Tesla's cameras-only autonomous system stirs controversy"
+excerpt: "As it pursues the goal of fully autonomous driving, Tesla has bet entirely on cameras and artificial intelligence."
+publishedDateTime: 2022-01-07T06:24:00Z
+originalUrl: "https://www.digitaljournal.com/tech-science/teslas-cameras-only-autonomous-system-stirs-controversy/article"
+webUrl: "https://www.digitaljournal.com/tech-science/teslas-cameras-only-autonomous-system-stirs-controversy/article"
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 41
+heat: 41
+published: false
 
 provider:
-  name: Barron's
-  domain: barrons.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Machine Learning
@@ -22,9 +20,9 @@ topics:
   - AI in Autos
 
 images:
-  - url: "https://www.barrons.com/asset/external-media/afp/AFP2290651458905673483301423814943866312474---1.jpg"
-    width: 768
-    height: 511
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Tesla-Cameras-AFP-1K-02.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -38,6 +36,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 19
 
-secured: "hJphGDe+ql+pb1CiWSymXgGF67Da7SEenx9ym3rh/mY9o+6YDYyz4dxrwGbjJHo5TRCcie9IOpzHnE6QgQY3YXmrqXAp5l2U5Arp46wfauhQRwpT5GVT2rekOX/khQacmh4lwMvRKz3irzf+l8pmoiM4yuv4fr3luZp5a6CCMQRifQ+/ju+trSpeBpcWjjBrfRX4ff/088uonih7PQjxAt4X55iqylCFrdXH80EFYdfV2Fvq3pzu0t6FsKOa2ZQnb37B9c8yMXSsaCbm+kWWg7DL1yiotnlKxup9Z2dJqo5T1oNzJEIbdxZ7BohoGF8S7en/u2TLNBF5FDMNQmYg9P6i8iUNZ8OczYCijMGnrKI=;oWumUeqqdaM3+mmAtVoppw=="
+secured: "X1hQptPGRTXbyMsS0QgQmTM9vmhepHixlTVmb42fEex3eF76Rj2ko9PKBgeTXJqNIZh05BJcyzcc2nrEuv23hOnsQQExqY96NZFll467bLWyTBCr9cJh2cJ+EhbxxJ4SXsS+WsMAVsv2SHIRhrR6Jbclt71MNIdxHcqrBITs3/wtE8KU1ydb5rIThWgTle0ejVRx+UIcJh8RdKvHE8DKynW2hY0G/0l0twx2MOkt21I+19cme/pc5+isGr4GeytDegj6UBmS23FoIxIW/wmq6G1JMxow6n3IMKhUKGdxZY6Qaih2QeDSkIA6c9mByGRsCZRdLbtOKo7PzyA9t4wy5C2WbJnNUpFTz4JUUJ3ujgA=;18UHD+fUSZHHYHXnWMhFRg=="
 ---
 

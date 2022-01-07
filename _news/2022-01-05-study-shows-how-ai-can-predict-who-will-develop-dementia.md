@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/study-shows-how-ai-can-predict-who-will-devel
 webUrl: "https://www.unite.ai/study-shows-how-ai-can-predict-who-will-develop-dementia/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence can predict, detect and deter financial crime"
-    excerpt: "By Martin Rehak, CEO of  For each dollar of fraud lost, the cost to the merchant is three times as great. Banks need to be agile to compete with the fintechs, but how can they do this without compromising both security and the onboarding process?"
-    publishedDateTime: 2022-01-04T09:45:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-can-predict-detect-deter-financial-"
+  - title: "Medical Moment: Artificial intelligence prevents dementia?"
+    excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. It’s all the buzz in the healthcare industry right now. It’s already in the operating room with robot-assisted surgeries and behind the scenes safe-guarding your private health records."
+    publishedDateTime: 2022-01-07T00:50:00Z
+    webUrl: "https://www.wndu.com/2022/01/07/medical-moment-artificial-intelligence-prevents-dementia/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 36
+      name: WNDU
+      domain: wndu.com
+    quality: 41
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGoSUY3qwKY6Q/article-cover_image-shrink_600_2000/0/1641288859117?e=1646870400&v=beta&t=U99X-MY9PqwqqTZWitK2OJgUAna2qd7lflW7l966g98"
-        width: 750
-        height: 500
+      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/yHYXahwuYrNxszKkMAELOAaEGUE=/980x0/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/NKRZUIWK35EXZLRJ2HILUXZEMY.jpg"
+        width: 980
+        height: 551
         isCached: true
 
 secured: "+PflJBFTX3QCyTdwoKyDVgqz32biwn1AVbs1hLUFeF5QWydfnJqzyoE4PO7wnhtfQr3vTOGLqjw11KfBo6AKGN5HUiawREGDl34AmtfVDroK+QuoCZfsXP+Mg2K/it9spsTlKiKzQf5wz97WQaHw0nNfCGA31kcthw2O/DSo0qAH8Tj6YYgY7pq2rZXcCNj7hOWF4pSalz9KX1VU+tBCUybQFo45m2ivUDzTOPPibTnJSRYqCOuSCf9ypnUfEM78xaYZfLgLKw9oaIi8FiDMdF8j9y+rz/NwDIjGl02CWfJNWAS/fsqv72XGymGpzcLsGl8RW1xv9yFNPnrX1ukjimtnpvH8L4hfOh3hU6gOLFo=;1xJQzqr0tYSRSTQMIlvWDw=="
