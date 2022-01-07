@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous car developers lobby to defang US safety data regulations"
-    excerpt: "The fast-rising autonomous vehicle industry is lobbying US federal safety regulators to limit the amount of data companies must report every time their cars crash, arguing that the current requirements get in the way of innovation that will benefit the public."
-    publishedDateTime: 2022-01-03T05:39:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/03/autonomous-car-developers-lobby-to-defang-us-safety-data-regulations"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/03/1429567.jpg"
-        width: 1240
-        height: 827
-        isCached: true
   - title: "Autonomous car developers lobby to defang safety data regulations"
     excerpt: "The fight over autonomous vehicle crash data is a harbinger of fiercer debates to come as humans increasingly interact with robots and artificial intelligence technology increasingly pervades the ..."
     publishedDateTime: 2022-01-03T12:31:00Z

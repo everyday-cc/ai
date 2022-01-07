@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "East Ventures leads $3.8m round of 🇸🇬 healthtech startup"
-    excerpt: "Smarter Health provides healthcare infrastructure solutions with a focus on decision-making for patients, specialists, and medical institutions."
-    publishedDateTime: 2022-01-03T05:44:00Z
-    webUrl: "https://www.techinasia.com/east-ventures-leads-sg-healthtechs-smarter-health-38m-raise"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
   - title: "Cassidy Health Partners with athenahealth's Marketplace Program"
     excerpt: "Cassidy Health, a provider of the only on-demand talent marketplace built specifically for the needs of healthcare revenue cycle, today announced a partnership with athenahealth, Inc. through the company's Marketplace program."
     publishedDateTime: 2022-01-04T15:02:00Z

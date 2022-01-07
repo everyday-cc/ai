@@ -73,15 +73,6 @@ related:
         width: 580
         height: 339
         isCached: true
-  - title: "Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027"
-    excerpt: "Pages Report] Check for Discount on Global and United States Face Recognition Turnstile Market Insights, Forecast to 2027 report by QYResearch Group. Face Recognition Turnstile market is segmented by region (country),"
-    publishedDateTime: 2022-01-03T06:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5242220-global-and-united-states-face-recognition-turnstile-market-insights-forecast-to-2027.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 12
   - title: "Artificial Intelligence Market| Global Industry Analysis By Size, Share, Covid-19 Impact, Growth Factors And Regional Forecast To 2028"
     excerpt: "Apple Inc. Baidu IBM Corporation IPsoft Microsoft Corporation MicroStrategy, Inc NVIDIA Qlik Technologies Inc. Verint Systems Inc. (Next IT Corp)"
     publishedDateTime: 2022-01-04T10:38:00Z

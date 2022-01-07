@@ -27,7 +27,7 @@ related:
     provider:
       name: futurecar
       domain: futurecar.com
-    quality: 127
+    quality: 129
     images:
       - url: "https://www.geospatialworld.net/wp-content/uploads/2022/01/image-1-scaled.jpeg"
         width: 2560

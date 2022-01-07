@@ -9,8 +9,8 @@ ampWebUrl: "https://www.barrons.com/amp/articles/ibm-watson-health-sale-51641401
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ibm-watson-health-sale-51641401912"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Barron's
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "IBM reportedly shopping Watson Health just as healthcare gets hot"
+    excerpt: "IBM could be looking to sell the Watson Health division for a mere $1 billion, according to an Axios report. The question is why is IBM running away from the healthcare vertical just as it seems to be heating up,"
+    publishedDateTime: 2022-01-07T22:19:00Z
+    webUrl: "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/"
+    ampWebUrl: "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 106
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-597922966.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "IBM Seeks Buyer for Watson Health Unit: Report"
     excerpt: "IBM has hired BofA Securities to solicit bids for artificial-intelligence unit Watson Health, according to Axios. IBM's looking for a price of more than $1 billion."
     publishedDateTime: 2022-01-05T21:03:00Z

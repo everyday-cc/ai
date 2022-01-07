@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-07T19:11:00Z
 originalUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/01071IBM-AMZN-GM-QCOM.asp"
 webUrl: "https://www.investorideas.com/news/2022/artificial-intelligence/01071IBM-AMZN-GM-QCOM.asp"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.investorideas.com/images/AI-Eye.jpg"

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-is-need
 webUrl: "https://markets.businessinsider.com/news/stocks/why-nvidia-is-needham-s-top-ai-ml-stock-pick-for-2022-1031087901"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022"
+    excerpt: "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the"
+    publishedDateTime: 2022-01-07T19:37:00Z
+    webUrl: "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/24947489/why-nvidia-is-needhams-top-aiml-stock-pick-for-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24947489"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24947489"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 76
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-gc3f7ba6fb_1920.jpg"
+        width: 1920
+        height: 1285
+        isCached: true
 
 secured: "0vWQhsZ6BNpxBCjqb6SZwhpuZtoOpF9z5jsjGhrwHZTbUaL4NO7YY4M+0EyF4FmedBcaVqwzDVbVfaZ2fMYJ8UxwVy2F9hLAnRL58G+5svcxOB+mY88wJmK+eBYTGbCAxMY3BO+Rm0sJxtm3gFpqNxvyPyo9CUxxFpQOLgxQcxt5eQdxcuc1m00uqmf3Exe3CkQObvlI+twz65/os8D3AtiW1m+wbgD7zOa7p9LC8H3w0B+iMZcEmoMSYBg8D6bRVwp/twwz8/iYStGENDlHtHcdUfLocMygtbZrDbuDvOAsjjOAvag55LPC01EZHzVkN8IqYjwCt0tNh8sMAf1sruhXwa4Nb5lMd3kxx4p5hSc=;1CQg8fxMMtxQ0UT+qcBokQ=="
 ---

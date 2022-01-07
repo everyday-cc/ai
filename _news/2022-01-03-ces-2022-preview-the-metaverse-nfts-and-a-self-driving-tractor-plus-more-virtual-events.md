@@ -26,17 +26,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Holographic TVs, self-driving cars and metaverse at CES, world’s largest consumer tech conference"
-    excerpt: "The art of prediction increases in difficulty further when it is technology trends that are being forecast and thats before factoring in this very unusual year."
-    publishedDateTime: 2022-01-03T06:09:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/holographic-tvs-selfdriving-cars-and-metaverse-at-ces-worlds-largest-consumer-tech-conference/news-story/14a94f27edace395a761e95ee05c1c07"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 0
-
 secured: "mDJ2ML/KXRlJBVOdIKdpWzLTYiHFr7p/PScl3MBP+ZmvOpVrVkMXrkWttrqsYTjSoJLHAXf1o/z7grSeQG334Pe1btCL+aReZa+FOYVPYgOX6kDXXWq5vN6yH/quIpT7XlToEsHuaiOxSnqRKrCsuSvZGtEaA5puYWQIjtGZtnMPdHc0dO3iSvn5xh9UQKqWMrkJgFDnOjXbQnzELXCrpktxzhXwZ4ZPN0cSOkLqsdcoz4Hry1C1dv36pTur5wTTn4TSQB3MFSRhT2TqSOcEAqv8LUQ9QBKp/UtaA+AmYWxshUD7Fr0sfXCAcV8HisGmQdYpyAuhU5GOAxlyoFRKzRGBgsM8is/qvQzKKWXXvcZsaevai3IXQ5LKH6zBTOyVkenPiTrAA1XTgpdoPaItaNG2cMHxJ1GMYOMYpp+77KWPplMD4gXSQMPpF/K1XGT7Zvo8pGnG2bDsXsLtlFk0iBKBcFJhiFu4xZ3A/MDLV5THRr0cJKDb6TVgrKu5Fffw5Ab9X9NHiPusOJcGUOQUag==;FYd6Vg1Fc+xRlrOpwSgY8Q=="
 ---
 

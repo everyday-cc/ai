@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-07T17:00:00Z
 originalUrl: "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-EV-Brand-JiDU-to-Use-the-NVIDIA-DRIVE-Orin-System-on-a-Chip-to-Support-L4-Autonomous-Driving"
 webUrl: "https://www.geospatialworld.net/news/jidu-level-4-self-driving-vehicle-powered-by-nvidia-drive-orin-to-begin-production-next-year/"
 type: article
-quality: 127
-heat: 187
+quality: 129
+heat: 189
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Autos
 
 images:
   - url: "https://www.geospatialworld.net/wp-content/uploads/2022/01/image-1-scaled.jpeg"
@@ -109,6 +110,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "PefP+13Zkgrm05SRKLFck5O7VF6fYq35uaWiB9uUR4CvxbVZy8zjonipQ8SKhaYnHuqCdvsucWhpPOBAYkN3ALuEe8ea/t4W+8tJP2hp5zpi09m6lEmjE5EHxu3eeijvYPN3zd8ZMdQ0N01+8AYd7reIV8rb1oRkpNXQoxzjV+pqLMp0fgT6nYF3U0FQ9eXh5PV4ERKdut0LYPOJvSb05O+EfDxkrlIoGhX2B2E/d/FEJ5mXwpQCDMch8BuPebEaXsOQ5iN0X7sWBfPu5JJq+OHi6fqFJQVvLqaeaKIO0gU1WHcefdg8hB3tfDHYGuKWo6EkClSFsW411fU30g66mZPgwEvje6j4tSzmN3eqR7w=;DSs3klBQEN8XmX0Kucclpg=="
+secured: "0+akO7zAUzMqwnkiF2uLcAhXZ0zVAWjEVPSxiGNHXLb6a3Z14rOw6UEOx9KUA6ZZzqL0Zsj78k5d61j0/M2kbbscVTxPQcEVQH/BkOFDlngALpf0eIpp3yxLIB93An/V0i+8D6Crv3iWHl1AJmFOVHNjvuVGyvOtYIR8KfG7MJkL1w6qnHswgbb/5lfZ18W3fRkt2Q0HVXEr6JkLpIuwjpUiwB2wOyc8zCu5QB91yUiwj9gWL5QduOpyFnlzYiAep0VfRSE2Gzlym0tn+IFYjzJYdIkC1XFJVT/DaMQrQVRgazd6+qckTDTQtrzTKvz0b9ICMx8sAZuRB+igX7qXgfbVNLgELgk67xdTvVDYmVtDv+YZoakPNTSepC6F7ZV2A4necuzKgrfU0C6Fs3yvzyM/slQtgMacxyCc1qGWl5/5uizPJvaae5JCSSgxRnosC0riJnIPeb6I8JWdbIgXqTaeu5oCC3mL09jA7XZJz4o6+t+CxNPg2KOkhCBN4cd4TJ1fPUWYLOzB9j6o0HWaOObTQM+jHH8pbT/Zzzj2hWk=;A62BNAiMNAgW5nEEtdE7eQ=="
 ---
 

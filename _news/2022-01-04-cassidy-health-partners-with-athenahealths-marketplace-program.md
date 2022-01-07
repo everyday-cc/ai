@@ -35,15 +35,6 @@ related:
         width: 1300
         height: 868
         isCached: true
-  - title: "East Ventures leads $3.8m round of 🇸🇬 healthtech startup"
-    excerpt: "Smarter Health provides healthcare infrastructure solutions with a focus on decision-making for patients, specialists, and medical institutions."
-    publishedDateTime: 2022-01-03T05:44:00Z
-    webUrl: "https://www.techinasia.com/east-ventures-leads-sg-healthtechs-smarter-health-38m-raise"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 32
 
 secured: "v9hI4wpS1AGusifrEyT6TYrFL9MfHvSRB6FUG+tE37Z3qIsHHaNuh5y9z7m91HgMTlmay+srmtZX3jsqmfrFqnX+LqKqx/0f6N9DXY4eiQw9leYsUEKy60+25Sf4VdkU9wBLLosGcAHF7QJZq6J1tdKlojEDShJh+IoCh46a5n1dQWsDG93VDfh0+p4XWLyyYbM79ME7M0+v+mRyD9i6DtcXrf+9AjS393R60yLfoqkTDYwUcOLd+RrV4m5pF2jbS5ZT47D0rTKZKlnBDAA8/2LahOsTDH0u8JRnzxebvQx5GjgJyoBfwMIHo0LqcIercM/t9AkRiFH5yUvpMZ5IRDV6JBIJ1ZDL7+NZ8ZROfxs=;jnN3xWkrpkSD/mGxngV92A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/green-hills-softwa
 webUrl: "https://markets.businessinsider.com/news/stocks/green-hills-software-with-apex-ai-offers-production-focused-safe-and-secure-automated-drive-software-platform-solutions-1031079063"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -22,43 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "TrojAI secures $3 million in seed funding to protect AI solutions against security threats"
-    excerpt: "The artificial intelligence (AI) protection startup TrojAI Inc. has secured $3 million in seed funding. Seattle’s Flying Fish Ventures and the Atlantic Canada venture capital fund Build Ventures led the round with participation from Techstars,"
-    publishedDateTime: 2022-01-05T18:37:00Z
-    webUrl: "https://betakit.com/trojai-secures-3-million-in-seed-funding-to-protect-ai-solutions-against-security-threats/"
+  - title: "Paving the way for a sustainable future with data and smart mobility solutions"
+    excerpt: "In that vein, Microsoft recently announced the Microsoft Cloud for Sustainability -an extensible software-as-a-service solution that helps you record, report, and reduce your organization's environmental impact through automated data connections and actionable insights."
+    publishedDateTime: 2022-01-05T18:12:00Z
+    webUrl: "https://www.publicnow.com/view/2654F7A78125B44B1685152BC9D645844CA4E0D9"
     type: article
     provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 44
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/01/EsMS-PcW8AYVjIr-1.jpeg"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "SIERA.AI Announces $6.8 Million Seed Funding Round"
-    excerpt: "Connected Industrial Mobility leader, SIERA.AI, announced the completion of a $6.8 million seed funding round. The funding round was supported by Parkway Venture Capital, a New York venture capital firm and Ubiquity Ventures,"
-    publishedDateTime: 2022-01-05T16:27:00Z
-    webUrl: "https://apnews.com/press-release/send2press/business-austin-texas-venture-capital-0cc4206a4a437d17b53cc4529e05cb52"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence Technology Solutions Secures SOC 2 Compliance"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type 1 examination. This achievement reflects"
-    publishedDateTime: 2022-01-04T12:40:00Z
-    webUrl: "https://www.djournal.com/artificial-intelligence-technology-solutions-secures-soc-2-compliance/article_ae65b57f-6adb-54de-b9a0-a9152d1d2096.html"
-    type: article
-    provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 17
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 15
 
 secured: "HrFKfB46VQ2/0YgkhvdHU/+3kN02yZxsVPEgR7/fxePzzxhIwT8q2TfqAXpeisULGgtiSfxVE7FY/xEm4m+OT3NU0Uah2HbfIJlYvqtBiQmphoa3wtS8qnl1y3GupwHQBRn7YfbtEoveut9EVwyAwbcKoNEi6TBGvK3vg1fWM5R4Gn4S82jRd+8BtmctaSEV7jGv0/wHVhCOGeayfK1WYMLOlvClytFVFaAXhqonNZxvD+FLyjA76UjNydItMxrtgJcFpQlji0o8bQDGjKoOa/d7aZqy4dHCxlv6ZRpRPNjWYa/imu+pSElBdggiZUq2jB24J7xT5tE4evR1rDrgzZ57jdHPQMHOw7o2UuQmIt+m6728ie0Ecdip5BcsRyfRHijQ0wLBeaSeyQcQR+43ZmolC5U/uszSvjKaPOtn1cfDNtPKBZn44p3ugOYsb21Dki7V1A+xJaAwYu6uk9ZO7YLE/xZTpANphwVWitDZSoghjp0EOWyAnkFwUvYOyuAe+hFFwUMK5qqL7yokbk7H/Q==;dTfTvtX8mHmgciXmH5q3hw=="
 ---

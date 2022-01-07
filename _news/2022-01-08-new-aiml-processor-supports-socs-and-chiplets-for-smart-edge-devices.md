@@ -6,9 +6,9 @@ publishedDateTime: 2022-01-07T20:27:00Z
 originalUrl: "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/"
 webUrl: "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/"
 type: article
-quality: 54
-heat: 54
-published: false
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Embedded
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.embedded.com/wp-content/uploads/2022/01/CEVA-Neu-Pro-M-features.png"
