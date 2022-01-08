@@ -107,7 +107,7 @@
       "originalUrl": "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -608,40 +608,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-movendo-and-maragal-medical-partner-to-predict-the-fall-risk-of-older-adults-with-new-robotic-system-and-artificial-intelligence.md",
-      "title": "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence",
-      "excerpt": "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_d272bac2-2b56-5f91-8eae-2d9bad021e9c.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d272bac2-2b56-5f91-8eae-2d9bad021e9c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1378,6 +1344,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-19-very-few-things-are-stopping-big-tech-from-popping-in-healthcare.md",
+      "title": "Very Few Things Are Stopping Big Tech from “Popping” in Healthcare",
+      "excerpt": "Azure Machine Learning and Azure Cognitive Services, to deliver on the vision of the Terra platform at a new level of scale.” Taking a Deep Look at Big Tech’s Influence in Healthcare Big tech companies’ presence in healthcare greatly expanded during ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "originalUrl": "https://www.mddionline.com/digital-health/very-few-things-are-stopping-big-tech-“popping”-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Jan112021at22713PM.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

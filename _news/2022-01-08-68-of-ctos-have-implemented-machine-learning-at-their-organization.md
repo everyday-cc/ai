@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-08T14:00:00Z
 originalUrl: "https://insidebigdata.com/2022/01/08/68-of-ctos-have-implemented-machine-learning-at-their-organization/"
 webUrl: "https://insidebigdata.com/2022/01/08/68-of-ctos-have-implemented-machine-learning-at-their-organization/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://insidebigdata.com/wp-content/uploads/2019/12/Machine_Learning_shutterstock_344688470.jpg"

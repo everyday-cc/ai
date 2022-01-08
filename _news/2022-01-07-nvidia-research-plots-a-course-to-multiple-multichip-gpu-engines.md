@@ -75,6 +75,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The Nvidia RTX 3090 Ti is the GPU we all want – but it’s the RTX 3050 that we need"
+    excerpt: "As soon as Nvidia announced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards, a slew of powerful new gaming laptops was announced by all the big names. If Nvidia can deliver on its promises, it looks like 2022 is going to be a great year for gaming on a laptop."
+    publishedDateTime: 2022-01-08T16:00:00Z
+    webUrl: "https://www.techradar.com/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
+    ampWebUrl: "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 83
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/gkrPzGSC3Yn9zTUAUvmGRe-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Nvidia Announces RTX 3090 Ti GPU"
     excerpt: "To kick off CES, Nvidia announced its newest GPU, the RTX 3090 Ti. The new graphics card has 24 GB of GDDR6x VRAM at 21 Gbps, which makes it faster than the RTX 3090. During a presentation, Nvidia management called the GPU a \"monster\" and boasted that it will have 40 teraflops of performance (compared to 36 teraflops for the RTX 3090)."
     publishedDateTime: 2022-01-04T17:35:00Z

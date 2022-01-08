@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-11-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training.md",
+      "title": "Watch a robot playing table tennis after just 90 minutes of training",
+      "excerpt": "A robot arm controlled by an algorithm can play table tennis against human players after a short training session using both a virtual and real table tennis table",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
+      "originalUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2021/12/10161244/PRI_214439429.jpg?width=1200&enable=upscale",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
+      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2301254-watch-a-robot-playing-table-tennis-after-just-90-minutes-of-training/amp/",
+      "publishedDateTime": "2021-12-10T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-exclusive-microsofts-16-billion-nuance-bid-set-for-eu-antitrust-approval-sources.md",
       "title": "Exclusive-Microsoft's $16 billion Nuance bid set for EU antitrust approval -sources",
       "excerpt": "A Microsoft logo is seen in Los Angeles, California U.S. November 7, 2017. REUTERS/Lucy Nicholson/File Photo/File Photo",
@@ -1108,49 +1151,6 @@
         "AI",
         "AI in Finance",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-va-adding-physical-therapy-device-to-ai-roster.md",
-      "title": "VA Adding Physical Therapy Device To AI Roster",
-      "excerpt": "The Veterans Affairs Department is looking to pilot a new physical therapy application for injury treatment, Nextgov reports.",
-      "sourceUrl": null,
-      "webUrl": "https://ptproductsonline.com/industry-news/va-adding-physical-therapy-device-to-ai-roster/",
-      "originalUrl": "https://ptproductsonline.com/industry-news/va-adding-physical-therapy-device-to-ai-roster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ptproductsonline.com/wp-content/uploads/2021/12/ArtificialIntelligence2.jpg",
-          "width": 800,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Physical Therapy Products",
-        "domain": "ptproductsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

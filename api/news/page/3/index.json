@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-06-nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece.md",
+      "title": "Nvidia's upgraded AI art tool turned my obscure squiggles into a masterpiece",
+      "excerpt": "It's incredible, the things we can do with AI nowadays. For artists looking to integrate artificial intelligence into their workflow, there are ever more advanced tools popping up all over the net. One such tool is Nvidia Canvas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "originalUrl": "https://www.pcgamer.com/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/dyzDakosYHUsMs4BkwAvr4-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "cdnAmpWebUrl": "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/nvidias-upgraded-ai-art-tool-turned-my-obscure-squiggles-into-a-masterpiece/",
+      "publishedDateTime": "2022-01-06T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Gamer",
+        "domain": "pcgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks.md",
       "title": "DeepBrain AI grasps attention at CES 2022 with its AI Human imbedded AI Kiosks.",
       "excerpt": "DeepBrain AI is showcasing its AI Human imbedded \"AI Kiosks\" from January 5 th to January 7 th at CES 2022 held in Las Vegas Convention Center, along with its CES 2022 Innovation Awards honoree SaaS solution \"AI Studios\".",
@@ -746,7 +788,7 @@
       "originalUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1166,59 +1208,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses.md",
-      "title": "Qualcomm and Microsoft collaborate on custom chips for AR glasses",
-      "excerpt": "Qualcomm announced its intentions to integrate software platforms with Microsoft at Tuesday's CES 2022 keynote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "originalUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/05/d15a4544-a48e-4c75-b83d-46c610541963/resize/1200x/3c064522004e0f70855c4f2157fd60fe/ar-glasses.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "publishedDateTime": "2022-01-05T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

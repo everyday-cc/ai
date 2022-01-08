@@ -43,6 +43,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Toyota to launch self-driving-capable operating system, report says"
+    excerpt: "The system, which would be capable of handling advanced operations such as autonomous driving, will compete against platforms from VW and Daimler."
+    publishedDateTime: 2022-01-04T08:32:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-launch-self-driving-capable-operating-system-report-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Toyota%20automated%20behind%20wheel%20web_0.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "sEQxJZ75Sn987jTal/IpV57T0Pd1Wdd8dZoGsucg5u/6ElTKSXEvfJchpfg+dCFEi1tJvR0Cu4xL7ozlqqwN87eW8vSsue4vPAcOXj/2tsiorPq0WZSrwV7S5qLXdlO+hMDJJww0sNFzPKFc5Zt598RpERVmQ0rgZmPDO5ZjXGQldRq4WQyrzspBKjs681M+eESwTXDeLQH4jbWbDNsI+VPhXm+pezZuoV9xyZZxBLhqAdeuE9AsFVDcNOJOk1IyOpPYgz5yaxLuKvAX9Alw/PXFcH1I0dKn1eBi8iH342TEO3HSdQIAuS/MYZjBZys7YwLl1sxn9c8wkEcBPSr0UUJgCHWX0ajgkx5S+x59fq4=;G77MuuGKUnJFTxGoelbNVA=="
 ---

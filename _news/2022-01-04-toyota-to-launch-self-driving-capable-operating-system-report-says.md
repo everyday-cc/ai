@@ -25,21 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota Announces New Self-Driving Auto Software, Challenging VW And Daimler"
-    excerpt: "Year-end sales figures are expected to show Toyota breaking General Motors’ 95-year hold on the U.S. top spot."
-    publishedDateTime: 2022-01-03T23:12:00Z
-    webUrl: "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/"
-    ampWebUrl: "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/"
+  - title: "Keeping self-driving cars safe from hackers"
+    excerpt: "Cars of the future will be heavily dependent on the internet for navigation and other basic operations. But that will also make them vulnerable to hacking attacks capable of causing serious damage."
+    publishedDateTime: 2022-01-05T03:48:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: NHK
+      domain: nhk.or.jp
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d39019dc6c1246f755465d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5778%26cropY1%3D275%26cropY2%3D3527"
-        width: 1200
-        height: 675
+      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220105_20_1064388_L.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Self-driving race cars zip into history at CES"
+    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
+    publishedDateTime: 2022-01-08T10:10:00Z
+    webUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "Ut9zMFgZOsHeSQjEFryUyWzfTJN4FvmPqrpXH5+EFkrwIsVg8AFzGc/nYvtj6R7jKJ9yHgBroEJhnl6gtzLGfsQL2+fnWkPoOfT4t/GtFgAAYxvod2vLQ4/gqMoEmJj6/QQNiPQkOyuuBGCC7+cGIm0lS4EnX0cZyEObQiSl3/F1gaohbmBC9mbpal7vvigTrKQtRGcti1dhWr9vYoXolVr/8FW2pZk39xdMAhxFZ7GaAt+OtWL+3RTqqQ+iYJTXEuMy0dWGCMa1DcWtgJA2gNd+ILdS1T1tcphfBcCOGjPtooNfP42gEjA+f/YWuZVXfd/dqejJUJS/RV1WxxI5lCAd9s+9UFBOMsSYYB1aBSU=;knKoIWR0aNihB8jGMp0CWQ=="

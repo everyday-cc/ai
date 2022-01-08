@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-12-28-the-2021-good-tech-awards.md",
+      "title": "The 2021 Good Tech Awards",
+      "excerpt": "This year, technology companies stepped up on housing and criminal justice — with a dash of whistle-blowers mixed in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/27/business/27roose/27roose-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/27/technology/the-2021-good-tech-awards.amp.html",
+      "publishedDateTime": "2021-12-27T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-our-most-technical-people-are-down-on-ai-and-thats-a-good-thing.md",
       "title": "Our most technical people are down on AI ... and that's a good thing",
       "excerpt": "Commentary: The IEEE crowd is skeptical about AI's most bullish claims, which turns out to be exactly what we need to push it forward.",
@@ -331,6 +383,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-27-movendo-and-maragal-medical-partner-to-predict-the-fall-risk-of-older-adults-with-new-robotic-system-and-artificial-intelligence.md",
+      "title": "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence",
+      "excerpt": "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-the-robot-work-force-isnt-coming-its-already-here.md",
       "title": "The robot work force isn't coming. It's already here",
       "excerpt": "Retailers and restaurants are looking to robots and other technology to keep up with demand amid a labor crunch and booming online sales.",
@@ -455,40 +550,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-movendo-and-maragal-medical-partner-to-predict-the-fall-risk-of-older-adults-with-new-robotic-system-and-artificial-intelligence.md",
-      "title": "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence",
-      "excerpt": "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.galvnews.com/news_ap/business/article_d272bac2-2b56-5f91-8eae-2d9bad021e9c.html",
-      "originalUrl": "https://www.galvnews.com/news_ap/business/article_d272bac2-2b56-5f91-8eae-2d9bad021e9c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily News",
-        "domain": "galvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1074,49 +1135,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-fintech-a-force-for-financial-inclusion-in-palestine.md",
-      "title": "Fintech: A force for financial inclusion in Palestine",
-      "excerpt": "Majd Zghyer is the strategy officer at uMake, an entrepreneurship support organisation (ESO) based in Ramallah, Palestine. This year",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine",
-      "originalUrl": "https://www.wamda.com/index.php/2021/12/fintech-force-financial-inclusion-palestine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.wamda.com/feature-images/c55cbfccaa370a6.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wamda.com",
-        "domain": "wamda.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-08-ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation.md",
+      "title": "AI is quietly eating up the world’s workforce with job automation",
+      "excerpt": "AI job automation affects virtually every sector and industry. While this might seem like cause for alarm, it’s actually long overdue news.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/",
+      "originalUrl": "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-841824594.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/",
+      "publishedDateTime": "2022-01-08T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips.md",
       "title": "Meta claims its AI improves speech recognition quality by reading lips",
       "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Meta (formerly Facebook) claims its new AI system, AV-HuBERT, can improve speech recognition ...",
@@ -1378,58 +1430,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till-2024.md",
-      "title": "Natural Language Processing (NLP) Market||Industry Analysis Insights, Future Growth, and Forecast till - 2024",
-      "excerpt": "Japan, Japan, Thu, 23 Dec 2021 04:35:31 / Comserve Inc. / -- MarketsandMarkets forecasts the global Natural Language Processing (NLP) market size to grow from USD 10.2 billion in 2019 to USD 26.4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

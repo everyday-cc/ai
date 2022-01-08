@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-w
 ampWebUrl: "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-841824594.jpg?w=1200&strip=all"

@@ -2,6 +2,57 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-12-01-artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities.md",
+      "title": "Artificial Intelligence: How Business Leaders Can Tap Into Their Blue Sky Opportunities",
+      "excerpt": "Even though the last few years have forced organizations to adopt new technology, there is still significant blue sky for leaders when it comes to AI and how it can help them drive business decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a65ebdabaca8b0e47f2e6d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/01/artificial-intelligence-how-business-leaders-can-tap-into-their-blue-sky-opportunities/amp/",
+      "publishedDateTime": "2021-12-01T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-turningminds-launched-to-train-in-ai-machine-learning.md",
       "title": "‘TurningMinds’ launched to train in AI, machine learning",
       "excerpt": "International School of Engineering (INSOFE) and Soothsayer Analytics, USA, have launched TuringMinds.Ai with a goal to establish Centers of Excellence in Artificial Intelligence and Machine Learning",
@@ -1109,40 +1160,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-aws-powers-global-rollout-and-increased-personalization-of-discovery.md",
-      "title": "AWS powers global rollout and increased personalization of discovery+",
-      "excerpt": "AWS (NASDAQ: AMZN) is powering the vast majority of Discovery’s infrastructure needs to deliver its discovery+ on-demand streaming video service, its digital services, and more than 450 linear TV channels to viewers around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltvnews.net/?p=37513",
-      "originalUrl": "https://www.digitaltvnews.net/?p=37513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital TV News",
-        "domain": "digitaltvnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

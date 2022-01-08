@@ -24,6 +24,36 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Cultural China: Deep respect for teachers -- a tradition spanning ages"
+    excerpt: "Honoring teachers and their intelligence has always been a tradition in China Since ancient times teachers have been respected by"
+    publishedDateTime: 2022-01-08T16:30:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272130195/cultural-china-deep-respect-for-teachers----a-tradition-spanning-ages"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://static.bignewsnetwork.com/bnn/images/big-news-network-slogan.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Deep respect for teachers -- a tradition spanning ages"
+    excerpt: "Honoring teachers and their intelligence has always been a tradition in China Since ancient times teachers have been respected by"
+    publishedDateTime: 2022-01-08T16:30:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272130197/deep-respect-for-teachers----a-tradition-spanning-ages"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1641620152124.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
 secured: "pH+0exmfS0hg/hh/pm7ZKd5W/fncmIO5aCwtyOQGh0yKIEZ6hyznpRbYKR9yz+AGnqHBTyOh7n0rCDUjYJPloKCkjVoUwyoy4sHeUx1zFIs2sieMWWGswLShlKPm2RTkuokB28LLrKAm1GnljjBQoZ6U/uTLES9cK2LqqC52uS/i0wwUCpvsiT1R0O5AzghlduojnpPK8Bv5pCYSnrBrior4exrMzKzURaOq2/Ihk9Zi1fJmm0KeAzPCpMGwWMobZ4gAjE0qtuRjnkABZr89XnDDedPk7FzujO9VXAojKV+6ymetIQ3OOfor/kBVtysWKvt8LG49nwqJoZ17ih1jRu3rldKnfG1zEXqssJMy9S4=;r0Jw2PrQGxcB/RH7MkdO/w=="
 ---
 

@@ -135,6 +135,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "Tesla’s ‘complete self-driving’ software will cost $12k, according to Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has announced that the company’s “full self-driving” (FSD) software will now cost $12,000. Musk said on Friday that the higher pricing, which is a $2,000 increase, would go into effect on January 17th for customers “only in the United States."
+    publishedDateTime: 2022-01-08T10:20:00Z
+    webUrl: "https://bestgamingpro.com/teslas-complete-self-driving-software-will-cost-12k-according-to-elon-musk/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 35
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/Elon-Musk-says-Tesla-is-raising-the-price-of-its-‘full-self-driving-software-to-12k.png"
+        width: 600
+        height: 375
+        isCached: true
 
 secured: "CLKEXI91tDsAN3vRKglVLe2VsCcN8undMYP1CH9cmgzb22usQs+K3+KM5I0mktIw+znRtfavZvwej9/k7fjN9olWvLgy0ab0jOsWStcH5MBlCw5ysIXNLCIWExHISkKNooL51mMN8+5huHkzb48HCCn339s6UOlOInOklPjioW+XFgITFy942pwz2yQX4UPGlB8KDlH2S6ifLe4x5OizsC9m29fRepxLtj1WkFeP8X3wI9lfpU/kuBSw0SWTW300sQMNir4NFozU9wbe8+TIBhQFSTSdcD0V7ZAEa1YZsR4SG+3cXI2QhRF/mFu7FQWBAJQ1VaDcnXj8NmQyXoOEyjXu99o961Y3kC1afSTR0mc=;iVJQGxfa8uvDJGecrVOPbw=="
 ---

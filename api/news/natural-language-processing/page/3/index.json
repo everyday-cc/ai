@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-13-natural-language-processing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share.md",
+      "title": "Natural Language Processing Market Total Revenue 2021, Global Competition, Regional Demand and Industry Share",
+      "excerpt": "Dec 13, 2021 (The Expresswire) -- The global “Natural Language Processing Market Share” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-total-revenue-2021-global-competition-regional-demand-and-industry-share-2021-12-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
       "title": "Live transcriptions of F1 races using Amazon Transcribe",
       "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
@@ -1358,50 +1410,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-robot-company-wants-to-give-you-200000-for-your-face-and-voice.md",
-      "title": "Robot Company Wants To Give You $200,000 For Your Face And Voice",
-      "excerpt": "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/",
-      "originalUrl": "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/12/iStock-1320626664-1024x522.jpg",
-          "width": 1024,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/",
-      "cdnAmpWebUrl": "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/",
-      "publishedDateTime": "2021-12-02T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Black Enterprise",
-        "domain": "blackenterprise.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
         "Natural Language Processing"
       ]
     }
