@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-Driving Cars 2021 Year In Review"
-    excerpt: "Here's a countdown of the 10 1/2 big stories of 2021 in self-driving cars — Cruise, Waymo, Apple, China, San Francisco, Delivery, Trucking — it's all here and more."
-    publishedDateTime: 2022-01-03T16:31:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/01/03/self-driving-cars-2021-year-in-review/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d3314f1796ff555ece8da2%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "CES 2022: Mobileye rolls out new EyeQ self-driving chip"
     excerpt: "Mobileye, Intel’s autonomous driving hardware and software wing, unveiled its latest generation of self-driving car system-on-chip at this week’s CES 2022. Called EyeQ Ultra, the SoC is built specifically for consumer autonomous driving and delivers 176 trillion of operations per second (TOPS)."
     publishedDateTime: 2022-01-05T13:46:00Z

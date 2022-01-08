@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 92
 published: true
 
 provider:

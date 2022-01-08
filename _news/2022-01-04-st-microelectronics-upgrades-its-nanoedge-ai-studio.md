@@ -23,6 +23,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "MicroAI Demonstrates Edge-Native AI at CES"
+    excerpt: "MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) software, announces that it will be demon"
+    publishedDateTime: 2022-01-06T00:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220105005941/en/MicroAI-Demonstrates-Edge-Native-AI-at-CES"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
+
 secured: "bdmG1yy5SlXKjfALnCPgEw8W+iFwpHaGIizOYKkapEQb5khuXp4kUVWUPtCbfkkULDjsPdMWiLnpUBH2bp6iRWSRCy80Ery6CjaV3igVcwN0TTYign2D+Eqvk4/7gzYa2cagLV1QZCh5kJvdkKdtNsqWfUForAF9ZLVnKjJjZWy5VUPNv7tDDTv3h/5PiNF7d1ZlovpTwYm4eCyrEb7VuWJP6cEHnbaipULaVn3aKeSb0xzAb4RwxFS5p0Rl/nzAAeKIg+0BxPw7ew/AxRLSdAWY0j2e/kpyR5YtunbxzK5Sq0ot3HdUDm/JbM3bi3HZcXqWzgPoswhycspxG5oP64+855ampaOFIja6Ji/R+tA=;cN9vkdG/pK0aKcBqjgRW/w=="
 ---
 

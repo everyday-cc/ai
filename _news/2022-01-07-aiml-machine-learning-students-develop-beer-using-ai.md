@@ -7,7 +7,7 @@ originalUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-
 webUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 90
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Viz.ai using artificial intelligence to treat stroke patients"
+    excerpt: "San Francisco-based Viz.ai is using artificial intelligence to detect diseases and speed up care to treat stroke patients, Forbes reported Jan. 3. Viz.ai's software cross-references CT images of a patient's brain with a database of scans to find early stages of large vessel occlusion strokes."
+    publishedDateTime: 2022-01-03T22:19:00Z
+    webUrl: "https://www.beckershospitalreview.com/artificial-intelligence/startup-viz-ai-using-artificial-intelligence-to-treat-stroke-patients.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 52
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/4.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "China Matching Pentagon Spending on AI"
     excerpt: "PLA investment in AI is now on par with the Pentagon’s, experts say. The United States views China as its top military and economic competitor. “Supported by a burgeoning AI defense industry, the Chinese military has made extraordinary progress in procuring AI systems for combat and support functions,"
     publishedDateTime: 2022-01-06T03:48:00Z

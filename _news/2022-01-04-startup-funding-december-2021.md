@@ -56,17 +56,6 @@ related:
         width: 1000
         height: 525
         isCached: true
-  - title: "These 16 Largest NYC Tech Startup Funding Rounds of 2021"
-    excerpt: "Everything you need to need to know about the largest NYC startup funding rounds of 2021; broken down by industry, stage, investors, and"
-    publishedDateTime: 2022-01-03T16:07:00Z
-    webUrl: "https://www.alleywatch.com/2022/01/nyc-startup-funding-top-largest-2021-vc/"
-    ampWebUrl: "https://www.alleywatch.com/2022/01/nyc-startup-funding-top-largest-2021-vc/amp/"
-    cdnAmpWebUrl: "https://www-alleywatch-com.cdn.ampproject.org/c/s/www.alleywatch.com/2022/01/nyc-startup-funding-top-largest-2021-vc/amp/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 24
 
 secured: "xxHGsOLGdKMF8RYIbiuF4apkPmBiyeTpfiKRGUr1n4uBAGg1CO/LjMW/6WRAfgO8i6qsHc7X8YqF3t3q2wME6gfTAyQ+OtjLCKcBsw3YLEpTvW6ls0IdnNNkVf/RSu2B6M5G+wGU5WWHhw3scnPHw4RFRlX0du4rGW0ywQVT0ly4jFhLT9W/a9pZAJtPDl4Ga0leKLbwMbcpgVz5TR9ux58ytQfrwTwEoitcDoSP0bczca/Wb4/l1YVdTlsYfSm/xiOOxWlr5mbcVN1ruS3SRtareu2WEDYvK/URWRrdNtiRYpjuajyW8n/JifouEszHJaEratLUZ8ojliwIEJex2cu/rRTqPE8iBCAoYDuOeIE=;sVPctr9oLVDQKsAK3q1bkg=="
 ---

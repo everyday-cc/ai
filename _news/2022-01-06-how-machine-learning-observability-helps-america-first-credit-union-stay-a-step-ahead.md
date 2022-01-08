@@ -48,6 +48,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Observability: How AI will enhance the world of monitoring and management"
+    excerpt: "The distinction between observability and monitoring is subtle but significant. In short, monitoring tells you what is happening, while observability tells you why it’s happening."
+    publishedDateTime: 2022-01-08T06:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/07/observability-how-ai-will-enhance-the-world-of-monitoring-and-management/"
+    ampWebUrl: "https://venturebeat.com/2022/01/07/observability-how-ai-will-enhance-the-world-of-monitoring-and-management/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/observability-how-ai-will-enhance-the-world-of-monitoring-and-management/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 86
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-532029221.jpg?fit=800%2C596&strip=all"
+        width: 799
+        height: 596
+        isCached: true
   - title: "Observability, AI And Context: Protecting APIs From Today's (And Tomorrow's) Attacks"
     excerpt: "In today's world, application programming interfaces (APIs) — the connective communication tissue between applications — are everywhere. Everyday consumer electronics, from cars to TVs, are busy talking to servers and to each other,"
     publishedDateTime: 2022-01-07T12:15:00Z
