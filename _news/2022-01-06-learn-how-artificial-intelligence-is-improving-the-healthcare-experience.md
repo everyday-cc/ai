@@ -1,113 +1,70 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-publishedDateTime: 2022-01-06T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+publishedDateTime: 2022-01-06T15:15:00Z
+originalUrl: "https://www.lelezard.com/en/news-20181152.html"
+webUrl: "https://www.lelezard.com/en/news-20181152.html"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
 
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
 related:
-  - title: "AI, robotics, home care and mental health to lead healthcare delivery"
-    excerpt: "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,"
-    publishedDateTime: 2022-01-04T06:54:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
+  - title: "The Machine Learning Future Is Now: How AI is Disrupting Entire Industries"
+    excerpt: "M achine learning and artificial intelligence (AI) are no longer the concepts of science fiction – they’re a $1.41 billion industry that is already making big changes to the way we understand and use immense databases for a wide range of purposes."
+    publishedDateTime: 2022-01-04T14:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries"
+    ampWebUrl: "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp"
     type: article
     provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 86
-    images:
-      - url: "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700"
-        width: 700
-        height: 434
-        isCached: true
-  - title: "TTcare: Revolutionary AI-Based Solution For Pets' Total Healthcare Needs"
-    excerpt: "AI FOR PET is set to launch a pet healthcare app at the CES 2022 Dubbed TTcare, the app is a CES 2022 Innovation Award honoree TTcare highlights promising innovations in animal healthcare Technological breakthroughs like artificial intelligence (AI) and the internet of things (IoT),"
-    publishedDateTime: 2022-01-05T10:10:00Z
-    webUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135"
-    ampWebUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 82
+  - title: "How Machine Learning is Impacting the Finance Industry"
+    excerpt: "Machine learning is streamlining and optimizing processes ranging from credit decisions to quantitative trading and financial risk management."
+    publishedDateTime: 2022-01-05T18:15:00Z
+    webUrl: "https://www.bbntimes.com/financial/how-machine-learning-is-impacting-the-finance-industry"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 56
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/20/ttcare-app.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Impacting_the_Finance_Industry.jpeg"
+        width: 1440
+        height: 800
         isCached: true
-  - title: "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData"
-    excerpt: "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database."
-    publishedDateTime: 2022-01-05T12:45:00Z
-    webUrl: "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
-    type: article
-    provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 71
-    images:
-      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg"
-        width: 750
-        height: 400
-        isCached: true
-  - title: "Healthcare Transformation – Made Possible by AI and Social Listening"
-    excerpt: "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds."
-    publishedDateTime: 2022-01-08T05:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
+  - title: "Learning From Other Industries in Healthcare"
+    excerpt: "While businesses in other sectors have become adept at bringing in ideas from outside their walls, health care has lagged behind. A key reason is that healthcare leaders are often blind when it comes to creatively responding to the industry’s challenges."
+    publishedDateTime: 2022-01-06T20:18:00Z
+    webUrl: "https://www.linkedin.com/pulse/learning-from-other-industries-healthcare-jasmine-garces-king"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 54
+    quality: 39
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY"
-        width: 820
-        height: 312
-        isCached: true
-  - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
-    publishedDateTime: 2022-01-04T15:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHTGkXNtE-fQw/article-cover_image-shrink_600_2000/0/1631411370022?e=1646870400&v=beta&t=khJrhyso-lpcsjfqCihr4_A96U770-de5qPzXmZ_hjc"
+        width: 800
         height: 450
         isCached: true
-  - title: "AI for telehealth & the latest in health tech at CES"
-    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
-    publishedDateTime: 2022-01-06T18:10:00Z
-    webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 37
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
-secured: "Hwhox4u0qN5J96Sb1ZOp9sCxNANRFM0TxYpRzeyKsYyMpPCoyGRWVj2KrkyDXJPeeqdgSykY7kOvBVSD3wSJZvZdLcYcgeb/QkTflU854rCSCOaUoK4ryqgECrzO5L90GAyTiVVfluXLpu76uyk5TuTPp2LCZ7UJPLTzyK0IxW1skpKqzgAmz7w6eVATJQZcw4xfJw88fjgIZjiZECtRJ19BtTIFXwCayC4upYQhn605jt+BckWyZHY003ApQX99DGvq/ImY4BIuCVuKAjXXrBuyqRJ7gu4ri4drx4pwhq9JcWhE/UYpixAGtQ7xOPPeILa0tT9PD5Grjf/h7d7BatG16BD6CRtexVLJoY7S0qI=;hx5d2CZPujGsU4S1+9K28Q=="
+secured: "lysWD0JzCCuGKLZcBtDCBhU/9A3Fp9rqOZKrxPmaQ82zwrg4AmWBvGVOoTuhVVUounSkSh7idKgzsaU/Z3gcnh+XP1G3WsbWNcJYQOzeI4yo89FBGBSwpiy2VCnY8f5W/3COx1ISB9nEwSdFLawhscn9XDkpyqaMVWeGAI8qw3ua1zp9jCqtKuNaK8kNPLa/X3Z9pQn1INPp7Rhu0XLVoxYtkByl68/9JJTdsg9ukaZdLRhfRI3H6Lzry8Vy7WC6+y5/BwAL8P1gDP/+TFMAZ3dAkymbehhGg3Ar99vqnT/4emFbXoV965yVfDG4rryYQ6EjN6pnAJccwFMDNLVkwxfnhCs1n8c4/HY2Sx3E7Fg=;tEaT4D+z1KtxfAcKGFg5Sg=="
 ---
 

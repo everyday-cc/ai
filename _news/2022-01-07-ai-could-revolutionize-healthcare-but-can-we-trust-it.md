@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-could-revolutionize-health
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
 type: article
 quality: 74
-heat: 94
+heat: 105
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "TTcare: Revolutionary AI-Based Solution For Pets' Total Healthcare Needs"
+    excerpt: "AI FOR PET is set to launch a pet healthcare app at the CES 2022 Dubbed TTcare, the app is a CES 2022 Innovation Award honoree TTcare highlights promising innovations in animal healthcare Technological breakthroughs like artificial intelligence (AI) and the internet of things (IoT),"
+    publishedDateTime: 2022-01-05T10:10:00Z
+    webUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135"
+    ampWebUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 73
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/20/ttcare-app.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Top 8 Technology Trends to Revolutionize the Healthcare Industry in 2022"
     excerpt: "Let’s have a look at some of the best healthcare technology trends that can revolutionize the healthcare industry for the greater good."
     publishedDateTime: 2022-01-05T05:29:00Z

@@ -27,87 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "AI, robotics, home care and mental health to lead healthcare delivery"
-    excerpt: "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,"
-    publishedDateTime: 2022-01-04T06:54:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
+  - title: "AI Could Revolutionize Healthcare. But Can We Trust It?"
+    excerpt: "At CES 2022, A panel of AI experts discussed what role AI might play in the future of healthcare. In a session titled \"Consumer Safety Driven by AI,\" Pat Baird, an AI engineer and software developer who works in standards and regulations for Phillips,"
+    publishedDateTime: 2022-01-06T21:45:00Z
+    webUrl: "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
+    ampWebUrl: "https://amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
+    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
     type: article
     provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 86
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 74
     images:
-      - url: "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700"
-        width: 700
-        height: 434
+      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/bM6A39gRO7/sizes/alex-knight-2ejcsulrwc8-unsplash_resize_md.jpg"
+        width: 744
+        height: 496
         isCached: true
-  - title: "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData"
-    excerpt: "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database."
-    publishedDateTime: 2022-01-05T12:45:00Z
-    webUrl: "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+  - title: "Top 8 Technology Trends to Revolutionize the Healthcare Industry in 2022"
+    excerpt: "Let’s have a look at some of the best healthcare technology trends that can revolutionize the healthcare industry for the greater good."
+    publishedDateTime: 2022-01-05T05:29:00Z
+    webUrl: "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/"
+    ampWebUrl: "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-credihealth-com.cdn.ampproject.org/c/s/www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/"
     type: article
     provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 71
+      name: Stress Fracture
+      domain: credihealth.com
+    quality: 58
     images:
-      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg"
-        width: 750
-        height: 400
+      - url: "https://cdn-blog.credihealth.com/wp-content/uploads/2022/01/bermix-studio-4ov6VgaiiX0-unsplash-scaled.jpg"
+        width: 2560
+        height: 1759
         isCached: true
-  - title: "Healthcare Transformation – Made Possible by AI and Social Listening"
-    excerpt: "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds."
-    publishedDateTime: 2022-01-08T05:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
+  - title: "Why 1 CMIO thinks AI can't revolutionize healthcare just yet"
+    excerpt: "Despite successfully integrating some AI platforms into his practice, Brett A. Oliver, MD, chief medical information officer at Louisville, Ky.-based Baptist Health Medical Group, isn't convinced that AI is in a place to transform healthcare."
+    publishedDateTime: 2022-01-06T16:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/why-1-cmio-thinks-ai-can-t-revolutionize-healthcare-just-yet.html"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
     quality: 54
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY"
-        width: 820
-        height: 312
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
-    publishedDateTime: 2022-01-04T15:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI for telehealth & the latest in health tech at CES"
-    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
-    publishedDateTime: 2022-01-06T18:10:00Z
-    webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 37
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
 
 secured: "pfOBqNpEdpNpCao9g0D4PqfvU5VW5DbWxH41HAepgkhcM6Ce+itSfciBA0kkja7ka4oQ62fu2omlcnwdd23x/Jh43DLA+njDwp9pD6sgKhQPAIdm+vXzV/gMsiFRQPUAcLRN+17JiJnC1VJ01lZFFmhoOZLH3MKAw/FC8u4ai/qvmHmElLhZtmVYreTA0CRYXXRD0jahH8p67jlwIKEYJaIMrHJU4BXSiRPfmVZOJcoLe5d74yAfKmOSp9WTRgekbFTqS8NRDrGJcF6f/IexaDz3Dc1XNr3KmpNlbb/ezC0Myu4mcm0K9i5/7+qIU+27fcxfWqUMM2VFHu9ebvGOUgfPAFe5/zeGxfpVRdlnsPyQD+F8K9U23MhWmPCrbS5vXHmlgY4WFiBz8tV+KRsYkcqArX7Z8OBDIBv6xJTUvQ9gpI8ywSGQ7RVE2wjToVMWUSU2wVBtq7ENSJnJx8nOIEJNlpBztJvnDa83hPzaL7BbmL2PXrvobLWcJ6mcbZwP5+LxqnhRy7rQ4U4+Pg92Zw==;P4Jmb5Xp+/vCGty/uALvgw=="
 ---

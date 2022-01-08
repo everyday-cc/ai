@@ -3,10 +3,10 @@ category: news
 title: "HealthWatch: The Future – AI Prevents Dementia?"
 excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s"
 publishedDateTime: 2022-01-08T19:41:00Z
-originalUrl: "https://www.wearegreenbay.com/top-stories/healthwatch-the-future-ai-prevents-dementia/"
-webUrl: "https://www.wearegreenbay.com/top-stories/healthwatch-the-future-ai-prevents-dementia/"
-ampWebUrl: "https://www.wearegreenbay.com/top-stories/healthwatch-the-future-ai-prevents-dementia/amp/"
-cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/top-stories/healthwatch-the-future-ai-prevents-dementia/amp/"
+originalUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/"
+webUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/"
+ampWebUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
+cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
 type: article
 quality: 57
 heat: 67
@@ -41,6 +41,6 @@ related:
         height: 551
         isCached: true
 
-secured: "Q8BB4MS5oXYwtE9vj91398L5whKGzRTNyvSKCnFuYEh+unFBiwSNIVo1vJuGlXKtk85GJgn75teMOGNXPevgx2rSnNuH8PU8yuK/FW/fBM2hmm7ReAATx9yv8SykM+KmLzHJePOnv/8hXrGof0NCBFskTyi4QE+KyVvcBZeVkvqXKFagsl9gGR4I7Do5YEroYrn6rbMQk1u1u/BamTld2r7PfpMiGuL++MSqdLXyOZGIW8tKzSl6aYcYqszrZtSbiMYaqSY8EWnLF4t89DBmoiR6pI6nfHfdqE0o5BuK/nkGglUKB4gYnAVxKmAjgXjOD2vKlCMS85tuKBTKFE7pXhw0Dh4nTvE/Nh02htA3Qk4=;SCOadwPc4Z5ttNcukLs9LA=="
+secured: "koa8OamesDDpKY2zgc7aJQ4Z9TqXK51K3N0X9CRntHsFuJLOyRhAbUsgO/PhgJpGqZwGGsSIaPiXhcvdrpOPeINmhNxct0azfkeji91Z1lhJKysd7j6GlanYv4xShAv+CkHacuFqiiMFU6xUaeKPAHoU8VERFqLIK4LTbFS422xyyrWZ6/fE7FmMwzEqTQS1fBdAt6ZTvCvcLRGUf660h7kjPB/+kXKKLNJZELPY9ojhA7YqOl09m+BFFMfFUe4IXePBIcjcTyTOJZIGFqq+iJioKkGrxFmG1IfopquefYs0DgdZe0SnZmTE+E/GtAt5JqSqwP5fgQq+lz0fZxEPRCz96rytyjTdPIfaZg3v/ro=;8PiW2TJPJatzJjKUBn+eig=="
 ---
 

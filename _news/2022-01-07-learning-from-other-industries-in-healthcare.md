@@ -54,6 +54,20 @@ related:
         width: 1440
         height: 800
         isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+    publishedDateTime: 2022-01-06T15:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-20181152.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 53
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "BzEuaH5hMTi23bGmuLWkrSC2OXFk0sFqSTbFgcw/WffwRJT7pM3vUrNYAhGdlSZ7mKCMCpsPDJtVXRvJyT7aE+TaouL2xGm0tsoARtK8BKfgOTf8EWmrfXvrHzr3UI5edYWY4SYfI9z324D/G28BUWtwMg4Jp6zCYA1v43QaMOj6FahkycjZRYjBnnW3ieCOFCUp5+5nw9vKA6vnHAHZwLan0gt5HPWO0urn/BAuCWt+noFk1riKJkczier+DY/yccR/gPHGSTPB09FfOZonJdUnqBfkfpRZGSfdatK9lzBJDKRkQqEA5bmjjycvn8q9dezRvB1h6J7K2LXXzExJ15v42p6z269zErM/pJvAKi4=;2Y8PK6S8zykr85N43tJ+Dg=="
 ---

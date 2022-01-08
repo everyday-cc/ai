@@ -30,9 +30,9 @@ related:
   - title: "HealthWatch: The Future – AI Prevents Dementia?"
     excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s"
     publishedDateTime: 2022-01-08T19:41:00Z
-    webUrl: "https://www.wearegreenbay.com/top-stories/healthwatch-the-future-ai-prevents-dementia/"
-    ampWebUrl: "https://www.wearegreenbay.com/top-stories/healthwatch-the-future-ai-prevents-dementia/amp/"
-    cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/top-stories/healthwatch-the-future-ai-prevents-dementia/amp/"
+    webUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/"
+    ampWebUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
+    cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
     type: article
     provider:
       name: We Are Green Bay

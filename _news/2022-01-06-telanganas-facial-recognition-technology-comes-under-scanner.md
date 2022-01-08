@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognit
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana HC Issues Notice on PIL Challenging Use of Facial Recognition Technology"
-    excerpt: "The PIL was filed by activist S.Q. Masood who was stopped by Hyderabad police in May last year and asked to take his mask off so they could take his photo, despite the second wave of COVID raging. When he refused,"
-    publishedDateTime: 2022-01-04T06:32:00Z
-    webUrl: "https://thewire.in/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology"
-    ampWebUrl: "https://m.thewire.in/article/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology/amp"
-    cdnAmpWebUrl: "https://m-thewire-in.cdn.ampproject.org/c/s/m.thewire.in/article/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology/amp"
-    type: article
-    provider:
-      name: The Wire
-      domain: thewire.in
-    quality: 53
-    images:
-      - url: "https://mcmscache.epapr.in/post_images/website_350/post_26198901/full.jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Law enforcement facial recognition use under scrutiny in Ireland, India"
     excerpt: "Discrepancies in proposed usage statements and pressure from civil rights groups and activists is putting facial recognition technology in the spotlight."
     publishedDateTime: 2022-01-04T19:46:00Z

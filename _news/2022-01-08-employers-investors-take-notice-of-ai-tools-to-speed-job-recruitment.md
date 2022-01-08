@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/employers-investors-take-notice-of-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
 type: article
 quality: 87
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Employers, investors take notice of AI tools to speed job recruitment"
+    excerpt: "A chronic shortage of workers has more employers turning to artificial intelligence to supercharge recruiting efforts, seeking an edge in an increasingly pitched battle to fill job openings. By automating previously manual tasks—like pre-screening job applicants for basic qualifications,"
+    publishedDateTime: 2022-01-08T21:56:00Z
+    webUrl: "https://www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641637244910.html"
+    ampWebUrl: "https://www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment/amp-11641637244910.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment/amp-11641637244910.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 57
+    images:
+      - url: "https://images.livemint.com/img/2022/01/08/600x338/jobaudition-kPDI--621x414@LiveMint_1641637494942.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "The legal pitfalls of using AI in recruitment"
     excerpt: "Gwynneth Tan highlights the issues employers should be aware of when considering adopting technology into their hiring processes"
     publishedDateTime: 2022-01-07T12:36:00Z
@@ -45,6 +61,6 @@ related:
         height: 540
         isCached: true
 
-secured: "HFluLfrePpUOuFgD9uA7MRBEdmu8gRVZRvbrEBXSYLV7XjYpa8V3YxWSzRLSUcGo7Ku9KIcRrvzjLdg6Y2TZit0KoxYiMqb/GQF8Ap0rWCCwfAQsM0pbju1F2rHyL6NAnAy3c079fvgNkeJ6AEXbOl2Nn8PyOvGqaZUj2wXr9aM6R6MqEiLmoYjBx38Or0sydE5cppcqvdVfGt2JGhIJ2CwKdIpw5rHNFq/HJ114CIDIyt9C2Xxh0Q4ncl29+6Xk4E59DJZP9KjDJdovRTwOsq6y+a3X7xfm46s6fvUl9AmthpTPRi8veQUdqNXcy8cDjJJCIy+Ei84w9CZQOmhW5Pv3mjJnx4TEl4ANEp/k+yA=;t4jsJxMir4SitJAuadsnAw=="
+secured: "S76+0e5VB78aQ2ZVSOfplZsReGRe7nzDgi9wcm+J09PR+JN4T9zzZ4bKtpsGXcoQeRRXjFG7xuSE5GXeOC9svKeUrkrwIJn4G7RPcS5x73JwOM/JpQWsJrtkef90DKkn+xGgLVnUW551JvOmj2Evw/NUgxnPKtN2aYTe8O6oXPxmrKMvQE7MvePjOgpzj52GBZt3DWlduQY0KDQh8K+2hETxbMTbQJ3hdtrfcun1ktjEvDr5QAdZhLjqYOFuwv5rjkZ9tOS8eilBX+dVEpKD3YHo3IcywC52Uavtfn7uAFILeAsdH3dSYbmxTw6b6tWSeikmqwqxsS0drpfVOaxIPajKgtT8lKwpCcZZRxUkJZKnewrUysFoJZKN8ekaTLVQZfTF1NuVazaF5EqV4YBmRV/yZNerOcKSTAD/0JX4hlDojUg3m7GW2josOnJg+quRF4hr3+Udgm66AVnwA0UjS4uzSnwvlWkSW+w1GBbsP1M+HEX5/TLvcbeFtm8G1HyGaJ+CL1DHmnc1gcbNDKddHQ==;UVrnKy25305zgr7ngAcXhQ=="
 ---
 

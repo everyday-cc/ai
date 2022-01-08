@@ -7,7 +7,7 @@ originalUrl: "https://www.tomsguide.com/news/ces-2022-hyperx-cloud-alpha-wireles
 webUrl: "https://www.ces.tech/Logistics/Dates-and-Hours.aspx"
 type: article
 quality: 122
-heat: 173
+heat: 162
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/04/badge-gallaudet-university-apptekphoto.png"
         width: 900
         height: 472
-        isCached: true
-  - title: "CES 2022: LG unveils new robot and car concepts"
-    excerpt: "The world's largest consumer appliance manufacturer is showcasing a science fiction vision of an enhanced lifestyle for all, writes ARTHUR GOLDSTUCK"
-    publishedDateTime: 2022-01-04T07:00:00Z
-    webUrl: "https://gadget.co.za/ces-2022-lg-unveils-new-robot-and-car-concepts/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/lg-ces-2021.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
         isCached: true
   - title: "CES 2022: How radar and computer vision can help smart cities"
     excerpt: "When designing its radar and computer vision-based internet of things (IoT) artificial intelligence platform, connected spaces startup Ulisse kept this in mind. The company has unveiled at this week’s CES 2022 a new analytics system designed for retailers,"

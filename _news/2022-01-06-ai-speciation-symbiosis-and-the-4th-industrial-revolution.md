@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Disinformation – Echo Chambers in an Age of Division"
-    excerpt: "Echo Chambers in an Age of DivisionVicar SayeediJanuary 8, 2022Disinformation, or its contemporary moniker, ‘fake news’,"
-    publishedDateTime: 2022-01-07T23:00:00Z
-    webUrl: "https://www.goodreads.com/author_blog_posts/22104422-ai-and-disinformation-echo-chambers-in-an-age-of-division"
-    type: article
-    provider:
-      name: Goodreads
-      domain: goodreads.com
-    quality: 37
-    images:
-      - url: "https://images.gr-assets.com/authors/1614972635p8/7086757.jpg"
-        width: 585
-        height: 933
-        isCached: true
   - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
     excerpt: "Manually keying in patient data into fields is not only time-consuming and inefficient, but also can be inaccurate and unreliable. etherFAX AI reduces error rates associated with manual data entry by extracting information that is stored in unstructured document types,"
     publishedDateTime: 2022-01-05T14:17:00Z

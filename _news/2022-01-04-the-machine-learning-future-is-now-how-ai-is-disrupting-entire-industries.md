@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Impacting_the_Finance_Industry.jpeg"
         width: 1440
         height: 800
+        isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+    publishedDateTime: 2022-01-06T15:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-20181152.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 53
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Learning From Other Industries in Healthcare"
     excerpt: "While businesses in other sectors have become adept at bringing in ideas from outside their walls, health care has lagged behind. A key reason is that healthcare leaders are often blind when it comes to creatively responding to the industry’s challenges."

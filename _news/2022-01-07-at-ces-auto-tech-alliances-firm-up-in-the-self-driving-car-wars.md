@@ -85,20 +85,6 @@ related:
         width: 752
         height: 501
         isCached: true
-  - title: "CES 2022: VM-Fi real-time translation technology"
-    excerpt: "Taiwanese software developer VM-Fi will debut its groundbreaking real-time translating solution at CES 2022 from Jan 5-8, 2022. VM-Fi provides turnkey 5G real-time artificial intelligence (AI)-enabled simultaneous interpretation with wireless broadcasting to up to hundreds of personal smart devices."
-    publishedDateTime: 2022-01-04T06:34:00Z
-    webUrl: "https://www.digitimes.com/news/a20220104VL203.html?chid=11"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 24
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220104VL203_files/2_r.jpg"
-        width: 336
-        height: 224
-        isCached: true
   - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
     excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
     publishedDateTime: 2022-01-07T08:44:00Z

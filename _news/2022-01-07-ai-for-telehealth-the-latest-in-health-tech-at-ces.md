@@ -7,7 +7,7 @@ originalUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
 webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,89 +24,29 @@ images:
     isCached: true
 
 related:
-  - title: "AI, robotics, home care and mental health to lead healthcare delivery"
-    excerpt: "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,"
-    publishedDateTime: 2022-01-04T06:54:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
+  - title: "Five health tech innovations to watch in 2022"
+    excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
+    publishedDateTime: 2022-01-06T14:30:00Z
+    webUrl: "https://www.raconteur.net/healthcare/health-tech-innovations-2022/"
     type: article
     provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 86
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
     images:
-      - url: "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700"
-        width: 700
-        height: 434
-        isCached: true
-  - title: "TTcare: Revolutionary AI-Based Solution For Pets' Total Healthcare Needs"
-    excerpt: "AI FOR PET is set to launch a pet healthcare app at the CES 2022 Dubbed TTcare, the app is a CES 2022 Innovation Award honoree TTcare highlights promising innovations in animal healthcare Technological breakthroughs like artificial intelligence (AI) and the internet of things (IoT),"
-    publishedDateTime: 2022-01-05T10:10:00Z
-    webUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135"
-    ampWebUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/20/ttcare-app.jpg"
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-health-tech-innovations-to-watch-in-2022.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData"
-    excerpt: "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database."
-    publishedDateTime: 2022-01-05T12:45:00Z
-    webUrl: "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+  - title: "Cassidy Health Partners with athenahealth's Marketplace Program"
+    excerpt: "Cassidy Health, a provider of the only on-demand talent marketplace built specifically for the needs of healthcare revenue cycle, today announced a partnership with athenahealth, Inc. through the company's Marketplace program."
+    publishedDateTime: 2022-01-04T15:02:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cassidy-health-partners-with-athenahealths-marketplace-program-bring-/2022/01/04/9519416.htm"
     type: article
     provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 71
-    images:
-      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg"
-        width: 750
-        height: 400
-        isCached: true
-  - title: "Healthcare Transformation – Made Possible by AI and Social Listening"
-    excerpt: "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds."
-    publishedDateTime: 2022-01-08T05:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY"
-        width: 820
-        height: 312
-        isCached: true
-  - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
-    publishedDateTime: 2022-01-04T15:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "7WSY0Rw5/CR80Blt4F6wF/BY8ypyFpsBbUGJtfZwM54ldvSrcq2ZxA1+vdYwcrEDLEj8vtv8HOqxdZHdg33sWQc8V9qB3C7At4maa8x/iPVEdLJdEVK8VLhFw8ise8BaNN2ZodHAiPPPfCbBQRqeRvb2Rj87naIwsqaajP0cNgi9l33JLU0v3BijI5+ccyVBY5YQnVup9mUT1FjAlYaamnFQXrYIdPIArHBypqI16hYesvnU1Vg+r7WsfLZ0yeWQKrxi0Ocb4EOI6Ff0WMu9bhppC0C3HAiceJWSK/cDpZf54RI2m0zjJ327FFIvxSGhGLFf/N6hWTaT8x1ZF2nj/Adc/4GjvX1WWlRtsZOzt1o=;QbYmSOGTX3M1R2Y0xXJ3SQ=="
 ---

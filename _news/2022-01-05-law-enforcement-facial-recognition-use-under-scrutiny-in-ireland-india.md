@@ -41,22 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Telangana HC Issues Notice on PIL Challenging Use of Facial Recognition Technology"
-    excerpt: "The PIL was filed by activist S.Q. Masood who was stopped by Hyderabad police in May last year and asked to take his mask off so they could take his photo, despite the second wave of COVID raging. When he refused,"
-    publishedDateTime: 2022-01-04T06:32:00Z
-    webUrl: "https://thewire.in/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology"
-    ampWebUrl: "https://m.thewire.in/article/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology/amp"
-    cdnAmpWebUrl: "https://m-thewire-in.cdn.ampproject.org/c/s/m.thewire.in/article/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology/amp"
-    type: article
-    provider:
-      name: The Wire
-      domain: thewire.in
-    quality: 53
-    images:
-      - url: "https://mcmscache.epapr.in/post_images/website_350/post_26198901/full.jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "hcChfbIrIkBbZR9f3odQWAJy5AhbPUUa0K8O2CaXbnuPzRNdF1Wkh1+wSdLP08m5reJv/xG3OeSIpEIv6GcJcY0UbpO5ZXFDcqrYmIv1gaGmXGKNWFBE2RST6Cyq7ylkz+tfTrZZthfISxcFmqPyFlb2a+Q4BoeJz5M0CIa15/4SL7IgzeXnHKO5Wulv4lPSlJvP75DKsKtusVUxpRD6LrT5C5te14oavEZUAHy4kHSWDAmJ32W16ueH7/+sDlZo9ijiunRHSoVOSPs9N8Cj0hU/YAiiDuz3IwrseEu8QE54k4WscfZqzZEp6K0Z401lgvMKmQaE8/wXOWGcAnHFzfql/PSC8hxB6VzfzxrKr37M5wdQVjlXR2elmazqQy9lQn1QiZG+aCN8bQ0MKIPNW7d/dAUgs/bnhCbfYyd96bKau6Iv/WTjNIbS0CKLIiWgntybgQsNA0j7QK/kIRQWPakCFi1Royo1crrIPNHy9wNDWvKAAI9mt1KABQWyRBHtWlzN3dPY5dmUdWCDNFhUTg==;mTNRxVGSZty35RucauicTQ=="
 ---

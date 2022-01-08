@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uni Cards to deploy Scienaptic AI-powered credit decisioning platform"
-    excerpt: "Scienaptic AI, a global AI-powered credit decision platform provider, announced the deployment of its technology for Uni Cards."
-    publishedDateTime: 2022-01-04T06:45:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/uni-cards-to-deploy-scienaptic-ai-powered-credit-decisioning-platform/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 37
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
-        width: 300
-        height: 250
-        isCached: true
   - title: "Credit Union of Georgia chooses Scienaptic for enhanced AI-powered credit decisioning"
     excerpt: "Scienaptic AI, a leading global AI-powered credit decisioning disruptor, announced that Credit Union of Georgia has selected its AI-powered platform, augmenting the credit union’s underwriting capabilities to make faster,"
     publishedDateTime: 2022-01-05T02:39:00Z

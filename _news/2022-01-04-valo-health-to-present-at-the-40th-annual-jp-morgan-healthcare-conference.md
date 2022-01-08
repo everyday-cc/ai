@@ -25,89 +25,102 @@ images:
     isCached: true
 
 related:
-  - title: "AI, robotics, home care and mental health to lead healthcare delivery"
-    excerpt: "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,"
-    publishedDateTime: 2022-01-04T06:54:00Z
-    webUrl: "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600"
+  - title: "AMYRIS TO PRESENT AT THE 40th ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE"
+    excerpt: "(Nasdaq: AMRS), a leading synthetic biotechnology company accelerating the world's transition to sustainable consumption through its Lab-to-Market™ operating platform, today announced that management will present at the 40 th Annual J."
+    publishedDateTime: 2022-01-05T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/amyris-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031079094"
     type: article
     provider:
-      name: Fortune India
-      domain: fortuneindia.com
-    quality: 86
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Potrero Medical to present at 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Potrero Medical, innovator of the Accuryn Monitoring System, announced today that it has accepted an invitation to present at the 40 th Annual J.P. Morgan Healthcare Conference. Joe Urban, Potrero's Chief Executive Officer,"
+    publishedDateTime: 2022-01-05T12:19:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/potrero-medical-to-present-at-40th-annual-j-p-morgan-healthcare-conference-1031078920"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
+  - title: "J.P. Morgan technologists Ignite careers with Communities of Practice"
+    excerpt: "By Subba Perepa, Managing Director, Consumer and Community Banking Technology, J.P. Morgan India India’s path to create a trillion dollar digital economy by 2025 presents a universal need - Mediawire"
+    publishedDateTime: 2022-01-06T11:55:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/information-tech/j-p-morgan-technologists-ignite-careers-with-communities-of-practice/articleshow/88735268.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/information-tech/j-p-morgan-technologists-ignite-careers-with-communities-of-practice/amp_articleshow/88735268.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/j-p-morgan-technologists-ignite-careers-with-communities-of-practice/amp_articleshow/88735268.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
     images:
-      - url: "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700"
+      - url: "https://m.economictimes.com/thumb/msid-88735266,width-640,height-480,resizemode-7/-.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "Atomwise Invited to Present at the 2022 J.P. Morgan Healthcare Conference"
+    excerpt: "a technology-enabled pharmaceutical company leveraging the power of artificial intelligence (AI) to revolutionize small molecule drug discovery, today announced that it has been invited to present next week at the 40th Annual J.P. Morgan Healthcare Conference."
+    publishedDateTime: 2022-01-05T14:49:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-fb7983b7f72521c6f8fe4425d370a162"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
-        height: 434
+        height: 450
         isCached: true
-  - title: "TTcare: Revolutionary AI-Based Solution For Pets' Total Healthcare Needs"
-    excerpt: "AI FOR PET is set to launch a pet healthcare app at the CES 2022 Dubbed TTcare, the app is a CES 2022 Innovation Award honoree TTcare highlights promising innovations in animal healthcare Technological breakthroughs like artificial intelligence (AI) and the internet of things (IoT),"
-    publishedDateTime: 2022-01-05T10:10:00Z
-    webUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135"
-    ampWebUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
+  - title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in the 40th Annual J.P. Morgan Healthcare Conference. Alex Zhavoronkov,"
+    publishedDateTime: 2022-01-07T10:55:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=596729"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 34
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/20/ttcare-app.jpg"
-        width: 1200
-        height: 675
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
-  - title: "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData"
-    excerpt: "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database."
-    publishedDateTime: 2022-01-05T12:45:00Z
-    webUrl: "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/"
+  - title: "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that"
+    publishedDateTime: 2022-01-04T10:30:00Z
+    webUrl: "https://tylerpaper.com/news/texas/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_7693292b-ee92-5f9b-991f-fe39f82418bf.html"
+    ampWebUrl: "https://tylerpaper.com/news/texas/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_7693292b-ee92-5f9b-991f-fe39f82418bf.amp.html"
+    cdnAmpWebUrl: "https://tylerpaper-com.cdn.ampproject.org/c/s/tylerpaper.com/news/texas/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_7693292b-ee92-5f9b-991f-fe39f82418bf.amp.html"
     type: article
     provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 71
-    images:
-      - url: "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg"
-        width: 750
-        height: 400
-        isCached: true
-  - title: "Healthcare Transformation – Made Possible by AI and Social Listening"
-    excerpt: "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds."
-    publishedDateTime: 2022-01-08T05:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY"
-        width: 820
-        height: 312
-        isCached: true
-  - title: "AI for telehealth & the latest in health tech at CES"
-    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
-    publishedDateTime: 2022-01-06T18:10:00Z
-    webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 37
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: Tyler Morning Telegraph
+      domain: tylerpaper.com
     quality: 33
+  - title: "REALM IDx™ to Participate Virtually in the 40th Annual J.P. Morgan Health Care Conference"
+    excerpt: "REALM IDx, Inc., a leader in integrated diagnostics, announced the company will participate in the upcoming 40th Annual J.P. Morgan Health Care Conference. This premier health care conference features global industry leaders,"
+    publishedDateTime: 2022-01-06T23:57:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-ff232c02aa05615ba640af196270be1d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "BioXcel Therapeutics to Present at the 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
+    publishedDateTime: 2022-01-04T12:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-present-the-40th-annual-jp-morgan-/2022/01/04/9519159.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 12
 
 secured: "TBAxBBZzRhkGMbR7IUCBOmTFjJo1+wdmyJaKpYazOvO1ySoCBRsT0Afaar1zH6N1aPFDypXjmbnpYYF35CLG1xyKv/W5jFAajh7rYAuTuLQbakanRCcisWkHiaeOsUp9hVeEYY+w4BJQnkdRsbzjSbcIS7q9mEPpRSGX8jyC8RtdFRRjD5ocwt50uxFnbaP+KGzXFgxJLrOwrsu82aDs/Y8rL5SHO6t6Ej+GOEr335ht61KNtwX4ojDFr3/TwO+MpSzN43DluDRKn2Zagmkj3d5cn6rn1cwhi3hErSw8wMD0j/Y7vDJwIaeTptP7/J3v/9hkgbPTbxnMp0+wTYqboPO1poJ/beiYBkfSqznZGJI=;ezcm2Y0tXCcZUvF6ysX73w=="
 ---

@@ -63,6 +63,15 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com"
+    excerpt: "By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application, By End User, By Region, Competition, Forecast & Opportunities, 2026\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-01-05T11:29:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_b17a83e5-f71b-5812-b2d7-008a6601f37a.html"
+    type: article
+    provider:
+      name: Daily News
+      domain: galvnews.com
+    quality: 0
 
 secured: "+MS5tUffdparcLaoNytDX6TEaVCAUFU0BY63T5li23MBE4FeTBg9g02AX3zbyGrf+irEVeOjlE/XBINQgOSEmSbQjzdn+pb6VTO5KVfjmyUgKcWsSznq2cwWRKCCsLAqbr7FDk54Jig/2UOLdkwP3Xtrj7Wzr1zujIiUVsVwrCIBBRXtjds3j+4QkWIDLcleytSVNqj0C5Lscr7OsvfscXmDveUkJICViPOV9iXpNiUJe2qTmDkSnYR7b2dVjc2br+dAPjk6zTjbLRmGHScE/OIjq+gJyMM4p+SWPYA3eOufGlHBe+1trKm6PgmWFiPbKg4B1ICpLmaR8P7BCegOPoRTAVdaZJECEVOIpTSo/lk=;jH+syws62eJlVedDaPCaCA=="
 ---

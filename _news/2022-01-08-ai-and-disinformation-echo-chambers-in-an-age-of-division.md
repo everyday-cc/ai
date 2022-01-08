@@ -24,43 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI & Speciation – Symbiosis and the 4th Industrial Revolution"
-    excerpt: "AI & Speciation – Symbiosis and the 4th Industrial RevolutionVicar SayeediJanuary 6, 2022Seventy thousand years ago, humankind underwent a dramatic"
-    publishedDateTime: 2022-01-06T01:07:00Z
-    webUrl: "https://www.goodreads.com/author_blog_posts/22097420-ai-speciation-symbiosis-and-the-4th-industrial-revolution"
+  - title: "Healthcare Transformation – Made Possible by AI and Social Listening"
+    excerpt: "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds."
+    publishedDateTime: 2022-01-08T05:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
     type: article
     provider:
-      name: Goodreads
-      domain: goodreads.com
-    quality: 37
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
     images:
-      - url: "https://images.gr-assets.com/authors/1614972635p8/7086757.jpg"
-        width: 585
-        height: 933
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY"
+        width: 820
+        height: 312
         isCached: true
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "Manually keying in patient data into fields is not only time-consuming and inefficient, but also can be inaccurate and unreliable. etherFAX AI reduces error rates associated with manual data entry by extracting information that is stored in unstructured document types,"
-    publishedDateTime: 2022-01-05T14:17:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20220104-etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 6
-    images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1641334305/press_release/assets/company_logos/etherFAX-graphic-350x350_bzrxac.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "PRNewswire-PRWeb/ -- etherFAX today announced an artificial intelligence (AI) solution that facilitates advanced capabilities of searchable PDF, OCR, and other Key Value Pairs. These new"
-    publishedDateTime: 2022-01-04T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its-artificial-intelligence-solution-for-automated/article_ac564166-2a4e-5bb7-9d54-6fdbb9c9ec36.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 0
 
 secured: "ahGqpM3bmdx977pH0vPqOtIjBObEO1AGOOYsTN7FNIU25biY/5G7BuIe4rYxbNWjQYUMSXhgmsYbI/zSRlg+j7kG2/M60W+EYfJZbt1xva92HbRLLvCQxagF+gPdvjd6EYlQeWitQKinYd4wsMXrrrERs5B7cIttY6HlMbMM/Gozqpj8kIGFtZ16l++Qi4sZ3lU4xyBZYlVwn397pLHeio90AcaNJpUXOIC1Pp62v+KdNeL2BKIFrObttr+1l380dGcKsrgJSPk81FIK8M6fuUq2TouI5EkegwFWt9DY7CxxZbjNmC4WNREE2AChqkz6E6daW8uv0UufrEFlTliQY54oVr6YlIvSbk201JqNvRM=;HLDdZ7gp5HxkELXG1Ul2og=="
 ---
