@@ -89,6 +89,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "2022: The Rise and Rise of Fintech"
+    excerpt: "In the past couple of years, along with the rest of the world, India witnessed tectonic shifts in the way it made transactions and did business. While the pandemic raged across geographies, physical exchanges and social interactions had to take a back seat and social distancing became the norm."
+    publishedDateTime: 2022-01-05T09:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/2022-rise-fintech-dilip-modi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFfpaeuK-SqNQ/article-cover_image-shrink_720_1280/0/1641373673805?e=1646870400&v=beta&t=Ix4IQxxFSuItbSoADHbsEzv2cSnzoxEu7jFtInSTm2U"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Upstart vs. LendingClub: Which Fintech Stock is a Better Buy?"
     excerpt: "I will analyze and compare Upstart Holdings (UPST) and LendingClub (LC) to determine which fintech stock is currently the better investment."
     publishedDateTime: 2022-01-05T15:51:00Z

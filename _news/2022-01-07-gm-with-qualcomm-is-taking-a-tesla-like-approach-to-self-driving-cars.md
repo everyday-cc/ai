@@ -27,84 +27,84 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm aims to serve next-gen cars with Snapdragon Ride Vision and Digital Chassis"
-    excerpt: "Companies like the Intel's Mobileye, graphics giant Nvidia, and Qualcomm are all using CES 2022 to announce their newest offerings for the automotive industry, as well"
-    publishedDateTime: 2022-01-05T16:53:00Z
-    webUrl: "https://www.techspot.com/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
+  - title: "Tesla announces Full Self-Driving package price increase to $12,000"
+    excerpt: "Tesla announced today that it is going to increase the price of its Full Self-Driving package to $12,000 starting on January 17. It should coincide with the release of an important new update. The Price of Tesla’s Full Self-Driving (FSD) package has been somewhat controversial."
+    publishedDateTime: 2022-01-08T00:06:00Z
+    webUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/"
+    ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
+      name: Electrek
+      domain: electrek.co
+    quality: 89
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-05-image-14.jpg"
-        width: 1376
-        height: 800
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Qualcomm Unveils Gambit to Build \"Digital Chassis\" for Self-Driving Cars"
-    excerpt: "New initiatives for Qualcomm include next-generation ARM PCs, the metaverse, VR/AR, wireless fiber, and Advanced Driver-Assistance Systems (ADAS)."
-    publishedDateTime: 2022-01-04T23:41:00Z
-    webUrl: "https://interestingengineering.com/qualcomm-unveils-gambit-to-build-digital-chassis-for-self-driving-cars"
-    ampWebUrl: "https://amp.interestingengineering.com/qualcomm-unveils-gambit-to-build-digital-chassis-for-self-driving-cars"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/qualcomm-unveils-gambit-to-build-digital-chassis-for-self-driving-cars"
+  - title: "Tesla Self Driving Is Getting So Good It Will Cost More"
+    excerpt: "Elon Musk tweeted that new versions of the company's driver assistance software, dubbed Full Self Driving is coming soon—and the price is going up too."
+    publishedDateTime: 2022-01-08T00:23:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51641601389"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 43
+      name: Barron's
+      domain: barrons.com
+    quality: 74
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QjOddRPQOd/sizes/ces-2022-snapdragon-digital-chassis-render-01_resize_md.png"
-        width: 744
-        height: 419
+      - url: "https://images.barrons.com/im-464381/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "GM's Ultra Cruise self-driving system to use Qualcomm's Snapdragon Ride hardware"
-    excerpt: "GM plans to launch an upgraded version called Ultra Cruise, which the automaker says will handle 95% of the country's roads, meaning many journeys won't require any actual driving by a human. Like Super Cruise,"
-    publishedDateTime: 2022-01-07T14:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1134674_gm-s-ultra-cruise-self-driving-system-to-use-qualcomm-s-snapdragon-ride-hardware"
+  - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
+    excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"
+    publishedDateTime: 2022-01-08T00:40:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/elon-musk-says-tesla-will-raise-price-of-full-self-driving-driver-assistance-to-12000/3485837/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/elon-musk-says-tesla-will-raise-price-of-full-self-driving-driver-assistance-to-12000/3485837/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/elon-musk-says-tesla-will-raise-price-of-full-self-driving-driver-assistance-to-12000/3485837/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 65
+    images:
+      - url: "https://media.nbcnewyork.com/2022/01/106996323-1641303541918-gettyimages-1347936771-dsc06374_2021102121941947.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
+    excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
+    publishedDateTime: 2022-01-07T13:22:00Z
+    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    type: article
+    provider:
+      name: The Scottish Sun
+      domain: thescottishsun.co.uk
+    quality: 42
+    images:
+      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1500
+        height: 1000
+        isCached: true
+  - title: "Volvo announces Ride Pilot unsupervised self-driving system"
+    excerpt: "Volvo on Wednesday announced the new self-driving system Ride Pilot at the 2022 Consumer Electronics Show underway in Las Vegas. Ride Pilot is described as a hands-off, eyes-off system, meaning a driver will be free to do other things when the system is activated,"
+    publishedDateTime: 2022-01-05T19:00:00Z
+    webUrl: "https://motorauthority.com/news/1134649_volvo-announces-ride-pilot-unsupervised-self-driving-system"
     type: article
     provider:
       name: Motor Authority
       domain: motorauthority.com
-    quality: 19
+    quality: 24
     images:
-      - url: "https://images.hgmsites.net/hug/cadillac-super-cruise_100625568_h.jpg"
+      - url: "https://images.hgmsites.net/hug/volvo-concept-recharge_100815470_h.jpg"
         width: 1920
-        height: 1275
+        height: 1080
         isCached: true
-  - title: "Qualcomm Extends Automotive Offerings with Snapdragon Ride Vision, Digital Chassis"
-    excerpt: "Over the last several years, some of the most intriguing developments to come out of CES have been car related. From information-rich cockpit experiences to promises of assisted and autonomous driving,"
-    publishedDateTime: 2022-01-04T20:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/qualcomm-extends-automotive-offerings-snapdragon-ride-bob-o-donnell"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 18
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGrgCctwCPllg/article-cover_image-shrink_720_1280/0/1641325843581?e=1646870400&v=beta&t=iDX1clKo93rEjb9d5gAPhtPN3hRYpwegD5uO9PZs6GQ"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Qualcomm expands in auto market with new vision platform, Berlin office"
-    excerpt: "Qualcomm is focusing on its expansion in the automotive sector at this year's CES. The company is grouping its products for cars under the umbrella 'Snapdragon Digital Chassis', and announced new deals with several automakers to incorporate the company's chips in their"
-    publishedDateTime: 2022-01-05T10:27:00Z
-    webUrl: "https://www.telecompaper.com/news/qualcomm-expands-in-auto-market-with-new-vision-platform-berlin-office--1409642"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
-  - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
-    excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio the Snapdragon Ride™ Vision System a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
-    publishedDateTime: 2022-01-05T19:49:00Z
-    webUrl: "https://www.newswiretoday.com/news/176884/Qualcomm-Introduces-Snapdragon-Ride-Vision-System-an-Open-and-Scalable-Platform-for-Automated-Driving/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "W12/wH+7shyoySQrh3QPQUCRth4AHUVYidS75sC8W7ViY8+Gp7pg8vO3oa7OLtbqNRBchmwrpa+s98nn3EX1XkgcUHElhYiZOoB/zY6E2hI+eXBBoR+7o6BZMXWiYezzTovPDD+PE1SKhf/gKIycCksgbetaE1S47ZSM0fXttXAJslKFqRTli7L33pZMKrVjqF/bpXlQRA4sho2KzkCBZkq86s6JbmmL2NpBzKNS8Ml6uuk42rCjgWQ0wOqyfqDuv+fIYwScNeoMEqid3azzJUtArRaREcbfGKpuiYz41DW/kPJzVf3QhwyVHgxcP67X93Hso7Jq+m1PmX5QkS8u2HPRywEwKYeygvlt/mgnBEA=;KPvRwA+oFZKn5FwA45pRVw=="
 ---

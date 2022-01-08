@@ -49,20 +49,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Contracting for AI in the Evolving Regulatory Landscape"
-    excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
-    publishedDateTime: 2022-01-04T12:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/01/04/contracting-for-ai-in-the-evolving-regulatory-landscape/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "First-of-its-kind artificial intelligence - a helping hand for commodities trading"
     excerpt: "Revenue.AI, a Dutch company, is optimizing the way traders crunch big data with the release of its newest augmented intelligenc"
     publishedDateTime: 2022-01-05T04:42:00Z

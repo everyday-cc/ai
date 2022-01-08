@@ -39,20 +39,6 @@ related:
         width: 796
         height: 450
         isCached: true
-  - title: "Top 5 Robotics trends and predictions for 2022"
-    excerpt: "Robotics is thriving in the tech-driven market to help industries boost efficiency in the workspace without any potential error. Robotics Trends and"
-    publishedDateTime: 2022-01-03T07:05:00Z
-    webUrl: "https://olisa.tv/top-5-robotics-trends-and-predictions-for-2022/"
-    type: article
-    provider:
-      name: olisa.tv
-      domain: olisa.tv
-    quality: 54
-    images:
-      - url: "https://i2.wp.com/olisa.tv/wp-content/uploads/2022/01/Robotics.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Top 7 Robotics Trends & Predictions for 2022"
     excerpt: "With the huge shift towards automation across industries all around the world as a result of the Covid-19 pandemic, it is time to explore the effects this may have on the way business is conducted during the next twelve months."
     publishedDateTime: 2022-01-06T19:58:00Z

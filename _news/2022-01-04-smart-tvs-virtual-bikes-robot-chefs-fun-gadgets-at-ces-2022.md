@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The AI-Powered Enterprise Tools Presented at CES 2022"
+    excerpt: "Highlights from Las Vegas include AI-powered chips, robots and tractors."
+    publishedDateTime: 2022-01-07T22:31:00Z
+    webUrl: "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-464264/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
     excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
     publishedDateTime: 2022-01-06T16:01:00Z

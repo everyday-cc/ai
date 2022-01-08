@@ -47,6 +47,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The AI-Powered Enterprise Tools Presented at CES 2022"
+    excerpt: "Highlights from Las Vegas include AI-powered chips, robots and tractors."
+    publishedDateTime: 2022-01-07T22:31:00Z
+    webUrl: "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
+    images:
+      - url: "https://images.wsj.net/im-464264/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Smart TVs, virtual bikes, robot chefs: Fun gadgets at CES 2022"
     excerpt: "New TVs, VR headsets and home health tech highlight growing popularity of home entertainment systems amid pandemic."
     publishedDateTime: 2022-01-04T15:46:00Z

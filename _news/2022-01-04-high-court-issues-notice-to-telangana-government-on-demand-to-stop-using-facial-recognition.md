@@ -137,22 +137,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Telangana High Court notice to State on plea challenging use of Facial Recognition Technology without law"
-    excerpt: "The Telangana High Court on Monday issued notice to the State of Telangana on a plea challenging use of Facial Recognition Technology (FRT) by the State and Telangana Police without a valid law [ SQ Masood v State of Telangana ]."
-    publishedDateTime: 2022-01-03T08:31:00Z
-    webUrl: "https://www.barandbench.com/news/telangana-high-court-notice-to-state-on-plea-challenging-use-of-facial-recognition-technology-without-law"
-    ampWebUrl: "https://www.barandbench.com/amp/story/news/telangana-high-court-notice-to-state-on-plea-challenging-use-of-facial-recognition-technology-without-law"
-    cdnAmpWebUrl: "https://www-barandbench-com.cdn.ampproject.org/c/s/www.barandbench.com/amp/story/news/telangana-high-court-notice-to-state-on-plea-challenging-use-of-facial-recognition-technology-without-law"
-    type: article
-    provider:
-      name: Bar & Bench
-      domain: barandbench.com
-    quality: 42
-    images:
-      - url: "https://gumlet.assettype.com/barandbench%2F2022-01%2Fd9b62d33-af83-4c84-8deb-5646589abace%2FSUPREME_COURT_OF_INDIA__WEB_PAGE_1600x900___Copy.jpg?w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Facial recognition technology: Advent of totalitarian utopia?"
     excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
     publishedDateTime: 2022-01-04T09:58:00Z
@@ -195,22 +179,6 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Telangana High Court Issues Notice On PIL Challenging Deployment Of Facial Recognition Technology (FRT) In Telangana"
-    excerpt: "The Telangana High Court today issued a notice to the Telangana State Government in a Public Interest Litigation (PIL) plea filed challenging the deployment of Facial Recognition Technology (FRT) in the State of Telangana."
-    publishedDateTime: 2022-01-03T08:44:00Z
-    webUrl: "https://livelaw.in/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
-    ampWebUrl: "https://www.livelaw.in/amp/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
-    cdnAmpWebUrl: "https://www-livelaw-in.cdn.ampproject.org/c/s/www.livelaw.in/amp/news-updates/telangana-high-court-notice-pil-challenging-deployment-facial-recognition-technology-telangana-188646"
-    type: article
-    provider:
-      name: Live Law
-      domain: livelaw.in
-    quality: 36
-    images:
-      - url: "https://www.livelaw.in/h-upload/2022/01/03/406892-et-artworks-and-telangana-hc.jpg"
-        width: 842
-        height: 486
-        isCached: true
   - title: "HC issues notices to TS, city police chief on use of face recognition technology"
     excerpt: "Face Recognition Technology (FRT) by the Telangana police on citizens had no legal backing and not approved by any legislature"
     publishedDateTime: 2022-01-04T04:21:00Z
@@ -226,6 +194,6 @@ related:
         height: 448
         isCached: true
 
-secured: "gHRCCdlPWo0vZKuJRGRe450lYW+U+chjadNZ9mMNsj8K4ljs0GPaFb6ZnDzZHIz2zRyZBUDLa3gMbaTn3sxP3qZTbVEywNi1t8jteGitLVDjI1O60j/cfQgzEJ8UvogiltLkNLX5dufcgZwVJbL+kay2cf8017PD8GEI5fQwnb2/nf0HLhCgHcwZB1YiQzDIkrby3/CAJPboDYvy5+N6hAvGZ0ltmhY05ynEsuwjSsUEaeXNMzNyKjvzq7DteO9cQ34XlsGGnMzEu19tXaeyPmUMQ15SsW5LsJ6qCUE9p/fnUEKJAnwxZ0nyOJZmePAg1w2G7ZsMxbUJYvhZS0RBQ3Dil76NDLa9skpjnPUFLMM=;KoYE71cjxrbsq6lwFQnQuQ=="
+secured: "7t7f4NbEw27NmL4JY2FSF7xKPHMx8giNYTV1ZGlclyU4o85pN6uHG21a2bIZREQiBcqbKlH8jMFOSB3f2HqTM9WvEyL1+0xZZ52zwUh8t0AIiSGwDleWk1V29NTS6rraZM9kIfa8UO/S1SVZUj9+pRlK/ASXvmNOBZJVkEoX+oyhZ2umdw34yef+aB7Vhkq7F0AWME+Es4wnPY+4Sw5T+WE3xH9BZ4drKyGIDSPfO6VLyJ5ieuezfEmDKhTiTTVlAN5uGNq3I3KhAdiDSm5RWohiHDs+lCuH/etIEshqw358uezsAH4jTbfURqku8BuOi7/u8cj+RmlywCronmAo1N/2PkPq+esAoa4sJojrHMlLvUFNj1nW95sD09ypqT+BcV34k2inMXb7G/7T1lqJyaGRjSXeqcUafT0JdJkj80LkH2n4EeMgHIw4ovnqTOVSuzXkekfVDCKLTgvWmBfp9cJBjOWQJHqs5W1160Xr+57NBCHNSTK77tEZWq0bU6zm3KIq8ypK1oO5PQRLL0Fj4w==;sV+J4J899KCdGh7HC5Q4yQ=="
 ---
 

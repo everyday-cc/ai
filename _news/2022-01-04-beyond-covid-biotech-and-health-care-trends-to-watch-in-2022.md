@@ -39,20 +39,6 @@ related:
         width: 918
         height: 1024
         isCached: true
-  - title: "Top 10 Artificial Intelligence Stocks Set for a Bull Run in 2022"
-    excerpt: "Investors should be aware of the top ten artificial intelligence stocks that are set for a bull run in 2022. AI-based companies are determined to provide highly profitable AI stocks for bull run."
-    publishedDateTime: 2022-01-03T09:00:00Z
-    webUrl: "https://www.analyticsinsight.net/top-10-artificial-intelligence-stocks-set-for-a-bull-run-in-2022/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 39
-    images:
-      - url: "https://www.analyticsinsight.net/wp-content/uploads/2022/01/Top-10-Artificial-Intelligence-Stocks-Set-for-a-Bull-Run-in-2022.jpg"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Five health tech innovations to watch in 2022"
     excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
     publishedDateTime: 2022-01-06T14:30:00Z

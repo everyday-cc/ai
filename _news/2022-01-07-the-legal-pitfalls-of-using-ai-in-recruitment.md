@@ -24,33 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AIML machine learning students develop beer using AI"
-    excerpt: "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing."
-    publishedDateTime: 2022-01-07T00:00:00Z
-    webUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/"
+  - title: "Employers, Investors Take Notice of AI Tools to Speed Job Recruitment"
+    excerpt: "Companies are looking for an edge in hiring through artificial intelligence and automation technology."
+    publishedDateTime: 2022-01-07T22:53:00Z
+    webUrl: "https://www.wsj.com/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
+    ampWebUrl: "https://www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
     type: article
     provider:
-      name: Food Magazine
-      domain: foodmag.com.au
-    quality: 69
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
     images:
-      - url: "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "China Matching Pentagon Spending on AI"
-    excerpt: "PLA investment in AI is now on par with the Pentagon’s, experts say. The United States views China as its top military and economic competitor. “Supported by a burgeoning AI defense industry, the Chinese military has made extraordinary progress in procuring AI systems for combat and support functions,"
-    publishedDateTime: 2022-01-06T03:48:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2022/1/6/china-matching-pentagon-spending-on-ai"
-    type: article
-    provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 37
-    images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/istock-1268656202.ashx?h=500&w=878&la=en&hash=04C78034C4708706F095C6DF35330D3E"
-        width: 878
-        height: 500
+      - url: "https://images.wsj.net/im-464229/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "jvFZz/ANRY1yOQnX5cyMVxYjoLIqrVSoUhLOjEkv7xbxVMg292Qj9vJ9o9Z5oYnHRtqMhWO+7PbMEYp1HvJOwQIc2r0gfSJdHVTzIHy5eexbjGl4xq3//VY3iVgYIu3HQnvyR6Yw/QAjPiYj/gpZ4f/W/B4d42QBHk/y1gIXjOGNaflj9g/uL0kmJOIm/GZVSACUFLUP6UlrQPFyWyvMq4TbIW/9p5COE1rIRObuvCfIUP9hJzNqPpVD6HEhdfzXdPceMqwaw+Rg5PhR92DXnt+aCxntSp2bZ7qB3tdcYu2moV7053f9ZC9vNSmL6Ksnis/HdUc0YdnSISibGr+qPcDo/5vbKhiUAsSGGDdfxjU=;wy0DfrY9Q91ImNKCdeTS+Q=="

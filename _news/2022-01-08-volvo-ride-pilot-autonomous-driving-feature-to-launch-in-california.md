@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-featur
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 114
 published: true
 
 provider:
@@ -60,36 +60,6 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-88747763,imgsize-905021,width-1200,height-628,overlay-etcio/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
-    excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
-    publishedDateTime: 2022-01-07T13:22:00Z
-    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-    type: article
-    provider:
-      name: The Scottish Sun
-      domain: thescottishsun.co.uk
-    quality: 42
-    images:
-      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1500
-        height: 1000
-        isCached: true
-  - title: "Volvo announces Ride Pilot unsupervised self-driving system"
-    excerpt: "Volvo on Wednesday announced the new self-driving system Ride Pilot at the 2022 Consumer Electronics Show underway in Las Vegas. Ride Pilot is described as a hands-off, eyes-off system, meaning a driver will be free to do other things when the system is activated,"
-    publishedDateTime: 2022-01-05T19:00:00Z
-    webUrl: "https://motorauthority.com/news/1134649_volvo-announces-ride-pilot-unsupervised-self-driving-system"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/volvo-concept-recharge_100815470_h.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Volvo to launch self-driving feature in California"
     excerpt: "Volvo Cars and self-driving sensor maker Luminar Technologies plan to release a hands-free driving system called ‘Ride Pilot’ that will debut in California."

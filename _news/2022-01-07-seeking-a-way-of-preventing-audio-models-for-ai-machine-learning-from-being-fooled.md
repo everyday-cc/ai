@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/01/220107084434.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/01/220107084434.htm"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/01/image1641299513.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Contracting for AI in the Evolving Regulatory Landscape"
-    excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
-    publishedDateTime: 2022-01-04T12:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/01/04/contracting-for-ai-in-the-evolving-regulatory-landscape/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
-        width: 768
-        height: 633
         isCached: true
   - title: "fylm.ai 1.1 update brings online raw processing and grading for photographers"
     excerpt: "The fylm.ai 1.1 update is a “Photographers Release”, bringing the worlds of still photography and video closer than ever fylm.ai is a subscription based online color grading tool designed for both videographers and stills photographers."

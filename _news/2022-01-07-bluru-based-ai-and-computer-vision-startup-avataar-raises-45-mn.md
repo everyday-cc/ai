@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833"
 type: article
 quality: 74
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg&width=1200"
         width: 1200
         height: 900
-        isCached: true
-  - title: "B2B Manufacturing And Automation Startup Groyyo Raises $4.6 Mn In Seed Funding"
-    excerpt: "Mumbai-based B2B manufacturing and automation startup Groyyo today has raised $4.6 Mn in a seed funding round led by Alpha Wave Incubation."
-    publishedDateTime: 2022-01-03T07:56:00Z
-    webUrl: "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/"
-    ampWebUrl: "https://inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/b2b-manufacturing-and-automation-startup-groyyo-raises-4-6-mn/amp/"
-    type: article
-    provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 53
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/01/factory-social.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Customer Engagement Startup Exotel Bags $40 Mn In Series D Funding"
     excerpt: "Bengaluru-based customer engagement startup Exotel has raised $30 Mn in a Series D funding round led by Steadview Capital."

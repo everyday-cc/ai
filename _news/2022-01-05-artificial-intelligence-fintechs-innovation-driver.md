@@ -75,6 +75,20 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "2022: The Rise and Rise of Fintech"
+    excerpt: "In the past couple of years, along with the rest of the world, India witnessed tectonic shifts in the way it made transactions and did business. While the pandemic raged across geographies, physical exchanges and social interactions had to take a back seat and social distancing became the norm."
+    publishedDateTime: 2022-01-05T09:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/2022-rise-fintech-dilip-modi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFfpaeuK-SqNQ/article-cover_image-shrink_720_1280/0/1641373673805?e=1646870400&v=beta&t=Ix4IQxxFSuItbSoADHbsEzv2cSnzoxEu7jFtInSTm2U"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Technologies Reshaping the FinTech Industry"
     excerpt: "Technologies Reshaping the FinTech Industry By CIOReview - some of the key technologies will drive business model reinventions and shape the competitive environment of the"
     publishedDateTime: 2022-01-05T11:16:00Z

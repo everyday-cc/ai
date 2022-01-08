@@ -2,21 +2,21 @@
 category: news
 title: "Artificial Intelligence Technology Solutions Files 8-K Detailing Commitment Not to Engage in a Reverse Stock Split of its Common Stock"
 excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today filed a Form 8-K with the Securities and Exchange Commission that provides details on the company’s corporate charter amendment that has been filed with the Nevada Secretary of State."
-publishedDateTime: 2022-01-06T13:47:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/01/06/9521400.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/01/06/9521400.htm"
+publishedDateTime: 2022-01-06T07:40:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8422065/artificial-intelligence-technology-solutions-files-8-k-detailing-commitment-not-to-engage-in-a-reverse-stock-split-of-its-common-stock"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8422065/artificial-intelligence-technology-solutions-files-8-k-detailing-commitment-not-to-engage-in-a-reverse-stock-split-of-its-common-stock"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI
 
-secured: "S9DoZfSto3Q+/T2UZdbSXR0VKAmZ9uUa7cw/LqVjeIK7ALTtw3zGHx+tMURwvj4TLv25R8ggNEO0rKMAf+8zL8CTDnlSbx7MHBQRXoC3Nq6som3L+ytqvICN0BdnsBvnsdP3Cb7erOceJmbTrNymd/iYEVITzYcC7hagG/tc15OAsf+xYceuPpAZHuA1fhO0zaEOlRAreO7Ww4VC00EsJdxtb0QU3+PMhtVXcSZnWIIv9h1BugWriRRFdOBKdPM3sW+04eIJhFB4KCS/UbDtmZLLDG5ObnuzcsW6Yu5RoFhrqjCeXv38GZx10kcAjKwMagQzDsx2KlEccqb0yS2fUDGOveM7qebMfTw8sb4rAPE=;yVyycopAh+Dfr8ruUb7QoA=="
+secured: "snDTxlsPJXwwnJrPFcSANGt/P2FYjrkoH68xhoQB2RJSt/A+cu9EcN/qOkyklVHeszO7QlTPrC3Zio6+OxszUN7NMLL023hSj5wIUMM5PKWyygDWz3hP99KACV/Qd+AyMVLOr5y/XO4v7xmc98QNy9x/ewDZ+bVAlPGyESeyWQOH5Dah8vmhUfQ6nOMyL+TE+h0a8l5UuHF9xuVbi3fq/1Azi2BXqLRpVhT47cV6WrYUusbcUy8lmhVS4fPONq2GEXC6D5HLCGnhYgPhGQBL8yROUUahb1dQFO9xW1L3WGgcwGGbyPlgNlQE4esjcHNFzpKXf7WX8pnxNqa5b3+srHgKJwUUIFkiiwdk1xsyLd0=;n7Mr/z/bJOar2LJhXUPsSw=="
 ---
 

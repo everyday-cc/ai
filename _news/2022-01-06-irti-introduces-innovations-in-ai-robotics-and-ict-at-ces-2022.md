@@ -141,20 +141,6 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 21
-    images:
-      - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?p=facebook"
-        width: 5157
-        height: 2698
-        isCached: true
   - title: "BBalance Bath Mat, the CES 2022 Innovation Awards Honoree, uses AI and footprint recognition to guide self-care at home"
     excerpt: "BBalance is the world’s first smart bath mat with footprint recognition that combines three key health measurements into one; BBalance is a weight scale, balance and stability reader, and posture evaluator."
     publishedDateTime: 2022-01-03T13:50:00Z
@@ -169,6 +155,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+    excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
+    publishedDateTime: 2022-01-05T15:04:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 1
 
 secured: "pUNx/kYtG0Ur1LXmQZDU+If35RJAbGu33KGA+FhGqv++A2Y+N0tAYRtDXIFX1n8Z88tUQ6D+3FpTsPcZvpIkL22T9iXpoByWtTKOFO7JA+VtRAXJI7NQjggn+IPbF6vjuFGTZ5k/eUNww/XkAX5tckrpKciokC4Leu5ooXr2U70Qy1QrUhzx2DuDSJLh6nwWQcBYDmA0KDWS/tEs+1QYjS3uueuquXLau4kJzKc/S7KBO80MdHQj1vuYjlqLamjWDqlvI6iFDDJCdSrhg7MKU5s5P/4IdkAq+TsE3FlI04q/GE7cxb1g8SDFs2JTOaduOHoe2+H4r77wLqoYGucZx8X22JkX7YhdkX8ADBZejC0=;5MJ0KghjolKDgVy3Ayfj+Q=="
 ---

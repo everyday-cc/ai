@@ -99,20 +99,6 @@ related:
         width: 464
         height: 348
         isCached: true
-  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure."
-    publishedDateTime: 2022-01-04T15:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Microsoft AI surpasses human performance in common sense Q&A"
     excerpt: "Welcome to the 48th edition of the AI and Global Grand Challenges newsletter, where we explore how AI is tackling the largest problems facing the world. The aim: To inspire AI action by builders, regulators,"
     publishedDateTime: 2022-01-05T11:49:00Z
@@ -127,6 +113,15 @@ related:
         width: 1800
         height: 600
         isCached: true
+  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
+    excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
+    publishedDateTime: 2022-01-04T15:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
     excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
     publishedDateTime: 2022-01-04T19:00:00Z

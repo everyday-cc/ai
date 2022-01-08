@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
-    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange,"
-    publishedDateTime: 2022-01-07T12:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html"
+    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud."
+    publishedDateTime: 2022-01-07T13:08:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lifestyle-weather-9e3472f9b0d14e0d1ba48cfa3a2147cc"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 67
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "How analytics, AI tools can overlook multiracial patients"
     excerpt: "Data-driven tools that incorporate race have to figure out how to account for patients who identify with more than one race, as multiracial people—today, 10% of Americans—become a larger segment of the U."

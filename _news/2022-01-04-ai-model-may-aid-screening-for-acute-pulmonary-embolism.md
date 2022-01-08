@@ -35,20 +35,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 58
-  - title: "Contracting for AI in the Evolving Regulatory Landscape"
-    excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
-    publishedDateTime: 2022-01-04T12:06:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/01/04/contracting-for-ai-in-the-evolving-regulatory-landscape/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2021/01/Artificial-intelligence-767x633.jpg"
-        width: 768
-        height: 633
-        isCached: true
   - title: "fylm.ai 1.1 update brings online raw processing and grading for photographers"
     excerpt: "The fylm.ai 1.1 update is a “Photographers Release”, bringing the worlds of still photography and video closer than ever fylm.ai is a subscription based online color grading tool designed for both videographers and stills photographers."
     publishedDateTime: 2022-01-05T17:25:00Z

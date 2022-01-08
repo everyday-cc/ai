@@ -1,22 +1,28 @@
 ---
 category: news
 title: "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com"
-excerpt: "By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application, By End User, By Region, Competition, Forecast & Opportunities, 2026\" report has been added to ResearchAndMarkets."
+excerpt: "The Global Image Recognition Market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026. Alphabet Inc. Hitachi Ltd. Honeywell International Inc."
 publishedDateTime: 2022-01-05T11:29:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_b17a83e5-f71b-5812-b2d7-008a6601f37a.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_b17a83e5-f71b-5812-b2d7-008a6601f37a.html"
+originalUrl: "https://us.acrofan.com/detail.php?number=595571"
+webUrl: "https://us.acrofan.com/detail.php?number=595571"
 type: article
-quality: 0
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+    width: 580
+    height: 339
+    isCached: true
 
 related:
   - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
@@ -34,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "RNVISESLK8U3uWpMs0+dL64Bt9vyLf+eqQ0kAhR35lx0mo5jG+CCsbnFU7ItTwSo/yPLWvl/48NnfAvYTOcdyQQDFrN9BREJhh7vje5cyjpOlmnVVSFhRp33JuFwTon3K6JbjMOga0+TktgAQ4OFZvlMD1Ul0xZzIhB3QEHNeICp7KBdPyt3zGGGkJeDAGyz8Q0le/1wMJSoJKC8rhktoL+xtPSFOiUv7kzOiiCRwPxvKr1jkyTP4lMbH7At3E7LPaGPqf7p7DZvHODEtT8i2fm3VZ4jhVLbHEtnT/HZIoV+p51W5KoDd9Ig9qCuEk21atW+ZpLlYJ5wk0z0PqRwjybsK6FHn2MvQFA9RJBVgPQ=;Uu5D/ZH889pzu14/+46Xag=="
+secured: "Oc0/3oQjmuVQozTWHbj8A/9uyUhaQJyh1sJINBn/ZcQ25A7+JEI/UlmrfL//i0V6HmDJ7SSzzqfH11rKIXLgd1Z4bTL8ZYO+xDTShfkWIyPhe/omipRARMJr0wrUWWtM0bH1+toCH1/SuPauSsDJ45XKBGH87oColSFtsPuA9iyYt11gyqV17wzdV+8lTiSDwNUJHaVrYbbsSCUsr/nAIahaJS8hHdpqAYwPbx8MuxI8kR3R8sFhQLPJBL6oBX0lOUwEZhoJoURRkceEtqV/8+hQ30ctT/1+j/XW6GLXdT6Hk7v74uAekh1lGDtMkT57tCqezcIMuQijQwy60B5+JKUgekFW/vB53NyLuwTDnUw=;pWVat+JdjcHa9DtpVSl1FA=="
 ---
 
