@@ -39,22 +39,6 @@ related:
         width: 790
         height: 466
         isCached: true
-  - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
-    excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
-    publishedDateTime: 2022-01-03T11:08:00Z
-    webUrl: "https://www.openpr.com/news/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/V/1/V103933766_g.jpg"
-        width: 800
-        height: 320
-        isCached: true
 
 secured: "1vZRP6ENHBZ7uUW/XvbTbXMfWs/2p3eEjkHSF/nal4M29D7kgLdOg2KtA80Ekq2tlDdgQLpgFyhpXXrH8nJwLgYNQtSQ4oZ3qkymY+9iFQOLUrcGxuovzT/DernoDpa0JAUq1zFZ090LmzldOY3+eRp9xVaurxp5fSmrPcMJCKYiEqopdrEz2r78HcRiMgpP9NCjMKHXVy2QlWqRNr5b18tVDvz3MMC6V3tqGvdliUhGwttsf2j5Gi08zoqzDhMPOJ7LzkjpYmjAaKgFWljMxAZQnErBE2WGu1vk28QFlmYjjrXex5rpxnfS4oDGCAd0uJn0llsQaT9dtQyriWN0KZSOqpfiFavTARXFtoxFnUI=;o7Ue/9ny+hkLBwC82ueQLg=="
 ---

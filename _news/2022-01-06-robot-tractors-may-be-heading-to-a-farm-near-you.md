@@ -36,7 +36,7 @@ related:
     provider:
       name: malaymail
       domain: malaymail.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-01/20220108_CES_ROBOT_TRACTOR_01-seo.jpg"
         width: 1200
@@ -80,6 +80,6 @@ related:
       domain: courthousenews.com
     quality: 19
 
-secured: "ymfEO5/eO67GTiwVFCBpns4hrUGYwhtATp4+H4xC9T0h3u2+YNg1OSxDNYk591Jth/6/CEKSSWpIzuYKIwciynuNt/oYu7FPwyY+qU+iS/DfsTZXU7QTpX2ycGy0zFDxDKDW4G3XUbhQAIgOEUrVMPz024h4JVW47U6YWJuvd5EE6hvawCzAZOd8Azow5oRH+hy26EKJn0alf5EwmmqUEQiWe4Apmt+IrRK+GSQNNJ06NhzdYW2IzbpV8otSLl3ltHVLwgMqs/Hbq3OV+sgC2gIjJBfpVCBiv+hg2KASNQcDOV/eNpmlViHFB9dTqbfExob5tNu4DoOK0IDOoN63CYD/AAnM8PlR5Ii8DXeoci0=;0AWey8cC9UUGR2WawS1FGg=="
+secured: "k55ueDYcjIMk+szpd+1wdOOspxDLMjFP2ylToD/6EaQ2OzKAj9e4ebj4ZEunaQeSxVbnd1CSYORoP6lNbrQljZtrZnuwxAvlQbLPVcrK5b4OfIUVWoDIsKvTVZ0mYBRE4zOnMORjfgEMA0SEXyyT8l7sbvlx1BZWHoXgWlGlxYM7mXyfH9Mdtdn/QphuVtHViF6AfR3mlY2mYiRlu6iyl5bp2TBoK1RpSuUj64nKDSPKdIG1z72SziFNmzXUU2OOIf9TewvOT8hRW+n7onpFzUPmj2ge6OBJXWK3GuvmIHSw1NfbjxWqDvJX3OBUefltETKhArc6AAkroUkd3873wWAWgmKsnlrlQzo0H+5u4AI=;CEiSHaZnG4jv9uJew4RH5Q=="
 ---
 

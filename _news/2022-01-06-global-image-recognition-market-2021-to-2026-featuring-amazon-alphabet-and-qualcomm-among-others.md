@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103497889/Global-Image-Recognition-Market-2021
 webUrl: "https://menafn.com/1103497889/Global-Image-Recognition-Market-2021-to-2026-Featuring-Amazon-Alphabet-and-Qualcomm-Among-Others"
 type: article
 quality: 9
-heat: 9
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 413
     height: 249
     isCached: true
+
+related:
+  - title: "Insights on the Face Recognition Edge Computing Global Market to 2026 - Featuring Alphabet, Apple and Mediatek Among Others"
+    excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region -"
+    publishedDateTime: 2022-01-04T10:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g24875723/insights-on-the-face-recognition-edge-computing-global-market-to-2026-featuring-alphabet-apple-and"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24875723"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24875723"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 13
+  - title: "Insights on the FinTech Blockchain Global Market to 2027 - Featuring Abra, Bitfury and Coinbase Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"FinTech Blockchain - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for FinTech Blockchain estimated at US$1."
+    publishedDateTime: 2022-01-05T12:55:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595695"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 8
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "3WxZ4//t+LMFVrMHCjMn4PULgBJTIAYMP6ah6Tj7ERmYvW0msPhAsveemfTi2dBuzPgNYco8YFJyHCgRGC1VdNn1XHx5WT/Qh37ag7763rWA/fKH/fP23sMvyYddxhMwtYE33UDcd7tQ+7FfD4dDxCR0ikbtdNGQaPv7F2V1s+fIo8OBX/PG3s9oX/QbONKxfssi44X9oGJ9xy8t63u7Axt2PcPwmRDLOde7TJWijK7I6dy26u1mNz272zJlbfWhPj0nzYap+eG+SKLfLyUxXyS+ZPouvryhBQ8r7Y46NI586EeGI8cYM3ET3sOLOmph8EI90H16goEoGFEVAA10sdIb1itHDWmfiW1LbETEotE=;c75XeNvl9Iwt052j0tGLyg=="
 ---

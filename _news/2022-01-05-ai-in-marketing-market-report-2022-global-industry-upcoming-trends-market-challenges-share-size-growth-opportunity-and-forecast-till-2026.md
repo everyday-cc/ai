@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Cyber Security Market to Witness at a 22.60% CAGR through 2027"
+    excerpt: "The research report on the Global Artificial Intelligence (AI) in Cyber Security Market provides a comprehensive analysis of the industry size, share"
+    publishedDateTime: 2022-01-08T03:40:00Z
+    webUrl: "https://menafn.com/1103505927/Global-Artificial-Intelligence-AI-in-Cyber-Security-Market-to-Witness-at-a-2260-CAGR-through-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?327254"
+        width: 375
+        height: 250
+        isCached: true
   - title: "AI in Computer Vision Market | Developments Analysis and Precise Growth Outlook 2022 to 2026 | Future Business Opportunities and Trends Forecast"
     excerpt: "Final Report will add the Analysis of the Impact of COVID-19 on this AI in Computer Vision Industry. The Global “AI"
     publishedDateTime: 2022-01-05T06:57:00Z

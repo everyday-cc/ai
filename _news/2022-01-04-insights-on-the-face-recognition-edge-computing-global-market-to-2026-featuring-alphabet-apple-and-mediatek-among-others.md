@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24875723"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24875723"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -21,35 +21,33 @@ topics:
   - AI
 
 related:
-  - title: "AI for Speech Recognition Market is Booming Worldwide | Google, Apple, IBM"
-    excerpt: "Advance Market Analytics published a new research publication on “AI for Speech Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
-    publishedDateTime: 2022-01-03T11:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-speech-recognition-market-booming-worldwide-google-ajay-jadhav"
+  - title: "Global Image Recognition Market (2021 to 2026) - Featuring Amazon, Alphabet and Qualcomm Among Others"
+    excerpt: "The 'Global Image Recognition Market, By Component (Software, Hardware, Services), By Technology (Digital Image Processing, Code Recognition, Facial Recognition, Others), By Deployment, By Application,"
+    publishedDateTime: 2022-01-06T11:41:00Z
+    webUrl: "https://menafn.com/1103497889/Global-Image-Recognition-Market-2021-to-2026-Featuring-Amazon-Alphabet-and-Qualcomm-Among-Others"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 52
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 9
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFDsXy5f3t48Q/article-cover_image-shrink_720_1280/0/1641207989252?e=1646870400&v=beta&t=rU8Dbxv60xLUWiQyiXxOKiWcaqsAZ7Q7Ss58ixVGry0"
-        width: 1200
-        height: 720
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?331857"
+        width: 413
+        height: 249
         isCached: true
-  - title: "AI for Pharma and Biotech Market is Booming Worldwide | CureMetrix, PFIZER, Abbott"
-    excerpt: "Latest released the research study on Global AI for Pharma and Biotech Market offers a detailed overview of the factors influencing the global business scope AI for Pharma and Biotech Market research report shows the latest market insights current situation"
-    publishedDateTime: 2022-01-07T11:26:00Z
-    webUrl: "https://www.openpr.com/news/2520650/ai-for-pharma-and-biotech-market-is-booming-worldwide"
-    ampWebUrl: "https://www.openpr.com/amp/2520650/ai-for-pharma-and-biotech-market-is-booming-worldwide"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2520650/ai-for-pharma-and-biotech-market-is-booming-worldwide"
+  - title: "Insights on the FinTech Blockchain Global Market to 2027 - Featuring Abra, Bitfury and Coinbase Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"FinTech Blockchain - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for FinTech Blockchain estimated at US$1."
+    publishedDateTime: 2022-01-05T12:55:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595695"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 51
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 8
     images:
-      - url: "https://cdn.openpr.com/V/1/V107767815_g.jpg"
-        width: 400
-        height: 300
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "+MS5tUffdparcLaoNytDX6TEaVCAUFU0BY63T5li23MBE4FeTBg9g02AX3zbyGrf+irEVeOjlE/XBINQgOSEmSbQjzdn+pb6VTO5KVfjmyUgKcWsSznq2cwWRKCCsLAqbr7FDk54Jig/2UOLdkwP3Xtrj7Wzr1zujIiUVsVwrCIBBRXtjds3j+4QkWIDLcleytSVNqj0C5Lscr7OsvfscXmDveUkJICViPOV9iXpNiUJe2qTmDkSnYR7b2dVjc2br+dAPjk6zTjbLRmGHScE/OIjq+gJyMM4p+SWPYA3eOufGlHBe+1trKm6PgmWFiPbKg4B1ICpLmaR8P7BCegOPoRTAVdaZJECEVOIpTSo/lk=;jH+syws62eJlVedDaPCaCA=="

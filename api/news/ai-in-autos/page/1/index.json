@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-08-robot-tractors-may-be-heading-to-a-farm-near-you.md",
+      "title": "Robot tractors may be heading to a farm near you",
+      "excerpt": "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labour shortages, climate change and environmental protection, while trying to feed a growing world population.",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756",
+      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-01/20220108_CES_ROBOT_TRACTOR_01-seo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756",
+      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756",
+      "publishedDateTime": "2022-01-07T18:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "malaymail",
+        "domain": "malaymail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations.md",
       "title": "AI Weekly: The implications of self-driving tractors and coming AI regulations",
       "excerpt": "AI regulations are on the way from governments including China. Plus, driverless tractors have reached the market -- with caveats.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/07/ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -601,7 +645,7 @@
       "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -728,6 +772,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022.md",
+      "title": "LG Debuts Self-Driving Vehicle Infotainment Package at CES 2022",
+      "excerpt": "LG will unveil an in-car infotainment package for autonomous vehicles that will turn cars into a work, exercise or virtual camping space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/",
+      "originalUrl": "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/LG-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/amp/",
+      "publishedDateTime": "2022-01-03T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1363,101 +1450,6 @@
         "AI in Autos",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-learn-what-makes-a-self-driving-car-autonomous.md",
-      "title": "Learn what makes a self-driving car autonomous",
-      "excerpt": "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
-      "publishedDateTime": "2021-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-25-automation-is-driving-us-toward-self-employment.md",
-      "title": "Automation Is Driving Us Toward Self-Employment",
-      "excerpt": "Self-employment often seems like a dream for most, but with the onset of automation in traditional jobs and the evolving gig economy, we may be moving toward a new normal where self-employment is a traditional route.",
-      "sourceUrl": null,
-      "webUrl": "https://www.stamfordadvocate.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php",
-      "originalUrl": "https://www.stamfordadvocate.com/business/article/Automation-Is-Driving-Us-Toward-Self-Employment-16727844.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/23/30/65/21859668/3/rawImage.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T16:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "StamfordAdvocate",
-        "domain": "stamfordadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

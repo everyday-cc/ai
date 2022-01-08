@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Soaring Fintech Stocks That Could Rocket Higher in 2022"
-    excerpt: "N ow that 2021's come to a close, it's time to look back at the best-performing fintech stocks to see if they have what it takes to keep climbing. Global-E Online (NASDAQ: GLBE), Upstart Holdings (NASDAQ: UPST),"
-    publishedDateTime: 2022-01-03T11:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "ForwardAI Named Finalist in 2022 LendIt Fintech Industry Awards"
     excerpt: "Nomination demonstrates need to modernize Small and Medium-Sized Business (SMB) lending, highlights potential of digital technologies for lenders"
     publishedDateTime: 2022-01-06T14:12:00Z
@@ -45,22 +34,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Fintech On Benzinga: 2022 Will See The Next Milestone In Fintech"
-    excerpt: "Nima Ghamsari, Co-Founder and CEO of Blend Labs (NYSE: BLND), presented on a sponsored panel at Digital Mortgage 2021 – a virtual conference a couple of weeks ago."
-    publishedDateTime: 2022-01-05T20:44:00Z
-    webUrl: "https://www.benzinga.com/fintech/22/01/24918260/fintech-on-benzinga-2022-will-see-the-next-milestone-in-fintech"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24918260"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24918260"
+  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
+    excerpt: "Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year."
+    publishedDateTime: 2022-01-05T03:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bairong-inc-named-in-kpmg-s-china-fintech-50-list-for-sixth-consecutive-year-1031077961"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/1_41.png"
-        width: 1840
-        height: 965
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Artificial Intelligence: FinTech’s innovation driver"
     excerpt: "FinTech refers to any idea or innovation that improves or optimizes the way individuals or companies conduct financial activities. Early FinTech concentrated on developing add-on products to complement existing financial services."
     publishedDateTime: 2022-01-05T13:49:00Z
@@ -74,6 +56,20 @@ related:
       - url: "https://www.bworldonline.com/wp-content/uploads/2021/04/economy-default.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
+    excerpt: "BEIJING, Jan. 5, 2022 /PRNewswire/ -- Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year. It is also ..."
+    publishedDateTime: 2022-01-05T18:15:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595359"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 36
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
   - title: "2022: The Rise and Rise of Fintech"
     excerpt: "In the past couple of years, along with the rest of the world, India witnessed tectonic shifts in the way it made transactions and did business. While the pandemic raged across geographies, physical exchanges and social interactions had to take a back seat and social distancing became the norm."
@@ -156,15 +152,6 @@ related:
         width: 740
         height: 422
         isCached: true
-  - title: "Tenet Fintech Group Inc.: Tenet CEO to Provide Business Update and Address Recent Stock Performance in Q&A Interview"
-    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the"
-    publishedDateTime: 2022-01-07T18:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54922290-tenet-fintech-group-inc-tenet-ceo-to-provide-business-update-and-address-recent-stock-performance-in-q-a-interview-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "5Aej9n/lFdjTKxCGiFn4mtJK0K1SJgOINgrWB9xR8RGfEjRxsfF71gMjTu9FaL8BCG2jNXe6G3n+ax8YqKM0Yd2m+W7jLg03pE4BNCuZJXL3psrzSHYpEXauKAS1u0hFY0x9zMRRnLH5F0pY22MF3tTwHYy5iYzgvkSBuzzXGdK+l6qQ2n0P58VDtT9JMBBB0tZu/eR4ARv16w6jQH37gXS12+JU+NbHf9fUq9sQN8LTM9X82oe2ao6XisbPuc7GZk1meqMcit1QxiqR6fO7DSLyJ2ZGeCtwwjmu74k6XjAdEmau1IjzT/w26spii/pmMeL0a+NFQQxGtBzwsnLe/kEbLh7weKvwe8XGKDsbFeg=;EAWrMlp3aQ5jYbK/plOe+g=="
 ---

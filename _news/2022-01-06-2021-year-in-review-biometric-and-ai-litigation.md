@@ -9,7 +9,7 @@ ampWebUrl: "https://www.natlawreview.com/article/2021-year-review-biometric-and-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation?amp"
 type: article
 quality: 57
-heat: 68
+heat: 67
 published: false
 
 provider:

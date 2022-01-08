@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-31-rezos-ai-powered-contact-center-delivers-faster-results-with-microsofts-ai-capabilities.md",
+      "title": "Rezo’s AI-powered contact center delivers faster results with Microsoft’s AI capabilities",
+      "excerpt": "Azure AI helps startups access high-quality vision, speech, language and decision-making ... supporting a wide range of use cases, including translation for call centers, web page localisation ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "originalUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/F800x400-d-1640887464935.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
+      "publishedDateTime": "2021-12-30T21:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-bow-down-before-this-us310000-massage-mega-robot-human.md",
       "title": "Bow down before this US$310,000 massage mega-robot, human",
       "excerpt": "A startup called Massage Robotics is launching its flagship robot at CES: A two-armed, seven-square-foot mega-bot that can understand verbal commands, is powered by a neural network of other robots with which it exchanges data in real time,",
@@ -1157,61 +1201,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-2021-was-a-breakthrough-year-for-ai.md",
-      "title": "2021 was a breakthrough year for AI",
-      "excerpt": "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
-      "publishedDateTime": "2021-12-29T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI",
-        "Microsoft AI",
-        "Natural Language Processing"
       ]
     }
   ],

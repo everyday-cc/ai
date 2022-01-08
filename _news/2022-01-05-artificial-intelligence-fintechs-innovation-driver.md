@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "3 Soaring Fintech Stocks That Could Rocket Higher in 2022"
-    excerpt: "N ow that 2021's come to a close, it's time to look back at the best-performing fintech stocks to see if they have what it takes to keep climbing. Global-E Online (NASDAQ: GLBE), Upstart Holdings (NASDAQ: UPST),"
-    publishedDateTime: 2022-01-03T11:50:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "ForwardAI Named Finalist in 2022 LendIt Fintech Industry Awards"
     excerpt: "Nomination demonstrates need to modernize Small and Medium-Sized Business (SMB) lending, highlights potential of digital technologies for lenders"
     publishedDateTime: 2022-01-06T14:12:00Z
@@ -45,21 +34,28 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Fintech On Benzinga: 2022 Will See The Next Milestone In Fintech"
-    excerpt: "Nima Ghamsari, Co-Founder and CEO of Blend Labs (NYSE: BLND), presented on a sponsored panel at Digital Mortgage 2021 – a virtual conference a couple of weeks ago."
-    publishedDateTime: 2022-01-05T20:44:00Z
-    webUrl: "https://www.benzinga.com/fintech/22/01/24918260/fintech-on-benzinga-2022-will-see-the-next-milestone-in-fintech"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24918260"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24918260"
+  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
+    excerpt: "Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year."
+    publishedDateTime: 2022-01-05T03:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bairong-inc-named-in-kpmg-s-china-fintech-50-list-for-sixth-consecutive-year-1031077961"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
+    excerpt: "BEIJING, Jan. 5, 2022 /PRNewswire/ -- Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year. It is also ..."
+    publishedDateTime: 2022-01-05T18:15:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595359"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 36
     images:
-      - url: "https://www.benzinga.com/files/1_41.png"
-        width: 1840
-        height: 965
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
   - title: "Fintech Led VC Investment Last Year. Here’s What To Look For In 2022"
     excerpt: "Financial services was the leading sector for venture investment in 2021 with $134 billion invested, marking a whopping 177 percent year-over-year growth. That compares with overall global venture capital investment,"
@@ -156,15 +152,6 @@ related:
         width: 740
         height: 422
         isCached: true
-  - title: "Tenet Fintech Group Inc.: Tenet CEO to Provide Business Update and Address Recent Stock Performance in Q&A Interview"
-    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the"
-    publishedDateTime: 2022-01-07T18:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54922290-tenet-fintech-group-inc-tenet-ceo-to-provide-business-update-and-address-recent-stock-performance-in-q-a-interview-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "967vCj3UAzjyjSpMmMuxQkH4ZgxHvEjrtlDS/FtQPeEjphfiaF6Ssj8C/+GwG7NR5/KS/Tb3+oXRpBJ85RtpBAZwGMDqTnrhyelfOitnLPdxtjZ4JGo4w5EEZNiotbONKLfDED2t/736m8ZCXVoFJlOAyHF6uCedV0GClo9l4tY5RiLuQC07KDYo38qD9ly9pNlxPtghm3ShNI3COT1/jM1P8+UoO1WVRowtILKCbE41jiAIo+FMFwnUwcM5HqiUWxcL4QtjdJ4o7Sm4hjUE6VyCHHiBileWgBKkL3knI8Dz2Tg7HGsHIDGEuOB68n8YqxgY3L6C5m94FH1IU2DfmKOpiPNyHz0JVvKZsNXUmHU=;cv4A7KfvN9V+eg0WFU5Zew=="
 ---

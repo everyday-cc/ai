@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 659
         isCached: true
-  - title: "Key Applications of Deep Learning in the Healthcare Sector"
-    excerpt: "Deep learning, with its vast powers, is changing healthcare. Fremont, CA: In recent years, AI and machine learning have grown in popularity"
-    publishedDateTime: 2022-01-03T11:21:00Z
-    webUrl: "https://www.cioapplications.com/news/key-applications-of-deep-learning-in-the-healthcare-sector-nid-9035.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 56
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/xjfd4450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
 
 secured: "nRL7weWH023RB2Xi0kQml6JSc44I7iwHTiiSiQ01XjIyP+Zoa+hmMt8pGIEkSA0QA180Y7ukj+HcXSa9U46/yu/Ay9mNgYJRIC8x4tkBKM8PL+8XVBWfveJxEUXOlLir7bOtwlTcWeYmP5eemUeTd8TGZhZB1YQeVDymgSgUUIoU786XFY8cIdrtZELyqDe8Fi8BRZ/Xybwt9M2A2PE0njsetSN7UXOgv9j4cFMGwLVklbJvdY89bXkVjvpN7wcTX98qcVq5VDqBzgED2wb03lzbyybwpeFjGdQ5o3ygBN8JH6cjb6vvRjIK6DofdzoGEs+2VoESqtrxOsmXjhzL0LGQpKqX1mnl0tu1kayZG9xgHo7yY9024NEWENC+oXZmr+ErV54SnqIyFkzkqUhsjff6Qxy6Mm1HMmGBCjUh+Y485qrnT8bGamPOI0joxBUpav/H93piFInOcYeCf1v5fwd7yrDykKCN7PvXSboZKdDrZhI58GyyBpMoBIusJq4856zqdgsmGauDSVbgXbBEug==;gWanfPENWo8Z0iHc3UesIw=="
 ---

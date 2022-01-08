@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/07/ai-weekly-the-implications-of-sel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Key Applications of Deep Learning in the Healthcare Sector"
-    excerpt: "Deep learning, with its vast powers, is changing healthcare. Fremont, CA: In recent years, AI and machine learning have grown in popularity"
-    publishedDateTime: 2022-01-03T11:21:00Z
-    webUrl: "https://www.cioapplications.com/news/key-applications-of-deep-learning-in-the-healthcare-sector-nid-9035.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 56
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/xjfd4450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
   - title: "Contracting for AI in the Evolving Regulatory Landscape"
     excerpt: "While the existing regulatory landscape is sparse regarding AI-specific regulations, lawyers should seek to understand how different AI systems work and begin building a framework for evaluating AI systems,"
     publishedDateTime: 2022-01-04T12:06:00Z

@@ -129,6 +129,17 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
+    excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
+    publishedDateTime: 2022-01-08T02:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "s8Wnp8ymfwsSEufcqkaj6w1ys3s8gWopOL/g7reCW6zQ9CNK3rfSV+yfieHv8mPXKJ/xw5FNhEKkkcX0ltSgdDUKZlvkhTdcn9t/pqsFCV6g2vm5MWLDew4UeoDy3JRd6Fk5ek9NYMiRHbP+BCRXSCgczU8jVLVKpCEhsSssAkt1OMUp+qZbRUsyE5g4G5LBfn6HS/oUIjygBGDAFOl1mw4xk8No9dDou+xGMVA/+wYQ0I2tIB/a9QBrlOZ4zRzvIltnmX9lfZ+Em7QTP3tLfVUQIS4GTepSlVVTwZhYzhg+ENcVpUq1xmpGKcQBO1b5uXh32H13nRx4Rpi9Ul2iajqlpue/9/3iOjJKCzBY21aSQv67g00Jtu3JX+4JU+rXqxE92FXtueP3tThU4aSGHUAdW+YXyDzZiKVRuRQKKmiXaRP/euFt7nliRrAx/tQVU9DPwsRlRms6/XNBkkTvwu36tcp/SFjj5UvMV870z9jTD7mt0YbgugStNXxHwQi7d+/9k/kpt32k1bHx3ZA8KA==;sVWlMvkkXQl9xLgXyU72pA=="
 ---

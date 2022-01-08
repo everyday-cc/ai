@@ -36,7 +36,7 @@ related:
     provider:
       name: malaymail
       domain: malaymail.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-01/20220108_CES_ROBOT_TRACTOR_01-seo.jpg"
         width: 1200

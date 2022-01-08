@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Conversational AI for Retail and E-commerce Market: Industry Regional Developments, Future Trends and Forecasts"
-    excerpt: "DeepResearchReports has uploaded a latest report on Conversational AI for Retail and E commerce Industry from its research database Conversational AI for Retail and E commerce Market is segmented by Regions Countries All the key market aspects that influence the"
-    publishedDateTime: 2022-01-03T11:08:00Z
-    webUrl: "https://www.openpr.com/news/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    ampWebUrl: "https://www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515646/conversational-ai-for-retail-and-e-commerce-market-industry"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 37
-    images:
-      - url: "https://cdn.openpr.com/V/1/V103933766_g.jpg"
-        width: 800
-        height: 320
-        isCached: true
   - title: "Global Legal Software Market Report 2021 with Focus on Machine Learning - ResearchAndMarkets.com"
     excerpt: "Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global legal software (focus on machine learning) market is expected to grow from $0."
     publishedDateTime: 2022-01-05T17:28:00Z

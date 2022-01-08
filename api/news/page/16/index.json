@@ -2,6 +2,57 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-12-21-airtable-acqui-hires-walrusais-founding-team.md",
+      "title": "Airtable acqui-hires Walrus.ai’s founding team",
+      "excerpt": "Airtable today announced that it quietly acquired Walrus.ai, a no-code software testing platform, earlier this year. ‘Acquired’ may be overstating things a bit, though. Best I can tell, Walrus.ai’s homepage became unavailable a few months ago and Airtable tells me it has no plans",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/21/airtable-acqui-hires-walrus-ais-founding-team/",
+      "originalUrl": "https://techcrunch.com/2021/12/21/airtable-acqui-hires-walrus-ais-founding-team/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Office-for-TechCrunch.jpeg?w=810",
+          "width": 810,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/21/airtable-acqui-hires-walrus-ais-founding-team/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/21/airtable-acqui-hires-walrus-ais-founding-team/amp/",
+      "publishedDateTime": "2021-12-21T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-bridging-divides-in-ai-machine-learning.md",
       "title": "Bridging divides in AI, machine learning",
       "excerpt": "A Johns Hopkins team will lead new effort bringing artificial intelligence, machine learning to health care in underrepresented communities",
@@ -1052,51 +1103,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-commentary-the-ethical-use-of-ai-in-the-security-defense-industry.md",
-      "title": "Commentary: The Ethical Use of AI in the Security, Defense Industry",
-      "excerpt": "Artificial intelligence is also advancing rapidly within the security and defense industry. When AI converges with autonomy and robotics in a weapons system, we should ask ourselves, “From an ethical standpoint,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2021/12/21/the-ethical-use-of-ai-in-the-security-defense-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2021/12/istock-1206796363.ashx?h=500&w=878&la=en&hash=EEC19EE3DC58BD2024CC519D8151F636",
-          "width": 878,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security",
-        "Computer Vision"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
 type: article
 quality: 91
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -134,6 +134,17 @@ related:
         width: 768
         height: 432
         isCached: true
+  - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
+    excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
+    publishedDateTime: 2022-01-08T02:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "EGvAegzebzSYAvGgpVnoZkHcNp8abpJ1NE2NT/Jz7JQ92XhJDjVCvWHBxnmnHAIBaxW47LZgvOygNkzFMq1uNh/Rxm+CowUGuE+1mdGr3OYtoYgApD6PjnO/+zYfQF5Ad68qvoN976We/5M0a31dNbLlqtq5H9XD/y7C/tLkpMiEgvheRdNuYQxCllxEW1+M/SRkDWr+c6XM9CVtlp8sNjUpyxmMMNH32WNLIfdd0AZ7bxIO05NTSflyehc15k2JodSN+bE306d8IhQYk/6+z2WbP70uvMeBy0kX8MSvrwc8xyHQIutrfnsxoHZmnxgXyJ5Og8ojfkl87gtIwrxyS3RpYC6g7c+kCC5wX98HccY=;j0FcLFc08wounmQyrQKPyw=="
 ---

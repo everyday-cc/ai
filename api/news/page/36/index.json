@@ -2,6 +2,50 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2021-12-07-university-wide-institute-to-integrate-natural-artificial-intelligence.md",
+      "title": "University-wide Institute to Integrate Natural, Artificial Intelligence",
+      "excerpt": "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://news.harvard.edu/gazette/story/2021/12/new-harvard-institute-to-study-natural-artificial-intelligence/",
+      "originalUrl": "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-how-ai-ethics-falls-short-preserving-jobs-is-not-enough.md",
       "title": "How AI ethics falls short - preserving jobs is not enough",
       "excerpt": "AI ethics has been a hot topic for about five years, but are we getting to the fundamental issues? Here's why well-intentioned ideas for preventing AI job loss come up short.",
@@ -1060,57 +1104,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-will-take-its-mobileye-automotive-unit-public-in-2022.md",
-      "title": "Intel will take its Mobileye automotive unit public in 2022.",
-      "excerpt": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 352,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "publishedDateTime": "2021-12-06T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

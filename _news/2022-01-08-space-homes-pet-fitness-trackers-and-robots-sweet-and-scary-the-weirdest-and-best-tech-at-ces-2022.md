@@ -1,28 +1,24 @@
 ---
 category: news
-title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
-excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,"
-publishedDateTime: 2022-01-04T11:13:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
+title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
+excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
+publishedDateTime: 2022-01-08T02:00:00Z
+originalUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/"
+webUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
-    width: 400
-    height: 510
-    isCached: true
 
 related:
   - title: "The best robot vacuums of CES 2022"
@@ -101,6 +97,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,"
+    publishedDateTime: 2022-01-04T11:13:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
+        width: 400
+        height: 510
+        isCached: true
   - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
     excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
     publishedDateTime: 2022-01-04T17:08:00Z
@@ -129,18 +139,7 @@ related:
         width: 768
         height: 432
         isCached: true
-  - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
-    excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
-    publishedDateTime: 2022-01-08T02:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
-secured: "tiD7frQAmou29ct+bKgBs9YbGBGCI8mdoBs8E5PO0JhThHrRFNJx+02pPW/CuwDwavSRZ/QwyRzEclpdlY4L5PjvtHT2YIE3bCsJUxWUN/CH04MGLxkRzGqk82I8uuNliR4jCj1AVzJ+b+J7NzhSs7nzOcYSwouOnf56aWeXVCib6HejXXr6j3aYRAkHWej0X3wPAZ/ASVYfH9fvaccS7jQnE+HuZGuV/YFgfhwo1odZCcAMTppKJzKOpFzgQfBxuJOury8kcViS5ju7ub74weg/eysPzrO7KQ9q33FTj/55hv/eBAP2PwvHflL93Khyw+CEhyfMnZrzL08nFDqUwF/lJmwmrgo9VsA2go29r+gn3z+o2PKlWcE/Q78OKno/xAvB+V0/6C0BHViPjaFaqRBI8u6d2sSdyPxhdYW+NQhXz21J4+FmJSOU2DZdkkxqneRsB+Ok53U3qAfrulsddygOR81Z58VjLwFFrp8C0r+uAFeWEzJnNBR44gtVlBey3ZFCrb6OQdmycyiv3xbSnw==;KTNrUqRgfalnZdaLZr9LhQ=="
+secured: "hLedjXWXBk0xJZ7o1OCR5brcseYUgKU4ongxVcpr/n5YpRvJiPn/Zk/IPnhPzuGw/MsL30hy/YfA/YtpDg2x+IeUzok8mfjNXdrPR31alBAy2uwCY0nahGqJ2ZUE6Oo66lrhJ4taUdVPe68iEsh7Gl6lKvXCwu3H0T3wQNWMM59TCXnJwmb3BEksgZ+lygVHNdBrnS7pzEorvSh8pD8V5I0Ka+kVGq2GdAuPV6FhhBcJq93RjPyiuA5VmYbS7QkkujZlZ8vhtHkGk8RNP4SuX5Y17xplVGvcMLvj6C+hGo6vAOAX0hn/5JV0RkcuZaNNy/hrBh8O6BCI2+cS5jTETAnTNuOsGMbvVB24YTeS5Hs=;iQR/yIjMgE+XjKH34A2bvA=="
 ---
 

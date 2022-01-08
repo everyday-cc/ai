@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicl
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: pymnts.com
@@ -38,6 +38,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Tech alliances with chip corporations at CES in self-driving tech world"
+    excerpt: "Major automakers like General Motors, or Ford find companies with an upper hand in techs like Tesla and Apple are entering the market."
+    publishedDateTime: 2022-01-08T04:25:00Z
+    webUrl: "https://techstory.in/tech-alliances-with-chip-corporations-at-ces-in-self-driving-tech-world/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 41
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/01/JeX_mrWItiY3QwRb80nYiAU_zpUxMFxzvNuiAKpcU1w.jpg"
+        width: 533
+        height: 300
+        isCached: true
 
 secured: "PFXvdxQBrpfqmtuPZ1ZM0gG1J40S1nexQckdPIxcDpasa6cpW70p+gww4exbgUkaaN83cMoiBA21dP2KZmY+sfkjAUNCkj0JkEiCpT70A5jvmGj2sXrc4PYNX4Uw4FeqU+iXbuk0mZMSiXlMlWZll65MieBUXTbRxX+6EDFY6qOLZsj8V9ITwIyzOVOYVP/+IOUzCsZydeloRxtXT9wXk2HxZKI4WZOFEnCahisf4eMVWnMcq9e5GwabNbhU9blaVU1dhWbJMkmKSIriCB0ZCfGXV43H7cmrIgDzkDbGAIHzWcEPNmHX3i5emjkKj3XVF4xHTeMaosnDOvnO63zWi2h6CRISsJX2uqzoFOp0d8k=;2mQuBlwCvPBViXfEud/6UQ=="
 ---

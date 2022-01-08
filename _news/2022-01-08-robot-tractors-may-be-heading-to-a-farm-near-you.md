@@ -8,8 +8,8 @@ webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/01/08/robot-tractors-m
 ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
 cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
 type: article
-quality: 59
-heat: 99
+quality: 61
+heat: 101
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-01/20220108_CES_ROBOT_TRACTOR_01-seo.jpg"

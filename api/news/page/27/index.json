@@ -2,6 +2,49 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-12-14-privacera-named-top-3-data-and-ai-startup-in-2021-datanami-readers-and-editors-choice-awards.md",
+      "title": "Privacera Named Top 3 Data and AI Startup in 2021 Datanami Readers' and Editors' Choice Awards",
+      "excerpt": "Privacera, the unified data access governance leader founded by the creators of Apache Ranger™, has been recognized in the sixth annual Datanami Readers' and Editors' Choice Awards in the Top 3 Data and AI Startups category,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-the-us-china-technology-arms-race-its-not-a-two-country-race-anymore.md",
       "title": "The US-China Technology Arms Race. It’s Not A Two-Country Race Anymore.",
       "excerpt": "The global technology arms race is no longer a race among a few countries, especially the US and China. It's expanded, and includes a large number of countries all vying for competitive advantage. The US — one of the major players — must double down on its technology investment strategy — or lose.",
@@ -1086,50 +1129,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-this-tiny-ai-powered-robot-is-learning-to-explore-the-ocean-on-its-own.md",
-      "title": "This tiny AI-powered robot is learning to explore the ocean on its own",
-      "excerpt": "A new Caltech robot could use machine learning to navigate through turbulent and unknown terrains in the ocean. The ocean is big, and our attempts to understand it are still largely surface-deep. According to the National Oceanic and Atmospheric Organization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/",
-      "originalUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2021/12/10/Gunnarson_Peter-Dabiri_John-CARL-bot-1207-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp",
-      "publishedDateTime": "2021-12-12T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
       ]
     }
   ],

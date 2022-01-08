@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/financial/obstacles-and-opportunities-of-
 webUrl: "https://www.bbntimes.com/financial/obstacles-and-opportunities-of-democratizing-ai-for-organizations"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "75% of B2B Sales Organizations Will Use AI-Guided Selling by 2025"
-    excerpt: "A new report shows that by 2025, 75% of B2B sales organizations will augment their efforts with selling guided by AI:"
-    publishedDateTime: 2022-01-03T12:35:00Z
-    webUrl: "https://www.datamation.com/artificial-intelligence/75-percent-b2b-sales-organizations-ai-selling-2025/"
+  - title: "OPPO is creating Innovative Experiences with Artificial Intelligence as it unveils its Smart Glass Technologies"
+    excerpt: "The keen emphasis on innovative mobile technology experience is bringing the likes of Neural Processing Unit (NPU), artificial intelligence (AI), and augmented reality (AR) to the forefront in Nigeria and major global tech giants are not leaving any stones unturned in the drive towards creating smarter cities around the world."
+    publishedDateTime: 2022-01-04T11:51:00Z
+    webUrl: "https://www.bellanaija.com/2022/01/oppo-smart-glass/"
+    ampWebUrl: "https://www.bellanaija.com/2022/01/oppo-smart-glass/amp/"
+    cdnAmpWebUrl: "https://www-bellanaija-com.cdn.ampproject.org/c/s/www.bellanaija.com/2022/01/oppo-smart-glass/amp/"
     type: article
     provider:
-      name: Datamation
-      domain: datamation.com
-    quality: 54
+      name: BellaNaija
+      domain: bellanaija.com
+    quality: 37
     images:
-      - url: "https://www.datamation.com/wp-content/uploads/2021/10/A-rep-and-an-employee-meet-around-a-conference-room-table.jpeg"
-        width: 1400
-        height: 933
+      - url: "https://www.bellanaija.com/wp-content/uploads/2022/01/IMG_1305-1000x600.jpg"
+        width: 1000
+        height: 600
         isCached: true
+  - title: "The Missing Role your Organization Needs for the Success of your AI Initiatives"
+    excerpt: "In this contributed article, Alankrita Priya, AI/ML Product Manager at Hypergiant, discusses how MLOps platforms can operationalize new technologies and fully bridge the gap between data scientists and end business users."
+    publishedDateTime: 2022-01-05T14:00:00Z
+    webUrl: "https://insidebigdata.com/2022/01/05/the-missing-role-your-organization-needs-for-the-success-of-your-ai-initiatives/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 15
 
 secured: "FNpoUtLR0UwqbZFBaE37MxKdnNrRndX3Cb2R3sW3i3o7b5ZcchWY7cJrWqU5ut5foLrFFAES4OVzSSJgoVENEBUHJ8TjTMGfzQZ9TbxleMU9qj4iI+SK5FY+tKw44H2wWmKwNcpZE+1EbUncuzKtg4R48UXGKBHWpDtyh9G+ZD+nnDRtOFnVi0cT2ZTkRCQYKp1sVS4+XbLe4Ym72lbPMMOAA4iGlFfAkZJcXYmC2vIZjUUhyHjTZ+OPvxM4MP/cj5wYs+ge1puJKhRKI3uknhxInvSNGCtE4JA7ZFvj3UcBFiMhFqgBCXqaOU6wk+pdwITunx/vzm5CKxSSu9XrJ0mn70xbGycQmJHUseY9/5t8tO+801C00MrmPri5dxxbpeh8UWGMKakWErzzmeKDy6COeryHDhFp0bebqk4Xy/+S/TfYJJA1wx/nMYH/QavVEZZFBFDPKt7ashOm5dm3jYcuOT7ulVWxoMUoL4fB3LBHUAwGXEG8p6TFm9r4gekvqLLbxMbsZbaL9V7av4Zvuw==;+rS5Gf8trSW0v4Mj1/zSQg=="
 ---
