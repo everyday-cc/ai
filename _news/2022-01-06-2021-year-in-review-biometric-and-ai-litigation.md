@@ -9,8 +9,8 @@ ampWebUrl: "https://www.natlawreview.com/article/2021-year-review-biometric-and-
 cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 68
+published: false
 
 provider:
   name: The National Law Review
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hummingbirds AI launches new biometrics platform to secure employee data at CES 2022"
-    excerpt: "Hummingbirds AI announces a new artificial intelligence-based biometrics platform designed to make employees’ computers more secure."
-    publishedDateTime: 2022-01-05T22:16:00Z
-    webUrl: "https://www.biometricupdate.com/202201/hummingbirds-ai-launches-new-biometrics-platform-to-secure-employee-data-at-ces-2022"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
   - title: "Face biometrics panel in US realizes it has bitten off quite a lot to chew"
     excerpt: "A commission in Massachusetts debating the use of face biometrics by police has found that the topic is more freighted and complex than anticipated."
     publishedDateTime: 2022-01-07T15:40:00Z

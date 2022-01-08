@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
         width: 400
         height: 510
+        isCached: true
+  - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
+    excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
+    publishedDateTime: 2022-01-04T17:08:00Z
+    webUrl: "https://www.designboom.com/technology/beomni-1-0-robot-ces-01-04-2022/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 35
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
+        width: 1720
+        height: 900
         isCached: true
   - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
     excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"

@@ -41,20 +41,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "Hummingbirds AI launches new biometrics platform to secure employee data at CES 2022"
-    excerpt: "Hummingbirds AI announces a new artificial intelligence-based biometrics platform designed to make employees’ computers more secure."
-    publishedDateTime: 2022-01-05T22:16:00Z
-    webUrl: "https://www.biometricupdate.com/202201/hummingbirds-ai-launches-new-biometrics-platform-to-secure-employee-data-at-ces-2022"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 30
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg"
-        width: 2048
-        height: 1366
-        isCached: true
 
 secured: "u7JC7MkJ6IMFixHafoP2bCNIPewunHzkR+ny0z1S5NoYuPRNB23hIeUYbjwT1vdRjCsYUeNRMOBpazV4ag64mvSdikBZ5KvqrDYZ+Qf05m4qEgSuleTXKv6vPtl3ZqiVWsBc8Rzvk63KJ6hQb3D0tFDoAK6gclMJqy737VvQ9qjPn/HUdblnrxxnMq4f+OdNNLF9eTOda4CtJEz6mVcmWjQH4EtRRc1UOv3OB6uwAa27zmyVDgcK4Gh83r12Tw/9Z0TvmN9vHzvVt2GcT9gzwCDEmiz3Pk6TV7LdvmiRwoBnmiaoWpO25NJVNcMLhwvjqFwRH2XsjEZ6mVagiCJY4qi9HoRhxScZHDL9XbT4P08=;3O0DLgIH0AKjciNhpXKf/g=="
 ---

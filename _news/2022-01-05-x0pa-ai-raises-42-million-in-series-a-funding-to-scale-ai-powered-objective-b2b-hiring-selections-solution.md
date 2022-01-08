@@ -2,9 +2,9 @@
 category: news
 title: "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION"
 excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led"
-publishedDateTime: 2022-01-04T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring--selections-solution-301450354.html"
-webUrl: "https://www.prnewswire.com/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring--selections-solution-301450354.html"
+publishedDateTime: 2022-01-05T02:00:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
 type: article
 quality: 19
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 465
         isCached: true
 
-secured: "b3Cd7P+T0e/nWX7+nPF6WsfRR7j6QvONehbr/Xr8Ddr3K2kTVpfTUkOfatwKl9HxbjhdA56hdhXpoc3j8OvS+8+tmyz+F4TOgZcOtx5N7YYdz+x3CfZ/m+I979t2QOy4vhxPb/JQEBkC7sweOg5VQpooGe5dO4rpoG65hES6v/cNJ02y1GEL5Wcyt4I61WHAyDPDMmuvRTBJSMOYyCWNrmqU/fex2rlZVi7rBaDx25RaGfeA4ZiC0UfWzE4/ZjI/lKgh3nzhGG+es+vP9CL64srAbr8a2cEOolmCunWPnJwEBgTk+lEHCOVBM18zPZV4Qim4gxTjTY9GDQBjzaWx/ttlWSEkcig9tgIvOR8G2Vg=;h2L3sQRjDSaAFYHYToZwyg=="
+secured: "Sq6hNpSDxQzLCb2zTMz8blaizGrPNjERyO6g2aTlSCXPEpvz0ttGc0Gr8uRuAlpOrU4828NpQgzFxGI//F5hUr0QexEAfsN5YsyodBtvwvAwXNB09V5p+j1f/LczebOGcTtd5sxQzQJTe/+nOr4f1GXcc1zu2veWQfxLVGfxRhKAcnw6CL4coE7dQQmPNnjOnbzllfG4JpvSd14OA9xtGm10+Wgq+VEMAmGYgvS8DSZuIH6BeNyz+CsAB5TGEPf06172bN0tHj4Q8eJmQWicD+EhIq0CN1HKUAQwaOX5xpZy8ucMSvLM3BnqBIUQ0JNkygEQRHa8sNnD2BSW7Snun8oV3hPYkKsTe529dvQa5v8=;3fVFr4jbycHHlJeIaMNoAg=="
 ---
 

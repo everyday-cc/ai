@@ -40,20 +40,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "How analytics, AI tools can overlook multiracial patients"
-    excerpt: "Data-driven tools that incorporate race have to figure out how to account for patients who identify with more than one race, as multiracial people—today, 10% of Americans—become a larger segment of the U."
-    publishedDateTime: 2022-01-03T10:01:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/how-analytics-ai-tools-can-overlook-multiracial-patients"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/racial-bias-algorithm%20.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "9kOG//BVy+kQRZ1bXNNVFkV+GUQbQA0G6UxW9NV/PBcAYVkqsm8HYZtpuN8SNZo8FfwI7zDkpmiUdFWMmHbchIv3h9pSVSAnlC6aQp7AoxAWRVS72josg8Vrfsl+JmDktWkgPPhDs7H6rN19cgjuYGBslnGoVr8tcKqdHADnBaQeRDFO7Go+MzvqR54k50C62Ui1bX6cLfpFSQhLTdjHd2F68YG6HFH8FIZB/SruXOZleOtGX9dM7dKH//fHC/aME02bETSIIwRND8TbMTOLWVG9e/Xru5WlCJdj81M/deTs7wVDcyxDRmRMJApGgoBLHKaxdOTdS+4aWS8CExJ3JYSBu4RfKT5focDktY6C8v8=;DLQZIwsUNw2tmyFo9SbjLg=="
 ---

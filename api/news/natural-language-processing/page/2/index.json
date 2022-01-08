@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-23-the-future-of-natural-language-processing-is-bright.md",
+      "title": "The Future of Natural Language Processing is Bright",
+      "excerpt": "Natural language processing (NLP) denotes the use of artificial intelligence (AI) to manipulate written or spoken languages. Like the air we breathe, NLP is so pervasive today that we hardly notice it. When you use Alexa, you are conversing with an NLP ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
+      "originalUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/12/The-Future-of-Natural-Language-Processing-is-Bright.jpeg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business Edge",
+        "domain": "itbusinessedge.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-10-ai-predictions-for-2022.md",
       "title": "10 AI Predictions For 2022",
       "excerpt": "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence.",
@@ -1371,59 +1414,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
-      "title": "Live transcriptions of F1 races using Amazon Transcribe",
-      "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T12:08:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

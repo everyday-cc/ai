@@ -105,6 +105,20 @@ related:
         width: 400
         height: 510
         isCached: true
+  - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
+    excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
+    publishedDateTime: 2022-01-04T17:08:00Z
+    webUrl: "https://www.designboom.com/technology/beomni-1-0-robot-ces-01-04-2022/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 35
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
+        width: 1720
+        height: 900
+        isCached: true
   - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
     excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
     publishedDateTime: 2022-01-06T05:12:00Z
@@ -120,6 +134,6 @@ related:
         height: 432
         isCached: true
 
-secured: "sGQ4TV7Tti9ViyjFEc7GrEi/e8PRoLrflpm5PvtkjY8jGHavRu09YXagzij8z/Hnu/0/71SRhdh76yCefU5RUGWdHTcLbnKrQdLPFO9gkMVKcdEWKloIntwdf6saSweDuRyv6yAZkxMGN7B9wPxM9pr4ajK7utXCMnas4XGNA3r7FzAbsQCkgfNIH3ir7xJUlC+a8RUX2Smiyl9fJ1JiZ/ggXEQwUY3yAXiqI0wNo/ebe48qvThmGQktIWWrbgRGtwdyaOxYq28R0JuA/npkxlepwCY/4o9L/2izIDjPcHMnS9YiC3+b+t0O0e0WyTiIFGBVc4pHufPDltqNsHsCSuZGsNhXFRGe697DY9A3dJI=;WG2AFij4dMC7shY0ymVVlg=="
+secured: "pQOjJZTnmQie6KsDY6W4SZtqkCZwjtA2l+YFtKvk9r3yTniK7PRx8Vox0qPeTf8z7yLlEJ6AYF5+A0BYcCIChtHsk1tuYMbQRkbB0kEHPh0AzV0j4Wn+g4F3TaWKvOjSSfV76QahDzMbEUthiaBYdUC5qkO82kqFRsdJiy1AvMCMmg7Q+DKyj/XLcdg3Saiu06yFZGpyO1CCGPquH7jC7unsjSSIxlMJVZBCR6SGqcuvmAubBrNEkhFiJd8NTRkQnVTlXaztz0pihupM+Q8AmrE9VngT7VBVM9PWMS1VlxSmGZ+071jRCe6oErxTSL1e2wfcIklk4wxD36UWcFd6S8f6j4Q0Gpza/P3LPQWuu/JpW6Rpic6rHPmO4dKAidU1gCYvuGGrnHxPtcruAtnuispYshXnBgULfKk8m2EOFhzxWOSW/f5MezHqHHwL4fLDIIoFae+iZeyL1x9eHaQAblNyrhihRm4EVqYJlD00CA51+rtYblKTe/t2Y+PpYe+mzAzJd7G3djvpgfRcNwVW8w==;tqYHbcgN6lECCE3yfQDTig=="
 ---
 

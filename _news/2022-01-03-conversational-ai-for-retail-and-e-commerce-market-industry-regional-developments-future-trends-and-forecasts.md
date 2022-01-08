@@ -40,22 +40,6 @@ related:
         width: 790
         height: 466
         isCached: true
-  - title: "Artificial Intelligence in Building Market: Industry Regional Developments, Future Trends and Forecasts"
-    excerpt: "DeepResearchReports has uploaded a latest report on Artificial Intelligence in Building Industry from its research database Artificial Intelligence in Building Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence in Building Market currently"
-    publishedDateTime: 2022-01-03T10:58:00Z
-    webUrl: "https://www.openpr.com/news/2515621/artificial-intelligence-in-building-market-industry-regional"
-    ampWebUrl: "https://www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515621/artificial-intelligence-in-building-market-industry-regional"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 41
-    images:
-      - url: "https://cdn.openpr.com/V/1/V103998692_g.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Global Legal Software Market Report 2021 with Focus on Machine Learning - ResearchAndMarkets.com"
     excerpt: "Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global legal software (focus on machine learning) market is expected to grow from $0."
     publishedDateTime: 2022-01-05T17:28:00Z

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-07-has-your-marketing-org-started-its-ai-journey-yet.md",
+      "title": "Has Your Marketing Org Started Its AI Journey Yet?",
+      "excerpt": "AI can enable brands to personalize experience and offers in unprecedented ways, but most marketers are sticking to the same playbook they’ve been using for decades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/07/has-your-marketing-org-started-its-ai-journey-yet/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/07/has-your-marketing-org-started-its-ai-journey-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b0466f55001b6d12b2c8a%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/07/has-your-marketing-org-started-its-ai-journey-yet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/07/has-your-marketing-org-started-its-ai-journey-yet/amp/",
+      "publishedDateTime": "2022-01-07T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement.md",
+      "title": "AI and machine learning adoption is the future of security and law enforcement",
+      "excerpt": "Video analytics based on AI/ML algorithms are gaining popularity with time and are soon expected to become a requisite for all law enforcement departments and public places to optimise safety",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "originalUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Jan/img_175481_cctv.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
+      "publishedDateTime": "2022-01-07T02:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority.md",
       "title": "As Dubai Moves on AI Track, Tackling Ethical Risk Becomes Top Priority",
       "excerpt": "Data has emerged as the new oil for economic growth. This is especially so in the case of the UAE which is fast evolving into a knowledge-based economy with Dubai as the fountainhead of in - Mediawire",
@@ -232,7 +328,7 @@
       "originalUrl": "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -263,48 +359,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ust-launches-ai-solution-for-hyperpersonalized-wine-beer-and-food-shopping.md",
-      "title": "UST Launches AI Solution for Hyperpersonalized Wine, Beer and Food Shopping",
-      "excerpt": "Digital transformation solutions company UST, has officially launched UST AiSense, which provides personalized food and beverage recommendations using sensory science. The deployable digital technology AI-led solution powered by Tastry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.winsightgrocerybusiness.com/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
-      "originalUrl": "https://www.winsightgrocerybusiness.com/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.winsightmedia.com/platform/files/public/2022-01/background/400x600/Aisenseedit.jpg?VersionId=UEoY_EToLBfZIgtxoekaBEtGMCS4VD6u",
-          "width": 400,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
-      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
-      "publishedDateTime": "2022-01-06T13:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Winsight Grocery Business",
-        "domain": "winsightgrocerybusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -780,6 +834,57 @@
       ]
     },
     {
+      "path": "_news/2022-01-06-deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks.md",
+      "title": "DeepBrain AI grasps attention at CES 2022 with its AI Human imbedded AI Kiosks.",
+      "excerpt": "DeepBrain AI is showcasing its AI Human imbedded \"AI Kiosks\" from January 5 th to January 7 th at CES 2022 held in Las Vegas Convention Center, along with its CES 2022 Innovation Awards honoree SaaS solution \"AI Studios\".",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks-1031081210",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks-1031081210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1721218/DeepBrain_AI_demonstrating_AI_Kiosks_visitors_industries_booth.jpg",
+          "width": 400,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-how-abigail-annkah-is-using-ai-to-improve-maps-in-africa.md",
       "title": "How Abigail Annkah is using AI to improve maps in Africa",
       "excerpt": "As a university student, Abigail Annkah fell in love with mathematics, which soon led to her interest in artificial intelligence. After graduating from the African Institute for Mathematical Sciences, Abigail made it through the competitive process to become an AI resident at Google Research, Accra.",
@@ -1039,7 +1144,7 @@
       "originalUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 213,
       "tags": null,
       "images": [
         {
@@ -1072,93 +1177,6 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-chinese-scientists-build-factory-robot-that-can-read-minds.md",
-      "title": "Chinese scientists build factory robot that can read minds",
-      "excerpt": "Researchers in China say they have developed an industrial robot that can read a human co-worker’s mind with 96 per cent accuracy.The robot not only monitored the worker’s brain waves, but also collected electric signals from muscles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds",
-      "originalUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/9a25a14b-7d84-4317-888e-fbcad66d54b5_d05c091f.jpg?itok=uu4W3u9u",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp",
-      "publishedDateTime": "2022-01-05T17:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology.md",
-      "title": "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology",
-      "excerpt": "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T16:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

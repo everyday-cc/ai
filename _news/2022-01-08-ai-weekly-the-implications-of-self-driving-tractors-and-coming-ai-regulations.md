@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/07/ai-weekly-the-implications-of-self-d
 ampWebUrl: "https://venturebeat.com/2022/01/07/ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations/amp/"
 type: article
-quality: 85
-heat: 105
+quality: 87
+heat: 107
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1311757065.jpg?w=1200&strip=all"
@@ -60,6 +61,6 @@ related:
         height: 633
         isCached: true
 
-secured: "Lmm14YnHNsOfQacs+YEQeTpr3LDeMbpkYJWclDBKIiX0y+pQs8r2SW07KZxRxQKWfULmumYlyw80B7V7hcPdh2lmndCEp25TZb8H8LQC+tBX0AjyNc9qKKxAUUv12XiISLYagBnu4vuWC21sewvveFxB1nk0/mT1T4ZNSbtAvmvrSDvrDULDyL2Oly5opC5w6sS7rgM1JkBG+e4NrGXCJJY8fzkd6EYzEEUpxpvqhGf1LXvJSLzjbfEhvtI24rp+U+XfgkpnZtHuFbn2fKJa9q5lpd6r9SRf3nbuvDPlF/UMKzpT+NtCxBL5cY4km77od1d0uC2zUeKI8GeBOG11uN/+zALNTrNo/EtKevX/BaU=;f8PqdAYdHWXvKFrBOxo6gQ=="
+secured: "S0VpjaAM6RUyVW3VzvtHBZIF1Yg99KKuRuWfaWGyHcB5RPSM4JKVtZF9U+5JpMBDHX14bJ+maFuIXeLIPBW0fBcJcN1+wpztJW90u+R/Jy0hdKDaRooh9MW8G/yfYVEzTLtCCLVT5c13JAtngeU6faTD6MfJMY8gqEF43c+CagFtJqWr2CBZVh+mt4DfAUWqeDbv5enf98rApKUMyiootM8MtKI2cEcrwcj1dqZPlaMXoyJUwaYPzFlCqN+rN/V8QG2G2EaqaC6sRee8b9eC11GHo0euPjC+IOQsURr67Y/Iq/9LELaH4UrjPKEwRE8K9suLYPVZ5BMf1ZOnUK4og+7i2LxhldBsUiUiDgg59ox76c0l2Z3++C/RYinitPazwMW6h4RWjquldZEg8RWLAGpFvmYSm4gyDq3eIzW3SsWw6qCnGRe6Zaqw36ilTlFLaiIy194G43qPSs3j8fEzdxssEwZRfMNPgg+zQmO0ijVKeGo0oefHx0Kjjc5YlApDlBGxzWEdBuGvHunBhGJiqQ==;EP33Io9s8K92rigGxAhgvA=="
 ---
 

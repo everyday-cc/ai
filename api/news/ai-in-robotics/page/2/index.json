@@ -2,6 +2,85 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-29-worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-opportunities.md",
+      "title": "Worldwide Military Robots Industry to 2026 - Integration With Artificial Intelligence Presents Opportunities",
+      "excerpt": "The \"Military Robots Market Research Report by Type, Operation, and Region - Global Forecast to 2026 - Cumulative Impact of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24811209/worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-oppor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24811209",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24811209",
+      "publishedDateTime": "2021-12-29T04:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-role-of-ai-and-machine-learning-across-different-sectors-in-2021.md",
+      "title": "Role of AI and Machine Learning across Different Sectors in 2021",
+      "excerpt": "Technology is playing a vital role in every sector to make the nation technologically equipped and capable. Here are a few business leaders sharing their thoughts on how their companies are",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/29/1138517-ai.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/role-of-ai-and-machine-learning-across-different-sectors-in-2021-722183",
+      "publishedDateTime": "2021-12-29T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
       "title": "India's Airtel, TCS tap robotics to build 5G-based units",
       "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
@@ -1217,92 +1296,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders.md",
-      "title": "Island’s inclusion with Institute of Technology will bring robotics and AI opportunities for young Islanders",
-      "excerpt": "Teemill and The  College are partnering with the new Institute of Technology being created in the Solent area, bringing with it opportunities for young people",
-      "sourceUrl": null,
-      "webUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
-      "originalUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onthewight.com/wp-content/2021/12/man-doing-robotic-work-by-ThisisEngineering-RAEng-1024x714.jpg",
-          "width": 1024,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
-      "cdnAmpWebUrl": "https://onthewight-com.cdn.ampproject.org/c/s/onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
-      "publishedDateTime": "2021-12-19T23:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News OnTheWight Isle of Wight News",
-        "domain": "onthewight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan.md",
-      "title": "Robotics & AI will transform many sectors: Governor Tamilisai Soundararajan",
-      "excerpt": "Hyderabad: Governor Dr Tamilisai Soundararajan on Saturday said that robotics and the artificial intelligence will bring in transformational changes in many sectors like defence and healthcare etc., She stated that innovations in robotics have an immense potential to benefit our country and it is high time that we strive to be leaders in the emerging fields like Robotics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
-      "originalUrl": "https://www.thehansindia.com/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/12/18/1136384-tamilisai-soundararajan.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/news/cities/hyderabad/robotics-ai-will-transform-many-sectors-governor-tamilisai-soundararajan-720547",
-      "publishedDateTime": "2021-12-18T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

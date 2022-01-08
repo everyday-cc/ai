@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labour shortages, climate change and environmental protection, while trying to feed a growing world population."
+    publishedDateTime: 2022-01-08T02:26:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 59
+    images:
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-01/20220108_CES_ROBOT_TRACTOR_01-seo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robot tractors and autonomous tools may be heading to a farm near you"
     excerpt: "By Patrick Fallon with Juliette Michel LAS VEGAS, United States—Driverless plows and autonomous tools to weed vegetable plots are the"
     publishedDateTime: 2022-01-06T04:03:00Z
@@ -64,6 +80,6 @@ related:
       domain: courthousenews.com
     quality: 19
 
-secured: "8dS/rwp8K9gIzg/xz2FrS7m0K3NUL90xKqfXULT52xwemiTT5JBtA3GBYFxwS68MyhoSLgEqVHVy4ygKtuLBBWND7JjEd2LqkquZr4nmiaexfFsFt4fiX8Puy7pMLGmz8bmnKPfDrhkWj23QMTAFrPgRojVnCeFBuDmFFArutzAfcxBRKna/koSt4vq0zqZeRxZ541mJHT9fqrVzsrm8qnqRkoZmSdHxv5REUulMP92Cr8Rclae8IbvefplhiFSIXm9AB1VWm8QjK5JGzw/h/PeiroGrUxdjpBHw8ETpL48ByVqRe158Wr1BdBqTWPVGWjUBEd+OqS5uCsKVd/mXgVkc2e3UNFzq6/iCj70jOQw=;4J1x4JrfTUyWkpae77PoJQ=="
+secured: "ymfEO5/eO67GTiwVFCBpns4hrUGYwhtATp4+H4xC9T0h3u2+YNg1OSxDNYk591Jth/6/CEKSSWpIzuYKIwciynuNt/oYu7FPwyY+qU+iS/DfsTZXU7QTpX2ycGy0zFDxDKDW4G3XUbhQAIgOEUrVMPz024h4JVW47U6YWJuvd5EE6hvawCzAZOd8Azow5oRH+hy26EKJn0alf5EwmmqUEQiWe4Apmt+IrRK+GSQNNJ06NhzdYW2IzbpV8otSLl3ltHVLwgMqs/Hbq3OV+sgC2gIjJBfpVCBiv+hg2KASNQcDOV/eNpmlViHFB9dTqbfExob5tNu4DoOK0IDOoN63CYD/AAnM8PlR5Ii8DXeoci0=;0AWey8cC9UUGR2WawS1FGg=="
 ---
 

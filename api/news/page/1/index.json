@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-08-robot-tractors-may-be-heading-to-a-farm-near-you.md",
+      "title": "Robot tractors may be heading to a farm near you",
+      "excerpt": "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labour shortages, climate change and environmental protection, while trying to feed a growing world population.",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756",
+      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-01/20220108_CES_ROBOT_TRACTOR_01-seo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756",
+      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756",
+      "publishedDateTime": "2022-01-07T18:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "malaymail",
+        "domain": "malaymail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations.md",
       "title": "AI Weekly: The implications of self-driving tractors and coming AI regulations",
       "excerpt": "AI regulations are on the way from governments including China. Plus, driverless tractors have reached the market -- with caveats.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/07/ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -50,7 +93,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -485,6 +529,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-08-meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips.md",
+      "title": "Meta claims its AI improves speech recognition quality by reading lips",
+      "excerpt": "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Meta (formerly Facebook) claims its new AI system, AV-HuBERT, can improve speech recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips-10905236",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips-10905236",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-csa-guidance-addresses-security-privacy-risks-of-ai-in-healthcare.md",
       "title": "CSA Guidance Addresses Security, Privacy Risks of AI in Healthcare",
       "excerpt": "Although many experts forecast a promising future for AI in healthcare, security and privacy risks must be considered alongside benefits.",
@@ -781,7 +868,7 @@
       "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -970,7 +1057,7 @@
       "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-lifestyle-weather-9e3472f9b0d14e0d1ba48cfa3a2147cc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1107,102 +1194,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-has-your-marketing-org-started-its-ai-journey-yet.md",
-      "title": "Has Your Marketing Org Started Its AI Journey Yet?",
-      "excerpt": "AI can enable brands to personalize experience and offers in unprecedented ways, but most marketers are sticking to the same playbook they’ve been using for decades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/07/has-your-marketing-org-started-its-ai-journey-yet/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/07/has-your-marketing-org-started-its-ai-journey-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F608b0466f55001b6d12b2c8a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/07/has-your-marketing-org-started-its-ai-journey-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/07/has-your-marketing-org-started-its-ai-journey-yet/amp/",
-      "publishedDateTime": "2022-01-07T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement.md",
-      "title": "AI and machine learning adoption is the future of security and law enforcement",
-      "excerpt": "Video analytics based on AI/ML algorithms are gaining popularity with time and are soon expected to become a requisite for all law enforcement departments and public places to optimise safety",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
-      "originalUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Jan/img_175481_cctv.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
-      "publishedDateTime": "2022-01-07T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

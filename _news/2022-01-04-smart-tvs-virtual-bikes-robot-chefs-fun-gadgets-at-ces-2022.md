@@ -101,6 +101,20 @@ related:
         width: 400
         height: 510
         isCached: true
+  - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
+    excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
+    publishedDateTime: 2022-01-04T17:08:00Z
+    webUrl: "https://www.designboom.com/technology/beomni-1-0-robot-ces-01-04-2022/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 35
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
+        width: 1720
+        height: 900
+        isCached: true
   - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
     excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
     publishedDateTime: 2022-01-06T05:12:00Z

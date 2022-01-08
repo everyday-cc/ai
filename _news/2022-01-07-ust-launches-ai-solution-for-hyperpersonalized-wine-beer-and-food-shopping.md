@@ -9,8 +9,8 @@ ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-a
 cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Winsight Grocery Business
@@ -39,20 +39,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1422658/UST_Logo.jpg"
         width: 387
         height: 400
-        isCached: true
-  - title: "HEAL Software Launches Artificial Intelligence for IT Operations Solution"
-    excerpt: "HEAL Software Inc., provider of an AIOps preventive healing space, is introducing a new enterprise-grade, cloud-based Software-as-a-Service (SaaS) offering for its flagship HEAL product. HEAL is an artificial intelligence for IT operations (AIOps) software that enables IT teams to find and fix problems before they happen."
-    publishedDateTime: 2022-01-06T19:50:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/HEAL-Software-Launches-Artificial-Intelligence-for-IT-Operations-Solution-150825.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 36
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "t0mnhnTp3hfsYYW/3zBpzFopKFjndFx5rxNqqrwX2a/2ujXVtefR+/Mt9TsVCRAK/AqL5hekeOWegm925uuEIGOs87c37pP9bRUuUNJbEQlZNil7KHLEMH8DEM+oWPyftk84lAkcj0qPTbOj2EvPMLdNSS22p7nVxDBvSEmhjJjaUdMxmIV9mf6eki5X37QC4LJswL2TWC6pnxOAdedX9ZttGu+gnQUb+mQHJUUbkxc4jCb/EoEWsQeUFvo1jziTIDPHVsxsOxvjPgNdYCtCbeh6ZCoZoTdYnLYYSh/0EQ0XnxgZ5m7iqJbiI0GQM3Kcj0qzIExKYX5vZjNJK6Pwd0GUGQLCQIV5zbLlEMRnNxA=;Ilsubr150FlTMJ6jZZ62ng=="

@@ -25,193 +25,109 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2022: Deepbrain humanises AI avatars"
-    excerpt: "DeepBrain AI’s industry-first approach to “humanising” AI assistants provides users with an experience that is familiar, enlightening and approachable. Its video synthesis solutions, a CES 2022 Innovation Awards Winner,"
-    publishedDateTime: 2022-01-03T09:35:00Z
-    webUrl: "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/"
+  - title: "The best robot vacuums of CES 2022"
+    excerpt: "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with."
+    publishedDateTime: 2022-01-07T15:06:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/"
+    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
     type: article
     provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 137
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 91
     images:
-      - url: "https://i1.wp.com/gadget.co.za/wp-content/uploads/2022/01/All_AI_Influencer_AI_Bank_teller_AI_doctors_utilized_AI.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "CES 2022: AI is driving innovation in ‘smart’ tech"
-    excerpt: "At CES 2022, a slew of smart tech innovations driven by AI and aimed at improving lives and businesses, are being unveiled publicly."
-    publishedDateTime: 2022-01-05T15:59:00Z
-    webUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/"
-    ampWebUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1322183741.jpg?fit=800%2C533&strip=all"
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg"
         width: 800
-        height: 533
+        height: 450
         isCached: true
-  - title: "CES 2022: Bosch tests deep audio AI developed on the ISS to detect asthma"
-    excerpt: "Doctors will use a high-resolution microphone to record children as they speak and breathe to look for breathing problems."
-    publishedDateTime: 2022-01-05T17:15:00Z
-    webUrl: "https://www.techrepublic.com/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/"
+  - title: "CES 2022: Roborock S7 MaxV Ultra Solves The Biggest Problem With Robot Mops"
+    excerpt: "Roborock has finally announced their latest robovac/mop and I couldn't be more excited. As much as I loved the Roborock S7 last year for its improved mopping capabilities and dock compatibility, it lacked the AI obstacle recognition of the S6 MaxV."
+    publishedDateTime: 2022-01-04T20:47:00Z
+    webUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/"
+    ampWebUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 86
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2022/01/05/71827816-518b-472c-af88-edd717df8b36/resize/1200x/a155db81a2a1570f394412fb32f2f529/370a4810.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d4be73f7c34d285255465d%2F0x0.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "DeepBrain AI grasps attention at CES 2022 with its AI Human imbedded AI Kiosks."
-    excerpt: "DeepBrain AI is showcasing its AI Human imbedded \"AI Kiosks\" from January 5 th to January 7 th at CES 2022 held in Las Vegas Convention Center, along with its CES 2022 Innovation Awards honoree SaaS solution \"AI Studios\"."
-    publishedDateTime: 2022-01-06T12:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks-1031081210"
+  - title: "The AI-Powered Enterprise Tools Presented at CES 2022"
+    excerpt: "Highlights from Las Vegas include AI-powered chips, robots and tractors."
+    publishedDateTime: 2022-01-07T22:31:00Z
+    webUrl: "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1721218/DeepBrain_AI_demonstrating_AI_Kiosks_visitors_industries_booth.jpg"
-        width: 400
-        height: 299
-        isCached: true
-  - title: "CES 2022: GoVoBo Promises Tech Breakthrough For Deaf And Hard-Of-Hearing Users"
-    excerpt: "Developed in a partnership between Gallaudet University and AppTek, GoVoBo will make its debut at CES 2022 as the first universal automatic captioning and translation application designed for the deaf and hard-of-hearing communities."
-    publishedDateTime: 2022-01-06T03:00:00Z
-    webUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200"
-    ampWebUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 40
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/04/badge-gallaudet-university-apptekphoto.png"
-        width: 900
-        height: 472
-        isCached: true
-  - title: "CES 2022: LG unveils new robot and car concepts"
-    excerpt: "The world's largest consumer appliance manufacturer is showcasing a science fiction vision of an enhanced lifestyle for all, writes ARTHUR GOLDSTUCK"
-    publishedDateTime: 2022-01-04T07:00:00Z
-    webUrl: "https://gadget.co.za/ces-2022-lg-unveils-new-robot-and-car-concepts/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/lg-ces-2021.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "CES 2022: How radar and computer vision can help smart cities"
-    excerpt: "When designing its radar and computer vision-based internet of things (IoT) artificial intelligence platform, connected spaces startup Ulisse kept this in mind. The company has unveiled at this week’s CES 2022 a new analytics system designed for retailers,"
-    publishedDateTime: 2022-01-05T14:14:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17604/ces-2022-how-radar-and-computer-vision-can-help-smart-cities"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/604/17604/ulisse_MAIN.jpg"
-        width: 752
-        height: 735
-        isCached: true
-  - title: "CES 2022: There’s a new robot dog in town"
-    excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
-    publishedDateTime: 2022-01-07T14:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17625/ces-2022-there-s-a-new-robot-dog-in-town"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/625/17625/Jueying_Lite2_on_2022_CES.jpg"
-        width: 752
-        height: 552
-        isCached: true
-  - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
-    excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
-    publishedDateTime: 2022-01-04T02:02:00Z
-    webUrl: "https://www.digitimes.com/news/a20220104PD202.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220104PD202_files/6_2b.jpg"
+      - url: "https://images.wsj.net/im-464264/social"
         width: 1280
-        height: 853
+        height: 640
         isCached: true
-  - title: "CES 2022: FaceHeart Corp. Launches Visual Recognition AI Tech to Measure Vital Signs"
-    excerpt: "FaceHeart Corporation (  a tech-based provider of healthcare solutions, today announced the launch of its proprietary AI technology, capable of granting seamless access to vital sign measurement using existing consumer devices."
-    publishedDateTime: 2022-01-04T17:37:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-96c9a7885556c84c44c4c0a14388cc76"
+  - title: "Smart TVs, virtual bikes, robot chefs: Fun gadgets at CES 2022"
+    excerpt: "New TVs, VR headsets and home health tech highlight growing popularity of home entertainment systems amid pandemic."
+    publishedDateTime: 2022-01-04T15:46:00Z
+    webUrl: "https://www.cbsnews.com/news/ces-gadgets-tv-metaverse-smart-home/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/ces-gadgets-tv-metaverse-smart-home/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/ces-gadgets-tv-metaverse-smart-home/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2022/01/04/73aec007-da9c-4116-9abb-05d8627b24cf/thumbnail/1200x630/5b7b85fb6d83ca7204d0f2986cff8269/lg-virtual-ride.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
+    excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
+    publishedDateTime: 2022-01-06T16:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-lifestyle-business-travel-robotics-67dee87015347605abe336102b739cc2"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 32
+    quality: 54
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
-  - title: "DeepBrain AI demonstrates AI capabilities with rendering of presidential candidate"
-    excerpt: "SAN MATEO, Calif., Jan. 5, 2022 // -- \"Artificial Intelligence (AI) Yoon Suk-yeol,\" created with DeepBrain AI's AI Human solution, has appeared at the inauguration ceremony of the People's Power Party Central Election Countermeasures Committee held at the Olympic Gymnastics Stadium in Songpa-gu,"
-    publishedDateTime: 2022-01-06T06:10:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=595835"
+  - title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
+    excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,"
+    publishedDateTime: 2022-01-04T11:13:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 31
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 39
     images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
+        width: 400
+        height: 510
         isCached: true
-  - title: "CES 2022: Typewise’s AI Text Prediction Solution Closes Gap On What Users Think, About To Type"
-    excerpt: "The Swiss deep tech company, Typewise, will launch its latest technology – the AI text prediction solution, along with a new usser-friendly keyboard - at the Consumer Electronics Show in Las Vegas."
-    publishedDateTime: 2022-01-05T11:10:00Z
-    webUrl: "https://www.ibtimes.com/ces-2022-typewises-ai-text-prediction-solution-closes-gap-what-users-think-about-type-3361890"
+  - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
+    excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
+    publishedDateTime: 2022-01-06T05:12:00Z
+    webUrl: "https://www.channelnews.com.au/ces-2022-ecovacs-deebot-x1-robo-vac-cleans-house-and-self/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 25
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/30/typewiseimage.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
-  - title: "CES 2022: Best concept and self-driving cars from the show"
-    excerpt: "Concept vehicles are a staple of CES 2022 and while this year’s show suffered from a lack of attendees due to COVID-19, the concept vehicles and latest self-driving cars still made grand appearances."
-    publishedDateTime: 2022-01-07T13:55:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17626/ces-2022-best-concept-and-self-driving-cars-from-the-show"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
+      name: ChannelNews Australia
+      domain: channelnews.com.au
     quality: 24
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/626/17626/Caddy_interior_MAIN.jpg"
-        width: 752
-        height: 501
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/01/Vac1.jpg"
+        width: 768
+        height: 432
         isCached: true
 
 secured: "s8Wnp8ymfwsSEufcqkaj6w1ys3s8gWopOL/g7reCW6zQ9CNK3rfSV+yfieHv8mPXKJ/xw5FNhEKkkcX0ltSgdDUKZlvkhTdcn9t/pqsFCV6g2vm5MWLDew4UeoDy3JRd6Fk5ek9NYMiRHbP+BCRXSCgczU8jVLVKpCEhsSssAkt1OMUp+qZbRUsyE5g4G5LBfn6HS/oUIjygBGDAFOl1mw4xk8No9dDou+xGMVA/+wYQ0I2tIB/a9QBrlOZ4zRzvIltnmX9lfZ+Em7QTP3tLfVUQIS4GTepSlVVTwZhYzhg+ENcVpUq1xmpGKcQBO1b5uXh32H13nRx4Rpi9Ul2iajqlpue/9/3iOjJKCzBY21aSQv67g00Jtu3JX+4JU+rXqxE92FXtueP3tThU4aSGHUAdW+YXyDzZiKVRuRQKKmiXaRP/euFt7nliRrAx/tQVU9DPwsRlRms6/XNBkkTvwu36tcp/SFjj5UvMV870z9jTD7mt0YbgugStNXxHwQi7d+/9k/kpt32k1bHx3ZA8KA==;sVWlMvkkXQl9xLgXyU72pA=="

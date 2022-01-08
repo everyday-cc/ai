@@ -24,36 +24,108 @@ images:
     isCached: true
 
 related:
-  - title: "UST Launches AI Solution for Hyperpersonalized Wine, Beer and Food Shopping"
-    excerpt: "Digital transformation solutions company UST, has officially launched UST AiSense, which provides personalized food and beverage recommendations using sensory science. The deployable digital technology AI-led solution powered by Tastry,"
-    publishedDateTime: 2022-01-06T21:26:00Z
-    webUrl: "https://www.winsightgrocerybusiness.com/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
-    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
-    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
-    type: article
-    provider:
-      name: Winsight Grocery Business
-      domain: winsightgrocerybusiness.com
-    quality: 55
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2022-01/background/400x600/Aisenseedit.jpg?VersionId=UEoY_EToLBfZIgtxoekaBEtGMCS4VD6u"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
-    excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."
-    publishedDateTime: 2022-01-06T14:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ust-launches-ust-aisense-an-ai-led-sensory-solution-that-makes-hyper-personalized-shopping-recommendations-for-wine-beer-and-food-1031081739"
+  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
+    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
+    publishedDateTime: 2022-01-03T15:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 36
+    quality: 69
     images:
-      - url: "https://mma.prnewswire.com/media/1422658/UST_Logo.jpg"
-        width: 387
-        height: 400
+      - url: "https://mma.prnewswire.com/media/1718193/avalanche.jpg"
+        width: 400
+        height: 225
         isCached: true
+  - title: "AI Technology Company, Hello Llama Debuts at CES"
+    excerpt: "Hello Llama, an Atlanta-based AI technology company, launches globally today with the release of Llama Vision - the Advanced Driver-Assistance Systems (ADAS) for Light Electric Vehicles (LEVs). This technology creates a safer environment for riders and communities,"
+    publishedDateTime: 2022-01-06T18:45:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-atlanta-artificial-intelligence-consumer-electronics-show-8961bfbaf9e30bfdb234b90b023fb92d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022'"
+    excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
+    publishedDateTime: 2022-01-04T09:48:00Z
+    webUrl: "https://menafn.com/1103480867/Avalanche-Computing-Launches-Revolutionary-Low-Code-AI-Tool-at-CES-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/03/PN_3bc7772a-0_Image_In_Body.jpg"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "Hummingbirds AI launches new biometrics platform to secure employee data at CES 2022"
+    excerpt: "Hummingbirds AI announces a new artificial intelligence-based biometrics platform designed to make employees’ computers more secure."
+    publishedDateTime: 2022-01-05T22:16:00Z
+    webUrl: "https://www.biometricupdate.com/202201/hummingbirds-ai-launches-new-biometrics-platform-to-secure-employee-data-at-ces-2022"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 30
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/05171458/laptop-privacy-enterprise-scaled.jpg"
+        width: 2048
+        height: 1366
+        isCached: true
+  - title: "CES 2022: Typewise’s AI Text Prediction Solution Closes Gap On What Users Think, About To Type"
+    excerpt: "The Swiss deep tech company, Typewise, will launch its latest technology – the AI text prediction solution, along with a new usser-friendly keyboard - at the Consumer Electronics Show in Las Vegas."
+    publishedDateTime: 2022-01-05T11:10:00Z
+    webUrl: "https://www.ibtimes.com/ces-2022-typewises-ai-text-prediction-solution-closes-gap-what-users-think-about-type-3361890"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 25
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/30/typewiseimage.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
+    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
+    publishedDateTime: 2022-01-03T14:02:00Z
+    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "AI Technology Company, Hello Llama Debuts at CES"
+    excerpt: "Hello Llama, an Atlanta-based AI technology company, launches globally today with the release of Llama Vision - the Advanced Driver-Assistance Systems (ADAS) for Light Electric Vehicles (LEVs). This technology creates a safer environment for riders and communities,"
+    publishedDateTime: 2022-01-06T12:44:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220106cg23925/ai-technology-company-hello-llama-debuts-at-ces"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
+  - title: "MicroAI Demonstrates Edge-Native AI at CES"
+    excerpt: "MicroAI™, the pioneer in edge-native artificial intelligence (AI) and machine learning (ML) software, announces that it will be demon"
+    publishedDateTime: 2022-01-06T00:05:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220105005941/en/MicroAI-Demonstrates-Edge-Native-AI-at-CES"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 17
 
 secured: "CYo+mXDiHL0PM2Z0v5XMBBeqZuMgX0KsY3ztVYFDBCICV0kPEPGpyv8CWBiSx/o9VKdzH/MWG8huj+QORuKeQT9VF2+GuxLiZpTmfUVGZkQhp/HS8o9BDUqLUNKWq7GnLX4F0eHPwWLL0obPeg8TIRi0wtHAmd7USYPGcFmOIoFmzOXCwm0eUl1doCVH4qAZNQP3Y7+paXoSlLZ8GsndAJBgxmX2M+f3s/SktubAgi8CI6JrneAXOhKqlS4Cgy9HeG6lj0RZiOZ8H69BOB+U1HCx9bWcVMH2LRA/7WJa1c64U6HXHsTS3GU6V/QA69CxMGjuI2DMA190X7eFwoF8mhtSJ8ny8Vm0+c91zFpWUrY=;K1e0bOQdoCqE2wa4xnEy+A=="
 ---

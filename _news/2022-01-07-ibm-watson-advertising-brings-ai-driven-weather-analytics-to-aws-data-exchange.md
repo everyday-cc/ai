@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-l
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lifestyle-weather-9e3472f9b0d14e0d1ba48cfa3a2147cc"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/temast-457x305.jpeg"
         width: 457
         height: 305
-        isCached: true
-  - title: "How analytics, AI tools can overlook multiracial patients"
-    excerpt: "Data-driven tools that incorporate race have to figure out how to account for patients who identify with more than one race, as multiracial people—today, 10% of Americans—become a larger segment of the U."
-    publishedDateTime: 2022-01-03T10:01:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/how-analytics-ai-tools-can-overlook-multiracial-patients"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/racial-bias-algorithm%20.png"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "SJWmiESEABmMbjnnBn1sDP8iehLQIORX4CK0fwQA2Fe9VflwcE5PJrQxpi1fU1QUd20i+oDpwF5+N7UIcTa8y0RmX2SYfQ9T86dVkqSuuGUONwDKL1JoJlnsQZUfNhfsUni0ajeoEBcBtuwFdOiH8S4Q1uGM8ia2Yu6A6xyFgHPGIGyabyouWdTbPhyEEFdyGOgXIK9cgXkzmkQQQAjQtQIddHuQ0mXs4muiIBNqHtSok6P1ZtHrFH9zg7QNX+Y79NmGEenh9MKq57cYC6Gpv8evSZm4fAcCWwn+HgI9c4FXIoWYjzqIxKOrabpVe9LFwPMK/dC8wmFja6ce8UjkNzigo8N+/4QF93yjK5rnxT4=;8+a54+GhOAkagaszHyvgnw=="

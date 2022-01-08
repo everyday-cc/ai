@@ -2,6 +2,145 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-12-14-how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid.md",
+      "title": "How AWS machine learning helped United Airlines navigate some unfriendly skies during COVID",
+      "excerpt": "The COVID crisis made the skies decidedly unfriendly for United Airlines, but the carrier’s single cloud AWS commitment has enabled it to use machine learning to drive business outcomes and keep customer satisfaction levels high.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid",
+      "originalUrl": "https://diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2021-12/united-gc29373f4e_640.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-aws-machine-learning-helped-united-airlines-navigate-some-unfriendly-skies-during-covid?amp",
+      "publishedDateTime": "2021-12-14T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-s-korea-to-test-ai-powered-face-recognition-to-track-covid-19-cases.md",
+      "title": "S Korea to test AI-powered face recognition to track COVID-19 cases",
+      "excerpt": "South Korea is planning to soon roll out a pilot project using artificial intelligence, facial recognition and thousands of CCTV cameras to track people infected with COVID-19. Reuters reported that the project is due for launch in January 2022 in Bucheon,",
+      "sourceUrl": null,
+      "webUrl": "https://inshorts.com/en/news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491",
+      "originalUrl": "https://inshorts.com/en/news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2021/12_dec/13_mon/img_1639399210184_127.jpg?",
+          "width": 1080,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inshorts.com/m/en/amp_news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491",
+      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/s-korea-to-test-aipowered-face-recognition-to-track-covid19-cases-1639482387491",
+      "publishedDateTime": "2021-12-14T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inshorts",
+        "domain": "inshorts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-growth-of-global-gpu-as-a-service-market-report-till-2025.md",
+      "title": "Growth of Global GPU as a Service Market Report Till 2025",
+      "excerpt": "GPU as a Service (GPUaaS) market is projected to surpass USD 7 billion by 2025. The growth is attributed to a sudden surge in crypto mining and rapid growth in cloud gaming. The growing number of data centers to provide data storage and predictive analytics using deep learning to enterprises across various sectors,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/growth-of-global-gpu-as-a-service-market-report-till-2025-2021-12-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/growth-of-global-gpu-as-a-service-market-report-till-2025-2021-12-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-drdo-adding-it-artificial-intelligence-robotics-in-tech-warfare-rajnath.md",
       "title": "DRDO adding IT, artificial intelligence, robotics in tech warfare: Rajnath",
       "excerpt": "Defence Minister Rajnath Singh on Tuesday said that the Defence Research and Development Organisation (DRDO) is adding new chapters like information technology (IT), artificial intelligence (AI) and robotics in technological warfare.",
@@ -982,145 +1121,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-the-us-china-technology-arms-race-its-not-a-two-country-race-anymore.md",
-      "title": "The US-China Technology Arms Race. It’s Not A Two-Country Race Anymore.",
-      "excerpt": "The global technology arms race is no longer a race among a few countries, especially the US and China. It's expanded, and includes a large number of countries all vying for competitive advantage. The US — one of the major players — must double down on its technology investment strategy — or lose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "originalUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b23ade927438ad6f8fdd64%2F0x0.jpg",
-          "width": 1200,
-          "height": 795,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
-      "publishedDateTime": "2021-12-13T08:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon.md",
-      "title": "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon",
-      "excerpt": "NEW YORK--(BUSINESS WIRE)--Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine ... leading global financial services firm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20211213005237/en/Morgan-Stanley-and-the-Child-Mind-Institute-Select-Winners-of-“Machine-Learning-for-Good”-Hackathon",
-      "originalUrl": "https://www.businesswire.com/news/home/20211213005237/en/Morgan-Stanley-and-the-Child-Mind-Institute-Select-Winners-of-“Machine-Learning-for-Good”-Hackathon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip.md",
-      "title": "MediaTek’s Flagship Dimensity 9000 SoC Isn’t The Company’s Only Interesting New Chip",
-      "excerpt": "A few weeks ago at its Executive Summit in Laguna Beach, CA, MediaTek announced its first foray into the SoC market: the Dimensity 9000. The company’s first 4nm chip from TSMC features a multitude of flagship-worthy features that make it competitive with what’s already available in the market today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b7767c680a8fce940d569a%2F0x0.jpg",
-          "width": 1200,
-          "height": 915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/13/mediateks-flagship-dimensity-9000-soc-isnt-the-companys-only-interesting-new-chip/amp/",
-      "publishedDateTime": "2021-12-13T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

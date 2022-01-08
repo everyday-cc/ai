@@ -2,6 +2,146 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-12-02-artificial-intelligence-based-spine-modeling-now-available.md",
+      "title": "Artificial Intelligence Based Spine Modeling Now Available",
+      "excerpt": "Based on artificial intelligence (AI) algorithms from IBM’s Watson Health, Ricoh USA, the U.S. arm of the Japanese digital services and information company, has created a remarkable, must-be-seen-to-be-believed,",
+      "sourceUrl": null,
+      "webUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "originalUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ryortho.com/wp-content/uploads/2021/12/ArtificialIntelligence_ROCOH_WEB.jpg",
+          "width": 850,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "cdnAmpWebUrl": "https://ryortho-com.cdn.ampproject.org/c/s/ryortho.com/breaking/artificial-intelligence-based-spine-modeling-now-available/amp/",
+      "publishedDateTime": "2021-12-02T06:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orthopedics This Week",
+        "domain": "ryortho.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-how-machine-learning-aids-new-mathematics-discoveries.md",
+      "title": "How Machine Learning Aids New Mathematics Discoveries",
+      "excerpt": "Computers have long been used to aid mathematicians when it comes to solving long, complex and experimental equations. Additionally, machine learning and AI have also found application in disproving mathematical conjectures and theorems by being able to toil through vast fields of data and spot anomalies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=12638",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=12638",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_12638_16384551289877625.jpg",
+          "width": 2000,
+          "height": 1285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=12638",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=12638",
+      "publishedDateTime": "2021-12-02T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-replai-uses-computer-vision-and-data-analysis-to-figure-out-the-best-video-ads.md",
+      "title": "Replai uses computer vision and data analysis to figure out the best video ads",
+      "excerpt": "Replai automates analysis of video ad effectiveness and it makes recommendations for how to fix details to make ads more engaging.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
+      "originalUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/Replai-Dashboard-3-auto-recommendations.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 596,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/02/replai-automates-analysis-of-video-ad-effectiveness/amp/",
+      "publishedDateTime": "2021-12-02T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-that-radio-dj-you-hear-might-already-be-a-robot.md",
       "title": "That radio DJ you hear might already be a robot",
       "excerpt": "Andy Chanley has been a radio DJ for over 32 years. And now, thanks to artificial intelligence technology, his voice will live on simultaneously in many places.",
@@ -1001,129 +1141,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit.md",
-      "title": "CITIC Press Group, Sina Finance Host Inaugural ESG Global Leaders Summit",
-      "excerpt": "Human society is now in a stage of rapid development amid all manner of uncertainties. On the one hand, state-of-the-art technologies such",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/n24399300/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/n24399300/citic-press-group-sina-finance-host-inaugural-esg-global-leaders-summit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1701078/image.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24399300",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24399300",
-      "publishedDateTime": "2021-12-02T00:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event.md",
-      "title": "Optus deploys 5G standalone on AWS DeepRacer vehicles at e-racing event",
-      "excerpt": "Optus also reports that the AWS DeepRacer is the first autonomous 1/18th scale car specifically developed to help people of all skill levels get hands-on with reinforcement learning, an advanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecompaper.com/news/optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event--1406273",
-      "originalUrl": "https://www.telecompaper.com/news/optus-deploys-5g-standalone-on-aws-deepracer-vehicles-at-e-racing-event--1406273",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T00:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Telecompaper",
-        "domain": "telecompaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-mindtree-stock-surges-after-earning-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization.md",
-      "title": "Mindtree stock surges after earning the Al and Machine Learning on Microsoft Azure Advanced Specialization",
-      "excerpt": "Mindtree has earned the AI and Machine Learning on Microsoft Azure advanced specialization, a validation of a services partner’s deep knowledge, extensive experience and proven success in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/mindtree-stock-surges-after-earning-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120200315_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-sector-information-technology/mindtree-stock-surges-after-earning-the-al-and-machine-learning-on-microsoft-azure-advanced-specialization-121120200315_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/2016-01/20/full/1453262336-5893.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T23:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

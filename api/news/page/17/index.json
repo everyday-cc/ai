@@ -2,6 +2,153 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-12-21-data-hunters-will-be-big-pharmas-next-prey.md",
+      "title": "Data hunters will be Big Pharma’s next prey",
+      "excerpt": "Big Pharma will need to tool up in the data arms race. Drug giants like AstraZeneca are pouring $160 billion a year into unearthing new treatments. Artificial intelligence could provide a shortcut, by helping discover new treatments and getting them to market sooner.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/breakingviews/data-hunters-will-be-big-pharmas-next-prey-2021-12-20/",
+      "originalUrl": "https://www.reuters.com/breakingviews/data-hunters-will-be-big-pharmas-next-prey-2021-12-20/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/4_2o1OYU28UCWef805L8u61FYCA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BSX22HO5WNJ4ZMOPMNCLSEDGHU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T18:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-deepminds-new-ai-with-a-memory-outperforms-algorithms-25-times-its-size.md",
+      "title": "DeepMind’s New AI With a Memory Outperforms Algorithms 25 Times Its Size",
+      "excerpt": "Bigger is better—or at least that’s been the attitude of those designing AI language models in recent years. But now DeepMind is questioning this rationale, and says giving an AI a memory can help it compete with models 25 times its size. When OpenAI ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
+      "originalUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2021/12/DeepMind-language-model-RETRO-AI.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2021/12/20/biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty/?amp=1",
+      "publishedDateTime": "2021-12-20T18:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027.md",
+      "title": "Global Artificial Intelligence in Education Market 2021 Key Drivers and Restraints, Regional Outlook, End-User Applicants by 2027",
+      "excerpt": "Global Artificial Intelligence in Education Market Research Report 2021-2027 features an intrinsic study of the current status of this market and detailed insights and deep research on some of the major and unique aspects of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-education-market-2021-key-drivers-and-restraints-regional-outlook-end-user-applicants-by-2027-2021-12-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T18:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-ai-powered-dental-startup-overjet-raises-425m.md",
       "title": "AI-powered dental startup Overjet raises $42.5M",
       "excerpt": "Of all areas of healthcare, it seems like dental care is one that gets very little attention and disruption, but it's one that desperately needs it: i n 2019, there were almost 74 million people without dental insurance in the US,",
@@ -1004,125 +1151,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-new-theory-of-consciousness-in-humans-animals-and-artificial-intelligence.md",
-      "title": "New theory of consciousness in humans, animals and artificial intelligence",
-      "excerpt": "Two researchers at Ruhr-Universität Bochum (RUB) have come up with a new theory of consciousness. They have long been exploring the nature of consciousness, the question of how and where the brain generates consciousness,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/braincells.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-theory-consciousness-humans-animals-artificial.amp",
-      "publishedDateTime": "2021-12-20T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality.md",
-      "title": "DARPA invests in AI that can translate instruction manuals into augmented reality",
-      "excerpt": "The proposed system would essentially convert existing instructional manuals into a format that could be used by augmented reality systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/",
-      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2021/12/20/darpa-invests-in-ai-that-can-translate-instruction-manuals-into-augmented-reality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.c4isrnet.com/resizer/xH8Kq95cgqgJfe6wJk8N0ahTYOM=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BHHWBFVN6VGGBK6O7M2QZ2MOBE.jpg",
-          "width": 1024,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "C4ISRNET",
-        "domain": "c4isrnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-novel-fau-technology-for-self-driving-cars-earns-second-us-patent.md",
-      "title": "NOVEL FAU TECHNOLOGY FOR SELF-DRIVING CARS EARNS SECOND U.S. PATENT",
-      "excerpt": "BOCA RATON, Fla., Dec. 20, 2021 /PRNewswire/ -- A new technology for autonomous systems for self-driving cars based on machine-learning and artificial intelligence to mimic human driving behavior ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/novel-fau-technology-for-self-driving-cars-earns-second-us-patent-301447785.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

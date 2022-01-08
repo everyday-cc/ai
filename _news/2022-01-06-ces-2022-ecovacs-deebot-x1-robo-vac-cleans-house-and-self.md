@@ -115,6 +115,20 @@ related:
         width: 400
         height: 510
         isCached: true
+  - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
+    excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
+    publishedDateTime: 2022-01-04T17:08:00Z
+    webUrl: "https://www.designboom.com/technology/beomni-1-0-robot-ces-01-04-2022/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 35
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
+        width: 1720
+        height: 900
+        isCached: true
 
 secured: "4t9/QkJv5OJaY8dGyQFlc2FhUm5+O49mhCOibg3Ty8VJmsoaQYZ0bLtX2uF/Hh8pOlSx3UD4+sHBg/422HiXOjUMMVGxp7Qu/omv4vMRk4Fb5BOLy7nqTKB6LwZWHmWF63fne2a1y/uz8Mh2QaR5WWil0johmiC6XobXZ7IrT0Ao3mGpiVZiLihSD9oI8CfoJyvqruXhF3pA8IsGWb/YfAfaf6IDt7lZvV/7o6r70IPvDq/JPTPZ/YrdkQ7YJuA7ZsBhhmpSxoGSN+azgIJfH13AEkH/SnmgtsfaSclFzKWW2IExmq6QWAXGR/2DPANXCd64DCyjfPcZswJ6HDe+9glxxOttx0VybXXCFDPC9xc=;uJxCL1KAkmwYMkbZmjF6FA=="
 ---

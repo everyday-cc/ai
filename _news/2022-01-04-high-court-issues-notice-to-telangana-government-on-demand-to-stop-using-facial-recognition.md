@@ -41,22 +41,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Telangana High Court issues notice to state government on PIL against Facial Recognition Technology"
-    excerpt: "The PIL (drawn with the legal assistance provided by the 'Internet Freedom Foundation') states that Telangana is the most surveilled place in the world."
-    publishedDateTime: 2022-01-03T10:47:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/03/telangana-high-court-issues-notice-to-state-government-on-pil-against-facial-recognition-technology-2402618.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 60
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/12/12/w600X390/JUSTICE.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Telangana HC notice to state, cops for using face recognition tech"
     excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
     publishedDateTime: 2022-01-04T04:33:00Z

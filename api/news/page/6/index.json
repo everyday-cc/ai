@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-03-artificial-intelligence-ai-hardware-market-scenario-strategies-growth-factors-and-forecast-2027.md",
+      "title": "Artificial Intelligence (AI) Hardware Market Scenario, Strategies, Growth Factors and Forecast 2027",
+      "excerpt": "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-scenario-strategies-growth-factors-and-forecast-2027-2022-01-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-scenario-strategies-growth-factors-and-forecast-2027-2022-01-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T06:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-ai-apps-and-platforms-get-real.md",
+      "title": "AI Apps And Platforms Get Real",
+      "excerpt": "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
+      "publishedDateTime": "2022-01-03T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-robo-dogs-and-therapy-bots-artificial-intelligence-goes-cuddly.md",
+      "title": "Robo-dogs and therapy bots: Artificial intelligence goes cuddly",
+      "excerpt": "In Japan mechanical companions are finding their way into the hearts of stressed-out adults, schoolchildren, and patients with PTSD or dementia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "originalUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/01/03/2fe2df27-a54e-457e-8391-a829769c3f6e/thumbnail/1200x630/bdc4a46af1af8eed58d370a42a8e332b/robo-dog.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
+      "publishedDateTime": "2022-01-03T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-honor-watch-gs-3-real-life-images-emerge-comes-with-8-channel-heart-rate-ai-engine.md",
       "title": "Honor Watch GS 3 real-life images emerge, comes with 8-channel heart rate AI engine",
       "excerpt": "Real-life images of the Honor Watch GS 3 have emerged for the first time, comes with 8-channel AI heart rate engine but no wireless charging.",
@@ -61,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1026,143 +1173,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-bow-down-before-this-us310000-massage-mega-robot-human.md",
-      "title": "Bow down before this US$310,000 massage mega-robot, human",
-      "excerpt": "A startup called Massage Robotics is launching its flagship robot at CES: A two-armed, seven-square-foot mega-bot that can understand verbal commands, is powered by a neural network of other robots with which it exchanges data in real time,",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
-      "originalUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/article/b/bow-down-b/bow-down-before-this-310000-massage-mega-robot-human_b6bz.620.jpg",
-          "width": 619,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
-      "publishedDateTime": "2021-12-30T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-crashing-the-self-driving-party-of-tesla-co.md",
-      "title": "Crashing The Self-Driving Party Of Tesla & Co.",
-      "excerpt": "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/",
-      "originalUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce44219eeac3a2a090a845%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2735%26cropY1%3D0%26cropY2%3D1537",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/",
-      "publishedDateTime": "2021-12-30T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-tusimples-autonomous-truck-driving-test-was-an-unqualified-success.md",
-      "title": "TuSimple’s Autonomous Truck Driving Test Was an ‘Unqualified Success’",
-      "excerpt": "Analysts at Morgan Stanley say TuSimple's fully autonomous semi-truck run cements the company's position as 'autonomous leader.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794",
-      "originalUrl": "https://www.barrons.com/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-325875/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tusimple-tsp-autonomous-truck-driving-test-analysts-51640878794",
-      "publishedDateTime": "2021-12-30T14:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
