@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
 type: article
 quality: 59
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana HC notice to state, cops for using face recognition tech"
-    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
-    publishedDateTime: 2022-01-04T04:33:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88680752,imgsize-25546,width-1200,height-628,overlay-etcio/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology"
     excerpt: "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,"
     publishedDateTime: 2022-01-06T06:00:00Z

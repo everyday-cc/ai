@@ -40,18 +40,18 @@ related:
         height: 300
         isCached: true
   - title: "Deep respect for teachers -- a tradition spanning ages"
-    excerpt: "Honoring teachers and their intelligence has always been a tradition in China Since ancient times teachers have been respected by"
-    publishedDateTime: 2022-01-08T16:30:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272130197/deep-respect-for-teachers----a-tradition-spanning-ages"
+    excerpt: "Honoring teachers and their intelligence has always been a tradition in China. Since ancient times, teachers have been respected by people as messengers of wisdom. The famous Chinese idiom, \"Cheng Men Li Xue,"
+    publishedDateTime: 2022-01-08T20:43:00Z
+    webUrl: "https://english.news.cn/20220108/c67355a3915f44ba81cb0a585ee94dea/c.html"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: China
+      domain: news.cn
     quality: 24
     images:
-      - url: "https://cdn.bignewsnetwork.com/cus1641620152124.jpg"
-        width: 630
-        height: 420
+      - url: "https://english.news.cn/20220108/c67355a3915f44ba81cb0a585ee94dea/20220108c67355a3915f44ba81cb0a585ee94dea_820f6ebb-126c-4fb0-8de3-10e0cb382c36.jpg"
+        width: 558
+        height: 1023
         isCached: true
 
 secured: "kBQgmLxjcJoVlJkSxJ24EWKSwDL3Md2QnfWg/hoVHiqVjM5/OEnQn2Q7JRyT1cWiqArARFQlpsXbmMMRcNXfGCTdvTMZrTuR7PSctuBUGRdFQ02igg9xgUxkfPOA6rBqMFhchYQuzaNI+QhkSEOiH8KmgK3o0FxFppd446gWNTRmF+/TLuztvRpRwWNWTPW+a6KSGCCv9VPadkB4gpz1L42VuA2kGy5NdhgYVoJNbmQMCSpeaL1ie76GrgD5eufmnRomMFSbelV9RBQlreY3SiCueUjczxgnfeX0ODleMdKAT23ig3R3vXwAnrq+KpEX+MkQyyh6AZWlLNALt0htHd1kudVi+m/sX/miGyZrJPA=;i3EUMeTfle0JcAYN3sqFVw=="

@@ -3,8 +3,8 @@ category: news
 title: "The first 6G AI Competition has been launched by OPPO"
 excerpt: "OPPO, the world’s leading smart device manufacturers and innovators, officially launched the first 6G AI Competition on December 24, 2021 (Beijing time) on DataFountain (a leading Big Data & AI competition platform)."
 publishedDateTime: 2022-01-07T18:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-7c65eef76bdb28cdcfd1490f595ea024"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-7c65eef76bdb28cdcfd1490f595ea024"
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-7c65eef76bdb28cdcfd1490f595ea024"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-7c65eef76bdb28cdcfd1490f595ea024"
 type: article
 quality: 37
 heat: 37
@@ -23,6 +23,6 @@ images:
     height: 450
     isCached: true
 
-secured: "aiRgC92nWrZhOp+0jhT5/VqvvmUKq4qYfMokIHH09d8u4FlceaHfwIPxUD/gakvh9xQoPLjFvcUUU1OrcpPyOTmvr72GGsqxJZRpYy2wCsX2BSc18+P6aSpkx4GxdIQA58v5pKpulJQISsQ/0BNr6ASuYHKqTWrJnMQHFgj9IydC7wTpFIM3k8cqf/4RpzftdCLCI5E8Qi4d/raZG4XKZn+eGBrxX2Lax/oz+qzZ8FovR/LiVTjVJVv+lO4InxLOeINHL16cpwaDeTtOQiyMGwEozSHZ2z/HD9hVKSHsQooFR17JsVqrlVnhAQHYJG86uzCu+kKHRhBjg4aJz7OMJ21pwYW61bCgwhXN74NHShs=;zQ9hbUmpJ5upP437mRI9Ng=="
+secured: "1fQGaSN4/cJ3XD9kICmEN7+XM1ruypEAv7UZPSS1XkPyZkIE0C/Qd9xgYgskxnfU3y1XSKOj8rfigkrbhFEWhH5RHnMEF3yyriUxAO2ZheeQfsl+agAX3ojYqVMMcXvGVCmnJ4p3+ZPBFkmaK4Gz//N2euaWhXZxU8QQIiNCKcX7/+xdGInG4HQgWujzhgUc8lc2pjg8ePIGRqE/OMAvURuZGvFYO9p9LYg15DbOoGOUD+vVlhGu9weB5Ub9GkrfqsPZN7zkGHICQTsCCyATTUAgrOUolEydyOMp4lbnhO0nEQ8rieHkPFzKPiN+c8Z9+yU5pWzFjMfP9XxlB50RCTjAhjp7vrbA86Z5EXJGEpg=;W7jDLU506cVPIlZDBhYfqA=="
 ---
 

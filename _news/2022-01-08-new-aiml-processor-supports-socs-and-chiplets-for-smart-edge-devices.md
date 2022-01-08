@@ -7,7 +7,7 @@ originalUrl: "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chi
 webUrl: "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

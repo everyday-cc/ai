@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Toyota to launch self-driving-capable operating system, report says"
-excerpt: "The system, which would be capable of handling advanced operations such as autonomous driving, will compete against platforms from VW and Daimler."
-publishedDateTime: 2022-01-04T08:32:00Z
-originalUrl: "https://europe.autonews.com/automakers/toyota-launch-self-driving-capable-operating-system-report-says"
-webUrl: "https://europe.autonews.com/automakers/toyota-launch-self-driving-capable-operating-system-report-says"
+title: "Self-driving race cars zip into history at CES"
+excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Friday (Jan 7) in an unprecedented high-speed ma"
+publishedDateTime: 2022-01-08T20:08:00Z
+originalUrl: "https://www.channelnewsasia.com/sport/ces-las-vegas-self-driving-race-cars-f1-autonomous-2422556"
+webUrl: "https://www.channelnewsasia.com/sport/ces-las-vegas-self-driving-race-cars-f1-autonomous-2422556"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Automotive News
-  domain: autonews.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Toyota%20automated%20behind%20wheel%20web_0.jpg"
-    width: 800
-    height: 600
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--3j1oJ3re--/c_crop%2Ch_432%2Cw_768%2Cx_0%2Cy_0/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:afp_watermark%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/57ce4dbcd6202dfaafaed77f004540d546290a9a.jpg?itok=-jE1swod"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -57,21 +57,21 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Self-driving race cars zip into history at CES"
-    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Friday (Jan 7) in an unprecedented high-speed ma"
-    publishedDateTime: 2022-01-08T20:08:00Z
-    webUrl: "https://www.channelnewsasia.com/sport/ces-las-vegas-self-driving-race-cars-f1-autonomous-2422556"
+  - title: "Toyota to launch self-driving-capable operating system, report says"
+    excerpt: "The system, which would be capable of handling advanced operations such as autonomous driving, will compete against platforms from VW and Daimler."
+    publishedDateTime: 2022-01-04T08:32:00Z
+    webUrl: "https://europe.autonews.com/automakers/toyota-launch-self-driving-capable-operating-system-report-says"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: Automotive News
+      domain: autonews.com
     quality: 24
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--3j1oJ3re--/c_crop%2Ch_432%2Cw_768%2Cx_0%2Cy_0/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:afp_watermark%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/57ce4dbcd6202dfaafaed77f004540d546290a9a.jpg?itok=-jE1swod"
-        width: 1200
-        height: 676
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Toyota%20automated%20behind%20wheel%20web_0.jpg"
+        width: 800
+        height: 600
         isCached: true
 
-secured: "Ut9zMFgZOsHeSQjEFryUyWzfTJN4FvmPqrpXH5+EFkrwIsVg8AFzGc/nYvtj6R7jKJ9yHgBroEJhnl6gtzLGfsQL2+fnWkPoOfT4t/GtFgAAYxvod2vLQ4/gqMoEmJj6/QQNiPQkOyuuBGCC7+cGIm0lS4EnX0cZyEObQiSl3/F1gaohbmBC9mbpal7vvigTrKQtRGcti1dhWr9vYoXolVr/8FW2pZk39xdMAhxFZ7GaAt+OtWL+3RTqqQ+iYJTXEuMy0dWGCMa1DcWtgJA2gNd+ILdS1T1tcphfBcCOGjPtooNfP42gEjA+f/YWuZVXfd/dqejJUJS/RV1WxxI5lCAd9s+9UFBOMsSYYB1aBSU=;knKoIWR0aNihB8jGMp0CWQ=="
+secured: "OGa9MtYGGA4xOE/0+/mO55oMa8kXBrO0KMZgAODpl94Q+SG1vJeIj+SbKK0s3gRZZaBF65xpTYXtiM0S2RwUTMUvWIHq4cEIJrcrlkIk0fH8MygV4Rs8NCXgbkOqduQCu7u81nNRd4j8oXNyEdQ+Ux4ntPGlTDI97ZOoUZlKYgJrOwyQUTXTVBrTSEBrhD/5MrrKIB7Hsq4RJ9NlXFuKeSOTH0KwvTrUY83yuORgokFh0P6Oh9CruYM9Zq5yV8W2WR8JxlfNw8kfZGULPw188iiRPcvN8xVqNfXBn+UMorjHvPKZ1050zjNNRRwcBx7rUXoO9FLtYgQ4VQyuO3IsP+xfts4yWUqLg5Idkm3qLSA=;kxGDDuZlTeeS4gasF6humg=="
 ---
 

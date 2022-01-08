@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-12-20-mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation.md",
+      "title": "MOL, JRCS to Research Potential of AI-based Object Recognition Technology to Support Watchkeeping Aboard Vessels ~ Aiming for Safer Operation",
+      "excerpt": "Mitsui O.S.K. Lines, Ltd. and JRCS Co., Ltd. announced joint research on the use of AI-based object recognition technology by leveraging each company’s knowledge and technologies, with the aim ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/",
+      "originalUrl": "https://www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o2c64VdVtTA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/amp/",
+      "cdnAmpWebUrl": "https://www-hellenicshippingnews-com.cdn.ampproject.org/c/s/www.hellenicshippingnews.com/mol-jrcs-to-research-potential-of-ai-based-object-recognition-technology-to-support-watchkeeping-aboard-vessels-aiming-for-safer-operation/amp/",
+      "publishedDateTime": "2021-12-20T02:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hellenic Shipping News Worldwide",
+        "domain": "hellenicshippingnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-tesla-releases-new-full-self-driving-beta-update-107-with-improved-phantom-braking-and-efficiency.md",
       "title": "Tesla releases new Full Self-Driving Beta update (10.7) with improved phantom braking and efficiency",
       "excerpt": "Tesla has started to release a new Full Self-Driving Beta software update (10.7) that improves the situation with “phantom braking” and even helps the FSD beta be more energy efficient. For more than a year now,",
@@ -1129,40 +1172,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-managing-the-meth-crisis-paying-users-to-go-clean-could-change-lives-and-communities.md",
-      "title": "Managing the meth crisis: Paying users to go clean could change lives and communities",
-      "excerpt": "A neurotoxin, it destroys memory, reasoning and other cognitive functions ... move from encampments to more stable housing. But drug services are inconsistent. Advertising If the early rollout ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/opinion/managing-the-meth-crisis-paying-users-to-go-clean-could-change-lives-and-communities/",
-      "originalUrl": "https://www.seattletimes.com/opinion/managing-the-meth-crisis-paying-users-to-go-clean-could-change-lives-and-communities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.seattletimes.com/opinion/managing-the-meth-crisis-paying-users-to-go-clean-could-change-lives-and-communities/?amp=1",
-      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/managing-the-meth-crisis-paying-users-to-go-clean-could-change-lives-and-communities/?amp=1",
-      "publishedDateTime": "2021-12-17T18:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

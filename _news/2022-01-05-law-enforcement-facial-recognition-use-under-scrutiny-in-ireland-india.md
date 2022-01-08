@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "HC issues notices to TS, city police chief on use of face recognition technology"
-    excerpt: "Face Recognition Technology (FRT) by the Telangana police on citizens had no legal backing and not approved by any legislature"
-    publishedDateTime: 2022-01-04T04:21:00Z
-    webUrl: "https://www.deccanchronicle.com/nation/current-affairs/030122/hc-issues-notices-to-ts-city-police-chief-on-use-of-frt.html"
-    type: article
-    provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 34
-    images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-75lj8mdissrd4lhad5004cguf0-20220103221514.Medi.jpeg"
-        width: 800
-        height: 448
-        isCached: true
 
 secured: "hcChfbIrIkBbZR9f3odQWAJy5AhbPUUa0K8O2CaXbnuPzRNdF1Wkh1+wSdLP08m5reJv/xG3OeSIpEIv6GcJcY0UbpO5ZXFDcqrYmIv1gaGmXGKNWFBE2RST6Cyq7ylkz+tfTrZZthfISxcFmqPyFlb2a+Q4BoeJz5M0CIa15/4SL7IgzeXnHKO5Wulv4lPSlJvP75DKsKtusVUxpRD6LrT5C5te14oavEZUAHy4kHSWDAmJ32W16ueH7/+sDlZo9ijiunRHSoVOSPs9N8Cj0hU/YAiiDuz3IwrseEu8QE54k4WscfZqzZEp6K0Z401lgvMKmQaE8/wXOWGcAnHFzfql/PSC8hxB6VzfzxrKr37M5wdQVjlXR2elmazqQy9lQn1QiZG+aCN8bQ0MKIPNW7d/dAUgs/bnhCbfYyd96bKau6Iv/WTjNIbS0CKLIiWgntybgQsNA0j7QK/kIRQWPakCFi1Royo1crrIPNHy9wNDWvKAAI9mt1KABQWyRBHtWlzN3dPY5dmUdWCDNFhUTg==;mTNRxVGSZty35RucauicTQ=="
 ---

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-publishedDateTime: 2022-01-06T15:15:00Z
-originalUrl: "https://www.lelezard.com/en/news-20181152.html"
-webUrl: "https://www.lelezard.com/en/news-20181152.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+publishedDateTime: 2022-01-06T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "AI, robotics, home care and mental health to lead healthcare delivery"
@@ -85,20 +79,6 @@ related:
         width: 820
         height: 312
         isCached: true
-  - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
-    excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
-    publishedDateTime: 2022-01-04T03:41:00Z
-    webUrl: "https://www.linkedin.com/pulse/final-2021-thoughts-digital-health-dhps-ai-informed-narciso"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFZBFErGiLOog/article-cover_image-shrink_600_2000/0/1641248546445?e=1646870400&v=beta&t=8wPkfEQyia0nTN0mcKb9B6lLgVHrUUnns4nBshi21ik"
-        width: 364
-        height: 301
-        isCached: true
   - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
     publishedDateTime: 2022-01-04T15:41:00Z
@@ -128,6 +108,6 @@ related:
         height: 576
         isCached: true
 
-secured: "gnaARjYTyNdDLBT10WXUY55aIUzB2AdGTaAdlmz1EunC+fV8Uk65BGV7Vpbln8NFotVfErlr8+7ejnn292TLheuCTvlln42BRsXdTgDMgxkrSJFC5zv+RTLpzqn9+zwveNSexuNhBzmeF9GChbrrSWAvwx70YshJSBX0ZRGHFOMRFjYiqBqupcLUUOHZruo8TDmzgN9Ymuprh0go+GQi2A5vI4S0ApXCQfM8EzvTBjkk0zAtpRm4KXsl3JrTYj401JeZO6rxeSg9DqgQKYsUAAMYcrELWLhIkY9Ke5q3t0T8LomGk/+jbRfFNgfCb3cXCKvH/A/tH0F41uWq1p/LiEgLnSdf6gXoBtRMjb4fKSo=;xcJSsUGuCIFmL0Ud7r37jw=="
+secured: "Hwhox4u0qN5J96Sb1ZOp9sCxNANRFM0TxYpRzeyKsYyMpPCoyGRWVj2KrkyDXJPeeqdgSykY7kOvBVSD3wSJZvZdLcYcgeb/QkTflU854rCSCOaUoK4ryqgECrzO5L90GAyTiVVfluXLpu76uyk5TuTPp2LCZ7UJPLTzyK0IxW1skpKqzgAmz7w6eVATJQZcw4xfJw88fjgIZjiZECtRJ19BtTIFXwCayC4upYQhn605jt+BckWyZHY003ApQX99DGvq/ImY4BIuCVuKAjXXrBuyqRJ7gu4ri4drx4pwhq9JcWhE/UYpixAGtQ7xOPPeILa0tT9PD5Grjf/h7d7BatG16BD6CRtexVLJoY7S0qI=;hx5d2CZPujGsU4S1+9K28Q=="
 ---
 
