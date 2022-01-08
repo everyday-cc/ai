@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-12-30-optical-chip-that-can-efficiently-solve-complex-ai-problems.md",
-      "title": "Optical Chip That Can Efficiently Solve Complex AI Problems",
-      "excerpt": "They combine photonics and electronics to process information at ultra-high speeds, low latency and low power consumption",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/Lightelligence-PACE.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
-      "publishedDateTime": "2021-12-30T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-30-us-blacklisted-ai-firm-sensetime-shares-jump-23-in-hong-kong-debut.md",
       "title": "US-blacklisted AI firm SenseTime shares jump 23% in Hong Kong debut",
       "excerpt": "Chinese artificial intelligence startup SenseTime jumped as much as 23% from their IPO price as they debuted on the Hong Kong Stock Exchange. The startup had raised $740 million in its IPO and priced its shares at $0.",
@@ -630,8 +587,8 @@
       "title": "Volkswagen improves the voice recognition rate of the Golf",
       "excerpt": "A more streamlined interface alongside an improved voice recognition system are in store for new examples of the Volkswagen Golf. The Volkswagen Golf will soon get an improved infotainment system. Due to go into series production in the next few weeks,",
       "sourceUrl": null,
-      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
-      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098",
+      "webUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
+      "originalUrl": "https://www.sgcarmart.com/news/article.php?AID=26098&GASRC=sgcm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -999,17 +956,17 @@
       "title": "What Happens When an AI Knows How You Feel?",
       "excerpt": "Technology used to only deliver our messages. Now it wants to write them for us by understanding our emotions.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
-      "originalUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
+      "webUrl": "https://www.wired.co.uk/article/artificial-emotional-intelligence",
+      "originalUrl": "https://www.wired.co.uk/article/artificial-emotional-intelligence",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/61bc7f6c70540627801a5b48/master/pass/Business-AI-Emotions-1290287917-648538841-2.jpg",
-          "width": 2400,
-          "height": 1600,
+          "url": "https://media.wired.co.uk/photos/61a8a600bd53d4f6291929d3/master/w_1600%2Cc_limit/1822-WIRED-02.jpg",
+          "width": 1600,
+          "height": 2182,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1017,23 +974,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-emotional-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-emotional-intelligence/amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-29T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1173,6 +1121,48 @@
       "provider": {
         "name": "Bloomberg Law",
         "domain": "bloomberglaw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-chinas-biggest-ai-startup-aims-to-raise-742-million-in-hong-kong-ipo.md",
+      "title": "China’s Biggest AI Startup Aims to Raise $742 Million in Hong Kong IPO",
+      "excerpt": "SenseTime Group Inc., China’s largest artificial intelligence (AI) startup by revenue, plans to raise about HK$5.78 billion ($742.7 million) in its Hong Kong IPO on Friday, the company said in an exchange filing on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.caixinglobal.com/2021-12-29/chinas-biggest-ai-startup-aims-to-raise-742-million-in-hong-kong-ipo-101823707.html",
+      "originalUrl": "https://www.caixinglobal.com/2021-12-29/chinas-biggest-ai-startup-aims-to-raise-742-million-in-hong-kong-ipo-101823707.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.caixin.com/2021-12-29/164076234700675_560_373.jpg",
+          "width": 560,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Caixin Global",
+        "domain": "caixinglobal.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -42,6 +42,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Seven Robotics Trends & Predictions for 2022"
+    excerpt: "Meili Robots. During the last five years, we have seen robots move from a developing technology to an indispensable tool for a large number of enterprises. Moreover, over the last two years, robotic trends such as Artificial Intelligence (AI) integration,"
+    publishedDateTime: 2022-01-06T15:18:00Z
+    webUrl: "https://www.ien.eu/article/seven-robotics-trends-predictions-for-2022/"
+    type: article
+    provider:
+      name: ien.eu
+      domain: www.ien.eu
+    quality: 54
+    images:
+      - url: "https://www.ien.eu/uploads/tx_etim/global-mobile-robot-market.png"
+        width: 1485
+        height: 1357
+        isCached: true
+  - title: "Top 7 Robotics Trends & Predictions for 2022"
+    excerpt: "With the huge shift towards automation across industries all around the world as a result of the Covid-19 pandemic, it is time to explore the effects this may have on the way business is conducted during the next twelve months."
+    publishedDateTime: 2022-01-06T19:58:00Z
+    webUrl: "https://www.automation.com/en-us/articles/january-2022/top-7-robotics-trends-predictions-2022"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 54
+    images:
+      - url: "https://www.automation.com/getmedia/ec7db2d7-abf5-4b93-828e-1fcb2b9bc51c/MichelleSchlechtriem-feature-Jan-6-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
 
 secured: "VoD53C1wbNOmoSHefP7vm3itH/sMNTkg/wR1OF1vx2x8utp3O2ZzHSBUdnnfp/jeNVd40FMBBbHhrUUbYt+YKczr1fj6vdiM6sWvckX9jsGeBBmNzfhZhuy5yZzBcOTgpfVgukJA+8iP+7jS2Fp4NhSxFXq+FYi6pni8y7km1Codh1ReY8BcL1GYYqbABFGRaJROa4wVcjIBN8uFxVozCBk8Yv5PaAGg3IkTBNZrUdAWyyZkHeusl5pkqrCqSSn5GThR5wZR1keHRNWLK/KIK7kAORirrzSKnQrgFOZii3nKmw3acj5h5FLNSzbK3kYriU3YadE0PtAP8v03GpE/FirOmtmgYEBjbMWz7hP/kN4=;gNqZjOYxJifzgE8qDKD+DA=="
 ---

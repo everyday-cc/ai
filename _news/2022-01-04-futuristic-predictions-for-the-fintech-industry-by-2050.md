@@ -25,47 +25,146 @@ images:
     isCached: true
 
 related:
-  - title: "2022 robotics predictions from industry experts"
-    excerpt: "Leading robotics experts, including Juan Aparicio and Ken Goldberg, share what they'll be keeping an eye on in 2022."
-    publishedDateTime: 2022-01-03T18:37:00Z
-    webUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/"
+  - title: "ForwardAI Named Finalist in 2022 LendIt Fintech Industry Awards"
+    excerpt: "Nomination demonstrates need to modernize Small and Medium-Sized Business (SMB) lending, highlights potential of digital technologies for lenders"
+    publishedDateTime: 2022-01-06T14:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/forwardai-named-finalist-in-2022-lendit-fintech-industry-awards-1031081601"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
+    excerpt: "Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year."
+    publishedDateTime: 2022-01-05T03:24:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/bairong-inc-named-in-kpmg-s-china-fintech-50-list-for-sixth-consecutive-year-1031077961"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
+  - title: "Artificial Intelligence: FinTech’s innovation driver"
+    excerpt: "FinTech refers to any idea or innovation that improves or optimizes the way individuals or companies conduct financial activities. Early FinTech concentrated on developing add-on products to complement existing financial services."
+    publishedDateTime: 2022-01-05T13:49:00Z
+    webUrl: "https://www.bworldonline.com/artificial-intelligence-fintechs-innovation-driver/"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 39
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/01/2022-robotics-predictions.jpg"
-        width: 796
-        height: 450
+      - url: "https://www.bworldonline.com/wp-content/uploads/2021/04/economy-default.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Seven Robotics Trends & Predictions for 2022"
-    excerpt: "Meili Robots. During the last five years, we have seen robots move from a developing technology to an indispensable tool for a large number of enterprises. Moreover, over the last two years, robotic trends such as Artificial Intelligence (AI) integration,"
-    publishedDateTime: 2022-01-06T15:18:00Z
-    webUrl: "https://www.ien.eu/article/seven-robotics-trends-predictions-for-2022/"
+  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
+    excerpt: "BEIJING, Jan. 5, 2022 /PRNewswire/ -- Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year. It is also ..."
+    publishedDateTime: 2022-01-05T18:15:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595359"
     type: article
     provider:
-      name: ien.eu
-      domain: www.ien.eu
-    quality: 54
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 36
     images:
-      - url: "https://www.ien.eu/uploads/tx_etim/global-mobile-robot-market.png"
-        width: 1485
-        height: 1357
-        isCached: true
-  - title: "Top 7 Robotics Trends & Predictions for 2022"
-    excerpt: "With the huge shift towards automation across industries all around the world as a result of the Covid-19 pandemic, it is time to explore the effects this may have on the way business is conducted during the next twelve months."
-    publishedDateTime: 2022-01-06T19:58:00Z
-    webUrl: "https://www.automation.com/en-us/articles/january-2022/top-7-robotics-trends-predictions-2022"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 54
-    images:
-      - url: "https://www.automation.com/getmedia/ec7db2d7-abf5-4b93-828e-1fcb2b9bc51c/MichelleSchlechtriem-feature-Jan-6-2022-web.png?width=500&height=313&ext=.png"
+      - url: "http://us.acrofan.com/img/noImg.jpg"
         width: 500
-        height: 313
+        height: 324
+        isCached: true
+  - title: "Fintech Led VC Investment Last Year. Here’s What To Look For In 2022"
+    excerpt: "Financial services was the leading sector for venture investment in 2021 with $134 billion invested, marking a whopping 177 percent year-over-year growth. That compares with overall global venture capital investment,"
+    publishedDateTime: 2022-01-04T13:30:00Z
+    webUrl: "https://news.crunchbase.com/news/fintech-startup-vc-forecast-2022/"
+    type: article
+    provider:
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 24
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Forecast_digest-2.jpg"
+        width: 900
+        height: 506
+        isCached: true
+  - title: "2022: The Rise and Rise of Fintech"
+    excerpt: "In the past couple of years, along with the rest of the world, India witnessed tectonic shifts in the way it made transactions and did business. While the pandemic raged across geographies, physical exchanges and social interactions had to take a back seat and social distancing became the norm."
+    publishedDateTime: 2022-01-05T09:12:00Z
+    webUrl: "https://www.linkedin.com/pulse/2022-rise-fintech-dilip-modi"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFfpaeuK-SqNQ/article-cover_image-shrink_720_1280/0/1641373673805?e=1646870400&v=beta&t=Ix4IQxxFSuItbSoADHbsEzv2cSnzoxEu7jFtInSTm2U"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Technologies Reshaping the FinTech Industry"
+    excerpt: "Technologies Reshaping the FinTech Industry By CIOReview - some of the key technologies will drive business model reinventions and shape the competitive environment of the"
+    publishedDateTime: 2022-01-05T11:16:00Z
+    webUrl: "https://www.cioreview.com/news/technologies-reshaping-the-fintech-industry-nid-34809-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/skvkm.fintech.jpg"
+        width: 300
+        height: 350
+        isCached: true
+  - title: "Upstart vs. LendingClub: Which Fintech Stock is a Better Buy?"
+    excerpt: "I will analyze and compare Upstart Holdings (UPST) and LendingClub (LC) to determine which fintech stock is currently the better investment."
+    publishedDateTime: 2022-01-05T15:51:00Z
+    webUrl: "https://stocknews.com/news/upst-lc-upstart-vs-lendingclub-which-fintech-stock-is-a-better-buy/"
+    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
+    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
+    type: article
+    provider:
+      name: Stock News
+      domain: stocknews.com
+    quality: 24
+  - title: "What does 2022 have in store for fintech?"
+    excerpt: "Here’s what the experts expect in 2022 The fintech industry moved at break-neck speed in 2021, with pre-pandemic days feeling like ancient history. Expect an even faster pace of change in 2022, according to industry experts."
+    publishedDateTime: 2022-01-05T15:10:00Z
+    webUrl: "https://www.raconteur.net/finance/fintech/what-does-2022-have-in-store-for-fintech-2/"
+    type: article
+    provider:
+      name: Raconteur
+      domain: raconteur.net
+    quality: 24
+    images:
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Fintech-trends-2022.jpg"
+        width: 1188
+        height: 668
+        isCached: true
+  - title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
+    excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
+    publishedDateTime: 2022-01-06T01:48:00Z
+    webUrl: "https://fintechnews.sg/58245/fintech/singapores-top-fintech-legal-firms-and-lawyers-in-2022/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/01/Singapores-Top-Fintech-Legal-Firms-and-Lawyers-in-2022.png?x95107"
+        width: 1210
+        height: 670
+        isCached: true
+  - title: "Fintech’s Biggest Challenge for 2022: Customer Service"
+    excerpt: "As I reminisce on these past three years since founding OneBlinc, and the tremendous traction we have been able to obtain, I have been thinking incessantly about what has helped us win, the key challenges we have faced,"
+    publishedDateTime: 2022-01-06T17:05:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintechs-biggest-challenge-2022-customer-service-fabio-torelli"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG_lxJuQBnC6Q/article-cover_image-shrink_600_2000/0/1641488235356?e=1646870400&v=beta&t=TmCKFF_fZbi3r_Cx-VqbV_5nzI-6zEbuIQXBdfy95DM"
+        width: 740
+        height: 422
         isCached: true
 
 secured: "qlilrZNijUKbNnguXEGO1hmSOg4z/olO0244kyimKvF3SNQUswHPLSMyhnnxNBvvn//e61xmv99qSylvqtbpRoKNBmxXIX2XvD5WyUoAuYVp1yYdo3r0PRIcoDYToL60+MwZ+n0/Dmj1nvven1Outu7s7NZLH58nEWILHWA3m9JPgoQ+j0v7uJCQp7fKM+Pj20U7dc8wmzCwm5UItsC4gmbslAt/P95/m2HxQVkh+FXBLslpYtW8W2G33WX/fLFGJCsdH0zLxsM4W/4VNTeT+vBWkRevFDYmDDXhQzqMuULnaSimTArkZSAXzpgVWCP5b//cr+ictFeSlkLueI1RuvqQjMb7UEwChUOCx9aFrxE=;XEq0jWQnXN2stBgAA7NMIA=="

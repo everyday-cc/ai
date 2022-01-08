@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-i
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
 type: article
 quality: 91
-heat: 203
+heat: 193
 published: true
 
 provider:
@@ -143,20 +143,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/brain_gears_shutterstock_Superstar.jpg"
         width: 1200
         height: 748
-        isCached: true
-  - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
-    excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
-    publishedDateTime: 2022-01-03T18:38:00Z
-    webUrl: "https://www.glassmagazine.com/news/halio-inc-showcase-ai-controlled-smart-glass-ces-2022"
-    type: article
-    provider:
-      name: Glass Magazine
-      domain: glassmagazine.com
-    quality: 37
-    images:
-      - url: "https://www.glassmagazine.com/sites/gm/files/2021-11/Cover1_GM1121_900px.jpg"
-        width: 691
-        height: 900
         isCached: true
   - title: "Popular Trends in Artificial Intelligence in 2022"
     excerpt: "Deep learning models that have been pre-trained are heavily reliant on real-world data. Nevertheless, obtaining data on time and integrating it into"

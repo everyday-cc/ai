@@ -211,6 +211,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "The consequences of self-driving tractors and upcoming AI laws are discussed in this week’s AI Weekly"
+    excerpt: "It and – self-driving tractors like it — might help solve the developing labour shortage in agriculture, as Wired’s Will Knight points out; employment of farm employees is anticipated to expand by just 1% from 2019 to 2029."
+    publishedDateTime: 2022-01-08T09:20:00Z
+    webUrl: "https://bestgamingpro.com/the-consequences-of-self-driving-tractors-and-upcoming-ai-laws-are-discussed-in-this-weeks-ai-weekly/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 24
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/AI-Weekly-The-implications-of-self-driving-tractors-and-coming-AI-regulations.png"
+        width: 600
+        height: 375
+        isCached: true
   - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
     excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
     publishedDateTime: 2022-01-06T11:12:00Z

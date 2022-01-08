@@ -1,21 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Secures SOC 2 Compliance"
-excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type 1 examination. This achievement reflects"
-publishedDateTime: 2022-01-04T12:40:00Z
-originalUrl: "https://www.djournal.com/artificial-intelligence-technology-solutions-secures-soc-2-compliance/article_ae65b57f-6adb-54de-b9a0-a9152d1d2096.html"
-webUrl: "https://www.djournal.com/artificial-intelligence-technology-solutions-secures-soc-2-compliance/article_ae65b57f-6adb-54de-b9a0-a9152d1d2096.html"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type"
+publishedDateTime: 2022-01-04T13:42:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/soccer-technology-sports-business-artificial-intelligence-5aff84712a7688108f589d493b8fd996"
+webUrl: "https://apnews.com/press-release/globe-newswire/soccer-technology-sports-business-artificial-intelligence-5aff84712a7688108f589d493b8fd996"
 type: article
-quality: 17
-heat: 17
+quality: 37
+heat: 37
 published: false
 
 provider:
-  name: Daily Journal
-  domain: djournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Artificial Intelligence Technology Solutions Files 8-K Detailing Commitment Not to Engage in a Reverse Stock Split of its Common Stock"
@@ -28,6 +34,6 @@ related:
       domain: morningstar.com
     quality: 0
 
-secured: "fskSrMX7s/f0ek4zECcQP0teakC6O7pKLJLLQMDZfqGyw07YgNLCRCGSHH7BPN3ZJrCLui9IWYP/BQ9NLx4WyTUjo5n17jUbxX6xEj2xazupEWp/IBdFDANjSX8+7w2jbHJoS15M/dvnupVdaFPmo5nFJex5F5/weXb21FRE0A6PIEaQ5OvJb91XpSttC8tc6WSsJ/nDAX60G3z4xkBTiu3lvjm2LRNIc4PmywJuyZMiW83x5QuUrApAf4vi4J1R7ZZpIY4SqaKnrRnEeG45f9IZgcVXMMCy7m/lCvfEVzgTqF72WpXRFRf0+3EHxe5V3AjsWLXzB+NExBmjBnYzXUgIjo7i7nCmQaQONGdgVm079RrTqFE1SM0aVRQLghrzXrD1mQPXw8PuT7rCeV9h+HIrn3twc9rnzs1AX52ma9Ax5kYCQrkDtcjn2Bh+ZGrkI4ZP9pbwCzrYYOHOfZfFMQ7tYSm7e4FbrqhfOAjFOFhzPALCMqfWl0h5X94pMY70LZGnvsG+L42vpnqd2TL/Lw==;pLrvDSIpgWx6XCRxslx2Fg=="
+secured: "O+BrIGFCS8XyVqsF16TyNOHyGIUQcCiHNH7QS+spaktOQg1XVZvXSmaopSiW/+tBlw9J6PuBHdAlRI8yWiYBzLca2etemrZBNfvLD08p5Ye7nTmyDTkOFUCPxNdWJeTIUyvRysbfZ8t7R9So00VeMJanybfi+T25fMXSvE+5QAHSYMww38r3Ks3HwVPeJymrxMS9JYh5ZgEZV62wOC8IXJgfHfsss2I/+Yyl0rzteVgwODK81WgruUaOTnvPDQr8VtBuLGzTEnvKOKQQbviD8x7wVlRhaG0jFYYiRqUT4TraKdYwHHlFUijsvrwYCSSMT5chbok4siSxCvh4mtj1Rx1IJcGmd8+oXewT6e5njyg=;oGoMIHSn2quakCQyBL+OYw=="
 ---
 

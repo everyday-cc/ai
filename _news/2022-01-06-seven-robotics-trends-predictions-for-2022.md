@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "2022 robotics predictions from industry experts"
-    excerpt: "Leading robotics experts, including Juan Aparicio and Ken Goldberg, share what they'll be keeping an eye on in 2022."
-    publishedDateTime: 2022-01-03T18:37:00Z
-    webUrl: "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/"
+  - title: "2022 Startup Predictions: The Trends, Sectors, And Tech Worth Watching"
+    excerpt: "Will 2022 be another record year for investment into the European venture community? Here are a few of the trends and technologies likely to drive investment decisions in the year ahead."
+    publishedDateTime: 2022-01-05T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/"
+    ampWebUrl: "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 84
+      name: Forbes
+      domain: forbes.com
+    quality: 72
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/01/2022-robotics-predictions.jpg"
-        width: 796
-        height: 450
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d5a9fe900aca137e034ea8%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "PREDICTION: The AI on ‘Star Trek: Discovery’ Will Get an Android Body"
+    excerpt: "Lower Decks ” is not among those shows which slip in reference to the old movie or beloved show. “Lower Decks” is so packed with references and Easter Eggs that watching each episode just once is nearly impossible."
+    publishedDateTime: 2022-01-05T01:02:00Z
+    webUrl: "https://heavy.com/entertainment/star-trek/zora-to-become-android-on-discovery/"
+    ampWebUrl: "https://heavy.com/entertainment/star-trek/zora-to-become-android-on-discovery/amp/"
+    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/star-trek/zora-to-become-android-on-discovery/amp/"
+    type: article
+    provider:
+      name: Heavy.com
+      domain: heavy.com
+    quality: 57
+    images:
+      - url: "https://heavy.com/wp-content/uploads/2022/01/zora_HEAVY.jpg?quality=65&strip=all"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Top 7 Robotics Trends & Predictions for 2022"
     excerpt: "With the huge shift towards automation across industries all around the world as a result of the Covid-19 pandemic, it is time to explore the effects this may have on the way business is conducted during the next twelve months."
@@ -52,20 +70,6 @@ related:
       - url: "https://www.automation.com/getmedia/ec7db2d7-abf5-4b93-828e-1fcb2b9bc51c/MichelleSchlechtriem-feature-Jan-6-2022-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
-        isCached: true
-  - title: "Futuristic Predictions for the Fintech Industry by 2050"
-    excerpt: "What are the prospects for fintech in the long run? Some of our sources predict interplanetary payments and trillions going into decentralised finance"
-    publishedDateTime: 2022-01-04T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/futuristic-predictions-fintech-industry-2050"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/long-term-future-of-fintech.jpg.png?itok=grhrASz-"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "0AiX2Q3zoErBzylWlX6ir3aFmKIgHwxs1KzMlRrQjrXMQhCCojm1T/B4hVH2jfi5ze8rcSXsxjXvM0eRckTbM1Q7lrLsa8BtTYese9wvgk4MMypAvdOIGoqY17n/ucZ+C7LmAoR20z3lq+/XJ3cEzbGRo/cNLsLnrSc6256BWuODtF6KETYolXvKhLCo96XBBAXax4ue/lq6YKLo5WwQ8yKpPpNa2UGlqMuneYHHInrca+BkNEkY3usQXpU/wQmOtw6NIEqqdaTQzJob1JXVoa0h535EVOIT2rprD+sghgeVfM6EJ6Y6IuiEa4RiEOaSV/2jL+6i0rBLXVaUMIWVHI2cQv34T/oh6kJ8EotRa4E=;cooOooPw+Cjci3B/bs0HfQ=="

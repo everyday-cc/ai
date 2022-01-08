@@ -228,6 +228,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "The consequences of self-driving tractors and upcoming AI laws are discussed in this week’s AI Weekly"
+    excerpt: "It and – self-driving tractors like it — might help solve the developing labour shortage in agriculture, as Wired’s Will Knight points out; employment of farm employees is anticipated to expand by just 1% from 2019 to 2029."
+    publishedDateTime: 2022-01-08T09:20:00Z
+    webUrl: "https://bestgamingpro.com/the-consequences-of-self-driving-tractors-and-upcoming-ai-laws-are-discussed-in-this-weeks-ai-weekly/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 24
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/AI-Weekly-The-implications-of-self-driving-tractors-and-coming-AI-regulations.png"
+        width: 600
+        height: 375
+        isCached: true
 
 secured: "ebRHYAToSW/RoVBpRvyOAGGAl7EUJML/PPOQ6mLVeQEva+m2U/Vu3GWf2WWgQUsQx4kOaOHOoJyEpUR4uaoZJrUrbO4WfAVYJv3fPcAXkS3WO3W74BW+iztMJAVQ2iFscHu5RTVqi2qmJtS3NU5yEIHfd2O2Tf2w6Ywr5WfNcxTplYp91nbQhqx4uBgtUvW86ZfZygRuT1cl6um83JW3AkSs8ivRvOQHpgS0kdvOAVzmEWyxHmHb/Km00gPU4Ijce5Bb3oRTH66fl//OAd6ZYPQIbydYk38OSvAXIVAdbNtJ8uUlZ4n0evBwrtbNaNeA2He4DoPhqRqX686iOidk+tsbhZbAUq6KNeLv8vG0j2o=;z6sFegTXSzAoTHhEn+8yfA=="
 ---

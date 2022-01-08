@@ -2,49 +2,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_news/2021-12-02-svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a.md",
-      "title": "SVT Robotics to conduct multi-robot orchestration with $25M series A",
-      "excerpt": "According to Gartner, multi-robot orchestration has only penetrated 1%-5% of its total target audience and will become necessary as companies begin deploying more than one robotics technology within their operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a",
-      "originalUrl": "https://www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/12/23792921344_1e679eb568_k.jpg",
-          "width": 2047,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a/amp",
-      "publishedDateTime": "2021-12-01T09:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-deepminds-ai-helps-untangle-the-mathematics-of-knots.md",
       "title": "DeepMind’s AI helps untangle the mathematics of knots",
       "excerpt": "Researchers at artificial-intelligence powerhouse DeepMind, based in London, teamed up with mathematicians to tackle two separate problems — one in the theory of knots and the other in the study of symmetries.",
@@ -1170,6 +1127,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-01-twitch-to-detect-people-evading-bans-with-machine-learning.md",
+      "title": "Twitch to Detect People Evading Bans with Machine Learning",
+      "excerpt": "Twitch is advancing its efforts to reduce bullying with a new tool that makes use of machine learning to detect people who might be trying to evade bans. Suspicious user detection will be",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2021/12/01/1124326-twitch.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/twitch-to-detect-people-evading-bans-with-machine-learning-717724",
+      "publishedDateTime": "2021-11-30T23:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

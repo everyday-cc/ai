@@ -71,6 +71,20 @@ related:
         width: 500
         height: 324
         isCached: true
+  - title: "Futuristic Predictions for the Fintech Industry by 2050"
+    excerpt: "What are the prospects for fintech in the long run? Some of our sources predict interplanetary payments and trillions going into decentralised finance"
+    publishedDateTime: 2022-01-04T09:00:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/futuristic-predictions-fintech-industry-2050"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/long-term-future-of-fintech.jpg.png?itok=grhrASz-"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "2022: The Rise and Rise of Fintech"
     excerpt: "In the past couple of years, along with the rest of the world, India witnessed tectonic shifts in the way it made transactions and did business. While the pandemic raged across geographies, physical exchanges and social interactions had to take a back seat and social distancing became the norm."
     publishedDateTime: 2022-01-05T09:12:00Z

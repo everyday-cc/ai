@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 1000
         isCached: true
+  - title: "Living on the Edge (AI)"
+    excerpt: "We are living in a hyperconnected world, where every device is connected, and are generating data at an unprecedented rate. If we look at a smartwatch or a smartphone, smart cars, smart factories, smart homes,"
+    publishedDateTime: 2022-01-08T10:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/living-on-the-edge-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/living-on-the-edge-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/living-on-the-edge-ai/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
 
 secured: "Oj576HS4sJEZ+Edc2HlDaNSLjuGBO2dcQQEMRy65ST6hkmEZ+oRn9pMSZ2IJJtA+hU+L/S5zI8nd/3ObvTZD78QEk/Ryp9A+B61L0jPUZ2iUMwk2jjxQKUzsU67ej+oQZHiXVHT3pa2MxzU1Q8/Xt1+BkLqd7h5U5pXNTLDq7dca4RH2WtuuhGzxTgPPpFKxY6ILLSlj9ABsEogV1Vea5CTKl2Tujkk7Tsv3O9Vxyq1x1n++NYn+cjz2QEprjt+/w8nA8wHrf1z6xD7WN6G26EYVAwZ9hB8Jq5ImZ03UD+rv3jN4o3AOWUmgWk9BsuNIQkDvHQdQk/EKj3bPG+ZdYMiGyvnUzxrziW2sv6mvHL8=;VSUn0Q7QoG+dzXUOQnvHwA=="
 ---

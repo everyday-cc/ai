@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/isbinsight/ai-and-machine-le
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 900
     height: 600
     isCached: true
-
-related:
-  - title: "robots, automation, AI and who owns the future"
-    excerpt: "Since corrupt people unite amongst themselves to constitute a force, then honest people must do the same.” Leo Tolstoy Today’s piece began with a stack of books and an idea."
-    publishedDateTime: 2022-01-03T18:31:00Z
-    webUrl: "https://www.linkedin.com/pulse/robots-automation-ai-who-owns-future-bruce-mctague"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGdxowTzByHvw/article-cover_image-shrink_600_2000/0/1641219112833?e=1646870400&v=beta&t=sMCb4adtY3E2mceP9iA8IDW1I6LLuZoGHCXoqCwvp-w"
-        width: 544
-        height: 306
-        isCached: true
 
 secured: "szF00U3Gg2AA34k706aS2j23EEJa/pz05/cV1qsZx6uPsfAYzbzGg2cLHLfKwG9L5DxwDxdd7w8E4j/Ce05VUIt3AVNwBj3I+Y9OhwHq235EeRLrdAPGL9rQhEC8J/8PnPDmXwYAh56PuyxFXq821G5C6ZX/Jh87GUkP1ft1NhLj2vyAUh9XoV3iiG1ujPOQ3s35EkiHhwseV+SCOaxHqEA+mluxbbLwCcX5yQ2uQM9246yDnRTzmWZnjjvZScrrvnpD9oHZMr0T0d8ondKn33oJIMbtcqVdTX3AH/RMUF8cmFoqsgHT6AWmiwpQr0HV6jXiLNObec1bUjqaZ7oU7z6ty/U23S7vPkmFNPo819A=;mKa1cyo6wQll286p5xgsZQ=="
 ---

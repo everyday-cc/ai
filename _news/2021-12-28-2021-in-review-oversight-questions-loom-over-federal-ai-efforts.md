@@ -13,6 +13,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.ai.gov/wp-content/uploads/2021/12/RESEARCH-PROGRAM-REPOSITORY.png"
@@ -20,6 +21,6 @@ images:
     height: 317
     isCached: true
 
-secured: "s1pey6Pp2u+JsrauoEj9jzuuzM9gTf9a0TYdAkpSxjRAdE68tw5ibFvW9eE04nr7wKtlGV+Rwfjc2cLAQ3yki+uEj7JRgeaOrOA2SicdWC7rsgK8y/fFZE85BxqPOk9c6ugVvd83iwHarF1iNfL/mL2AB4sxWdJ6ay1D5pH2LaWIObvG50EQC3kLNSL9xsyKgvjit36V3TaHw3ao/bZJUwI6zWksjI3dNpn8peltM46GSgaSMDIe3yS+jHmo8TWXPR6E3p1TDMJXP6zt1+yXKj+4Qs/kRA5sBh3V0QuPAlP7UGIHCXWKaf0r7ZN2bUywMK/hcAnJtpjl628K2Bk6Su4Yy+Dm+78qc/UvZ0DBh2c=;1xcB6f9uHDAXushreqf5wg=="
+secured: "8AipLWgmyjZQjxODMUBaMD32MpFq47eEpgsClQHpTOzJJtUGT2s2qU9r3TggELxcLJGyjv31EZBUPZraGpcz02ujn8LsxcfVkLiGMy40g4zRC09ErEkkajQqoAKSXx18yCB550kXJZ4X5af2FeD6PnW/9swZE19+zGGceMrI3iTzgPxQaPauyJcg+/2YYStQGRquQD7Hxr0vaJKJt1L4qcD8XwQKrAFHMh/KmQAf9o6XWdxY/GvftwzUOlRngaT8RLK0uaj2Pdq1mF8vttpJaG89JYCle44Oj4Q5YRdtfmQiOOqdr5eL28olW/vRK8RrtUtkO1MxXi++wOObN1M4gF/VfR2Zys/BIc2O+LbWOdfUDmLrY/rQu6iiYZAi/mX7;cZrFRi47NrDnsMcTNiHb6Q=="
 ---
 

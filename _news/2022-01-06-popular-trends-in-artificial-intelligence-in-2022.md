@@ -156,20 +156,6 @@ related:
         width: 1200
         height: 748
         isCached: true
-  - title: "Halio Inc. to Showcase AI-controlled Smart Glass at CES 2022"
-    excerpt: "Halio, a smart window manufacturer, will be exhibiting in the “Green Avenue” section of the SK CES 2022 booth located in the Las Vegas Convention Center, Central Hall, Booth 16761. The support of energy efficient technology,"
-    publishedDateTime: 2022-01-03T18:38:00Z
-    webUrl: "https://www.glassmagazine.com/news/halio-inc-showcase-ai-controlled-smart-glass-ces-2022"
-    type: article
-    provider:
-      name: Glass Magazine
-      domain: glassmagazine.com
-    quality: 37
-    images:
-      - url: "https://www.glassmagazine.com/sites/gm/files/2021-11/Cover1_GM1121_900px.jpg"
-        width: 691
-        height: 900
-        isCached: true
   - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
     excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
     publishedDateTime: 2022-01-05T14:00:00Z

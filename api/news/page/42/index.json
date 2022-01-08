@@ -2,50 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2021-12-03-robot-company-wants-to-give-you-200000-for-your-face-and-voice.md",
-      "title": "Robot Company Wants To Give You $200,000 For Your Face And Voice",
-      "excerpt": "In an odd proposal, a Russian company is willing to pay you $200,000 if you forfeit your face and voice to help develop its next robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/",
-      "originalUrl": "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a9p9n2x2.stackpathcdn.com/wp-content/blogs.dir/1/files/2021/12/iStock-1320626664-1024x522.jpg",
-          "width": 1024,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/",
-      "cdnAmpWebUrl": "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/robot-company-wants-to-give-you-200000-in-exchange-for-your-face-and-voice/amp/",
-      "publishedDateTime": "2021-12-02T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Black Enterprise",
-        "domain": "blackenterprise.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-picsart-acquires-rd-company-deepcraft-in-seven-figure-deal-to-aid-video-push.md",
       "title": "Picsart acquires R&D company DeepCraft in seven-figure deal to aid video push",
       "excerpt": "The company believes DeepCraft’s AI technical talent and its breakthroughs in computer vision and machine learning will enhance Picsart’s own AI technology and help the company better support ...",
@@ -1133,6 +1089,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-big-tech-wants-to-compete-with-banks-let-them-deal-with-ai-ethics-first.md",
+      "title": "Big tech wants to compete with banks? Let them deal with AI ethics first",
+      "excerpt": "As big tech moves into the world of finance, AI ethics will be one of its biggest challenges including bias and ensuring data privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-ethics-a-challenge-for-big-tech-finance",
+      "originalUrl": "https://thenextweb.com/news/ai-ethics-a-challenge-for-big-tech-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Farticle6.jpg&signature=f30c067509245f7800cef330b33a661b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-02T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

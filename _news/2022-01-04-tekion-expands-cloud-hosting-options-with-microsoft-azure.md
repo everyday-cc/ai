@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure."
-publishedDateTime: 2022-01-04T15:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
+excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
+publishedDateTime: 2022-01-04T15:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Qualcomm and Microsoft collaborate on custom chips for AR glasses"
@@ -146,6 +140,6 @@ related:
       domain: publicnow.com
     quality: 6
 
-secured: "U0dyw8vY7p6bhy1H6zZSehPGWGDKXdK4YduS4+KxtEGn9fszdmFUUi/c9jKPLFBQULErLsV3X3jNGmKrldaKrD/WngXOKm6wMNOhXzHGbE17X0qPaVGapZm2c2yZizbPROzMEzLOQ7nps5MuHhwdeZ+DSwlDjYoCLXmmIxU+78MAVKw5VIqJICJQ7xKB+jAuE3qWlwLacqidtdDf4YC7HENbhUpmiD8OP7amaQ7i4HsnNbvo16clXliYLIUzRiDMyRzMY4vxocstjGcppL1+as6vA1b+RMNtWJqp6NbOyAd8MOUdpt8hK+Huqily2AtWfFIa7IPNVfhvK1NoernQQX9EsWm/k266tMEIQ0yt1dc=;Idv9+ho4j0ZkzErZR+CE3g=="
+secured: "gbtoLQSVSapH5ovQVGg6SCwyTv4I8VhUuWlXRb06M6Ya1ZDakZTvvscJMGAQorphtfkgpt/B6v9A4Ad9nzqOeT/zd/jcC1aXWRd+JifkKL5XxLewhmLR31p/34yS1pIxr0BQwJ6CDObF1hmjBN4n9eOlSVx0s69aBkcMQOyFAm2ZOMOzWSoQ7pLsbGW8RM7BT6I+p5GBVUpwqAe1cRFjfem+6sUc72H8b7i2m+PctNnaN+YWp5rHn5LZqZ2usOTVdhjqy1qbkddIROs8DKgjVwjsm++/Fdk4+4I9U7zn6/nCkCP7xUx9NW4fZ1meSVjqe5+UhKlD0WbZ5zdOoiVAAqmU8kdmqMXXhtjjCO5roqU=;ENY3Z/UjTLdD2nLCnTXL6g=="
 ---
 

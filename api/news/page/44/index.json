@@ -2,49 +2,6 @@
   "page": 44,
   "value": [
     {
-      "path": "_news/2021-12-02-tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml.md",
-      "title": "Tenders2Bid – Revolutionizing Tenders & RFP discovery with AI & ML",
-      "excerpt": "Tenders2Bid has been in the news for developing world's largest aggregator platform of Tenders, RFPs. Tenders2Bid is the latest & hottest startup in the AI & ML",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24396560",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24396560",
-      "publishedDateTime": "2021-12-01T15:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
       "title": "Dataiku releases new version of unified AI platform for machine learning",
       "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.Read",
@@ -1180,6 +1137,49 @@
         "AI",
         "Math for AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a.md",
+      "title": "SVT Robotics to conduct multi-robot orchestration with $25M series A",
+      "excerpt": "According to Gartner, multi-robot orchestration has only penetrated 1%-5% of its total target audience and will become necessary as companies begin deploying more than one robotics technology within their operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a",
+      "originalUrl": "https://www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2021/12/23792921344_1e679eb568_k.jpg",
+          "width": 2047,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/svt-robotics-to-conduct-multi-robot-orchestration-with-25m-series-a/amp",
+      "publishedDateTime": "2021-12-01T09:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

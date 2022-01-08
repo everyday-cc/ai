@@ -2,48 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2021-12-29-chinas-biggest-ai-startup-aims-to-raise-742-million-in-hong-kong-ipo.md",
-      "title": "China’s Biggest AI Startup Aims to Raise $742 Million in Hong Kong IPO",
-      "excerpt": "SenseTime Group Inc., China’s largest artificial intelligence (AI) startup by revenue, plans to raise about HK$5.78 billion ($742.7 million) in its Hong Kong IPO on Friday, the company said in an exchange filing on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.caixinglobal.com/2021-12-29/chinas-biggest-ai-startup-aims-to-raise-742-million-in-hong-kong-ipo-101823707.html",
-      "originalUrl": "https://www.caixinglobal.com/2021-12-29/chinas-biggest-ai-startup-aims-to-raise-742-million-in-hong-kong-ipo-101823707.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.caixin.com/2021-12-29/164076234700675_560_373.jpg",
-          "width": 560,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-29T02:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Caixin Global",
-        "domain": "caixinglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-29-global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-for-personalized-financial-services.md",
       "title": "Global AI and Advance Machine Learning in BFSI Market Report (2021 to 2030): Increasing Preferences for Personalized Financial Services",
       "excerpt": "The \"AI and Advance Machine Learning in BFSI Market By Component, Deployment Model, Enterprise Size and Application:",
@@ -877,6 +835,58 @@
       ]
     },
     {
+      "path": "_news/2021-12-28-lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv.md",
+      "title": "LG works together with DSP Concepts to deliver superior quality voice command recognition for innovative new premium TV",
+      "excerpt": "LG chose DSP Concepts as their audio solutions provider. DSP Concepts used the Audio Weaver design platform to craft a custom solution for LG based on the renowned TalkTo audio front end. Because Audio Weaver makes it easy to design,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1716992/65ART90.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-artificial-intelligence-manned-drone-market-to-witness-huge-growth-by-2027.md",
       "title": "Artificial Intelligence Manned Drone Market to Witness Huge Growth by 2027",
       "excerpt": "DeepResearchReports has uploaded a latest report on Artificial Intelligence Manned Drone Industry from its research database Artificial Intelligence Manned Drone Market is segmented by Regions Countries All the key market aspects that influence the Artificial Intelligence Manned Drone Market currently",
@@ -1024,49 +1034,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-28-lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv.md",
-      "title": "LG works together with DSP Concepts to deliver superior quality voice command recognition for innovative new premium TV",
-      "excerpt": "DSP Concepts, the creator of the Audio Weaver development framework that powers sound and voice functionality for many of the",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-301451148.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-301451148.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1716992/65ART90.jpg?p=facebook",
-          "width": 1485,
-          "height": 777,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-28T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-28-autonomous-vehicles-market-is-gaining-momentum-by-key-players-tata-motors-tesla-toyota-uber.md",
       "title": "Autonomous Vehicles Market is Gaining Momentum by key players Tata Motors, Tesla, Toyota, Uber",
       "excerpt": "A new research document is added in HTF MI database of 66 pages titled as Autonomous Vehicles Thematic Research with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players and leaders by market share that",
@@ -1106,6 +1073,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy.md",
+      "title": "Transforming Big Data Initiatives Into AI Insights: Board Directors And CEO’s Must Improve Their Digital Literacy",
+      "excerpt": "This blog focuses on strategies to transform enterprise data into strategic real-time AI driven insights, and outlines the requirements for Board Directors, CEOs and leadership teams to increase their data literacy management skills.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca1212809e5da36355466b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/28/transforming-big-data-initiatives-into-ai-insights-board-directors-and-ceos-must-improve-their-digital-literacy/amp/",
+      "publishedDateTime": "2021-12-27T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

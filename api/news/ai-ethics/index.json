@@ -581,6 +581,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-28-2021-in-review-oversight-questions-loom-over-federal-ai-efforts.md",
+      "title": "2021 in review: Oversight questions loom over federal AI efforts",
+      "excerpt": "The Biden administration established several artificial intelligence bodies in 2021 likely to impact ... implementation and sustainability of a national AI research resource, irrespective of the uncertainty surrounding federal oversight.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ai.gov/ai-researchers-portal/",
+      "originalUrl": "https://www.fedscoop.com/questions-around-federal-ai-oversight/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ai.gov/wp-content/uploads/2021/12/RESEARCH-PROGRAM-REPOSITORY.png",
+          "width": 491,
+          "height": 317,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-our-most-technical-people-are-down-on-ai-and-thats-a-good-thing.md",
       "title": "Our most technical people are down on AI ... and that's a good thing",
       "excerpt": "Commentary: The IEEE crowd is skeptical about AI's most bullish claims, which turns out to be exactly what we need to push it forward.",
@@ -1388,58 +1431,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-how-to-contribute-to-better-quality-of-life-with-responsible-ai.md",
-      "title": "How To Contribute To Better Quality Of Life With Responsible AI",
-      "excerpt": "Hitachi is leading with a world-class Responsible AI framework is based on all of the latest ethical standards, legal and best practices, and the company's operational capabilities to manage risk better and work with stakeholders around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ba10461f92a1dd1434b3aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/amp/",
-      "publishedDateTime": "2021-12-15T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-11-30-how-to-remove-bias-from-ai-models.md",
+      "title": "How to remove bias from AI models",
+      "excerpt": "With AI making more real-world decisions everyday, reining in bias is more important than ever. As AI becomes more pervasive, AI-based discrimination is getting the attention of policymakers and corporate leaders but keeping it out of AI-models in the first place is harder than it sounds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-to-remove-bias-from-ai-models/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-remove-bias-from-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/11/29/4b8e4a82-a67b-4109-ba38-9161274c3446/resize/1200x/2ce3b0768b0e30006d45a90e02f1399b/shutterstock-1218220324.jpg",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-remove-bias-from-ai-models/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-remove-bias-from-ai-models/",
+      "publishedDateTime": "2021-11-29T12:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-unesco-launches-global-standard-for-ai-ethics.md",
       "title": "UNESCO launches global standard for AI ethics",
       "excerpt": "Standard aims to provide AI with a strong ethical basis that will not only protect but also promote human rights and human dignity.",

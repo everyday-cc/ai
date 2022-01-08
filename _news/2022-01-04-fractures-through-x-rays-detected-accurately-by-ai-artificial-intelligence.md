@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/fractures-through-x-rays-detected-
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,17 @@ related:
         width: 1600
         height: 960
         isCached: true
+  - title: "Living on the Edge (AI)"
+    excerpt: "We are living in a hyperconnected world, where every device is connected, and are generating data at an unprecedented rate. If we look at a smartwatch or a smartphone, smart cars, smart factories, smart homes,"
+    publishedDateTime: 2022-01-08T10:13:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/living-on-the-edge-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/living-on-the-edge-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/living-on-the-edge-ai/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 37
 
 secured: "5tBuzsu8mbchQiL+GX2s7TedyvFSEhFSPL2V6Tn887ASslb3PV8YjC8Kggs46Y5MSaMk0dYbGmJ2TLJpQOY9N4sw5EtwnpINQXZ7kCTFZ7t21Mexz7Wh7/1eNVrrNbHnt3gzU+tZ6IgYygC6TR/xN5QVXnOB3r3k+mbSWIhIQ5/D8M6z9rjV43KpEzBTZPACjbZAYQ8G3zafwYR/sihlSx0pUDDGXWjOF3bMO7rJu0Az0VO1Ggr8BcmAwHThf1XJX/lx5/SHDnSOX/Uq6YBOpksbb0SMFhrmNu3IUvoBKoXFZyUs6zP68ANQKlVFs3qQXeVgh8kfnlnnvklAhsdeSOTPiAB/ty+jtLegEwjuyMocmrN3ZNdQBS3B8RHIxDTYAw9ihCDbJbgrVOCzk67nQDhVvR+nXg+cJ7LCZVEEENt0HIjvC3otCqaJ4QuVAvPsWaaTm4Z4z6u0DhFN6WRZsMA+V0CmkI07cn+BkNqtNEU4Ym+vkVUIze4D/XBlFZMIFglYIDHu1Flx7ssCrcbY8g==;ghH6dGI1EH2mgTWrp9ra8Q=="
 ---
