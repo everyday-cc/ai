@@ -64,6 +64,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Cyber and AI year"
+    excerpt: "Cyber and AI year. Professional Security magazine online - an essential read for everyone in the security industry."
+    publishedDateTime: 2022-01-05T16:19:00Z
+    webUrl: "https://www.professionalsecurity.co.uk/news/interviews/cyber-and-ai-year/"
+    type: article
+    provider:
+      name: professionalsecurity.co.uk
+      domain: professionalsecurity.co.uk
+    quality: 41
+    images:
+      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2014/02/Ear1.jpg"
+        width: 535
+        height: 547
+        isCached: true
   - title: "Ways AI can help us enter a new age of cybersecurity"
     excerpt: "Artificial Intelligence (AI) is becoming better as we speak. From business operations to home applications, AI is expanding rapidly everywhere across the globe. AI is proving helpful in various"
     publishedDateTime: 2022-01-04T09:52:00Z
@@ -77,6 +91,20 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/01/Picture1.png"
         width: 624
         height: 249
+        isCached: true
+  - title: "Data, AI and cyber on the minds of CEOs"
+    excerpt: "Australia’s leading chief executives are investing billions in technology each year with the stated aim of better serving customers."
+    publishedDateTime: 2022-01-04T08:47:00Z
+    webUrl: "https://www.afr.com/chanticleer/data-ai-and-cyber-on-the-minds-of-ceos-20220104-p59lt0"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 37
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.6039%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_251/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/b542fd221519c296c27b1a58427965d322989400"
+        width: 1200
+        height: 628
         isCached: true
   - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
     excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
@@ -105,20 +133,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/01/07/07/e5/02/fb/86/43/83/84/00P4y00001NP9sOEAT.png"
         width: 270
         height: 270
-        isCached: true
-  - title: "Developing AI and RPA across DHS; cybersecurity and cross-agency collaboration in 2022"
-    excerpt: "On the latest episode of The Daily Scoop Podcast, DHS CTO David Larrimore on cutting-edge technologies at DHS components and Scoop News Group’s Billy Mitchell and Jeff Stone preview their top stories for 2022."
-    publishedDateTime: 2022-01-03T20:31:00Z
-    webUrl: "https://www.fedscoop.com/radio/developing-ai-and-rpa-across-dhs-cybersecurity-and-cross-agency-collaboration-in-2022/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 29
-    images:
-      - url: "https://s3.amazonaws.com/sng-global-web-assets/logo/Favicon_FS.png"
-        width: 629
-        height: 607
         isCached: true
 
 secured: "7TL7j8H663nODw23ouNJkpy5A3bCEzjC+72k/xeCT9oI28FsYI614eut6qBkdLiCPcYoyoYDGbRY17HSecy5gjAwWIUJiBUYkNwWIJIfh45JESKoYsxzsyvNWaSzgfA/UPxujlL/ib9tbso5PP5LDb4kfz27o3vnNISgHJXIEG7Gq9HRs5qOR1LZSZQBFyVaRUaYw8QTFbURy4G1Owmh5Fv3JtvsdYSjrcNE23I/v9g8AyNNdjYFMcDrsdTedTtP7+oze2Fb5I2YsGkBv/cDz4EgLFxNQ0PKvRFdw2dzQpLiqNpo3PSMbozd0xfr9GSKqBgo2JlbtDiZQ11UyufIF4gasPIMFVKeK4GmsdHLrgs9srZH4W+dzzAOib9B+v+mEcz43xVpnwKiDUoMAQleXsx+4nbegbqYsabfglTomnKhk+kiKVbr4EtkeVQZXsIMNuRfQknT4WTjOuv2raOZqKtP2oADO8WJCQWnkcZaLb2fHgtzzRmgHYqIRj9IvfDnRHJZ7/pCYPrecBm4bKfjcQ==;j9dSnX9rkAObn/DrXYfdGg=="

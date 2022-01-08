@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana: Plea against use of facial recognition technology"
-    excerpt: "Hyderabad: The Division Bench headed by Chief Justice Satish Chandra Sharma and Justice Abhinand Kumar Shavili on Monday issued notices to Principal Secretary, Municipal Administration & Urban Affairs and the Hyderabad city police commissioner directing them to respond to the notices on implementation of facial recognition technology in Telangana State within six months."
-    publishedDateTime: 2022-01-03T20:00:00Z
-    webUrl: "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
-    ampWebUrl: "https://www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
-    cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 74
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2021/10/25/1118832-hc.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "Telangana HC notice to state, cops for using face recognition tech"
     excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
     publishedDateTime: 2022-01-04T04:33:00Z
@@ -90,48 +74,6 @@ related:
       - url: "https://mcmscache.epapr.in/post_images/website_350/post_26198901/full.jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Facial recognition technology: Advent of totalitarian utopia?"
-    excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
-    publishedDateTime: 2022-01-04T09:58:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/darisan/facial-recognition-technology-advent-of-totalitarian-utopia-40247/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Facial recognition technology makes for better giant panda protection"
-    excerpt: "While facial recognition technology continues to facilitate many aspects of human life, it is now also being applied to aid the protection of giant pandas. A nature reserve in Northwest China's Gansu province has built an AI-enabled video monitoring system to better protect wild giant pandas."
-    publishedDateTime: 2022-01-06T02:51:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202201/06/WS61d6594ca310cdd39bc7f797.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202201/06/61d6594ca310cdd3d8255110.jpeg"
-        width: 445
-        height: 296
-        isCached: true
-  - title: "Facial recognition technology makes for better giant panda protection"
-    excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
-    publishedDateTime: 2022-01-07T01:54:00Z
-    webUrl: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 39
-    images:
-      - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
-        width: 750
-        height: 422
         isCached: true
   - title: "HC issues notices to TS, city police chief on use of face recognition technology"
     excerpt: "Face Recognition Technology (FRT) by the Telangana police on citizens had no legal backing and not approved by any legislature"

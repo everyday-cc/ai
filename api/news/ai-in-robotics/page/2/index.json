@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-30-san-antonios-plus-one-robotics-is-a-winner-in-rush-to-automate-amid-pandemic.md",
+      "title": "San Antonio’s Plus One Robotics is a winner in rush to automate amid pandemic",
+      "excerpt": "Plus One Robotics is still riding the wave of automation that’s remaking warehouses and other logistics operations. For the second time in less than a year, Erik Nieves is looking to expand the company’s Port San Antonio headquarters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mysanantonio.com/sa-inc/article/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "originalUrl": "https://www.mysanantonio.com/sa-inc/article/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/33/20/21869568/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mysanantonio.com/sa-inc/amp/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "cdnAmpWebUrl": "https://www-mysanantonio-com.cdn.ampproject.org/c/s/www.mysanantonio.com/sa-inc/amp/San-Antonio-s-Plus-One-Robotics-is-a-winner-in-16736491.php",
+      "publishedDateTime": "2021-12-29T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My San Antonio",
+        "domain": "mysanantonio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-worldwide-military-robots-industry-to-2026-integration-with-artificial-intelligence-presents-opportunities.md",
       "title": "Worldwide Military Robots Industry to 2026 - Integration With Artificial Intelligence Presents Opportunities",
       "excerpt": "The \"Military Robots Market Research Report by Type, Operation, and Region - Global Forecast to 2026 - Cumulative Impact of",
@@ -1244,58 +1287,6 @@
         "name": "techxplore.com",
         "domain": "techxplore.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-un-fails-to-agree-on-killer-robot-ban-get-ready-for-the-autonomous-weapons-race.md",
-      "title": "UN fails to agree on ‘killer robot’ ban — get ready for the autonomous weapons race",
-      "excerpt": "Autonomous weapons are a very real threat to humanity. An expert on the weapons explains how the emerging arms race could be humanity’s last.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming",
-      "originalUrl": "https://thenextweb.com/news/un-fails-killer-robot-ban-arms-race-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fkiller-bots.jpeg&signature=e8721fa3d7faa8f7c1aa3cdc4fecbcba",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -48,6 +48,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Atomwise Invited to Present at the 2022 J.P. Morgan Healthcare Conference"
+    excerpt: "a technology-enabled pharmaceutical company leveraging the power of artificial intelligence (AI) to revolutionize small molecule drug discovery, today announced that it has been invited to present next week at the 40th Annual J.P. Morgan Healthcare Conference."
+    publishedDateTime: 2022-01-05T14:49:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-fb7983b7f72521c6f8fe4425d370a162"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 38
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in the 40th Annual J.P. Morgan Healthcare Conference. Alex Zhavoronkov,"
     publishedDateTime: 2022-01-07T10:55:00Z

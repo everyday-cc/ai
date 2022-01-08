@@ -142,20 +142,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Data Science and AI Predictions for 2022"
-    excerpt: "The pace of technological change increased in 2021, and if history is any guide, will continue to accelerate in 2022. At the leading edge of high tech are"
-    publishedDateTime: 2022-01-03T19:48:00Z
-    webUrl: "https://www.datanami.com/2022/01/03/data-science-and-ai-predictions-for-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/brain_gears_shutterstock_Superstar.jpg"
-        width: 1200
-        height: 748
-        isCached: true
   - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
     excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
     publishedDateTime: 2022-01-05T14:00:00Z

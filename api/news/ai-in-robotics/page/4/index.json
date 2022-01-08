@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-14-un-head-calls-for-action-on-killer-robots-as-geneva-talks-start.md",
+      "title": "UN head calls for action on 'killer robots' as Geneva talks start",
+      "excerpt": "UN talks seek new rules on autonomous weapons. Activists petition states to launch binding treaty. Autonomous weapons may have been used in Libya. GENEVA: United Nations Secretary-General Antonio Guterres has called for new rules covering the use of autonomous weapons as a key meeting on the issue opened in Geneva.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
+      "originalUrl": "https://www.geo.tv/latest/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geo.tv/assets/uploads/updates/2021-12-14/l_387580_103201_updates.jpg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
+      "cdnAmpWebUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/387580-un-chief-urges-action-on-killer-robots-as-geneva-talks-open",
+      "publishedDateTime": "2021-12-13T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geo News",
+        "domain": "www.geo.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-softbank-poised-to-complete-first-spac-deal-with-ai-robotics-company-symbotic.md",
       "title": "SoftBank poised to complete first Spac deal with AI robotics company Symbotic",
       "excerpt": "Japanese investor has raised multiple Spacs and has been looking for a deal as market cools .. Full story on ft.com POLICE have launched a witness appealing following a collision involving a police vehicle and an ambulance on a major North Yorkshire road last night.",
@@ -1291,58 +1334,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-data-labeling-will-fuel-the-ai-revolution.md",
-      "title": "Data labeling will fuel the AI revolution",
-      "excerpt": "Labeling data for AI using the right techniques helps companies make better decisions and has a measurable impact on business success.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-12811727531.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/data-labeling-will-fuel-the-ai-revolution/amp/",
-      "publishedDateTime": "2021-12-07T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

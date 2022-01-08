@@ -52,20 +52,6 @@ related:
         width: 878
         height: 500
         isCached: true
-  - title: "The legal pitfalls of using AI in recruitment"
-    excerpt: "Gwynneth Tan highlights the issues employers should be aware of when considering adopting technology into their hiring processes"
-    publishedDateTime: 2022-01-07T12:36:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/experts/legal/legal-pitfalls-using-artificial-intelligence-recruitment"
-    type: article
-    provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 37
-    images:
-      - url: "https://www.peoplemanagement.co.uk/Images/artificial-intelligence_tcm27-104992_w1228_n.jpg"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "y/J2hb7g5+JnMys2chTPPM2GJ/brTDVu+Wfw0CyFuOk4uiZydDvS6/MR8U3ZGHMk9NO2DcGfOrA4BMfQZTPyfCPuGEl8flc9K1j1UC2svL5oiP+L8J0uXme+zleNTcNCtQY4J1aODS3qqNiuoYN1sFi/c7Vwhh5YKxeN6n908S1i/S0QmCA996Bv59YfkktxZNhwXCFuYDUBjCEWXccPfmWVBOmPQCIWqqC5AX3IddheyVvvLoECjGf75h2iJIoAHHKsWHYuR2QEMDw957mcC9GcwhCF4U7H8vxIuzJ7DOsK2I1+tpgRfKoNhOf6ZXcCeCgd+oKIFyyoVo4hxrSDKI8D04NxAVyH6q9ryUeYeMg=;7l2haX9Cp8ygc2Ev+gZF3g=="
 ---

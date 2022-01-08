@@ -7,7 +7,7 @@ originalUrl: "https://journaltimes.com/opinion/editorial/journal-times-editorial
 webUrl: "https://journaltimes.com/opinion/editorial/journal-times-editorial-self-driving-semis-were-not-quite-ready/article_a6d0d8ec-9c3a-5848-9838-474290237e37.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,52 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Tech Time: Self-driving semitruck completes 80-mile route without driver"
-    excerpt: "A self-driving semitruck completed an 80-mile route without a driver. The trip took around an hour."
-    publishedDateTime: 2022-01-03T20:34:00Z
-    webUrl: "https://www.clickondetroit.com/tech/2022/01/03/tech-time-self-driving-semitruck-completes-80-mile-route-without-driver/"
-    ampWebUrl: "https://www.clickondetroit.com/tech/2022/01/03/tech-time-self-driving-semitruck-completes-80-mile-route-without-driver/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/tech/2022/01/03/tech-time-self-driving-semitruck-completes-80-mile-route-without-driver/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 43
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/arc-cf/01-03-2022/t_be4ba64823c14dc885ea94ef0bd12dd3_name_image.jpg?_a=ATABlcW0"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Self-driving autonomous truck run completed in Arizona"
-    excerpt: "Autonomous truck tech developer TuSimple says it completed an 80-mile trip with a Class 8 truck \"without a human in the vehicle and without human intervention.\" Also: Truck parking info signs added on Indiana Toll Road;"
-    publishedDateTime: 2022-01-04T19:08:00Z
-    webUrl: "https://www.overdriveonline.com/equipment/article/15286813/first-selfdriving-autonomous-run-completed-in-arizona"
-    type: article
-    provider:
-      name: Overdrive
-      domain: overdriveonline.com
-    quality: 24
-    images:
-      - url: "https://img.overdriveonline.com/files/base/randallreilly/all/image/2022/01/tusimple_truck.61d31c942e9f0.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 633
-        isCached: true
-  - title: "TuSimple Trials Self-Driving Trucks Amid Trucker Squeeze"
-    excerpt: "As the U.S. trucking industry faces a shortage of more than 80,000 drivers, according to the American Trucking Association, one company is hoping that it can one day fill the gaps by bringing its autonomous trucks nationwide."
-    publishedDateTime: 2022-01-07T22:07:00Z
-    webUrl: "https://sourcingjournal.com/topics/logistics/tusimple-trucker-shortage-autonomous-driverless-self-driving-nvidia-321892/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2022/01/TuSimpleCameras.png?fit=1200%2C674&quality=98&ssl=1"
-        width: 1200
-        height: 674
-        isCached: true
 
 secured: "4NfAuUNjK1v7+hEt+Y/AQ1juHdUUaBfnkXQ4AylBMUbiSOqwZM/Iia71G8sQ/tR5IUqbZ6sVBnXmXoHfh6mAJ+NjtgsHZAPCZDrdhVTVOZmwB5yHuEeqp16CSxDWjz5rBBs9MGDAKWM3sL1dW9J2gjq+s1rJ6KSScu76UA3z9oxSDeR7IXRFvr3SzrhFFzBg095sKkgKgxy4Hh1c4A9n8MKH+Yx9RkLJX/HKiqIt0jycRtryp8qjXPjUZ6SCW7CTE+22GAvnDE0qyfFndUp4mVeJQEFrFGTPOI1GGt1aXcWaMrOb5bJRU2LZ6lHzfsJHogzSHGGYY3VAQeeR9SJxpv6D6NgGl3KIUg/zSdsHoJg=;wJ/SmNeHUHWGAB1xj9KXew=="
 ---

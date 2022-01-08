@@ -9,8 +9,8 @@ ampWebUrl: "https://www.armstrongeconomics.com/world-news/technology-world-news/
 cdnAmpWebUrl: "https://www-armstrongeconomics-com.cdn.ampproject.org/c/s/www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Armstrong Economics
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition technology: Advent of totalitarian utopia?"
+    excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
+    publishedDateTime: 2022-01-04T09:58:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/darisan/facial-recognition-technology-advent-of-totalitarian-utopia-40247/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Tag: Artificial Intelligence Technology Solutions, Inc."
     excerpt: "DETROIT—Robotic Assistance Devices (RAD), a wholly owned subsidiary of Artificial Intelligence Technology Solutions, Inc., announced it has launched a new website, radsecurity.com According to RAD, the new website offers “cleaner,"
     publishedDateTime: 2022-01-07T16:30:00Z

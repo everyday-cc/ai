@@ -2,6 +2,194 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-11-22-aws-to-be-cloud-provider-for-adidas-sap-workloads.md",
+      "title": "AWS to be Cloud Provider for adidas SAP Workloads",
+      "excerpt": "( AMZN ) company, has been selected as the preferred cloud provider for SAP workloads by adidas AG, one of the largest sports brands in the world. With the implementation of the modern SAP S/4HANA platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads",
+      "originalUrl": "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/aws-to-be-cloud-provider-for-adidas-sap-workloads?amp",
+      "publishedDateTime": "2021-11-22T02:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-approyo-inc-migrates-cc-polymers-sap-environment-to-microsoft-azure-cloud.md",
+      "title": "Approyo, Inc. Migrates CC Polymers' SAP Environment to Microsoft AZURE Cloud",
+      "excerpt": "Approyo, Inc., a leader in global SAP & IT Managed Services and Solutions; today announced that Corpus Christi Polymers (CC Polymers) had selected Approyo as its SAP managed solutions and security provider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497402.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497402.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T02:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-amazon-web-services.md",
+      "title": "Adidas Migrates SAP Environments To Amazon Web Services",
+      "excerpt": "Amazon Web Services, an Amazon.com, Inc. company, (AMZN) on Monday announced that global sports brand adidas AG has selected AWS as its preferred cloud provider for SAP workloads. Running business-critical SAP workloads in the cloud would enable adidas to digitize core business processes across its value chain to provide better consumer experiences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
+      "originalUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/adidas-migrates-sap-environments-to-amazon-web-services?amp",
+      "publishedDateTime": "2021-11-21T23:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-adidas-migrates-sap-environments-to-aws.md",
+      "title": "adidas Migrates SAP Environments to AWS",
+      "excerpt": "AWS’s extensive SAP experience allows adidas ... machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.register-herald.com/region/adidas-migrates-sap-environments-to-aws/article_72c1b13e-d407-58bb-8608-c8ede6d9d764.html",
+      "originalUrl": "https://www.register-herald.com/region/adidas-migrates-sap-environments-to-aws/article_72c1b13e-d407-58bb-8608-c8ede6d9d764.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/assets/v3/editorial/3/c0/3c03a442-48bc-11ec-9345-23dff0a00e0a/6196cf346f136.image.jpg?resize=320%2C300",
+          "width": 320,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-21T23:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-facebook-knew-its-algorithms-were-biased-against-people-of-color.md",
+      "title": "Facebook knew its algorithms were biased against people of color",
+      "excerpt": "Internal documents have revealed that Facebook was made aware of online algorithms that were biased against people of color",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/11/21/facebook-algorithm-biased-race/",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-10227659/Facebook-knew-algorithms-biased-against-people-color.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/25C7JVJEQZDABIALDEFJSALEGA.jpg&w=1440",
+          "width": 1440,
+          "height": 756,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-21T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-global-deep-learning-in-machine-vision-market-2021-future-outlook-and-research-studies-to-2027.md",
       "title": "Global Deep Learning in Machine Vision Market 2021 Future Outlook and Research Studies to 2027",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 21, 2021 (CDN Newswire via Comtex) -- Global Deep Learning in Machine Vision Market Growth (Status and Outlook) 2021-2027 is the fresh report by MarketandResearch.biz ...",
@@ -920,247 +1108,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-robots-big-data-as-gulf-nations-bet-on-artificial-intelligence.md",
-      "title": "Robots, big data as Gulf nations bet on artificial intelligence",
-      "excerpt": "Robots puttering around Dubai’s hi-tech Expo site could be a sign of things to come for the Gulf, where new cities are being built from scratch with artificial intelligence at their core. The 5G-enabled Expo,",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "originalUrl": "https://www.malaymail.com/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.malaymail.com/uploads/articles/2021/2021-11/20211121_AI_Expo_Dubai_AFP.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2021/11/21/robots-big-data-as-gulf-nations-bet-on-artificial-intelligence/2022476",
-      "publishedDateTime": "2021-11-20T15:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry.md",
-      "title": "Reshaping Fintech with AI: Top AI Innovations in the Financial Industry",
-      "excerpt": "Banking and finance procedures have been made easier because of the use of AI and machine learning. Check out the top 10 AI innovations in the financial industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry/",
-      "originalUrl": "https://www.analyticsinsight.net/reshaping-fintech-with-ai-top-ai-innovations-in-the-financial-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Reshaping-Fintech-with-AI-Top-AI-Innovations-in-the-Financial-Industry.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-20T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-low-code-and-no-code-may-open-more-doors-to-artificial-intelligence.md",
-      "title": "Low code and no code may open more doors to artificial intelligence",
-      "excerpt": "The jury is still out on whether low and no code platforms can blaze a path to high-end application development -- at least not yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/67eb29774477fdfb5a6bd6f1e0df24ed724e881d/2021/11/20/91e4f4e4-4221-45fe-9094-2aa6ccf22d2b/national-gallery-of-art-washington-dc-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1168,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/low-code-and-no-code-may-open-more-doors-to-artificial-intelligence/",
-      "publishedDateTime": "2021-11-20T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-china-unleashes-might-of-ai-on-next-generation-supercomputer-to-meet-demand-for-more-power.md",
-      "title": "China unleashes might of AI on next-generation supercomputer to meet demand for more power",
-      "excerpt": "Supercomputer recorded a 75,839-fold boost in handling data for machine learning after a breakthrough in memory management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
-      "originalUrl": "https://www.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/11/20/674ecbd8-48f6-11ec-88c2-0bacf4eabd5b_image_hires_095916.jpg?itok=hhkvRXgA&v=1637373565",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/science/article/3156717/china-unleashes-might-ai-next-generation-supercomputer-meet",
-      "publishedDateTime": "2021-11-20T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-20-mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv-viewing-experience.md",
-      "title": "MediaTek unveils Pentonic 2000 chip for next-level 8K 120Hz TV viewing experience",
-      "excerpt": "MediaTek today lifted the curtains on its new Pentonic smart TV family of processors with the introduction of the Pentonic 2000 chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
-      "originalUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2021/11/MediaTek-Pentonic-2000-chipset-for-Smart-TV-featured-image.jpg",
-          "width": 1200,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2021/11/20/mediatek-unveils-pentonic-2000-chip-for-next-level-8k-120hz-tv/?amp=1",
-      "publishedDateTime": "2021-11-20T01:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

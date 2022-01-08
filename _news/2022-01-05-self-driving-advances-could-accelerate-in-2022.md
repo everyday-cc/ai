@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/self-driving-advances-could-accelera
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Nasdaq
@@ -21,38 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "LG Debuts Self-Driving Vehicle Infotainment Package at CES 2022"
-    excerpt: "LG will unveil an in-car infotainment package for autonomous vehicles that will turn cars into a work, exercise or virtual camping space."
-    publishedDateTime: 2022-01-03T19:27:00Z
-    webUrl: "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/"
-    ampWebUrl: "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 59
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/LG-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Self-driving race cars zip into history at CES"
-    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
-    publishedDateTime: 2022-01-08T10:10:00Z
-    webUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.html"
-    ampWebUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tech alliances with chip corporations at CES in self-driving tech world"
     excerpt: "Major automakers like General Motors, or Ford find companies with an upper hand in techs like Tesla and Apple are entering the market."
     publishedDateTime: 2022-01-08T04:25:00Z
@@ -66,6 +34,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/01/JeX_mrWItiY3QwRb80nYiAU_zpUxMFxzvNuiAKpcU1w.jpg"
         width: 533
         height: 300
+        isCached: true
+  - title: "General Motors Unveils Advanced Computing Architecture for Self Driving Cars"
+    excerpt: "General Motors showcased its new computing architecture for its Ultra Cruise system. The architecture was developed in collaboration with Qualcomm, and it involves the first dedicated Snapdragon system-on-chips."
+    publishedDateTime: 2022-01-07T10:31:00Z
+    webUrl: "https://www.autoevolution.com/news/general-motors-unveils-advanced-computing-architecture-for-self-driving-cars-178561.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/general-motors-unveils-advanced-computing-architecture-for-self-driving-cars-178561_1.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "ZFxlTigLDbNhvnwh7/+Ucm/roir2eM6hSnrilPUUnJCvBtvld/uVxoGaoX8USBxua33aC2lQfO4N4N2ly+qgTxSUZ8SWwgWO9vH/nS+knGKWlJrgabHCOpp1xQ+qCLX7FgehB3ELnErUfqsF910e5qDzuU6uTskv9IvF0R5KvnfispPszCKwy/kmVbirMJoXa973gRg7YYUiXVXvmLWq+oC4ImwAVoSDTtYjHrFuGgb3p8D/V5+BRmyx0NBxql9wgxxnq3Qx+SwSe0In4AQIUqQOpzooM2wncv54DcbmXFvielMgp+IhNz7prFKTEZThLCml/UJlY0Bd7AZ97BqevI7qw3roJ5QvSlGZdThYrPY0MXzBQTGogq12Ydx9MxdLQFJ8qEmgY4nIpOWp11VVx3BXnyaUDVyL82QEiqLaKRW2ADqa+sJPe4P/C722wJ83PzaANEDzxVYBQU5i+bV7Tq5gx9BVYnpfdgCZiRN9TTDchNlGlI9M7nvFwKbsoMLzt99TNjn1U0Zq/GVLvMzQSg==;fkWf75d4nr3mJXGXjsKVYw=="

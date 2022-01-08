@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM is apparently looking to sell Watson Health at a time when the healthcare industry is booming"
+    excerpt: "According to an Axios article, IBM may be trying to sell its Watson Health business for as little as $1 billion. Why is IBM avoiding the healthcare vertical at a time when it seems to be heating up, and at such a cheap price?"
+    publishedDateTime: 2022-01-08T11:50:00Z
+    webUrl: "https://bestgamingpro.com/ibm-is-apparently-looking-to-sell-watson-health-at-a-time-when-the-healthcare-industry-is-booming/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 43
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/IBM-reportedly-shopping-Watson-Health-just-as-healthcare-gets-hot.png"
+        width: 600
+        height: 375
+        isCached: true
 
 secured: "6vhFqeUz1xMmSBA4pCq6izeYg0Qj4/fKywFKbFtg+QcfWoBx+EanLogRFfGAdI3EBLDhwtPRcGIjBdF1YWkkHxQEQexq8ekctJyMfNiwgkCugL5OGsr6144EFlZNckryasfkawj7mgnjNnV1nMjiJqblH/GtHqkMf51xHBF2LHZMW2pnC9sHrKQTJnLEQwu4VIqB7bX58+WzlFjMyfplZBYV+yQm6Ku0mZXQ362cPdSYfgLDaU/8nGIQ1GBQMd2/lLdi4PhfUMYANfbLF8laEnNcvGYhbVwFEcSFZYUHSb6XzaDE8VRDGkrpXA37E35Pi4VjGgdHK3EMrRTpqxXwBmLooIdt/a+MHZCagRrpVe4=;+9x46mLXSEo+XvCX1rHQZw=="
 ---

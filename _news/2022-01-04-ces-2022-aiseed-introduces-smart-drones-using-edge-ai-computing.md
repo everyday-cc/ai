@@ -128,20 +128,6 @@ related:
         width: 675
         height: 555
         isCached: true
-  - title: "Data Science and AI Predictions for 2022"
-    excerpt: "The pace of technological change increased in 2021, and if history is any guide, will continue to accelerate in 2022. At the leading edge of high tech are"
-    publishedDateTime: 2022-01-03T19:48:00Z
-    webUrl: "https://www.datanami.com/2022/01/03/data-science-and-ai-predictions-for-2022/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 37
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/brain_gears_shutterstock_Superstar.jpg"
-        width: 1200
-        height: 748
-        isCached: true
   - title: "Popular Trends in Artificial Intelligence in 2022"
     excerpt: "Deep learning models that have been pre-trained are heavily reliant on real-world data. Nevertheless, obtaining data on time and integrating it into"
     publishedDateTime: 2022-01-06T05:58:00Z
