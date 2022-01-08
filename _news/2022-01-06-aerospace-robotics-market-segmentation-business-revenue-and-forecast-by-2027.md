@@ -7,8 +7,8 @@ originalUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segment
 webUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Coub
@@ -25,49 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027"
-    excerpt: "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery."
-    publishedDateTime: 2022-01-03T22:49:00Z
-    webUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/"
-    ampWebUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
+  - title: "Global Molded Fiber Packaging Machine Market 2021 Sales Statistics, Data Analysis, Size Estimation and Application Assessment by 2027"
+    excerpt: "Global Molded Fiber Packaging Machine Market 2021 by Manufacturers, Regions, Type and Application, Forecast to"
+    publishedDateTime: 2022-01-04T19:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-molded-fiber-packaging-machine-market-2021-sales-statistics-data-analysis-size-estimation-and-application-assessment-by-2027-2022-01-04"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 51
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/Logistics-Robots.jpg"
-        width: 696
-        height: 392
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-    excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2022-01-06T05:40:00Z
-    webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
+  - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
+    excerpt: "Emergen Research Logo The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
+    publishedDateTime: 2022-01-06T07:42:00Z
+    webUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growth-Sales-Revenue-and-Key-Drivers-Analysis-Research-Report-by-2027"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 34
+    quality: 40
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?704764"
-        width: 425
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?532764"
+        width: 445
         height: 250
         isCached: true
-  - title: "The Worldwide Learning Management System Industry is Expected to Reach $37.9 Billion by 2026'"
-    excerpt: "The global LMS market is expected to grow from USD 15.8 billion in 2021 to USD 37.9 billion by 2026, at a Compound Annual Growth Rate (CAGR) of 19.1% during the forecast period. The growing need for efficient and accessible learning to drive the LMS Market."
-    publishedDateTime: 2022-01-06T20:40:00Z
-    webUrl: "https://menafn.com/1103500440/The-Worldwide-Learning-Management-System-Industry-is-Expected-to-Reach-379-Billion-by-2026"
+  - title: "Speech Recognition Market Segments, Leading Player, Application and Forecast Analysis 2026"
+    excerpt: "Speech Recognition Market Growth Analysis PORTLAND, OREGON, UNITED STATES, January 5, 2022 /EINPresswire.com / -- Allied Market Research"
+    publishedDateTime: 2022-01-05T08:43:00Z
+    webUrl: "https://menafn.com/1103490484/Speech-Recognition-Market-Segments-Leading-Player-Application-and-Forecast-Analysis-2026"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 13
+    quality: 29
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?860987"
-        width: 416
-        height: 250
+      - url: "https://menafn.com/updates/pr/2022-01/05/EP_5333dimage_story.jpeg"
+        width: 790
+        height: 466
         isCached: true
 
 secured: "J1XNhKbFkR1sp4FI8WoC1/ihTIK5wHsBxDtuRjCpirIrc/zlEQnsPjrQ0wrPMYBbNIXRd/drnecHvV2KnKDIyYO0TpkJfwgmao58uaDBXkH40JXKNi//OfSYx5bLu6oNqXhKXpj6fZeRG2QF9UDJH/77qpMXJiA6tj66zOVBHGj+NkCTgNrFq2nwuF2KNo2xItnaA2wHgaOi8y3uLKf3js5R/uooNaL4hTl4/1SpEhrjRZjT+decrkFM7IHn53gZf1NYusq+VCz/Eq7RDJzEuN41m4Bzsst4HNZVbf8rVgBwsmvUZ7grHCAmNzD/LLxZ+8gG6boHGkj+fwI+Xax2Dn4YOeX6zFlWY65Ij3Uu+bU=;NiYb2sPbIctNfry3tdnNgA=="

@@ -27,50 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Identity verification using Amazon Rekognition"
-    excerpt: "In-person user identity verification is slow to scale, costly, and high friction for users. Machine learning (ML) powered facial recognition technology can enable online user identity verification. Amazon Rekognition offers pre-trained facial recognition capabilities that you can quickly add to your"
-    publishedDateTime: 2022-01-03T22:22:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/03/ML-7111-featured-image2.png"
-        width: 488
-        height: 344
-        isCached: true
-  - title: "Blur faces in videos automatically with Amazon Rekognition Video"
-    excerpt: "With the advent of artificial intelligence (AI) and machine learning (ML), customers and the general public have become increasingly aware of their privacy, as well as the value that it holds in today’s data-driven world. Enterprises are actively seeking out and marketing privacy-first solutions, especially"
-    publishedDateTime: 2022-01-07T19:45:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-5902-image005-new-1260x537.png"
-        width: 1260
-        height: 537
-        isCached: true
-  - title: "HC notice to state, cops for using face recognition tech"
-    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face"
-    publishedDateTime: 2022-01-03T22:27:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/articleshow/88676220.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/amp_articleshow/88676220.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/amp_articleshow/88676220.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
   - title: "LG builds tech to start cars using facial recognition"
     excerpt: "The technology will enable users to start their vehicles as well as make adjustments to control the vehicles through facial expressions and hand gestures."
     publishedDateTime: 2022-01-04T12:24:00Z
@@ -87,49 +43,105 @@ related:
         width: 615
         height: 384
         isCached: true
-  - title: "Swap.com Partners with FIND.Fashion on AI-Powered Visual Search and Emotion Recognition"
-    excerpt: "Swap.com began working with FIND.Fashion visual search to give shoppers artificial intelligence and emotion recognition to search millions of items."
-    publishedDateTime: 2022-01-07T15:38:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
+  - title: "Telangana HC notice to state, cops for using face recognition tech"
+    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
+    publishedDateTime: 2022-01-04T04:33:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 49
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/visual-search-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://etimg.etb2bimg.com/thumb/msid-88680752,imgsize-25546,width-1200,height-628,overlay-etcio/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech.jpg"
+        width: 1200
+        height: 628
         isCached: true
-  - title: "Speech Recognition Market Segments, Leading Player, Application and Forecast Analysis 2026"
-    excerpt: "Speech Recognition Market Growth Analysis PORTLAND, OREGON, UNITED STATES, January 5, 2022 /EINPresswire.com / -- Allied Market Research"
-    publishedDateTime: 2022-01-05T08:43:00Z
-    webUrl: "https://menafn.com/1103490484/Speech-Recognition-Market-Segments-Leading-Player-Application-and-Forecast-Analysis-2026"
+  - title: "Facial recognition panel misses reporting deadline"
+    excerpt: "The commission tasked with delving into public agencies' use of facial recognition software in Massachusetts missed its deadline to file a final report, though one of the co-chairs of the"
+    publishedDateTime: 2022-01-04T11:54:00Z
+    webUrl: "https://www.berkshireeagle.com/statehouse/facial-recognition-panel-misses-reporting-deadline/article_74c141f2-6d5d-11ec-9b14-8f48f9112ed7.html"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Berkshire Eagle
+      domain: berkshireeagle.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/4/f3/4f30f7ec-6d5e-11ec-847d-cb9135b601ad/5fa16dd4822db.image.jpg?crop=1731%2C909%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial recognition technology: Advent of totalitarian utopia?"
+    excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
+    publishedDateTime: 2022-01-04T09:58:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/darisan/facial-recognition-technology-advent-of-totalitarian-utopia-40247/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
+    images:
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Facial recognition technology makes for better giant panda protection"
+    excerpt: "While facial recognition technology continues to facilitate many aspects of human life, it is now also being applied to aid the protection of giant pandas. A nature reserve in Northwest China's Gansu province has built an AI-enabled video monitoring system to better protect wild giant pandas."
+    publishedDateTime: 2022-01-06T02:51:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202201/06/WS61d6594ca310cdd39bc7f797.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202201/06/61d6594ca310cdd3d8255110.jpeg"
+        width: 445
+        height: 296
+        isCached: true
+  - title: "Facial recognition technology makes for better giant panda protection"
+    excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
+    publishedDateTime: 2022-01-07T01:54:00Z
+    webUrl: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
+        width: 750
+        height: 422
+        isCached: true
+  - title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
+    excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
+    publishedDateTime: 2022-01-04T08:03:00Z
+    webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-petition-telangana/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
     quality: 29
     images:
-      - url: "https://menafn.com/updates/pr/2022-01/05/EP_5333dimage_story.jpeg"
-        width: 790
-        height: 466
+      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g4b2d39e33_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Worldwide Face Recognition with Edge Computing Industry to 2026 - Increasing Integration With Ai Drones and Video Surveillance Presents Opportunities"
-    excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to"
-    publishedDateTime: 2022-01-04T17:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-face-recognition-with-edge-computing-industry-to-2026---increasing-integration-with-ai-drones-and-video-surveillance-presents-opportunities-301453537.html"
+  - title: "Ports in US and Hong Kong add contactless ‘self-service immigration’ channels using facial recognition"
+    excerpt: "The rollout comes as Hong Kong also expands its face recognition “non-touch e-channel” service for residents re-entering the territory to entry control points at Kai Tak Cruise Terminal. The New Orleans service has been introduced by US Customs and Border Protection (CBP) and Carnival Cruise Line and uses facial biometric technology that “verifies the traveller’s identity within two seconds and is more than 98% accurate,"
+    publishedDateTime: 2022-01-06T09:28:00Z
+    webUrl: "https://www.nfcw.com/2022/01/06/375467/ports-in-us-and-hong-kong-add-contactless-self-service-immigration-channels-using-facial-recognition/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
+      name: nfcw
+      domain: nfcw.com
+    quality: 23
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://www.nfcw.com/wp-content/uploads/2022/01/facial-recognition-id-check-carnival-cruise-line.jpg"
+        width: 1176
+        height: 760
         isCached: true
 
 secured: "dyS6CoHcZmKe+oSe66QLhjytJ+z7qI65YwZ0BO82uezhZhvlddPR5lF9OJH86OkF/UL8g7NFlxcP/uI2dZXMr14dCCVgYALPB8LkBJJMO8360R5nwSAH6dgu9zvvM2VX8I9nF6fB+Xgj1Ii/2iYUlL+LepUVrR90SQsOj13+8GDa/phTdh+vMZRaiSMpaBhXms9SdVleNCpLrcTAcTNkxROO3sERgv5+pAemp3CBIGUJGhmuR5QELFP1W0Sn5dMCKwbtKtVJA3Nsv4jDjLHSD8KAdUc/Rp1VrG4z91ca8FAvdG7VsjTL51EhVtD8aBX9tw6oGn7nptpnjBsjcYWZnpVZyg0wrUqvG6L1MkY9jKI=;EHZDzQHDcIaRUJW/mgHqyg=="

@@ -50,6 +50,20 @@ related:
         width: 413
         height: 249
         isCached: true
+  - title: "Global Face Recognition using Edge Computing Market Research Report (2021 to 2026) - by Device Type, Component, Application and Region - ResearchAndMa"
+    excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-01-04T09:03:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=594645"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
 
 secured: "SGcDqctOkxXRRHPJZLnioLHqSDIxkNmCVFq6YI4reFkFgeKn9trriaaGwZnsG+vQGNM+WQKAmqqyMfHiSr2mDuBP6mDFvtQuH391OQVrl/KG7Kjpl9zcVsWu4qo68LWsmVixNt2HA/dJzI6WluMHRO2pFnP+rqpvbIIZp6XynV5LqSn7vUDbgFyKlltZQUQFxUsGxPm8YD1mvczKiE/xAZL5SRLuetpMBk0uzkULJY9eE0EHZ6OOZrGMrGmHCpE40gsiIoh/7EoGMDS5qW7lBittl5oLzjPDzcxgCdLRvsRgyTye29aLRjiiSZnOfcKB31+Mir9GZnfmBk2yR6v5LpBDtxNMZp8CWkny2HlkS7U=;kQL2c/7LmJSKeWBn6Bc80g=="
 ---

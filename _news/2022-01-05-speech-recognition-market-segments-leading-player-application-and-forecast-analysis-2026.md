@@ -25,109 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Identity verification using Amazon Rekognition"
-    excerpt: "In-person user identity verification is slow to scale, costly, and high friction for users. Machine learning (ML) powered facial recognition technology can enable online user identity verification. Amazon Rekognition offers pre-trained facial recognition capabilities that you can quickly add to your"
-    publishedDateTime: 2022-01-03T22:22:34Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/"
+  - title: "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027"
+    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2."
+    publishedDateTime: 2022-01-05T23:11:00Z
+    webUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/03/ML-7111-featured-image2.png"
-        width: 488
-        height: 344
-        isCached: true
-  - title: "Blur faces in videos automatically with Amazon Rekognition Video"
-    excerpt: "With the advent of artificial intelligence (AI) and machine learning (ML), customers and the general public have become increasingly aware of their privacy, as well as the value that it holds in today’s data-driven world. Enterprises are actively seeking out and marketing privacy-first solutions, especially"
-    publishedDateTime: 2022-01-07T19:45:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-5902-image005-new-1260x537.png"
-        width: 1260
-        height: 537
-        isCached: true
-  - title: "HC notice to state, cops for using face recognition tech"
-    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face"
-    publishedDateTime: 2022-01-03T22:27:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/articleshow/88676220.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/amp_articleshow/88676220.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/hc-notice-to-state-cops-for-using-face-recognition-tech/amp_articleshow/88676220.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-47529300,width-1070,height-580,imgsize-110164,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1070
-        height: 579
-        isCached: true
-  - title: "LG builds tech to start cars using facial recognition"
-    excerpt: "The technology will enable users to start their vehicles as well as make adjustments to control the vehicles through facial expressions and hand gestures."
-    publishedDateTime: 2022-01-04T12:24:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/sci-tech/technology/7kfqy8/article38110437.ece/ALTERNATES/LANDSCAPE_615/LGfacialjpg"
-        width: 615
-        height: 384
-        isCached: true
-  - title: "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology"
-    excerpt: "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,"
-    publishedDateTime: 2022-01-06T06:00:00Z
-    webUrl: "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/"
-    type: article
-    provider:
-      name: International Banker
-      domain: internationalbanker.com
+      name: Coub
+      domain: coub.com
     quality: 51
     images:
-      - url: "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png"
-        width: 975
-        height: 650
+      - url: "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png"
+        width: 1600
+        height: 840
         isCached: true
-  - title: "Swap.com Partners with FIND.Fashion on AI-Powered Visual Search and Emotion Recognition"
-    excerpt: "Swap.com began working with FIND.Fashion visual search to give shoppers artificial intelligence and emotion recognition to search millions of items."
-    publishedDateTime: 2022-01-07T15:38:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
+  - title: "Global Molded Fiber Packaging Machine Market 2021 Sales Statistics, Data Analysis, Size Estimation and Application Assessment by 2027"
+    excerpt: "Global Molded Fiber Packaging Machine Market 2021 by Manufacturers, Regions, Type and Application, Forecast to"
+    publishedDateTime: 2022-01-04T19:24:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-molded-fiber-packaging-machine-market-2021-sales-statistics-data-analysis-size-estimation-and-application-assessment-by-2027-2022-01-04"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 49
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/visual-search-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Worldwide Face Recognition with Edge Computing Industry to 2026 - Increasing Integration With Ai Drones and Video Surveillance Presents Opportunities"
-    excerpt: "The \"Face Recognition using Edge Computing Market Research Report by Device Type, Component, Application, and Region - Global Forecast to"
-    publishedDateTime: 2022-01-04T17:45:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/worldwide-face-recognition-with-edge-computing-industry-to-2026---increasing-integration-with-ai-drones-and-video-surveillance-presents-opportunities-301453537.html"
+  - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
+    excerpt: "Emergen Research Logo The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
+    publishedDateTime: 2022-01-06T07:42:00Z
+    webUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growth-Sales-Revenue-and-Key-Drivers-Analysis-Research-Report-by-2027"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 15
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 40
     images:
-      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-        width: 800
-        height: 419
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?532764"
+        width: 445
+        height: 250
         isCached: true
 
 secured: "F/aviERAhG7vpNXA4BGLo6aqegcl7dOs4advu85eoRO9as1RiQy6Q/LID0g/kbsqut6bClezxnbxEDX8gh4b59sl43pz2dgEMh06NvZuxztjX1Kgt2nj5K7OyH8OXcfaKl6D/5IMo9fgbnq8r/d2tjqKJraYFszlI6pLNO0IMxK8D94dvc6CXbz2S4nxnt5avWklWus/YLQ7CnNaVcqPxHtHNWF5YlMxmAUr9XRpNIiWZRiT/rEifduxJ3QKlh9ar8dy+50Gi5qv3T+NUSqJp/Nak2bUVNsoOR5KrGutks1orD/sFoPA/xI/tW0Ceh95riPeU3Mzp0jQOg9h0qne55hxBYw4tfH2yhe0DRn44AM=;fb0OjiydSeMsrpyIRsnyQA=="

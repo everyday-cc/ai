@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/protai-8-million/amp/"
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/protai-8-million/amp/"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/physics-6780710_1280.jpg"
         width: 900
         height: 600
-        isCached: true
-  - title: "Merck leans into AI with $610M in biobucks for Absci drug discovery pact"
-    excerpt: "Merck is taking a deep dive into complex proteins with the help of AI-powered drug discovery company Absci. The two companies have signed a research collaboration for up to three targets in a deal worth up to $610 million in upfront fees and milestone payments."
-    publishedDateTime: 2022-01-07T14:55:00Z
-    webUrl: "https://www.fiercebiotech.com/biotech/merck-leans-into-ai-610m-biobucks-for-absci-drug-discovery-pact"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 36
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1641570125/ArtificialIntelligence-g-Igor%20Kutyaev-800.jpg/ArtificialIntelligence-g-Igor%20Kutyaev-800.jpg?VersionId=b.m.ahpjnibJ0RQVA7B_5yrdO8e8GJ4f"
-        width: 800
-        height: 500
         isCached: true
   - title: "AI Powers Autonomous Materials Discovery"
     excerpt: "Cornell University researchers have developed an artificial intelligence tool that aims to speed up the process of materials discovery."

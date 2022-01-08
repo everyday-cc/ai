@@ -71,6 +71,20 @@ related:
         width: 966
         height: 487
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market (2021 to 2026) - Rising Investments In Advanced Drug Discovery & Development Processes Presents Oppor"
+    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The healthcare artificial intelligence market is expected to reach USD 44."
+    publishedDateTime: 2022-01-04T10:51:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=594718"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Global Disposable Pipette Tips Market Forecast Report 2021-2028 - Use of Artificial Intelligence (AI) and Biomarkers in Biomarker-Related Analysis and"
     excerpt: "The \"Disposable Pipette Tips Market Forecast to 2028 - COVID-19 Impact and Global Analysis\" report has been added to ResearchAndMarkets.com's offering. The disposable pipette tips market is projected to reach US$ 166."
     publishedDateTime: 2022-01-07T09:03:00Z

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana HC notice to state, cops for using face recognition tech"
-    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
-    publishedDateTime: 2022-01-04T04:33:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88680752,imgsize-25546,width-1200,height-628,overlay-etcio/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Telangana’s facial recognition technology comes under scanner"
     excerpt: "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places."
     publishedDateTime: 2022-01-05T19:05:00Z
@@ -75,6 +59,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Law enforcement facial recognition use under scrutiny in Ireland, India"
+    excerpt: "Discrepancies in proposed usage statements and pressure from civil rights groups and activists is putting facial recognition technology in the spotlight."
+    publishedDateTime: 2022-01-04T19:46:00Z
+    webUrl: "https://www.biometricupdate.com/202201/law-enforcement-facial-recognition-use-under-scrutiny-in-ireland-india"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
+        width: 937
+        height: 482
+        isCached: true
   - title: "HC issues notices to TS, city police chief on use of face recognition technology"
     excerpt: "Face Recognition Technology (FRT) by the Telangana police on citizens had no legal backing and not approved by any legislature"
     publishedDateTime: 2022-01-04T04:21:00Z
@@ -88,20 +86,6 @@ related:
       - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-75lj8mdissrd4lhad5004cguf0-20220103221514.Medi.jpeg"
         width: 800
         height: 448
-        isCached: true
-  - title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
-    excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
-    publishedDateTime: 2022-01-04T08:03:00Z
-    webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-petition-telangana/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 29
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g4b2d39e33_1280.jpg"
-        width: 1280
-        height: 853
         isCached: true
 
 secured: "7braDdoKqQ9p7zZVI6I8GX8QlKV7ns1U6ZBHnewKmR4nD5tiwYnPsYsP6EN3N+z6v1fYk5Lyo/rY3mTCfpxiyDU58Nt+BprMODc5MZi9qJ7KKnjtfeRsC4DArDHiDqnk5FTHTRLBDm9WS9Gpr4kLwPPfz4nNJ5/+7yvrnk1j0oTnx56PazqVBcLnj+7wpu8VQ6vHIZ58XQvW8n6noN+zgQ76moRzmKspsJxQabbG5SxLloOmoP3LPit+pxELxgIy0cIdQwQfvTbrIpQThyP35PjdJkbCHcaeUK+f3PHlANQl/je2R+l4NDYgRmp5W/Yvrz1fT7RQXoWhu0RfgbWH8M93vIXrnG0g71qdH4kMhnYG5wdtG2YXevUc9afyRBj8v/ycLcF4KDl3p4+9M4a2zRvUlZeCdoq3KzQWBsFw0d0Mb9F10g5QBJttpnCjE5DvDaA9i1Ly+NduT/bOoWa4PgQSxthAhoImGd+zTu44AFcV9qNni5Z6wmXWmOYX5k13/mD1XKRhjo7P0T9yG1WVYA==;W+tq79IZxicu1G5nriTPNg=="

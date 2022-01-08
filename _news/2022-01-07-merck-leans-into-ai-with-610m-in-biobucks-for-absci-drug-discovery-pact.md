@@ -24,61 +24,96 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI for drug discovery…"
-    excerpt: "Protai, an Israeli MedTech company is changing the way new drugs are discovered with their AI-powered platform… Protai, an Israeli AI-powered drug discovery start-up, today announced its emergence from stealth,"
-    publishedDateTime: 2022-01-05T13:05:00Z
-    webUrl: "https://www.geektime.com/protai-8-million/"
-    ampWebUrl: "https://www.geektime.com/protai-8-million/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/protai-8-million/amp/"
+  - title: "Sanofi makes AI play, putting up $100M and billions in biobucks to form broad deal with Exscientia"
+    excerpt: "Sanofi is getting deeper into AI-driven R&D. After working with AI drug discovery shop Exscientia for five years, Sanofi has significantly expanded its relationship, putting up $100 million and $5.2 billion on the backend for the chance to work on up to 15 small molecules across oncology and immunology."
+    publishedDateTime: 2022-01-07T05:01:00Z
+    webUrl: "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia"
     type: article
     provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 123
     images:
-      - url: "https://www.geektime.com/content/images/2022/01/national-cancer-institute-_gAE02nLoWs-unsplash.jpg"
-        width: 2000
-        height: 1329
+      - url: "https://qtxasset.com/fiercebiotech/1641487855/Sanofi.jpg/Sanofi.jpg?VersionId=iGMK6OHqHmXYmaa5FawGN5L8VNKX49li"
+        width: 800
+        height: 541
         isCached: true
-  - title: "The largest suite of cosmic simulations for AI training, free to download, already spurring discoveries"
-    excerpt: "Totaling 4,233 universe simulations, millions of galaxies and 350 terabytes of data, a new release from the CAMELS project is a treasure trove for cosmologists. CAMELS—which stands for Cosmology and Astrophysics with MachinE Learning Simulations—aims to use those simulations to train artificial intelligence models to decipher the universe's properties."
-    publishedDateTime: 2022-01-07T14:51:00Z
-    webUrl: "https://phys.org/news/2022-01-largest-cosmic-simulations-ai-free.html"
-    ampWebUrl: "https://phys.org/news/2022-01-largest-cosmic-simulations-ai-free.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-largest-cosmic-simulations-ai-free.amp"
+  - title: "Sanofi partners with AI firm Exscientia to develop up to 15 new drugs"
+    excerpt: "French drugmaker Sanofi SA SASY.PA will partner with British AI firm Exscientia Plc EXAI.O to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to $5.2 billion in milestone payments,"
+    publishedDateTime: 2022-01-07T05:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs"
+    ampWebUrl: "https://www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/sanofi-partners-with-ai-firm-exscientia-to-develop-up-to-15-new-drugs?amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 41
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "Healthcare group Sanofi forms research deal with the company Exscientia"
+    excerpt: "French healthcare company Sanofi, which has been under pressure to revive its drug pipeline after some setbacks in the COVID-19 vaccine race, announced on Friday a research deal with the company Exscientia to develop new medicines."
+    publishedDateTime: 2022-01-07T06:44:00Z
+    webUrl: "https://www.channelnewsasia.com/business/healthcare-group-sanofi-forms-research-deal-company-exscientia-2420706"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-largest-suite-of-c.jpg"
-        width: 1024
-        height: 575
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--VLEtxmPC--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-01-07t064223z_2_lynxmpei06064_rtroptp_3_sanofi-results.jpg?itok=gm1J4PRI"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "New AI Could Discover Hidden Physical Laws"
-    excerpt: "A new artificial intelligence (AI) technology that could discover hidden physical laws has been developed by researchers at Kobe University and Osaka University. The AI can extract hidden equations of motion from regular observational data,"
-    publishedDateTime: 2022-01-07T19:46:00Z
-    webUrl: "https://www.unite.ai/new-ai-could-discover-hidden-physical-laws/"
+  - title: "Sanofi partners with AI firm Exscientia to develop up to 15 new drugs"
+    excerpt: "French drugmaker Sanofi SA will partner with British AI firm Exscientia Plc to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to US$5.2 billion in milestone payments,"
+    publishedDateTime: 2022-01-07T18:59:00Z
+    webUrl: "https://www.channelnewsasia.com/business/sanofi-partners-ai-firm-exscientia-develop-15-new-drugs-2420736"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 37
     images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/physics-6780710_1280.jpg"
-        width: 900
-        height: 600
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--ULGSC9r3--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-01-07t065402z_3_lynxmpei0605t_rtroptp_3_sanofi-results.jpg?itok=QpDT4toX"
+        width: 1200
+        height: 676
         isCached: true
-  - title: "AI Powers Autonomous Materials Discovery"
-    excerpt: "Cornell University researchers have developed an artificial intelligence tool that aims to speed up the process of materials discovery."
-    publishedDateTime: 2022-01-04T18:31:00Z
-    webUrl: "https://cacm.acm.org/news/257671-ai-powers-autonomous-materials-discovery"
+  - title: "Sanofi bets big on AI again, paying $100M to start drug R&D pact with Exscientia"
+    excerpt: "Sanofi’s new alliance with artificial intelligence biotech Exscientia spans up to 15 small molecule drugs in cancer and immunology. If drugs from the partnership reach the market, Exscientia could earn as much as $5."
+    publishedDateTime: 2022-01-07T16:15:00Z
+    webUrl: "https://medcitynews.com/2022/01/sanofi-bets-big-on-ai-again-paying-100m-to-start-drug-rd-pact-with-exscientia/"
     type: article
     provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 32
+    images:
+      - url: "https://medcitynews.com/uploads/2021/04/GettyImages-1230836886.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Exscientia and Sanofi establish strategic research collaboration to develop AI-driven pipeline of precision-engineered medicines"
+    excerpt: "Collaborative efforts aim to accelerate drug discovery and improve clinical success Agreement to utilize Exscientia’s AI-based capabilities and personalised medicine platform from target identification through patient selection Research will be focused on up to 15 novel small molecule candidates across oncology and immunology Exscientia will receive an upfront cash payment of $100 million with the potential of $5."
+    publishedDateTime: 2022-01-07T06:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/coronavirus-pandemic-business-health-531f9bb727e741335053eb4f43091797"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Sanofi, Ex­sci­en­tia ink the next AI megadeal, sign­ing terms on a $100M up­front pact with up to 15 drugs on the line"
+    excerpt: "Drug R&D has for years had an abysmal track record of success, with the vast majority of drug candidates never making it to market. The promise of AI to shorten the discovery time for new drugs and up"
+    publishedDateTime: 2022-01-07T06:01:00Z
+    webUrl: "https://endpts.com/sanofi-exscientia-ink-the-next-ai-megadeal-signing-terms-on-a-100m-upfront-pact-with-up-to-15-drugs-on-the-line/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 0
 
 secured: "YW3kaYU/5cZ7nDg9FHHt3rnobE1yHi6tOYOzk56ZOmRx/gxY4ww7BNDjuLkaa5FVOoPIgQiXNnL3B8rDi4J6oYDXo2xpQ65c/haADuc5gD8Yuw3MHiil2XsIxWCXPuqQ7eDnm4DvEXK6OWOcS3RsvtkpcCzgGcfHkEAuplEUFcXKXbwFDaOFIq1O9qW7UPItWowQQzrDapsEVGuVpbDMQyK26MJekFddcVNdkRuIc2kPwQSw0cplFsnCTCUiotYllY+k/scnfg2xVn77dcSq0BCgEQYOLgLZhmo2UGl9V+1UlFEYdnb3pJpv6UBsHgb3ivl1R6f+dzUopG31+KCLDPK9ZWaRhxqu8a059re9/SM=;j5vdOSWt1bgcOOf0fAuiLw=="
 ---

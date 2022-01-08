@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103500440/The-Worldwide-Learning-Management-Sy
 webUrl: "https://menafn.com/1103500440/The-Worldwide-Learning-Management-System-Industry-is-Expected-to-Reach-379-Billion-by-2026"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027"
-    excerpt: "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery."
-    publishedDateTime: 2022-01-03T22:49:00Z
-    webUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/"
-    ampWebUrl: "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/"
+  - title: "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com"
+    excerpt: "The Global Image Recognition Market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026. Alphabet Inc. Hitachi Ltd. Honeywell International Inc."
+    publishedDateTime: 2022-01-05T11:29:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595571"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 51
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 3
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/Logistics-Robots.jpg"
-        width: 696
-        height: 392
-        isCached: true
-  - title: "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027"
-    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2."
-    publishedDateTime: 2022-01-05T23:11:00Z
-    webUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
-    type: article
-    provider:
-      name: Coub
-      domain: coub.com
-    quality: 51
-    images:
-      - url: "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-    excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2022-01-06T05:40:00Z
-    webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?704764"
-        width: 425
-        height: 250
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "PucO0O4wHxdOuVWCx92dFcurZ2qt/XmY4sOJGL6mvKhU/kRhtr5MwtSghR1j2eNH3e2pxrYvn1Wek9TNVH/s0tTKTCXgaOJGC9wjBN2FhRTRsvx7ZsvGfmzzBR2Jt3rKfcxk7Wt4peRJa2KbJy4iAmDcIVdbF2uwLXIbHoxER7MwUX7ktEryOhkOv4/faP0IAeXJ8JKdv+f5gx77TEWr+3Djr/VBgTGB/6UfcdxWowzfAayRWk+iDvMigQ3d1XqthnbHUY804yz18kms+SKndcrmg4Jf+zBYognc3Orw7FG9zWm89XARmCrXtl8tN6MystR5xmQSAjWu+v2IQQ8jlzm/NPWyvfSwX1EugcRcRUg=;rbz/DQi2lKMr5EdWC+Tmzw=="

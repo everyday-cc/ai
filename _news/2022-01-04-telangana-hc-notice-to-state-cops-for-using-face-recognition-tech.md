@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/tel
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
 type: article
 quality: 59
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -27,67 +27,91 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana’s facial recognition technology comes under scanner"
-    excerpt: "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places."
-    publishedDateTime: 2022-01-05T19:05:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html"
-    ampWebUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
+  - title: "LG builds tech to start cars using facial recognition"
+    excerpt: "The technology will enable users to start their vehicles as well as make adjustments to control the vehicles through facial expressions and hand gestures."
+    publishedDateTime: 2022-01-04T12:24:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: The Hindu
+      domain: thehindu.com
     quality: 59
     images:
-      - url: "https://images.hindustantimes.com/img/2022/01/05/1600x900/aa424bd6-6e53-11ec-9428-b30a84c15666_1641409525856.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.thehindu.com/sci-tech/technology/7kfqy8/article38110437.ece/ALTERNATES/LANDSCAPE_615/LGfacialjpg"
+        width: 615
+        height: 384
         isCached: true
-  - title: "Telangana HC Issues Notice on PIL Challenging Use of Facial Recognition Technology"
-    excerpt: "The PIL was filed by activist S.Q. Masood who was stopped by Hyderabad police in May last year and asked to take his mask off so they could take his photo, despite the second wave of COVID raging. When he refused,"
-    publishedDateTime: 2022-01-04T06:32:00Z
-    webUrl: "https://thewire.in/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology"
-    ampWebUrl: "https://m.thewire.in/article/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology/amp"
-    cdnAmpWebUrl: "https://m-thewire-in.cdn.ampproject.org/c/s/m.thewire.in/article/law/telangana-hc-issues-notice-on-pil-challenging-use-of-facial-recognition-technology/amp"
+  - title: "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology"
+    excerpt: "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,"
+    publishedDateTime: 2022-01-06T06:00:00Z
+    webUrl: "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/"
     type: article
     provider:
-      name: The Wire
-      domain: thewire.in
-    quality: 53
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 51
     images:
-      - url: "https://mcmscache.epapr.in/post_images/website_350/post_26198901/full.jpeg"
+      - url: "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png"
+        width: 975
+        height: 650
+        isCached: true
+  - title: "Facial recognition panel misses reporting deadline"
+    excerpt: "The commission tasked with delving into public agencies' use of facial recognition software in Massachusetts missed its deadline to file a final report, though one of the co-chairs of the"
+    publishedDateTime: 2022-01-04T11:54:00Z
+    webUrl: "https://www.berkshireeagle.com/statehouse/facial-recognition-panel-misses-reporting-deadline/article_74c141f2-6d5d-11ec-9b14-8f48f9112ed7.html"
+    type: article
+    provider:
+      name: Berkshire Eagle
+      domain: berkshireeagle.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/4/f3/4f30f7ec-6d5e-11ec-847d-cb9135b601ad/5fa16dd4822db.image.jpg?crop=1731%2C909%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Telangana HC notices to government, Hyderabad police chief over use of facial recognition tech"
-    excerpt: "A PIL was filed in the Telangana HC challenging the deployment of facial recognition tech without any valid law on various grounds including violation of right to privacy, rule of law and equality."
-    publishedDateTime: 2022-01-04T02:24:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
+  - title: "Facial recognition technology: Advent of totalitarian utopia?"
+    excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
+    publishedDateTime: 2022-01-04T09:58:00Z
+    webUrl: "https://timesofindia.indiatimes.com/readersblog/darisan/facial-recognition-technology-advent-of-totalitarian-utopia-40247/"
     type: article
     provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 47
+      name: India Times
+      domain: indiatimes.com
+    quality: 39
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/18/w600X390/Telangana_High_Court.jpg"
-        width: 600
-        height: 390
+      - url: "https://static.toiimg.com/photo/75476733.cms"
+        width: 640
+        height: 360
         isCached: true
-  - title: "HC issues notices to TS, city police chief on use of face recognition technology"
-    excerpt: "Face Recognition Technology (FRT) by the Telangana police on citizens had no legal backing and not approved by any legislature"
-    publishedDateTime: 2022-01-04T04:21:00Z
-    webUrl: "https://www.deccanchronicle.com/nation/current-affairs/030122/hc-issues-notices-to-ts-city-police-chief-on-use-of-frt.html"
+  - title: "Facial recognition technology makes for better giant panda protection"
+    excerpt: "While facial recognition technology continues to facilitate many aspects of human life, it is now also being applied to aid the protection of giant pandas. A nature reserve in Northwest China's Gansu province has built an AI-enabled video monitoring system to better protect wild giant pandas."
+    publishedDateTime: 2022-01-06T02:51:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202201/06/WS61d6594ca310cdd39bc7f797.html"
     type: article
     provider:
-      name: Deccan Chronicle
-      domain: deccanchronicle.com
-    quality: 34
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
     images:
-      - url: "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-75lj8mdissrd4lhad5004cguf0-20220103221514.Medi.jpeg"
-        width: 800
-        height: 448
+      - url: "http://img2.chinadaily.com.cn/images/202201/06/61d6594ca310cdd3d8255110.jpeg"
+        width: 445
+        height: 296
+        isCached: true
+  - title: "Facial recognition technology makes for better giant panda protection"
+    excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
+    publishedDateTime: 2022-01-07T01:54:00Z
+    webUrl: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
+        width: 750
+        height: 422
         isCached: true
   - title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
     excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
@@ -102,6 +126,20 @@ related:
       - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g4b2d39e33_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Ports in US and Hong Kong add contactless ‘self-service immigration’ channels using facial recognition"
+    excerpt: "The rollout comes as Hong Kong also expands its face recognition “non-touch e-channel” service for residents re-entering the territory to entry control points at Kai Tak Cruise Terminal. The New Orleans service has been introduced by US Customs and Border Protection (CBP) and Carnival Cruise Line and uses facial biometric technology that “verifies the traveller’s identity within two seconds and is more than 98% accurate,"
+    publishedDateTime: 2022-01-06T09:28:00Z
+    webUrl: "https://www.nfcw.com/2022/01/06/375467/ports-in-us-and-hong-kong-add-contactless-self-service-immigration-channels-using-facial-recognition/"
+    type: article
+    provider:
+      name: nfcw
+      domain: nfcw.com
+    quality: 23
+    images:
+      - url: "https://www.nfcw.com/wp-content/uploads/2022/01/facial-recognition-id-check-carnival-cruise-line.jpg"
+        width: 1176
+        height: 760
         isCached: true
 
 secured: "KUPaxzlvZxIp5s2bqdjXYAZiP1J3Vx4a9So3FDV9jCYyVoNmXvOgHM+2/GVyaK5bUXxt9xdDOA7cANDaq/MxH+c5A6/jDQVgT1akHPrrcnf5tX66+QCJxkBIR+ZaNLTUSaPYqRjfTPhZ185F+2ppaycGPuKgZInDKxFU3jtrbXukOhEIA+XV6KP6/mjDmHUhMlNNviKtUidR4BuZbKrNQ1Q2K/BrIc+s/xnco2KV0rk2eLOAlAyoHXcnhuLp9QEr163eJGoBgYM+fAKSGUA+Bk3Hh31PFNzbUQMMiaJRdi6zEYkhFqtzZB4CKnXdWjTpzX6JQowR4t/4Ni+g3DlbeTIWeJ1lao2DSn9UYng4lXM=;Jc3T+qUanMtRaUZqv0yeSw=="

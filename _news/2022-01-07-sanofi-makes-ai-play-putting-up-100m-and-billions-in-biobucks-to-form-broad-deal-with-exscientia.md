@@ -6,9 +6,9 @@ publishedDateTime: 2022-01-07T05:01:00Z
 originalUrl: "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia"
 webUrl: "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia"
 type: article
-quality: 23
-heat: -1
-published: false
+quality: 123
+heat: 193
+published: true
 
 provider:
   name: FierceBiotech
@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Merck leans into AI with $610M in biobucks for Absci drug discovery pact"
+    excerpt: "Merck is taking a deep dive into complex proteins with the help of AI-powered drug discovery company Absci. The two companies have signed a research collaboration for up to three targets in a deal worth up to $610 million in upfront fees and milestone payments."
+    publishedDateTime: 2022-01-07T14:55:00Z
+    webUrl: "https://www.fiercebiotech.com/biotech/merck-leans-into-ai-610m-biobucks-for-absci-drug-discovery-pact"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 36
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1641570125/ArtificialIntelligence-g-Igor%20Kutyaev-800.jpg/ArtificialIntelligence-g-Igor%20Kutyaev-800.jpg?VersionId=b.m.ahpjnibJ0RQVA7B_5yrdO8e8GJ4f"
+        width: 800
+        height: 500
+        isCached: true
   - title: "Sanofi bets big on AI again, paying $100M to start drug R&D pact with Exscientia"
     excerpt: "Sanofi’s new alliance with artificial intelligence biotech Exscientia spans up to 15 small molecule drugs in cancer and immunology. If drugs from the partnership reach the market, Exscientia could earn as much as $5."
     publishedDateTime: 2022-01-07T16:15:00Z
@@ -101,6 +115,6 @@ related:
       domain: endpts.com
     quality: 0
 
-secured: "jNXnUL46kRN4gExQM5Gz4DUCDcHFnhUC6TUGFyPjiO2y7ZRJd+FQdrWYawND04qPOeq1/Bh3GCyt7PqBThqykEzL7viZOGqOJEaH8rhNjhdOxBFKQAEHw6rVn0GUHaEwuPDPg0oOlgZD7P1ROE86PcH1CtsC5jfOTU+PjeRR0LslN/ucnRQ8RcXUcjwSKtQgdMbkQNcAvzjWNgBhrX3q0HEbVch2n/+Cf26BdwNqxtsNU5RwpFgPtmzvNLIQ79AGcEgnxSMpPwL5kqR1lWjb++I040ueoJZKVxs8qEjVssVIHDa7gMoZI9KxzwV2vp88U3EfrCsCD5semxUEuNCuavpduomuKJf77SqRcU+jf9M=;SooxgvC4gcMwy4CrTwCcvQ=="
+secured: "wx3jTBtYy0Fd1rl8N0f6R0Nw/V6ZQ59EldGNAYKBvmNWaVrEfec34fDkBa/Z26Vw02VYTF0bO6CkwZ9umKhk+aWRC3Z7L1JTtfibHk20NCMpwSH5tkfI5B68nTFYST+9vXumhVZCswHqmm4TumkXVXRkQwIzAzfOyXmyMTSSjHw8l5eB1FRxLnPp9dvAIdls7qFJ6ezxMsLQrInGvZCTgXz8EsVk9UJKuEv11qpE8Kw5LpcQSrclO/nlSb8nCjd1WWKvGPv8GmIaoirQWEnYZXw0vc25xOukDpMWdE1APe35YSL7zG2HnrMnk9Tael/z0PLz8/0gfiyiSTST3nt+aLLzkQLb9mcpriVk2Zic9cqk/RF+jZRdv+Afx+pqeUUeiAtGd1WfVaAEcgunjtrljdfCC0/7DHZfGynKwPkAkJ2Ltjn1XGATpbZusRwxCJvst8/IdBwvZdivUNq1Q6xZag6DB9xGySm/5dGptpApSfVyB1lHfqCjEH82RgcCJ9U+U0UFic5zIv0DPmObbxRRm9qMHYytOfIIJat29g4udvU=;hk5eUvyDNF5jnPIva1Nq3w=="
 ---
 

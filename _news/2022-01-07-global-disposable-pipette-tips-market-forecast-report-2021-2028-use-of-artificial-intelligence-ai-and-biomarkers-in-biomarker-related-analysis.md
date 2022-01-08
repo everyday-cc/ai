@@ -81,6 +81,20 @@ related:
         width: 966
         height: 487
         isCached: true
+  - title: "Global Healthcare Artificial Intelligence Market (2021 to 2026) - Rising Investments In Advanced Drug Discovery & Development Processes Presents Oppor"
+    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering. The healthcare artificial intelligence market is expected to reach USD 44."
+    publishedDateTime: 2022-01-04T10:51:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=594718"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
   - title: "Global Intelligent Apps Market to Witness Growth Opportunities from Advancements in Machine Learning Opportunities, says Fortune Business Insights"
     excerpt: "The global Intelligent App Market is likely to grow in the coming years, favoured by increasing number of smart phone"
     publishedDateTime: 2022-01-05T06:19:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana HC notice to state, cops for using face recognition tech"
-    excerpt: "The Telangana high court on Monday issued notices to the state and Hyderabad police commissioner to respond to a PIL questioning alleged use of Face .."
-    publishedDateTime: 2022-01-04T04:33:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech/88680752"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88680752,imgsize-25546,width-1200,height-628,overlay-etcio/telangana-hc-notice-to-state-cops-for-using-face-recognition-tech.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Telangana’s facial recognition technology comes under scanner"
     excerpt: "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places."
     publishedDateTime: 2022-01-05T19:05:00Z
@@ -89,19 +73,19 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
-    excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
-    publishedDateTime: 2022-01-04T08:03:00Z
-    webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-petition-telangana/"
+  - title: "Law enforcement facial recognition use under scrutiny in Ireland, India"
+    excerpt: "Discrepancies in proposed usage statements and pressure from civil rights groups and activists is putting facial recognition technology in the spotlight."
+    publishedDateTime: 2022-01-04T19:46:00Z
+    webUrl: "https://www.biometricupdate.com/202201/law-enforcement-facial-recognition-use-under-scrutiny-in-ireland-india"
     type: article
     provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 29
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
     images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g4b2d39e33_1280.jpg"
-        width: 1280
-        height: 853
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
+        width: 937
+        height: 482
         isCached: true
 
 secured: "CwzOhHO5mcKZ5j7zBeJELGNe/X9qkeamnCsygZpKg/KeuZDF3zWBFWfVppUOJuRWJ0SAkJLDk4PEzV+BKWRwYg42x9xssV6n8kYhjvYsfO3DpEJ9MoCFniyLgz4uMpeCXSzDFwG49iwZET0N8eKq/GyFF6bzNyrLUS1vgpBm66wwkuGx96pNSFw6pugDB6to9Cp6VCVmrtCR6c8o3t1wjyT/+0TYylQcUhKjX8P307iIMUGIXhIpz3DrCmKmUWptdzANWHEtSlj/T9ezV6/5S/AyGFU4B89tfzmoxsXsTh1su/OW/mtMV28eaLDqiQYqBlCFU4sMUI0yf74sJ0+xI1+PXVHC4vrPCE+go5+jqcU=;EvaZ4RdYORoO2Gmip8+9ew=="

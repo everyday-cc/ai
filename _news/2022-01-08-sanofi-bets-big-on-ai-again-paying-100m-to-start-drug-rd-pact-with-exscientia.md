@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sanofi makes AI play, putting up $100M and billions in biobucks to form broad deal with Exscientia"
+    excerpt: "Sanofi is getting deeper into AI-driven R&D. After working with AI drug discovery shop Exscientia for five years, Sanofi has significantly expanded its relationship, putting up $100 million and $5.2 billion on the backend for the chance to work on up to 15 small molecules across oncology and immunology."
+    publishedDateTime: 2022-01-07T05:01:00Z
+    webUrl: "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 123
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1641487855/Sanofi.jpg/Sanofi.jpg?VersionId=iGMK6OHqHmXYmaa5FawGN5L8VNKX49li"
+        width: 800
+        height: 541
+        isCached: true
   - title: "Sanofi partners with AI firm Exscientia to develop up to 15 new drugs"
     excerpt: "French drugmaker Sanofi SA SASY.PA will partner with British AI firm Exscientia Plc EXAI.O to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to $5.2 billion in milestone payments,"
     publishedDateTime: 2022-01-07T05:01:00Z
@@ -63,19 +77,19 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Sanofi makes AI play, putting up $100M and billions in biobucks to form broad deal with Exscientia"
-    excerpt: "Sanofi is getting deeper into AI-driven R&D. After working with AI drug discovery shop Exscientia for five years, Sanofi has significantly expanded its relationship, putting up $100 million and $5.2 billion on the backend for the chance to work on up to 15 small molecules across oncology and immunology."
-    publishedDateTime: 2022-01-07T05:01:00Z
-    webUrl: "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia"
+  - title: "Merck leans into AI with $610M in biobucks for Absci drug discovery pact"
+    excerpt: "Merck is taking a deep dive into complex proteins with the help of AI-powered drug discovery company Absci. The two companies have signed a research collaboration for up to three targets in a deal worth up to $610 million in upfront fees and milestone payments."
+    publishedDateTime: 2022-01-07T14:55:00Z
+    webUrl: "https://www.fiercebiotech.com/biotech/merck-leans-into-ai-610m-biobucks-for-absci-drug-discovery-pact"
     type: article
     provider:
       name: FierceBiotech
       domain: fiercebiotech.com
-    quality: 23
+    quality: 36
     images:
-      - url: "https://qtxasset.com/fiercebiotech/1641487855/Sanofi.jpg/Sanofi.jpg?VersionId=iGMK6OHqHmXYmaa5FawGN5L8VNKX49li"
+      - url: "https://qtxasset.com/fiercebiotech/1641570125/ArtificialIntelligence-g-Igor%20Kutyaev-800.jpg/ArtificialIntelligence-g-Igor%20Kutyaev-800.jpg?VersionId=b.m.ahpjnibJ0RQVA7B_5yrdO8e8GJ4f"
         width: 800
-        height: 541
+        height: 500
         isCached: true
   - title: "Exscientia and Sanofi establish strategic research collaboration to develop AI-driven pipeline of precision-engineered medicines"
     excerpt: "Collaborative efforts aim to accelerate drug discovery and improve clinical success Agreement to utilize Exscientia’s AI-based capabilities and personalised medicine platform from target identification through patient selection Research will be focused on up to 15 novel small molecule candidates across oncology and immunology Exscientia will receive an upfront cash payment of $100 million with the potential of $5."
