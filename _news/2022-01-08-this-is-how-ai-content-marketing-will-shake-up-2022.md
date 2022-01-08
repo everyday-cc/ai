@@ -7,7 +7,7 @@ originalUrl: "https://www.timesunion.com/business/article/This-Is-How-AI-Content
 webUrl: "https://www.timesunion.com/business/article/This-Is-How-AI-Content-Marketing-Will-Shake-Up-16757547.php"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI In Marketing Market Report 2022: Global Industry upcoming Trends, market challenges, Share, Size, Growth, Opportunity and Forecast Till 2026"
+    excerpt: "The latest report published by WMR shows that the AI In Marketing Market is likely to garner a great pace in the coming years Analysts examined market drivers confinements risks and openings in the world market The AI In Marketing"
+    publishedDateTime: 2022-01-05T05:03:00Z
+    webUrl: "https://www.openpr.com/news/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
+    ampWebUrl: "https://www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 38
+    images:
+      - url: "https://cdn.openpr.com/V/1/V105262270_g.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Study Shows How AI Can Predict Who Will Develop Dementia"
     excerpt: "A new large-scale study has concluded that artificial intelligence (AI) can predict which people who attend memory clinics will develop dementia within two years. The AI can make this prediction with a 92 percent accuracy rate."
     publishedDateTime: 2022-01-04T19:44:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computin
 webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
 type: article
 quality: 69
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -98,20 +98,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/30/typewiseimage.jpg"
         width: 1200
         height: 1200
-        isCached: true
-  - title: "Fluent.ai and Knowles Partner to Unveil the Future of True Wireless Stereo Voice Control at CES 2022"
-    excerpt: "Fluent.ai, a leader in embedded speech recognition solutions, today announces its collaboration with Knowles Corporation (NYSE: KN), a market leader and global provider of advanced micro-acoustic microphones,"
-    publishedDateTime: 2022-01-03T14:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/technology-business-las-vegas-software-knowles-corp-d56b5ef64cb74159298e269b8527f3a1"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "AI Technology Company, Hello Llama Debuts at CES"
     excerpt: "Hello Llama, an Atlanta-based AI technology company, launches globally today with the release of Llama Vision - the Advanced Driver-Assistance Systems (ADAS) for Light Electric Vehicles (LEVs). This technology creates a safer environment for riders and communities,"

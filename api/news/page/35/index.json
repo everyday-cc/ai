@@ -2,6 +2,59 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-12-08-qa-more-sustainable-concrete-with-machine-learning.md",
+      "title": "Q&A: More-sustainable concrete with machine learning",
+      "excerpt": "MIT-IBM Watson AI Lab researchers aim to design concrete recipe mixtures that use AI to shrink its environmental footprint and cost, while recycling byproducts and increasing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
+      "originalUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202111/man-making-cement.jpg",
+          "width": 999,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-ex-tesla-engineers-claim-full-self-driving-autopilot-video-was-manipulated-and-edited-out-barrier-collision.md",
       "title": "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision",
       "excerpt": "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers",
@@ -1140,58 +1193,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-what-marketing-teams-need-to-know-about-codeless-ai-infrastructure.md",
-      "title": "What Marketing Teams Need To Know About Codeless AI Infrastructure",
-      "excerpt": "Codeless or no-code AI infrastructure is a testament to data scientists working in tandem with domain experts to build products for particular purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae0dc401c039d48f234705%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/",
-      "publishedDateTime": "2021-12-07T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

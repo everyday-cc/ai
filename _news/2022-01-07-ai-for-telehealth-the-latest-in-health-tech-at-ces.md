@@ -70,6 +70,34 @@ related:
         width: 750
         height: 400
         isCached: true
+  - title: "Healthcare Transformation – Made Possible by AI and Social Listening"
+    excerpt: "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds."
+    publishedDateTime: 2022-01-08T05:34:00Z
+    webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY"
+        width: 820
+        height: 312
+        isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+    publishedDateTime: 2022-01-06T15:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-20181152.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 53
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Final 2021 Thoughts; Digital Health, DHPs, AI and the Informed Connected Healthcare Consumer in 2022"
     excerpt: "It's been a while since my last post where I wrote on the culture of hacking within the U.S. Healthcare, Digital Health, and Digital Health Platforms (DHPs). Here are retrospective 2021 learnings and thoughts to dovetail into the new year: Digital Health and DHPs accelerated ."
     publishedDateTime: 2022-01-04T03:41:00Z
@@ -98,15 +126,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
 
 secured: "7WSY0Rw5/CR80Blt4F6wF/BY8ypyFpsBbUGJtfZwM54ldvSrcq2ZxA1+vdYwcrEDLEj8vtv8HOqxdZHdg33sWQc8V9qB3C7At4maa8x/iPVEdLJdEVK8VLhFw8ise8BaNN2ZodHAiPPPfCbBQRqeRvb2Rj87naIwsqaajP0cNgi9l33JLU0v3BijI5+ccyVBY5YQnVup9mUT1FjAlYaamnFQXrYIdPIArHBypqI16hYesvnU1Vg+r7WsfLZ0yeWQKrxi0Ocb4EOI6Ff0WMu9bhppC0C3HAiceJWSK/cDpZf54RI2m0zjJ327FFIvxSGhGLFf/N6hWTaT8x1ZF2nj/Adc/4GjvX1WWlRtsZOzt1o=;QbYmSOGTX3M1R2Y0xXJ3SQ=="
 ---

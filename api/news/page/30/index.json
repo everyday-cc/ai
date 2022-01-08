@@ -2,6 +2,48 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2021-12-10-booz-allen-completes-ai-platform-spinoff-susan-penfield-quoted.md",
+      "title": "Booz Allen Completes AI Platform Spinoff; Susan Penfield Quoted",
+      "excerpt": "Booz Allen Hamilton (NYSE: BAH) has finished spinning off its artificial intelligence platform into a standalone company that will advance the deployment of production-ready AI, build on existing client base across federal and commercial markets and expand its developer community and partner ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
+      "originalUrl": "https://www.govconwire.com/2021/12/booz-allen-completes-ai-platform-spinoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.govconwire.com/wp-content/uploads/2021/12/00P4y00001NOAh3EAH.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GovCon Wire",
+        "domain": "govconwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-supercharge-your-geforce-gpu-with-these-6-must-use-features.md",
       "title": "Supercharge your GeForce GPU with these 6 must-use features",
       "excerpt": "Give your GeForce graphics a boost. From higher frames per second to more visual flair, these tips will help you get more from your GeForce GPU.",
@@ -1123,59 +1165,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-ai-inference-acceleration-on-cpus.md",
-      "title": "AI inference acceleration on CPUs",
-      "excerpt": "The vast proliferation and adoption of AI over the past decade has started to drive a shift in AI compute demand from training to inference.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1223790172.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/ai-inference-acceleration-on-cpus/amp/",
-      "publishedDateTime": "2021-12-09T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

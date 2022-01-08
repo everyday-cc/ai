@@ -91,22 +91,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Telangana HC issues notice to govt over PIL challenging use of facial recognition tech"
-    excerpt: "The Telangana High Court has issued a notice to the state government on a public interest litigation (PIL) filed over the use of facial recognition in the state. The petition, filed by Hyderabad-based activist SQ Masood with the support of the Internet Freedom Foundation,"
-    publishedDateTime: 2022-01-03T13:09:00Z
-    webUrl: "https://www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432"
-    ampWebUrl: "https://www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/telangana-hc-issues-notice-govt-over-pil-challenging-use-facial-recognition-tech-159432?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 51
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/facial_recognition_policing_rep_1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Facial recognition technology: Advent of totalitarian utopia?"
     excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
     publishedDateTime: 2022-01-04T09:58:00Z

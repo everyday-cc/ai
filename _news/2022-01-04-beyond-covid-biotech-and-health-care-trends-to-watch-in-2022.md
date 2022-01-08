@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/news/covid-biotech-health-care-trends-
 webUrl: "https://news.crunchbase.com/news/covid-biotech-health-care-trends-forecast-2022/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI Trends to Watch out for in 2022"
-    excerpt: "Multi-Modal AI and Large Language Models are among the breakthroughs are among the breakthroughs that will keep AI moving ahead in 2022."
-    publishedDateTime: 2022-01-04T16:00:00Z
-    webUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 41
-    images:
-      - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
-        width: 918
-        height: 1024
-        isCached: true
   - title: "Five health tech innovations to watch in 2022"
     excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
     publishedDateTime: 2022-01-06T14:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-ar
 webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-casino-operators-b32c98e4024541188382ffb9702a627d"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -22,68 +22,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "AI Apps And Platforms Get Real"
-    excerpt: "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses."
-    publishedDateTime: 2022-01-03T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "The future trends of AI and ML"
-    excerpt: "Latest Trends For 2022 in the field of Artificial Intelligence and Machine Learning  The pandemic has become a catalyst in an increase of the digital transformation across the industries worldwide a phenomenon that happened faster than expected."
-    publishedDateTime: 2022-01-04T19:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-trends-ai-ml-ashutosh-kumar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 58
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHsXZn2xiiJgQ/article-cover_image-shrink_600_2000/0/1641322997947?e=1646870400&v=beta&t=-Pnp7Ooz4jb5pdiiJHREeQy_eXwSyBewWhLWFd5Nesw"
-        width: 509
-        height: 339
-        isCached: true
-  - title: "Root taps Tractable for AI claims platform"
-    excerpt: "Root Insurance, a usage-based auto insurtech, will use artificial-intelligence technology from Tractable in its claims process. \"Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers,"
-    publishedDateTime: 2022-01-07T13:37:00Z
-    webUrl: "https://www.dig-in.com/news/root-taps-tractable-for-ai-claims-platform"
-    type: article
-    provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/dbb30f2/2147483647/strip/true/crop/7862x4128+0+253/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb1%2F76%2Fd13de0354a5898a81329328cec36%2Fadobestock-428564931.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "European Parliament Agenda for 2022 Includes Regulating Online Platforms, Artificial Intelligence and Crypto Assets"
-    excerpt: "Among the major issues facing the European Parliament in the new year is the region’s digital conversion. Headquartered in Strasbourg, France, the European Parliament, the European Union’s only directly elected institution,"
-    publishedDateTime: 2022-01-07T13:40:00Z
-    webUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/"
-    ampWebUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 35
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/European-Parliament-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "2nOaEQ3enupDgsNJMQhRxgVUjQX5DXaavQiiT1FwB3Ll/CTOEF8WptfKDk077dmayeMsP63vdrXlCQOsqLN5gLM/dAPqTBUlGkbR/K2s00NvJWIsnTd5GbPwZbBaDVsVNrKUpTn2f9X3uaMWS36urQGaHM+/9vO/qn3+3RewuU8qfsxNNCOwqHNJIEYjI4kKk2MUAr/C0l7fApZT5E5DFTtsmvc/MGOLmQWEeocLivZ/qjYWYNT5GX+/87b/USBhUa7v1IpVdO6alm9aX/uWTJQMPi2P3K/3xth0ZDBn/M2vJrBbuUnTmWTQ8EwLza/NGRGTWuOqKSXEpN7d8Y02l8ZciTuNVuvcuVFJLccMmKw=;O3XIjnZcAsXioV9TrNTLXQ=="
 ---

@@ -27,71 +27,48 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Hardware Market Scenario, Strategies, Growth Factors and Forecast 2027"
-    excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
-    publishedDateTime: 2022-01-03T14:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-scenario-strategies-growth-factors-and-forecast-2027-2022-01-03"
+  - title: "This Is How AI Content Marketing Will Shake Up 2022"
+    excerpt: "With the embers of the outgoing year fizzling out, businesses are already gearing up and getting ready to take 2022 by storm. The need to seek out alternatives to standard-issue messaging — to stay relevant — is not an option,"
+    publishedDateTime: 2022-01-07T18:25:00Z
+    webUrl: "https://www.timesunion.com/business/article/This-Is-How-AI-Content-Marketing-Will-Shake-Up-16757547.php"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Cyber Security Market to Witness at a 22.60% CAGR through 2027"
-    excerpt: "The research report on the Global Artificial Intelligence (AI) in Cyber Security Market provides a comprehensive analysis of the industry size, share"
-    publishedDateTime: 2022-01-08T03:40:00Z
-    webUrl: "https://menafn.com/1103505927/Global-Artificial-Intelligence-AI-in-Cyber-Security-Market-to-Witness-at-a-2260-CAGR-through-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Times Union
+      domain: timesunion.com
     quality: 54
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?327254"
-        width: 375
-        height: 250
+      - url: "https://s.hdnux.com/photos/01/23/41/25/21894520/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "AI in Computer Vision Market | Developments Analysis and Precise Growth Outlook 2022 to 2026 | Future Business Opportunities and Trends Forecast"
-    excerpt: "Final Report will add the Analysis of the Impact of COVID-19 on this AI in Computer Vision Industry. The Global “AI"
-    publishedDateTime: 2022-01-05T06:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-developments-analysis-and-precise-growth-outlook-2022-to-2026-future-business-opportunities-and-trends-forecast-2022-01-05"
+  - title: "Study Shows How AI Can Predict Who Will Develop Dementia"
+    excerpt: "A new large-scale study has concluded that artificial intelligence (AI) can predict which people who attend memory clinics will develop dementia within two years. The AI can make this prediction with a 92 percent accuracy rate."
+    publishedDateTime: 2022-01-04T19:44:00Z
+    webUrl: "https://www.unite.ai/study-shows-how-ai-can-predict-who-will-develop-dementia/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
+      name: unite
+      domain: unite.ai
+    quality: 37
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/psychology-6852458_1280.jpg"
+        width: 900
+        height: 600
         isCached: true
-  - title: "Global Disposable Pipette Tips Market Forecast Report 2021-2028 - Use of Artificial Intelligence (AI) and Biomarkers in Biomarker-Related Analysis and"
-    excerpt: "The \"Disposable Pipette Tips Market Forecast to 2028 - COVID-19 Impact and Global Analysis\" report has been added to ResearchAndMarkets.com's offering. The disposable pipette tips market is projected to reach US$ 166."
-    publishedDateTime: 2022-01-07T09:03:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=596928"
+  - title: "The Shift to Generalized AI to Better Identify Violating Content"
+    excerpt: "Addressing content that violates our Community Standards and Guidelines is one of the top priorities at Meta AI. Over the past five years, AI has become one of the most effective tools for reducing the prevalence of violating content,"
+    publishedDateTime: 2022-01-05T14:04:00Z
+    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/the-shift-to-generalized-ai-to-better-identify-violating-content/12399/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
+      name: Predictive Analytics World
+      domain: predictiveanalyticsworld.com
+    quality: 37
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2021/05/MSDS_270x270_LM.gif"
+        width: 270
+        height: 270
         isCached: true
-  - title: "Artificial Intelligence Market| Global Industry Analysis By Size, Share, Covid-19 Impact, Growth Factors And Regional Forecast To 2028"
-    excerpt: "Apple Inc. Baidu IBM Corporation IPsoft Microsoft Corporation MicroStrategy, Inc NVIDIA Qlik Technologies Inc. Verint Systems Inc. (Next IT Corp)"
-    publishedDateTime: 2022-01-04T10:38:00Z
-    webUrl: "https://www.wboc.com/story/45574320/artificial-intelligence-market-global-industry-analysis-by-size-share-covid-19-impact-growth-factors-and-regional-forecast-to-2028"
-    type: article
-    provider:
-      name: WBOC
-      domain: wboc.com
-    quality: 0
 
 secured: "3ccQS9iWFq6MbTR+IchJrGliy9ochEXVKzu1uxOhZCnYeGB4e/Ltla1NLnZunL9AC2Z07wQoC+xtqossJl1Ga96nkruRAul41i1WxBS0fd9HYqJWugy48rtuMWSNMcWFPqIzyReu+kDClBfMUY6fNLpnDG6lPb243geP6hixRc05XsjZMABwEjABy/gZ8qVlvDYNw9x7j+wGO3bqpBR/FaRQhWxdVXz2na8F2eRm2CeVyjsiNx7od1Y30ib7xMCnQ9EV9CPpTcQbZtt4ObI7odPsGxamffYI9qSVOheQyxcPuz/EZzU1pJRAFweHDuhFELnYIpHJytoDKIKPKhwhy/aQ1lB5lX2xeQsc72elyQ0=;AGlKFe9JL+FROkG6QQXqNw=="
 ---

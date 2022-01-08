@@ -2,6 +2,48 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-20-ai-powers-autonomous-materials-discovery.md",
+      "title": "AI powers autonomous materials discovery",
+      "excerpt": "When a master chef develops a new cake recipe, she doesn't try every conceivable combination of ingredients to see which one works best. The chef uses prior baking knowledge and basic principles to more efficiently search for that winning formula.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-ai-powers-autonomous-materials-discovery.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-ai-powers-autonomous-materials-discovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-powers-autonomous-m.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-ai-powers-autonomous-materials-discovery.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-powers-autonomous-materials-discovery.amp",
+      "publishedDateTime": "2021-12-20T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-20-biggers-not-always-better-deepminds-new-language-ai-is-small-but-mighty.md",
       "title": "Bigger’s Not Always Better: DeepMind’s New Language AI Is Small But Mighty",
       "excerpt": "DeepMind's model, with just 7 billion parameters, outperformed the 178 billion-parameter Jurassic-1 transformer on various language tasks.",
@@ -1086,58 +1128,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-19-teradata-and-dataiku-join-forces-to-improve-data-analytics.md",
-      "title": "Teradata and Dataiku join forces to improve data analytics",
-      "excerpt": "Teradata said the upgrades will drive agility for analytics and ML initiatives, accelerating time-to-value for joint customers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
-      "originalUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1292706054-e1635963071676.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/18/teradata-and-dataiku-join-forces-to-improve-data-analytics/amp/",
-      "publishedDateTime": "2021-12-18T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

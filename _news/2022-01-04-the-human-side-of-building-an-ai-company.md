@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 746
     isCached: true
+
+related:
+  - title: "The future trends of AI and ML"
+    excerpt: "Latest Trends For 2022 in the field of Artificial Intelligence and Machine Learning  The pandemic has become a catalyst in an increase of the digital transformation across the industries worldwide a phenomenon that happened faster than expected."
+    publishedDateTime: 2022-01-04T19:13:00Z
+    webUrl: "https://www.linkedin.com/pulse/future-trends-ai-ml-ashutosh-kumar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 58
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHsXZn2xiiJgQ/article-cover_image-shrink_600_2000/0/1641322997947?e=1646870400&v=beta&t=-Pnp7Ooz4jb5pdiiJHREeQy_eXwSyBewWhLWFd5Nesw"
+        width: 509
+        height: 339
+        isCached: true
 
 secured: "nh/Kw7YrqUL5L9Fd831oEgt0s/T2xZlMaKCwz3z4UH/QbhFlAI7cAAyUB/UjNdBP7UM/wQEOrElx1VYN2LSN49iEQdpp8lPlzRS902KygEiWSLFwAv0VGkklSaNHElZDzrMHoj2HIsdeUzHrJ5FAPaBIcYLVHFChvXn6XO6UopsFJph1UGNH99eMwN+BqSOJnpARpXsiz3+cmTOdF+8CCeTjOYiTI7jCblJlTTeV/kW/W50KR8J3NH0NtdEbC1geIKL27XewKNVPDtH7xkM1Hf5oAUWMu+zJujkI+IpCn0fCh/caBFBHNVjTxpiXvVPOtPfk7vtqurKyT30FjyTrnY6mUqsVqGrNwf3vjaEptCo=;gcsG5pCAhiLnoXHyYEq5Xg=="
 ---

@@ -25,22 +25,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Machine Learning Data Catalog Software Market Outlook | Growth Status, Industry Size and Share| Top Players Overview with Forecast Data 2022-2026"
-    excerpt: "Jan 04, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. “ Our Trending “Machine Learning"
-    publishedDateTime: 2022-01-04T10:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-outlook-growth-status-industry-size-and-share-top-players-overview-with-forecast-data-2022-2026-2022-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "60ADxYzei6AFzz+1YXU7wpJnC+Y2pZzzsOa0HjblBHQBBNT/BuVJ/e2CuBkLT+v3oKkzopCxF/4yX3/ZeWzu922YUei8O+JuB/fPNa6v6O/oHs3NfdD+RFsnMKzn2e+L2STG6vhMDV7pbWTozLVc6IlUlg1UayJRYkfCkRxFM8UG4E2vMoXhIc/oRRt6pZIHDXghvBEpETCf6L2LnBzYCUyjih/jppKM8BsyozqWJQ6D5uD7J18gGcPM0Sxfh+pLEr3c8her+yZye3J6qWEnWN8NvptTW3HbXqgxNZnRjArnx+K4KPJ6dYViG81I/vCJ/KvrEy94fEKgtXD4lAsgOBX5ONMOEi4NFNX+Q79XlYM=;5P1b6aaN/mOWEs0DKHWb3w=="
 ---
 

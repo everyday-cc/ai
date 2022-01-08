@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
-publishedDateTime: 2022-01-04T15:41:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
+title: "Healthcare Transformation – Made Possible by AI and Social Listening"
+excerpt: "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds."
+publishedDateTime: 2022-01-08T05:34:00Z
+originalUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
+webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: LinkedIn
+  domain: linkedin.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY"
+    width: 820
+    height: 312
     isCached: true
 
 related:
@@ -71,20 +75,6 @@ related:
         width: 750
         height: 400
         isCached: true
-  - title: "Healthcare Transformation – Made Possible by AI and Social Listening"
-    excerpt: "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds."
-    publishedDateTime: 2022-01-08T05:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY"
-        width: 820
-        height: 312
-        isCached: true
   - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
     excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
     publishedDateTime: 2022-01-06T15:15:00Z
@@ -113,6 +103,20 @@ related:
         width: 364
         height: 301
         isCached: true
+  - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
+    excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
+    publishedDateTime: 2022-01-04T15:41:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI for telehealth & the latest in health tech at CES"
     excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
     publishedDateTime: 2022-01-06T18:10:00Z
@@ -128,6 +132,6 @@ related:
         height: 576
         isCached: true
 
-secured: "TBAxBBZzRhkGMbR7IUCBOmTFjJo1+wdmyJaKpYazOvO1ySoCBRsT0Afaar1zH6N1aPFDypXjmbnpYYF35CLG1xyKv/W5jFAajh7rYAuTuLQbakanRCcisWkHiaeOsUp9hVeEYY+w4BJQnkdRsbzjSbcIS7q9mEPpRSGX8jyC8RtdFRRjD5ocwt50uxFnbaP+KGzXFgxJLrOwrsu82aDs/Y8rL5SHO6t6Ej+GOEr335ht61KNtwX4ojDFr3/TwO+MpSzN43DluDRKn2Zagmkj3d5cn6rn1cwhi3hErSw8wMD0j/Y7vDJwIaeTptP7/J3v/9hkgbPTbxnMp0+wTYqboPO1poJ/beiYBkfSqznZGJI=;ezcm2Y0tXCcZUvF6ysX73w=="
+secured: "zdLhIxf9v+AALuFKXnAoiJ22bb3cx5UpGjjVLjn8UFzjFE5GkGKOJn2YpMLg2iiXKhpfZizniRHF1Eync8puZEP2UbKSokZtV6K6hmWFpSljGO6o1izr/Xfm8PuukWy5BlxYEw3JsFClJxEqdjf4WTZaZ8duqGUopeXQLpDrwdOZVfPobnhDQCUaV3X//jKGNQqlelZA8KuojdbbRBaJTWWyfVjMytyK/MR49z9IS2bZXd47O9T13xQ7y3pKEypAR1IsANlLu561HbivsGx0xlRl0fTuYRRzt2DILoyxO23Mjfo0xI3k47bdKSPZjhxRi8qbSQHYYJZjHWvZ6HORuCGSp/75bDK7zztkBW6ElW4=;GCPXEwnFaeA/hzQ9mLt38g=="
 ---
 

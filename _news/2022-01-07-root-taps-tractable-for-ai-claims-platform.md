@@ -24,65 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Apps And Platforms Get Real"
-    excerpt: "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses."
-    publishedDateTime: 2022-01-03T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
+  - title: "Air AI joins Google Cloud for Startups Program"
+    excerpt: "We re thrilled to join the Google Cloud for Startups program which supports our mission of making commercial use of our AI platform seamless from launch to scale said Jeremy Denbow founder and CEO of AirAI us The collaboration will"
+    publishedDateTime: 2022-01-05T15:32:00Z
+    webUrl: "https://www.openpr.com/news/2518354/air-ai-joins-google-cloud-for-startups-program"
+    ampWebUrl: "https://www.openpr.com/amp/2518354/air-ai-joins-google-cloud-for-startups-program"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2518354/air-ai-joins-google-cloud-for-startups-program"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "The future trends of AI and ML"
-    excerpt: "Latest Trends For 2022 in the field of Artificial Intelligence and Machine Learning  The pandemic has become a catalyst in an increase of the digital transformation across the industries worldwide a phenomenon that happened faster than expected."
-    publishedDateTime: 2022-01-04T19:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/future-trends-ai-ml-ashutosh-kumar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 58
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHsXZn2xiiJgQ/article-cover_image-shrink_600_2000/0/1641322997947?e=1646870400&v=beta&t=-Pnp7Ooz4jb5pdiiJHREeQy_eXwSyBewWhLWFd5Nesw"
-        width: 509
-        height: 339
-        isCached: true
-  - title: "European Parliament Agenda for 2022 Includes Regulating Online Platforms, Artificial Intelligence and Crypto Assets"
-    excerpt: "Among the major issues facing the European Parliament in the new year is the region’s digital conversion. Headquartered in Strasbourg, France, the European Parliament, the European Union’s only directly elected institution,"
-    publishedDateTime: 2022-01-07T13:40:00Z
-    webUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/"
-    ampWebUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 35
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/European-Parliament-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Three Rivers Casino Resort Selects OPTX’s Casino Data Platform for Player Development, Slots, and Artificial Intelligence"
-    excerpt: "OPTX, the fast-growing Las Vegas-based tech start-up focused on streamlining casino player data into real-time insights for casino operators, is proud to incorporate Three Rivers Casino Resort to its rapidly expanding client list."
-    publishedDateTime: 2022-01-04T16:42:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-casino-operators-b32c98e4024541188382ffb9702a627d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cdn.openpr.com/V/1/V105644691_g.jpg"
+        width: 800
+        height: 283
         isCached: true
 
 secured: "FiWUQR/N4l6ZIi6LRjoEofrbB7yw4IAClXcZuzieYN1okslKrc16p3+7gFEhqoTHu8wV+ANdH25BXcR6nMturB25l3Q8MNiI66tb5iY54ss+Gk/KFnlVpucbdtiOmSCh1mZ66cB4ft0xkmUKIrCtER9bEuK2bnLupbR2R77aay3UWoPPIPV/IuWSGJg1cg9WfuOKN7tmbNECoSpegHmDPt2XwNYWYlAWzC0hTJwFXxBZ+ErDzXiP1EnZwIfQW7vDu2SSXqhsiVbSySISauIzAmkXpq4otAW/iNfACBk1S8Png6i8lhEjEqXFEwZeJQ5YkcPxDZ/ShBXsBE+OWDiGXqMzgk/WEV80uY/Ao8Qmeq4=;cCWLZSu/zhWjN1Msjs+Uxg=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-te
 webUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-technology-solutions-inc-"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Technology Solutions Secures SOC 2 Compliance"
-    excerpt: "Artificial Intelligence Technology Solutions, Inc., ( OTCPK:AITX ), today announced successful completion of their SOC 2 Type 1 examination. This achievement reflects"
-    publishedDateTime: 2022-01-04T12:40:00Z
-    webUrl: "https://www.djournal.com/artificial-intelligence-technology-solutions-secures-soc-2-compliance/article_ae65b57f-6adb-54de-b9a0-a9152d1d2096.html"
+  - title: "Japan Restricts Exports of AI Facial Technology"
+    excerpt: "The Japanese government is restricting facial recognition exports over growing concern of China’s extreme surveillance measures. A recent report from Tokyo’s Central News Agency (CNA) states that China has been using AI-powered facial recognition technology to “deploy"
+    publishedDateTime: 2022-01-08T05:03:00Z
+    webUrl: "https://www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/"
+    ampWebUrl: "https://www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/?amp"
+    cdnAmpWebUrl: "https://www-armstrongeconomics-com.cdn.ampproject.org/c/s/www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/?amp"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 17
+      name: Armstrong Economics
+      domain: armstrongeconomics.com
+    quality: 59
+    images:
+      - url: "https://www.armstrongeconomics.com/wp-content/uploads/2019/06/Facial-Recognition.jpg"
+        width: 500
+        height: 334
+        isCached: true
 
 secured: "TFdH9CxvLuctqvPaPHUR/JhiKIfDfbSbpsTV7WiHEFFwcplgNcjuAdo+F/4YlT4yIbgk4Jj1soOg/ttdNiBaI+rRujG08sgkTO9cUZJJyqWeZE1AZnogEwKYCRF+w5yI+hvM3fhI8/Lgv2Yii0fqE2e4YA0gCzlzhrjUxTKugZsD0KaiCU1mPc2w9N+5k7bw0vcOW+jz0El/vsBDkFZnRHnqycrzzJBcDt7H7GSGkOeQQ3eWL5piWhGF+frNK66gPO1/ioEeo6FNDLirBQKgZt9TFxKxIBoIgXUrq7/gLVKZIzNKugCxF2PpqVSKl1NxpopEdiPkaMOkv8p5e66l+ze4YWuBT3xvPCwEFOb2gO4=;67pXh8p6ILoVNERW30XS3A=="
 ---

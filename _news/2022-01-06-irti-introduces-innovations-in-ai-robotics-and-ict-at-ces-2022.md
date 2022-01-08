@@ -185,20 +185,6 @@ related:
         width: 5157
         height: 2698
         isCached: true
-  - title: "BBalance Bath Mat, the CES 2022 Innovation Awards Honoree, uses AI and footprint recognition to guide self-care at home"
-    excerpt: "BBalance is the world’s first smart bath mat with footprint recognition that combines three key health measurements into one; BBalance is a weight scale, balance and stability reader, and posture evaluator."
-    publishedDateTime: 2022-01-03T13:50:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-56962e910dcb57cad96f103b97b6a8f4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "pUNx/kYtG0Ur1LXmQZDU+If35RJAbGu33KGA+FhGqv++A2Y+N0tAYRtDXIFX1n8Z88tUQ6D+3FpTsPcZvpIkL22T9iXpoByWtTKOFO7JA+VtRAXJI7NQjggn+IPbF6vjuFGTZ5k/eUNww/XkAX5tckrpKciokC4Leu5ooXr2U70Qy1QrUhzx2DuDSJLh6nwWQcBYDmA0KDWS/tEs+1QYjS3uueuquXLau4kJzKc/S7KBO80MdHQj1vuYjlqLamjWDqlvI6iFDDJCdSrhg7MKU5s5P/4IdkAq+TsE3FlI04q/GE7cxb1g8SDFs2JTOaduOHoe2+H4r77wLqoYGucZx8X22JkX7YhdkX8ADBZejC0=;5MJ0KghjolKDgVy3Ayfj+Q=="
 ---

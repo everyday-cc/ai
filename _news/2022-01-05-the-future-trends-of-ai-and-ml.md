@@ -31,65 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Apps And Platforms Get Real"
-    excerpt: "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses."
-    publishedDateTime: 2022-01-03T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/"
+  - title: "The Human Side Of Building An AI Company"
+    excerpt: "After all, that team you're building will ultimately iterate and optimize the core technology that got you off the ground. Nobody gets to the next level working alone. Yet it's your role — and my role — in senior leadership that significantly influences what that team experience is."
+    publishedDateTime: 2022-01-04T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 89
+    quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac1140ff5b5bffc474705%2F0x0.jpg"
         width: 1200
-        height: 801
-        isCached: true
-  - title: "Root taps Tractable for AI claims platform"
-    excerpt: "Root Insurance, a usage-based auto insurtech, will use artificial-intelligence technology from Tractable in its claims process. \"Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers,"
-    publishedDateTime: 2022-01-07T13:37:00Z
-    webUrl: "https://www.dig-in.com/news/root-taps-tractable-for-ai-claims-platform"
-    type: article
-    provider:
-      name: Digital Insurance
-      domain: dig-in.com
-    quality: 37
-    images:
-      - url: "https://arizent.brightspotcdn.com/dims4/default/dbb30f2/2147483647/strip/true/crop/7862x4128+0+253/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb1%2F76%2Fd13de0354a5898a81329328cec36%2Fadobestock-428564931.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "European Parliament Agenda for 2022 Includes Regulating Online Platforms, Artificial Intelligence and Crypto Assets"
-    excerpt: "Among the major issues facing the European Parliament in the new year is the region’s digital conversion. Headquartered in Strasbourg, France, the European Parliament, the European Union’s only directly elected institution,"
-    publishedDateTime: 2022-01-07T13:40:00Z
-    webUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/"
-    ampWebUrl: "https://www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/regulation/2022/european-parliament-agenda-for-2022-includes-regulating-online-platforms/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 35
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/European-Parliament-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Three Rivers Casino Resort Selects OPTX’s Casino Data Platform for Player Development, Slots, and Artificial Intelligence"
-    excerpt: "OPTX, the fast-growing Las Vegas-based tech start-up focused on streamlining casino player data into real-time insights for casino operators, is proud to incorporate Three Rivers Casino Resort to its rapidly expanding client list."
-    publishedDateTime: 2022-01-04T16:42:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-artificial-intelligence-casino-operators-b32c98e4024541188382ffb9702a627d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+        height: 746
         isCached: true
 
 secured: "N4evAusk8GKIs0tztCe0TKR6mliBXYI9vFgaVMWH9ztxeUBngQO90ZwmrneQrcWlao9fvs4gHXANuPvXEaP3MLo4S7zC5ym3Q+K98s1Gg+/gPf/HGsjbgdAeRn+gN7/EKKrQxb/NYE4aVvHsl5JSvK5yJqmr6mCxB0SYXryRt2z6MNpP3lJYGqpOrp/1eXyznEXfr+VYSJjEMcyoZAm70ssOhRjrXKy/CGWpHv6a2hKpEP3K/zcbnZxAlPzyuiVze8wTWusRNHFWTsipmM/dBTH8CxHfn1QT+ixfu83iDb8DsQQcGz+G5r/Z0nxMaNAf+P5WlxoeKTvX6BAzyG+FJRmD/jp5DO4JOlr6lX2owmk=;6mD5UwtBdOoYUKBEyTkpbQ=="

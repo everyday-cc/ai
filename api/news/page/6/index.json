@@ -10,7 +10,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -101,6 +101,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-ai-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching.md",
+      "title": "AI-powered chatbots, designed ethically, can support high-quality university teaching",
+      "excerpt": "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
+      "originalUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
+      "publishedDateTime": "2022-01-03T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
@@ -1138,48 +1181,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-maybe-2022-should-be-the-year-we-turn-over-decision-making-to-the-ai.md",
-      "title": "Maybe 2022 should be the year we turn over decision-making to the AI",
-      "excerpt": "An increasingly popular idea is to outsource choices to algorithms, even New Year's resolutions. It doesn’t sound half bad.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/12/31/new-year-resolutions-ai-artificial-intelligence/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/12/31/new-year-resolutions-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/AZS2V4AOXEI6TDYMN6DYUJRIRI.jpg&w=1440",
-          "width": 1440,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-31T03:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

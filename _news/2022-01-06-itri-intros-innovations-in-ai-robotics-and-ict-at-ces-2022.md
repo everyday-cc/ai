@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-i
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
 type: article
 quality: 91
-heat: 213
+heat: 203
 published: true
 
 provider:
@@ -185,20 +185,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?p=facebook"
         width: 5157
         height: 2698
-        isCached: true
-  - title: "BBalance Bath Mat, the CES 2022 Innovation Awards Honoree, uses AI and footprint recognition to guide self-care at home"
-    excerpt: "BBalance is the world’s first smart bath mat with footprint recognition that combines three key health measurements into one; BBalance is a weight scale, balance and stability reader, and posture evaluator."
-    publishedDateTime: 2022-01-03T13:50:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-artificial-intelligence-56962e910dcb57cad96f103b97b6a8f4"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 13
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "o+kvEfbRG5qlcRsHhDQfaURpfM6u3zsw44PYEm8qUI6dK9T9yj4LYS0Xhw/VFyS73EwZ78r2GAUOAiuITiwwERyJEBuN84L+mfHFx0vkVOEjDR4+otZiOkinRO2dbiEh6lKU2QWN/BlLqHeUc/2iFR2Dc8se6YGWq1XodXkNRd2pYmc0R3Bl0lz2swSgIPMtsTyDZpL6P2pV0BaT9R8ZCs01oA+6a6rPCJf/8N8P9mXb3krOspid0LYeEPq2LiplllS8iGp/hX2t49zS7ht2VLufqeR5QCe4UhFAWg8Vy3AXH/qaYruLLGEL8kojgKIHGgxTSYe5BNdcQHTJ9xxVFfsE2MjhFd6KXw85Z4f5LWA=;97715cfnPrERYhu18kv+NA=="

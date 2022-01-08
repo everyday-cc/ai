@@ -18,34 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Hardware Market Scenario, Strategies, Growth Factors and Forecast 2027"
-    excerpt: "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market."
-    publishedDateTime: 2022-01-03T14:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-scenario-strategies-growth-factors-and-forecast-2027-2022-01-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Cyber Security Market to Witness at a 22.60% CAGR through 2027"
-    excerpt: "The research report on the Global Artificial Intelligence (AI) in Cyber Security Market provides a comprehensive analysis of the industry size, share"
-    publishedDateTime: 2022-01-08T03:40:00Z
-    webUrl: "https://menafn.com/1103505927/Global-Artificial-Intelligence-AI-in-Cyber-Security-Market-to-Witness-at-a-2260-CAGR-through-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?327254"
-        width: 375
-        height: 250
-        isCached: true
   - title: "AI in Computer Vision Market | Developments Analysis and Precise Growth Outlook 2022 to 2026 | Future Business Opportunities and Trends Forecast"
     excerpt: "Final Report will add the Analysis of the Impact of COVID-19 on this AI in Computer Vision Industry. The Global “AI"
     publishedDateTime: 2022-01-05T06:57:00Z
@@ -60,21 +32,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Marketing Market Report 2022: Global Industry upcoming Trends, market challenges, Share, Size, Growth, Opportunity and Forecast Till 2026"
-    excerpt: "The latest report published by WMR shows that the AI In Marketing Market is likely to garner a great pace in the coming years Analysts examined market drivers confinements risks and openings in the world market The AI In Marketing"
-    publishedDateTime: 2022-01-05T05:03:00Z
-    webUrl: "https://www.openpr.com/news/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
-    ampWebUrl: "https://www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
+  - title: "5 AI Trends to Watch out for in 2022"
+    excerpt: "Multi-Modal AI and Large Language Models are among the breakthroughs are among the breakthroughs that will keep AI moving ahead in 2022."
+    publishedDateTime: 2022-01-04T16:00:00Z
+    webUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 41
     images:
-      - url: "https://cdn.openpr.com/V/1/V105262270_g.jpg"
-        width: 800
-        height: 533
+      - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
+        width: 918
+        height: 1024
+        isCached: true
+  - title: "Machine Learning Data Catalog Software Market Outlook | Growth Status, Industry Size and Share| Top Players Overview with Forecast Data 2022-2026"
+    excerpt: "Jan 04, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry. “ Our Trending “Machine Learning"
+    publishedDateTime: 2022-01-04T10:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-outlook-growth-status-industry-size-and-share-top-players-overview-with-forecast-data-2022-2026-2022-01-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Political And Trade Changes Create More Opportunities For The Legal Services Market"
+    excerpt: "Legal Services Global Market Report 2022 – Market Size, Trends, And Global Forecast 2022 - 2026. The Business Research Company's Legal Services Global Ma"
+    publishedDateTime: 2022-01-07T12:44:00Z
+    webUrl: "https://menafn.com/1103503635/Political-And-Trade-Changes-Create-More-Opportunities-For-The-Legal-Services-Market"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 18
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/07/EP_481ddimage_story.png"
+        width: 966
+        height: 487
         isCached: true
   - title: "Global Disposable Pipette Tips Market Forecast Report 2021-2028 - Use of Artificial Intelligence (AI) and Biomarkers in Biomarker-Related Analysis and"
     excerpt: "The \"Disposable Pipette Tips Market Forecast to 2028 - COVID-19 Impact and Global Analysis\" report has been added to ResearchAndMarkets.com's offering. The disposable pipette tips market is projected to reach US$ 166."
@@ -90,6 +88,17 @@ related:
         width: 580
         height: 339
         isCached: true
+  - title: "Global Intelligent Apps Market to Witness Growth Opportunities from Advancements in Machine Learning Opportunities, says Fortune Business Insights"
+    excerpt: "The global Intelligent App Market is likely to grow in the coming years, favoured by increasing number of smart phone"
+    publishedDateTime: 2022-01-05T06:19:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g24900809/global-intelligent-apps-market-to-witness-growth-opportunities-from-advancements-in-machine-learni"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24900809"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24900809"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 3
 
 secured: "LwSPCE9PElaDx96R4b+YIM0ripOT9yGEdnZboEa+MhKwm9WPHGjUD5os9gA9R5wJawEvtRjSXK5WIilwAqJR1p5froDsA3Z5Uvoc/vndSSUuSnJgS/T88GZtTlLHwHVUPgo98WEV8NuRVDPllz0AwRCP1LKvhX6f3VFKfBBeBkoOCwY1SM3rfW7UtZVWmYWKFmmqaklkmP0vinN6vK2Qw+HegpsXdVSqw+mLTWymArIae0oImzuIRpVKD7iCoDpU4z3695AefW3+3FFs3HTjP8TfZxxChL3MM/2uXXrM3+gRsVjKd9yAaGCHCZybAQuMY8H+hBE+nkz6RBUnIswxe3WftuE5xRPWHuqkBMQrFcA=;nBuGsoau8vHpZ4+FWxJY+g=="
 ---

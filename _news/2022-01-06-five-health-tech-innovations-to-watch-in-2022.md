@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI Trends to Watch out for in 2022"
-    excerpt: "Multi-Modal AI and Large Language Models are among the breakthroughs are among the breakthroughs that will keep AI moving ahead in 2022."
-    publishedDateTime: 2022-01-04T16:00:00Z
-    webUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 41
-    images:
-      - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
-        width: 918
-        height: 1024
-        isCached: true
   - title: "Beyond COVID: Biotech And Health Care Trends To Watch In 2022"
     excerpt: "The pandemic drew unprecedented investment to the health sector, but the industry’s momentum really comes from tech advances and regulatory changes, insiders say."
     publishedDateTime: 2022-01-04T13:30:00Z
