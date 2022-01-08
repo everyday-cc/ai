@@ -1,27 +1,27 @@
 ---
 category: news
-title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
-excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
-publishedDateTime: 2022-01-04T08:03:00Z
-originalUrl: "https://www.medianama.com/2022/01/223-facial-recognition-petition-telangana/"
-webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-petition-telangana/"
+title: "Employee Attendance on Raspberry Pi using Facial Recognition"
+excerpt: "Employee Attendance on Raspberry Pi using Facial Recognition. This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with Abdul"
+publishedDateTime: 2022-01-08T18:06:00Z
+originalUrl: "https://github.com/Hashehri/employee-attendance-facial-recognition"
+webUrl: "https://github.com/Hashehri/employee-attendance-facial-recognition"
 type: article
-quality: 29
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: MediaNama
-  domain: medianama.com
+  name: GitHub
+  domain: github.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g4b2d39e33_1280.jpg"
-    width: 1280
-    height: 853
+  - url: "https://opengraph.githubassets.com/70bf08419da1e87a60f7859161558a5206a590b6842b10e406e45fd4ba3d4487/Hashehri/employee-attendance-facial-recognition"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -127,19 +127,19 @@ related:
         width: 750
         height: 422
         isCached: true
-  - title: "Employee Attendance on Raspberry Pi using Facial Recognition"
-    excerpt: "Employee Attendance on Raspberry Pi using Facial Recognition. This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with Abdul"
-    publishedDateTime: 2022-01-08T18:06:00Z
-    webUrl: "https://github.com/Hashehri/employee-attendance-facial-recognition"
+  - title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
+    excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
+    publishedDateTime: 2022-01-04T08:03:00Z
+    webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-petition-telangana/"
     type: article
     provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
+      name: MediaNama
+      domain: medianama.com
+    quality: 29
     images:
-      - url: "https://opengraph.githubassets.com/70bf08419da1e87a60f7859161558a5206a590b6842b10e406e45fd4ba3d4487/Hashehri/employee-attendance-facial-recognition"
-        width: 1200
-        height: 600
+      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g4b2d39e33_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Ports in US and Hong Kong add contactless ‘self-service immigration’ channels using facial recognition"
     excerpt: "The rollout comes as Hong Kong also expands its face recognition “non-touch e-channel” service for residents re-entering the territory to entry control points at Kai Tak Cruise Terminal. The New Orleans service has been introduced by US Customs and Border Protection (CBP) and Carnival Cruise Line and uses facial biometric technology that “verifies the traveller’s identity within two seconds and is more than 98% accurate,"
@@ -156,6 +156,6 @@ related:
         height: 760
         isCached: true
 
-secured: "7t7f4NbEw27NmL4JY2FSF7xKPHMx8giNYTV1ZGlclyU4o85pN6uHG21a2bIZREQiBcqbKlH8jMFOSB3f2HqTM9WvEyL1+0xZZ52zwUh8t0AIiSGwDleWk1V29NTS6rraZM9kIfa8UO/S1SVZUj9+pRlK/ASXvmNOBZJVkEoX+oyhZ2umdw34yef+aB7Vhkq7F0AWME+Es4wnPY+4Sw5T+WE3xH9BZ4drKyGIDSPfO6VLyJ5ieuezfEmDKhTiTTVlAN5uGNq3I3KhAdiDSm5RWohiHDs+lCuH/etIEshqw358uezsAH4jTbfURqku8BuOi7/u8cj+RmlywCronmAo1N/2PkPq+esAoa4sJojrHMlLvUFNj1nW95sD09ypqT+BcV34k2inMXb7G/7T1lqJyaGRjSXeqcUafT0JdJkj80LkH2n4EeMgHIw4ovnqTOVSuzXkekfVDCKLTgvWmBfp9cJBjOWQJHqs5W1160Xr+57NBCHNSTK77tEZWq0bU6zm3KIq8ypK1oO5PQRLL0Fj4w==;sV+J4J899KCdGh7HC5Q4yQ=="
+secured: "rTr1btzox9q3JpbgdEvwnQmpo+ql2JjbAKhRB862dF0sxNNW8MDJF4/h7RhtxR6fInOrv156ytExU7IxfGsjfdnl9fMzoK2D8GDvctkppCmB1UQCVZvJevsDfDpNOOR59Xe1cOHFWkZRmmry4dIAOQ328G34XM8/7J/bVioHpUq9sQ1EmU8Vq1Uw8jVTwc8XZYOe+5B1k4no3thXJHVcxjg5IlApoG4z5TSRXDD7w6kVq8wjnii2Evor7b5F3Jlmx0HUtbUEdO29yAnJrxA9BWBGAayJfLnZ0lt9J2TOWb2UiUR3ENCpnj206CjLzQDrCNjBm4OgdGdDK1q+oGIgoWCOQ6IE2CN0ZiNttCQE7Mk=;jDfYLlytVkF6YzdiV60+lQ=="
 ---
 

@@ -115,6 +115,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Employee Attendance on Raspberry Pi using Facial Recognition"
+    excerpt: "Employee Attendance on Raspberry Pi using Facial Recognition. This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with Abdul"
+    publishedDateTime: 2022-01-08T18:06:00Z
+    webUrl: "https://github.com/Hashehri/employee-attendance-facial-recognition"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/70bf08419da1e87a60f7859161558a5206a590b6842b10e406e45fd4ba3d4487/Hashehri/employee-attendance-facial-recognition"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
     excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
     publishedDateTime: 2022-01-04T08:03:00Z

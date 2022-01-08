@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-i
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
 type: article
 quality: 91
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -115,20 +115,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/606/17606/CES2022D.png"
         width: 675
         height: 555
-        isCached: true
-  - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
-    excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
-    publishedDateTime: 2022-01-04T02:02:00Z
-    webUrl: "https://www.digitimes.com/news/a20220104PD202.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220104PD202_files/6_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Popular Trends in Artificial Intelligence in 2022"
     excerpt: "Deep learning models that have been pre-trained are heavily reliant on real-world data. Nevertheless, obtaining data on time and integrating it into"

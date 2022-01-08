@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-publishedDateTime: 2022-01-06T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+publishedDateTime: 2022-01-06T15:15:00Z
+originalUrl: "https://www.lelezard.com/en/news-20181152.html"
+webUrl: "https://www.lelezard.com/en/news-20181152.html"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "AI, robotics, home care and mental health to lead healthcare delivery"
@@ -122,6 +128,6 @@ related:
         height: 576
         isCached: true
 
-secured: "ErkXtF7zdwfafXKarYQ2W0LnGdw8MeMEB9FBaXvTkJxHlEzPFJJHlLyYHz75725KmGAwVaLs+30MMY/fzZCwpEg7RksViuwZYUr6UGFTwdUkXdAU41Wqj7SNkRA5Xeb0SZS8f5smx1MKz3ybXOadlRcD5BDY5pJ1xEJIINctmCK9K4T726U04Q7r3e0Kqi+lzmsCmatpBLyKtHBjuSGZoVFr7msY2MKkSryUOnug+Tj1tj4OEPdsCdab4MF23qV/YQ7oWzUwA9S4p/5AaRcHABEXjyrjRYEWtoJK6nNccLH4/57NvpaPcKBbQwk26ssykch6+KZRzZp5zD1CefOSm2UGKh0fjISYsRQPqoj7Z6E=;6KY2R+OvNuOk/AOZBp/a4A=="
+secured: "gnaARjYTyNdDLBT10WXUY55aIUzB2AdGTaAdlmz1EunC+fV8Uk65BGV7Vpbln8NFotVfErlr8+7ejnn292TLheuCTvlln42BRsXdTgDMgxkrSJFC5zv+RTLpzqn9+zwveNSexuNhBzmeF9GChbrrSWAvwx70YshJSBX0ZRGHFOMRFjYiqBqupcLUUOHZruo8TDmzgN9Ymuprh0go+GQi2A5vI4S0ApXCQfM8EzvTBjkk0zAtpRm4KXsl3JrTYj401JeZO6rxeSg9DqgQKYsUAAMYcrELWLhIkY9Ke5q3t0T8LomGk/+jbRfFNgfCb3cXCKvH/A/tH0F41uWq1p/LiEgLnSdf6gXoBtRMjb4fKSo=;xcJSsUGuCIFmL0Ud7r37jw=="
 ---
 

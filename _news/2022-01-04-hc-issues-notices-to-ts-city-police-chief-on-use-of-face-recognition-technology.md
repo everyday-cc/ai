@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Telangana HC notices to government, Hyderabad police chief over use of facial recognition tech"
-    excerpt: "A PIL was filed in the Telangana HC challenging the deployment of facial recognition tech without any valid law on various grounds including violation of right to privacy, rule of law and equality."
-    publishedDateTime: 2022-01-04T02:24:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 47
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/18/w600X390/Telangana_High_Court.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "Law enforcement facial recognition use under scrutiny in Ireland, India"
     excerpt: "Discrepancies in proposed usage statements and pressure from civil rights groups and activists is putting facial recognition technology in the spotlight."
     publishedDateTime: 2022-01-04T19:46:00Z

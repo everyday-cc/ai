@@ -24,22 +24,6 @@ images:
     height: 674
     isCached: true
 
-related:
-  - title: "Torc Robotics expands footprint with new engineering office in Austin, Supporting fast growth in drive to commercialize self-driving trucks"
-    excerpt: "Torc Robotics will open its third U.S. location — in Austin, Texas, in early 2022. The approximately 21,000-square-foot office will complement the self-driving truck firm’s Blacksburg, Virginia, headquarters and its Albuquerque,"
-    publishedDateTime: 2022-01-06T13:29:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-texas-new-mexico-albuquerque-66d13464ef2a2e89579991470efb3959"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "c5ziwCl8yi4GcXdQ1EWRJDamGOlD80puLi74e8CpzNuzCDVEjQmoXYLMdvkYYR4b1AC8PrgwJbYjHBi4F75m7dHtq49yIfVtN0WlYrZ86miODUVe/n0486xXVM3CpC8wUiJPw8vhTKQ07Rvf/b4APZLceZjJ3q94L35Uj2ulk7kOAviQrKmIRutgwKdsrnpZjc3fxdbrBk50NLAInfVQ3Xpej4e34oy98MUfLJ0tRiGugcKRA9x1gSJsF+RtOx5UKkED/dDaJIkV1gYEK3IhQEs+YoYkTqa1XcPwfQg/BMzS46ENMYZIGm+AQp7vK8OiYK+WtZ15D+uSpZW7MCqve4cy0AexgoXURx+cb7pNc4E=;lOGYLIieGXGVx1EVKbn4Zw=="
 ---
 

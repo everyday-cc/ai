@@ -201,6 +201,17 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "Fintech players get cozy in Luxembourg"
+    excerpt: "It isn’t surprising that an increasing number of fintech companies are choosing Luxembourg for their European headquarters. The small European country is unique because of the language skills not only among the people working for the different companies,"
+    publishedDateTime: 2022-01-05T09:30:00Z
+    webUrl: "https://www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg"
+    ampWebUrl: "https://www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg?amp=1"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
   - title: "Technologies Reshaping the FinTech Industry"
     excerpt: "Technologies Reshaping the FinTech Industry By CIOReview - some of the key technologies will drive business model reinventions and shape the competitive environment of the"
     publishedDateTime: 2022-01-05T11:16:00Z

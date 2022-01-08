@@ -114,7 +114,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 299,
+      "heat": 309,
       "tags": null,
       "images": [
         {
@@ -973,7 +973,7 @@
       "originalUrl": "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1164,29 +1164,38 @@
       ]
     },
     {
-      "path": "_news/2022-01-07-seeking-a-way-of-preventing-audio-models-for-ai-machine-learning-from-being-fooled.md",
-      "title": "Seeking a way of preventing audio models for AI machine learning from being fooled",
-      "excerpt": "Warnings have emerged about the unreliability of the metrics used to detect whether an audio perturbation designed to fool AI models can be perceived by humans. Researchers show that the distortion metrics used to detect intentional perturbations in audio signals are not a reliable measure of human perception,",
+      "path": "_news/2022-01-07-the-best-robot-vacuums-of-ces-2022.md",
+      "title": "The best robot vacuums of CES 2022",
+      "excerpt": "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with.",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/01/220107084434.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/01/220107084434.htm",
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 171,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T07:36:00-08:00",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
+      "publishedDateTime": "2022-01-07T07:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1202,8 +1211,9 @@
         "news"
       ],
       "topics": [
+        "Computer Vision",
         "AI",
-        "Machine Learning"
+        "AI in Robotics"
       ]
     }
   ],

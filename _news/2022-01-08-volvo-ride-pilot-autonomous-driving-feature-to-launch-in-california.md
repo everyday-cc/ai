@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-featur
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 115
 published: true
 
 provider:

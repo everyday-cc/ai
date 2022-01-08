@@ -128,20 +128,6 @@ related:
         width: 675
         height: 555
         isCached: true
-  - title: "CES 2022: Aiseed introduces smart drones using edge AI computing"
-    excerpt: "The pace of global drone development has increased over the last few years with smart drones being used more commonly for consumer markets, rescue operations, visual inspections and logistics. Taiwan-based startup Aiseed has combined edge computing with self-developed artificial intelligence (AI) to develop advanced drone products with better features and higher speed."
-    publishedDateTime: 2022-01-04T02:02:00Z
-    webUrl: "https://www.digitimes.com/news/a20220104PD202.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 37
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220104PD202_files/6_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
     excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
     publishedDateTime: 2022-01-05T14:00:00Z

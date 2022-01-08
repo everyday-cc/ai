@@ -1,28 +1,24 @@
 ---
 category: news
-title: "People’s Bank of China launches digital Yuan app alongside FinTech plan"
-excerpt: "China Central Bank introduces Digital Yuan's E-CNY app for IOS and Android as Governor Yi Gang leads People's Bank of China FinTech and CBDC development."
-publishedDateTime: 2022-01-04T15:24:00Z
-originalUrl: "https://coinrivet.com/ru/peoples-bank-of-china-launches-digital-yuan-app-alongside-fintech-plan/"
-webUrl: "https://coinrivet.com/ru/peoples-bank-of-china-launches-digital-yuan-app-alongside-fintech-plan/"
+title: "Fintech players get cozy in Luxembourg"
+excerpt: "It isn’t surprising that an increasing number of fintech companies are choosing Luxembourg for their European headquarters. The small European country is unique because of the language skills not only among the people working for the different companies,"
+publishedDateTime: 2022-01-05T09:30:00Z
+originalUrl: "https://www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg"
+webUrl: "https://www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg"
+ampWebUrl: "https://www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg?amp=1"
+cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg?amp=1"
 type: article
-quality: 39
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Coin Rivet
-  domain: coinrivet.com
+  name: Computer Weekly
+  domain: computerweekly.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://d1mjtvp3d1g20r.cloudfront.net/2022/01/04135118/shutterstock_1543942793.jpg"
-    width: 1000
-    height: 671
-    isCached: true
 
 related:
   - title: "Tech trends likely to dominate banking and FinTech sector in 2022"
@@ -88,6 +84,20 @@ related:
       - url: "https://www.benzinga.com/files/1_41.png"
         width: 1840
         height: 965
+        isCached: true
+  - title: "People’s Bank of China launches digital Yuan app alongside FinTech plan"
+    excerpt: "China Central Bank introduces Digital Yuan's E-CNY app for IOS and Android as Governor Yi Gang leads People's Bank of China FinTech and CBDC development."
+    publishedDateTime: 2022-01-04T15:24:00Z
+    webUrl: "https://coinrivet.com/ru/peoples-bank-of-china-launches-digital-yuan-app-alongside-fintech-plan/"
+    type: article
+    provider:
+      name: Coin Rivet
+      domain: coinrivet.com
+    quality: 39
+    images:
+      - url: "https://d1mjtvp3d1g20r.cloudfront.net/2022/01/04135118/shutterstock_1543942793.jpg"
+        width: 1000
+        height: 671
         isCached: true
   - title: "Artificial Intelligence: FinTech’s innovation driver"
     excerpt: "FinTech refers to any idea or innovation that improves or optimizes the way individuals or companies conduct financial activities. Early FinTech concentrated on developing add-on products to complement existing financial services."
@@ -201,17 +211,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Fintech players get cozy in Luxembourg"
-    excerpt: "It isn’t surprising that an increasing number of fintech companies are choosing Luxembourg for their European headquarters. The small European country is unique because of the language skills not only among the people working for the different companies,"
-    publishedDateTime: 2022-01-05T09:30:00Z
-    webUrl: "https://www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg"
-    ampWebUrl: "https://www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511580/Fintech-players-get-cozy-in-Luxembourg?amp=1"
-    type: article
-    provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 24
   - title: "Technologies Reshaping the FinTech Industry"
     excerpt: "Technologies Reshaping the FinTech Industry By CIOReview - some of the key technologies will drive business model reinventions and shape the competitive environment of the"
     publishedDateTime: 2022-01-05T11:16:00Z
@@ -359,6 +358,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "8UTLDwovIuwQdIck6yN6TmumKk3botBw7Z2AvB2nKO1Z1eXBHd3Esfy9BSWPIcD5Rom4xFv+pBR9bKJPpe/aSDBmb9KlntJoOA7biHCIvJu5i3+17BNSkEPq+erRhGwFAVlLnsIbQkld7SKsomY4kHCWZkvuUNsppY7WVeC513W1KX7YFvIjRf4qThhRrw+Ctsm/tOJYl2GT4DRxyFPn/7iHDAuDKjx2lt3yrQIZFPmxyatmTEzVR/tEWZfmK2h3G1BqAmhAjZjsUuov4AF5uugNlsVnM5rYsBA1LjrUeVwDTlydFLx9QDkde5P4j8xctlikQQywrPzfKnUD+Sw+IU/dfV2DvDpYHsIyIau2DgZLrT9uFt9DSqXBRlx5QI/HUtLGjNMEz8simuzZiSkTBqIDhVAwdM3EMf2T/v6ly3cyuT5bEsaK1yylL1ygqKNAaLK3vR98bdyTBduwQiJwjdqjVP87Nztb4V9Jr1c63q2nVlMWxUhzoBJZUhk0FIITlwrXB7GFoNaL0DLmA+WzSQ==;jT1a++/iSiYYom2/Xj8JMA=="
+secured: "xSNyEIF0cDQlSJVx5FmQB3hxFd+OffXg5KCFlpAZgk00tIyi2a0Xi2T2hOkPdm9P9sn6WlcwqHqxNGRnWcOZLW0Gd7at0oXjWErKcLf9C+DxFnewiv14ppX4RsfiL+8QBb9BFSxxrlesuzoAVITWcdx4O1PnwxY4OZjzL9G0dk3tp6/+jR1WrLaQi03EMjDBMsNFGfcr/s+ca1WgkRccp/lIpKEujA5r2YyhnbH2pZJi0ts/76NfVOkBKDZmwX1WqKrQCirBRSCcPn0BS9kQCEKgFBQw3eHdqEYpFVGITTTgvetyXxTE7alKqC7SsP5OYlbYVC38W0YARLIW8BgL/8Y1mC8AYQ6S/he6Lc3ro7o=;dIClt8zBk5dC7R20o+eiJg=="
 ---
 

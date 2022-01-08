@@ -2,58 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-01-03-jetour-x-1-hybrid-suv-unveiled-with-huawei-l3-autonomous-driving.md",
-      "title": "Jetour X-1 Hybrid SUV unveiled, with Huawei L3 autonomous driving",
-      "excerpt": "JETOUR Motors has just announced a new hybrid vehicle. It is the Jetour X-1 Hybrid SUV crossover, which is powered by the Huawei L3 autonomous driving assistance system and more. For those unaware, the Chinese company is a sub brand of Chery Automobiles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/01/03/huawei-l3-autonomous-driving-jietu-x-1-hybrid-suv/",
-      "originalUrl": "https://www.gizmochina.com/2022/01/03/huawei-l3-autonomous-driving-jietu-x-1-hybrid-suv/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/01/Screenshot-2022-01-03-154320.png",
-          "width": 812,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/01/03/huawei-l3-autonomous-driving-jietu-x-1-hybrid-suv/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/03/huawei-l3-autonomous-driving-jietu-x-1-hybrid-suv/?amp=1",
-      "publishedDateTime": "2022-01-03T02:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-03-artificial-intelligence-ai-in-manufacturing.md",
       "title": "Artificial Intelligence (AI) in Manufacturing",
       "excerpt": "Many see artificial intelligence (AI) in manufacturing as a major part of what is being termed a “new industrial revolution.” This next stage of industrialization is being driven by robotics, digitalization,",
@@ -1174,6 +1122,57 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-31-ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution.md",
+      "title": "CES 2022 Innovation Award Honoree DeepBrain AI to showcase its AI Human solution!",
+      "excerpt": "DeepBrain AI's video synthesis solutions, a CES 2022 Innovation Awards Winner, leverages the power of Artificial Intelligence to quickly create lifelike human-based AI avatars that inform, solve and guide users through thousands of possible scenarios and real time interactions.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution-1031071561",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution-1031071561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1717439/The_technology_implemented_forms_industry_fields.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-30T08:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

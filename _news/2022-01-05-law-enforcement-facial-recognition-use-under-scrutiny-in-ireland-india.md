@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Telangana HC notices to government, Hyderabad police chief over use of facial recognition tech"
-    excerpt: "A PIL was filed in the Telangana HC challenging the deployment of facial recognition tech without any valid law on various grounds including violation of right to privacy, rule of law and equality."
-    publishedDateTime: 2022-01-04T02:24:00Z
-    webUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.html"
-    ampWebUrl: "https://www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/states/telangana/2022/jan/04/hc-notices-to-ts-govt-hyd-cp-over-use-of-frt-2402783.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 47
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/18/w600X390/Telangana_High_Court.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "HC issues notices to TS, city police chief on use of face recognition technology"
     excerpt: "Face Recognition Technology (FRT) by the Telangana police on citizens had no legal backing and not approved by any legislature"
     publishedDateTime: 2022-01-04T04:21:00Z

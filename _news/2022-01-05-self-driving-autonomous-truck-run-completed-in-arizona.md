@@ -24,6 +24,22 @@ images:
     height: 633
     isCached: true
 
+related:
+  - title: "Self-Driving Semitruck Completes an 80-Mile Route with No Human On Board"
+    excerpt: "Last June, we brought you news of TuSimple, a transportation company focused on driverless tech for trucks, completing a 950-mile (1,528-km) trip 10 hours faster than a human driver could. At the time,"
+    publishedDateTime: 2022-01-07T17:16:00Z
+    webUrl: "https://3quarksdaily.com/3quarksdaily/2022/01/self-driving-semitruck-completes-an-80-mile-route-with-no-human-on-board.html"
+    type: article
+    provider:
+      name: 3 Quarks Daily
+      domain: 3quarksdaily.com
+    quality: 23
+    images:
+      - url: "https://3quarksdaily.com/wp-content/uploads/2017/12/TopBannerFullNameBlackBlackOrderSizeSpaceKernedBig3.png"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "05dDK+LP5IWqRTrJOV+Q/z/mBJBmf7QkRw+kKvjRtu28+mVJ6D3QTj3Nje92kNwoA0rFtEWB+7NNWHHlMqHYSuMfbCsxjIUzIaiRfgfCdNw20ItEbhLmBpr7jOTTAoOEiuBX93ZkVfr55cLsDY09KY1O+C4ohMdzEa9zvDOGSQrh1TtB4O4V+NAIHe6KjCYGoVkHAFdbSuLEE7gQQUuX4h4p0OuMbCFLeEtAD5vKY5wOBAjwQ+lkxpk3JOyhSAt5/bJMeJr78PTIUzwjV/9va7RRNW9/DbRQfPUdqpnbQ8mXFUiXDHEVlW0ufqnexG5Q/1GiUJHHYj14LKK40XtIEViVnRSnFiIlryKK853n3TZrRIgw8zt9kZCQftxYuYmm7Vt2B8qC1TWbaDxvo+WEDijM0VTFGZRAOnYOnC6XWOMlzMkA+TwlGX59M6ion39l1QLcZVI0hd01WJTZMocWoFmOh4nKgpgD0h4qxWVeZ/d+t0J9+bc1+DIETtXbCAz6IPny8OPae7K6kgC7ltBG7w==;tDNmrQUXBlm+bKRzbDhTYQ=="
 ---
 
