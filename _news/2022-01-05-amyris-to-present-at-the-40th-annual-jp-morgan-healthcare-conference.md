@@ -62,20 +62,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Valo Health to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Valo Health, LLC (“Valo”), the technology company using human-centric data and artificial intelligence (AI) powered computation to transform the drug discovery and development process, today announced that its CEO and founder,"
-    publishedDateTime: 2022-01-04T15:41:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-artificial-intelligence-b66b9da974453608cb44835689cd8e8e"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
     excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in the 40th Annual J.P. Morgan Healthcare Conference. Alex Zhavoronkov,"
     publishedDateTime: 2022-01-07T10:55:00Z

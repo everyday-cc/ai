@@ -89,21 +89,21 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nvidia Drive Hyperion 8 will pilot self-driving cars and trucks"
-    excerpt: "Learn more Nvidia unveiled its latest generation platform for self-driving vehicles: the Drive Hyperion 8. The company unveiled the latest technology for self-driving cars and trucks at CES 2022, the tech trade show in Las Vegas this week."
-    publishedDateTime: 2022-01-04T16:52:00Z
-    webUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/"
-    ampWebUrl: "https://venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/nvidia-drive-hyperion-8-will-pilot-self-driving-cars-and-trucks/amp/"
+  - title: "You May Be Able to Own a Self-Driving Car After All"
+    excerpt: "For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM announcement this week shows that’s changing."
+    publishedDateTime: 2022-01-08T12:00:00Z
+    webUrl: "https://www.wired.com/story/you-own-self-driving-car/"
+    ampWebUrl: "https://www.wired.com/story/you-own-self-driving-car/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/you-own-self-driving-car/amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: Wired
+      domain: wired.com
     quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/nvidia-ces-tusimple.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://media.wired.com/photos/61d6487b704a9d4aab6ee7bc/master/pass/Business_Cadillac-Halo-001.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Forget Tesla. At CES, Deere Demos a Self-Driving Tractor."
     excerpt: "The company says its new tractor can till fields with no driver present, improving farm productivity by as much as 20%."

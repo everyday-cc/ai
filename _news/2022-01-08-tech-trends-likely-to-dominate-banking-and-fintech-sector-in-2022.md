@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/"
 type: article
 quality: 59
-heat: 269
+heat: 259
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.benzinga.com/files/1_41.png"
         width: 1840
         height: 965
-        isCached: true
-  - title: "People’s Bank of China launches digital Yuan app alongside FinTech plan"
-    excerpt: "China Central Bank introduces Digital Yuan's E-CNY app for IOS and Android as Governor Yi Gang leads People's Bank of China FinTech and CBDC development."
-    publishedDateTime: 2022-01-04T15:24:00Z
-    webUrl: "https://coinrivet.com/pt/peoples-bank-of-china-launches-digital-yuan-app-alongside-fintech-plan/"
-    type: article
-    provider:
-      name: Coin Rivet
-      domain: coinrivet.com
-    quality: 39
-    images:
-      - url: "https://d1mjtvp3d1g20r.cloudfront.net/2022/01/04135118/shutterstock_1543942793.jpg"
-        width: 1000
-        height: 671
         isCached: true
   - title: "Artificial Intelligence: FinTech’s innovation driver"
     excerpt: "FinTech refers to any idea or innovation that improves or optimizes the way individuals or companies conduct financial activities. Early FinTech concentrated on developing add-on products to complement existing financial services."

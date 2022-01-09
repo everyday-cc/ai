@@ -159,7 +159,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -437,58 +437,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-06-pete-buttigieg-wants-vision-tests-for-self-driving-cars.md",
-      "title": "Pete Buttigieg wants vision tests for self-driving cars",
-      "excerpt": "The US secretary of transportation wants to talk about innovation, infrastructure, and electric vehicles — but not about Tesla It’s something of a tradition for the US secretary of transportation to address the annual Consumer Electronics Show in Las Vegas and talk about all the ways that the government hopes to foster innovation in technology and transportation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/22869190/pete-buttigieg-self-driving-cars-electric-tesla-decoder",
-      "originalUrl": "https://www.theverge.com/22869190/pete-buttigieg-self-driving-cars-electric-tesla-decoder",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/ZP8kG7rAlFuaJYrKi_y0LzupnMU=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23147858/VRG_ILLO_Decoder_Pete_Buttigeig_s.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
       "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
       "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence market is on track to hit more than $554 billion in total revenue by 2024, according to market researcher IDC.",
@@ -684,40 +632,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-05-self-driving-advances-could-accelerate-in-2022.md",
-      "title": "Self-Driving Advances Could Accelerate in 2022",
-      "excerpt": "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "publishedDateTime": "2022-01-04T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-05-john-deeres-self-driving-tractor-arrives-later-this-fall.md",
       "title": "John Deere’s self-driving tractor arrives later this fall",
       "excerpt": "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing.",
@@ -810,6 +724,59 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-intels-mobileye-unveils-a-chip-that-could-bring-self-driving-cars-to-the-masses.md",
+      "title": "Intel's Mobileye unveils a chip that could bring self-driving cars to the masses",
+      "excerpt": "Self-driving car technology is currently limited to test programs and specialized vehicles, but Mobileye thinks it can play a key role in making driverless vehicles you can actually buy. The Intel-owned company has unveiled an EyeQ Ultra system-on-chip designed with consumer self-driving cars in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
+      "originalUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/1f232f00-ea43-11eb-afab-432c0d85748b",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1424,6 +1391,49 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-autonomous-vehicles-market-is-gaining-momentum-by-key-players-tata-motors-tesla-toyota-uber.md",
+      "title": "Autonomous Vehicles Market is Gaining Momentum by key players Tata Motors, Tesla, Toyota, Uber",
+      "excerpt": "A new research document is added in HTF MI database of 66 pages titled as Autonomous Vehicles Thematic Research with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players and leaders by market share that",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2512224/autonomous-vehicles-market-is-gaining-momentum-by-key-players",
+      "originalUrl": "https://www.openpr.com/news/2512224/autonomous-vehicles-market-is-gaining-momentum-by-key-players",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc28132627_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2512224/autonomous-vehicles-market-is-gaining-momentum-by-key-players",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2512224/autonomous-vehicles-market-is-gaining-momentum-by-key-players",
+      "publishedDateTime": "2021-12-28T00:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

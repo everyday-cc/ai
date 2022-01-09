@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars"
-    excerpt: "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving."
-    publishedDateTime: 2022-01-04T16:03:00Z
-    webUrl: "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/"
-    ampWebUrl: "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/21065_ME_CHIP_EyeQ-Ultra.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Intel's Mobileye unveils a chip that could bring self-driving cars to the masses"
     excerpt: "Self-driving car technology is currently limited to test programs and specialized vehicles, but Mobileye thinks it can play a key role in making driverless vehicles you can actually buy. The Intel-owned company has unveiled an EyeQ Ultra system-on-chip designed with consumer self-driving cars in mind."
     publishedDateTime: 2022-01-04T18:16:00Z
@@ -54,6 +38,33 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/1f232f00-ea43-11eb-afab-432c0d85748b"
         width: 4000
         height: 2667
+        isCached: true
+  - title: "Self-Driving Advances Could Accelerate in 2022"
+    excerpt: "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,"
+    publishedDateTime: 2022-01-04T21:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Self-driving race cars zip into history at CES"
+    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
+    publishedDateTime: 2022-01-08T10:10:00Z
+    webUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Intel’s Mobileye, Zeekr plan to launch self-driving car in China in 2024"
     excerpt: "The car will have level 4 autonomy, meaning that it will still have a steering wheel and require a licensed driver but will be able to drive itself in many situations."
@@ -85,6 +96,34 @@ related:
         width: 1920
         height: 1279
         isCached: true
+  - title: "General Motors Unveils Advanced Computing Architecture for Self Driving Cars"
+    excerpt: "General Motors showcased its new computing architecture for its Ultra Cruise system. The architecture was developed in collaboration with Qualcomm, and it involves the first dedicated Snapdragon system-on-chips."
+    publishedDateTime: 2022-01-07T10:31:00Z
+    webUrl: "https://www.autoevolution.com/news/general-motors-unveils-advanced-computing-architecture-for-self-driving-cars-178561.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/general-motors-unveils-advanced-computing-architecture-for-self-driving-cars-178561_1.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Mobileye’s Self-Driving Secret? 200PB of Data"
+    excerpt: "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
+    publishedDateTime: 2022-01-05T20:36:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Geely to develop self-driving vehicle with Mobileye"
     excerpt: "Geely Automobile Holdings plans to tap Intel’s Mobileye unit to develop a vehicle with L4 autonomy for Zeekr, its smart electric-vehicle brand."
     publishedDateTime: 2022-01-06T17:37:00Z
@@ -99,15 +138,31 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
-    excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio - the Snapdragon Ride™ Vision System - a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
-    publishedDateTime: 2022-01-04T19:21:00Z
-    webUrl: "https://www.publicnow.com/view/E93501B729CEED4E7D7BDFEE65B9D8BBD6666CE4"
+  - title: "Pa. transportation secretary, senator unveil bill to allow self-driving cars to be tested"
+    excerpt: "With pioneering research on self-driving vehicles at Carnegie Mellon University and private companies in, Pennsylvania wants to make sure that new technology can be developed, tested"
+    publishedDateTime: 2022-01-05T23:18:00Z
+    webUrl: "https://www.bradfordera.com/news/pa-transportation-secretary-senator-unveil-bill-to-allow-self-driving-cars-to-be-tested/article_b083a750-7817-58cb-b336-6bc892f0beb4.html"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 0
+      name: Bradford Era
+      domain: bradfordera.com
+    quality: 15
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bradfordera.com/content/tncms/assets/v3/eedition/0/91/091662c9-75f9-5930-b6a0-623d2694b5c8/61d4fc1ea0340.preview-300.jpg?resize=300%2C651"
+        width: 300
+        height: 651
+        isCached: true
+  - title: "The Mass Production of the 'Eye' of Smart Cars Is Gaining Momentum, WIMI 3D Lidar Moves to Advanced Autonomous Driving"
+    excerpt: "The trend of “electrification, intelligence, interconnection and sharing” has ... With the global deployment of self-driving cars, the United States, China, Germany, Canada and other countries are leading the world in lidar technology."
+    publishedDateTime: 2022-01-07T20:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/ab24956533/the-mass-production-of-the-eye-of-smart-cars-is-gaining-momentum-wimi-3d-lidar-moves-to-advanced-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24956533"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24956533"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "8VVvPfKreGLa1VyIUX9EatU6vTCZb+0al5EXV38Xm6DwdVm4dWU7U7tSd69F0atbHsELnglS7HkRw8qKAL+NHHTuXF66mbs6HYQeJ0Ed/T1MdlxZT7EiyzInDKXrjsQ912JFOKiv9l+Zx3UMbTyl4LiWc1g/1lnT4NPbcACweKoKGxQldUNfc+n/hbfb6rZQBxo1rxS3r352t6grV834GwF9fHyKsSmBNSkrtydv8ASX3C26Bd7kZmwnWRNbMRvA2FLW/IEBaq6jJYL2aTQF8dHwwJSCXuLiQxE8SXyprZ1yuVGsvlZU70NRmAKUXB4MdwNXowomVhkEZK+too6KNuXGxzW57okTtzeRZWrPOkw=;JaGz3U91u9Ww4LO/oAy/Uw=="
 ---

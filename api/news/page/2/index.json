@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-07-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
+      "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
+      "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the adoption of artificial intelligence and machine learning, next-gen automotive and mobility,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/why-nvidia-is-needham-s-top-ai-ml-stock-pick-for-2022-1031087901",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/why-nvidia-is-needham-s-top-ai-ml-stock-pick-for-2022-1031087901",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/artificial-intelligence-gc3f7ba6fb_1920.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-farmsense-uses-sensors-and-machine-learning-to-bug-proof-crops.md",
       "title": "FarmSense uses sensors and machine learning to bug-proof crops",
       "excerpt": "The damages caused to agriculture by insect pests like the Japanese beetle (pictured above) exceed $100 billion every year, according to the Agricultural Research Service of the USDA. And along with plant diseases,",
@@ -63,7 +115,7 @@
       "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -1135,49 +1187,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-gm-aims-for-self-driving-car-chevy-unveils-electric-silverado.md",
-      "title": "GM aims for self-driving car; Chevy unveils electric Silverado",
-      "excerpt": "General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade. And Chevy is rolling out an electric Silverado.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/",
-      "originalUrl": "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wraltechwire.com/wp-content/uploads/2022/01/chevy-silverado-ev-e1641476751743-1024x577.jpg",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1",
-      "cdnAmpWebUrl": "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1",
-      "publishedDateTime": "2022-01-06T05:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

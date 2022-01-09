@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Ramaphosa uses ANC anniversary speech to stamp his authority on the party"
-excerpt: "South African President Cyril Ramaphosa has delivered a speech to mark the anniversary of the formation of the African National Congress ANC over wh"
-publishedDateTime: 2022-01-08T21:12:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272131116/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party"
-webUrl: "https://www.bignewsnetwork.com/news/272131116/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party"
+excerpt: "South African President Cyril Ramaphosa delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was"
+publishedDateTime: 2022-01-08T19:31:00Z
+originalUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596"
+webUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596"
 type: article
-quality: 23
-heat: 23
+quality: 3
+heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/cvr1641674420.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "South Africa: Ramaphosa Uses ANC Anniversary Speech to Stamp His Authority On the Party"
@@ -40,6 +34,6 @@ related:
         height: 664
         isCached: true
 
-secured: "/wWbw1sV4gBKzLqTPorSujbG4MaB2EkFZMjaugyqB39SAd1UjO8qgW/z4VAloL2lHJJ7NvciOBnpL89r8TNun74dWF/CfDAtk9OJz8AMfHaH/CiT6QUBA3q45ahWx67g88XWkjcTFHMm2EPXZBd6/HUBHxwU4xZb0qL6xxFOTakSXWqZU/3XWx3KFzH7K9b2/2etqbz20RXa4KDeRwm+wgs2uQkN5PLedysOF1DIF4A8OkPjKPY9Tls+Uzh1UkrVz30xjPRxyOUkRjnN3WqqVOOHRsaMWnPyViaNu5Lz6IB8dHfIrowNKGfZcGcl5H4Z1Rd5WeIkr6s1fa7ITiV7HcVV4bpFanuPZlz/We4xpm4=;zISxFJcdaewFPX6B0s9GUQ=="
+secured: "G3gcVbuvzjZB/gDq+V4m+75rZgB23HY5i02AvHRhdcrXtGHvkRvkAbJz/51mWHqD0LcHslEGMDMjn9sWxv9qb5YGhdYBWvd116i6nx683MOgetJ7DqS9pQU3nfHcqyErDQUuyWApuV6mzJHeJOpqLHYPhZ1t+9OmMxzx17VHFrZtqh2iSxHO1fZBgdy2bHeKs2VWvdf/TKNfR53RlJ/fHIN2Kl+pRTqF+9/zsS26jI0H/QsPOGsaeBCXKAyMTFWxJbXgvcAkXkRt5fMu4R4jIlMgrGP05qdKX2Zr8b/YNHLM9f5OE2qJ604NL8wRoy5vApPnl/waMNKTn5JA2+rnUL92vu/l6bkSUnRJVIMt04Y=;19vwvwH2xCOOIsNC17joRw=="
 ---
 

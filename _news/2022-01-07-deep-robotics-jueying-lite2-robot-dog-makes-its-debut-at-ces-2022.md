@@ -129,15 +129,20 @@ related:
         width: 450
         height: 308
         isCached: true
-  - title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
-    publishedDateTime: 2022-01-05T15:04:00Z
-    webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
+  - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+    excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
+    publishedDateTime: 2022-01-05T14:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 1
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 21
+    images:
+      - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?p=facebook"
+        width: 5157
+        height: 2698
+        isCached: true
 
 secured: "gBKGl3nTqRoLiqku2qecCT9MlVViwvRT5K64v0AZNQy5YJKHWv3vdQmqqbthEzlUm8+LCspCEJ0jBBjdUlvfKyrmYvvxEGehTCIW7Qusfzzw4Lyjiq0R/2pJ8ZYwQXNZVC6rXbH/35d4ulgJFWvGuWP+JzjWRX55ozcGwDx1Gj7UmO5huhgTd2ukAK7f3AQRhMsCDaiwDwO8yfETwkbh4oYiDDkiH5k0biZ21TTl8jHAGBNf66bQKqqpDaLh5L6OxoKAmVnM83PsAA9TurFziD8TXYKccUQ4iJ0MQbXhAcTcuxMk/GfC7th1l0/CjnnQbTJc/ZMxCMkrVOORgbNRd/QuXC06bNzV/M1GReGgwdU=;Z6hrn2g0us6TFfLmTRmDWg=="
 ---

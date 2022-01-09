@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-06-telanganas-facial-recognition-technology-comes-under-scanner.md",
+      "title": "Telangana’s facial recognition technology comes under scanner",
+      "excerpt": "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html",
+      "originalUrl": "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/01/05/1600x900/aa424bd6-6e53-11ec-9428-b30a84c15666_1641409525856.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html",
+      "publishedDateTime": "2022-01-05T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-amazon-announces-broad-cloud-and-ai-collaboration-with-auto-giant-stellantis.md",
       "title": "Amazon announces broad cloud and AI collaboration with auto giant Stellantis",
       "excerpt": "Stellantis NV, one of the world’s top automakers, that will encompass smart vehicles, a cloud-based data mesh and other ambitious technology initiatives. Stellantis was formed in 2021 from the merger of Chrysler Automobiles and PSA Group.",
@@ -95,7 +138,7 @@
       "originalUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -199,7 +242,7 @@
       "originalUrl": "https://www.techspot.com/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1150,57 +1193,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations.md",
-      "title": "Report: 43% of consumers feel transparency is key for positive AI innovations",
-      "excerpt": "With the AI market growing at record rates of adoption, creators must be more explicit about AI's role and the support it provides.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1269240296-e1640790933586.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/amp/",
-      "publishedDateTime": "2022-01-04T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

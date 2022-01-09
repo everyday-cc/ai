@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-pac
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://images.barrons.com/im-464381/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Tesla raises price of \"Full Self-Driving\" software to $12,000"
+    excerpt: "\"Tesla FSD price rising to $12k on Jan 17. Just in the US,\" tweeted Elon Musk on Saturday. \"FSD price will rise as we get closer to FSD production code release.\" The premium driver assistance package,"
+    publishedDateTime: 2022-01-09T06:36:00Z
+    webUrl: "https://seekingalpha.com/news/3786445-tesla-raises-price-of-full-self-driving-software-to-12000"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3786445-tesla-raises-price-of-full-self-driving-software-to-12000"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3786445-tesla-raises-price-of-full-self-driving-software-to-12000"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 74
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150569888/medium_image_1150569888.jpg"
+        width: 768
+        height: 519
         isCached: true
   - title: "Tesla raises Full Self Driving software price to US$12,000 in US"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday (Jan 7) that the electric carmaker will raise the US price of its advanced driver assistant software dubbed \"Full Self Driving\" to US$12,000 on Jan 17. The 20 per cent price rise comes less than two years since Tesla raised Full Self-Driving (FSD) prices to US$10,"

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-05-report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations.md",
+      "title": "Report: 43% of consumers feel transparency is key for positive AI innovations",
+      "excerpt": "With the AI market growing at record rates of adoption, creators must be more explicit about AI's role and the support it provides.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/",
+      "originalUrl": "https://venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1269240296-e1640790933586.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/report-43-of-consumers-feel-transparency-is-key-for-positive-ai-innovations/amp/",
+      "publishedDateTime": "2022-01-04T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-why-home-robots-are-a-lot-further-away-than-you-think.md",
       "title": "Why ‘home robots’ are a lot further away than you think",
       "excerpt": "We all want robot companions, butlers, and laborers. We also want time travel and magic beer mugs that get empty.",
@@ -50,40 +101,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-self-driving-advances-could-accelerate-in-2022.md",
-      "title": "Self-Driving Advances Could Accelerate in 2022",
-      "excerpt": "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "publishedDateTime": "2022-01-04T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -295,7 +312,7 @@
       "originalUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -388,6 +405,59 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-intels-mobileye-unveils-a-chip-that-could-bring-self-driving-cars-to-the-masses.md",
+      "title": "Intel's Mobileye unveils a chip that could bring self-driving cars to the masses",
+      "excerpt": "Self-driving car technology is currently limited to test programs and specialized vehicles, but Mobileye thinks it can play a key role in making driverless vehicles you can actually buy. The Intel-owned company has unveiled an EyeQ Ultra system-on-chip designed with consumer self-driving cars in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
+      "originalUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/1f232f00-ea43-11eb-afab-432c0d85748b",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -773,6 +843,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-04-tekion-expands-cloud-hosting-options-with-microsoft-azure.md",
+      "title": "Tekion Expands Cloud Hosting Options with Microsoft Azure",
+      "excerpt": "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-the-machine-learning-future-is-now-how-ai-is-disrupting-entire-industries.md",
       "title": "The Machine Learning Future Is Now: How AI is Disrupting Entire Industries",
       "excerpt": "M achine learning and artificial intelligence (AI) are no longer the concepts of science fiction – they’re a $1.41 billion industry that is already making big changes to the way we understand and use immense databases for a wide range of purposes.",
@@ -1090,100 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-machine-learning-helps-repair-genetic-damage.md",
-      "title": "Machine Learning Helps Repair Genetic Damage",
-      "excerpt": "Using machine learning techniques, researchers from Massachusetts General Hospital and the National Cancer Research Centre, have discovered how to repair genetic damage to prevent DNA mutations. According to the research team,",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/news/machine-learninghelps-repair-genetic-damage",
-      "originalUrl": "https://healthitanalytics.com/news/machine-learninghelps-repair-genetic-damage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/sized/ThinkstockPhotos-164326574-e4b00c1efb9503a805928b101c78b499.jpg",
-          "width": 480,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthitanalytics.com/news/amp/machine-learninghelps-repair-genetic-damage",
-      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/machine-learninghelps-repair-genetic-damage",
-      "publishedDateTime": "2022-01-04T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-the-human-side-of-building-an-ai-company.md",
-      "title": "The Human Side Of Building An AI Company",
-      "excerpt": "After all, that team you're building will ultimately iterate and optimize the core technology that got you off the ground. Nobody gets to the next level working alone. Yet it's your role — and my role — in senior leadership that significantly influences what that team experience is.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac1140ff5b5bffc474705%2F0x0.jpg",
-          "width": 1200,
-          "height": 746,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/the-human-side-of-building-an-ai-company/amp/",
-      "publishedDateTime": "2022-01-04T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

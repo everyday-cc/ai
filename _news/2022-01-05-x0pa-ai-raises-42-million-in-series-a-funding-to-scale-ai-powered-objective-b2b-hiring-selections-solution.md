@@ -2,9 +2,9 @@
 category: news
 title: "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION"
 excerpt: "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led"
-publishedDateTime: 2022-01-04T21:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring--selections-solution-301450354.html"
-webUrl: "https://www.prnewswire.com/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring--selections-solution-301450354.html"
+publishedDateTime: 2022-01-05T02:00:00Z
+originalUrl: "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
+webUrl: "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html"
 type: article
 quality: 19
 heat: -1
@@ -42,6 +42,6 @@ related:
         height: 465
         isCached: true
 
-secured: "pWd+ivIuA5+HU2Xu6j0izoXoz5wRzM5O4E9jPUOp+9dFn0VPvIA5ZCLGTYHjy0pEvUExZUHQHcIj2Jy4hZPC2dB5C6nsW4XJn1GK1DEzhoe2AxgTOTWSeslP9rehUcJxVimoJsg3PW4J85p7+tm32ahpg8LNm59alEvd9NJ/7c7BHO9Wg8Rfls4aq4G/1GEaVpSeIxG1GiZS5BrjCoXGaH+vz30ipO19k+B+852GyiOQc4PbsO+vvBm3mEqlVUqxGdbbjp41y1woV77faj8z8494fpnaHSfcaaSpO9vIuySJRef/BjSuamqwpSCfmBQbOtTXlD/wEu3CUWBafxEAWH2JE5xvc2OUGcDBQD6E84wavT2KYiTLJn1JKDnBtFMk7BkSF6Z8ZJpnft19TBdvPw6XBwHDZKenqqGuKYuwxpvALComVVRqHTPQI2xCoRCszVNpZSHwc+BtfA4YU169oOkYeBrBzOoRIIz3gn6KsPCl+BKetOU+PDlx0aiGLGK9UQzj1qFvUkeiE7FC0eSgHg==;pA754ZacPoQmuR36E6vaKw=="
+secured: "3/xKBv+vvZGXH+mrfU9afuVuTFITmBhjxAQuaSmzHcbJT05fZ1esvlO4P5+Nu8sCbdJiPsFq15GDMcuw/gEb+gq9PiOvaKCVR6nRZi+rEpZMxSOc5gpXegYWA2FDk6Lzmd/Wjtefx3Mc/yARkM1UdffT2oChfZrQ2TP33B67PUCHXmeMar17HG6v9oQAxY/nbqco9tqx8qiHPMerOi7ET3axAQ1m0+ZTfG3M+WdO/pZDclFuTl96czvAdDe7dToAN7FivBag2jHrRDgBvH9W43uUD1e4ebj5Hi2+sZe0q4F2hO7zDRjjis0Cvv35V3WoSJKd0vGXSoRDbBYKaou/JQDKa5cY0V1iovU5Y16jBBs=;LOevWJ3UyqJU6EZoyf3dnQ=="
 ---
 

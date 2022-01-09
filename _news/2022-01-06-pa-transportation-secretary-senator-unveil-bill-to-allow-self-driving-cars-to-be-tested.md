@@ -25,29 +25,144 @@ images:
     isCached: true
 
 related:
-  - title: "Pete Buttigieg wants vision tests for self-driving cars"
-    excerpt: "The US secretary of transportation wants to talk about innovation, infrastructure, and electric vehicles — but not about Tesla It’s something of a tradition for the US secretary of transportation to address the annual Consumer Electronics Show in Las Vegas and talk about all the ways that the government hopes to foster innovation in technology and transportation."
-    publishedDateTime: 2022-01-06T12:00:00Z
-    webUrl: "https://www.theverge.com/22869190/pete-buttigieg-self-driving-cars-electric-tesla-decoder"
+  - title: "Intel's Mobileye unveils a chip that could bring self-driving cars to the masses"
+    excerpt: "Self-driving car technology is currently limited to test programs and specialized vehicles, but Mobileye thinks it can play a key role in making driverless vehicles you can actually buy. The Intel-owned company has unveiled an EyeQ Ultra system-on-chip designed with consumer self-driving cars in mind."
+    publishedDateTime: 2022-01-04T18:16:00Z
+    webUrl: "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 54
+      name: Engadget
+      domain: engadget.com
+    quality: 66
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ZP8kG7rAlFuaJYrKi_y0LzupnMU=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23147858/VRG_ILLO_Decoder_Pete_Buttigeig_s.jpg"
-        width: 1200
-        height: 628
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-07/1f232f00-ea43-11eb-afab-432c0d85748b"
+        width: 4000
+        height: 2667
         isCached: true
-  - title: "Video: Samsung’s self-driving tech goes for a ride"
-    excerpt: "Samsung Electronics showed its vision for in-vehicle experiences and technology that will allow for self-driving capabilities. The concept video shows how Samsung combines the latest consumer electronics and information technologies with Harman,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17615/video-samsung-s-self-driving-tech-goes-for-a-ride"
+  - title: "Self-Driving Advances Could Accelerate in 2022"
+    excerpt: "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,"
+    publishedDateTime: 2022-01-04T21:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022"
+    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
+  - title: "Self-driving race cars zip into history at CES"
+    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
+    publishedDateTime: 2022-01-08T10:10:00Z
+    webUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Intel’s Mobileye, Zeekr plan to launch self-driving car in China in 2024"
+    excerpt: "The car will have level 4 autonomy, meaning that it will still have a steering wheel and require a licensed driver but will be able to drive itself in many situations."
+    publishedDateTime: 2022-01-04T18:45:00Z
+    webUrl: "https://nypost.com/2022/01/04/intels-mobileye-zeekr-plan-to-launch-self-driving-car-in-china-in-2024/"
+    ampWebUrl: "https://nypost.com/2022/01/04/intels-mobileye-zeekr-plan-to-launch-self-driving-car-in-china-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/01/04/intels-mobileye-zeekr-plan-to-launch-self-driving-car-in-china-in-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 43
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/01/zeekr.jpg?quality=90&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Zeekr and Mobileye to develop Level 4 self-driving car for retail sale"
+    excerpt: "Comment Now! Zeekr could become the first car brand with a Level 4 self-driving car available for retail sale. The new premium electric-vehic"
+    publishedDateTime: 2022-01-05T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134645_zeekr-and-mobileye-to-develop-level-4-self-driving-car-for-retail-sale"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 39
+    images:
+      - url: "https://images.hgmsites.net/hug/2021-zeekr-001_100811346_h.jpg"
+        width: 1920
+        height: 1279
+        isCached: true
+  - title: "General Motors Unveils Advanced Computing Architecture for Self Driving Cars"
+    excerpt: "General Motors showcased its new computing architecture for its Ultra Cruise system. The architecture was developed in collaboration with Qualcomm, and it involves the first dedicated Snapdragon system-on-chips."
+    publishedDateTime: 2022-01-07T10:31:00Z
+    webUrl: "https://www.autoevolution.com/news/general-motors-unveils-advanced-computing-architecture-for-self-driving-cars-178561.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 36
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/general-motors-unveils-advanced-computing-architecture-for-self-driving-cars-178561_1.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Geely partners with Mobileye in L4 self-driving vehicles"
+    excerpt: "Chinese automaker Geely Holding Group announced this week its premium electric vehicle (EV) brand Zeekr will work together with Intel’s...Read"
+    publishedDateTime: 2022-01-06T09:00:00Z
+    webUrl: "https://www.just-auto.com/news/geely-partners-with-mobileye-in-l4-self-driving-vehicles/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/zeekrlaunchnight_15042021-10.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Mobileye’s Self-Driving Secret? 200PB of Data"
+    excerpt: "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
+    publishedDateTime: 2022-01-05T20:36:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Geely to develop self-driving vehicle with Mobileye"
+    excerpt: "Geely Automobile Holdings plans to tap Intel’s Mobileye unit to develop a vehicle with L4 autonomy for Zeekr, its smart electric-vehicle brand."
+    publishedDateTime: 2022-01-06T17:37:00Z
+    webUrl: "https://www.autonews.com/china/geely-develop-self-driving-vehicle-mobileye"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/zeekrmobileye-700x525.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "The Mass Production of the 'Eye' of Smart Cars Is Gaining Momentum, WIMI 3D Lidar Moves to Advanced Autonomous Driving"
+    excerpt: "The trend of “electrification, intelligence, interconnection and sharing” has ... With the global deployment of self-driving cars, the United States, China, Germany, Canada and other countries are leading the world in lidar technology."
+    publishedDateTime: 2022-01-07T20:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/ab24956533/the-mass-production-of-the-eye-of-smart-cars-is-gaining-momentum-wimi-3d-lidar-moves-to-advanced-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24956533"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24956533"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "6tk6W4mknf6uGrkBNteASXzTriBjV9UnWwnFTk+7r4urZ75PrLiATE5L2UpNGhc4QzJhks7XBYUnJd7jc6LHG1B2R6ddQ7ysyxs/6YJw4h0U3GqElkiI6da2Bsg1Z1ipi2gdfWYorXiWNPYRh3oZpjUafo918nxJGS3Gq1cAfceHTikQj2PehQtyM07Bw/VAcKQA5WZuEtw4vmdhaTkIxEMCMEXy5frf9Npf8djXsQd31WyQVL9ijAm8/9zwOBVJdjaMccPPwMA5weWRZycbFyf63MCtUwQrtt0f1PNbcr3ClroNIdb+Pn+GKrKLJaV+tn/Zo8605105d42nedWlz9D36ICdFMGwVDS0fLZH9nlWMN/RZtYeTs/KiRPReEdjSLFVwGI9HMT/f909IsfAv+QeZr0y5h92kfw0APJzXcTpu9kN46VF37y9NckkIztE7comPTVQbU6QZuhKx7eyGeeL1QV9FM6dOEICY2Na4/zEdLwsasv6ruhQdqyjKWvx7ijF2a/9ucSGgVRVFkC9Eg==;V+ce+GtRv0zyqi5De1K24A=="
 ---

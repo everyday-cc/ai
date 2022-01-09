@@ -7,7 +7,7 @@ originalUrl: "https://www.businesswire.com/news/home/20220105005941/en/MicroAI-D
 webUrl: "https://www.businesswire.com/news/home/20220105005941/en/MicroAI-Demonstrates-Edge-Native-AI-at-CES"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,31 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI Technology Company, Hello Llama Debuts at CES"
+    excerpt: "Hello Llama, an Atlanta-based AI technology company, launches globally today with the release of Llama Vision - the Advanced Driver-Assistance Systems (ADAS) for Light Electric Vehicles (LEVs). This technology creates a safer environment for riders and communities,"
+    publishedDateTime: 2022-01-06T18:45:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-atlanta-artificial-intelligence-consumer-electronics-show-8961bfbaf9e30bfdb234b90b023fb92d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "AI Technology Company, Hello Llama Debuts at CES"
+    excerpt: "Hello Llama, an Atlanta-based AI technology company, launches globally today with the release of Llama Vision - the Advanced Driver-Assistance Systems (ADAS) for Light Electric Vehicles (LEVs). This technology creates a safer environment for riders and communities,"
+    publishedDateTime: 2022-01-06T12:44:00Z
+    webUrl: "https://www.morningstar.com/news/pr-newswire/20220106cg23925/ai-technology-company-hello-llama-debuts-at-ces"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 17
 
 secured: "hCUUmD0mqlL5AGIbBVWmDBdD/2n/tPfU4SfU2FvCbpfgvU9m+Qm2b+wFiJ1qgqNzbVc8VElZlPF4BP4jfc4qV1MEBkjqRUp/MpvkttmfpfUE8lF/vh+lttZKzm5iRzb5zJCTzW2RX30OXJnyJrBmrdkYUDSPXUS1a7XUeHSBgPa0qlX0a6ki+69HZWUUlE6ZYjm97mCFq4lOdSp5TKWG8SFx4ej278K6IeAMEBNi5xpEl9Dd7phlWJjYKTOk3+BqzsaYXKP4zXzWG3z55dr2tjmGkIMd2ybSQMP+Nn5Ef8XQdo8peOHV+L8AX3i3rWhKkoaHhPmAUU5JyfmyUHmrGrZeFkuJy3cu5MJNdXvlt80=;gteYJyW+IcpjCFliZ8TMlQ=="
 ---

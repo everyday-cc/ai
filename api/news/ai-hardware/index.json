@@ -428,7 +428,7 @@
       "originalUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 259,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -469,6 +469,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-intels-mobileye-unveils-a-chip-that-could-bring-self-driving-cars-to-the-masses.md",
+      "title": "Intel's Mobileye unveils a chip that could bring self-driving cars to the masses",
+      "excerpt": "Self-driving car technology is currently limited to test programs and specialized vehicles, but Mobileye thinks it can play a key role in making driverless vehicles you can actually buy. The Intel-owned company has unveiled an EyeQ Ultra system-on-chip designed with consumer self-driving cars in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
+      "originalUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/1f232f00-ea43-11eb-afab-432c0d85748b",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1363,49 +1416,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-explained-why-eu-needs-to-invest-in-chip-design-and-packaging.md",
-      "title": "Explained: Why E.U. needs to invest in chip design and packaging",
-      "excerpt": "Researchers have urged the E.U. to invest a lot more in chip design with a view to becoming less dependent on China.",
-      "sourceUrl": null,
-      "webUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "originalUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fl.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "cdnAmpWebUrl": "https://frontline-thehindu-com.cdn.ampproject.org/c/s/frontline.thehindu.com/dispatches/explained-why-eu-needs-to-invest-in-chip-design-and-packaging/article38003318.ece/amp/",
-      "publishedDateTime": "2021-12-21T00:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

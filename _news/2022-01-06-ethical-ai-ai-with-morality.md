@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma"
 webUrl: "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: LinkedIn
@@ -29,19 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "What’s Next for Ethical AI?"
-    excerpt: "Advancements in AI has transformed businesses, but ethical issues continue to plague the technology. Here is how that battle will evolve."
-    publishedDateTime: 2022-01-04T16:58:00Z
-    webUrl: "https://www.itbusinessedge.com/applications/whats-next-for-ethical-ai/"
+  - title: "Making Video Verification More Effective with Artificial Intelligence"
+    excerpt: "So while it’s true that video verification has been enabling better informed responses for several years now, the application of AI for this purpose has proven a real game-changer. Leveraging video to verify intrusion alarms has been gaining some serious momentum recently,"
+    publishedDateTime: 2022-01-07T09:49:00Z
+    webUrl: "https://www.campussafetymagazine.com/news/making-video-verification-more-effective-with-artificial-intelligence/"
     type: article
     provider:
-      name: IT Business Edge
-      domain: itbusinessedge.com
-    quality: 56
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 39
     images:
-      - url: "https://www.itbusinessedge.com/wp-content/uploads/2022/01/Whats-Next-for-Ethical-AI.jpeg"
-        width: 1500
-        height: 1086
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/01/Artificial-Intelligence-Adobe-by-ipopba-scaled.jpeg"
+        width: 2560
+        height: 1362
+        isCached: true
+  - title: "Satisf-AI: A Route to Reducing Risks From AI"
+    excerpt: "I think Holden Karenofsky’s PASTA is a good way to frame the discussion of transformative AI. It resonates with something I have been turning over for a while now. The AI safety community is typically focused on the question “how do we build AI that is safe?"
+    publishedDateTime: 2022-01-06T03:38:00Z
+    webUrl: "https://www.lesswrong.com/posts/BEWdwySAgKgsyBzbC/satisf-ai-a-route-to-reducing-risks-from-ai"
+    type: article
+    provider:
+      name: LessWrong
+      domain: lesswrong.com
+    quality: 37
+    images:
+      - url: "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1503704344/sequencesgrid/h6vrwdypijqgsop7xwa0.jpg"
+        width: 696
+        height: 274
+        isCached: true
+  - title: "The Secret Weapon Behind Quality AI: Effective Data Labeling"
+    excerpt: "In this special guest feature, Carlos Melendez, COO, Wovenware, discusses best practices for \"The Third Mile in AI Development\" - the huge market subsector in data labeling companies, as they continue to come up with new ways to monetize this often-considered tedious aspect of AI development."
+    publishedDateTime: 2022-01-08T14:00:00Z
+    webUrl: "https://insidebigdata.com/2022/01/08/the-secret-weapon-behind-quality-ai-effective-data-labeling/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
+        width: 252
+        height: 355
         isCached: true
 
 secured: "VXc8w0Y/PPASkUhesf25duLVqg4yVWzsJG/fvkahnJBjewH9TsJZXdbHUWS3IpuocVmFgpvCo1oiYGcZR4W2B2k5YmlBc09HxYQujiy9XCtkacZ/KTNua6d9v9LIVwx4X9vpcFU7f67hGUHQDtTwAAxhieIYr0WMJAHMrbjFRGElLa6ChYiMFiN3jsO75qBQrvqHs4WQw5p8gKSplmcmJvB6qkPW4r8N9AOdwzFvePPVYHMhOJRwuvS4uNsmQa0x7eOAQe3XX3A7G4a/x++H4QlH6XlQfrLUgewgmBpwfB0lrDjedz+cvaUStucX8nUxU4qzCpcC6hVi9FaMc5zahezGqDcb6Bk1cD3T4YvXbyk=;9NDDNWYcqYXn30mMsW/jCA=="

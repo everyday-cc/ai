@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "2022 AI predictions from AspenTech"
+    excerpt: "Bill Scudder, SVP and GM of AIoT Solutions at AspenTech, shares his predictions on AI, automation and workplace culture for 2022. Generational workforce changes will accelerate kn"
+    publishedDateTime: 2022-01-09T08:00:00Z
+    webUrl: "https://manufacturingglobal.com/ai-and-automation/2022-ai-predictions-aspentech"
+    type: article
+    provider:
+      name: manufacturingglobal.com
+      domain: manufacturingglobal.com
+    quality: 37
+    images:
+      - url: "https://manufacturingglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1092965482.jpg.png?itok=TiAX63LR"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "1Ya4+gHqxj0H0u8+Do0PZEqDbGUAnXb0ExvbRwGouWgXd/ZrqWmppoutL0/Yy5NQ5vMvlz00wcinMRWxi0eODFFTsYH2vjkzVRFf3wa5j/wqCckBI3CEV71+7smwCGJNi7MMHMDw3rOHFh2W8CvwSRLNVTbAkdDXFcY3JoUSHm7vDXmektgXSv8F/LaJhcwVmDeaSsrrBmj1XUyWV0gaFmUFQD8OBDeXv1hnCwM9zNeEpA/pstOcCowLMuwpN7SJPo6Lo9Xoa3TWkM7bTGEYIXPA/kz/DwLd6VL41CjVtxZd2kpgWlCRYYHaTwlezu40daUabxk1m9nA0ozYmwh4ujE6Vki8G0KjdHBpHNIiSn+0RhUCGyvMOiwsDKJNFxOz+AIscqJICnaOdkpllT5OHkzRGCPXPggTPrJ1wRX6WcHOaeC3QCqv8rp/fbKDBV2E0PtcUtrEMz0q0iWu4aQmwHz0c3aby45dv7ZTJ05efdKhi+gL3lylpoTMP8uoRO5bk6H4b6UAHFHpOOKKbIjfdw==;fEjBzbFE+WzmWxvd9FExcA=="
 ---
 

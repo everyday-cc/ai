@@ -38,15 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Cassidy Health Partners with athenahealth's Marketplace Program"
-    excerpt: "Cassidy Health, a provider of the only on-demand talent marketplace built specifically for the needs of healthcare revenue cycle, today announced a partnership with athenahealth, Inc. through the company's Marketplace program."
-    publishedDateTime: 2022-01-04T15:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cassidy-health-partners-with-athenahealths-marketplace-program-bring-/2022/01/04/9519416.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "7WSY0Rw5/CR80Blt4F6wF/BY8ypyFpsBbUGJtfZwM54ldvSrcq2ZxA1+vdYwcrEDLEj8vtv8HOqxdZHdg33sWQc8V9qB3C7At4maa8x/iPVEdLJdEVK8VLhFw8ise8BaNN2ZodHAiPPPfCbBQRqeRvb2Rj87naIwsqaajP0cNgi9l33JLU0v3BijI5+ccyVBY5YQnVup9mUT1FjAlYaamnFQXrYIdPIArHBypqI16hYesvnU1Vg+r7WsfLZ0yeWQKrxi0Ocb4EOI6Ff0WMu9bhppC0C3HAiceJWSK/cDpZf54RI2m0zjJ327FFIvxSGhGLFf/N6hWTaT8x1ZF2nj/Adc/4GjvX1WWlRtsZOzt1o=;QbYmSOGTX3M1R2Y0xXJ3SQ=="
 ---

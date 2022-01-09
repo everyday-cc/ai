@@ -73,6 +73,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla raises price of \"Full Self-Driving\" software to $12,000"
+    excerpt: "\"Tesla FSD price rising to $12k on Jan 17. Just in the US,\" tweeted Elon Musk on Saturday. \"FSD price will rise as we get closer to FSD production code release.\" The premium driver assistance package,"
+    publishedDateTime: 2022-01-09T06:36:00Z
+    webUrl: "https://seekingalpha.com/news/3786445-tesla-raises-price-of-full-self-driving-software-to-12000"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3786445-tesla-raises-price-of-full-self-driving-software-to-12000"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3786445-tesla-raises-price-of-full-self-driving-software-to-12000"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 74
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150569888/medium_image_1150569888.jpg"
+        width: 768
+        height: 519
+        isCached: true
   - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
     excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"
     publishedDateTime: 2022-01-08T00:40:00Z

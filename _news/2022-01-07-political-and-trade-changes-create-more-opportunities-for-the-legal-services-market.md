@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "5 AI Trends to Watch out for in 2022"
-    excerpt: "Multi-Modal AI and Large Language Models are among the breakthroughs are among the breakthroughs that will keep AI moving ahead in 2022."
-    publishedDateTime: 2022-01-04T16:00:00Z
-    webUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 41
-    images:
-      - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
-        width: 918
-        height: 1024
-        isCached: true
   - title: "Global Disposable Pipette Tips Market Forecast Report 2021-2028 - Use of Artificial Intelligence (AI) and Biomarkers in Biomarker-Related Analysis and"
     excerpt: "The \"Disposable Pipette Tips Market Forecast to 2028 - COVID-19 Impact and Global Analysis\" report has been added to ResearchAndMarkets.com's offering. The disposable pipette tips market is projected to reach US$ 166."
     publishedDateTime: 2022-01-07T09:03:00Z

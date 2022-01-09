@@ -2,19 +2,25 @@
 category: news
 title: "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence"
 excerpt: "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,"
-publishedDateTime: 2021-12-27T13:04:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_d272bac2-2b56-5f91-8eae-2d9bad021e9c.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_d272bac2-2b56-5f91-8eae-2d9bad021e9c.html"
+publishedDateTime: 2021-12-27T14:04:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e"
 type: article
 
 provider:
-  name: Daily News
-  domain: galvnews.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
-secured: "gGoXr5ff65nLVC/AEEEmkJNIfaUYz6lwgjbHs2hAeLH+AK5mClQFPjoMPYyyX5ZtNMxMhTaa9WVk2lJBWITUbNjh+4z3N86HGhqe6LjJYA/K5U7gA26bywjTE7kZlAxWr9/bFN1/T+SI6AIc0p5Q80xT7HU2UiWmmXDZFU/7syeaMpqr14qCPcgJWcDHYvkSR/t577xcoYrK4+AdjQkiZwuTNwuKKsL/oRWrzzkC1CAc2R9FK0b9joEbv8Tgia7lTduCY5lbtsE73sVRHYNX7/MGZep9uivPyxyM6zMZGEBqAUZXxZ8cMEL6LIU/fQrfd15o2s9zWAeIR0JmnrGY3LVOU3eczz6X9G78tEd/OniG9d58sZ8mIX0T1TSOHwU13RTmpi5/+KROKxbWwMa2T/fUr0XNH4W1bBPExnSrR234iJR+CysiA2muF75FsQ3n6ANUnykn1bgImOo+moP6z2Kvpen4HCawkK+SB/8QhYs/KhahP3d6E5H08fScmV6Dzs9pTkAcfFwGoWhWSIsa4Q==;czqqXtO8m/uhkR8X9nPIOQ=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "aiuhkYzTAuWMvzxY/Kv9sCe/8VQHf1S8mU+FF6WWFs69Qq1UZ1gBc2pkzy2MKIcaTktadpJWvBu3h0sIGQUz7+DKO7eE+GXS29O565F12he0QbL0foCVqFMsL95BzUioUXSWKWVsRLU+3fOPJhb50Ei38FqK5mjs7iGG0nVT7UYaI3/dklXidDkB/xiCZgtts1o/7/MHsGrdA+8F9za6ET0dbGqVk2zP+NAgbkk6gBMWFOMU9BxRJigtqlu+Scf/b838ivxph/GoPj/9vaSr4Mmh+vpPj/qdIQDierCicAFF3Kq72qKajI9uFFhgh4J6Z76PTh12Mh5ojXVHfGbjtzAn78OfYW3yuBjDcUzTf5w=;RtjSi3hpl5msXb5xhwvzMA=="
 ---
 

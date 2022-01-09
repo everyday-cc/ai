@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/qualcomm-and-microso
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
 type: article
 quality: 91
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 1800
         height: 600
         isCached: true
-  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-    excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
-    publishedDateTime: 2022-01-04T15:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
     excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
     publishedDateTime: 2022-01-04T19:00:00Z

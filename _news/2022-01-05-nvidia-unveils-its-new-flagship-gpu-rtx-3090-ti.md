@@ -59,22 +59,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Nvidia's RTX 3090 Ti Is Here, and It Might Be the Most Powerful GPU Yet"
-    excerpt: "The new RTX 3080 Ti, coming to dozens of new gaming systems in the next few months, comes with 16GB of GDDR6 RAM, and is supposedly more powerful than the desktop Titan RTX GPU. Nvidia claims these chips can run games at 1440p at 120 frames per second or higher."
-    publishedDateTime: 2022-01-04T16:56:00Z
-    webUrl: "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289"
-    ampWebUrl: "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/51c3b654e95e1c2a08cc845786909c6b.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The Nvidia RTX 3090 Ti is the GPU we all want – but it’s the RTX 3050 that we need"
     excerpt: "As soon as Nvidia announced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards, a slew of powerful new gaming laptops was announced by all the big names. If Nvidia can deliver on its promises, it looks like 2022 is going to be a great year for gaming on a laptop."
     publishedDateTime: 2022-01-08T16:00:00Z
@@ -122,22 +106,6 @@ related:
       - url: "https://www.gamespot.com/a/uploads/original/1179/11799911/3923258-screenshot2022-01-04at12.20.31pm.png"
         width: 1115
         height: 639
-        isCached: true
-  - title: "Nvidia reveals RTX 3090 Ti GPU at CES 2022"
-    excerpt: "The existence of the RTX 3090 Ti had been rumored for some time, but we got confirmation of the GPU during Nvidia’s CES 2022 keynote. Featuring a similar visual design to the base 3090, the 3090 Ti is even faster and more powerful than its predecessor."
-    publishedDateTime: 2022-01-04T16:40:00Z
-    webUrl: "https://www.shacknews.com/article/128197/nvidia-reveals-rtx-3090-ti-gpu-at-ces-2022"
-    ampWebUrl: "https://www.shacknews.com/article/128197/nvidia-reveals-rtx-3090-ti-gpu-at-ces-2022?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/128197/nvidia-reveals-rtx-3090-ti-gpu-at-ces-2022?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 59
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/01/04/nvidia3090-ti-gpu_feature.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Nvidia reveals the entry-level RTX 3050 GPU"
     excerpt: "During Nvidia's special address at CES 2022, the company revealed a number of different things including a new budget graphics card."

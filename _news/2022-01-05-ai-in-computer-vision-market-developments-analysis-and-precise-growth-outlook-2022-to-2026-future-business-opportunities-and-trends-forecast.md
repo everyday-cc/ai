@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 AI Trends to Watch out for in 2022"
-    excerpt: "Multi-Modal AI and Large Language Models are among the breakthroughs are among the breakthroughs that will keep AI moving ahead in 2022."
-    publishedDateTime: 2022-01-04T16:00:00Z
-    webUrl: "https://thenewstack.io/5-ai-trends-to-watch-out-for-in-2022/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 41
-    images:
-      - url: "https://cdn.thenewstack.io/media/2022/01/7e5796cb-ai-t-0-918x1024.jpg"
-        width: 918
-        height: 1024
-        isCached: true
   - title: "Political And Trade Changes Create More Opportunities For The Legal Services Market"
     excerpt: "Legal Services Global Market Report 2022 – Market Size, Trends, And Global Forecast 2022 - 2026. The Business Research Company's Legal Services Global Ma"
     publishedDateTime: 2022-01-07T12:44:00Z
