@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2022: Roborock S7 MaxV Ultra Solves The Biggest Problem With Robot Mops"
-    excerpt: "Roborock has finally announced their latest robovac/mop and I couldn't be more excited. As much as I loved the Roborock S7 last year for its improved mopping capabilities and dock compatibility, it lacked the AI obstacle recognition of the S6 MaxV."
-    publishedDateTime: 2022-01-04T20:47:00Z
-    webUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/"
-    ampWebUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d4be73f7c34d285255465d%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The AI-Powered Enterprise Tools Presented at CES 2022"
     excerpt: "Highlights from Las Vegas include AI-powered chips, robots and tractors."
     publishedDateTime: 2022-01-07T22:31:00Z
@@ -75,6 +59,22 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "The weirdest stuff we saw at CES 2022: John Deere's self-driving tractor, robot masseuses"
+    excerpt: "Among the odder sights at this year's Consumer Electronics Show: an autonomous tractor from John Deere and robots that will give you a massage."
+    publishedDateTime: 2022-01-07T14:46:00Z
+    webUrl: "https://www.usatoday.com/story/tech/columnist/2022/01/07/ces-best-products-weird/9126052002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/9126052002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9126052002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 52
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/01/07/USAT/2b6a08d9-7ce8-4a07-9ea0-90a298e2b917-ameca-robot-horiz.jpg?auto=webp&crop=3010,1693,x13,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
     excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"

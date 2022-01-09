@@ -89,15 +89,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Annata expands Microsoft collaboration to drive data and mobility services in automotive industry"
-    excerpt: "Annata is deepening their collaboration with Microsoft to further develop and bring to market solutions to enable the transformation of automotive distribution and retail with next-generation retail and mobility services."
-    publishedDateTime: 2022-01-04T19:05:00Z
-    webUrl: "https://www.publicnow.com/view/FDA572032D8621AF142C8E45870D13C9B5EBC453"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 6
 
 secured: "2Awz2AFWE0YNV3lMCzn4tZ1DT2XQbfjpaH6tkwKaRnHH34sS/ymMKDzismFec/sNMuXj+wWPK1WKXAbbdq1Nn3BNJNyIRrEcTGaZj3H2o6BR4zXR8fE9SFBRsDdaVSwTDRRJhjtRESUUNTS4w89N9GTFYFQsSGb1u54sGbGl7rQuKTh1ZkY4L5S4jOdmwgcnuCYQOZXJSjf+H9+s1g3ROOJd7VeX5TW7/6t6Ky8iZjknKSgQtyz7qDENTqVdRXwYYrvsihT1kSjLfjCNaB6rOtRRJWmXVNZ1fit/BCZyh9cxrWtMnl5gbEHZt7C7MQ5PNEL2nmEwwcTvQnWVaroN/+/9jFvj6SQvn3CzA8Xe0DQ=;7r1Qn7jJVV0/sjc+Up4gRw=="
 ---

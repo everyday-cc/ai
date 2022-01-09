@@ -9,8 +9,8 @@ ampWebUrl: "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-
 cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: KHON2
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pony.ai, Sinotrans Collaborate on Driverless Trucking"
-    excerpt: "Autonomous driving firm Pony.ai is working with Chinese logistics company Sinotrans to build a smart logistics network that uses autonomous trucking tech."
-    publishedDateTime: 2022-01-04T19:45:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/pony.ai_-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "University of Hawaii to compete in driverless car racing competition"
     excerpt: "The University of Hawaii will soon compete in the world's first head-to-head autonomous car racing competition. The Autonomous Challenge at CES, or Consumer Electronics Show, will be held Jan. 7 in Las Vegas."
     publishedDateTime: 2022-01-05T18:23:00Z

@@ -132,17 +132,6 @@ related:
         width: 600
         height: 308
         isCached: true
-  - title: "Ambarella Launches AI Domain Controller SoC Family for Single-Chip Multi-Sensor Perception, Fusion and Path Planning in ADAS to L4 Autonomous Vehicles"
-    excerpt: "(NASDAQ:AMBA), an AI vision silicon company, today announced during CES the CV3 AI domain controller family. This fully scalable, power-efficient CVflow® family of SoCs provides the automotive industry's highest AI processing performance,"
-    publishedDateTime: 2022-01-04T20:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g24893873/ambarella-launches-ai-domain-controller-soc-family-for-single-chip-multi-sensor-perception-fusion-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24893873"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24893873"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 14
 
 secured: "NvPYZDdLAR/Gum/Jxzpwkb9r7rY8WA90F8+AkzwCfNzUo+jDI7AmldHCJ0RXl+jEDdm6Iiy/IfmXQjCOaQcw8c0nqfXb4fg+SiV+laRJpqfQnrmw7XZNcVD9FWtutFSWUSUOITiJhNGEDo9LnQF/jtftBzNElcfie34XD2hN4PeSoUKA4u31stJnHexkjF/pUdpTYW4INVPsdVz3OHVGTopKC26PopDouE2XgkwygE9/ev3kimSPp78WUe56D1zq/VJC8S5KHzcn8EY/8cqMee9jmMJsMvqW3HBG1YR3+q8pMpDO2gYVUn/ywbc+jjnQQT8uTImULZQFvtMkBDfj4U3Yl/Oat8ktQKvQzIUXcBk=;ZmezET4n4xFdF7T230b1gg=="
 ---

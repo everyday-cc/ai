@@ -117,6 +117,22 @@ related:
         width: 752
         height: 735
         isCached: true
+  - title: "Intel showcased 12th gen core family SoC, Arc graphics and self-driving Soc at CES 2022"
+    excerpt: "Intel showcased more than 20 new devices powered by the 12th Gen Intel Core H-series.Intel and Mobileye also announced the new EyeQ Ultra system-on-chip for autonomous vehicles"
+    publishedDateTime: 2022-01-05T16:30:00Z
+    webUrl: "https://www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022-11641358282206.html"
+    ampWebUrl: "https://www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022/amp-11641358282206.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022/amp-11641358282206.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://images.livemint.com/img/2022/01/05/600x338/intel-ces-news-2-16x9.jpg.rendition.intel.web.1648.927_1641358607824_1641358613566.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
     excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
     publishedDateTime: 2022-01-07T08:44:00Z

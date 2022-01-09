@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognit
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png"
         width: 975
         height: 650
-        isCached: true
-  - title: "Law enforcement facial recognition use under scrutiny in Ireland, India"
-    excerpt: "Discrepancies in proposed usage statements and pressure from civil rights groups and activists is putting facial recognition technology in the spotlight."
-    publishedDateTime: 2022-01-04T19:46:00Z
-    webUrl: "https://www.biometricupdate.com/202201/law-enforcement-facial-recognition-use-under-scrutiny-in-ireland-india"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
-        width: 937
-        height: 482
         isCached: true
   - title: "Facial recognition technology makes for better giant panda protection"
     excerpt: "While facial recognition technology continues to facilitate many aspects of human life, it is now also being applied to aid the protection of giant pandas. A nature reserve in Northwest China's Gansu province has built an AI-enabled video monitoring system to better protect wild giant pandas."

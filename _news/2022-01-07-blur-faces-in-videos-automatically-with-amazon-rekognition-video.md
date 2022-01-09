@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos
 webUrl: "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/visual-search-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Facial emotion recognition may improve automatic speech translation"
+    excerpt: "Meta AI recently published a new framework (AV-HuBERT) to improve automatic speech recognition thanks to lips monitoring, de facto combining Speech with Vision, two of the traditional areas of Artificial Intelligence."
+    publishedDateTime: 2022-01-09T10:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/facial-emotion-recognition-may-improve-automatic-claudio-fantinuoli"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 26
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFeWYqiGiAQvA/article-cover_image-shrink_720_1280/0/1641666117499?e=1647475200&v=beta&t=qP4IsyD6qU3OKozu2-NErJb1jHMYfJu7pLy0PoFQKy8"
+        width: 1280
+        height: 630
         isCached: true
 
 secured: "DAKUeaLZpCXJVMNqEMnx1/1yeqb8gqaeI9Pqs2CYFRMP+l2qKFj9dX+FcdC+I7uUv+NjLXZBelvr4vSVWoBjdfsSIx90KCnKPaKcEN42mJ0C2Cak3mdg0qJJPNeRzkrqLJAKLJVxHhBRe/GgWYWao0kBV/D62Xf9GrdmfFhPgsK3hvj1eS8tEELwWVzqJlA+Zm6zasngPL5Jd7KTdr+zQ9Vf5WVzMIYGk8ux+lJAWQlu6D1wEQuSoSbS/N1PO/jgxAtS7/RTCvDBA9UQuHEHNyC5AFN1koP+mFzo+DmVMgkNovKMpyBPDMCY7On3R4mt7ON0WF0jRAA9jD447x4rIv14j6vhKlmB0eQvrdo5fn0=;kkFK1efgdWmUZiK8jvTdCA=="

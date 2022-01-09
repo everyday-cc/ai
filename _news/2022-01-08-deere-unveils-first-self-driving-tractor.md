@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "John Deere’s self-driving tractor arrives later this fall"
-    excerpt: "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing."
-    publishedDateTime: 2022-01-04T20:30:00Z
-    webUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/"
-    ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 174
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/12/john-deere-2.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "John Deere's Self-Driving Tractor Stirs Debate on AI in Farming"
-    excerpt: "John Deere’s new 8R tractor uses six pairs of stereo cameras and advanced artificial intelligence to perceive its environment and navigate. It can find its way to a field on its own when given a route and coordinates,"
-    publishedDateTime: 2022-01-04T20:30:00Z
-    webUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/"
-    ampWebUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 91
-    images:
-      - url: "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "John Deere and Naio robot tractor may be heading to a farm near you"
     excerpt: "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas."
     publishedDateTime: 2022-01-06T10:54:00Z
@@ -75,83 +43,49 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Deere Rolls Out Fully Autonomous Tractor at CES"
-    excerpt: "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year."
-    publishedDateTime: 2022-01-05T00:42:00Z
-    webUrl: "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
-    ampWebUrl: "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labour shortages, climate change and environmental protection, while trying to feed a growing world population."
+    publishedDateTime: 2022-01-08T02:26:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
+    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
+    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
+      name: malaymail
+      domain: malaymail.com
+    quality: 61
     images:
-      - url: "https://images.wsj.net/im-461772/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "You May Be Able to Own a Self-Driving Car After All"
-    excerpt: "For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM announcement this week shows that’s changing."
-    publishedDateTime: 2022-01-08T12:00:00Z
-    webUrl: "https://www.wired.com/story/you-own-self-driving-car/"
-    ampWebUrl: "https://www.wired.com/story/you-own-self-driving-car/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/you-own-self-driving-car/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/61d6487b704a9d4aab6ee7bc/master/pass/Business_Cadillac-Halo-001.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Forget Tesla. At CES, Deere Demos a Self-Driving Tractor."
-    excerpt: "The company says its new tractor can till fields with no driver present, improving farm productivity by as much as 20%."
-    publishedDateTime: 2022-01-04T20:30:00Z
-    webUrl: "https://www.barrons.com/articles/ces-deere-self-driving-tractor-51641321288"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-461313/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The weirdest stuff we saw at CES 2022: John Deere's self-driving tractor, robot masseuses"
-    excerpt: "Among the odder sights at this year's Consumer Electronics Show: an autonomous tractor from John Deere and robots that will give you a massage."
-    publishedDateTime: 2022-01-07T14:46:00Z
-    webUrl: "https://www.usatoday.com/story/tech/columnist/2022/01/07/ces-best-products-weird/9126052002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/9126052002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9126052002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/01/07/USAT/2b6a08d9-7ce8-4a07-9ea0-90a298e2b917-ameca-robot-horiz.jpg?auto=webp&crop=3010,1693,x13,y0&format=pjpg&width=1200"
+      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-01/20220108_CES_ROBOT_TRACTOR_01-seo.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
-    excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
-    publishedDateTime: 2022-01-04T22:31:00Z
-    webUrl: "https://www.datanami.com/2022/01/04/nothing-runs-like-a-gpu-powered-fully-autonomous-deere/"
+  - title: "Robot tractors and autonomous tools may be heading to a farm near you"
+    excerpt: "By Patrick Fallon with Juliette Michel LAS VEGAS, United States—Driverless plows and autonomous tools to weed vegetable plots are the"
+    publishedDateTime: 2022-01-06T04:03:00Z
+    webUrl: "https://www.manilastandard.net/business/csr-mining/314027486/robot-tractors-and-autonomous-tools-may-be-heading-to-a-farm-near-you.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
+      name: Manila Standard
+      domain: manilastandard.net
+    quality: 41
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
-        width: 1081
-        height: 537
+      - url: "https://www.manilastandard.net/wp-content/uploads/2022/01/robot-tractors.jpg"
+        width: 800
+        height: 595
+        isCached: true
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
+    publishedDateTime: 2022-01-06T02:35:00Z
+    webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
+        width: 768
+        height: 512
         isCached: true
   - title: "John Deere unveils first autonomous tractor"
     excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."
@@ -181,34 +115,15 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Deere sets cautious rollout of self-driving tractors"
-    excerpt: "Deere seems to be aware that it can't afford to roll out the new tractors if there are still bugs, which could hurt its sterling reputation in unveiling new agricultural technology."
-    publishedDateTime: 2022-01-07T15:43:00Z
-    webUrl: "https://www.chicagobusiness.com/manufacturing/deere-expects-slow-rollout-autonomous-tractors-year"
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
+    publishedDateTime: 2022-01-06T16:57:00Z
+    webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
     type: article
     provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.chicagobusiness.com/styles/800x600/s3/deere_6.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The consequences of self-driving tractors and upcoming AI laws are discussed in this week’s AI Weekly"
-    excerpt: "It and – self-driving tractors like it — might help solve the developing labour shortage in agriculture, as Wired’s Will Knight points out; employment of farm employees is anticipated to expand by just 1% from 2019 to 2029."
-    publishedDateTime: 2022-01-08T09:20:00Z
-    webUrl: "https://bestgamingpro.com/the-consequences-of-self-driving-tractors-and-upcoming-ai-laws-are-discussed-in-this-weeks-ai-weekly/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 24
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/AI-Weekly-The-implications-of-self-driving-tractors-and-coming-AI-regulations.png"
-        width: 600
-        height: 375
-        isCached: true
+      name: Courthouse News Service
+      domain: courthousenews.com
+    quality: 19
   - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
     excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
     publishedDateTime: 2022-01-06T11:12:00Z

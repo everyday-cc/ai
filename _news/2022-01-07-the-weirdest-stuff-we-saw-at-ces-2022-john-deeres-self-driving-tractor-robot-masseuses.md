@@ -28,204 +28,89 @@ images:
     isCached: true
 
 related:
-  - title: "John Deere’s self-driving tractor arrives later this fall"
-    excerpt: "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing."
-    publishedDateTime: 2022-01-04T20:30:00Z
-    webUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/"
-    ampWebUrl: "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/"
+  - title: "The best robot vacuums of CES 2022"
+    excerpt: "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with."
+    publishedDateTime: 2022-01-07T15:06:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/"
+    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 174
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/12/john-deere-2.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "John Deere's Self-Driving Tractor Stirs Debate on AI in Farming"
-    excerpt: "John Deere’s new 8R tractor uses six pairs of stereo cameras and advanced artificial intelligence to perceive its environment and navigate. It can find its way to a field on its own when given a route and coordinates,"
-    publishedDateTime: 2022-01-04T20:30:00Z
-    webUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/"
-    ampWebUrl: "https://www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/john-deere-self-driving-tractor-stirs-debate-ai-farming/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
+      name: Digital Trends
+      domain: digitaltrends.com
     quality: 91
     images:
-      - url: "https://media.wired.com/photos/61d36f47f6b645152a4dc776/master/pass/Business_John%20Deere_r4f167410.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "John Deere and Naio robot tractor may be heading to a farm near you"
-    excerpt: "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas."
-    publishedDateTime: 2022-01-06T10:54:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 76
-    images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/01/06/1600x900/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641471074615_1641471101321.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Deere Rolls Out Fully Autonomous Tractor at CES"
-    excerpt: "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year."
-    publishedDateTime: 2022-01-05T00:42:00Z
-    webUrl: "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
-    ampWebUrl: "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
+  - title: "The AI-Powered Enterprise Tools Presented at CES 2022"
+    excerpt: "Highlights from Las Vegas include AI-powered chips, robots and tractors."
+    publishedDateTime: 2022-01-07T22:31:00Z
+    webUrl: "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 74
+    quality: 69
     images:
-      - url: "https://images.wsj.net/im-461772/social"
+      - url: "https://images.wsj.net/im-464264/social"
         width: 1280
         height: 640
         isCached: true
-  - title: "You May Be Able to Own a Self-Driving Car After All"
-    excerpt: "For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM announcement this week shows that’s changing."
-    publishedDateTime: 2022-01-08T12:00:00Z
-    webUrl: "https://www.wired.com/story/you-own-self-driving-car/"
-    ampWebUrl: "https://www.wired.com/story/you-own-self-driving-car/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/you-own-self-driving-car/amp"
+  - title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
+    excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
+    publishedDateTime: 2022-01-06T16:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-lifestyle-business-travel-robotics-67dee87015347605abe336102b739cc2"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://media.wired.com/photos/61d6487b704a9d4aab6ee7bc/master/pass/Business_Cadillac-Halo-001.jpg"
-        width: 2400
-        height: 1600
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Forget Tesla. At CES, Deere Demos a Self-Driving Tractor."
-    excerpt: "The company says its new tractor can till fields with no driver present, improving farm productivity by as much as 20%."
-    publishedDateTime: 2022-01-04T20:30:00Z
-    webUrl: "https://www.barrons.com/articles/ces-deere-self-driving-tractor-51641321288"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ces-deere-self-driving-tractor-51641321288"
+  - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
+    excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
+    publishedDateTime: 2022-01-06T05:12:00Z
+    webUrl: "https://www.channelnews.com.au/ces-2022-ecovacs-deebot-x1-robo-vac-cleans-house-and-self/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-461313/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Deere Unveils First Self-Driving Tractor"
-    excerpt: "Deere's autonomous tractor can be controlled by a smartphone. Deere revealed its first self-driving tractor that farmers can control with a smartphone at CES 2022. The company created autonomous equipment including a box that is placed on the front and one on the back of existing agricultural machinery such as the 8R 410 row crop tractor that has a total of 12 stereo cameras and an Nvidia GPU."
-    publishedDateTime: 2022-01-07T20:02:00Z
-    webUrl: "https://www.thestreet.com/investing/agriculture-vehicles-autonomous-technology"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjgyNDYyNjUzMTYyOTE0/john-deere_2.jpg"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
-    excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
-    publishedDateTime: 2022-01-04T22:31:00Z
-    webUrl: "https://www.datanami.com/2022/01/04/nothing-runs-like-a-gpu-powered-fully-autonomous-deere/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
-        width: 1081
-        height: 537
-        isCached: true
-  - title: "John Deere unveils first autonomous tractor"
-    excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."
-    publishedDateTime: 2022-01-04T21:38:00Z
-    webUrl: "https://www.farmprogress.com/equipment/john-deere-unveils-first-autonomous-tractor"
-    type: article
-    provider:
-      name: Markets
-      domain: farmprogress.com
+      name: ChannelNews Australia
+      domain: channelnews.com.au
     quality: 24
     images:
-      - url: "https://www.farmprogress.com/sites/farmprogress.com/files/Jahmy-Hindman-Deere-Autonomy-main.jpg"
-        width: 1540
-        height: 800
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/01/Vac1.jpg"
+        width: 768
+        height: 432
         isCached: true
-  - title: "Deere ploughs ahead with self-driving tractor"
-    excerpt: "John Deere demonstrated a fully autonomous tractor at CES 2022, touting the tech as a way to increase global food production."
-    publishedDateTime: 2022-01-05T17:21:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/deere-ploughs-ahead-with-self-driving-tractor"
+  - title: "CES 2022: Best concept and self-driving cars from the show"
+    excerpt: "Concept vehicles are a staple of CES 2022 and while this year’s show suffered from a lack of attendees due to COVID-19, the concept vehicles and latest self-driving cars still made grand appearances."
+    publishedDateTime: 2022-01-07T13:55:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17626/ces-2022-best-concept-and-self-driving-cars-from-the-show"
     type: article
     provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 24
     images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/01/tractor.jpb_.jpeg"
-        width: 650
-        height: 400
+      - url: "https://electronics360.globalspec.com/images/assets/626/17626/Caddy_interior_MAIN.jpg"
+        width: 752
+        height: 501
         isCached: true
-  - title: "Deere sets cautious rollout of self-driving tractors"
-    excerpt: "Deere seems to be aware that it can't afford to roll out the new tractors if there are still bugs, which could hurt its sterling reputation in unveiling new agricultural technology."
-    publishedDateTime: 2022-01-07T15:43:00Z
-    webUrl: "https://www.chicagobusiness.com/manufacturing/deere-expects-slow-rollout-autonomous-tractors-year"
+  - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
+    excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
+    publishedDateTime: 2022-01-08T02:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
     type: article
     provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
+      name: Seattle Times
+      domain: seattletimes.com
     quality: 24
-    images:
-      - url: "https://s3-prod.chicagobusiness.com/styles/800x600/s3/deere_6.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "The consequences of self-driving tractors and upcoming AI laws are discussed in this week’s AI Weekly"
-    excerpt: "It and – self-driving tractors like it — might help solve the developing labour shortage in agriculture, as Wired’s Will Knight points out; employment of farm employees is anticipated to expand by just 1% from 2019 to 2029."
-    publishedDateTime: 2022-01-08T09:20:00Z
-    webUrl: "https://bestgamingpro.com/the-consequences-of-self-driving-tractors-and-upcoming-ai-laws-are-discussed-in-this-weeks-ai-weekly/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 24
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/AI-Weekly-The-implications-of-self-driving-tractors-and-coming-AI-regulations.png"
-        width: 600
-        height: 375
-        isCached: true
-  - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
-    excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
-    publishedDateTime: 2022-01-06T11:12:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 7
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/01/06/11/52610271-0-image-a-15_1641467772637.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "HtIL76TjUie6taCnlcQeJ0QhmuYUQulPonLCicNT6WCaZKgH+K5ef8AzY7a+Ug5s9xjFzbZ+vHlyFCGkAeHUe/crtMKIPARwQTcl/Okcu5IoMuT4EjwWBKH8eDFPc2+7jMQqyDuZFgUxSrL0L/MCo7RKdKeG15AQZ8EPMdk9ZUoaVAF9srhyB4xe5idYOvp8Md1Va0dJMQe5/TPHmXauo39cVDWX6hXhrzH9JKXeq1K1pM3yifq5SczhicWIn9ooNmjAQrWfSb50jZbpdtvRCH9RqeEc8nXh/ZsESxa2Fq7OcDpdcWqRSeTiO4lMUJsqzbT7o55iHXWlb5AnUV0+jlMrUE0z4mbkIb7KYjrxvX8=;0VjuF/+EsmtV8LVV0lEUkg=="
 ---

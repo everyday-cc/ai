@@ -27,63 +27,126 @@ images:
     isCached: true
 
 related:
-  - title: "Intel overfloweth with 12th-gen CPUs, Arc discrete GPU at CES 2022"
-    excerpt: "The company announced roughly 50 CPUs as well as its long-awaited Arc discrete graphics chip. Intel dropped an Acme anvil of 12th-generation ( Alder Lake) processors on us at CES 2022: That's 22 for PCs,"
-    publishedDateTime: 2022-01-04T19:47:00Z
-    webUrl: "https://www.cnet.com/tech/computing/intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022/"
+  - title: "CES 2022: Watch GM's self driving car reveal and more big reveals here"
+    excerpt: "GM will be kicking off Wednesday's CES day, and you can watch reveals from LG, Samsung and more. CES 2022 is underway, with the convention officially opening in Las Vegas Wednesday along with a digital experience for those who can't make it to the show."
+    publishedDateTime: 2022-01-05T16:51:00Z
+    webUrl: "https://www.cnet.com/tech/mobile/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
     quality: 89
     images:
-      - url: "https://www.cnet.com/a/img/v0h7p16AxkjfjQFwO9y-Tdw01zw=/1200x630/2022/01/04/253f6618-ad2f-4325-8278-5e8dd479b731/12th-gen-mobile-chip-pose-10-highres.jpg"
+      - url: "https://www.cnet.com/a/img/F0An6NSLRV65zUiUBzE-y_7oV-M=/286x0:1286x499/1200x630/2021/12/16/bb0fe850-bbfe-4645-8fa1-ad20d3b775ff/ces-2022-desktop-hero-final2.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "CES 2022: Intel announces new 12th Gen Core processors, Arc GPU availability for partners, Intel Evo and vPro enhancements"
-    excerpt: "Over at CES 2022, Intel has announced several new products covering the spectrum of mobile CPUs and discreet GPUs alongside several facelifts for its Intel Evo certification and vPro sub-category offerings."
-    publishedDateTime: 2022-01-05T09:48:00Z
-    webUrl: "https://www.tech-critter.com/ces-2022-intel/"
-    ampWebUrl: "https://www.tech-critter.com/amp/ces-2022-intel/"
-    cdnAmpWebUrl: "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/ces-2022-intel/"
+  - title: "FOCUS-At CES, tech alliances firm up in the self-driving car wars"
+    excerpt: "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market."
+    publishedDateTime: 2022-01-07T11:00:00Z
+    webUrl: "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT"
     type: article
     provider:
-      name: tech-critter.com
-      domain: tech-critter.com
-    quality: 48
+      name: Reuters
+      domain: reuters.com
+    quality: 74
     images:
-      - url: "https://i2.wp.com/www.tech-critter.com/wp-content/uploads/2022/01/CES-2022-Intel-3.jpg"
-        width: 1273
-        height: 715
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL"
+        width: 830
+        height: 545
         isCached: true
-  - title: "ASUS ROG Flow Z13 Windows 11 tablet with up to 12th Gen Intel Core i9 processor, up to RTX 3050 Ti GPU announced"
-    excerpt: "ASUS Republic of Gamers (ROG) this week at the CES 2022 announced ROG Flow Z13 gaming tablet, which the company claims to be the world’s most powerful gaming tablet. It runs Windows 11, is powered by up to a 14-core Intel Core i9-12900H CPU,"
-    publishedDateTime: 2022-01-06T10:52:00Z
-    webUrl: "https://www.fonearena.com/blog/354726/asus-rog-flow-z13-features.html"
-    ampWebUrl: "https://www.fonearena.com/blog/354726/asus-rog-flow-z13-features.html/amp"
-    cdnAmpWebUrl: "https://www-fonearena-com.cdn.ampproject.org/c/s/www.fonearena.com/blog/354726/asus-rog-flow-z13-features.html/amp"
+  - title: "AI-driven self-driving race cars create history at CES 2022"
+    excerpt: "Self-driving race cars made their own place at the CES 2022. Italian American team PoliMOVE developed a self-driving race car based on a Formula One car, nicknamed as Minerva claimed to have created history at the event,"
+    publishedDateTime: 2022-01-09T04:29:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022-41641700029723.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
     type: article
     provider:
-      name: FoneArena
-      domain: fonearena.com
-    quality: 38
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
     images:
-      - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://images.hindustantimes.com/auto/auto-images/Kia/Seltos/1589878851759_Seltos1"
+        width: 630
+        height: 420
         isCached: true
-  - title: "Intel introduces third-gen Evo platform, provides update on Arc GPU availability"
-    excerpt: "Intel has also updated its Intel Evo certification program to third-gen. The company has also provided an update on Intel Arc availability."
-    publishedDateTime: 2022-01-05T08:23:00Z
-    webUrl: "https://pocketnow.com/intel-introduces-third-gen-evo-platform-provides-update-arc-gpu-availability"
+  - title: "CES 2022: Mobileye rolls out new EyeQ self-driving chip"
+    excerpt: "Mobileye, Intel’s autonomous driving hardware and software wing, unveiled its latest generation of self-driving car system-on-chip at this week’s CES 2022. Called EyeQ Ultra, the SoC is built specifically for consumer autonomous driving and delivers 176 trillion of operations per second (TOPS)."
+    publishedDateTime: 2022-01-05T13:46:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17603/ces-2022-mobileye-rolls-out-new-eyeq-self-driving-chip"
     type: article
     provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 29
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 41
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/603/17603/Mobileye-EyeQ6H.jpg"
+        width: 752
+        height: 423
+        isCached: true
+  - title: "CES 2022: GoVoBo Promises Tech Breakthrough For Deaf And Hard-Of-Hearing Users"
+    excerpt: "Developed in a partnership between Gallaudet University and AppTek, GoVoBo will make its debut at CES 2022 as the first universal automatic captioning and translation application designed for the deaf and hard-of-hearing communities."
+    publishedDateTime: 2022-01-06T03:00:00Z
+    webUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200"
+    ampWebUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 40
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/04/badge-gallaudet-university-apptekphoto.png"
+        width: 900
+        height: 472
+        isCached: true
+  - title: "CES 2022: How radar and computer vision can help smart cities"
+    excerpt: "When designing its radar and computer vision-based internet of things (IoT) artificial intelligence platform, connected spaces startup Ulisse kept this in mind. The company has unveiled at this week’s CES 2022 a new analytics system designed for retailers,"
+    publishedDateTime: 2022-01-05T14:14:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17604/ces-2022-how-radar-and-computer-vision-can-help-smart-cities"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/604/17604/ulisse_MAIN.jpg"
+        width: 752
+        height: 735
+        isCached: true
+  - title: "At CES, auto tech alliances firm up in the self-driving car wars"
+    excerpt: "Mobileye, Qualcomm and Nvidia -- emerged at the CES in Las Vegas in locking down the brains of self-driving cars for the next decade."
+    publishedDateTime: 2022-01-07T12:25:00Z
+    webUrl: "https://www.autonews.com/ces/ces-auto-tech-alliances-firm-self-driving-car-wars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/CES_ROUNDUP-02_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
+    excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
+    publishedDateTime: 2022-01-07T08:44:00Z
+    webUrl: "https://gadget.co.za/ces-2022-intels-mobileye-reveals-big-deals-for-self-driving/"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/Mobileye-CES-partners.jpg?resize=1000%2C600&#038;ssl=1"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "48Jp480+/M4BgA1p4dgE0suGcBJpQAg7Y3UjZeGCZuyAAf5SWvgrj5v6NAaqvaX5klzW+VrAZL5T+RxVgs6xDE8ZF9PpOLlUQetIPYtxQjCY61B/1ZYBBS3a4F6y8zK5AlzGtCErJBX0ksJ4MROOH6JF8Kdqkuzo72ZaVicxuihgw+Cm13m3mDk5ysiE3Er8CBPfYBvVAHOFU0U6De5lFe2fpYyqIdkOKHPIdSjenEoxm/2hcyK2lEZdpxQSnXBFMhjsdI5Opx1Hp/RXqVAJjKN5gFiAOoG/W6pL6CwUiFLY1KbU+Ys+payRnIIGu1zb+qNyWCMsni5riCFK/nUMKnbFAws7InFFt9oSWUFbcYo=;ynF4vBnlWzVRBCHr47voiQ=="
 ---

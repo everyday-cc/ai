@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/qualcomm-and-microso
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 1800
         height: 600
         isCached: true
-  - title: "Annata expands Microsoft collaboration to drive data and mobility services in automotive industry"
-    excerpt: "Annata is deepening their collaboration with Microsoft to further develop and bring to market solutions to enable the transformation of automotive distribution and retail with next-generation retail and mobility services."
-    publishedDateTime: 2022-01-04T19:05:00Z
-    webUrl: "https://www.publicnow.com/view/FDA572032D8621AF142C8E45870D13C9B5EBC453"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 6
 
 secured: "8zeQpzE6TpOMDCdXnCbS6FnQ1yQ7ivT17qHjfJUlsLfiVXp8em2Qt3B4ktbKNtcyKi4oznwHZe9mWM12DimoRDrdp/AOvAql6mQ9yO2WZmYptwfDUsERMdpO4Rvst5gReHmd4Va32rZWVq0/0RF2t6awCaJchCdJZaO2rfzhmVUwdEcRxXDK8fKtDQCvnk03h2dDGsJi+WQc8gRBnEkMcRrXzaoCAj4+Dyz51Alr79NI9KxDNrHYp4IWAD8+ISjZkB+qVZRLbMyX/hunjQZ0A7Zo7/+/2bFgSawb/si+oA3+yEro6fnvxvv1hzQB2xvpnFxy+YV4tvzbbjTeoN+9SAk4EB3H0uOMhYhA9uH0Guw=;xWpHLMpf0YKElUIiAD5dzg=="
 ---

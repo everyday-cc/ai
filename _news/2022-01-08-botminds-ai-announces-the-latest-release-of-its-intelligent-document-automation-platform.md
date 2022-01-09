@@ -19,22 +19,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "BORNE LAUNCHES MACHINE-LEARNING RESTAURANT LOCATION INTELLIGENCE PLATFORM"
-    excerpt: "New restaurant tech startup announces the launch of its full system fueled by over 60 restaurant concept data sources SAN MATEO, CALIFORNI"
-    publishedDateTime: 2022-01-04T20:41:00Z
-    webUrl: "https://menafn.com/1103487687/BORNE-LAUNCHES-MACHINE-LEARNING-RESTAURANT-LOCATION-INTELLIGENCE-PLATFORM"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 23
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?91198"
-        width: 373
-        height: 250
-        isCached: true
-
 secured: "kFLRIKpLcXhom1GWKop27C/+VFK9l9qcbXjoskaycMUFrjBQoDZ3PwVgOkWxj8KYs/TphJ7je6jou9qNSIyR3DN+41BL2bg2+duzxHVyt35YeNuTN16udB1IqUW15F264RnEgDXcxcS7yJ0HjVdriybqGuwQFZbrazP3ymersfUPypYQqTfsymDUIKb2Otrly1zL3wlg8gDup7eSSwfx+ncXCI/9deA6/1TNZOGG1t91uYH49MC7Ig0OiQAwTsSxRQQpH2wLUx866UzcccQoozN8IqnWWtnz1E9wCVdc2dq5BbJl6Xkm5qi/xhV1MAScCCM97qzkLt5eb+V1qxzLrHFjiPE0VPF5mhRAvimvNxw=;77Qysl6uU0LpO2YIJzDOvQ=="
 ---
 

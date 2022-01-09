@@ -55,20 +55,6 @@ related:
         width: 975
         height: 650
         isCached: true
-  - title: "Law enforcement facial recognition use under scrutiny in Ireland, India"
-    excerpt: "Discrepancies in proposed usage statements and pressure from civil rights groups and activists is putting facial recognition technology in the spotlight."
-    publishedDateTime: 2022-01-04T19:46:00Z
-    webUrl: "https://www.biometricupdate.com/202201/law-enforcement-facial-recognition-use-under-scrutiny-in-ireland-india"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
-        width: 937
-        height: 482
-        isCached: true
   - title: "Facial recognition technology makes for better giant panda protection"
     excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
     publishedDateTime: 2022-01-07T01:54:00Z

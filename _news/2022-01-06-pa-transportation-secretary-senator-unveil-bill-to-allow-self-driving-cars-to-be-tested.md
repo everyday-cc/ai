@@ -25,29 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Pete Buttigieg wants vision tests for self-driving cars"
-    excerpt: "The US secretary of transportation wants to talk about innovation, infrastructure, and electric vehicles — but not about Tesla It’s something of a tradition for the US secretary of transportation to address the annual Consumer Electronics Show in Las Vegas and talk about all the ways that the government hopes to foster innovation in technology and transportation."
-    publishedDateTime: 2022-01-06T12:00:00Z
-    webUrl: "https://www.theverge.com/22869190/pete-buttigieg-self-driving-cars-electric-tesla-decoder"
+  - title: "You May Be Able to Own a Self-Driving Car After All"
+    excerpt: "For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM announcement this week shows that’s changing."
+    publishedDateTime: 2022-01-08T12:00:00Z
+    webUrl: "https://www.wired.com/story/you-own-self-driving-car/"
+    ampWebUrl: "https://www.wired.com/story/you-own-self-driving-car/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/you-own-self-driving-car/amp"
     type: article
     provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 54
+      name: Wired
+      domain: wired.com
+    quality: 74
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/ZP8kG7rAlFuaJYrKi_y0LzupnMU=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23147858/VRG_ILLO_Decoder_Pete_Buttigeig_s.jpg"
-        width: 1200
-        height: 628
+      - url: "https://media.wired.com/photos/61d6487b704a9d4aab6ee7bc/master/pass/Business_Cadillac-Halo-001.jpg"
+        width: 2400
+        height: 1600
         isCached: true
-  - title: "Video: Samsung’s self-driving tech goes for a ride"
-    excerpt: "Samsung Electronics showed its vision for in-vehicle experiences and technology that will allow for self-driving capabilities. The concept video shows how Samsung combines the latest consumer electronics and information technologies with Harman,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17615/video-samsung-s-self-driving-tech-goes-for-a-ride"
+  - title: "GM says it’s aiming to sell you a self-driving car by middle of this decade"
+    excerpt: "\"text/javascript\" src=\" data-newsource-publisher=\"853\" data-player-data=\"7466534a93ecc5d02263fdc67c881b4\" data-max-width=\"auto\" data-autoplay=\"1\" data-player-type=\"1010\" data-embed-type=\"3020\">General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade."
+    publishedDateTime: 2022-01-05T19:45:00Z
+    webUrl: "https://www.channel3000.com/i/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
+      name: Channel 3000
+      domain: channel3000.com
+    quality: 37
+    images:
+      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/01/y/j/e906202de0c5a97d1134441109cf96a48e2bddca.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "6tk6W4mknf6uGrkBNteASXzTriBjV9UnWwnFTk+7r4urZ75PrLiATE5L2UpNGhc4QzJhks7XBYUnJd7jc6LHG1B2R6ddQ7ysyxs/6YJw4h0U3GqElkiI6da2Bsg1Z1ipi2gdfWYorXiWNPYRh3oZpjUafo918nxJGS3Gq1cAfceHTikQj2PehQtyM07Bw/VAcKQA5WZuEtw4vmdhaTkIxEMCMEXy5frf9Npf8djXsQd31WyQVL9ijAm8/9zwOBVJdjaMccPPwMA5weWRZycbFyf63MCtUwQrtt0f1PNbcr3ClroNIdb+Pn+GKrKLJaV+tn/Zo8605105d42nedWlz9D36ICdFMGwVDS0fLZH9nlWMN/RZtYeTs/KiRPReEdjSLFVwGI9HMT/f909IsfAv+QeZr0y5h92kfw0APJzXcTpu9kN46VF37y9NckkIztE7comPTVQbU6QZuhKx7eyGeeL1QV9FM6dOEICY2Na4/zEdLwsasv6ruhQdqyjKWvx7ijF2a/9ucSGgVRVFkC9Eg==;V+ce+GtRv0zyqi5De1K24A=="
 ---

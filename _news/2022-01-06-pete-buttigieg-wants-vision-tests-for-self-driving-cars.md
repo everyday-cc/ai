@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/22869190/pete-buttigieg-self-driving-cars
 webUrl: "https://www.theverge.com/22869190/pete-buttigieg-self-driving-cars-electric-tesla-decoder"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Verge
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pa. transportation secretary, senator unveil bill to allow self-driving cars to be tested"
-    excerpt: "With pioneering research on self-driving vehicles at Carnegie Mellon University and private companies in, Pennsylvania wants to make sure that new technology can be developed, tested"
-    publishedDateTime: 2022-01-05T23:18:00Z
-    webUrl: "https://www.bradfordera.com/news/pa-transportation-secretary-senator-unveil-bill-to-allow-self-driving-cars-to-be-tested/article_b083a750-7817-58cb-b336-6bc892f0beb4.html"
-    type: article
-    provider:
-      name: Bradford Era
-      domain: bradfordera.com
-    quality: 15
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bradfordera.com/content/tncms/assets/v3/eedition/0/91/091662c9-75f9-5930-b6a0-623d2694b5c8/61d4fc1ea0340.preview-300.jpg?resize=300%2C651"
-        width: 300
-        height: 651
-        isCached: true
   - title: "Video: Samsung’s self-driving tech goes for a ride"
     excerpt: "Samsung Electronics showed its vision for in-vehicle experiences and technology that will allow for self-driving capabilities. The concept video shows how Samsung combines the latest consumer electronics and information technologies with Harman,"
     publishedDateTime: 2022-01-06T14:00:00Z

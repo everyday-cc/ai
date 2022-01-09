@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-ml-models-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/deploying-ml-models-using-sagemaker-serverless-inference-preview/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 552
     height: 239
     isCached: true
-
-related:
-  - title: "Take advantage of advanced deployment strategies using Amazon SageMaker deployment guardrails"
-    excerpt: "Deployment guardrails in Amazon SageMaker provide a new set of deployment capabilities allowing you to implement advanced deployment strategies that minimize risk when deploying new model versions on SageMaker hosting. Depending on your use case, you can use a variety of deployment strategies to release"
-    publishedDateTime: 2022-01-04T20:43:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/take-advantage-of-advanced-deployment-strategies-using-amazon-sagemaker-deployment-guardrails/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 93
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/17/ML-6319-image005.png"
-        width: 721
-        height: 485
-        isCached: true
 
 secured: "t/AWanAtFpDHkhmDmU1+kQXECLpZ+vChvsFM7JTpwLAVFdTPfkkKkzM2ED5BJoHUOqaM4E6kIaxoxEH0HYcqXGab5ErHEVZ/s0msYFdcVRm+GdIR80+xJAUJFGA4Q8N0F/WdA/Hr0hoHESc3Y9lj6Z8EcvcvU8PbJx5kEpceNPEm2tYjnpNFezY7sfUArZiIX+YjZDFkEqRtDEXNDWh2aC/EwzmjefO9xQcx13NiJgFUl5BKgr0Ys987roUVHOdl061R2zRQma1GzrIyfiY12UsQxNP/+ef8qGLUEkJ15mOwNx4j+STeMI2ewPNmoJo1JyYz3AKaBu5RN+Z2UBCEZapX7u7QBMP8754iulZuvWU=;zTIKcWO3zOk19gH6JcRlKQ=="
 ---

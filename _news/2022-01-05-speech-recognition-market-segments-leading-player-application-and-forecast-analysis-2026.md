@@ -39,20 +39,6 @@ related:
         width: 1600
         height: 840
         isCached: true
-  - title: "Global Molded Fiber Packaging Machine Market 2021 Sales Statistics, Data Analysis, Size Estimation and Application Assessment by 2027"
-    excerpt: "Global Molded Fiber Packaging Machine Market 2021 by Manufacturers, Regions, Type and Application, Forecast to"
-    publishedDateTime: 2022-01-04T19:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-molded-fiber-packaging-machine-market-2021-sales-statistics-data-analysis-size-estimation-and-application-assessment-by-2027-2022-01-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
     excerpt: "Emergen Research Logo The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
     publishedDateTime: 2022-01-06T07:42:00Z

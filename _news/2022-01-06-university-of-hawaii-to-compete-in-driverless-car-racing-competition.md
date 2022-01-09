@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Pony.ai, Sinotrans Collaborate on Driverless Trucking"
-    excerpt: "Autonomous driving firm Pony.ai is working with Chinese logistics company Sinotrans to build a smart logistics network that uses autonomous trucking tech."
-    publishedDateTime: 2022-01-04T19:45:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 74
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/06/pony.ai_-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "University of Hawaii to compete in driverless car racing event in Las Vegas"
     excerpt: "The University of Hawaiʻi will once again make history by competing in the world’s first-ever, head-to-head autonomous car racing competition scheduled to take place on Friday, Jan. 7."
     publishedDateTime: 2022-01-05T23:18:00Z

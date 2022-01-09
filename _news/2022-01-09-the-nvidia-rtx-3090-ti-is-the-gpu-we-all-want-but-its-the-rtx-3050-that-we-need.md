@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
 type: article
 quality: 83
-heat: -1
-published: false
+heat: 173
+published: true
 
 provider:
   name: TechRadar
@@ -31,54 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA RTX 3090 Ti and RTX 3050 revealed to quench your GPU thirst"
-    excerpt: "With CES kicking off here in the first week of 2022, NVIDIA is joining in on the fun with a few announcements of its own. Chief among those announcements were new RTX 3080 Ti and 3070 Ti mobile"
-    publishedDateTime: 2022-01-04T19:10:00Z
-    webUrl: "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/"
-    ampWebUrl: "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/nvidiartx3050.jpg"
-        width: 1063
-        height: 703
-        isCached: true
-  - title: "Nvidia's RTX 3090 Ti Is Here, and It Could Be the Most Powerful GPU Yet"
-    excerpt: "The new RTX 3080 Ti, coming to dozens of new gaming systems in the next few months, comes with 16GB of GDDR6 RAM, and is supposedly more powerful than the desktop Titan RTX GPU. Nvidia claims these chips can run games at 1440p at 120 frames per second or higher."
-    publishedDateTime: 2022-01-04T19:17:00Z
-    webUrl: "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289"
-    ampWebUrl: "https://gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/nvidias-rtx-3090-ti-is-here-and-it-might-be-the-most-p-1848300289/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 89
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/51c3b654e95e1c2a08cc845786909c6b.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Nvidia Research Plots A Course To Multiple Multichip GPU Engines"
-    excerpt: "There are two types of packaging that represent the future of computing, and both will have validity in certain domains: Wafer scale integration and"
-    publishedDateTime: 2022-01-06T20:20:00Z
-    webUrl: "https://www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/"
-    ampWebUrl: "https://www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 74
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
-        width: 714
-        height: 454
-        isCached: true
   - title: "NVIDIA unveils its new flagship GPU RTX 3090 Ti"
     excerpt: "At CES 2022 press conference, NVIDIA unveiled its flagship GPU RTX 3090 Ti. The company didn't reveal many details and suggested us to wait a few days for"
     publishedDateTime: 2022-01-05T06:09:00Z

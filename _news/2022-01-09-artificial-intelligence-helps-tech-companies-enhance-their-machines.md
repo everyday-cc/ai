@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-09T09:58:00Z
 originalUrl: "https://menafn.com/1103509545/Artificial-Intelligence-helps-tech-companies-enhance-their-machines"
 webUrl: "https://menafn.com/1103509545/Artificial-Intelligence-helps-tech-companies-enhance-their-machines"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_TelecomTech_4.jpg"

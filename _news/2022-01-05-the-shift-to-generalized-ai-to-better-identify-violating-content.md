@@ -54,20 +54,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Study Shows How AI Can Predict Who Will Develop Dementia"
-    excerpt: "A new large-scale study has concluded that artificial intelligence (AI) can predict which people who attend memory clinics will develop dementia within two years. The AI can make this prediction with a 92 percent accuracy rate."
-    publishedDateTime: 2022-01-04T19:44:00Z
-    webUrl: "https://www.unite.ai/study-shows-how-ai-can-predict-who-will-develop-dementia/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/psychology-6852458_1280.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "BBt1cSiwH+gbPNsd8WI3WkEbnd5FSTmY/SRYAMsAo7RJ8TPjdgEm9OA/ieWam+sKu8pcS2XSXAZs5IZibEu0bqCi8gP+hzcTiRrwWXJJQ8yP9o2P/eJfRt6/o0ZmIxsyTa7IWwQ81F3OUIaShTWrMRy2OW1TRQo5rmAB2qxGMB4ynNmrNsfSdMzGw7F/Bta4DFm4GST6KdgTaWjjFToucmASkBRdMS4HnWqy89yZBA3ZQVU5yUlQs6JrW29MoOmCXQCGV5h9xmuDcKJRG/ZP/m9W/O2gMWrDEekPC8DSwNP+QAniAAY2v5dCj8gF1iSjnw6tpjl0stqvDM513glVr9tds5tnYUicQJWYgpcpTGE=;OrL6Lq/tQDskPm0wFZvYzw=="
 ---

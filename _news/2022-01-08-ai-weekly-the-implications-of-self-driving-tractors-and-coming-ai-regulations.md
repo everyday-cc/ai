@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/07/ai-weekly-the-implications-of-sel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1200
     height: 659
     isCached: true
+
+related:
+  - title: "The consequences of self-driving tractors and upcoming AI laws are discussed in this week’s AI Weekly"
+    excerpt: "It and – self-driving tractors like it — might help solve the developing labour shortage in agriculture, as Wired’s Will Knight points out; employment of farm employees is anticipated to expand by just 1% from 2019 to 2029."
+    publishedDateTime: 2022-01-08T09:20:00Z
+    webUrl: "https://bestgamingpro.com/the-consequences-of-self-driving-tractors-and-upcoming-ai-laws-are-discussed-in-this-weeks-ai-weekly/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 24
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/AI-Weekly-The-implications-of-self-driving-tractors-and-coming-AI-regulations.png"
+        width: 600
+        height: 375
+        isCached: true
 
 secured: "S0VpjaAM6RUyVW3VzvtHBZIF1Yg99KKuRuWfaWGyHcB5RPSM4JKVtZF9U+5JpMBDHX14bJ+maFuIXeLIPBW0fBcJcN1+wpztJW90u+R/Jy0hdKDaRooh9MW8G/yfYVEzTLtCCLVT5c13JAtngeU6faTD6MfJMY8gqEF43c+CagFtJqWr2CBZVh+mt4DfAUWqeDbv5enf98rApKUMyiootM8MtKI2cEcrwcj1dqZPlaMXoyJUwaYPzFlCqN+rN/V8QG2G2EaqaC6sRee8b9eC11GHo0euPjC+IOQsURr67Y/Iq/9LELaH4UrjPKEwRE8K9suLYPVZ5BMf1ZOnUK4og+7i2LxhldBsUiUiDgg59ox76c0l2Z3++C/RYinitPazwMW6h4RWjquldZEg8RWLAGpFvmYSm4gyDq3eIzW3SsWw6qCnGRe6Zaqw36ilTlFLaiIy194G43qPSs3j8fEzdxssEwZRfMNPgg+zQmO0ijVKeGo0oefHx0Kjjc5YlApDlBGxzWEdBuGvHunBhGJiqQ==;EP33Io9s8K92rigGxAhgvA=="
 ---

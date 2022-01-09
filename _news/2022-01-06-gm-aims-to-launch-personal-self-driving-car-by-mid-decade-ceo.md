@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 577
         isCached: true
-  - title: "GM says it’s aiming to sell you a self-driving car by middle of this decade"
-    excerpt: "\"text/javascript\" src=\" data-newsource-publisher=\"853\" data-player-data=\"7466534a93ecc5d02263fdc67c881b4\" data-max-width=\"auto\" data-autoplay=\"1\" data-player-type=\"1010\" data-embed-type=\"3020\">General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade."
-    publishedDateTime: 2022-01-05T19:45:00Z
-    webUrl: "https://www.channel3000.com/i/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/01/y/j/e906202de0c5a97d1134441109cf96a48e2bddca.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "lq/flPt4URzIoBjk5qknuJO+LUBCX+rubrNG0uOEEWPc4478JtuMk0VHHhAM/yuinc43rVI9PJta91Et8fZYKKFPhrRLYcjuF7WH9OCSGowOZ8PG1AwGKQVRnfMsBPdEsCrBfeeUYGg6TmxcL04qrRVqHjQMM6XIfz4/dLxc0n82jBUFgW+WQeE8+mQQVJ50fIQ45m7RSUoYWPPYIKVwBKmFHLfyiGdCOW2WdTkXF90cmioxIqKjB2BppPHwV6p8O7U1EkZjAxhLL+myrFmvKy5vmwgW2fUERTq0h8ScGm6lhP3QrfJLI3YJs/0yCOZaWJYXMJxpkWuXP5QuJ/CT1fh9rekLkgxW6v7EUsLbh90T7mgl1M/Dhkh57SCeHRao4XAXIkYH+M0LOvUAn7JLPZi63m6lpaB/HvLveOrE1aiecaFJFnk7pnTQzpiitJB+JkgcAenv6N0Zv2x0xrBdpd3aBDo9L1S/LLvQ+ZziqYTb+81NECL9ClrJ0tXKdFVyDMO0E6qBzRWO33/9Fjhqmw==;Ifbi6566s8MrzYoAxHRRsw=="
 ---
