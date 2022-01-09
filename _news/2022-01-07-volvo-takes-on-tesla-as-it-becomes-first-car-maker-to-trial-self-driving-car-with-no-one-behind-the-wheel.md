@@ -3,25 +3,25 @@ category: news
 title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
 excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
 publishedDateTime: 2022-01-07T13:22:00Z
-originalUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+originalUrl: "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/"
+webUrl: "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/"
+ampWebUrl: "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/"
+cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Scottish Sun
-  domain: thescottishsun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
     width: 1500
     height: 1000
     isCached: true
@@ -169,6 +169,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
+    excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"
+    publishedDateTime: 2022-01-09T09:58:00Z
+    webUrl: "https://menafn.com/1103509383/Tesla-plans-to-sell-Full-Self-Driving-assistance-for-over-10000-dollars"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Aviationtransport_122_menafn.jpg"
+        width: 512
+        height: 341
+        isCached: true
   - title: "Tesla’s ‘complete self-driving’ software will cost $12k, according to Elon Musk"
     excerpt: "Tesla CEO Elon Musk has announced that the company’s “full self-driving” (FSD) software will now cost $12,000. Musk said on Friday that the higher pricing, which is a $2,000 increase, would go into effect on January 17th for customers “only in the United States."
     publishedDateTime: 2022-01-08T10:20:00Z
@@ -198,6 +212,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Pbifjja2IyPE2Uo00+Ufs30QD5Qcn4na3rh4zk6qpJEdpPYgj+RZG7OhKTAqPQBAnWIHLpAC9WRbRTJOhPU894ZYTmtCD9MZ9wiYC8NyB84vYDtpZ6WF3Cr25wzfoUqk6J8/rMsNzE9jz8I0fKEMbYcp65JDxJAXGvayU+GU2GZTFN47xq38QxRNMXNfDcS5tYe7n0/zFvgYl+INerqvVIxxZGyQhmegAZ0i/SCIXHkpROCWmcOjQdjnPooHylMAhFl2Mqm8TfEnzVGkoCFvlSLxL00kQZHpRiVa9fZNTNRk7p0ohwuag2gxFk8EgIYRpYOZ2UGvMhW4sVQ4WxSOWlig/lbcXJuNpNiieEBgumY=;6MTIZONp/me/zbWdRmU1RA=="
+secured: "XsNMRkS4x2N0FG9caka+G/VfkOD54P8M7kzsxCdfjTbyiegbGG5HIoAZMjzy17kE9YDSAxPFWRFF8a/gYXiiiuMoV72DOzFLQBj31IMcLKRMdGkfJH+buDas3Q+kzI5pL1shb7gsdjHXwarWWW2fULKNCBiQWvSxpY/BxmLoYrAzaiSKcYxju7BTQTiEEXf2nizTyuyXmrKU1bBqrnzRAjrHFqp0GQ89cfOFfg+gkzEHA+SR/+C/bJloYz5b8TPHnQ8Fm7/v7riWoYH15OJcDxJQJzElIvfs+G8i50ImlKIU5hZnmrmwqu/+yGGa6k2eQa0sPQQnrr5AgNC4LB94Nj0d5XDmawy25nYsI6Jwnmw=;oewewNn4L3BsdOvqfD34GQ=="
 ---
 

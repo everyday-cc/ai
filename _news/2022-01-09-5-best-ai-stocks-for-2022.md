@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "In this article, we will take a look at the 5 best AI stocks for 2022. If you want our detailed analysis of these stocks, go directly to the 10 Best AI Stocks for 2022. Graphics chip giant NVIDIA Corporation (NASDAQ:NVDA) is one of the best AI stocks for 2022."
+excerpt: "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),"
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/?singlepage=1"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
 
 images:
@@ -40,6 +40,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Lr+aaUcsTMjsFB0kYrIcNUYSeBE6S9+ccW772GijVJCQJHB9rKdNhH+ru9YUhdwEGaSZPJVuS5yGR+ugyngzaDkiSmKDmologWl+lvsppgAs8UsSsg51nJk1lZ25aUiDYtHoyeRD5Ofpb26zzUcduMzDkiMhsiatG2ldw4tczu9uRUQvwA/YPMSWXciEa3LVB7jurAwTT9/2pCc/DC/TUj4/egypcBkjB1s7Vz5wv75rXCRv97dfeqsXvZ3QpzA+rxfWMgMItKHFXgu9Hip8NIHrZPMc2MxIhxIA+GOkGeBPada01urEsL5cDC7rmtLvyQAPZFS/n2/mcdmVhqD+skjYGGwUq0IEREfcrNOZlz0=;+yLSpcfpYKQ8+hV4+my4Ng=="
+secured: "ROxX4mV1liCLy55VNy5XOr1a2lTRy78UP5cmwlUKM+kg8/K9kLgvnMOuQHyJP+hCRUpW+Hr1dXOKHBFrL6UYIc/rM64q+CXCu1cCbDjAEiv8LDLt8239xpglvBQmn/wBanjI9j6m6CYUYY0XlM+CJBkHRQO59z+ItRpGp5SwGIvTIXakERpFy6S0AET/LDr353h0GLR0FOaM7e2NAem31sQvmqIAMlehsPHJVl8XX5hvuTk/zfiSpO5811ps4iUXiW982shOA936MMPsp9sv2zOA2UIWR+IPHKT1txWETGeFvjh28qgi2jcC/Gb8f31LY5HCfGMCtVC8+Y3Two2fJIy8vrpzQfHIQWkAf/sgzGY=;Up4OOu86WDjdvvem75/6/A=="
 ---
 

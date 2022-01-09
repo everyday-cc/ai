@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Acer's Swift X May Be a Sleeper Gaming Hit With Intel's Arc Discrete GPU"
-    excerpt: "Acer’s Swift X may secretly be a do-it-all laptop—but we still have questions about Intel's Arc, price, and battery life."
-    publishedDateTime: 2022-01-04T18:15:00Z
-    webUrl: "https://gizmodo.com/acers-swift-x-may-be-a-sleeper-gaming-hit-with-intels-a-1848297245"
-    ampWebUrl: "https://gizmodo.com/acers-swift-x-may-be-a-sleeper-gaming-hit-with-intels-a-1848297245/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/acers-swift-x-may-be-a-sleeper-gaming-hit-with-intels-a-1848297245/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 88
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6bc26af52a6d369274ea030192fd39d7.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "CES 2022: Intel announces new 12th Gen Core processors, Arc GPU availability for partners, Intel Evo and vPro enhancements"
     excerpt: "Over at CES 2022, Intel has announced several new products covering the spectrum of mobile CPUs and discreet GPUs alongside several facelifts for its Intel Evo certification and vPro sub-category offerings."
     publishedDateTime: 2022-01-05T09:48:00Z
@@ -82,6 +66,22 @@ related:
       - url: "https://www.fonearena.com/blog/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
         width: 735
         height: 552
+        isCached: true
+  - title: "Intel showcased 12th gen core family SoC, Arc graphics and self-driving Soc at CES 2022"
+    excerpt: "Intel showcased more than 20 new devices powered by the 12th Gen Intel Core H-series.Intel and Mobileye also announced the new EyeQ Ultra system-on-chip for autonomous vehicles"
+    publishedDateTime: 2022-01-05T16:30:00Z
+    webUrl: "https://www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022-11641358282206.html"
+    ampWebUrl: "https://www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022/amp-11641358282206.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022/amp-11641358282206.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 36
+    images:
+      - url: "https://images.livemint.com/img/2022/01/05/600x338/intel-ces-news-2-16x9.jpg.rendition.intel.web.1648.927_1641358607824_1641358613566.jpg"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "Qenr4OEOLXFkFfisRG93ZA19FeJDq4AcAdVTJyUxiXq4SUCGpH8m2rbbhWTiRya0PH1OBFE7tHn7HHnAA1bnOvM/8F9M7FbKdFOZ3ZyLPYR0X/Xs/mUjisnQVAOYG/uSE03CBG8e/3DXGQMzG+9eBDk1nsf/rbe1NpiX7FrgqGK4ZpE6YsXLq+iV/0Im35Jb+FrzD2X6Qx3Q+uj1m8JIgDnzXhg1NdrUpAVB4gM4sFb54nwixRfYk6xoF7yWayKiZ8x12yop6N5iPHgfrsIQukiiUBL/5O6cxUdMAI56sAMvIAnTJa5SkzZOIeG73Ui74nry0nSGn0AyPF/tq4egVQZ1i4g7ZJBq1HHKKEcB8pg=;iHJp09J5kqxx/YWYkkOQow=="

@@ -77,6 +77,36 @@ related:
         width: 752
         height: 423
         isCached: true
+  - title: "CES 2022: GoVoBo Promises Tech Breakthrough For Deaf And Hard-Of-Hearing Users"
+    excerpt: "Developed in a partnership between Gallaudet University and AppTek, GoVoBo will make its debut at CES 2022 as the first universal automatic captioning and translation application designed for the deaf and hard-of-hearing communities."
+    publishedDateTime: 2022-01-06T03:00:00Z
+    webUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200"
+    ampWebUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 40
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/04/badge-gallaudet-university-apptekphoto.png"
+        width: 900
+        height: 472
+        isCached: true
+  - title: "CES 2022: How radar and computer vision can help smart cities"
+    excerpt: "When designing its radar and computer vision-based internet of things (IoT) artificial intelligence platform, connected spaces startup Ulisse kept this in mind. The company has unveiled at this week’s CES 2022 a new analytics system designed for retailers,"
+    publishedDateTime: 2022-01-05T14:14:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17604/ces-2022-how-radar-and-computer-vision-can-help-smart-cities"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/604/17604/ulisse_MAIN.jpg"
+        width: 752
+        height: 735
+        isCached: true
   - title: "At CES, auto tech alliances firm up in the self-driving car wars"
     excerpt: "Mobileye, Qualcomm and Nvidia -- emerged at the CES in Las Vegas in locking down the brains of self-driving cars for the next decade."
     publishedDateTime: 2022-01-07T12:25:00Z

@@ -89,15 +89,6 @@ related:
         width: 1800
         height: 600
         isCached: true
-  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new"
-    publishedDateTime: 2022-01-04T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220104005270/en/Tekion-Expands-Cloud-Hosting-Options-with-Microsoft-Azure"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 34
   - title: "Annata expands Microsoft collaboration to drive data and mobility services in automotive industry"
     excerpt: "Annata is deepening their collaboration with Microsoft to further develop and bring to market solutions to enable the transformation of automotive distribution and retail with next-generation retail and mobility services."
     publishedDateTime: 2022-01-04T19:05:00Z

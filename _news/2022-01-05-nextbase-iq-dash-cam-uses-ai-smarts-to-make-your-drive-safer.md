@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tomsguide.com/amp/news/nextbase-iq-dash-cam-uses-ai-smar
 cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/nextbase-iq-dash-cam-uses-ai-smarts-to-make-your-drive-safer"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Humanising Autonomy's Behaviour AI brings pioneering ADAS perception to Nextbase iQ dashcams to advance road safety"
-    excerpt: "Superior ADAS functionality is the premier feature in the Nextbase iQ range. Running on Ambarella silicon and powered by Humanising Autonomy's Behaviour AI Platform, its analysis"
-    publishedDateTime: 2022-01-04T17:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/humanising-autonomy-s-behaviour-ai-brings-pioneering-adas-perception-to-nextbase-iq-dashcams-to-advance-road-safety-1031077372"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-    images:
-      - url: "https://mma.prnewswire.com/media/1719680/Humanising_Autonomy_Nextbase_IQ.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "+Lfs90TGBexeCrL1duIsusVEwu7859B8YCusW8B6/Sj7mjFV8q+5/g5xIbipOkCu/6Q/M4CPtwu0tBj3ePvxPPiwMnuhlKg5N1RoJGfXWWvQ3vTPZ2fgrhbWc0uXGeZGZA5XO+saeWE6giBMv48ubj1wAHGsAsxJH6zfWH16LVCXHDKPN+9LpsKNQp2+9707hITHuT41f7+xDJNIR0H911AslmCn2VKIZrySav9Y06ocXDK7Hc5LxZLLNwlC6QqCdvgae3xFdV6Et2IlMZZDbEpRicVJ44KSKW68ZH0A0hRGAP8bdDWo/s1JiVrG68vzXbndZg+5OnD1e5UHerCJLtwWA4ka5E2tzp6hTJ8bik8=;VHqbNli9yc4oFpyZq6qJ8Q=="
 ---

@@ -24,17 +24,6 @@ images:
     height: 401
     isCached: true
 
-related:
-  - title: "Deeplite Accelerates AI on Arm CPUs Using Ultra-Compact Quantization"
-    excerpt: "Deeplite, a provider of AI optimization software designed to make AI model inference faster, more compact and energy-efficient, today announced Deeplite Runtime (DeepliteRT), a new addition to its platform that makes AI models even smaller and faster in production deployment,"
-    publishedDateTime: 2022-01-04T18:14:00Z
-    webUrl: "https://insidebigdata.com/2022/01/04/deeplite-accelerates-ai-on-arm-cpus-using-ultra-compact-quantization/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
-
 secured: "XGK5pTImIIIaLM7UlJIvRYCr2rg3eDZgT0faXrmzAY503v+zTTtrELAW5ony5X2nsXpRp4xBCZF/ufKcxyWfF3Lg1+vXBpN/hXL8Ke8D/3tenWAPD5XEMcVW6D5OtLJ52FbfDnq6EiK+DJXGXRc8ZA5KddcMAlh2n+GzoZvNkyWCrvyKzKmRDyUnQCFScKWQ7PWX+PrjE1tk7HWXJT8H9ivA0swhr0MfwhVQoa4c+GywdffboR42rvYM7EMmmZP/A5dPgTr17o0zo+LnsE9/KFWqaTJTAIgKeRDiF1SFldViGqjv91UtXRovGD9cmtQT51tA5j5C2v8jOsOdz95oNX3WZEs65mnnLtExeRHvyhM=;C/ObamxOJRYVufLeiLkDIQ=="
 ---
 

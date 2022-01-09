@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure."
-publishedDateTime: 2022-01-04T15:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
+excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
+publishedDateTime: 2022-01-04T15:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Y2jFcaM9HHCNCK8jMa+1z78mLCYDOSxq6Bq9Ul52y6E5OujOLo6TIyMGBO0iYb7tMdTnHTo1K4V+DFBPxAyKfmnUvjIGcjtZsKCbuqQ5mxRqpKKX9FRAQwKjMiajo+G4oCHRqU1rATXQIfFMsGpI6tDUTOtjagdXpjDfzBhOLKLTbBX8hex2pzRZadZOL8iriWrbS2RmwQ1y5XmWcSj4XPdWroIwtlkN/aDnXuRMPAgAY+1IWVt44rRkVe/RrwtPou2wdhTm1KPovTZBXghgew3Ex/LwmtHvSJiVJX/IyIUJ1xzZAX+BiM5/rSAFMxpCPoqbR7/uONe1y9egVUJX4Hk3QlTJ2rFpNLhBxyYMKM4=;5Ja1LelnLxRJEo4UHRHEIg=="
+secured: "jZR0V22OVnQ6u3df2/OQf+eOYBCk29Rw+38lyNGluKHIvqkV8dyl7vTOVhFAYjteWn/JxG0uSGQxKiwehgAaTzIiORYdHwMABduWkazFKeaAELybtbxnsp2Hch/CLnDGcaxO/QQSnZKXI35VWPqYlWZy1FAG3eRq4QWK/EXh+G9LOtygdztBLkohTMNADinigB1d6UHJVW1HuoSwQUS0wCYOwUvMrHoia33oDQkC5pCMSZphaeyWslUjASdbj+cfWO9BTaa1MnWp7Ojw6+5H8/vV9PFQ2pMELQwi/HPwW7DkOzKGPE19oMutj0PhWLTMyWdc/jnrzX2IX4hX+BFBgFSyivSt9DO94DdIxJDnUP8=;cOC6SUBOq7WaadN3utOPEg=="
 ---
 

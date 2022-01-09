@@ -115,6 +115,20 @@ related:
         width: 675
         height: 555
         isCached: true
+  - title: "CES 2022: There’s a new robot dog in town"
+    excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
+    publishedDateTime: 2022-01-07T14:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17625/ces-2022-there-s-a-new-robot-dog-in-town"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/625/17625/Jueying_Lite2_on_2022_CES.jpg"
+        width: 752
+        height: 552
+        isCached: true
   - title: "Popular Trends in Artificial Intelligence in 2022"
     excerpt: "Deep learning models that have been pre-trained are heavily reliant on real-world data. Nevertheless, obtaining data on time and integrating it into"
     publishedDateTime: 2022-01-06T05:58:00Z

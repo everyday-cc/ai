@@ -41,6 +41,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Self-driving race cars zip into history at CES"
+    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
+    publishedDateTime: 2022-01-08T10:10:00Z
+    webUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "OGa9MtYGGA4xOE/0+/mO55oMa8kXBrO0KMZgAODpl94Q+SG1vJeIj+SbKK0s3gRZZaBF65xpTYXtiM0S2RwUTMUvWIHq4cEIJrcrlkIk0fH8MygV4Rs8NCXgbkOqduQCu7u81nNRd4j8oXNyEdQ+Ux4ntPGlTDI97ZOoUZlKYgJrOwyQUTXTVBrTSEBrhD/5MrrKIB7Hsq4RJ9NlXFuKeSOTH0KwvTrUY83yuORgokFh0P6Oh9CruYM9Zq5yV8W2WR8JxlfNw8kfZGULPw188iiRPcvN8xVqNfXBn+UMorjHvPKZ1050zjNNRRwcBx7rUXoO9FLtYgQ4VQyuO3IsP+xfts4yWUqLg5Idkm3qLSA=;kxGDDuZlTeeS4gasF6humg=="
 ---

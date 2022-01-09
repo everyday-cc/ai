@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-08-clearview-ai-ordered-to-comply-with-canadas-privacy-rules.md",
+      "title": "Clearview AI Ordered to Comply With Canada’s Privacy Rules",
+      "excerpt": "Canada’s privacy regulators have ordered Clearview AI to comply with a previous directive to stop collecting images of residents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Clearview-AI-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/amp/",
+      "publishedDateTime": "2022-01-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
       "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
       "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the adoption of artificial intelligence and machine learning, next-gen automotive and mobility,",
@@ -1144,49 +1186,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-the-ai-forecaster-machine-learning-takes-on-weather-prediction.md",
-      "title": "The AI forecaster: Machine learning takes on weather prediction",
-      "excerpt": "According to a 2009 study, U.S. adults look at weather forecasts nearly 300 billion times a year. Reliable forecasts can predict hazardous weather―such as blizzards, hurricanes, and flash floods―as early as 9–10 days before the event.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-01-ai-machine-weather.html",
-      "originalUrl": "https://phys.org/news/2022-01-ai-machine-weather.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/the-ai-forecaster-mach.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-01-ai-machine-weather.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-machine-weather.amp",
-      "publishedDateTime": "2022-01-06T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ces-2022-bosch-tests
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/"
 type: article
 quality: 86
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "CES 2022: FaceHeart Corp. Launches Visual Recognition AI Tech to Measure Vital Signs"
-    excerpt: "FaceHeart Corporation (  a tech-based provider of healthcare solutions, today announced the launch of its proprietary AI technology, capable of granting seamless access to vital sign measurement using existing consumer devices."
-    publishedDateTime: 2022-01-04T17:37:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-software-96c9a7885556c84c44c4c0a14388cc76"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 32
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "IlWVhw+VHzkpGEpCr7Wl7cm+/6fnpDsuTMwd5aHZRxgpnjrS4rORU/PCo75J6Dex5eWTWaXM2NMlmxkKtAuGaUWQ062DjhCj4Hvra8qmLcEXvXm9+MOxVtsvJ5aEjDggzA9iX/lxU4AJrO5oqYqeg6ZxVpUdxDB0iG4LPv86oWdqnh7ivsXl43K55cUWjbDX5BqHHCiofI87JQ1eiO5AI70NbP6BZRgIjQY4nGd2C6fFNCG41FT9+d9E95Zy0iPrBbzpaoiyRcj8868sfsG/POABUMZWz9bSDmKcIES+wLdJMxCQ0KaECeaWHM4u438s6VbeH85uABViyA3rP85sNZHBnwhgP/6GaY81FwiLtts=;fbTbsKgdT5Hfy3sVt0vR7A=="
 ---

@@ -56,15 +56,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "AI Powers Autonomous Materials Discovery"
-    excerpt: "Cornell University researchers have developed an artificial intelligence tool that aims to speed up the process of materials discovery."
-    publishedDateTime: 2022-01-04T18:31:00Z
-    webUrl: "https://cacm.acm.org/news/257671-ai-powers-autonomous-materials-discovery"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 17
 
 secured: "GzjqYLX9sEO7ja1S7TApHOyEWIZdmdCdqWlx1rEHWv+/pspqxFxERNbxvDNK1wycqeUlfiZ/Eha37HO621tOjkHxdHdvmOtsj/7goutAofBXR2fJhVgW19scWLAnVSJVNLCKxFBh3rEqObn1czWU5j9A30hhMlwdHU5uWqZNjNQKHePA+ooObPuWlZTSOSzRKa+ULnW1zEB9xV0hJVyP5DDn5jey7eY3IDyWbonzukPfJNh3KHDuxxt7JM23tIlTMTVOsb1Rk2GxK2s1AWiGUYLFaFV5GEoGrzRYBGWPv2hV1oJcWWoyze8uNtYls2LBEsxb+TNjehO3CwQS4uqO67bZ4dhsYHhg0NZXr/wiOdo=;kfmHBKfO+Gp3ALiKBxHafA=="
 ---

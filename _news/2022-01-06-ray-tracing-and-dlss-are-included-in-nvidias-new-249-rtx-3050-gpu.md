@@ -91,38 +91,6 @@ related:
         width: 714
         height: 454
         isCached: true
-  - title: "Nvidia Announces RTX 3090 Ti GPU"
-    excerpt: "To kick off CES, Nvidia announced its newest GPU, the RTX 3090 Ti. The new graphics card has 24 GB of GDDR6x VRAM at 21 Gbps, which makes it faster than the RTX 3090. During a presentation, Nvidia management called the GPU a \"monster\" and boasted that it will have 40 teraflops of performance (compared to 36 teraflops for the RTX 3090)."
-    publishedDateTime: 2022-01-04T17:35:00Z
-    webUrl: "https://www.gamespot.com/articles/nvidia-announces-rtx-3090-ti-gpu/1100-6499318/"
-    ampWebUrl: "https://www.gamespot.com/amp-articles/nvidia-announces-rtx-3090-ti-gpu/1100-6499318/"
-    cdnAmpWebUrl: "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/nvidia-announces-rtx-3090-ti-gpu/1100-6499318/"
-    type: article
-    provider:
-      name: GameSpot
-      domain: gamespot.com
-    quality: 59
-    images:
-      - url: "https://www.gamespot.com/a/uploads/original/1179/11799911/3923258-screenshot2022-01-04at12.20.31pm.png"
-        width: 1115
-        height: 639
-        isCached: true
-  - title: "Nvidia reveals the entry-level RTX 3050 GPU"
-    excerpt: "During Nvidia's special address at CES 2022, the company revealed a number of different things including a new budget graphics card."
-    publishedDateTime: 2022-01-04T17:41:00Z
-    webUrl: "https://www.pocket-lint.com/gadgets/news/nvidia/159568-nvidia-reveals-the-entry-level-rtx-3050-gpu"
-    ampWebUrl: "https://www.pocket-lint.com/gadgets/news/nvidia/159568-nvidia-reveals-the-entry-level-rtx-3050-gpu.amphtml"
-    cdnAmpWebUrl: "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/news/nvidia/159568-nvidia-reveals-the-entry-level-rtx-3050-gpu.amphtml"
-    type: article
-    provider:
-      name: Pocket-lint
-      domain: pocket-lint.com
-    quality: 59
-    images:
-      - url: "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/159568-gadgets-news-nvidia-reveals-the-entry-level-rtx-3050-gpu-image1-j7b0wklxao.jpg"
-        width: 946
-        height: 630
-        isCached: true
   - title: "NVIDIA unveils its new flagship GPU RTX 3090 Ti"
     excerpt: "At CES 2022 press conference, NVIDIA unveiled its flagship GPU RTX 3090 Ti. The company didn't reveal many details and suggested us to wait a few days for"
     publishedDateTime: 2022-01-05T06:09:00Z
@@ -195,20 +163,6 @@ related:
       - url: "https://gameranx.com/wp-content/uploads/2022/01/GPU.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "NVIDIA to Release New Budget GPU, the RTX 3050, on January 27 for $249 [CES 2022]"
-    excerpt: "Not to be outdone by AMD’s announcement of a budget Radeon GPU, NVIDIA today announced that they’ll also be releasing a budget-friendly entry GPU, the RTX 3050, on January 27, 2022."
-    publishedDateTime: 2022-01-04T17:11:00Z
-    webUrl: "https://gstylemag.com/2022/01/04/nvidia-to-release-new-budget-gpu-the-rtx-3050-on-january-27-for-249-ces-2022/"
-    type: article
-    provider:
-      name: Gstyle Magazine
-      domain: gstylemag.com
-    quality: 34
-    images:
-      - url: "https://i0.wp.com/gstylemag.com/wp-content/uploads/2022/01/rtx_3050.jpg?fit=1200%2C675&#038;ssl=1"
-        width: 1200
-        height: 675
         isCached: true
   - title: "The Nvidia RTX 3090 Ti is the GPU we all desire, but we really need the RTX 3050"
     excerpt: "All of the major brands released a flurry of powerful new gaming laptops as soon as Nvidia introduced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards. If Nvidia can keep its promises, 2022 is shaping up to be a fantastic year for laptop gaming."

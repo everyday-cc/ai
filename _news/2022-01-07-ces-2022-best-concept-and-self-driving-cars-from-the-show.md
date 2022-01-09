@@ -25,64 +25,91 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2022: HyperX's new wireless gaming headset runs for 300 hours"
-    excerpt: "HyperX is no stranger to the gaming-headset space, having created some of the best gaming headsets of the last decade or so. Now the company has introduced the HyperX Cloud Alpha Wireless, which cuts the cord from the tried-and-true HyperX Cloud Alpha."
-    publishedDateTime: 2022-01-04T18:10:00Z
-    webUrl: "https://www.ces.tech/Logistics/Dates-and-Hours.aspx"
+  - title: "The best robot vacuums of CES 2022"
+    excerpt: "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with."
+    publishedDateTime: 2022-01-07T15:06:00Z
+    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/"
+    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 122
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 91
     images:
-      - url: "https://cdn.ces.tech/ces/media/topics/tech-good-nav_580x204.png?ext=.png"
-        width: 580
-        height: 204
+      - url: "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "CES 2022: GoVoBo Promises Tech Breakthrough For Deaf And Hard-Of-Hearing Users"
-    excerpt: "Developed in a partnership between Gallaudet University and AppTek, GoVoBo will make its debut at CES 2022 as the first universal automatic captioning and translation application designed for the deaf and hard-of-hearing communities."
-    publishedDateTime: 2022-01-06T03:00:00Z
-    webUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200"
-    ampWebUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
+  - title: "CES 2022: Roborock S7 MaxV Ultra Solves The Biggest Problem With Robot Mops"
+    excerpt: "Roborock has finally announced their latest robovac/mop and I couldn't be more excited. As much as I loved the Roborock S7 last year for its improved mopping capabilities and dock compatibility, it lacked the AI obstacle recognition of the S6 MaxV."
+    publishedDateTime: 2022-01-04T20:47:00Z
+    webUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/"
+    ampWebUrl: "https://www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonykarcz/2022/01/04/ces-2022-roborock-s7-maxv-ultra-solves-the-biggest-problem-with-robot-mops/amp/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 40
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/04/badge-gallaudet-university-apptekphoto.png"
-        width: 900
-        height: 472
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d4be73f7c34d285255465d%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "CES 2022: How radar and computer vision can help smart cities"
-    excerpt: "When designing its radar and computer vision-based internet of things (IoT) artificial intelligence platform, connected spaces startup Ulisse kept this in mind. The company has unveiled at this week’s CES 2022 a new analytics system designed for retailers,"
-    publishedDateTime: 2022-01-05T14:14:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17604/ces-2022-how-radar-and-computer-vision-can-help-smart-cities"
+  - title: "The AI-Powered Enterprise Tools Presented at CES 2022"
+    excerpt: "Highlights from Las Vegas include AI-powered chips, robots and tractors."
+    publishedDateTime: 2022-01-07T22:31:00Z
+    webUrl: "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 69
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/604/17604/ulisse_MAIN.jpg"
-        width: 752
-        height: 735
+      - url: "https://images.wsj.net/im-464264/social"
+        width: 1280
+        height: 640
         isCached: true
-  - title: "CES 2022: There’s a new robot dog in town"
-    excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
-    publishedDateTime: 2022-01-07T14:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17625/ces-2022-there-s-a-new-robot-dog-in-town"
+  - title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
+    excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
+    publishedDateTime: 2022-01-06T16:01:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-lifestyle-business-travel-robotics-67dee87015347605abe336102b739cc2"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
     images:
-      - url: "https://electronics360.globalspec.com/images/assets/625/17625/Jueying_Lite2_on_2022_CES.jpg"
-        width: 752
-        height: 552
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
+    excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
+    publishedDateTime: 2022-01-06T05:12:00Z
+    webUrl: "https://www.channelnews.com.au/ces-2022-ecovacs-deebot-x1-robo-vac-cleans-house-and-self/"
+    type: article
+    provider:
+      name: ChannelNews Australia
+      domain: channelnews.com.au
+    quality: 24
+    images:
+      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/01/Vac1.jpg"
+        width: 768
+        height: 432
+        isCached: true
+  - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
+    excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
+    publishedDateTime: 2022-01-08T02:00:00Z
+    webUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/"
+    ampWebUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "Uk+ta7EVquQw9pe7sdsLFgsKzB9pThtSvj81zwkuGks8587C+8nI7vmMr034AuHBgO5J9UG7ZzXV04qw/rbVTxp1T0gsD3KrGOBvTDXPmdUTbCwLQfX9idaUGciRr/Vi4WD799BXOwMKrWyf0A1dPXTpBXwNut4XAj+HW6iB9dSPyJZtBNe+eg4jq3JZTga8+nUxvRP7SB7AgXhRCUBUhMS9CT8PTU/AarbxBKChcc1Zb0BQt+JZJsDChuPAU8kriNRrB3ou6+BkQ251HKf7lT/Uf21TCfv3Wlo7uFEvq79Sz+2Y4HcYw3jmPm0QPkr9ki4IswM9mW70kbmrtFdyOtCZ5THFepnglsbgnVxixygokjBHZY2+bpBXY/sfdgnHwMGFjJj0WUbM3cXReY1cxhpa2juEtXBOqKm6s27cm5REXpHEpCMT3gHaidxta/hjrxI+FPVLshHpOnfPvZSG4WIxT8cnQX1QoIGGDg6BTp6uNVOGLD/VmdL70uKuKfrHWOFUn7stAMs0OUMWlYwTxA==;bDG9PZgkE6jq5z6RSRS1Mg=="
 ---

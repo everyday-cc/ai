@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/google-ac
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/amp/"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -26,34 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech Predictions for 2022: Cloud, Data, Cybersecurity, AI, and More"
-    excerpt: "“Enterprises will empower business users to become data analysts by applying well-trained natural language processing (NLP) and machine learning technologies, and implementing richly curated data catalogs to unleash the power of complex analytic"
-    publishedDateTime: 2022-01-04T18:04:00Z
-    webUrl: "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/business-meeting-tech-analytics.jpeg"
-        width: 1920
-        height: 1362
-        isCached: true
-  - title: "Cyber and AI year"
-    excerpt: "Cyber and AI year. Professional Security magazine online - an essential read for everyone in the security industry."
-    publishedDateTime: 2022-01-05T16:19:00Z
-    webUrl: "https://www.professionalsecurity.co.uk/news/interviews/cyber-and-ai-year/"
-    type: article
-    provider:
-      name: professionalsecurity.co.uk
-      domain: professionalsecurity.co.uk
-    quality: 41
-    images:
-      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2014/02/Ear1.jpg"
-        width: 535
-        height: 547
-        isCached: true
   - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
     excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
     publishedDateTime: 2022-01-06T19:53:00Z
@@ -82,15 +54,6 @@ related:
         width: 270
         height: 270
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Cyber Security Market Growth (Status and Outlook) 2022-2028"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Cyber Security Market Growth (Status and Outlook) 2022-2028 report by LP Information INC. As the global economy mends, the 2021 growth of"
-    publishedDateTime: 2022-01-08T13:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5267531-global-artificial-intelligence-ai-in-cyber-security-market-growth-status-and-outlook-2022-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 35
   - title: "Cybersecurity for AI Solutions Provider TrojAI Inc. Closes $3M Seed Round"
     excerpt: "Cybersecurity for AI Solutions Provider Closes $3M Seed Round and Expands Protections to Include Natural Language Processing"
     publishedDateTime: 2022-01-04T22:35:00Z

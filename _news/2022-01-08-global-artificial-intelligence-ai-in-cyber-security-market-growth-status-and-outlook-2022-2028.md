@@ -19,87 +19,34 @@ topics:
   - AI in Security
 
 related:
-  - title: "Tech Predictions for 2022: Cloud, Data, Cybersecurity, AI, and More"
-    excerpt: "“Enterprises will empower business users to become data analysts by applying well-trained natural language processing (NLP) and machine learning technologies, and implementing richly curated data catalogs to unleash the power of complex analytic"
-    publishedDateTime: 2022-01-04T18:04:00Z
-    webUrl: "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/"
+  - title: "Global Artificial Intelligence (AI) in Cyber Security Market to Witness at a 22.60% CAGR through 2027"
+    excerpt: "The research report on the Global Artificial Intelligence (AI) in Cyber Security Market provides a comprehensive analysis of the industry size, share"
+    publishedDateTime: 2022-01-08T03:40:00Z
+    webUrl: "https://menafn.com/1103505927/Global-Artificial-Intelligence-AI-in-Cyber-Security-Market-to-Witness-at-a-2260-CAGR-through-2027"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 69
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2021/04/business-meeting-tech-analytics.jpeg"
-        width: 1920
-        height: 1362
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?327254"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Google Acquires Israeli Cybersecurity Startup Siemplify for $500M"
-    excerpt: "Google has acquired Israeli cybersecurity startup Siemplify for $500 million, with the company joining Google's Cloud security team and its Chronicle operation."
-    publishedDateTime: 2022-01-04T21:08:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/amp/"
+  - title: "Artificial Intelligence (AI) in Real Estate Market Outlook 2022: Big Things are Happening"
+    excerpt: "The latest research on“Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation in"
+    publishedDateTime: 2022-01-08T06:45:00Z
+    webUrl: "https://menafn.com/1103506410/Artificial-Intelligence-AI-in-Real-Estate-Market-Outlook-2022-Big-Things-are-Happening"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 43
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Google-Siemplify-acquisition-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145577"
+        width: 421
+        height: 249
         isCached: true
-  - title: "Cyber and AI year"
-    excerpt: "Cyber and AI year. Professional Security magazine online - an essential read for everyone in the security industry."
-    publishedDateTime: 2022-01-05T16:19:00Z
-    webUrl: "https://www.professionalsecurity.co.uk/news/interviews/cyber-and-ai-year/"
-    type: article
-    provider:
-      name: professionalsecurity.co.uk
-      domain: professionalsecurity.co.uk
-    quality: 41
-    images:
-      - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2014/02/Ear1.jpg"
-        width: 535
-        height: 547
-        isCached: true
-  - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
-    excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
-    publishedDateTime: 2022-01-06T19:53:00Z
-    webUrl: "https://federalnewsnetwork.com/defense-news/2022/01/nga-cio-eyes-big-shifts-for-cloud-cybersecurity-and-machine-learning-in-2022/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo-400x270.png"
-        width: 400
-        height: 270
-        isCached: true
-  - title: "Mark Andress on NGA’s Cloud, Machine Learning, Cybersecurity Efforts in 2022"
-    excerpt: "Mark Andress, chief information officer at the National Geospatial-Intelligence Agency, said NGA is set to undergo several technology shifts in cloud, machine"
-    publishedDateTime: 2022-01-07T21:33:00Z
-    webUrl: "https://executivegov.com/2022/01/mark-andress-on-ngas-cloud-machine-learning-cybersecurity-efforts-in-2022/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 36
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/01/07/07/e5/02/fb/86/43/83/84/00P4y00001NP9sOEAT.png"
-        width: 270
-        height: 270
-        isCached: true
-  - title: "Cybersecurity for AI Solutions Provider TrojAI Inc. Closes $3M Seed Round"
-    excerpt: "Cybersecurity for AI Solutions Provider Closes $3M Seed Round and Expands Protections to Include Natural Language Processing"
-    publishedDateTime: 2022-01-04T22:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cybersecurity-for-ai-solutions-provider-trojai-inc-closes-3m-seed-round/article_d7a14c0b-ab73-548c-a00b-9c000053711f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 16
 
 secured: "SfPMRfTug0BXYfXWZSGW82a1bbbaPRnUoJ1wL29CmS73xVSC4iEWpZYjP8vT8vnWEfT6+tccHXDHxi7jv+3Yj1NaNQ1wohOnU3ckAJVX4FcACR8xgTbY3F+ZW2kbKpC+gDPS0ZnBGMsfLybRNVOIOqnMRQe1mDZwvV6yR9QDMNC5yEZpkw3+9taeKlQbsmvsaoGjj6BnDxBeO523u2SlP9vTnoFXFoI2KFchjlZneBUJ6p6M8HD0O11kwZnDQJICmaDXUlqJV8xaeOdwvgGD9U0OHnrsFovr+foL48806m/FxeG1t21+Mwj4xT8P4ZlgkexfDHtse15SecEUJfBnYVzR9WVet6TjmXTY4Mu4x1g=;baE6VPnoVowFV4HptYeScA=="
 ---

@@ -51,15 +51,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Autonomous Trucking Milestone: Pony.ai Forms Joint Venture"
-    excerpt: "Pony.ai, a leading global autonomous driving technology company, announced on December 27th that PonyTron, its autonomous trucking business unit, formed a joint venture with Sinotrans, part of China Merchants Group and one of China's leading logistics and freight forwarding companies."
-    publishedDateTime: 2022-01-04T18:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-autonomous-trucking-milestone-ponyai-forms-joint-venture-with-/2022/01/04/9519795.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "8Vhl2l70PUFAmU2wGaYB4ncJ8lCu2Wb+zudtYdoQPcG5n4VJDEpYzCHm2K72/PlDVlyyKXplhpeCYPsHjyq0pQpK2+IFZb4Utg8qJNZz4eGDbo2NgFh+IxMRnLjFBiGdAIex3om004zUlRp0PewKGMZm1e9ugBdJ0Em3z4pCwe9+PzkDluWl+B+KXxn8qUzemW/sLfsnLIB02fWkLEnBJeRM6Ow6re87XnG5MEuYAlSEhI4NtN4o/1cqThgJ0BhLl+baCpDu8raeBpWz+sYclTtTlX4NPXtXHCCzqbc2ik3OfMjNApyWQJlRrgvLKHJlhxkv2kjieeeTvw2pZY+Cfdny9bpSt+DtqcALITZxF8s=;fylB2tBjq26/1qGZ28bcdw=="
 ---

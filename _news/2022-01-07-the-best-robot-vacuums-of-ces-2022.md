@@ -76,20 +76,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CES 2022: human-like beomni 1.0 robot is here to assist, from medicine to space"
-    excerpt: "CES 2022, beomni 1.0 is an artificial intelligence-enabled robot that assists humans from medical services to space construction."
-    publishedDateTime: 2022-01-04T17:08:00Z
-    webUrl: "https://www.designboom.com/technology/beomni-1-0-robot-ces-01-04-2022/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 35
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2022/01/beomni-1.0-robot-CES-2022-designboom1200.jpg"
-        width: 1720
-        height: 900
-        isCached: true
   - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
     excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
     publishedDateTime: 2022-01-06T05:12:00Z
@@ -103,6 +89,20 @@ related:
       - url: "https://www.channelnews.com.au/wp-content/uploads/2022/01/Vac1.jpg"
         width: 768
         height: 432
+        isCached: true
+  - title: "CES 2022: Best concept and self-driving cars from the show"
+    excerpt: "Concept vehicles are a staple of CES 2022 and while this year’s show suffered from a lack of attendees due to COVID-19, the concept vehicles and latest self-driving cars still made grand appearances."
+    publishedDateTime: 2022-01-07T13:55:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17626/ces-2022-best-concept-and-self-driving-cars-from-the-show"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 24
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/626/17626/Caddy_interior_MAIN.jpg"
+        width: 752
+        height: 501
         isCached: true
   - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
     excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."

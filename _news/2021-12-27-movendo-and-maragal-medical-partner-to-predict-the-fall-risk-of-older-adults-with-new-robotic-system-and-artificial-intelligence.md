@@ -2,25 +2,19 @@
 category: news
 title: "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence"
 excerpt: "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,"
-publishedDateTime: 2021-12-27T14:04:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e"
+publishedDateTime: 2021-12-27T13:04:00Z
+originalUrl: "https://www.galvnews.com/news_ap/business/article_d272bac2-2b56-5f91-8eae-2d9bad021e9c.html"
+webUrl: "https://www.galvnews.com/news_ap/business/article_d272bac2-2b56-5f91-8eae-2d9bad021e9c.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily News
+  domain: galvnews.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "aiuhkYzTAuWMvzxY/Kv9sCe/8VQHf1S8mU+FF6WWFs69Qq1UZ1gBc2pkzy2MKIcaTktadpJWvBu3h0sIGQUz7+DKO7eE+GXS29O565F12he0QbL0foCVqFMsL95BzUioUXSWKWVsRLU+3fOPJhb50Ei38FqK5mjs7iGG0nVT7UYaI3/dklXidDkB/xiCZgtts1o/7/MHsGrdA+8F9za6ET0dbGqVk2zP+NAgbkk6gBMWFOMU9BxRJigtqlu+Scf/b838ivxph/GoPj/9vaSr4Mmh+vpPj/qdIQDierCicAFF3Kq72qKajI9uFFhgh4J6Z76PTh12Mh5ojXVHfGbjtzAn78OfYW3yuBjDcUzTf5w=;RtjSi3hpl5msXb5xhwvzMA=="
+secured: "mAZuiDdcCosMAPicD+FeB+7KLzUCbFqz2XTYNcuwS7qop0ZgQEnZMccFYXNzn8KNlEDtXiSblxc0mGz6PihgtXevuqpSV96WgtoyvUKgT16Q50DVUfjynfTMIjomEe2MnUNco+NJGtwAtNvjM+hYxTQu25hlhd3/KmBCA6URkfyHzhfLHH4bj3lAIU6DB0LiWqsZmKcZHf6qpI3/M01WhjTQGeXo9arC4KVSj6zaR2tX8FcYSZGNpSum/JZX+PpbogRzEUKRI72Gs8OfvGQQZcxebbFMzYHdhXHeKIpwdei2nA6qv5Y9shInxvIYejG0xs9QAj7MvVMy+jUQfcUQejWyC6l5hVJkIk7mvhdY/5RGaBD43Jhok9BpvpPAOJip3HhPKgW1fWkEHrF8fuIhzEeQEdoncUiIQpaqOKH6F4bWLu0R1bz/NfnDFbLR+HAIq6WsHv9/FXe6iWpCZl9MWU2ghbcCAbn1IYwh/H/yzMP4EzzT9Vy/gikAOEaKHmHyY1K6MeZMsuJmBiX5Td0alA==;DyzV0Q0bjdDKQi/tdAE8Tw=="
 ---
 
