@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/"
 type: article
 quality: 86
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -103,20 +103,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/zeekrmobileye-700x525.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Mobileye Announces EyeQ Ultra: A Level 4 Self-Driving System In A Single SoC"
-    excerpt: "Aimed for a 2025 release, the EyeQ Ultra is Mobileye’s most ambitious SoC yet, and not just for performance. In fact, as a site that admittedly rarely covers automotive-related announcements, it’s the relative lack of performance that makes today’s announcement so interesting to us."
-    publishedDateTime: 2022-01-04T15:00:00Z
-    webUrl: "https://www.anandtech.com/show/17165/mobileye-announces-eyeq-ultra-l4-auto-soc"
-    type: article
-    provider:
-      name: AnandTech
-      domain: anandtech.com
-    quality: 21
-    images:
-      - url: "https://images.anandtech.com/doci/17165/EyeQ_678x452.jpg"
-        width: 678
-        height: 408
         isCached: true
   - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
     excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio - the Snapdragon Ride™ Vision System - a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."

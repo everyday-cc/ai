@@ -25,15 +25,6 @@ images:
 
 related:
   - title: "WEKA Increases Funding to $140 Million to Accelerate AI Data Platform Adoption in the Enterprise"
-    excerpt: "WEKA, the data platform for AI, today announced that Hitachi Ventures led its recent round raising $73 million in funding, which brings the total amount raised to $140 million. Other investors participating in this round were strategic investors,"
-    publishedDateTime: 2022-01-04T14:57:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-weka-increases-funding-140-million-accelerate-ai-data-/2022/01/04/9519618.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
-  - title: "WEKA Increases Funding to $140 Million to Accelerate AI Data Platform Adoption in the Enterprise"
     excerpt: "WEKA, the data platform for AI, today announced that Hitachi Ventures led its recent round raising $73 million in funding, which brings the total amou"
     publishedDateTime: 2022-01-04T18:55:00Z
     webUrl: "https://www.businesswire.com/news/home/20220104005382/en/WEKA-Increases-Funding-to-140-Million-to-Accelerate-AI-Data-Platform-Adoption-in-the-Enterprise"

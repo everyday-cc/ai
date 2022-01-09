@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/01/06/deeplitert-enables-fast-and-ef
 webUrl: "https://www.datanami.com/2022/01/06/deeplitert-enables-fast-and-efficient-ai-modeling-on-edge-devices/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deeplite Accelerates AI on Arm CPUs Using Ultra-Compact Quantization"
-    excerpt: "DeepliteRT allows customers to utilize existing Arm CPUs for computer vision at the edge while delivering GPU-level performance MONTREAL, Jan. 4,"
-    publishedDateTime: 2022-01-04T13:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deeplite-accelerates-ai-on-arm-cpus-using-ultra-compact-quantization-1031076027"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Deeplite Accelerates AI on Arm CPUs Using Ultra-Compact Quantization"
     excerpt: "Deeplite, a provider of AI optimization software designed to make AI model inference faster, more compact and energy-efficient, today announced Deeplite Runtime (DeepliteRT), a new addition to its platform that makes AI models even smaller and faster in production deployment,"
     publishedDateTime: 2022-01-04T18:14:00Z

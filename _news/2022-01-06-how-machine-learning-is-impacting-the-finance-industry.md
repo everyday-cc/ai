@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/financial/how-machine-learning-is-impacti
 webUrl: "https://www.bbntimes.com/financial/how-machine-learning-is-impacting-the-finance-industry"
 type: article
 quality: 56
-heat: -1
+heat: 66
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Machine Learning Future Is Now: How AI is Disrupting Entire Industries"
-    excerpt: "M achine learning and artificial intelligence (AI) are no longer the concepts of science fiction – they’re a $1.41 billion industry that is already making big changes to the way we understand and use immense databases for a wide range of purposes."
-    publishedDateTime: 2022-01-04T14:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 82
   - title: "Learning From Other Industries in Healthcare"
     excerpt: "While businesses in other sectors have become adept at bringing in ideas from outside their walls, health care has lagged behind. A key reason is that healthcare leaders are often blind when it comes to creatively responding to the industry’s challenges."
     publishedDateTime: 2022-01-06T20:18:00Z
@@ -51,15 +40,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
 
 secured: "gkX351w8p4m/LGI3WeQk0Ein/4tlIlspRdykP/yJ1D+ssH7kn8DiTcmhiQv/YeaNQ75JVXlnOdcb05Mz2MDdi1+may5YmLFJGuWMGAcBHP/NNk+JGGfjOk8mRy3Jnu8LaVZoEFIWRfNOrGr/3/rd6ndPqGyWjDaxnEhsk5Pxt/oWSTOmLLgrB0SfURRGUotBQ+HepSXdD4SxObtOIzX4A4ZE+XtmwUueZ79c3IgAgjScxcnj+vEvtipZAG/nB+CZjfWXlEmVpx5wNvslFW2/megKknlU0I8k5MlYRXw9btgQVeDInoYNHgN/+O40rNK74hXPDEb05HlUnMV6+ZBM0Hul7S2ax6xzDDsKIdJYrko=;lwzSnJosZZ8PZ8LCM9vWAg=="
 ---

@@ -24,6 +24,22 @@ images:
     height: 250
     isCached: true
 
+related:
+  - title: "$27.7 Billion Worldwide Image Recognition Industry to 2026 - Key Drivers and Challenges - ResearchAndMarkets.com"
+    excerpt: "The Global Image Recognition Market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026. Alphabet Inc. Hitachi Ltd. Honeywell International Inc."
+    publishedDateTime: 2022-01-05T11:29:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=595571"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 3
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+
 secured: "PucO0O4wHxdOuVWCx92dFcurZ2qt/XmY4sOJGL6mvKhU/kRhtr5MwtSghR1j2eNH3e2pxrYvn1Wek9TNVH/s0tTKTCXgaOJGC9wjBN2FhRTRsvx7ZsvGfmzzBR2Jt3rKfcxk7Wt4peRJa2KbJy4iAmDcIVdbF2uwLXIbHoxER7MwUX7ktEryOhkOv4/faP0IAeXJ8JKdv+f5gx77TEWr+3Djr/VBgTGB/6UfcdxWowzfAayRWk+iDvMigQ3d1XqthnbHUY804yz18kms+SKndcrmg4Jf+zBYognc3Orw7FG9zWm89XARmCrXtl8tN6MystR5xmQSAjWu+v2IQQ8jlzm/NPWyvfSwX1EugcRcRUg=;rbz/DQi2lKMr5EdWC+Tmzw=="
 ---
 

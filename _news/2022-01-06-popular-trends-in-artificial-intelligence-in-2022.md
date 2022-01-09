@@ -128,20 +128,15 @@ related:
         width: 675
         height: 555
         isCached: true
-  - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
-    publishedDateTime: 2022-01-05T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
+  - title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+    excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
+    publishedDateTime: 2022-01-05T15:04:00Z
+    webUrl: "https://www.roboticstomorrow.com/content.php?post=18022"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
-        width: 1154
-        height: 606
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 1
 
 secured: "1ulmJxG5aHwKvINTKZcJfp5hVDv5eTnoXOrgcOhtcFWlca2+Vlpl37FiTY5Zqtx4bxSZiz49ybaNZbf0eX3H5/T4wK9UlxnG9tcI7s54YvPOrnoBDj3X2AE3kUG51bA+sjeTapDaSEsZOxw4/aTgtCAhUK0cNkKhOSlNun/2eQn0hyPMZ5SuJ95ZefMeFikJ3h5/fz7Exum+YeC4AA4FXRf0CdplwK+Dfk6Ro3dRYM+x4Lo4DSSq0krfFTznmH1or9FgujlZtYNdJguzEbY5B9bzIba/N8FbjDlWhpkNnIpGKiI61j45EYONo99OGPSsSCyV9EKcta1/oN1GfQhhG7eTMAhnnQwAufI5qdHgOU5WwNEMEpa2Tj9PU3+xDfPc9nrk8MJqlairRQADgwybk3oYfrefxy9nr6C3bu7k8Lyr1jpO4++GeAunkdLF3W2xthNOF5FHxpG+FRHPnrWfmhQray/UclWaer/zIDdAY8zZ0kwZN3MKemoBWDQSpW1GMW2b5T/OIhsN+YYcOw9DNA==;tsyuzs6EH3t1Dv8L7/wnjQ=="
 ---

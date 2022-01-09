@@ -107,20 +107,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Mobileye Announces EyeQ Ultra: A Level 4 Self-Driving System In A Single SoC"
-    excerpt: "Aimed for a 2025 release, the EyeQ Ultra is Mobileye’s most ambitious SoC yet, and not just for performance. In fact, as a site that admittedly rarely covers automotive-related announcements, it’s the relative lack of performance that makes today’s announcement so interesting to us."
-    publishedDateTime: 2022-01-04T15:00:00Z
-    webUrl: "https://www.anandtech.com/show/17165/mobileye-announces-eyeq-ultra-l4-auto-soc"
-    type: article
-    provider:
-      name: AnandTech
-      domain: anandtech.com
-    quality: 21
-    images:
-      - url: "https://images.anandtech.com/doci/17165/EyeQ_678x452.jpg"
-        width: 678
-        height: 408
-        isCached: true
 
 secured: "CivEeX/a4kvHsUvSeURbDtfEfWVuGpfgGMz19kjWfwys9UPLuOgR6NV5cAsjiCHXZUNZxOx7L7eImV3mIVFh+XBFTUfSR7sT5vwgg2/s040531JEGAdJEI+HthwtC2aduVYp+P/2OcmBK0FAZ9vDPjPDqwN9gyHWMnTk27+D7hrg0oM33ZTYxnHwu8xV6vmpulV++zExi8A0igR02lVKygKIN3bkPvlebD+tQ7NkeicOQ+P3rScta67i07CEuBop2HQANtPMb0dBTgzIDELCWnWXnNjjop2DrimIZdh5YdBYmc8zFXDhSvL0Icny6l09Y5cNMbvYFxhSL0506bTPQboBoiRkQ9Njq/6HUGueleo=;TRQ/qXHSAW1g2YRHGBxuyA=="
 ---

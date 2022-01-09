@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-01-plasma-edge-fusion-ways-artificial.amp
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-plasma-edge-fusion-ways-artificial.amp"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 569
     height: 379
     isCached: true
+
+related:
+  - title: "Using Artificial Intelligence To See the Plasma Edge of Fusion Experiments in New Ways"
+    excerpt: "MIT researchers are testing a simplified turbulence theory’s ability to model complex plasma phenomena using a novel machine-learning technique. To make fusion energy a viable resource for the world’s energy grid,"
+    publishedDateTime: 2022-01-08T16:36:00Z
+    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-see-the-plasma-edge-of-fusion-experiments-in-new-ways/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 29
+    images:
+      - url: "https://scitechdaily.com/images/Magnetically-Confined-Fusion-Plasma-Simulation.jpg"
+        width: 777
+        height: 518
+        isCached: true
 
 secured: "KiiOOzbn9kw7RT1uA6dUb4Shytey7iMw1nNH9cSXEodlbh/CGqTbfssFDhXqCcjLQI3876GWKV7SLsU5N/RAtIMboikf4BVMDJbydnHPowQDieCzwggb5SMOebp+ksRdGE56WUjE1IH5CwsetaT7IYSFwRhOWEbQ9U7eqiHiFcyYx2XWNWlFqRDQfi2PabODtFGWZpFV/4MZoc/k3Hkl3Xd+xUqOkTYMttVg1F1RY+EVqdy4qMnwXBaPEMMcleLxIbgjYRdfyIEzYC2JPI5XCWfvMuNpCrhqLb0bc5yI4u7jC25BXwfu3KlnD8VKSSOIyvX2jF1lz8yvmOSs8HDN50dwv4l9kSUwsTTUM6QLgJU=;gqnjWUWFc5YVvTtwcPQP2A=="
 ---

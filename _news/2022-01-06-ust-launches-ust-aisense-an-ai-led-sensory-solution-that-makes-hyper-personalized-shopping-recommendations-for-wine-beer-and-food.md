@@ -60,20 +60,6 @@ related:
         width: 956
         height: 956
         isCached: true
-  - title: "The Challenges of Pruning AI Models on the Edge"
-    excerpt: "In this special guest feature, Nick Romano, CEO, Deeplite, discusses how struggling to fit advanced models in edge devices with limited resources forces deep learning teams to start “pruning” models – essentially trimming parts of it that are deemed not critical,"
-    publishedDateTime: 2022-01-04T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/01/04/the-challenges-of-pruning-ai-models-on-the-edge/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 37
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
-        isCached: true
   - title: "fylm.ai 1.1 update brings online raw processing and grading for photographers"
     excerpt: "The fylm.ai 1.1 update is a “Photographers Release”, bringing the worlds of still photography and video closer than ever fylm.ai is a subscription based online color grading tool designed for both videographers and stills photographers."
     publishedDateTime: 2022-01-05T17:25:00Z

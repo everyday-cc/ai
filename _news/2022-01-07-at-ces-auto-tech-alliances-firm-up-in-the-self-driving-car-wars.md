@@ -87,20 +87,6 @@ related:
         width: 752
         height: 423
         isCached: true
-  - title: "CES 2022: TuSimple furthers Level 4 self-driving trucking with Nvidia"
-    excerpt: "TuSimple, an autonomous trucking startup, is expanding its collaboration with chipmaker Nvidia to develop an advanced autonomous domain controller (ADC) designed specifically for Level 4 self-driving trucks."
-    publishedDateTime: 2022-01-04T14:06:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17595/ces-2022-tusimple-furthers-level-4-self-driving-trucking-with-nvidia"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/595/17595/TuSimple.jpg"
-        width: 752
-        height: 501
-        isCached: true
   - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
     excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
     publishedDateTime: 2022-01-07T08:44:00Z

@@ -1,64 +1,70 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-publishedDateTime: 2022-01-06T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+publishedDateTime: 2022-01-06T15:15:00Z
+originalUrl: "https://www.lelezard.com/en/news-20181152.html"
+webUrl: "https://www.lelezard.com/en/news-20181152.html"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
 
-related:
-  - title: "The Machine Learning Future Is Now: How AI is Disrupting Entire Industries"
-    excerpt: "M achine learning and artificial intelligence (AI) are no longer the concepts of science fiction – they’re a $1.41 billion industry that is already making big changes to the way we understand and use immense databases for a wide range of purposes."
-    publishedDateTime: 2022-01-04T14:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries"
-    ampWebUrl: "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 82
-  - title: "How Machine Learning is Impacting the Finance Industry"
-    excerpt: "Machine learning is streamlining and optimizing processes ranging from credit decisions to quantitative trading and financial risk management."
-    publishedDateTime: 2022-01-05T18:15:00Z
-    webUrl: "https://www.bbntimes.com/financial/how-machine-learning-is-impacting-the-finance-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 56
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Impacting_the_Finance_Industry.jpeg"
-        width: 1440
-        height: 800
-        isCached: true
-  - title: "Learning From Other Industries in Healthcare"
-    excerpt: "While businesses in other sectors have become adept at bringing in ideas from outside their walls, health care has lagged behind. A key reason is that healthcare leaders are often blind when it comes to creatively responding to the industry’s challenges."
-    publishedDateTime: 2022-01-06T20:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/learning-from-other-industries-healthcare-jasmine-garces-king"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHTGkXNtE-fQw/article-cover_image-shrink_600_2000/0/1631411370022?e=1646870400&v=beta&t=khJrhyso-lpcsjfqCihr4_A96U770-de5qPzXmZ_hjc"
-        width: 800
-        height: 450
-        isCached: true
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
-secured: "zVqrixKWEafhv2ebGf+nCjNzfv+Jx31WwHN+BjB77CWYRVtEtlDAesCR9QIGFYYk+Nl5HURxcY5nT2MljCdCMytQbIBKHHAYJ1aDwtqdubm/V9clLEeHm16PKs+DgzHMFLQR81KMeVRS7PM8fEBDT/JOFtufJIQDoMI3KWoMG5nDBvUxDEU5yxcCge3pt4sXv9ijk2nQdem9OBrryNxjSKP6+TF6cidA9/Z7IpFtGroz7FCM3gofjayc0qOSS8XJifyyPG6tTUqXdDmiIgQfA8YVsLRDygdZySht8q14WKTvEaLtcSTGhMmklp9fkkqOCw0LsU7cgEDuJDC7V++zAtFdAfMO7FkDaeHIyQQRK/w=;mQyxLGd/uX/iXWR5Z/ryoA=="
+related:
+  - title: "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology"
+    excerpt: "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare"
+    publishedDateTime: 2022-01-06T00:45:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 70
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Wejo developing vehicle data processing platform with Microsoft"
+    excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
+    publishedDateTime: 2022-01-05T12:37:00Z
+    webUrl: "https://seekingalpha.com/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "SparkBeyond Discovery Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Today SparkBeyond announced the availability of its data science platform for supervised machine learning, SparkBeyond Discovery, in the Microsoft Azure Marketplace, an online"
+    publishedDateTime: 2022-01-06T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sparkbeyond-discovery-now-available-in-the-microsoft-azure-marketplace/article_f5efd05d-d42a-55f9-8e58-b4adcf101572.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 49
+
+secured: "TejTPsn6EypWTNxN4VrrrvV+BbnuAJoC15kenSKrvbdI9qTacneYRPrCeYa+ExdxRRd6FCyaPA896Lf5mBbHqTq8+Umuf5t2AYGTt9ZrPQe9ASmXAqmhJs7xQ/MWdSl7tQiOp0V1l+Ksxz1/44KnyZpLbXgB2UzMSM1IAbvTxUofzG3f967O60WycEb2A6GxhbZn+gZL36hrQ6TYzjCk4i3+ILWg+xRtud71vLAZUB+BXtNY9Urz5laaAtjGR+Pv+M8gzofMd36QVqpky/iDLHMf1JvYMAdW5Ro28nbcPtENkQ3WMltoEQJutUKx6DAP4JO3T8cG287TLOBIdTzEQaI9qgCMNYRXVVP9TuQz4wI=;G5aOOqZKGUT6FjoixTVorw=="
 ---
 

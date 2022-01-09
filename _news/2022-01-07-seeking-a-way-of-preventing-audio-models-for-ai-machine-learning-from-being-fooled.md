@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp"
 type: article
 quality: 68
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://media.vogue.co.uk/photos/61d6c6d7ea688ceb329b3f28/master/pass/lior-promo.jpeg"
         width: 956
         height: 956
-        isCached: true
-  - title: "The Challenges of Pruning AI Models on the Edge"
-    excerpt: "In this special guest feature, Nick Romano, CEO, Deeplite, discusses how struggling to fit advanced models in edge devices with limited resources forces deep learning teams to start “pruning” models – essentially trimming parts of it that are deemed not critical,"
-    publishedDateTime: 2022-01-04T14:00:00Z
-    webUrl: "https://insidebigdata.com/2022/01/04/the-challenges-of-pruning-ai-models-on-the-edge/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 37
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
-        width: 252
-        height: 355
         isCached: true
   - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
     excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."

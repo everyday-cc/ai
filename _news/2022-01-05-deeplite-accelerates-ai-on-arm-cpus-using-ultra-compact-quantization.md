@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Deeplite Accelerates AI on Arm CPUs Using Ultra-Compact Quantization"
-    excerpt: "DeepliteRT allows customers to utilize existing Arm CPUs for computer vision at the edge while delivering GPU-level performance MONTREAL, Jan. 4,"
-    publishedDateTime: 2022-01-04T13:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deeplite-accelerates-ai-on-arm-cpus-using-ultra-compact-quantization-1031076027"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "DeepliteRT Enables Fast and Efficient AI Modeling on Edge Devices"
     excerpt: "Enterprises today have increasingly complex and expansive datasets that require substantial computing resources to manage. Machine learning with"
     publishedDateTime: 2022-01-06T22:10:00Z

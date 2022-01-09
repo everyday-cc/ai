@@ -24,37 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI, ML bubble to the top in new beverage-ordering solution"
-    excerpt: "The Bees application empowers users to place orders anytime, anywhere. They can order an array of products, earn rewards where applicable, gain insights on how their business is performing, and have flexibility with delivery dates and times."
-    publishedDateTime: 2022-01-04T14:40:00Z
-    webUrl: "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/"
-    ampWebUrl: "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/amp/"
+  - title: "Seeing the plasma edge of fusion experiments in new ways with artificial intelligence"
+    excerpt: "To make fusion energy a viable resource for the world's energy grid, researchers need to understand the turbulent motion of plasmas: a mix of ions and electrons swirling around in reactor vessels. The plasma particles,"
+    publishedDateTime: 2022-01-06T13:20:00Z
+    webUrl: "https://phys.org/news/2022-01-plasma-edge-fusion-ways-artificial.html"
+    ampWebUrl: "https://phys.org/news/2022-01-plasma-edge-fusion-ways-artificial.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-plasma-edge-fusion-ways-artificial.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
+      name: Phys.org
+      domain: phys.org
+    quality: 50
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/cafe-x-3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "The last mile in AI deployment - answering the top questions"
-    excerpt: "My diginomica piece on the last mile in AI deployment raised issues - how do you bring AI projects into production, while mitigating the risks? Here's how I responded to top AI deployment questions."
-    publishedDateTime: 2022-01-06T10:12:00Z
-    webUrl: "https://diginomica.com/last-mile-ai-deployment-answering-top-questions"
-    ampWebUrl: "https://diginomica.com/last-mile-ai-deployment-answering-top-questions?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/last-mile-ai-deployment-answering-top-questions?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 57
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2021-03/shutterstock_1005701926.png"
-        width: 740
-        height: 450
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/seeing-the-plasma-edge.jpg"
+        width: 569
+        height: 379
         isCached: true
 
 secured: "ymhFJnVjflJ8Zrv80jrwwAwHjJHV8ERghCi8XzMCt3mOWVWxO4f35htFdL7JwJciUrLiXVgTBLiG+w58B4clI5t28ONBn8HmdM1O+9hNFzJ7IadygHIUQa+HJXYVjG+twkrrjdj9d/D2yfChOiddcePQBntAAk4Yat8NgXlnb9FRMcdcvPJ4bSx4sDzLXwakdsKfyeA9+LwPcglwg/KSV2monlqm7+wE/BkXRJ4kiT4hnj72O5NNdBthJbfwtZBGCKHx0p1gTRF0hbp4ZizPiVEmwaUqZl33lYBIehZJapae3fI+iomNoMqg6LcnityC9O0yPBi4geeHDeNtd6P81k6Q26qOfkLHPdv+cKmoLqE=;lKNPp3oELhxwHXwijFWRXQ=="

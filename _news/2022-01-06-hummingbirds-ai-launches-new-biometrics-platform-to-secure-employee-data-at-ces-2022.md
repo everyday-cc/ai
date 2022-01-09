@@ -40,6 +40,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Fluent.ai and Knowles showcase wireless earbuds and voice biometrics-controlled devices"
+    excerpt: "Fluent.ai’s ‘speech-to-intent’ technology is both multilingual and accent-agnostic and can enable voice commands to trigger a variety of TWS actions."
+    publishedDateTime: 2022-01-06T19:21:00Z
+    webUrl: "https://www.biometricupdate.com/202201/fluent-ai-and-knowles-showcase-wireless-earbuds-and-voice-biometrics-controlled-devices"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
   - title: "Face biometrics panel in US realizes it has bitten off quite a lot to chew"
     excerpt: "A commission in Massachusetts debating the use of face biometrics by police has found that the topic is more freighted and complex than anticipated."
     publishedDateTime: 2022-01-07T15:40:00Z

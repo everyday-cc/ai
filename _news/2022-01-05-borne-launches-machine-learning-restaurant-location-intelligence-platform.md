@@ -26,19 +26,16 @@ images:
 
 related:
   - title: "Botminds AI announces the latest release of its Intelligent Document Automation platform."
-    excerpt: "Botminds AI, a pioneer in intelligent document process automation, today announced the launch of its newest release – Botminds V13. As we take a"
-    publishedDateTime: 2022-01-08T00:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/botminds-ai-announces-the-latest-release-of-its-intelligent-document-automation-platform"
+    excerpt: "Botminds AI, a pioneer in intelligent document process automation, today announced the launch of its newest release – Botminds V13. As we take a moment to reminisce on"
+    publishedDateTime: 2022-01-07T23:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/ab24958457/botminds-ai-announces-the-latest-release-of-its-intelligent-document-automation-platform"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24958457"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24958457"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 28
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/Washington-January-6-2021-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "jrjrf/15GoTEjLHzAvZl6Adk29jlK/fofT4JK1te4Gc3TZQDRbhCU9T+RIbJUU0KrI0Z7ZA6w+TVqtaRhX47x7y7AQCfuoutjjRppivswkpaI0pYaaVb1hEJOO8C8vMWOn2ThRL0+j4GgTy/qcT9hENn2jZUnAPVktLysIaJQSCe9vUt17SA2M1m9OV6DgeYb6I5Cah6gxGTCCjKtZQbjMD81rSvaLx/AKiiPa+9ddjRjWOCHbvR4g6kOUHGbJM+V8aSjyS0o51vel8eDxNBfPEXJw1emebF7P7TF3d6k7lG9Cuo4tZhxm3/M4gpNUtLiv5fildSn4EwgPrvGgidEGzTj4DttNUerIJsaON9G/U=;+IfOC5sozbUjwxKcz5uzTQ=="
 ---

@@ -41,6 +41,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Fluent.ai and Knowles showcase wireless earbuds and voice biometrics-controlled devices"
+    excerpt: "Fluent.ai’s ‘speech-to-intent’ technology is both multilingual and accent-agnostic and can enable voice commands to trigger a variety of TWS actions."
+    publishedDateTime: 2022-01-06T19:21:00Z
+    webUrl: "https://www.biometricupdate.com/202201/fluent-ai-and-knowles-showcase-wireless-earbuds-and-voice-biometrics-controlled-devices"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 33
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
   - title: "Hummingbirds AI launches new biometrics platform to secure employee data at CES 2022"
     excerpt: "Hummingbirds AI announces a new artificial intelligence-based biometrics platform designed to make employees’ computers more secure."
     publishedDateTime: 2022-01-05T22:16:00Z

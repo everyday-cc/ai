@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure."
-publishedDateTime: 2022-01-04T15:02:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
+excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
+publishedDateTime: 2022-01-04T15:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
 type: article
-quality: 54
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Qualcomm and Microsoft collaborate on custom chips for AR glasses"
@@ -71,20 +65,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The future of medtech goes beyond Microsoft’s AI creep"
-    excerpt: "If one story gave a clue to the future of medtech in 2021, a likely contender would be Microsoft’s acquisition of Nuance Communications for $19.7bn last April. Nuance is a UK based speech-recognition company best known for having provided the speech recognition engine that powers Siri,"
-    publishedDateTime: 2022-01-04T14:20:00Z
-    webUrl: "https://www.retail-insight-network.com/features/the-future-of-medtech-goes-beyond-microsofts-ai-creep/"
-    type: article
-    provider:
-      name: Verdict Retail
-      domain: retail-insight-network.com
-    quality: 58
-    images:
-      - url: "https://www.retail-insight-network.com/wp-content/uploads/sites/18/2021/11/Global-E-1-464x348.jpg"
-        width: 464
-        height: 348
-        isCached: true
   - title: "Annata and Microsoft deliver new retail and mobility services"
     excerpt: "Iceland-based technology provider Annata has expanded its long-standing partnership with Microsoft to develop new retail and mobility services. The firm will enhance the Annata 365 cloud platform with new services to enable those involved in vehicle manufacturing and supply to upgrade legacy systems and better engage with customers."
     publishedDateTime: 2022-01-05T10:16:00Z
@@ -132,6 +112,6 @@ related:
       domain: publicnow.com
     quality: 6
 
-secured: "nskIJIanUbNXfeo/lqSnep1USp5xWPIMutlqOPteCSeg3LWJy/Eya/jDnlYSXRCqjEKE7HL2VhlThjd+Mio3o+ZWbIuRQRF2jBsVsn0xgnbZqy2fT7AzUQPf+jl4frBEfqrC3x36bQEYKLYHIghO08anzKyxVZChKJlV4dNjdUgNvPXQ17w8YNptgVuxyRlE+MnKd8oxqyeYFrdmd0OF4snhbYwmaA4HrOZzbcavYA8Xa8lwqSmlFMGZYVXgPwSAV1vPs7icWDY+XS+90ce5HVjWZGd5afrFWNEkUTCSSMECm2D9XkSbo3pJbgTPNRydHjiiO/D+Q1qMvRF4mEVh+Nu8YdfZJKgXzK5h35Fi7T8=;mKpquV3cGvMSWPfVM1hNMg=="
+secured: "pHll3N1rpjAeK1Up9XUBINlL5NTdzLgwR4uw9OuEjEkt+x5Ulu+YZ5v9ZqaSYiO2ZlnL0taxsJOuxobIBodnZ1wyYnPPC7VaWZUM/+ZO2bcnsRMFQtXlD6tcuJDHl+sNcVbnuOYQOcSZiB4QYla1ZI3Uto4q9W9ZW16Q6AqpDUcFseIRw1RjCTHaVkGR3m1V5RCAfX34BsCMf723EuuKBuuZWNUftzGsoepYJBL7cKqjFEEMOdHwfVNO8GbcBejkzPvVn2z6PWmxiFLX2c+g+vV3pZnGc1DZPy8U1Z9nJbiNGvEO25Hn65ij4WgwM/EEaEFo7j6wBZ4hlXdsA+AShQlMYKEoNznTJ/cdY1iTq/M=;Pcg1O15rxVBiHARYLKwcKQ=="
 ---
 

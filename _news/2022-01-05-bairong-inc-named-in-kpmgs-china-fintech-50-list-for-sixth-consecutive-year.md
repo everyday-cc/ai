@@ -120,34 +120,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "Beyond COVID: Biotech And Health Care Trends To Watch In 2022"
-    excerpt: "The pandemic drew unprecedented investment to the health sector, but the industry’s momentum really comes from tech advances and regulatory changes, insiders say."
-    publishedDateTime: 2022-01-04T13:30:00Z
-    webUrl: "https://news.crunchbase.com/news/covid-biotech-health-care-trends-forecast-2022/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://2utfff4d3dkt3biit53nsvep-wpengine.netdna-ssl.com/wp-content/uploads/2021/04/cybersecurityreport-newsbutton-copy-scaled.jpg"
-        width: 2560
-        height: 2560
-        isCached: true
-  - title: "Fintech Led VC Investment Last Year. Here’s What To Look For In 2022"
-    excerpt: "Financial services was the leading sector for venture investment in 2021 with $134 billion invested, marking a whopping 177 percent year-over-year growth. That compares with overall global venture capital investment,"
-    publishedDateTime: 2022-01-04T13:30:00Z
-    webUrl: "https://news.crunchbase.com/news/fintech-startup-vc-forecast-2022/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 24
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Forecast_digest-2.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "2022: The Rise and Rise of Fintech"
     excerpt: "In the past couple of years, along with the rest of the world, India witnessed tectonic shifts in the way it made transactions and did business. While the pandemic raged across geographies, physical exchanges and social interactions had to take a back seat and social distancing became the norm."
     publishedDateTime: 2022-01-05T09:12:00Z
