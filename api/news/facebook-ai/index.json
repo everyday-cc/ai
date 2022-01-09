@@ -308,17 +308,17 @@
       "title": "What Happens When an AI Knows How You Feel?",
       "excerpt": "Technology used to only deliver our messages. Now it wants to write them for us by understanding our emotions.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/artificial-emotional-intelligence",
-      "originalUrl": "https://www.wired.co.uk/article/artificial-emotional-intelligence",
+      "webUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
+      "originalUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.co.uk/photos/61a8a600bd53d4f6291929d3/master/w_1600%2Cc_limit/1822-WIRED-02.jpg",
-          "width": 1600,
-          "height": 2182,
+          "url": "https://media.wired.com/photos/61bc7f6c70540627801a5b48/master/pass/Business-AI-Emotions-1290287917-648538841-2.jpg",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -326,14 +326,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.wired.com/story/artificial-emotional-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-emotional-intelligence/amp",
       "publishedDateTime": "2021-12-29T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

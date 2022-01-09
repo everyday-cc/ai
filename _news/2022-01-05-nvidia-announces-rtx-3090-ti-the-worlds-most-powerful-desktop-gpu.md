@@ -69,22 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "NVIDIA Announces RTX 3050 GPU With Ray Tracing And DLSS For Budget PC Gamers"
-    excerpt: "During NVIDIA’s CES 2022 showcase on Tuesday, the company announced a new entry-level GPU, the GeForce RTX 3050, bringing the performance and efficiency"
-    publishedDateTime: 2022-01-05T04:49:00Z
-    webUrl: "https://www.techworm.net/2022/01/nvidia-rtx-3050-gpu.html"
-    ampWebUrl: "https://www.techworm.net/2022/01/nvidia-rtx-3050-gpu.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/01/nvidia-rtx-3050-gpu.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 56
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/01/RTX-3050.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Nvidia RTX 3090 Ti is the GPU we all desire, but we really need the RTX 3050"
     excerpt: "All of the major brands released a flurry of powerful new gaming laptops as soon as Nvidia introduced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards. If Nvidia can keep its promises, 2022 is shaping up to be a fantastic year for laptop gaming."
     publishedDateTime: 2022-01-08T21:20:00Z

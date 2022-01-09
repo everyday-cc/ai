@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "First-of-its-kind artificial intelligence - a helping hand for commodities trading"
-    excerpt: "Revenue.AI, a Dutch company, is optimizing the way traders crunch big data with the release of its newest augmented intelligenc"
-    publishedDateTime: 2022-01-05T04:42:00Z
-    webUrl: "https://menafn.com/1103488896/First-of-its-kind-artificial-intelligence-a-helping-hand-for-commodities-trading"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?853851"
-        width: 378
-        height: 250
-        isCached: true
 
 secured: "AiEXBDUTRdG+IwtIWphJRyKdVz+9HXCajtl5FBf/cwpEcYgBx1Np+mHWG4zTFPo80YZF1KHWjN8is5jOvU+9hZhFZt9LMwppjINoc4Q3+yb+SXkOoN2SKFTZSjO/1cNXwS1mBtC2n2Bofrp18avthzYQ1OgRy6Z8DSXkzJTRhboVnz4pIdanOjQBAFrDzbeVc0VHSTML2s1jIw09b9GeXvvRkLJAA30hiQEslEpiZAM8GI6Z+wpwe7dmgQCUqXzMbs2Fm1TQTL87O5Y0Ysxyx74hyzjCMolI2xNeUTSRl3AXfKcEPdM9nc0BkzMsuCrAaPiX4qhUv6FReTiF28m0DcvBy/yLXhjxhp6dxBkzgI0=;zpwz7b+0v38uA+AtTyT++A=="
 ---

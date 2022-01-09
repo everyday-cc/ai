@@ -44,15 +44,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
-    excerpt: "Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year."
-    publishedDateTime: 2022-01-05T03:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/bairong-inc-named-in-kpmg-s-china-fintech-50-list-for-sixth-consecutive-year-1031077961"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Fintech On Benzinga: 2022 Will See The Next Milestone In Fintech"
     excerpt: "Nima Ghamsari, Co-Founder and CEO of Blend Labs (NYSE: BLND), presented on a sponsored panel at Digital Mortgage 2021 – a virtual conference a couple of weeks ago."
     publishedDateTime: 2022-01-05T20:44:00Z

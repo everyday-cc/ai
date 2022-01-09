@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
 type: article
 quality: 83
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/01/DSC00697.0.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "NVIDIA Announces RTX 3050 GPU With Ray Tracing And DLSS For Budget PC Gamers"
-    excerpt: "During NVIDIA’s CES 2022 showcase on Tuesday, the company announced a new entry-level GPU, the GeForce RTX 3050, bringing the performance and efficiency"
-    publishedDateTime: 2022-01-05T04:49:00Z
-    webUrl: "https://www.techworm.net/2022/01/nvidia-rtx-3050-gpu.html"
-    ampWebUrl: "https://www.techworm.net/2022/01/nvidia-rtx-3050-gpu.html/amp"
-    cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/01/nvidia-rtx-3050-gpu.html/amp"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 56
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/01/RTX-3050.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Nvidia Announces RTX 3090 Ti, The World’s Most Powerful Desktop GPU"
     excerpt: "The new king of desktop GPUs has arrived to dethrone the RTX 3090. Nvidia's newly announced RTX 3090 Ti is now the most powerful desktop GPU to date and"

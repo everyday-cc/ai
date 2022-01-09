@@ -1,28 +1,28 @@
 ---
 category: news
 title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
-excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange,"
-publishedDateTime: 2022-01-07T12:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html"
+excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud."
+publishedDateTime: 2022-01-07T13:08:00Z
+originalUrl: "https://apnews.com/press-release/PRNewswire/technology-business-lifestyle-weather-9e3472f9b0d14e0d1ba48cfa3a2147cc"
+webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-lifestyle-weather-9e3472f9b0d14e0d1ba48cfa3a2147cc"
 type: article
 quality: 67
 heat: 77
 published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - AWS AI
-  - AI
   - IBM AI
+  - AI
+  - AWS AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 305
         isCached: true
 
-secured: "UvEShSoksB3o3jtoy4CKXJQByOTs2S/vnLABMepkgIfJh82ESZLGg0ksAGvoAxHVZNVqNj7knW1bPTb+3ME1e8LkUxMVFHJuQOtcUI3Rw+n7W+FeM4IOXYqEqxS/96iGxZbIbd1pLIOrnbYoakdV6Q+xpN17GXrEyxseIBLa5ix1MGcHhUaAPV+HupV9XqH8rIov9WdLqkkhrW9eynvY5Q4/wSXDvPOKQKwJO4LsjP3ZOd5MR8mP33p7iZnLWm48zsGrEKYL+oU3A940WQ47V4zfFD92aWsHkDmessS8wZIr7TcPajSXPtWY0rQKvoRyGch6aTfqooOK32AhgXjJ+b+6QriCyez3dFqiNBUcFyE=;Z7J3PawcRUGtDkMewOo9oA=="
+secured: "295N15Cda0KDGM5RwrXPbX4Qr+D2zMTQjS96WZtDByYTecyVmT3WEjKo9888rhkx25Xia9bYZ7TOR43E3WHkoZcelqurSoK8QtwiA1bM9eFE5Ghc5p9AOPhILz0MaQ+a7hiCjAdn3wLF2RQjUG6+KwHXc+J+7uinDmhknT0mNH3LmNNXBhWLJ0h3ohw1A0XpNzZJNbLSNQeXFzWrPw5QB3MkfQC6FWHOJBqkhuxKwenSR3d4kHy5/7hckRnRsadbQA0fFlH621lGPeKxZwvtRB34VfkfXmzqCL2AYG5yOamzscxcA0FcEuS5pIlpdCFTLExAho0t6asJUGQ1r1ccMTNT/lHEdYu+aATMlZis4mQ=;FZKgqyE+tKEhE2mYG9HZCg=="
 ---
 

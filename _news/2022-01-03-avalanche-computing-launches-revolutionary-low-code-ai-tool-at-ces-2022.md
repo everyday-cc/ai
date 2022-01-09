@@ -2,18 +2,14 @@
 category: news
 title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
 excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
-publishedDateTime: 2022-01-03T15:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
-webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
+publishedDateTime: 2022-01-03T14:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -25,6 +21,6 @@ images:
     height: 225
     isCached: true
 
-secured: "kOgejO/LTqHRjPFDSAECDNQzd5u+CgnW0pwx9Tde1l10GMQ2SVjZ6Br8xP0ZnUQuZqIZh8unXKZomErhVw9gWF0/Bc+FF9sZ8qCabwjA3iXLe6Scf6vlAs77jr25nPpi+suHoXUrA8p4yUWQ6/6Yb67NQT17ukcdPBq6ZIxClOtVKooIQOj1wFTf+lloPt1kCWpu3xUz7aS+fDHuU6lvrcOxgWXXunN5lKLwljpVfBzGnpBNM/y+BJ6RNg3TEndp+PiG0w5a3gYxjvgANRvyJQgEoO9E4IPeO09ekuklQzt/doPZHW9+RSlxqxld52XaasKWms2DdCBwghG8eWve+DsVFJT5K7NXiML4pEcu50E=;fbzPFDK+/CHsSPzObhY6Ng=="
+secured: "5/UYfJ84+tH19lnbmt/OpJB0tXx4x2yguIDpVS6f74PiHdDwTExMKH6B+ld74/byGQ6ozVndp6oSrIQpqRAtGp8/Om2F2lRR9PvdpjazEotSJwpoJsWCwBydV0gNUA2meppPbt0ZZgTdLD6uDp5el8hf3JCkjUdOwqSwzjcdLalE1wFwGcOQSSsGyC+ny1fWSe6n8/qkrbcC5Nl5LACVmigLEGK48ep5wxJxcfIZK8+ID2x5P9sC6debOL+17+n062894NfxRGihJACEnu8FTz9/fHepIvXaNUUPcuWWCiV7+6dASsQXSQ/FNSTVdVr+greyPZAc9XaSoPc5iLYPUBiJghxMtn66zVr9mWsf0nQ=;eyuQjU2XLN1TcK4csCgLMA=="
 ---
 

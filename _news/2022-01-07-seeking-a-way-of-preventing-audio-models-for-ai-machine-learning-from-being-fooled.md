@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/d49GFiVxggCLNzS4AbbZ4V-1200-80.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "First-of-its-kind artificial intelligence - a helping hand for commodities trading"
-    excerpt: "Revenue.AI, a Dutch company, is optimizing the way traders crunch big data with the release of its newest augmented intelligenc"
-    publishedDateTime: 2022-01-05T04:42:00Z
-    webUrl: "https://menafn.com/1103488896/First-of-its-kind-artificial-intelligence-a-helping-hand-for-commodities-trading"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 31
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?853851"
-        width: 378
-        height: 250
         isCached: true
 
 secured: "44jNEvedtRL9Xo/bAep2wBfjc7kCJNnlTIrNpbTH0Y4AxQzzamVRy2tPez4GlXM1bWO410XTfRr7IpDBYJkEO8/qiHPUJZc6F0blmHeRkoaSKYocpaYrWz0aBRcf8+jCgWW4NB1knA7PA9l4UbxTdhiXHKy9iX+UyhaytetyE2x1bGOVvs2aLWOlEW54pKAl0Y2ZhhGRWWkeCHFmX/PFZoJ/vFQhRMF6ZF9OR3gBIlYwc3dWgX7bKH5qgzCWnfbOfA2lYpQeYkyxAP2uuQAGM3c0zmjOvck8JSc0IAMawQVR90SJPNLwwHng6rbn9RUjofh54NtjNi7Hgk8lFxty/9theM74m1IYoMorgPZhR2o=;0uWk/XI5nhnW5Pk3hUs5AQ=="
