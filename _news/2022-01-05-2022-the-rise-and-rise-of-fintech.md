@@ -177,20 +177,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "Futuristic Predictions for the Fintech Industry by 2050"
-    excerpt: "What are the prospects for fintech in the long run? Some of our sources predict interplanetary payments and trillions going into decentralised finance"
-    publishedDateTime: 2022-01-04T09:00:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/futuristic-predictions-fintech-industry-2050"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/long-term-future-of-fintech.jpg.png?itok=grhrASz-"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Dvara E-Registry and Monexo Fintech announce new partnership"
     excerpt: "Dvara E-Registry has announced a new partnership with RBI licensed peer to peer digital lending marketplace Monexo Fintech Pvt"
     publishedDateTime: 2022-01-05T12:21:00Z

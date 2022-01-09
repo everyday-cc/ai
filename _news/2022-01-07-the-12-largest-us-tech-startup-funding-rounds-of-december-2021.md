@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 525
         isCached: true
-  - title: "Startup Funding: December 2021"
-    excerpt: "For December 2021, we take a look at 94 companies that collectively raised more than $5B. Eswin Technology raised CNY 2.5B (~$392.6M) in Series C financing led by China Internet Investment Fund and GoldStone Investment,"
-    publishedDateTime: 2022-01-04T08:01:00Z
-    webUrl: "https://semiengineering.com/startup-funding-december-2021/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 22
-    images:
-      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/AdobeStock_309524207-scaled.jpeg?fit=2560%2C1468&#038;ssl=1"
-        width: 2560
-        height: 1468
-        isCached: true
 
 secured: "5iAsMrGLTsjz/2LDdsDK4DnwAd8YxczA/aeJRs0kFo8ZN3nrZ2nNEYFmp2OZ6glQmCOQLbd8+gu5ixkPQLaafaik7lSF0yV2PMgniGTSBVMMUVmr8163OjeGo24zR4qOES8dnCeARYWtYEGC4zfu5Yny5md8kyriWtwksJZ5gxXC6k9C1tqxiwJE9vxT0n6sScjoRwZwCmGkLdDkGq21z6WyeYny5shrccvMt+2Y9h5v+KA0gXqo/fdGtQKIvkwQvbR3oZN+pM70vIYsF/z/ItvK9enBcuE1IleZxM8GqgUheFSk7cyyiAOvVWEdnUDN3f94K2YpXOXkoAZTBKE3DUv8qRnmfJuENntdkZ62pP8=;So2i9nF374QP+rGOh8LIGQ=="
 ---

@@ -241,6 +241,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Nvidia RTX 3090 Ti is the GPU we all desire, but we really need the RTX 3050"
+    excerpt: "All of the major brands released a flurry of powerful new gaming laptops as soon as Nvidia introduced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards. If Nvidia can keep its promises, 2022 is shaping up to be a fantastic year for laptop gaming."
+    publishedDateTime: 2022-01-08T21:20:00Z
+    webUrl: "https://bestgamingpro.com/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-desire-but-we-really-need-the-rtx-3050/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 34
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/The-Nvidia-RTX-3090-Ti-is-the-GPU-we-all-want-–-but-its-the-RTX-3050-that-we-need.png"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Nvidia announces RTX 3050 graphics card for desktops"
     excerpt: "On the first day of CES 2022, Nvidia announced the RTX 3050 for desktops. Although Nvidia has already released the 3050 for laptop devices, the desktop versions are set to be released on January 27th."
     publishedDateTime: 2022-01-05T15:51:00Z

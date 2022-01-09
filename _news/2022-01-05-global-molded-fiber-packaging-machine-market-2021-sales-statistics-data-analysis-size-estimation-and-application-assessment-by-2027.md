@@ -58,6 +58,20 @@ related:
         width: 445
         height: 250
         isCached: true
+  - title: "Speech-to-text API Market Share Forecast, Growth Data by 2022-2025 | Size Analysis by Top Regions, Sales Revenue and Regional Segments Analysis"
+    excerpt: "Global “Speech-to-text API Market” Research Report showing qualitative insights on business developments, presents,"
+    publishedDateTime: 2022-01-07T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-share-forecast-growth-data-by-2022-2025-size-analysis-by-top-regions-sales-revenue-and-regional-segments-analysis-2022-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech Recognition Market Segments, Leading Player, Application and Forecast Analysis 2026"
     excerpt: "Speech Recognition Market Growth Analysis PORTLAND, OREGON, UNITED STATES, January 5, 2022 /EINPresswire.com / -- Allied Market Research"
     publishedDateTime: 2022-01-05T08:43:00Z

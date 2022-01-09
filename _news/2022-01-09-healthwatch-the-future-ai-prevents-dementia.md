@@ -8,8 +8,8 @@ webUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-pre
 ampWebUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
 cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2020/04/HealthWatch.jpg?w=1280"
@@ -41,6 +42,6 @@ related:
         height: 551
         isCached: true
 
-secured: "koa8OamesDDpKY2zgc7aJQ4Z9TqXK51K3N0X9CRntHsFuJLOyRhAbUsgO/PhgJpGqZwGGsSIaPiXhcvdrpOPeINmhNxct0azfkeji91Z1lhJKysd7j6GlanYv4xShAv+CkHacuFqiiMFU6xUaeKPAHoU8VERFqLIK4LTbFS422xyyrWZ6/fE7FmMwzEqTQS1fBdAt6ZTvCvcLRGUf660h7kjPB/+kXKKLNJZELPY9ojhA7YqOl09m+BFFMfFUe4IXePBIcjcTyTOJZIGFqq+iJioKkGrxFmG1IfopquefYs0DgdZe0SnZmTE+E/GtAt5JqSqwP5fgQq+lz0fZxEPRCz96rytyjTdPIfaZg3v/ro=;8PiW2TJPJatzJjKUBn+eig=="
+secured: "+viZVkL+aSDlBpdnu7CZXkD1tfmWc9QhK7Nxzx9lfW5KA3g8GI8SROHvFZp2P7c3CrpxixMPn1DF07bDqrLN+FezKBYAu/ZPBbFxGg41JXvqmJRi6sixeYsxJR4gStyU662jbSbWqP08eRUudL/7nWxfeW2IbZ+06OJl2hNFoEPzLtOxUlI7kY/k97/4B37RI/SsYRw5qh+IpUyxqNzdG6kCuUdFsTZUhmxkk8xc1t1gTnRvbOyccZCctLjNwE+4HO9u4UzEiWgevC5ZGBEPkAAw80rPr+oTF/c57N9YN2AHdJ+63D2ufJrlTHwUXKiNdPGXndpNFyXkXpBKoXYlYtidnDcwlWP8XPcE8O/DH1+FnVy/eGp7O+Y0llwPhjTbws5V7gA/x9waKJ1zIaGe6bVq5+Gsw68xuKp/RhsHqFnzJPVwueW/FTi3FWvrjRixPUCvC3jwipmpmjafgqzU7GSmSEY8F49J2TjsuntHH0mLd7et5Q4Bh2NmV4h9snro2m5S6uIwVXyR2kzrwSIenQ==;L3r1XXTacj8jrRv7aVtAtA=="
 ---
 

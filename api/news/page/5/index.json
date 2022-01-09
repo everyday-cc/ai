@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-05-john-deeres-self-driving-tractor-arrives-later-this-fall.md",
+      "title": "John Deere’s self-driving tractor arrives later this fall",
+      "excerpt": "The 8R tractor has been in select customers’ hands for “a few seasons” now, according to John Deere. After all, like any kind of autonomous machinery, a self-driving tractor isn’t the kind of thing you just unleash on the world without extensive testing.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/",
+      "originalUrl": "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 314,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/john-deere-2.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/john-deeres-self-driving-tractor-arrives-later-this-fall/amp/",
+      "publishedDateTime": "2022-01-04T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-intel-overfloweth-with-12th-gen-cpus-arc-discrete-gpu-at-ces-2022.md",
       "title": "Intel overfloweth with 12th-gen CPUs, Arc discrete GPU at CES 2022",
       "excerpt": "The company announced roughly 50 CPUs as well as its long-awaited Arc discrete graphics chip. Intel dropped an Acme anvil of 12th-generation ( Alder Lake) processors on us at CES 2022: That's 22 for PCs,",
@@ -105,7 +157,7 @@
       "originalUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -355,7 +407,7 @@
       "originalUrl": "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1118,7 +1170,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1149,57 +1201,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-the-danger-of-leaving-weather-prediction-to-ai.md",
-      "title": "The Danger of Leaving Weather Prediction to AI",
-      "excerpt": "When it comes to forecasting the elements, many seem ready to welcome the machine. But humans still outperform the algorithms—especially in bad conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/",
-      "originalUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61bcfdf760b9d5dd7134793f/master/pass/The-Danger-of-Leaving-Weather-Prediction-to-AI.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/weather-forecasting-artifical-intelligence/amp",
-      "publishedDateTime": "2022-01-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

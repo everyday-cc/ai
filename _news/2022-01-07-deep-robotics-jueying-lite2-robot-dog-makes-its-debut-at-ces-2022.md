@@ -130,18 +130,18 @@ related:
         height: 308
         isCached: true
   - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
+    excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
+    publishedDateTime: 2022-01-05T13:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 21
     images:
-      - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?p=facebook"
-        width: 5157
-        height: 2698
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
+        width: 1154
+        height: 606
         isCached: true
 
 secured: "gBKGl3nTqRoLiqku2qecCT9MlVViwvRT5K64v0AZNQy5YJKHWv3vdQmqqbthEzlUm8+LCspCEJ0jBBjdUlvfKyrmYvvxEGehTCIW7Qusfzzw4Lyjiq0R/2pJ8ZYwQXNZVC6rXbH/35d4ulgJFWvGuWP+JzjWRX55ozcGwDx1Gj7UmO5huhgTd2ukAK7f3AQRhMsCDaiwDwO8yfETwkbh4oYiDDkiH5k0biZ21TTl8jHAGBNf66bQKqqpDaLh5L6OxoKAmVnM83PsAA9TurFziD8TXYKccUQ4iJ0MQbXhAcTcuxMk/GfC7th1l0/CjnnQbTJc/ZMxCMkrVOORgbNRd/QuXC06bNzV/M1GReGgwdU=;Z6hrn2g0us6TFfLmTRmDWg=="

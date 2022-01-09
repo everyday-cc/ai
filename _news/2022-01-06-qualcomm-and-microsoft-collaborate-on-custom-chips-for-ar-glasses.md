@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/qualcomm-and-microso
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
 type: article
 quality: 91
-heat: 181
+heat: 171
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud"
-    excerpt: "In June 2021, Microsoft and AT&T reached a major milestone when we announced an industry-first collaboration to adopt Microsoft cloud technology for AT&T’s 5G core network workloads. Since then, we have had requests from many operators, partners, and customers to share more details. This blog is intended"
-    publishedDateTime: 2022-01-04T08:00:08Z
-    webUrl: "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d6f2d867-07b3-4f08-94bf-04e32abac5cf.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Sysdig Adds Cloud Security for Microsoft Azure Cloud"
     excerpt: "Sysdig, Inc. announced today cloud security for Microsoft Azure Cloud with configuration risk management and threat detection that is built on Sysdig's runtime security technology. The Sysdig platform brings new continuous cloud security"
     publishedDateTime: 2022-01-05T16:12:00Z

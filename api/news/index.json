@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-09-7-ways-the-technology-sector-could-support-global-society-in-2022.md",
+      "title": "7 ways the technology sector could support global society in 2022",
+      "excerpt": "Learn more Some of the excesses of 2021 have shown us how digital technologies can undermine what philosophers call future “human flourishing.” A lot has been written on this topic in the first few days of the new year,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1148773616.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
+      "publishedDateTime": "2022-01-08T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-nvidia-pursuing-multi-chip-module-architecture-to-meet-evolving-data-needs.md",
       "title": "Nvidia pursuing multi chip module architecture to meet evolving data needs",
       "excerpt": "Graphics processing units (GPUs) have become one of the primary resources supporting DL due to their inherent capabilities and optimizations. The COPA-GPU is based on the",
@@ -62,7 +114,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -114,7 +166,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 309,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -1119,7 +1171,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/07/farmsense-agtech-machine-learning-crops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1161,59 +1213,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-the-best-robot-vacuums-of-ces-2022.md",
-      "title": "The best robot vacuums of CES 2022",
-      "excerpt": "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
-      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp",
-      "publishedDateTime": "2022-01-07T07:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

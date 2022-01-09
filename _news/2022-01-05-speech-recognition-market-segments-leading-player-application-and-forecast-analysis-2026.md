@@ -67,6 +67,20 @@ related:
         width: 445
         height: 250
         isCached: true
+  - title: "Speech-to-text API Market Share Forecast, Growth Data by 2022-2025 | Size Analysis by Top Regions, Sales Revenue and Regional Segments Analysis"
+    excerpt: "Global “Speech-to-text API Market” Research Report showing qualitative insights on business developments, presents,"
+    publishedDateTime: 2022-01-07T09:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-share-forecast-growth-data-by-2022-2025-size-analysis-by-top-regions-sales-revenue-and-regional-segments-analysis-2022-01-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "F/aviERAhG7vpNXA4BGLo6aqegcl7dOs4advu85eoRO9as1RiQy6Q/LID0g/kbsqut6bClezxnbxEDX8gh4b59sl43pz2dgEMh06NvZuxztjX1Kgt2nj5K7OyH8OXcfaKl6D/5IMo9fgbnq8r/d2tjqKJraYFszlI6pLNO0IMxK8D94dvc6CXbz2S4nxnt5avWklWus/YLQ7CnNaVcqPxHtHNWF5YlMxmAUr9XRpNIiWZRiT/rEifduxJ3QKlh9ar8dy+50Gi5qv3T+NUSqJp/Nak2bUVNsoOR5KrGutks1orD/sFoPA/xI/tW0Ceh95riPeU3Mzp0jQOg9h0qne55hxBYw4tfH2yhe0DRn44AM=;fb0OjiydSeMsrpyIRsnyQA=="
 ---

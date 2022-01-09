@@ -1,22 +1,28 @@
 ---
 category: news
-title: "NVIDIA debuts low-cost RTX 3050, new laptop GPUs, and more at CES 2022"
-excerpt: "NVIDIA has announced a couple of more additions to its GPU lineup at CES 2022. The newly announced lineup includes the GeForce RTX 3050 GPU, the most affordable GPU of the RTX 30 lineup, and a couple of more GPUs for laptops."
-publishedDateTime: 2022-01-05T12:11:00Z
-originalUrl: "https://pocketnow.com/nvidia-debuts-low-cost-rtx-3050-new-laptop-gpus-and-more-ces-2022"
-webUrl: "https://pocketnow.com/nvidia-debuts-low-cost-rtx-3050-new-laptop-gpus-and-more-ces-2022"
+title: "The Nvidia RTX 3090 Ti is the GPU we all desire, but we really need the RTX 3050"
+excerpt: "All of the major brands released a flurry of powerful new gaming laptops as soon as Nvidia introduced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards. If Nvidia can keep its promises, 2022 is shaping up to be a fantastic year for laptop gaming."
+publishedDateTime: 2022-01-08T21:20:00Z
+originalUrl: "https://bestgamingpro.com/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-desire-but-we-really-need-the-rtx-3050/"
+webUrl: "https://bestgamingpro.com/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-desire-but-we-really-need-the-rtx-3050/"
 type: article
-quality: 19
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: pocketnow.com
-  domain: pocketnow.com
+  name: bestgamingpro
+  domain: bestgamingpro.com
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/The-Nvidia-RTX-3090-Ti-is-the-GPU-we-all-want-–-but-its-the-RTX-3050-that-we-need.png"
+    width: 600
+    height: 375
+    isCached: true
 
 related:
   - title: "NVIDIA RTX 3090 Ti and RTX 3050 revealed to quench your GPU thirst"
@@ -250,20 +256,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The Nvidia RTX 3090 Ti is the GPU we all desire, but we really need the RTX 3050"
-    excerpt: "All of the major brands released a flurry of powerful new gaming laptops as soon as Nvidia introduced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards. If Nvidia can keep its promises, 2022 is shaping up to be a fantastic year for laptop gaming."
-    publishedDateTime: 2022-01-08T21:20:00Z
-    webUrl: "https://bestgamingpro.com/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-desire-but-we-really-need-the-rtx-3050/"
-    type: article
-    provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 34
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/The-Nvidia-RTX-3090-Ti-is-the-GPU-we-all-want-–-but-its-the-RTX-3050-that-we-need.png"
-        width: 600
-        height: 375
-        isCached: true
   - title: "Nvidia announces RTX 3050 graphics card for desktops"
     excerpt: "On the first day of CES 2022, Nvidia announced the RTX 3050 for desktops. Although Nvidia has already released the 3050 for laptop devices, the desktop versions are set to be released on January 27th."
     publishedDateTime: 2022-01-05T15:51:00Z
@@ -278,7 +270,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA debuts low-cost RTX 3050, new laptop GPUs, and more at CES 2022"
+    excerpt: "NVIDIA has announced a couple of more additions to its GPU lineup at CES 2022. The newly announced lineup includes the GeForce RTX 3050 GPU, the most affordable GPU of the RTX 30 lineup, and a couple of more GPUs for laptops."
+    publishedDateTime: 2022-01-05T12:11:00Z
+    webUrl: "https://pocketnow.com/nvidia-debuts-low-cost-rtx-3050-new-laptop-gpus-and-more-ces-2022"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 19
 
-secured: "d5FZsx5g0c+2N/R+YvY/0NJEMAVNvQRNCNpJl9YtYmc+xSkkx4hI3v7aw5gyMVgvVcfB7MrlD8+J4qQ7Mx7QQnvVwk9WtzZUj5wsTu3TUU78s/9Z0sA9b2Yfi16ND7bgAVjU5ehv9VCM7f514akA1y9luT6S8jly3Wd4L/pYM0gkl55GsU8/yL7lBHusQUh9PJRCojfFgmY6hlzbEPHUm4aL0WNRlALgwCla12BG+SITlW+dkLkbfpAyaETvaR3l+NMtwWSroH2FzxCQ2vmtDZL3NU2yGN27ClRsmv7Rsj7O1bbxCyJT+LGqCdvcV4FJBrlwkjHGQ0+kQXlIhfkfBUjMnL328pjchCJZydl1QLI=;IHChXCuB6BS8vVw1eXf1xw=="
+secured: "jCcue2Offfonw3RMIha2dwLIgiANCSA5sr0iolGFYlAFLH6/NJeSjG1q5mgH+3gdBpBXfYf6ST7O/JUgtRxtdRd8YsFvz8BPsQOEvqVvqyCyi7rfL8lTvAses8d2u0IyEXJS+YOlsc6U89L5UaWFQ8+TSBeafIRhfDvSMQTugxa0hKtqw4dK1LrivGA/ksfINWdMr86Q0JaooW7Zr/8ft4/GEXYwJ4y1GCu5xqHE6ufoFUZyDTnKWZ5I8YZAdvPuOxCUkKkeH6kCYT/Xc2I4quUZ9CqXWGE74PpKI5K8v1m0J4am+xN2oGFqcOxWHk7OFB2GMc3dmZXFhRFjfBdCJlOBuTDPpSfabsUzudXfRx4=;W8oVpF39vMMQNOWEo+B9PQ=="
 ---
 

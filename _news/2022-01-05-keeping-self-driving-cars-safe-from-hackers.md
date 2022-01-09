@@ -43,20 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Toyota to launch self-driving-capable operating system, report says"
-    excerpt: "The system, which would be capable of handling advanced operations such as autonomous driving, will compete against platforms from VW and Daimler."
-    publishedDateTime: 2022-01-04T08:32:00Z
-    webUrl: "https://europe.autonews.com/automakers/toyota-launch-self-driving-capable-operating-system-report-says"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/800x600/public/Toyota%20automated%20behind%20wheel%20web_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Friday (Jan 7) in an unprecedented high-speed ma"
     publishedDateTime: 2022-01-08T20:08:00Z

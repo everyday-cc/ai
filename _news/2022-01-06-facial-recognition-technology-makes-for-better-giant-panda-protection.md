@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "High Court issues notice to Telangana government on demand to stop using facial recognition"
-    excerpt: "The use of facial recognition in Telangana has been challenged by a social activist from Hyderabad in a court petition."
-    publishedDateTime: 2022-01-04T08:03:00Z
-    webUrl: "https://www.medianama.com/2022/01/223-facial-recognition-petition-telangana/"
-    type: article
-    provider:
-      name: MediaNama
-      domain: medianama.com
-    quality: 29
-    images:
-      - url: "https://www.medianama.com/wp-content/uploads/2021/11/face-detection-g4b2d39e33_1280.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Ports in US and Hong Kong add contactless ‘self-service immigration’ channels using facial recognition"
     excerpt: "The rollout comes as Hong Kong also expands its face recognition “non-touch e-channel” service for residents re-entering the territory to entry control points at Kai Tak Cruise Terminal. The New Orleans service has been introduced by US Customs and Border Protection (CBP) and Carnival Cruise Line and uses facial biometric technology that “verifies the traveller’s identity within two seconds and is more than 98% accurate,"
     publishedDateTime: 2022-01-06T09:28:00Z

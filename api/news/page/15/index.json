@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-12-23-exploring-ai-ethics-and-accountability.md",
+      "title": "Exploring AI ethics and accountability",
+      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.politico.eu/wp-content/uploads/2018/02/GettyImages-679721306-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
+      "publishedDateTime": "2021-12-22T09:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "POLITICO",
+        "domain": "politico.eu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-10-ai-predictions-for-2022.md",
       "title": "10 AI Predictions For 2022",
       "excerpt": "Language AI will take center stage, with more startups getting funded in NLP than in any other category of AI. Language is humanity’s most important invention. More than any other attribute, it is the defining hallmark of our species’ intelligence.",
@@ -1111,40 +1155,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-advent-international-acquires-majority-stake-in-encora-a-leading-provider-of-digital-engineering-services.md",
-      "title": "Advent International Acquires Majority Stake in Encora, a Leading Provider of Digital Engineering Services",
-      "excerpt": "Encora, a global digital engineering services company specializing in software product development services for fast-growing enterprises and digitally-native companies and Advent International (\"Advent\"),",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswit.com/en/LRbT",
-      "originalUrl": "https://www.newswit.com/en/LRbT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "academy",
-        "domain": "newswit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

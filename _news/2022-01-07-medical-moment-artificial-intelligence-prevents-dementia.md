@@ -37,7 +37,7 @@ related:
     provider:
       name: We Are Green Bay
       domain: wearegreenbay.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2020/04/HealthWatch.jpg?w=1280"
         width: 1280

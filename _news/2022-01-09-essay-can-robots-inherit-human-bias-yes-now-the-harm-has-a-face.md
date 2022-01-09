@@ -8,8 +8,8 @@ webUrl: "https://www.houstonchronicle.com/opinion/editorials/article/Essay-Can-r
 ampWebUrl: "https://www.houstonchronicle.com/opinion/editorials/amp/Essay-Can-robots-inherit-human-bias-Yes-Now-16759778.php"
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/opinion/editorials/amp/Essay-Can-robots-inherit-human-bias-Yes-Now-16759778.php"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://s.hdnux.com/photos/01/23/37/66/21888419/3/ratio3x2_700.jpg"

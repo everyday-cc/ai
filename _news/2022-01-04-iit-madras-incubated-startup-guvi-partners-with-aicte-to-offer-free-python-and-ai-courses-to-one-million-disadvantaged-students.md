@@ -42,15 +42,6 @@ related:
         width: 558
         height: 372
         isCached: true
-  - title: "IIT Madras Startup GUVI, AICTE To Offer Free Python, AI Courses To Disadvantaged Students"
-    excerpt: "Madras, GUVI has collaborated with the All India Council for Technical Education (AICTE) to offer free Python and AI upskilling courses to socially and economically disadvantaged students."
-    publishedDateTime: 2022-01-04T08:51:00Z
-    webUrl: "https://www.ndtv.com/education/iit-madras-startup-guvi-aicte-offer-free-python-ai-courses-disadvantaged-students"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 8
 
 secured: "/8GHM/Y0R+oha0HFfx0JdIm5FvCay+bILS0N9j+8HcaGiLdp0L6AMMHAHzcUGxVu8IuDmOmONIm3rSkzGOYdwVhRmbpY6IDK2qCpi6n+ib7Plief5KTxhYQo/TQjyOCaFR9VpT5UPFPbb2e/OQlpvHxPUapZ7gulWwUw9Rxa9wPObOVWZz6QvqnSOigchp6hM2yXSSg0ZU5vdN4biDIQ58xqM/jA+/rAW3ams9eBPBz2sHymOWr5/3dfsBFME7gz+6/KTuj0uNH4oM8CW8crriu8y8792dtiSm2p2Bv7ovWU2JLP2FkO2dgvQHm9yzCJb0uMgaGj9EynmsSUdUMhNVT50+4Anr9FUJGikP8vxYw=;mkZ/g7mSDbe8ZYT+0c7CCw=="
 ---

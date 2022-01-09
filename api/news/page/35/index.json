@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-12-08-how-ai-powered-banking-is-impacting-revenue.md",
+      "title": "How AI powered banking is impacting revenue",
+      "excerpt": "Artificial intelligence (AI) continues to entrench itself in financial institution infrastructure, and many credit unions are turning to AI to solve call center and overall member communication challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/how-ai-powered-banking-is-impacting-revenue.html",
+      "originalUrl": "https://www.cuinsight.com/how-ai-powered-banking-is-impacting-revenue.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cuinsight.com/wp-content/uploads/2021/12/bigstock-Artificial-Intelligence-Ai-Bu-435740897.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T23:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Credit Union Insight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-clearview-ai-to-get-facial-recognition-patent-should-we-be-scared.md",
       "title": "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?",
       "excerpt": "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology.",
@@ -1147,57 +1190,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer.md",
-      "title": "Get more done with lifetime access to AI-powered music and a Pomodoro timer",
-      "excerpt": "There are a lot of ways to increase your productivity, but few of them will be as effortless and enjoyable as simply listening to music that has been optimized by AI for getting work done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
-      "originalUrl": "https://www.techrepublic.com/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2020/11/20/0261a7b9-aa96-4169-89bb-f07e45ad2aa8/resize/1200x/199e2d794b65e2788f7eefa49082fb24/istock-1181026897.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/get-more-done-with-lifetime-access-to-ai-powered-music-and-a-pomodoro-timer/",
-      "publishedDateTime": "2021-12-07T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

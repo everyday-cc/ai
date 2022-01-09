@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Improving the cloud for telcos: Updates of Microsoft’s acquisition of AT&T’s Network Cloud"
-    excerpt: "In June 2021, Microsoft and AT&T reached a major milestone when we announced an industry-first collaboration to adopt Microsoft cloud technology for AT&T’s 5G core network workloads. Since then, we have had requests from many operators, partners, and customers to share more details. This blog is intended"
-    publishedDateTime: 2022-01-04T08:00:08Z
-    webUrl: "https://azure.microsoft.com/blog/improving-the-cloud-for-telcos-updates-of-microsoft-s-acquisition-of-att-s-network-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 77
-    images:
-      - url: "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d6f2d867-07b3-4f08-94bf-04e32abac5cf.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Qualcomm Introduces New Snapdragon Ride Vision System And New Partnerships At CES 2022"
     excerpt: "Ranked Industry Analyst Patrick Moorhead covers Qualcomm's announcements of many new and extending automotive partnerships and a new addition to the Snapdragon Ride Platform, the Snapdragon Ride Vision System."
     publishedDateTime: 2022-01-06T17:14:00Z
