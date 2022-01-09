@@ -2,59 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2021-12-18-9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-aiml-powering-metaverse-and-more.md",
-      "title": "9 Semiconductor Themes For 2022: Automotive Chip Shortage, Strong Cloud Demand, AI/ML Powering Metaverse And More",
-      "excerpt": "Recent supply chain conditions set up the semiconductor sector for substantial revenue in 2022 with much of the growth coming from substantial restocking by customers, according to an analyst at Morgan Stanley.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-ai-ml-powering-metaverse-and-more-1031054095",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-ai-ml-powering-metaverse-and-more-1031054095",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/microchips-4924170_1920.image_by_cristian_ibarra_from_pixabay.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T10:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2021-12-18-as-log4j-sent-defenders-scrambling-this-startup-made-its-threat-data-free.md",
       "title": "As Log4j sent defenders scrambling, this startup made its threat data free",
       "excerpt": "In the wake of the Apache Log4j vulnerability disclosure, GreyNoise made its threat data freely available to the security industry.",
@@ -1208,6 +1155,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-how-ai-and-data-analytics-drive-value-in-the-finance-function.md",
+      "title": "How AI And Data Analytics Drive Value In The Finance Function",
+      "excerpt": "The era of AI and “Big Data” offers immense opportunity for finance teams to automate routine tasks, allowing professionals to focus on higher-value activities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/",
+      "originalUrl": "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58a362058dd89c077731%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2021/12/17/how-ai-and-data-analytics-drive-value-in-the-finance-function/amp/",
+      "publishedDateTime": "2021-12-17T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

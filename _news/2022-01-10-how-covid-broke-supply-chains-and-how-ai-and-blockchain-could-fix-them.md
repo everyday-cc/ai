@@ -1,27 +1,29 @@
 ---
 category: news
 title: "How Covid broke supply chains, and how AI and blockchain could fix them"
-excerpt: "When the coronavirus crisis erupted in 2020, it became apparent that the medical emergency was accompanied by severe shortages, especially in som"
-publishedDateTime: 2022-01-09T19:47:00Z
-originalUrl: "https://menafn.com/1103510459/How-Covid-broke-supply-chains-and-how-AI-and-blockchain-could-fix-them"
-webUrl: "https://menafn.com/1103510459/How-Covid-broke-supply-chains-and-how-AI-and-blockchain-could-fix-them"
+excerpt: "Covid has led to delays in consumers receiving everything from furniture to groceries. This is how we might reshape supply chains after the pandemic."
+publishedDateTime: 2022-01-09T17:24:00Z
+originalUrl: "https://theconversation.com/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
+webUrl: "https://theconversation.com/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
+ampWebUrl: "https://theconversation.com/amp/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-01/09/TC_7af07image_story.jpg"
-    width: 2116
-    height: 767
+  - url: "https://images.theconversation.com/files/439519/original/file-20220105-25-1y46m7x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 339
         isCached: true
 
-secured: "tdbQxhBkE+pwqTPe2XaLXMJZbNDvSpnZnsO3QwL7pF5JAdIlK5OEauxjSSS+CMBQXX4ehMQYYQ/frFEa9+60wGEBRqoiiQ9vljAkM0qxY9uvDt+jJuZYLxxbT9Sljd2PvQLFJ9o1CUqH+Xd2TvInRd15TzE0nwr+dzXLfRM0zPbDl8mlQxbJ5I4tg6QtFz+DvfDRkp4hIQHykjuqEWh0D0aNXxxfby6gm+qFe97dMilzaB8Czyie5bgPFqrM/Q3VlL0Q1/xnaXeYCyX8MLuBtyGJ49AVcN/yDPAvpCxNQVs0OfxUU9puo+lRDDPmzK5lFkN+6QgqI7pDTZFLmFW967sLCt7aff/sMQ9ot9aXM8Y=;S/xpuqptX6QQntEahSyeHQ=="
+secured: "To4NL70AEKBEfWAfoXnjGQ6qeZs+23v5Z59kWEHoNuGKKddU2y/QXecH/YPr9Ym5tjnO1ZJ6jlAfy+9hkHwH0OlxGILSL+9fdntTQxH45gXZVdXpJhdl+lOcodB32SyZT6+SlfoDENV0HAwZ196ofT8Z1hjc2BBc0s1RpyyraIWXJMxN/D4eZWB5gCeVRGozX6tv1T0qjhNPR7IbR262MCTLl9RCZAw27QHAIqEOJLTo4kIp24pDdT8nOeXZ+fxKk4cCBNjumVXon6L+78igTdnpnfQflFnS05RdPlq8nvX6Sa1BpME7h2lyxsVOTjnNoM8xa/cao2c6rdcJlQ4nbQayYOnzGucalopKjHFnyP8=;E7vrFSorG7jAUWl7oYMw2g=="
 ---
 

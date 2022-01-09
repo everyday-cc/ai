@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Top 8 Technology Trends to Revolutionize the Healthcare Industry in 2022"
-    excerpt: "Let’s have a look at some of the best healthcare technology trends that can revolutionize the healthcare industry for the greater good."
-    publishedDateTime: 2022-01-05T05:29:00Z
-    webUrl: "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/"
-    ampWebUrl: "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-credihealth-com.cdn.ampproject.org/c/s/www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/"
-    type: article
-    provider:
-      name: Stress Fracture
-      domain: credihealth.com
-    quality: 58
-    images:
-      - url: "https://cdn-blog.credihealth.com/wp-content/uploads/2022/01/bermix-studio-4ov6VgaiiX0-unsplash-scaled.jpg"
-        width: 2560
-        height: 1759
-        isCached: true
   - title: "An Unrealized Revolution: Artificial Intelligence in the Chemical Industry"
     excerpt: "Due to the Covid–19 epidemic, which dominates today and has not yet gained complete immunity, many sectors have suffered from different aspects. Each industry, which suffered from this situation for various reasons,"
     publishedDateTime: 2022-01-08T13:47:00Z

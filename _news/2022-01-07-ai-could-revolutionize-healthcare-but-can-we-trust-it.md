@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-could-revolutionize-health
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/20/ttcare-app.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Top 8 Technology Trends to Revolutionize the Healthcare Industry in 2022"
-    excerpt: "Let’s have a look at some of the best healthcare technology trends that can revolutionize the healthcare industry for the greater good."
-    publishedDateTime: 2022-01-05T05:29:00Z
-    webUrl: "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/"
-    ampWebUrl: "https://www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-credihealth-com.cdn.ampproject.org/c/s/www.credihealth.com/blog/top-8-technology-trends-to-revolutionize-the-healthcare-industry-in-2022/amp/"
-    type: article
-    provider:
-      name: Stress Fracture
-      domain: credihealth.com
-    quality: 58
-    images:
-      - url: "https://cdn-blog.credihealth.com/wp-content/uploads/2022/01/bermix-studio-4ov6VgaiiX0-unsplash-scaled.jpg"
-        width: 2560
-        height: 1759
         isCached: true
   - title: "Why 1 CMIO thinks AI can't revolutionize healthcare just yet"
     excerpt: "Despite successfully integrating some AI platforms into his practice, Brett A. Oliver, MD, chief medical information officer at Louisville, Ky.-based Baptist Health Medical Group, isn't convinced that AI is in a place to transform healthcare."

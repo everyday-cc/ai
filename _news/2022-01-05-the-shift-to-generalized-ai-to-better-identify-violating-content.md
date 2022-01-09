@@ -38,22 +38,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "AI In Marketing Market Report 2022: Global Industry upcoming Trends, market challenges, Share, Size, Growth, Opportunity and Forecast Till 2026"
-    excerpt: "The latest report published by WMR shows that the AI In Marketing Market is likely to garner a great pace in the coming years Analysts examined market drivers confinements risks and openings in the world market The AI In Marketing"
-    publishedDateTime: 2022-01-05T05:03:00Z
-    webUrl: "https://www.openpr.com/news/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
-    ampWebUrl: "https://www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2517322/ai-in-marketing-market-report-2022-global-industry-upcoming"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 38
-    images:
-      - url: "https://cdn.openpr.com/V/1/V105262270_g.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "BBt1cSiwH+gbPNsd8WI3WkEbnd5FSTmY/SRYAMsAo7RJ8TPjdgEm9OA/ieWam+sKu8pcS2XSXAZs5IZibEu0bqCi8gP+hzcTiRrwWXJJQ8yP9o2P/eJfRt6/o0ZmIxsyTa7IWwQ81F3OUIaShTWrMRy2OW1TRQo5rmAB2qxGMB4ynNmrNsfSdMzGw7F/Bta4DFm4GST6KdgTaWjjFToucmASkBRdMS4HnWqy89yZBA3ZQVU5yUlQs6JrW29MoOmCXQCGV5h9xmuDcKJRG/ZP/m9W/O2gMWrDEekPC8DSwNP+QAniAAY2v5dCj8gF1iSjnw6tpjl0stqvDM513glVr9tds5tnYUicQJWYgpcpTGE=;OrL6Lq/tQDskPm0wFZvYzw=="
 ---

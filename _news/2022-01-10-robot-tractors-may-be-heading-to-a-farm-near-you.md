@@ -1,30 +1,22 @@
 ---
 category: news
-title: "Deere Unveils First Self-Driving Tractor"
-excerpt: "Deere's autonomous tractor can be controlled by a smartphone. Deere revealed its first self-driving tractor that farmers can control with a smartphone at CES 2022. The company created autonomous equipment including a box that is placed on the front and one on the back of existing agricultural machinery such as the 8R 410 row crop tractor that has a total of 12 stereo cameras and an Nvidia GPU."
-publishedDateTime: 2022-01-07T20:02:00Z
-originalUrl: "https://www.thestreet.com/investing/agriculture-vehicles-autonomous-technology"
-webUrl: "https://www.thestreet.com/investing/agriculture-vehicles-autonomous-technology"
-ampWebUrl: "https://www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
-cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
+title: "Robot tractors may be heading to a farm near you"
+excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
+publishedDateTime: 2022-01-09T21:31:00Z
+originalUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
+webUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
 type: article
-quality: 44
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: TheStreet.com
-  domain: thestreet.com
+  name: Japan Today
+  domain: japantoday.com
 
 topics:
-  - AI in Autos
+  - AI in Robotics
   - AI
-
-images:
-  - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjgyNDYyNjUzMTYyOTE0/john-deere_2.jpg"
-    width: 620
-    height: 349
-    isCached: true
 
 related:
   - title: "John Deere and Naio robot tractor may be heading to a farm near you"
@@ -58,6 +50,22 @@ related:
       - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-01/20220108_CES_ROBOT_TRACTOR_01-seo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deere Unveils First Self-Driving Tractor"
+    excerpt: "Deere's autonomous tractor can be controlled by a smartphone. Deere revealed its first self-driving tractor that farmers can control with a smartphone at CES 2022. The company created autonomous equipment including a box that is placed on the front and one on the back of existing agricultural machinery such as the 8R 410 row crop tractor that has a total of 12 stereo cameras and an Nvidia GPU."
+    publishedDateTime: 2022-01-07T20:02:00Z
+    webUrl: "https://www.thestreet.com/investing/agriculture-vehicles-autonomous-technology"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjgyNDYyNjUzMTYyOTE0/john-deere_2.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Robot tractors and autonomous tools may be heading to a farm near you"
     excerpt: "By Patrick Fallon with Juliette Michel LAS VEGAS, United States—Driverless plows and autonomous tools to weed vegetable plots are the"
@@ -110,15 +118,6 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 19
-  - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
-    publishedDateTime: 2022-01-09T21:31:00Z
-    webUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 19
   - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
     excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
     publishedDateTime: 2022-01-06T11:12:00Z
@@ -136,6 +135,6 @@ related:
         height: 382
         isCached: true
 
-secured: "e1XJVXsOZf9Gq2+R/P9w16nyh8Nt5FrCDvUkSBWkXg7HJrmaFPrzHaXZ3bVDhHz4uosAYfEOSA8205AkMaXJZvruiPmIkYHnxP/WTOtB4s6UXWwU37qHVqD3K4jo44DLX0ETEJorXV71rx7zK+ez9RFj5nJ/V9M0L20DCJm1LD78bC3McbxRXaiqyJzrlOf6qg/FX3sShq2ikpqccBALfm8/25uMaFHG1Dqn29FEfL5uMYP7IzbMma7pWpp1RRwmhynvDW75fl1C3j35SUPNzNW67W6qaxfAJPesz4JwdmSqE9cL6g2g7y/n9+YVp6Jh4HebiAg2+FvMcsEVAU1hjTil4PF97Z4j5wYa1i5f1K4=;8DNzD9zxOGyWg3h16cpvpA=="
+secured: "WXUScarGQnWx2M950NKCJXclvCQ30H7G9Qvce2TAWIfTTASiAHoTyZHsgStBNrZimW7dGc0pCa/SJqDKq6WpqQrqZbOyDygoGnh4zjJXOBZDDabZSZ499xIeGlJ4nosvsP64k3B5Z7TUrcwlRth/ro7pO8Aiexx+CcfrX/kvtuya5ShsUSln5HbsKJ+fLukyy0kX3e6k7GO9/t7OrUnx3d2LBtiXiUg6IlFmM+28YDPl1uM7zFuhpZ7CISSyxGukEVSMXy65ukOpzIV2y8oadixHIGeomDeiEWaKZBB4havtxouwtUXXfaW3MAAbJgBjhQJh/eLA3yqT/tse4hrfIuXJ+4Lo2rgEjZIIaBuP0Dk=;FNNlDrz0PIJWAlQwQqVmvA=="
 ---
 

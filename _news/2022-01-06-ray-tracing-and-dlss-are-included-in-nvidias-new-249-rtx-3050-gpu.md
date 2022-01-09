@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA unveils its new flagship GPU RTX 3090 Ti"
-    excerpt: "At CES 2022 press conference, NVIDIA unveiled its flagship GPU RTX 3090 Ti. The company didn't reveal many details and suggested us to wait a few days for"
-    publishedDateTime: 2022-01-05T06:09:00Z
-    webUrl: "https://techlomedia.in/2022/01/nvidia-unveils-its-new-flagship-gpu-rtx-3090-ti-88133/"
-    ampWebUrl: "https://techlomedia.in/2022/01/nvidia-unveils-its-new-flagship-gpu-rtx-3090-ti-88133/amp/"
-    cdnAmpWebUrl: "https://techlomedia-in.cdn.ampproject.org/c/s/techlomedia.in/2022/01/nvidia-unveils-its-new-flagship-gpu-rtx-3090-ti-88133/amp/"
-    type: article
-    provider:
-      name: techlomedia.in
-      domain: techlomedia.in
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/techlomedia.in/wp-content/uploads/2022/01/3090-ti.jpg"
-        width: 900
-        height: 450
-        isCached: true
   - title: "Nvidia Announces RTX 3090 Ti, The World’s Most Powerful Desktop GPU"
     excerpt: "The new king of desktop GPUs has arrived to dethrone the RTX 3090. Nvidia's newly announced RTX 3090 Ti is now the most powerful desktop GPU to date and"
     publishedDateTime: 2022-01-05T08:53:00Z

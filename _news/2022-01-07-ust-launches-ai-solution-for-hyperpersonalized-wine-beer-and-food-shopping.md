@@ -9,8 +9,8 @@ ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-a
 cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Winsight Grocery Business
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
+    excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."
+    publishedDateTime: 2022-01-06T14:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ust-launches-ust-aisense-an-ai-led-sensory-solution-that-makes-hyper-personalized-shopping-recommendations-for-wine-beer-and-food-1031081739"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1422658/UST_Logo.jpg"
+        width: 387
+        height: 400
+        isCached: true
   - title: "HEAL Software Launches Artificial Intelligence for IT Operations Solution"
     excerpt: "HEAL Software Inc., provider of an AIOps preventive healing space, is introducing a new enterprise-grade, cloud-based Software-as-a-Service (SaaS) offering for its flagship HEAL product. HEAL is an artificial intelligence for IT operations (AIOps) software that enables IT teams to find and fix problems before they happen."
     publishedDateTime: 2022-01-06T19:50:00Z

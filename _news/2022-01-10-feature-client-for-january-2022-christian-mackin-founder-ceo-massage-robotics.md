@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-09T20:17:00Z
 originalUrl: "https://www.linkedin.com/pulse/feature-client-january-2022-christian-mackin-founder-karen-ammond/"
 webUrl: "https://www.linkedin.com/pulse/feature-client-january-2022-christian-mackin-founder-karen-ammond/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHFe4k-gn_DpA/article-cover_image-shrink_720_1280/0/1641759062625?e=1647475200&v=beta&t=9Mhx5wl-hECKSEju2q5fnCsCvZM_Wqm3nB-Do0HwSOo"

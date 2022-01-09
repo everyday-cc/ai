@@ -26,18 +26,20 @@ images:
 
 related:
   - title: "How Covid broke supply chains, and how AI and blockchain could fix them"
-    excerpt: "When the coronavirus crisis erupted in 2020, it became apparent that the medical emergency was accompanied by severe shortages, especially in som"
-    publishedDateTime: 2022-01-09T19:47:00Z
-    webUrl: "https://menafn.com/1103510459/How-Covid-broke-supply-chains-and-how-AI-and-blockchain-could-fix-them"
+    excerpt: "Covid has led to delays in consumers receiving everything from furniture to groceries. This is how we might reshape supply chains after the pandemic."
+    publishedDateTime: 2022-01-09T17:24:00Z
+    webUrl: "https://theconversation.com/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
+    ampWebUrl: "https://theconversation.com/amp/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
+      name: The Conversation
+      domain: theconversation.com
+    quality: 59
     images:
-      - url: "https://menafn.com/updates/pr/2022-01/09/TC_7af07image_story.jpg"
-        width: 2116
-        height: 767
+      - url: "https://images.theconversation.com/files/439519/original/file-20220105-25-1y46m7x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
         isCached: true
 
 secured: "SGcDqctOkxXRRHPJZLnioLHqSDIxkNmCVFq6YI4reFkFgeKn9trriaaGwZnsG+vQGNM+WQKAmqqyMfHiSr2mDuBP6mDFvtQuH391OQVrl/KG7Kjpl9zcVsWu4qo68LWsmVixNt2HA/dJzI6WluMHRO2pFnP+rqpvbIIZp6XynV5LqSn7vUDbgFyKlltZQUQFxUsGxPm8YD1mvczKiE/xAZL5SRLuetpMBk0uzkULJY9eE0EHZ6OOZrGMrGmHCpE40gsiIoh/7EoGMDS5qW7lBittl5oLzjPDzcxgCdLRvsRgyTye29aLRjiiSZnOfcKB31+Mir9GZnfmBk2yR6v5LpBDtxNMZp8CWkny2HlkS7U=;kQL2c/7LmJSKeWBn6Bc80g=="

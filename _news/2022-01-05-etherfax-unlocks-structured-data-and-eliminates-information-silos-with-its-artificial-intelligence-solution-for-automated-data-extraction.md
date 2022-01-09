@@ -39,6 +39,15 @@ related:
         width: 585
         height: 933
         isCached: true
+  - title: "Logicalis Achieves 10 Microsoft Advanced Specialisations – Poised for Digital Transformation in 2022"
+    excerpt: "Logicalis, a global IT solutions and managed service provider, is announcing the achievement of 10 Microsoft Advanced Specialisations across Microsoft’s Azure, Security and Modern Work solutions. Logicalis Australia has also renewed its status as a Microsoft Azure Expert Managed Services Provider (MSP)."
+    publishedDateTime: 2022-01-09T22:03:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/205395/logicalis-achieves-10-microsoft-advanced/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 4
 
 secured: "w1Nboa5FgjSXY7ZQc9T9mfHnGa0FfA6ppb8l7r6uvjH0/GWAPBVcxHZVlS2rkdGvEFSfpap3b3MRBGGfQS2m4V1bGGh+z6wnO1I9nkVmlVT04AIVbxAsOWA7NbA5bqseOaD2BC8nLd8Qgf640lwOihmBeuUNvZ36emZm2LDoekDQwf717HMI5C4rDivFYwURs9IT0GtZc4HZtqyfkHeMjxv7z9CcjZ/flIPX6MpoBnqlLt5Ey9AnLvOrSuJhQNS+gR5x+qTa/krol5Mh1YwcY63r/dXqKPErZM9g4pjV/2kBld1ep9HoUR8djz9bzrir7osuQ/Ux1pTHxllOY8X49oLNNLbYTZ0Zt0bVUk9m7iE=;r3LkOf4ayYEueupsdvm3Aw=="
 ---

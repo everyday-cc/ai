@@ -110,6 +110,15 @@ related:
       name: Courthouse News Service
       domain: courthousenews.com
     quality: 19
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
+    publishedDateTime: 2022-01-09T21:31:00Z
+    webUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
   - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
     excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
     publishedDateTime: 2022-01-06T11:12:00Z

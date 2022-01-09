@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
 type: article
 quality: 83
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA unveils its new flagship GPU RTX 3090 Ti"
-    excerpt: "At CES 2022 press conference, NVIDIA unveiled its flagship GPU RTX 3090 Ti. The company didn't reveal many details and suggested us to wait a few days for"
-    publishedDateTime: 2022-01-05T06:09:00Z
-    webUrl: "https://techlomedia.in/2022/01/nvidia-unveils-its-new-flagship-gpu-rtx-3090-ti-88133/"
-    ampWebUrl: "https://techlomedia.in/2022/01/nvidia-unveils-its-new-flagship-gpu-rtx-3090-ti-88133/amp/"
-    cdnAmpWebUrl: "https://techlomedia-in.cdn.ampproject.org/c/s/techlomedia.in/2022/01/nvidia-unveils-its-new-flagship-gpu-rtx-3090-ti-88133/amp/"
-    type: article
-    provider:
-      name: techlomedia.in
-      domain: techlomedia.in
-    quality: 59
-    images:
-      - url: "https://i1.wp.com/techlomedia.in/wp-content/uploads/2022/01/3090-ti.jpg"
-        width: 900
-        height: 450
-        isCached: true
   - title: "Ray tracing and DLSS are included in Nvidia’s new $249 RTX 3050 GPU"
     excerpt: "The RTX 3050, which starts at $249 and undercuts Nvidia’s previous entry-level RTX graphics card, the $329 RTX 3060, by a whopping $80, was revealed at CES 2022 by Nvidia. The RTX 3050, like the other RTX GPUs,"
     publishedDateTime: 2022-01-06T04:00:00Z
