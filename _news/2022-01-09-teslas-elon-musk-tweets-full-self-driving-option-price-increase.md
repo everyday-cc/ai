@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
-excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
-publishedDateTime: 2022-01-07T13:22:00Z
-originalUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+title: "Tesla's Elon Musk Tweets Full Self-Driving Option Price Increase"
+excerpt: "Tesla raises the price of its Full Self-Driving autopilot option from $10,000 to $12,000 beginning Jan. 17. Telsa's ( TSLA) - Get Tesla Inc Report CEO Elon Musk on Friday tweeted that the electric vehicle maker plans to raise the price of its Full Self-Driving autopilot option to $12,"
+publishedDateTime: 2022-01-09T02:54:00Z
+originalUrl: "https://www.thestreet.com/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
+webUrl: "https://www.thestreet.com/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
+ampWebUrl: "https://www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
+cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
 type: article
-quality: 42
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Scottish Sun
-  domain: thescottishsun.co.uk
+  name: TheStreet.com
+  domain: thestreet.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1500
-    height: 1000
+  - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgyMDYxMzI0Nzk5MzIxNDE2/genetic-counselor-doctor-patient-sh.jpg"
+    width: 620
+    height: 400
     isCached: true
 
 related:
@@ -121,22 +121,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla's Elon Musk Tweets Full Self-Driving Option Price Increase"
-    excerpt: "Tesla raises the price of its Full Self-Driving autopilot option from $10,000 to $12,000 beginning Jan. 17. Telsa's ( TSLA) - Get Tesla Inc Report CEO Elon Musk on Friday tweeted that the electric vehicle maker plans to raise the price of its Full Self-Driving autopilot option to $12,"
-    publishedDateTime: 2022-01-09T02:54:00Z
-    webUrl: "https://www.thestreet.com/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgyMDYxMzI0Nzk5MzIxNDE2/genetic-counselor-doctor-patient-sh.jpg"
-        width: 620
-        height: 400
-        isCached: true
   - title: "Tesla’s Self-Driving Is Getting Better — and More Expensive"
     excerpt: "Elon Musk tweeted that new versions of the company's driver-assistance software, dubbed Full Self Driving, are coming soon—and the price is going up too."
     publishedDateTime: 2022-01-09T01:45:00Z
@@ -152,6 +136,22 @@ related:
       - url: "https://images.barrons.com/im-464381/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
+    excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
+    publishedDateTime: 2022-01-07T13:22:00Z
+    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    type: article
+    provider:
+      name: The Scottish Sun
+      domain: thescottishsun.co.uk
+    quality: 42
+    images:
+      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "Tesla’s ‘complete self-driving’ software will cost $12k, according to Elon Musk"
     excerpt: "Tesla CEO Elon Musk has announced that the company’s “full self-driving” (FSD) software will now cost $12,000. Musk said on Friday that the higher pricing, which is a $2,000 increase, would go into effect on January 17th for customers “only in the United States."
@@ -182,6 +182,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Pbifjja2IyPE2Uo00+Ufs30QD5Qcn4na3rh4zk6qpJEdpPYgj+RZG7OhKTAqPQBAnWIHLpAC9WRbRTJOhPU894ZYTmtCD9MZ9wiYC8NyB84vYDtpZ6WF3Cr25wzfoUqk6J8/rMsNzE9jz8I0fKEMbYcp65JDxJAXGvayU+GU2GZTFN47xq38QxRNMXNfDcS5tYe7n0/zFvgYl+INerqvVIxxZGyQhmegAZ0i/SCIXHkpROCWmcOjQdjnPooHylMAhFl2Mqm8TfEnzVGkoCFvlSLxL00kQZHpRiVa9fZNTNRk7p0ohwuag2gxFk8EgIYRpYOZ2UGvMhW4sVQ4WxSOWlig/lbcXJuNpNiieEBgumY=;6MTIZONp/me/zbWdRmU1RA=="
+secured: "Z8z8LrDcWBqbnX9EZiFkjxu4juOKbL0F9yXNgQDmPmhQBKSFa/wn2dEcHMOeKnILUUFv9G7mlkry3QljYD0LbqkiZIAApptxD2QtFVqQonSvPC6a9ftqHLq4KrogBxDzQTj/A0aylVY5ObPwGL8+36GjYC1+4CXRb7AogXWXvJ8+bg3rzfkgwlh/VhfX9v01nhRrjh+28gQLOiByqjoEOnH4oV9wktBs9D+dxaJH7X+8ER8oZ0Prv5ujnVTDdDjjkaOCqU9Ax52uz/CAyElQY9OfrmjQlv9/eSzJ6OIld6sMerxz/g6DhGdJQRSxv0C5EpnLjTR2ujlpo5yEWxTxP0lzchulqnLr5vDwLZYgre8=;plgZwNjVy+QCIf/0ljK5FQ=="
 ---
 

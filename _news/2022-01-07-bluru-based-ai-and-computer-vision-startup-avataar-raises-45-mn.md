@@ -9,7 +9,7 @@ ampWebUrl: "https://inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision
 cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833"
 type: article
 quality: 74
-heat: 116
+heat: 117
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unico
 webUrl: "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html"
 type: article
 quality: 166
-heat: 296
+heat: 286
 published: true
 
 provider:
@@ -203,20 +203,6 @@ related:
       - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1639636029/ad-kqkzykwk.jpg"
         width: 990
         height: 550
-        isCached: true
-  - title: "AI-powered client relationship platform Lift lifts off with $3 million in new capital"
-    excerpt: "Copenhagen-based Lift has raised $3 million in a new funding round. The startup, which splits operations between Denmark and South Carolina in the US, offers an AI-based service that can predict the risks and opportunities of losing or growing client ..."
-    publishedDateTime: 2022-01-04T09:17:00Z
-    webUrl: "https://tech.eu/brief/ai-powered-client-relationship-platform-lift-lifts-off-with-3-million-in-new-capital/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 30
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2022/01/1562928016763.jpg"
-        width: 960
-        height: 640
         isCached: true
 
 secured: "pVUYTvsZLNONFRV1gbT4xRHM/X06FCxqhgOEh5BR9+uWfFKAP0N785+MHGDlsfTnc41pkNPGlZxgn9foTKwGXK2JtfB88dogrmPpZElpIspR5RVaNjYc7q99HTBgZ4s5LaSjGgwKncwI662UxYYPqfbFK9ZJD4jyYb0bAZRuKu6THAkh9v8TICPisBW4iIzwqgdCqPOOC/LTaQMGF7lRT+9gjuEy32ACBco5onjpMOV62TtaC0XkiC/t07xSxVxTFb4emoeGC9lOi//q63wzz6+ZMj+KbB93L+g571xJgF8TMrmThvMjVlZUEWu6CFVbksiyFH+cruWZ8FZyeTspQuG7YqehrLtNXkDBesK9FELdsQWwP/2KLj8R5Bx3si+U;xNKk4oY4bHdZJxpeSffYpQ=="

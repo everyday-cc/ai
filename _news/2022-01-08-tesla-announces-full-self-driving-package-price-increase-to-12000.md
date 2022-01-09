@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-pac
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -106,6 +106,38 @@ related:
     quality: 59
     images:
       - url: "https://images.barrons.com/im-284801/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Tesla's Elon Musk Tweets Full Self-Driving Option Price Increase"
+    excerpt: "Tesla raises the price of its Full Self-Driving autopilot option from $10,000 to $12,000 beginning Jan. 17. Telsa's ( TSLA) - Get Tesla Inc Report CEO Elon Musk on Friday tweeted that the electric vehicle maker plans to raise the price of its Full Self-Driving autopilot option to $12,"
+    publishedDateTime: 2022-01-09T02:54:00Z
+    webUrl: "https://www.thestreet.com/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgyMDYxMzI0Nzk5MzIxNDE2/genetic-counselor-doctor-patient-sh.jpg"
+        width: 620
+        height: 400
+        isCached: true
+  - title: "Tesla’s Self-Driving Is Getting Better — and More Expensive"
+    excerpt: "Elon Musk tweeted that new versions of the company's driver-assistance software, dubbed Full Self Driving, are coming soon—and the price is going up too."
+    publishedDateTime: 2022-01-09T01:45:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51641601389"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 59
+    images:
+      - url: "https://images.barrons.com/im-464381/social"
         width: 1280
         height: 640
         isCached: true

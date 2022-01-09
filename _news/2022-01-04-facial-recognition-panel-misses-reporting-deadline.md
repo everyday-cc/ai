@@ -55,20 +55,6 @@ related:
         width: 975
         height: 650
         isCached: true
-  - title: "Facial recognition technology: Advent of totalitarian utopia?"
-    excerpt: "There are growing concerns about the use of Facial Recognition Technology (FRT), Governments say it’s for security but others predict a terrifying future. Technology Watchdog: The future of Life"
-    publishedDateTime: 2022-01-04T09:58:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/darisan/facial-recognition-technology-advent-of-totalitarian-utopia-40247/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Facial recognition technology makes for better giant panda protection"
     excerpt: "While facial recognition technology continues to facilitate many aspects of human life, it is now also being applied to aid the protection of giant pandas. A nature reserve in Northwest China's Gansu province has built an AI-enabled video monitoring system to better protect wild giant pandas."
     publishedDateTime: 2022-01-06T02:51:00Z

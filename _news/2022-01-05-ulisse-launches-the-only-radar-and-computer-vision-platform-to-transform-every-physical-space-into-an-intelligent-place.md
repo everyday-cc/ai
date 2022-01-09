@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Ulisse Launches the Only Radar and Computer Vision Platform to Transform Every Physical Space Into an Intelligent Place"
-excerpt: "The company's proprietary AI and IoT technology is ‘privacy first,' allowing for both anonymity and accuracy; learns from surrounding environment"
-publishedDateTime: 2022-01-05T14:11:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place"
-webUrl: "https://www.digitaljournal.com/pr/ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place"
+excerpt: "The company’s proprietary AI and IoT technology is ‘privacy first,’ allowing for both anonymity and accuracy; learns from surrounding environment and people’s behavior to deliver better analytics, experiences,"
+publishedDateTime: 2022-01-05T14:01:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/space-launches-technology-business-351c6b3e1faf5df837091a4870af2f78"
+webUrl: "https://apnews.com/press-release/accesswire/space-launches-technology-business-351c6b3e1faf5df837091a4870af2f78"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.accesswire.com/users/newswire/images/681004/Screen%20Shot%202021-12-27%20at%2012.37.51%20PM.png"
-    width: 675
-    height: 378
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 628
         isCached: true
 
-secured: "SAf0jmfeDNTouII4+gCdzJJ4+th3qr5nZFxvGWAmGmEie32iPeTxtQ8Hma4cJfdjUQcyDGSczDVlnmh0h6BA/yC3gZ4wk3KqpovGIf19An7jneSe6n4pO9sz1H+xyMH6i3OzqkLBf5uFjj9ZaNRHIi+59X50TkgxS9SHnDPFZm9YuQDvdW9Pmgci76c5Kq/yTtd4ltC1XeBUp9fo+3YmOzf1yX3UpY0Mr6gQD8EkaOBhgO132BhdbJV8rWAHBVe+jpBqEhnigvoxAJAPtLb0xz7N8jRxuEO7bVquVZBfzA34OnNe3/qmrnIVFKqyXc1L2xGUBspWjPGF5UPQcuzbiOiL92ndvYHC2uRnsKe5isg=;DAX98BZg33Z5EHZoW5xXJQ=="
+secured: "B2e6p8TPt2qKzrj0wUtHzPXEf2oLz4zDijKVAI/PVqVIZzC37ibdybeHiOLwT7/diCg+8PpB99aK7JqJDeMSwSSytQ8qPfA/F9P7nuF9nUtrnbbUnzSYofXDE9Tvt8fE57seKADMo9EwTMAcTXmtYNZ3AhnmgIUi6606Cj0uXLV2FSTCkKWPdpYoSzLZ8AjIJZlRtsPrborEmiyphleYY1LyVzKxAZqHdiBP5XPc+WBNFCLS6bkm7163OuXU8DQpLxMNebKxr4CyvXgoKusn/wVlP3u9QlJfgCtHRN2+4Q2N4gsh6/blqZ6gL92qyOFI1qV5xri3q8kD0hDdrWSOiiwZLGOmxD6tv+OYv9CeDDA=;AIWshMo/izKq1rEWuzbArQ=="
 ---
 

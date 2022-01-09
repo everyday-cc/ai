@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
-excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
-publishedDateTime: 2022-01-07T13:22:00Z
-originalUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+title: "Tesla’s Self-Driving Is Getting Better — and More Expensive"
+excerpt: "Elon Musk tweeted that new versions of the company's driver-assistance software, dubbed Full Self Driving, are coming soon—and the price is going up too."
+publishedDateTime: 2022-01-09T01:45:00Z
+originalUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51641601389"
+webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51641601389"
+ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
+cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
 type: article
-quality: 42
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: The Scottish Sun
-  domain: thescottishsun.co.uk
+  name: Barron's
+  domain: barrons.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1500
-    height: 1000
+  - url: "https://images.barrons.com/im-464381/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -137,21 +137,21 @@ related:
         width: 620
         height: 400
         isCached: true
-  - title: "Tesla’s Self-Driving Is Getting Better — and More Expensive"
-    excerpt: "Elon Musk tweeted that new versions of the company's driver-assistance software, dubbed Full Self Driving, are coming soon—and the price is going up too."
-    publishedDateTime: 2022-01-09T01:45:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51641601389"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
+  - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
+    excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
+    publishedDateTime: 2022-01-07T13:22:00Z
+    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
     type: article
     provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
+      name: The Scottish Sun
+      domain: thescottishsun.co.uk
+    quality: 42
     images:
-      - url: "https://images.barrons.com/im-464381/social"
-        width: 1280
-        height: 640
+      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "Tesla’s ‘complete self-driving’ software will cost $12k, according to Elon Musk"
     excerpt: "Tesla CEO Elon Musk has announced that the company’s “full self-driving” (FSD) software will now cost $12,000. Musk said on Friday that the higher pricing, which is a $2,000 increase, would go into effect on January 17th for customers “only in the United States."
@@ -182,6 +182,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "Pbifjja2IyPE2Uo00+Ufs30QD5Qcn4na3rh4zk6qpJEdpPYgj+RZG7OhKTAqPQBAnWIHLpAC9WRbRTJOhPU894ZYTmtCD9MZ9wiYC8NyB84vYDtpZ6WF3Cr25wzfoUqk6J8/rMsNzE9jz8I0fKEMbYcp65JDxJAXGvayU+GU2GZTFN47xq38QxRNMXNfDcS5tYe7n0/zFvgYl+INerqvVIxxZGyQhmegAZ0i/SCIXHkpROCWmcOjQdjnPooHylMAhFl2Mqm8TfEnzVGkoCFvlSLxL00kQZHpRiVa9fZNTNRk7p0ohwuag2gxFk8EgIYRpYOZ2UGvMhW4sVQ4WxSOWlig/lbcXJuNpNiieEBgumY=;6MTIZONp/me/zbWdRmU1RA=="
+secured: "QoCji/mS+57m4Vb6kLIVJCClmeH1Jgbrlm9HpsLVnaVEE3GKQ9BOIYMDDWZTJexH60qOQiimK9LsEMj6xkZ9sgt5KMNvhiKWh+Qd1bdnH+ZUgB8LYtPh8znLp1Pm6VKbukK+6HLLmJWoQDjCQerUJbRuGKzaxm2urWX1quK1aa0FLn0n+iGwIh3d9LZoNf/z9BKswm3IGrBy2gfrHadyDH+gIofU9zNTvKth5jmrPxNqsNl1u/dVAClItTyuvsmDRKygFIK/dEypyaaAvBfHfOZeHHurGQLoaa3/EzU+BEcPo4vOD/in8jxmNokXQvfHMC9iRwfgm0A5EN2b5DGfLZduKz/PXainrxgBj9uCZhs=;Jyp3HGgFV4JURXosbBy7jw=="
 ---
 

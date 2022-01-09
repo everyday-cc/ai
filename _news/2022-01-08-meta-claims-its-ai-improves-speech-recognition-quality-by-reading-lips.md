@@ -1,26 +1,34 @@
 ---
 category: news
 title: "Meta claims its AI improves speech recognition quality by reading lips"
-excerpt: "Disclaimer | Accessibility Statement | Commerce Policy | Made In NYC | Stock quotes by finanzen.net Meta (formerly Facebook) claims its new AI system, AV-HuBERT, can improve speech recognition ..."
-publishedDateTime: 2022-01-07T18:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips-10905236"
-webUrl: "https://markets.businessinsider.com/news/stocks/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips-10905236"
+excerpt: "People perceive speech both by listening to it and watching the lip movements of speakers. In fact, studies show that visual cues play a key role in language learning. By contrast"
+publishedDateTime: 2022-01-08T00:00:00Z
+originalUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/"
+webUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/"
+ampWebUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/"
 type: article
-quality: 64
-heat: 74
+quality: 104
+heat: 114
 published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: VentureBeat
+  domain: venturebeat.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1351969920.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
+    isCached: true
 
 related:
   - title: "Meta AI builds speech recognition platform that uses visual cues to filter out background noise"
@@ -38,6 +46,6 @@ related:
         height: 501
         isCached: true
 
-secured: "LAn9rWcdX2rPRXS73KpaeD9NK4feYWITIwBCngKt/xioZ3/BQzZCIaHuJEk1mj1cEIhaEcINfF53VFZCPq+9qUO97xEBDEA8ijV8fudI6wDz6QanRny3LKwh87K9swrbjXoKTpUPbrYKXXEqUZRuwZ+GvTXOqeU/BHfOm7R2ZgWQ2x6OTA0fxV9NkJwOfjaYRzbZGQ/VBdiZAhV3OMT5K06H5jNXqCbsBoO2JsKde21QaaUbU1ZRYY/3byxlFPni3GUK9yzESC5YSnrNJkms+a+boB2OvtS3Z6BkVZ5Jd3aDyW2NYCnp2CO5TI847lUXAXq2/GQS0eLHgH9wWBcrh910rUBVXp6hvCio9lm379I=;yq7B2r1hKcSVNvnvB93siw=="
+secured: "m+dRbr+Bd48qtrv+0nP+mejOVFVSkfcJb4mV8krGiXFbeE1QcNDymPUpKi1fvjEQNB2dSDUaFB0P9xpdMt5JCugvknSQfLqnf2XcWdsirTuenPSw2ngxjvsG+iAuscOZCSvFBhGqbRp9xf9XsJwgVtaut4QIFxLR0dtS2TJz8F9wjp2UiUn7C1Z+O24j1/AKrYhf+RvLUVsNCf7U2Zr2uY70Vgw3ZHic6N4kVqWkWEREdmI7mfxvsYXiAfyL7a+zkkfdQ0VOGN7KM/cDulKMOpPuH0hT7G7/CXmUAJdEAKYN3OKDpsa3ntVBju2xwWpmPSOlnt2s+F33iJSztjr3t0xO1B/NR4nB+6Uc0mzKrt0=;4GcMHlQR4ih6UEJJPRrNDg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecur
 webUrl: "https://www.eweek.com/cloud/tech-predictions-2022-cloud-cybersecurity-ai/"
 type: article
 quality: 69
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.professionalsecurity.co.uk/wp-content/uploads/2014/02/Ear1.jpg"
         width: 535
         height: 547
-        isCached: true
-  - title: "Ways AI can help us enter a new age of cybersecurity"
-    excerpt: "Artificial Intelligence (AI) is becoming better as we speak. From business operations to home applications, AI is expanding rapidly everywhere across the globe. AI is proving helpful in various"
-    publishedDateTime: 2022-01-04T09:52:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/cybersecurity/ways-ai-can-help-us-enter-a-new-age-of-cybersecurity-40246/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/readersblog/wp-content/uploads/2022/01/Picture1.png"
-        width: 624
-        height: 249
         isCached: true
   - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
     excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"

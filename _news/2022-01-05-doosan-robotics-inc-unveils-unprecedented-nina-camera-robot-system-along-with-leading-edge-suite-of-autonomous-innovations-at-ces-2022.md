@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
-publishedDateTime: 2022-01-05T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
+title: "Doosan Robotics Inc Unveils Unprecedented “NINA” Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
+excerpt: "Honoree of CES 2022 Innovation Awards, NINA Camera Robot System, Available in March, Takes the Global Stage to Usher in Next Generation in Motion Control"
+publishedDateTime: 2022-01-05T15:04:00Z
+originalUrl: "https://www.roboticstomorrow.com/news/2022/01/05/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022/18022/"
+webUrl: "https://www.roboticstomorrow.com/news/2022/01/05/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022/18022/"
 type: article
-quality: 21
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
   - AI in Robotics
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
-    width: 1154
-    height: 606
-    isCached: true
 
 related:
   - title: "ITRI intros innovations in AI, robotics, and ICT at CES 2022"
@@ -144,6 +138,6 @@ related:
         height: 308
         isCached: true
 
-secured: "NVPrq/zmAhqi6dEJZQQyV3BFUJ/yh0YGbPnZcCwPzTv+YQoVvSZyuP1tEBzYKR2IXJDABnmeN4s9kF064F0enX4NSnVrx3P9UgALi8df68On1D0rIgVHc9e4/YoleFrfIWMGZUm8HeuysL//181pnGBxPBMVWABJOxEzAZqF5EXF749jyZMKfIA7sVXcC8J+jOTl/Br4dC6EhzWFa+MGy7pNva3v58lOgYSMjtpa0uSL3izIuItg9fnMmSZUZBmtGJCdpcuzN/jltgLIjPSxkik/Jam/CjWHvHtWk82GdQp0kCbd2m2AA2Bn4wCMXlnp4jxOssIy6RCF8BMhtZ3Utjt1QDkgSBvKlqVX1rd+IpI=;h8pvkfKxPzeMV6iiTkwk5Q=="
+secured: "2RB/KuxN3BjPqtFCoFhsyVmlP60MDFdeT0InFIHuBEFQoaEyPieQof1gcuScy39zQn88M4Zk3YkyBcMryZBsDX4f5rDYNRfMnby4ZbtWJcO1rMcqKeTL9VxUZIeMxCxdyPijya89pKIbffRF1ixX3BMY9UUgonBBC4AcRnMXWJYjQdwe6xV6tYDXpz7wsS9dpcqMiZJafaeX7JrRY/YfBekKlTXUUUghAtYmtRw6loU5te8o71WReSufZ2OX4RqFueT7dqEkPE8DY8ldWqDYgqom/PS4hOsUtjTG2EdQ8RKVAb2vwbBZO+5OKssMmaGU0xka8VW4kXIlmeUBz3oEeEE6FE2SAOr4uQo4YjivJ+U=;x69a2Tnk0n5br8G6W7GBaw=="
 ---
 

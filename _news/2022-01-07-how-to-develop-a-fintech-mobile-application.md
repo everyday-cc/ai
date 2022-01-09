@@ -92,7 +92,7 @@ related:
   - title: "People’s Bank of China launches digital Yuan app alongside FinTech plan"
     excerpt: "China Central Bank introduces Digital Yuan's E-CNY app for IOS and Android as Governor Yi Gang leads People's Bank of China FinTech and CBDC development."
     publishedDateTime: 2022-01-04T15:24:00Z
-    webUrl: "https://coinrivet.com/ru/peoples-bank-of-china-launches-digital-yuan-app-alongside-fintech-plan/"
+    webUrl: "https://coinrivet.com/pt/peoples-bank-of-china-launches-digital-yuan-app-alongside-fintech-plan/"
     type: article
     provider:
       name: Coin Rivet

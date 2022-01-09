@@ -200,20 +200,6 @@ related:
         width: 990
         height: 550
         isCached: true
-  - title: "AI-powered client relationship platform Lift lifts off with $3 million in new capital"
-    excerpt: "Copenhagen-based Lift has raised $3 million in a new funding round. The startup, which splits operations between Denmark and South Carolina in the US, offers an AI-based service that can predict the risks and opportunities of losing or growing client ..."
-    publishedDateTime: 2022-01-04T09:17:00Z
-    webUrl: "https://tech.eu/brief/ai-powered-client-relationship-platform-lift-lifts-off-with-3-million-in-new-capital/"
-    type: article
-    provider:
-      name: Tech.eu
-      domain: tech.eu
-    quality: 30
-    images:
-      - url: "https://tech.eu/wp-content/uploads/2022/01/1562928016763.jpg"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "33XumT1zm7y0IfL0ydO810dT8MQgUqTGuUD6y7qIZvQ2hbIR4rNAii8z9kNA2NAhspGKthWm2jBhQr4BjM2XOePX+9r+5p6JvcAn9LvNKapIkKImgOGrC69t2WNI8L4L+AGkwEUPjqQHYCAivtri0oEBjtRxb86+wt7CSRjVrp7gRDqZlmf60RA4KJCvMk/A/l3YXEJuN7MQdtnJUwpIEizdQhXORrP3hRl8EejE6oAKSM3ytNtI5sUavuoE6G68CqDpe8boMyZhX6yL9vtU03TrHhWli8eFtV8iANLAdUpBJYIdR4gB6XQPgiqCCXvhnh9PHNNRbSN2EmBAy7d9eJBrdVqrKk2iCiQibNG2yaY=;TNuVncw+0K8qLUAx1YHEbQ=="
 ---
