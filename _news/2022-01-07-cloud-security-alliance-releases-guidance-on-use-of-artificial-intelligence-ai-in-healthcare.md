@@ -36,20 +36,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market"
-    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering.The healthcare artificial intelligence market is expected to reach USD 44."
-    publishedDateTime: 2022-01-04T12:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-01-04/global-healthcare-artificial-intelligence-market-2021-to-2026-rising-investments-in-advanced-dru"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
 
 secured: "HRpMrzxAZHCZGTQTNjh3wTiyO9CaH+drxAH3GSMjNQgIdIicaSVdeWQL1jC71SekhlcKmXB5v9ZbeCInonoZ/IdBLvZyx2Ngh8p+rwQCheOhODEpyS8n0sXGEy4uJvNz5JNwcZJ2XCvevLR5cwsziTUo2pLtD4UcOy/DI04q8nGDD3+tWkcs/I5NCEliML+zv705Sh2ZxvcMxG9HG7/8mqJeOum+IDq5oY/ggHQzh2Lcida1uz0l6NVaof70Ks8tWTl49UO4zStBJC/5iP67w6V1u2SVKK1x2LOp7x9SPww8Qm9IoSGLUUz3G+5S4TnFm+TwwSQbmDHsce2Oejn+9D06MVdP9RvyhO5GrViOVsY=;tUlZHCxfdp5r0q6G6SuV4Q=="
 ---

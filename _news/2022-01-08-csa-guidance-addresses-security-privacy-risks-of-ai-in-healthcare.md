@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitsecurity.com/news/amp/csa-guidance-addresses-securit
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/csa-guidance-addresses-security-privacy-risks-of-ai-in-healthcare"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Healthcare Artificial Intelligence Market"
-    excerpt: "The \"Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026\" report has been added to ResearchAndMarkets.com's offering.The healthcare artificial intelligence market is expected to reach USD 44."
-    publishedDateTime: 2022-01-04T12:00:00Z
-    webUrl: "https://www.pharmiweb.com/press-release/2022-01-04/global-healthcare-artificial-intelligence-market-2021-to-2026-rising-investments-in-advanced-dru"
-    type: article
-    provider:
-      name: PharmiWeb
-      domain: pharmiweb.com
-    quality: 54
-    images:
-      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-        width: 1200
-        height: 448
-        isCached: true
   - title: "Cloud Security Alliance Releases Guidance on Use of Artificial Intelligence (AI) in Healthcare"
     excerpt: "The Cloud Security Alliance (CSA), the world’s leading organization dedicated to defining standards, certifications, and best practices to help ensure"
     publishedDateTime: 2022-01-06T17:05:00Z

@@ -73,6 +73,20 @@ related:
         width: 2560
         height: 1759
         isCached: true
+  - title: "An Unrealized Revolution: Artificial Intelligence in the Chemical Industry"
+    excerpt: "Due to the Covid–19 epidemic, which dominates today and has not yet gained complete immunity, many sectors have suffered from different aspects. Each industry, which suffered from this situation for various reasons,"
+    publishedDateTime: 2022-01-08T13:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/unrealized-revolution-artificial-intelligence-chemical-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEoRDfeF06EYQ/article-cover_image-shrink_720_1280/0/1641648651050?e=1647475200&v=beta&t=Xy35Xc-2DX7B37Gde2ZYQ5oMoWwngC6UlbqjGGP-NAo"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "42f2jKAfJ49lDDa5RvIx2xeodVYp8ljNOjcTNpo3MFh1iTGV6K6ibvL6cJQHfZsUJuHv2OcYXY5MKkmLVMflcYYqTLRglAfTO/p1Csp9U4s+voYvkuvop7gHX9ck2+AakYf8EH7Pwf7dIUILJMaFhGiOfDhuxXlw4jmNkpuGljqy7nAv1cv5ktWBLJxN1tE3203zrk+eoyC6oLODGWOpjRr40wBogT/TUBa5sNChF9iL3AzaTALGCHpt095n71wpIopYzXX0hcV9Zr0gx8q9xY27KbvMmdy79fzQJ5jrx13ifpRAwwiR080DFOHATk2ruSDyd0yrEaNFR7Loo0ZJE8s8oacVH3nO1pLrnjWLMMY=;TX3M2LHTho98eH1dG3jrEQ=="
 ---

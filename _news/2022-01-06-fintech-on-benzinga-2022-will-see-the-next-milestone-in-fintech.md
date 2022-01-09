@@ -61,20 +61,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Practical FinTech & Artificial Intelligence Online Training is Now Open for Registration"
-    excerpt: "Infocus International Group, a global business intelligence provider of strategic information and professional services, has launched a brand-new online training – FinTech & Artificial Intelligence which will be commencing live on 11 May 2022."
-    publishedDateTime: 2022-01-04T11:43:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/practical-fintech-artificial-intelligence-online-training-now-open"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 45
-    images:
-      - url: "https://financialit.net/sites/default/files/ai-530_x_330.png"
-        width: 530
-        height: 330
-        isCached: true
   - title: "People’s Bank of China launches digital Yuan app alongside FinTech plan"
     excerpt: "China Central Bank introduces Digital Yuan's E-CNY app for IOS and Android as Governor Yi Gang leads People's Bank of China FinTech and CBDC development."
     publishedDateTime: 2022-01-04T15:24:00Z

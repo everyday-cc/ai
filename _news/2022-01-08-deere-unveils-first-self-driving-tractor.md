@@ -139,22 +139,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "TuSimple to use Nvidia chips for computing in self-driving trucks"
-    excerpt: "Self-driving freight trucks, while still operating largely in pilot projects, have become a focus of the autonomous industry"
-    publishedDateTime: 2022-01-04T12:36:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/Q9ojqE_4Ec_VI5TiH65j1iEQ-MEm-GgiFRkesqb_thqHSrTdwwDexpn7hwZWmRVs-GTs9niUzvEW4px-JBybnj9UytQEByyY=s500"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
     excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
     publishedDateTime: 2022-01-04T22:31:00Z

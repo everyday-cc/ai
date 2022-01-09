@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-closed-loop-ma
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Changing the Retail System: Artificial Intelligence"
+    excerpt: "Artificial intelligence solutions, which continue to influence the world and become widespread in various industries, continue to break new ground in the retail world. As a result, the retail sector contributes to the development of artificial intelligence in terms of innovations and potentials."
+    publishedDateTime: 2022-01-08T14:29:00Z
+    webUrl: "https://www.linkedin.com/pulse/changing-retail-system-artificial-intelligence-anumak-company"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 52
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZDgaexmRqg/article-cover_image-shrink_600_2000/0/1641651966884?e=1647475200&v=beta&t=gaJOgaa-zuc3Z23AVdOp-mGa9P6BOZ9zRO7ofmUq2LI"
+        width: 825
+        height: 495
+        isCached: true
   - title: "Manufacturing Shifts To AI Of Things"
     excerpt: "Smart sensors and analytics are starting to impact uptime and efficiency as smart manufacturing kicks into gear."
     publishedDateTime: 2022-01-06T08:02:00Z

@@ -128,22 +128,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "TuSimple to use Nvidia chips for computing in self-driving trucks"
-    excerpt: "Self-driving freight trucks, while still operating largely in pilot projects, have become a focus of the autonomous industry"
-    publishedDateTime: 2022-01-04T12:36:00Z
-    webUrl: "https://www.businesslive.co.za/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
-    ampWebUrl: "https://www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
-    cdnAmpWebUrl: "https://www-businesslive-co-za.cdn.ampproject.org/c/s/www.businesslive.co.za/amp/bd/companies/2022-01-04-tusimple-to-use-nvidia-chips-for-computing-in-self-driving-trucks/"
-    type: article
-    provider:
-      name: businesslive.co.za
-      domain: businesslive.co.za
-    quality: 44
-    images:
-      - url: "https://lh3.googleusercontent.com/Q9ojqE_4Ec_VI5TiH65j1iEQ-MEm-GgiFRkesqb_thqHSrTdwwDexpn7hwZWmRVs-GTs9niUzvEW4px-JBybnj9UytQEByyY=s500"
-        width: 500
-        height: 333
-        isCached: true
   - title: "Deere Unveils First Self-Driving Tractor"
     excerpt: "Deere's autonomous tractor can be controlled by a smartphone. Deere revealed its first self-driving tractor that farmers can control with a smartphone at CES 2022. The company created autonomous equipment including a box that is placed on the front and one on the back of existing agricultural machinery such as the 8R 410 row crop tractor that has a total of 12 stereo cameras and an Nvidia GPU."
     publishedDateTime: 2022-01-07T20:02:00Z

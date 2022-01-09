@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL"
         width: 830
         height: 545
+        isCached: true
+  - title: "AI-driven self-driving race cars create history at CES 2022"
+    excerpt: "Self-driving race cars made their own place at the CES 2022. Italian American team PoliMOVE developed a self-driving race car based on a Formula One car, nicknamed as Minerva claimed to have created history at the event,"
+    publishedDateTime: 2022-01-09T04:29:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022-41641700029723.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/auto-images/Kia/Seltos/1589878851759_Seltos1"
+        width: 630
+        height: 420
         isCached: true
   - title: "CES 2022: Mobileye rolls out new EyeQ self-driving chip"
     excerpt: "Mobileye, Intel’s autonomous driving hardware and software wing, unveiled its latest generation of self-driving car system-on-chip at this week’s CES 2022. Called EyeQ Ultra, the SoC is built specifically for consumer autonomous driving and delivers 176 trillion of operations per second (TOPS)."

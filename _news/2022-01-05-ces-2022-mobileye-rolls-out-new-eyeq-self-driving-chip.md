@@ -58,6 +58,22 @@ related:
         width: 830
         height: 545
         isCached: true
+  - title: "AI-driven self-driving race cars create history at CES 2022"
+    excerpt: "Self-driving race cars made their own place at the CES 2022. Italian American team PoliMOVE developed a self-driving race car based on a Formula One car, nicknamed as Minerva claimed to have created history at the event,"
+    publishedDateTime: 2022-01-09T04:29:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022-41641700029723.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/auto-images/Kia/Seltos/1589878851759_Seltos1"
+        width: 630
+        height: 420
+        isCached: true
   - title: "CES 2022: TuSimple furthers Level 4 self-driving trucking with Nvidia"
     excerpt: "TuSimple, an autonomous trucking startup, is expanding its collaboration with chipmaker Nvidia to develop an advanced autonomous domain controller (ADC) designed specifically for Level 4 self-driving trucks."
     publishedDateTime: 2022-01-04T14:06:00Z

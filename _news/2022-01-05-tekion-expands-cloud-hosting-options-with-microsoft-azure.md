@@ -79,6 +79,20 @@ related:
         width: 464
         height: 348
         isCached: true
+  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
+    excerpt: "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure."
+    publishedDateTime: 2022-01-04T15:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Annata and Microsoft deliver new retail and mobility services"
     excerpt: "Iceland-based technology provider Annata has expanded its long-standing partnership with Microsoft to develop new retail and mobility services. The firm will enhance the Annata 365 cloud platform with new services to enable those involved in vehicle manufacturing and supply to upgrade legacy systems and better engage with customers."
     publishedDateTime: 2022-01-05T10:16:00Z
@@ -107,15 +121,6 @@ related:
         width: 1800
         height: 600
         isCached: true
-  - title: "Tekion Expands Cloud Hosting Options with Microsoft Azure"
-    excerpt: "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,"
-    publishedDateTime: 2022-01-04T15:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Annata expands Microsoft collaboration to drive data and mobility services in automotive industry"
     excerpt: "Annata is deepening their collaboration with Microsoft to further develop and bring to market solutions to enable the transformation of automotive distribution and retail with next-generation retail and mobility services."
     publishedDateTime: 2022-01-04T19:05:00Z

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "OPPO is creating Innovative Experiences with Artificial Intelligence as it unveils its Smart Glass Technologies"
-    excerpt: "The keen emphasis on innovative mobile technology experience is bringing the likes of Neural Processing Unit (NPU), artificial intelligence (AI), and augmented reality (AR) to the forefront in Nigeria and major global tech giants are not leaving any stones unturned in the drive towards creating smarter cities around the world."
-    publishedDateTime: 2022-01-04T11:51:00Z
-    webUrl: "https://www.bellanaija.com/2022/01/oppo-smart-glass/"
-    ampWebUrl: "https://www.bellanaija.com/2022/01/oppo-smart-glass/amp/"
-    cdnAmpWebUrl: "https://www-bellanaija-com.cdn.ampproject.org/c/s/www.bellanaija.com/2022/01/oppo-smart-glass/amp/"
-    type: article
-    provider:
-      name: BellaNaija
-      domain: bellanaija.com
-    quality: 37
-    images:
-      - url: "https://www.bellanaija.com/wp-content/uploads/2022/01/IMG_1305-1000x600.jpg"
-        width: 1000
-        height: 600
-        isCached: true
   - title: "The Missing Role your Organization Needs for the Success of your AI Initiatives"
     excerpt: "In this contributed article, Alankrita Priya, AI/ML Product Manager at Hypergiant, discusses how MLOps platforms can operationalize new technologies and fully bridge the gap between data scientists and end business users."
     publishedDateTime: 2022-01-05T14:00:00Z

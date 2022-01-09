@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-r
 ampWebUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/"
 type: article
-quality: 104
-heat: 114
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1351969920.jpg?w=1200&strip=all"
@@ -46,6 +47,6 @@ related:
         height: 501
         isCached: true
 
-secured: "m+dRbr+Bd48qtrv+0nP+mejOVFVSkfcJb4mV8krGiXFbeE1QcNDymPUpKi1fvjEQNB2dSDUaFB0P9xpdMt5JCugvknSQfLqnf2XcWdsirTuenPSw2ngxjvsG+iAuscOZCSvFBhGqbRp9xf9XsJwgVtaut4QIFxLR0dtS2TJz8F9wjp2UiUn7C1Z+O24j1/AKrYhf+RvLUVsNCf7U2Zr2uY70Vgw3ZHic6N4kVqWkWEREdmI7mfxvsYXiAfyL7a+zkkfdQ0VOGN7KM/cDulKMOpPuH0hT7G7/CXmUAJdEAKYN3OKDpsa3ntVBju2xwWpmPSOlnt2s+F33iJSztjr3t0xO1B/NR4nB+6Uc0mzKrt0=;4GcMHlQR4ih6UEJJPRrNDg=="
+secured: "EtPsa+Jj0Wo371L4ElLeFvAcK+RrfWoUaUzk7dd+hmZ71rIttZQmjg65JjjnJzBpAPqzl6SMB87zio6L+nPIvlqXFMZtK5ydN+CHHlY7LOU6NNQ9/CEh1FQhCu+Bwh4T04VR48kgR02AZ6ViOk2GBDrKpxiS1Ff9dOQuRHmUVhPuXkQAOsA4cH7QPo3OftqedtlU8NOriG/4SLEd5bS4/0i0L58UbgckiG26CmyZcOWzlj8zLwei6WDC1UIk1+uZ8RkcqHRfJfARbNhEB8Ur4ZZR2pi3cMBiiizprFp1DXavRmPMwFKw3Eeau11HYu+fxNJxGHjVV7w8DVuqHoKAFcr/IAtWJpyhqJJG/+qVbxRLHLwYQLNiUhngX8qDgpTpOQvM6sGxwg+amBbhgGCYQi1YVdrFHXEWD0AUDGvRDT19KjT+jOf8EG9bKTLATxmctHi0M77HLnX68ZApOO/2g7S0YBkQr0/iN6m5C5p5Dqh2d0uR5bXjjGKfJ/jHLMBx7uMEGSmiqswDvV/a2zOhvg==;oq/rJAdVhlIMFCh5nTWKGw=="
 ---
 

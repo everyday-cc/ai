@@ -3,8 +3,8 @@ category: news
 title: "Exscientia and Sanofi establish strategic research collaboration to develop AI-driven pipeline of precision-engineered medicines"
 excerpt: "Collaborative efforts aim to accelerate drug discovery and improve clinical success Agreement to utilize Exscientia’s AI-based capabilities and personalised medicine platform from target identification through patient selection Research will be focused on up to 15 novel small molecule candidates across oncology and immunology Exscientia will receive an upfront cash payment of $100 million with the potential of $5."
 publishedDateTime: 2022-01-07T06:02:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/coronavirus-pandemic-business-health-531f9bb727e741335053eb4f43091797"
-webUrl: "https://apnews.com/press-release/globe-newswire/coronavirus-pandemic-business-health-531f9bb727e741335053eb4f43091797"
+originalUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-business-health-531f9bb727e741335053eb4f43091797"
+webUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-business-health-531f9bb727e741335053eb4f43091797"
 type: article
 quality: 8
 heat: -1
@@ -115,6 +115,6 @@ related:
       domain: endpts.com
     quality: 0
 
-secured: "B+tIO/YnkGBjsxCxgF7zy7HmIQzHrNyiXk0vKs3kTQGGBwNj+8Rv9LD3slQHaTb4HXTOwnKUOHjo4EpSER52BcmpH+zD8V+vSQ374vrCtGi6HrpJVaGwwZI2aLMzs6iTPmiypqYcCi3v+d5VD/MUqptL7Md9sbjdWlnfjMLPmh6ZHSZTGv2OsZpg90EtzFYYdAnn6XtfPMMMu7d0RWOKMl1Ga0Xo2orBJykiTiDYiF3+DdYLtFKz95F/OUDBskBxf57yqF5TBre1yYB64OvYvQuaUoeaoUHm7TAzi1PYO3UG48svp6ccFDGQw+L6jJCQeALOVGfq9R2Cg5l4coPKEcSTDAWxe09JLk6AoX9lKbk=;LRW1ARIAmBbYinIhpkzKIQ=="
+secured: "4qX7UCHncy5UbUEvYLssX4RRkREmAzGPphH5om51N9T4+TbNJEvH58cJRPVFHAWLvsMCzI7QI0OedZ9L2bWbXvcYW3xozk4BPkn8CL9XVyQd8YWLAzBxHg7ncTbgImMRw3v9Ark+DvJIdeOPseLfnDt0dwY8hRZbQyomgKX8bRbEWcF7yLnDrpZiBmkMf8YHM4hDwg9JETEr0LUiKjDpIBo6qFPrTQ7KlrymptA2LIyoc96g9o8JPT8ELfKQbtAUdA6L28Sz46X7iaTg0HFX0YWPiFA6FGlwMjNamWcLjs2AjQDVUWpvaPcKt3O220ETAOf0TvVjy/LW6p7mywHihTaPucMYcz9yuPy8K02LuZA=;7HhfZxShF+n8RXoVgFG+3A=="
 ---
 

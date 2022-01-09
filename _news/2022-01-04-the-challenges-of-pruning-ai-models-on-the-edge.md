@@ -24,37 +24,79 @@ images:
     isCached: true
 
 related:
-  - title: "The Danger of Leaving Weather Prediction to AI"
-    excerpt: "When it comes to forecasting the elements, many seem ready to welcome the machine. But humans still outperform the algorithms—especially in bad conditions."
-    publishedDateTime: 2022-01-04T12:00:00Z
-    webUrl: "https://www.wired.com/story/weather-forecasting-artifical-intelligence/"
-    ampWebUrl: "https://www.wired.com/story/weather-forecasting-artifical-intelligence/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/weather-forecasting-artifical-intelligence/amp"
+  - title: "Seeking a way of preventing audio models for AI machine learning from being fooled"
+    excerpt: "Artificial intelligence (AI) is increasingly based on machine learning models, trained using large datasets. Likewise, human-computer interaction is increasingly dependent on speech communication, mainly due to the remarkable performance of machine learning models in speech recognition tasks."
+    publishedDateTime: 2022-01-06T21:51:00Z
+    webUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 87
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 68
     images:
-      - url: "https://media.wired.com/photos/61bcfdf760b9d5dd7134793f/master/pass/The-Danger-of-Leaving-Weather-Prediction-to-AI.jpg"
-        width: 2400
-        height: 1350
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/seeking-a-way-of-preve.jpg"
+        width: 775
+        height: 500
         isCached: true
-  - title: "The AI forecaster: Machine learning takes on weather prediction"
-    excerpt: "According to a 2009 study, U.S. adults look at weather forecasts nearly 300 billion times a year. Reliable forecasts can predict hazardous weather―such as blizzards, hurricanes, and flash floods―as early as 9–10 days before the event."
-    publishedDateTime: 2022-01-06T14:07:00Z
-    webUrl: "https://phys.org/news/2022-01-ai-machine-weather.html"
-    ampWebUrl: "https://phys.org/news/2022-01-ai-machine-weather.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-machine-weather.amp"
+  - title: "Lior Cole Is The Model Combining Artificial Intelligence With Religion"
+    excerpt: "Last Fashion Week in Milan, Lior Cole headed to the National Museum of Science and Technology of Milan on her one day off from walking runways. A science buff studying information science at Cornell,"
+    publishedDateTime: 2022-01-06T11:25:00Z
+    webUrl: "https://www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi"
+    ampWebUrl: "https://www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi/amp"
+    cdnAmpWebUrl: "https://www-vogue-co-uk.cdn.ampproject.org/c/s/www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi/amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 74
+      name: British Vogue
+      domain: vogue.co.uk
+    quality: 57
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/the-ai-forecaster-mach.jpg"
+      - url: "https://media.vogue.co.uk/photos/61d6c6d7ea688ceb329b3f28/master/pass/lior-promo.jpeg"
+        width: 956
+        height: 956
+        isCached: true
+  - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
+    excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."
+    publishedDateTime: 2022-01-06T14:39:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ust-launches-ust-aisense-an-ai-led-sensory-solution-that-makes-hyper-personalized-shopping-recommendations-for-wine-beer-and-food-1031081739"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+    images:
+      - url: "https://mma.prnewswire.com/media/1422658/UST_Logo.jpg"
+        width: 387
+        height: 400
+        isCached: true
+  - title: "fylm.ai 1.1 update brings online raw processing and grading for photographers"
+    excerpt: "The fylm.ai 1.1 update is a “Photographers Release”, bringing the worlds of still photography and video closer than ever fylm.ai is a subscription based online color grading tool designed for both videographers and stills photographers."
+    publishedDateTime: 2022-01-05T17:25:00Z
+    webUrl: "https://www.digitalcameraworld.com/news/fylmai-11-update-brings-online-raw-processing-and-grading-for-photographers"
+    type: article
+    provider:
+      name: digitalcameraworld.com
+      domain: digitalcameraworld.com
+    quality: 34
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/d49GFiVxggCLNzS4AbbZ4V-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "First-of-its-kind artificial intelligence - a helping hand for commodities trading"
+    excerpt: "Revenue.AI, a Dutch company, is optimizing the way traders crunch big data with the release of its newest augmented intelligenc"
+    publishedDateTime: 2022-01-05T04:42:00Z
+    webUrl: "https://menafn.com/1103488896/First-of-its-kind-artificial-intelligence-a-helping-hand-for-commodities-trading"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 31
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?853851"
+        width: 378
+        height: 250
         isCached: true
 
 secured: "BlaS7rNrMEF1w62dHpggZK9asfqDuL1lF1QuT72gYDD5rfWtGqsiVzmaTrVx/GS7eK+ES8VE7uAWlCd8T3b1+uXzmwhbBFS3GBJ0Nk5kxlMY7v7t7vTaOJnNahVqJcVlpdbJ5GXMy/Wzu2JKUNqaL1YV15bRU9KIZsMV8mHJtIZv5V8X0xkYBqWoZsmobBr2KthF1qW9fyb6yxpVTSRxJpd1YsfLnuO0EBi4YPCrtYNrSEmdlrqTjpyBL9S8IFuC+khlzk+ihNstfd4b4SXurD2IkIVfZifBvStJG0jsL5wUpL1xFhHw0n4uBA/xhzzE9c2NZkcih2xvvN4NavbG9lTQ4pgizEUnOLAmAOPZwmoYWg2bM3bNPcahTvyzPAjIRv8d/RONPbIzFsP+yR6xDmMXIKuZR15bIPkOYQIkXZGHVES1DAYAEBugOH7+dWBWL6OKV2OGc3qckja11CNjKnnl5oj39t0BhnT5Q3GlK64szdRrv9/whfQhZiJiTAZw5+y2zKT5khXsZPZvzpD1zQ==;Om2DJUoEZqavdrP/Y31JyA=="

@@ -41,6 +41,48 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology"
+    excerpt: "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,"
+    publishedDateTime: 2022-01-06T06:00:00Z
+    webUrl: "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 51
+    images:
+      - url: "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png"
+        width: 975
+        height: 650
+        isCached: true
+  - title: "Facial recognition technology makes for better giant panda protection"
+    excerpt: "While facial recognition technology continues to facilitate many aspects of human life, it is now also being applied to aid the protection of giant pandas. A nature reserve in Northwest China's Gansu province has built an AI-enabled video monitoring system to better protect wild giant pandas."
+    publishedDateTime: 2022-01-06T02:51:00Z
+    webUrl: "https://www.chinadaily.com.cn/a/202201/06/WS61d6594ca310cdd39bc7f797.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "http://img2.chinadaily.com.cn/images/202201/06/61d6594ca310cdd3d8255110.jpeg"
+        width: 445
+        height: 296
+        isCached: true
+  - title: "Facial recognition technology makes for better giant panda protection"
+    excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
+    publishedDateTime: 2022-01-07T01:54:00Z
+    webUrl: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 39
+    images:
+      - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "hcChfbIrIkBbZR9f3odQWAJy5AhbPUUa0K8O2CaXbnuPzRNdF1Wkh1+wSdLP08m5reJv/xG3OeSIpEIv6GcJcY0UbpO5ZXFDcqrYmIv1gaGmXGKNWFBE2RST6Cyq7ylkz+tfTrZZthfISxcFmqPyFlb2a+Q4BoeJz5M0CIa15/4SL7IgzeXnHKO5Wulv4lPSlJvP75DKsKtusVUxpRD6LrT5C5te14oavEZUAHy4kHSWDAmJ32W16ueH7/+sDlZo9ijiunRHSoVOSPs9N8Cj0hU/YAiiDuz3IwrseEu8QE54k4WscfZqzZEp6K0Z401lgvMKmQaE8/wXOWGcAnHFzfql/PSC8hxB6VzfzxrKr37M5wdQVjlXR2elmazqQy9lQn1QiZG+aCN8bQ0MKIPNW7d/dAUgs/bnhCbfYyd96bKau6Iv/WTjNIbS0CKLIiWgntybgQsNA0j7QK/kIRQWPakCFi1Royo1crrIPNHy9wNDWvKAAI9mt1KABQWyRBHtWlzN3dPY5dmUdWCDNFhUTg==;mTNRxVGSZty35RucauicTQ=="
 ---

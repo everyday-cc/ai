@@ -59,20 +59,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Practical FinTech & Artificial Intelligence Online Training is Now Open for Registration"
-    excerpt: "Infocus International Group, a global business intelligence provider of strategic information and professional services, has launched a brand-new online training – FinTech & Artificial Intelligence which will be commencing live on 11 May 2022."
-    publishedDateTime: 2022-01-04T11:43:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/practical-fintech-artificial-intelligence-online-training-now-open"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 45
-    images:
-      - url: "https://financialit.net/sites/default/files/ai-530_x_330.png"
-        width: 530
-        height: 330
-        isCached: true
   - title: "Fintech On Benzinga: 2022 Will See The Next Milestone In Fintech"
     excerpt: "Nima Ghamsari, Co-Founder and CEO of Blend Labs (NYSE: BLND), presented on a sponsored panel at Digital Mortgage 2021 – a virtual conference a couple of weeks ago."
     publishedDateTime: 2022-01-05T20:44:00Z

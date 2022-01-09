@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "LG builds tech to start cars using facial recognition"
-    excerpt: "The technology will enable users to start their vehicles as well as make adjustments to control the vehicles through facial expressions and hand gestures."
-    publishedDateTime: 2022-01-04T12:24:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/"
+  - title: "Telangana’s facial recognition technology comes under scanner"
+    excerpt: "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places."
+    publishedDateTime: 2022-01-05T19:05:00Z
+    webUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html"
+    ampWebUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: Hindustan Times
+      domain: hindustantimes.com
     quality: 59
     images:
-      - url: "https://www.thehindu.com/sci-tech/technology/7kfqy8/article38110437.ece/ALTERNATES/LANDSCAPE_615/LGfacialjpg"
-        width: 615
-        height: 384
+      - url: "https://images.hindustantimes.com/img/2022/01/05/1600x900/aa424bd6-6e53-11ec-9428-b30a84c15666_1641409525856.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology"
     excerpt: "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,"
@@ -55,19 +55,19 @@ related:
         width: 975
         height: 650
         isCached: true
-  - title: "Facial recognition panel misses reporting deadline"
-    excerpt: "The commission tasked with delving into public agencies' use of facial recognition software in Massachusetts missed its deadline to file a final report, though one of the co-chairs of the"
-    publishedDateTime: 2022-01-04T11:54:00Z
-    webUrl: "https://www.berkshireeagle.com/statehouse/facial-recognition-panel-misses-reporting-deadline/article_74c141f2-6d5d-11ec-9b14-8f48f9112ed7.html"
+  - title: "Law enforcement facial recognition use under scrutiny in Ireland, India"
+    excerpt: "Discrepancies in proposed usage statements and pressure from civil rights groups and activists is putting facial recognition technology in the spotlight."
+    publishedDateTime: 2022-01-04T19:46:00Z
+    webUrl: "https://www.biometricupdate.com/202201/law-enforcement-facial-recognition-use-under-scrutiny-in-ireland-india"
     type: article
     provider:
-      name: Berkshire Eagle
-      domain: berkshireeagle.com
+      name: Biometric Companies
+      domain: biometricupdate.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/berkshireeagle.com/content/tncms/assets/v3/editorial/4/f3/4f30f7ec-6d5e-11ec-847d-cb9135b601ad/5fa16dd4822db.image.jpg?crop=1731%2C909%2C0%2C144&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/10/21112034/police-body-camera.jpg"
+        width: 937
+        height: 482
         isCached: true
   - title: "Facial recognition technology makes for better giant panda protection"
     excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
@@ -82,34 +82,6 @@ related:
       - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
         width: 750
         height: 422
-        isCached: true
-  - title: "Employee Attendance on Raspberry Pi using Facial Recognition"
-    excerpt: "Employee Attendance on Raspberry Pi using Facial Recognition. This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with Abdul"
-    publishedDateTime: 2022-01-08T18:06:00Z
-    webUrl: "https://github.com/Hashehri/employee-attendance-facial-recognition"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/70bf08419da1e87a60f7859161558a5206a590b6842b10e406e45fd4ba3d4487/Hashehri/employee-attendance-facial-recognition"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ports in US and Hong Kong add contactless ‘self-service immigration’ channels using facial recognition"
-    excerpt: "The rollout comes as Hong Kong also expands its face recognition “non-touch e-channel” service for residents re-entering the territory to entry control points at Kai Tak Cruise Terminal. The New Orleans service has been introduced by US Customs and Border Protection (CBP) and Carnival Cruise Line and uses facial biometric technology that “verifies the traveller’s identity within two seconds and is more than 98% accurate,"
-    publishedDateTime: 2022-01-06T09:28:00Z
-    webUrl: "https://www.nfcw.com/2022/01/06/375467/ports-in-us-and-hong-kong-add-contactless-self-service-immigration-channels-using-facial-recognition/"
-    type: article
-    provider:
-      name: nfcw
-      domain: nfcw.com
-    quality: 23
-    images:
-      - url: "https://www.nfcw.com/wp-content/uploads/2022/01/facial-recognition-id-check-carnival-cruise-line.jpg"
-        width: 1176
-        height: 760
         isCached: true
 
 secured: "/OIQx67KY4Ti6MSe4tlqW0WF3uiK/Hei+/R7+gMxeyRVhHfJCmTzt02Kg9LhwgYTWw1ZcoWgBKy/47DlR41qU4j5/gnagaOeiKwmDx/BssR96ZcCbNQCT8C9uTA3fJedjB1Ira/21VvyvCxALbWPJeHnDzyBd5pSd2bW4YejTC6kXGhzr8rTKP65fmnayy3RePrQrB8oElJJSPWjr8JBoV5xfkoCPL/66QcnyEcSsZmYKSOvArGSkWlvMPDGyBfKTlDzRng1uDXY/FIghoGQH1+z7EVxyln62JpLBOmfyKm1Dr4jYaB9jbb7CEiwjc0hrWCEKY/DgtJcQmCWCGcXJFAA1sUZpqMXbGE3jf70Xes=;WeZYSlYU4ls68tWjTdVTqw=="

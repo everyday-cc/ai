@@ -2,27 +2,21 @@
 category: news
 title: "Inspur Information Identified as a Strong Performer in AI Infrastructure Report"
 excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced today that Forrester, a leading global research company, released The Forrester Wave™: AI Infrastructure, Q4 2021, which identified Inspur Information as a Strong Performer and recognized its full-stack AI solutions."
-publishedDateTime: 2022-01-04T14:09:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9dd91b63072a41d99ad49448991e2f5b"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-9dd91b63072a41d99ad49448991e2f5b"
+publishedDateTime: 2022-01-04T14:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-inspur-information-identified-as-strong-performer-ai-infrastructure-/2022/01/04/9519559.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inspur-information-identified-as-strong-performer-ai-infrastructure-/2022/01/04/9519559.htm"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Inspur Information Identified as a Strong Performer in AI Infrastructure Report"
@@ -35,6 +29,6 @@ related:
       domain: businesswire.com
     quality: 15
 
-secured: "zQaxILD8poBPpdhFNmZL2+a5Nn1vohptaeH0RtQTiseJjOKJpCMRFbhyK62z79k6/Jth0TH1r4c5xhJ0RxM2YupXtE+kX1in6LEDrLzfYr0UgF9FwS5Jh00oN5j+SC9eLGvu90DIz3I8kjV1n9TvDLP4zHmAO++7rVbriq0GJZhzItD9ZOcIfkCBP+Czbu5mFUm5dLX+VipLJmtkdXx3wVVPJSyD77qGxwNpyBCtFq1VbSWTOkmvsQa1W1AdUWm2cqT2NTWe+QU1bpmBH+0JVC4IyaaSyik2msAiSwP4XFkreJEFqdYJ0sLYjIDuC9zzpNahGkEmPl9WnE7ev5vEAR9AGOV6oEr+LrWxk9PJ/oU=;zv4ZvuwNxcpq9wwI66z//w=="
+secured: "wIc9ZyBe/PooC3PkLuMQIKtdjXxqVkpQKESw9AglA8vpjE2IhTWaTziM7UvEDTVbPQzAQghSf4OL8LjtKK1IwwIEDOIzVbVJgfIF3ZxO3/XfIJkzx+q6LrcyVDcViKbR9KCaTfzJItgCgD2tPAEUfcksQOCoKXwcpSrvKt8aDEf80wETQbUggBwOWImQlNzfUYWnTCCIkdw/+MsBDM9sE3YPhXO+VG+cIbtNpF5Pl9JdkS5IuM83yGC6Ir9KUJwmYqtJ+yrGPOBlSa3q3rJh9SAI6rd1BIFBSWZeqebgDJH5HJvjtFXg/ko0fimi/QhbHxToCNGknCBWrpPOTPof5TE9tiXCpbT2oi2IQ6SnYFQ=;TuyER88rydZ6wFF3TUsz5g=="
 ---
 

@@ -104,15 +104,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "BioXcel Therapeutics to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "BioXcel Therapeutics, Inc. (Nasdaq: BTAI), a clinical-stage biopharmaceutical company utilizing artificial intelligence approaches to develop transformative medicines in neuroscience and immuno-oncology,"
-    publishedDateTime: 2022-01-04T12:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-bioxcel-therapeutics-present-the-40th-annual-jp-morgan-/2022/01/04/9519159.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 12
 
 secured: "gqyXr9xSueY146R6OFAEl7jJmDbhLSYV9GSneEcDaprXe7UlwfzoO8j217kWtVPj83xlwC+G7PhBMjSKabPwn91wTSQLR0POyvDaA/u31W4jOK0/lV2EcPEuhd02kqBUxJZePTfWuarqx70TEhBGBsDyDoeeJKCR0Fi0mDnMuF7euz4IvytBZcy9jrJgCtvCKTNP4hlhZiEeocBQNPNsZd9siVV37JkyydffmX54n3l0UbKIaR96bf8mqWSJ7MWcYCvbUCrgU5Kqi/XHSdTq3XDd723h5wbZfq/MymkpJ3lr74aeV6sZlO6SgdDE6R5RQqCQptR65kfljxfc0uDIq5gHzwdTT5kUlL+OgAwiU2E=;s9qrobC3erB7/yNGR3Idlg=="
 ---

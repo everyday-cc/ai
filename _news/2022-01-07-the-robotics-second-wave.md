@@ -7,7 +7,7 @@ originalUrl: "https://www.scmr.com/article/the_robotics_second_wave"
 webUrl: "https://www.scmr.com/article/the_robotics_second_wave"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Is HR Ready For Robotics?"
-    excerpt: "When the \"Robot Mind\" is mastered, undisciplined thinking ceases and is replaced by awareness. Awareness can know \"Love\"."
-    publishedDateTime: 2022-01-04T12:12:00Z
-    webUrl: "https://www.linkedin.com/pulse/hr-ready-robotics-shikha-rani"
+  - title: "Doosan Robotics' collaborative robots marks annual sales of over 1,000 units, breaking through domestic records"
+    excerpt: "Acquires investment worth US$33.7 million from Praxis Capital Partners & Korea Investment Partners -Plans to establish North America and Europe subsidiaries, aiming to expand global market footprint -"
+    publishedDateTime: 2022-01-05T13:57:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2022/01/05/doosan-robotics-collaborative-robots-marks-annual-sales-of-over-1000-units-breaking-through-domestic-records/18021/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEADPufJChiGA/article-cover_image-shrink_600_2000/0/1641297157746?e=1646870400&v=beta&t=VkTgKrl_CkHElq-1n1NnyJS8g9cA_qDJfwfKntGKaxI"
-        width: 700
-        height: 394
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 31
 
 secured: "+iVV+CzKKCfCSJILIgRHVmcUgxN1Y+7Kv82dZNtXMc14qWIq3R/w0WwoiHCemUO2LBsJZ+X7Ron3Oj57GkP9QeaKCGE9C7S51lxV/2NxQdlBoskrCb7aggP7rIMV1SYpUT7PUgEmSrJNAVBCIwCAG0BYESbNSp/XgktK+NhTtMzFrFNS2EE+fv+d+/A4b2311ARqEUcy8DubJST40TJGHSzuWOT/hHSyvJd+xIgavciUyLOHcQFmMuaIILpf1c9lGkqW3fcB6tt7xTgW1ISXy5WCLxti5dFGyZvf7q+YsmWfF33xKylJ4IhmEJEUrVgDW7pZbExAFiJF0ohBTUPZlV4froF5CqUpNOHFRyVUMGc=;kDTYdiC8TbZaL39B+7l/tw=="
 ---

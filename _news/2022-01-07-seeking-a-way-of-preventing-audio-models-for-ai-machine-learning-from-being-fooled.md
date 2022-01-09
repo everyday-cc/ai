@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Model May Aid Screening for Acute Pulmonary Embolism"
-    excerpt: "A model integrating clinical data with electrocardiogram (ECG) waveforms may improve prediction of pulmonary embolism (PE), according to a study recently published in the European Heart Journal-Digital Health ."
-    publishedDateTime: 2022-01-04T12:33:00Z
-    webUrl: "https://www.physiciansweekly.com/ai-model-may-aid-screening-for-acute-pulmonary-embolism/"
-    ampWebUrl: "https://www.physiciansweekly.com/ai-model-may-aid-screening-for-acute-pulmonary-embolism/amp/"
-    cdnAmpWebUrl: "https://www-physiciansweekly-com.cdn.ampproject.org/c/s/www.physiciansweekly.com/ai-model-may-aid-screening-for-acute-pulmonary-embolism/amp/"
-    type: article
-    provider:
-      name: Too Old to Operate
-      domain: physiciansweekly.com
-    quality: 57
-    images:
-      - url: "https://www.physiciansweekly.com/wp-content/uploads/2022/01/image1641299513.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Lior Cole Is The Model Combining Artificial Intelligence With Religion"
     excerpt: "Last Fashion Week in Milan, Lior Cole headed to the National Museum of Science and Technology of Milan on her one day off from walking runways. A science buff studying information science at Cornell,"
     publishedDateTime: 2022-01-06T11:25:00Z
@@ -58,6 +42,20 @@ related:
       - url: "https://media.vogue.co.uk/photos/61d6c6d7ea688ceb329b3f28/master/pass/lior-promo.jpeg"
         width: 956
         height: 956
+        isCached: true
+  - title: "The Challenges of Pruning AI Models on the Edge"
+    excerpt: "In this special guest feature, Nick Romano, CEO, Deeplite, discusses how struggling to fit advanced models in edge devices with limited resources forces deep learning teams to start “pruning” models – essentially trimming parts of it that are deemed not critical,"
+    publishedDateTime: 2022-01-04T14:00:00Z
+    webUrl: "https://insidebigdata.com/2022/01/04/the-challenges-of-pruning-ai-models-on-the-edge/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 37
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2020/03/IBD_PNYWPCover2020-03-16_8-53-21.jpg"
+        width: 252
+        height: 355
         isCached: true
   - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
     excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."
