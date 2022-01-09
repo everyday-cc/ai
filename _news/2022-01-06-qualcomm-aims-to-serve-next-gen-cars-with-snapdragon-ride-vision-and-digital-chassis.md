@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
 type: article
 quality: 82
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm Unveils Gambit to Build \"Digital Chassis\" for Self-Driving Cars"
-    excerpt: "New initiatives for Qualcomm include next-generation ARM PCs, the metaverse, VR/AR, wireless fiber, and Advanced Driver-Assistance Systems (ADAS)."
-    publishedDateTime: 2022-01-04T23:41:00Z
-    webUrl: "https://interestingengineering.com/qualcomm-unveils-gambit-to-build-digital-chassis-for-self-driving-cars"
-    ampWebUrl: "https://amp.interestingengineering.com/qualcomm-unveils-gambit-to-build-digital-chassis-for-self-driving-cars"
-    cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/qualcomm-unveils-gambit-to-build-digital-chassis-for-self-driving-cars"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 43
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/img/iea/QjOddRPQOd/sizes/ces-2022-snapdragon-digital-chassis-render-01_resize_md.png"
-        width: 744
-        height: 419
-        isCached: true
   - title: "GM's Ultra Cruise self-driving system to use Qualcomm's Snapdragon Ride hardware"
     excerpt: "GM plans to launch an upgraded version called Ultra Cruise, which the automaker says will handle 95% of the country's roads, meaning many journeys won't require any actual driving by a human. Like Super Cruise,"
     publishedDateTime: 2022-01-07T14:00:00Z

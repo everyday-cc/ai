@@ -19,65 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
-    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
-    publishedDateTime: 2022-01-09T14:30:00Z
-    webUrl: "https://www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162"
-    ampWebUrl: "https://www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162.amp.html"
+  - title: "From self-driving trucks to psychedelic drugs: 10 Pittsburgh tech companies to watch in 2022"
+    excerpt: "This year's list features both new and familiar names, highlighting the top technology coming out of Pittsburgh."
+    publishedDateTime: 2022-01-06T16:22:00Z
+    webUrl: "https://nextpittsburgh.com/city-design/from-self-driving-trucks-to-psychedelic-drugs-10-pittsburgh-tech-companies-to-watch-in-2022/"
     type: article
     provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 56
-  - title: "Keeping self-driving cars safe from hackers"
-    excerpt: "Cars of the future will be heavily dependent on the internet for navigation and other basic operations. But that will also make them vulnerable to hacking attacks capable of causing serious damage."
-    publishedDateTime: 2022-01-05T03:48:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 44
+      name: NEXTpittsburgh
+      domain: nextpittsburgh.com
+    quality: 13
     images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220105_20_1064388_L.jpg"
-        width: 640
-        height: 360
+      - url: "https://nextpittsburgh-images.s3.amazonaws.com/2022/01/05163524/Screen-Shot-2022-01-05-at-4.34.49-PM-e1641418549543.png"
+        width: 750
+        height: 420
         isCached: true
-  - title: "TuSimple Trials Self-Driving Trucks Amid Trucker Squeeze"
-    excerpt: "As the U.S. trucking industry faces a shortage of more than 80,000 drivers, according to the American Trucking Association, one company is hoping that it can one day fill the gaps by bringing its autonomous trucks nationwide."
-    publishedDateTime: 2022-01-07T22:07:00Z
-    webUrl: "https://sourcingjournal.com/topics/logistics/tusimple-trucker-shortage-autonomous-driverless-self-driving-nvidia-321892/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2022/01/TuSimpleCameras.png?fit=1200%2C674&quality=98&ssl=1"
-        width: 1200
-        height: 674
-        isCached: true
-  - title: "Video: Samsung’s self-driving tech goes for a ride"
-    excerpt: "Samsung Electronics showed its vision for in-vehicle experiences and technology that will allow for self-driving capabilities. The concept video shows how Samsung combines the latest consumer electronics and information technologies with Harman,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17615/video-samsung-s-self-driving-tech-goes-for-a-ride"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
-  - title: "Xperi Research Shows Continued Consumer Trust Issues Regarding Self-Driving Car Technology"
-    excerpt: "DTS ®, a global leader in developing extraordinary next-generation audio, imaging and sensing technology and a wholly owned subsidiary of Xperi Holding Corporation (NASDAQ: XPER) (\"Xperi\"), shared today its 2022 Vehicle Predictions report which confirms that consumers are concerned about the safety of autonomous vehicles."
-    publishedDateTime: 2022-01-05T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-xperi-research-shows-continued-consumer-trust-issues-regarding-/2022/01/05/9520241.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "s5bjNtxp7glHNb/zEH/1atwBPC1Rc0qgY2kXHmGgN2gzEDKaFkpmJMYr70iWewZaFBpJG9Z2aOxdOizuvXI1PhnFj5Eq6plpbz8IxM9wL6+O1VrE1mgnQ/U1panjGtu799gPzCOn82j9tdsQOY4Dq0CPgCu+uyE1RRYBMnPYi4wh2g1PmjhXKjp+T3i0ONuwgSPSpKAb3AfdMs6IApXdDrN1uLVV2fY4vqA1FVXQizzgxJrjulZjE//ieCthyH4BX2In+NgSxUfHpZ8V0uO848qljXtLS1SDMyklZulqZqAj0VYieVAX9c/MovWJymIup7L7ZuaI2FPQ7l1KNaNN9jUDCxJ0imRy4tC8VP5nNB0=;DjnQjNamy9u7oQCKu6PCQA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.chicagobusiness.com/manufacturing/deere-expects-slow-r
 webUrl: "https://www.chicagobusiness.com/manufacturing/deere-expects-slow-rollout-autonomous-tractors-year"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Deere Rolls Out Fully Autonomous Tractor at CES"
-    excerpt: "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year."
-    publishedDateTime: 2022-01-05T00:42:00Z
-    webUrl: "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
-    ampWebUrl: "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 74
-    images:
-      - url: "https://images.wsj.net/im-461772/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "QrJuyUL3S0yJ07RO68+tpI0yUWyphHZTyvqiT0YiKrIElX2BVi7QaY/bAvknkHV8LL8GTeuCZxQ6yF/VQQFmB3TVMl9+1nGeQcLFbeoiE4Po88Ee73D0LiX9n99I/XG5MoZX1aJC5uPrpkKr9+RHZbAO83MyMkyqETaGVU7/0gFORaU8yfHDRA0dGdhGzTmrRBPJMLU36j+q2iNHV38+K3ljnbsJbYOtk0ULNG45NdBx7aEu+nDQbCmp5DCaViavsx87rL6q04cBDVTSZPNwZ4ITw0IM5FGQvRnFh+nNJll6e+dGzelM9SEccFw+AoQw8GW1RTzbL1ODz+51m3IvQeGiMFbUpaSy0CpTEFmThEA=;IFFXA4tQ4j3cgdD6n1Xwcw=="
 ---

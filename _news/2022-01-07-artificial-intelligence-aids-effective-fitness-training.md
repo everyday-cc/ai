@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:

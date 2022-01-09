@@ -19,65 +19,34 @@ topics:
   - AI
 
 related:
-  - title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
-    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
-    publishedDateTime: 2022-01-09T14:30:00Z
-    webUrl: "https://www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162"
-    ampWebUrl: "https://www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162.amp.html"
+  - title: "Pete Buttigieg wants vision tests for self-driving cars"
+    excerpt: "The US secretary of transportation wants to talk about innovation, infrastructure, and electric vehicles — but not about Tesla It’s something of a tradition for the US secretary of transportation to address the annual Consumer Electronics Show in Las Vegas and talk about all the ways that the government hopes to foster innovation in technology and transportation."
+    publishedDateTime: 2022-01-06T12:00:00Z
+    webUrl: "https://www.theverge.com/22869190/pete-buttigieg-self-driving-cars-electric-tesla-decoder"
     type: article
     provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 56
-  - title: "Keeping self-driving cars safe from hackers"
-    excerpt: "Cars of the future will be heavily dependent on the internet for navigation and other basic operations. But that will also make them vulnerable to hacking attacks capable of causing serious damage."
-    publishedDateTime: 2022-01-05T03:48:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 44
+      name: The Verge
+      domain: theverge.com
+    quality: 54
     images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220105_20_1064388_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "TuSimple Trials Self-Driving Trucks Amid Trucker Squeeze"
-    excerpt: "As the U.S. trucking industry faces a shortage of more than 80,000 drivers, according to the American Trucking Association, one company is hoping that it can one day fill the gaps by bringing its autonomous trucks nationwide."
-    publishedDateTime: 2022-01-07T22:07:00Z
-    webUrl: "https://sourcingjournal.com/topics/logistics/tusimple-trucker-shortage-autonomous-driverless-self-driving-nvidia-321892/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2022/01/TuSimpleCameras.png?fit=1200%2C674&quality=98&ssl=1"
+      - url: "https://cdn.vox-cdn.com/thumbor/ZP8kG7rAlFuaJYrKi_y0LzupnMU=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23147858/VRG_ILLO_Decoder_Pete_Buttigeig_s.jpg"
         width: 1200
-        height: 674
+        height: 628
         isCached: true
-  - title: "Xperi Research Shows Continued Consumer Trust Issues Regarding Self-Driving Car Technology"
-    excerpt: "DTS ®, a global leader in developing extraordinary next-generation audio, imaging and sensing technology and a wholly owned subsidiary of Xperi Holding Corporation (NASDAQ: XPER) (\"Xperi\"), shared today its 2022 Vehicle Predictions report which confirms that consumers are concerned about the safety of autonomous vehicles."
-    publishedDateTime: 2022-01-05T12:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-xperi-research-shows-continued-consumer-trust-issues-regarding-/2022/01/05/9520241.htm"
+  - title: "Pa. transportation secretary, senator unveil bill to allow self-driving cars to be tested"
+    excerpt: "With pioneering research on self-driving vehicles at Carnegie Mellon University and private companies in, Pennsylvania wants to make sure that new technology can be developed, tested"
+    publishedDateTime: 2022-01-05T23:18:00Z
+    webUrl: "https://www.bradfordera.com/news/pa-transportation-secretary-senator-unveil-bill-to-allow-self-driving-cars-to-be-tested/article_b083a750-7817-58cb-b336-6bc892f0beb4.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Torc Robotics expands footprint with new engineering office in Austin, Supporting fast growth in drive to commercialize self-driving trucks"
-    excerpt: "We are confident that our future Austin Torc'rs will share our passion for this technology and mission of Saving Lives."
-    publishedDateTime: 2022-01-06T14:14:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2022/01/06/torc-robotics-expands-footprint-with-new-engineering-office-in-austin-supporting-fast-growth-in-drive-to-commercialize-self-driving-trucks/18029/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 0
+      name: Bradford Era
+      domain: bradfordera.com
+    quality: 15
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bradfordera.com/content/tncms/assets/v3/eedition/0/91/091662c9-75f9-5930-b6a0-623d2694b5c8/61d4fc1ea0340.preview-300.jpg?resize=300%2C651"
+        width: 300
+        height: 651
+        isCached: true
 
 secured: "z+P2hic4bxkhhtGiPLYCCFk0Mte4jdYbOOaXpmh+nS24AOFXw3+RKB5E3XDAlbmkysIaX/y+ALNn5V25hpcEA9Iu858AvvmWiJ324MEnYIpiJyILfADZiLbukkQ21alZM8PaSgi4gfPY/q503FnNolrIy5bum6MFhMI2nHL+XMEVIz8xSC0868+M1ghSJk5Y4HbmJ5VZjWY6NJ2tDy4iUQLhMeHDTvVOWC5bNtAziPR16oUAm6r8Y4RKGP0JUR6TM6elPbqsfAnPTJRQW8/7J4/rNVaJLy8cqk4BntXZt7gIEQ6QI2cxtADEZfPhuvtvdbVQRZOdJzFeMQC9+vODwuX8obPNhA1vfqbFTV+PujU=;t2tNQDFQ/lGgdGPxLFjb2w=="
 ---

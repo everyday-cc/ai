@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "PREDICTION: The AI on ‘Star Trek: Discovery’ Will Get an Android Body"
-    excerpt: "Lower Decks ” is not among those shows which slip in reference to the old movie or beloved show. “Lower Decks” is so packed with references and Easter Eggs that watching each episode just once is nearly impossible."
-    publishedDateTime: 2022-01-05T01:02:00Z
-    webUrl: "https://heavy.com/entertainment/star-trek/zora-to-become-android-on-discovery/"
-    ampWebUrl: "https://heavy.com/entertainment/star-trek/zora-to-become-android-on-discovery/amp/"
-    cdnAmpWebUrl: "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/entertainment/star-trek/zora-to-become-android-on-discovery/amp/"
-    type: article
-    provider:
-      name: Heavy.com
-      domain: heavy.com
-    quality: 57
-    images:
-      - url: "https://heavy.com/wp-content/uploads/2022/01/zora_HEAVY.jpg?quality=65&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Top 7 Robotics Trends & Predictions for 2022"
     excerpt: "With the huge shift towards automation across industries all around the world as a result of the Covid-19 pandemic, it is time to explore the effects this may have on the way business is conducted during the next twelve months."
     publishedDateTime: 2022-01-06T19:58:00Z

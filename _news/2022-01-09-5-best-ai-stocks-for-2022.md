@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "In this article, we will take a look at the 5 best AI stocks for 2022. If you want our detailed analysis of these stocks, go directly to the 10 Best AI Stocks for 2022. Graphics chip giant NVIDIA Corporation (NASDAQ:NVDA) is one of the best AI stocks for 2022."
+excerpt: "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),"
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
 
 images:
@@ -40,6 +40,6 @@ related:
         height: 512
         isCached: true
 
-secured: "aJtNDCz3Lx/rS1RiHDqwWgkxIo/GCgJkGRAMeihwB0QrUC2Ik1VtHg0Tkoxo8dPoXooPvK13ms66ozo+RnwuEQjgf+Ew3cSXbD5WQTT+DhEjJKd6VpJdYWhhxFR7PZRqCpADgkpH9FUpIo1iFl/uq9x/V1FPTg+WGRwhAyxBkfOd4QA3ClRRhYeHuR0DR8SL02Qv3p1wiJhEywPIXcdYuOaGy2vaJoc1hmoWdCXIDcboR8iB6Eh73MfpFoYyfBEJ6xbSwbDSpfnofkRw76DQMRNUxvzYEb9BgGr2S6qSlY9c7X43IYC3n2nONGdF0DpfdYJrPTedMItYypabbH0R7f918eyzPX61MUzAw49vw3A=;1tQW6sL70twgl/AMq+gdKA=="
+secured: "TH3emu/f9s5KDSNvr/aZDZ7CMQ2DsCeQ/7KMPpdjdiyjKItitIlSZ6gbvWgByPaoaa+VUJvBRYbBSpmMkDoOKjKem2UezwPhq9RBShwPM/KnMJWJdGE6fMLwl1oYvuunM7tAqdd5rKpSyji/myP5DOpUwhUI3T7xBYLZmzG6LDab1d9NxhTcQ3YXwuUtF6XH/9a/v10XxTRsg5vFpb88rwe5KR2xbR2pb6xM1hgf+KP4MvYRHvYmaCwn6agoY/Pn5qOwoL7NXz6XfMlDZJCZMa4uFsIIPspcX3HpXZ3NhJIwCBgivK6IxXfGccs1J/ietd5GsOry3gl92a8M3Ozp0cwch+TKXwpWepWyel2AioY=;sw/h0rKLWgwEn4KQBb+NnQ=="
 ---
 

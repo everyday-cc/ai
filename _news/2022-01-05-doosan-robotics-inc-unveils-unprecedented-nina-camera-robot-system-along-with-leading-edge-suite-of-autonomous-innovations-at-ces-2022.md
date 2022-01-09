@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
-publishedDateTime: 2022-01-05T14:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
-webUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
+excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
+publishedDateTime: 2022-01-05T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
 type: article
 quality: 21
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?p=facebook"
-    width: 5157
-    height: 2698
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
+    width: 1154
+    height: 606
     isCached: true
 
 related:
@@ -158,6 +158,6 @@ related:
         height: 308
         isCached: true
 
-secured: "3ZWUpve/gCCjCwnp+rhRARhy2EbJXNnf3Gpe6lFfN5ANzo+RMrvhvGIMzHRjTcetP8/GYto0hC3egfvv6MtADXQTxYK1bikMM/DVOboLT/Nz1PNitlGAdaYkpvo7XB/iaTK1Sy5kPXZnrul7rTCkU41aaKyKjHQJxdN4fS+umYgTeOXHcOBY28I0bLCl5d9sAcofESi0yHwuwXkw4S1ilOpbzeC2bR5k/ERvydVi7e7PHec3uLwsmaxNji1Dld+uapj5eZUWUp1zIRg14EkL/EYbu+y9miHDYDFvKcyFUVLEjNewEkyh8pmbYXf83gI26vJFB2/ScPq5eEUcSX1cojbARTTup/AnOCJiyo4y0aE=;mE5k/sA+w/+1SpuT+vrcrA=="
+secured: "odjord6o098t8akBgB3QygPlhRqoeU/iLkj0w0fyhmd1zWXrlaNwsj8y81pHkwlkBHmwqJjWG9RV0sw959SxQ8rH8NLJNL3TLvJbhPuQ2XLudcYEebzHglJtDOtpx8Q3FzJN9oaLnD7AS386y7TO2R0e1zldpHSBItODfAagC3Gp+2n6uPcHNwspB7wHM1kGWFmT3s0OIoebKtlubOXfeQq2rdNzAhoSVOpONjz6e6++YPjYwlR7vx8Dr1yGHDYW5EPnIWTJgeIi9HDinpOToMCs334L47pVKWGwmm00b96VnrsX8QHIq8fJtpbrbcUItjbHQ7DDp5NeIe/2KgG3EoOWJ8k3tsqRwUJMu/6BQLo=;GYI4ZADBTJOeUkUV+7Slnw=="
 ---
 

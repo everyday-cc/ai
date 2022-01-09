@@ -86,20 +86,6 @@ related:
       name: ProPakistani
       domain: propakistani.pk
     quality: 39
-  - title: "NVIDIA set to launch their latest GPU: The 3090 Ti"
-    excerpt: "NVIDIA has announced its latest graphics card in the 30 series. Gamers all over the world are extremely excited to hear about the launch of RTX 3090 Ti. The RTX 3090 Ti is said to be the fastest gaming graphics card yet."
-    publishedDateTime: 2022-01-05T00:46:00Z
-    webUrl: "https://gameranx.com/features/id/284137/article/nvidia-set-to-launch-their-latest-gpu-the-3090-ti/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 39
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/01/GPU.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "The Nvidia RTX 3090 Ti is the GPU we all desire, but we really need the RTX 3050"
     excerpt: "All of the major brands released a flurry of powerful new gaming laptops as soon as Nvidia introduced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards. If Nvidia can keep its promises, 2022 is shaping up to be a fantastic year for laptop gaming."
     publishedDateTime: 2022-01-08T21:20:00Z
