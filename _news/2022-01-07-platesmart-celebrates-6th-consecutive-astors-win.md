@@ -3,8 +3,8 @@ category: news
 title: "PlateSmart Celebrates 6th Consecutive ASTORS Win"
 excerpt: "PlateSmart Technologies announced today that it had done it again after the company’s ARES® 3.0 enterprise-grade automatic license plate recognition (ALPR) solution earned a Platinum Award at American Security Today’s 2021 ASTORS Homeland Security Awards."
 publishedDateTime: 2022-01-06T17:38:00Z
-originalUrl: "https://www.newswiretoday.com/news/176887/PlateSmart-Celebrates-6th-Consecutive-ASTORS-Win/"
-webUrl: "https://www.newswiretoday.com/news/176887/PlateSmart-Celebrates-6th-Consecutive-ASTORS-Win/"
+originalUrl: "https://www.newswiretoday.com/news/176887/"
+webUrl: "https://www.newswiretoday.com/news/176887/"
 type: article
 quality: 4
 heat: 4
@@ -18,6 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "15jgXL4jS1wUfNGuleEX4PwIvPkCMzeJfCaRpy86TulgMkKLh92TgRPBDp6mSVioA2N4920T09e7oKH9Od+pXGgtjGO3Yi9RSsvdZ6NTcBsDOYDI4p/y6uayqB4tgYZ1gQAEJ4WXBw4YyDd2Tw6jKlrUMpzIq6kjgMfQ4gbUEKETN2/JS8ZMBRa+lx2Vi9b2j0TzekSsh0O6ja86dPpMWFM0d0J6zz7HWyvcokOFqfFfapSS9JerwHvqiMiTX8Yi7stBpsZ+5j2dbFHy5mmpzaKxOQ8+KTGyqVL92PPrbostKh7IS76J91+xg9d+7UF5vTxQ6nqB3UUGgdpASjNdnNgTI9p3rj5kw4JG3I7PUdQ=;acoRNjm+GyA1uxPJyGRBwA=="
+secured: "SC7XY7a47VDc3xZsjKIW5Ifn17jQbWsjw86CxfpmPV0W7xJcssgT2lPqTnSc5Ql88NcD3flpQWTtWy6wbfxcPZ/ctAQCRrCmGXwQoDOXix8FcWcgw8wW8tMBGfUncp9/hUZ6AAjNSptKNVSRPo94MMr/dleJtv6CbLr0h1OvjI8FPeX8waZj8oLvu+wL9xv0MNRoaOPKOPN+ILWpvo+5C0ipRTcNZ+XcKvazmz6SGFQdJ6U1SgU0FQ7aRsQFkPu2c1vgkSgIT74/ZNWlXjlo5ru+ndLmOvwTWVrZGHpqdpber6IoM/HkOe0sKK5zNKzJGIKScvs4irDNyohlnhpogk4po4a5uPFLltzadN3oabs=;j7OcUestCcUM91Yl++eldw=="
 ---
 

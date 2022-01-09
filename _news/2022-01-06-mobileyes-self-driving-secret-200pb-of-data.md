@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Mobileye’s Self-Driving Secret? 200PB of Data"
-excerpt: "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
-publishedDateTime: 2022-01-05T20:36:00Z
-originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33"
-webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33"
+title: "Mobileye's Self-Driving Secret? 200PB of Data"
+excerpt: "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
+publishedDateTime: 2022-01-05T20:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
 type: article
-quality: 24
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Zeekr and Mobileye to develop Level 4 self-driving car for retail sale"
@@ -68,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "LbofBAp28c8CHUBCfMNZwIu+XCpnzpuDDyexUyULOOEl5C676uO3F5sTLWuVHTk0CjjtVnEkIn4BZ+XUEGP3f7G+Zc/6pin9gdxAUpYx/Fx722YSQ63Ovh7GB6kjt9l8QGf6HlkGCcnaGCU+Q5tNaQU2onGM/eyJ5k+gkEqK9i76QB7XZPz22RaEZwoS6jEFtxrOvLXD4Zuf8S6kWuHJ8ZIq/jsC6Mf+EjelCxlbQYl5RKruT2BPDsyCNi/zr1aBtEf2oQU7ejZxUvw5BjGUPtj6LPs4znqx92i5f8JGeGS8TRuFszHbo4BUyEAJ3LnnhBCO+xNFDlq9S5gr2CqfN59xn0PBb7C1Ls86kgAM2jw=;AOSf82ibWQxE6oYk1zbBuQ=="
+secured: "/Q/gk0W19xZo9pc9DtU82zYdMK/EgdYrflJM+7B8jOCuTZ1furpaH+C45XWChXViJund57DlEyvT5VDUoM589XKuPhNV8wbV+4kZpHtgSut5frW/U22wRMBXXGbuhHh1ywMTIJjkIHapeTEkIrNmTfe1EIFPga/RIWkvmv6JvZ9Sj5wwHToNP6jiFc6B8f5FWBE/oJ/cSRRdzNbHVnoNEwfj8lsCdfdiLAdRMwrbJxL5DaWjrlEzpaZRfscoZp949B6bdEFKAbBM3DlTLX3dNoKc2jio+qaEIj01+0qFJ8Y6lttzN9S2hLzNL+0g4ClEgSXngQZLXrHPRW0PCVhv4yN0VzOMEwV8KMBoppniT7E=;Vq17C/1jfRowROUWuFLg8w=="
 ---
 

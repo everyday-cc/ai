@@ -7,7 +7,7 @@ originalUrl: "https://us.acrofan.com/detail.php?number=595695"
 webUrl: "https://us.acrofan.com/detail.php?number=595695"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 580
     height: 339
     isCached: true
+
+related:
+  - title: "How Covid broke supply chains, and how AI and blockchain could fix them"
+    excerpt: "Covid has led to delays in consumers receiving everything from furniture to groceries. This is how we might reshape supply chains after the pandemic."
+    publishedDateTime: 2022-01-09T17:24:00Z
+    webUrl: "https://theconversation.com/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
+    ampWebUrl: "https://theconversation.com/amp/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 59
+    images:
+      - url: "https://images.theconversation.com/files/439519/original/file-20220105-25-1y46m7x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
 
 secured: "SGcDqctOkxXRRHPJZLnioLHqSDIxkNmCVFq6YI4reFkFgeKn9trriaaGwZnsG+vQGNM+WQKAmqqyMfHiSr2mDuBP6mDFvtQuH391OQVrl/KG7Kjpl9zcVsWu4qo68LWsmVixNt2HA/dJzI6WluMHRO2pFnP+rqpvbIIZp6XynV5LqSn7vUDbgFyKlltZQUQFxUsGxPm8YD1mvczKiE/xAZL5SRLuetpMBk0uzkULJY9eE0EHZ6OOZrGMrGmHCpE40gsiIoh/7EoGMDS5qW7lBittl5oLzjPDzcxgCdLRvsRgyTye29aLRjiiSZnOfcKB31+Mir9GZnfmBk2yR6v5LpBDtxNMZp8CWkny2HlkS7U=;kQL2c/7LmJSKeWBn6Bc80g=="
 ---

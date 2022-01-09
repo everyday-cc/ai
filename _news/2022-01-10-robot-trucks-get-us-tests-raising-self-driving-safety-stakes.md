@@ -1,33 +1,28 @@
 ---
 category: news
-title: "You May Be Able to Own a Self-Driving Car After All"
-excerpt: "For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM announcement this week shows that’s changing."
-publishedDateTime: 2022-01-08T12:00:00Z
-originalUrl: "https://www.wired.com/story/you-own-self-driving-car/"
-webUrl: "https://www.wired.com/story/you-own-self-driving-car/"
-ampWebUrl: "https://www.wired.com/story/you-own-self-driving-car/amp"
-cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/you-own-self-driving-car/amp"
+title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
+excerpt: "U.S. economy. While self-driving trucks are still years from winning regulatory approval, pioneers of the technology see it as a long-term solution to an increasingly intractable labor problem. “Human drivers,"
+publishedDateTime: 2022-01-09T17:22:00Z
+originalUrl: "https://www.bloombergquint.com/business/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
+webUrl: "https://www.bloombergquint.com/business/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
 type: article
-quality: 74
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BloombergQuint
+  domain: bloombergquint.com
 
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://media.wired.com/photos/61d6487b704a9d4aab6ee7bc/master/pass/Business_Cadillac-Halo-001.jpg"
-    width: 2400
-    height: 1600
+  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -47,6 +42,22 @@ related:
         width: 1156
         height: 771
         isCached: true
+  - title: "You May Be Able to Own a Self-Driving Car After All"
+    excerpt: "For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM announcement this week shows that’s changing."
+    publishedDateTime: 2022-01-08T12:00:00Z
+    webUrl: "https://www.wired.com/story/you-own-self-driving-car/"
+    ampWebUrl: "https://www.wired.com/story/you-own-self-driving-car/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/you-own-self-driving-car/amp"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 74
+    images:
+      - url: "https://media.wired.com/photos/61d6487b704a9d4aab6ee7bc/master/pass/Business_Cadillac-Halo-001.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
     excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
     publishedDateTime: 2022-01-09T14:30:00Z
@@ -58,20 +69,6 @@ related:
       name: bnnbloomberg
       domain: bnnbloomberg.ca
     quality: 56
-  - title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
-    excerpt: "U.S. economy. While self-driving trucks are still years from winning regulatory approval, pioneers of the technology see it as a long-term solution to an increasingly intractable labor problem. “Human drivers,"
-    publishedDateTime: 2022-01-09T17:22:00Z
-    webUrl: "https://www.bloombergquint.com/business/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 56
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Keeping self-driving cars safe from hackers"
     excerpt: "Cars of the future will be heavily dependent on the internet for navigation and other basic operations. But that will also make them vulnerable to hacking attacks capable of causing serious damage."
     publishedDateTime: 2022-01-05T03:48:00Z
@@ -117,6 +114,6 @@ related:
         height: 619
         isCached: true
 
-secured: "YXJbthTbcSawQTmDhN2oDlEAidpwx7y74a7sMgILVjhYrfeD0Z9/zLEBRrnfpZmU3zj/x9AZP43O8MOH4kRO/+ZpMl1p0qY8lGDn+gny/qLQP+dx7vcVkyIXCd6L1x/Ajmxo3A55kxdXEXuhiNCb4OC0xc0vu+rXtXsbu66NdAPTJpmRgjMcgXIr/PsvZEhBELZFvKb+FizDf+36ax64JQzFe6IGKcorI5cUnddIQRCdSwcz/yPhDouSbtqSdwfzf4UHOCH+pBOa+4jnikW33L4u7XLjgAkduz7pyxgvvarH8zc/flQZcVxus0UJ8VIj9Or/BFXMLDMH5D/01qor9RbVPbrI2UKdoumJ4ohJUHs=;v2nZEYuUstorGsxPK5sx6Q=="
+secured: "QD57lvaGN5Y04V5QhM4hvGX0bB84mHdtnX1gzg0LKVBaIMAwC/ZxzIiZmYWP0t9vqJ87mIp/LEkiWab35N5R52+CeeZV6VO/Gz0aqRglFHM9+BfZ1LlmqF8iS0QtnmVxVlRI2FA4tBAF7rm1eR/LRe4IfM+iUa9TMhewQ8YHN+GIPzAaGpkMwedMva7LKn8NwJK9QvESwvYr1QiNXUi2sEkpo3Pc5LH81oSJnISMn+EYsBFMqkAd/om9HwybzfAM8U+2iwxc6ELnM8NX4ZjXw20C5k8oHqTSegTgGrMjK9Kfq6WikLpExrwEZVwXyyvG6vpJdVlEcIRiDyOVTJjRS5kOTDt8xoH4qSwmOrG8Kds=;cfJ/NuzKh4dtfCo+8NdJxg=="
 ---
 

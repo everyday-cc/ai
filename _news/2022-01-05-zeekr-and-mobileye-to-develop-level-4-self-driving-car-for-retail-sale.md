@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Mobileye’s Self-Driving Secret? 200PB of Data"
-    excerpt: "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
-    publishedDateTime: 2022-01-05T20:36:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 24
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Geely to develop self-driving vehicle with Mobileye"
     excerpt: "Geely Automobile Holdings plans to tap Intel’s Mobileye unit to develop a vehicle with L4 autonomy for Zeekr, its smart electric-vehicle brand."
     publishedDateTime: 2022-01-06T17:37:00Z
@@ -67,6 +53,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Mobileye's Self-Driving Secret? 200PB of Data"
+    excerpt: "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
+    publishedDateTime: 2022-01-05T20:38:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "6Mp/H+bt3s2npe5BWXLQwdFTarBwyTo3JzC23AmqoPLBAnE370oj0orvrbtK4C1jx67czQPCNBDWEn/wAzAbaxenW9I/VHLGwOJZ00vcJVEvwtvfCdrdsc0lvVJPq9yb5iuEX+AE16kBthT7PMluv/3Toa0W52doJxaiZdDhk4f0erCfqXyawq8TH6O7Laj4eBxdvINauD/l1oTa1bYbgCClS9Z8cGsm+HPTagsO9JYrxsqqWkRWKMPpUtmeEjJcoVv2wl1FqNDQ3gmXN7TnzxXfkQ+vK2SbLsneLfh60NBf1p8rjOwmWVc4DU4lhRUQuXKXD6xwCIET5xWFL2Iu9IraRkg/2RqTIadpELqieXc=;8exUNe4FazUcMnGkrgxXOA=="
 ---

@@ -32,7 +32,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c7e1dc9878b5eedc7980d1%2F0x0.jpg"
         width: 1156
@@ -53,6 +53,20 @@ related:
       - url: "https://media.wired.com/photos/61d6487b704a9d4aab6ee7bc/master/pass/Business_Cadillac-Halo-001.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
+    excerpt: "U.S. economy. While self-driving trucks are still years from winning regulatory approval, pioneers of the technology see it as a long-term solution to an increasingly intractable labor problem. “Human drivers,"
+    publishedDateTime: 2022-01-09T17:22:00Z
+    webUrl: "https://www.bloombergquint.com/business/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 56
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Keeping self-driving cars safe from hackers"
     excerpt: "Cars of the future will be heavily dependent on the internet for navigation and other basic operations. But that will also make them vulnerable to hacking attacks capable of causing serious damage."

@@ -1,13 +1,15 @@
 ---
 category: news
 title: "Ramaphosa uses ANC anniversary speech to stamp his authority on the party"
-excerpt: "South African President Cyril Ramaphosa delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was"
-publishedDateTime: 2022-01-08T19:31:00Z
-originalUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596"
-webUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596"
+excerpt: "South African President Cyril Ramaphosa has delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was the party’s 110th birthday."
+publishedDateTime: 2022-01-08T20:35:00Z
+originalUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597"
+webUrl: "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597"
+ampWebUrl: "https://theconversation.com/amp/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597"
 type: article
-quality: 3
-heat: -1
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://images.theconversation.com/files/439887/original/file-20220108-32414-1kh39je.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
+    isCached: true
 
 related:
   - title: "South Africa: Ramaphosa Uses ANC Anniversary Speech to Stamp His Authority On the Party"
@@ -34,6 +42,6 @@ related:
         height: 664
         isCached: true
 
-secured: "G3gcVbuvzjZB/gDq+V4m+75rZgB23HY5i02AvHRhdcrXtGHvkRvkAbJz/51mWHqD0LcHslEGMDMjn9sWxv9qb5YGhdYBWvd116i6nx683MOgetJ7DqS9pQU3nfHcqyErDQUuyWApuV6mzJHeJOpqLHYPhZ1t+9OmMxzx17VHFrZtqh2iSxHO1fZBgdy2bHeKs2VWvdf/TKNfR53RlJ/fHIN2Kl+pRTqF+9/zsS26jI0H/QsPOGsaeBCXKAyMTFWxJbXgvcAkXkRt5fMu4R4jIlMgrGP05qdKX2Zr8b/YNHLM9f5OE2qJ604NL8wRoy5vApPnl/waMNKTn5JA2+rnUL92vu/l6bkSUnRJVIMt04Y=;19vwvwH2xCOOIsNC17joRw=="
+secured: "/f1I9nIeTGevbSEazXyqBFhkux7y3lfVgQebBPBk7gANpNFcQr0tqQfwL+CS0WlsfNdOoyopgqrOQZudcEzJHI8riA8AV5GqUs/WvNax2Xf7iTA4zrZggJAlsJnH1fZHr3NrTAg6t/o/TtXTau6nB+H6xV6HeFUrPYIrAJSjjFF9YQJqdtGfScDpGoziyscNlFPnMnGbrDajERtPhfVdbo0rD9MZCE9Qt8TTY52wPQw5mCZ4uXYNrtP6OwtUJHl4feNOJvighz2rGiPbjOujxfWszu0T0j0mxgGonwUTy7W/Q9VeXyueMC7hjufzcc16MYyEy1daUP8KTAbiirD9IEiEDx76uqh3YuMs1eMmLbg=;rof98+iYgWTgLUFfoUMiVQ=="
 ---
 

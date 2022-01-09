@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-publishedDateTime: 2022-01-06T05:40:00Z
-originalUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
-webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
+excerpt: "As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
+publishedDateTime: 2022-01-05T22:54:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
+ampWebUrl: "https://www.benzinga.com/amp/content/24922041"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24922041"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?704764"
-    width: 425
-    height: 250
-    isCached: true
+  - AI in Healthcare
 
 related:
   - title: "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis"
@@ -40,6 +36,6 @@ related:
         height: 250
         isCached: true
 
-secured: "flLsjw0ywDSEObaHq4Mig6PRI9QkJfZvEmMOq8MWVMSDj+G1/u6lgMkWkOz6opRh8JFQcf8TOk/hR7hKGZbCNP8AB5FQgxADexOMRBH1F2jyS4x6jCZET8wm+/ajf30tbcazWD3cF85wK9qoVoFHxVgFNaQ5fU8GNr0JRgGJExy6QvQgOGdBijz57oDUfT1LFyF0vrCA4nxA7RYtVmHlt8m/5M3V1hHOLgNDgQ4a3QBJxyi2Exv3YU0DKIub/13J7utTg13vMII8bSls+vioOo+HHrN1/6U5PM9av8RbSW59N/ti85sXbzegqLVAUlksqJ55i8jY4K5empscJBUDknNJZAV+jCgEBY0gQT4Wra0=;7jcErPvz6NGm76/P2ks0qw=="
+secured: "kmB7j0+Ofp39wHEkeEYbE9lVeiw3dGTuiyLNQpe+gIrTk6bFbZs7OoPZuKBU9sHlKK5mM7o34StfmJ6xHhJmS2E/v2k2HioiLovDvcXOAIa7+iseWKXXFYVbbNHQtAeQX9hERuDqRTpxHmRbJnR+FcK9cMcAYYy+iMfWXnIICFcZAPZXq2YzjnMXxRbqk79NvvT0EeyiUY0kAJYh0V+X9nIbdSpGqpWOcVN9e/RG1/NKpPJ3F/hgBGgjCdWkFAidzOyQIEDG2DOGhQ3oamOQWWPvBIfGamRicv8n3obZ06F4E4kPqUAK33Pe/RdeQ8QvA/by8/BaO36MHJlNbCSYCZRe2vjJkzZDfyAp/07AnN4=;T09juv4cpKER+nZQocmMkw=="
 ---
 

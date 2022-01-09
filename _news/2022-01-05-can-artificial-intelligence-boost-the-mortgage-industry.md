@@ -7,7 +7,7 @@ originalUrl: "https://www.mpamag.com/us/mortgage-industry/market-updates/can-art
 webUrl: "https://www.mpamag.com/us/mortgage-industry/market-updates/can-artificial-intelligence-boost-the-mortgage-industry/321000"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1000
     height: 600
     isCached: true
+
+related:
+  - title: "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers"
+    excerpt: "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training."
+    publishedDateTime: 2022-01-09T17:51:00Z
+    webUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/"
+    ampWebUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
+    cdnAmpWebUrl: "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
+    type: article
+    provider:
+      name: The Constructor
+      domain: theconstructor.org
+    quality: 52
+    images:
+      - url: "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
 
 secured: "6WoPEeTstBWPv6wZoDBeYfUJdLRZcnvtBuezAY0XkGGSCpQ98UQVTrPL1XLqIhALqS9tq6uearCmsZ4xBptt9d+TdCk9VNlmegqe6nFFMMORk5LAktvCBpdyOQO23/r5wyB2NE5sG/OMWdRG4WDRaA/XJpEZkzy28bKOZKcplNNtNsw+g2z5i+mX/nS+FOylWkc4gfOitKQG1Y7OWaE+ixjVBaU+vcO6aqiLREsq3I+/bUrLcuJc23mvOdqtRv+wl/dtXTTM5RuJVAd/9pxkyA9eRBkmPdDYQeU3asCYTxYNPMePo7HzrjIYCg8L5Yj5BVuN1MSXW8SqVYklR401R89fYrl4YNRgfLoBayBXr1k=;bQowb3bsHXLUXdnr99hsnA=="
 ---
