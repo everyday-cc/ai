@@ -25,29 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Advances Could Accelerate in 2022"
-    excerpt: "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,"
-    publishedDateTime: 2022-01-04T21:07:00Z
-    webUrl: "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022"
-    ampWebUrl: "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp"
+  - title: "“Heterogeneous and Secure” Architecture Promises to Supercharge ML for Edge AI"
+    excerpt: "with most devices featuring a system-on-chip (SoCs) consisting of CPUs, GPUs, and dedicated hardware accelerators. This week at CES, CEVA announced a new heterogeneous computing architecture for AI/ML computing. The architecture, called NeuPro-M ..."
+    publishedDateTime: 2022-01-08T00:00:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/heterogeneous-computing-and-secure-architecture-promises-to-supercharge-machine-learning-for-edge-ai/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Tech alliances with chip corporations at CES in self-driving tech world"
-    excerpt: "Major automakers like General Motors, or Ford find companies with an upper hand in techs like Tesla and Apple are entering the market."
-    publishedDateTime: 2022-01-08T04:25:00Z
-    webUrl: "https://techstory.in/tech-alliances-with-chip-corporations-at-ces-in-self-driving-tech-world/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 41
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 52
     images:
-      - url: "https://techstory.in/wp-content/uploads/2022/01/JeX_mrWItiY3QwRb80nYiAU_zpUxMFxzvNuiAKpcU1w.jpg"
-        width: 533
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/neupro_M_architecture_ceva_thumbnail.jpg"
+        width: 700
         height: 300
         isCached: true
 

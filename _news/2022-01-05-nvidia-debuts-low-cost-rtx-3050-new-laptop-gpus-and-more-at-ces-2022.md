@@ -83,22 +83,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia announces RTX 3080 Ti and 3070 Ti laptop GPUs and RTX 3050 desktop GPU"
-    excerpt: "Nvidia today announced two new GPU options for notebooks, along with a new graphics card for desktop user. The company also teased an upcoming flagship desktop GPU. The RTX 3080 Ti and RTX 3070 Ti join the range of Nvidia 30-series GPU options for notebooks."
-    publishedDateTime: 2022-01-04T23:00:00Z
-    webUrl: "https://www.gsmarena.com/nvidia_announces_rtx_3080_ti_and_3070_ti_laptop_gpus_and_rtx_3050_desktop_gpu-news-52534.php"
-    ampWebUrl: "https://m.gsmarena.com/nvidia_announces_rtx_3080_ti_and_3070_ti_laptop_gpus_and_rtx_3050_desktop_gpu-amp-52534.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/nvidia_announces_rtx_3080_ti_and_3070_ti_laptop_gpus_and_rtx_3050_desktop_gpu-amp-52534.php"
-    type: article
-    provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 56
-    images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/22/01/nvidia-ces-2022/-1220x526/gsmarena_000.jpg"
-        width: 1220
-        height: 526
-        isCached: true
   - title: "Nvidia Announces RTX 3090 Ti, The World’s Most Powerful Desktop GPU"
     excerpt: "The new king of desktop GPUs has arrived to dethrone the RTX 3090. Nvidia's newly announced RTX 3090 Ti is now the most powerful desktop GPU to date and"
     publishedDateTime: 2022-01-05T08:53:00Z

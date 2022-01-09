@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Keeping self-driving cars safe from hackers"
-    excerpt: "Cars of the future will be heavily dependent on the internet for navigation and other basic operations. But that will also make them vulnerable to hacking attacks capable of causing serious damage."
-    publishedDateTime: 2022-01-05T03:48:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
+  - title: "Tech alliances with chip corporations at CES in self-driving tech world"
+    excerpt: "Major automakers like General Motors, or Ford find companies with an upper hand in techs like Tesla and Apple are entering the market."
+    publishedDateTime: 2022-01-08T04:25:00Z
+    webUrl: "https://techstory.in/tech-alliances-with-chip-corporations-at-ces-in-self-driving-tech-world/"
     type: article
     provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 44
+      name: tech
+      domain: techstory.in
+    quality: 41
     images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220105_20_1064388_L.jpg"
-        width: 640
-        height: 360
+      - url: "https://techstory.in/wp-content/uploads/2022/01/JeX_mrWItiY3QwRb80nYiAU_zpUxMFxzvNuiAKpcU1w.jpg"
+        width: 533
+        height: 300
         isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Friday (Jan 7) in an unprecedented high-speed ma"

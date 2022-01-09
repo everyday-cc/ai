@@ -2,6 +2,153 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-06-mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model.md",
+      "title": "MVP versus EVP: Is it time to introduce ethics into the agile startup model?",
+      "excerpt": "Rather than developing a minimum viable product (MVP), companies should develop and roll out an ethically viable product (EVP) based on responsible artificial intelligence (RAI).",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/",
+      "originalUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-166085866.jpg?w=1024",
+          "width": 1024,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/amp/",
+      "publishedDateTime": "2022-01-05T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-2021-year-in-review-biometric-and-ai-litigation.md",
+      "title": "2021 Year in Review: Biometric and AI Litigation",
+      "excerpt": "AI-based consumer privacy claims and a continuing trend of employment-based disputes. Read on for CPW’s highlights of the year’s most significant events concerning biometric litigation, as well as our predictions for what 2022 may bring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation",
+      "originalUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation?amp",
+      "publishedDateTime": "2022-01-05T13:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe.md",
+      "title": "How Wix empowers customer care with AI capabilities using Amazon Transcribe",
+      "excerpt": "With over 200 million users worldwide, Wix is a leading cloud-based development platform for building fully personalized, high-quality websites. Wix makes it easy for anyone to create a beautiful and professional web presence. When Wix started, it was easy to understand user sentiment and identify product",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/21/ml-5841-image003.png",
+          "width": 1432,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T13:21:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity.md",
       "title": "As third-party cookies fade, the cold start problem becomes an opportunity",
       "excerpt": "The demise of the third-party cookie could transform the cold start problem into an opportunity for businesses and their customers.",
@@ -207,6 +354,48 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-panasonic-puts-amazon-alexa-ai-in-your-microwave-oven-for-ces-2022.md",
+      "title": "Panasonic Puts Amazon Alexa AI In Your Microwave Oven For CES 2022",
+      "excerpt": "Panasonic has a brand new microwave up for buyers' consideration for this year's CES 2022 event, dubbed the Panasonic Smart Inverter Countertop Microwave",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2022/01/panasonic-alexa-microwave-oven-nn-sv79ms-ces-2022.html",
+      "originalUrl": "https://www.androidheadlines.com/2022/01/panasonic-alexa-microwave-oven-nn-sv79ms-ces-2022.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/01/Panasonic-Smart-Inverter-Countertop-Microwave-Oven-Works-with-Alexa-NN-SV79MS-ces-2022-presser.jpg",
+          "width": 1920,
+          "height": 1186,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/2022/01/panasonic-alexa-microwave-oven-nn-sv79ms-ces-2022.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/01/panasonic-alexa-microwave-oven-nn-sv79ms-ces-2022.html?amp",
+      "publishedDateTime": "2022-01-05T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -686,49 +875,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-05-how-greencoin-ai-grc-offsets-the-crypto-industrys-carbon-footprint.md",
-      "title": "How GreenCoin AI (GRC) Offsets the Crypto Industry's Carbon Footprint",
-      "excerpt": "Rather than relegate its user base to the sidelines like rival currencies, GreenCoin.AI (GRC) gives the unparalleled opportunity for its members to actively earn its GRC coins just by working out. Using its proprietary artificial intelligence chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/specials/how-greencoin-ai-grc-offsets-the-crypto-industry-s-carbon-footprint-122010100484_1.html",
-      "originalUrl": "https://www.business-standard.com/content/specials/how-greencoin-ai-grc-offsets-the-crypto-industry-s-carbon-footprint-122010100484_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/01/full/1641029867-726.jpeg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/specials/how-greencoin-ai-grc-offsets-the-crypto-industry-s-carbon-footprint-122010100484_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/how-greencoin-ai-grc-offsets-the-crypto-industry-s-carbon-footprint-122010100484_1.html",
-      "publishedDateTime": "2022-01-05T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-05-va-turns-to-ai-to-streamline-administrative-tasks.md",
       "title": "VA Turns to AI to Streamline Administrative Tasks",
       "excerpt": "The Department of Veterans Affairs is exploring how to use artificial intelligence tools to drive efficiencies in a wide range of medical and clerical areas.",
@@ -915,7 +1061,7 @@
       "originalUrl": "https://www.zdnet.com/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1033,160 +1179,6 @@
         "name": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
         "domain": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar.md",
-      "title": "Hong Kong Billionaire Professor Adds $2 Billion To His Wealth As Shares Of AI Giant SenseTime Soar",
-      "excerpt": "Shares of SenseTime have almost doubled since its closely watched IPO last week, adding $2 billion to the net worth of Tang Xiao’ou, cofounder and the largest shareholder of the Chinese AI giant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/",
-      "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d576d8aceb0ad88f55465d%2F0x0.jpg",
-          "width": 1200,
-          "height": 817,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/amp/",
-      "publishedDateTime": "2022-01-05T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-and-more-at-ces-2022.md",
-      "title": "Anker shows off the tiniest 100W charger we’ve ever seen and more at CES 2022",
-      "excerpt": "Anker just announced the 736 Nano II Charger at CES 2022, along with a bunch of other products spanning the projector, webcam, and smart home categories.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/",
-      "originalUrl": "https://www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/01/Anker-100W-charger.jpg",
-          "width": 1500,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/?amp=1",
-      "publishedDateTime": "2022-01-05T01:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg.md",
-      "title": "AI startup Fractal becomes unicorn with $360 million investment from TPG",
-      "excerpt": "Fractal has raised $360 million from TPG in a new financing round and entered the unicorn club as the Mumbai and New York-based AI startup, which counts Google and Wells Fargo among its customers, scales its offerings and begins preparation for an IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html",
-      "originalUrl": "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/yjWJApiXP.r3.tXCfl4n6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjU-/https://s.yimg.com/uu/api/res/1.2/tRJXoqN6AhGj67TxBBsBaQ--~B/aD00MDAwO3c9ODUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/9d520e0099165578729ab4784e4fc873",
-          "width": 1200,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T01:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

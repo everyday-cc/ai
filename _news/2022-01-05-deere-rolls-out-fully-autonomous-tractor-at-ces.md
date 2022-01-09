@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tr
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
-    excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
-    publishedDateTime: 2022-01-04T22:31:00Z
-    webUrl: "https://www.datanami.com/2022/01/04/nothing-runs-like-a-gpu-powered-fully-autonomous-deere/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
-        width: 1081
-        height: 537
-        isCached: true
   - title: "Deere sets cautious rollout of self-driving tractors"
     excerpt: "Deere seems to be aware that it can't afford to roll out the new tractors if there are still bugs, which could hurt its sterling reputation in unveiling new agricultural technology."
     publishedDateTime: 2022-01-07T15:43:00Z

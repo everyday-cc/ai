@@ -2,6 +2,41 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-09-robot-trucks-get-us-tests-raising-self-driving-safety-stakes.md",
+      "title": "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes",
+      "excerpt": "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162",
+      "originalUrl": "https://www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162.amp.html",
+      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162.amp.html",
+      "publishedDateTime": "2022-01-09T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bnnbloomberg",
+        "domain": "bnnbloomberg.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-you-may-be-able-to-own-a-self-driving-car-after-all.md",
       "title": "You May Be Able to Own a Self-Driving Car After All",
       "excerpt": "For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM announcement this week shows that’s changing.",
@@ -167,7 +202,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -457,7 +492,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1376,58 +1411,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-29-what-to-focus-on-when-driving-change.md",
-      "title": "What To Focus On When Driving Change",
-      "excerpt": "The inspiring story of Katrine Switzer's Marathon Woman got me thinking about how to drive change in startups. Switzer was the first woman to run the male-only Boston Marathon in 1967. She ran despite knowing she might be stopped.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614213c46cf154314fbff920%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/amp/",
-      "publishedDateTime": "2021-12-29T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

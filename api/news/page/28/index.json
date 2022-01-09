@@ -2,6 +2,152 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-12-14-snaplogic-raises-165m-as-the-ipaas-market-heats-up.md",
+      "title": "SnapLogic raises $165M as the IPaaS market heats up",
+      "excerpt": "SnapLogic, a company developing an integration platform as a service solution for enterprises, has raised $165 million in capital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.snaplogic.com/",
+      "originalUrl": "https://venturebeat.com/2021/12/13/snaplogic-raises-165m-as-the-ipaas-market-heats-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.snaplogic.com/wp-content/uploads/2020/08/bnr_sl_global_share_image.png",
+          "width": 1200,
+          "height": 644,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T12:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-tectona-releases-ai-generated-nft-collection-in-major-metaverse-move.md",
+      "title": "Tectona releases AI-generated NFT collection in major metaverse move",
+      "excerpt": "Israel's leading public blockchain technology company has launched a platform allowing anyone to generate unique art with a sophisticated AI for minting as NFTs.",
+      "sourceUrl": null,
+      "webUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move",
+      "originalUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMmI2ZDgxOWY4N2RkMDU4N2YzODU4YmI4YjMwMTE4ZS5qcGc=.jpg",
+          "width": 740,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp",
+      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/tectona-releases-ai-generated-nft-collection-in-major-metaverse-move/amp",
+      "publishedDateTime": "2021-12-13T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CoinTelegraph",
+        "domain": "cointelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-a-leader-of-ubers-doomed-self-driving-car-project-now-runs-her-own-startup-heres-what-she-says-the-industry-should-be-doing-today.md",
+      "title": "A leader of Uber's doomed self-driving car project now runs her own startup. Here's what she says the industry should be doing today.",
+      "excerpt": "Earlier this year, Raquel Urtasun founded Waabi, a self-driving startup ... throughout her career, and is driving her company with artificial intelligence. Urtasun spoke with Insider about her ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
+      "originalUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61afd04006b6770018c47e7e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-project-lessons-waabi-founder-raquel-urtasun-2021-12?amp",
+      "publishedDateTime": "2021-12-13T11:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-latest-study-on-natural-language-generation-nlg-market-hints-a-true-blockbuster-artificial-solutions-aws-ibm-narrative-science.md",
       "title": "Latest Study on Natural Language Generation (Nlg) Market Hints a True Blockbuster : Artificial Solutions, AWS, IBM, Narrative Science",
       "excerpt": "This press release was orginally distributed by SBWireEdison, NJ -- (SBWIRE) -- 12/13/2021 -- HTF Market Intelligence added research publication document",
@@ -985,151 +1131,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps.md",
-      "title": "Polymer lands $4M to bring no-code data loss prevention to SaaS apps",
-      "excerpt": "Polymer says its no-code platform enables automated data loss prevention (DLP) for SaaS apps, including Microsoft Teams and Google Drive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/",
-      "originalUrl": "https://venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/cloud-security-lock.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/13/polymer-lands-4m-to-bring-no-code-data-loss-prevention-to-saas-apps/amp/",
-      "publishedDateTime": "2021-12-13T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-outsmarting-ai-to-be-the-grandmaster-of-your-industry.md",
-      "title": "Outsmarting AI To Be The Grandmaster Of Your Industry",
-      "excerpt": "Tactically, your organization and its business processes may not be able to outperform your competitors’ AI and data-driven approaches. But for the foreseeable future, strategically outlasting them move-for-move until they waiver remains a viable strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/",
-      "originalUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b67a383089d0b7b87e4f7f%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/douglaslaney/2021/12/13/outsmarting-ai-to-be-the-grandmaster-of-your-industry/amp/",
-      "publishedDateTime": "2021-12-13T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban.md",
-      "title": "Chinese AI start-up SenseTime Group postpones $767 mn Hong Kong IPO after US ban",
-      "excerpt": "SenseTime had planned to sell 1.5 billion shares in a price range of HK$3.85 to HK$3.99, according to its regulatory filings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13",
-      "originalUrl": "https://www.businesstoday.in/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202112/ipo-hong-kong-exchange-sixteen_nine.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13",
-      "cdnAmpWebUrl": "https://www-businesstoday-in.cdn.ampproject.org/c/s/www.businesstoday.in/amp/latest/story/chinese-ai-start-up-sensetime-group-postpones-767-mn-hong-kong-ipo-after-us-ban-315405-2021-12-13",
-      "publishedDateTime": "2021-12-13T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

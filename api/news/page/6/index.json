@@ -2,6 +2,129 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-04-future-of-work-computer-vision-and-machine-learning-may-soon-bolster-restaurant-jobs.md",
+      "title": "Future of Work: Computer vision and machine learning may soon bolster restaurant jobs",
+      "excerpt": "Chipotle CEO Brian Niccol expects the restaurant industry to adopt more emerging technologies to deal with challenges like supply chain snags, worker turnover and inefficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2022/t_bec7b19019f440cca2783637ba05c5da_name_Chipotle_Thumb_2.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-a-neural-network-solves-grades-generates-university-level-mathematics-problems-by-program-synthesis.md",
+      "title": "A Neural Network Solves, Grades & Generates University-Level Mathematics Problems by Program Synthesis",
+      "excerpt": "Despite the impressive achievements of deep neural networks (DNNs) in recent years, researchers generally believe these models are still not “intelligent” enough to solve advanced mathematical problems in calculus,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/",
+      "originalUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/amp/",
+      "publishedDateTime": "2022-01-04T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-tekion-expands-cloud-hosting-options-with-microsoft-azure.md",
+      "title": "Tekion Expands Cloud Hosting Options with Microsoft Azure",
+      "excerpt": "Tekion's cloud-based platform will integrate with Azure for Tekion's enterprise customers. It's the first of several programs Tekion has planned that integrates various Azure services. \"We're excited to collaborate with Microsoft to extend our cloud-native technology to the Azure platform for our enterprise customes,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-tekion-expands-cloud-hosting-options-with-microsoft-azure-/2022/01/04/9519646.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T07:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-the-machine-learning-future-is-now-how-ai-is-disrupting-entire-industries.md",
       "title": "The Machine Learning Future Is Now: How AI is Disrupting Entire Industries",
       "excerpt": "M achine learning and artificial intelligence (AI) are no longer the concepts of science fiction – they’re a $1.41 billion industry that is already making big changes to the way we understand and use immense databases for a wide range of purposes.",
@@ -1035,143 +1158,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-telangana-plea-against-use-of-facial-recognition-technology.md",
-      "title": "Telangana: Plea against use of facial recognition technology",
-      "excerpt": "Hyderabad: The Division Bench headed by Chief Justice Satish Chandra Sharma and Justice Abhinand Kumar Shavili on Monday issued notices to Principal Secretary, Municipal Administration & Urban Affairs and the Hyderabad city police commissioner directing them to respond to the notices on implementation of facial recognition technology in Telangana State within six months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "originalUrl": "https://www.thehansindia.com/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/10/25/1118832-hc.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/telangana/telangana-plea-against-use-of-facial-recognition-technology-723055",
-      "publishedDateTime": "2022-01-03T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-how-combining-human-expertise-and-ai-stop-cyberattacks.md",
-      "title": "How combining human expertise and AI stop cyberattacks",
-      "excerpt": "Enterprises fail to get the most value from threat monitoring and cybersecurity strategies because they're too focused on data collection.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
-      "originalUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1314526623-e1641229497586.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/",
-      "publishedDateTime": "2022-01-03T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022.md",
-      "title": "LG Debuts Self-Driving Vehicle Infotainment Package at CES 2022",
-      "excerpt": "LG will unveil an in-car infotainment package for autonomous vehicles that will turn cars into a work, exercise or virtual camping space.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/",
-      "originalUrl": "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/LG-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/amp/",
-      "publishedDateTime": "2022-01-03T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://github.com/l8026070/Hypertension-CNN"
 webUrl: "https://github.com/l8026070/Hypertension-CNN"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "Machine learning may improve prediction of myocardial recovery on LVAD support"
+    excerpt: "Machine learning models to predict myocardial recovery among patients who underwent left ventricular assist device implantation outperformed prior regression-based prognostic models, according to new data in Circulation: Heart Failure."
+    publishedDateTime: 2022-01-09T13:07:00Z
+    webUrl: "https://www.healio.com/news/cardiology/20220107/machine-learning-may-improve-prediction-of-myocardial-recovery-on-lvad-support"
+    type: article
+    provider:
+      name: Healio
+      domain: healio.com
+    quality: 35
+    images:
+      - url: "https://www.healio.com/~/media/slack-news/stock-images/cardiology/h/heart-matrix_adobe-stock.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "3Z1/qlVlYxH00R5Gn+/a5OTcWbaYvjH60Lh2Z58AW+SCQjl9GeDd8DEn6nzJYlxDP53TGCKSdyqCcLNJMDMWoIzD9J8rzbZMSsihToLBbyVHPEf9GHV5rQRWJLR65OTd9ektlkd9WWVjCzT4E9I/r728JfHWQ8kTlQeG8eM+/cWJ5jYEz4VcHultXdet+A0KNjZhSIokO4x5ZwFhgEB8uqyUfYp8X11pXvd8YKK9CWEVbkhmhAZN7xYK+2GoYKo54mavbmabIggLRtCpDSr5HKnV0/1H022f22pM3IwX0/WfiepILdHIhSVdMU1LgIkJmCM6W29Km28iNu0Mfa0Y0HLuhjf4mWstcUQ2Vaq/4v4=;MCcMRN4ligdzchDoCiILJQ=="
 ---

@@ -2,6 +2,135 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-27-movendo-and-maragal-medical-partner-to-predict-the-fall-risk-of-older-adults-with-new-robotic-system-and-artificial-intelligence.md",
+      "title": "Movendo and Maragal Medical Partner to Predict the Fall Risk of Older Adults With New Robotic System and Artificial Intelligence",
+      "excerpt": "Movendo Technology has partnered with Maragal Medical to integrate Movendo’s robotic system hunova © into a fall prevention screening for older patients. “Maragal Medical is thrilled to announce that we will be offering complimentary fall prevention screenings at our clinic starting in January 2022,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-health-boston-robotics-artificial-intelligence-500be9821b2943ab81ca1ab9c444c12e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T06:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-the-robot-work-force-isnt-coming-its-already-here.md",
+      "title": "The robot work force isn't coming. It's already here",
+      "excerpt": "Retailers and restaurants are looking to robots and other technology to keep up with demand amid a labor crunch and booming online sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
+      "originalUrl": "https://www.cnbc.com/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106991733-1640019336314-IMG_1518.jpg?v=1640019644",
+          "width": 5952,
+          "height": 3968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/27/the-robot-work-force-isnt-coming-its-already-here-.html",
+      "publishedDateTime": "2021-12-27T05:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-27-pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022.md",
+      "title": "Pudu Robotics to Exhibit Leading Commercial Service Robots at CES 2022",
+      "excerpt": "Pudu Robotics, the global leader in commercial service robots, has announced it will participate in CES 2022, which will take place between January 5-8 in Las Vegas, Nevada, United States. Pudu Robotics will exhibit seven service robots at its booth,",
+      "sourceUrl": null,
+      "webUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
+      "originalUrl": "https://www.roboticstomorrow.com/news/2021/12/27/pudu-robotics-to-exhibit-leading-commercial-service-robots-at-ces-2022/17997/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-artificial-intelligence-collaboration-aims-to-improve-alzheimers-care.md",
       "title": "Artificial Intelligence Collaboration Aims To Improve Alzheimer’s Care",
       "excerpt": "By leveraging data on artificial intelligence, consumer informatics, and aging, the University of Pennsylvania’s Collaboratory will aim to improve Alzheimer’s care.",
@@ -1004,151 +1133,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-how-music-ai-could-create-a-future-grammy-award-winner.md",
-      "title": "How music AI could create a future Grammy award winner",
-      "excerpt": "Watching Paul McCartney create the eponymous song out of seemingly nothing, as George Harrison stands nearby yawning, is one of 2021's cinematic pleasures. The Beatles are arguably the most successful pop group in history and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "originalUrl": "https://www.cnet.com/features/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/QDQTeZU5bWFyDnABg5xu4myWs1w=/1200x630/2021/12/08/3b88e432-d4c7-4139-8b5d-12067ff652c3/gettyimages-900233104.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/could-ai-create-a-future-grammy-award-winner-in-music/",
-      "publishedDateTime": "2021-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-learn-what-makes-a-self-driving-car-autonomous.md",
-      "title": "Learn what makes a self-driving car autonomous",
-      "excerpt": "Tesla does not build self-driving cars. Neither does General Motors, nor Ford. In fact, there isn't a single self-driving car on sale today. That's because no system packed into a new vehicle meets the SAE Scale of Autonomy's standard to be considered a real autonomous car.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-autonomous-understand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/9YiprbK9xrRd1tBOewVjQZT-Pxs=/2021/07/19/f4906df1-4775-4c58-af91-e54e373ad686/tesla-fsd.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-autonomous-understand/",
-      "publishedDateTime": "2021-12-26T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-26-2022-look-ahead-arms-race-will-dominate-us-china-competition.md",
-      "title": "2022 look ahead: Arms race will dominate U.S. - China competition",
-      "excerpt": "Admiral James Stavridis was 16th supreme allied commander of NATO and 12th dean of the Fletcher School of Law and Diplomacy at Tufts University. He spent the bulk of his operational career in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
-      "originalUrl": "https://asia.nikkei.com/Opinion/2022-look-ahead-Arms-race-will-dominate-U.S.-China-competition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F7%252F7%252F0%252F3%252F38073077-1-eng-GB%252FA20211223%2520aircraft%2520carrier%2520Liaoning.jpg?width=1024&height=512&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-25T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NIKKEI",
-        "domain": "nikkei.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

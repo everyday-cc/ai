@@ -27,22 +27,6 @@ images:
     height: 355
     isCached: true
 
-related:
-  - title: "New worldwide deals, facial recognition integration for Vuzix smart glasses"
-    excerpt: "Smart glasses and AR tech specialist Vuzix has signed a series of new deals which will see its hardware deployed in more settings."
-    publishedDateTime: 2022-01-04T21:40:00Z
-    webUrl: "https://www.biometricupdate.com/202201/new-worldwide-deals-facial-recognition-integration-for-vuzix-smart-glasses"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/01/04163653/vuzix-m400-smart-glasses.png"
-        width: 808
-        height: 547
-        isCached: true
-
 secured: "BCd6+jnuxmZ6eKGQ/kjPqI93102l7fRExd3Wt/XWCFw3HXSYz6wDuIhVWVT/EbxgTavIwTMkpP878vgcU3OQ/anlnZbgy7giSxA79F5uZdoqfdbb4pwNGZSZEzesz1AanNvV26f1jRkuBdU42G4FZSw5bzxX1HyYz35yW6sTx5Q+FCWirG89c/xCg4tkdcShkVVu+7Lm38oApHzHx02dAjBJ9F5L9Un0OFh5A2S5M4MvJYt6D/N2n0g5xdmS+Xobp+V78dIYaDgw3cKAj1ZbrXIzWnWzjzf5xcogOW0D0Lro+s53beVThQy4VHZQqdhVdCIPOWKdUw4HSqEYiMy6GPTITv9/wwC4cwYEBZ9lEc0=;RyMf+caHojiFcZV/a54dWg=="
 ---
 

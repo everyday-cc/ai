@@ -101,20 +101,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "John Deere unveils first autonomous tractor"
-    excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."
-    publishedDateTime: 2022-01-04T21:38:00Z
-    webUrl: "https://www.farmprogress.com/equipment/john-deere-unveils-first-autonomous-tractor"
-    type: article
-    provider:
-      name: Markets
-      domain: farmprogress.com
-    quality: 24
-    images:
-      - url: "https://www.farmprogress.com/sites/farmprogress.com/files/Jahmy-Hindman-Deere-Autonomy-main.jpg"
-        width: 1540
-        height: 800
-        isCached: true
   - title: "Robot tractors may be heading to a farm near you"
     excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
     publishedDateTime: 2022-01-06T16:57:00Z

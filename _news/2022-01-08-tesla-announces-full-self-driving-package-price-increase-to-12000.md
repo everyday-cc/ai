@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-pac
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
       - url: "https://images.barrons.com/im-464381/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Tesla’s 'Full Self-Driving' software just got a big price hike to $12,000"
+    excerpt: "Tesla’s “Full Self-Driving” (FSD) software is about to get its second big price hike since it first entered beta in October 2020. What began at $8,000 quickly rose to $10,000 within days, and now it’s set to rise to $12,000 later this month."
+    publishedDateTime: 2022-01-09T14:20:00Z
+    webUrl: "https://www.tomsguide.com/news/teslas-full-self-driving-software-just-got-a-big-price-hike-to-dollar12000"
+    ampWebUrl: "https://www.tomsguide.com/amp/news/teslas-full-self-driving-software-just-got-a-big-price-hike-to-dollar12000"
+    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/teslas-full-self-driving-software-just-got-a-big-price-hike-to-dollar12000"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 58
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/7L55ZrcXePgR9KSs7b3vqX-1200-80.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
     excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"

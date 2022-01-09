@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Keeping self-driving cars safe from hackers"
-    excerpt: "Cars of the future will be heavily dependent on the internet for navigation and other basic operations. But that will also make them vulnerable to hacking attacks capable of causing serious damage."
-    publishedDateTime: 2022-01-05T03:48:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220105_20/amp.html"
-    type: article
-    provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 44
-    images:
-      - url: "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220105_20_1064388_L.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
     publishedDateTime: 2022-01-08T10:10:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Tech alliances with chip corporations at CES in self-driving tech world"
+    excerpt: "Major automakers like General Motors, or Ford find companies with an upper hand in techs like Tesla and Apple are entering the market."
+    publishedDateTime: 2022-01-08T04:25:00Z
+    webUrl: "https://techstory.in/tech-alliances-with-chip-corporations-at-ces-in-self-driving-tech-world/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 41
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/01/JeX_mrWItiY3QwRb80nYiAU_zpUxMFxzvNuiAKpcU1w.jpg"
+        width: 533
+        height: 300
         isCached: true
 
 secured: "OGa9MtYGGA4xOE/0+/mO55oMa8kXBrO0KMZgAODpl94Q+SG1vJeIj+SbKK0s3gRZZaBF65xpTYXtiM0S2RwUTMUvWIHq4cEIJrcrlkIk0fH8MygV4Rs8NCXgbkOqduQCu7u81nNRd4j8oXNyEdQ+Ux4ntPGlTDI97ZOoUZlKYgJrOwyQUTXTVBrTSEBrhD/5MrrKIB7Hsq4RJ9NlXFuKeSOTH0KwvTrUY83yuORgokFh0P6Oh9CruYM9Zq5yV8W2WR8JxlfNw8kfZGULPw188iiRPcvN8xVqNfXBn+UMorjHvPKZ1050zjNNRRwcBx7rUXoO9FLtYgQ4VQyuO3IsP+xfts4yWUqLg5Idkm3qLSA=;kxGDDuZlTeeS4gasF6humg=="

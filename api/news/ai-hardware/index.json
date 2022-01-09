@@ -10,7 +10,7 @@
       "originalUrl": "https://www.techradar.com/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -237,6 +237,84 @@
       ]
     },
     {
+      "path": "_news/2022-01-06-ambarella-amba-unveils-ai-based-image-signal-processor.md",
+      "title": "Ambarella (AMBA) Unveils AI-Based Image Signal Processor",
+      "excerpt": "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
+      "originalUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
+      "publishedDateTime": "2022-01-06T07:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-seeing-machines-launches-partnership-with-ai-firm-ambrella.md",
+      "title": "Seeing Machines launches partnership with AI firm Ambrella",
+      "excerpt": "Driver monitoring technology company Seeing Machines announced a collaboration with artificial intelligence (AI) silicon company Ambarella on Thursday, to bring integrated advanced driver assistance system (ADAS) and occupant and driver monitoring system (OMS and DMS) products to market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "originalUrl": "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img1.s3wfg.com/web/img/images_uploaded/e/1/dl-seeing-machines-aim-technology-computer-vision-driving.jpg",
+          "width": 620,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "cdnAmpWebUrl": "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html",
+      "publishedDateTime": "2022-01-06T03:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sharecast",
+        "domain": "sharecast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022.md",
       "title": "ITRI intros innovations in AI, robotics, and ICT at CES 2022",
       "excerpt": "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, will introduce AI, robotics, and ICT technologies at its CES 2022 booth",
@@ -322,49 +400,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-how-greencoin-ai-grc-offsets-the-crypto-industrys-carbon-footprint.md",
-      "title": "How GreenCoin AI (GRC) Offsets the Crypto Industry's Carbon Footprint",
-      "excerpt": "Rather than relegate its user base to the sidelines like rival currencies, GreenCoin.AI (GRC) gives the unparalleled opportunity for its members to actively earn its GRC coins just by working out. Using its proprietary artificial intelligence chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/content/specials/how-greencoin-ai-grc-offsets-the-crypto-industry-s-carbon-footprint-122010100484_1.html",
-      "originalUrl": "https://www.business-standard.com/content/specials/how-greencoin-ai-grc-offsets-the-crypto-industry-s-carbon-footprint-122010100484_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/01/full/1641029867-726.jpeg",
-          "width": 640,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/content-amp/specials/how-greencoin-ai-grc-offsets-the-crypto-industry-s-carbon-footprint-122010100484_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/specials/how-greencoin-ai-grc-offsets-the-crypto-industry-s-carbon-footprint-122010100484_1.html",
-      "publishedDateTime": "2022-01-05T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -1371,49 +1406,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements.md",
-      "title": "Samsung Galaxy S22 Ultra main camera may support AI image enhancements",
-      "excerpt": "The upcoming Galaxy S22 Ultra will produce better, more detailed pictures by using the new image quality enhancement mode, powered by artificial intelligence. / Representational Image | Samsung is planning to launch its next premium flagship S22 series soon and now a new report has claimed that the top-end model in the lineup the Galaxy S22 Ultra will come with a new \"AI picture quality enhancement mode\" to provide better 108MP images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
-      "originalUrl": "https://www.freepressjournal.in/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2019-12/469dc663-a43a-4493-8eef-d1aa6d40617a/SamsunG.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/samsung-galaxy-s22-ultra-main-camera-may-support-ai-image-enhancements",
-      "publishedDateTime": "2021-12-21T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

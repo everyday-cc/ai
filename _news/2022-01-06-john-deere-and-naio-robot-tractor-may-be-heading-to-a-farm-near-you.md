@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-ro
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
 type: article
 quality: 76
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
         width: 768
         height: 512
-        isCached: true
-  - title: "John Deere unveils first autonomous tractor"
-    excerpt: "John Deere has been edging toward an autonomous future for some time. In the past the company has shown low-profile driverless concept vehicles, but none were ready for market. That's changing with news that farmers can order an autonomous 8R tractor later this season."
-    publishedDateTime: 2022-01-04T21:38:00Z
-    webUrl: "https://www.farmprogress.com/equipment/john-deere-unveils-first-autonomous-tractor"
-    type: article
-    provider:
-      name: Markets
-      domain: farmprogress.com
-    quality: 24
-    images:
-      - url: "https://www.farmprogress.com/sites/farmprogress.com/files/Jahmy-Hindman-Deere-Autonomy-main.jpg"
-        width: 1540
-        height: 800
         isCached: true
   - title: "Deere ploughs ahead with self-driving tractor"
     excerpt: "John Deere demonstrated a fully autonomous tractor at CES 2022, touting the tech as a way to increase global food production."

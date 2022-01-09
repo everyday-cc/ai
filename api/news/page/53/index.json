@@ -2,6 +2,126 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2021-11-25-artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros.md",
+      "title": "Artificial intelligence in the healthcare sector: Lindera successfully closes financing round of six million euros",
+      "excerpt": "Lindera– one of the leading deep-tech companies in the field of computer vision – has successfully closed a Series A financing round. The Berlin-based health-tech company is receiving additional growt",
+      "sourceUrl": null,
+      "webUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
+      "originalUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/12/a12a1954-7d37-5490-aa80-d0bb0d17c216/619fa25c6fc1b.image.jpg?crop=1272%2C668%2C3%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T05:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Journal",
+        "domain": "djournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-liability-for-robots-i-legal-challenges.md",
+      "title": "Liability for robots I: legal challenges",
+      "excerpt": "Department of Economics, University of Bologna, via Angherà 22, 47921 Rimini, Italy Department of Economics, University of Bologna, Bologna, Italy In robot torts, robots carry out activities that are partially controlled ... to bear in mind that human ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/liability-for-robots-i-legal-challenges/089EA1B996A5E8974643F8F1BDCD86BB",
+      "originalUrl": "https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/liability-for-robots-i-legal-challenges/089EA1B996A5E8974643F8F1BDCD86BB",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-25-baidu-ponyai-get-nod-to-launch-paid-driverless-robotaxi-services-in-beijing.md",
+      "title": "Baidu, Pony.ai get nod to launch paid, driverless robotaxi services in Beijing",
+      "excerpt": "Chinese tech group Baidu Inc and self-driving startup Pony.ai have won approval to launch paid driverless robotaxi services that will see the firms deploy not more than 100 vehicles in an area in China’s capital Beijing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dealstreetasia.com/stories/baidu-pony-ai-robotaxi-services-271393/",
+      "originalUrl": "https://www.dealstreetasia.com/stories/baidu-pony-ai-robotaxi-services-271393/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dealstreetwebsite.s3.amazonaws.com/uploads/2018/01/Pony.ai-Car-1-1-e1624630116785.jpg",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-25T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "dealstreetasia",
+        "domain": "dealstreetasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-25-hire-mobile-app-developers-in-england.md",
       "title": "Hire Mobile App Developers in England",
       "excerpt": "Hire the best freelance Mobile App Developers in England on Upwork™, the world’s top freelancing website. It’s simple to post your job and we’ll quickly match you with the top Mobile App Developers in England for your Mobile App Development project.",
@@ -1061,153 +1181,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-forget-roomba-this-advanced-samsung-robot-vacuum-is-350-off-for-black-friday.md",
-      "title": "Forget Roomba: This advanced Samsung Robot Vacuum is $350 OFF for Black Friday",
-      "excerpt": "This Samsung Robot Vacuum Black Friday deal is one of the smartest vacuums available today, with intelligence that help keep your floors clean.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
-      "publishedDateTime": "2021-11-24T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-the-shape-of-edge-ai-to-come.md",
-      "title": "The shape of edge AI to come",
-      "excerpt": "Making chips work in this new world of edge AI requires new ways of setting up neurals, designing memory paths, and compiling to hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
-      "originalUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1197264259-1-e1637768065636.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/24/the-shape-of-edge-ai-to-come/amp/",
-      "publishedDateTime": "2021-11-24T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-creating-a-disater-recovery-plan-for-cloud-services-azure-ad-and-microsoft-365.md",
-      "title": "Creating a disater recovery plan for cloud services Azure AD and Microsoft 365",
-      "excerpt": "Data in Azure Active Directory and Microsoft 365 (previously Office 365) is continuously replicated to multiple,geographically-dispersed data centers, which ensures data availability even in case of infrastructure failure in one data center. In the event ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/WhitePapers/KMWhitePaper/11453-Creating-a-disater-recovery-plan-for-cloud-services-Azure-AD-and-Microsoft-365.htm",
-      "originalUrl": "https://www.kmworld.com/WhitePapers/KMWhitePaper/11453-Creating-a-disater-recovery-plan-for-cloud-services-Azure-AD-and-Microsoft-365.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImage/141915-Manageengine-ORG.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

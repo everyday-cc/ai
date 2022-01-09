@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Acquires Israeli Cybersecurity Startup Siemplify for $500M"
-    excerpt: "Google has acquired Israeli cybersecurity startup Siemplify for $500 million, with the company joining Google's Cloud security team and its Chronicle operation."
-    publishedDateTime: 2022-01-04T21:08:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/google-acquires-israeli-cybersecurity-startup-siemplify-for-500m/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Google-Siemplify-acquisition-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
     excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
     publishedDateTime: 2022-01-06T19:53:00Z
@@ -55,15 +39,6 @@ related:
         width: 400
         height: 270
         isCached: true
-  - title: "Cybersecurity for AI Solutions Provider TrojAI Inc. Closes $3M Seed Round"
-    excerpt: "Cybersecurity for AI Solutions Provider Closes $3M Seed Round and Expands Protections to Include Natural Language Processing"
-    publishedDateTime: 2022-01-04T22:35:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/cybersecurity-for-ai-solutions-provider-trojai-inc-closes-3m-seed-round/article_d7a14c0b-ab73-548c-a00b-9c000053711f.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 16
 
 secured: "Kkmz4LZLBiOkGloNMVPKUq1sEq8+/7qkcViA/iYkCecTORlWE3sutMf4mPiZTftHJj4mRObzGLT4D+CKAzwDMso8YLNb0RfDA3BCsqEOooPIvGGWYe6QmL/j8yG7ROdhhNUt/1p7DzqVPUszZjoK5rNWvmGUzlvTDJRQA+3vHETlg3HwdzkHeJiYLANn+hEu/KZoA0O9Jn44a6anYiyxlDMOuYpAUlyzm0IOjWUTRCx8XvucXWqpPfzYkYQBIrTg7ulytbm4k2r0w7U5jpev6Y49gr+5Dbfb/k+21RyMWs3brk8f1j2xPSleysCby5d2YLL89J6GU6xIWf9uMmOBewz92tT3HFnxDNzdc6jTD6w=;KZUqaUEQb/488eh07ZeQwQ=="
 ---

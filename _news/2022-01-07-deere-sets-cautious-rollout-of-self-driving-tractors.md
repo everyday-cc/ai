@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Nothing Runs Like a GPU-Powered, Fully Autonomous Deere"
-    excerpt: "We’re still a few years from having self-driving cars take to the roadways en masse. But later this year, farmers will be able to start running fully"
-    publishedDateTime: 2022-01-04T22:31:00Z
-    webUrl: "https://www.datanami.com/2022/01/04/nothing-runs-like-a-gpu-powered-fully-autonomous-deere/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/01/autonomous_deere_4.png"
-        width: 1081
-        height: 537
-        isCached: true
 
 secured: "QrJuyUL3S0yJ07RO68+tpI0yUWyphHZTyvqiT0YiKrIElX2BVi7QaY/bAvknkHV8LL8GTeuCZxQ6yF/VQQFmB3TVMl9+1nGeQcLFbeoiE4Po88Ee73D0LiX9n99I/XG5MoZX1aJC5uPrpkKr9+RHZbAO83MyMkyqETaGVU7/0gFORaU8yfHDRA0dGdhGzTmrRBPJMLU36j+q2iNHV38+K3ljnbsJbYOtk0ULNG45NdBx7aEu+nDQbCmp5DCaViavsx87rL6q04cBDVTSZPNwZ4ITw0IM5FGQvRnFh+nNJll6e+dGzelM9SEccFw+AoQw8GW1RTzbL1ODz+51m3IvQeGiMFbUpaSy0CpTEFmThEA=;IFFXA4tQ4j3cgdD6n1Xwcw=="
 ---

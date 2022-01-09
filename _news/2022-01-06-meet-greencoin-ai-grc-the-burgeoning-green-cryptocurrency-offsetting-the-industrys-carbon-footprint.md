@@ -43,22 +43,6 @@ related:
         width: 640
         height: 640
         isCached: true
-  - title: "LBank Crypto Exchange Lists GreenCoin AI – GRC"
-    excerpt: "GreenCoin.AI (GRC) is excited to announce the listing of its GRC green coin on the global crypto trading platform LBank"
-    publishedDateTime: 2022-01-04T21:07:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/ab24896477/lbank-crypto-exchange-lists-greencoin-ai-grc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24896477"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24896477"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 57
-    images:
-      - url: "https://www.getnews.info/uploads/44474dc0952234d7e7c331edd5c33bd5.png"
-        width: 486
-        height: 480
-        isCached: true
 
 secured: "b1ELJcYxzaZetDb4xIh9FuD/T5/lthDSgBUOgz7m5z3azxc1QCqo6QyWQBjvqInGLiDLO6oFXaD1+AX5Hi4XkKBgpERk8TUEmk+hQZdCIZuykVGXIxDglmdzbpwhMobTwSaXrsdfehoXmLThy4r+3fG7SGqqcudbu8vgBSkhgjuMW7BsFeJD1tShdIeb0V60MpNxY8vsbeNtCjbZI+woZGWDvvNW/d0potfB01z23VAxrqRYVILh0qTFLOeuBeXglIpwU0PHvjC64h7sPmsrve7WYUpCK49Oc5XWlkc3+6Bx01+BbdSi2Ht1sFVQQLO9qfv5paUjRrGA6WofW28FS0172/NtIXXmYCQrpPJ/fCw=;bmDIBe/Fi7XBFRJ47M5G+g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/top-programming-languages-t
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/top-programming-languages-this-developer-favorite-shows-no-sign-of-slowing-down/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Top Programming Languages: Coding Favorite Tops List Again"
+    excerpt: "Python has topped software testing outfit Tiobe's programming language list for the second year in a row, as it was awarded the title of programming language of the year."
+    publishedDateTime: 2022-01-07T00:00:00Z
+    webUrl: "https://cacm.acm.org/news/257734-top-programming-languages-coding-favorite-tops-list-again/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "DOnN2MEa919ysoyUmbREToWmuizmouqMHo44BfvaaAeT+CZTjeqoZX9PXhzjWVm5SgEKA7K+97EC0HtCywwTHFZxpNN3G+OxkSogTHital5Y8YuJAzc8+xowZuXCUOTUFyWODKWRBSgqfMqurBwHTLcgHCHuaz/NCJLVRKaG3HK+31B4BBRZZ8DlBnZ/EoaLxRNsh3VObUsEVEJNWTooH6h0YJ8RMYZeLwj7ElX2jM1KV5QIqabrrrPF0xrDEeWvkoOlQsJ//A/U+BqbnMUO4qj6tOttkQDjYbDQkNefObrxpi6/2j+58AyjvQLRFxGDm7oCZWwtI1ZiVZDIVNbv7uQYx23lGxyU0B1pcMp+f0U=;JOTbU34skFewcjr05izXMA=="
 ---

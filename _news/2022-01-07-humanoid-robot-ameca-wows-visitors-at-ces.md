@@ -39,29 +39,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "AI Technology Company, Hello Llama Debuts at CES"
-    excerpt: "Hello Llama, an Atlanta-based AI technology company, launches globally today with the release of Llama Vision - the Advanced Driver-Assistance Systems (ADAS) for Light Electric Vehicles (LEVs). This technology creates a safer environment for riders and communities,"
-    publishedDateTime: 2022-01-06T18:45:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-business-atlanta-artificial-intelligence-consumer-electronics-show-8961bfbaf9e30bfdb234b90b023fb92d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "AI Technology Company, Hello Llama Debuts at CES"
-    excerpt: "Hello Llama, an Atlanta-based AI technology company, launches globally today with the release of Llama Vision - the Advanced Driver-Assistance Systems (ADAS) for Light Electric Vehicles (LEVs). This technology creates a safer environment for riders and communities,"
-    publishedDateTime: 2022-01-06T12:44:00Z
-    webUrl: "https://www.morningstar.com/news/pr-newswire/20220106cg23925/ai-technology-company-hello-llama-debuts-at-ces"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 17
 
 secured: "AXYdI1xYVmbURLk6kkcReypVYefgd7u/CUD3XgUze409NBn6Nff50AFO6s5ij8vw/9mKXeT8kqYubYIiuchNUWRoAtUs6jUgimhICgFHD8hmBUCkZlh8+l6bP+jxkjo6CTqflwCwmT7fTN7cmQ1DJn2A2P1z9rTL8A2KKiff6NA5T8kmzdSLj8HwClEAee/khtIr4j0/kIqAbaCQ//Ziqtj+DxhNDgMSxwaGCmttgvWE4l6AG4ybQWkXa8Zs6ro79PAWluvGsyB45RuCqsForC+D5WnuUnAgGQZbewqec1wtewKfTrqWFqY9dnLUxZHXuY9v5RpxlaraGLIlA7rMah2dRfOOnANPtMhyI8cHguY=;jyl8atHpQ0G/yTUgaOAOQA=="
 ---

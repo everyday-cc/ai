@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-29-what-to-focus-on-when-driving-change.md",
+      "title": "What To Focus On When Driving Change",
+      "excerpt": "The inspiring story of Katrine Switzer's Marathon Woman got me thinking about how to drive change in startups. Switzer was the first woman to run the male-only Boston Marathon in 1967. She ran despite knowing she might be stopped.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F614213c46cf154314fbff920%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/29/what-to-focus-on-when-driving-change/amp/",
+      "publishedDateTime": "2021-12-29T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-nvidia-plans-to-be-a-force-behind-level-5-autonomous-vehicles.md",
       "title": "Nvidia Plans to Be a Force Behind Level 5 Autonomous Vehicles",
       "excerpt": "The company calls Pegasus, “The world's first artificial intelligence computer designed to drive fully ... essentially functioning as a mobile office or living room.\" Driverless cars will enable new ride- and car-sharing services,” Huang said.",
@@ -1310,49 +1362,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit.md",
-      "title": "Intel steers toward driverless future with Mobileye self-driving car unit",
-      "excerpt": "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "originalUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "publishedDateTime": "2021-12-17T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

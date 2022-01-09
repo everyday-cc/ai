@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella launches 16-core CV3 AI chip for autonomous vehicles"
-    excerpt: "Ambarella launched its latest CV3 artificial intelligence domain controller family to power autonomous vehicles."
-    publishedDateTime: 2022-01-04T21:05:00Z
-    webUrl: "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/"
-    ampWebUrl: "https://venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ambarella-launches-16-core-cv3-ai-chip-for-autonomous-vehicles/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/Ambarella-CV3_SUV-System-Diagram_Embargoed-Until-Jan.-4-2022.jpg?w=1200&strip=all"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Ambarella (AMBA) Unveils AI-Based Image Signal Processor"
     excerpt: "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)"
     publishedDateTime: 2022-01-06T15:55:00Z
@@ -65,22 +49,6 @@ related:
       - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411648.jpeg"
         width: 635
         height: 400
-        isCached: true
-  - title: "Seeing Machines launches partnership with AI firm Ambrella"
-    excerpt: "Driver monitoring technology company Seeing Machines announced a collaboration with artificial intelligence (AI) silicon company Ambarella on Thursday, to bring integrated advanced driver assistance system (ADAS) and occupant and driver monitoring system (OMS and DMS) products to market."
-    publishedDateTime: 2022-01-06T11:52:00Z
-    webUrl: "https://www.sharecast.com/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html"
-    ampWebUrl: "https://www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html"
-    cdnAmpWebUrl: "https://www-sharecast-com.cdn.ampproject.org/c/s/www.sharecast.com/amp/news/aim-bulletin/seeing-machines-launches-partnership-with-ai-firm-ambrella--8984099.html"
-    type: article
-    provider:
-      name: Sharecast
-      domain: sharecast.com
-    quality: 59
-    images:
-      - url: "https://img1.s3wfg.com/web/img/images_uploaded/e/1/dl-seeing-machines-aim-technology-computer-vision-driving.jpg"
-        width: 620
-        height: 350
         isCached: true
   - title: "Ambarella's Artificial Intelligence Image Signal Processor (AISP)"
     excerpt: "New neural network based ISP enhances low-light and HDR processing by up to 100X compared to state-of-the-art traditional ISPs"

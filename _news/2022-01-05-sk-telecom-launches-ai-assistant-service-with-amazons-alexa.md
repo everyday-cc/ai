@@ -40,6 +40,17 @@ related:
         width: 1920
         height: 1186
         isCached: true
+  - title: "Electric trucks, AI birds and a lunar Alexa: Washington companies hit CES"
+    excerpt: "Pandemic worries meant most of Washington's major tech players didn't make the once-annual pilgrimage to CES in Las Vegas, where electronics makers debut new wares. That didn't stop several Northwest firms hoping to make a splash from going."
+    publishedDateTime: 2022-01-09T12:57:00Z
+    webUrl: "https://www.seattletimes.com/business/electric-trucks-ai-birds-and-a-lunar-alexa-washington-companies-hit-ces/"
+    ampWebUrl: "https://www.seattletimes.com/business/electric-trucks-ai-birds-and-a-lunar-alexa-washington-companies-hit-ces/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/electric-trucks-ai-birds-and-a-lunar-alexa-washington-companies-hit-ces/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 36
 
 secured: "aOG6RxoIdbKKqUkpcPYOD25kqmPRs4pQXvix4UoyWrV8zJq7GLYNNKBcF6Jp9jJFPduiuby5X/mycyM9yTFAYl2jPRaSvvcAEq2BEyP0zYBdlijOr1hTv2Pug0UWNoTpF6Y50iSCJMlmQJZewN+gqp1IfSiYoKivh0GICU3KhOnS3t3SNX8764/IOPQb0TKWabDrwnpelSKq69NSx6BTb1sFf5Hrh89J3I7V5iF5wk3hcedKB85eR7ENXjCKpOekX5w5tAbJzE5WGy/zNp6aF4czs2sFXi7g7Zr/aIwoRquDh0nwo+VnWvTYPql0YcgvxT4HGtjbZCK4aIOzAv1YQGsCoVGYbn+7m5TjVZisfWo=;gR4Q9liwsu+G4QIeNWxZQw=="
 ---
