@@ -38,6 +38,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "A research adventure into Artificial Intelligence"
+    excerpt: "Alan embarked on a first-of its-kind Masters programme to explore the transformational potential of Applied Artificial Intelligence for industry. The course, delivered by Cranfield University was developed in collaboration with Professor Nick Colosimo,"
+    publishedDateTime: 2022-01-10T08:25:00Z
+    webUrl: "https://www.publicnow.com/view/5DC705A8ADD52584AB70E0F087F31EC5CC466EEE"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 17
 
 secured: "FiWUQR/N4l6ZIi6LRjoEofrbB7yw4IAClXcZuzieYN1okslKrc16p3+7gFEhqoTHu8wV+ANdH25BXcR6nMturB25l3Q8MNiI66tb5iY54ss+Gk/KFnlVpucbdtiOmSCh1mZ66cB4ft0xkmUKIrCtER9bEuK2bnLupbR2R77aay3UWoPPIPV/IuWSGJg1cg9WfuOKN7tmbNECoSpegHmDPt2XwNYWYlAWzC0hTJwFXxBZ+ErDzXiP1EnZwIfQW7vDu2SSXqhsiVbSySISauIzAmkXpq4otAW/iNfACBk1S8Png6i8lhEjEqXFEwZeJQ5YkcPxDZ/ShBXsBE+OWDiGXqMzgk/WEV80uY/Ao8Qmeq4=;cCWLZSu/zhWjN1Msjs+Uxg=="
 ---

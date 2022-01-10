@@ -2,6 +2,300 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-05-ponyai-sinotrans-collaborate-on-driverless-trucking.md",
+      "title": "Pony.ai, Sinotrans Collaborate on Driverless Trucking",
+      "excerpt": "Autonomous driving firm Pony.ai is working with Chinese logistics company Sinotrans to build a smart logistics network that uses autonomous trucking tech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/",
+      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/pony.ai_-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/",
+      "publishedDateTime": "2022-01-04T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst.md",
+      "title": "NVIDIA RTX 3090 Ti and RTX 3050 revealed to quench your GPU thirst",
+      "excerpt": "With CES kicking off here in the first week of 2022, NVIDIA is joining in on the fun with a few announcements of its own. Chief among those announcements were new RTX 3080 Ti and 3070 Ti mobile",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/",
+      "originalUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/nvidiartx3050.jpg",
+          "width": 1063,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/",
+      "publishedDateTime": "2022-01-04T11:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility.md",
+      "title": "Train graph neural nets for millions of proteins on Amazon SageMaker and Amazon DocumentDB (with MongoDB compatibility)",
+      "excerpt": "There are over 180,000 unique proteins with 3D structures determined, with tens of thousands new structures resolved every year. This is only a small fraction of the 200 million known proteins with distinctive sequences. Recent deep learning algorithms such as AlphaFold can accurately predict 3D structures",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/09/ML-5542-image001-978x630.png",
+          "width": 978,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:48:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-intels-mobileye-unveils-a-chip-that-could-bring-self-driving-cars-to-the-masses.md",
+      "title": "Intel's Mobileye unveils a chip that could bring self-driving cars to the masses",
+      "excerpt": "Self-driving car technology is currently limited to test programs and specialized vehicles, but Mobileye thinks it can play a key role in making driverless vehicles you can actually buy. The Intel-owned company has unveiled an EyeQ Ultra system-on-chip designed with consumer self-driving cars in mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
+      "originalUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/1f232f00-ea43-11eb-afab-432c0d85748b",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-ces-2022-hyperxs-new-wireless-gaming-headset-runs-for-300-hours.md",
+      "title": "CES 2022: HyperX's new wireless gaming headset runs for 300 hours",
+      "excerpt": "HyperX is no stranger to the gaming-headset space, having created some of the best gaming headsets of the last decade or so. Now the company has introduced the HyperX Cloud Alpha Wireless, which cuts the cord from the tried-and-true HyperX Cloud Alpha.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ces.tech/Logistics/Dates-and-Hours.aspx",
+      "originalUrl": "https://www.tomsguide.com/news/ces-2022-hyperx-cloud-alpha-wireless",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ces.tech/ces/media/topics/tech-good-nav_580x204.png?ext=.png",
+          "width": 580,
+          "height": 204,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-intel-launches-its-arc-graphics-chips-for-pc-gaming.md",
+      "title": "Intel launches its Arc graphics chips for PC gaming",
+      "excerpt": "Intel aims to disrupt the duopoly of Nvidia and Advanced Micro Devices with its own Arc standalone graphics chips launching today.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
+      "originalUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch-7.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
+      "publishedDateTime": "2022-01-04T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-the-convergence-of-deep-neural-networks-and-immunotherapy.md",
       "title": "The convergence of deep neural networks and immunotherapy",
       "excerpt": "What do deep neural networks and cancer immunotherapy have in common? While both are among the most transformational areas of modern science, 30 years ago, these fields were all but ridiculed by the scientific community.",
@@ -188,6 +482,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-waking-up-on-indias-first-legal-challenge-to-the-deployment-of-facial-recognition-technology.md",
+      "title": "Waking up on India's First Legal Challenge to the deployment of Facial Recognition Technology",
+      "excerpt": "The Telangana high court issued notices on Monday to the state and Hyderabad police commissioner to respond to a PIL questioning the alleged use of face recognition technology (FRT) by officials without the sanction of law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
+      "originalUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGjOZzgeJ5iQA/article-cover_image-shrink_720_1280/0/1641313661810?e=1647475200&v=beta&t=21jmnJ2hhv9pbckNo9OL63WRwXockzu2e-aHASsg-j8",
+          "width": 1216,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -841,342 +1187,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-labrador-retriever-robot-for-those-with-chronic-pain.md",
-      "title": "Labrador \"Retriever\" robot for those with chronic pain",
-      "excerpt": "Labrador Systems . A new personal robot takes a page from the massive proliferation of enterprise materials handling robots over the past few years. The Retriever from developer L",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "originalUrl": "https://www.zdnet.com/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c5037216932a5c4b6dfc87f67948394f889a2866/2021/12/30/2e364f0a-8ac2-49bf-9803-73818ae17f83/labrador-retriever.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "publishedDateTime": "2022-01-04T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park.md",
-      "title": "Moving AI From The Safe And Secure Lab Into The Real World Isn’t Always A Walk In The Park",
-      "excerpt": "If you dream it, you can do it,” is a saying often attributed to Walt Disney, who successfully transformed his vision into a movie and theme park empire. While this is a great motivational quote, it wasn’t a simple formula for success for Disney back then,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F696529578%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/amp/",
-      "publishedDateTime": "2022-01-04T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-lg-builds-tech-to-start-cars-using-facial-recognition.md",
-      "title": "LG builds tech to start cars using facial recognition",
-      "excerpt": "The technology will enable users to start their vehicles as well as make adjustments to control the vehicles through facial expressions and hand gestures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindu.com/sci-tech/technology/7kfqy8/article38110437.ece/ALTERNATES/LANDSCAPE_615/LGfacialjpg",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/",
-      "publishedDateTime": "2022-01-04T04:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-the-danger-of-leaving-weather-prediction-to-ai.md",
-      "title": "The Danger of Leaving Weather Prediction to AI",
-      "excerpt": "When it comes to forecasting the elements, many seem ready to welcome the machine. But humans still outperform the algorithms—especially in bad conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/",
-      "originalUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61bcfdf760b9d5dd7134793f/master/pass/The-Danger-of-Leaving-Weather-Prediction-to-AI.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/weather-forecasting-artifical-intelligence/amp",
-      "publishedDateTime": "2022-01-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-why-2022-will-be-an-ai-powered-renaissance.md",
-      "title": "Why 2022 Will Be An AI-Powered Renaissance",
-      "excerpt": "Now, electronic brains powered by human-designed AI are poised to play the role of protagonists in 2022 and potentially accelerate progress in our society to drive our very own Renaissance. Some say that the best way to predict the future is to create it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/",
-      "publishedDateTime": "2022-01-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery.md",
-      "title": "AI, robotics, home care and mental health to lead healthcare delivery",
-      "excerpt": "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
-      "originalUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700",
-          "width": 700,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune India",
-        "domain": "fortuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence.md",
-      "title": "Fractures Through X-rays Detected Accurately by AI (artificial Intelligence)",
-      "excerpt": "X-rays that are positive for fracture can be quickly detected by a new AI (artificial intelligence) algorithm, thereby improving the care by reducing patient waiting time and diagnostic errors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
-      "originalUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/x-ray1.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
-      "publishedDateTime": "2022-01-03T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

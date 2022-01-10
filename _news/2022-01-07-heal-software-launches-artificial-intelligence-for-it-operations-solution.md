@@ -40,6 +40,22 @@ related:
         width: 400
         height: 210
         isCached: true
+  - title: "Ginesys to invest in CASA Retail AI to power targeted personalised customer engagement"
+    excerpt: "Ginesys, a leading end-to-end technology solutions provider for retail businesses today announced a strategic investment of USD 10mn over the next 3 years, in CASA Retail AI, to strengthen their custo"
+    publishedDateTime: 2022-01-10T12:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/ginesys-to-invest-in-casa-retail-ai-to-power-targeted-personalised-customer-engagement-122011001044_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ginesys-to-invest-in-casa-retail-ai-to-power-targeted-personalised-customer-engagement-122011001044_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ginesys-to-invest-in-casa-retail-ai-to-power-targeted-personalised-customer-engagement-122011001044_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 49
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/10/full/20220110172823.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "CYo+mXDiHL0PM2Z0v5XMBBeqZuMgX0KsY3ztVYFDBCICV0kPEPGpyv8CWBiSx/o9VKdzH/MWG8huj+QORuKeQT9VF2+GuxLiZpTmfUVGZkQhp/HS8o9BDUqLUNKWq7GnLX4F0eHPwWLL0obPeg8TIRi0wtHAmd7USYPGcFmOIoFmzOXCwm0eUl1doCVH4qAZNQP3Y7+paXoSlLZ8GsndAJBgxmX2M+f3s/SktubAgi8CI6JrneAXOhKqlS4Cgy9HeG6lj0RZiOZ8H69BOB+U1HCx9bWcVMH2LRA/7WJa1c64U6HXHsTS3GU6V/QA69CxMGjuI2DMA190X7eFwoF8mhtSJ8ny8Vm0+c91zFpWUrY=;K1e0bOQdoCqE2wa4xnEy+A=="
 ---

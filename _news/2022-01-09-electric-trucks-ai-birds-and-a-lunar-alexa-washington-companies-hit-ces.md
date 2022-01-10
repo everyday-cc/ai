@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/electric-trucks-ai-birds-and-a
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/electric-trucks-ai-birds-and-a-lunar-alexa-washington-companies-hit-ces/?amp=1"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI
   - AI Hardware
-
-related:
-  - title: "Panasonic Puts Amazon Alexa AI In Your Microwave Oven For CES 2022"
-    excerpt: "Panasonic has a brand new microwave up for buyers' consideration for this year's CES 2022 event, dubbed the Panasonic Smart Inverter Countertop Microwave"
-    publishedDateTime: 2022-01-05T19:45:00Z
-    webUrl: "https://www.androidheadlines.com/2022/01/panasonic-alexa-microwave-oven-nn-sv79ms-ces-2022.html"
-    ampWebUrl: "https://www.androidheadlines.com/2022/01/panasonic-alexa-microwave-oven-nn-sv79ms-ces-2022.html?amp"
-    cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/01/panasonic-alexa-microwave-oven-nn-sv79ms-ces-2022.html?amp"
-    type: article
-    provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 57
-    images:
-      - url: "https://www.androidheadlines.com/wp-content/uploads/2022/01/Panasonic-Smart-Inverter-Countertop-Microwave-Oven-Works-with-Alexa-NN-SV79MS-ces-2022-presser.jpg"
-        width: 1920
-        height: 1186
-        isCached: true
 
 secured: "5VJp18jHJG/aBrdnjZv5peYaKQGxNFfr00rNhjsot7KD0LgkmaZFLxWRtY3xcj+0t4F80abbZNZVITwX7RSizL4vfTxT7bStT0DnVzr5ElJcJpWCIAxBRcYAvEsl1vEg4xwo7xhhO5W1/YfRt49m0AJtPc/dVmVoEQW+aplRtvy1gtxlXAT4j8iaVW/EQ9YeR1UrYA16fwD4xbZDEDYwf6PkG9x1iTHHgO0cV9ToYkhoovBXuoJdpVKLfDggqTckFwYyZGmYTabaSiR5t9M3pTf6MWfsIsOebmTqCDlPmzctG3Egdrfpb3XU7IbqiEHHxh29IZZ6iUMPVqE+47C3ltGMmuZf8c/rqk8DTWO9Lbg=;LaB3W8XiDdTVFnWvvbuiGg=="
 ---

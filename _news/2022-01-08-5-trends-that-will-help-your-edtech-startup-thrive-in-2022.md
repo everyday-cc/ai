@@ -86,34 +86,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "5 Restaurant Tech Trends to Follow in 2022"
-    excerpt: "Tech on the mind. The last two years have been transformative for every sector, but perhaps none more so than the restaurant industry. Brands have had to develop new operating mod"
-    publishedDateTime: 2022-01-05T19:23:00Z
-    webUrl: "https://www.qsrmagazine.com/content/5-restaurant-tech-trends-follow-2022"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/jimmy-john-s-rolling-loyalty-program-nationwide.jpg?itok=4lzwkLSO"
-        width: 765
-        height: 446
-        isCached: true
-  - title: "6 Restaurant Tech Trends to Follow in 2022"
-    excerpt: "Tech on the mind. The last two years have been transformative for every sector, but perhaps none more so than the restaurant industry. Brands have had to develop new operating mod"
-    publishedDateTime: 2022-01-05T19:34:00Z
-    webUrl: "https://www.qsrmagazine.com/content/6-restaurant-tech-trends-follow-2022"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/jimmy-john-s-rolling-loyalty-program-nationwide.jpg?itok=4lzwkLSO"
-        width: 765
-        height: 446
-        isCached: true
   - title: "Five health tech innovations to watch in 2022"
     excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
     publishedDateTime: 2022-01-06T14:30:00Z

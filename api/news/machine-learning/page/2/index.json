@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-29-global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-for-personalized-financial-services.md",
+      "title": "Global AI and Advance Machine Learning in BFSI Market Report (2021 to 2030): Increasing Preferences for Personalized Financial Services",
+      "excerpt": "The \"AI and Advance Machine Learning in BFSI Market By Component, Deployment Model, Enterprise Size and Application:",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24809416/global-ai-and-advance-machine-learning-in-bfsi-market-report-2021-to-2030-increasing-preferences-f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24809416",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24809416",
+      "publishedDateTime": "2021-12-29T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-air-pollution-prediction-in-smart-city-deep-learning-approach.md",
       "title": "Air-pollution prediction in smart city, deep learning approach.",
       "excerpt": "In this paper, we implemented a deep learning solution to predict the hourly forecast of PM2.5 concentration in Beijing, China, based on CNN-LSTM, with a spatial-temporal feature by combining historical data of pollutants,",
@@ -77,6 +112,58 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-artificial-intelligence-36-is-the-future-of-ai-future-of-deep-learning.md",
+      "title": "Artificial Intelligence #36 : Is the future of AI = future of Deep Learning?",
+      "excerpt": "Introduction Welcome to Artificial Intelligence #36 – the last edition for this year. For many of us, 2021 has been a challenging year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-36-future-ai-deep-learning-ajit-jaokar",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-36-future-ai-deep-learning-ajit-jaokar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQF2KOEfzKDSEA/article-cover_image-shrink_600_2000/0/1640726128199?e=1647475200&v=beta&t=yk1k8JpsTA7iCi0insf3lCbr6yp9Lybg19P1xfTuIuA",
+          "width": 473,
+          "height": 352,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T13:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1320,111 +1407,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-meta-releases-bean-machine-to-help-measure-ai-model-uncertainty.md",
-      "title": "Meta releases Bean Machine to help measure AI model uncertainty",
-      "excerpt": "Meta (formerly Facebook) has released Bean Machine, a tool designed to help measure uncertainty in AI and machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
-      "publishedDateTime": "2021-12-16T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains.md",
-      "title": "Amira Learning CEO Personalizes Artificial Intelligence For Literacy Gains",
-      "excerpt": "Amira Learning CEO, Mark Angel, talks AI within the literacy world and the strides being made to support our youngest learners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/",
-      "originalUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb58be71f71a1f3001f125%2F0x0.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2021/12/16/amira-learning-ceo-personalizes-artificial-intelligence-for-literacy-gains/amp/",
-      "publishedDateTime": "2021-12-16T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

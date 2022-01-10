@@ -7,8 +7,8 @@ originalUrl: "https://internationalbanker.com/technology/confronting-ethical-cha
 webUrl: "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 91
+published: true
 
 provider:
   name: International Banker
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana’s facial recognition technology comes under scanner"
-    excerpt: "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places."
-    publishedDateTime: 2022-01-05T19:05:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html"
-    ampWebUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/01/05/1600x900/aa424bd6-6e53-11ec-9428-b30a84c15666_1641409525856.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Facial recognition technology makes for better giant panda protection"
     excerpt: "While facial recognition technology continues to facilitate many aspects of human life, it is now also being applied to aid the protection of giant pandas. A nature reserve in Northwest China's Gansu province has built an AI-enabled video monitoring system to better protect wild giant pandas."
     publishedDateTime: 2022-01-06T02:51:00Z
@@ -70,6 +54,34 @@ related:
       - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
         width: 750
         height: 422
+        isCached: true
+  - title: "Employee Attendance on Raspberry Pi using Facial Recognition"
+    excerpt: "Employee Attendance on Raspberry Pi using Facial Recognition. This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with Abdul"
+    publishedDateTime: 2022-01-08T18:06:00Z
+    webUrl: "https://github.com/Hashehri/employee-attendance-facial-recognition"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/70bf08419da1e87a60f7859161558a5206a590b6842b10e406e45fd4ba3d4487/Hashehri/employee-attendance-facial-recognition"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Ports in US and Hong Kong add contactless ‘self-service immigration’ channels using facial recognition"
+    excerpt: "The rollout comes as Hong Kong also expands its face recognition “non-touch e-channel” service for residents re-entering the territory to entry control points at Kai Tak Cruise Terminal. The New Orleans service has been introduced by US Customs and Border Protection (CBP) and Carnival Cruise Line and uses facial biometric technology that “verifies the traveller’s identity within two seconds and is more than 98% accurate,"
+    publishedDateTime: 2022-01-06T09:28:00Z
+    webUrl: "https://www.nfcw.com/2022/01/06/375467/ports-in-us-and-hong-kong-add-contactless-self-service-immigration-channels-using-facial-recognition/"
+    type: article
+    provider:
+      name: nfcw
+      domain: nfcw.com
+    quality: 23
+    images:
+      - url: "https://www.nfcw.com/wp-content/uploads/2022/01/facial-recognition-id-check-carnival-cruise-line.jpg"
+        width: 1176
+        height: 760
         isCached: true
 
 secured: "dyS6CoHcZmKe+oSe66QLhjytJ+z7qI65YwZ0BO82uezhZhvlddPR5lF9OJH86OkF/UL8g7NFlxcP/uI2dZXMr14dCCVgYALPB8LkBJJMO8360R5nwSAH6dgu9zvvM2VX8I9nF6fB+Xgj1Ii/2iYUlL+LepUVrR90SQsOj13+8GDa/phTdh+vMZRaiSMpaBhXms9SdVleNCpLrcTAcTNkxROO3sERgv5+pAemp3CBIGUJGhmuR5QELFP1W0Sn5dMCKwbtKtVJA3Nsv4jDjLHSD8KAdUc/Rp1VrG4z91ca8FAvdG7VsjTL51EhVtD8aBX9tw6oGn7nptpnjBsjcYWZnpVZyg0wrUqvG6L1MkY9jKI=;EHZDzQHDcIaRUJW/mgHqyg=="

@@ -26,6 +26,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "FinTech and the New Consumer Market"
+    excerpt: "FinTech and the New Consumer Market  - Fintech innovations such as the Internet of Things, artificial intelligence, blockchain, and cloud computing are"
+    publishedDateTime: 2022-01-10T11:16:00Z
+    webUrl: "https://www.cioreview.com/news/fintech-and-the-new-consumer-market-nid-34827-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/skvkm.fintech.jpg"
+        width: 300
+        height: 350
+        isCached: true
+
 secured: "jrV0yD4XUbRFjeE2BUj7oNGbVUpxDvSjG5PLXIftOXOOROub83CTBKYIwI7I/xYTu7BfVUOvIFBB65KRul8/KJry8K0PFKxJkaDJrgcMmk0Tj0UnQ5NFcJZV2lkli5va8O6Vom7JZVYhqB0LLIjZvHD2AY73PaqK1GJY7AIVnEMPI/5ThwBneryQcNxOkLL1loz14brvcbK6vHTpHyOl7HDQ1Za3QMPlTy7fV8SVL2GkLC0pbasCeZD1EtITEe/RU7hqcHtfhNF5Gulzj1TetBvPQvL4cHZ2tmf6QggnvT+xdUzHNu52Cpl8Ry6nWegj4jowMnvdJDjyBGAaW9CAqJRXuVwM1N45r+xXGFBzb1s=;Tz86fT10YNLeru5J5N0RnQ=="
 ---
 

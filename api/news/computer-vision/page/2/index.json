@@ -2,6 +2,135 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-22-face-recognition-is-being-bannedbut-its-still-everywhere.md",
+      "title": "Face Recognition Is Being Banned—but It’s Still Everywhere",
+      "excerpt": "Two dozen cities and states prohibit use of the tech. But it’s on phones and is increasingly used in airports and in banks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
+      "originalUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7bd8612b63df686feb19d/master/pass/yir-jennysharaf-aiface-1192570719.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-banned-but-everywhere/amp",
+      "publishedDateTime": "2021-12-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-campuses-law-enforcement-reckon-with-facial-recognition-bans.md",
+      "title": "Campuses, Law Enforcement Reckon with Facial Recognition Bans",
+      "excerpt": "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
+      "originalUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2021/12/Facial-recogntion-Adobe-by-Fractal-Pictures-scaled.jpeg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Safety Magazine",
+        "domain": "campussafetymagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-the-global-image-recognition-market-stood-at-usd27764-billion-in-2020-and-is-growing-with-a-cagr-of-1759-to-reach-usd73344-billion-by-2026.md",
+      "title": "The global image recognition market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026",
+      "excerpt": "Reportlinker.com announces the release of the report \"Global Image Recognition Market, By Component, By Technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24734672/the-global-image-recognition-market-stood-at-usd27-764-billion-in-2020-and-is-growing-with-a-cagr-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24734672/the-global-image-recognition-market-stood-at-usd27-764-billion-in-2020-and-is-growing-with-a-cagr-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24734672",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24734672",
+      "publishedDateTime": "2021-12-22T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-computer-vision-scientist-salary-in-deadwood-sd.md",
       "title": "Computer Vision Scientist Salary in Deadwood, SD",
       "excerpt": "How much does a Computer Vision Scientist make in Deadwood, SD? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
@@ -1195,153 +1324,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-skorea-to-test-ai-powered-facial-recognition-to-track-covid-19-cases.md",
-      "title": "S.Korea to test AI-powered facial recognition to track COVID-19 cases",
-      "excerpt": "South Korea will soon roll out a pilot project to use artificial intelligence, facial recognition and thousands of CCTV cameras to track the movement of people infected with the coronavirus, despite concerns about the invasion of privacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/",
-      "originalUrl": "https://www.reuters.com/world/asia-pacific/skorea-test-ai-powered-facial-recognition-track-covid-19-cases-2021-12-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 344,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MiqTTTHeA8s7haANJpsh8a5U6KM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CENID7OUPVLF5MJ6ZETMZG4UFA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-12T15:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-know-top-computer-vision-trends-to-adopt-in-2022.md",
-      "title": "Know Top Computer Vision Trends to Adopt in 2022",
-      "excerpt": "Look out for top computer vision trends to adopt in 2022 with deep learning and computer vision. Organizations should know trends of computer vision for better digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/know-top-computer-vision-trends-to-adopt-in-2022/",
-      "originalUrl": "https://www.analyticsinsight.net/know-top-computer-vision-trends-to-adopt-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Know-Top-Computer-Vision-Trends-to-Adopt-in-2022.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T23:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-cyber-daily-us-to-bar-investment-in-chinese-facial-recognition-firm.md",
-      "title": "Cyber Daily: U.S. to Bar Investment in Chinese Facial Recognition Firm",
-      "excerpt": "The use of facial recognition sparks debate and we’ve covered local bans, such as in Portland and San Francisco. As with data privacy in general, there is no federal law in the U.S. to set boundaries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
-      "originalUrl": "https://www.wsj.com/articles/cyber-daily-u-s-to-bar-investment-in-chinese-facial-recognition-firm-11639145216",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.wsj.net/img/meta/wsj-social-share.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T05:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -54,20 +54,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-    publishedDateTime: 2022-01-06T15:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-20181152.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 53
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "SparkBeyond Discovery Now Available in the Microsoft Azure Marketplace"
     excerpt: "Today SparkBeyond announced the availability of its data science platform for supervised machine learning, SparkBeyond Discovery, in the Microsoft Azure Marketplace, an online"
     publishedDateTime: 2022-01-06T13:00:00Z
@@ -91,6 +77,15 @@ related:
         width: 640
         height: 512
         isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+    publishedDateTime: 2022-01-06T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
 
 secured: "0amEURnLVC2F+9hKL2HqFiK9LN1l0IRXjJvpsHt3ukl7pHffuSxIL7wCRbCLCTw/rvn12oP5966kESJWPo9LWJRyGskutIwfdgTocN1y0nS7M5gQb/EkLX35Lwg5XI7y3ZQUUXPUDBXaxm+VlR2IWfO3m1SvIhJhIu963ncaUqzev32nEJw+Qp/puUsJJ7i+gAXav8Z7OAO29YEJv872lf/nv/WL7llPicRIxTbh1xAlbskxerB0e7xyiEfaIXWHVtAQrGlTkaz4RJVn6d8+QR4P0H4UhnbhYeUoo+TJVuKz5BxWjFKHD+XXy2o1kfcvItPXVX+WKWnq+LPTSiBWo/xMDDQGzvFkwZ1D7brHB3w=;yECd9G0LP6eq/HKZJSnWWQ=="
 ---

@@ -48,6 +48,20 @@ related:
         width: 740
         height: 422
         isCached: true
+  - title: "Jay Rasik Modi Wins the Business Excellence Award for Founding the Best FinTech Online Platforms in Canada"
+    excerpt: "Calgary based businessman, Jay Modi has been awarded the Business Excellence Award for 2020 for the founding of some of Canada’s top online FinTech Platforms. “Thank you to AI Global for this award, I appreciate the recognition and award”."
+    publishedDateTime: 2022-01-10T11:14:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-canada-calgary-6417b515315b86459ca4080deed174ce"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "dD5W0Gw3/WYuT/SFQBzOrjUufPsUwVL9bZCuu5ibrgQ93xDw9tUs84Uv+H85AWTZhUDSxJkTJWbW9VY4pyxCp2ZtHlhRCySKFbRscMItAZeNBT8Xcq2v15D3/X7s8DYevVuNnHmvZfBv4lBjm5m0A0gFFyy5aMU2qGpoJqZkw7dw7U9GLTc+zPaaEHzz9sZB/qhUdXw6x6FzheFAgNmr40ZPMa74PaBi4qLXEBpHGclT+345I9E0Bcva83oPT4vt4y93c1ZPA/FntoqbA3i87yNsD5klrNptGf1FQRlOo2FBLcUbK3JHcSJjB4OvOUldjhBg1DStPLw9JPzD2a8MMLJc8oCadYEajadtcTeI50s=;MBcCIqiPkLTJbhrk/+5jrw=="
 ---

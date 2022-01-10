@@ -1,163 +1,26 @@
 ---
 category: news
 title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
-publishedDateTime: 2022-01-05T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
+excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics"
+publishedDateTime: 2022-01-05T14:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
+webUrl: "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html"
 type: article
-quality: 21
-heat: -1
-published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
-    width: 1154
-    height: 606
+  - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?w=500"
+    width: 500
+    height: 778
     isCached: true
 
-related:
-  - title: "ITRI intros innovations in AI, robotics, and ICT at CES 2022"
-    excerpt: "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, will introduce AI, robotics, and ICT technologies at its CES 2022 booth"
-    publishedDateTime: 2022-01-06T08:57:00Z
-    webUrl: "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/"
-    ampWebUrl: "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 91
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2022/01/ITRI.jpg"
-        width: 531
-        height: 337
-        isCached: true
-  - title: "CES 2022: AI is driving innovation in ‘smart’ tech"
-    excerpt: "At CES 2022, a slew of smart tech innovations driven by AI and aimed at improving lives and businesses, are being unveiled publicly."
-    publishedDateTime: 2022-01-05T15:59:00Z
-    webUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/"
-    ampWebUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1322183741.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "IRTI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
-    excerpt: "ITRI’s featured technologies include the RGB-D AI Robot, a CES 2022 Innovation Awards Honoree, the first collaborative robot that integrates smart 3D vision as a built-in standard; the Autonomous Selfie Drone,"
-    publishedDateTime: 2022-01-06T05:40:00Z
-    webUrl: "https://geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/"
-    ampWebUrl: "https://geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
-    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
-    type: article
-    provider:
-      name: Geek News Central
-      domain: geeknewscentral.com
-    quality: 89
-    images:
-      - url: "https://geeknewscentral.com/wp-content/uploads/2022/01/ITRI-RGB-D-AI-Robot.png"
-        width: 297
-        height: 291
-        isCached: true
-  - title: "ITRI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
-    excerpt: "Technologies include the CES Innovation Award Honoree RGB-D AI Robot, the Autonomous Selfie Drone, and the Interactive Time Machine HSINCHU, Jan. 5, 2022 // -- The Industrial Technology Research Institute (ITRI),"
-    publishedDateTime: 2022-01-06T04:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=595638"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 69
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-  - title: "DEEP Robotics’ Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
-    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry’s annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
-    publishedDateTime: 2022-01-06T14:45:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-china-asia-robotics-367ae93a9f70b62ab37261b1a4597fea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
-    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
-    publishedDateTime: 2022-01-07T05:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=596509"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 54
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-  - title: "The robots debuting at CES 2022"
-    excerpt: "Take a look at this roundup of robots, compiled by Electronics360, that are preparing for their CES 2022 debut. Hyundai Motor Group. Source: Hyundai Motor Group. Automotive manufa"
-    publishedDateTime: 2022-01-05T13:01:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17606/the-robots-debuting-at-ces-2022"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/606/17606/CES2022D.png"
-        width: 675
-        height: 555
-        isCached: true
-  - title: "CES 2022: There’s a new robot dog in town"
-    excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
-    publishedDateTime: 2022-01-07T14:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17625/ces-2022-there-s-a-new-robot-dog-in-town"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/625/17625/Jueying_Lite2_on_2022_CES.jpg"
-        width: 752
-        height: 552
-        isCached: true
-  - title: "Popular Trends in Artificial Intelligence in 2022"
-    excerpt: "Deep learning models that have been pre-trained are heavily reliant on real-world data. Nevertheless, obtaining data on time and integrating it into"
-    publishedDateTime: 2022-01-06T05:58:00Z
-    webUrl: "https://www.cioapplications.com/news/popular-trends-in-artificial-intelligence-in-2022-nid-9045.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/zztsw450308.jpg"
-        width: 450
-        height: 308
-        isCached: true
-
-secured: "5Ltiv8FNIjK6TefU1wF1Z4zmZKWCFttH/HU1DsaRgH3h06gLK8n+nlskbqKp+3sHX0eP6fd9L7ARg3PJbkPO4eL4A1E1LVGGhPhCUjR2aBd5/s2rpAJYicYKqlkzPM8SJ/4Xc61CVoOCH1MzbdyihpfWsG2tBn8hcuY4SJ0opj+5vvoEzWTRVq7H2GLBYkI1cN3Iar0TZiML5Z7q5ZTPbnDdJ7ddiZ7XpuNUJnAr5j7dS5hZi5x4Ax5db6PPFq57ItPcdB447yLwkZlHospCUw+xBlFH8255ZkR36hrS+3MCoLqpXshGAgROj+NDjskzCmTuxcJxGz5y3Y6PadV1D6jux7jZbrrlyoAPFbnLiojk6eo7K91HGIV0wwhys1wMZB3cxhkBSRlWtoLqXOiiuY3ZYHIwxkxYXD762lRJcTg4Nx24vjjYsxM4FkaxAxWvHlWPQG+C4mpg67PJD710l2sC6VMFQAMxOuJ6btnVpNbp6lIm1cPZBID6w2kZ4w9KdLVyIFsY9DCsPzbHsO+KpQ==;D/SjrbdXq3fIqhpYC6/IzQ=="
+secured: "l7VYoKcFAh3hEUA8Zpe9qf28NLyia+6XTvExRSuQZLokpQIR08a3HbndPPGtMnwkll+wCmv7GZ2H0xau0vlu2I/rsQFTMLR/FSUtcY9JruLePntpLj99v5D1As6liTxjVR/zf/GOSHUfs1YTvvgxWTgIMMDlu9bjnDNVI5DjTpr5LnBo0WmkjMue4a/edquXPAb67W2yuxq13nhsLEpisU0AA1pjAKmedkMAMNxGbnCm4aABwTXVKJKdXlFds3ikk3Dn7upgQO00KgbJqpJG4xtNco67X8YSEJwPdimsY7Mz4I5VHxPAenUkKkSz8Poa+X9ryWtE9a3gXDfCQ0URsRx4UAChhJHihuqnLYh43eE=;JSeHWHlgE0e44wcqXCJw6g=="
 ---
 

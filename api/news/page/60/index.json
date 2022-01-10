@@ -2,21 +2,21 @@
   "page": 60,
   "value": [
     {
-      "path": "_news/2021-11-05-opensource-gui-tool-for-opencv-and-deeplearning.md",
-      "title": "OpenSource GUI Tool For OpenCV And DeepLearning",
-      "excerpt": "AI and Deep Learning for computer vision projects has come to the masses. This can be attributed partly to the community projects that help ease the pain for newbies. [Abhishek] contributes one ...",
+      "path": "_news/2021-11-20-identifying-patients-needing-help-with-squark-automl-at-upmc.md",
+      "title": "Identifying Patients Needing Help With Squark AutoML At UPMC",
+      "excerpt": "UPMC uses automated machine learning software from Squark to identify patients who may benefit from living donor liver transplants.",
       "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
-      "originalUrl": "https://hackaday.com/2020/02/28/opensource-gui-tool-for-opencv-and-deeplearning/",
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://hackaday.com/wp-content/uploads/2020/02/monkai_feat.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61981d5e16a15abc836db9ec%2F0x0.jpg",
+          "width": 400,
+          "height": 267,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T17:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2021/11/19/identifying-patients-needing-help-with-squark-automl-at-upmc/amp/",
+      "publishedDateTime": "2021-11-19T12:59:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,20 +54,72 @@
       ]
     },
     {
-      "path": "_news/2021-11-05-pro-and-con-artificial-intelligence.md",
-      "title": "Pro and Con: Artificial Intelligence",
-      "excerpt": "Some people contend artificial intelligence can improve workplace safety, offer accessibility for people with disabilities, and make everyday life more convenient and enjoyable; others contend artificial intelligence poses dangerous privacy risks,",
+      "path": "_news/2021-11-20-fleet-operators-want-teslas-but-not-full-self-driving.md",
+      "title": "Fleet operators want Teslas. But not 'full self-driving'",
+      "excerpt": "But for all their Tesla enthusiasm, there's one feature they overwhelmingly aren't touching — \"full self-driving.\" Some say the technology isn't ready yet. The $10,000 optional software feature ...",
       "sourceUrl": null,
-      "webUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
-      "originalUrl": "https://www.britannica.com/story/pro-and-con-artificial-intelligence",
+      "webUrl": "https://www.cnn.com/2021/11/19/cars/tesla-full-self-driving-fleet/index.html",
+      "originalUrl": "https://www.cnn.com/2021/11/19/cars/tesla-full-self-driving-fleet/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.britannica.com/10/228410-131-1A428140/motion-abstract-background-binary-code.jpg",
-          "width": 900,
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/211118132230-01-revel-tesla-cars-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/11/19/cars/tesla-full-self-driving-fleet/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/11/19/cars/tesla-full-self-driving-fleet/index.html",
+      "publishedDateTime": "2021-11-19T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-20-self-driving-stocks-join-evs-as-next-retail-trader-obsession.md",
+      "title": "Self-Driving Stocks Join EVs as Next Retail Trader Obsession",
+      "excerpt": "Self-driving technology companies are the latest automotive stocks to become an obsession of retail traders, with firms like Aurora Innovation Inc. surging Friday on high volume.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-11-19/self-driving-startups-join-evs-as-next-retail-trader-obsession",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaaSmj6nsYe8/v2/1200x675.png",
+          "width": 1200,
           "height": 675,
           "title": null,
           "attribution": null,
@@ -69,99 +130,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T17:00:00-07:00",
+      "publishedDateTime": "2021-11-19T11:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Britannica",
-        "domain": "britannica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage.md",
-      "title": "SUNY Polytechnic leaders explain causes, solutions behind chip shortage",
-      "excerpt": "Computer chips are a hard find in pandemic times, but it’s not the materials in short supply — it’s the manpower. “Silicon is one of the most abundant elements",
-      "sourceUrl": null,
-      "webUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
-      "originalUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news10.com/wp-content/uploads/sites/64/2021/11/SUNY-POLY-STILL.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
-      "cdnAmpWebUrl": "https://www-news10-com.cdn.ampproject.org/c/s/www.news10.com/top-stories/suny-polytechnic-leaders-explain-causes-solutions-behind-chip-shortage/amp/",
-      "publishedDateTime": "2021-11-04T16:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTEN",
-        "domain": "news10.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-self-driving-company-aurora-makes-nasdaq-debut.md",
-      "title": "Self driving company Aurora makes Nasdaq debut",
-      "excerpt": "In another highly-anticipated IPO, self-driving technology company Aurora Innovation (AUR) made it’s Nasdaq debut today. The company merged in October with Reinvent Technology Partners Y (RTPY), a special purpose acquisition company (SPAC) led by LinkedIn co-founder Reid Hoffman and Zynga founder Mark Pincus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/",
-      "originalUrl": "https://www.therobotreport.com/self-driving-company-aurora-makes-nasdaq-debut/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/11/aurora-nasdaq-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T16:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -175,21 +158,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-05-report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450.md",
-      "title": "Report: Enterprise use of AI to predict cash flow expected to increase 450%",
-      "excerpt": "To sharpen cash forecasting capabilities, today's enterprises are embracing AI and machine learning for greater automation and efficiency.",
+      "path": "_news/2021-11-20-motherandroid-chloe-grace-moretz-is-on-the-run-from-robots-in-new-trailer.md",
+      "title": "'Mother/Android': Chloë Grace Moretz is on the run from robots in new trailer",
+      "excerpt": "Chloë Grace Moretz is an expecting mother who is trying to survive amid a war with artificial intelligence in the new trailer for upcoming Hulu film, \"Mother/Android.\"",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/",
-      "originalUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/",
+      "webUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "originalUrl": "https://www.upi.com/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/pricing-1-e1635876555154.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/2171637350187/2021/1/30206a0b14643694b66e2c2e76dc7c40/v1.5/MotherAndroid-Chlo-Grace-Moretz-is-on-the-run-from-robots-in-new-trailer.jpg",
+          "width": 800,
+          "height": 531,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -197,284 +180,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/04/report-enterprise-use-of-ai-to-predict-cash-flow-expected-to-increase-450/amp/",
-      "publishedDateTime": "2021-11-04T15:53:00-07:00",
+      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/Movies/2021/11/19/Chlo-Grace-Moretz/2171637350187/",
+      "publishedDateTime": "2021-11-19T11:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-amazon-vets-land-10m-for-whylabs-a-seattle-startup-that-monitors-machine-learning-models.md",
-      "title": "Amazon vets land $10M for WhyLabs, a Seattle startup that monitors machine learning models",
-      "excerpt": "WhyLabs, a spinout from the Seattle’s Allen Institute for Artificial Intelligence (AI2), raised $10 million and released a new tool to support machine learning applications. The problem:",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/",
-      "originalUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/04/Alessya-Visnjic-280x300.jpeg",
-          "width": 280,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/amazon-vets-land-10m-whylabs-seattle-startup-monitors-machine-learning-models/amp/",
-      "publishedDateTime": "2021-11-04T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-is-metas-facial-recognition-retreat-another-head-fake.md",
-      "title": "Is Meta’s Facial Recognition Retreat Another Head Fake?",
-      "excerpt": "Facebook, oops, Meta — boy, this is going to take some getting used to — announced this week that it would end its decade-old facial recognition system and delete the face dat",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/04/opinion/04Swisher-image/04Swisher-image-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/opinion/facebook-facial-recognition-meta.amp.html",
-      "publishedDateTime": "2021-11-04T15:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-pamela-mccorduck-historian-of-artificial-intelligence-dies-at-80.md",
-      "title": "Pamela McCorduck, Historian of Artificial Intelligence, Dies at 80",
-      "excerpt": "She interviewed many of the scientists who were at the heart of the field through the end of the 1970s, and she compiled a groundbreaking history of its early years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/11/04/technology/pamela-mccorduck-dead.html",
-      "originalUrl": "https://www.nytimes.com/2021/11/04/technology/pamela-mccorduck-dead.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/11/02/obituaries/02McCorduck1/02McCorduck1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/11/04/technology/pamela-mccorduck-dead.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/11/04/technology/pamela-mccorduck-dead.amp.html",
-      "publishedDateTime": "2021-11-04T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-using-ai-to-verify-renter-eligibility-and-risk.md",
-      "title": "Using AI to verify renter eligibility and risk",
-      "excerpt": "Oblogo's platform uses open banking data and AI-based underwriting to determine a renter's eligibility to rent a unit.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/",
-      "originalUrl": "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/09/fintech.jpg?w=1200&strip=all",
-          "width": 999,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/04/using-ai-to-verify-renter-eligibility-and-risk/amp/",
-      "publishedDateTime": "2021-11-04T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-cobi-robot-autonomously-performs-needle-less-vaccinations.md",
-      "title": "Cobi robot autonomously performs needle-less vaccinations",
-      "excerpt": "It goes without saying that a lot of people are receiving the COVID-19 vaccine these days, and will continue to do so for some time. A new robot is designed to help streamline the process, by autonomously – and needle-lessly – vaccinating human patients.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/",
-      "originalUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/735b46a/2147483647/strip/true/crop/746x497+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F92%2Fb2%2Fd4ed008e4c199d20be0d2caa5b92%2Fscreen-shot-2021-11-04-at-12.09.10%20PM.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/cobi-robot-needle-less-vaccinations/?amp=true",
-      "publishedDateTime": "2021-11-04T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -488,21 +201,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-05-facebook-should-not-have-bowed-to-public-outrage-and-shut-down-its-facial-recognition-system-former-world-chess-champion-says.md",
-      "title": "Facebook should not have bowed to public outrage and shut down its facial recognition system, former world chess champion says",
-      "excerpt": "Facebook is wrong to shut down facial recognition, according to Gary Kasparov, the former world chess champion and chairman of Human Rights Foundation.",
+      "path": "_news/2021-11-20-google-clouds-aiml-stack-to-power-toronto-firms-nlp-platform.md",
+      "title": "Google Cloud’s AI/ML stack to power Toronto firm’s NLP platform",
+      "excerpt": "Google Cloud has announced a multi-year tech partnership with Toronto-based software firm Cohere in which Google Cloud’s artificial intelligence (AI) and machine",
       "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
-      "originalUrl": "https://www.cnbc.com/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
+      "webUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
+      "originalUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://image.cnbcfm.com/api/v1/image/106173405-1570674137430gettyimages-1167464772.jpeg?v=1570674164",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2021/11/GettyImages-1305028662-620x250.jpg",
+          "width": 620,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -510,23 +223,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/11/04/facebook-is-wrong-to-shut-down-facial-recognition-says-gary-kasparov.html",
-      "publishedDateTime": "2021-11-04T10:42:00-07:00",
+      "ampWebUrl": "https://www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/google-cloud-has-announced-a-multi-year-tech-partnership-with-toronto-based-software-firm-cohere-where-google-clouds-ai-and-ml-infra-will-power-coheres-nlp-platform/120035?amp=1",
+      "publishedDateTime": "2021-11-19T10:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -535,78 +239,27 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2021-11-05-alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup.md",
-      "title": "Alphabet launches Isomorphic Labs, an AI-driven drug discovery startup",
-      "excerpt": "The new venture plans to partner with biomedical and pharmaceutical companies, using artificial intelligence to discover new medicinal advancements.",
+      "path": "_news/2021-11-20-steps-every-leader-should-take-to-prepare-for-artificial-intelligence.md",
+      "title": "Steps Every Leader Should Take to Prepare for Artificial Intelligence",
+      "excerpt": "I’ve spent much of the past year thinking about the rise of artificial intelligence (AI) and how it will affect what it means to be human over the coming decades. As part of that work, I’ve spoken with a wide range of scientists,",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
-      "originalUrl": "https://www.cnet.com/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 379,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/BLQLT7e8qsxx3tLRBPtY0jSKrY8=/1200x630/2021/11/04/117bf529-9fcc-40c5-9e37-f3a6a80a18a1/gettyimages-1290225107.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/alphabet-launches-isomorphic-labs-an-ai-driven-drug-discovery-startup/",
-      "publishedDateTime": "2021-11-04T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-05-alphabet-is-launching-a-company-that-uses-ai-for-drug-discovery.md",
-      "title": "Alphabet is launching a company that uses AI for drug discovery",
-      "excerpt": "It’ll build off of the work done by DeepMind, another Alphabet subsidiary that has done groundbreaking work using AI to predict the structure of proteins. The new company, called Isomorphic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
-      "originalUrl": "https://www.theverge.com/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
+      "webUrl": "https://www.linkedin.com/pulse/steps-every-leader-should-take-prepare-artificial-eric-schmidt/?trackingId=8KJmIxx%2BR3GvOQjHYRAn6Q%3D%3D",
+      "originalUrl": "https://www.linkedin.com/pulse/steps-every-leader-should-take-prepare-artificial-eric-schmidt/?trackingId=8KJmIxx%2BR3GvOQjHYRAn6Q%3D%3D",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/kdddLIUWJSyu7gOt6TTdsILtLKw=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70094151/msingleton_180612_2663_0002.0.jpg",
-          "width": 1400,
-          "height": 933,
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEmHGrRXdd1Kw/article-cover_image-shrink_720_1280/0/1637345356690?e=1643241600&v=beta&t=Mnv-pvTZaTbLOE-lmoNra4e1HV_Ry3fxJ7TuEqA6JlM",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -614,16 +267,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2021/11/4/22763535/google-alphabet-drug-discovery-deepmind-ai",
-      "publishedDateTime": "2021-11-04T10:21:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-19T10:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -631,92 +284,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-teslas-handling-of-braking-bug-in-public-self-driving-test-raises-alarms.md",
-      "title": "Tesla's handling of braking bug in public self-driving test raises alarms",
-      "excerpt": "Tesla pushed out a new version of the experimental software suite it calls Full Self-Driving to approved drivers on Oct. 23 through an \"over the air\" update.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 193,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/tesla.jpg",
-          "width": 2880,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-tesla-bug-self-driving-alarms.amp",
-      "publishedDateTime": "2021-11-04T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok.md",
-      "title": "“Ethical AI” Trained To Offer Moral Advice Descends Into Giving Genocide The OK",
-      "excerpt": "Artificial intelligence (AI) is changing our world, whether it's making historic breakthroughs in medicine, or taking our fast-food orders at the drive-thr",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
-      "originalUrl": "https://www.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/246f484d-f6bd-53e1-a6dd-e9f7dd44605f/default-1636040776-cover-image.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/ethical-ai-trained-to-offer-moral-advice-descends-into-giving-genocide-the-ok/",
-      "publishedDateTime": "2021-11-04T09:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -730,21 +297,21 @@
       ]
     },
     {
-      "path": "_news/2021-11-04-tensorflow-decision-forests-and-tensorflow-serving.md",
-      "title": "TensorFlow Decision Forests and TensorFlow Serving",
-      "excerpt": "TensorFlow Serving is a serving system for TensorFlow models in production environments. The TF-Serving team publishes a pre-compiled release containing only Core TensorFlow ops. TensorFlow Decision Forests (TF-DF) models use custom Ops for inference.",
+      "path": "_news/2021-11-20-key-executives-resign-after-ponyai-combines-trucking-and-passenger-car-rd-units.md",
+      "title": "Key executives resign after Pony.ai combines trucking and passenger car R&D units",
+      "excerpt": "Pony.ai, the self-driving startup that operates in both the U.S. and China, has lost at least two executives from its trucking team following the combination of the company’s passenger car and self-driving truck R&D teams.",
       "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
-      "originalUrl": "https://www.tensorflow.org/decision_forests/tensorflow_serving",
+      "webUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/",
+      "originalUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
+          "url": "https://techcrunch.com/wp-content/uploads/2020/02/SJM_8934.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -752,62 +319,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T09:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform.md",
-      "title": "Propelo raises $12M for its AI-driven engineering excellence platform",
-      "excerpt": "The number of DevOps tools has increased exponentially over the last few years and, with that, the amount of data these tools can produce to help businesses improve their software development processes.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/",
-      "originalUrl": "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/outdo_image_2-648w.png?w=300",
-          "width": 300,
-          "height": 258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/04/propelo-raises-12m-for-its-ai-driven-engineering-excellence-platform/amp/",
-      "publishedDateTime": "2021-11-04T08:45:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/19/key-executives-resign-after-pony-ai-combines-trucking-and-passenger-car-rd-units/amp/",
+      "publishedDateTime": "2021-11-19T08:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -832,367 +346,7 @@
       "topics": [
         "AI"
       ]
-    },
-    {
-      "path": "_news/2021-11-04-an-ethical-ai-trained-on-human-morals-has-turned-racist.md",
-      "title": "An ‘ethical’ AI trained on human morals has turned racist",
-      "excerpt": "It’s wrong, according to AI. Explaining Delphi’s goal, its creators wrote online: “Extreme-scale neural networks learned from raw internet data are ever more powerful than we anticipated, yet fail to learn human values, norms, and ethics. Our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi",
-      "originalUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dazedimg-dazedgroup.netdna-ssl.com/1200/0-0-1345-897/azure/dazed-prod/1310/6/1316177.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1",
-      "cdnAmpWebUrl": "https://www-dazeddigital-com.cdn.ampproject.org/c/s/www.dazeddigital.com/science-tech/article/54701/1/an-ethical-ai-trained-on-human-morals-has-turned-racist-ask-delphi?amp=1",
-      "publishedDateTime": "2021-11-04T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dazed",
-        "domain": "dazeddigital.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-a-new-direction-for-artificial-neural-networks.md",
-      "title": "A new direction for artificial neural networks",
-      "excerpt": "Researchers at Saint Petersburg Electrotechnical University are making strides in the development of reservoir computing to advance the performance of artificial intelligence Scientists working in the department of physical electronics and technology at Saint Petersburg Electrotechnical University (LETI) have won the support of the Russian government for their project on reservoir computing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeshighereducation.com/cn/hub/p/new-direction-artificial-neural-networks",
-      "originalUrl": "https://www.timeshighereducation.com/cn/hub/p/new-direction-artificial-neural-networks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timeshighereducation.com/sites/default/files/semenov_2_web.jpg",
-          "width": 750,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Higher Education",
-        "domain": "timeshighereducation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-better-ai-stock-nvidia-or-palantir.md",
-      "title": "Better AI Stock: Nvidia or Palantir",
-      "excerpt": "Nvidia (NASDAQ:NVDA) and Palantir operate in different sectors, but both tech companies are profiting from the secular expansion of the artificial intelligence (AI) market. Nvidia",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "originalUrl": "https://www.fool.com/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F649882%2Fgettyimages-664246660.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2021/11/04/better-ai-stock-nvidia-or-palantir/",
-      "publishedDateTime": "2021-11-04T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-us-physical-therapy-usph-beats-q3-earnings-and-revenue-estimates.md",
-      "title": "U.S. Physical Therapy (USPH) Beats Q3 Earnings and Revenue Estimates",
-      "excerpt": "U.S. Physical Therapy (USPH) delivered earnings and revenue surprises of 7.59% and 1.30%, respectively, for the quarter ended September 2021. Do the numbers hold clues to what lies ahead",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/395421",
-      "originalUrl": "https://www.entrepreneur.com/article/395421",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-395421.jpeg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-cdpq-leads-us70-million-financing-round-in-sama-an-ai-training-data-platform.md",
-      "title": "CDPQ leads US$70 million financing round in Sama, an AI training data platform",
-      "excerpt": "Trusted by leading companies including Google, Walmart and NVIDIA, Sama intends to use funds to continue delivering the highest quality training to power AI applications and to develop the first end-to-end AI platform to manage the complete AI lifecycle The company has approximately 40 employees in Montreal where it intends to strengthen its presence with a research and product development hub MONTRÉAL,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cdpq-leads-us70-million-financing-round-in-sama-an-ai-training-data-platform-301415882.html",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-canada-montreal-8e7928684b9df0a642dc179d2c054258",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030.md",
-      "title": "Artificial Intelligence & Advanced Machine Learning Market (2021): Strapping Growth Analysis Based on Future Opportunities by 2030",
-      "excerpt": "Pune, Maharashtra, India, November 3 2021 (Wiredrelease) MarketResearch.Biz –:Marketresearch.biz’s Artificial Intelligence & Advanced Machine Learning Market Research Report is convincing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-advanced-machine-learning-market-2021-strapping-growth-analysis-based-on-future-opportunities-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/11/c8bbb64fe2b17c021c3ff1d93a3036bd1b16ce8b-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-04T07:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-toward-speech-recognition-for-uncommon-spoken-languages.md",
-      "title": "Toward speech recognition for uncommon spoken languages",
-      "excerpt": "Automated speech-recognition technology has become more common with the popularity of virtual assistants like Siri, but many of these systems only perform well with the most widely spoken of the world's roughly 7,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.html",
-      "originalUrl": "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2021/toward-speech-recognit.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-speech-recognition-uncommon-spoken-languages.amp",
-      "publishedDateTime": "2021-11-04T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-04-the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4.md",
-      "title": "The Huge Market Failure Of AI And The Sequence Of Events That Led Us To It (Part 4)",
-      "excerpt": "The real revolutionary potential in AI lies not in the specific capabilities of a single solution (however sophisticated) but rather in establishing an AI multiplier that will enable efficient and scalable deployment of dozens of AI solutions within each enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61095f169be9fec2c781acb3%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/11/04/the-huge-market-failure-of-ai-and-the-sequence-of-events-that-led-us-to-it-part-4/amp/",
-      "publishedDateTime": "2021-11-04T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
     }
   ],
-  "nextPage": 61
+  "nextPage": null
 }

@@ -72,20 +72,6 @@ related:
         width: 1240
         height: 827
         isCached: true
-  - title: "GM says it’s aiming to sell you a self-driving car by middle of this decade"
-    excerpt: "\"text/javascript\" src=\" data-newsource-publisher=\"853\" data-player-data=\"7466534a93ecc5d02263fdc67c881b4\" data-max-width=\"auto\" data-autoplay=\"1\" data-player-type=\"1010\" data-embed-type=\"3020\">General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade."
-    publishedDateTime: 2022-01-05T19:45:00Z
-    webUrl: "https://www.channel3000.com/i/gm-says-its-aiming-to-sell-you-a-self-driving-car-by-middle-of-this-decade/"
-    type: article
-    provider:
-      name: Channel 3000
-      domain: channel3000.com
-    quality: 37
-    images:
-      - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/01/y/j/e906202de0c5a97d1134441109cf96a48e2bddca.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "At CES, auto tech alliances firm up in the self-driving car wars"
     excerpt: "Mobileye, Qualcomm and Nvidia -- emerged at the CES in Las Vegas in locking down the brains of self-driving cars for the next decade."
     publishedDateTime: 2022-01-07T12:25:00Z

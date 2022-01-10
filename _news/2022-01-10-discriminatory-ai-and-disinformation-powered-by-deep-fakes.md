@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-10T08:49:00Z
 originalUrl: "https://www.bizcommunity.com/Article/196/852/223906.html"
 webUrl: "https://www.bizcommunity.com/Article/196/852/223906.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Ethics
 
 images:
   - url: "https://biz-file.com/c/2111/636347-847x440.jpg?2"

@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana’s facial recognition technology comes under scanner"
-    excerpt: "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places."
-    publishedDateTime: 2022-01-05T19:05:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html"
-    ampWebUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/01/05/1600x900/aa424bd6-6e53-11ec-9428-b30a84c15666_1641409525856.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology"
     excerpt: "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,"
     publishedDateTime: 2022-01-06T06:00:00Z
@@ -68,6 +52,34 @@ related:
       - url: "https://news.cgtn.com/news/2022-01-07/Facial-recognition-technology-makes-for-better-giant-panda-protection-16Cv0FaW1wc/img/1d4e390c9ff747288631bb31bebe77c1/1d4e390c9ff747288631bb31bebe77c1-750.png"
         width: 750
         height: 422
+        isCached: true
+  - title: "Employee Attendance on Raspberry Pi using Facial Recognition"
+    excerpt: "Employee Attendance on Raspberry Pi using Facial Recognition. This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with Abdul"
+    publishedDateTime: 2022-01-08T18:06:00Z
+    webUrl: "https://github.com/Hashehri/employee-attendance-facial-recognition"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/70bf08419da1e87a60f7859161558a5206a590b6842b10e406e45fd4ba3d4487/Hashehri/employee-attendance-facial-recognition"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Ports in US and Hong Kong add contactless ‘self-service immigration’ channels using facial recognition"
+    excerpt: "The rollout comes as Hong Kong also expands its face recognition “non-touch e-channel” service for residents re-entering the territory to entry control points at Kai Tak Cruise Terminal. The New Orleans service has been introduced by US Customs and Border Protection (CBP) and Carnival Cruise Line and uses facial biometric technology that “verifies the traveller’s identity within two seconds and is more than 98% accurate,"
+    publishedDateTime: 2022-01-06T09:28:00Z
+    webUrl: "https://www.nfcw.com/2022/01/06/375467/ports-in-us-and-hong-kong-add-contactless-self-service-immigration-channels-using-facial-recognition/"
+    type: article
+    provider:
+      name: nfcw
+      domain: nfcw.com
+    quality: 23
+    images:
+      - url: "https://www.nfcw.com/wp-content/uploads/2022/01/facial-recognition-id-check-carnival-cruise-line.jpg"
+        width: 1176
+        height: 760
         isCached: true
 
 secured: "/OIQx67KY4Ti6MSe4tlqW0WF3uiK/Hei+/R7+gMxeyRVhHfJCmTzt02Kg9LhwgYTWw1ZcoWgBKy/47DlR41qU4j5/gnagaOeiKwmDx/BssR96ZcCbNQCT8C9uTA3fJedjB1Ira/21VvyvCxALbWPJeHnDzyBd5pSd2bW4YejTC6kXGhzr8rTKP65fmnayy3RePrQrB8oElJJSPWjr8JBoV5xfkoCPL/66QcnyEcSsZmYKSOvArGSkWlvMPDGyBfKTlDzRng1uDXY/FIghoGQH1+z7EVxyln62JpLBOmfyKm1Dr4jYaB9jbb7CEiwjc0hrWCEKY/DgtJcQmCWCGcXJFAA1sUZpqMXbGE3jf70Xes=;WeZYSlYU4ls68tWjTdVTqw=="

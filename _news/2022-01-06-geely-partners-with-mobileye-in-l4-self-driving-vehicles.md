@@ -53,15 +53,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Mobileye's Self-Driving Secret? 200PB of Data"
-    excerpt: "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
-    publishedDateTime: 2022-01-05T20:38:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "8VVvPfKreGLa1VyIUX9EatU6vTCZb+0al5EXV38Xm6DwdVm4dWU7U7tSd69F0atbHsELnglS7HkRw8qKAL+NHHTuXF66mbs6HYQeJ0Ed/T1MdlxZT7EiyzInDKXrjsQ912JFOKiv9l+Zx3UMbTyl4LiWc1g/1lnT4NPbcACweKoKGxQldUNfc+n/hbfb6rZQBxo1rxS3r352t6grV834GwF9fHyKsSmBNSkrtydv8ASX3C26Bd7kZmwnWRNbMRvA2FLW/IEBaq6jJYL2aTQF8dHwwJSCXuLiQxE8SXyprZ1yuVGsvlZU70NRmAKUXB4MdwNXowomVhkEZK+too6KNuXGxzW57okTtzeRZWrPOkw=;JaGz3U91u9Ww4LO/oAy/Uw=="
 ---

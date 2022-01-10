@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-10-is-lidar-on-its-way-out-the-business-case-for-saying-goodbye.md",
+      "title": "Is LiDAR on its way out? The business case for saying goodbye",
+      "excerpt": "Among the deluge of robotics predictions you're bound to encounter this year, there's one you should pay particular attention to: The way robots \"see\" is fundamentally changing, and that's going to have a huge impact on the utility,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/is-lidar-on-its-way-out/",
+      "originalUrl": "https://www.zdnet.com/article/is-lidar-on-its-way-out/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/fd3014dcfa45547ebbc987525bf802a212a19100/2022/01/07/9598c060-4dfd-4ed1-b71b-ebd77473707d/machine-g5fb55c703-1920.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/is-lidar-on-its-way-out/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/is-lidar-on-its-way-out/",
+      "publishedDateTime": "2022-01-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-ola-2-security-camera-with-face-recognition-ai-and-more-hits-kickstarter.md",
       "title": "OLA 2 security camera with face recognition, AI and more hits Kickstarter",
       "excerpt": "If you are in the market for a new security camera you might be interested in the OLA 2 launched via Kickstarter this month offering, facial",
@@ -258,7 +310,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -299,6 +351,51 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology.md",
+      "title": "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology",
+      "excerpt": "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/",
+      "originalUrl": "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png",
+          "width": 975,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics",
+        "Computer Vision"
       ]
     },
     {
@@ -629,6 +726,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-waking-up-on-indias-first-legal-challenge-to-the-deployment-of-facial-recognition-technology.md",
+      "title": "Waking up on India's First Legal Challenge to the deployment of Facial Recognition Technology",
+      "excerpt": "The Telangana high court issued notices on Monday to the state and Hyderabad police commissioner to respond to a PIL questioning the alleged use of face recognition technology (FRT) by officials without the sanction of law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
+      "originalUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGjOZzgeJ5iQA/article-cover_image-shrink_720_1280/0/1641313661810?e=1647475200&v=beta&t=21jmnJ2hhv9pbckNo9OL63WRwXockzu2e-aHASsg-j8",
+          "width": 1216,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1307,135 +1456,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-face-recognition-is-being-bannedbut-its-still-everywhere.md",
-      "title": "Face Recognition Is Being Banned—but It’s Still Everywhere",
-      "excerpt": "Two dozen cities and states prohibit use of the tech. But it’s on phones and is increasingly used in airports and in banks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
-      "originalUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b7bd8612b63df686feb19d/master/pass/yir-jennysharaf-aiface-1192570719.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-banned-but-everywhere/amp",
-      "publishedDateTime": "2021-12-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-campuses-law-enforcement-reckon-with-facial-recognition-bans.md",
-      "title": "Campuses, Law Enforcement Reckon with Facial Recognition Bans",
-      "excerpt": "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
-      "originalUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2021/12/Facial-recogntion-Adobe-by-Fractal-Pictures-scaled.jpeg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-the-global-image-recognition-market-stood-at-usd27764-billion-in-2020-and-is-growing-with-a-cagr-of-1759-to-reach-usd73344-billion-by-2026.md",
-      "title": "The global image recognition market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026",
-      "excerpt": "Reportlinker.com announces the release of the report \"Global Image Recognition Market, By Component, By Technology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24734672/the-global-image-recognition-market-stood-at-usd27-764-billion-in-2020-and-is-growing-with-a-cagr-",
-      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24734672/the-global-image-recognition-market-stood-at-usd27-764-billion-in-2020-and-is-growing-with-a-cagr-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24734672",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24734672",
-      "publishedDateTime": "2021-12-22T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

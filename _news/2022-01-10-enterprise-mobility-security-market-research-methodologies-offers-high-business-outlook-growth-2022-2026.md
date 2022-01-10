@@ -33,6 +33,34 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
+  - title: "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
+    excerpt: "... of the key players offering cognitive services and Platforms-as Service (PaaS). The major cognitive service vendors include IBM (US), Microsoft (US), AWS (US), Google (US), TCS (India), Baidu ..."
+    publishedDateTime: 2022-01-10T12:45:00Z
+    webUrl: "https://menafn.com/1103514261/Cognitive-Services-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?957437"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "AI in Social Media Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
+    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 10, 2022, 06:52 /Comserve / -- MarketsandMarkets forecasts the global AI in social media market to grow from USD 633.1 mill"
+    publishedDateTime: 2022-01-10T12:45:00Z
+    webUrl: "https://menafn.com/1103514255/AI-in-Social-Media-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?957437"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "tJNhXSeW/Eh71bTIwRgQs7LG0xaQJEdiS170u138yXXrxDAi8nLRfZzpYIjJWflq1OJAaGhzSBy7m8uqKr4cxELVIVfDDcYULcoGCPGBs3qd8kD/62h7C0XXfmIB2dWR2TqCDmj3qxm32TWQjk+GM7aE+MN8cC5iDgg687OJBK0OkDSYWkZqo+2aUzwf/+YlFs/buqao1a1vjbWjjNfecssBfoBw0ZpKz1KRIVxk4p4rEKqo/mXsIL8GDjBPRWvNPeMYJktp2MMJqn/VDS/nqOv3x+OU4T7gjrGcmdOY6+DDSrADf8Nmbwp/HZbuu+ycIzLEs06nAlLn7WxXs/lS4IQCwuv3c/enboAKKXITsRs=;NeJPkhfO89poD8hzpbQC2w=="
 ---

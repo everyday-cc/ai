@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/"
 type: article
 quality: 89
-heat: 170
+heat: 151
 published: true
 
 provider:
@@ -76,34 +76,6 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "5 Restaurant Tech Trends to Follow in 2022"
-    excerpt: "Tech on the mind. The last two years have been transformative for every sector, but perhaps none more so than the restaurant industry. Brands have had to develop new operating mod"
-    publishedDateTime: 2022-01-05T19:23:00Z
-    webUrl: "https://www.qsrmagazine.com/content/5-restaurant-tech-trends-follow-2022"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/jimmy-john-s-rolling-loyalty-program-nationwide.jpg?itok=4lzwkLSO"
-        width: 765
-        height: 446
-        isCached: true
-  - title: "6 Restaurant Tech Trends to Follow in 2022"
-    excerpt: "Tech on the mind. The last two years have been transformative for every sector, but perhaps none more so than the restaurant industry. Brands have had to develop new operating mod"
-    publishedDateTime: 2022-01-05T19:34:00Z
-    webUrl: "https://www.qsrmagazine.com/content/6-restaurant-tech-trends-follow-2022"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/jimmy-john-s-rolling-loyalty-program-nationwide.jpg?itok=4lzwkLSO"
-        width: 765
-        height: 446
         isCached: true
   - title: "Five health tech innovations to watch in 2022"
     excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"

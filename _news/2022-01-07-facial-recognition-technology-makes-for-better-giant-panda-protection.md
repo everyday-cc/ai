@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Telangana’s facial recognition technology comes under scanner"
-    excerpt: "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places."
-    publishedDateTime: 2022-01-05T19:05:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024.html"
-    ampWebUrl: "https://www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/telanganas-facial-recognition-technology-comes-under-scanner-101641409527024-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/01/05/1600x900/aa424bd6-6e53-11ec-9428-b30a84c15666_1641409525856.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology"
     excerpt: "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,"
     publishedDateTime: 2022-01-06T06:00:00Z
@@ -68,6 +52,34 @@ related:
       - url: "http://img2.chinadaily.com.cn/images/202201/06/61d6594ca310cdd3d8255110.jpeg"
         width: 445
         height: 296
+        isCached: true
+  - title: "Employee Attendance on Raspberry Pi using Facial Recognition"
+    excerpt: "Employee Attendance on Raspberry Pi using Facial Recognition. This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with Abdul"
+    publishedDateTime: 2022-01-08T18:06:00Z
+    webUrl: "https://github.com/Hashehri/employee-attendance-facial-recognition"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 39
+    images:
+      - url: "https://opengraph.githubassets.com/70bf08419da1e87a60f7859161558a5206a590b6842b10e406e45fd4ba3d4487/Hashehri/employee-attendance-facial-recognition"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Ports in US and Hong Kong add contactless ‘self-service immigration’ channels using facial recognition"
+    excerpt: "The rollout comes as Hong Kong also expands its face recognition “non-touch e-channel” service for residents re-entering the territory to entry control points at Kai Tak Cruise Terminal. The New Orleans service has been introduced by US Customs and Border Protection (CBP) and Carnival Cruise Line and uses facial biometric technology that “verifies the traveller’s identity within two seconds and is more than 98% accurate,"
+    publishedDateTime: 2022-01-06T09:28:00Z
+    webUrl: "https://www.nfcw.com/2022/01/06/375467/ports-in-us-and-hong-kong-add-contactless-self-service-immigration-channels-using-facial-recognition/"
+    type: article
+    provider:
+      name: nfcw
+      domain: nfcw.com
+    quality: 23
+    images:
+      - url: "https://www.nfcw.com/wp-content/uploads/2022/01/facial-recognition-id-check-carnival-cruise-line.jpg"
+        width: 1176
+        height: 760
         isCached: true
 
 secured: "jQ/m0gsXKudiVL2ehN3Wke7Jnkcbbk50MHuHySwDcH+F0YDKxQRQ7gTYXlcUdd8nPm44LJqQ4Ciko9u0OBC1dLzKioDAuc1Xs5emIK3jKilOn8E5hzEYZUk2DqIL+91QY4km+Cc7Zr3F2fMFe5xC7VcPhcTUYVyocZQSjIwoGQLgjFulwESIN2yOPT5ncqvNd7CjTw12EgHxcPReFJ3draeMnO1gYfupe4GUj+2iQPj6FxgomaK12r24ayDx2jJFi2CuR0hhZKjb0BuWS/kT2n6OlJ+MWzpdL6cDYk+o4+8nMfRc6L3vb7cD2XQeCkkckkBMxFXF0V12jNVtCw6jqjGs0MARh/Xphm4g4xm+wkM=;97N27qTqH15SxBwsOCeC5g=="

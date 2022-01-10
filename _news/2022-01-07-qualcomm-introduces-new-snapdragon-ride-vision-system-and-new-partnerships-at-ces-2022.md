@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-int
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/amp/"
 type: article
 quality: 66
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
         width: 1920
         height: 1275
         isCached: true
-  - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
-    excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio the Snapdragon Ride™ Vision System a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
-    publishedDateTime: 2022-01-05T19:49:00Z
-    webUrl: "https://www.newswiretoday.com/news/176884/Qualcomm-Introduces-Snapdragon-Ride-Vision-System-an-Open-and-Scalable-Platform-for-Automated-Driving/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "uv3K4jVpngzeDLi6zGye1SjWg0yK/AFIoNFHss4Z0zBZJlzwKcCck+x24autk4MYPN2UZ05l8Or/SY4Es0wl3uyT44Kb+buI6ybyPbTKM8AAVZB3xB5QOQDvO5XhTdGi6C3krECJJaHsmiXlVF1kUm7LF/mf3b+BFkRyRZ3b7uagYgid1FhhRaWEMHIt71ZoehH2LDC3gwwMsp7hwbmo4l2FaHJpXHnnyPzOrZ7v4cJnEAKYcj1lr08Xy79WHHfnIznf7tZFhX1/zt5sfFiXU8tS4QKYJjFojNzgF/cL2DNtRZ0N8Oewu/QSBG4vZD9uY/ZU/j2bQPF5MJjcPdA1VnuinuJ+4FJZdDAFpqGivzA=;FWLj8eIFG90EeLtd27TZ+g=="
 ---

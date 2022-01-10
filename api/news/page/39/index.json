@@ -2,6 +2,422 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-12-07-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
+      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
+      "excerpt": "Also, Microsoft does not plan to release a Windows ... PDAs provided a simple, efficient system for documenting pharmacists' cognitive services and, potentially, for generating reimbursement ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "originalUrl": "https://www.medscape.com/viewarticle/453038_4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-the-top-6-artificial-intelligence-plays-in-india.md",
+      "title": "The Top 6 Artificial Intelligence Plays in India",
+      "excerpt": "Investors looking to tap into AI theme need to keep an eye on tech firm leveraging the power of AI are making things possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
+      "originalUrl": "https://www.equitymaster.com/detail.asp?date=12/06/2021&story=6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eqimg.com/images/2021/09292021-PH-equitymaster.jpg",
+          "width": 350,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
+      "cdnAmpWebUrl": "https://www-equitymaster-com.cdn.ampproject.org/c/s/www.equitymaster.com/detail-amp.asp?date=12/06/2021&story=6&title=The-Top-6-Artificial-Intelligence-Plays-in-India",
+      "publishedDateTime": "2021-12-06T14:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Equitymaster",
+        "domain": "equitymaster.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-intel-will-take-its-mobileye-automotive-unit-public-in-2022.md",
+      "title": "Intel will take its Mobileye automotive unit public in 2022.",
+      "excerpt": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 352,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
+      "publishedDateTime": "2021-12-06T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-clearview-ais-search-engine-for-faces-set-to-receive-patent.md",
+      "title": "Clearview AI's 'Search Engine for Faces' Set to Receive Patent",
+      "excerpt": "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
+      "originalUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ueqb57yidtjtmqxjectm.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
+      "publishedDateTime": "2021-12-06T13:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-german-language-service-provider-milengo-expands-to-the-us.md",
+      "title": "German Language Service Provider Milengo Expands to the US",
+      "excerpt": "Combining a global pool of more than 1,200 qualified in-country linguists with an inhouse team of machine translation and language AI experts, allows Milengo to offer their customers tailored ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
+      "originalUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/AAA-3-2-e1639857192200-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T11:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
+      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
+      "excerpt": "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T10:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-deep-learning-dreams-up-new-protein-structures.md",
+      "title": "Deep learning dreams up new protein structures",
+      "excerpt": "In recent years, artificial intelligence techniques like neural networks and deep learning have revolutionized the accuracy of this work. “For this project, we made up completely random protein ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
+      "originalUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.troyrecord.com/wp-content/uploads/2021/07/troy-1.jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
+      "cdnAmpWebUrl": "https://www-troyrecord-com.cdn.ampproject.org/c/s/www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
+      "publishedDateTime": "2021-12-06T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Troy Record",
+        "domain": "troyrecord.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-human-intuition-and-machine-reasoning-ais-helping-us-solve-giant-math-puzzles.md",
+      "title": "Human intuition and machine reasoning: AI’s helping us solve giant math puzzles",
+      "excerpt": "Mathematical discoveries take creativity – and now a little help from AI. Here's how neural nets are helping us develop intuition.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-helping-us-solve-giant-math-puzzles-syndication",
+      "originalUrl": "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-helping-us-solve-giant-math-puzzles-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FMathematician-teacher-AI-math-blackboard-hed.jpg&signature=ce79ebf5b685916e316302e581625ff6",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T10:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-a-serious-game-microsoft-azure-champions-user-generated-content.md",
+      "title": "A Serious Game: Microsoft Azure Champions ‘User Generated Content’",
+      "excerpt": "User Generated Content brings communities together to turn games into ever-evolving platforms. By providing game developers with a set of tools to create open environments for players, they can increase engagement while empowering individual creators to share and monetize their work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ad1e960cc6e9b23cb90539%2F0x0.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/",
+      "publishedDateTime": "2021-12-06T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters.md",
       "title": "Alethea AI, BeingAI, and Binance NFT launch NFT-based AI game characters",
       "excerpt": "Alethea AI and BeingAI are collaborating with the Binance NFT marketplace to introduce the AI game characters that are based on NFTs.",
@@ -771,456 +1187,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-ai-applications-in-digital-health.md",
-      "title": "AI Applications in Digital Health",
-      "excerpt": "Health and digital health, encompassing ehealth and health information technology, form a significant cluster in the Berlin-Brandenburg metropolitan area, evidenced by their more than 600 biotech, pharmaceutical and medtech companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
-      "originalUrl": "https://www.newsweek.com/sponsored/ai-applications-digital-health",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1944301/berlin-1.jpg",
-          "width": 1537,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-for-truly-ethical-ai-its-research-must-be-independent-from-big-tech.md",
-      "title": "For truly ethical AI, its research must be independent from big tech",
-      "excerpt": "We must curb the power of Silicon Valley and protect those who speak up about the harms of AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/507cadd8062f426e1ca22df47fde57b3f8b0441f/0_0_4017_2410/master/4017.jpg?width=620&quality=85&auto=format&fit=max&s=187facc6d0d3cbbb25719b24e035a55c",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/dec/06/google-silicon-valley-ai-timnit-gebru",
-      "publishedDateTime": "2021-12-06T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-what-ai-based-recruiting-can-learn-from-hr-leaders.md",
-      "title": "What AI-Based Recruiting Can Learn From HR Leaders",
-      "excerpt": "Artificial intelligence (AI) in HR is a very hot topic. But is it effective in helping HR professionals find suitable candidates, or match employees to opportunities? In a recent browsing session for talent management software,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61a8f6a930ffa5ea24f8a7aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2021/12/06/what-ai-based-recruiting-can-learn-from-hr-leaders/amp/",
-      "publishedDateTime": "2021-12-06T04:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-argo-ai-focuses-on-cyclist-identification-for-automated-vehicles.md",
-      "title": "Argo AI Focuses On Cyclist Identification For Automated Vehicles",
-      "excerpt": "Argo AI, the automated driving developer majority owned by Ford and Volkswagen has teamed up with the League of American Bicyclists to try to make roads safer for those on two wheels.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/",
-      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae004e141815981bb90539%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2021/12/06/argo-ai-focuses-on-cyclist-identification-for-automated-vehicles/amp/",
-      "publishedDateTime": "2021-12-06T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-startups-keep-in-mind-the-five-ts-of-transition.md",
-      "title": "Startups: Keep In Mind The Five T's Of Transition",
-      "excerpt": "As a researcher moves from technology development to transition implementation, the process can seem daunting. In past articles, I’ve spoken about how to think about performance and reliability in conjunction with convenience and cost.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/06/startups-keep-in-mind-the-five-ts-of-transition/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/06/startups-keep-in-mind-the-five-ts-of-transition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60ca10c91854bb852614d23b%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/06/startups-keep-in-mind-the-five-ts-of-transition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/06/startups-keep-in-mind-the-five-ts-of-transition/amp/",
-      "publishedDateTime": "2021-12-06T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-review-document-parsing-in-aws-azure-and-google-cloud.md",
-      "title": "Review: Document parsing in AWS, Azure, and Google Cloud",
-      "excerpt": "In this article we’ll discuss the document parsing and splitting services available from the big three public cloud providers: AWS, Microsoft Azure, and Google Cloud. The use cases these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3643574/review-document-parsing-in-aws-azure-and-google-cloud.html",
-      "originalUrl": "https://www.infoworld.com/article/3643574/review-document-parsing-in-aws-azure-and-google-cloud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T03:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-deep-learning-dreams-up-new-protein-structures.md",
-      "title": "Deep learning dreams up new protein structures",
-      "excerpt": "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools. In a report in Nature, a team including",
-      "sourceUrl": null,
-      "webUrl": "https://www.saratogian.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
-      "originalUrl": "https://www.saratogian.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.saratogian.com/wp-content/uploads/2021/07/saratogian-1.jpg",
-          "width": 2100,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.saratogian.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
-      "cdnAmpWebUrl": "https://www-saratogian-com.cdn.ampproject.org/c/s/www.saratogian.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
-      "publishedDateTime": "2021-12-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Saratogian",
-        "domain": "saratogian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-inside-tesla-as-elon-musk-pushed-an-unflinching-vision-for-self-driving-cars.md",
-      "title": "Inside Tesla as Elon Musk Pushed an Unflinching Vision for Self-Driving Cars",
-      "excerpt": "The automaker may have undermined safety in designing its Autopilot driver-assistance system to fit its chief executive’s vision, former employees say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/07/business/07tesla-autopilot1/00tesla-autopilot01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/tesla-autopilot-elon-musk.amp.html",
-      "publishedDateTime": "2021-12-06T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-automl-market-revenue-to-surpass-148308-million-by-2030-says-ps-intelligence.md",
-      "title": "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence",
-      "excerpt": "From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR of 45.6% from 2020 to 2030. The major factors driving the market are the burgeoning requirement for",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20140675.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20140675.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T01:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

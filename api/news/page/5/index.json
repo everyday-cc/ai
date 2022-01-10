@@ -2,6 +2,283 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-06-sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service.md",
+      "title": "Sensory Sticks Its Head in the Cloud with AWS, NVIDIA-Powered SensoryCloud AI-as-a-Service",
+      "excerpt": "Aims to offer key AI services, like facial recognition and speech-to-text, for any internet-connected device via a simple API.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2",
+      "originalUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackster.imgix.net/uploads/attachments/1393136/image_ESTGfad4pO.png?auto=compress%2Cformat",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp",
+      "cdnAmpWebUrl": "https://www-hackster-io.cdn.ampproject.org/c/s/www.hackster.io/news/sensory-sticks-its-head-in-the-cloud-with-aws-nvidia-powered-sensorycloud-ai-as-a-service-658d0fa227c2.amp",
+      "publishedDateTime": "2022-01-05T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackster",
+        "domain": "hackster.io",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-the-power-of-deep-learning-in-marketing-campaigns-for-fashion-brands.md",
+      "title": "The Power of Deep Learning in Marketing Campaigns for Fashion Brands",
+      "excerpt": "We can (and do) buy everything online nowadays. There is strong competition in almost every domain, as retailers fight to carve out their digital space, but perhaps no type of online sales is as competitive as fashion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/power-deep-learning-marketing-campaigns-fashion-brands-rob-elms",
+      "originalUrl": "https://www.linkedin.com/pulse/power-deep-learning-marketing-campaigns-fashion-brands-rob-elms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHKIxFSXWTm0g/article-cover_image-shrink_600_2000/0/1641395897480?e=1646870400&v=beta&t=dw-LAm5x5_SjFy813CLh3jNTCzpit4PC0XTti722Ls0",
+          "width": 1559,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-va-turns-to-ai-to-streamline-administrative-tasks.md",
+      "title": "VA Turns to AI to Streamline Administrative Tasks",
+      "excerpt": "The Department of Veterans Affairs is exploring how to use artificial intelligence tools to drive efficiencies in a wide range of medical and clerical areas.",
+      "sourceUrl": null,
+      "webUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
+      "originalUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedtechmagazine.com/sites/fedtechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202201/GettyImages-1300745916.jpg?itok=8Qx7rF5Z",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
+      "cdnAmpWebUrl": "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/01/va-turns-ai-streamline-administrative-tasks?amp",
+      "publishedDateTime": "2022-01-05T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fedtechmagazine.com",
+        "domain": "fedtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place.md",
+      "title": "Ulisse Launches the Only Radar and Computer Vision Platform to Transform Every Physical Space Into an Intelligent Place",
+      "excerpt": "The company’s proprietary AI and IoT technology is ‘privacy first,’ allowing for both anonymity and accuracy; learns from surrounding environment and people’s behavior to deliver better analytics, experiences,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/accesswire/space-launches-technology-business-351c6b3e1faf5df837091a4870af2f78",
+      "originalUrl": "https://apnews.com/press-release/accesswire/space-launches-technology-business-351c6b3e1faf5df837091a4870af2f78",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022.md",
+      "title": "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022",
+      "excerpt": "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-301454355.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg?w=500",
+          "width": 500,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-2022-startup-predictions-the-trends-sectors-and-tech-worth-watching.md",
+      "title": "2022 Startup Predictions: The Trends, Sectors, And Tech Worth Watching",
+      "excerpt": "Will 2022 be another record year for investment into the European venture community? Here are a few of the trends and technologies likely to drive investment decisions in the year ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/",
+      "originalUrl": "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d5a9fe900aca137e034ea8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/",
+      "publishedDateTime": "2022-01-05T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-using-ai-for-drug-discovery.md",
       "title": "Using AI for drug discovery…",
       "excerpt": "Protai, an Israeli MedTech company is changing the way new drugs are discovered with their AI-powered platform… Protai, an Israeli AI-powered drug discovery start-up, today announced its emergence from stealth,",
@@ -909,300 +1186,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ponyai-sinotrans-collaborate-on-driverless-trucking.md",
-      "title": "Pony.ai, Sinotrans Collaborate on Driverless Trucking",
-      "excerpt": "Autonomous driving firm Pony.ai is working with Chinese logistics company Sinotrans to build a smart logistics network that uses autonomous trucking tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/",
-      "originalUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/06/pony.ai_-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2022/pony-ai-sinotrans-collaborate-driverless-trucking/amp/",
-      "publishedDateTime": "2022-01-04T11:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst.md",
-      "title": "NVIDIA RTX 3090 Ti and RTX 3050 revealed to quench your GPU thirst",
-      "excerpt": "With CES kicking off here in the first week of 2022, NVIDIA is joining in on the fun with a few announcements of its own. Chief among those announcements were new RTX 3080 Ti and 3070 Ti mobile",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/",
-      "originalUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/nvidiartx3050.jpg",
-          "width": 1063,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-rtx-3090-ti-and-rtx-3050-revealed-to-quench-your-gpu-thirst-04705380/amp/",
-      "publishedDateTime": "2022-01-04T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility.md",
-      "title": "Train graph neural nets for millions of proteins on Amazon SageMaker and Amazon DocumentDB (with MongoDB compatibility)",
-      "excerpt": "There are over 180,000 unique proteins with 3D structures determined, with tens of thousands new structures resolved every year. This is only a small fraction of the 200 million known proteins with distinctive sequences. Recent deep learning algorithms such as AlphaFold can accurately predict 3D structures",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-graph-neural-nets-for-millions-of-proteins-on-amazon-sagemaker-and-amazon-documentdb-with-mongodb-compatibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/09/ML-5542-image001-978x630.png",
-          "width": 978,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T10:48:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-intels-mobileye-unveils-a-chip-that-could-bring-self-driving-cars-to-the-masses.md",
-      "title": "Intel's Mobileye unveils a chip that could bring self-driving cars to the masses",
-      "excerpt": "Self-driving car technology is currently limited to test programs and specialized vehicles, but Mobileye thinks it can play a key role in making driverless vehicles you can actually buy. The Intel-owned company has unveiled an EyeQ Ultra system-on-chip designed with consumer self-driving cars in mind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
-      "originalUrl": "https://www.engadget.com/intel-mobileye-eyeq-ultra-self-driving-car-chip-174343591.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-07/1f232f00-ea43-11eb-afab-432c0d85748b",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ces-2022-hyperxs-new-wireless-gaming-headset-runs-for-300-hours.md",
-      "title": "CES 2022: HyperX's new wireless gaming headset runs for 300 hours",
-      "excerpt": "HyperX is no stranger to the gaming-headset space, having created some of the best gaming headsets of the last decade or so. Now the company has introduced the HyperX Cloud Alpha Wireless, which cuts the cord from the tried-and-true HyperX Cloud Alpha.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ces.tech/Logistics/Dates-and-Hours.aspx",
-      "originalUrl": "https://www.tomsguide.com/news/ces-2022-hyperx-cloud-alpha-wireless",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ces.tech/ces/media/topics/tech-good-nav_580x204.png?ext=.png",
-          "width": 580,
-          "height": 204,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-intel-launches-its-arc-graphics-chips-for-pc-gaming.md",
-      "title": "Intel launches its Arc graphics chips for PC gaming",
-      "excerpt": "Intel aims to disrupt the duopoly of Nvidia and Advanced Micro Devices with its own Arc standalone graphics chips launching today.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/intel-arch-7.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/intel-launches-its-arc-graphics-chips-for-pc-gaming/amp/",
-      "publishedDateTime": "2022-01-04T10:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -57,6 +57,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta offers automated driving profiles that can perform 'rolling stops'"
+    excerpt: "As the names imply, these profiles are pre-configured to suit drivers with differing levels of confidence in Tesla's technology. If you have low faith in FSD's"
+    publishedDateTime: 2022-01-10T11:58:00Z
+    webUrl: "https://www.techspot.com/news/92912-tesla-full-self-driving-beta-offers-automated-driving.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/92912-tesla-full-self-driving-beta-offers-automated-driving.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92912-tesla-full-self-driving-beta-offers-automated-driving.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 76
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-10-image.jpg"
+        width: 2560
+        height: 1439
+        isCached: true
   - title: "Tesla Self Driving Is Getting So Good It Will Cost More"
     excerpt: "Elon Musk tweeted that new versions of the company's driver assistance software, dubbed Full Self Driving is coming soon—and the price is going up too."
     publishedDateTime: 2022-01-08T00:23:00Z
@@ -103,6 +119,17 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Tesla Hikes Price on Full Self-Driving to $12K"
+    excerpt: "(TSLA) is increasing the price of its Full Self-Driving (FSD) feature to $12,000, effective from January 17, 2022. Meanwhile, TSLA shares closed down 3.5% at $1,026.96 on January 7. Tesla formally released the FSD Beta Button in the last week of September to select drivers based on their safety scores."
+    publishedDateTime: 2022-01-10T07:35:00Z
+    webUrl: "https://www.nasdaq.com/articles/tesla-hikes-price-on-full-self-driving-to-%2412k"
+    ampWebUrl: "https://www.nasdaq.com/articles/tesla-hikes-price-on-full-self-driving-to-%2412k?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-hikes-price-on-full-self-driving-to-%2412k?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Tesla Is Raising Prices for Full Self Driving Once Again"
     excerpt: "Tesla is now raising the price of its Full Self Driving software once again, bringing the still-in-beta program to $12,000 USD within the U.S. market. According to a tweet from the automaker’s CEO Elon Musk,"
     publishedDateTime: 2022-01-10T04:05:00Z
@@ -181,22 +208,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla Hikes Price on Full Self-Driving to $12K"
-    excerpt: "This article was originally published on TipRanks.com The world’s largest electric vehicle (EV) maker Tesla, Inc. (TSLA) is increasing the price of its"
-    publishedDateTime: 2022-01-10T08:49:00Z
-    webUrl: "https://www.smarteranalyst.com/yahoo/tesla-hikes-price-on-full-self-driving-to-12k/"
-    ampWebUrl: "https://www.smarteranalyst.com/yahoo/tesla-hikes-price-on-full-self-driving-to-12k/amp/"
-    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/tesla-hikes-price-on-full-self-driving-to-12k/amp/"
-    type: article
-    provider:
-      name: Smarter Analyst
-      domain: smarteranalyst.com
-    quality: 59
-    images:
-      - url: "https://www.smarteranalyst.com/wp-content/uploads/2022/01/tsla-fsd.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Tesla's full self-driving beta may do 'rolling stops' at traffic lights"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will \"not exit passing lanes\" and \"may perform rolling stops\" at traffic lights. It is still not entirely clear whether cars will come to a full stop at stop signs or not."
     publishedDateTime: 2022-01-10T05:47:00Z
@@ -228,6 +239,20 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/7L55ZrcXePgR9KSs7b3vqX-1200-80.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Tesla raises 'Full Self-Driving' software price to $12,000, Musk says"
+    excerpt: "The 20 percent price rise comes less than two years since Tesla raised \"Full Self-Driving\" prices to $10,000 from $8,000 in 2020."
+    publishedDateTime: 2022-01-10T11:45:00Z
+    webUrl: "https://www.autonews.com/technology/tesla-raises-full-self-driving-software-price-12000-musk-says"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/TESLA-MAIN.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Elon Musk Announces Tesla Bumping Full Self-Driving Package Price By $2,000 To $12,000"
     excerpt: "Tesla’s Full Self-Driving package (FSD) is an incredibly popular option among owners, even despite the software costing a hefty $10,000. But now, as announced by Tesla CEO Elon Musk himself, the package will be getting a $2,"

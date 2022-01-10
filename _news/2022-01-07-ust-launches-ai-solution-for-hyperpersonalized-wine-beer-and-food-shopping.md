@@ -9,8 +9,8 @@ ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-a
 cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Winsight Grocery Business
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ginesys to invest in CASA Retail AI to power targeted personalised customer engagement"
+    excerpt: "Ginesys, a leading end-to-end technology solutions provider for retail businesses today announced a strategic investment of USD 10mn over the next 3 years, in CASA Retail AI, to strengthen their custo"
+    publishedDateTime: 2022-01-10T12:30:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/ginesys-to-invest-in-casa-retail-ai-to-power-targeted-personalised-customer-engagement-122011001044_1.html"
+    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ginesys-to-invest-in-casa-retail-ai-to-power-targeted-personalised-customer-engagement-122011001044_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ginesys-to-invest-in-casa-retail-ai-to-power-targeted-personalised-customer-engagement-122011001044_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 49
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/10/full/20220110172823.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "HEAL Software Launches Artificial Intelligence for IT Operations Solution"
     excerpt: "HEAL Software Inc., provider of an AIOps preventive healing space, is introducing a new enterprise-grade, cloud-based Software-as-a-Service (SaaS) offering for its flagship HEAL product. HEAL is an artificial intelligence for IT operations (AIOps) software that enables IT teams to find and fix problems before they happen."
     publishedDateTime: 2022-01-06T19:50:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-hea
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Seeks Buyer for Watson Health Unit: Report"
-    excerpt: "IBM has hired BofA Securities to solicit bids for artificial-intelligence unit Watson Health, according to Axios. IBM's looking for a price of more than $1 billion."
-    publishedDateTime: 2022-01-05T21:03:00Z
-    webUrl: "https://www.barrons.com/articles/ibm-watson-health-sale-51641401912"
-    ampWebUrl: "https://www.barrons.com/amp/articles/ibm-watson-health-sale-51641401912"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/ibm-watson-health-sale-51641401912"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-462335/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Changing face of health and healthcare"
     excerpt: "Foundation highlights the various aspects which will be crucial during and after the pandemic The onset of the COVID-19 pandemic saw the medical fraternity, technology innovators, manufacturers, regulators,"
     publishedDateTime: 2022-01-10T08:55:00Z

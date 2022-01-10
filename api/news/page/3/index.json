@@ -2,6 +2,185 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-07-seeking-a-way-of-preventing-audio-models-for-ai-machine-learning-from-being-fooled.md",
+      "title": "Seeking a way of preventing audio models for AI machine learning from being fooled",
+      "excerpt": "Artificial intelligence (AI) is increasingly based on machine learning models, trained using large datasets. Likewise, human-computer interaction is increasingly dependent on speech communication, mainly due to the remarkable performance of machine learning models in speech recognition tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
+      "originalUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/seeking-a-way-of-preve.jpg",
+          "width": 775,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp",
+      "publishedDateTime": "2022-01-06T13:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ai-could-revolutionize-healthcare-but-can-we-trust-it.md",
+      "title": "AI Could Revolutionize Healthcare. But Can We Trust It?",
+      "excerpt": "At CES 2022, A panel of AI experts discussed what role AI might play in the future of healthcare. In a session titled \"Consumer Safety Driven by AI,\" Pat Baird, an AI engineer and software developer who works in standards and regulations for Phillips,",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "originalUrl": "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/bM6A39gRO7/sizes/alex-knight-2ejcsulrwc8-unsplash_resize_md.jpg",
+          "width": 744,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "publishedDateTime": "2022-01-06T13:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ust-launches-ai-solution-for-hyperpersonalized-wine-beer-and-food-shopping.md",
+      "title": "UST Launches AI Solution for Hyperpersonalized Wine, Beer and Food Shopping",
+      "excerpt": "Digital transformation solutions company UST, has officially launched UST AiSense, which provides personalized food and beverage recommendations using sensory science. The deployable digital technology AI-led solution powered by Tastry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.winsightgrocerybusiness.com/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
+      "originalUrl": "https://www.winsightgrocerybusiness.com/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.winsightmedia.com/platform/files/public/2022-01/background/400x600/Aisenseedit.jpg?VersionId=UEoY_EToLBfZIgtxoekaBEtGMCS4VD6u",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
+      "cdnAmpWebUrl": "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
+      "publishedDateTime": "2022-01-06T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Winsight Grocery Business",
+        "domain": "winsightgrocerybusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot.md",
+      "title": "AI in closed-loop manufacturing can benefit edge computing systems: 4 things to consider in IIoT",
+      "excerpt": "The convergence of AI and closed-loop manufacturing is coming. This could change IT thinking about edge IoT. Be prepared with these four things to know about it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2018/02/01/31ad99a6-f326-4598-aebd-9b67d7b2dbaa/resize/1200x/c54bf641da518b3167d8cd47626582af/auto10.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/",
+      "publishedDateTime": "2022-01-06T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-using-artificial-intelligence-to-help-cancer-patients-avoid-excessive-radiation.md",
       "title": "Using artificial intelligence to help cancer patients avoid excessive radiation",
       "excerpt": "A Case Western Reserve University-led team of scientists has used artificial intelligence (AI) to identify which patients with certain head and neck cancers would benefit from reducing the intensity of treatments such as radiation therapy and chemotherapy.",
@@ -157,7 +336,7 @@
       "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -945,72 +1124,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-06-ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg.md",
-      "title": "AI Startup Fractal Joins Unicorn Club After $360 Million Investment From TPG",
-      "excerpt": "AI startup Fractal, which is based in Mumbai and New York, has received a $360 million investment from private equity giant TPG's Asia investment arm, valuing the company at over $1 billion and becoming the latest startup from India to achieve unicorn status.",
+      "path": "_news/2022-01-06-confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology.md",
+      "title": "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology",
+      "excerpt": "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/",
-      "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/",
+      "webUrl": "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/",
+      "originalUrl": "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d67ba2000e8e2814f3d174%2F0x0.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/",
-      "publishedDateTime": "2022-01-05T20:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ethical-ai-ai-with-morality.md",
-      "title": "Ethical AI: AI with Morality",
-      "excerpt": "As soon as the term Artificial Intelligence comes into a discussion somewhere in the corners of the mind there arrives a scenario much like the movie ‘Terminator’. But relax our current discussion will not be about whether machines will take control over humans or not until and unless we want so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma",
-      "originalUrl": "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHY6r9n5imA2g/article-cover_image-shrink_720_1280/0/1641443202337?e=1646870400&v=beta&t=eQEdERReKBwO5eSxvvr9kvs2_LzNHeI1HRICvOdRF24",
-          "width": 1024,
-          "height": 681,
+          "url": "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png",
+          "width": 975,
+          "height": 650,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1020,63 +1148,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T20:30:00-08:00",
+      "publishedDateTime": "2022-01-05T22:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-chinese-scientists-build-factory-robot-that-can-read-minds.md",
-      "title": "Chinese scientists build factory robot that can read minds",
-      "excerpt": "Researchers in China say they have developed an industrial robot that can read a human co-worker’s mind with 96 per cent accuracy.The robot not only monitored the worker’s brain waves, but also collected electric signals from muscles,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds",
-      "originalUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/9a25a14b-7d84-4317-888e-fbcad66d54b5_d05c091f.jpg?itok=uu4W3u9u",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp",
-      "publishedDateTime": "2022-01-05T17:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1086,104 +1162,10 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology.md",
-      "title": "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology",
-      "excerpt": "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T16:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
         "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined.md",
-      "title": "Ameca the robot is more human (and haunting) than I ever imagined",
-      "excerpt": "If you poke a robot in the face, is it going to try to kill you?  Interviewing Ameca the robot during a demo at CES, I got my answer: No, but the face it makes when you get up in its personal space is haunting and mesmerizing in equal measure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
-      "originalUrl": "https://www.cnet.com/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/ShOqxvAyc3ROEfo0YpDdokzTerQ=/1200x630/2022/01/05/40f99e59-018d-4bce-840a-4d1abc388a05/ameca-humanoid-robot-demo-1.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ameca-the-robot-is-more-human-and-haunting-than-i-ever-imagined/",
-      "publishedDateTime": "2022-01-05T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI Ethics",
+        "Computer Vision"
       ]
     }
   ],

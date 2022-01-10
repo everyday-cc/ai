@@ -64,15 +64,6 @@ related:
       name: tynmagazine.com
       domain: tynmagazine.com
     quality: 34
-  - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
-    excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio the Snapdragon Ride™ Vision System a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
-    publishedDateTime: 2022-01-05T19:49:00Z
-    webUrl: "https://www.newswiretoday.com/news/176884/Qualcomm-Introduces-Snapdragon-Ride-Vision-System-an-Open-and-Scalable-Platform-for-Automated-Driving/"
-    type: article
-    provider:
-      name: Newswire Today
-      domain: newswiretoday.com
-    quality: 0
 
 secured: "vzOCjK73Pwki1iPqmRoghU0Ht4EIE/qWyu37ofP06OVBA1HiCnuwLhHOph4kkW4YtvDY31WGzs+5hWxkFpPL2w9Csf74uMKdS+Lb5HLk9HAt8T70PbaLGdd1wWYFxkaHV48+cfpGLt2KlkywkIv3PgceTOn0jylAInSbb0kKsBui4uj7FR/bb+zVQKX1BOEOGlSA2VgJzeJSXfGGIJUR8h4Z3npRuDVCqE5lt9SoVLWv/WBUp0Ov0QXn4L1aYd7wkOVCsmdQKc3c95c0oiDJK4neniHtwd0F5FFnVRsQjEeYN9y8VX6qCsOlNfW8+K/3iO7+oBeRZCZXLOcoLjwX/StTPQUXevw7e2ivdkSbCMmDtbEWNsCGpfXlCbIw6ID1tYvL34Tq6wU/WDnAkJF97EmHgict2u/kue29AJKLJlJnDxonyKTNEXQ1lqFbu7R9xPGBc45ggPUlOQePe5yKK6S2XTI7gC/qiDPTkIGAy55RVnerNQK7STHe3mdwftx8Mv84/VlnyvQpDI0RQWxVVQ==;E+qCxCb/UcWCTr86Hz2DLQ=="
 ---

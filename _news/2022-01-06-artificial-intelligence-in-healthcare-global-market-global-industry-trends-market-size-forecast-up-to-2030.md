@@ -21,21 +21,53 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis"
-    excerpt: "According to the latest report by IMARC Group, titled,“  Machine Learning as a Service (MLaaS) Market : Global Industry Trends, Sh"
-    publishedDateTime: 2022-01-05T20:41:00Z
-    webUrl: "https://menafn.com/1103494442/Machine-Learning-as-a-Service-MLaaS-Market-2022-2027-Industry-Size-Growth-Share-Analysis"
+  - title: "Global Enterprise Artificial Intelligence Market: Emerging Trends, Major Key Players AWS and Google Corporation"
+    excerpt: "According to the report The global Enterprise Artificial Intelligence market was valued at 6 6 Billion in 2019 and is anticipated to grow at a CAGR of 36 1 from 2020 to 2027 As complex data sets advanced machine learning"
+    publishedDateTime: 2022-01-10T11:41:00Z
+    webUrl: "https://www.openpr.com/news/2522181/global-enterprise-artificial-intelligence-market-emerging"
+    ampWebUrl: "https://www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/V/1/V110318404_g.jpg"
+        width: 603
+        height: 394
+        isCached: true
+  - title: "Global Voice Recognition Market: Emerging Trends, Major Key Players Microsoft Inc and Google"
+    excerpt: "According to the report The Global Voice Recognition Market was estimated to be 9 9 Billion in 2019 and is anticipated to grow at a CAGR of 18 9 from 2020 to 2027 To prevent data breaches a more robust"
+    publishedDateTime: 2022-01-10T12:22:00Z
+    webUrl: "https://www.openpr.com/news/2522279/global-voice-recognition-market-emerging-trends-major-key"
+    ampWebUrl: "https://www.openpr.com/amp/2522279/global-voice-recognition-market-emerging-trends-major-key"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522279/global-voice-recognition-market-emerging-trends-major-key"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 50
+    images:
+      - url: "https://cdn.openpr.com/V/1/V110509863_g.jpg"
+        width: 603
+        height: 394
+        isCached: true
+  - title: "AI in Computer Vision Market: Explore Top Factors that Will Boost the Global Market in Future"
+    excerpt: "AI in Computer Vision Market Computer vision is widely used in industries ranging from energy & utilities to manufacturing and automotive"
+    publishedDateTime: 2022-01-07T06:28:00Z
+    webUrl: "https://menafn.com/1103501989/AI-in-Computer-Vision-Market-Explore-Top-Factors-that-Will-Boost-the-Global-Market-in-Future"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 44
+    quality: 43
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?592428"
-        width: 456
-        height: 250
+      - url: "https://menafn.com/updates/pr/2022-01/07/EP_2e58eimage_story.jpeg"
+        width: 790
+        height: 466
         isCached: true
 
-secured: "7q1mMc4WPUzNa8f4qbDLtuFvPFxbnP0bZiXDr5h44vAfxG5h6xnCdPqiOvQp7pOTCdxxnyv5GAeNKZVwhu9lW3Js2Vi+d/uQUK/Anmf3qUsGh065zSRP8TbcV1P4Gg96+C/xh/jMkEDB7HDwCgpWQEtDeDToJQXJL9rS0LJMUkTtAwj5FsTNZRGxYJ5rMfiTfSURRVzgItuIBuV9Zp3z+/ooeFkL7HmjNb/R/Rn+veK2/HLpnx+jhXen90iXIeARN4W87VjsnoSiFfzvOJQ02BK36mDNbwsUDlx2D8rvZ9cXzedpHEGlFuPBL6W6ztaorWOBlv+C3SPI5Qr5N46hNWLGUjw/ZhPjlLo30deM1XI=;GnjmKOJNRLOBwEHB4Nvpyg=="
+secured: "sZMXNseh0nStLA7WWgRxiv0Im+M50kLSDN/Lqg65Z0WiL5w3nDSZaYkjAN1X89dvH6SOS8Pw2x1L90YdzHhLRxceNLcD/2ncxqvuicl5JP9LVDcSn+ZZhVJs9ucWGtb8b78p5mKY2kqg8fqVWy/QCnbzRdUU+gl7aJ/wLB7KN6pppmdhhMgjLdCPeJqPDd6vrSPRD4ZznDpUmzwTqm5Fc8BNaH7w1zbtdOZyl4E8KZ8z0Nfivgg6fS1Tl//sM+8D/OCfXeDWp8j0nq8jPsbTDmR/aa9h//WEGAPMzgvAhEqbttSxzObQ99N8tGZxg2inpVgRirC++WqZmNzp3KzKFYrB2gRQKP4VIVEnI9bwgTg=;dgmTE+7xz4O8vJF/OIZ+pg=="
 ---
 

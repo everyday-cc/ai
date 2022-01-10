@@ -37,7 +37,7 @@ related:
     provider:
       name: Bizcommunity
       domain: bizcommunity.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://biz-file.com/c/2111/636347-847x440.jpg?2"
         width: 847
