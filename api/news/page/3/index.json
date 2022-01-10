@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-07-ai-chipmaker-groq-chases-financial-risk-firms.md",
+      "title": "AI Chipmaker Groq Chases Financial Risk Firms",
+      "excerpt": "When Tim Sears ran complex portfolio risk analysis on Wall Street in 2004, an eight-hour, overnight run was the best that could be expected, even on",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-financial-risk-firms/",
+      "originalUrl": "https://www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-financial-risk-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/ab_vector_skdfl.jpg",
+          "width": 1300,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-financial-risk-firms/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-financial-risk-firms/amp/",
+      "publishedDateTime": "2022-01-06T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-the-chillax-baby-mood-ai-smart-monitor-focuses-on-privacy.md",
+      "title": "The Chillax Baby Mood AI Smart Monitor focuses on privacy",
+      "excerpt": "Chillax announces its unique Baby Mood AI smart baby monitor with AI and machine learning that grows with your baby.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
+      "originalUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/baby-mood-_05-2.jpg",
+          "width": 655,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
+      "publishedDateTime": "2022-01-06T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-ambarella-amba-unveils-ai-based-image-signal-processor.md",
       "title": "Ambarella (AMBA) Unveils AI-Based Image Signal Processor",
       "excerpt": "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)",
@@ -851,7 +945,7 @@
       "originalUrl": "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -894,7 +988,7 @@
       "originalUrl": "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1081,100 +1175,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model.md",
-      "title": "MVP versus EVP: Is it time to introduce ethics into the agile startup model?",
-      "excerpt": "Rather than developing a minimum viable product (MVP), companies should develop and roll out an ethically viable product (EVP) based on responsible artificial intelligence (RAI).",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/",
-      "originalUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-166085866.jpg?w=1024",
-          "width": 1024,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/mvp-versus-evp-is-it-time-to-introduce-ethics-into-the-agile-startup-model/amp/",
-      "publishedDateTime": "2022-01-05T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-2021-year-in-review-biometric-and-ai-litigation.md",
-      "title": "2021 Year in Review: Biometric and AI Litigation",
-      "excerpt": "AI-based consumer privacy claims and a continuing trend of employment-based disputes. Read on for CPW’s highlights of the year’s most significant events concerning biometric litigation, as well as our predictions for what 2022 may bring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation",
-      "originalUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/2021-year-review-biometric-and-ai-litigation?amp",
-      "publishedDateTime": "2022-01-05T13:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

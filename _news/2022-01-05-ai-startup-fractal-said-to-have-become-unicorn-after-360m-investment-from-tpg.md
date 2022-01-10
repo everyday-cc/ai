@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "TPG invests $360 million in AI tech startup Fractal"
-    excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform."
-    publishedDateTime: 2022-01-05T08:30:00Z
-    webUrl: "https://www.reuters.com/markets/us/tpg-invests-360-million-ai-tech-startup-fractal-2022-01-05/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Fractal AI said to turn unicorn with $360 million funding from TPG"
     excerpt: "The transaction is a mix of primary investment and secondary share purchase from funds advised by Apax Partners. The British private equity firm will remain a majority shareholder in Fractal AI."
     publishedDateTime: 2022-01-05T10:35:00Z

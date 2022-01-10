@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khon2.com/local-news/university-of-hawaii-to-compete-in-
 cdnAmpWebUrl: "https://www-khon2-com.cdn.ampproject.org/c/s/www.khon2.com/local-news/university-of-hawaii-to-compete-in-driverless-car-racing-event-in-las-vegas/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless tractor set for commercial production at John Deere"
+    excerpt: "Using six pairs of stereo cameras and advanced artificial intelligence, the tractor can navigate to ... or for Rural news daily. Driverless tractor technology has the potential to help solve a modern agricultural dilemma — how can farmers do more ..."
+    publishedDateTime: 2022-01-09T23:40:00Z
+    webUrl: "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258"
+    ampWebUrl: "https://amp.abc.net.au/article/100744258"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100744258"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 59
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/f487f31e61eec632773518289c8afdb1?impolicy=wcms_crop_resize&cropH=556&cropW=834&xPos=65&yPos=0&width=862&height=575"
+        width: 834
+        height: 556
+        isCached: true
   - title: "University of Hawaii to compete in driverless car racing competition"
     excerpt: "The University of Hawaii will soon compete in the world's first head-to-head autonomous car racing competition. The Autonomous Challenge at CES, or Consumer Electronics Show, will be held Jan. 7 in Las Vegas."
     publishedDateTime: 2022-01-05T18:23:00Z

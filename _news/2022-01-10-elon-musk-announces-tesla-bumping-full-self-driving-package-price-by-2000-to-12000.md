@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
-excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
-publishedDateTime: 2022-01-07T13:22:00Z
-originalUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+title: "Elon Musk Announces Tesla Bumping Full Self-Driving Package Price By $2,000 To $12,000"
+excerpt: "Tesla’s Full Self-Driving package (FSD) is an incredibly popular option among owners, even despite the software costing a hefty $10,000. But now, as announced by Tesla CEO Elon Musk himself, the package will be getting a $2,"
+publishedDateTime: 2022-01-09T23:05:00Z
+originalUrl: "https://www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/"
+webUrl: "https://www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/"
+ampWebUrl: "https://www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/amp/"
+cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/amp/"
 type: article
-quality: 42
+quality: 51
 heat: -1
 published: false
 
 provider:
-  name: The Scottish Sun
-  domain: thescottishsun.co.uk
+  name: Carscoops
+  domain: carscoops.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1500
-    height: 1000
+  - url: "https://i.ytimg.com/vi/gEA4fdna4-w/hqdefault.jpg"
+    width: 480
+    height: 360
     isCached: true
 
 related:
@@ -185,21 +185,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk Announces Tesla Bumping Full Self-Driving Package Price By $2,000 To $12,000"
-    excerpt: "Tesla’s Full Self-Driving package (FSD) is an incredibly popular option among owners, even despite the software costing a hefty $10,000. But now, as announced by Tesla CEO Elon Musk himself, the package will be getting a $2,"
-    publishedDateTime: 2022-01-09T23:05:00Z
-    webUrl: "https://www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/"
-    ampWebUrl: "https://www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/amp/"
+  - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
+    excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
+    publishedDateTime: 2022-01-07T13:22:00Z
+    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 51
+      name: The Scottish Sun
+      domain: thescottishsun.co.uk
+    quality: 42
     images:
-      - url: "https://i.ytimg.com/vi/gEA4fdna4-w/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"
@@ -244,6 +244,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "uNTZ+uVi8nvFBE85EhFfaIyMe+WWfBxNeewEMia77KkQbA3HfCSz9V09s2qSmO0gaqD8gxTrnM5wNcRlV8otDRsSmmHvIYfb+WefIs7K18+D0CWI/dCF5OB2r2DgSmwtmY0GUTqIlczYM+6j55o2jAsMa4b7wlrwwezxwLK/K3E6dS5S/h1QceQ7TQHhaiJfUNDtQ19OVhZ6qoIjRP3ElD2vH6VKPCO1Fg2M5BU2ThePbPX1J5rMtllWBk9gGXGyZW9grYG9qvDIFCC5+eRqSKAjZOiWG7Fqm2HVOqM86INMyo3BluH4o4dusWAPYaAXgr2YfY7SkhTulQkVULqdJzfvv0gjSFphqa/7Ikgt7us=;5g72ho/Tt5Yzk7ipdqq8Nw=="
+secured: "B3eIEcVvp9sarjrVHArcf4dfGT3S4tx2Q/d/IomJbcRMI6kwg/8vqhZvO8usH31Qz+LhvgexrENOzndjuTrdsa6pqEQZoSn+hxEiLg3Et0ZvphAEdVlGD8S9b+kHNdChKaVkWRDPxC735RZQEwK3uxMFUlEwRpzHpC/gv3Ne8f4VTgttrzWuz1x0yWmz0pJoLUMYM5vvbKksoygFyjlad8PPpICujR7XjI/Xh+4pMKCy8jaStVTIXv82W1oUVDrL8RlpU9foQUNxjKOWz5FE1pVpwZ9s7HIXAvFXrxSrtEbn/LX/OJQj+FH3nW8IiqQv6MA+RcMvpSPSRnFOw47Qw480kDfXTmp7hZPZJt96E4s=;ryA7/OKQbdtDSNHFGtyFBA=="
 ---
 

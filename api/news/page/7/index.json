@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-04-how-combining-human-expertise-and-ai-stop-cyberattacks.md",
+      "title": "How combining human expertise and AI stop cyberattacks",
+      "excerpt": "Enterprises fail to get the most value from threat monitoring and cybersecurity strategies because they're too focused on data collection.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
+      "originalUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1314526623-e1641229497586.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/03/how-combining-human-expertise-and-ai-stop-cyberattacks/amp/",
+      "publishedDateTime": "2022-01-03T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022.md",
+      "title": "LG Debuts Self-Driving Vehicle Infotainment Package at CES 2022",
+      "excerpt": "LG will unveil an in-car infotainment package for autonomous vehicles that will turn cars into a work, exercise or virtual camping space.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/",
+      "originalUrl": "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/LG-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/innovation/2022/lg-debuts-self-driving-vehicle-infotainment-package-at-ces-2022/amp/",
+      "publishedDateTime": "2022-01-03T11:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-2022-robotics-predictions-from-industry-experts.md",
       "title": "2022 robotics predictions from industry experts",
       "excerpt": "Leading robotics experts, including Juan Aparicio and Ken Goldberg, share what they'll be keeping an eye on in 2022.",
@@ -1076,109 +1170,6 @@
         "AI",
         "Machine Learning",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-01-ai-weekly-ai-prosecutors-and-pong-playing-neurons-closed-out-2021.md",
-      "title": "AI Weekly: AI prosecutors and pong-playing neurons closed out 2021",
-      "excerpt": "Chinese researchers developed an AI system that recommends sentencing for criminals. Elsewhere, Cortical Labs trained neurons to play pong.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/31/ai-weekly-ai-prosecutors-and-pong-playing-neurons-closed-out-2021/",
-      "originalUrl": "https://venturebeat.com/2021/12/31/ai-weekly-ai-prosecutors-and-pong-playing-neurons-closed-out-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/app-bidding.GettyImages-1250446181.jpg?fit=800%2C404&strip=all",
-          "width": 800,
-          "height": 404,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/31/ai-weekly-ai-prosecutors-and-pong-playing-neurons-closed-out-2021/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/31/ai-weekly-ai-prosecutors-and-pong-playing-neurons-closed-out-2021/amp/",
-      "publishedDateTime": "2021-12-31T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-01-android-circuit-samsung-galaxy-s22s-new-ai-xiaomi-12-launched-surface-duos-android-update.md",
-      "title": "Android Circuit: Samsung Galaxy S22’s New AI, Xiaomi 12 Launched, Surface Duo’s Android Update",
-      "excerpt": "This week’s Android headlines; Samsung’s Galaxy S22 powerful AI, Galaxy S21 FE release dates, Xiaomi 12 Pro launch, Android 11 for the Surface Duo, details on the next Razr, a first look at Android 13 Tiramisu,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-pro-razr-tiramisu-surface-duo/",
-      "originalUrl": "https://www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-pro-razr-tiramisu-surface-duo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6192515ef422354f9893c0c6%2F0x0.jpg",
-          "width": 1200,
-          "height": 917,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-pro-razr-tiramisu-surface-duo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2021/12/31/android-google-headlines-galaxy-s22-ultra-camera-xiaomi-12-pro-razr-tiramisu-surface-duo/amp/",
-      "publishedDateTime": "2021-12-31T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

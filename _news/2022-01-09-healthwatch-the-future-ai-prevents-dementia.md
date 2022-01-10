@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-
 cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: We Are Green Bay
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Your Health: Artificial intelligence to help prevent dementia?"
+    excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s already in the operating"
+    publishedDateTime: 2022-01-09T22:23:00Z
+    webUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/"
+    ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/"
+    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/"
+    type: article
+    provider:
+      name: yourerie.com
+      domain: yourerie.com
+    quality: 57
+    images:
+      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/01/Your-Health-Artificial-intelligence-to-help-prevent-dementia.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Medical Moment: Artificial intelligence prevents dementia?"
     excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. It’s all the buzz in the healthcare industry right now. It’s already in the operating room with robot-assisted surgeries and behind the scenes safe-guarding your private health records."
     publishedDateTime: 2022-01-07T00:50:00Z

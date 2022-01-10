@@ -103,15 +103,6 @@ related:
         height: 400
         isCached: true
   - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
-    publishedDateTime: 2022-01-06T16:57:00Z
-    webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
-  - title: "Robot tractors may be heading to a farm near you"
     excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
     publishedDateTime: 2022-01-09T21:31:00Z
     webUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
@@ -119,6 +110,15 @@ related:
     provider:
       name: Japan Today
       domain: japantoday.com
+    quality: 21
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
+    publishedDateTime: 2022-01-06T16:57:00Z
+    webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
     quality: 19
   - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
     excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
@@ -137,6 +137,6 @@ related:
         height: 382
         isCached: true
 
-secured: "NMhnMj0k4PXPpGP2kG4SYh/RE9e7fCaB19i8OcODR7W/7NXLuTqyKSJf88Dci9K6gN9bL79DZxRoClGAJfZXeHh6xyCdKc9Vsgu1rZodSD/0WMSPv1cGsSwifXHEjL0n2HFXx5H6rT2wuvYaADHW/RmmsG3vzWnsGmKCDIy4mLPHuflJIgq1xo/mh0JIJlKVuWLKCboldkJ0TkhQXiK+dkKa8vNn6Lk84fcuPMLdLYUJv9a6YOBhVf/MaDg6fPj+qPztJyFSMVmNsGTfu8j0qnk7eiDpJgK74HSCSRnxfbVgOFToY8xEf1lDP7Cs0l1BA6ToBnXqngA+MyU3xNPxg9eR4k1KxrJXyYfa8Lb0u1c=;EIkmL9pAguY1wNDiwaA0vQ=="
+secured: "QDv3Cjup5cd3VtPjTzp93tStIdyzNWh8vOp9J7SUA8oiXdOE6AmM4J4oQsPaFNHXaZWRPOCwtkODZ5MxSKozrpTPHqAvu5DV6+vZDBAnugRTglxA1iwYKRAWy1SGR5T8nP3g66BukrNE+JgwsN42oO9cxalVE9Ya8euNakOTzbWp+h+SNy1UCpGCqnmBO6lJc/mNKcS2dVTaCFH++RS5jAxRmT/79OdoNaP1Aq8q3pGgD3PcTT9beGosTF+SgkiCOn9vh710m4LHUCRnIhe2AW7XF4R+NiCOIdh6GMdbXnRZQeuwfPJ19nirlmElYOd9QuaithLU3/bYiqxe9SUGsoIXFLTXb1Yx1SWUzDshfpw=;9+/DLbfEgaNHGo39lo2z0w=="
 ---
 

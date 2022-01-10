@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unico
 webUrl: "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html"
 type: article
 quality: 166
-heat: 286
+heat: 276
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d67ba2000e8e2814f3d174%2F0x0.jpg"
         width: 1200
         height: 740
-        isCached: true
-  - title: "TPG invests $360 million in AI tech startup Fractal"
-    excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform."
-    publishedDateTime: 2022-01-05T08:30:00Z
-    webUrl: "https://www.reuters.com/markets/us/tpg-invests-360-million-ai-tech-startup-fractal-2022-01-05/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 67
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=66"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Fractal AI said to turn unicorn with $360 million funding from TPG"
     excerpt: "The transaction is a mix of primary investment and secondary share purchase from funds advised by Apax Partners. The British private equity firm will remain a majority shareholder in Fractal AI."

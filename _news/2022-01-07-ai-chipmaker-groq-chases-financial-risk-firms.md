@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-fin
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/06/ai-chipmaker-groq-chases-financial-risk-firms/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

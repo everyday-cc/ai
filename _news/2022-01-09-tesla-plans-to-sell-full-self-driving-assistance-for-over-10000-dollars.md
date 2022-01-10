@@ -183,6 +183,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elon Musk Announces Tesla Bumping Full Self-Driving Package Price By $2,000 To $12,000"
+    excerpt: "Tesla’s Full Self-Driving package (FSD) is an incredibly popular option among owners, even despite the software costing a hefty $10,000. But now, as announced by Tesla CEO Elon Musk himself, the package will be getting a $2,"
+    publishedDateTime: 2022-01-09T23:05:00Z
+    webUrl: "https://www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/"
+    ampWebUrl: "https://www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 51
+    images:
+      - url: "https://i.ytimg.com/vi/gEA4fdna4-w/hqdefault.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
     excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
     publishedDateTime: 2022-01-07T13:22:00Z

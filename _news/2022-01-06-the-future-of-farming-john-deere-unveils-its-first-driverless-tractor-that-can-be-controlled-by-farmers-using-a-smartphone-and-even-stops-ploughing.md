@@ -119,15 +119,6 @@ related:
         height: 400
         isCached: true
   - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
-    publishedDateTime: 2022-01-06T16:57:00Z
-    webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
-  - title: "Robot tractors may be heading to a farm near you"
     excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
     publishedDateTime: 2022-01-09T21:31:00Z
     webUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
@@ -135,6 +126,15 @@ related:
     provider:
       name: Japan Today
       domain: japantoday.com
+    quality: 21
+  - title: "Robot tractors may be heading to a farm near you"
+    excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
+    publishedDateTime: 2022-01-06T16:57:00Z
+    webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
+    type: article
+    provider:
+      name: Courthouse News Service
+      domain: courthousenews.com
     quality: 19
 
 secured: "ebRHYAToSW/RoVBpRvyOAGGAl7EUJML/PPOQ6mLVeQEva+m2U/Vu3GWf2WWgQUsQx4kOaOHOoJyEpUR4uaoZJrUrbO4WfAVYJv3fPcAXkS3WO3W74BW+iztMJAVQ2iFscHu5RTVqi2qmJtS3NU5yEIHfd2O2Tf2w6Ywr5WfNcxTplYp91nbQhqx4uBgtUvW86ZfZygRuT1cl6um83JW3AkSs8ivRvOQHpgS0kdvOAVzmEWyxHmHb/Km00gPU4Ijce5Bb3oRTH66fl//OAd6ZYPQIbydYk38OSvAXIVAdbNtJ8uUlZ4n0evBwrtbNaNeA2He4DoPhqRqX686iOidk+tsbhZbAUq6KNeLv8vG0j2o=;z6sFegTXSzAoTHhEn+8yfA=="

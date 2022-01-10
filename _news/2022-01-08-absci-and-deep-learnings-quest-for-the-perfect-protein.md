@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/absci-and-deep-learnings-qu
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

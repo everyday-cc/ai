@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/employers-investors-take-notice-of-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
 type: article
 quality: 87
-heat: 109
+heat: 107
 published: true
 
 provider:

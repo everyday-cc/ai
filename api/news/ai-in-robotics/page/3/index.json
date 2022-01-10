@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-22-santas-christmas-secret-maybe-its-artificial-intelligence.md",
+      "title": "Santa’s Christmas secret? Maybe it’s artificial intelligence",
+      "excerpt": "AI’s ability to collect and analyze massive amounts of data has plenty of applications – including sorting millions of children as either naughty or nice",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
+      "originalUrl": "https://www.theglobeandmail.com/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/AOKpBVKlFz80JsC4iDqS036mcBo=/1200x863/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HASE5WN2KNFEXJ76HO6LG6GTCM",
+          "width": 1200,
+          "height": 863,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/opinion/article-santas-christmas-secret-maybe-its-artificial-intelligence/",
+      "publishedDateTime": "2021-12-22T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-supply-chain-startup-unbox-bags-7-mn-infusion-to-build-compact-ecommerce-robotics-solutions.md",
       "title": "Supply Chain Startup Unbox Bags $7 Mn Infusion To Build Compact Ecommerce Robotics Solutions",
       "excerpt": "Supply-chain robotics startup Unbox Robotics has raised $7 Mn in a Series A funding round led by 3one4 Capital.",
@@ -1299,49 +1342,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-meet-nous-an-underwater-artificial-mind.md",
-      "title": "Meet NOUS: An Underwater ‘Artificial Mind’",
-      "excerpt": "The establishment of Maritime Protective Areas (MPA) and marine archaeological sites has been an objective of the Ministries of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
-      "originalUrl": "https://www.marinetechnologynews.com/news/underwater-artificial-615892",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.marinetechnologynews.com/images/maritime/w800h600pad/images-courtesy-george-128204.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
-      "cdnAmpWebUrl": "https://www-marinetechnologynews-com.cdn.ampproject.org/c/s/www.marinetechnologynews.com/amp/news/underwater-artificial-615892",
-      "publishedDateTime": "2021-12-14T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marinetechnologynews.com",
-        "domain": "marinetechnologynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

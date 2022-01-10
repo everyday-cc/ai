@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-09T21:31:00Z
 originalUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
 webUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 related:
   - title: "John Deere and Naio robot tractor may be heading to a farm near you"

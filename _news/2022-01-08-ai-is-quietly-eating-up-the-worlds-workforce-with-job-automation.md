@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-world
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

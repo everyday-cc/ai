@@ -45,6 +45,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-09-healthwatch-the-future-ai-prevents-dementia.md",
+      "title": "HealthWatch: The Future – AI Prevents Dementia?",
+      "excerpt": "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s",
+      "sourceUrl": null,
+      "webUrl": "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/",
+      "originalUrl": "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2020/04/HealthWatch.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/",
+      "cdnAmpWebUrl": "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/",
+      "publishedDateTime": "2022-01-08T11:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "We Are Green Bay",
+        "domain": "wearegreenbay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-alibabas-auto-driving-lab-chief-wang-gang-leaves-to-start-his-own-business.md",
       "title": "Alibaba’s auto driving lab chief Wang Gang leaves to start his own business",
       "excerpt": "Wang Gang, a former vice-president with e-commerce giant Alibaba Group Holding and head of its autonomous driving lab in the DAMO Academy, has quit to start his own business, becoming the latest top scientist to leave a Chinese Big Tech firm.",
@@ -545,7 +588,7 @@
       "originalUrl": "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1368,50 +1411,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-machine-learning-program-connects-to-human-brain-and-commands-robots.md",
-      "title": "Machine-Learning Program Connects to Human Brain and Commands Robots",
-      "excerpt": "Researchers at Ecole Polytechnique Fédérale de Lausanne have developed a machine-learning program that can be connected to a human brain and used to command a robot. The program can alter the robot’s movements based on electrical signals from the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
-      "originalUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/brain-2676370_1280.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-30T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

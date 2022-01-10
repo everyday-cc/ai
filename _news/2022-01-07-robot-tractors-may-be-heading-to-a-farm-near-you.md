@@ -117,7 +117,7 @@ related:
     provider:
       name: Japan Today
       domain: japantoday.com
-    quality: 19
+    quality: 21
   - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
     excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
     publishedDateTime: 2022-01-06T11:12:00Z
