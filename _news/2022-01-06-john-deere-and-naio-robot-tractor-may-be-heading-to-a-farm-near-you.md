@@ -9,7 +9,7 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-ro
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
 type: article
 quality: 76
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjgyNDYyNjUzMTYyOTE0/john-deere_2.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Robot tractors and autonomous tools may be heading to a farm near you"
-    excerpt: "By Patrick Fallon with Juliette Michel LAS VEGAS, United States—Driverless plows and autonomous tools to weed vegetable plots are the"
-    publishedDateTime: 2022-01-06T04:03:00Z
-    webUrl: "https://www.manilastandard.net/business/csr-mining/314027486/robot-tractors-and-autonomous-tools-may-be-heading-to-a-farm-near-you.html"
-    type: article
-    provider:
-      name: Manila Standard
-      domain: manilastandard.net
-    quality: 41
-    images:
-      - url: "https://www.manilastandard.net/wp-content/uploads/2022/01/robot-tractors.jpg"
-        width: 800
-        height: 595
         isCached: true
   - title: "Robot tractors may be heading to a farm near you"
     excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."

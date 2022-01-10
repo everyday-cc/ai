@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-05-accelerate-the-in-vehicle-digital-experience-with-azure-cognitive-services.md",
+      "title": "Accelerate the in-vehicle digital experience with Azure Cognitive Services",
+      "excerpt": "Microsoft is helping to reshape the automotive industry in the way it serves its drivers with in-vehicle infotainment systems. Together with the car manufacturers, Microsoft is creating new driving experiences with speech based on the text-to-speech and speech-to-text capabilities within Azure Cognitive",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
+      "originalUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/832c79d4-6a7e-4c24-bb1f-cd13680e49ec.jpg",
+          "width": 1074,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T00:00:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-x0pa-ai-raises-42-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-selections-solution.md",
+      "title": "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION",
+      "excerpt": "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html",
+      "originalUrl": "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1715264/Image_for_Cision_PR_Newswire__Series_A_Funding_Campaign__Nina.jpg?p=facebook",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-deere-rolls-out-fully-autonomous-tractor-at-ces.md",
+      "title": "Deere Rolls Out Fully Autonomous Tractor at CES",
+      "excerpt": "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
+      "originalUrl": "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-461772/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
+      "publishedDateTime": "2022-01-04T16:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-ai-could-repair-the-damage-done-by-data-overload.md",
       "title": "AI could repair the damage done by data overload",
       "excerpt": "With AI we can start leveraging data to empower connections and enhance problem-solving, collaboration, and finding the answers we need.",
@@ -1080,127 +1227,6 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-a-neural-network-solves-grades-generates-university-level-mathematics-problems-by-program-synthesis.md",
-      "title": "A Neural Network Solves, Grades & Generates University-Level Mathematics Problems by Program Synthesis",
-      "excerpt": "Despite the impressive achievements of deep neural networks (DNNs) in recent years, researchers generally believe these models are still not “intelligent” enough to solve advanced mathematical problems in calculus,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/",
-      "originalUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/amp/",
-      "publishedDateTime": "2022-01-04T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-tekion-expands-cloud-hosting-options-with-microsoft-azure.md",
-      "title": "Tekion Expands Cloud Hosting Options with Microsoft Azure",
-      "excerpt": "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-the-machine-learning-future-is-now-how-ai-is-disrupting-entire-industries.md",
-      "title": "The Machine Learning Future Is Now: How AI is Disrupting Entire Industries",
-      "excerpt": "M achine learning and artificial intelligence (AI) are no longer the concepts of science fiction – they’re a $1.41 billion industry that is already making big changes to the way we understand and use immense databases for a wide range of purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries",
-      "originalUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp",
-      "publishedDateTime": "2022-01-04T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-11-johnson-johnson-and-microsoft-partner-up-on-digital-surgery.md",
+      "title": "Johnson & Johnson and Microsoft partner up on digital surgery",
+      "excerpt": "Johnson & Johnson will use Microsoft Azure cloud computing services to better connect surgeons and patients in a digital surgery ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/",
+      "originalUrl": "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/01/johnson-johnson-multiuse.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/?amp",
+      "cdnAmpWebUrl": "https://www-medicaldesignandoutsourcing-com.cdn.ampproject.org/c/s/www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/?amp",
+      "publishedDateTime": "2022-01-10T11:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Design and Outsourcing",
+        "domain": "medicaldesignandoutsourcing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-financial-regulators-concerned-about-reliance-on-aws-azure-and-google-cloud.md",
       "title": "Financial regulators concerned about reliance on AWS, Azure and Google Cloud",
       "excerpt": "The Prudential Regulation Authority is reportedly seeking ways to access more data from the big three cloud providers",
@@ -299,6 +342,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-x0pa-ai-raises-42-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-selections-solution.md",
+      "title": "X0PA AI RAISES $4.2 MILLION IN SERIES A FUNDING TO SCALE AI-POWERED OBJECTIVE B2B HIRING & SELECTIONS SOLUTION",
+      "excerpt": "X0PA AI, a leader in AI-powered objective hiring solutions, today announced $4.2 million USD in Series A funding. The investment was led",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html",
+      "originalUrl": "https://www.prnewswire.com/ae/news-releases/x0pa-ai-raises-4-2-million-in-series-a-funding-to-scale-ai-powered-objective-b2b-hiring-amp-selections-solution-882069236.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1715264/Image_for_Cision_PR_Newswire__Series_A_Funding_Campaign__Nina.jpg?p=facebook",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1341,93 +1427,6 @@
       "topics": [
         "AI",
         "Natural Language Processing",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-azure-space-introduces-azure-orbital-in-preview-and-new-geospatial-capabilities.md",
-      "title": "Azure Space Introduces Azure Orbital in Preview and New Geospatial Capabilities",
-      "excerpt": "Microsoft recently announced new satellite connectivity and geospatial capabilities for Azure Space. The cloud provider introduced the preview of Azure Orbital, a ground station as-a-service that provides communication and control of satellites,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2021/12/azure-space-orbital/",
-      "originalUrl": "https://www.infoq.com/news/2021/12/azure-space-orbital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2021/12/azure-space-orbital/en/headerimage/generatedHeaderImage-1639513471207.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T13:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure.md",
-      "title": "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure",
-      "excerpt": "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-business-software-artificial-intelligence-ad8a18fd5ad6448c8a44a4f9d507ff04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
         "Microsoft AI"
       ]
     }

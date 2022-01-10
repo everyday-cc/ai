@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ray tracing and DLSS are included in Nvidia’s new $249 RTX 3050 GPU"
-    excerpt: "The RTX 3050, which starts at $249 and undercuts Nvidia’s previous entry-level RTX graphics card, the $329 RTX 3060, by a whopping $80, was revealed at CES 2022 by Nvidia. The RTX 3050, like the other RTX GPUs,"
-    publishedDateTime: 2022-01-06T04:00:00Z
-    webUrl: "https://technosports.co.in/2022/01/06/ray-and-dlss-are-included-in-nvidias/"
-    ampWebUrl: "https://technosports.co.in/2022/01/06/ray-and-dlss-are-included-in-nvidias/?amp"
-    cdnAmpWebUrl: "https://technosports-co-in.cdn.ampproject.org/c/s/technosports.co.in/2022/01/06/ray-and-dlss-are-included-in-nvidias/?amp"
-    type: article
-    provider:
-      name: TechnoSports
-      domain: technosports.co.in
-    quality: 59
-    images:
-      - url: "https://cdn.technosports.co.in/wp-content/uploads/2022/01/DSC00697.0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Nvidia RTX 3090 Ti is the GPU we all desire, but we really need the RTX 3050"
     excerpt: "All of the major brands released a flurry of powerful new gaming laptops as soon as Nvidia introduced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards. If Nvidia can keep its promises, 2022 is shaping up to be a fantastic year for laptop gaming."
     publishedDateTime: 2022-01-08T21:20:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -204,7 +204,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -546,7 +546,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -584,19 +584,19 @@
     {
       "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
       "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. \"I'm sure that's really expensive. And I kind of want to be out there ...",
+      "excerpt": "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ...",
       "sourceUrl": null,
-      "webUrl": "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "originalUrl": "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you",
+      "webUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25",
+      "originalUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.rfi.fr/media/display/1e31ffa6-6e94-11ec-95b3-005056bf30b7/w:1280/p:16x9/35bfec8f88a8a4c0579ca6ad4c79d4985b2550a3.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg",
+          "width": 768,
+          "height": 512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -604,13 +604,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "cdnAmpWebUrl": "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "publishedDateTime": "2022-01-05T18:03:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T18:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RFI",
-        "domain": "www.rfi.fr",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

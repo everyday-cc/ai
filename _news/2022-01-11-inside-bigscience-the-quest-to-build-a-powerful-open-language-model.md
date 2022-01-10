@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build
 ampWebUrl: "https://venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/inside-bigscience-the-quest-to-build-a-powerful-open-language-model/amp/"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all"

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-17-fintech-firm-avant-debuts-avant-banking.md",
+      "title": "FinTech Firm Avant Debuts Avant Banking",
+      "excerpt": "FinTech Avant is launching Avant Banking, a mobile banking solution with a transparent fee structure, early payday funds for direct deposit customers and more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
+      "originalUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/avant-banking-fintech-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
+      "publishedDateTime": "2021-12-16T18:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-regulators-must-root-out-bias-in-ai-based-lending.md",
       "title": "Regulators must root out bias in AI-based lending",
       "excerpt": "It’s pretty clear that the move to AI and machine learning is well underway in financial services. A 2020 survey of lenders found that 88% of them plan to increase their investment in AI in the coming years specifically for use in evaluating credit risk.",
@@ -1278,49 +1321,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-india-fintech-forum-unveils-28-high-potential-fintech-startups-for-ifta-2021.md",
-      "title": "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021",
-      "excerpt": "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who will be showcasing their product demos to a high-profile jury from 23 rd  November – 25 th  November 2021 to compete for the Fintech Startup of the Year trophy at the 6 th  edition of India FinTech Awards (IFTA).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497624.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497624.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1693934/FInalists_at_IFTA_2021.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T05:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null

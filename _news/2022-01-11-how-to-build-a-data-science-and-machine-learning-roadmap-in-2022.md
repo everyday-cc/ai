@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-mach
 ampWebUrl: "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/"
 type: article
-quality: 89
-heat: 99
+quality: 91
+heat: 101
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1081869346-e1641824655432.jpg?w=1200&strip=all"

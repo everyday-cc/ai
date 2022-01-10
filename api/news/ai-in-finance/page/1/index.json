@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-11-how-to-build-a-data-science-and-machine-learning-roadmap-in-2022.md",
+      "title": "How to build a data science and machine learning roadmap in 2022",
+      "excerpt": "Despite the growing enthusiasm for DSML's core technologies, getting results from its strategies is elusive for enterprises.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1081869346-e1641824655432.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/amp/",
+      "publishedDateTime": "2022-01-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-using-ai-and-machine-learning-to-improve-the-health-insurance-process.md",
       "title": "Using AI And Machine Learning To Improve The Health Insurance Process",
       "excerpt": "Health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere.",
@@ -63,7 +116,7 @@
       "originalUrl": "https://www.freepressjournal.in/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1234,49 +1287,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-fintech-firm-avant-debuts-avant-banking.md",
-      "title": "FinTech Firm Avant Debuts Avant Banking",
-      "excerpt": "FinTech Avant is launching Avant Banking, a mobile banking solution with a transparent fee structure, early payday funds for direct deposit customers and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
-      "originalUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/avant-banking-fintech-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
-      "publishedDateTime": "2021-12-16T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

@@ -3,27 +3,27 @@ category: news
 title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
 excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
 publishedDateTime: 2022-01-07T13:22:00Z
-originalUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+originalUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
+webUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
+ampWebUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
+cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Scottish Sun
-  domain: thescottishsun.co.uk
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1500
-    height: 1000
+  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -175,6 +175,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-elon-musk-full-self-driving-price-increase-12000-usd-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
+        isCached: true
+  - title: "Elon Musk says he’s hiking “full self driving” by another $2,000"
+    excerpt: "Tesla's highly controversial \"full self driving\" feature is getting yet another price increase. CEO Elon Musk used his Twitter feed last Friday to announce the price hike, telling his millions of followers,"
+    publishedDateTime: 2022-01-10T17:36:00Z
+    webUrl: "https://arstechnica.com/cars/2022/01/telsa-increases-the-price-of-full-self-driving-yet-again/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/01/0x0-ModelY-12-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
     excerpt: "Tesla's FSD software is still in beta, though it recently released an update where you can drive in 'Assertive' mode."
@@ -401,6 +415,6 @@ related:
         height: 375
         isCached: true
 
-secured: "2c5Eug32eInOoOSL6opSi58v0nc3rDR5h90HOS7U0HzOPoWQS/mjAC4GLRODf1W0uZYjZhOniNQW/4EYeWR71TbwxtCb6B0EMv0AwcWWXoxY/ytCDV/OvNkdnrL5VVkxVb+JUD7vslbz1tSgOnmaMtPsjqnkUHZMXP+kER81yZuhbKVjtci8j+HhYSox0NE39MpD8yS65VVq5eaZEw0eyFh5LmwXIR1TJ3n9IhNztcBkRL2Za22+Q0rYR5W/RwUMyjLWNctDs+uvc7zaXC/Dqvd/UAJPO8uFgdgatAzeZ2vbOQN/nIw42SxLAQIS9rbrwnKRdG/+eM7KgMX1mwEw5EYR/x+hhHz7hZG3fU9E4H8=;FVN4LsSI5/FuBdTUGXsmTA=="
+secured: "KlXvEg9lv84yGtSlxLx/Gwtw4bDBEziPsMDw8gKFdx29pb/lk25Duw8Gy4U12zIdFLvmCcXlZBZrPGE6aHUj/b/f3cMEjzKtvzX8mwAbyVW1RJ1IEfTf1sCQnpHVh64LlFwRWw6G11pO9Nw68Mim5BfH2MCvNZuqqOrAd4niIFOatpwRk3rNxMNThf/rDsAiygNoPj071+Uy2iQobsuD/kAjakdknesmR82yDIkhISG6kX77FuR1VhYoGkXCvX1iUSPL67y+kItiBg2wlUiNc4fGgY+Lnehkpg6ZDx/FNh+YinRhOQmT4dzK7u/Ra3w/M4JMWOb5vimV49DlOgTpHvtl3ita1EObCWuPIlit8Ho=;lgpnnu3AjMLvwch1wiHJyg=="
 ---
 

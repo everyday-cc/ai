@@ -68,6 +68,20 @@ related:
         width: 600
         height: 308
         isCached: true
+  - title: "Amberella Unveils AI Domain Controller SoC for Multi-sensor Perception in AVs"
+    excerpt: "To accelerate efficient performance in autonomous vehicles, the new AI domain controller from Ambarella promises robust single-chip processing for multi-sensor perception in an advanced driver-assistance system (ADAS)."
+    publishedDateTime: 2022-01-10T18:30:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/amberella-ai-domain-controller-system-on-chip-multi-sensor-perception-autonomous-vehicles/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 36
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/amberella_cv2_domain_controller_soc_thumbnail.jpg"
+        width: 700
+        height: 300
+        isCached: true
 
 secured: "0waXk/tXCe91ebMpGJi9SYhIyZRQLvaVdcNZ8tQMHxqJhWVrL7M4wjvyhZXkZDarK5G5YBXILDJPnitJfSaKOcDjeOhroSKwJccyZZgreu2nzoL6fQQyJb5NmBf5zTSl6UQ75waJ9w00A+StLpt2Cud1nI1eEWUci+6MMdwrICG0Q4n5a9pbgsDiyLwNFo7rK2EvJ99H7MBgvH18JYQaJmWZKSdjTD0QDgoEit/Nzw1GZzHyxrNMcBEhV1OWIKlFfP2Cz1X3+dC/SmjH5IX11uaUvx+eewXxoCC0recGjSLK4IVc+Bj7Y56mGlSNBdEUXxEtK7cj65WntBWpMNXF9SZgZxlP4P0oTgf6OYoXRGo=;kibLVC7utQbXRzCYMDKbRg=="
 ---

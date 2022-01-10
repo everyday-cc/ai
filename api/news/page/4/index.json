@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-06-deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks.md",
+      "title": "DeepBrain AI grasps attention at CES 2022 with its AI Human imbedded AI Kiosks.",
+      "excerpt": "DeepBrain AI is showcasing its AI Human imbedded \"AI Kiosks\" from January 5 th to January 7 th at CES 2022 held in Las Vegas Convention Center, along with its CES 2022 Innovation Awards honoree SaaS solution \"AI Studios\".",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks-1031081210",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks-1031081210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1721218/DeepBrain_AI_demonstrating_AI_Kiosks_visitors_industries_booth.jpg",
+          "width": 400,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-how-abigail-annkah-is-using-ai-to-improve-maps-in-africa.md",
       "title": "How Abigail Annkah is using AI to improve maps in Africa",
       "excerpt": "As a university student, Abigail Annkah fell in love with mathematics, which soon led to her interest in artificial intelligence. After graduating from the African Institute for Mathematical Sciences, Abigail made it through the competitive process to become an AI resident at Google Research, Accra.",
@@ -255,7 +306,7 @@
       "originalUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -299,7 +350,7 @@
       "originalUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -377,6 +428,48 @@
         "AI",
         "AI Ethics",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-ai-startup-fractal-enters-unicorn-club.md",
+      "title": "AI startup Fractal enters Unicorn club",
+      "excerpt": "DeepTech startup Fractal enters the unicorn club after raising $360 million from global asset firm TPG. Post the latest financing round Fractal has been valued at $1 Billion stated",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/",
+      "originalUrl": "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/",
+      "publishedDateTime": "2022-01-05T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -485,19 +578,19 @@
     {
       "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
       "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. \"I'm sure that's really expensive. And I kind of want to be out there ...",
+      "excerpt": "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ...",
       "sourceUrl": null,
-      "webUrl": "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "originalUrl": "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you",
+      "webUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25",
+      "originalUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.rfi.fr/media/display/1e31ffa6-6e94-11ec-95b3-005056bf30b7/w:1280/p:16x9/35bfec8f88a8a4c0579ca6ad4c79d4985b2550a3.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg",
+          "width": 768,
+          "height": 512,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -505,13 +598,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "cdnAmpWebUrl": "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you",
-      "publishedDateTime": "2022-01-05T18:03:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T18:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RFI",
-        "domain": "www.rfi.fr",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1111,110 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ecovacs-new-deebot-x1-cleans-your-home-and-itself.md",
-      "title": "Ecovacs’ new Deebot X1 cleans your home and itself",
-      "excerpt": "Well-known robot vacuum maker Ecovacs has revealed its newest robot floor cleaner as part of CES 2022: The Ecovacs Deebot X1, and this one is a pretty significant upgrade, with useful new tech. By now we’re all familiar with robot vacuums and mops,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
-      "originalUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-deebot-x1-family.jpg",
-          "width": 500,
-          "height": 312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
-      "publishedDateTime": "2022-01-05T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-how-to-approach-conversation-design-with-amazon-lex-building-and-testing-part-3.md",
-      "title": "How to approach conversation design with Amazon Lex: Building and testing (Part 3)",
-      "excerpt": "In parts one and two of our guide to conversation design with Amazon Lex, we discussed how to gather requirements for your conversational AI application and draft conversational flows. In this post, we help you bring all the pieces together. You’ll learn how draft an interaction model to deliver natural",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-to-approach-conversation-design-with-amazon-lex-building-and-testing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-to-approach-conversation-design-with-amazon-lex-building-and-testing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/17/ML-5750image003.png",
-          "width": 1276,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T12:21:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-06-ecovacs-new-deebot-x1-cleans-your-home-and-itself.md",
+      "title": "Ecovacs’ new Deebot X1 cleans your home and itself",
+      "excerpt": "Well-known robot vacuum maker Ecovacs has revealed its newest robot floor cleaner as part of CES 2022: The Ecovacs Deebot X1, and this one is a pretty significant upgrade, with useful new tech. By now we’re all familiar with robot vacuums and mops,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
+      "originalUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-deebot-x1-family.jpg",
+          "width": 500,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/ecovacs-deebot-x1-cleans-your-home-and-itself/?amp",
+      "publishedDateTime": "2022-01-05T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-how-to-approach-conversation-design-with-amazon-lex-building-and-testing-part-3.md",
+      "title": "How to approach conversation design with Amazon Lex: Building and testing (Part 3)",
+      "excerpt": "In parts one and two of our guide to conversation design with Amazon Lex, we discussed how to gather requirements for your conversational AI application and draft conversational flows. In this post, we help you bring all the pieces together. You’ll learn how draft an interaction model to deliver natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-to-approach-conversation-design-with-amazon-lex-building-and-testing/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-3-how-to-approach-conversation-design-with-amazon-lex-building-and-testing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/17/ML-5750image003.png",
+          "width": 1276,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T12:21:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-deploying-ml-models-using-sagemaker-serverless-inference-preview.md",
       "title": "Deploying ML models using SageMaker Serverless Inference (Preview)",
       "excerpt": "Amazon SageMaker Serverless Inference (Preview) was recently announced at re:Invent 2021 as a new model hosting feature that lets customers serve model predictions without having to explicitly provision compute instances or configure scaling policies to handle traffic variations. Serverless Inference",
@@ -1083,110 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-accelerate-the-in-vehicle-digital-experience-with-azure-cognitive-services.md",
-      "title": "Accelerate the in-vehicle digital experience with Azure Cognitive Services",
-      "excerpt": "Microsoft is helping to reshape the automotive industry in the way it serves its drivers with in-vehicle infotainment systems. Together with the car manufacturers, Microsoft is creating new driving experiences with speech based on the text-to-speech and speech-to-text capabilities within Azure Cognitive",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
-      "originalUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/832c79d4-6a7e-4c24-bb1f-cd13680e49ec.jpg",
-          "width": 1074,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T00:00:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-deere-rolls-out-fully-autonomous-tractor-at-ces.md",
-      "title": "Deere Rolls Out Fully Autonomous Tractor at CES",
-      "excerpt": "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "originalUrl": "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-461772/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "publishedDateTime": "2022-01-04T16:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

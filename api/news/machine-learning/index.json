@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/10/how-to-build-a-data-science-and-machine-learning-roadmap-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -115,7 +116,7 @@
       "originalUrl": "https://www.freepressjournal.in/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -448,49 +449,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-07-aiml-machine-learning-students-develop-beer-using-ai.md",
-      "title": "AIML machine learning students develop beer using AI",
-      "excerpt": "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
-      "originalUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Food Magazine",
-        "domain": "foodmag.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-07-seeking-a-way-of-preventing-audio-models-for-ai-machine-learning-from-being-fooled.md",
       "title": "Seeking a way of preventing audio models for AI machine learning from being fooled",
       "excerpt": "Artificial intelligence (AI) is increasingly based on machine learning models, trained using large datasets. Likewise, human-computer interaction is increasingly dependent on speech communication, mainly due to the remarkable performance of machine learning models in speech recognition tasks.",
@@ -594,7 +552,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1432,6 +1390,58 @@
         "AI in Robotics",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-learn-artificial-intelligence-machine-learning-python-and-more-for-under-30.md",
+      "title": "Learn artificial intelligence, machine learning, Python and more for under $30",
+      "excerpt": "Even with no tech experience, you can learn highly marketable skills to start and advance in a lucrative tech career without taking any time off from your full-time job.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "originalUrl": "https://www.zdnet.com/education/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9492c3bd3b0d8d9e63d5201ac4b7deb90c2dded3/2021/12/23/864cc429-4142-4d13-9ec2-b68c0800219a/zdnet-premium-machine-learning.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-artificial-intelligence-machine-learning-python-and-more-for-under-30/",
+      "publishedDateTime": "2021-12-29T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

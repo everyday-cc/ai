@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-imag
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -63,6 +63,20 @@ related:
       - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef02788064de4b200d-600wi"
         width: 600
         height: 308
+        isCached: true
+  - title: "Amberella Unveils AI Domain Controller SoC for Multi-sensor Perception in AVs"
+    excerpt: "To accelerate efficient performance in autonomous vehicles, the new AI domain controller from Ambarella promises robust single-chip processing for multi-sensor perception in an advanced driver-assistance system (ADAS)."
+    publishedDateTime: 2022-01-10T18:30:00Z
+    webUrl: "https://www.allaboutcircuits.com/news/amberella-ai-domain-controller-system-on-chip-multi-sensor-perception-autonomous-vehicles/"
+    type: article
+    provider:
+      name: All About Circuits
+      domain: allaboutcircuits.com
+    quality: 36
+    images:
+      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/amberella_cv2_domain_controller_soc_thumbnail.jpg"
+        width: 700
+        height: 300
         isCached: true
 
 secured: "qQ0hzW0kGTFVMNprF/+MRooR/Y+P4eAf683GGTRlU/0PlpFQqXR9vUQ3AXvFlYi/72j+hIbMpq/Rdi+vSUQqnQ8TDfwjzIZpH7Z3VuqqQ0hASQLuk+ObZAfIdial4e8/Br8bPrpdodAZOG7JclNnXTJN0P9RpyN3wbWus/Vf1PB1nV4jJq7J+oMBhKUo9lSGZeI+XsDZV3J3YwL6zPx99yOaq6YUcKvjAmkPBb4tFj+KwrUBll1bedcOI0HioSLayn+Mg5DyBNywbHmh44q/HQpin4M9uhlmUWCIpl/iHdSmTAkBsd21U93k2rW0/lyq5fqWDYZbuhv/F56DT6kzaesH4eLS1Xz9dj5+HnB+0e4=;FrSOARuPMudVXVfWzaYiIg=="

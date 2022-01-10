@@ -7,8 +7,8 @@ originalUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-
 webUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Food Magazine
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "China Matching Pentagon Spending on AI"
-    excerpt: "PLA investment in AI is now on par with the Pentagon’s, experts say. The United States views China as its top military and economic competitor. “Supported by a burgeoning AI defense industry, the Chinese military has made extraordinary progress in procuring AI systems for combat and support functions,"
-    publishedDateTime: 2022-01-06T03:48:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2022/1/6/china-matching-pentagon-spending-on-ai"
-    type: article
-    provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 37
-    images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/istock-1268656202.ashx?h=500&w=878&la=en&hash=04C78034C4708706F095C6DF35330D3E"
-        width: 878
-        height: 500
-        isCached: true
 
 secured: "33vLZPcQHt0fdwrwLrvpNhSb3f4bdq0+wexAu3pM1w9z2OeO84gNjbuwwrSj3yAnme3Zb+a/otMHfkNLuj3/iihMQEWJX7zn/BfNb7YoIU2RbTlFEODmIap5nUO9Xb5uYvfTBTLGOCrEMHvB8xLevdnQoaWw0Fr3Dumnft6Y8sMQ14FndxGSBFa/ClwgWrchYHiwgaW04ggmpWj67mKqOPsIpCJePyODUawMtRViHXdU9lEQC5U43APozTIJwNGpmaGRIV9xMvtIFm57QhEjwU+SNalYqboNGNG6YxwJJWB+uKEPskP7R6yHkZiMRHGlH4p+3i3JPxkT2Fol3IzR14IE9i54FCxqDAjmuhGkVM4=;zg5wFDs8POCmoxeihuSkag=="
 ---

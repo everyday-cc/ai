@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-09-7-ways-the-technology-sector-could-support-global-society-in-2022.md",
+      "title": "7 ways the technology sector could support global society in 2022",
+      "excerpt": "Learn more Some of the excesses of 2021 have shown us how digital technologies can undermine what philosophers call future “human flourishing.” A lot has been written on this topic in the first few days of the new year,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1148773616.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
+      "publishedDateTime": "2022-01-08T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-09-the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need.md",
       "title": "The Nvidia RTX 3090 Ti is the GPU we all want – but it’s the RTX 3050 that we need",
       "excerpt": "As soon as Nvidia announced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards, a slew of powerful new gaming laptops was announced by all the big names. If Nvidia can deliver on its promises, it looks like 2022 is going to be a great year for gaming on a laptop.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.techradar.com/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -366,7 +418,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -1190,48 +1242,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-artificial-intelligence-aids-effective-fitness-training.md",
-      "title": "Artificial intelligence aids effective fitness training",
-      "excerpt": "Whether for squats or sit-ups, the software created by the start-up VAY alerts exercisers about incorrect movements via a smartphone screen. Now the ETH spin-off has been acquired by connected fitness equipment manufacturer Nautilus.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-1.jpg",
-          "width": 930,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp",
-      "publishedDateTime": "2022-01-07T06:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

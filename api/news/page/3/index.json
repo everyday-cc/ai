@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-07-artificial-intelligence-aids-effective-fitness-training.md",
+      "title": "Artificial intelligence aids effective fitness training",
+      "excerpt": "Whether for squats or sit-ups, the software created by the start-up VAY alerts exercisers about incorrect movements via a smartphone screen. Now the ETH spin-off has been acquired by connected fitness equipment manufacturer Nautilus.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-1.jpg",
+          "width": 930,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp",
+      "publishedDateTime": "2022-01-07T06:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
+      "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
+      "excerpt": "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-bluru-based-ai-and-computer-vision-startup-avataar-raises-45-mn.md",
       "title": "B'luru-based AI and computer vision startup Avataar raises $45 mn",
       "excerpt": "Bengaluru and San Francisco-based AI and computer vision startup Avataar has raised $45 million in Series B funding led by Tiger Global. Existing investor Sequoia Capital India also participated in the round.",
@@ -433,49 +528,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-07-aiml-machine-learning-students-develop-beer-using-ai.md",
-      "title": "AIML machine learning students develop beer using AI",
-      "excerpt": "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
-      "originalUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Food Magazine",
-        "domain": "foodmag.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-07-seeking-a-way-of-preventing-audio-models-for-ai-machine-learning-from-being-fooled.md",
       "title": "Seeking a way of preventing audio models for AI machine learning from being fooled",
       "excerpt": "Artificial intelligence (AI) is increasingly based on machine learning models, trained using large datasets. Likewise, human-computer interaction is increasingly dependent on speech communication, mainly due to the remarkable performance of machine learning models in speech recognition tasks.",
@@ -570,7 +622,7 @@
       "originalUrl": "https://www.winsightgrocerybusiness.com/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -913,7 +965,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1107,57 +1159,6 @@
         "name": "PC Gamer",
         "domain": "pcgamer.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks.md",
-      "title": "DeepBrain AI grasps attention at CES 2022 with its AI Human imbedded AI Kiosks.",
-      "excerpt": "DeepBrain AI is showcasing its AI Human imbedded \"AI Kiosks\" from January 5 th to January 7 th at CES 2022 held in Las Vegas Convention Center, along with its CES 2022 Innovation Awards honoree SaaS solution \"AI Studios\".",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks-1031081210",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deepbrain-ai-grasps-attention-at-ces-2022-with-its-ai-human-imbedded-ai-kiosks-1031081210",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1721218/DeepBrain_AI_demonstrating_AI_Kiosks_visitors_industries_booth.jpg",
-          "width": 400,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T04:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

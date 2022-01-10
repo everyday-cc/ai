@@ -160,6 +160,20 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Elon Musk says he’s hiking “full self driving” by another $2,000"
+    excerpt: "Tesla's highly controversial \"full self driving\" feature is getting yet another price increase. CEO Elon Musk used his Twitter feed last Friday to announce the price hike, telling his millions of followers,"
+    publishedDateTime: 2022-01-10T17:36:00Z
+    webUrl: "https://arstechnica.com/cars/2022/01/telsa-increases-the-price-of-full-self-driving-yet-again/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/01/0x0-ModelY-12-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
     excerpt: "Tesla's FSD software is still in beta, though it recently released an update where you can drive in 'Assertive' mode."
     publishedDateTime: 2022-01-10T16:48:00Z
@@ -331,18 +345,18 @@ related:
   - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
     excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
     publishedDateTime: 2022-01-07T13:22:00Z
-    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    webUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
     type: article
     provider:
-      name: The Scottish Sun
-      domain: thescottishsun.co.uk
+      name: The Sun
+      domain: thesun.co.uk
     quality: 42
     images:
-      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1500
-        height: 1000
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Tesla’s full self-driving beta may perform 'rolling stops'"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will 'n"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-a
 cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://www.dbta.com/images/social-logo-2019.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Ginesys to Invest in CASA Retail AI to Power Targeted Personalised Customer Engagement"
+    excerpt: "New Delhi, Delhi, India   Ginesys , a leading end-to-end technology solutions provider for retail businesses today announced a strategic"
+    publishedDateTime: 2022-01-10T20:45:00Z
+    webUrl: "https://menafn.com/1103516407/Ginesys-to-Invest-in-CASA-Retail-AI-to-Power-Targeted-Personalised-Customer-Engagement"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?725200"
+        width: 333
+        height: 250
         isCached: true
 
 secured: "t0mnhnTp3hfsYYW/3zBpzFopKFjndFx5rxNqqrwX2a/2ujXVtefR+/Mt9TsVCRAK/AqL5hekeOWegm925uuEIGOs87c37pP9bRUuUNJbEQlZNil7KHLEMH8DEM+oWPyftk84lAkcj0qPTbOj2EvPMLdNSS22p7nVxDBvSEmhjJjaUdMxmIV9mf6eki5X37QC4LJswL2TWC6pnxOAdedX9ZttGu+gnQUb+mQHJUUbkxc4jCb/EoEWsQeUFvo1jziTIDPHVsxsOxvjPgNdYCtCbeh6ZCoZoTdYnLYYSh/0EQ0XnxgZ5m7iqJbiI0GQM3Kcj0qzIExKYX5vZjNJK6Pwd0GUGQLCQIV5zbLlEMRnNxA=;Ilsubr150FlTMJ6jZZ62ng=="

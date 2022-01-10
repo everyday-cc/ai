@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Robot tractors may be heading to a farm near you"
-excerpt: "Artificial intelligence, machine learning ... However, he is not sure driverless tractors are right for his family farm. \"I'm sure that's really expensive. And I kind of want to be out there ..."
-publishedDateTime: 2022-01-06T02:03:00Z
-originalUrl: "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
-webUrl: "https://www.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
-ampWebUrl: "https://amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
-cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/robot-tractors-may-be-heading-to-a-farm-near-you"
+excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
+publishedDateTime: 2022-01-06T02:35:00Z
+originalUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
+webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
 type: article
 
 provider:
-  name: RFI
-  domain: www.rfi.fr
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Autos
@@ -19,11 +17,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://s.rfi.fr/media/display/1e31ffa6-6e94-11ec-95b3-005056bf30b7/w:1280/p:16x9/35bfec8f88a8a4c0579ca6ad4c79d4985b2550a3.jpg"
-    width: 1280
-    height: 720
+  - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
+    width: 768
+    height: 512
     isCached: true
 
-secured: "TLlvfab1n3CfxmLlf6juWKNq1ibxFoJqaH3rrnPpk9+0ylGINA4PDea6kN5uhwCLYbZJ75HlhIYJ2k2vQsf+eAi1MjTOjcVn9o4AZaLrJW/fF5NdCJk/o8V8cvZ/B45ce6Ij1el1ehLLp36X0QmhtXfMrVk1XaLlanOE5a/D3b+JCkkEmrGD7+1bbhoHNCVYwYOssnPMcF2k4TiPhekkN7heQY/zvKPquFi1KjRcNPKwNVsuTTXDlLiZJJzTzbIFu3aTqMcJGig90ltXIBrq2QP9ZA9ZK2ZcGTqS2/Lm399ROe3M0O4ypE8zFIwe4kb0JXK41wylzTAazEUkEUO7GWOEWBZ74oHsUQ1Eb9fZnPc=;dNdfcmp/N8L1Lrd8ZQ1l2w=="
+secured: "yZXkmdtSrMQezQOv08OMqEIj+u+Qnw6B6OGWk3k3ZJHYyHQf2qMr8y+6w7j4NRijOZXGWNoo2ytez7WlisC0mRtIJ/cgXdVRMJ0KJUp0C6bu3R3DN3lWBXgrTPOG7EhhvGEscRspGqJxAGpDqOWILwR+FFYidE2B5njViir/jwfN8Jat/dmGeDJbmZdkzYVl41YISpRYHcqFKxlttvuVML6TxGaVQx4RyySlF4rVdFYg0BitLtN1D8i0GSK7Ney8YjQ8/ecIIV9Dv+xm+2lJ03sQ2Jt3XFT1t06LbIdhrFTdaLbXabuqR1ydk3HzgL6a5a99Qx1VBRKnb7Ki8aWOo+2Zkkp3AzkOqxgOiKzgnOU=;ug+Lrkdo+HJPacqC0637BA=="
 ---
 

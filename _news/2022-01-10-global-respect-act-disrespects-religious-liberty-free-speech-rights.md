@@ -3,8 +3,8 @@ category: news
 title: "‘Global Respect Act’ Disrespects Religious Liberty, Free Speech Rights"
 excerpt: "The House of Representatives is preparing to vote on the so-called Global Respect Act, which would impose sanctions on foreigners, including private citizens, who are determined to be responsible for human rights violations against lesbian,"
 publishedDateTime: 2022-01-10T15:21:00Z
-originalUrl: "https://cnsnews.com/index.php/commentary/grace-melton/global-respect-act-disrespects-religious-liberty-free-speech-rights"
-webUrl: "https://cnsnews.com/index.php/commentary/grace-melton/global-respect-act-disrespects-religious-liberty-free-speech-rights"
+originalUrl: "https://www.cnsnews.com/commentary/grace-melton/global-respect-act-disrespects-religious-liberty-free-speech-rights"
+webUrl: "https://www.cnsnews.com/commentary/grace-melton/global-respect-act-disrespects-religious-liberty-free-speech-rights"
 type: article
 quality: 4
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 1331
         isCached: true
 
-secured: "W5X7V2wVdiB8A5Zb25o9F3/ob9Sws7b1a4YhOCu2WBg38iMkiq0w3NdpGfo/6HRG6/BPdEnw3j0oUyLwTjAKV+cNK02Q9Jft+xZx2/bNd14EaW3pi1hcF7BmJ5DvzQS5bIj1GC62Yvs0XpUMrpArhpmhMuvsZbEG7YtqhHr1LY/vh1xroBsUCQkMDbPNUHKwsjs40MubHNvDtghklWlJoUrCqxhx1ZBO4eoTSLTCcyuSxPTIS3b0n/OoiJTWJd8XzvTnihAdA0c16FlT3K7njFx5F17tMrtLvEYxhNtl3VJ9XG8z/mpxvEgKztvFFijuNBZtvbPSa7j5mULxqbsthgV0z5cbEmRbiQ5qz58AY9ZwkfRZaypaRVnPQBT3g13TAY/ZTk71Mch3M5lhKF1Ix6GHCcmTZPqTMrxn444/AUDG9RWGEt5mR1DfYskETb4f+z+3IGXe2I/lK3soRIG4vfaSPhtgcCq7E1drRXSOveNrYTwbiIp42Flk25AOIhDg7l7BFY8wLvsGzzgG0g2sMw==;EHfBwY7av8o2qAbGxhyCSA=="
+secured: "w41Dk0h93WtBuVo+zlP1VIJHyhymz+HelLk6gEOBOGT0F3NuODPaw/P6YJhbIO0xULM6geYZNIeGhV2IRG0/8fDmK6c2ise3/GaXOG/NQGmKAat3O8tnQgiMcoAg5pyETxcxL5auEy/2e3o5CJVgofk/6RFoK9xVsUCYOP5wZCqgFcHfqAu/lKSoTmS9Nfg4H4LU0mILgqBGPgdKdiZxoXmHj5URt9PWJnpR1MDbz30R9F7q4AouCytD7zghb8/BA1x9maD91O0GQwH5cJJRJhgwQqLbKsJiITl/dqF7afL3BYBYeQlkX9EwSetdjA2I52TUjIjIlE+cFR6aJuGUq58fRn21KIWvl6AvywhJQYM=;JzlBe39D79ZaO1EMjGMwyg=="
 ---
 

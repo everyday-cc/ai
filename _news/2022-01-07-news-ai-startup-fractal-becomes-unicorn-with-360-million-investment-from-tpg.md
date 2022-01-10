@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Fractal Joins Unicorn Club After $360 Million Investment From TPG"
-    excerpt: "AI startup Fractal, which is based in Mumbai and New York, has received a $360 million investment from private equity giant TPG's Asia investment arm, valuing the company at over $1 billion and becoming the latest startup from India to achieve unicorn status."
-    publishedDateTime: 2022-01-06T04:35:00Z
-    webUrl: "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/"
-    ampWebUrl: "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d67ba2000e8e2814f3d174%2F0x0.jpg"
-        width: 1200
-        height: 740
-        isCached: true
   - title: "AI startup Fractal enters Unicorn club"
     excerpt: "DeepTech startup Fractal enters the unicorn club after raising $360 million from global asset firm TPG. Post the latest financing round Fractal has been valued at $1 Billion stated"
     publishedDateTime: 2022-01-06T05:36:00Z

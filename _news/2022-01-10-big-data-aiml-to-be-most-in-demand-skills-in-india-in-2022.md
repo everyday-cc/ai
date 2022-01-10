@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "AI Intersects with Floor Scrubbers for Robotic In-store Analytics"
-    excerpt: "AI robotics firm Brain Corp is partnering with Tennant Company to launch the data capture solution Inventory Scan, which is fitted to autonomous floor scrubbers."
-    publishedDateTime: 2022-01-07T00:14:00Z
-    webUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/"
-    ampWebUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/temast-457x305.jpeg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics: Report"
     excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022. With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI,"
     publishedDateTime: 2022-01-10T14:14:00Z
@@ -100,15 +84,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
-    publishedDateTime: 2022-01-10T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
 
 secured: "MypVbOAejj9ZmVhczg0xN50KMBtJCEJYc3IT9LsSQIqGtd9J/FXN1lMV+VI5vAzfXcjOy5PzusDRlaftOGGogtLzQkyXIdMtrXNZ/94Ge+nHM+uwY3B+8i3cqxmI3DczxuiFzB2q1iWBL8HqGH1Qu6OficwWYgjy+9GSpUXYUdJSe4/mJvtSAen9wBSNDiDISvRtGJTc9QHEt54ZZhafSbM4c51T5IQK9V/RuI/k8eDtIeCoQ37+Mlx+FORQJ2+R7DFBK9iMN73o6u9GFHc8zyv1D3Mf9zxwqBepnw7LvoqT1D9lWicryxbhj8xkCoZxfomUnUeZQdb7eeIhILVeHGEtpLFdmZ56HZoYJA2BU08=;uUSNQw0H6Fj6QqCqPpXGnQ=="
 ---

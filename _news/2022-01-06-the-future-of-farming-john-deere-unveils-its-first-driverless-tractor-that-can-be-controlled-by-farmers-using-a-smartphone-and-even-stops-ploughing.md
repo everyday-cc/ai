@@ -76,20 +76,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Robot tractors and autonomous tools may be heading to a farm near you"
-    excerpt: "By Patrick Fallon with Juliette Michel LAS VEGAS, United States—Driverless plows and autonomous tools to weed vegetable plots are the"
-    publishedDateTime: 2022-01-06T04:03:00Z
-    webUrl: "https://www.manilastandard.net/business/csr-mining/314027486/robot-tractors-and-autonomous-tools-may-be-heading-to-a-farm-near-you.html"
-    type: article
-    provider:
-      name: Manila Standard
-      domain: manilastandard.net
-    quality: 41
-    images:
-      - url: "https://www.manilastandard.net/wp-content/uploads/2022/01/robot-tractors.jpg"
-        width: 800
-        height: 595
-        isCached: true
   - title: "Robot tractors may be heading to a farm near you"
     excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
     publishedDateTime: 2022-01-09T21:31:00Z

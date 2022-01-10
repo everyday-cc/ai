@@ -57,20 +57,6 @@ related:
         width: 297
         height: 291
         isCached: true
-  - title: "ITRI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
-    excerpt: "Technologies include the CES Innovation Award Honoree RGB-D AI Robot, the Autonomous Selfie Drone, and the Interactive Time Machine HSINCHU, Jan. 5, 2022 // -- The Industrial Technology Research Institute (ITRI),"
-    publishedDateTime: 2022-01-06T04:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=595638"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 69
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
     excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
     publishedDateTime: 2022-01-07T05:30:00Z

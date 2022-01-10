@@ -56,6 +56,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Ginesys to Invest in CASA Retail AI to Power Targeted Personalised Customer Engagement"
+    excerpt: "New Delhi, Delhi, India   Ginesys , a leading end-to-end technology solutions provider for retail businesses today announced a strategic"
+    publishedDateTime: 2022-01-10T20:45:00Z
+    webUrl: "https://menafn.com/1103516407/Ginesys-to-Invest-in-CASA-Retail-AI-to-Power-Targeted-Personalised-Customer-Engagement"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?725200"
+        width: 333
+        height: 250
+        isCached: true
 
 secured: "CYo+mXDiHL0PM2Z0v5XMBBeqZuMgX0KsY3ztVYFDBCICV0kPEPGpyv8CWBiSx/o9VKdzH/MWG8huj+QORuKeQT9VF2+GuxLiZpTmfUVGZkQhp/HS8o9BDUqLUNKWq7GnLX4F0eHPwWLL0obPeg8TIRi0wtHAmd7USYPGcFmOIoFmzOXCwm0eUl1doCVH4qAZNQP3Y7+paXoSlLZ8GsndAJBgxmX2M+f3s/SktubAgi8CI6JrneAXOhKqlS4Cgy9HeG6lj0RZiOZ8H69BOB+U1HCx9bWcVMH2LRA/7WJa1c64U6HXHsTS3GU6V/QA69CxMGjuI2DMA190X7eFwoF8mhtSJ8ny8Vm0+c91zFpWUrY=;K1e0bOQdoCqE2wa4xnEy+A=="
 ---
