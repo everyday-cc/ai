@@ -101,20 +101,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "The robots debuting at CES 2022"
-    excerpt: "Take a look at this roundup of robots, compiled by Electronics360, that are preparing for their CES 2022 debut. Hyundai Motor Group. Source: Hyundai Motor Group. Automotive manufa"
-    publishedDateTime: 2022-01-05T13:01:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17606/the-robots-debuting-at-ces-2022"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/606/17606/CES2022D.png"
-        width: 675
-        height: 555
-        isCached: true
   - title: "CES 2022: There’s a new robot dog in town"
     excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
     publishedDateTime: 2022-01-07T14:00:00Z
@@ -142,20 +128,6 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/zztsw450308.jpg"
         width: 450
         height: 308
-        isCached: true
-  - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
-    publishedDateTime: 2022-01-05T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
-        width: 1154
-        height: 606
         isCached: true
 
 secured: "RwBAbYzFN/Ytg5+AY8YqOXgLipXHeH2QnmqNADhDksZcI9G1ULV4rokB4vAINXc260vtbiFelyoOIiKsSo6b/e2hiEECB6uV538m2hKbJapYZ2RPaXCfz9V1cjYFMsDjOoW1UgzxATI1djYB858zq4xehM8KHM3qODV0sm9wqJPARpSgz1ieW/NzKEVrwFWJ0WOEhRxiIe2hlHaLIj1mMeMkXfXuhlknAoyCUhKi0cEEAb677KXhb2L0HI1573v4gv7/XQD9WRLF6sEl/lVcXIL6w6SAeAz8hB+RjVgrS2nx25zG+ZVXR99oiwLeGfmW4ePpmZ7QgsRfI8+Z3uWF1PGwMegnDqsSDXCPMqMrOmg=;r6qEl9cTKg+N+MZoEI0AKQ=="

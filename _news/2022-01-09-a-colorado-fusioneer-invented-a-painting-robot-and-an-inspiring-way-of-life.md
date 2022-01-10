@@ -3,10 +3,10 @@ category: news
 title: "A Colorado 'fusioneer' invented a painting robot and an inspiring way of life"
 excerpt: "And the robot holding a paintbrush. One look at this room can be overwhelming for visitors, so Paul Kirby likes to start simple. It’s an old trick he learned as a ski instructor in Vail, when he realized every skier has slightly different goals for the slopes."
 publishedDateTime: 2022-01-09T06:00:00Z
-originalUrl: "https://gazette.com/arts-entertainment/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html"
-webUrl: "https://gazette.com/arts-entertainment/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html"
-ampWebUrl: "https://gazette.com/arts-entertainment/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html"
-cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/arts-entertainment/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html"
+originalUrl: "https://gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html"
+webUrl: "https://gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html"
+ampWebUrl: "https://gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html"
+cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html"
 type: article
 quality: 71
 heat: 71
@@ -26,6 +26,6 @@ images:
     height: 711
     isCached: true
 
-secured: "QtjMwVJPwdjO7Mi8edpSputr7Yv4phkmauPBuWgs+w4thWJjnRvbfIsvaGh6i8xdqyO0/lFVo6yj4Uk6jeYXykLCOE07rdqcsUdQtWcWND8tv9MIwq8HuA3ZwOb4SmO6F52sMka8/lbFZYsAjZulJrxuZWHYMvFWHcU3GogcbwZd1GL2OZBI9ADz8hWn6GNAXXLWiArgcdqc79irtd2MMMCD8qnBeN+ZnNILYrlmo3eX4cP3fwZGbSrhGMaou5f2/Bj37mhF846dbBiF4Uy2SyGkDN5qOn3yI3rjcXEF2YsnkDFyW/HWZh/eS23Mx7AuQW2Tgv7QX5ApJrpL86/uHWp/7zJDLNgfeU08s1WEu9U=;Yn0eNG3ra6JNHds+hCbPEQ=="
+secured: "+qUHms11xIDLvooj5rpu+PjMSMDfnHifPvw3mTtEzDpZs1ao1RqOc+kvTRM90YsdovuhWIFmtC7XW3JO/Lf6boIrqTaRHbCjlaCVecCI0QraDm00E9RNEP0ocL9ZupqzGb4kLyxX/uMKnd0YluvbokNWWzMOrdQHWAjHTtzgcXsrqcuCq5ZcNw+1+v/qKSQiMWLVnItre5imyWK/hYb66Weh2zF4xDE/n8zeYHjjRxkb5TX8xwkDKCVI3SgxWOiRXbmjV24LR31n89lklpstpL55Rp/uXrAaBCYumKFOigFnjiDBemWf/nxEam8w+jhFtwmb/IBSN6aTEnMiB4UD7u0BCaW5pMA6E8OBkDfQDyQ=;RTvA1yuBZygHP3eFevm9AQ=="
 ---
 

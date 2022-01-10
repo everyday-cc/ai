@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-imag
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
 type: article
 quality: 71
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -92,15 +92,6 @@ related:
         width: 600
         height: 308
         isCached: true
-  - title: "New Ambarella AI domain controller SoC family; single-chip multi-sensor perception, fusion and path planning for ADAS to L4 vehicles"
-    excerpt: "Ambarella, an AI vision silicon company, announced the CV3 AI domain controller family at CES. This fully scalable, power-efficient CVflow family of SoCs provides the automotive industry’s highest AI processing performance,"
-    publishedDateTime: 2022-01-05T11:03:00Z
-    webUrl: "https://www.greencarcongress.com/2022/01/20220105-ambarella.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 3
 
 secured: "qQ0hzW0kGTFVMNprF/+MRooR/Y+P4eAf683GGTRlU/0PlpFQqXR9vUQ3AXvFlYi/72j+hIbMpq/Rdi+vSUQqnQ8TDfwjzIZpH7Z3VuqqQ0hASQLuk+ObZAfIdial4e8/Br8bPrpdodAZOG7JclNnXTJN0P9RpyN3wbWus/Vf1PB1nV4jJq7J+oMBhKUo9lSGZeI+XsDZV3J3YwL6zPx99yOaq6YUcKvjAmkPBb4tFj+KwrUBll1bedcOI0HioSLayn+Mg5DyBNywbHmh44q/HQpin4M9uhlmUWCIpl/iHdSmTAkBsd21U93k2rW0/lyq5fqWDYZbuhv/F56DT6kzaesH4eLS1Xz9dj5+HnB+0e4=;FrSOARuPMudVXVfWzaYiIg=="
 ---

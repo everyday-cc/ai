@@ -3,27 +3,27 @@ category: news
 title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
 excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
 publishedDateTime: 2022-01-07T13:22:00Z
-originalUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
-webUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
-ampWebUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
+originalUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: The Scottish Sun
+  domain: thescottishsun.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1200
-    height: 800
+  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
@@ -104,6 +104,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--4t-IJPAr--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-01-08t010707z_4_lynxmpei07005_rtroptp_3_tesla-china-electric.jpg?itok=mRk11mNM"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Tesla Is Raising Prices for Full Self Driving Once Again"
+    excerpt: "Tesla is now raising the price of its Full Self Driving software once again, bringing the still-in-beta program to $12,000 USD within the U.S. market. According to a tweet from the automaker’s CEO Elon Musk,"
+    publishedDateTime: 2022-01-10T04:05:00Z
+    webUrl: "https://hypebeast.com/2022/1/tesla-elon-musk-full-self-driving-price-increase-12000-usd"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 69
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-elon-musk-full-self-driving-price-increase-12000-usd-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
   - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
     excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"
@@ -244,6 +258,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "c/8GpxbdFnCX50Eiu2LJwZLnekVHGO2I+zMvQo7r4ydXABaukmOIpl8VTJ/Sq63jJgaxqZ/Wy5vEzfB8/rEAqs2I2SSoH1k+oTiVOtZLR4bS3pzdnmHOdnuu53mfKpm/THwfL3gx+DJDOCkccEsLgq7YzDobJN8WT4LcErJSLHirKBdVEMv6jE/YvHMzmMKn2mX08b/IFiE1QsAIWKs+I4lAvLC2BnsEydQsv1jdsDnWNJRYQ78HpwbZuD5otVjhCB8KhOumit5Q06L6aCcgbYbirT1Wf2SjkUxpeygk6crIIwGPlZgTuK83/ZvECOTMPvqMmJBWxsFzBSsQ5qEqL31ft39IpdPsk9+TsgNAHoY=;3CUlauM6XbERpUGY+OnNRQ=="
+secured: "2c5Eug32eInOoOSL6opSi58v0nc3rDR5h90HOS7U0HzOPoWQS/mjAC4GLRODf1W0uZYjZhOniNQW/4EYeWR71TbwxtCb6B0EMv0AwcWWXoxY/ytCDV/OvNkdnrL5VVkxVb+JUD7vslbz1tSgOnmaMtPsjqnkUHZMXP+kER81yZuhbKVjtci8j+HhYSox0NE39MpD8yS65VVq5eaZEw0eyFh5LmwXIR1TJ3n9IhNztcBkRL2Za22+Q0rYR5W/RwUMyjLWNctDs+uvc7zaXC/Dqvd/UAJPO8uFgdgatAzeZ2vbOQN/nIw42SxLAQIS9rbrwnKRdG/+eM7KgMX1mwEw5EYR/x+hhHz7hZG3fU9E4H8=;FVN4LsSI5/FuBdTUGXsmTA=="
 ---
 

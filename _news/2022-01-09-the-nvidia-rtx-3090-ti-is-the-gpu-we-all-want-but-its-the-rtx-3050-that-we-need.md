@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA debuts low-cost RTX 3050, new laptop GPUs, and more at CES 2022"
-    excerpt: "NVIDIA has announced a couple of more additions to its GPU lineup at CES 2022. The newly announced lineup includes the GeForce RTX 3050 GPU, the most affordable GPU of the RTX 30 lineup, and a couple of more GPUs for laptops."
-    publishedDateTime: 2022-01-05T12:11:00Z
-    webUrl: "https://pocketnow.com/nvidia-debuts-low-cost-rtx-3050-new-laptop-gpus-and-more-ces-2022"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 19
 
 secured: "H35HLjoN5oKu2QnyxN3h1Y9qdHbGZsvoa/nAGSy42lQPRoNCNy/5S9I9/KUkI5hDyIeSk3TWgvDWcFaTRDKBQs60MurBS/8+408F9tzM2otYJgZKrQRvEPKt1DutHZJWncOnC+6r3N61V0mJP/CSVDYRAU/Gc6lJzVYLTUQvonw0I3+z6DrqubaaZvNme36nl1XcVucPcO/H36r/MBsTutaQlpzHe4U7+VYcF7OJglepg3F22lgteAGNxWZ90NLByGmdQsG/iWwSdpmydY1bDIRW2QybzrenVqkMqzLyCF1U48Zq3K5iZh0W2nDs9c7qHJIgjil2syPCvlQPWSAYpfSNBE3QhWXI/TpLl2gUAho=;aqxLs3f+snAgsAbrCZs54g=="
 ---

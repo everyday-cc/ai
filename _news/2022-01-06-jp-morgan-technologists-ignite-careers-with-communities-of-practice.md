@@ -36,15 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Potrero Medical to present at 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Potrero Medical, innovator of the Accuryn Monitoring System, announced today that it has accepted an invitation to present at the 40 th Annual J.P. Morgan Healthcare Conference. Joe Urban, Potrero's Chief Executive Officer,"
-    publishedDateTime: 2022-01-05T12:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/potrero-medical-to-present-at-40th-annual-j-p-morgan-healthcare-conference-1031078920"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Atomwise Invited to Present at the 2022 J.P. Morgan Healthcare Conference"
     excerpt: "a technology-enabled pharmaceutical company leveraging the power of artificial intelligence (AI) to revolutionize small molecule drug discovery, today announced that it has been invited to present next week at the 40th Annual J.P. Morgan Healthcare Conference."
     publishedDateTime: 2022-01-05T14:49:00Z

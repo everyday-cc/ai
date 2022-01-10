@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft AI surpasses human performance in common sense Q&A"
-    excerpt: "Welcome to the 48th edition of the AI and Global Grand Challenges newsletter, where we explore how AI is tackling the largest problems facing the world. The aim: To inspire AI action by builders, regulators,"
-    publishedDateTime: 2022-01-05T11:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsoft-ai-surpasses-human-performance-common-sense-marcel-hedman"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGcRRyk4eeGRA/article-cover_image-shrink_600_2000/0/1641381987976?e=1646870400&v=beta&t=upT6m_EjVjrDYowz0-Z_5XboiSunC7qUD-dVL6qAcMg"
-        width: 1800
-        height: 600
-        isCached: true
 
 secured: "AMUzlkaOCQos8dBnkqeQEwfeSkgi16ZuBYF5o0tGfjvGK+w9eQbOZ0Qhl4qU0z7XI5SzLffM7ysHlB+2DEPYnOhSFDMaBFMH6ahCCBJ2/FGuLKetdlFwNxRhLu+cfEwBBJWoyOSXQAEtrcL4cptvANOWBQdJ+JGS2VmHweSTatitk9k+nLVDSDDDX/po0DY1BxdB+G0zixAjjqJp8efd2q4RzYSkCIWn6iP+coVeCoI3rPWmefVLkEl7JJM2yVfoj7qZCuDhsHflrGSqWnjZp6F9Wq8Kc8rAdejaodIdqFRssf7zdaLCXeq2LrusjGCyJkBv3C6qye2pAJKIilHe26e8tPTGdS3taCZS/A9IzCE=;4aZAnpIawUGIRuRvwj2MUg=="
 ---

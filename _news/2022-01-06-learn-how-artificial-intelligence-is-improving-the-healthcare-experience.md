@@ -47,22 +47,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Wejo developing vehicle data processing platform with Microsoft"
-    excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
-    publishedDateTime: 2022-01-05T12:37:00Z
-    webUrl: "https://seekingalpha.com/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3785365-wejo-developing-vehicle-data-processing-platform-with-microsoft"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 59
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "SparkBeyond Discovery Now Available in the Microsoft Azure Marketplace"
     excerpt: "Today SparkBeyond announced the availability of its data science platform for supervised machine learning, SparkBeyond Discovery, in the Microsoft Azure Marketplace, an online"
     publishedDateTime: 2022-01-06T13:00:00Z
@@ -73,6 +57,6 @@ related:
       domain: wfmz.com
     quality: 49
 
-secured: "d0BxyesIU9ToYtlimvBQ6Rhm+bKG22eGUOY01tvVDRHk5IQBBu6l4tZMpgItyQ/XwphEjGniQr5uu4PjqbdoCAe3J0gu/mSIAHAo2g3O88NV1sITyeM85t16Qmkq3XQKG8KmmJhk78cIHeS9UNDtjt9GFgdAmzpfHVvJqx/DVM27OeBfmPZ0ohNtmpLpQLfGjyPDCr+lmkZsqlX/cArCbIFuyxpZVqr7iUfw1+ZvWB91ld1PYLPRP+b1QB8IIgptB5v4nh7uKLtC44M+K8zw0Jm4j98e/51G7ZK8Bdtn1xJdOLo/4eWdJMcGfA2GwV9QZ5URPkl2TPJ1Dk0WG4BMbaIZhzYxcyvRfZn1041KdCI=;Gd2tzFg5vYztg9OdXLkDbA=="
+secured: "KHltVUtLYGc3J7d/CAj+XXMOy8UWpsCLWa3RONYdcckJjMMoMuDonQQnFs84mOvIpy7yhYKw3DGEdJm/TM0mpvOzheZm3jhHbkTO23A2QtMVtj8fogFCVDd6ZDDtc9LeHZlfZsMbA0Zki1/5kYvaMLrLMfEmPvh3AM9TFluiA9EnNi+K/60lPuKu/jCGSxV3SetvA/OGGeRPKh6j00NFbqUkvlFTFFtYX2sq7OBqZYKQCOLdNMObqDjeLFnshPhiBbXcms7CHOLJm8Tc2AW0fcXHQ639qz60HYd+Kn8t7HtuJl4n2sng/gaHsd5e21CSuXLiaVCF2vr0tQLLqizu5eSeUTMOiK64p0j5MkakmVA=;wTg0k/hXZ+sOtS4aWj8gMA=="
 ---
 

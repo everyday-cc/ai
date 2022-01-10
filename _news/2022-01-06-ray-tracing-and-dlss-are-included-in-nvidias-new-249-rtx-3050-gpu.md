@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA debuts low-cost RTX 3050, new laptop GPUs, and more at CES 2022"
-    excerpt: "NVIDIA has announced a couple of more additions to its GPU lineup at CES 2022. The newly announced lineup includes the GeForce RTX 3050 GPU, the most affordable GPU of the RTX 30 lineup, and a couple of more GPUs for laptops."
-    publishedDateTime: 2022-01-05T12:11:00Z
-    webUrl: "https://pocketnow.com/nvidia-debuts-low-cost-rtx-3050-new-laptop-gpus-and-more-ces-2022"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 19
 
 secured: "Vy+nJUcIRq4xBZ7yzwrlD8cdm5VO/b+UYkQSEojQ1+1MJenW9y+fPHSOBThDI+4xaHQtNCgT2ICopejCxATpfHaJkJ7tpgHFLjNhVHqanv7bGUQxWueGiXFai80IyhFPVCk1cNv4+0hkn2btIOVk6ACgglae4+a3TUzPPk9Jkn4KotBNZ3t8es2itU/mw36vbqQBk9BzoG7abZ1JoHEXiLh8k9qe+ozI1P0nbr/vEEFObL0s/w3kw4xYs4GhLLqMhsopPUVe2C77rDZ6jMYZBp7EQ3ZqQXIoKA89K+6muD4YCfz/UiddcAUqL/GjE7cCbauQdYdgvUp8usYrt+OPwsndwozTdXRVv/BTZYZgLcMSvBAnixjCswgVmmY+6AmL+/2D73+B05KmBBuDaS3iv/leta0DwvDikyzlk9p8QgagfJ5guuZ6nWLVX65Ukq5pYjPUIKuaYMpHX4vWylgo6o0AlcD1MHvpphsK2Hq8ozdxljPrQ7Kq5B0r9vSQHLjuKqmnIj5aQE4O7TtZ9duHUw==;YoHbiSiCkYEWXCVkE0HZ6w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/tech-trends/article/3162591/alibabas-auto-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3162591/alibabas-auto-driving-lab-chief-wang-gang-leaves-start-his-own"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Head of Alibaba’s Self-Driving Tech Unit Quits"
-    excerpt: "He joined Hangzhou-based Alibaba in March 2017 as the chief scientist of the artificial intelligence laboratory and later ... executive director and general manager of Alibaba’s self-driving unit Xiaomanlu Intelligent Technology. Xiaomanlu recently ..."
-    publishedDateTime: 2022-01-05T12:44:00Z
-    webUrl: "https://www.yicaiglobal.com/news/head-of-alibaba-self-driving-tech-unit-quits"
-    type: article
-    provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 24
-    images:
-      - url: "http://img.yicaiglobal.com/cdn/news/head-of-alibaba-self-driving-tech-unit-quits/18742939720089600.jpg"
-        width: 720
-        height: 480
-        isCached: true
 
 secured: "EJlvR3nlU3KWMNf6dre+AtuRNbzbFfIhMarSV7hiNKq6hxcSg/sVrkz2Lg0Yz6gEMMiY2d1lRqAt/KPGwsehVtXv8k0vCi7lC09G1lrFS4gaAThfsN/+dviT1ksvbsXuPZbEhIfq2qFDoWfRIrKjW1MX2XeFs9CtRyzt09cx/hOIpbms+xes1BlTdwWE/M0XSQJP/8y8bjZ600sYD2eVGCuFYLQIrkkA+B35JL6T0AwFav2vO3UIh8/C4SOP4yA3KjDycecV+86sU02Zx/s4EqBDyHVvF1ZITeT788cRKjMmxWxx+CbKZYBKoIMMw9uaz3NSUmCFN4zVc3ySpR0sF2261omyUlksKUGjaMYpi6w=;kddf2MNA/eS9iu+wuNLqFw=="
 ---

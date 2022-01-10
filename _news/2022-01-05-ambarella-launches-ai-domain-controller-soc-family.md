@@ -92,15 +92,6 @@ related:
         width: 600
         height: 308
         isCached: true
-  - title: "New Ambarella AI domain controller SoC family; single-chip multi-sensor perception, fusion and path planning for ADAS to L4 vehicles"
-    excerpt: "Ambarella, an AI vision silicon company, announced the CV3 AI domain controller family at CES. This fully scalable, power-efficient CVflow family of SoCs provides the automotive industry’s highest AI processing performance,"
-    publishedDateTime: 2022-01-05T11:03:00Z
-    webUrl: "https://www.greencarcongress.com/2022/01/20220105-ambarella.html"
-    type: article
-    provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 3
 
 secured: "AUdtdIdLM/hi3UoL/quixGuL1lM+e8lqzYaQWeqCgSq5kmy2r8qzeI69Cii2UiN5vR+ETW+DdNkzaZPP/2EUncfiq1v25+CYL8AkyhW7DPEF7ZiWVRhNilJV27Mx/0GnEh8GJDGOK7BZhW5I8csZ0C5itRWbOezmh4ufCu6IkYUHs+NcrF/XAenR8nGWCZjuEe6RZREW1Xtqg/OFtGwd5wIKrubR0LoQzwzPkzHDi29wyBUwUaddBN4b2jqv/j2N+SVRVwZLMv9zrVsUpElO02PIVA/uhM8TmMmC2eIWO95jb4S8XsRUbd74UNIeVUxCSuSLg1GAU7CThJOQ6ANHdBd7So8EUO7mi67cz9hV5nU=;EcMlKmD2zoJPLTeZ4VnBbw=="
 ---

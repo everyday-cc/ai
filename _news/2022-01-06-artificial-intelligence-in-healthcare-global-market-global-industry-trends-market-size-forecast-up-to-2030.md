@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-excerpt: "As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-publishedDateTime: 2022-01-05T22:54:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
-ampWebUrl: "https://www.benzinga.com/amp/content/24922041"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24922041"
+excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
+publishedDateTime: 2022-01-06T05:40:00Z
+originalUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
+webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?141290"
+    width: 396
+    height: 250
+    isCached: true
 
 related:
   - title: "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis"
@@ -36,6 +40,6 @@ related:
         height: 250
         isCached: true
 
-secured: "SrPoFotHkBbSepmyNVjgdWtujgHp1wJcxkvQac1S7gdGhwNcHfRBUEhRTqZdUw+WAOeLjBwF5qas4wM4dhd0kcr8MTQgUYNFGxq1Ghf28SYuaRXkKjeH4+/3m2Bt5kdtiONle12qNVoaufCPTyphLr8tHOZB5uILq4Guqgak5WGRlValSK3Ne/0SCjqqwkvZVtmCzawpMEoG1CcGveNQYlUg2ZDDbLEdBTn6JL5R1ZaRerJ3PtXHfQk6v4DhEKVV9lq/M0kgpghQYbbhN2Tjnqgw5hIqzasb/7SUiJnx6u6waA4jTzA/N7MdmgiJ+i3t1rexaAdXn9v8aXmqxHRq7ar51UwZs+vFxPa9o5N5ac8=;akED0x1X5P6nLsX1EXiCqg=="
+secured: "RR5txgwLVAy3bwrA9CwGKykpO3ahS8+gRFmDu19zwiDqcV6ETht6Q5ZbkIgkdf0jdb8ndA0q7xRsxFcjG4dKOtgOnAJqPN335Lbfmo1S6Ft3pF1oT/WSFlH48KSARnmGWDCMYkXvnwqCoQpZerEwWCokx+/3R35vuwFfcrLQZgQaQtH207GZkSqB0ch1VJaAv2kSB6M1AezZgczySXW5ybvgwf1q6dul1OWGXegLwmKU64+oCddxcp3PJ4GvioJleFxSaq7lBYiG2kQEcJ6slTGLbgOx7L0VH5rR6LlZUAypyd3p7nReOVnnxkSTqVtBxS3w3Yt/PvKJXd2U/rkt7xphuuNFhAYL9f13FaEB0Xk=;eipp33nMwwW5wlicijobbQ=="
 ---
 

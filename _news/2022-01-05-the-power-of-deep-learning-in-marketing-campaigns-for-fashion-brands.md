@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/power-deep-learning-marketing-campa
 webUrl: "https://www.linkedin.com/pulse/power-deep-learning-marketing-campaigns-fashion-brands-rob-elms"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1559
     height: 600
     isCached: true
-
-related:
-  - title: "Financial Marketing Firm Expands into Segmentation, Big Data, Machine Learning and Artificial Intelligence"
-    excerpt: "For 27 years, MKP communications inc. has developed and executed data-driven marketing and communications programs for its financial institution clients. With the launch"
-    publishedDateTime: 2022-01-05T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/financial-marketing-firm-expands-into-segmentation-big-data-machine-learning-and-artificial-intelligence/article_7d2da779-019a-51a4-a924-691d1fbbb0f8.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 35
 
 secured: "BOB4wOagFLizG/kEocCzWLWkUdBMudsAbRDwdM6PjS4TRvPm8oGBPcaIcFtyjuC/en0Ff3VQEy2kHah4u1Qn5c98vM+553mYSuG3HnfxSTMjWsi3I3hhhrmNrUnIhTLkRbsNixbuBIXY+Zh/+fR4StR0qV37NSDN3RDLdaiBYiaivZlSBYhZJhcu9Y7DQlUGRuCmFBn9flJ1jQ/cY2GFDXj6UlCfyTmgGgQGt0F3/Gkt6S+BUfq9rsWYqpFLuNPT7zwDB5BUwx0lJ88HDi7oUZ1REoFYBCoP8m1JWQIvIOdz0aj/0wwqpMXHC01f++gB412uTVn2Asdxs6U5Fl/sONPkvoFzAjq3B6MXQnfZryk=;4pw+O2BYT7fncsig9kCBQA=="
 ---

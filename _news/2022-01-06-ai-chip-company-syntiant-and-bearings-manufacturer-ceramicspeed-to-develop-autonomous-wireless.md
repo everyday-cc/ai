@@ -18,17 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Energous and Syntiant Collaborate for Wireless Charging of Always-on Edge AI Processors"
-    excerpt: "Energous Corporation (Nasdaq: WATT), a leading developer of RF-based charging for wireless power networks, today announced a collaboration with Syntia"
-    publishedDateTime: 2022-01-05T11:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220105005209/en/Energous-and-Syntiant-Collaborate-for-Wireless-Charging-of-Always-on-Edge-AI-Processors"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
-
 secured: "02/bX8OB+9/rMSgnhR5e2P9T6bo8Vyx7wIBY1epOFY6WlKNEelE4UZ+YME/3e/Xvs8UZ+pQnBAPf0gM6WaUQRTf3VvFi0NzwZQJNq3c/XrFEh5wLPy+LyMHapJqH7kozY9jXU58aDu/E7Tsz6aydzwXKx5EHQy+i863Qz01xvff8sZu7fEtuIUtNEyNdF/Fh0DbH59tv7WeqR1qcWWy8Ta5Qw0pO+gzSuCT02g3fvMWeXiuDeMlU5/LrLmqIc8Bv/sqbBToYFfUi8L9mKucs3whiXlPRFSxlWnO+tfWh7tpwZgv9qEa5Crlfow4qvgJb5BpSaMdewDUS1PwuFi9oFrY0kr5AiYFtxxv5yf2Xo7k=;xOg1ztpLB/QARatGm8pwtA=="
 ---
 

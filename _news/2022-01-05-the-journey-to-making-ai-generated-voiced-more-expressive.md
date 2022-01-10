@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/ai-generated-voices/127109/"
 webUrl: "https://www.openaccessgovernment.org/ai-generated-voices/127109/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New method to make AI-generated voices more expressive"
-    excerpt: "Researchers have found a way to make AI-generated voices, such as digital personal assistants, more expressive, with a minimum amount of training. The method, which translates text to speech, can also be applied to voices that were never part of the system's training set."
-    publishedDateTime: 2022-01-05T11:48:00Z
-    webUrl: "https://techxplore.com/news/2022-01-method-ai-generated-voices.html"
-    ampWebUrl: "https://techxplore.com/news/2022-01-method-ai-generated-voices.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-method-ai-generated-voices.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
   - title: "Method Makes AI-Generated Voices More Expressive"
     excerpt: "Researchers from the University of California San Diego have found a way to make AI-generated voices such as digital personal assistants more expressive with a minimal amount of training."
     publishedDateTime: 2022-01-05T20:04:00Z

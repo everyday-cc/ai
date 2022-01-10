@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "TPG invests USD 360 million in AI tech startup Fractal"
-    excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a $360 million investment from private equity firm TPG through its Asia focused investment platform.    TPG`s involvement in Fractal includes a mix of primary investment and a secondary share purchase from funds advised by buyout firm and existing investor Apax Partners."
-    publishedDateTime: 2022-01-05T11:46:00Z
-    webUrl: "https://www.zeebiz.com/small-business/news-tpg-invests-usd-360-million-in-ai-tech-startup-fractal-175416"
-    ampWebUrl: "https://www.zeebiz.com/small-business/news-tpg-invests-usd-360-million-in-ai-tech-startup-fractal-175416/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-tpg-invests-usd-360-million-in-ai-tech-startup-fractal-175416/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 57
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2019/03/15/78369-cyber-hack-piabay.jpg?itok=YxUavea4"
-        width: 700
-        height: 394
-        isCached: true
   - title: "AI startup Fractal enters Unicorn club"
     excerpt: "DeepTech startup Fractal enters the unicorn club after raising $360 million from global asset firm TPG. Post the latest financing round Fractal has been valued at $1 Billion stated"
     publishedDateTime: 2022-01-06T05:36:00Z
@@ -71,20 +55,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
         width: 850
         height: 400
-        isCached: true
-  - title: "Enterprise AI startup Fractal Analytics raises $360M"
-    excerpt: "Artificial intelligence and enterprise analytics software firm Fractal Analytics Inc. has raised $360 million via an investment from the equity capital firm TPG Capital Asia. The raise involved a combination of primary investment and secondary share purchase from funds advised by Apax Partners."
-    publishedDateTime: 2022-01-05T11:26:00Z
-    webUrl: "https://siliconangle.com/2022/01/05/enterprise-ai-startup-fractal-analytics-raises-360m/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/Fractal.jpg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "AI startup Fractal said to have become unicorn after $360m investment from TPG"
     excerpt: "The round valued Fractal at over $1 billion, TechCrunch reported quoting Srikanth Velamakanni, co-founder and group chief executive at Fractal. In a statement, TPG said that it invested in Fractal through TPG Capital Asia,"

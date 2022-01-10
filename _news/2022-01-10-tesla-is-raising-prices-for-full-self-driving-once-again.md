@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tesla’s ‘complete self-driving’ software will cost $12k, according to Elon Musk"
-excerpt: "Tesla CEO Elon Musk has announced that the company’s “full self-driving” (FSD) software will now cost $12,000. Musk said on Friday that the higher pricing, which is a $2,000 increase, would go into effect on January 17th for customers “only in the United States."
-publishedDateTime: 2022-01-08T10:20:00Z
-originalUrl: "https://bestgamingpro.com/teslas-complete-self-driving-software-will-cost-12k-according-to-elon-musk/"
-webUrl: "https://bestgamingpro.com/teslas-complete-self-driving-software-will-cost-12k-according-to-elon-musk/"
+title: "Tesla Is Raising Prices for Full Self Driving Once Again"
+excerpt: "Tesla is now raising the price of its Full Self Driving software once again, bringing the still-in-beta program to $12,000 USD within the U.S. market. According to a tweet from the automaker’s CEO Elon Musk,"
+publishedDateTime: 2022-01-10T04:05:00Z
+originalUrl: "https://hypebeast.com/2022/1/tesla-elon-musk-full-self-driving-price-increase-12000-usd"
+webUrl: "https://hypebeast.com/2022/1/tesla-elon-musk-full-self-driving-price-increase-12000-usd"
 type: article
-quality: 35
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: bestgamingpro
-  domain: bestgamingpro.com
+  name: Hypebeast
+  domain: hypebeast.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/Elon-Musk-says-Tesla-is-raising-the-price-of-its-‘full-self-driving-software-to-12k.png"
-    width: 600
-    height: 375
+  - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-elon-musk-full-self-driving-price-increase-12000-usd-tw.jpg?w=960&cbr=1&q=90&fit=max"
+    width: 960
+    height: 480
     isCached: true
 
 related:
@@ -102,20 +102,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--4t-IJPAr--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-01-08t010707z_4_lynxmpei07005_rtroptp_3_tesla-china-electric.jpg?itok=mRk11mNM"
         width: 1200
         height: 676
-        isCached: true
-  - title: "Tesla Is Raising Prices for Full Self Driving Once Again"
-    excerpt: "Tesla is now raising the price of its Full Self Driving software once again, bringing the still-in-beta program to $12,000 USD within the U.S. market. According to a tweet from the automaker’s CEO Elon Musk,"
-    publishedDateTime: 2022-01-10T04:05:00Z
-    webUrl: "https://hypebeast.com/2022/1/tesla-elon-musk-full-self-driving-price-increase-12000-usd"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 69
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-elon-musk-full-self-driving-price-increase-12000-usd-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
         isCached: true
   - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
     excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"
@@ -243,6 +229,20 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Tesla’s ‘complete self-driving’ software will cost $12k, according to Elon Musk"
+    excerpt: "Tesla CEO Elon Musk has announced that the company’s “full self-driving” (FSD) software will now cost $12,000. Musk said on Friday that the higher pricing, which is a $2,000 increase, would go into effect on January 17th for customers “only in the United States."
+    publishedDateTime: 2022-01-08T10:20:00Z
+    webUrl: "https://bestgamingpro.com/teslas-complete-self-driving-software-will-cost-12k-according-to-elon-musk/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 35
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/Elon-Musk-says-Tesla-is-raising-the-price-of-its-‘full-self-driving-software-to-12k.png"
+        width: 600
+        height: 375
+        isCached: true
   - title: "Volvo announces Ride Pilot unsupervised self-driving system"
     excerpt: "Volvo on Wednesday announced the new self-driving system Ride Pilot at the 2022 Consumer Electronics Show underway in Las Vegas. Ride Pilot is described as a hands-off, eyes-off system, meaning a driver will be free to do other things when the system is activated,"
     publishedDateTime: 2022-01-05T19:00:00Z
@@ -258,6 +258,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "9tKV0nxSSn7RT+2hfGVx+AVOIh5cwMLhzvcwew2sYZRZNoWccMTtIt9ppcjqoNZnGMxkzVb4fOQq8/bsPlCYzaZaJDLThkBCD4ityycdf9RzX7DXwI70DcHk0ezLSIz+NuDPC+h/7wpEU89WiAwGM4cDOEMTC6PxkE8C4ihbLYy4hujKgM9FB0BsPY6VsVG5D9DkV8TxXIDDxpaHBYDSn8hnNewwtWskTg7U+H5WUvCZ70vpicDZoj6AcbHviKPjRbUEbBsb5Z01/uL/qlrTxZ5Yp8Vghmy5I8W3J9S7feAO3SlJUu0oWhplJUWhL4p4AXAWcLiBMAmW7qmcecmlD4vR1P4bvW9udpaIgsYcOU8=;cHlplpjHuUwXCJFmKvZhMQ=="
+secured: "1ZhHabPqjAAvvSOy6wg/i6YiMna3C1OfnRzGfgiIGNr9JzHogIvZlayQacAYcJa7cfvFbqjwHElODj5IU6RRRLMDia3RMKuYSd9b0f7enkdunyHe2B5IPx8b1WNBDXS7UwU5qByWhVQ5Yi4jFIrxScYwiidCQTv9tbaievunJ4kQZT2uykjHAcHBjQFu3f+K1yXiSrBBL8CfCvoqP3NPOQPchkwX8OajaKZvBtmrpuyqf7K5+4xVF4waYZn206zZFwop1+vkc6+i9EE/6TMS9AD1ivtAxPsnSazrBuQ2Un1MCxiM2+vWv56Y7oJ6k/LRaUOZu14OWWR3YXTp4afmvcyecxz719+uw8y8McXECUI=;rW0p46Gh7fyqBETWo0qACQ=="
 ---
 

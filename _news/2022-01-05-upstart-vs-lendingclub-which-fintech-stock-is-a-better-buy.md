@@ -104,34 +104,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "Dvara E-Registry and Monexo Fintech announce new partnership"
-    excerpt: "Dvara E-Registry has announced a new partnership with RBI licensed peer to peer digital lending marketplace Monexo Fintech Pvt"
-    publishedDateTime: 2022-01-05T12:21:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/dvara-e-registry-and-monexo-fintech-announce-new-partnership/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2021/08/SLT.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Technologies Reshaping the FinTech Industry"
-    excerpt: "Technologies Reshaping the FinTech Industry By CIOReview - some of the key technologies will drive business model reinventions and shape the competitive environment of the"
-    publishedDateTime: 2022-01-05T11:16:00Z
-    webUrl: "https://www.cioreview.com/news/technologies-reshaping-the-fintech-industry-nid-34809-cid-189.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/skvkm.fintech.jpg"
-        width: 300
-        height: 350
-        isCached: true
   - title: "What does 2022 have in store for fintech?"
     excerpt: "Here’s what the experts expect in 2022 The fintech industry moved at break-neck speed in 2021, with pre-pandemic days feeling like ancient history. Expect an even faster pace of change in 2022, according to industry experts."
     publishedDateTime: 2022-01-05T15:10:00Z

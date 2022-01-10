@@ -23,15 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Potrero Medical to present at 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Potrero Medical, innovator of the Accuryn Monitoring System, announced today that it has accepted an invitation to present at the 40 th Annual J.P. Morgan Healthcare Conference. Joe Urban, Potrero's Chief Executive Officer,"
-    publishedDateTime: 2022-01-05T12:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/potrero-medical-to-present-at-40th-annual-j-p-morgan-healthcare-conference-1031078920"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "J.P. Morgan technologists Ignite careers with Communities of Practice"
     excerpt: "By Subba Perepa, Managing Director, Consumer and Community Banking Technology, J.P. Morgan India India’s path to create a trillion dollar digital economy by 2025 presents a universal need - Mediawire"
     publishedDateTime: 2022-01-06T11:55:00Z

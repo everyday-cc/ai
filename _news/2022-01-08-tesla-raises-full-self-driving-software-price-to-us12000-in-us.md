@@ -89,6 +89,20 @@ related:
         width: 768
         height: 519
         isCached: true
+  - title: "Tesla Is Raising Prices for Full Self Driving Once Again"
+    excerpt: "Tesla is now raising the price of its Full Self Driving software once again, bringing the still-in-beta program to $12,000 USD within the U.S. market. According to a tweet from the automaker’s CEO Elon Musk,"
+    publishedDateTime: 2022-01-10T04:05:00Z
+    webUrl: "https://hypebeast.com/2022/1/tesla-elon-musk-full-self-driving-price-increase-12000-usd"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 69
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-elon-musk-full-self-driving-price-increase-12000-usd-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
     excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"
     publishedDateTime: 2022-01-08T00:40:00Z
@@ -188,18 +202,18 @@ related:
   - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
     excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
     publishedDateTime: 2022-01-07T13:22:00Z
-    webUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
-    ampWebUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
+    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
+      name: The Scottish Sun
+      domain: thescottishsun.co.uk
     quality: 42
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"

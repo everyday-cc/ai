@@ -114,20 +114,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "The robots debuting at CES 2022"
-    excerpt: "Take a look at this roundup of robots, compiled by Electronics360, that are preparing for their CES 2022 debut. Hyundai Motor Group. Source: Hyundai Motor Group. Automotive manufa"
-    publishedDateTime: 2022-01-05T13:01:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17606/the-robots-debuting-at-ces-2022"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/606/17606/CES2022D.png"
-        width: 675
-        height: 555
-        isCached: true
   - title: "CES 2022: There’s a new robot dog in town"
     excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
     publishedDateTime: 2022-01-07T14:00:00Z
@@ -141,20 +127,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/625/17625/Jueying_Lite2_on_2022_CES.jpg"
         width: 752
         height: 552
-        isCached: true
-  - title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-    excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
-    publishedDateTime: 2022-01-05T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 21
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
-        width: 1154
-        height: 606
         isCached: true
 
 secured: "1ulmJxG5aHwKvINTKZcJfp5hVDv5eTnoXOrgcOhtcFWlca2+Vlpl37FiTY5Zqtx4bxSZiz49ybaNZbf0eX3H5/T4wK9UlxnG9tcI7s54YvPOrnoBDj3X2AE3kUG51bA+sjeTapDaSEsZOxw4/aTgtCAhUK0cNkKhOSlNun/2eQn0hyPMZ5SuJ95ZefMeFikJ3h5/fz7Exum+YeC4AA4FXRf0CdplwK+Dfk6Ro3dRYM+x4Lo4DSSq0krfFTznmH1or9FgujlZtYNdJguzEbY5B9bzIba/N8FbjDlWhpkNnIpGKiI61j45EYONo99OGPSsSCyV9EKcta1/oN1GfQhhG7eTMAhnnQwAufI5qdHgOU5WwNEMEpa2Tj9PU3+xDfPc9nrk8MJqlairRQADgwybk3oYfrefxy9nr6C3bu7k8Lyr1jpO4++GeAunkdLF3W2xthNOF5FHxpG+FRHPnrWfmhQray/UclWaer/zIDdAY8zZ0kwZN3MKemoBWDQSpW1GMW2b5T/OIhsN+YYcOw9DNA==;tsyuzs6EH3t1Dv8L7/wnjQ=="

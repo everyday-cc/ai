@@ -9,7 +9,7 @@ ampWebUrl: "https://theconversation.com/amp/how-covid-broke-supply-chains-and-ho
 cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/how-covid-broke-supply-chains-and-how-ai-and-blockchain-could-fix-them-163140"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 320
     height: 213
     isCached: true
-
-related:
-  - title: "Insights on the FinTech Blockchain Global Market to 2027 - Featuring Abra, Bitfury and Coinbase Among Others - ResearchAndMarkets.com"
-    excerpt: "The \"FinTech Blockchain - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Amid the COVID-19 crisis, the global market for FinTech Blockchain estimated at US$1."
-    publishedDateTime: 2022-01-05T12:55:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=595695"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 8
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "To4NL70AEKBEfWAfoXnjGQ6qeZs+23v5Z59kWEHoNuGKKddU2y/QXecH/YPr9Ym5tjnO1ZJ6jlAfy+9hkHwH0OlxGILSL+9fdntTQxH45gXZVdXpJhdl+lOcodB32SyZT6+SlfoDENV0HAwZ196ofT8Z1hjc2BBc0s1RpyyraIWXJMxN/D4eZWB5gCeVRGozX6tv1T0qjhNPR7IbR262MCTLl9RCZAw27QHAIqEOJLTo4kIp24pDdT8nOeXZ+fxKk4cCBNjumVXon6L+78igTdnpnfQflFnS05RdPlq8nvX6Sa1BpME7h2lyxsVOTjnNoM8xa/cao2c6rdcJlQ4nbQayYOnzGucalopKjHFnyP8=;E7vrFSorG7jAUWl7oYMw2g=="
 ---

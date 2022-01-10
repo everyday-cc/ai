@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/qualcomm-and-microso
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d72cecd1aca42304299df6%2F0x0.jpg"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Microsoft AI surpasses human performance in common sense Q&A"
-    excerpt: "Welcome to the 48th edition of the AI and Global Grand Challenges newsletter, where we explore how AI is tackling the largest problems facing the world. The aim: To inspire AI action by builders, regulators,"
-    publishedDateTime: 2022-01-05T11:49:00Z
-    webUrl: "https://www.linkedin.com/pulse/microsoft-ai-surpasses-human-performance-common-sense-marcel-hedman"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGcRRyk4eeGRA/article-cover_image-shrink_600_2000/0/1641381987976?e=1646870400&v=beta&t=upT6m_EjVjrDYowz0-Z_5XboiSunC7qUD-dVL6qAcMg"
-        width: 1800
-        height: 600
         isCached: true
 
 secured: "8zeQpzE6TpOMDCdXnCbS6FnQ1yQ7ivT17qHjfJUlsLfiVXp8em2Qt3B4ktbKNtcyKi4oznwHZe9mWM12DimoRDrdp/AOvAql6mQ9yO2WZmYptwfDUsERMdpO4Rvst5gReHmd4Va32rZWVq0/0RF2t6awCaJchCdJZaO2rfzhmVUwdEcRxXDK8fKtDQCvnk03h2dDGsJi+WQc8gRBnEkMcRrXzaoCAj4+Dyz51Alr79NI9KxDNrHYp4IWAD8+ISjZkB+qVZRLbMyX/hunjQZ0A7Zo7/+/2bFgSawb/si+oA3+yEro6fnvxvv1hzQB2xvpnFxy+YV4tvzbbjTeoN+9SAk4EB3H0uOMhYhA9uH0Guw=;xWpHLMpf0YKElUIiAD5dzg=="
