@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/qualcomm-and-microso
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d72cecd1aca42304299df6%2F0x0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "SK hynix to diversify chip biz, collaborate with Qualcomm"
+    excerpt: "SK hynix, a South Korean memory chip maker, has said it will invest in the joint establishment of a chip firm in the US with two other subsidiaries of South Korean conglomerate SK Group to diversify its product portfolio and expand its global business."
+    publishedDateTime: 2022-01-10T05:48:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=913523"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/Mak_feb_sq_1.jpg"
+        width: 280
+        height: 250
         isCached: true
 
 secured: "8zeQpzE6TpOMDCdXnCbS6FnQ1yQ7ivT17qHjfJUlsLfiVXp8em2Qt3B4ktbKNtcyKi4oznwHZe9mWM12DimoRDrdp/AOvAql6mQ9yO2WZmYptwfDUsERMdpO4Rvst5gReHmd4Va32rZWVq0/0RF2t6awCaJchCdJZaO2rfzhmVUwdEcRxXDK8fKtDQCvnk03h2dDGsJi+WQc8gRBnEkMcRrXzaoCAj4+Dyz51Alr79NI9KxDNrHYp4IWAD8+ISjZkB+qVZRLbMyX/hunjQZ0A7Zo7/+/2bFgSawb/si+oA3+yEro6fnvxvv1hzQB2xvpnFxy+YV4tvzbbjTeoN+9SAk4EB3H0uOMhYhA9uH0Guw=;xWpHLMpf0YKElUIiAD5dzg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/information-tech/j-p-morgan-technol
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/j-p-morgan-technologists-ignite-careers-with-communities-of-practice/amp_articleshow/88735268.cms"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,43 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMYRIS TO PRESENT AT THE 40th ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE"
-    excerpt: "(Nasdaq: AMRS), a leading synthetic biotechnology company accelerating the world's transition to sustainable consumption through its Lab-to-Market™ operating platform, today announced that management will present at the 40 th Annual J."
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amyris-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031079094"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Atomwise Invited to Present at the 2022 J.P. Morgan Healthcare Conference"
-    excerpt: "a technology-enabled pharmaceutical company leveraging the power of artificial intelligence (AI) to revolutionize small molecule drug discovery, today announced that it has been invited to present next week at the 40th Annual J.P. Morgan Healthcare Conference."
-    publishedDateTime: 2022-01-05T14:49:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-fb7983b7f72521c6f8fe4425d370a162"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in the 40th Annual J.P. Morgan Healthcare Conference. Alex Zhavoronkov,"
-    publishedDateTime: 2022-01-07T10:55:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=596729"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 34
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "REALM IDx™ to Participate Virtually in the 40th Annual J.P. Morgan Health Care Conference"
     excerpt: "REALM IDx, Inc., a leader in integrated diagnostics, announced the company will participate in the upcoming 40th Annual J.P. Morgan Health Care Conference. This premier health care conference features global industry leaders,"
     publishedDateTime: 2022-01-06T23:57:00Z

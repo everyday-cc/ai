@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3646429/google-prediction-framewor
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3646429/google-prediction-framework-addresses-data-pipeline-drudgery.amp.html"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Google Prediction Framework addresses data pipeline drudgery"
+    excerpt: "Framework weaves together Google Cloud Platform services to simplify the implementation of prediction projects."
+    publishedDateTime: 2022-01-10T06:35:00Z
+    webUrl: "https://www.arnnet.com.au/article/694299/google-prediction-framework-addresses-data-pipeline-drudgery/?fp=2&fpid=1"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_17.jpg"
+        width: 472
+        height: 315
+        isCached: true
 
 secured: "YXuUgUE/MR8zMcSr9kv1JSrs50xa1XYVhJ33ipPXxH3Nyl7h/KtWA3jQYjx0+aWzhlwpNBTqgY/mX2lvHbFBV56lgGovbQwzW3C9GoCa5148JlSP5ImvoASCp1E6idYrKZwdGk7T0D7TBBlM56C264DSOGeLbgilBsZ4ug3/eGd4AQ/mWWE6pngdk2O5qgbjBg/4MCpaxvn3l3eaDeIiKAPszBDBiicMiBEscHjIClEPiD/OlnanpeDILAdrpq3Cs8ydLdxgE6/3XRgQkTmn4xlAcSHb340J4/gOZEVWdlEKWy5Mgs2HF1Orv5k/ngBvqNapr1Fg872b5CIUQbc6Z0oBJd/Um3juYWIYPrKS3a0=;L1+5jr0ZWJGUjpqsCOWMBQ=="
 ---

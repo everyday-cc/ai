@@ -39,6 +39,20 @@ related:
         width: 718
         height: 406
         isCached: true
+  - title: "New incubator for AI collaboration"
+    excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
+    publishedDateTime: 2022-01-10T06:01:00Z
+    webUrl: "https://insights.globalspec.com/article/17993/new-incubator-for-ai-collaboration"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
+        width: 640
+        height: 382
+        isCached: true
   - title: "Amazon and Stellantis Collaborate to Introduce Customer-Centric Connected Experiences Across Millions of Vehicles, Helping Accelerate Stellantis’ Software Transformation"
     excerpt: "Amazon (NASDAQ: AMZN) and Stellantis N.V. (NYSE/MTA/Euronext Paris: STLA), a leading global automaker and mobility provider, today announced a series"
     publishedDateTime: 2022-01-05T16:59:00Z

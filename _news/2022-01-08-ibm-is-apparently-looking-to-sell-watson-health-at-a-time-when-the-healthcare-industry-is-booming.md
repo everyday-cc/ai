@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM wants to exit healthcare by selling its Watson Health business"
+    excerpt: "IBM is attempting to sell its Watson Health business—just around a year after it was first reported to mull a sale in 2021. For context, Watson Health, formed in 2015, develops AI-driven analytics solutions for hospitals,"
+    publishedDateTime: 2022-01-10T05:10:00Z
+    webUrl: "https://www.emarketer.com/content/ibm-wants-exit-healthcare-by-selling-its-watson-health-business"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 56
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/5e25b7a923b9f1f715d3079db3bea995/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lVczLAZrbkwhOaIj4jfW/sKk+db1pxVYNZsHCePWvxic4DJ69hiBDMOsnud9P5AAJ2LP/TOQ9uiGgh63+0aLf3/EBnHMIMoMcT8uGTyG7b+BrwgSIUMXCcb5Q9UCfaZGUcClVZtRT0JAe5l+lAYl0j+DTDGqtD4lJ8I+s4t1EB0W8LD030xN5kOTlSc/Vb8WvLUTgWEgx2vwsUDY7me4qKnFK2AHjecPgrh12RwbPSj3y8vqazI3wU3zTUgyazSdJ/s+qyvwJlGLJg5uEI9feJi7ru0BI7By4voel2Y4giOPBBdQ6GKz8xNKtkjZRcPLWUDODKeI4/I1HrJif1n0H1659NeGqavgO4b+0s1OkGQ=;XO7Ur4ARtEYQqQ8Yf7i4Ng=="
 ---

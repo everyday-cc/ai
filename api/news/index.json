@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-10-the-five-biggest-healthcare-tech-trends-in-2022.md",
+      "title": "The Five Biggest Healthcare Tech Trends In 2022",
+      "excerpt": "The healthcare sector is under enormous pressure at the moment, and technology adoption has been accelerating to help deliver better, cheaper, and more personalized healthcare to people. Here we look at the top healthcare tech trends in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dbc007e830ffbf736660a6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/",
+      "publishedDateTime": "2022-01-09T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-the-ambient-intelligence-decade.md",
       "title": "The ambient intelligence decade",
       "excerpt": "This is leading to ambient intelligence – described in Fortune as “computers and AI humming in the background of people’s lives.” First envisioned in the 1990s by Eli Zelkha and his team at Palo Alto Ventures,",
@@ -556,49 +608,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-08-tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022.md",
-      "title": "Tech trends likely to dominate banking and FinTech sector in 2022",
-      "excerpt": "In the world of banking, with the increase in the pressure of managing risk, along with growing governance and regulatory requirements, it is extremely important for banks to enhance their services towards more exceptional",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/11/arora.png",
-          "width": 448,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
-      "publishedDateTime": "2022-01-08T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-08-alibabas-auto-driving-lab-chief-wang-gang-leaves-to-start-his-own-business.md",
       "title": "Alibaba’s auto driving lab chief Wang Gang leaves to start his own business",
       "excerpt": "Wang Gang, a former vice-president with e-commerce giant Alibaba Group Holding and head of its autonomous driving lab in the DAMO Academy, has quit to start his own business, becoming the latest top scientist to leave a Chinese Big Tech firm.",
@@ -755,7 +764,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 239,
+      "heat": 259,
       "tags": null,
       "images": [
         {
@@ -912,7 +921,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {

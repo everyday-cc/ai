@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
 type: article
 quality: 89
-heat: 169
+heat: 149
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "CES 2022: Mobileye rolls out new EyeQ self-driving chip"
-    excerpt: "Mobileye, Intel’s autonomous driving hardware and software wing, unveiled its latest generation of self-driving car system-on-chip at this week’s CES 2022. Called EyeQ Ultra, the SoC is built specifically for consumer autonomous driving and delivers 176 trillion of operations per second (TOPS)."
-    publishedDateTime: 2022-01-05T13:46:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17603/ces-2022-mobileye-rolls-out-new-eyeq-self-driving-chip"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 41
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/603/17603/Mobileye-EyeQ6H.jpg"
-        width: 752
-        height: 423
-        isCached: true
   - title: "CES 2022: GoVoBo Promises Tech Breakthrough For Deaf And Hard-Of-Hearing Users"
     excerpt: "Developed in a partnership between Gallaudet University and AppTek, GoVoBo will make its debut at CES 2022 as the first universal automatic captioning and translation application designed for the deaf and hard-of-hearing communities."
     publishedDateTime: 2022-01-06T03:00:00Z
@@ -92,20 +78,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/04/badge-gallaudet-university-apptekphoto.png"
         width: 900
         height: 472
-        isCached: true
-  - title: "CES 2022: How radar and computer vision can help smart cities"
-    excerpt: "When designing its radar and computer vision-based internet of things (IoT) artificial intelligence platform, connected spaces startup Ulisse kept this in mind. The company has unveiled at this week’s CES 2022 a new analytics system designed for retailers,"
-    publishedDateTime: 2022-01-05T14:14:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17604/ces-2022-how-radar-and-computer-vision-can-help-smart-cities"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/604/17604/ulisse_MAIN.jpg"
-        width: 752
-        height: 735
         isCached: true
   - title: "Intel showcased 12th gen core family SoC, Arc graphics and self-driving Soc at CES 2022"
     excerpt: "Intel showcased more than 20 new devices powered by the 12th Gen Intel Core H-series.Intel and Mobileye also announced the new EyeQ Ultra system-on-chip for autonomous vehicles"

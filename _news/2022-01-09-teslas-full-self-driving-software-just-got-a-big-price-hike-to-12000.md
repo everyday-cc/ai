@@ -183,6 +183,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla's full self-driving beta may do 'rolling stops' at traffic lights"
+    excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will \"not exit passing lanes\" and \"may perform rolling stops\" at traffic lights. It is still not entirely clear whether cars will come to a full stop at stop signs or not."
+    publishedDateTime: 2022-01-10T05:47:00Z
+    webUrl: "https://www.business-standard.com/article/international/tesla-s-full-self-driving-beta-may-do-rolling-stops-at-traffic-lights-122011000290_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/tesla-s-full-self-driving-beta-may-do-rolling-stops-at-traffic-lights-122011000290_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/tesla-s-full-self-driving-beta-may-do-rolling-stops-at-traffic-lights-122011000290_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 59
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/18/full/1605681784-7704.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Elon Musk Announces Tesla Bumping Full Self-Driving Package Price By $2,000 To $12,000"
     excerpt: "Tesla’s Full Self-Driving package (FSD) is an incredibly popular option among owners, even despite the software costing a hefty $10,000. But now, as announced by Tesla CEO Elon Musk himself, the package will be getting a $2,"
     publishedDateTime: 2022-01-09T23:05:00Z
@@ -214,6 +230,20 @@ related:
       - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "Tesla’s full self-driving beta may perform 'rolling stops'"
+    excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will 'n"
+    publishedDateTime: 2022-01-10T05:40:00Z
+    webUrl: "https://menafn.com/1103512140/Teslas-full-self-driving-beta-may-perform-rolling-stops"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?690057"
+        width: 332
+        height: 250
         isCached: true
   - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"

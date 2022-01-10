@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-08-tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022.md",
-      "title": "Tech trends likely to dominate banking and FinTech sector in 2022",
-      "excerpt": "In the world of banking, with the increase in the pressure of managing risk, along with growing governance and regulatory requirements, it is extremely important for banks to enhance their services towards more exceptional",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/11/arora.png",
-          "width": 448,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
-      "publishedDateTime": "2022-01-08T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-07-farmsense-uses-sensors-and-machine-learning-to-bug-proof-crops.md",
       "title": "FarmSense uses sensors and machine learning to bug-proof crops",
       "excerpt": "The damages caused to agriculture by insect pests like the Japanese beetle (pictured above) exceed $100 billion every year, according to the Agricultural Research Service of the USDA. And along with plant diseases,",
@@ -1255,6 +1212,50 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon.md",
+      "title": "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon",
+      "excerpt": "Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine Learning for Good Hackathon, which leveraged natural language processing (NLP) to analyze COVID-related mental health data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon/article_896ee044-8e3c-51a5-a5ed-2d105a967696.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon/article_896ee044-8e3c-51a5-a5ed-2d105a967696.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null

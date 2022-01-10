@@ -70,20 +70,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "AI startup Fractal said to have become unicorn after $360m investment from TPG"
-    excerpt: "The round valued Fractal at over $1 billion, TechCrunch reported quoting Srikanth Velamakanni, co-founder and group chief executive at Fractal. In a statement, TPG said that it invested in Fractal through TPG Capital Asia,"
-    publishedDateTime: 2022-01-05T14:35:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/tpg-invests-in-fractal-276168/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 33
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2020/09/artificial-intelligence-pixabay-e1599049075680.jpg"
-        width: 979
-        height: 506
-        isCached: true
   - title: "News: AI startup Fractal becomes unicorn with $360 million investment from TPG"
     excerpt: "The Mumbai and San Francisco-headquartered AI startup that provides artificial intelligence and analytics solutions to scores of Fortune 100 firms enters the unicorn club"
     publishedDateTime: 2022-01-07T06:03:00Z

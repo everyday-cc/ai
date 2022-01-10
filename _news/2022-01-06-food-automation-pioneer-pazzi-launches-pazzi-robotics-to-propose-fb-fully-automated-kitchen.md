@@ -39,20 +39,6 @@ related:
         width: 434
         height: 250
         isCached: true
-  - title: "AI-Powered Automation Can Be Both a Part of the Problem and Part of the Solution"
-    excerpt: "There are real security concerns that should be addressed ahead of further government adoption of a truly automated future."
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/01/ai-powered-automation-can-be-both-part-problem-and-part-solution/360294/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 34
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/03/aiNG20210103/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "02P9Sy6sSucLz5YlGMMC3txutjm9GT6vp7xo8x6nODhi3J906tHVHfdyQ8xzeQlG9cEfMHpT5iNPaYfQQZqkR04UZ+ATgonF8uoBZNbdFGe9PothH/xjx6LQ9fqCM/RMggmYSpvqO7eDMQ/xJGaUNl4PNbLQ9PsyeHHhns4XKvqFXWh9UJlWpYCnoIoP9oCRFY9tJixXQiN2NTGDxoE9G/Wau36A36cWqBjLcKshgyXPNVbnsVZezF5Yvmm6OL8EeO+I8XqmyOGwrEpq6bYQTQ7NCHbHGw1BUa6tjUiBjuiWvWUg7KWNbFLrVfhDpF+Niq2YQDUYKIQcBfgaR1ngzYmIiCJrJvuLCe7xXqdDRNU=;u4bofkE5tY8jrTdzVQiDgA=="
 ---

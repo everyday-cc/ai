@@ -30,9 +30,9 @@ images:
 
 related:
   - title: "5 Best AI Stocks for 2022"
-    excerpt: "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc."
+    excerpt: "The California-based tech giant utilizes AI in blocking misinformation and other harmful content on its family of apps. Additionally, AI tools developed by Meta Platforms, Inc. (NASDAQ:FB) play a major role in improving the customer shopping experience on Facebook,"
     publishedDateTime: 2022-01-08T20:10:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
+    webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/"
     type: article
     provider:
       name: Insider Monkey

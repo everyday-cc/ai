@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/06/how-no-code-ai-development-platfo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/06/how-no-code-ai-development-platforms-could-introduce-model-bias/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "How AI Could Prevent the Development of New Illicit Drugs"
-    excerpt: "IN RECENT YEARS, underground chemists have increasingly made small chemical tweaks on known recreational drugs to skirt laws, creating novel designer versions. Instead of cannabis, for instance, these chemists could offer up XLR-11,"
-    publishedDateTime: 2022-01-05T14:22:00Z
-    webUrl: "https://www.scientificamerican.com/article/how-ai-could-prevent-the-development-of-new-illicit-drugs/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 37
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/C1C0A0D4-42C2-4689-B5D2F0608CA1A736.jpg"
-        width: 790
-        height: 496
-        isCached: true
 
 secured: "7uKLFZEynlvTwQ/aT5UI02BNqzq5VVcWC2VmitRnTX3l8YzPAB4JIgtPMr2X2eNw1vT2PIlY8O8MARiG6EfV1WrJxJ2njvseKSVPxumtAmOwq+0Ug2cLLMKR7qFzWv3blMzNaEasXbfBMw6/RJZFtQwdaZcOjz8Mxs5nV5L3B/rdft9x78BVAOyPaH9fNXWkpRe6A1GpYLgS3FMXO96U0MKlw+Scc9zoZbOkpD5FbZ/B496D8GVF36WiTaIo0JbQnnFjU8OEAVILXUrY9Ynvy7Bjc4o40QijdhCH8saRcRBP7reMioZpyZVOclimNAQq5DB6ytiZSDdWH09PTHdP9gwVIChBn0RuNbs3t9uaX5w=;9SyjI6rAzoyb4fj7tK5m3Q=="
 ---

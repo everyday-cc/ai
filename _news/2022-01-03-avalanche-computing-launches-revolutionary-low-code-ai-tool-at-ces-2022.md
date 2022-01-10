@@ -2,18 +2,14 @@
 category: news
 title: "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022"
 excerpt: "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas."
-publishedDateTime: 2022-01-03T15:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
-webUrl: "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305"
+publishedDateTime: 2022-01-03T14:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -25,6 +21,6 @@ images:
     height: 225
     isCached: true
 
-secured: "H2X1Tly0a+Rxm8hhCrdv33N3kF5Fbupj5e68mIFkKjil4/MrdpEdl6tT0DtPjdw/GeYjFpUwprD3oXR+bKQiVd5ETm18nzr/bfq7Xs5u5Vehb444rxr805tJnLIViFi05N/fbsZyPAUCDkzYPmapRKTY91SabJUj2SPHXn2y4pqxKjujzSqvoq9SB+qdcnokrIWAIImb9fZDYE7gxebeZCijdcuJnkly5tpOXIfrSwKPzjNjLYoGfyCQs2Xy/Hj8QCXG34O9v7FPQBU8ARk7tafa5R6WyaRBHZ0h/gBK+x5v29pasLIYw72FeH2S/Av5CUt9Mwv8+fgFhVwYtr/aHgQ4oTxP/qQDB5To1FLfmkdL/yxBvj+8vfLdlis0obP3Xb7jcXaTS0mIeP+w2m2ActTjFpqajmcSD2w48VZXinv8u9glEEGfJ0zEkEhJblrUyRM2lpML0wh7rK+vQhKvDTIrUJvTKg7YxvXerqHCcvfRSOEVzggeZEyind8F3XmhJ8sD1FPT2aMoeh4Al01TOw==;x7GwVBsMKpFD9m8aEYyPDQ=="
+secured: "XLQjcD2HsKrURpGXBstp39a4wJOzVM79y/vL0sB0T2kng5Ze2vYSY9NJ2FnOxKbimgR9vXzUr9vXYKgMMFE1AW+QBXucKaoB3CPz7ZSmOqtWsA8lK6xft1O3UrxgttmZtqgyB8zQ6CsjZXyq1p0E20vnd6DN9ympGxOaW6gg/fBepw4ghe3Cu+/JocbMViUl/gcWxlpbFeSREZf2p6g2CpsmGW3VmoG6a7gVceFxRdux/iPumf8MubEndE4AlXrJSmRsVc0CNY8eqtncwPIElBt3a0ZzmJ3+XTlB8twblrr+qHtOiJxNTgkn4OwCV8MowY3R1iOjDkMSdWErccGnJCPrXdckCHzgKzk2nJo5nhY=;svTn0UMfyzDPnvnRrI1dPw=="
 ---
 

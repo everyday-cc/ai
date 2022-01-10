@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tech trends likely to dominate banking and FinTech sector in 2022"
-    excerpt: "In the world of banking, with the increase in the pressure of managing risk, along with growing governance and regulatory requirements, it is extremely important for banks to enhance their services towards more exceptional"
-    publishedDateTime: 2022-01-08T12:12:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2021/11/arora.png"
-        width: 448
-        height: 316
-        isCached: true
   - title: "ForwardAI Named Finalist in 2022 LendIt Fintech Industry Awards"
     excerpt: "Nomination demonstrates need to modernize Small and Medium-Sized Business (SMB) lending, highlights potential of digital technologies for lenders"
     publishedDateTime: 2022-01-06T14:12:00Z
@@ -50,50 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Fintech On Benzinga: 2022 Will See The Next Milestone In Fintech"
-    excerpt: "Nima Ghamsari, Co-Founder and CEO of Blend Labs (NYSE: BLND), presented on a sponsored panel at Digital Mortgage 2021 – a virtual conference a couple of weeks ago."
-    publishedDateTime: 2022-01-05T20:44:00Z
-    webUrl: "https://www.benzinga.com/fintech/22/01/24918260/fintech-on-benzinga-2022-will-see-the-next-milestone-in-fintech"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24918260"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24918260"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
-    images:
-      - url: "https://www.benzinga.com/files/1_41.png"
-        width: 1840
-        height: 965
-        isCached: true
-  - title: "Artificial Intelligence: FinTech’s innovation driver"
-    excerpt: "FinTech refers to any idea or innovation that improves or optimizes the way individuals or companies conduct financial activities. Early FinTech concentrated on developing add-on products to complement existing financial services."
-    publishedDateTime: 2022-01-05T13:49:00Z
-    webUrl: "https://www.bworldonline.com/artificial-intelligence-fintechs-innovation-driver/"
-    type: article
-    provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
-    images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/04/economy-default.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fintech Automation to utilise Finicity to add Open Banking data to platform"
-    excerpt: "Financial services are going through a rapid digital evolution to keep up with the needs of digital-native consumers."
-    publishedDateTime: 2022-01-05T15:52:00Z
-    webUrl: "https://www.finextra.com/pressarticle/90891/fintech-automation-to-utilise-finicity-to-add-open-banking-data-to-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Upstart vs. LendingClub: Which Fintech Stock is a Better Buy?"
     excerpt: "I will analyze and compare Upstart Holdings (UPST) and LendingClub (LC) to determine which fintech stock is currently the better investment."
     publishedDateTime: 2022-01-05T15:51:00Z
@@ -118,34 +58,6 @@ related:
       - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Fintech-trends-2022.jpg"
         width: 1188
         height: 668
-        isCached: true
-  - title: "5 Restaurant Tech Trends to Follow in 2022"
-    excerpt: "Tech on the mind. The last two years have been transformative for every sector, but perhaps none more so than the restaurant industry. Brands have had to develop new operating mod"
-    publishedDateTime: 2022-01-05T19:23:00Z
-    webUrl: "https://www.qsrmagazine.com/content/5-restaurant-tech-trends-follow-2022"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/jimmy-john-s-rolling-loyalty-program-nationwide.jpg?itok=4lzwkLSO"
-        width: 765
-        height: 446
-        isCached: true
-  - title: "6 Restaurant Tech Trends to Follow in 2022"
-    excerpt: "Tech on the mind. The last two years have been transformative for every sector, but perhaps none more so than the restaurant industry. Brands have had to develop new operating mod"
-    publishedDateTime: 2022-01-05T19:34:00Z
-    webUrl: "https://www.qsrmagazine.com/content/6-restaurant-tech-trends-follow-2022"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 24
-    images:
-      - url: "https://www.qsrmagazine.com/sites/default/files/styles/story_page/public/news-image/jimmy-john-s-rolling-loyalty-program-nationwide.jpg?itok=4lzwkLSO"
-        width: 765
-        height: 446
         isCached: true
   - title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
     excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
@@ -175,57 +87,6 @@ related:
         width: 740
         height: 422
         isCached: true
-  - title: "How to Develop a Fintech Mobile Application?"
-    excerpt: "Here’s an elaborate guide on How to Develop a Fintech Mobile Application in 2022. It includes feature set, functions and cost to set up successful business."
-    publishedDateTime: 2022-01-07T13:30:00Z
-    webUrl: "https://www.octalsoftware.com/blog/how-to-develop-fintech-mobile-app"
-    type: article
-    provider:
-      name: iPhone App Development
-      domain: octalsoftware.com
-    quality: 24
-    images:
-      - url: "https://www.octalsoftware.com/blog/public/storage/img/blog/1641562156feature.jpg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "The Women Shaping Swizerland's Fintech Scene/"
-    excerpt: "Female founders, fundraisers, and financial backers are rare in Swiss fintech. Ex-banker Carolina Newton introduces eight of the women breaking the glass ceiling."
-    publishedDateTime: 2022-01-07T05:06:00Z
-    webUrl: "https://www.finews.com/news/english-news/49496-switzerland-banking-fintech-women"
-    type: article
-    provider:
-      name: finews
-      domain: finews.com
-    quality: 24
-    images:
-      - url: "https://www.finews.com/images/news/2021/05/carolina_newton1.jpg"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "5 Trends That Will Help Your EdTech Startup Thrive in 2022"
-    excerpt: "The majority of EdTech startups think that the way to succeed is to digitize traditional learning methods and amass as much content as possible. But nothing could be further from the truth. In reality,"
-    publishedDateTime: 2022-01-07T20:36:00Z
-    webUrl: "https://www.chron.com/business/article/5-Trends-That-Will-Help-Your-EdTech-Startup-16756880.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 22
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/41/07/21893619/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Tenet Fintech Group Inc.: Tenet CEO to Provide Business Update and Address Recent Stock Performance in Q&A Interview"
-    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the"
-    publishedDateTime: 2022-01-07T18:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54922290-tenet-fintech-group-inc-tenet-ceo-to-provide-business-update-and-address-recent-stock-performance-in-q-a-interview-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "UC/+PVj4E9lSpwClYJrBQ4/F/U/+yh1ko5ZzVYkzaR8vp2A+U79MRmR6dcKgNywbGDrKDUSUirOjsRwd0PEZzqzxN8as8wp5WvIz8RffeHRee8dBp084fXAn1edfR5Ih7awkobZ//4X0cVGaa1+FXI570nbdtNia8griIgz1ACIRjYjx+GWcWv3lo9wravohalhWxF/ClZspkLiWDVfSz958AJ5JHR6XaCdkDRqxZYJD/agIkquKKi2OtQ589NnJRg2z32A1h/TEJ790ty6ro98Y6nCXzhMifxMZoHgIVf0AEtEoXaVN2vg8AwzxLf6ZWJBeZKHjNA+DEJEpZoP9SFCvCp5Fj8dd2g27vteA1uk=;NxU5SIN9T0YNO5pxMbpJ5A=="
 ---

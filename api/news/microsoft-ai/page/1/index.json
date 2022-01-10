@@ -101,7 +101,7 @@
       "originalUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -385,8 +385,8 @@
       "title": "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022",
       "excerpt": "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305",
+      "webUrl": "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -405,21 +405,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T07:30:00-08:00",
+      "publishedDateTime": "2022-01-03T06:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

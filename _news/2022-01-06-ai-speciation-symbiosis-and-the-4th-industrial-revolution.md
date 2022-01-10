@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "etherFAX Unlocks Structured Data and Eliminates Information Silos with its Artificial Intelligence Solution for Automated Data Extraction"
-    excerpt: "Manually keying in patient data into fields is not only time-consuming and inefficient, but also can be inaccurate and unreliable. etherFAX AI reduces error rates associated with manual data entry by extracting information that is stored in unstructured document types,"
-    publishedDateTime: 2022-01-05T14:17:00Z
-    webUrl: "https://www.healthcaredive.com/press-release/20220104-etherfax-unlocks-structured-data-and-eliminates-information-silos-with-its/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 6
-    images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1641334305/press_release/assets/company_logos/etherFAX-graphic-350x350_bzrxac.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Logicalis Achieves 10 Microsoft Advanced Specialisations – Poised for Digital Transformation in 2022"
     excerpt: "Logicalis, a global IT solutions and managed service provider, is announcing the achievement of 10 Microsoft Advanced Specialisations across Microsoft’s Azure, Security and Modern Work solutions. Logicalis Australia has also renewed its status as a Microsoft Azure Expert Managed Services Provider (MSP)."
     publishedDateTime: 2022-01-09T22:03:00Z

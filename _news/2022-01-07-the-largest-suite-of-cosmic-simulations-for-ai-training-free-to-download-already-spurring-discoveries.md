@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-01-largest-cosmic-simulations-ai-free.amp
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-largest-cosmic-simulations-ai-free.amp"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -24,38 +24,6 @@ images:
     width: 1024
     height: 575
     isCached: true
-
-related:
-  - title: "Using AI for drug discovery…"
-    excerpt: "Protai, an Israeli MedTech company is changing the way new drugs are discovered with their AI-powered platform… Protai, an Israeli AI-powered drug discovery start-up, today announced its emergence from stealth,"
-    publishedDateTime: 2022-01-05T13:05:00Z
-    webUrl: "https://www.geektime.com/protai-8-million/"
-    ampWebUrl: "https://www.geektime.com/protai-8-million/amp/"
-    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/protai-8-million/amp/"
-    type: article
-    provider:
-      name: Geektime
-      domain: geektime.com
-    quality: 57
-    images:
-      - url: "https://www.geektime.com/content/images/2022/01/national-cancer-institute-_gAE02nLoWs-unsplash.jpg"
-        width: 2000
-        height: 1329
-        isCached: true
-  - title: "New AI Could Discover Hidden Physical Laws"
-    excerpt: "A new artificial intelligence (AI) technology that could discover hidden physical laws has been developed by researchers at Kobe University and Osaka University. The AI can extract hidden equations of motion from regular observational data,"
-    publishedDateTime: 2022-01-07T19:46:00Z
-    webUrl: "https://www.unite.ai/new-ai-could-discover-hidden-physical-laws/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 37
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2022/01/physics-6780710_1280.jpg"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "6aUPLFV4DiVqd3oXK1Kh/EjH57UYcKjLhN21olE1VelG+Dt3clXo1ZuJVszzifPygQ31//q0OgPXdF2+Aoi/Z3uWB/kYaHzA6Pn75KNj/jOjmCZTOIAmWbnkA3u+x1MXcMVizcg56n2kwi0qLbcu5B3sWuoJYfbQPrsKzaouTDhohJ0XHqd8VHIV4PM3lMtPjXboPSIMdPdJHeK8DfBCY3/2lHzslyK+Q9S/hBnCUOOtgXNcdf/RHlDQuk4ndKthiCe0zamavIOt7FnD6G/JUj+0Txhz0C8Qpvoz9yu/noW3F7XOw0bVPk5OQ7wmRp5rCCjTCOGIXuKlamkMCnx59c/CfNKpuEapPWLD/MtZ8uE=;6pHKI/XoWjfGxtAOdWV0lg=="
 ---

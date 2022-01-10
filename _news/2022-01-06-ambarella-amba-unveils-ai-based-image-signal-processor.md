@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-imag
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412098.jpeg"
         width: 635
         height: 400
-        isCached: true
-  - title: "Ambarella launches AI domain controller SoC family"
-    excerpt: "Ambarella, an AI vision silicon company, has announced the CV3 AI domain controller family. A fully scalable, power-efficient CVflow family of SoCs, these devices are able to provide the automotive industry’s highest AI processing performance,"
-    publishedDateTime: 2022-01-05T14:10:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/ambarella-launches-ai-domain-controller-soc-family/243325/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 39
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/243325/amber.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
         isCached: true
   - title: "Ambarella introduces new AI-based image signal processor"
     excerpt: "Ambarella, an AI vision silicon company, announced its new Artificial Intelligence Image Signal Processor (AISP). Ambarella’s new AI-based ISP architecture uses neural networks to augment the image processing done by the hardware ISP integrated into its SoCs."

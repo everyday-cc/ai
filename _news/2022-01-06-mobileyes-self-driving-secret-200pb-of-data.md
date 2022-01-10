@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Zeekr and Mobileye to develop Level 4 self-driving car for retail sale"
-    excerpt: "Comment Now! Zeekr could become the first car brand with a Level 4 self-driving car available for retail sale. The new premium electric-vehic"
-    publishedDateTime: 2022-01-05T15:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1134645_zeekr-and-mobileye-to-develop-level-4-self-driving-car-for-retail-sale"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 39
-    images:
-      - url: "https://images.hgmsites.net/hug/2021-zeekr-001_100811346_h.jpg"
-        width: 1920
-        height: 1279
-        isCached: true
   - title: "Geely partners with Mobileye in L4 self-driving vehicles"
     excerpt: "Chinese automaker Geely Holding Group announced this week its premium electric vehicle (EV) brand Zeekr will work together with Intel’s...Read"
     publishedDateTime: 2022-01-06T09:00:00Z

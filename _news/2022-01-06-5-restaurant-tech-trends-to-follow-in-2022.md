@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Five Biggest Healthcare Tech Trends In 2022"
+    excerpt: "The healthcare sector is under enormous pressure at the moment, and technology adoption has been accelerating to help deliver better, cheaper, and more personalized healthcare to people. Here we look at the top healthcare tech trends in 2022."
+    publishedDateTime: 2022-01-10T04:15:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dbc007e830ffbf736660a6%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tech trends likely to dominate banking and FinTech sector in 2022"
     excerpt: "In the world of banking, with the increase in the pressure of managing risk, along with growing governance and regulatory requirements, it is extremely important for banks to enhance their services towards more exceptional"
     publishedDateTime: 2022-01-08T12:12:00Z
@@ -41,97 +57,35 @@ related:
         width: 448
         height: 316
         isCached: true
-  - title: "ForwardAI Named Finalist in 2022 LendIt Fintech Industry Awards"
-    excerpt: "Nomination demonstrates need to modernize Small and Medium-Sized Business (SMB) lending, highlights potential of digital technologies for lenders"
-    publishedDateTime: 2022-01-06T14:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/forwardai-named-finalist-in-2022-lendit-fintech-industry-awards-1031081601"
+  - title: "Which tech players gained the most in 2021, and what trends can we expect in 2022?"
+    excerpt: "Which ASX listed tech player had the biggest gains this year? And what will 2022 bring in AI and Cyber Security?"
+    publishedDateTime: 2022-01-05T21:48:00Z
+    webUrl: "https://stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/"
+    ampWebUrl: "https://stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/?amp"
+    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/?amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Fintech On Benzinga: 2022 Will See The Next Milestone In Fintech"
-    excerpt: "Nima Ghamsari, Co-Founder and CEO of Blend Labs (NYSE: BLND), presented on a sponsored panel at Digital Mortgage 2021 – a virtual conference a couple of weeks ago."
-    publishedDateTime: 2022-01-05T20:44:00Z
-    webUrl: "https://www.benzinga.com/fintech/22/01/24918260/fintech-on-benzinga-2022-will-see-the-next-milestone-in-fintech"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24918260"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24918260"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 44
+      name: stockhead
+      domain: stockhead.com.au
+    quality: 53
     images:
-      - url: "https://www.benzinga.com/files/1_41.png"
-        width: 1840
-        height: 965
+      - url: "https://stockhead.com.au/wp-content/uploads/2021/12/tech_winners.jpeg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Artificial Intelligence: FinTech’s innovation driver"
-    excerpt: "FinTech refers to any idea or innovation that improves or optimizes the way individuals or companies conduct financial activities. Early FinTech concentrated on developing add-on products to complement existing financial services."
-    publishedDateTime: 2022-01-05T13:49:00Z
-    webUrl: "https://www.bworldonline.com/artificial-intelligence-fintechs-innovation-driver/"
+  - title: "AI for telehealth & the latest in health tech at CES"
+    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
+    publishedDateTime: 2022-01-06T18:10:00Z
+    webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
     type: article
     provider:
-      name: BusinessWorld
-      domain: bworldonline.com
-    quality: 39
-    images:
-      - url: "https://www.bworldonline.com/wp-content/uploads/2021/04/economy-default.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Fintech Automation to utilise Finicity to add Open Banking data to platform"
-    excerpt: "Financial services are going through a rapid digital evolution to keep up with the needs of digital-native consumers."
-    publishedDateTime: 2022-01-05T15:52:00Z
-    webUrl: "https://www.finextra.com/pressarticle/90891/fintech-automation-to-utilise-finicity-to-add-open-banking-data-to-platform"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
+      name: STAT
+      domain: statnews.com
     quality: 37
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
-    excerpt: "BEIJING, Jan. 5, 2022 /PRNewswire/ -- Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year. It is also ..."
-    publishedDateTime: 2022-01-05T18:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=595359"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 36
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-  - title: "Upstart vs. LendingClub: Which Fintech Stock is a Better Buy?"
-    excerpt: "I will analyze and compare Upstart Holdings (UPST) and LendingClub (LC) to determine which fintech stock is currently the better investment."
-    publishedDateTime: 2022-01-05T15:51:00Z
-    webUrl: "https://stocknews.com/news/upst-lc-upstart-vs-lendingclub-which-fintech-stock-is-a-better-buy/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "What does 2022 have in store for fintech?"
-    excerpt: "Here’s what the experts expect in 2022 The fintech industry moved at break-neck speed in 2021, with pre-pandemic days feeling like ancient history. Expect an even faster pace of change in 2022, according to industry experts."
-    publishedDateTime: 2022-01-05T15:10:00Z
-    webUrl: "https://www.raconteur.net/finance/fintech/what-does-2022-have-in-store-for-fintech-2/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 24
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Fintech-trends-2022.jpg"
-        width: 1188
-        height: 668
+      - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "6 Restaurant Tech Trends to Follow in 2022"
     excerpt: "Tech on the mind. The last two years have been transformative for every sector, but perhaps none more so than the restaurant industry. Brands have had to develop new operating mod"
@@ -147,61 +101,33 @@ related:
         width: 765
         height: 446
         isCached: true
-  - title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
-    excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
-    publishedDateTime: 2022-01-06T01:48:00Z
-    webUrl: "https://fintechnews.sg/58245/fintech/singapores-top-fintech-legal-firms-and-lawyers-in-2022/"
+  - title: "Five health tech innovations to watch in 2022"
+    excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
+    publishedDateTime: 2022-01-06T14:30:00Z
+    webUrl: "https://www.raconteur.net/healthcare/health-tech-innovations-2022/"
     type: article
     provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
+      name: Raconteur
+      domain: raconteur.net
     quality: 24
     images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/01/Singapores-Top-Fintech-Legal-Firms-and-Lawyers-in-2022.png?x95107"
-        width: 1210
-        height: 670
+      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-health-tech-innovations-to-watch-in-2022.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Fintech’s Biggest Challenge for 2022: Customer Service"
-    excerpt: "As I reminisce on these past three years since founding OneBlinc, and the tremendous traction we have been able to obtain, I have been thinking incessantly about what has helped us win, the key challenges we have faced,"
-    publishedDateTime: 2022-01-06T17:05:00Z
-    webUrl: "https://www.linkedin.com/pulse/fintechs-biggest-challenge-2022-customer-service-fabio-torelli"
+  - title: "Five Key Trends Which Will Change the Data Science Landscape in 2022"
+    excerpt: "I would like to start of by wishing you all a Happy New Year! As many of you may know, data science is transforming businesses world-wide. It has now become an integral part of the enterprise and is now starting to be known as the new oil."
+    publishedDateTime: 2022-01-09T10:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/five-key-trends-which-change-data-science-landscape-2022-kampakis-"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
     quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG_lxJuQBnC6Q/article-cover_image-shrink_600_2000/0/1641488235356?e=1646870400&v=beta&t=TmCKFF_fZbi3r_Cx-VqbV_5nzI-6zEbuIQXBdfy95DM"
-        width: 740
-        height: 422
-        isCached: true
-  - title: "How to Develop a Fintech Mobile Application?"
-    excerpt: "Here’s an elaborate guide on How to Develop a Fintech Mobile Application in 2022. It includes feature set, functions and cost to set up successful business."
-    publishedDateTime: 2022-01-07T13:30:00Z
-    webUrl: "https://www.octalsoftware.com/blog/how-to-develop-fintech-mobile-app"
-    type: article
-    provider:
-      name: iPhone App Development
-      domain: octalsoftware.com
-    quality: 24
-    images:
-      - url: "https://www.octalsoftware.com/blog/public/storage/img/blog/1641562156feature.jpg"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "The Women Shaping Swizerland's Fintech Scene/"
-    excerpt: "Female founders, fundraisers, and financial backers are rare in Swiss fintech. Ex-banker Carolina Newton introduces eight of the women breaking the glass ceiling."
-    publishedDateTime: 2022-01-07T05:06:00Z
-    webUrl: "https://www.finews.com/news/english-news/49496-switzerland-banking-fintech-women"
-    type: article
-    provider:
-      name: finews
-      domain: finews.com
-    quality: 24
-    images:
-      - url: "https://www.finews.com/images/news/2021/05/carolina_newton1.jpg"
-        width: 500
-        height: 300
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQH8bdgpj6FPhQ/article-cover_image-shrink_600_2000/0/1641561555542?e=1647475200&v=beta&t=i2sJHkMWha_d3EfRJoOqDnP7y_jF6W5P5KuFFabDRng"
+        width: 856
+        height: 379
         isCached: true
   - title: "5 Trends That Will Help Your EdTech Startup Thrive in 2022"
     excerpt: "The majority of EdTech startups think that the way to succeed is to digitize traditional learning methods and amass as much content as possible. But nothing could be further from the truth. In reality,"
@@ -217,15 +143,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Tenet Fintech Group Inc.: Tenet CEO to Provide Business Update and Address Recent Stock Performance in Q&A Interview"
-    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the"
-    publishedDateTime: 2022-01-07T18:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54922290-tenet-fintech-group-inc-tenet-ceo-to-provide-business-update-and-address-recent-stock-performance-in-q-a-interview-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "04rjo1abx//qhAi9es9cA7LdPbQAGFLAUnh2jZz9uA8SopS/zuBZntOxH1xqJdusuQfbBf93Da2sRyVxeZsbKGdBJCtJ7E2tBr82x36gzGBfhDOCeZr7A/SJLek9bvArpArk77sMckQDlMFeuhNdEFKc+91MmzPX+BHmNmdjETXAiPCqEK/Eu/Qk115TsKOeGpLg3GL0YNuDyzkBKcz/0bMQXk60D7sSwK+jeUPh1+lJXLETUA3o95el5KONi9A30QNhupkQeYSlp9DBggpzT6slrIZcLdkLkCugdG2BNE4n1q3TsYOuD/lyRx51gpyRVxGSVHJ/Sj1HUPMzDIw1/8n91887K1NMLEXufyPrtRc=;FGDMcECOZMSoo4wh+PUfgw=="
 ---

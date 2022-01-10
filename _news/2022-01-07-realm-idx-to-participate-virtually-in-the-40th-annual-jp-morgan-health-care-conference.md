@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AMYRIS TO PRESENT AT THE 40th ANNUAL J.P. MORGAN HEALTHCARE CONFERENCE"
-    excerpt: "(Nasdaq: AMRS), a leading synthetic biotechnology company accelerating the world's transition to sustainable consumption through its Lab-to-Market™ operating platform, today announced that management will present at the 40 th Annual J."
-    publishedDateTime: 2022-01-05T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/amyris-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference-1031079094"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "J.P. Morgan technologists Ignite careers with Communities of Practice"
     excerpt: "By Subba Perepa, Managing Director, Consumer and Community Banking Technology, J.P. Morgan India India’s path to create a trillion dollar digital economy by 2025 presents a universal need - Mediawire"
     publishedDateTime: 2022-01-06T11:55:00Z
@@ -49,34 +40,6 @@ related:
       - url: "https://m.economictimes.com/thumb/msid-88735266,width-640,height-480,resizemode-7/-.jpg"
         width: 640
         height: 480
-        isCached: true
-  - title: "Atomwise Invited to Present at the 2022 J.P. Morgan Healthcare Conference"
-    excerpt: "a technology-enabled pharmaceutical company leveraging the power of artificial intelligence (AI) to revolutionize small molecule drug discovery, today announced that it has been invited to present next week at the 40th Annual J.P. Morgan Healthcare Conference."
-    publishedDateTime: 2022-01-05T14:49:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-fb7983b7f72521c6f8fe4425d370a162"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 38
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in the 40th Annual J.P. Morgan Healthcare Conference. Alex Zhavoronkov,"
-    publishedDateTime: 2022-01-07T10:55:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=596729"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 34
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
         isCached: true
 
 secured: "WtI59SUnDXvXlkwem2f8Hi6KrbIQGoVwNsve0R4OTcOtkBY2ptuVyMSyU46eQrpzkSJCRZRlrwIrolDhOXylbkyqGE/ftxVx/RFkLMNDcasOWquE8ZSsF4+e4aqbXewKiniiNuZ8VcyIzirT2NFYDuFuqzPsQpZqG8Zxxkt1DUuJvB5DYC8752SL7/hmCKeEs8A6K0iq9qL9t8cd8tEq9JN+ytTFldaFxp65809BFkpJJpCzFHUEYSb4T94Lrg6yrza04N+FGYLEDObJyANrJssouhz9RHDZ0yp6dCl5erM5yDGNGe68u10w1hM7yHCJvfd658XoLxhBw/TA6wYvvRv9yz8gN5S3C1faG03lGCg=;44v4sG0IDrCgldGzQd8dew=="

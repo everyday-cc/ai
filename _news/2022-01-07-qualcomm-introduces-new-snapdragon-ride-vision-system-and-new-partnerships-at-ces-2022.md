@@ -61,6 +61,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "SK hynix to diversify chip biz, collaborate with Qualcomm"
+    excerpt: "SK hynix, a South Korean memory chip maker, has said it will invest in the joint establishment of a chip firm in the US with two other subsidiaries of South Korean conglomerate SK Group to diversify its product portfolio and expand its global business."
+    publishedDateTime: 2022-01-10T05:48:00Z
+    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=913523"
+    type: article
+    provider:
+      name: Daijiworld
+      domain: daijiworld.com
+    quality: 39
+    images:
+      - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/Mak_feb_sq_1.jpg"
+        width: 280
+        height: 250
+        isCached: true
 
 secured: "uv3K4jVpngzeDLi6zGye1SjWg0yK/AFIoNFHss4Z0zBZJlzwKcCck+x24autk4MYPN2UZ05l8Or/SY4Es0wl3uyT44Kb+buI6ybyPbTKM8AAVZB3xB5QOQDvO5XhTdGi6C3krECJJaHsmiXlVF1kUm7LF/mf3b+BFkRyRZ3b7uagYgid1FhhRaWEMHIt71ZoehH2LDC3gwwMsp7hwbmo4l2FaHJpXHnnyPzOrZ7v4cJnEAKYcj1lr08Xy79WHHfnIznf7tZFhX1/zt5sfFiXU8tS4QKYJjFojNzgF/cL2DNtRZ0N8Oewu/QSBG4vZD9uY/ZU/j2bQPF5MJjcPdA1VnuinuJ+4FJZdDAFpqGivzA=;FWLj8eIFG90EeLtd27TZ+g=="
 ---
