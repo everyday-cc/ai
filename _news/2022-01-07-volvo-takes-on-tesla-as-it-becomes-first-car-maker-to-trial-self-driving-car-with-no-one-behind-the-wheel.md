@@ -3,27 +3,27 @@ category: news
 title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
 excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
 publishedDateTime: 2022-01-07T13:22:00Z
-originalUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
-webUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
-ampWebUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
+originalUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: The Scottish Sun
+  domain: thescottishsun.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1200
-    height: 800
+  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+    width: 1500
+    height: 1000
     isCached: true
 
 related:
@@ -189,20 +189,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/01/0x0-ModelY-12-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
-    excerpt: "Tesla's FSD software is still in beta, though it recently released an update where you can drive in 'Assertive' mode."
-    publishedDateTime: 2022-01-10T16:48:00Z
-    webUrl: "https://www.entrepreneur.com/article/412299"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1641833191-GettyImages-545144650.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
     excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"
@@ -372,6 +358,20 @@ related:
         width: 332
         height: 250
         isCached: true
+  - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
+    excerpt: "Tesla CEO Elon Musk announced that Tesla's Full Self-Driving (FSD) software will be priced at $12,000 starting on January 17, up from $10,000 This price jump isn't unprecedented. The last time Tesla's FSD price increased was in October 2020,"
+    publishedDateTime: 2022-01-10T22:53:00Z
+    webUrl: "https://www.timesunion.com/business/article/Tesla-s-Full-Self-Driving-Software-Is-Getting-a-16764096.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/43/17/21902317/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"
     publishedDateTime: 2022-01-09T09:58:00Z
@@ -414,7 +414,21 @@ related:
         width: 600
         height: 375
         isCached: true
+  - title: "Tesla Hikes Price of Full Self-Driving Package; Cybertruck Production Date Disappears"
+    excerpt: "The cost of Tesla’s Full Self-Driving package will soon increase by 20%, according to recent tweets from CEO Elon Musk."
+    publishedDateTime: 2022-01-10T15:44:00Z
+    webUrl: "https://www.cars.com/articles/tesla-hikes-price-of-full-self-driving-package-cybertruck-production-date-disappears-445687/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 32
+    images:
+      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-37-dynamic--entertainment--front-row--interior.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "KlXvEg9lv84yGtSlxLx/Gwtw4bDBEziPsMDw8gKFdx29pb/lk25Duw8Gy4U12zIdFLvmCcXlZBZrPGE6aHUj/b/f3cMEjzKtvzX8mwAbyVW1RJ1IEfTf1sCQnpHVh64LlFwRWw6G11pO9Nw68Mim5BfH2MCvNZuqqOrAd4niIFOatpwRk3rNxMNThf/rDsAiygNoPj071+Uy2iQobsuD/kAjakdknesmR82yDIkhISG6kX77FuR1VhYoGkXCvX1iUSPL67y+kItiBg2wlUiNc4fGgY+Lnehkpg6ZDx/FNh+YinRhOQmT4dzK7u/Ra3w/M4JMWOb5vimV49DlOgTpHvtl3ita1EObCWuPIlit8Ho=;lgpnnu3AjMLvwch1wiHJyg=="
+secured: "+vM61NZtcqWYgW8pO1M48/1+36UL4XSoCVMfVeMJNN7f6mUUHpYPvL4tV85m9RQMKcuFVvm+CzvrkAUHEcbyHShKk1fuuNsEEpkYl5Cusc76gOJaI3luo0LkmO2YW9oGG3tgBrJQ9Pu1powcj8Tb5OgtDFD/8l+BGfUurodXHoI2lagBLnK7CMZHI/qc0NfA3/1YHx5LuxuYmcLoFsCMbP19D8PuwTrikgYLnNa/abLV1bXWmWMzRkvGZdfKWkdHrw7K+/shC109F9x8tZqOvpUXJUl+ovQroyDPaF1smaZc3kJoscFPDkdbXdoio3po5ZT08ZpitxYvXq0+0hxDTBlNo3XVHmScpvkOOdtNUdU=;rs/iej08fMdTw1WXgNVLkQ=="
 ---
 

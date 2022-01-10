@@ -38,6 +38,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How Will C3.ai Inc. (NYSE: AI) Perform In The Next Few Months?"
+    excerpt: "C3.ai Inc. (NYSE:AI) has seen 1.3 million shares traded in the recent trading session. The company, currently valued at $3.11B, closed the recent trade at $28.22 per share which meant it lost -$1.72 on the day or -5."
+    publishedDateTime: 2022-01-10T21:02:00Z
+    webUrl: "https://marketingsentinel.com/2022/01/10/how-will-c3-ai-inc-nyse-ai-perform-in-the-next-few-months/"
+    type: article
+    provider:
+      name: marketingsentinel
+      domain: marketingsentinel.com
+    quality: 37
+    images:
+      - url: "https://marketingsentinel.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "zxflBkM9J/lWG8R3B1bILCQFMIoYmO3NjCEpBK8oYHzgYMcpGzCBTe1shao3hMWD9+lNdwYUIGWOUy1f8qhKEKMkpNmLhnqWw13JK09CXlMLvRZrJrDHsOl1hYZZZQZ4bKU+zUuTrF41ZhdKAxNtn5ugZPRGvTOcSP6XQqzqQquq1mgsddP2HtLxBExY7fIby5TJy9n1EgTL8MpToFa+awCZ+upiyOn2kVCBkwQ8UnrwAJRiia81EtN3awoV4ZuUeyVGxOMhNMTU2g+1BKOug+d1lTroEszLg63VUxVY82wf4FW/Fml7hbvGydTufBziqKLaYPFan8XxpvUg42JvtxkRbjLFMy5ofhhtF9fboOs=;hRFQbqbr5T1TYQwZhcUGBQ=="
 ---

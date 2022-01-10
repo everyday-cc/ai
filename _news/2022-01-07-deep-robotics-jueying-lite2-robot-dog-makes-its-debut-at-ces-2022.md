@@ -41,22 +41,6 @@ related:
         width: 531
         height: 337
         isCached: true
-  - title: "IRTI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
-    excerpt: "ITRI’s featured technologies include the RGB-D AI Robot, a CES 2022 Innovation Awards Honoree, the first collaborative robot that integrates smart 3D vision as a built-in standard; the Autonomous Selfie Drone,"
-    publishedDateTime: 2022-01-06T05:40:00Z
-    webUrl: "https://geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/"
-    ampWebUrl: "https://geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
-    cdnAmpWebUrl: "https://geeknewscentral-com.cdn.ampproject.org/c/s/geeknewscentral.com/2022/01/05/irti-introduces-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
-    type: article
-    provider:
-      name: Geek News Central
-      domain: geeknewscentral.com
-    quality: 89
-    images:
-      - url: "https://geeknewscentral.com/wp-content/uploads/2022/01/ITRI-RGB-D-AI-Robot.png"
-        width: 297
-        height: 291
-        isCached: true
   - title: "DEEP Robotics’ Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
     excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry’s annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
     publishedDateTime: 2022-01-06T14:45:00Z
@@ -84,20 +68,6 @@ related:
       - url: "https://electronics360.globalspec.com/images/assets/625/17625/Jueying_Lite2_on_2022_CES.jpg"
         width: 752
         height: 552
-        isCached: true
-  - title: "Popular Trends in Artificial Intelligence in 2022"
-    excerpt: "Deep learning models that have been pre-trained are heavily reliant on real-world data. Nevertheless, obtaining data on time and integrating it into"
-    publishedDateTime: 2022-01-06T05:58:00Z
-    webUrl: "https://www.cioapplications.com/news/popular-trends-in-artificial-intelligence-in-2022-nid-9045.html"
-    type: article
-    provider:
-      name: CIO Applications
-      domain: cioapplications.com
-    quality: 37
-    images:
-      - url: "https://www.cioapplications.com/newstransfer/upload/zztsw450308.jpg"
-        width: 450
-        height: 308
         isCached: true
   - title: "biped unveils an AI copilot for blind and visually impaired people at CES 2022"
     excerpt: "CES 2022, swiss startup biped premiered an AI copilot for persons who are blind or have a visual impairment. the companys"

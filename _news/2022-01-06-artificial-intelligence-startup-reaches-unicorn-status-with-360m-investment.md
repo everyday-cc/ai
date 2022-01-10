@@ -7,7 +7,7 @@ originalUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/a
 webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-fractal-unicorn-tpg-qureai"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Fractal enters Unicorn club"
-    excerpt: "DeepTech startup Fractal enters the unicorn club after raising $360 million from global asset firm TPG. Post the latest financing round Fractal has been valued at $1 Billion stated"
-    publishedDateTime: 2022-01-06T05:36:00Z
-    webUrl: "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/"
-    ampWebUrl: "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "News: AI startup Fractal becomes unicorn with $360 million investment from TPG"
     excerpt: "The Mumbai and San Francisco-headquartered AI startup that provides artificial intelligence and analytics solutions to scores of Fortune 100 firms enters the unicorn club"
     publishedDateTime: 2022-01-07T06:03:00Z

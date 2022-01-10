@@ -190,20 +190,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
-    excerpt: "Tesla's FSD software is still in beta, though it recently released an update where you can drive in 'Assertive' mode."
-    publishedDateTime: 2022-01-10T16:48:00Z
-    webUrl: "https://www.entrepreneur.com/article/412299"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1641833191-GettyImages-545144650.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
     excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"
     publishedDateTime: 2022-01-08T00:40:00Z
@@ -345,18 +331,18 @@ related:
   - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
     excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
     publishedDateTime: 2022-01-07T13:22:00Z
-    webUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
-    ampWebUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
+    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
+    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
+      name: The Scottish Sun
+      domain: thescottishsun.co.uk
     quality: 42
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1200
-        height: 800
+      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+        width: 1500
+        height: 1000
         isCached: true
   - title: "Tesla’s full self-driving beta may perform 'rolling stops'"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will 'n"
@@ -371,6 +357,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?690057"
         width: 332
         height: 250
+        isCached: true
+  - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
+    excerpt: "Tesla CEO Elon Musk announced that Tesla's Full Self-Driving (FSD) software will be priced at $12,000 starting on January 17, up from $10,000 This price jump isn't unprecedented. The last time Tesla's FSD price increased was in October 2020,"
+    publishedDateTime: 2022-01-10T22:53:00Z
+    webUrl: "https://www.timesunion.com/business/article/Tesla-s-Full-Self-Driving-Software-Is-Getting-a-16764096.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/43/17/21902317/3/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"
@@ -413,6 +413,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/Elon-Musk-says-Tesla-is-raising-the-price-of-its-‘full-self-driving-software-to-12k.png"
         width: 600
         height: 375
+        isCached: true
+  - title: "Tesla Hikes Price of Full Self-Driving Package; Cybertruck Production Date Disappears"
+    excerpt: "The cost of Tesla’s Full Self-Driving package will soon increase by 20%, according to recent tweets from CEO Elon Musk."
+    publishedDateTime: 2022-01-10T15:44:00Z
+    webUrl: "https://www.cars.com/articles/tesla-hikes-price-of-full-self-driving-package-cybertruck-production-date-disappears-445687/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 32
+    images:
+      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-37-dynamic--entertainment--front-row--interior.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "7AuNfDnwoo0yV+klFU1NW6FkOXegV2hZZLYq90KNGP+m6uDIE0fRC8IDYyFJTPvJkYr+QcnNosMIrlAISf9+/r2BNdD4G7K0fx2ToQab72+nlAYzPNItTjSEnyGesif7Vz4p98lUHrWQ8KLYScHS1Kdp2+xDgACol586i+ESKVeOa+RW1UY93COlCCRQE/myeYitgiwLm5B6JDXomVsUWcJLDas9nqFvs7sYzUJiWJziVwxm49ijMQ62hrkVgGtQxleC8bLAu96Dx1kk5590dMd5sWbK/OgAwQfQBQviDsGLIyLYOYbKAOPO0mQSJ6rsQLMoFWSngprrZWCm5fAV93iwtMik0ux6ai6RseQSl+t0hula7hYk+wqwJL0qF2fCgO83SMbhJTPVDsg7BqPw2b73NhNpRMo5cvBNt2MVqkIOrlM+S+3DbTlur3XXlEm7Rafvv30npuAvnRlAS702sTlczXkaePdHXduKMgz4+6MQe4QA+g1N1mW1N5h5ZiyMG5l7rPqbhYds43Gf9KtfOw==;HpXFQwplY+dsMNh3y9/7IQ=="

@@ -2,22 +2,28 @@
 category: news
 title: "Big data, AI/ML to be most in-demand skills in India in 2022"
 excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
-publishedDateTime: 2022-01-10T15:37:00Z
-originalUrl: "https://suryaa.com/suryaa-ap/114894-big-data-ai-ml-to-be-most-in-demand-skills-in-india-in-2022.html"
-webUrl: "https://suryaa.com/suryaa-ap/114894-big-data-ai-ml-to-be-most-in-demand-skills-in-india-in-2022.html"
+publishedDateTime: 2022-01-10T08:59:00Z
+originalUrl: "https://menafn.com/1103512786/Big-data-AIML-to-be-most-in-demand-skills-in-India-in-2022"
+webUrl: "https://menafn.com/1103512786/Big-data-AIML-to-be-most-in-demand-skills-in-India-in-2022"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Suryaa
-  domain: suryaa.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+images:
+  - url: "https://menafn.com/updates/pr/2022-01/10/I_30e46image_story.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "Big data analytics, AI/ML to be most in-demand skills in India in 2022: Report"
@@ -35,6 +41,22 @@ related:
       - url: "https://images.assettype.com/freepressjournal/2020-08/9554071a-079c-4e10-9a40-4779953e541e/artificial_intelligence_4550606_1920.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
         width: 1200
         height: 620
+        isCached: true
+  - title: "AI Intersects with Floor Scrubbers for Robotic In-store Analytics"
+    excerpt: "AI robotics firm Brain Corp is partnering with Tennant Company to launch the data capture solution Inventory Scan, which is fitted to autonomous floor scrubbers."
+    publishedDateTime: 2022-01-07T00:14:00Z
+    webUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/"
+    ampWebUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/temast-457x305.jpeg"
+        width: 457
+        height: 305
         isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics: Report"
     excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022. With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI,"
@@ -84,7 +106,16 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
+    publishedDateTime: 2022-01-10T14:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
-secured: "MypVbOAejj9ZmVhczg0xN50KMBtJCEJYc3IT9LsSQIqGtd9J/FXN1lMV+VI5vAzfXcjOy5PzusDRlaftOGGogtLzQkyXIdMtrXNZ/94Ge+nHM+uwY3B+8i3cqxmI3DczxuiFzB2q1iWBL8HqGH1Qu6OficwWYgjy+9GSpUXYUdJSe4/mJvtSAen9wBSNDiDISvRtGJTc9QHEt54ZZhafSbM4c51T5IQK9V/RuI/k8eDtIeCoQ37+Mlx+FORQJ2+R7DFBK9iMN73o6u9GFHc8zyv1D3Mf9zxwqBepnw7LvoqT1D9lWicryxbhj8xkCoZxfomUnUeZQdb7eeIhILVeHGEtpLFdmZ56HZoYJA2BU08=;uUSNQw0H6Fj6QqCqPpXGnQ=="
+secured: "RWd/i955Kt8EaEh82n8bNxjInT7BzCQEO4fLQHasWldf3FY9J1enxSNTB07m2BIzOcZhqOrNUdtOO5stxO3l5nevV0TZF4kJYhmu6VpztMjSELj6mJDfmOiOuA4W2Ju3mYSO2kBTTOpST5NmqEKKdm90wOuiX62xiEAymrc5TUZoXjg4LKUH5nXTDUHGiTlfJ1q+Jip4TyJCn7kWdIvWG5Ctff9czvq9ohJjX5fkXwP5+V9Cw38ME88XQ4Bre5KgKhXGj3LjOP66aSqJJ5aVlp8VmuHlw5xN0Y+4wy+hEH+xx4FJiD26c4H3wXPi7smi/iG4VWA9mhfgs607BRol7XoLYkiwPJmtxMaUx86PPQ8=;W871agTy9aFAKJiGYZVGpA=="
 ---
 

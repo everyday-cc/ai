@@ -43,6 +43,36 @@ related:
         width: 1200
         height: 620
         isCached: true
+  - title: "AI Intersects with Floor Scrubbers for Robotic In-store Analytics"
+    excerpt: "AI robotics firm Brain Corp is partnering with Tennant Company to launch the data capture solution Inventory Scan, which is fitted to autonomous floor scrubbers."
+    publishedDateTime: 2022-01-07T00:14:00Z
+    webUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/"
+    ampWebUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/temast-457x305.jpeg"
+        width: 457
+        height: 305
+        isCached: true
+  - title: "Big data, AI/ML to be most in-demand skills in India in 2022"
+    excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
+    publishedDateTime: 2022-01-10T08:59:00Z
+    webUrl: "https://menafn.com/1103512786/Big-data-AIML-to-be-most-in-demand-skills-in-India-in-2022"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 56
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/10/I_30e46image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics: Report"
     excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022. With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI,"
     publishedDateTime: 2022-01-10T14:14:00Z
@@ -59,15 +89,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Big data, AI/ML to be most in-demand skills in India in 2022"
-    excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
-    publishedDateTime: 2022-01-10T15:37:00Z
-    webUrl: "https://suryaa.com/suryaa-ap/114894-big-data-ai-ml-to-be-most-in-demand-skills-in-india-in-2022.html"
-    type: article
-    provider:
-      name: Suryaa
-      domain: suryaa.com
-    quality: 36
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
     excerpt: "With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI, the role of AI and machine learning will only continue to grow in 2022, with a significant increase in the demand for related roles,"
     publishedDateTime: 2022-01-10T18:24:00Z
@@ -84,6 +105,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
+    publishedDateTime: 2022-01-10T14:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "GvKC15ItCQaRCtAfKFmToe3DyH+kKRHi5DxdE+sUoeRyCniaqq5Xi2r64nGMuPlj71rVNWU9wMapmZNVFiID6Oz7p43u5E0O7h+0v8K8Lc42hm7t1YbVdsGXZ58XaOMGufeMz2C4eutKj7a05nCUPnnizgrTopOfSMNSQ+ILwbK9+AbvcL5ZQiG8wr+dpGfwjvzO0Hpr4LE1C+wSSwxRJij4nQqW1Pv49Z/jUGxKeD0xndMgSmmckQov4LjbD3heME5l5M6ha5aHBt+EroJMRneM2bYtHb734YB2U4Op827+7u4JZ+dGd9JQeXmfNfuPh46u2YKMR4u0FVCqQxfLjDA2uIemS7g6eb34R4GDoPA=;/VpxDr2LKlx0DMuBclMopA=="
 ---

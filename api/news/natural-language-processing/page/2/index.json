@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-24-natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till-2020.md",
-      "title": "Natural Language Processing Market||Industry Analysis Insights, Future Growth, and Forecast till - 2020",
-      "excerpt": "Japan, Japan, Fri, 24 Dec 2021 05:27:03 / Comserve Inc. / -- Natural Language Processing Market has prioritized the use of innovative technologies. Many healthcare and life sciences business ...",
+      "path": "_news/2021-12-24-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
+      "title": "In Africa, rescuing the languages that Western tech ignores",
+      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till---2020-2021-12-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till---2020-2021-12-24",
+      "webUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://www.gannett-cdn.com/presto/2021/12/24/PDTN/c7fad02d-adbe-4204-bd09-9f438ace1084-AP21356747118534.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
           "width": 1200,
-          "height": 630,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T16:00:00-08:00",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/9013584002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9013584002",
+      "publishedDateTime": "2021-12-23T21:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -88,20 +88,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
-    excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
-    publishedDateTime: 2022-01-06T05:12:00Z
-    webUrl: "https://www.channelnews.com.au/ces-2022-ecovacs-deebot-x1-robo-vac-cleans-house-and-self/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 24
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/01/Vac1.jpg"
-        width: 768
-        height: 432
-        isCached: true
   - title: "CES 2022: Best concept and self-driving cars from the show"
     excerpt: "Concept vehicles are a staple of CES 2022 and while this year’s show suffered from a lack of attendees due to COVID-19, the concept vehicles and latest self-driving cars still made grand appearances."
     publishedDateTime: 2022-01-07T13:55:00Z

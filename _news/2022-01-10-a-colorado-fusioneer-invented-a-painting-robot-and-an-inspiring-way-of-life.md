@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 711
         isCached: true
+  - title: "A Colorado 'fusioneer' invented a painting robot and an inspiring way of life"
+    excerpt: "And the robot holding a paintbrush. One look at this room can be overwhelming for visitors, so Paul Kirby likes to start simple. It’s an old trick he learned as a ski instructor in Vail, when he realized every skier has slightly different goals for the slopes."
+    publishedDateTime: 2022-01-10T20:15:00Z
+    webUrl: "https://gazette.com/thetribune/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_77ae7a0e-70e3-11ec-841e-5f01b22f6456.html"
+    ampWebUrl: "https://gazette.com/thetribune/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_77ae7a0e-70e3-11ec-841e-5f01b22f6456.amp.html"
+    cdnAmpWebUrl: "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/thetribune/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_77ae7a0e-70e3-11ec-841e-5f01b22f6456.amp.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 71
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/3d/e3dd0110-31c2-11ec-9b30-efc3f7160521/6170440c59475.image.jpg?resize=1024%2C701"
+        width: 1024
+        height: 701
+        isCached: true
 
 secured: "ReXag0NWJvVdVGPpQrhboqUzzP8FvjlyzhCVWcel3EvctqBrGe4aCkspaO0WqCLy0ZAc9+3m+dhs65OaZbuJWj1ouiUX/P5VtGaacozg4AYlzHiQ5gxHN/ODN5ruOK4+3ZnTdgZdzDucwPygDr6clcTxMr1fMm4uV/iQXv3Uft5ShOwjFdegLZBrBZydy3ISLzEeOU/JevYmDPX03GSO6CaPRYeY1RJIQZfhNQhDf/8v2XA2CYHbckhHV2/tKUWH17n8eZZZfYSthDKf31CRoGRXEeuNRjzEVUTsY0ybDMHGsFPbpXmfhQHz5jzUnxZjDYzdwdby6x+hjEHlkOtX8uHwHEtmTcXWFpGnnbrgbrU=;sxKzFKVxcagTGF93VBxqmA=="
 ---

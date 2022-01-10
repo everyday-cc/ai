@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Fractal enters Unicorn club"
-    excerpt: "DeepTech startup Fractal enters the unicorn club after raising $360 million from global asset firm TPG. Post the latest financing round Fractal has been valued at $1 Billion stated"
-    publishedDateTime: 2022-01-06T05:36:00Z
-    webUrl: "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/"
-    ampWebUrl: "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
-        width: 850
-        height: 400
-        isCached: true
   - title: "Artificial intelligence startup reaches ‘unicorn’ status with $360M investment"
     excerpt: "Artificial intelligence startup Fractal has achieved “unicorn” status, scoring a $360 million investment ahead of a forthcoming initial public offering, leaders announced Wednesday. Headquartered in New York City,"
     publishedDateTime: 2022-01-06T09:08:00Z

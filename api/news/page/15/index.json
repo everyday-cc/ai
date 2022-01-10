@@ -380,58 +380,6 @@
       ]
     },
     {
-      "path": "_news/2021-12-24-natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till-2020.md",
-      "title": "Natural Language Processing Market||Industry Analysis Insights, Future Growth, and Forecast till - 2020",
-      "excerpt": "Japan, Japan, Fri, 24 Dec 2021 05:27:03 / Comserve Inc. / -- Natural Language Processing Market has prioritized the use of innovative technologies. Many healthcare and life sciences business ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till---2020-2021-12-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till---2020-2021-12-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-24-raj-to-hire-tech-cos-to-train-youths-in-ai-and-robotics.md",
       "title": "Raj to hire tech cos to train youths in AI and robotics",
       "excerpt": "Jaipur: Chief minister Ashok Gehlot has approved the proposal for roping in world-class IT companies for imparting training programmes to the youth in.",
@@ -1160,6 +1108,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-4-internet-of-medical-things-iomt-stocks-to-buy-for-2022.md",
+      "title": "4 Internet of Medical Things (IoMT) Stocks to Buy for 2022",
+      "excerpt": "The Internet of Medical Things (IoMT) is swiftly gaining pace as healthcare companies are looking for ways to innovate and keep up with technology to help patients and physicians better monitor and track diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022",
+      "originalUrl": "https://www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022?amp",
+      "publishedDateTime": "2021-12-23T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

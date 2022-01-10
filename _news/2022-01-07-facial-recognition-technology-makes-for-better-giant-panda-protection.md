@@ -25,47 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology"
-    excerpt: "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,"
-    publishedDateTime: 2022-01-06T06:00:00Z
-    webUrl: "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/"
+  - title: "Xiaomi patented fingerprint recognition technology anywhere on the screen"
+    excerpt: "Although in-display fingerprint recognition systems have already been actively in use in Android smartphones since at least 2018; the technology has not developed much recently,"
+    publishedDateTime: 2022-01-07T10:43:00Z
+    webUrl: "https://www.gizchina.com/2022/01/07/xiaomi-patented-fingerprint-recognition-technology-anywhere-on-the-screen/"
+    ampWebUrl: "https://www.gizchina.com/2022/01/07/xiaomi-patented-fingerprint-recognition-technology-anywhere-on-the-screen/amp/"
+    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/01/07/xiaomi-patented-fingerprint-recognition-technology-anywhere-on-the-screen/amp/"
     type: article
     provider:
-      name: International Banker
-      domain: internationalbanker.com
-    quality: 51
+      name: GizChina
+      domain: gizchina.com
+    quality: 43
     images:
-      - url: "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png"
-        width: 975
-        height: 650
-        isCached: true
-  - title: "Employee Attendance on Raspberry Pi using Facial Recognition"
-    excerpt: "Employee Attendance on Raspberry Pi using Facial Recognition. This project is done during SDAIA Academy Bootcamp as a part of METIS course requirements in collaboration with Abdul"
-    publishedDateTime: 2022-01-08T18:06:00Z
-    webUrl: "https://github.com/Hashehri/employee-attendance-facial-recognition"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 39
-    images:
-      - url: "https://opengraph.githubassets.com/70bf08419da1e87a60f7859161558a5206a590b6842b10e406e45fd4ba3d4487/Hashehri/employee-attendance-facial-recognition"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Ports in US and Hong Kong add contactless ‘self-service immigration’ channels using facial recognition"
-    excerpt: "The rollout comes as Hong Kong also expands its face recognition “non-touch e-channel” service for residents re-entering the territory to entry control points at Kai Tak Cruise Terminal. The New Orleans service has been introduced by US Customs and Border Protection (CBP) and Carnival Cruise Line and uses facial biometric technology that “verifies the traveller’s identity within two seconds and is more than 98% accurate,"
-    publishedDateTime: 2022-01-06T09:28:00Z
-    webUrl: "https://www.nfcw.com/2022/01/06/375467/ports-in-us-and-hong-kong-add-contactless-self-service-immigration-channels-using-facial-recognition/"
-    type: article
-    provider:
-      name: nfcw
-      domain: nfcw.com
-    quality: 23
-    images:
-      - url: "https://www.nfcw.com/wp-content/uploads/2022/01/facial-recognition-id-check-carnival-cruise-line.jpg"
-        width: 1176
-        height: 760
+      - url: "https://www.gizchina.com/wp-content/uploads/images/2017/12/on-display-fingerprint-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "jQ/m0gsXKudiVL2ehN3Wke7Jnkcbbk50MHuHySwDcH+F0YDKxQRQ7gTYXlcUdd8nPm44LJqQ4Ciko9u0OBC1dLzKioDAuc1Xs5emIK3jKilOn8E5hzEYZUk2DqIL+91QY4km+Cc7Zr3F2fMFe5xC7VcPhcTUYVyocZQSjIwoGQLgjFulwESIN2yOPT5ncqvNd7CjTw12EgHxcPReFJ3draeMnO1gYfupe4GUj+2iQPj6FxgomaK12r24ayDx2jJFi2CuR0hhZKjb0BuWS/kT2n6OlJ+MWzpdL6cDYk+o4+8nMfRc6L3vb7cD2XQeCkkckkBMxFXF0V12jNVtCw6jqjGs0MARh/Xphm4g4xm+wkM=;97N27qTqH15SxBwsOCeC5g=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
 type: article
 quality: 91
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2022/01/07/USAT/2b6a08d9-7ce8-4a07-9ea0-90a298e2b917-ameca-robot-horiz.jpg?auto=webp&crop=3010,1693,x13,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "CES 2022: Ecovacs Deebot X1 Robo Vac Cleans House And self"
-    excerpt: "Long respected for their motions in keeping homes spick and span, Ecovacs have used CES 2022 to reveal their newest robot vacuum cleaner, the Ecovacs Deebot X1, which is a significant boost from even their past device,"
-    publishedDateTime: 2022-01-06T05:12:00Z
-    webUrl: "https://www.channelnews.com.au/ces-2022-ecovacs-deebot-x1-robo-vac-cleans-house-and-self/"
-    type: article
-    provider:
-      name: ChannelNews Australia
-      domain: channelnews.com.au
-    quality: 24
-    images:
-      - url: "https://www.channelnews.com.au/wp-content/uploads/2022/01/Vac1.jpg"
-        width: 768
-        height: 432
         isCached: true
   - title: "CES 2022: Best concept and self-driving cars from the show"
     excerpt: "Concept vehicles are a staple of CES 2022 and while this year’s show suffered from a lack of attendees due to COVID-19, the concept vehicles and latest self-driving cars still made grand appearances."

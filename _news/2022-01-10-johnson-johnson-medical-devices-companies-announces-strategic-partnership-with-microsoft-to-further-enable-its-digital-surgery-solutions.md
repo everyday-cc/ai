@@ -2,21 +2,17 @@
 category: news
 title: "Johnson & Johnson Medical Devices Companies Announces Strategic Partnership with Microsoft to Further Enable its Digital Surgery Solutions"
 excerpt: "The Johnson & Johnson Medical Devices Companies (JJMDC)* today announced that it will collaborate with Microsoft to further enable and expand JJMDC's secure and compliant digital surgery ecosystem. The Microsoft Cloud will help JJMDC realize its vision of driving innovation that advances skills,"
-publishedDateTime: 2022-01-10T13:37:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/johnson-johnson-medical-devices-companies-announces-strategic-partnership-with-microsoft-to-further-enable-its-digital-surgery-solutions-1031090788"
-webUrl: "https://markets.businessinsider.com/news/stocks/johnson-johnson-medical-devices-companies-announces-strategic-partnership-with-microsoft-to-further-enable-its-digital-surgery-solutions-1031090788"
+publishedDateTime: 2022-01-10T13:33:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/10/9522764.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/10/9522764.htm"
 type: article
-quality: 15
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -93,6 +89,6 @@ related:
         height: 512
         isCached: true
 
-secured: "gjzUMG6AATybAF6JYsBmRTQyKoma1LBKCGX9JMBDOOs3gPeMbzhDXnu+/zV0wy0PnY5yO4S5fUYxy71cd+O1qIkHHqKspbxeYqRh/q7rd3KD2nqXRKWQeesxv6SinCtsMIpsgGzV8veOBrK7TWySV4qgVUiMA9zkN2J9B+5ccMN3pdlisnpZThuocIvHqHEgwiA2n7o503hibt3H5R05sg0JcSC8Bx+1L/xNjtq55ULi7/dyTXfEswvrlNBbxvTGh1EJ2WjKY4KJvubYNnB9Kqh7/D+7VT/6XXXf4AyfxHb/KHAskP2q6KcQO7kW5MCRkxm2/FeQYt53+bNDy1TJgl17bT+QMO/C2yWGNnME31U=;KlnfdkyYjktjCriOHtl37Q=="
+secured: "2uJd3G4imfKb26d9ny7/4otTrcQy7LCYjlkp91X7Z45IiIbqNUZM5MuMhvdTOD/ZhXE8dVdRKiRCOsLBZY05GWE0LPUNqVHauzru1Yh562wH9ruBbOKyXuHOOo4lnuuJQ3deKwuQrXd+QImwQGMqPKiTfzWahQxKF9WD8MOsa0q2X1EZLSVLxgRy4InFD9HjvHRTXkNndOAbS5yaU5yy78yzpQ178IEkdDZE5Sle9e0maNXKgp0PSqzYMtE+/BSnNKMwjhmJC65TL3y1d2vSgY4bIBUuMpxUcLEdqlJDq+DWoBTWZ4Ji6SPnUkq5pZe/zHuNZbKB//o2V+UtAliKL9Vtf2hTRqNwUvIsXASt6yg=;sZ7nyCZ6V/jhNyRDN6a8+w=="
 ---
 

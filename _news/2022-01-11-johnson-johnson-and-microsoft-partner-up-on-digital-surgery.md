@@ -82,14 +82,14 @@ related:
         isCached: true
   - title: "Johnson & Johnson Medical Devices Companies Announces Strategic Partnership with Microsoft to Further Enable its Digital Surgery Solutions"
     excerpt: "The Johnson & Johnson Medical Devices Companies (JJMDC)* today announced that it will collaborate with Microsoft to further enable and expand JJMDC's secure and compliant digital surgery ecosystem. The Microsoft Cloud will help JJMDC realize its vision of driving innovation that advances skills,"
-    publishedDateTime: 2022-01-10T13:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-johnson-medical-devices-companies-announces-strategic-partnership-with-microsoft-to-further-enable-its-digital-surgery-solutions-1031090788"
+    publishedDateTime: 2022-01-10T13:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/10/9522764.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "VLSm8tgFULhqMDkZhk540No8AsAqlceNbU1tlTEdY2plybD3uyQUR2CP8yNDHoX/zKoZeYjP00sliVdKWg2hhW8Cj2Z/0AbjeZSP8/q6Ya8zTD+SNTC4uLBwBuoBcPIkeY9HnOjdtdwmGzT08gevIvr7vgkK8MlpuR6xgMGYiIqognzFlpzxF4I8n18S6ajR2eNVTHfaj/1JYTYYMHy7u+4yBQzKg0coMAtfqz6cGfemQftPdieDEcMeECnhVySy7NK+kvAF7eauO66P1iKr1coSa66kQHOlfUyY1lqY0+LEFa90thzVFFrY1Q+TYc8cYrAUYkRj/x3bLtR+H4j3wZI9AR3lUym6MQHXfEeVYRU=;Vqhz73pp3ZceUPkJFuNwcw=="
+secured: "iva0AhogC9HHf09Ta8tpoymv9XhbWSLpHMX9l9ib92MvXed+o2NhzVx/sRmE2MpgDB6NaApXqQCSsIaIWu9laVKLjuwcSntTV1uPHyLcAiqGrTFlWBWDzMsOBQzSokbJIlnzZ7iXMFh++uD2RtHz+ZAsB2fdYyCVy8Akai+1U6eICA8nOTQN+PoBlJWThkz5JyP+ESOdE7T0rlABy9gMOpMuOCDpiQ9aiCIbUMMp6xIOvubm5B8fj78bzdJ74GOPvofN/UikJ8OQ3kWQXIZfEEPkWMcyfgjrlDRwXPys5u2IfbN1CzTkG+gDpHwtoqNa2TMfMly9zu4D+PLJUCa1Y9U1zzqdbNJHQsl30oy4/6nnCm2iPb77hj73OwU2+a8LS4N0AyV4DQHD/+TfCXhxWhIgfI7rRuizq5QHeRJqd+1tX513aCraPYU/mJLzjv3cxxcTiUD9JYlHNjSpKo5QkdA/hu+tyv0Q1hUzbftokdXQC0228giaZqjA3a4SmcG/WYa7NWzJU2aaiq4Km8eH3A==;85p4w3qKFSP93NV+cvDfeQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/01/09/the-ai-bill-of-righ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/01/09/the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence/amp/"
 type: article
 quality: 94
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 700
     height: 394
     isCached: true
+
+related:
+  - title: "The Dangers of Treating AI like a God"
+    excerpt: "In an interview, Singler suggests that the lack of transparency behind it leads some people to elevate AI to a mysterious deity-like figure. However, rather than fearing a robot rebellion or a deity version of AI judging us,"
+    publishedDateTime: 2022-01-10T22:09:00Z
+    webUrl: "https://cacm.acm.org/opinion/interviews/257774-the-dangers-of-treating-ai-like-a-god/fulltext"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 17
 
 secured: "UcLm0t31K5vo/9bg2r8ieB5fWOrTzThSIyw9eV701OU4TeNbADDIvvgLhy3P+0K6MXvOGC9dTCDiKLNI++/WZ/hjuk81HOHR0Sil6n3YhFWGoKn1T8NBDsaOHhZIk1tc5BTA5OMFQs/Zhs5Too31+jGITjaqCVKAEZdhGkRdRgcoj5xz2jkakTwLB4l1Oeu+JSbpalyC83e3SxccnMFFo8l4GiHcc1bhjXh5aQRpsnE9Adc0vptVuTHsDCpt5wXVffMtnAbfGiv+CpLQWf3tiY4of0FN91boeJjrz9XqQugcHFBmZQkw5oeIV6Ohz2S88FqQ8+PKgvuAKsMpCFXJ/kKojtmPa5J1vg1vO/gaN+k=;k1oRWkiSthT3FW0kRsa92Q=="
 ---
