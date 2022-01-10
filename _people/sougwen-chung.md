@@ -23,7 +23,7 @@ tags:
   - Artist
 
 images:
-  - url: https://pbs.twimg.com/profile_images/654747413152821248/AAyCfd5Q_400x400.png
+  - url: https://pbs.twimg.com/profile_images/1480626834450624513/IwQD9Fcu_400x400.jpg
     width: 400
     height: 400
     isCached: true
