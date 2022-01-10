@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-31-bow-down-before-this-us310000-massage-mega-robot-human.md",
+      "title": "Bow down before this US$310,000 massage mega-robot, human",
+      "excerpt": "A startup called Massage Robotics is launching its flagship robot at CES: A two-armed, seven-square-foot mega-bot that can understand verbal commands, is powered by a neural network of other robots with which it exchanges data in real time,",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
+      "originalUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/article/b/bow-down-b/bow-down-before-this-310000-massage-mega-robot-human_b6bz.620.jpg",
+          "width": 619,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
+      "publishedDateTime": "2021-12-30T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-machine-learning-program-connects-to-human-brain-and-commands-robots.md",
       "title": "Machine-Learning Program Connects to Human Brain and Commands Robots",
       "excerpt": "Researchers at Ecole Polytechnique Fédérale de Lausanne have developed a machine-learning program that can be connected to a human brain and used to command a robot. The program can alter the robot’s movements based on electrical signals from the brain.",
@@ -1276,49 +1319,6 @@
         "name": "How to Write a Fact Sheet",
         "domain": "smallbusinessbonfire.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-novel-biosensors-set-to-revolutionize-brain-controlled-robotics.md",
-      "title": "Novel biosensors set to revolutionize brain-controlled robotics",
-      "excerpt": "A novel carbon-based biosensor is set to drive new innovations in brain-controlled robotics. The biosensor adheres to the skin of the face and head in order to detect electrical signals being sent by the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

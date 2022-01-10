@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-publishedDateTime: 2022-01-06T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+publishedDateTime: 2022-01-06T15:15:00Z
+originalUrl: "https://www.lelezard.com/en/news-20181152.html"
+webUrl: "https://www.lelezard.com/en/news-20181152.html"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology"
@@ -70,7 +76,21 @@ related:
       name: WFMZ-TV
       domain: wfmz.com
     quality: 49
+  - title: "Qatar - Vodafone, Microsoft boost strategic partnership"
+    excerpt: "Vodafone Qatar and Microsoft yesterday announced that the companies are building on their existing partnership in order t"
+    publishedDateTime: 2022-01-10T09:55:00Z
+    webUrl: "https://menafn.com/1103512954/Qatar-Vodafone-Microsoft-boost-strategic-partnership"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/10/TP_144bfimage_story.jpg"
+        width: 640
+        height: 512
+        isCached: true
 
-secured: "uMhx3m16pZCjLl+tFMNXUJ3Nn5d/sDlIdlT43xs02RHlSVAge5cEGHb15z7SOTit9MpgEkYuCGpx6H3NhYFwIloTCGjwRcWnELrL5oiSbzcOm2V7dbHLFNOUaIfjZE/H+KgZk9IrDPJEaplB5OSnYqKpukqNX51dsjpWpxlwSn0A/njz3An3E1v8AyhZtwpS+L5JjsLt9+kYl+ImkSm3qsw+5XKAkCbkcQA60zJ1OjzEo95Epw2r5xDl8evjdOlySPnul7QfwaBwv0pu0CWlqNHhpzQLmaFkx3MRop+SmFwQNgIDR024Nh5Pw5mW46aXxPf1W2tbQaam7mJPcDdb2DOynTSjre29Kzo5rS3PQ1w=;/V+bNgQVEmjucHtb2g+5zQ=="
+secured: "K3jFZW7R56rpSFIN9K9s7Ist5Nq8FsueBnSUIk85jgAwV/tFXEpaXnMmm4uc+2IZM+ZXF3vaUYa5VQne/DihQRCL03GKJSp1vzDR10znTteICeQg6Xjcx+gbMsVJhppWcrWitVKS3RZXfrLnlgF23DU9IXkk4foFEujiFknFQ/NVkE4hIeGIUPJGFVJd6cCRv77MsMkPGVp9Gwr+naKRLMjXhhzi4qCawTRy8ejII4zQ7m5gC6s4LvTLKK68wQAV+HenEwxtXsH+OxrlpOG7b/gEPGxaZtlNoORWmwE8B4RpVI0VDu9hJqmGvULf34e4XHI1AvlgB7MUuOenCQoPF8uuz9vro89Z/BogeXqJWJY=;Pr7QEw3Xl/OyzTyY4kboMg=="
 ---
 

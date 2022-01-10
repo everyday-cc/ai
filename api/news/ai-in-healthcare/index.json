@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -99,6 +99,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-08-healthcare-transformation-made-possible-by-ai-and-social-listening.md",
+      "title": "Healthcare Transformation – Made Possible by AI and Social Listening",
+      "excerpt": "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
+      "originalUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY",
+          "width": 820,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T21:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot.md",
       "title": "IBM reportedly shopping Watson Health just as healthcare gets hot",
       "excerpt": "IBM could be looking to sell the Watson Health division for a mere $1 billion, according to an Axios report. The question is why is IBM running away from the healthcare vertical just as it seems to be heating up,",
@@ -107,7 +159,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -337,7 +389,7 @@
       "originalUrl": "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1333,58 +1385,6 @@
         "name": "The New Times",
         "domain": "newtimes.co.rw",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-data-hunters-will-be-big-pharmas-next-prey.md",
-      "title": "Data hunters will be Big Pharma’s next prey",
-      "excerpt": "Big Pharma will need to tool up in the data arms race. Drug giants like AstraZeneca are pouring $160 billion a year into unearthing new treatments. Artificial intelligence could provide a shortcut, by helping discover new treatments and getting them to market sooner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/breakingviews/data-hunters-will-be-big-pharmas-next-prey-2021-12-20/",
-      "originalUrl": "https://www.reuters.com/breakingviews/data-hunters-will-be-big-pharmas-next-prey-2021-12-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/4_2o1OYU28UCWef805L8u61FYCA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BSX22HO5WNJ4ZMOPMNCLSEDGHU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

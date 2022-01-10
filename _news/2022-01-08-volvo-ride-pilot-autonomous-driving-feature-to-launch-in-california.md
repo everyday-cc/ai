@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-featur
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volvo will debut its 'self-driving' Ride Pilot feature in California"
-    excerpt: "Volvo will debut “Ride Pilot,” its take on a Tesla-like autonomous driving feature, in California, the automaker announced on Wednesday during CES 2022.."
-    publishedDateTime: 2022-01-05T18:47:00Z
-    webUrl: "https://www.engadget.com/volvo-ride-pilot-181545657.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fd19e8b0-6e52-11ec-bf4c-1aada46c0efc"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "Volvo to debut self-driving feature in California using Luminar sensor"
     excerpt: "Volvo is planning to deploy the technology, which will allow the car to fully take over driving tasks in some limited situations, in a forthcoming all.."
     publishedDateTime: 2022-01-07T04:12:00Z

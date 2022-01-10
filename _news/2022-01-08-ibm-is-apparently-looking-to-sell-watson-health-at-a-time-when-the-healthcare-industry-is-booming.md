@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Changing face of health and healthcare"
+    excerpt: "Foundation highlights the various aspects which will be crucial during and after the pandemic The onset of the COVID-19 pandemic saw the medical fraternity, technology innovators, manufacturers, regulators,"
+    publishedDateTime: 2022-01-10T08:55:00Z
+    webUrl: "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
+    type: article
+    provider:
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 59
+    images:
+      - url: "https://www.expresshealthcare.in/wp-content/uploads/2022/01/750-x-400-2.jpg"
+        width: 750
+        height: 400
+        isCached: true
   - title: "IBM seeks healthcare exit with potential $1B-plus sale of Watson Health"
     excerpt: "IBM is reportedly hoping to exit the healthcare space with a more than $1 billion sale of its Watson Health business, Axios reported Wednesday citing anonymous sources. The tech giant has spent more than $4 billion to assemble its offerings in medicine through a series of acquisitions."
     publishedDateTime: 2022-01-07T08:46:00Z

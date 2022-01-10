@@ -2,6 +2,95 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-10-ola-2-security-camera-with-face-recognition-ai-and-more-hits-kickstarter.md",
+      "title": "OLA 2 security camera with face recognition, AI and more hits Kickstarter",
+      "excerpt": "If you are in the market for a new security camera you might be interested in the OLA 2 launched via Kickstarter this month offering, facial",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
+      "originalUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/01/home-security-camera-outdoor.jpg",
+          "width": 700,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-tesla-and-nvidia-are-picked-for-big-gains-by-this-robot-trader-its-been-right-before.md",
+      "title": "Tesla and Nvidia Are Picked for Big Gains by This Robot Trader. It’s Been Right Before.",
+      "excerpt": "This artificial intelligence-powered ETF ditched Netflix, Merck, and three other familiar stocks this month. Here's what it bought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "originalUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-68043/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "publishedDateTime": "2022-01-10T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-the-five-biggest-healthcare-tech-trends-in-2022.md",
       "title": "The Five Biggest Healthcare Tech Trends In 2022",
       "excerpt": "The healthcare sector is under enormous pressure at the moment, and technology adoption has been accelerating to help deliver better, cheaper, and more personalized healthcare to people. Here we look at the top healthcare tech trends in 2022.",
@@ -10,7 +99,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -62,7 +151,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/09/the-ambient-intelligence-decade/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -210,7 +299,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -660,6 +749,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-08-healthcare-transformation-made-possible-by-ai-and-social-listening.md",
+      "title": "Healthcare Transformation – Made Possible by AI and Social Listening",
+      "excerpt": "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
+      "originalUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY",
+          "width": 820,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T21:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-global-artificial-intelligence-ai-in-cyber-security-market-to-witness-at-a-2260-cagr-through-2027.md",
       "title": "Global Artificial Intelligence (AI) in Cyber Security Market to Witness at a 22.60% CAGR through 2027",
       "excerpt": "The research report on the Global Artificial Intelligence (AI) in Cyber Security Market provides a comprehensive analysis of the industry size, share",
@@ -921,7 +1062,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -963,48 +1104,6 @@
         "AI in Healthcare",
         "AI",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-sieraai-brings-in-68-million-in-seed-funding.md",
-      "title": "SIERA.AI brings in $6.8 million in seed funding",
-      "excerpt": "In a study, SIERA.AI found that every year U.S. companies spend over $30 billion on forklift accidents that result in almost 100 deaths.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/siera-ai-brings-in-6-8-million-in-seed-funding/",
-      "originalUrl": "https://www.therobotreport.com/siera-ai-brings-in-6-8-million-in-seed-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/featured-web-SIERAAI.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -1153,100 +1252,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous.md",
-      "title": "New controversy in making? Tesla wants only cameras, AI to go fully autonomous",
-      "excerpt": "Tesla chief Elon Musk has shared that the EV company will make a system based on cameras and artificial intelligence to attain full autonomy in driving.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/01/07/600x338/2021-tesla-model-x_1621055198406_1641538769141.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "publishedDateTime": "2022-01-07T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge.md",
-      "title": "Artificial intelligence reflects the world around us, and that's a challenge",
-      "excerpt": "Getting artificial intelligence systems to deliver fair and unbiased results, as well as ensure the right business decisions, requires a holistic approach that involves most of the enterprise. IT staff and data scientists cannot -- and should not -- be expected to be solo acts when it comes to AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c86efdc4d077e8b8649f5c81844545a9ae4679d2/2022/01/07/fd2ee2c7-8999-4af6-b91e-5e6602b61eca/buildings-with-rose-new-york-city-march-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
-      "publishedDateTime": "2022-01-07T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

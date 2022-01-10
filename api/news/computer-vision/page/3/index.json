@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-10-oostos-deep-learning-enhances-facial-recognition-accuracy-and-expands-uses.md",
+      "title": "Oosto’s deep learning enhances facial recognition accuracy and expands uses",
+      "excerpt": "Newer facial recognition systems are scalable and provide more accurate results, and the end-user selects the parameters of system performance to suit their own application needs. “We",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "originalUrl": "https://www.sourcesecurity.com/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/eu-ban-facial-recognition-920.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/oosto-deep-learning-enhances-facial-recognition-co-1536229326-ga-sb.1639117444.html",
+      "publishedDateTime": "2021-12-10T02:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-citic-telecom-cpc-wins-3-industry-awards-in-recognition-of-innovation-excellence-empowering-enterprises-via-ict-miind-strategy.md",
+      "title": "CITIC Telecom CPC wins 3 Industry Awards in Recognition of Innovation Excellence empowering Enterprises via ICT-MiiND Strategy",
+      "excerpt": "In turn, the CAHK STAR Awards 2021 \"Best Innovation for Future Enterprise - Gold\" highlights the game-changing significance of CITIC Telecom CPC's AI-enabled Cognitive Object Recognition System ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering",
+      "originalUrl": "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Dec2021/asiaone_default.jpg?itok=yY5XVIZh",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/citic-telecom-cpc-wins-3-industry-awards-recognition-innovation-excellence-empowering?amp",
+      "publishedDateTime": "2021-12-09T02:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-hospitality-facial-recognition-tools.md",
       "title": "Hospitality Facial Recognition Tools",
       "excerpt": "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new",
@@ -1254,92 +1341,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt.md",
-      "title": "Facial recognition tech at 4 airports to be introduced by March 2022: Govt",
-      "excerpt": "The Airports Authority of India (AAI) is working on a project of FRT-based Biometric Boarding System as part of the first phase of Digi Yatra Implementation at four airports",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
-      "originalUrl": "https://www.business-standard.com/article/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2013-09/24/full/1380033844-9265.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/facial-recognition-tech-at-4-airports-to-be-introduced-by-march-2022-govt-121120200685_1.html",
-      "publishedDateTime": "2021-12-02T01:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-avocor-launches-e-series-interactive-displays.md",
-      "title": "Avocor Launches E Series Interactive Displays",
-      "excerpt": "The glass display technology facilitates a smooth, accurate, low-latency writing experience through instant writing object recognition. Users can easily switch between using a pen or finger to create a fluid, collaborative real-time environment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.commercialintegrator.com/av/video/displays/avocor-launches-e-series-interactive-displays/",
-      "originalUrl": "https://www.commercialintegrator.com/av/video/displays/avocor-launches-e-series-interactive-displays/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.commercialintegrator.com/wp-content/uploads/2021/12/Avocor-E-Series-Display.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T12:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Commercial Integrator",
-        "domain": "commercialintegrator.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

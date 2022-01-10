@@ -104,20 +104,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "Deere ploughs ahead with self-driving tractor"
-    excerpt: "John Deere demonstrated a fully autonomous tractor at CES 2022, touting the tech as a way to increase global food production."
-    publishedDateTime: 2022-01-05T17:21:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/deere-ploughs-ahead-with-self-driving-tractor"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 24
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/01/tractor.jpb_.jpeg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Robot tractors may be heading to a farm near you"
     excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
     publishedDateTime: 2022-01-09T21:31:00Z

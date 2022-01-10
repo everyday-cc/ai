@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTc5NzgwNjA3MjM5MjY3NTY2/stock.jpg"
         width: 620
         height: 400
-        isCached: true
-  - title: "First Look: Cadillac’s Newest Self-Driving Car Concept Replaces the Cockpit With a Spa-Like Lounge"
-    excerpt: "As with jet packs and flying cars, self-driving production vehicles are still more vaporware than reality, but major automakers continue to help us imagine what that future might be like. The latest to do so is Cadillac with its InnerSpace concept unveiled today at the 2022 Consumer Electronics Show (CES)."
-    publishedDateTime: 2022-01-05T17:15:00Z
-    webUrl: "https://robbreport.com/motors/cars/cadillac-innerspace-autonomous-concept-revealed-1234656607/"
-    ampWebUrl: "https://robbreport.com/motors/cars/cadillac-innerspace-autonomous-concept-revealed-1234656607/amp/"
-    cdnAmpWebUrl: "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/cadillac-innerspace-autonomous-concept-revealed-1234656607/amp/"
-    type: article
-    provider:
-      name: Robb Report
-      domain: robbreport.com
-    quality: 30
-    images:
-      - url: "https://robbreport.com/wp-content/uploads/2022/01/2-2.jpg?w=1000"
-        width: 1000
-        height: 563
         isCached: true
   - title: "Cadillac previews a personal self-driving car with Halo InnerSpace concept"
     excerpt: "Cadillac has explored this with its Halo InnerSpace concept car shown virtually on Wednesday during the 2022 Consumer Electronics Show in Las Vegas. The InnerSpace is the third member in a series of fully autonomous concepts from Cadillac."

@@ -181,6 +181,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla Hikes Price on Full Self-Driving to $12K"
+    excerpt: "This article was originally published on TipRanks.com The world’s largest electric vehicle (EV) maker Tesla, Inc. (TSLA) is increasing the price of its"
+    publishedDateTime: 2022-01-10T08:49:00Z
+    webUrl: "https://www.smarteranalyst.com/yahoo/tesla-hikes-price-on-full-self-driving-to-12k/"
+    ampWebUrl: "https://www.smarteranalyst.com/yahoo/tesla-hikes-price-on-full-self-driving-to-12k/amp/"
+    cdnAmpWebUrl: "https://www-smarteranalyst-com.cdn.ampproject.org/c/s/www.smarteranalyst.com/yahoo/tesla-hikes-price-on-full-self-driving-to-12k/amp/"
+    type: article
+    provider:
+      name: Smarter Analyst
+      domain: smarteranalyst.com
+    quality: 59
+    images:
+      - url: "https://www.smarteranalyst.com/wp-content/uploads/2022/01/tsla-fsd.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Tesla's full self-driving beta may do 'rolling stops' at traffic lights"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will \"not exit passing lanes\" and \"may perform rolling stops\" at traffic lights. It is still not entirely clear whether cars will come to a full stop at stop signs or not."
     publishedDateTime: 2022-01-10T05:47:00Z
@@ -272,20 +288,6 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Aviationtransport_122_menafn.jpg"
         width: 512
         height: 341
-        isCached: true
-  - title: "Volvo announces Ride Pilot unsupervised self-driving system"
-    excerpt: "Volvo on Wednesday announced the new self-driving system Ride Pilot at the 2022 Consumer Electronics Show underway in Las Vegas. Ride Pilot is described as a hands-off, eyes-off system, meaning a driver will be free to do other things when the system is activated,"
-    publishedDateTime: 2022-01-05T19:00:00Z
-    webUrl: "https://motorauthority.com/news/1134649_volvo-announces-ride-pilot-unsupervised-self-driving-system"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/volvo-concept-recharge_100815470_h.jpg"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "9tKV0nxSSn7RT+2hfGVx+AVOIh5cwMLhzvcwew2sYZRZNoWccMTtIt9ppcjqoNZnGMxkzVb4fOQq8/bsPlCYzaZaJDLThkBCD4ityycdf9RzX7DXwI70DcHk0ezLSIz+NuDPC+h/7wpEU89WiAwGM4cDOEMTC6PxkE8C4ihbLYy4hujKgM9FB0BsPY6VsVG5D9DkV8TxXIDDxpaHBYDSn8hnNewwtWskTg7U+H5WUvCZ70vpicDZoj6AcbHviKPjRbUEbBsb5Z01/uL/qlrTxZ5Yp8Vghmy5I8W3J9S7feAO3SlJUu0oWhplJUWhL4p4AXAWcLiBMAmW7qmcecmlD4vR1P4bvW9udpaIgsYcOU8=;cHlplpjHuUwXCJFmKvZhMQ=="

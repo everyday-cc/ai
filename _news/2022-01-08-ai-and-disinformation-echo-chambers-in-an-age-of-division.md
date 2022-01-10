@@ -38,6 +38,20 @@ related:
         width: 820
         height: 312
         isCached: true
+  - title: "Discriminatory AI and disinformation powered by deep fakes"
+    excerpt: "Here are some of the concerns where AI might go wrong and that I believe need more awareness in 2022: Gender and racial bias in AI According to a Unesco report, only 12% of the ar"
+    publishedDateTime: 2022-01-10T08:49:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/223906.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2111/636347-847x440.jpg?2"
+        width: 847
+        height: 440
+        isCached: true
 
 secured: "ahGqpM3bmdx977pH0vPqOtIjBObEO1AGOOYsTN7FNIU25biY/5G7BuIe4rYxbNWjQYUMSXhgmsYbI/zSRlg+j7kG2/M60W+EYfJZbt1xva92HbRLLvCQxagF+gPdvjd6EYlQeWitQKinYd4wsMXrrrERs5B7cIttY6HlMbMM/Gozqpj8kIGFtZ16l++Qi4sZ3lU4xyBZYlVwn397pLHeio90AcaNJpUXOIC1Pp62v+KdNeL2BKIFrObttr+1l380dGcKsrgJSPk81FIK8M6fuUq2TouI5EkegwFWt9DY7CxxZbjNmC4WNREE2AChqkz6E6daW8uv0UufrEFlTliQY54oVr6YlIvSbk201JqNvRM=;HLDdZ7gp5HxkELXG1Ul2og=="
 ---

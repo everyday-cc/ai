@@ -305,21 +305,21 @@
       ]
     },
     {
-      "path": "_news/2021-12-29-what-happens-when-an-ai-knows-how-you-feel.md",
-      "title": "What Happens When an AI Knows How You Feel?",
-      "excerpt": "Technology used to only deliver our messages. Now it wants to write them for us by understanding our emotions.",
+      "path": "_news/2021-12-29-army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-details-here.md",
+      "title": "Army Sets Up New Quantum Computing Lab, Artificial Intelligence Centre. Details Here",
+      "excerpt": "The Army has set up a quantum computing laboratory and a centre for artificial intelligence (AI) at a military engineering institute in Madhya Pradesh's Mhow.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
-      "originalUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
+      "webUrl": "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938",
+      "originalUrl": "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/61bc7f6c70540627801a5b48/master/pass/Business-AI-Emotions-1290287917-648538841-2.jpg",
-          "width": 2400,
-          "height": 1600,
+          "url": "https://c.ndtvimg.com/2021-12/imil18ks_indian-army-quantum-computing-lab_625x300_29_December_21.jpg",
+          "width": 650,
+          "height": 400,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -327,23 +327,57 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-emotional-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-emotional-intelligence/amp",
+      "ampWebUrl": "https://www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/army-sets-up-new-quantum-computing-lab-artificial-intelligence-centre-in-mhow-2677938/amp/1",
+      "publishedDateTime": "2021-12-29T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-what-happens-when-an-ai-knows-how-you-feel.md",
+      "title": "What Happens When an AI Knows How You Feel?",
+      "excerpt": "Technology used to only deliver our messages. Now it wants to write them for us by understanding our emotions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/artificial-emotional-intelligence",
+      "originalUrl": "https://www.wired.co.uk/article/artificial-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/61a8a600bd53d4f6291929d3/master/w_1600%2Cc_limit/1822-WIRED-02.jpg",
+          "width": 1600,
+          "height": 2182,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-29T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1396,58 +1430,6 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-after-being-pushed-out-of-google-timnit-gebru-forms-her-own-ai-research-institute-dair.md",
-      "title": "After being pushed out of Google, Timnit Gebru forms her own AI research institute: DAIR",
-      "excerpt": "Timnit Gebru, one of the leaders of Google’s ethics in AI team and one of the foremost experts in that topic, was fired after sending an email of concern to her team. Now she has set up shop herself with a brand new research institute,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dair-institute.org/press-release",
-      "originalUrl": "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png",
-          "width": 1440,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

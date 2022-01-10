@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-10-ola-2-security-camera-with-face-recognition-ai-and-more-hits-kickstarter.md",
+      "title": "OLA 2 security camera with face recognition, AI and more hits Kickstarter",
+      "excerpt": "If you are in the market for a new security camera you might be interested in the OLA 2 launched via Kickstarter this month offering, facial",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
+      "originalUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/01/home-security-camera-outdoor.jpg",
+          "width": 700,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips.md",
       "title": "Meta claims its AI improves speech recognition quality by reading lips",
       "excerpt": "People perceive speech both by listening to it and watching the lip movements of speakers. In fact, studies show that visual cues play a key role in language learning. By contrast",
@@ -192,6 +237,58 @@
         "name": "Inshorts",
         "domain": "inshorts.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022.md",
+      "title": "Qualcomm Introduces New Snapdragon Ride Vision System And New Partnerships At CES 2022",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers Qualcomm's announcements of many new and extending automotive partnerships and a new addition to the Snapdragon Ride Platform, the Snapdragon Ride Vision System.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d72cecd1aca42304299df6%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/01/06/qualcomm-introduces-new-snapdragon-ride-vision-system-and-new-partnerships-at-ces-2022/amp/",
+      "publishedDateTime": "2022-01-06T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -407,19 +504,19 @@
     {
       "path": "_news/2022-01-05-ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place.md",
       "title": "Ulisse Launches the Only Radar and Computer Vision Platform to Transform Every Physical Space Into an Intelligent Place",
-      "excerpt": "The company's proprietary AI and IoT technology is ‘privacy first,' allowing for both anonymity and accuracy; learns from surrounding environment",
+      "excerpt": "The company’s proprietary AI and IoT technology is ‘privacy first,’ allowing for both anonymity and accuracy; learns from surrounding environment and people’s behavior to deliver better analytics, experiences,",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place",
-      "originalUrl": "https://www.digitaljournal.com/pr/ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place",
+      "webUrl": "https://apnews.com/press-release/accesswire/space-launches-technology-business-351c6b3e1faf5df837091a4870af2f78",
+      "originalUrl": "https://apnews.com/press-release/accesswire/space-launches-technology-business-351c6b3e1faf5df837091a4870af2f78",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.accesswire.com/users/newswire/images/681004/Screen%20Shot%202021-12-27%20at%2012.37.51%20PM.png",
-          "width": 675,
-          "height": 378,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -429,11 +526,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T06:11:00-08:00",
+      "publishedDateTime": "2022-01-05T06:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1338,74 +1435,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-deadwood-sd.md",
-      "title": "Computer Vision Scientist Salary in Deadwood, SD",
-      "excerpt": "How much does a Computer Vision Scientist make in Deadwood, SD? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
-      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-deadwood-sd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheLadders.com",
-        "domain": "theladders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-computer-vision-scientist-salary-in-rockville-ut.md",
-      "title": "Computer Vision Scientist Salary in Rockville, UT",
-      "excerpt": "How much does a Computer Vision Scientist make in Rockville, UT? The average salary for a Computer Vision Scientist is $108,839 per year. Ladders estimates are based on our calculations Ladders ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
-      "originalUrl": "https://www.theladders.com/salary/computer-vision-scientist-salary-rockville-ut",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T05:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheLadders.com",
-        "domain": "theladders.com",
         "images": null,
         "publishers": null,
         "authors": null

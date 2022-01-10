@@ -43,20 +43,6 @@ related:
         width: 1440
         height: 800
         isCached: true
-  - title: "Volvo will debut its 'self-driving' Ride Pilot feature in California"
-    excerpt: "Volvo will debut “Ride Pilot,” its take on a Tesla-like autonomous driving feature, in California, the automaker announced on Wednesday during CES 2022.."
-    publishedDateTime: 2022-01-05T18:47:00Z
-    webUrl: "https://www.engadget.com/volvo-ride-pilot-181545657.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-01/fd19e8b0-6e52-11ec-bf4c-1aada46c0efc"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "Volvo to debut self-driving tech this year"
     excerpt: "Volvo has announced that it will introduce its new self-driving technology, called 'Ride Pilot' sometime in 2022.The Volvo Ride Pilot technology will make its debut in the brand's upcoming pure-electric"
     publishedDateTime: 2022-01-10T07:39:00Z

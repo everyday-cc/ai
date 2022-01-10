@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/learning-from-other-industries-heal
 webUrl: "https://www.linkedin.com/pulse/learning-from-other-industries-healthcare-jasmine-garces-king"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "How Machine Learning is Impacting the Finance Industry"
-    excerpt: "Machine learning is streamlining and optimizing processes ranging from credit decisions to quantitative trading and financial risk management."
-    publishedDateTime: 2022-01-05T18:15:00Z
-    webUrl: "https://www.bbntimes.com/financial/how-machine-learning-is-impacting-the-finance-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 56
-    images:
-      - url: "https://www.bbntimes.com/images/articles/global-economy/How_Machine_Learning_is_Impacting_the_Finance_Industry.jpeg"
-        width: 1440
-        height: 800
-        isCached: true
 
 secured: "BzEuaH5hMTi23bGmuLWkrSC2OXFk0sFqSTbFgcw/WffwRJT7pM3vUrNYAhGdlSZ7mKCMCpsPDJtVXRvJyT7aE+TaouL2xGm0tsoARtK8BKfgOTf8EWmrfXvrHzr3UI5edYWY4SYfI9z324D/G28BUWtwMg4Jp6zCYA1v43QaMOj6FahkycjZRYjBnnW3ieCOFCUp5+5nw9vKA6vnHAHZwLan0gt5HPWO0urn/BAuCWt+noFk1riKJkczier+DY/yccR/gPHGSTPB09FfOZonJdUnqBfkfpRZGSfdatK9lzBJDKRkQqEA5bmjjycvn8q9dezRvB1h6J7K2LXXzExJ15v42p6z269zErM/pJvAKi4=;2Y8PK6S8zykr85N43tJ+Dg=="
 ---

@@ -27,19 +27,16 @@ images:
 
 related:
   - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-    excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2022-01-06T05:40:00Z
-    webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
+    excerpt: "As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
+    publishedDateTime: 2022-01-05T22:54:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24922041"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24922041"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206134"
-        width: 445
-        height: 250
-        isCached: true
 
 secured: "60ADxYzei6AFzz+1YXU7wpJnC+Y2pZzzsOa0HjblBHQBBNT/BuVJ/e2CuBkLT+v3oKkzopCxF/4yX3/ZeWzu922YUei8O+JuB/fPNa6v6O/oHs3NfdD+RFsnMKzn2e+L2STG6vhMDV7pbWTozLVc6IlUlg1UayJRYkfCkRxFM8UG4E2vMoXhIc/oRRt6pZIHDXghvBEpETCf6L2LnBzYCUyjih/jppKM8BsyozqWJQ6D5uD7J18gGcPM0Sxfh+pLEr3c8her+yZye3J6qWEnWN8NvptTW3HbXqgxNZnRjArnx+K4KPJ6dYViG81I/vCJ/KvrEy94fEKgtXD4lAsgOBX5ONMOEi4NFNX+Q79XlYM=;5P1b6aaN/mOWEs0DKHWb3w=="
 ---

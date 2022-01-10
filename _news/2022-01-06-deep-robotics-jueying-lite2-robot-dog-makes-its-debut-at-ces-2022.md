@@ -113,6 +113,20 @@ related:
         width: 450
         height: 308
         isCached: true
+  - title: "biped unveils an AI copilot for blind and visually impaired people at CES 2022"
+    excerpt: "CES 2022, swiss startup biped premiered an AI copilot for persons who are blind or have a visual impairment. the companys"
+    publishedDateTime: 2022-01-10T10:40:00Z
+    webUrl: "https://www.designboom.com/technology/biped-ai-copilot-blind-visually-impaired-people-ces-2022-01-10-2022/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 33
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2022/01/biped-copilot-designboom-1200-1.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "5d/UfhC7wfNi5FP+6nAWokgib6GZNw2m+3dvZDRIz2G8QEJPH3SCNoZXxx+nDywj+fnAep2kWluTmMLFcA9DmmczlyIZPuyXWRg0XR5MmgY3i0uqT3d/sG3XIOrW18vM0I/SiKgrr+3Q6jvNFyVwaGuw/CGT/kWAyPiU1KPFBl4T6sH7dOJpfZ9lChncjDBh+8p+OBw4baSNFOL3EksXAc45i3MQry+liuOdxKNqTMOi/z2e6SGXX5nJqiAHzBqYWyOvlJ685ykFa5SUSYt40oaACceNNeIGT+W+Fj9408B4T9nz/oaoREhK4rQhD/uHkDc8aHftGE0S5/l0Tdc1PVJ67URYRNZQLZsqOGVjj4U=;2hKcDovUOqYY6FPYXQyCqw=="
 ---

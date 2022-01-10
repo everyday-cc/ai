@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-i
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -113,6 +113,20 @@ related:
       - url: "https://www.cioapplications.com/newstransfer/upload/zztsw450308.jpg"
         width: 450
         height: 308
+        isCached: true
+  - title: "biped unveils an AI copilot for blind and visually impaired people at CES 2022"
+    excerpt: "CES 2022, swiss startup biped premiered an AI copilot for persons who are blind or have a visual impairment. the companys"
+    publishedDateTime: 2022-01-10T10:40:00Z
+    webUrl: "https://www.designboom.com/technology/biped-ai-copilot-blind-visually-impaired-people-ces-2022-01-10-2022/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 33
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2022/01/biped-copilot-designboom-1200-1.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "o+kvEfbRG5qlcRsHhDQfaURpfM6u3zsw44PYEm8qUI6dK9T9yj4LYS0Xhw/VFyS73EwZ78r2GAUOAiuITiwwERyJEBuN84L+mfHFx0vkVOEjDR4+otZiOkinRO2dbiEh6lKU2QWN/BlLqHeUc/2iFR2Dc8se6YGWq1XodXkNRd2pYmc0R3Bl0lz2swSgIPMtsTyDZpL6P2pV0BaT9R8ZCs01oA+6a6rPCJf/8N8P9mXb3krOspid0LYeEPq2LiplllS8iGp/hX2t49zS7ht2VLufqeR5QCe4UhFAWg8Vy3AXH/qaYruLLGEL8kojgKIHGgxTSYe5BNdcQHTJ9xxVFfsE2MjhFd6KXw85Z4f5LWA=;97715cfnPrERYhu18kv+NA=="

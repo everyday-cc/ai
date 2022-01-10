@@ -2,17 +2,17 @@
 category: news
 title: "Big data, AI/ML to be most in-demand skills in India in 2022"
 excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
-publishedDateTime: 2022-01-10T08:09:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=913584"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=913584"
+publishedDateTime: 2022-01-10T08:59:00Z
+originalUrl: "https://menafn.com/1103512786/Big-data-AIML-to-be-most-in-demand-skills-in-India-in-2022"
+webUrl: "https://menafn.com/1103512786/Big-data-AIML-to-be-most-in-demand-skills-in-India-in-2022"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
@@ -20,9 +20,9 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/Mak_feb_sq_1.jpg"
-    width: 280
-    height: 250
+  - url: "https://menafn.com/updates/pr/2022-01/10/I_30e46image_story.jpg"
+    width: 400
+    height: 267
     isCached: true
 
 related:
@@ -43,6 +43,6 @@ related:
         height: 450
         isCached: true
 
-secured: "gMoLbFKHv474utGff9toiXd1san7jzjwYlEbiAJyrFyPB0W0bb1pj2xszoGMhBunWhBoIOewhQ4pw6OCrw63B+n7ipFcMSz2uBq6gfNplmY2uKOxiWaD2CSNy2491+7OLNTQB81hNNvHRhCtDS/TsXBi4GABjazoYZIc16VE5j+ddxjIiKnAVACC2E+QOYkWTtIZQKz6URhSdhFFpcPUNaNiZq+5RtSsif5ihFR7Dzjhueo9/Je4X7SFfTG+Ten3WCK7XUlBLJlTbugg+d3Fdk34ZydHuWLwVwRwrmml4W8PnP6R2LliLudN8qvMvshU3q6yxE+5RKWZ28AZ2UV0TXA5Fy9HSQ2d4getPYRFRzY=;+YmsEZDV7gpxQwQCJ2SLPQ=="
+secured: "Xle2xZxD+LZbhL6JuvhtLrJZPXF5Ji+fxqdImbhYNTRdqDRB1MmIwq8PEvSWbHwhJEHT3m0qBqv9xMIug+f+n+UBrAoZYf8kX0pvkLOwPpWehh3yEElXe0S40G+KtwN2GTBULJpPyBCeB7iSSBE3esV9Hy9Yu/v6ur9G1pXmbL3Z21J1FQ3R77QesD/i0Qtpv+mXNbmxOuSn+OlShBOGKsXHRQ9G2+VxSyb9XL26S2mNRbnQUpinj0n3KO3D8KlzxPFlInTSTtfML9QfOnXq9DJVC+60a8NH8R8i/snbmjwT35pn9rSSM43KrS9Psfpa5x6kWLuCzYmtOc0hGvGoIdC89ugFQPzLgQMDcR12i5Y=;2J7r36b/NsQUP79ZRSFq2Q=="
 ---
 

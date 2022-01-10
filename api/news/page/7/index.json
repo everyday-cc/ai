@@ -2,6 +2,143 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-04-spreading-the-wing-to-enter-taiwans-robotics-market-to-catch-up-with-amr-trend.md",
+      "title": "Spreading the wing to enter Taiwan's robotics market to catch up with AMR trend",
+      "excerpt": "All major robotic manufacturers invested a lot to keep up with the trend of AMR. In the Automation Taipei exhibition, many players have launched their flagship AMR products",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
+      "originalUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
+      "publishedDateTime": "2022-01-03T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler.md",
+      "title": "Toyota Announces New Self-Driving Auto Software, Challenging VW And Daimler",
+      "excerpt": "Year-end sales figures are expected to show Toyota breaking General Motors’ 95-year hold on the U.S. top spot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/",
+      "originalUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d39019dc6c1246f755465d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5778%26cropY1%3D275%26cropY2%3D3527",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
+      "publishedDateTime": "2022-01-03T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast.md",
+      "title": "Start the New Year Right with TheDetroitBureau’s Headlight News Podcast",
+      "excerpt": "TheDetroitBureau.com covers the top stories occurring in the auto industry in the latest edition of the Headlight News podcast. The weekly roundup includes news, features, reviews and more. The on-again,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedetroitbureau.com/2021/12/geelys-zeekr-to-build-autonomous-vehicles-for-waymo/",
+      "originalUrl": "https://www.thedetroitbureau.com/2022/01/start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/waymo_zeekr-3.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheDetroitBureau",
+        "domain": "thedetroitbureau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-1493-billion-in-2027.md",
       "title": "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027",
       "excerpt": "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery.",
@@ -333,8 +470,8 @@
       "title": "Avalanche Computing Launches Revolutionary Low-Code AI Tool at CES 2022",
       "excerpt": "Taiwanese deep tech and hyper-scale computing developer Avalanche Computing is launching its revolutionary low-code artificial intelligence (AI) tool, hAIsten AI, on the global stage at CES 2022 in Las Vegas.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-avalanche-computing-launches-revolutionary-low-code-ai-tool-/2022/01/03/9518779.htm",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/avalanche-computing-launches-revolutionary-low-code-ai-tool-at-ces-2022-1031074305",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -353,12 +490,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T06:33:00-08:00",
+      "publishedDateTime": "2022-01-03T07:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1030,127 +1176,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-02-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
-      "title": "Ethical impact of AI on health, safety and wellbeing",
-      "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/",
-      "originalUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32891.pcdn.co/wp-content/uploads/2019/10/GettyImages-1051617224.jpg",
-          "width": 800,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/",
-      "cdnAmpWebUrl": "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/",
-      "publishedDateTime": "2022-01-02T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SHP Online",
-        "domain": "shponline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-01-rumor-claims-intel-will-disable-avx-512-on-12th-gen-alder-lake-chips-but-why.md",
-      "title": "Rumor Claims Intel Will Disable AVX-512 On 12th Gen Alder Lake Chips But Why?",
-      "excerpt": "The saga of AVX-512 on Alder Lake has been an interesting one. Originally, folks reasonably assumed that the 12th-Gen Core processors would support AVX-512 extensions. After all, it was supported on the last-generation Rocket Lake chips,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/rumor-claims-intel-will-forcibly-disable-avx-512-on-alder-lake",
-      "originalUrl": "https://hothardware.com/news/rumor-claims-intel-will-forcibly-disable-avx-512-on-alder-lake",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/57226/content/Intel_Alder_Lake.jpg",
-          "width": 708,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/rumor-claims-intel-will-forcibly-disable-avx-512-on-alder-lake",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/rumor-claims-intel-will-forcibly-disable-avx-512-on-alder-lake",
-      "publishedDateTime": "2022-01-01T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-01-metaverse-ai-and-and-other-big-digital-trends-to-watch-in-2022.md",
-      "title": "Metaverse, AI and and other big digital trends to watch in 2022",
-      "excerpt": "Here are six digital trends that will influence life in 2022. Social media: more privacy, quality and algorithm tweaks Platforms will concentrate on privacy and content quality in feeds. Despite recent public criticism,",
-      "sourceUrl": null,
-      "webUrl": "https://www.coventrytelegraph.net/news/uk-world-news/metaverse-ai-big-digital-trends-22621948",
-      "originalUrl": "https://www.coventrytelegraph.net/news/uk-world-news/metaverse-ai-big-digital-trends-22621948",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-01T06:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coventry Telegraph",
-        "domain": "coventrytelegraph.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

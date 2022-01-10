@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-poss
 webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: LinkedIn
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Discriminatory AI and disinformation powered by deep fakes"
+    excerpt: "Here are some of the concerns where AI might go wrong and that I believe need more awareness in 2022: Gender and racial bias in AI According to a Unesco report, only 12% of the ar"
+    publishedDateTime: 2022-01-10T08:49:00Z
+    webUrl: "https://www.bizcommunity.com/Article/196/852/223906.html"
+    type: article
+    provider:
+      name: Bizcommunity
+      domain: bizcommunity.com
+    quality: 39
+    images:
+      - url: "https://biz-file.com/c/2111/636347-847x440.jpg?2"
+        width: 847
+        height: 440
+        isCached: true
   - title: "AI and Disinformation – Echo Chambers in an Age of Division"
     excerpt: "Echo Chambers in an Age of DivisionVicar SayeediJanuary 8, 2022Disinformation, or its contemporary moniker, ‘fake news’,"
     publishedDateTime: 2022-01-07T23:00:00Z

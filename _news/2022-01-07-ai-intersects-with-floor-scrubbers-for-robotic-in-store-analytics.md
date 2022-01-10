@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
-    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange,"
-    publishedDateTime: 2022-01-07T12:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html"
+    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud."
+    publishedDateTime: 2022-01-07T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "9kOG//BVy+kQRZ1bXNNVFkV+GUQbQA0G6UxW9NV/PBcAYVkqsm8HYZtpuN8SNZo8FfwI7zDkpmiUdFWMmHbchIv3h9pSVSAnlC6aQp7AoxAWRVS72josg8Vrfsl+JmDktWkgPPhDs7H6rN19cgjuYGBslnGoVr8tcKqdHADnBaQeRDFO7Go+MzvqR54k50C62Ui1bX6cLfpFSQhLTdjHd2F68YG6HFH8FIZB/SruXOZleOtGX9dM7dKH//fHC/aME02bETSIIwRND8TbMTOLWVG9e/Xru5WlCJdj81M/deTs7wVDcyxDRmRMJApGgoBLHKaxdOTdS+4aWS8CExJ3JYSBu4RfKT5focDktY6C8v8=;DLQZIwsUNw2tmyFo9SbjLg=="

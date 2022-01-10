@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://c.ndtvimg.com/2021-12/imil18ks_indian-army-quantum-computing-lab_625x300_29_December_21.jpg"
@@ -96,6 +97,6 @@ related:
       domain: webindia123.com
     quality: 17
 
-secured: "FP/q7GFrcrVmHIsXx9YmH/+hDRy65PU7Rk648s6jj5fksesxVEKMmGheZRgSvZFxym6TSeGJYsdrmE1dvEPouZY3DEbv0zZ3tCLTp3E6AGHbvc3sup4x/Nxh/3rJGyhIXYj4zMlrrJe88xwke9Hue25gGheJ28cc8YkzFBEUpzkb9SQMReCTWLQqWrbs96YSTHxyyLJVjArCc9tfb0FqmH+Q/SFrLJIvArBXDsk4yhIj+0GTm5TsRa5oXVvqtoL6OzsQAox+NPOuwbqcZoF/s/Z3fXoJ8C0I5WsvO2spYF0rbwpIZnmLiQV9F0V//F1YtbOKlaNT8t4jM3+dufiBN2yA1tyS8iI7rr2iB5yoTcQ=;wCYseVKf7y82XOlIAPuZKQ=="
+secured: "ltVTtINLmvNtiRP65mJG3hxgvXIaijzx/HOdMA9DRawwJOSxBu3RJeDqTpXaEmOiqQhDXTGklfie97J5egMeTjk2OdPmpDg3yzwi9X9JMMRSj8ZtQknqCaxk81CE4WYDsFYBxDBjLNOyhsRepkcK1emNqFdYqbkRfFwhWSMq9AoeK/VCMLK/qTHRpXJK5Q0V2zITA2rz1hRgEvALxF4MDnarsVhWihn4BS31bzGILaiBLQ89eekoylW8mzqRKKJnp5ZLFE16Oip47joF1ASn7BZFT5hFiHVGr9uxfVdNichPudjlGLbyQGOtXSlEuRpndAulYaStignA3UdFcCvmq3Lv9whngGdl4CFaQwSiBUUBJsLGL7NcS23dSkOHJN2F7RIYMbHu7V461Y0sFCvtDd2bBoq/MHgwnr//UG836rVki5WpV5he2Hzv9IQHrNU1YMNPd5WkAIMf82j2TeesSIScpPjltn090N5iM2US1AOfZ52k9HnROo0+WSFSQjGy2ziP2rrEJdlCKG/lFrKfbA==;vxK9bTpdKn3KNEiz+rgZbA=="
 ---
 

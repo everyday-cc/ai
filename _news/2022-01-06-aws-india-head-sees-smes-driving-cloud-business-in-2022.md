@@ -29,17 +29,17 @@ images:
 related:
   - title: "Big data, AI/ML to be most in-demand skills in India in 2022"
     excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
-    publishedDateTime: 2022-01-10T08:09:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=913584"
+    publishedDateTime: 2022-01-10T08:59:00Z
+    webUrl: "https://menafn.com/1103512786/Big-data-AIML-to-be-most-in-demand-skills-in-India-in-2022"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 56
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/Mak_feb_sq_1.jpg"
-        width: 280
-        height: 250
+      - url: "https://menafn.com/updates/pr/2022-01/10/I_30e46image_story.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "ska8cyr0DZLd2MTIlVLgaLovtK1uf692B/as7T/NjQ+muWsE0yFogvrg3asUFkh+BENnqY2FrmtbPqviUEmY8XDAWKF8D1BYLT7XgDc0puI7rCp08BvNkTmeGYzL9CZUDz/HE2BSobyv649tnFetti+7ce+wc1NeTY7pkiSDyoWUAsyATkJOqgzR7gCZb0vmkX+STQtOW2i9fs1nfIUesVX8J0jeNaN3EwgRnk5V0IX6KD7SBNvsrLgiboTl/diVIJtVf+SmGhU2gyM0J8xofNKAFOTvtRyJ+OKviHOCK3j1wzCdTdl3UhS0TzxGiDDLXkATZSQquBL54maWn+iROvKrCvG2UjwgceZPvmwXasIJoqrjo8XjgA7nlC+wT4PPtMh3qQ8DJblJUdKinMBh5avo9Auhe5J+atDs00EN9hf9p6NwpS2IqOyyp+DlcKIgfJWnG8r8WnTmgZ5dNbdV6VXapQNjIdP7jQW/9LthMWlxfr+n8EnufGW9rggMCcgW2kNI5/ISFUn855vtvKOWbw==;WF7lkaaLKxmSvL7x58dbjQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1024
     height: 577
     isCached: true
-
-related:
-  - title: "GM Aims to Launch Personal Self-Driving Car by Mid-Decade -CEO"
-    excerpt: "General Motors Co aims to introduce a \"personal autonomous vehicle\" by mid-decade, Chief Executive Mary Barra said on Wednesday. The self-driving vehicle for personal use is being co-developed with GM's majority-owned Cruise,"
-    publishedDateTime: 2022-01-05T17:20:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-01-05/gm-aims-to-launch-personal-self-driving-car-by-mid-decade-ceo"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
 
 secured: "NeLWk02/5mCIkSgdjbmfWYihvS9XF9ws1DLM0qzDXRe8Tn5Kq2vlT43JTE8QcdvSIjPj0wBibLu9ol0NkiBTGuGjCS4dxzeNhweC1Tw5jGYGIdSxK4X/EGBfZAN18TFreWpPAgjvXOhSGaHWU0kD9IxVQTaK7Urx2nOx65WVsMc7kbGvW6ihRsrnUjCXdGoQE8blvXbMMxWMvo0rxeTUfsxG1mpdQbWvUohFRmonly1P3s+m3L7Th9UcZF+4YsatwkJHi9l2XTvRDg74uhWsP2ZnikGItXN91Q2Y8hgIIC9KITk5UUzO1k7tAAT2rtdZ1MmCMsbpSvG41JJQdsCc+4NZeXJSzvJX7wMRPQAuUCk=;ZjODAyzIjNdTIuNbDvrdSw=="
 ---

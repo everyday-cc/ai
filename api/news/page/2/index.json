@@ -2,6 +2,100 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-08-new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous.md",
+      "title": "New controversy in making? Tesla wants only cameras, AI to go fully autonomous",
+      "excerpt": "Tesla chief Elon Musk has shared that the EV company will make a system based on cameras and artificial intelligence to attain full autonomy in driving.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/01/07/600x338/2021-tesla-model-x_1621055198406_1641538769141.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
+      "publishedDateTime": "2022-01-07T10:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge.md",
+      "title": "Artificial intelligence reflects the world around us, and that's a challenge",
+      "excerpt": "Getting artificial intelligence systems to deliver fair and unbiased results, as well as ensure the right business decisions, requires a holistic approach that involves most of the enterprise. IT staff and data scientists cannot -- and should not -- be expected to be solo acts when it comes to AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c86efdc4d077e8b8649f5c81844545a9ae4679d2/2022/01/07/fd2ee2c7-8999-4af6-b91e-5e6602b61eca/buildings-with-rose-new-york-city-march-2021-photo-by-joe-mckendrick.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-reflects-the-world-around-us-and-thats-a-challenge/",
+      "publishedDateTime": "2022-01-07T10:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-csa-guidance-addresses-security-privacy-risks-of-ai-in-healthcare.md",
       "title": "CSA Guidance Addresses Security, Privacy Risks of AI in Healthcare",
       "excerpt": "Although many experts forecast a promising future for AI in healthcare, security and privacy risks must be considered alongside benefits.",
@@ -98,7 +192,7 @@
       "originalUrl": "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -401,7 +495,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -432,6 +526,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
+      "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
+      "excerpt": "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -582,50 +729,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
-      "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
-      "excerpt": "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-07-has-your-marketing-org-started-its-ai-journey-yet.md",
       "title": "Has Your Marketing Org Started Its AI Journey Yet?",
       "excerpt": "AI can enable brands to personalize experience and offers in unprecedented ways, but most marketers are sticking to the same playbook they’ve been using for decades.",
@@ -686,7 +789,7 @@
       "originalUrl": "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -961,7 +1064,7 @@
       "originalUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1086,101 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-using-artificial-intelligence-to-help-cancer-patients-avoid-excessive-radiation.md",
-      "title": "Using artificial intelligence to help cancer patients avoid excessive radiation",
-      "excerpt": "A Case Western Reserve University-led team of scientists has used artificial intelligence (AI) to identify which patients with certain head and neck cancers would benefit from reducing the intensity of treatments such as radiation therapy and chemotherapy.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-cancer-patients-excessive.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-cancer-patients-excessive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/helping-cancer-patient.jpg",
-          "width": 642,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-cancer-patients-excessive.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-cancer-patients-excessive.amp",
-      "publishedDateTime": "2022-01-06T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-self-driving-vehicles-are-hereif-you-know-where-to-look.md",
-      "title": "Self-Driving Vehicles Are Here—If You Know Where to Look",
-      "excerpt": "Glossy visions of an autonomous future always seem just out of reach. But two insiders say the technology is available on farms, and on clear, dry streets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-driving-vehicles-here-if-know-where-look/",
-      "originalUrl": "https://www.wired.com/story/self-driving-vehicles-here-if-know-where-look/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61d608c0fef057d9d3794928/master/pass/Business-John%20Deere-r4f175043.jpg",
-          "width": 2400,
-          "height": 1589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/self-driving-vehicles-here-if-know-where-look/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/self-driving-vehicles-here-if-know-where-look/amp",
-      "publishedDateTime": "2022-01-06T09:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

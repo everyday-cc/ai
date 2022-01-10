@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
-    excerpt: "BEIJING, Jan. 5, 2022 /PRNewswire/ -- Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year. It is also ..."
-    publishedDateTime: 2022-01-05T18:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=595359"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 36
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
     excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
     publishedDateTime: 2022-01-06T01:48:00Z

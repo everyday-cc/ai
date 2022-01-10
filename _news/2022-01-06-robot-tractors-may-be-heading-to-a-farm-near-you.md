@@ -88,20 +88,6 @@ related:
         width: 800
         height: 595
         isCached: true
-  - title: "Deere ploughs ahead with self-driving tractor"
-    excerpt: "John Deere demonstrated a fully autonomous tractor at CES 2022, touting the tech as a way to increase global food production."
-    publishedDateTime: 2022-01-05T17:21:00Z
-    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/deere-ploughs-ahead-with-self-driving-tractor"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 24
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2022/01/tractor.jpb_.jpeg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Robot tractors may be heading to a farm near you"
     excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
     publishedDateTime: 2022-01-09T21:31:00Z
@@ -137,6 +123,6 @@ related:
         height: 382
         isCached: true
 
-secured: "4ArweC0ExtH5J9jR9lRGeuRmJTc+vQ4V74lvPEb9frlX5v/X2yBvG00Fi/CQRhJbK/wuNU0jbiFzYraq9TAL9lWDs/Fg/leU25jyB4vYJezPM4R/klYphYIvRWbHvKJD7bYRyOFikqMbr3PiI+1712EES5ZgQ2XmUbaSVl2XKittCJh2KQPJYc4UNHcEawHd4YtxMyO129sNw9I0+qmI7HzWvs6Cmors/+mUWhraMPD9cfXT3UoZnTDUL0w8H+N9U0fsFyo0Z1TYBQT5n3qh5YG6vtbe79DXcq8IduGI1PwQvx97Csl9aV85qZbfKkPsIIfEIvdeEl2gWajfqo5WMxHgzcYsLeqsmrJjZmgNeQ4=;fXkbuOYQqNj5cEFiA8ZIIA=="
+secured: "ZuEus0+uEavb4wtInoTvEVaGiWbxeyKKyHqyzUSHnwYPUN09ENPdRAqEQ7kintadsRI/JcVnhexT4zFlOIO19eMBTuy0GpKJIY+Oz23tKIcq8pWBzbxFMOwEHAMAAc7tjSIZkDiczNdjSc2aKPcS+D5Dq5lC8L4Jdn4e3/X3a7tHg8t8squ+cJ0xVz4Cqmg0yblqC0z03hfMtJRyGPIHlZNXZOoo81GZRkKZ+TVnkCRLepz5IO+c76fTX2yNYaqLBlusO3V4F5DltFH5yx+2dNjx4ZIMa8CRLjcW2o4j5aJ6zKx+NiJRYg61/aZ4xgM0U8BL1oLz7+w3E+0Zf2Awivdp2wWIkTTXxGKhwobOQPk=;FIdnK9YxyFPs5Riw93lWng=="
 ---
 

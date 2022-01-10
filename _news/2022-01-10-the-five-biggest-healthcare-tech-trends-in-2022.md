@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/"
 type: article
 quality: 89
-heat: 169
+heat: 170
 published: true
 
 provider:

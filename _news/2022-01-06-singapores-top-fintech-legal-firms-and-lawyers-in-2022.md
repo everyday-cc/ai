@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Bairong Inc. Named in KPMG's China Fintech 50 List for Sixth Consecutive Year"
-    excerpt: "BEIJING, Jan. 5, 2022 /PRNewswire/ -- Bairong Inc. (\"Bairong\" or \"the Company\", 6608.HK), a leading independent AI-powered technology platform in China, has been named in KPMG China's 2021 China Fintech 50 list for the sixth consecutive year. It is also ..."
-    publishedDateTime: 2022-01-05T18:15:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=595359"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 36
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Fintech’s Biggest Challenge for 2022: Customer Service"
     excerpt: "As I reminisce on these past three years since founding OneBlinc, and the tremendous traction we have been able to obtain, I have been thinking incessantly about what has helped us win, the key challenges we have faced,"
     publishedDateTime: 2022-01-06T17:05:00Z

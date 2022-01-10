@@ -41,6 +41,20 @@ related:
         width: 320
         height: 213
         isCached: true
+  - title: "Ramaphosa uses ANC anniversary speech to stamp his authority on the party"
+    excerpt: "South African President Cyril Ramaphosa has delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was the party’s 110th birthday."
+    publishedDateTime: 2022-01-10T09:18:00Z
+    webUrl: "https://www.polity.org.za/article/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-2022-01-10"
+    type: article
+    provider:
+      name: polity.org.za
+      domain: polity.org.za
+    quality: 23
+    images:
+      - url: "https://cdn.creamermedia.com/assets/articles/images/resized/0000978004_resized_theconversationlogo.jpeg"
+        width: 511
+        height: 287
+        isCached: true
 
 secured: "xCynjrLbKBHzmfbzhkf0M+UfHVU7FTXDVSHtEpO4bo95xss0QyodEVOpNKouvMoBROZpDydBq+SdkZ5CxPrygmM7js58oQG/F5pIOkavFsE2BiupURyDxiJxcXoV0+4j/t+yEpi/dmUgG/uvdjm0X639Piso8OSpajTIyOcURiUxbTiH/ic7MVb6x0ny14L875P6jEyKja+G+M7q90rcntfX+k8uzDpLVUGCadIvwRnbTCvMkYdMkjbUlSqFTNtzi/TtqRjMm+FPdADd3vcQFm16Rqv9YbmlLcq/Vxb33/JAVGeKBrWgLMCNpLnKiYEsYlNAgEsUPyGdWVeTrlBfWiPFw24wjlblO+EjmhqX0Mo=;d/NdIW5wqgKF+Za+M4GtlQ=="
 ---

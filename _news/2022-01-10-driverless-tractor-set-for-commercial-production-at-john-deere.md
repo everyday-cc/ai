@@ -43,15 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "University of Hawaii to compete in driverless car racing competition"
-    excerpt: "The University of Hawaii will soon compete in the world's first head-to-head autonomous car racing competition. The Autonomous Challenge at CES, or Consumer Electronics Show, will be held Jan. 7 in Las Vegas."
-    publishedDateTime: 2022-01-05T18:23:00Z
-    webUrl: "https://www.bizjournals.com/pacific/inno/stories/news/2022/01/05/uh-compete-in-history-making-driverless-car-race.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "fWkxkZ63/8dMjdMpLuigyAa2Q8lA2xOagTzl9YgciANNVImIWhK2inbOVrzCnHVzMB95lqPVIVHLP75blzQqhQuMmaDEhtDyd/QmNTl444FV0xfJtoMmMRQXrYh429rIxhr0vWXPVAdmBtZRldW0ld1Mi01E0OFp10eW/tSHxKWJMlE8NK2bSG6VPNwF5FpDPqbaqvFRxNdf4s5GlGTOVoAD3yAZeFOtddEwk9GIaYfr13OvMvhEgN18WCuF9c4SrWCStetR8EvXFFBBs/CEzsIhk2vVNv3NrXMuNzTL7RSsugYV6gwtckMyHETSL+4F6bN/oa/qbw6JKxQ9CACGXglLXAgoQsYQJ5vNZR3ACc8=;2w3BmERZPk+ErVNb1NDzjg=="
 ---

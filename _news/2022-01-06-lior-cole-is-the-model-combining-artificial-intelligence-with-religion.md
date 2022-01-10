@@ -56,20 +56,6 @@ related:
         width: 387
         height: 400
         isCached: true
-  - title: "fylm.ai 1.1 update brings online raw processing and grading for photographers"
-    excerpt: "The fylm.ai 1.1 update is a “Photographers Release”, bringing the worlds of still photography and video closer than ever fylm.ai is a subscription based online color grading tool designed for both videographers and stills photographers."
-    publishedDateTime: 2022-01-05T17:25:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/fylmai-11-update-brings-online-raw-processing-and-grading-for-photographers"
-    type: article
-    provider:
-      name: digitalcameraworld.com
-      domain: digitalcameraworld.com
-    quality: 34
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/d49GFiVxggCLNzS4AbbZ4V-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "AiEXBDUTRdG+IwtIWphJRyKdVz+9HXCajtl5FBf/cwpEcYgBx1Np+mHWG4zTFPo80YZF1KHWjN8is5jOvU+9hZhFZt9LMwppjINoc4Q3+yb+SXkOoN2SKFTZSjO/1cNXwS1mBtC2n2Bofrp18avthzYQ1OgRy6Z8DSXkzJTRhboVnz4pIdanOjQBAFrDzbeVc0VHSTML2s1jIw09b9GeXvvRkLJAA30hiQEslEpiZAM8GI6Z+wpwe7dmgQCUqXzMbs2Fm1TQTL87O5Y0Ysxyx74hyzjCMolI2xNeUTSRl3AXfKcEPdM9nc0BkzMsuCrAaPiX4qhUv6FReTiF28m0DcvBy/yLXhjxhp6dxBkzgI0=;zpwz7b+0v38uA+AtTyT++A=="
 ---

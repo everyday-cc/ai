@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp"
 type: article
 quality: 68
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1422658/UST_Logo.jpg"
         width: 387
         height: 400
-        isCached: true
-  - title: "fylm.ai 1.1 update brings online raw processing and grading for photographers"
-    excerpt: "The fylm.ai 1.1 update is a “Photographers Release”, bringing the worlds of still photography and video closer than ever fylm.ai is a subscription based online color grading tool designed for both videographers and stills photographers."
-    publishedDateTime: 2022-01-05T17:25:00Z
-    webUrl: "https://www.digitalcameraworld.com/news/fylmai-11-update-brings-online-raw-processing-and-grading-for-photographers"
-    type: article
-    provider:
-      name: digitalcameraworld.com
-      domain: digitalcameraworld.com
-    quality: 34
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/d49GFiVxggCLNzS4AbbZ4V-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "myuguQXDJmnxy9GulKXUYE+2OMHs3pL//Q/1/3EErTuikMqDlbv+QIHV0jml7mm4nidXWtIrSJaVveO1ZzTbuOyvS/gbVE91/NVRWzk/fpzyGMiW+yVAZ18/yjB0nn2qXHhiiY9GwfaoKT5gqA50FuZEibwx8qfIAxMKpX/ERxkehWJ4t3I0XrSUrpUveQjztNRu+K3Sk6gEzEyDuxx6iGvVTY/UT+CS7T6AL8nvZyKrSB205sZb6ZfNCq2JcT4MeZYSUbqsXu4MCbHtw4l9rwfktjDoZC6cc8RcrpGYEqGux54GuJxyKt/JuIDGUl+J3R0DAiWOuFMb3qFDlh4zmistsZbt3iOS98UoiZuYmH8=;JwZKut65c+tsrn2O61TTJQ=="

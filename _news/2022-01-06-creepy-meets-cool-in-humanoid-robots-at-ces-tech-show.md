@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Self-driving race cars zip into history at CES"
+    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Jan 7 in an unprecedented high-speed match between self-driving vehicles."
+    publishedDateTime: 2022-01-10T09:38:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/10/self-driving-race-cars-zip-into-history-at-ces"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/10/1438590.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "xl8LKK+5NG0P/jOZL13VmThVOGmOMe0/YyGTXhJLKnwWhcy7v/InMAeTveUjgfP1ECvpFv2cr9yQo5NM/brpRlHaHtBYNLjyeu3dAeIbmcDY9JSzC3dcFm7WTpbaMLBhI0UDBX8TNG7v0B5Z9Z+lqUEEDoNwO1tOsRfrcFNL+pP2FChPGY88Plyy+ifvJWsDowY+mTa5KkrgVU3ZHyzJ7rXXMMk4WStCPw+tx1gyrSXfSe8JZb+gl5egcBamNfdJdd9onYT9hvRjOtyAYgWL7DArlz86F8woiOZBEOmiOcCZ7hxPXvhdnXkHRH7a+uDZ+t8qkExgUYv8Gt00xlUy3Ux6ZscyUyrCgrTYNSFEedI=;/Hl3XY2xKds+qFEaltTHeA=="
 ---
