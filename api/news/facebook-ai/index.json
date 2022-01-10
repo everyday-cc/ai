@@ -62,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -103,7 +103,8 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "Computer Vision"
       ]
     },
     {

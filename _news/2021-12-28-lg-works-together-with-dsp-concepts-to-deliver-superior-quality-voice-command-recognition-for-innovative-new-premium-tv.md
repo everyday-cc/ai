@@ -1,30 +1,26 @@
 ---
 category: news
 title: "LG works together with DSP Concepts to deliver superior quality voice command recognition for innovative new premium TV"
-excerpt: "LG chose DSP Concepts as their audio solutions provider. DSP Concepts used the Audio Weaver design platform to craft a custom solution for LG based on the renowned TalkTo audio front end. Because Audio Weaver makes it easy to design,"
-publishedDateTime: 2021-12-28T12:14:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084"
-webUrl: "https://markets.businessinsider.com/news/stocks/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-1031068084"
+excerpt: "DSP Concepts, the creator of the Audio Weaver development framework that powers sound and voice functionality for many of the"
+publishedDateTime: 2021-12-28T11:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-301451148.html"
+webUrl: "https://www.prnewswire.com/news-releases/lg-works-together-with-dsp-concepts-to-deliver-superior-quality-voice-command-recognition-for-innovative-new-premium-tv-301451148.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1716992/65ART90.jpg"
-    width: 400
-    height: 225
+  - url: "https://mma.prnewswire.com/media/1716992/65ART90.jpg?p=facebook"
+    width: 1485
+    height: 777
     isCached: true
 
-secured: "SJNJSCbtI2SnJJKJbgzoeriQV1NIcXYxEw+lhA81Tbzak+VDE7B8mY+41q6zBBszrEzfXsKZa6Ffv23v8Nfehj2nQdGn2T8D30jvCOa2YO6EA2ygrnMUq1TJ6obYiNKknFqLmkrzukEO4TFqs/6Yvz8RuUTJGuf3HjSX3h5DBc6VVglZ0x/R7DELiUNcISfTEi2g0PzAXUYzqzfJmO8gzsBO2KPPPmbZKzejNEteYj9hi+azq1dvbp8q1CYRN7gnj37b5l/6nwpgA55GpL5p0BiPxIHGY1mP25SXM8gptOhpPdgL6Gn+wL5rBFsMQW2P2pAZNVKg/ym/HVcMxcnVGfoNvUrVhRiqbmLnYqIwvs1mXCMk87ZvfH2EPmicsFCFQhgsuY3z50k69cQvyh09b9t/nTFilMeW2defnsC9FLOu81mrBirvvnNwkXl8KMO3R7mGHs60xip9+c9+UvUekUYwv5EXWgVDH5zAShthfAiprcktHgYDshdrHsCgEvVZiXMM50P8WFTh/9W5MWmuaw==;1he51VRXFUelHxCyhTkdww=="
+secured: "piyAKxPO21XAxW8ozscgfYqP4ZsGIMc5g86Dd0c085uyAo3AWk+M1ARqyJTApsuCUdlc1N5KScKp25hSaNt87W880vAULkHG2IbTwv6sKMcBKRVfxcHhnNHs+WhdwWVI85NVrwWw92S8j43W4QDZc4ApDtkV046HeF66NS7XJHh2bG8PVR+wOZPmFWbYWoTeKJOtEP0ZjvuFyGWd/hDz+fC+0gxRdVn7UNokeqdovE+WfQY5ImRtRr27veMZLA8xjgkWWRfiTrT516TSmQkD6O39+TEqUv+dOfO+rOQdjydZclIe3qi8CfeWTvW4BzRbeuERURpXO4Mk2ltpaw+8G+QseakUbeG1T6hsnh5GjDw=;+xT6Tv7ZfIPfdolGL2BTxQ=="
 ---
 

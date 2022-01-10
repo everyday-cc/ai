@@ -40,20 +40,6 @@ related:
         width: 400
         height: 210
         isCached: true
-  - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
-    excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."
-    publishedDateTime: 2022-01-06T14:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ust-launches-ust-aisense-an-ai-led-sensory-solution-that-makes-hyper-personalized-shopping-recommendations-for-wine-beer-and-food-1031081739"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://mma.prnewswire.com/media/1422658/UST_Logo.jpg"
-        width: 387
-        height: 400
-        isCached: true
 
 secured: "CYo+mXDiHL0PM2Z0v5XMBBeqZuMgX0KsY3ztVYFDBCICV0kPEPGpyv8CWBiSx/o9VKdzH/MWG8huj+QORuKeQT9VF2+GuxLiZpTmfUVGZkQhp/HS8o9BDUqLUNKWq7GnLX4F0eHPwWLL0obPeg8TIRi0wtHAmd7USYPGcFmOIoFmzOXCwm0eUl1doCVH4qAZNQP3Y7+paXoSlLZ8GsndAJBgxmX2M+f3s/SktubAgi8CI6JrneAXOhKqlS4Cgy9HeG6lj0RZiOZ8H69BOB+U1HCx9bWcVMH2LRA/7WJa1c64U6HXHsTS3GU6V/QA69CxMGjuI2DMA190X7eFwoF8mhtSJ8ny8Vm0+c91zFpWUrY=;K1e0bOQdoCqE2wa4xnEy+A=="
 ---

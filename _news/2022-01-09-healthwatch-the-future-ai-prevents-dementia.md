@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-
 cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: We Are Green Bay
@@ -37,7 +37,7 @@ related:
     provider:
       name: yourerie.com
       domain: yourerie.com
-    quality: 57
+    quality: 63
     images:
       - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/01/Your-Health-Artificial-intelligence-to-help-prevent-dementia.jpg?w=1280"
         width: 1280

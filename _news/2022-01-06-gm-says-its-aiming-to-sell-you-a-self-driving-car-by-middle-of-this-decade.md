@@ -68,19 +68,19 @@ related:
       name: bnnbloomberg
       domain: bnnbloomberg.ca
     quality: 56
-  - title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
-    excerpt: "U.S. economy. While self-driving trucks are still years from winning regulatory approval, pioneers of the technology see it as a long-term solution to an increasingly intractable labor problem. “Human drivers,"
-    publishedDateTime: 2022-01-09T17:22:00Z
-    webUrl: "https://www.bloombergquint.com/business/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
+  - title: "Robot trucks get US tests, raising self-driving safety stakes"
+    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
+    publishedDateTime: 2022-01-10T01:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/10/robot-trucks-get-us-tests-raising-self-driving-safety-stakes"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: The Star
+      domain: thestar.com.my
     quality: 56
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/09/1437655.jpg"
+        width: 1240
+        height: 827
         isCached: true
 
 secured: "opJ6tIe5vaYura8CkRIBzRGY1u0+rGLI24ggYBQH4/K5ON9zuXQLzmXs84Uqjs8TBe6RU4WZ0X8wUdR+ljsHnA+95WKoFfgEU+9w2xbuj31S8KuHORcL0bHPyuV5FDIoH2tPPMl7JI69ootKsxSeD+pwUQXcY4xFDxJMDPB+VDNTja85DZ1YMX9wJ4ZEWoT2Zhsn/DIkwDoF7OvxDVHPUtukfHlsXHhkYw4Ohp4nlUyKCRn+nnK6SkQQnkjxIoJ1/39stD5Bk1IjiyLAbVIO7Dn5iGWtNYIKtYJafRCvNoNPHBqMeZQ0CfztGgXumbaLeqNMZYSwB9ZaBd5z//yn6QyYFUVkJ0s/UuibYA7dEpeL4BM9LvepC9uiMx2CIvd+Q8gnPYk0yR+LXWAAMO9rqBaqlXikf/kDEbxjmPDAZl2SW+awkaHt9p3sGeRxYHu82aB/XNTp1OYvniF56UahjYshTLTZj9JS1jdnYPUBM/hc76T7MCaZzj0DC9zmEXrw+4g3R/2Aza+YG1l+UXrqMg==;ZCCwf5y18zZQcGUid29vdg=="

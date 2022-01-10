@@ -53,6 +53,51 @@
       ]
     },
     {
+      "path": "_news/2022-01-10-your-health-artificial-intelligence-to-help-prevent-dementia.md",
+      "title": "Your Health: Artificial intelligence to help prevent dementia?",
+      "excerpt": "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s already in the operating",
+      "sourceUrl": null,
+      "webUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/",
+      "originalUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yourerie.com/wp-content/uploads/sites/27/2022/01/Your-Health-Artificial-intelligence-to-help-prevent-dementia.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/",
+      "cdnAmpWebUrl": "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/",
+      "publishedDateTime": "2022-01-09T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "yourerie.com",
+        "domain": "yourerie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-09-flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards.md",
       "title": "Flagging Down A Roaming AI Self-Driving Car Robo-Taxi Might Not Be In The Cards",
       "excerpt": "Flagging down a taxi or cab is still something done today, and the question arises whether AI-based self-driving car robo-taxis will do the same.",
@@ -355,49 +400,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-09-healthwatch-the-future-ai-prevents-dementia.md",
-      "title": "HealthWatch: The Future – AI Prevents Dementia?",
-      "excerpt": "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s",
-      "sourceUrl": null,
-      "webUrl": "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/",
-      "originalUrl": "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2020/04/HealthWatch.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/",
-      "cdnAmpWebUrl": "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/",
-      "publishedDateTime": "2022-01-08T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "We Are Green Bay",
-        "domain": "wearegreenbay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-01-09-the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need.md",
       "title": "The Nvidia RTX 3090 Ti is the GPU we all want – but it’s the RTX 3050 that we need",
       "excerpt": "As soon as Nvidia announced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards, a slew of powerful new gaming laptops was announced by all the big names. If Nvidia can deliver on its promises, it looks like 2022 is going to be a great year for gaming on a laptop.",
@@ -562,7 +564,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/tech-trends-likely-to-dominate-banking-and-fintech-sector-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 229,
       "tags": null,
       "images": [
         {
@@ -805,7 +807,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 128,
       "tags": null,
       "images": [
         {
@@ -846,7 +848,8 @@
       "topics": [
         "Natural Language Processing",
         "AI",
-        "Facebook AI"
+        "Facebook AI",
+        "Computer Vision"
       ]
     },
     {
@@ -1048,7 +1051,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {

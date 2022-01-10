@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Fractal becomes unicorn with $360 million investment from TPG"
-    excerpt: "Fractal has raised $360 million from TPG in a new financing round and entered the unicorn club as the Mumbai and New York-based AI startup, which counts Google and Wells Fargo among its customers, scales its offerings and begins preparation for an IPO."
-    publishedDateTime: 2022-01-05T09:31:00Z
-    webUrl: "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 166
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/yjWJApiXP.r3.tXCfl4n6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjU-/https://s.yimg.com/uu/api/res/1.2/tRJXoqN6AhGj67TxBBsBaQ--~B/aD00MDAwO3c9ODUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/9d520e0099165578729ab4784e4fc873"
-        width: 1200
-        height: 565
-        isCached: true
   - title: "AI Startup Fractal Joins Unicorn Club After $360 Million Investment From TPG"
     excerpt: "AI startup Fractal, which is based in Mumbai and New York, has received a $360 million investment from private equity giant TPG's Asia investment arm, valuing the company at over $1 billion and becoming the latest startup from India to achieve unicorn status."
     publishedDateTime: 2022-01-06T04:35:00Z
@@ -55,22 +41,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d67ba2000e8e2814f3d174%2F0x0.jpg"
         width: 1200
         height: 740
-        isCached: true
-  - title: "Fractal AI said to turn unicorn with $360 million funding from TPG"
-    excerpt: "The transaction is a mix of primary investment and secondary share purchase from funds advised by Apax Partners. The British private equity firm will remain a majority shareholder in Fractal AI."
-    publishedDateTime: 2022-01-05T10:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/funding/fractal-ai-said-to-turn-unicorn-with-360-million-funding-from-tpg/articleshow/88711176.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/funding/fractal-ai-said-to-turn-unicorn-with-360-million-funding-from-tpg/amp_articleshow/88711176.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/funding/fractal-ai-said-to-turn-unicorn-with-360-million-funding-from-tpg/amp_articleshow/88711176.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-71428,msid-88711161/ai-thinkstock.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "AI startup Fractal enters Unicorn club"
     excerpt: "DeepTech startup Fractal enters the unicorn club after raising $360 million from global asset firm TPG. Post the latest financing round Fractal has been valued at $1 Billion stated"
@@ -102,20 +72,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Fractal Lands $360M From TPG As AI Demand Surges"
-    excerpt: "New York-based Fractal locked up a $360 million investment from TPG through its Asia-focused private equity platform TPG Capital Asia, as demand for AI grows"
-    publishedDateTime: 2022-01-05T09:30:00Z
-    webUrl: "https://news.crunchbase.com/news/fractal-lands-360m-from-tpg-as-ai-demand-surges/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2019/06/money_clip.gif"
-        width: 900
-        height: 506
-        isCached: true
   - title: "TPG backs AI firm Fractal"
     excerpt: "TPG invested $360 million in Fractal, a provider of artificial intelligence and advanced analytics solutions to Fortune 500 companies."
     publishedDateTime: 2022-01-05T15:55:00Z
@@ -129,20 +85,6 @@ related:
       - url: "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_Logo5.jpg"
         width: 1024
         height: 768
-        isCached: true
-  - title: "TPG invests US$360 million in AI tech startup Fractal"
-    excerpt: "Artificial intelligence technology startup Fractal said on Wednesday it has received a US$360 million investment from private equity firm TPG through its Asia focused investment platform. TPG's involv"
-    publishedDateTime: 2022-01-05T09:39:00Z
-    webUrl: "https://www.channelnewsasia.com/business/tpg-invests-us360-million-ai-tech-startup-fractal-2416651"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
         isCached: true
   - title: "AI startup Fractal said to have become unicorn after $360m investment from TPG"
     excerpt: "The round valued Fractal at over $1 billion, TechCrunch reported quoting Srikanth Velamakanni, co-founder and group chief executive at Fractal. In a statement, TPG said that it invested in Fractal through TPG Capital Asia,"

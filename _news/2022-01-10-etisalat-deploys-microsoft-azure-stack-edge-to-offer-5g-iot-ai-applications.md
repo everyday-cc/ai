@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology"
-excerpt: "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare"
-publishedDateTime: 2022-01-06T00:45:00Z
-originalUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology"
-webUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology"
+title: "Etisalat Deploys Microsoft Azure Stack Edge to Offer 5G, IoT & AI Applications"
+excerpt: "As part of their strategic partnership, Etisalat and Microsoft have joined forces to unlock new 5G scenarios with Azure Multi-access Edge Compute."
+publishedDateTime: 2022-01-10T01:03:00Z
+originalUrl: "https://www.thefastmode.com/technology-solutions/22388-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications"
+webUrl: "https://www.thefastmode.com/technology-solutions/22388-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications"
 type: article
-quality: 70
-heat: 110
-published: true
+quality: 65
+heat: -1
+published: false
 
 provider:
   name: Deep
@@ -17,26 +17,25 @@ provider:
 topics:
   - Microsoft AI
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624"
+  - url: "https://www.thefastmode.com/media/k2/items/src/2ba54f984ac4fa9e7f381b58becce23f.jpg?t=20220110_005244"
     width: 752
     height: 408
     isCached: true
 
 related:
-  - title: "Etisalat Deploys Microsoft Azure Stack Edge to Offer 5G, IoT & AI Applications"
-    excerpt: "As part of their strategic partnership, Etisalat and Microsoft have joined forces to unlock new 5G scenarios with Azure Multi-access Edge Compute."
-    publishedDateTime: 2022-01-10T01:03:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/22388-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications"
+  - title: "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology"
+    excerpt: "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare"
+    publishedDateTime: 2022-01-06T00:45:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology"
     type: article
     provider:
       name: Deep
       domain: thefastmode.com
-    quality: 65
+    quality: 70
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/2ba54f984ac4fa9e7f381b58becce23f.jpg?t=20220110_005244"
+      - url: "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624"
         width: 752
         height: 408
         isCached: true
@@ -75,6 +74,6 @@ related:
       domain: wfmz.com
     quality: 33
 
-secured: "0amEURnLVC2F+9hKL2HqFiK9LN1l0IRXjJvpsHt3ukl7pHffuSxIL7wCRbCLCTw/rvn12oP5966kESJWPo9LWJRyGskutIwfdgTocN1y0nS7M5gQb/EkLX35Lwg5XI7y3ZQUUXPUDBXaxm+VlR2IWfO3m1SvIhJhIu963ncaUqzev32nEJw+Qp/puUsJJ7i+gAXav8Z7OAO29YEJv872lf/nv/WL7llPicRIxTbh1xAlbskxerB0e7xyiEfaIXWHVtAQrGlTkaz4RJVn6d8+QR4P0H4UhnbhYeUoo+TJVuKz5BxWjFKHD+XXy2o1kfcvItPXVX+WKWnq+LPTSiBWo/xMDDQGzvFkwZ1D7brHB3w=;yECd9G0LP6eq/HKZJSnWWQ=="
+secured: "GaIhMJnlcztlfMwUy4ciz+YJGpgEXes9b5iwZaeFDzGYvcMrMvLu0EdbfnPPbViDujDaF+tlhpBJR/P3pegX1QNfUjtaqCMmklRs30IJ5KM6ae8EtySIWejNfGXqU86JO5vnG42Edl8WmmZm7MSyjG1aY93RPzZaSSZ+TGo8vJYPHCH0EaBIz0sYIA4fNA6ypgSP9oG2V+6PD0/CBD69L82mekklVEcFt1RBcMDC44Uz9UaMXt7tCwXAHMrgmqAD0g3mzSDygNAT0QvPEcIeNF0scWD0+nmY0z18kGrJo9kNeON3xwYdxzP4J7DUSjfRnZV2EJez09Z+BN0wQREHXxecApfyozLwWKozUwtvZxA=;NAQeCvXZb4qw7DOyX8f+Pw=="
 ---
 

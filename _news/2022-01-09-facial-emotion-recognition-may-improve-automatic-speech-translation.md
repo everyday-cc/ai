@@ -30,35 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Blur faces in videos automatically with Amazon Rekognition Video"
-    excerpt: "With the advent of artificial intelligence (AI) and machine learning (ML), customers and the general public have become increasingly aware of their privacy, as well as the value that it holds in today’s data-driven world. Enterprises are actively seeking out and marketing privacy-first solutions, especially"
-    publishedDateTime: 2022-01-07T19:45:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/"
+  - title: "Meta claims its AI improves speech recognition quality by reading lips"
+    excerpt: "People perceive speech both by listening to it and watching the lip movements of speakers. In fact, studies show that visual cues play a key role in language learning. By contrast"
+    publishedDateTime: 2022-01-08T00:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/"
+    ampWebUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 108
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-5902-image005-new-1260x537.png"
-        width: 1260
-        height: 537
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1351969920.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Swap.com Partners with FIND.Fashion on AI-Powered Visual Search and Emotion Recognition"
-    excerpt: "Swap.com began working with FIND.Fashion visual search to give shoppers artificial intelligence and emotion recognition to search millions of items."
-    publishedDateTime: 2022-01-07T15:38:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
+  - title: "Meta AI builds speech recognition platform that uses visual cues to filter out background noise"
+    excerpt: "Meta AI builds speech recognition platform that uses visual cues to filter out background noise - SiliconANGLE"
+    publishedDateTime: 2022-01-07T17:04:00Z
+    webUrl: "https://siliconangle.com/2022/01/07/meta-ai-built-speech-recognition-platform-relies-visual-cues-filter-background-noise/"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 49
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 44
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/visual-search-457x274.jpg"
-        width: 457
-        height: 274
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/AV-HuBERT.png"
+        width: 963
+        height: 501
         isCached: true
 
 secured: "x+jcmA/y6PEGI8Qe4jPLH+PpYiqq6PQfVt9kyrOj9/HBW/hGx/1EDwVPznop8oC/Qx1VlmdUlLhDGyuTIrd4VvqRcBggNY44KNRONLOHvHGA3nNt8cR1PJe7Sn0XH/ZtiOw4xdtQ2FugkbCwYuhW89PtQB7ADej/JdWwzson3akZ6cqEMTSb5aAh9iQv1QVr/YQGg4hvdi9UUDeMHpHyQN83K3glfbsVC3928yxBM1bxSEgqOOeA2cpmeLoUpQTvlE0eivWKw3Ciy+mJwNPzl01t2jeLMXn4fV9RJagf96aOP6wdGKDg/yQW7iTN6bVVko5hruAVv4MLpRD5q36Gir1hbvTzMoygbDvSdLOm7kk=;w34PQ/LZmitvaLkJ0JY+BA=="

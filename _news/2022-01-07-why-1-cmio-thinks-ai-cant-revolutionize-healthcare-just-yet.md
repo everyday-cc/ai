@@ -41,22 +41,6 @@ related:
         width: 744
         height: 496
         isCached: true
-  - title: "TTcare: Revolutionary AI-Based Solution For Pets' Total Healthcare Needs"
-    excerpt: "AI FOR PET is set to launch a pet healthcare app at the CES 2022 Dubbed TTcare, the app is a CES 2022 Innovation Award honoree TTcare highlights promising innovations in animal healthcare Technological breakthroughs like artificial intelligence (AI) and the internet of things (IoT),"
-    publishedDateTime: 2022-01-05T10:10:00Z
-    webUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135"
-    ampWebUrl: "https://www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ttcare-revolutionary-ai-based-solution-pets-total-healthcare-needs-3361135?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/12/20/ttcare-app.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "An Unrealized Revolution: Artificial Intelligence in the Chemical Industry"
     excerpt: "Due to the Covid–19 epidemic, which dominates today and has not yet gained complete immunity, many sectors have suffered from different aspects. Each industry, which suffered from this situation for various reasons,"
     publishedDateTime: 2022-01-08T13:47:00Z

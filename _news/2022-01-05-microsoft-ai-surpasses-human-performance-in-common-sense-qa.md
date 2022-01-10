@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Annata and Microsoft deliver new retail and mobility services"
-    excerpt: "Iceland-based technology provider Annata has expanded its long-standing partnership with Microsoft to develop new retail and mobility services. The firm will enhance the Annata 365 cloud platform with new services to enable those involved in vehicle manufacturing and supply to upgrade legacy systems and better engage with customers."
-    publishedDateTime: 2022-01-05T10:16:00Z
-    webUrl: "https://www.technologyrecord.com/Article/annata-and-microsoft-deliver-new-retail-and-mobility-services-127836"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 54
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10658/img-Unsplash_Chris-Bair_road_vehicles_car_web.jpg"
-        width: 940
-        height: 443
-        isCached: true
 
 secured: "2Awz2AFWE0YNV3lMCzn4tZ1DT2XQbfjpaH6tkwKaRnHH34sS/ymMKDzismFec/sNMuXj+wWPK1WKXAbbdq1Nn3BNJNyIRrEcTGaZj3H2o6BR4zXR8fE9SFBRsDdaVSwTDRRJhjtRESUUNTS4w89N9GTFYFQsSGb1u54sGbGl7rQuKTh1ZkY4L5S4jOdmwgcnuCYQOZXJSjf+H9+s1g3ROOJd7VeX5TW7/6t6Ky8iZjknKSgQtyz7qDENTqVdRXwYYrvsihT1kSjLfjCNaB6rOtRRJWmXVNZ1fit/BCZyh9cxrWtMnl5gbEHZt7C7MQ5PNEL2nmEwwcTvQnWVaroN/+/9jFvj6SQvn3CzA8Xe0DQ=;7r1Qn7jJVV0/sjc+Up4gRw=="
 ---

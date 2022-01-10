@@ -8,9 +8,9 @@ webUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-
 ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/"
 cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/"
 type: article
-quality: 57
-heat: -1
-published: false
+quality: 63
+heat: 83
+published: true
 
 provider:
   name: yourerie.com
@@ -18,6 +18,9 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/01/Your-Health-Artificial-intelligence-to-help-prevent-dementia.jpg?w=1280"

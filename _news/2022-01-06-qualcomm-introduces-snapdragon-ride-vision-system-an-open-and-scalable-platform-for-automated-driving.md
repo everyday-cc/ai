@@ -49,15 +49,6 @@ related:
         width: 1920
         height: 1275
         isCached: true
-  - title: "Qualcomm expands in auto market with new vision platform, Berlin office"
-    excerpt: "Qualcomm is focusing on its expansion in the automotive sector at this year's CES. The company is grouping its products for cars under the umbrella 'Snapdragon Digital Chassis', and announced new deals with several automakers to incorporate the company's chips in their"
-    publishedDateTime: 2022-01-05T10:27:00Z
-    webUrl: "https://www.telecompaper.com/news/qualcomm-expands-in-auto-market-with-new-vision-platform-berlin-office--1409642"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
 
 secured: "PqBuWV4bKGlv41AeyQeoQmfAiof0hlJpoSU3MwGOclvaAzRCla6wFWls2KncqDuhI5jLMFRBbC91eqUnTsCNNbLvfI7K1iqh0MvpFTUZtD8NFjkRXbkFi4Z+bOBvkodpjVQYZ+GFDvsdH+RHen67wH7RbSTWFVr1IoE4Hq3HW5SxLKF+fP58pXe5gHml0qL1vO9ajXgK0xLWfrpWgtllVJfmtbU5rRZk5M2FXwoHy3r2maKMr19DPNvSmkrU1EWWl3RGNjg9sliOfliWd/AIvHo8p58nK0+/JW9Si0+a9/0Tilzuwlg1FdlxSKzeRds6iBO2E6UjLvwOAWm5y/5YROFy2d/1oNfQthaC1Ts+168=;OHPdqA9gLgUIQqse1FDVpw=="
 ---

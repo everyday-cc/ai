@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "In this article, we will take a look at the 5 best AI stocks for 2022. If you want our detailed analysis of these stocks, go directly to the 10 Best AI Stocks for 2022. Graphics chip giant NVIDIA Corporation (NASDAQ:NVDA) is one of the best AI stocks for 2022."
+excerpt: "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),"
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/?singlepage=1"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/?singlepage=1"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
 type: article
 quality: 39
 heat: -1
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
 
 images:
@@ -40,6 +40,6 @@ related:
         height: 512
         isCached: true
 
-secured: "Fb0DS4WiCvgT1DOcp45R3M7VQFWr4oGUpqId9gIVu9kiTJ7b8ZW/WU37Sqq8jUkiT417ClRlpdnwmmM62CoiQiXZfYp60VVsRP9kGbTLEaMMmqcjpB815NE3QrOIYMtu+06+0+JkUamrafX//vX/rT3q2ajmLzSTAmS8fTEagXn1Onsu/JJvpGqAr1yK89iQmI/Us3S7e+M9PJOsVoVhwc6PXbEoyXjygi+Ao7N5gtWOpwjy33VVHfX/crM8n0IgRgqM7Ic2VYzmc3Src3vq+Z864a736PyohdSOnaexHhM3WjiL/huJmPNhwP9jarRqk39WXWQoDUdivizaq9flkV2CNCLP53Ac9fh+lWWffsI=;gG988dWWTL+o0nfkZTDOBg=="
+secured: "F6smWnN40chKgMyPkl3NYYFM7bqmROM/VsCz0grYrw4fv6w3g5jEipdgGUA8dXtbgMA26RQxmB0PVMlrH54FVjrHZ1fFs8EMMD7wVX1K81NAaJswUL19zd0FN1EehfHPHGZO8+l137TBkXQEvSMXIy8M/3uelVtKAKzs6xhV6MsP/5tksfAk744/DHIWz0HAyotnWqlq3iDqWJ7NGqxhU8sPZwf6T2hlaMSc4CMZVKQcNmbrIQ19YXE6GnCEf+Wx1Rc+sgyHS8g5OcjrlBCHEzkG4sf9wokBE6FBpIz+8+jOP2vUqzgdkkQoy6daKiors7VfDKJT6DrnVR9IIY2G7f0KV3hArKcgq8sldH2pszQ=;nTEjsC5n2Poox572QsTIIQ=="
 ---
 

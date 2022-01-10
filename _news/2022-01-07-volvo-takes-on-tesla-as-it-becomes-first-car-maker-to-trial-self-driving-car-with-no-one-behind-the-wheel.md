@@ -3,27 +3,27 @@ category: news
 title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
 excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
 publishedDateTime: 2022-01-07T13:22:00Z
-originalUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
+originalUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
+webUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
+ampWebUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
+cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: The Scottish Sun
-  domain: thescottishsun.co.uk
+  name: The Sun
+  domain: thesun.co.uk
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1500
-    height: 1000
+  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -244,6 +244,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "uNTZ+uVi8nvFBE85EhFfaIyMe+WWfBxNeewEMia77KkQbA3HfCSz9V09s2qSmO0gaqD8gxTrnM5wNcRlV8otDRsSmmHvIYfb+WefIs7K18+D0CWI/dCF5OB2r2DgSmwtmY0GUTqIlczYM+6j55o2jAsMa4b7wlrwwezxwLK/K3E6dS5S/h1QceQ7TQHhaiJfUNDtQ19OVhZ6qoIjRP3ElD2vH6VKPCO1Fg2M5BU2ThePbPX1J5rMtllWBk9gGXGyZW9grYG9qvDIFCC5+eRqSKAjZOiWG7Fqm2HVOqM86INMyo3BluH4o4dusWAPYaAXgr2YfY7SkhTulQkVULqdJzfvv0gjSFphqa/7Ikgt7us=;5g72ho/Tt5Yzk7ipdqq8Nw=="
+secured: "c/8GpxbdFnCX50Eiu2LJwZLnekVHGO2I+zMvQo7r4ydXABaukmOIpl8VTJ/Sq63jJgaxqZ/Wy5vEzfB8/rEAqs2I2SSoH1k+oTiVOtZLR4bS3pzdnmHOdnuu53mfKpm/THwfL3gx+DJDOCkccEsLgq7YzDobJN8WT4LcErJSLHirKBdVEMv6jE/YvHMzmMKn2mX08b/IFiE1QsAIWKs+I4lAvLC2BnsEydQsv1jdsDnWNJRYQ78HpwbZuD5otVjhCB8KhOumit5Q06L6aCcgbYbirT1Wf2SjkUxpeygk6crIIwGPlZgTuK83/ZvECOTMPvqMmJBWxsFzBSsQ5qEqL31ft39IpdPsk9+TsgNAHoY=;3CUlauM6XbERpUGY+OnNRQ=="
 ---
 

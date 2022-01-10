@@ -41,15 +41,6 @@ related:
         width: 1376
         height: 800
         isCached: true
-  - title: "Qualcomm expands in auto market with new vision platform, Berlin office"
-    excerpt: "Qualcomm is focusing on its expansion in the automotive sector at this year's CES. The company is grouping its products for cars under the umbrella 'Snapdragon Digital Chassis', and announced new deals with several automakers to incorporate the company's chips in their"
-    publishedDateTime: 2022-01-05T10:27:00Z
-    webUrl: "https://www.telecompaper.com/news/qualcomm-expands-in-auto-market-with-new-vision-platform-berlin-office--1409642"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 4
   - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
     excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio the Snapdragon Ride™ Vision System a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
     publishedDateTime: 2022-01-05T19:49:00Z

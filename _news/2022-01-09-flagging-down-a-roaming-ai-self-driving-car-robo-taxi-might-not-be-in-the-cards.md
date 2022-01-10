@@ -58,19 +58,19 @@ related:
       name: bnnbloomberg
       domain: bnnbloomberg.ca
     quality: 56
-  - title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
-    excerpt: "U.S. economy. While self-driving trucks are still years from winning regulatory approval, pioneers of the technology see it as a long-term solution to an increasingly intractable labor problem. “Human drivers,"
-    publishedDateTime: 2022-01-09T17:22:00Z
-    webUrl: "https://www.bloombergquint.com/business/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
+  - title: "Robot trucks get US tests, raising self-driving safety stakes"
+    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
+    publishedDateTime: 2022-01-10T01:04:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/10/robot-trucks-get-us-tests-raising-self-driving-safety-stakes"
     type: article
     provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
+      name: The Star
+      domain: thestar.com.my
     quality: 56
     images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/09/1437655.jpg"
+        width: 1240
+        height: 827
         isCached: true
   - title: "GM says it’s aiming to sell you a self-driving car by middle of this decade"
     excerpt: "\"text/javascript\" src=\" data-newsource-publisher=\"853\" data-player-data=\"7466534a93ecc5d02263fdc67c881b4\" data-max-width=\"auto\" data-autoplay=\"1\" data-player-type=\"1010\" data-embed-type=\"3020\">General Motors CEO Mary Barra said Wednesday during CES that the automaker hopes to sell self-driving cars to consumers by the middle of this decade."

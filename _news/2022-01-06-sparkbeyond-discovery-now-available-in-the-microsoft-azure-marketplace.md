@@ -33,6 +33,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Etisalat Deploys Microsoft Azure Stack Edge to Offer 5G, IoT & AI Applications"
+    excerpt: "As part of their strategic partnership, Etisalat and Microsoft have joined forces to unlock new 5G scenarios with Azure Multi-access Edge Compute."
+    publishedDateTime: 2022-01-10T01:03:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/22388-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 65
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/2ba54f984ac4fa9e7f381b58becce23f.jpg?t=20220110_005244"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Wejo developing vehicle data processing platform with Microsoft"
     excerpt: "Wejo Group (WEJO) shares have been on the rise after the company announced yesterday that it is developing a vehicle data processing platform in partnership with Microsoft"
     publishedDateTime: 2022-01-05T12:37:00Z

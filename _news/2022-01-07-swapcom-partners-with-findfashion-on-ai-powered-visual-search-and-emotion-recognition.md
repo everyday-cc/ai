@@ -40,20 +40,6 @@ related:
         width: 1260
         height: 537
         isCached: true
-  - title: "Facial emotion recognition may improve automatic speech translation"
-    excerpt: "Meta AI recently published a new framework (AV-HuBERT) to improve automatic speech recognition thanks to lips monitoring, de facto combining Speech with Vision, two of the traditional areas of Artificial Intelligence."
-    publishedDateTime: 2022-01-09T10:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/facial-emotion-recognition-may-improve-automatic-claudio-fantinuoli"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 26
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFeWYqiGiAQvA/article-cover_image-shrink_720_1280/0/1641666117499?e=1647475200&v=beta&t=qP4IsyD6qU3OKozu2-NErJb1jHMYfJu7pLy0PoFQKy8"
-        width: 1280
-        height: 630
-        isCached: true
 
 secured: "rWkvbf+ZOx1ViIWVbZrPDsDkAjit0K6fZG6GK2D0qww9ePkaqW2M56Yxmgwy8Cxyd29ligxDE84ahxieki36KEuRri/CFJi1awU+K9KEpvlJDYUo+aNW+aR1WoresRk2KlCbgeqGb1dGp0EVoB4gNgtldDNYbMx50kkMeI45ywGflk0NfC9BJqpqT1yNVYfqLA9/B+Oz7TsParvh2z/+ZqTD4LVMcg+hf5L7yei/BYZ6L0/TbVLImc72bpQm3iL8+20xQCda3J8BdtP2ku73pWCVXoWzTEPTEYZg1Sn2XLdD+f9jxiW5GtFvmf/fmT19hgqczRT9PB7lye7fmJUO1V2iMRO93jwzVNSxwNRyjsc=;IOrH+lpu37fYKi3rYJ3vog=="
 ---

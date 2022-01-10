@@ -1,18 +1,18 @@
 ---
 category: news
-title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
-excerpt: "U.S. economy. While self-driving trucks are still years from winning regulatory approval, pioneers of the technology see it as a long-term solution to an increasingly intractable labor problem. “Human drivers,"
-publishedDateTime: 2022-01-09T17:22:00Z
-originalUrl: "https://www.bloombergquint.com/business/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
-webUrl: "https://www.bloombergquint.com/business/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
+title: "Robot trucks get US tests, raising self-driving safety stakes"
+excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
+publishedDateTime: 2022-01-10T01:04:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/10/robot-trucks-get-us-tests-raising-self-driving-safety-stakes"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/10/robot-trucks-get-us-tests-raising-self-driving-safety-stakes"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: BloombergQuint
-  domain: bloombergquint.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
@@ -20,9 +20,9 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-    width: 1200
-    height: 630
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/01/09/1437655.jpg"
+    width: 1240
+    height: 827
     isCached: true
 
 related:
@@ -84,6 +84,6 @@ related:
         height: 619
         isCached: true
 
-secured: "QD57lvaGN5Y04V5QhM4hvGX0bB84mHdtnX1gzg0LKVBaIMAwC/ZxzIiZmYWP0t9vqJ87mIp/LEkiWab35N5R52+CeeZV6VO/Gz0aqRglFHM9+BfZ1LlmqF8iS0QtnmVxVlRI2FA4tBAF7rm1eR/LRe4IfM+iUa9TMhewQ8YHN+GIPzAaGpkMwedMva7LKn8NwJK9QvESwvYr1QiNXUi2sEkpo3Pc5LH81oSJnISMn+EYsBFMqkAd/om9HwybzfAM8U+2iwxc6ELnM8NX4ZjXw20C5k8oHqTSegTgGrMjK9Kfq6WikLpExrwEZVwXyyvG6vpJdVlEcIRiDyOVTJjRS5kOTDt8xoH4qSwmOrG8Kds=;cfJ/NuzKh4dtfCo+8NdJxg=="
+secured: "wA5kI5QslPFuDWv/440VA4JlzwC1Mf0BiSF/GaSOdMkAcmHdm199DLMeXNn8yFjYChiPx0ibGY7fRvEUATNZqjfqHF4JvLZw03Q4PnvjAzjl4LYXxZdCSY7ZqAKt9vic+B0O2H5Jy9V8dbZynrR0nECJce2wipHVDxcnf67TpQSjkV9tRWW69tManBfeVx/5zt/dMtMbF9ZUphYxfQH5QFYdnecSvpWiHPMt4MtwGWHdAh128k3WBTU1JfM4w9MQ3bVLixEhbCEIjHpgyP+y5uhS9iuPE5AhP7OeNcYYFJ08ObfgFFdEDaZ4SB4mMYv+rxcNWE4Y85BZY7dYOCumGet1J6WHY5xizqNgSGznHgw=;enQsHUM0J7LRxkFwkvW2eg=="
 ---
 

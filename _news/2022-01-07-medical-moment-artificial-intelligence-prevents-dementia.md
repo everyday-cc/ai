@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Your Health: Artificial intelligence to help prevent dementia?"
+    excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s already in the operating"
+    publishedDateTime: 2022-01-09T22:23:00Z
+    webUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/"
+    ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/"
+    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/"
+    type: article
+    provider:
+      name: yourerie.com
+      domain: yourerie.com
+    quality: 63
+    images:
+      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/01/Your-Health-Artificial-intelligence-to-help-prevent-dementia.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "HealthWatch: The Future – AI Prevents Dementia?"
     excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s"
     publishedDateTime: 2022-01-08T19:41:00Z
@@ -40,22 +56,6 @@ related:
     quality: 59
     images:
       - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2020/04/HealthWatch.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Your Health: Artificial intelligence to help prevent dementia?"
-    excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s already in the operating"
-    publishedDateTime: 2022-01-09T22:23:00Z
-    webUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/"
-    ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/"
-    cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/"
-    type: article
-    provider:
-      name: yourerie.com
-      domain: yourerie.com
-    quality: 57
-    images:
-      - url: "https://www.yourerie.com/wp-content/uploads/sites/27/2022/01/Your-Health-Artificial-intelligence-to-help-prevent-dementia.jpg?w=1280"
         width: 1280
         height: 720
         isCached: true
