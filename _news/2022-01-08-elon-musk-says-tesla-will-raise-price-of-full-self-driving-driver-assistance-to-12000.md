@@ -146,6 +146,20 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
+    excerpt: "Tesla's FSD software is still in beta, though it recently released an update where you can drive in 'Assertive' mode."
+    publishedDateTime: 2022-01-10T16:48:00Z
+    webUrl: "https://www.entrepreneur.com/article/412299"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1641833191-GettyImages-545144650.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "GM, With Qualcomm, Is Taking a Tesla-Like Approach to Self-Driving Cars"
     excerpt: "The Detroit auto maker and the chip manufacturer unveiled a new computing architecture that will take GM's autonomous driving functions to the next level."
     publishedDateTime: 2022-01-06T19:00:00Z

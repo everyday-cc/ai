@@ -33,20 +33,6 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
-    excerpt: "... of the key players offering cognitive services and Platforms-as Service (PaaS). The major cognitive service vendors include IBM (US), Microsoft (US), AWS (US), Google (US), TCS (India), Baidu ..."
-    publishedDateTime: 2022-01-10T12:45:00Z
-    webUrl: "https://menafn.com/1103514261/Cognitive-Services-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?957437"
-        width: 375
-        height: 250
-        isCached: true
   - title: "AI in Social Media Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 10, 2022, 06:52 /Comserve / -- MarketsandMarkets forecasts the global AI in social media market to grow from USD 633.1 mill"
     publishedDateTime: 2022-01-10T12:45:00Z

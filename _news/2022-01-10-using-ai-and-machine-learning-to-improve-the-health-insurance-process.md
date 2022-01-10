@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology"
-    excerpt: "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare"
-    publishedDateTime: 2022-01-06T00:45:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 70
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
     excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
     publishedDateTime: 2022-01-10T13:00:00Z
@@ -87,6 +73,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHTGkXNtE-fQw/article-cover_image-shrink_600_2000/0/1631411370022?e=1646870400&v=beta&t=khJrhyso-lpcsjfqCihr4_A96U770-de5qPzXmZ_hjc"
         width: 800
         height: 450
+        isCached: true
+  - title: "Measuring trust in AI"
+    excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
+    publishedDateTime: 2022-01-10T15:16:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/939434"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eaa9e3c5-5093-4b99-9689-9edc97fa962c/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 234
         isCached: true
   - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
     excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"

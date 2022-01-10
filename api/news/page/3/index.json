@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-07-focus-at-ces-tech-alliances-firm-up-in-the-self-driving-car-wars.md",
+      "title": "FOCUS-At CES, tech alliances firm up in the self-driving car wars",
+      "excerpt": "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT",
+      "originalUrl": "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL",
+          "width": 830,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT",
+      "publishedDateTime": "2022-01-07T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement.md",
       "title": "AI and machine learning adoption is the future of security and law enforcement",
       "excerpt": "Video analytics based on AI/ML algorithms are gaining popularity with time and are soon expected to become a requisite for all law enforcement departments and public places to optimise safety",
@@ -400,49 +452,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-using-artificial-intelligence-to-help-cancer-patients-avoid-excessive-radiation.md",
-      "title": "Using artificial intelligence to help cancer patients avoid excessive radiation",
-      "excerpt": "A Case Western Reserve University-led team of scientists has used artificial intelligence (AI) to identify which patients with certain head and neck cancers would benefit from reducing the intensity of treatments such as radiation therapy and chemotherapy.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-cancer-patients-excessive.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-cancer-patients-excessive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/helping-cancer-patient.jpg",
-          "width": 642,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-cancer-patients-excessive.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-cancer-patients-excessive.amp",
-      "publishedDateTime": "2022-01-06T11:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },

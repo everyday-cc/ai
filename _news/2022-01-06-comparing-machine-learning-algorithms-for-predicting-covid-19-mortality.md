@@ -18,6 +18,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "Artificial Intelligence for Psychological Health Analysis During COVID-19"
+    excerpt: "The coronavirus disease 2019 (COVID-19) pandemic has spread over 200 million confirmed cases and caused more than 5 million deaths worldwide. Besides an epidemiological disaster, it is also a psychological crisis that presents a serious threat to people’s mental health."
+    publishedDateTime: 2022-01-10T16:15:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/31333/artificial-intelligence-for-psychological-health-analysis-during-covid-19"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 16
+
 secured: "/u/KZNo1/mQxYL7DqkLPhOuUYP9Ipoe7FSKkzTDb4It6jtIhUpBQoJG5KdwuVc2ZorgKiO0fIlAeyRFF6PwjjAEqdSWFwPMeU+jnbs7osPnn2tw7r1iDa2nAQ2Hy+NvxDGMAHoFq443E6zPcM1ZhH/rOwZKZsUWsJ2SYTSh2xOo7z3l5Lmr4jr1qaJJoMByLTpiTCbSqN8qeAcyGTxzbrsRI45H8rTveFfzMG2Aev5m+2ki0lCH96ygw4U1mK/oKmwssuxUJ9oP6EuCiUpsscwzQAI1ZVGXr3XIUCF/QBqvOM4rN3VFMDOyMzKnUrbpNs4/Qd9iPyKGOUEcQhQCOy9TCZbQklrbrf3SqY/bk1pc=;OSLT8yFOAvBG/W6R1CRtBA=="
 ---
 

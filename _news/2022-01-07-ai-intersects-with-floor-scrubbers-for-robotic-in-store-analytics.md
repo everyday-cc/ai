@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "Big data, AI/ML to be most in-demand skills in India in 2022"
-    excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
-    publishedDateTime: 2022-01-10T08:59:00Z
-    webUrl: "https://menafn.com/1103512786/Big-data-AIML-to-be-most-in-demand-skills-in-India-in-2022"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/10/I_30e46image_story.jpg"
-        width: 400
-        height: 267
-        isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics: Report"
     excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022. With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI,"
     publishedDateTime: 2022-01-10T14:14:00Z
@@ -72,6 +58,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Big data, AI/ML to be most in-demand skills in India in 2022"
+    excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
+    publishedDateTime: 2022-01-10T15:37:00Z
+    webUrl: "https://suryaa.com/suryaa-ap/114894-big-data-ai-ml-to-be-most-in-demand-skills-in-india-in-2022.html"
+    type: article
+    provider:
+      name: Suryaa
+      domain: suryaa.com
+    quality: 36
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
     excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
     publishedDateTime: 2022-01-10T13:35:00Z

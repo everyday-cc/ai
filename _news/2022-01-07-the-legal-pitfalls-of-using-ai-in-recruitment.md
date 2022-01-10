@@ -56,6 +56,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Employers using artificial intelligence to recruit workers"
+    excerpt: "More employers are turning to artificial intelligence to gain a worker recruitment edge, the Wall Street Journal reports.  By automating previously manual tasks—like prescreening job applicants for basic qualifications,"
+    publishedDateTime: 2022-01-10T15:11:00Z
+    webUrl: "https://www.businessreport.com/business/employers-using-artificial-intelligence-to-recruit-workers"
+    ampWebUrl: "https://www.businessreport.com/business/employers-using-artificial-intelligence-to-recruit-workers?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/employers-using-artificial-intelligence-to-recruit-workers?amp=1"
+    type: article
+    provider:
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 37
 
 secured: "jvFZz/ANRY1yOQnX5cyMVxYjoLIqrVSoUhLOjEkv7xbxVMg292Qj9vJ9o9Z5oYnHRtqMhWO+7PbMEYp1HvJOwQIc2r0gfSJdHVTzIHy5eexbjGl4xq3//VY3iVgYIu3HQnvyR6Yw/QAjPiYj/gpZ4f/W/B4d42QBHk/y1gIXjOGNaflj9g/uL0kmJOIm/GZVSACUFLUP6UlrQPFyWyvMq4TbIW/9p5COE1rIRObuvCfIUP9hJzNqPpVD6HEhdfzXdPceMqwaw+Rg5PhR92DXnt+aCxntSp2bZ7qB3tdcYu2moV7053f9ZC9vNSmL6Ksnis/HdUc0YdnSISibGr+qPcDo/5vbKhiUAsSGGDdfxjU=;wy0DfrY9Q91ImNKCdeTS+Q=="
 ---

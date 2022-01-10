@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-08-healthcare-transformation-made-possible-by-ai-and-social-listening.md",
+      "title": "Healthcare Transformation – Made Possible by AI and Social Listening",
+      "excerpt": "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
+      "originalUrl": "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY",
+          "width": 820,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T21:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-global-artificial-intelligence-ai-in-cyber-security-market-to-witness-at-a-2260-cagr-through-2027.md",
       "title": "Global Artificial Intelligence (AI) in Cyber Security Market to Witness at a 22.60% CAGR through 2027",
       "excerpt": "The research report on the Global Artificial Intelligence (AI) in Cyber Security Market provides a comprehensive analysis of the industry size, share",
@@ -106,7 +158,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 289,
+      "heat": 299,
       "tags": null,
       "images": [
         {
@@ -212,7 +264,7 @@
       "originalUrl": "https://www.wsj.com/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -950,7 +1002,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1180,58 +1232,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-focus-at-ces-tech-alliances-firm-up-in-the-self-driving-car-wars.md",
-      "title": "FOCUS-At CES, tech alliances firm up in the self-driving car wars",
-      "excerpt": "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT",
-      "originalUrl": "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL",
-          "width": 830,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT",
-      "publishedDateTime": "2022-01-07T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

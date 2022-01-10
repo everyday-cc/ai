@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growt
 webUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growth-Sales-Revenue-and-Key-Drivers-Analysis-Research-Report-by-2027"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aerospace Robotics Market Segmentation, Business Revenue and Forecast by 2027"
-    excerpt: "The global aerospace robotics market is expected to gain impetus from the increasing adoption of artificial intelligence (AI) by companies for the maintenance of aircraft. The aerospace robotics market size was USD 2."
-    publishedDateTime: 2022-01-05T23:11:00Z
-    webUrl: "https://coub.com/stories/2328576-aerospace-robotics-market-segmentation-business-revenue-and-forecast-by-2027"
-    type: article
-    provider:
-      name: Coub
-      domain: coub.com
-    quality: 51
-    images:
-      - url: "https://coub-anubis-a.akamaized.net/coub_storage/story/cw_image_for_sharing/91162aa3277/15adae3f0267f73356752/1641203343_share_story.png"
-        width: 1600
-        height: 840
-        isCached: true
   - title: "Speech-to-text API Market Share Forecast, Growth Data by 2022-2025 | Size Analysis by Top Regions, Sales Revenue and Regional Segments Analysis"
     excerpt: "Global “Speech-to-text API Market” Research Report showing qualitative insights on business developments, presents,"
     publishedDateTime: 2022-01-07T09:19:00Z
@@ -53,6 +39,36 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
+    excerpt: "... of the key players offering cognitive services and Platforms-as Service (PaaS). The major cognitive service vendors include IBM (US), Microsoft (US), AWS (US), Google (US), TCS (India), Baidu ..."
+    publishedDateTime: 2022-01-10T12:45:00Z
+    webUrl: "https://menafn.com/1103514261/Cognitive-Services-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?957437"
+        width: 375
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence in Telecommunication Market 2021: Industry Analysis, Opportunities, Technology, Demand, Top Players and Growth Forecast 2027"
+    excerpt: "Summery New Research study examines the current worldwide Artificial Intelligence in Telecommunication Market in terms of demand and supply as well as pricing patterns for the current and future years The revenue market share profit margin primary product portfolio and"
+    publishedDateTime: 2022-01-10T10:42:00Z
+    webUrl: "https://www.openpr.com/news/2522008/artificial-intelligence-in-telecommunication-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2522008/artificial-intelligence-in-telecommunication-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522008/artificial-intelligence-in-telecommunication-market-2021"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 18
+    images:
+      - url: "https://cdn.openpr.com/V/1/V110498270_g.jpg"
+        width: 660
+        height: 495
         isCached: true
 
 secured: "O7j4E8tO7UakFV/X+sDGRCvy8WXima1gYuv8HeGpVWFatHPf+4KO88THHXmZIIgjdVe+oOLVwfXEU+yjwgryzp+9U67sf+hi29jltw4aIoJSlNepsR0oE51228JD7JlRSx2dPInbFkgurFZHuwZxj7Tv9N8CDiXB8YHQzQt2z9or9N5F++jz26w5RlNWhEE3FhZVI9s18UVv0hF8r6XUIj8CwtcUNxynL/B3MglVSMnZwg7etCUWk/9Z2thALDzw4WItjTyCeOiL1j4wZTA7fUcV2X1BB0/Oo+3vanAcpJCE27mMYpzuXYzbOib7Z7jzJX6bZHZYkqw6QB02/M4MypsfoWxoN9xg9Q7MoL8Y1xw=;Foqd9i5cpllgZxKdngt/pw=="

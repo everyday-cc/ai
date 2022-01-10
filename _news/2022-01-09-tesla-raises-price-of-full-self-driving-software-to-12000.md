@@ -130,6 +130,20 @@ related:
         width: 960
         height: 480
         isCached: true
+  - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
+    excerpt: "Tesla's FSD software is still in beta, though it recently released an update where you can drive in 'Assertive' mode."
+    publishedDateTime: 2022-01-10T16:48:00Z
+    webUrl: "https://www.entrepreneur.com/article/412299"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1641833191-GettyImages-545144650.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
     excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"
     publishedDateTime: 2022-01-08T00:40:00Z

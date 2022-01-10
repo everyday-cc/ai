@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp"
 type: article
 quality: 72
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and machine learning can transform construction"
+    excerpt: "Karthik Venkatasubramanian extols the benefits of AI and machine learning and how they can be incorporated into a successful data strategy."
+    publishedDateTime: 2022-01-10T14:59:00Z
+    webUrl: "https://www.bimplus.co.uk/how-ai-and-machine-learning-can-transform-construction/"
+    type: article
+    provider:
+      name: bimplus.co.uk
+      domain: bimplus.co.uk
+    quality: 54
+    images:
+      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/01/Karthik-headshot.jpg"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Using AI in Crime Detection"
     excerpt: "Using AI in Crime Detection By cio review - As the rate of crime rises, the utilization of existing Artificial Intelligence algorithms is proving to be"
     publishedDateTime: 2022-01-10T09:43:00Z

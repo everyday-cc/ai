@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-pac
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
 type: article
 quality: 89
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-elon-musk-full-self-driving-price-increase-12000-usd-tw.jpg?w=960&cbr=1&q=90&fit=max"
         width: 960
         height: 480
+        isCached: true
+  - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
+    excerpt: "Tesla's FSD software is still in beta, though it recently released an update where you can drive in 'Assertive' mode."
+    publishedDateTime: 2022-01-10T16:48:00Z
+    webUrl: "https://www.entrepreneur.com/article/412299"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1641833191-GettyImages-545144650.jpg"
+        width: 2000
+        height: 1333
         isCached: true
   - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
     excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"

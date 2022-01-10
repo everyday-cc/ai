@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/cadillac-celestiq-features-
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/cadillac-celestiq-features-ultra-cruise"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GM reveals new self-driving Cadillac concept car, plans to offer personal autonomous vehicles by mid-decade"
-    excerpt: "General Motors unveiled a new personal self-driving electric concept car from its luxury brand Cadillac during the CES technology show Wednesday. The sleek two-passenger vehicle, called InnerSpace, is part of the brand's Halo Concept Portfolio,"
-    publishedDateTime: 2022-01-06T00:53:00Z
-    webUrl: "https://www.cnbc.com/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 56
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106997147-1641406573507-Cadillac-Halo-Concept-InnerSpace-001.jpg?v=1641406634"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Cadillac previews a personal self-driving car with Halo InnerSpace concept"
     excerpt: "Cadillac has explored this with its Halo InnerSpace concept car shown virtually on Wednesday during the 2022 Consumer Electronics Show in Las Vegas. The InnerSpace is the third member in a series of fully autonomous concepts from Cadillac."
     publishedDateTime: 2022-01-06T13:00:00Z
@@ -56,20 +40,6 @@ related:
       - url: "https://images.hgmsites.net/hug/cadillac-halo-innerspace-concept_100822973_h.jpg"
         width: 1920
         height: 1357
-        isCached: true
-  - title: "Pa. transportation secretary, senator unveil bill to allow self-driving cars to be tested"
-    excerpt: "With pioneering research on self-driving vehicles at Carnegie Mellon University and private companies in, Pennsylvania wants to make sure that new technology can be developed, tested"
-    publishedDateTime: 2022-01-05T23:18:00Z
-    webUrl: "https://www.bradfordera.com/news/pa-transportation-secretary-senator-unveil-bill-to-allow-self-driving-cars-to-be-tested/article_b083a750-7817-58cb-b336-6bc892f0beb4.html"
-    type: article
-    provider:
-      name: Bradford Era
-      domain: bradfordera.com
-    quality: 15
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/bradfordera.com/content/tncms/assets/v3/eedition/0/91/091662c9-75f9-5930-b6a0-623d2694b5c8/61d4fc1ea0340.preview-300.jpg?resize=300%2C651"
-        width: 300
-        height: 651
         isCached: true
 
 secured: "b4zswnY2f2RZCSU4krZ10bnqQevYK8rs+csh99wpH2Xgcdsx9sKJz47P7GKXdqeup+w0n//umQvLyXI+/j7+7QLZZyBOs5bTF+R0IDKdTiegoO+X26isNkuAUJTkeFfzwZx57ZxSE35m9DfAdXJcHq0PxSGrZ8JkhhzqhFgd+QHkaLN58WxbEDVpdb2S8xof4SGJGxgNrjNyruK8x909NyHwJ0JyZwhu2VNmC2ScuDhztu7QeVX0QlVVub4nBfQnqZkhC43P2cuGWA+U/G2fzyyzPMTSisgNoC5mopRlgvXD+8H860iVaPqHYZyo8k36gRfFSOGtnBJ76cpqITwbZvy22sxt8xtMK58d1FcuYi8=;HAI/t9E0gDplWA3/vxZsHA=="

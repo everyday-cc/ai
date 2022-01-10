@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/ZAWYA20220110120928/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20220110120928/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,17 @@ topics:
   - AI
 
 related:
+  - title: "Amazon and Stellantis collaborate for customer-centric vehicles"
+    excerpt: "Amazon and Stellantis, a leading global automaker and mobility provider, have announced a series of global, multi-year agreements that will transform the in-vehicle experience for millions of Stellantis customers."
+    publishedDateTime: 2022-01-10T16:07:00Z
+    webUrl: "https://www.zawya.com/mena/en/story/Amazon_and_Stellantis_collaborate_for_customercentric_vehicles-SNG_277156373/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_277156373/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_277156373/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
   - title: "Amazon and Stellantis Collaborate to Introduce Customer-Centric Connected Experiences Across Millions of Vehicles"
     excerpt: "Amazon and Stellantis N.V., a leading global automaker and mobility provider, today announced a series of global, multi-year agreements that will transform the in-vehicle experience for millions of St"
     publishedDateTime: 2022-01-06T08:50:00Z

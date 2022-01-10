@@ -8,8 +8,8 @@ webUrl: "https://healthitanalytics.com/news/artificialintelligenceprovidesprecis
 ampWebUrl: "https://healthitanalytics.com/news/amp/artificialintelligenceprovidesprecisetreatmentrecommendations"
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificialintelligenceprovidesprecisetreatmentrecommendations"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://healthitanalytics.com/images/sized/2019-09-30-Getty-Images-e4b00c1efb9503a805928b101c78b499.png"

@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon and Stellantis collaborate for customer-centric vehicles"
+    excerpt: "Amazon and Stellantis, a leading global automaker and mobility provider, have announced a series of global, multi-year agreements that will transform the in-vehicle experience for millions of Stellantis customers."
+    publishedDateTime: 2022-01-10T16:07:00Z
+    webUrl: "https://www.zawya.com/mena/en/story/Amazon_and_Stellantis_collaborate_for_customercentric_vehicles-SNG_277156373/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_277156373/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_277156373/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
   - title: "Amazon and Stellantis collaborate to introduce customer-centric connected experiences"
     excerpt: "Amazon and Stellantis will collaborate to deliver software solutions for Stellantis’ new digital cabin platform, STLA SmartCockpit, starting in 2024; Stellantis selects AWS as i"
     publishedDateTime: 2022-01-10T13:37:00Z

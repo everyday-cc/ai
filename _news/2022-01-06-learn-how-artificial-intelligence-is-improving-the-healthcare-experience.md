@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology"
-    excerpt: "Roche and Microsoft, global leaders in the health and technology sectors, respectively, have signed a MoU to to improve healthcare"
-    publishedDateTime: 2022-01-06T00:45:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/22287-roche-microsoft-partner-improve-healthcare-using-ai-and-cloud-technology"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 70
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/e410136b0eee0fdc4fedd2ca29208b1e.jpg?t=20220106_003624"
-        width: 752
-        height: 408
-        isCached: true
   - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
     excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
     publishedDateTime: 2022-01-10T13:00:00Z
@@ -91,6 +77,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Measuring trust in AI"
+    excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
+    publishedDateTime: 2022-01-10T15:16:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/939434"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eaa9e3c5-5093-4b99-9689-9edc97fa962c/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 234
+        isCached: true
   - title: "How one company is applying AI to improve legal operations"
     excerpt: "Legal ops professionals are already using AI solutions to improve department performance. Here is how one legal department is doing it."
     publishedDateTime: 2022-01-06T18:49:00Z
@@ -101,6 +101,6 @@ related:
       domain: wolterskluwer.com
     quality: 17
 
-secured: "1jwHCwm3T2ZowE1Zq3ozF3gC5iDpDJ0FcyLcqosplJCTp5ReCTTYU0ugw7+gRSicK5DZ4dWS/5srrT3EAZvszc36tEAwAdWPYLR0nK3NeVDXjGZ26xoUlavAjcRvUfcTjwE6ndpR+NFW0l4MhuOxkVrHXoCza67JNc1xgGgSksrCLSPG50QFv5UhmcPzyauWqe5XpjuI6qcv133ReeYd7n19ignQaKVDnZZTmYPAVquVuiOq2JBX2VpUgHeZuJ9a+Jgs0nGsZe7QCQKsGHIQJTr1nA4H+3mPMlxwtpZZiFcBEV8uTXd6WWP8vsuSycG5Lm3T0Fm6WY/puWvJfebHRHSKydYa0sJh2dznG/N8hao=;UrTG342NeQK3MI1vJyXC5A=="
+secured: "r9O/QnKAUGXQ2ObdOECxuiyZWjR5RYKYlwlW6MiR1o1d7IMeEw3ooGY6IXF27BURM7YXF8NqK6vJ/o+LDQjTpFrb6zIHTJJ1SI4fqxube3Ei7A2ryfyOY2ECi3cKOfDt7PhsTbLipsVrmnLhd5N2qcLGtTu2fd85rCdzplcd8jH/GQz+Cgd2SmqpMppfjaJU2x2rVHF78iWxzcq+oVkA8+kuRKTm0hxAD9C3WqxWDd6qmb98lCz358/se/58A2r0ApA7oQOwxj3EfeKnWjiVRZuKpVJv1ggr1hqraqIRZ9PwTvyQ7UwUDaoI3/8BiJySoOuyShJhQ/fs9bW8XGyl4j3NeJPYHmIm7TL7HCD/UsE=;kBqe55GxdDZAvc3PRPFdwg=="
 ---
 
