@@ -240,6 +240,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Tesla increases price of Full-Self Driving to $12,000 as demand wanes"
+    excerpt: "Tesla continues to hike the price of its Full-Self Driving feature as demand continues to drop. CEO Elon Musk took to Twitter on Saturday to announce that the price of FSD will rise to $12,000 on January 17,"
+    publishedDateTime: 2022-01-10T12:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1134695_tesla-increases-price-of-full-self-driving-to-12-000-as-demand-wanes"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 54
+    images:
+      - url: "https://images.hgmsites.net/hug/2020-tesla-model-3_100736269_h.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Elon Musk Announces Tesla Bumping Full Self-Driving Package Price By $2,000 To $12,000"
     excerpt: "Tesla’s Full Self-Driving package (FSD) is an incredibly popular option among owners, even despite the software costing a hefty $10,000. But now, as announced by Tesla CEO Elon Musk himself, the package will be getting a $2,"
     publishedDateTime: 2022-01-09T23:05:00Z

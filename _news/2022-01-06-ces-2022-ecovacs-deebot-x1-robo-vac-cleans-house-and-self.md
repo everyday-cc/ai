@@ -55,6 +55,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "This super realistic “humanoid robot” stole the show at CES 2022"
+    excerpt: "There is always a ton to see at CES, and this year’s show – although scaled back – was no different. Follow Rich DeMuro on Instagram for more tech news, reviews and tips. One of"
+    publishedDateTime: 2022-01-10T12:55:00Z
+    webUrl: "https://ktla.com/morning-news/technology/talking-to-ameca-humanoid-robot-engineered-arts-ces-2022-las-vegas/"
+    ampWebUrl: "https://ktla.com/morning-news/technology/talking-to-ameca-humanoid-robot-engineered-arts-ces-2022-las-vegas/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/morning-news/technology/talking-to-ameca-humanoid-robot-engineered-arts-ces-2022-las-vegas/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 59
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/01/Promo-Facebook-Facebook-link-image-1.jpeg?w=1280"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
     excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
     publishedDateTime: 2022-01-06T16:01:00Z

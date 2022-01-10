@@ -1,31 +1,31 @@
 ---
 category: news
-title: "Driving in old age: why Britons would like more help in deciding when to stop"
-excerpt: "This system of self-declaration means that a person can ... between 60 and 100 years (with a mean of 70.4 years) to explore driving habits and attitudes to giving up driving."
-publishedDateTime: 2022-01-10T12:43:00Z
-originalUrl: "https://theconversation.com/driving-in-old-age-why-britons-would-like-more-help-in-deciding-when-to-stop-171759"
-webUrl: "https://theconversation.com/driving-in-old-age-why-britons-would-like-more-help-in-deciding-when-to-stop-171759"
-ampWebUrl: "https://theconversation.com/amp/driving-in-old-age-why-britons-would-like-more-help-in-deciding-when-to-stop-171759"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/driving-in-old-age-why-britons-would-like-more-help-in-deciding-when-to-stop-171759"
+title: "Driving in old age: Why Britons would like more help in deciding when to stop"
+excerpt: "Being able to drive well into old age provides people with invaluable independence, mobility and freedom. Many find that it improves their mental health and social wellbeing too."
+publishedDateTime: 2022-01-10T14:39:00Z
+originalUrl: "https://medicalxpress.com/news/2022-01-age-britons.html"
+webUrl: "https://medicalxpress.com/news/2022-01-age-britons.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-01-age-britons.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-age-britons.amp"
 type: article
 quality: 41
 heat: 41
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/440005/original/file-20220110-25-1n2ko6c.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/driving-in-old-age-why.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "vwON/CYfI6ErgYpCG+6vUagtJTX0ol6EuqGTdK95l5AMXTX53/svFgnrM/+kqIYkV7dEnS9yBbE5NP6HbBEcLqUAEBmHKSmvBjm+mDX3Jszy6T+75oDD2qzaiOWnedfXU8GY8xMsJepNarKpG10XjvQXnxxkrKDJA5xSSFtr2fdf5QCa/WhyX2gGElhEgpUAE5t73hcfMevoyT3/GpQbIxqxHsqDe7MSfnR/lPvYjuC7wMxojxbXMyNe/ED4L+8kZoxWSA0ecNdn+kUJGpm6IPupWZT2ZUk81xUkq2WIqrnaehD6O4OK799SMFR8cYYBi5F1mv1v+J9KYAX4RnSyZbfnJFQhp68mZQih2H5IN/0=;FjXGG1O57Cn4KNqcbf18RA=="
+secured: "zSqbd8yKP3+3jInxzFRjfVpnFpWSBtVod0Ppj5GMhKk6KNBGj2ENmDSSnJcYNInw8VNFEcWcdpEpJ0opAcpwhF9uIPvKEbZnDWXWt5pPqu6KFuXMjwqMYEF+HhQQwRn6bk7paREUUl8KOBY5NfgCjYm822qV6Pm3taG0sqOx7LGrLoCq6TTcOROsydCaSHTwnAyYh8/7zpzaK1Cwu/RNRXxHOUdYbFpt6jY4YgLOSTdBrlfGWL99p0/0uNds9NFgp5ehnbT6Aq+C+kqa/RJsUJfsI66GOgWirT8k/IRYRR0IWaqbBr0TeVQk/+MbmBko/xvJkw3DCq3TMNCK6NNPQz2yrNACL/4672dFraeAExw=;wBzeKKTJo8QNmow2d8nZYw=="
 ---
 

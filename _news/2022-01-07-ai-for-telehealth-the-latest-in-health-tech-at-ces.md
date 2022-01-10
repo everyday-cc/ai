@@ -56,22 +56,6 @@ related:
         width: 448
         height: 316
         isCached: true
-  - title: "Which tech players gained the most in 2021, and what trends can we expect in 2022?"
-    excerpt: "Which ASX listed tech player had the biggest gains this year? And what will 2022 bring in AI and Cyber Security?"
-    publishedDateTime: 2022-01-05T21:48:00Z
-    webUrl: "https://stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/"
-    ampWebUrl: "https://stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 53
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2021/12/tech_winners.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Five health tech innovations to watch in 2022"
     excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
     publishedDateTime: 2022-01-06T14:30:00Z

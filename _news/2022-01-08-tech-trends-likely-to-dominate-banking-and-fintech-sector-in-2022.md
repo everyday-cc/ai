@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Which tech players gained the most in 2021, and what trends can we expect in 2022?"
-    excerpt: "Which ASX listed tech player had the biggest gains this year? And what will 2022 bring in AI and Cyber Security?"
-    publishedDateTime: 2022-01-05T21:48:00Z
-    webUrl: "https://stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/"
-    ampWebUrl: "https://stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/?amp"
-    cdnAmpWebUrl: "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/which-tech-players-gained-the-most-in-2021-and-what-trends-can-we-expect-in-2022/?amp"
-    type: article
-    provider:
-      name: stockhead
-      domain: stockhead.com.au
-    quality: 53
-    images:
-      - url: "https://stockhead.com.au/wp-content/uploads/2021/12/tech_winners.jpeg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI for telehealth & the latest in health tech at CES"
     excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
     publishedDateTime: 2022-01-06T18:10:00Z

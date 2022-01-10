@@ -1,18 +1,18 @@
 ---
 category: news
 title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the"
-publishedDateTime: 2022-01-10T11:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/symphonyai-earns-first-place-in-business-ai-and-data-science-analytics-datathon-872457560.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/symphonyai-earns-first-place-in-business-ai-and-data-science-analytics-datathon-872457560.html"
+excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
+publishedDateTime: 2022-01-10T14:41:00Z
+originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
+webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
 type: article
 quality: 13
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
@@ -64,7 +64,39 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics: Report"
+    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022. With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI,"
+    publishedDateTime: 2022-01-10T14:14:00Z
+    webUrl: "https://www.business-standard.com/article/companies/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-report-122011001150_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-report-122011001150_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-report-122011001150_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 42
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-08/20/full/1503167956-4621.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
+    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
+    publishedDateTime: 2022-01-10T13:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/articleshow/88814127.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 33
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-665726,msid-88814157/technology.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
-secured: "3ahIFw6vwncfEIcrvbZMa0Qh64kxYkRPzq72zXMxQ8OS0tAjJWSGzoyitsJs0/G13g9dR1lH2s2FwCrG4g4JhHBeokJSejp3sob+rIoGFuRLJFJ7Fm2gpA9mrtfPuyn/SNo5+CnX54MNHaSKriNbtXl/e/c5rwe1roCR8IMTmLi3R2oQvo3Jx95zvZHox3ekgS9kzZkocJJiiswgBh6lSAH0dvXQ/rA4SGIgJ9izB4s/bVs3Pc5IHG/l6Sd+VWByZ+h97EqYIQnE82Q+TQbjKeVpOVoQgroJcpYvYmVmdqz4uCs0jymwBNO3zGD7fcWX5/K/I9XqRsOjoFrYzvZudHSmcisfJbkVAZCs60n/ugY=;3ez4dMopJjIX50m1sm9d6w=="
+secured: "Ncz+DEwDHnMUW+DNa0m/3MZia7R7Ku4wJWL2SUlWsgMwggbGmO1sjNptzpkayoP9fSdbHHfxuriy6WD2ogbg6bLpVNJVC/9Gtb90LhMb5chtuQtZH/+YzKAHiXFVJE34TkzBkaqIW48Ghw6GiMWXvra1kb3s0kL2ARFQ1MgjUjxUxBd1xsITeYKMazKDiinTAtuNIbudcNIw4s9577JpMNaBzB8U8aar0mdV52QjQ3vyruVjpTSbRdgbIHqRV2IQ+2hoAx/IxxUdF2yxjW72vvgKj1dJyljTApUnuLnB+32htLLFMkU+/2440uo2TfksELnL3N2OFB5Xj7ouWJx+yOavPd4PkZs4X5rG5prriBI=;MoUmqMzQzUEWviszTdZmDQ=="
 ---
 

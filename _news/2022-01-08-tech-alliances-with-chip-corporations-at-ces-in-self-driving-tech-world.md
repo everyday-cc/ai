@@ -74,20 +74,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Creepy meets cool in humanoid robots at CES tech show"
-    excerpt: "A lifelike, child-size doll writhed and cried before slightly shocked onlookers snapping smartphone pictures at the CES tech show."
-    publishedDateTime: 2022-01-05T22:40:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/creepy-meets-cool-in-humanoid-robots-at-ces-tech-show/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/CES-Las-Vegas-AFP-1K-01.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Friday (Jan 7) in an unprecedented high-speed ma"
     publishedDateTime: 2022-01-08T20:08:00Z

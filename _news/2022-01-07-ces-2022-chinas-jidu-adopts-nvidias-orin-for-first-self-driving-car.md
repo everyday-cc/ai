@@ -79,34 +79,6 @@ related:
         width: 1270
         height: 846
         isCached: true
-  - title: "Self-Driving Truck Developer TuSimple Partners with NVIDIA on a Domain Controller for L4 Autonomous Driving"
-    excerpt: "Autonomous truck developer TuSimple has expanded its ongoing partnership with chipmaker NVIDIA to design and develop an advanced \"autonomous domain controller\" (ADC) specifically for TuSimple's Level 4 autonomous trucks."
-    publishedDateTime: 2022-01-05T22:30:00Z
-    webUrl: "https://www.futurecar.com/5110/Self-Driving-Truck-Developer-TuSimple-Partners-with-NVIDIA-on-a-Domain-Controller-for-L4-Autonomous-Driving--"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 21
-    images:
-      - url: "https://img.futurecar.com/202201/05/l_61d62a782d2be.jpeg"
-        width: 800
-        height: 480
-        isCached: true
-  - title: "Self-Driving Truck Developer TuSimple Builds a Domain Controller for L4 Autonomous Driving Using the NVIDIA DRIVE Orin SoC"
-    excerpt: "Autonomous truck developer TuSimple has expanded its ongoing partnership with chipmaker NVIDIA to design and develop an advanced \"autonomous domain controller\" (ADC) specifically for TuSimple's Level 4 autonomous trucks."
-    publishedDateTime: 2022-01-05T22:30:00Z
-    webUrl: "https://www.futurecar.com/5110/Self-Driving-Truck-Developer-TuSimple-Builds-a-Domain-Controller-for-L4-Autonomous-Driving-Using-the-NVIDIA-DRIVE-Orin-SoC"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 13
-    images:
-      - url: "https://img.futurecar.com/202201/05/l_61d62a782d2be.jpeg"
-        width: 800
-        height: 480
-        isCached: true
 
 secured: "BC00fM5k+4X2hJhKpoTMNmocGUtbS2LIDjAbRLbNashDHtSajDM5RGQ9wRpje/QrB9/T1MIA4/yGIw+99/88EUzrDEfCbnlCF1P38S7voHH4NBHiCzhJ0DHyjJiwpWIubeJVExppjxhxKO0VeIt/aAIlBd1YfVji96MFTxOdOiT89P6BedQzXYvBDWLr1yaRThwZlXkOJf21mK7ptVB4vN+n5F6io2/VDGuFYkl9oMV3Dy1BeX32A467taxkAeXOy+vgTzGc9012ScwCu0/YVOCdg3S6+0c+ZExPZvEzRVz9UnRsvT/mLaOjdIh8DUoNrR93kY2830KqBvZShKhnBQJjaOo6OzznEpBxOVC7y3E=;bzXvilqPFOE1wxLask15Rw=="
 ---

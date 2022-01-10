@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IIT-Guwahati To Start PG Programmes in Cybersecurity, Artificial Intelligence And Deep Learning"
+    excerpt: "The candidates can apply for the programme on the official website of IIT Guwahati- iitg.ac.in. The candidates required to have a minimum of 50 per cent marks in bachelor's degree and least two years"
+    publishedDateTime: 2022-01-10T13:21:00Z
+    webUrl: "https://www.ndtv.com/education/iit-guwahat-starts-pg-programmes-in-cybersecurity-artificial-intelligence-deep-leraning-iitg-ac-in"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 42
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/1/10/IIT_GA_860.jpeg"
+        width: 860
+        height: 430
+        isCached: true
   - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
     excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
     publishedDateTime: 2022-01-06T19:53:00Z

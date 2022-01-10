@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-featur
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -77,15 +77,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "Volvo is teaming up with Luminar to test a self-driving car system in California"
-    excerpt: "@volvocars has developed a fully autonomous highway driving system it plans to test later this year that uses @luminartech sensors."
-    publishedDateTime: 2022-01-05T22:24:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/01/05/volvo-luminar-to-debut-self-driving-in-california.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "bi6suLqdKV7a2cl/Ta7Ap6LmT2+b6JJJDtRyGM2fk+HR/0M9haduBtBtLpI53+olSi3NChlQ9fL9f0HDEZcBKVd0lEHE5E7i7gh56SsbF6gVGiJ+70CaiycSO4zUxtyLXR1WIx3JO/tfP4EkrgspEoOK3jI5FczSTmL1OHuuSFhKKmQKuN2DogwWEDFBiQL2di54u9HzeGbh2VQl4RTqZG6vuxb/tZhZhUSnWtgtyeXiTx9TY4O7D/wSM8mx6DiSWEPaCpvLIIe668VUUwic8ka5Pxhx+tcZmgVNQRaZtDQKqYjTxS12WQWkdHlx4JCBgSzVeVnySc65tBww5rWs11h7ReuH5VpOwLcAU0DbNsw=;iJznk/r3OvvGfHQVmSeojg=="
 ---

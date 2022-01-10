@@ -58,16 +58,19 @@ related:
         height: 466
         isCached: true
   - title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-    excerpt: "As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-    publishedDateTime: 2022-01-05T22:54:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24922041"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24922041"
+    excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
+    publishedDateTime: 2022-01-06T05:40:00Z
+    webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?52992"
+        width: 421
+        height: 250
+        isCached: true
 
 secured: "/L7wxJ9Cm9AUMMNqaYI/gGU8wx0+fBzuTD/eu7cfcrOIxyeh5oU25AwXlBSuoEU3/e/pDPh60bw88dqMo27PRj+UtiBs+c1A6i5G0ZP04OA2KwNj2P5p9tQOIlZKG1Vc4Mp3fvyII5LJ0Ba3ArbP2hWB4bYcT5uO0HzqfMBI7QzmK85NEFNQG00V69DsKymyXH0HtkTRlBtwt2RgdvjxEpLASdfabrQZTTkiJzMk3VYDTjlbcWXMmo/u2o+Zk07mhG7mq/zA3I2/w/F7QMt1v8RYjzWJ6Aveb+AgeP6oAWY4pd32217k2OJ66NNRdY2rlSI/rnihEtDKt31bfH6mEMLN5Jt6ER0liY0RlylmIms=;+PGvaVPhmYEcaAC9BEEqEA=="
 ---

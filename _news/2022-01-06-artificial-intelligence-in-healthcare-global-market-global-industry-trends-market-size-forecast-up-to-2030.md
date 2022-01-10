@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence in Healthcare Global Market: Global Industry, Trends, Market Size, Forecast up to 2030"
-excerpt: "As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
-publishedDateTime: 2022-01-05T22:54:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/24922041/artificial-intelligence-in-healthcare-global-market-global-industry-trends-market-size-forecast-up-"
-ampWebUrl: "https://www.benzinga.com/amp/content/24922041"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24922041"
+excerpt: "Comserve / -- As estimated by IQ4I Research, the artificial intelligence in healthcare global market is expected to reach $35,323.5 million by 2027 growing at an exponential CAGR from 2020 to 2027 due to the gradual transition from volume to value-based healthcare."
+publishedDateTime: 2022-01-06T05:40:00Z
+originalUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
+webUrl: "https://menafn.com/1103495503/Artificial-Intelligence-in-Healthcare-Global-Market-Global-Industry-Trends-Market-Size-Forecast-up-to-2030"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?52992"
+    width: 421
+    height: 250
+    isCached: true
 
 related:
   - title: "Global Enterprise Artificial Intelligence Market: Emerging Trends, Major Key Players AWS and Google Corporation"
@@ -68,6 +72,6 @@ related:
         height: 466
         isCached: true
 
-secured: "sZMXNseh0nStLA7WWgRxiv0Im+M50kLSDN/Lqg65Z0WiL5w3nDSZaYkjAN1X89dvH6SOS8Pw2x1L90YdzHhLRxceNLcD/2ncxqvuicl5JP9LVDcSn+ZZhVJs9ucWGtb8b78p5mKY2kqg8fqVWy/QCnbzRdUU+gl7aJ/wLB7KN6pppmdhhMgjLdCPeJqPDd6vrSPRD4ZznDpUmzwTqm5Fc8BNaH7w1zbtdOZyl4E8KZ8z0Nfivgg6fS1Tl//sM+8D/OCfXeDWp8j0nq8jPsbTDmR/aa9h//WEGAPMzgvAhEqbttSxzObQ99N8tGZxg2inpVgRirC++WqZmNzp3KzKFYrB2gRQKP4VIVEnI9bwgTg=;dgmTE+7xz4O8vJF/OIZ+pg=="
+secured: "GOkkCHh4DhhKA1OLk4MQAJVNMPlzUHxTAOwLKQafjtt3vPkGrehakhiZXGgGgOoZ73gW9h3Go7OdjCOr8b/dqa16+PAW9Wdp8K8PIHDO/h+IHvhApQw9KRfhqHt5GEP5jxIu/uTP36Io4KUyna1Pwa10TUkhoQkyilbhROG1gBN/3fSr7Cmm4hEj0jSRbaZHFGtmaQJgXz0z955wBk+Ggxt9zRMnJijrxUf9xTzO/JD0VvLVpYVimHVU1VIFX9VjP7scO3lIzlcrvHSUk7yeV3drrh7RjN61YYKk0Gm7xR15BARVEosQRC4w3Hm2pihqAD38lt/I1bX6YgoquqDKJ2PxrSt40GpsYuYDai37dJ0=;PUQ7AIPBi4vyBhKDjhFBkQ=="
 ---
 

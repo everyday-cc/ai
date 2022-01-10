@@ -7,7 +7,7 @@ originalUrl: "https://federalnewsnetwork.com/defense-news/2022/01/nga-cio-eyes-b
 webUrl: "https://federalnewsnetwork.com/defense-news/2022/01/nga-cio-eyes-big-shifts-for-cloud-cybersecurity-and-machine-learning-in-2022/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IIT-Guwahati To Start PG Programmes in Cybersecurity, Artificial Intelligence And Deep Learning"
+    excerpt: "The candidates can apply for the programme on the official website of IIT Guwahati- iitg.ac.in. The candidates required to have a minimum of 50 per cent marks in bachelor's degree and least two years"
+    publishedDateTime: 2022-01-10T13:21:00Z
+    webUrl: "https://www.ndtv.com/education/iit-guwahat-starts-pg-programmes-in-cybersecurity-artificial-intelligence-deep-leraning-iitg-ac-in"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 42
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/1/10/IIT_GA_860.jpeg"
+        width: 860
+        height: 430
+        isCached: true
   - title: "Mark Andress on NGA’s Cloud, Machine Learning, Cybersecurity Efforts in 2022"
     excerpt: "Mark Andress, chief information officer at the National Geospatial-Intelligence Agency, said NGA is set to undergo several technology shifts in cloud, machine"
     publishedDateTime: 2022-01-07T21:33:00Z

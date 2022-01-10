@@ -58,14 +58,46 @@ related:
         width: 457
         height: 305
         isCached: true
-  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the"
-    publishedDateTime: 2022-01-10T11:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/symphonyai-earns-first-place-in-business-ai-and-data-science-analytics-datathon-872457560.html"
+  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics: Report"
+    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022. With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI,"
+    publishedDateTime: 2022-01-10T14:14:00Z
+    webUrl: "https://www.business-standard.com/article/companies/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-report-122011001150_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-report-122011001150_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-report-122011001150_1.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Business Standard
+      domain: business-standard.com
+    quality: 42
+    images:
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-08/20/full/1503167956-4621.jpg&width=1200"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
+    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
+    publishedDateTime: 2022-01-10T13:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/articleshow/88814127.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 33
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-665726,msid-88814157/technology.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
+    publishedDateTime: 2022-01-10T14:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 13
 
 secured: "Xle2xZxD+LZbhL6JuvhtLrJZPXF5Ji+fxqdImbhYNTRdqDRB1MmIwq8PEvSWbHwhJEHT3m0qBqv9xMIug+f+n+UBrAoZYf8kX0pvkLOwPpWehh3yEElXe0S40G+KtwN2GTBULJpPyBCeB7iSSBE3esV9Hy9Yu/v6ur9G1pXmbL3Z21J1FQ3R77QesD/i0Qtpv+mXNbmxOuSn+OlShBOGKsXHRQ9G2+VxSyb9XL26S2mNRbnQUpinj0n3KO3D8KlzxPFlInTSTtfML9QfOnXq9DJVC+60a8NH8R8i/snbmjwT35pn9rSSM43KrS9Psfpa5x6kWLuCzYmtOc0hGvGoIdC89ugFQPzLgQMDcR12i5Y=;2J7r36b/NsQUP79ZRSFq2Q=="

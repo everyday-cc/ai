@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cadillac’s new self-driving concept is a luxury loveseat on wheels"
-    excerpt: "The InnerSpace concept looks like a futuristic car from the outside—but inside, there's a two-seat loveseat surrounded by one of the widest screens we've ever seen, and no steering wheel or pedals."
-    publishedDateTime: 2022-01-05T21:59:00Z
-    webUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/"
-    ampWebUrl: "https://techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/05/cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://i.ytimg.com/vi/RBDJBKZg9iA/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
-  - title: "Cadillac's next luxury concept is a self-driving sports car with no steering wheel"
-    excerpt: "Cadillac is pushing the boundaries of what luxury transportation looks like with its InnerSpace concept car. At a Wednesday livestream at the CES technology conference, Cadillac gave a dramatic preview of our autonomous future."
-    publishedDateTime: 2022-01-05T22:01:00Z
-    webUrl: "https://mashable.com/article/general-motors-cadillac-autonomous-concept-ces"
-    ampWebUrl: "https://mashable.com/article/general-motors-cadillac-autonomous-concept-ces?amp"
-    cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/general-motors-cadillac-autonomous-concept-ces?amp"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 68
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/04UARbRIt9qvOR75ZiDcOPx/hero-image.fill.size_1200x675.v1641415937.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "GM reveals new self-driving Cadillac concept car, plans to offer personal autonomous vehicles by mid-decade"
     excerpt: "General Motors unveiled a new personal self-driving electric concept car from its luxury brand Cadillac during the CES technology show Wednesday. The sleek two-passenger vehicle, called InnerSpace, is part of the brand's Halo Concept Portfolio,"
     publishedDateTime: 2022-01-06T00:53:00Z
@@ -89,15 +57,20 @@ related:
         width: 1920
         height: 1357
         isCached: true
-  - title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
-    excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."
-    publishedDateTime: 2022-01-06T01:48:00Z
-    webUrl: "https://news.metal.com/newscontent/101717404/General-materials-mass-production-self-driving-electric-car-Cadillac-self-driving-electric-concept-car-unveiled-in-2025/"
+  - title: "Pa. transportation secretary, senator unveil bill to allow self-driving cars to be tested"
+    excerpt: "With pioneering research on self-driving vehicles at Carnegie Mellon University and private companies in, Pennsylvania wants to make sure that new technology can be developed, tested"
+    publishedDateTime: 2022-01-05T23:18:00Z
+    webUrl: "https://www.bradfordera.com/news/pa-transportation-secretary-senator-unveil-bill-to-allow-self-driving-cars-to-be-tested/article_b083a750-7817-58cb-b336-6bc892f0beb4.html"
     type: article
     provider:
-      name: Metal
-      domain: metal.com
-    quality: 0
+      name: Bradford Era
+      domain: bradfordera.com
+    quality: 15
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/bradfordera.com/content/tncms/assets/v3/eedition/0/91/091662c9-75f9-5930-b6a0-623d2694b5c8/61d4fc1ea0340.preview-300.jpg?resize=300%2C651"
+        width: 300
+        height: 651
+        isCached: true
 
 secured: "b4zswnY2f2RZCSU4krZ10bnqQevYK8rs+csh99wpH2Xgcdsx9sKJz47P7GKXdqeup+w0n//umQvLyXI+/j7+7QLZZyBOs5bTF+R0IDKdTiegoO+X26isNkuAUJTkeFfzwZx57ZxSE35m9DfAdXJcHq0PxSGrZ8JkhhzqhFgd+QHkaLN58WxbEDVpdb2S8xof4SGJGxgNrjNyruK8x909NyHwJ0JyZwhu2VNmC2ScuDhztu7QeVX0QlVVub4nBfQnqZkhC43P2cuGWA+U/G2fzyyzPMTSisgNoC5mopRlgvXD+8H860iVaPqHYZyo8k36gRfFSOGtnBJ76cpqITwbZvy22sxt8xtMK58d1FcuYi8=;HAI/t9E0gDplWA3/vxZsHA=="
 ---

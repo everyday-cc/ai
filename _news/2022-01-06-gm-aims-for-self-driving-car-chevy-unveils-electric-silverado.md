@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car
 cdnAmpWebUrl: "https://www-wraltechwire-com.cdn.ampproject.org/c/s/www.wraltechwire.com/2022/01/06/gm-aims-for-self-driving-car-chevy-unveils-electric-silverado/?amp=1"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1024
     height: 577
     isCached: true
+
+related:
+  - title: "General materials mass production self-driving electric car Cadillac self-driving electric concept car unveiled in 2025"
+    excerpt: "CEO of General Motors (GM), showed off a new self-driving electric concept car from GM's luxury brand Cadillac (Cadillac) at an online event on Wednesday at CES, the world's largest consumer electronics show."
+    publishedDateTime: 2022-01-06T01:48:00Z
+    webUrl: "https://news.metal.com/newscontent/101717404/General-materials-mass-production-self-driving-electric-car-Cadillac-self-driving-electric-concept-car-unveiled-in-2025/"
+    type: article
+    provider:
+      name: Metal
+      domain: metal.com
+    quality: 0
 
 secured: "NeLWk02/5mCIkSgdjbmfWYihvS9XF9ws1DLM0qzDXRe8Tn5Kq2vlT43JTE8QcdvSIjPj0wBibLu9ol0NkiBTGuGjCS4dxzeNhweC1Tw5jGYGIdSxK4X/EGBfZAN18TFreWpPAgjvXOhSGaHWU0kD9IxVQTaK7Urx2nOx65WVsMc7kbGvW6ihRsrnUjCXdGoQE8blvXbMMxWMvo0rxeTUfsxG1mpdQbWvUohFRmonly1P3s+m3L7Th9UcZF+4YsatwkJHi9l2XTvRDg74uhWsP2ZnikGItXN91Q2Y8hgIIC9KITk5UUzO1k7tAAT2rtdZ1MmCMsbpSvG41JJQdsCc+4NZeXJSzvJX7wMRPQAuUCk=;ZjODAyzIjNdTIuNbDvrdSw=="
 ---

@@ -71,34 +71,6 @@ related:
         width: 1270
         height: 846
         isCached: true
-  - title: "Self-Driving Truck Developer TuSimple Partners with NVIDIA on a Domain Controller for L4 Autonomous Driving"
-    excerpt: "Autonomous truck developer TuSimple has expanded its ongoing partnership with chipmaker NVIDIA to design and develop an advanced \"autonomous domain controller\" (ADC) specifically for TuSimple's Level 4 autonomous trucks."
-    publishedDateTime: 2022-01-05T22:30:00Z
-    webUrl: "https://www.futurecar.com/5110/Self-Driving-Truck-Developer-TuSimple-Partners-with-NVIDIA-on-a-Domain-Controller-for-L4-Autonomous-Driving--"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 21
-    images:
-      - url: "https://img.futurecar.com/202201/05/l_61d62a782d2be.jpeg"
-        width: 800
-        height: 480
-        isCached: true
-  - title: "Self-Driving Truck Developer TuSimple Builds a Domain Controller for L4 Autonomous Driving Using the NVIDIA DRIVE Orin SoC"
-    excerpt: "Autonomous truck developer TuSimple has expanded its ongoing partnership with chipmaker NVIDIA to design and develop an advanced \"autonomous domain controller\" (ADC) specifically for TuSimple's Level 4 autonomous trucks."
-    publishedDateTime: 2022-01-05T22:30:00Z
-    webUrl: "https://www.futurecar.com/5110/Self-Driving-Truck-Developer-TuSimple-Builds-a-Domain-Controller-for-L4-Autonomous-Driving-Using-the-NVIDIA-DRIVE-Orin-SoC"
-    type: article
-    provider:
-      name: futurecar
-      domain: futurecar.com
-    quality: 13
-    images:
-      - url: "https://img.futurecar.com/202201/05/l_61d62a782d2be.jpeg"
-        width: 800
-        height: 480
-        isCached: true
   - title: "CES 2022: China’s JiDU adopts Nvidia’s Orin for first self-driving car"
     excerpt: "Nvidia announced at CES 2022 another automotive startup has chosen its semiconductors to power future Level 4 autonomous driving vehicles. JiDU, a Chinese automotive startup backed by Baidu, will use Nvidia’s Drive Orin system-on-chip (SoC) for its first production model that will be unveiled at the upcoming Beijing Auto Show in April and is slated for mass production and delivery by 2023."
     publishedDateTime: 2022-01-07T13:45:00Z
