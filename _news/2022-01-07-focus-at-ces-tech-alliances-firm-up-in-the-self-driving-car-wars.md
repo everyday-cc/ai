@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Reuters
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "CES 2022: Watch GM's self driving car reveal and more big reveals here"
-    excerpt: "GM will be kicking off Wednesday's CES day, and you can watch reveals from LG, Samsung and more. CES 2022 is underway, with the convention officially opening in Las Vegas Wednesday along with a digital experience for those who can't make it to the show."
-    publishedDateTime: 2022-01-05T16:51:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/F0An6NSLRV65zUiUBzE-y_7oV-M=/286x0:1286x499/1200x630/2021/12/16/bb0fe850-bbfe-4645-8fa1-ad20d3b775ff/ces-2022-desktop-hero-final2.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI-driven self-driving race cars create history at CES 2022"
     excerpt: "Self-driving race cars made their own place at the CES 2022. Italian American team PoliMOVE developed a self-driving race car based on a Formula One car, nicknamed as Minerva claimed to have created history at the event,"
     publishedDateTime: 2022-01-09T04:29:00Z
@@ -63,65 +47,63 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "CES 2022: GoVoBo Promises Tech Breakthrough For Deaf And Hard-Of-Hearing Users"
-    excerpt: "Developed in a partnership between Gallaudet University and AppTek, GoVoBo will make its debut at CES 2022 as the first universal automatic captioning and translation application designed for the deaf and hard-of-hearing communities."
-    publishedDateTime: 2022-01-06T03:00:00Z
-    webUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200"
-    ampWebUrl: "https://www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ces-2022-govobo-promises-tech-breakthrough-deaf-hard-hearing-users-3359200?amp=1"
+  - title: "Self-driving race cars zip into history at CES"
+    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
+    publishedDateTime: 2022-01-08T10:10:00Z
+    webUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 40
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/04/badge-gallaudet-university-apptekphoto.png"
-        width: 900
-        height: 472
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Intel showcased 12th gen core family SoC, Arc graphics and self-driving Soc at CES 2022"
-    excerpt: "Intel showcased more than 20 new devices powered by the 12th Gen Intel Core H-series.Intel and Mobileye also announced the new EyeQ Ultra system-on-chip for autonomous vehicles"
-    publishedDateTime: 2022-01-05T16:30:00Z
-    webUrl: "https://www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022-11641358282206.html"
-    ampWebUrl: "https://www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022/amp-11641358282206.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/intel-showcased-12th-gen-core-family-soc-arc-graphics-and-self-driving-soc-at-ces-2022/amp-11641358282206.html"
+  - title: "Tech alliances with chip corporations at CES in self-driving tech world"
+    excerpt: "Major automakers like General Motors, or Ford find companies with an upper hand in techs like Tesla and Apple are entering the market."
+    publishedDateTime: 2022-01-08T04:25:00Z
+    webUrl: "https://techstory.in/tech-alliances-with-chip-corporations-at-ces-in-self-driving-tech-world/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 36
+      name: tech
+      domain: techstory.in
+    quality: 41
     images:
-      - url: "https://images.livemint.com/img/2022/01/05/600x338/intel-ces-news-2-16x9.jpg.rendition.intel.web.1648.927_1641358607824_1641358613566.jpg"
-        width: 600
-        height: 338
+      - url: "https://techstory.in/wp-content/uploads/2022/01/JeX_mrWItiY3QwRb80nYiAU_zpUxMFxzvNuiAKpcU1w.jpg"
+        width: 533
+        height: 300
         isCached: true
-  - title: "At CES, auto tech alliances firm up in the self-driving car wars"
-    excerpt: "Mobileye, Qualcomm and Nvidia -- emerged at the CES in Las Vegas in locking down the brains of self-driving cars for the next decade."
-    publishedDateTime: 2022-01-07T12:25:00Z
-    webUrl: "https://www.autonews.com/ces/ces-auto-tech-alliances-firm-self-driving-car-wars"
+  - title: "Creepy meets cool in humanoid robots at CES tech show"
+    excerpt: "A lifelike, child-size doll writhed and cried before slightly shocked onlookers snapping smartphone pictures at the CES tech show."
+    publishedDateTime: 2022-01-05T22:40:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/creepy-meets-cool-in-humanoid-robots-at-ces-tech-show/article"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/CES-Las-Vegas-AFP-1K-01.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Self-driving race cars zip into history at CES"
+    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Friday (Jan 7) in an unprecedented high-speed ma"
+    publishedDateTime: 2022-01-08T20:08:00Z
+    webUrl: "https://www.channelnewsasia.com/sport/ces-las-vegas-self-driving-race-cars-f1-autonomous-2422556"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
     quality: 24
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/CES_ROUNDUP-02_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
-    excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
-    publishedDateTime: 2022-01-07T08:44:00Z
-    webUrl: "https://gadget.co.za/ces-2022-intels-mobileye-reveals-big-deals-for-self-driving/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/Mobileye-CES-partners.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--3j1oJ3re--/c_crop%2Ch_432%2Cw_768%2Cx_0%2Cy_0/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:afp_watermark%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/57ce4dbcd6202dfaafaed77f004540d546290a9a.jpg?itok=-jE1swod"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "zXFq6gN1oeuH2MQxbp+lofJ/SIqJcETZKnH685CpRO157Sp4sCKxlV38tqYS0v33YijQAdx1mmgCh/RrPSyxCEMRcs79/VBpDL/8yVTfYPSI6j3TWGMMGnm/YgxqEB3kOH17ITro8ftvEFVO3CJqRfu+WhdpIpGVPVl+OW9YgZJbdZ4XnMF8JDIZJBbp4EQCiDsJNhxnamdeflWtKwZMQ3fRF20uC2F3vlcLFzVCTFMXXY7A5gRD1w6pmpK8YOCKcHPvfrpw53hLTzNWfxTgVgPr/fOnnwNzVB53TkRmki26fZdn5eSjRufvyMklLWR/TiFICiSaM4sHM78IIAhQew9/grw2/r+FeSHY9L5ohOs=;uIejgJqMsjPGrqmpvsb+ag=="

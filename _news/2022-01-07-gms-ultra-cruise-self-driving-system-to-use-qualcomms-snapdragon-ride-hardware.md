@@ -7,7 +7,7 @@ originalUrl: "https://www.motorauthority.com/news/1134674_gm-s-ultra-cruise-self
 webUrl: "https://www.motorauthority.com/news/1134674_gm-s-ultra-cruise-self-driving-system-to-use-qualcomm-s-snapdragon-ride-hardware"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Qualcomm aims to serve next-gen cars with Snapdragon Ride Vision and Digital Chassis"
-    excerpt: "Companies like the Intel's Mobileye, graphics giant Nvidia, and Qualcomm are all using CES 2022 to announce their newest offerings for the automotive industry, as well"
-    publishedDateTime: 2022-01-05T16:53:00Z
-    webUrl: "https://www.techspot.com/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 82
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-05-image-14.jpg"
-        width: 1376
-        height: 800
-        isCached: true
   - title: "Qualcomm Introduces Snapdragon Ride Vision System, an Open and Scalable Platform for Automated Driving"
     excerpt: "Qualcomm Technologies, Inc. today introduced the latest addition to the Snapdragon Ride™ Platform portfolio the Snapdragon Ride™ Vision System a new open, scalable, and modular computer vision software stack built on a four-nanometer (4nm) process technology system-on-chip (SoC) designed for an optimized implementation of front and surround cameras for advanced driver assistance systems (ADAS) and automated driving (AD)."
     publishedDateTime: 2022-01-05T19:49:00Z

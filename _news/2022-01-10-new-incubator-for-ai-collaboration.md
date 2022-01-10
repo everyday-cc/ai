@@ -53,15 +53,6 @@ related:
         width: 800
         height: 360
         isCached: true
-  - title: "Amazon and Stellantis Collaborate to Introduce Customer-Centric Connected Experiences Across Millions of Vehicles, Helping Accelerate Stellantis’ Software Transformation"
-    excerpt: "Amazon (NASDAQ: AMZN) and Stellantis N.V. (NYSE/MTA/Euronext Paris: STLA), a leading global automaker and mobility provider, today announced a series"
-    publishedDateTime: 2022-01-05T16:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220105005609/en/Amazon-and-Stellantis-Collaborate-to-Introduce-Customer-Centric-Connected-Experiences-Across-Millions-of-Vehicles-Helping-Accelerate-Stellantis’-Software-Transformation"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "gGQyQ5K25fqDSwJXPShqyTKlSxJXsLhXrmfHILo7qQCyoASgV7FbfWTbwM6UKOBFJNrEy9pgFb0sYSAKWyqFuu2dX+84QD6PndBJfdi5wpT6SdH+kuNkkFjG09u3EdYNfryBJHF8QMhoEwBNpnPM1BAY5/v2/WQ28Zx4/X3/HjJ1+mrlzM19QXXEYxD2F3pLEM1CYewLGldszukOLz5ThMEP2G8w9e1PMdb5Py1sZE1Wv8exVw2hcGpLszdBZEc3CCMt7IWLgYCmjOiBhFlTMYtnJUzf5wgonYs8B9h+RT9syOrQFF68UONe7vBCTISaBYOF9ZspDHEgEtYrJzwVeJ4Wq/iWLgHTfMVy9rGUZTk=;syecm2J7o5yVYygFOTaSmw=="
 ---

@@ -37,31 +37,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "Upstart vs. LendingClub: Which Fintech Stock is a Better Buy?"
-    excerpt: "I will analyze and compare Upstart Holdings (UPST) and LendingClub (LC) to determine which fintech stock is currently the better investment."
-    publishedDateTime: 2022-01-05T15:51:00Z
-    webUrl: "https://stocknews.com/news/upst-lc-upstart-vs-lendingclub-which-fintech-stock-is-a-better-buy/"
-    ampWebUrl: "https://stocknews.com/single-snippet-page/amp/"
-    cdnAmpWebUrl: "https://stocknews-com.cdn.ampproject.org/c/s/stocknews.com/single-snippet-page/amp/"
-    type: article
-    provider:
-      name: Stock News
-      domain: stocknews.com
-    quality: 24
-  - title: "What does 2022 have in store for fintech?"
-    excerpt: "Here’s what the experts expect in 2022 The fintech industry moved at break-neck speed in 2021, with pre-pandemic days feeling like ancient history. Expect an even faster pace of change in 2022, according to industry experts."
-    publishedDateTime: 2022-01-05T15:10:00Z
-    webUrl: "https://www.raconteur.net/finance/fintech/what-does-2022-have-in-store-for-fintech-2/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 24
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Fintech-trends-2022.jpg"
-        width: 1188
-        height: 668
-        isCached: true
   - title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
     excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
     publishedDateTime: 2022-01-06T01:48:00Z

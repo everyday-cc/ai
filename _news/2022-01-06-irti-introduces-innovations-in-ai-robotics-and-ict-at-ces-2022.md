@@ -43,22 +43,6 @@ related:
         width: 531
         height: 337
         isCached: true
-  - title: "CES 2022: AI is driving innovation in ‘smart’ tech"
-    excerpt: "At CES 2022, a slew of smart tech innovations driven by AI and aimed at improving lives and businesses, are being unveiled publicly."
-    publishedDateTime: 2022-01-05T15:59:00Z
-    webUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/"
-    ampWebUrl: "https://venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/ces-2022-ai-is-driving-innovation-in-smart-tech/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1322183741.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
   - title: "ITRI Introduces Innovations in AI, Robotics, and ICT at CES 2022"
     excerpt: "Technologies include the CES Innovation Award Honoree RGB-D AI Robot, the Autonomous Selfie Drone, and the Interactive Time Machine HSINCHU, Jan. 5, 2022 // -- The Industrial Technology Research Institute (ITRI),"
     publishedDateTime: 2022-01-06T04:00:00Z

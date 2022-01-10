@@ -36,20 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
-  - title: "Ambarella (AMBA) Introduces CV3 AI Domain Controller SoC"
-    excerpt: "Ambarella (AMBA) launches CV3 AI domain controller SoC for implementing autonomous driving for vehicles from Level 2+ to Level 4."
-    publishedDateTime: 2022-01-05T17:01:00Z
-    webUrl: "https://www.entrepreneur.com/article/411648"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411648.jpeg"
-        width: 635
-        height: 400
-        isCached: true
   - title: "Ambarella (AMBA), Seeing Machines Tie Up For Integrated ADAS"
     excerpt: "Ambarella (AMBA) and Canberra-based Seeing Machines collaborate to develop integrated forward-facing ADAS solution combined with the latter's occupant and driver monitoring system technology."
     publishedDateTime: 2022-01-07T19:01:00Z

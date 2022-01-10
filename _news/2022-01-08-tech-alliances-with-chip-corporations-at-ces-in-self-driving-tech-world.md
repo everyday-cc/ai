@@ -26,6 +26,38 @@ images:
     isCached: true
 
 related:
+  - title: "FOCUS-At CES, tech alliances firm up in the self-driving car wars"
+    excerpt: "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market."
+    publishedDateTime: 2022-01-07T11:00:00Z
+    webUrl: "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL"
+        width: 830
+        height: 545
+        isCached: true
+  - title: "AI-driven self-driving race cars create history at CES 2022"
+    excerpt: "Self-driving race cars made their own place at the CES 2022. Italian American team PoliMOVE developed a self-driving race car based on a Formula One car, nicknamed as Minerva claimed to have created history at the event,"
+    publishedDateTime: 2022-01-09T04:29:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022-41641700029723.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/auto-images/Kia/Seltos/1589878851759_Seltos1"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
     publishedDateTime: 2022-01-08T10:10:00Z
@@ -39,6 +71,20 @@ related:
     quality: 44
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Creepy meets cool in humanoid robots at CES tech show"
+    excerpt: "A lifelike, child-size doll writhed and cried before slightly shocked onlookers snapping smartphone pictures at the CES tech show."
+    publishedDateTime: 2022-01-05T22:40:00Z
+    webUrl: "https://www.digitaljournal.com/tech-science/creepy-meets-cool-in-humanoid-robots-at-ces-tech-show/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 39
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/CES-Las-Vegas-AFP-1K-01.jpg"
         width: 1024
         height: 682
         isCached: true

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-publishedDateTime: 2022-01-06T15:15:00Z
-originalUrl: "https://www.lelezard.com/en/news-20181152.html"
-webUrl: "https://www.lelezard.com/en/news-20181152.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+publishedDateTime: 2022-01-06T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Roche, Microsoft Partner Improve Healthcare using AI and Cloud Technology"
@@ -53,6 +47,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Extending Microsoft’s Azure Digital Twins for real-time analytics"
+    excerpt: "As countless applications need to track live systems, developers face the challenge of implementing real-time analytics that can react to incoming telemetry and quickly identify problems or opportunities."
+    publishedDateTime: 2022-01-10T08:53:00Z
+    webUrl: "https://developer-tech.com/news/2022/jan/10/extending-microsoft-azure-digital-twins-real-time-analytics/"
+    type: article
+    provider:
+      name: Developer Tech
+      domain: developer-tech.com
+    quality: 54
+    images:
+      - url: "https://developer-tech.com/wp-content/uploads/sites/3/2022/01/extending-azure-digital-twins-real-time-analytics-developer-cloud-iot-platform-scaleout-software.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "SparkBeyond Discovery Now Available in the Microsoft Azure Marketplace"
     excerpt: "Today SparkBeyond announced the availability of its data science platform for supervised machine learning, SparkBeyond Discovery, in the Microsoft Azure Marketplace, an online"
     publishedDateTime: 2022-01-06T13:00:00Z
@@ -63,6 +71,6 @@ related:
       domain: wfmz.com
     quality: 49
 
-secured: "YLUBnxMKFp5l69jzcoRf5jJBLMUCAHHFwYlVCTHs66YUlytUSV6XVlApKB607Y0+B/kUpatoaQjUAyoNX7DExUVDMEjjsbIxxqtxNX6oIicUEyW0Ptv0whg+hbmvsUHIedJAL/ODwtVi1OTZKjRiVkCoNTW7rtgBIdYQ2GYe5R9+xNhPxCOXrZTUnMQP6Z+t46831WdqLprsUGg1mJiSW74EPOrgoOEbleyr3RXa08ynb5moNod/67A/hLP022cnUx0w0mtMYKdmND1sMWLEAH/dlzLW/YrIGmSLZS06k6sRcTd/lkUndJRK4/i/LulTqX3TDyvoWueuzhM1yMZLSEq/sMkjyBuAkU+pOlpEFcc=;0R87zKtR8m2vU9HcR1cW5g=="
+secured: "uMhx3m16pZCjLl+tFMNXUJ3Nn5d/sDlIdlT43xs02RHlSVAge5cEGHb15z7SOTit9MpgEkYuCGpx6H3NhYFwIloTCGjwRcWnELrL5oiSbzcOm2V7dbHLFNOUaIfjZE/H+KgZk9IrDPJEaplB5OSnYqKpukqNX51dsjpWpxlwSn0A/njz3An3E1v8AyhZtwpS+L5JjsLt9+kYl+ImkSm3qsw+5XKAkCbkcQA60zJ1OjzEo95Epw2r5xDl8evjdOlySPnul7QfwaBwv0pu0CWlqNHhpzQLmaFkx3MRop+SmFwQNgIDR024Nh5Pw5mW46aXxPf1W2tbQaam7mJPcDdb2DOynTSjre29Kzo5rS3PQ1w=;/V+bNgQVEmjucHtb2g+5zQ=="
 ---
 

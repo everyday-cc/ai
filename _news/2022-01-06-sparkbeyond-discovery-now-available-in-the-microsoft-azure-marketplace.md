@@ -47,20 +47,29 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-    publishedDateTime: 2022-01-06T15:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-20181152.html"
+  - title: "Extending Microsoft’s Azure Digital Twins for real-time analytics"
+    excerpt: "As countless applications need to track live systems, developers face the challenge of implementing real-time analytics that can react to incoming telemetry and quickly identify problems or opportunities."
+    publishedDateTime: 2022-01-10T08:53:00Z
+    webUrl: "https://developer-tech.com/news/2022/jan/10/extending-microsoft-azure-digital-twins-real-time-analytics/"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 53
+      name: Developer Tech
+      domain: developer-tech.com
+    quality: 54
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://developer-tech.com/wp-content/uploads/sites/3/2022/01/extending-azure-digital-twins-real-time-analytics-developer-cloud-iot-platform-scaleout-software.jpg"
+        width: 2400
+        height: 1600
         isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+    publishedDateTime: 2022-01-06T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
 
 secured: "cNICULg6LPkc6OWJILXGPLb4BR8jDsy3gQ/xxSGfa4PxeEBbDgVcEGvoBtY1+pj4EC6HFIIc0ARL7reC9Xdz5Ivkfl/IwC1r1rdcmafQRoVRD6sNiv5cyg9XKULncShdDKZIgvkpSgNayJdMj3ij2ibXzaForcm5MaE+7X+8UqbPNdGkFv1WfmXSzvOGkAG4BeDwnBXHMR0Xo4m+TvGaNcbkarsFFiFEJguEyjIIRnV5hc6RAk1HcbE/G2vAL7rWCURZs51QT8hpuZBQYaNwxo8+q/QdJCCH4J0tpuduPd+kdQrdFPJQAls6EweEBoCRilww1y30eTnYOmUUxtWpKMVQjsZklhwPjYA5NZQa75GpFT9MUtONkmQH0tPuy4swAfUuS65YKgKe9tdGtxFIgaM8kFfbI2ktmKz+ZmlA6jCCzIYv/9hLhCtnbyudItXsGWe5drW2gr8iR3RwVaBFKrMTI1UaJeh9meDaN3CaGZ5qQreBLXVFUABtNTRZkI9ZNJXNpbIwhAgGqEqR8Jq9tA==;Kk/DXtMcx8aXAVVerXlhaA=="
 ---

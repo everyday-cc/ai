@@ -1,26 +1,26 @@
 ---
 category: news
 title: "SK hynix to diversify chip biz, collaborate with Qualcomm"
-excerpt: "SK hynix, a South Korean memory chip maker, has said it will invest in the joint establishment of a chip firm in the US with two other subsidiaries of South Korean conglomerate SK Group to diversify its product portfolio and expand its global business."
-publishedDateTime: 2022-01-10T05:48:00Z
-originalUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=913523"
-webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=913523"
+excerpt: "SK hynix, a South Korean memory chip maker, has said it will invest in the joint establishment of a chip firm in the US with"
+publishedDateTime: 2022-01-10T05:46:00Z
+originalUrl: "https://menafn.com/1103512180/SK-hynix-to-diversify-chip-biz-collaborate-with-Qualcomm"
+webUrl: "https://menafn.com/1103512180/SK-hynix-to-diversify-chip-biz-collaborate-with-Qualcomm"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Daijiworld
-  domain: daijiworld.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/Mak_feb_sq_1.jpg"
-    width: 280
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206134"
+    width: 445
     height: 250
     isCached: true
 
@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Sysdig Adds Cloud Security for Microsoft Azure Cloud"
-    excerpt: "Sysdig, Inc. announced today cloud security for Microsoft Azure Cloud with configuration risk management and threat detection that is built on Sysdig's runtime security technology. The Sysdig platform brings new continuous cloud security"
-    publishedDateTime: 2022-01-05T16:12:00Z
-    webUrl: "https://www.lelezard.com/en/news-20179343.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 71
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Qualcomm Introduces New Snapdragon Ride Vision System And New Partnerships At CES 2022"
     excerpt: "Ranked Industry Analyst Patrick Moorhead covers Qualcomm's announcements of many new and extending automotive partnerships and a new addition to the Snapdragon Ride Platform, the Snapdragon Ride Vision System."
     publishedDateTime: 2022-01-06T17:14:00Z
@@ -72,6 +58,6 @@ related:
         height: 675
         isCached: true
 
-secured: "sNq3P830yu8fnAszYxSL0hV4AxZ3haGLyTgiKlIuRantBzaSRwbS2ku2iwSbDq3Khy+sP8IAumPLq23ABPvcVb3a59SW8NmMH8VzmvTBDvRZupIS1Ms7hsvcGxwS6LjGGPHK1e6MetpaVMm55kXrHeLs6ssqV1U5IZvwRt1ySHzJ+3dLVaJJhml16LGHkSD3QD7LAx1ZoSke3nR4aXpj5aWPTHD8Aecyyd69YD4UJRKqIBAdCZxjMexp3t9hCvXhvFobIgTMjpsGnIg5iqYYbc0LrE5OucZcKtm9CM5Ipx55I2G+prJdu29b8B8tYcHKF1CQnI5iCVFxUjIqFEKfFPphzvHrAlct5pq5xD/Pz2k=;HMrIaxyJoY4KLor9SB3mEw=="
+secured: "UiPqeCiRem1f1uJRQkYYo3TNOh6PsS5nPF/beDRNbHP4JWFUlkliAL7NeHE7E3IOz1x/e6pItfKL/2cZxy7KYMA4c0vFAS2FsU1PhAsmXoea62jrHxthIgf34H+9aJPKdpO+6+IQOX8HjW5FVdz5Pu5c0KZmVP1gY28JvRPZ7WXpC8+7H15xkG9MXz9idlKSCkCQD3/B7Tlx7Nbm+EeIA/posz0UzkSlbQXMkT0dbdBbrzoId0+1J0ABiXXdtUuqHb+dptE9ZJBLTJueKr/14vUcusuLOj86pNzFqtexPkj32T3biVPtgY7xqRgrhhROBeutafQLp0slYt+emZSXDPTY5flMQM0cP075kmOLRIg=;yAD9SIgmxIYyV0OeZa11dw=="
 ---
 

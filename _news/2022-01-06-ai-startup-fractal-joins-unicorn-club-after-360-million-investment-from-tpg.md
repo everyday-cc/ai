@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fra
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg"
         width: 850
         height: 400
-        isCached: true
-  - title: "TPG backs AI firm Fractal"
-    excerpt: "TPG invested $360 million in Fractal, a provider of artificial intelligence and advanced analytics solutions to Fortune 500 companies."
-    publishedDateTime: 2022-01-05T15:55:00Z
-    webUrl: "https://www.pehub.com/tpg-backs-ai-firm-fractal/"
-    type: article
-    provider:
-      name: PE Hub
-      domain: pehub.com
-    quality: 37
-    images:
-      - url: "https://d16yj43vx3i1f6.cloudfront.net/uploads/2019/11/PEHub_Logo5.jpg"
-        width: 1024
-        height: 768
         isCached: true
   - title: "Artificial intelligence startup reaches ‘unicorn’ status with $360M investment"
     excerpt: "Artificial intelligence startup Fractal has achieved “unicorn” status, scoring a $360 million investment ahead of a forthcoming initial public offering, leaders announced Wednesday. Headquartered in New York City,"

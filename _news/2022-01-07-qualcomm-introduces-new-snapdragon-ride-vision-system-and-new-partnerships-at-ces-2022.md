@@ -47,32 +47,18 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Sysdig Adds Cloud Security for Microsoft Azure Cloud"
-    excerpt: "Sysdig, Inc. announced today cloud security for Microsoft Azure Cloud with configuration risk management and threat detection that is built on Sysdig's runtime security technology. The Sysdig platform brings new continuous cloud security"
-    publishedDateTime: 2022-01-05T16:12:00Z
-    webUrl: "https://www.lelezard.com/en/news-20179343.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 71
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "SK hynix to diversify chip biz, collaborate with Qualcomm"
-    excerpt: "SK hynix, a South Korean memory chip maker, has said it will invest in the joint establishment of a chip firm in the US with two other subsidiaries of South Korean conglomerate SK Group to diversify its product portfolio and expand its global business."
-    publishedDateTime: 2022-01-10T05:48:00Z
-    webUrl: "https://www.daijiworld.com/news/newsDisplay?newsID=913523"
+    excerpt: "SK hynix, a South Korean memory chip maker, has said it will invest in the joint establishment of a chip firm in the US with"
+    publishedDateTime: 2022-01-10T05:46:00Z
+    webUrl: "https://menafn.com/1103512180/SK-hynix-to-diversify-chip-biz-collaborate-with-Qualcomm"
     type: article
     provider:
-      name: Daijiworld
-      domain: daijiworld.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://daijiworld.ap-south-1.linodeobjects.com/iWeb/daijiworld/images3/Mak_feb_sq_1.jpg"
-        width: 280
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?206134"
+        width: 445
         height: 250
         isCached: true
 

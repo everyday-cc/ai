@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-09-hospitality-facial-recognition-tools.md",
+      "title": "Hospitality Facial Recognition Tools",
+      "excerpt": "Zoox Pass - Zoox Smart Data, a technology company specializing in consumer profiles and data analytics, has announced the launch of Zoox Pass, a new",
+      "sourceUrl": null,
+      "webUrl": "https://www.trendhunter.com/trends/zoox-pass",
+      "originalUrl": "https://www.trendhunter.com/trends/zoox-pass",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.trendhunterstatic.com/thumbs/zoox-pass.jpeg",
+          "width": 622,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.trendhunter.com/amp/trends/zoox-pass",
+      "cdnAmpWebUrl": "https://www-trendhunter-com.cdn.ampproject.org/c/s/www.trendhunter.com/amp/trends/zoox-pass",
+      "publishedDateTime": "2021-12-08T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TrendHunter",
+        "domain": "trendhunter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-rsip-vision-presents-new-technology-for-non-invasive-planning-of-coronary-intervention.md",
       "title": "RSIP Vision Presents New Technology for Non-Invasive Planning of Coronary Intervention",
       "excerpt": "Dec 8, 2021-- RSIP Vision, an experienced leader in driving innovation for medical imaging through advanced AI and computer vision solutions, today announces a new coronary artery modelling technology.",
@@ -1296,49 +1339,6 @@
       "provider": {
         "name": "Commercial Integrator",
         "domain": "commercialintegrator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition.md",
-      "title": "Mantra Softech gets Listed on NIST FRVT for Facial Recognition",
-      "excerpt": "Mantra Softech recently announced that its facial recognition algorithms 1:N and 1:1 placed first out of 25 percent tested systems and 367 entrants in the latest NIST FRVT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2021/12/01/1124367-mantra-softech.jpg",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/mantra-softech-gets-listed-on-nist-frvt-for-facial-recognition-717764",
-      "publishedDateTime": "2021-12-01T06:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/The-Nvidia-RTX-3090-Ti-is-the-GPU-we-all-want-–-but-its-the-RTX-3050-that-we-need.png"
         width: 600
         height: 375
-        isCached: true
-  - title: "Nvidia announces RTX 3050 graphics card for desktops"
-    excerpt: "On the first day of CES 2022, Nvidia announced the RTX 3050 for desktops. Although Nvidia has already released the 3050 for laptop devices, the desktop versions are set to be released on January 27th."
-    publishedDateTime: 2022-01-05T15:51:00Z
-    webUrl: "https://gameranx.com/features/id/284171/article/nvidia-announces-rtx-3050-graphics-card-for-desktops/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 24
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/01/3060.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "H35HLjoN5oKu2QnyxN3h1Y9qdHbGZsvoa/nAGSy42lQPRoNCNy/5S9I9/KUkI5hDyIeSk3TWgvDWcFaTRDKBQs60MurBS/8+408F9tzM2otYJgZKrQRvEPKt1DutHZJWncOnC+6r3N61V0mJP/CSVDYRAU/Gc6lJzVYLTUQvonw0I3+z6DrqubaaZvNme36nl1XcVucPcO/H36r/MBsTutaQlpzHe4U7+VYcF7OJglepg3F22lgteAGNxWZ90NLByGmdQsG/iWwSdpmydY1bDIRW2QybzrenVqkMqzLyCF1U48Zq3K5iZh0W2nDs9c7qHJIgjil2syPCvlQPWSAYpfSNBE3QhWXI/TpLl2gUAho=;aqxLs3f+snAgsAbrCZs54g=="

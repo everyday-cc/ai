@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-06-formant-raises-18m-to-help-companies-manage-fleets-of-robots.md",
+      "title": "Formant raises $18M to help companies manage fleets of robots",
+      "excerpt": "Formant, a startup developing a platform to help manage companies manage fleets of robots, has raised $18 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/",
+      "originalUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1273518964.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/formant-raises-18m-to-help-companies-manage-fleets-of-robots/amp/",
+      "publishedDateTime": "2022-01-05T14:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-cadillacs-new-self-driving-concept-is-a-luxury-loveseat-on-wheels.md",
       "title": "Cadillac’s new self-driving concept is a luxury loveseat on wheels",
       "excerpt": "The InnerSpace concept looks like a futuristic car from the outside—but inside, there's a two-seat loveseat surrounded by one of the widest screens we've ever seen, and no steering wheel or pedals.",
@@ -460,7 +512,7 @@
       "originalUrl": "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -545,7 +597,7 @@
       "originalUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -928,6 +980,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-05-ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place.md",
+      "title": "Ulisse Launches the Only Radar and Computer Vision Platform to Transform Every Physical Space Into an Intelligent Place",
+      "excerpt": "The company's proprietary AI and IoT technology is ‘privacy first,' allowing for both anonymity and accuracy; learns from surrounding environment",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place",
+      "originalUrl": "https://www.digitaljournal.com/pr/ulisse-launches-the-only-radar-and-computer-vision-platform-to-transform-every-physical-space-into-an-intelligent-place",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/681004/Screen%20Shot%202021-12-27%20at%2012.37.51%20PM.png",
+          "width": 675,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-2022-startup-predictions-the-trends-sectors-and-tech-worth-watching.md",
       "title": "2022 Startup Predictions: The Trends, Sectors, And Tech Worth Watching",
       "excerpt": "Will 2022 be another record year for investment into the European venture community? Here are a few of the trends and technologies likely to drive investment decisions in the year ahead.",
@@ -1111,92 +1206,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata.md",
-      "title": "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData",
-      "excerpt": "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database.",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
-      "originalUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg",
-          "width": 750,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
-      "publishedDateTime": "2022-01-05T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users.md",
-      "title": "China reveals new algorithm rules to weaken platforms' control of users",
-      "excerpt": "China’s apps have flourished thanks to their ability deliver videos, product offers, or stories perfectly tailored to their users. But the country’s first rules governing algorithms appear aimed at reining in tech giants’ ability to do that.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/ar-AASsiph",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2017/05/rtr3ey7n-e1495200561374.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/amp/",
-      "publishedDateTime": "2022-01-05T03:56:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
-        "domain": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

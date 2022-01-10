@@ -82,6 +82,20 @@ related:
         width: 1240
         height: 827
         isCached: true
+  - title: "At CES, auto tech alliances firm up in the self-driving car wars"
+    excerpt: "Mobileye, Qualcomm and Nvidia -- emerged at the CES in Las Vegas in locking down the brains of self-driving cars for the next decade."
+    publishedDateTime: 2022-01-07T12:25:00Z
+    webUrl: "https://www.autonews.com/ces/ces-auto-tech-alliances-firm-self-driving-car-wars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/CES_ROUNDUP-02_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "opJ6tIe5vaYura8CkRIBzRGY1u0+rGLI24ggYBQH4/K5ON9zuXQLzmXs84Uqjs8TBe6RU4WZ0X8wUdR+ljsHnA+95WKoFfgEU+9w2xbuj31S8KuHORcL0bHPyuV5FDIoH2tPPMl7JI69ootKsxSeD+pwUQXcY4xFDxJMDPB+VDNTja85DZ1YMX9wJ4ZEWoT2Zhsn/DIkwDoF7OvxDVHPUtukfHlsXHhkYw4Ohp4nlUyKCRn+nnK6SkQQnkjxIoJ1/39stD5Bk1IjiyLAbVIO7Dn5iGWtNYIKtYJafRCvNoNPHBqMeZQ0CfztGgXumbaLeqNMZYSwB9ZaBd5z//yn6QyYFUVkJ0s/UuibYA7dEpeL4BM9LvepC9uiMx2CIvd+Q8gnPYk0yR+LXWAAMO9rqBaqlXikf/kDEbxjmPDAZl2SW+awkaHt9p3sGeRxYHu82aB/XNTp1OYvniF56UahjYshTLTZj9JS1jdnYPUBM/hc76T7MCaZzj0DC9zmEXrw+4g3R/2Aza+YG1l+UXrqMg==;ZCCwf5y18zZQcGUid29vdg=="
 ---

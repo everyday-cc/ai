@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-a
 webUrl: "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/"
 type: article
 quality: 134
-heat: 164
+heat: 154
 published: true
 
 provider:
@@ -52,15 +52,6 @@ related:
         width: 800
         height: 360
         isCached: true
-  - title: "Amazon and Stellantis Collaborate to Introduce Customer-Centric Connected Experiences Across Millions of Vehicles, Helping Accelerate Stellantis’ Software Transformation"
-    excerpt: "Amazon (NASDAQ: AMZN) and Stellantis N.V. (NYSE/MTA/Euronext Paris: STLA), a leading global automaker and mobility provider, today announced a series"
-    publishedDateTime: 2022-01-05T16:59:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220105005609/en/Amazon-and-Stellantis-Collaborate-to-Introduce-Customer-Centric-Connected-Experiences-Across-Millions-of-Vehicles-Helping-Accelerate-Stellantis’-Software-Transformation"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "fI0AqQhSc4GkFMY2FYOIZkYSz+u4BmZiGG2/Xq6fFaiWQuO3AvOoqfduP6ZjRmbwV/xFf8rDnZaka7W6qGyEmz9Tbd/X0cX+2A7zA4X+GC18Pih8HkUP2t7xcgf014ZD3blbKHSvQI3JPrBCByyRBSbW+vr6y3RRYRrylkKPRyxVg+0SPRxhlt4+RXKWcwMpRvfuN0uiVGNrdb03C8+uCixPskJpFE0Q37TD3wMJi3Nz8g7p4AJ2v81cE0IHIVTP8HIUTWLzc4TxsUhD22WrD92Q5IwI2LhW65yRDma2ng6mt2vrCePz2ORuSgrhFLbdTgSGyuLZMt/qZo37T3yYSKBg67SMf4CeYco2MGR+qSxB8WAmDcU337SooeB7ltYr;DNaK5CteRNbe70cboXWdcw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://omaha.com/news/national/humanoid-robot-ameca-wows-visitors
 webUrl: "https://omaha.com/news/national/humanoid-robot-ameca-wows-visitors-at-ces/video_cfa40aaa-8b58-55dc-a466-8231a9edb654.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Creepy meets cool in humanoid robots at CES tech show"
-    excerpt: "A lifelike, child-size doll writhed and cried before slightly shocked onlookers snapping smartphone pictures at the CES tech show."
-    publishedDateTime: 2022-01-05T22:40:00Z
-    webUrl: "https://www.digitaljournal.com/tech-science/creepy-meets-cool-in-humanoid-robots-at-ces-tech-show/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 39
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/CES-Las-Vegas-AFP-1K-01.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
 secured: "AXYdI1xYVmbURLk6kkcReypVYefgd7u/CUD3XgUze409NBn6Nff50AFO6s5ij8vw/9mKXeT8kqYubYIiuchNUWRoAtUs6jUgimhICgFHD8hmBUCkZlh8+l6bP+jxkjo6CTqflwCwmT7fTN7cmQ1DJn2A2P1z9rTL8A2KKiff6NA5T8kmzdSLj8HwClEAee/khtIr4j0/kIqAbaCQ//Ziqtj+DxhNDgMSxwaGCmttgvWE4l6AG4ybQWkXa8Zs6ro79PAWluvGsyB45RuCqsForC+D5WnuUnAgGQZbewqec1wtewKfTrqWFqY9dnLUxZHXuY9v5RpxlaraGLIlA7rMah2dRfOOnANPtMhyI8cHguY=;jyl8atHpQ0G/yTUgaOAOQA=="
 ---

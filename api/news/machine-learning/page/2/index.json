@@ -132,6 +132,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-27-deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027.md",
+      "title": "Deep Learning Chipset Market Expected To Witness a Sustainable Growth Over 2027",
+      "excerpt": "Transparency Market Research delivers key insights on the global deep learning chipset market. In terms of revenue, the deep learning chipset market is estimated to expand at a CAGR of ~24% ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chipset-market-expected-to-witness-a-sustainable-growth-over-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/09/Lego-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-26T22:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-25-unmanned-aerial-system-based-weed-mapping-in-sod-production-using-a-convolutional-neural-network.md",
       "title": "Unmanned Aerial System-Based Weed Mapping in Sod Production Using a Convolutional Neural Network.",
       "excerpt": "Weeds are a persistent problem on sod farms, and herbicides to control different weed species are one of the largest chemical inputs. Recent advances in unmanned aerial systems (UAS) and artificial intelligence provide opportunities for weed mapping on sod farms.",
@@ -1382,59 +1425,6 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-octoml-helps-enterprise-automate-with-ml-platform-for-the-edge.md",
-      "title": "OctoML helps enterprise automate with ML platform for the edge",
-      "excerpt": "OctoML’s machine learning platform is an edge AI optimization solution, a category of solutions designed to optimize the performance of AI solutions at the network’s edge with automated deployment, so that engineers don’t have to spend hours on administration and manual optimization.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/edge.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
-      "publishedDateTime": "2021-12-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

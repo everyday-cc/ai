@@ -39,20 +39,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "SIERA.AI Announces $6.8 Million Seed Funding Round"
-    excerpt: "Connected Industrial Mobility leader, SIERA.AI, announced the completion of a $6.8 million seed funding round. The funding round was supported by Parkway Venture Capital, a New York venture capital firm and Ubiquity Ventures,"
-    publishedDateTime: 2022-01-05T16:27:00Z
-    webUrl: "https://apnews.com/press-release/send2press/business-austin-texas-venture-capital-0cc4206a4a437d17b53cc4529e05cb52"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "u9KRLZA4MFqbJqqDiwxfkf0v9G66qnyGjiurjRxixW7MaB5NB8T9WPNYiGJie8w1ky67dVbcChTnfeXHUz2/Gafq3hCSYXG3L7VFTN/PIOEqBnusAGbWZ09D71NcN0EDhLftHXzY1ju5ujFgytt/vPFfS33k3auiTOlnl6LCxSVD0+lRqvs9V5VqgPVp2IVeM9NdMpA8oCc9zEU8qwYASlvf0n0JmjVKmjAeO3mYQXIHCWQ3ykT2c4fwYG5+Roi2SWIizdb/lKOEAwUSPDi9IlUbLpgWiOCn/GNY5DkI+bA+A9I0w0+OCZD1zsOUhrWAaoUzP46TNJlzpfES37lzopIYyk27bDFP31/yqd82Ux4=;dVpDH/tALIZp6qUpxSnqiQ=="
 ---

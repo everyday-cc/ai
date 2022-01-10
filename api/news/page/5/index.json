@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-05-healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata.md",
+      "title": "Healthtech predicted to focus on AI and virtual care in 2022, with medical robotics not far behind: GlobalData",
+      "excerpt": "The tech has already got companies talking, as mentions of ‘AI’ within healthcare, pharma, and medical device company filings increased by over 50%, from 700 in 2018 to 1,100 in 2021, according to GlobalData’s Filings Analytics Database.",
+      "sourceUrl": null,
+      "webUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "originalUrl": "https://www.expresshealthcare.in/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.expresshealthcare.in/wp-content/uploads/2022/01/05162448/EH_healthtech_750.jpg",
+          "width": 750,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/healthtech-predicted-to-focus-on-ai-and-virtual-care-in-2022-with-medical-robotics-not-far-behind-globaldata/432831/",
+      "publishedDateTime": "2022-01-05T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "expresshealthcare",
+        "domain": "expresshealthcare.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users.md",
+      "title": "China reveals new algorithm rules to weaken platforms' control of users",
+      "excerpt": "China’s apps have flourished thanks to their ability deliver videos, product offers, or stories perfectly tailored to their users. But the country’s first rules governing algorithms appear aimed at reining in tech giants’ ability to do that.",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/ar-AASsiph",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2017/05/rtr3ey7n-e1495200561374.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/amp/",
+      "publishedDateTime": "2022-01-05T03:56:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
+        "domain": "https://qz.com/2109618/china-reveals-new-algorithm-rules-to-weaken-platforms-control-of-users/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar.md",
       "title": "Hong Kong Billionaire Professor Adds $2 Billion To His Wealth As Shares Of AI Giant SenseTime Soar",
       "excerpt": "Shares of SenseTime have almost doubled since its closely watched IPO last week, adding $2 billion to the net worth of Tang Xiao’ou, cofounder and the largest shareholder of the Chinese AI giant.",
@@ -1146,101 +1232,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-nvidia-wants-omniverse-to-be-metaverse-builders-glue.md",
-      "title": "Nvidia wants Omniverse to be metaverse builders' glue",
-      "excerpt": "The free collaborative 3D graphics and rendering toolkit comes out of public beta, and its cross-app support could be a sign of where all the other VR/AR tools need to go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/nvidia-wants-omniverse-to-be-metaverse-builders-glue/ar-AASqkWf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/cryso2yyzDiLrn1C8sMAb-IIdCA=/1200x630/2022/01/04/41284882-37c0-400a-8286-4e1f1a780479/nvidia-omniverse-audio2face-rhino.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-      "publishedDateTime": "2022-01-04T08:45:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-        "domain": "cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-with-intel-mobileyes-newest-chip-automakers-can-bring-automated-driving-to-cars.md",
-      "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars",
-      "excerpt": "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/21065_ME_CHIP_EyeQ-Ultra.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
-      "publishedDateTime": "2022-01-04T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

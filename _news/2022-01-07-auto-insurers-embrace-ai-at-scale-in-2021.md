@@ -23,6 +23,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Root taps Tractable for AI claims platform"
+    excerpt: "Root Insurance, a usage-based auto insurtech, will use artificial-intelligence technology from Tractable in its claims process. \"Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers,"
+    publishedDateTime: 2022-01-07T13:37:00Z
+    webUrl: "https://www.dig-in.com/news/root-taps-tractable-for-ai-claims-platform"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/dbb30f2/2147483647/strip/true/crop/7862x4128+0+253/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fb1%2F76%2Fd13de0354a5898a81329328cec36%2Fadobestock-428564931.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "YHhOmsau3EyAj6cDG+4u6dQwCfrYr9qsK3kwGYvc2+eBY+E6BeIobJXMOjOp2XbEWc+gz4oQkbgoPOznRlH1Vs5Dw58T+Ym1jErkkw3EDeE2KGJeDvnaj+boEAes9FIugFSptsC3ao5avM+A/Z1i14ZlBYn8OtD9QGXBjVL1i/RiK7/NQVyJiJij3xTeN5YfgRV8OIOTU4ywYR9ffCRCcW2caaV7jFNCk/y8mXBQSHYME0opP/Xpg6UxZ2d4Xb1rjwr6wtEnIor/klmICjy7h5yV6nRXY3AUgwLx3zdAY4NGdgwWQNblvMHuJ2YbsRzXyufvnJ7NsnJHnkHhhaLT6cnf6LpbLkJMCkQ83sPQRGM=;2zdsxnuuJXrYDK1aSQu1lQ=="
 ---
 

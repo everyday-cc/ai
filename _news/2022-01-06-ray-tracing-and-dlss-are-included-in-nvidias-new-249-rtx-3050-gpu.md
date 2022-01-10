@@ -57,20 +57,6 @@ related:
         width: 600
         height: 375
         isCached: true
-  - title: "Nvidia announces RTX 3050 graphics card for desktops"
-    excerpt: "On the first day of CES 2022, Nvidia announced the RTX 3050 for desktops. Although Nvidia has already released the 3050 for laptop devices, the desktop versions are set to be released on January 27th."
-    publishedDateTime: 2022-01-05T15:51:00Z
-    webUrl: "https://gameranx.com/features/id/284171/article/nvidia-announces-rtx-3050-graphics-card-for-desktops/"
-    type: article
-    provider:
-      name: Gameranx
-      domain: gameranx.com
-    quality: 24
-    images:
-      - url: "https://gameranx.com/wp-content/uploads/2022/01/3060.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Vy+nJUcIRq4xBZ7yzwrlD8cdm5VO/b+UYkQSEojQ1+1MJenW9y+fPHSOBThDI+4xaHQtNCgT2ICopejCxATpfHaJkJ7tpgHFLjNhVHqanv7bGUQxWueGiXFai80IyhFPVCk1cNv4+0hkn2btIOVk6ACgglae4+a3TUzPPk9Jkn4KotBNZ3t8es2itU/mw36vbqQBk9BzoG7abZ1JoHEXiLh8k9qe+ozI1P0nbr/vEEFObL0s/w3kw4xYs4GhLLqMhsopPUVe2C77rDZ6jMYZBp7EQ3ZqQXIoKA89K+6muD4YCfz/UiddcAUqL/GjE7cCbauQdYdgvUp8usYrt+OPwsndwozTdXRVv/BTZYZgLcMSvBAnixjCswgVmmY+6AmL+/2D73+B05KmBBuDaS3iv/leta0DwvDikyzlk9p8QgagfJ5guuZ6nWLVX65Ukq5pYjPUIKuaYMpHX4vWylgo6o0AlcD1MHvpphsK2Hq8ozdxljPrQ7Kq5B0r9vSQHLjuKqmnIj5aQE4O7TtZ9duHUw==;YoHbiSiCkYEWXCVkE0HZ6w=="
 ---

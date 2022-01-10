@@ -3,8 +3,8 @@ category: news
 title: "Dirty words translate to clean polls for Macron"
 excerpt: "We French were both shocked and secretly amused last week to find President Macron saying “merde” to the Covid virus and to those who refuse the vaccine. To a"
 publishedDateTime: 2022-01-10T00:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/651adac6-7189-11ec-aacf-0736e08b15cd?shareToken=c28c943ddd23e86f50cfce4397361b1e"
-webUrl: "https://www.thetimes.co.uk/article/651adac6-7189-11ec-aacf-0736e08b15cd?shareToken=c28c943ddd23e86f50cfce4397361b1e"
+originalUrl: "https://www.thetimes.co.uk/article/dirty-words-translate-to-clean-polls-for-macron-q9t56rzch?shareToken=de657bc9efe1181728e16b75dbb8f7be"
+webUrl: "https://www.thetimes.co.uk/article/dirty-words-translate-to-clean-polls-for-macron-q9t56rzch?shareToken=de657bc9efe1181728e16b75dbb8f7be"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 675
     isCached: true
 
-secured: "ugJcsKGU7Vi8Vf1B4hLx/PfM/3AVJDmoN7e2y31wxUDd69fqvYm25uieFYj3Dn5igkl598LAjOmcnLotLDNAAlIM4FU1+Z4oEDwyuKxKHc4tAN3VcHrrzRrcdP1tTlAxP7mEX82XXfi4nIipq+K53TaTPCAdrZ9D3FylzcFkgWqgQF5aADqsta2hmBPh6HVMED7z6taoLpoxqRPpZWkmObC3thYSGgyVBDnlrYBvNZWbPY9Lkik/epWFHUwbbz4878rFXfWL+N4P5TVtc+sbQcAiGmqXilCGYGXuzVmQaNV1sddBE/6EBJTBV5xwf0ux9ICHVSDva/eYRn2xQ3dbdquKUWY6ZJBsj6+Lw8lW57Y=;s3LAiR1uRHeaZNS+3aajMg=="
+secured: "iBobths5CkH/893sRXL9hY+Op8SpJ3eQx97OMFnFqC25R+cw+BkL6hF33EW+X0mueoXm9hoIuRWfsknb1Gdg3+7MNcrKckM2WHZwDwa5IHflU09SFM3a9GP3jW8zh2jL79q/YGYqLsCeYJyuOPTkqaa6UwHyjezVBMnGbY9gNQTKgnKwRSjR9KP+iHmWlUfbb+b36moAl9ZtyDDg5VzbEAyDScCKYn/lblxyxbrzXOLsgnZUe/bTS2Ex2UQmH7C+/XdN+RPJRkzSeYySY1lyRNGMEXuEPXsWNMbnuJKA0ZDf5P2k2Q6aZcjqjsS1pA23M4bKIEIR++KImOEyTkx/pQ/5OPlLU0dSdeSsHN5Kzuw=;jBMUkvNMFOBQOiIswMAY8w=="
 ---
 

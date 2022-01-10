@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-imag
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Ambarella (AMBA) Introduces CV3 AI Domain Controller SoC"
-    excerpt: "Ambarella (AMBA) launches CV3 AI domain controller SoC for implementing autonomous driving for vehicles from Level 2+ to Level 4."
-    publishedDateTime: 2022-01-05T17:01:00Z
-    webUrl: "https://www.entrepreneur.com/article/411648"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-411648.jpeg"
-        width: 635
-        height: 400
-        isCached: true
   - title: "Ambarella's Artificial Intelligence Image Signal Processor (AISP)"
     excerpt: "New neural network based ISP enhances low-light and HDR processing by up to 100X compared to state-of-the-art traditional ISPs"
     publishedDateTime: 2022-01-06T16:40:00Z

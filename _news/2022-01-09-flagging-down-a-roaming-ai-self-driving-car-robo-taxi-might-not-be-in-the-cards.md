@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2022/01/y/j/e906202de0c5a97d1134441109cf96a48e2bddca.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "At CES, auto tech alliances firm up in the self-driving car wars"
+    excerpt: "Mobileye, Qualcomm and Nvidia -- emerged at the CES in Las Vegas in locking down the brains of self-driving cars for the next decade."
+    publishedDateTime: 2022-01-07T12:25:00Z
+    webUrl: "https://www.autonews.com/ces/ces-auto-tech-alliances-firm-self-driving-car-wars"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/CES_ROUNDUP-02_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "0Ls8K3r5fAic5/Kbkj0JjuKOhon2Gycoa4eEKbuQSHqNRRxJNiubXjVc5XRusBxAkeEyUAXEV7rsdcIYg6Vv060ScnVyHS5ny2qFaeXJldkmnpqvH/sz5CRBDi3p4zUxuRlX+ASbtfAqqynJPDByo+/hkUk5NPDSsU02pGlY3MYkyA4XLC/IvDCIZagiAJPLAuCSKqsFGuWAOxyR2ts+v2Rx/5e4+ar1if/5jN+NNYKjbrPjz00mYN8msbgGkxHbBK1PieK8+B/+t/ODdLnRwCxvAn9Q3EGZ2ZG/hZ8s/VIdlGUSL3CS3c2QPV6fuxQ6CkewEVN8oFOR4ejSgJ+pgzlThoasmydDXkNV3cgQNyA=;WZtb3E5FMlvaev76WOoUXQ=="
