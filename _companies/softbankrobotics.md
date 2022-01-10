@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sbreurope"
   url: "https://twitter.com/sbreurope"
-  followers: 16622
+  followers: 16621
 
 locations:
   - Tokyo, Tokyo
@@ -35,6 +35,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=oDeQCIkrLvc"
 
-secured: "Md2J0tgx2diI4DPKY92BqNkKFs4KaxN870zZNoJr4chev8IJDjMb5WXOe3Zz0i6TS14uUvae11s/QGmtIiTwGU7Y1gBvAavY+5HbJuuQdsS2kTGl7ZEoQ2y5K5/mrEOJbPVOkwXxFxHM/9sLmtOEyLQohPDSykcxyMYAwkicO6JNBie31CNiqB1fPpZu1CEniPFVEFmv4UgowmHHO6jnnObT8w+tgwHnFkefbfhHtuSJaB6/DfX/9oCKrThc18rEKHufH+oOC6xMZ7skmjt5F09lS4HSO3VK5JMlENt/EDI652sZqIcE1kwEPugYCLsNh8HUDPPf69e+lMULAij6bY2tkwHxUhR//QEDcSLRuMo1L3kpal2sH8Q1CImkdLMfmEJBCIerhMtZw4ZNVHsABT0lQsZH708gXTdmNbW8Tg8=;/w0avIggvE43nBB1t/PgSQ=="
+secured: "mfuvEH4KLxKCZptlTRXPzgF36+XR8AQQUlWAELy+0lOzdfEnpOssKobc/IQFoNxbYTtBDYZTtQDFSEUBMeuiMxzFiSMkrzStCuEsDSnKb4MH2fW274kCgfYux1a4CzufR285DPiHpI3MKUUrfO7ePvdqllfARdMsu/BXqT17acdKl23pfN97fbSWsc38YmqoOswo+urBXILXmN0xUiY7/5eEwOU9eDDjCWflz+w+PibcLN6c2oRoo/ytPbLTgZplZoEsv9/PQyJtN461qHc4455YoqLe80ZHcWNig92YrS849feFp4HeMKO/++31zY8n9dSOtVwGxv4oZ4HOH9Uk/zpXHAjAHoMO1np+mWArvx4tunYPpfB0byMMtxcENWRuyxamOsjPTbSySH4bAM7x1UM0Vu1TDY5zsy0DkoGtIJU=;gd+IgxQFkmoLLYR4xZ0vsw=="
 ---
 

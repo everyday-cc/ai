@@ -2,7 +2,7 @@
 name: "Fetch Robotics"
 overview: "Headquartered in San Jose, CA, Fetch Robotics is the pioneer of On-Demand Automation — the only solution that deploys safe, reliable, and versatile Autonomous Mobile Robots (AMRs) for the warehousing and intralogistics markets in just hours. The result is demonstrable improvements in throughput, efficiency and productivity within both commercial and industrial environments — all while working alongside people."
 type: "profile"
-heat: 92
+heat: 57
 
 website: http://fetchrobotics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "fetchrobotics"
   url: "https://twitter.com/fetchrobotics"
-  followers: 8064
+  followers: 8063
 
 size: 51-200 employees
 yearFounded: 2014
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "+lZkRNncE/R4NDMP/T+31rX+KUz0cGmXiTIZ3BHXtip8tbbz1mvrX2I6YmmS6JY3VF7JWkh5Zq0lOpgJYFYpYPEdp9zx3QZDyG8ZBYfP4uCXBNCjF/iyOEC3879WbWOGIyyJdNGIO9rsCbxASIff99M0uOsz+1QI1CwlynB/ScDmE9qHd58rmDB1Z7bxdR9hmzJ0OS9draNBiHbENJ0H2mQW8QM/DdanRD6vlASpOQVoB+mMgAChXfMR6LMm22MmR6rWEZ2zggHSOEg6WYGrur5QmA1HMIUpj47eL35jyTawCo/bEZvYHlbfEMRUaJYBa+FMJ19lZ5I/CJ6i5ltMx30LURSKlL6E3zgS7XX6vnABVlDVRKMhRqA5B4YwwjMuvMmJrlyQioxtRHZusHuiGoLDQviIDfSvj7DXbrHdjC0=;kbufDi+kuA3Up8nA5xt+FQ=="
+secured: "a65fFbUx9UVVl941yOUnw76xWcIsO7TmFfaP5TZ6hHzMDsiG39D2Pa0NphRnhJGh1dIIw6UG0ykBp/KATjTr3C7zLHtQftUZSNVAH3zD2d/QNA84wFAhnO4LsiM4lHMpNjFVmiYVj7CEj0FifmsSE3mOE4V92t1tg64YoFzo5SBaBL7OmGu6pWMkyhWg6A9u8NFG5Ma8k2p1b/wSkmCpdGlMSmkmUg9L3FL1JRtZcaK+8umPyHciX9Oh4Lp68xznBEoD7dx1dfiBmOv8fu5v7/E8AD9NurkELhJNN0DtrldQ6KEen2oCbVGmjTdrjqayjnc1c4T8LfX40B/8jNrT2gUtjC4xsrRGS+hn+JM8q8u6vuAVqefNA3jd7uCKRovUJt+qZbIwDTkyV6fX5YIQnyzzQj3lfg3Uclvq6YS3B9I=;gAYr3rglQM5y8wW+wvyL6A=="
 ---
 
