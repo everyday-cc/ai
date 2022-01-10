@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-publishedDateTime: 2022-01-06T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+publishedDateTime: 2022-01-06T15:15:00Z
+originalUrl: "https://www.lelezard.com/en/news-20181152.html"
+webUrl: "https://www.lelezard.com/en/news-20181152.html"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Using AI And Machine Learning To Improve The Health Insurance Process"
@@ -91,6 +97,15 @@ related:
         width: 300
         height: 234
         isCached: true
+  - title: "How AI is improving the translation experience for marketers"
+    excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
+    publishedDateTime: 2022-01-10T17:30:00Z
+    webUrl: "https://www.america-retail.com/usa/how-ai-is-improving-the-translation-experience-for-marketers/"
+    type: article
+    provider:
+      name: america-retail.com
+      domain: america-retail.com
+    quality: 19
   - title: "How one company is applying AI to improve legal operations"
     excerpt: "Legal ops professionals are already using AI solutions to improve department performance. Here is how one legal department is doing it."
     publishedDateTime: 2022-01-06T18:49:00Z
@@ -101,6 +116,6 @@ related:
       domain: wolterskluwer.com
     quality: 17
 
-secured: "r9O/QnKAUGXQ2ObdOECxuiyZWjR5RYKYlwlW6MiR1o1d7IMeEw3ooGY6IXF27BURM7YXF8NqK6vJ/o+LDQjTpFrb6zIHTJJ1SI4fqxube3Ei7A2ryfyOY2ECi3cKOfDt7PhsTbLipsVrmnLhd5N2qcLGtTu2fd85rCdzplcd8jH/GQz+Cgd2SmqpMppfjaJU2x2rVHF78iWxzcq+oVkA8+kuRKTm0hxAD9C3WqxWDd6qmb98lCz358/se/58A2r0ApA7oQOwxj3EfeKnWjiVRZuKpVJv1ggr1hqraqIRZ9PwTvyQ7UwUDaoI3/8BiJySoOuyShJhQ/fs9bW8XGyl4j3NeJPYHmIm7TL7HCD/UsE=;kBqe55GxdDZAvc3PRPFdwg=="
+secured: "fYU2ymm1rb4c0xPWZhGACW2lduMx9nghhEOIeYMSkNP2uafgPeBasvOc64s2nMmksEx3yBbbG0K5nk5pB5rt2uVoS/ZquVhlBBxc1TM5HvC9xpy1+s7y8YyqiTAiB0ZvpKNEtagfksWmt5D+g3IJA62oH71cDlibSaeK+RWK+wuyyS7UbfhGG68kNZJHzINJDNZ0xSUfjVYixTtOiWuziAkSqM3oA3Jsev2I6lXUJcCQZZZtNrsbBpOXG3RL8nrBzrMzJhn5h5yfaY/iJlcRO1LHkluF6CKJPq2pUefYxzq3DHLNJtzbq0GJaTfiCmN2ZveoHzMGS2obIU9+jst61ZrSiDLrWPQ91vZ6XCbbr5A=;Pbkx9Q+1HkOW1xY7ubwatw=="
 ---
 

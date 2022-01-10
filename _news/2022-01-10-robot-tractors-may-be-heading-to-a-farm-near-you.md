@@ -83,20 +83,6 @@ related:
         height: 595
         isCached: true
   - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
-    publishedDateTime: 2022-01-06T02:35:00Z
-    webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Robot tractors may be heading to a farm near you"
     excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
     publishedDateTime: 2022-01-06T16:57:00Z
     webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"

@@ -59,6 +59,36 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tesla ‘Full Self-Driving’ beta features an ‘Assertive’ mode with rolling stops"
+    excerpt: "Driving” beta 10.3 with an “Assertive Mode” that may perform rolling stops and other borderline maneuvers, The Verge has reported. The update was originally released in October 2021 with three profiles (“Chill,"
+    publishedDateTime: 2022-01-10T12:02:00Z
+    webUrl: "https://techcrunch.com/2022/01/10/tesla-full-self-driving-beta-features-an-assertive-mode-with-rolling-stops/"
+    ampWebUrl: "https://techcrunch.com/2022/01/10/tesla-full-self-driving-beta-features-an-assertive-mode-with-rolling-stops/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/10/tesla-full-self-driving-beta-features-an-assertive-mode-with-rolling-stops/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/tesla-fsd.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Telsa increases the price of “full self driving” yet again"
+    excerpt: "Tesla's highly controversial \"full self driving\" feature is getting yet another price increase. CEO Elon Musk used his Twitter feed last Friday to announce the price hike, telling his millions of followers,"
+    publishedDateTime: 2022-01-10T17:36:00Z
+    webUrl: "https://arstechnica.com/cars/2022/01/telsa-increases-the-price-of-full-self-driving-yet-again/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/01/0x0-ModelY-12-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Tesla's Full Self-Driving Beta offers automated driving profiles that can perform 'rolling stops'"
     excerpt: "As the names imply, these profiles are pre-configured to suit drivers with differing levels of confidence in Tesla's technology. If you have low faith in FSD's"
     publishedDateTime: 2022-01-10T11:58:00Z
@@ -268,6 +298,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Tesla is once again raising the price of Full Self-Driving"
+    excerpt: "Hey Tesla fans, here’s some bad news for your wallets. CEO Elon Musk tweeted out the other day that Full Self-Driving (FSD) will raise in price to a $12,000 option at the time of ordering your new car."
+    publishedDateTime: 2022-01-10T17:15:00Z
+    webUrl: "https://knowtechie.com/tesla-is-once-again-raising-the-price-of-full-self-driving/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 54
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2019/10/tesla-y-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Elon Musk Announces Tesla Bumping Full Self-Driving Package Price By $2,000 To $12,000"
     excerpt: "Tesla’s Full Self-Driving package (FSD) is an incredibly popular option among owners, even despite the software costing a hefty $10,000. But now, as announced by Tesla CEO Elon Musk himself, the package will be getting a $2,"
     publishedDateTime: 2022-01-09T23:05:00Z
@@ -327,6 +371,20 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Aviationtransport_122_menafn.jpg"
         width: 512
         height: 341
+        isCached: true
+  - title: "Tesla’s ‘Full Self-Driving’ Will Jump to $12,000 and the Only Winner Is Tesla"
+    excerpt: "The change was announced in a tweet thread by CEO Elon Musk, who declared Tesla would increase the software's price from $10,000 to $12,000 in the United States on January 17. Musk added in a reply that \"FSD price will rise as we get closer to FSD production code release,"
+    publishedDateTime: 2022-01-10T18:47:00Z
+    webUrl: "https://www.thedrive.com/news/43818/teslas-full-self-driving-will-jump-to-12000-and-the-only-winner-is-tesla"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 36
+    images:
+      - url: "https://www.thedrive.com/content/2022/01/Model-X-Tesla-70-percent-higher-deliveries-2021.jpg?quality=85"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Tesla’s ‘complete self-driving’ software will cost $12k, according to Elon Musk"
     excerpt: "Tesla CEO Elon Musk has announced that the company’s “full self-driving” (FSD) software will now cost $12,000. Musk said on Friday that the higher pricing, which is a $2,000 increase, would go into effect on January 17th for customers “only in the United States."

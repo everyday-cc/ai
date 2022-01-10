@@ -24,22 +24,6 @@ images:
     height: 853
     isCached: true
 
-related:
-  - title: "5G & AIoT hackathon event boosts digital transformation"
-    excerpt: "SYNNEX invited Microsoft IoT Center of Excellence and Intel to co-host event named \"The Making of IoT Hackers\" in Taiwan. This was for the purpose to cultivate talents using AIoT technologies and upgrade ecosystem value chains bringing together local partners and global tech giants."
-    publishedDateTime: 2022-01-06T01:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20220105PR200.html?chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://www.digitimes.com/newsshow/20220105PR200_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-
 secured: "b1gPVnJGv+dVjrBIVV7zzaXOVSjiKZtuQ2vtmsPCRmtWMz4ev4HVFGrWbkSmo6poGjQuqAqaG0xn9lDf9PAr+wqwcXRlTMcWwP2Y3vydiny4t06M5AlMsTAjMPDrHyLa/uTb8WVhAPR1z0OD3SPsB/X3/8GPPHgSA+cFHXUj55bo32M4bJTGVI0ieZSMJHpvdba9SkVLYBSrRLsL8EAUJVUANXLZyE0w8aTXDALNwUYYOFtStBHoWY5alHLhCpcnrIyHCWZi71zG2pdT/qMnWBQtSpaci8GxH+SBkxRIsK6OpzK/zM3D5ZKmh9DsFZ7zwIPhG5sztBZ8ued27S0zYWT51A7DUEkOd+Q0to+hZX0=;XpT7qBdZMqGEnAisjVM4fw=="
 ---
 

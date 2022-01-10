@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-world
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2022/01/Sumit-Chadha1.jpg"
         width: 800
         height: 420
+        isCached: true
+  - title: "Automation of Vital Resource will Be Based on Artificial Intelligence"
+    excerpt: "Companies are using augmented reality technologies in their manufacturing processes. Lockheed Martin, for example, uses"
+    publishedDateTime: 2022-01-10T16:00:00Z
+    webUrl: "https://i-hls.com/archives/112580"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 37
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2022/01/augmented-reality-gd6734eeca_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "XKwfddIxBDZQzCcBB7Lugr6HKtVNVOpAJh1+uatsP3KDA93oXPsQ/Utp7ppjze0THuO3u5NsXUReIri6qJGDDGYmXdrtmcZlrJZokLBDEGENJNwy1FJNEqhoYVIGJ3hKJvbVsosQ2XSXJEff+ef+8fVGpt43Ff6LztUDLxJ2mGf43ITN5eKt3kLOJVHigx9jtuDLjAXykrCNb9dzbfUPzcP7iJUi8leeFd7LWY2i7RfxNK4A7nvNYlckYN4EL8M2wxJ0A9YzdAFUQLC/KJDtl4oyjo0yr9qny8WdMS/bSZqlv/0xh70xD+hkzjDzcSxkGTkk5P6EHy3hR4xkPytTKO4o1JBnpgXeFHzwlNxdsAs=;zfp7dew7U7kWICcuXyhLMQ=="

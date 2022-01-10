@@ -35,7 +35,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://scitechdaily.com/images/Artistic-Artificial-Intelligence-Concept.jpg"
         width: 2000

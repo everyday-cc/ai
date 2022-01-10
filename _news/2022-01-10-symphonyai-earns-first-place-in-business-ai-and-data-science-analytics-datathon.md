@@ -91,6 +91,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
+    excerpt: "With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI, the role of AI and machine learning will only continue to grow in 2022, with a significant increase in the demand for related roles,"
+    publishedDateTime: 2022-01-10T18:24:00Z
+    webUrl: "https://www.indiatvnews.com/business/news/adopting-chatbots-hiring-in-data-analytics-to-see-rise-in-2022-says-report-2022-01-10-753776"
+    ampWebUrl: "https://www.indiatvnews.com/amp/business/news/adopting-chatbots-hiring-in-data-analytics-to-see-rise-in-2022-says-report-2022-01-10-753776"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/news/adopting-chatbots-hiring-in-data-analytics-to-see-rise-in-2022-says-report-2022-01-10-753776"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 33
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/01/chatbots-1641837702.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Ncz+DEwDHnMUW+DNa0m/3MZia7R7Ku4wJWL2SUlWsgMwggbGmO1sjNptzpkayoP9fSdbHHfxuriy6WD2ogbg6bLpVNJVC/9Gtb90LhMb5chtuQtZH/+YzKAHiXFVJE34TkzBkaqIW48Ghw6GiMWXvra1kb3s0kL2ARFQ1MgjUjxUxBd1xsITeYKMazKDiinTAtuNIbudcNIw4s9577JpMNaBzB8U8aar0mdV52QjQ3vyruVjpTSbRdgbIHqRV2IQ+2hoAx/IxxUdF2yxjW72vvgKj1dJyljTApUnuLnB+32htLLFMkU+/2440uo2TfksELnL3N2OFB5Xj7ouWJx+yOavPd4PkZs4X5rG5prriBI=;MoUmqMzQzUEWviszTdZmDQ=="
 ---

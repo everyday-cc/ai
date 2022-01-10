@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-10T16:15:00Z
 originalUrl: "https://www.frontiersin.org/research-topics/31333/artificial-intelligence-for-psychological-health-analysis-during-covid-19"
 webUrl: "https://www.frontiersin.org/research-topics/31333/artificial-intelligence-for-psychological-health-analysis-during-covid-19"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Comparing machine learning algorithms for predicting COVID-19 mortality."

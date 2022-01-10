@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202201/chinese-regulators-vying-to
 webUrl: "https://www.biometricupdate.com/202201/chinese-regulators-vying-to-be-the-hub-of-control-over-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese scientists build factory robot that can read minds"
-    excerpt: "Researchers in China say they have developed an industrial robot that can read a human co-worker’s mind with 96 per cent accuracy.The robot not only monitored the worker’s brain waves, but also collected electric signals from muscles,"
-    publishedDateTime: 2022-01-06T01:56:00Z
-    webUrl: "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds"
-    ampWebUrl: "https://www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/china/chinese-scientists-build-factory-robot-can-read-minds?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 59
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/9a25a14b-7d84-4317-888e-fbcad66d54b5_d05c091f.jpg?itok=uu4W3u9u"
-        width: 763
-        height: 509
-        isCached: true
   - title: "Chinese scientists build factory robot that can read minds on the assembly line"
     excerpt: "Trained robot monitored co-worker’s brain and muscle signals to predict needs, China Three Gorges University team says in domestic peer-reviewed paper. China is in dire need of more powerful robotic technology to address its problems of a shrinking workforce and rising labour costs."
     publishedDateTime: 2022-01-06T12:07:00Z

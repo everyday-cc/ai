@@ -9,7 +9,7 @@ ampWebUrl: "https://www.armstrongeconomics.com/world-news/technology-world-news/
 cdnAmpWebUrl: "https://www-armstrongeconomics-com.cdn.ampproject.org/c/s/www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/?amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tag: Artificial Intelligence Technology Solutions, Inc."
-    excerpt: "DETROIT—Robotic Assistance Devices (RAD), a wholly owned subsidiary of Artificial Intelligence Technology Solutions, Inc., announced it has launched a new website, radsecurity.com According to RAD, the new website offers “cleaner,"
-    publishedDateTime: 2022-01-07T16:30:00Z
-    webUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-technology-solutions-inc-"
+  - title: "5 Fresh Examples Of AI"
+    excerpt: "What used to be seen as niche is now widespread, with innovative AI applications across all industries. 86% of companies say AI became a mainstream technology in 2021—and it shows no signs of stopping."
+    publishedDateTime: 2022-01-10T16:00:00Z
+    webUrl: "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/amp/"
     type: article
     provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb32dce7e4fb522601f127%2F0x0.jpg"
         width: 1200
-        height: 627
+        height: 665
         isCached: true
 
 secured: "aomHKJ9jHAplnTzt+otkXWxPJgkW1gYLVsp4g0NrAMOAfX+SabfW7dcCGxp8WKRvT49IcHiJhzp+0KdH5FIHsBvysOiSpY4iik7YcTDtE/gIMook0OGFyLZEa/JAtxR8vz/TANLpwgMb3pAR8l77o3x4dFN0QIRULKZ2C6izGTDHhOaWu2uBigzXLk6gQMLCrrLSpMqZoZKhWxix9cKFZgrvKgvOE5OfcEQfyonQqGN0coNnsLn44QXjobuZjPlFhQFEP0LhkDHrknqtvXLkAI6uCjtVYmO+21xpWbA/bNs+4HfZUGLGg/bqrH+8JKCJJqA71L/DpLNtNL+Bxynat7UNjUxCwBDUJPlJP4gRxTc=;HAPQVV6CaWK5kOBRtJyQpQ=="

@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-10T15:00:00Z
 originalUrl: "https://scitechdaily.com/measuring-trust-in-artificial-intelligence-ai/"
 webUrl: "https://scitechdaily.com/measuring-trust-in-artificial-intelligence-ai/"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://scitechdaily.com/images/Artistic-Artificial-Intelligence-Concept.jpg"

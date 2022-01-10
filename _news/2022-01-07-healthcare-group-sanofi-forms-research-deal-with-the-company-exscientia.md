@@ -50,6 +50,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 67
+  - title: "Sanofi (SNY) Inks Deal to Develop AI-Driven Precision Medicines"
+    excerpt: "Sanofi (SNY) signs a collaboration agreement with Exscientia to develop precision-engineered medicines in oncology and immunology using the latter's AI-driven platform."
+    publishedDateTime: 2022-01-10T17:01:00Z
+    webUrl: "https://www.entrepreneur.com/article/412358"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 67
+    images:
+      - url: "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412358.jpeg"
+        width: 635
+        height: 400
+        isCached: true
   - title: "Sanofi partners with AI firm Exscientia to develop up to 15 new drugs"
     excerpt: "French drugmaker Sanofi SA will partner with British AI firm Exscientia Plc to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to US$5.2 billion in milestone payments,"
     publishedDateTime: 2022-01-07T18:59:00Z

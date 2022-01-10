@@ -34,20 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Singapore’s Top Fintech Legal Firms and Lawyers in 2022"
-    excerpt: "Chambers and Partners, an independent research company delivering rankings and insights into providers of legal services, has released its selection of Singapore’s top fintech law firms and individual lawyers for 2022."
-    publishedDateTime: 2022-01-06T01:48:00Z
-    webUrl: "https://fintechnews.sg/58245/fintech/singapores-top-fintech-legal-firms-and-lawyers-in-2022/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/01/Singapores-Top-Fintech-Legal-Firms-and-Lawyers-in-2022.png?x95107"
-        width: 1210
-        height: 670
-        isCached: true
   - title: "Fintech’s Biggest Challenge for 2022: Customer Service"
     excerpt: "As I reminisce on these past three years since founding OneBlinc, and the tremendous traction we have been able to obtain, I have been thinking incessantly about what has helped us win, the key challenges we have faced,"
     publishedDateTime: 2022-01-06T17:05:00Z

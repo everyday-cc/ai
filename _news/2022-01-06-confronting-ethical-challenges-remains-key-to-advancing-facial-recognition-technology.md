@@ -7,7 +7,7 @@ originalUrl: "https://internationalbanker.com/technology/confronting-ethical-cha
 webUrl: "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/"
 type: article
 quality: 51
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition technology makes for better giant panda protection"
-    excerpt: "While facial recognition technology continues to facilitate many aspects of human life, it is now also being applied to aid the protection of giant pandas. A nature reserve in Northwest China's Gansu province has built an AI-enabled video monitoring system to better protect wild giant pandas."
-    publishedDateTime: 2022-01-06T02:51:00Z
-    webUrl: "https://www.chinadaily.com.cn/a/202201/06/WS61d6594ca310cdd39bc7f797.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202201/06/61d6594ca310cdd3d8255110.jpeg"
-        width: 445
-        height: 296
-        isCached: true
   - title: "Facial recognition technology makes for better giant panda protection"
     excerpt: "A nature reserve in northwest China's Gansu Province has built an AI-enabled video monitoring system to better protect wild giant pandas."
     publishedDateTime: 2022-01-07T01:54:00Z

@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Analyzing the Arctic’s Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
+    excerpt: "Arctic sea ice is a keystone indicator of greenhouse-gas induced global climate change, which is expected to be amplified in the Arctic. The underwater acoustic environment in the Arctic Ocean contains a great deal of unique insights such as behavioral changes of its marine species and sea ice melting."
+    publishedDateTime: 2022-01-10T17:02:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/climate-science-environment-san-jose-oceans-787fc3bf09d74bdb7a38e9e3d1a7d47d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "yAjaOJNqRLjWnAnf2P8u6xos0AdGhfeY0TbLXBBIzkpfBrxxuraYH0ZueAFx/Ssm2/+nvkSXyvUCf1j6B1IjmYxAEq/e8YqiXPMKUywRWRnte/Y+6gjgyzCpVltkXeWv+HFwqW+4+oCK5pwO6sk32CrfbVqF6vinAK+z17nhQSqhGeD4JxefPsUMTVQPxqwcimiRP45/5MVzn+RbWSRsfP2IFo0YDRo3nWbez3HLSC8uS3uOjqBJ5Qb2iEcVpSNgOM1bb5WFx/15f+YWQZ0PrRlbRnfxBb02kPLP7DOUQoZxb6q290izKlwhUMSP9A1WifG/WC2Esy4quHaTG+Yh2aHJlUPbR4js9Qqqvkhi43Y=;LTVZms+N0Cykk/CfGxwdDA=="
 ---

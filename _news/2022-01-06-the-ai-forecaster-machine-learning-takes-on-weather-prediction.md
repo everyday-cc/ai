@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-01-ai-machine-weather.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-machine-weather.amp"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "AI Isn’t Ready to Take Over Weather Prediction"
+    excerpt: "Despite several decades of computerized automatic forecast development, human-powered predictions assisted by these technologies are more accessible and more accurate than their AI counterparts."
+    publishedDateTime: 2022-01-10T16:58:00Z
+    webUrl: "https://www.extremetech.com/extreme/330378-ai-isnt-ready-to-take-over-weather-prediction"
+    type: article
+    provider:
+      name: ExtremeTech
+      domain: extremetech.com
+    quality: 37
+    images:
+      - url: "https://www.extremetech.com/wp-content/uploads/2022/01/Mark-Konig_Unsplash-640x353.jpg"
+        width: 640
+        height: 353
+        isCached: true
 
 secured: "UfJmgzcEzz6nPnHKLX1CjC+/JL/ODJRBlK3JAFFodW6Cc1M2GE3OFyZPUX85MmOp4WM4Vx9LtJ2xb88M8pANlUXgwjfBDxuFwVGcwtsjOfq13C4gkI7XLLmQnzrXkgEbW6gH84fyXmKWkkYSqq5DYx8yhlebJqAFTAXr3ZKcxEZ5RcT1d5GAIfGmf12FG1Vxi3ujumwh/dVV0d8zEz/oeZ4gFEP/pYjft+AJsZVtw3yZeFdG34kIevx5W0KByuSVVOKk/+HmSX/DHDy4Wnzi3chB4S4Kkf5d5lgTwJuqkXf5EoH3c0HvwQHtyT6tZKKHk0bt4lJnji3obo/LDEja9jzi34NQ2Yo3voeEN+JTFJs=;gN6Fpj2zFrDO4naNfw4+lQ=="
 ---

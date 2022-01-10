@@ -27,13 +27,13 @@ images:
 related:
   - title: "Johnson & Johnson Medical Devices Companies Announces Strategic Partnership with Microsoft to Further Enable its Digital Surgery Solutions"
     excerpt: "The Johnson & Johnson Medical Devices Companies (JJMDC)* today announced that it will collaborate with Microsoft to further enable and expand JJMDC's secure and compliant digital surgery ecosystem. The Microsoft Cloud will help JJMDC realize its vision of driving innovation that advances skills,"
-    publishedDateTime: 2022-01-10T13:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/01/10/9522764.htm"
+    publishedDateTime: 2022-01-10T13:37:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-johnson-medical-devices-companies-announces-strategic-partnership-with-microsoft-to-further-enable-its-digital-surgery-solutions-1031090788"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 15
 
 secured: "8tC3CEuUJ3amsAYnFGe4sHyXRid/xQDElkrgjkQ8hsSah3R4pwWICsvyfN4rZ250MkRaUbARA8mgSSQArG5MeMxLyaLNn23FH4Yp+G3cHivDUu9+J6ImVJ7gzeFZpBOaFUtnpxFwoO7QUcT2w4FjzvFB783NMU6GY2gBMcHwtl658NChbeWy7DrTKTGBJZmoGjBeB9aMe9I/EKfLn6c7D533ByZCspsyNQtzLwhiXJ+8mXHJvxzbGWRpvGdbW6KZKnt13GQQ2ZRsKtenUmVuTs6ShzM1K8LDbo8XLSxD1hRU1esOtGN9BiNs6wF7zhBZ+VMtBZosWgoeaWAsS7AIx1XN8OOhbbpfiI7FYE78DFU=;qFRqBPJXFjErNth06pfORw=="
 ---
