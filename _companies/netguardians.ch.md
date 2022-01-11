@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "netguardians"
   url: "https://twitter.com/netguardians"
-  followers: 1534
+  followers: 1535
 
 size: 51-200 employees
 yearFounded: 2007
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "0a50zUbkvLHBtzFukTVuZ0Fz/1NQcMfVQxQJ0sGeo4Im06T2cWjb3AVHmnQ3Afye+jU47NaQZiEf1Mv6Edh7q/aLCVAgjWV2mpdaGUXirDZrwwb3+dm7Z9/t0gZmRc3xDa9iE5hGT/oOMg4sVn3rra/+v4deMMWrQ0Y9Gu5YSe+EUXpvT62A2qRnjLk9YYufKMaRN0odf+IFdLkQ+92g1X8ot5FueZ2cVcwp0i6e2Mh94cpjXyUq6P0+GVw89GRjXta9z2prl8RTdtjXXE5OXqTAnlsVxkj/TuQAbQZXLUH0I28ZQk+uJrhZ11r51VMIFyDwX4lUq8TMQmqYTuYyDh3br/X30ybEaIxWuCEgDzBqa+mAAsbv+delhVIIwf4GDAwwi2FLpzW4fEJkumIYsYEruNjoCpxOdwFbGteoem8=;u2eTmDvLxPFS3dpDPJMEZQ=="
+secured: "HbCs1P20/MkfALD8lqUerAXBFMMHUvwcQZePUDp6hDX+OjaVojVBPsFpeWHaEuyZ71Uk+UtCOsGGhM54TjFaKbvSljZ89EV1o7y+EDfHEjPTw0B0VdTACFTcth5tFaqLkGhMHnoMXXzUV9tudByxvBdhmyXzDXeOO+hdwGT6QQ+nt7H+GHn56HhxvXykW/ZQttWiOCV+HhqD8WZdzV2xHC2lWMrjC7HuKnqGTbMD3St765jM0LOQrPJOvSGGF6DpDOCdDXe3svnRuENmPGf2nMeJ1pRvYKhH/IsQ3TWiWDnjsVwnMgHU5msvi+CavXyJGnH217Gd4FYCZj0TXwIFTLLQwdnZ1IIM56Z6CbdvFO+OsVbWAOVoMGro3pk/QtmCvWcqlk9Et2rlVUKaLNxFg4keC88FneLLGClVzRbKM4E=;4x2K821t6FfF90P0+eJLng=="
 ---
 
