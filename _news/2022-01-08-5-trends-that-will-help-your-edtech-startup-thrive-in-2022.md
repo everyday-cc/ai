@@ -56,6 +56,20 @@ related:
         width: 448
         height: 316
         isCached: true
+  - title: "These Are the Five Covid-Driven A.I. Trends That Are Changing Healthcare"
+    excerpt: "For all of its ills, Covid-19 has supercharged consumerism in America's healthcare system, offering tantalizing opportunities for companies interested in lowering health care costs and increasing access to quality medical care."
+    publishedDateTime: 2022-01-11T18:07:00Z
+    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-driving-health-trends-coronavirus-healthcare.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 38
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1284045256_492187_y9ozvu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Five Key Trends Which Will Change the Data Science Landscape in 2022"
     excerpt: "I would like to start of by wishing you all a Happy New Year! As many of you may know, data science is transforming businesses world-wide. It has now become an integral part of the enterprise and is now starting to be known as the new oil."
     publishedDateTime: 2022-01-09T10:47:00Z

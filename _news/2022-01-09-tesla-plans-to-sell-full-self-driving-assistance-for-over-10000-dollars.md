@@ -416,6 +416,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tesla Restores Its 'Assertive' Self-Driving Mode"
+    excerpt: "Free-Photos / Pixabay Tesla Inc (NASDAQ:TSLA) has reinstated the“assertive” self-driving mode. The company had issued an update in October"
+    publishedDateTime: 2022-01-11T18:40:00Z
+    webUrl: "https://menafn.com/1103522257/Tesla-Restores-Its-Assertive-Self-Driving-Mode&source=22"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/11/V_c159aimage_story.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Tesla's Full Self-Driving Beta Might Just Help Drivers Perform Rolling Stops"
     excerpt: "Drivers using Tesla ‘s Full Self-Driving (FSD) beta can now choose between three different driving profiles that will determine how the car will react to various situations on the road. Tesla is offering a “Chill,"
     publishedDateTime: 2022-01-11T08:03:00Z

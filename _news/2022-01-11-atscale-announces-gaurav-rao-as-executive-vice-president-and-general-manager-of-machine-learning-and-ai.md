@@ -1,25 +1,23 @@
 ---
 category: news
 title: "AtScale Announces Gaurav Rao as Executive Vice President and General Manager of Machine Learning and AI"
-excerpt: "Veteran Technology Executive Brings Deep AI/ML Experience to Lead Strategy for Expanding Semantic Layer Solutions for Enterprise AI AtScale, the leading provider of"
-publishedDateTime: 2022-01-11T12:59:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/b24994314/atscale-announces-gaurav-rao-as-executive-vice-president-and-general-manager-of-machine-learning-a"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/b24994314/atscale-announces-gaurav-rao-as-executive-vice-president-and-general-manager-of-machine-learning-a"
-ampWebUrl: "https://www.benzinga.com/amp/content/24994314"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24994314"
+excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced the appointment of Gaurav Rao to the newly created position of executive vice president and general manager of machine learning and AI."
+publishedDateTime: 2022-01-11T14:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-atscale-announces-gaurav-rao-as-executive-vice-president-/2022/01/11/9523749.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-atscale-announces-gaurav-rao-as-executive-vice-president-/2022/01/11/9523749.htm"
 type: article
-quality: 38
-heat: 38
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "G3+CMjERXaPrhEf74YgK0K7htuDbVWo9svDTG5kHCfCy5puJvHQ12IZu3W2Itfh0u/m4SW9ycgBlzzUCUbcBt+tzd6V7OKFkVCVcF0ZCuw242Tp57dmb2Mqb9Df+Xs4PlUNJF0KsVY7pc+yuDhK1Nv/GuBFg4vj2Kdh/uva2wVU9ayXwh2SwH6dZ5li+GYrhvO9Tfq3OqP+5OWvSNRqQyrEnfT8WQMj+Did8M51nckZ2iTiEbokF3udN1wEVeUjrgMrFvhTNe+26okJY70JLDws7jOn76K4DNmDpzlf3ju+DyiE8GY4yEGwcX4p89CYiKmYrbM/d9NNlswKePKw2JD//HUdE/gTVgkCkLIIXf64=;8samfMQEMkF8rOQOsth/ig=="
+secured: "V0fo7DDjEyvhW74btEyTMGHJ8SyyPYLwtkeJQFAcDVjGBpYelYNpG7YRISoAd4DS9LhXE9SalTPSKZLLefo0llTU4Pw4YSmO1gP6TMa2DQOuhYeIeRYPyxu70m5Bj/lqgsrwcS4XXGPv3Qh0k8D1w7OJsRZ2uob/zUWTJtlABAdLZePqggZFtnBbwfQ5YLTuY19JGrJUH6r09pxjw9XB3UccUyZy/aazK1RVV3E7IWAQusLBo7l5E5XaAr/BtByaWT0xXvikf36CK11TQajCbmx4BxYmL/aRNedp94hZBWG+E9oFHe480Ew0yeQMFIEwcqUFuQbggx6uDHjNP3BzI1D9/qUpXLDLx4qM7jgdeps=;kn1BpRV9h/KcGQ2nUmvSzg=="
 ---
 

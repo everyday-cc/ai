@@ -2,6 +2,186 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-01-04-fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence.md",
+      "title": "Fractures Through X-rays Detected Accurately by AI (artificial Intelligence)",
+      "excerpt": "X-rays that are positive for fracture can be quickly detected by a new AI (artificial intelligence) algorithm, thereby improving the care by reducing patient waiting time and diagnostic errors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
+      "originalUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/x-ray1.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
+      "publishedDateTime": "2022-01-03T20:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-spreading-the-wing-to-enter-taiwans-robotics-market-to-catch-up-with-amr-trend.md",
+      "title": "Spreading the wing to enter Taiwan's robotics market to catch up with AMR trend",
+      "excerpt": "All major robotic manufacturers invested a lot to keep up with the trend of AMR. In the Automation Taipei exhibition, many players have launched their flagship AMR products",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
+      "originalUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
+      "publishedDateTime": "2022-01-03T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler.md",
+      "title": "Toyota Announces New Self-Driving Auto Software, Challenging VW And Daimler",
+      "excerpt": "Year-end sales figures are expected to show Toyota breaking General Motors’ 95-year hold on the U.S. top spot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/",
+      "originalUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d39019dc6c1246f755465d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5778%26cropY1%3D275%26cropY2%3D3527",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
+      "publishedDateTime": "2022-01-03T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast.md",
+      "title": "Start the New Year Right with TheDetroitBureau’s Headlight News Podcast",
+      "excerpt": "TheDetroitBureau.com covers the top stories occurring in the auto industry in the latest edition of the Headlight News podcast. The weekly roundup includes news, features, reviews and more. The on-again,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedetroitbureau.com/2021/12/geelys-zeekr-to-build-autonomous-vehicles-for-waymo/",
+      "originalUrl": "https://www.thedetroitbureau.com/2022/01/start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/waymo_zeekr-3.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheDetroitBureau",
+        "domain": "thedetroitbureau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-1493-billion-in-2027.md",
       "title": "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027",
       "excerpt": "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery.",
@@ -997,178 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-what-to-consider-while-planning-ai-budget-for-2022.md",
-      "title": "What to consider while planning AI budget for 2022",
-      "excerpt": "When planning for AI, the budget does not only include the implementation and software costs. There’s a lot more to AI budgets than meets the eye.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88652471,imgsize-36498,width-1200,height-628,overlay-etcio/what-to-consider-while-planning-ai-budget-for-2022.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
-      "publishedDateTime": "2022-01-02T17:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-tesla-rival-races-to-introduce-driverless-cars-by-2024.md",
-      "title": "Tesla rival races to introduce driverless cars by 2024",
-      "excerpt": "Making predictions about technology is a notoriously dangerous sport, and the onset of driverless cars is a particularly perilous thing to forecast. Google once pledged that the public would be able to buy robot vehicles from 2020 - a deadline that Toyota,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/business/2022/01/02/tesla-rival-races-introduce-driverless-cars-2024/",
-      "originalUrl": "https://www.telegraph.co.uk/business/2022/01/02/tesla-rival-races-introduce-driverless-cars-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/business/2021/12/31/TELEMMGLPICT000280027361_trans_NvBQzQNjv4BqgsaO8O78rhmZrDxTlQBjdLdu0TL-Cg_AMOUqySXmFgU.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-02T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-02-ethical-impact-of-ai-on-health-safety-and-wellbeing.md",
-      "title": "Ethical impact of AI on health, safety and wellbeing",
-      "excerpt": "Across industry, the use of AI has become a key feature of the technological revolution in workplace safety, health and wellbeing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/",
-      "originalUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s32891.pcdn.co/wp-content/uploads/2019/10/GettyImages-1051617224.jpg",
-          "width": 800,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/",
-      "cdnAmpWebUrl": "https://www-shponline-co-uk.cdn.ampproject.org/c/s/www.shponline.co.uk/culture-and-behaviours/ethical-impact-of-ai-on-health-safety-and-wellbeing/amp/",
-      "publishedDateTime": "2022-01-02T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SHP Online",
-        "domain": "shponline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-02-maine-voices-recognition-needed-that-first-responders-face-growing-mental-health-toll.md",
-      "title": "Maine Voices: Recognition needed that first responders face growing mental health toll",
-      "excerpt": "I want to develop and maintain a culture where a law enforcement officer asking for help is applauded as an act of courage, says Maine’s U.S. Attorney.",
-      "sourceUrl": null,
-      "webUrl": "https://www.centralmaine.com/2022/01/02/maine-voices-recognition-needed-that-law-enforcement-officers-face-growing-mental-health-toll/",
-      "originalUrl": "https://www.centralmaine.com/2022/01/02/maine-voices-recognition-needed-that-law-enforcement-officers-face-growing-mental-health-toll/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://multifiles.pressherald.com/uploads/sites/2/2021/12/shutterstock_1814688341-1640895278-1024x500.jpg",
-          "width": 1024,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-02T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kennebec Journal",
-        "domain": "centralmaine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

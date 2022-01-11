@@ -43,6 +43,22 @@ related:
         width: 834
         height: 556
         isCached: true
+  - title: "Professor Says Technolgy for Driverless F1 Is Closer Than You Think"
+    excerpt: "Prof. Markus Lienkamp of the Technical University of Munich says an emotional discussion on value of actual drivers is on the horizon."
+    publishedDateTime: 2022-01-10T19:49:00Z
+    webUrl: "https://www.autoweek.com/racing/formula-1/a38711976/driverless-f1-closer-than-you-think/"
+    ampWebUrl: "https://www.autoweek.com/racing/formula-1/amp38711976/driverless-f1-closer-than-you-think/"
+    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/racing/formula-1/amp38711976/driverless-f1-closer-than-you-think/"
+    type: article
+    provider:
+      name: Autoweek
+      domain: autoweek.com
+    quality: 59
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-tii-euroracing-autonomous-race-car-passes-the-tum-news-photo-1641842458.jpg?crop=1.00xw:0.753xh;0,0.0978xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Deere Unveils First Self-Driving Tractor"
     excerpt: "Deere's autonomous tractor can be controlled by a smartphone. Deere revealed its first self-driving tractor that farmers can control with a smartphone at CES 2022. The company created autonomous equipment including a box that is placed on the front and one on the back of existing agricultural machinery such as the 8R 410 row crop tractor that has a total of 12 stereo cameras and an Nvidia GPU."
     publishedDateTime: 2022-01-07T20:02:00Z

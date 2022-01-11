@@ -2,6 +2,152 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-09-7-ways-the-technology-sector-could-support-global-society-in-2022.md",
+      "title": "7 ways the technology sector could support global society in 2022",
+      "excerpt": "Learn more Some of the excesses of 2021 have shown us how digital technologies can undermine what philosophers call future “human flourishing.” A lot has been written on this topic in the first few days of the new year,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
+      "originalUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1148773616.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/7-ways-the-technology-sector-could-support-global-society-in-2022/amp/",
+      "publishedDateTime": "2022-01-08T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-09-employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment.md",
+      "title": "Employers, investors take notice of AI tools to speed job recruitment",
+      "excerpt": "A chronic shortage of workers has more employers turning to artificial intelligence to supercharge recruiting efforts, seeking an edge in an increasingly pitched battle to fill job openings. By automating previously manual tasks—like pre-screening job applicants for basic qualifications,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641637244910.html",
+      "originalUrl": "https://www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641637244910.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/01/08/600x338/jobaudition-kPDI--621x414@LiveMint_1641637494942.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment/amp-11641637244910.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment/amp-11641637244910.html",
+      "publishedDateTime": "2022-01-08T13:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-09-the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need.md",
+      "title": "The Nvidia RTX 3090 Ti is the GPU we all want – but it’s the RTX 3050 that we need",
+      "excerpt": "As soon as Nvidia announced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards, a slew of powerful new gaming laptops was announced by all the big names. If Nvidia can deliver on its promises, it looks like 2022 is going to be a great year for gaming on a laptop.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
+      "originalUrl": "https://www.techradar.com/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/gkrPzGSC3Yn9zTUAUvmGRe-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need",
+      "publishedDateTime": "2022-01-08T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-nvidia-pursuing-multi-chip-module-architecture-to-meet-evolving-data-needs.md",
       "title": "Nvidia pursuing multi chip module architecture to meet evolving data needs",
       "excerpt": "Graphics processing units (GPUs) have become one of the primary resources supporting DL due to their inherent capabilities and optimizations. The COPA-GPU is based on the",
@@ -314,7 +460,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 399,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -1088,144 +1234,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-data-observability-platform-timeseerai-emerges-from-stealth-with-6m.md",
-      "title": "Data observability platform Timeseer.ai emerges from stealth with $6M",
-      "excerpt": "Timeseer.ai, a time-series data observability platform, has come out of stealth with $6 million in seed funding from Crane Ventures, others.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/07/data-observability-platform-timeseer-ai-emerges-from-stealth-with-6m/",
-      "originalUrl": "https://venturebeat.com/2022/01/07/data-observability-platform-timeseer-ai-emerges-from-stealth-with-6m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1331215115-e1640030875556.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/07/data-observability-platform-timeseer-ai-emerges-from-stealth-with-6m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/data-observability-platform-timeseer-ai-emerges-from-stealth-with-6m/amp/",
-      "publishedDateTime": "2022-01-07T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
-      "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
-      "excerpt": "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-bluru-based-ai-and-computer-vision-startup-avataar-raises-45-mn.md",
-      "title": "B'luru-based AI and computer vision startup Avataar raises $45 mn",
-      "excerpt": "Bengaluru and San Francisco-based AI and computer vision startup Avataar has raised $45 million in Series B funding led by Tiger Global. Existing investor Sequoia Capital India also participated in the round.",
-      "sourceUrl": null,
-      "webUrl": "https://inshorts.com/en/news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
-      "originalUrl": "https://inshorts.com/en/news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/01_jan/7_fri/img_1641559494701_750.jpg?",
-          "width": 736,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
-      "cdnAmpWebUrl": "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
-      "publishedDateTime": "2022-01-07T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inshorts",
-        "domain": "inshorts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

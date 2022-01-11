@@ -402,6 +402,20 @@ related:
         width: 332
         height: 250
         isCached: true
+  - title: "Tesla Restores Its 'Assertive' Self-Driving Mode"
+    excerpt: "Free-Photos / Pixabay Tesla Inc (NASDAQ:TSLA) has reinstated the“assertive” self-driving mode. The company had issued an update in October"
+    publishedDateTime: 2022-01-11T18:40:00Z
+    webUrl: "https://menafn.com/1103522257/Tesla-Restores-Its-Assertive-Self-Driving-Mode&source=22"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/11/V_c159aimage_story.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"
     publishedDateTime: 2022-01-09T09:58:00Z

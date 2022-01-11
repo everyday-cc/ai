@@ -7,7 +7,7 @@ originalUrl: "https://www.arabianbusiness.com/industries/technology/gulf-to-driv
 webUrl: "https://www.arabianbusiness.com/industries/technology/gulf-to-drive-ai-innovation-post-pandemic-survey-shows"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Alteryx: Gulf ripe for AI innovation as 50% of data workers automate tasks"
-    excerpt: "Alteryx unveils new data showing that the Gulf is uniquely placed to drive post-pandemic innovation.. Alteryx: Gulf ripe for AI innovation as 50% of data workers automate tasks. Alteryx, automation, Data,"
-    publishedDateTime: 2022-01-11T09:27:00Z
-    webUrl: "https://www.itp.net/business/alteryx-data-automation-and-ai-potential"
+  - title: "Cargill adds two AI-driven innovations to portfolio"
+    excerpt: "Cargill has added two new products to its portfolio of AI-driven innovations that assist producers beyond nutrition in optimising production with actionable insights."
+    publishedDateTime: 2022-01-11T17:58:00Z
+    webUrl: "https://www.thepoultrysite.com/news/2022/01/cargill-adds-two-ai-driven-innovations-to-portfolio"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
+      name: The Poultry Site
+      domain: thepoultrysite.com
+    quality: 37
+    images:
+      - url: "https://5mpublishing.sirv.com/poultry%2Farticles%2FData%2FCargill-Birdoo.jpg?scale.option=fill&scale.width=1200&scale.height=630&crop.width=1200&crop.height=630&crop.y=center&crop.x=center"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "nJrmhe+yjJyxcszbGBLk+BWNukIg5hsgzoBuhdGgLZIyOq0TT3gGbDObTUXQhNIH+sxghO0RASCWlfb3H4v44xV+qPO0j0XjSicH/9urEqdiPs7YK2yX3OxDmm5zKyu/SVBhdVhtxQV+kwXl4DVjuyUEctTJ0VBL4gT/PrJ1+9SB594VoRFYXi5xK0tBqKVRp5drLIlzGbQv0/Naf5x/3h/3hCs7/xZ4dHAelJ+7qmhAy26NDJKCyrARpGJ6ciGzXRsMuVIPP3Dd+ztRGjD2EN7InL7nTVpKXYNcVsvTcP+AUhYjvXTzvnhEbOcmEqToqI1zdQM0JpM5lWjRj2BoALdV5IBQJB7v/EkLvsExj2w=;0n2yDEu+4Opa/Q5Ot//xJQ=="
 ---

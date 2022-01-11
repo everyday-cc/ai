@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/big-data-analytics-aiml
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report"
 type: article
 quality: 72
-heat: 122
+heat: 132
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
+    publishedDateTime: 2022-01-10T14:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "byu9iRaPZaY4OJA5aDSi2KtBvWjF4pUu99RCWQ+Eel+r4Wbk0RbplhNF/q2AR4MPYfF0XrIB13LxDNPkPkqWLEoFlcFN9BNS/OMWFy05yyuZcrS0r8+w/D/Ge66sbg6NOlgd/jB4PeRJb1CZ9sAWAqHAfgetjLOF9CEISGnavadSH+haiLFVlVlRKgYXpF3YPM7eIi89kFPFrr0+qMWQgIqxiFkptEc1hjldV23yIpDQoE9dYYbs3SX9WBXsDhcDasbSBu1rBXzLqBldTRec/+5fiM113Vz5bVDDHHOygCUYgJ/msKbbEQK8qwEQ4WYymeXbZuV5NYDJOgA64ASbO2W8JMIWCj00rqUwawngiEI=;Jy5e97IryRKn6W9ifi+pHg=="
 ---

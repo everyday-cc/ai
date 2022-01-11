@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-pac
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
 type: article
 quality: 89
-heat: 399
+heat: 409
 published: true
 
 provider:
@@ -405,6 +405,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/23/43/17/21902317/3/rawImage.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Tesla Restores Its 'Assertive' Self-Driving Mode"
+    excerpt: "Free-Photos / Pixabay Tesla Inc (NASDAQ:TSLA) has reinstated the“assertive” self-driving mode. The company had issued an update in October"
+    publishedDateTime: 2022-01-11T18:40:00Z
+    webUrl: "https://menafn.com/1103522257/Tesla-Restores-Its-Assertive-Self-Driving-Mode&source=22"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/11/V_c159aimage_story.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"

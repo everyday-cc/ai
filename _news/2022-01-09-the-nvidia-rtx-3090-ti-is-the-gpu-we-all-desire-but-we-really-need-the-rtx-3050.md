@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA Just Launched A Burlier GeForce RTX 3080 GPU And It Doesn't Just Have More Memory"
+    excerpt: "There's now officially an upgraded version of the GeForce RTX 3080 with more CUDA cores, more memory, and of course a higher price tag."
+    publishedDateTime: 2022-01-11T17:19:00Z
+    webUrl: "https://hothardware.com/news/nvidia-geforce-rtx-3080-gpu-more-memory"
+    ampWebUrl: "https://amp.hothardware.com/news/nvidia-geforce-rtx-3080-gpu-more-memory"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-geforce-rtx-3080-gpu-more-memory"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 50
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57338/content/GeForce_RTX_3080.jpg"
+        width: 708
+        height: 398
+        isCached: true
 
 secured: "jCcue2Offfonw3RMIha2dwLIgiANCSA5sr0iolGFYlAFLH6/NJeSjG1q5mgH+3gdBpBXfYf6ST7O/JUgtRxtdRd8YsFvz8BPsQOEvqVvqyCyi7rfL8lTvAses8d2u0IyEXJS+YOlsc6U89L5UaWFQ8+TSBeafIRhfDvSMQTugxa0hKtqw4dK1LrivGA/ksfINWdMr86Q0JaooW7Zr/8ft4/GEXYwJ4y1GCu5xqHE6ufoFUZyDTnKWZ5I8YZAdvPuOxCUkKkeH6kCYT/Xc2I4quUZ9CqXWGE74PpKI5K8v1m0J4am+xN2oGFqcOxWHk7OFB2GMc3dmZXFhRFjfBdCJlOBuTDPpSfabsUzudXfRx4=;W8oVpF39vMMQNOWEo+B9PQ=="
 ---

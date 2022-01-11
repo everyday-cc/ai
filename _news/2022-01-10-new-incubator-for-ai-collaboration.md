@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "5 Best AI Stocks for 2022"
-    excerpt: "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),"
+    excerpt: "The California-based tech giant utilizes AI in blocking misinformation and other harmful content on its family of apps. Additionally, AI tools developed by Meta Platforms, Inc. (NASDAQ:FB) play a major role in improving the customer shopping experience on Facebook,"
     publishedDateTime: 2022-01-08T20:10:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
+    webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/"
     type: article
     provider:
       name: Insider Monkey

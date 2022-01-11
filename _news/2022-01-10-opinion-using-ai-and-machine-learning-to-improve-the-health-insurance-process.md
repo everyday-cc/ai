@@ -71,6 +71,20 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "4 ways artificial intelligence is improving mental health therapy"
+    excerpt: "With an increased demand for services and workloads stretched, using AI within mental health services could be a game-changer."
+    publishedDateTime: 2022-01-11T17:57:00Z
+    webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
+    type: article
+    provider:
+      name: Big Think
+      domain: bigthink.com
+    quality: 54
+    images:
+      - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
+        width: 4098
+        height: 2304
+        isCached: true
   - title: "Measuring trust in AI"
     excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
     publishedDateTime: 2022-01-10T15:16:00Z

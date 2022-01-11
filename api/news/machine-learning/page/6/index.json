@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-12-02-tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml.md",
+      "title": "Tenders2Bid – Revolutionizing Tenders & RFP discovery with AI & ML",
+      "excerpt": "Tenders2Bid has been in the news for developing world's largest aggregator platform of Tenders, RFPs. Tenders2Bid is the latest & hottest startup in the AI & ML",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/ab24396560/tenders2bid-revolutionizing-tenders-rfp-discovery-with-ai-ml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24396560",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24396560",
+      "publishedDateTime": "2021-12-01T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
       "title": "Dataiku releases new version of unified AI platform for machine learning",
       "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.Read",
@@ -1354,50 +1397,6 @@
         "AI Ethics",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-these-machine-learning-algorithms-can-add-great-value-to-a-business-in-cutting-down-costs.md",
-      "title": "These machine learning algorithms can add great value to a business in cutting down costs",
-      "excerpt": "Machine learning algorithms can help computers play chess, get smart, personal, and perform surgeries. Machine learning is one of the vital technologies that has been used in the current world. Let’s see what ML algorithms for business can favour.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-10-machine-learning-algorithms-to-benefit-business-operations/",
-      "originalUrl": "https://www.analyticsinsight.net/top-10-machine-learning-algorithms-to-benefit-business-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/11/Top-10-Machine-Learning-Algorithms-to-Benefit-Business-Operations.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

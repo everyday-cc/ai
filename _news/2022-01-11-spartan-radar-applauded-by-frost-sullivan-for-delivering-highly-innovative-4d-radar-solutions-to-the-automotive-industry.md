@@ -24,6 +24,17 @@ images:
     height: 366
     isCached: true
 
+related:
+  - title: "Spartan Radar Applauded by Frost & Sullivan for Delivering Highly Innovative 4D Radar Solutions to the Automotive Industry"
+    excerpt: "Based on its recent analysis of the 4D radar for the automotive industry, Frost & Sullivan recognizes Spartan Radar with the 2022 North American Technology Innovation Leadership Award for its sophisticated and next-generation radar solutions."
+    publishedDateTime: 2022-01-11T18:22:00Z
+    webUrl: "https://www.newswiretoday.com/news/176899/Spartan-Radar-Applauded-by-Frost-and-Sullivan-for-Delivering-Highly-Innovative-4D-Radar-Solutions-to-the-Automotive-Industry/"
+    type: article
+    provider:
+      name: Newswire Today
+      domain: newswiretoday.com
+    quality: 0
+
 secured: "r4iVJ3lUSQLsHppANL+Kq62fAHHV2toAD5VOdZT9RMZX+MwxSW5GKBPyPbbDe701o31wdYUcGXlhdN8R8pUBZhE79WE/PwGGrfftBedH7kuhgsPlvNAJ6iWjqsYyhtSxEjE0msvwbbAiCKuKqha4qE8ioDYqodHOktgolzA5cjVVPsmof8BzB9QclRqKgHj6MCvH55K14zsm5erATq+eGwKJT/juWPxdhwKQvc1U69uCqLGCyBKIOxJNHFBc/A0MblpqpTVfBbIHpGj8f3H+hohnkrLsUyBCVgNi73Uz6DOFDzQkXrNUwib6tFPZlpSF2Kz+xyH+Ir6FNHKXOknE0kv+uw3X8cEdcxMmlnFCpaA=;hKzJTLxBLY3pFDdJTIoDFw=="
 ---
 
