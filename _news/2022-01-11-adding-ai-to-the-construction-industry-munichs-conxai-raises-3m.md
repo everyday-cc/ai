@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: pymnts.com
@@ -41,6 +41,20 @@ related:
       - url: "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg"
         width: 1600
         height: 1000
+        isCached: true
+  - title: "Measuring Construction Activity and AI Analysis Can Control Overtime"
+    excerpt: "A study used artificial intelligence to analyze jobsite activity recorded on several construction sites and found correlations that would allow contractors to plan overtime and control its use for max"
+    publishedDateTime: 2022-01-11T11:45:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21992912/versatile-measuring-construction-activity-and-ai-analysis-can-control-overtime"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 39
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/01/16x9/Dodge_Versatile_overtime.61dcc16ce635a.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 999
+        height: 561
         isCached: true
 
 secured: "8mXi7fSBL0K0s/iZd6SSXA4b84+jP3WW5JWxGkTvvS8imyIHWCDYZCIRMZHk0y4haQ8bpeolwV0apcNANv/HxvYZTXLyTNI/nnRNVueA5TdnQO8K5aTmijXLZqdrdcdfy02bLPi84OfVe0zOfgtJLew9noGi8XPIk0S4guiESu66igea93+yiuxsZA5yXxfa+QkhAmox+8oIIIA3GISk4Pz3MyIJCyw16+PxBwhj5cF1CisPat2toaViLBB5JjeKK7Tar7PIBH2jNEKR/rt64w1EhjJsjhXcm5QOIxmZIdEtYdwJFQXdPkTjiYpStLLDzzjwRIHkTPOiNl2tdpx49Ke85cB06hN/xw4GEiD6OX3/JsFJll621/4t/KidCMupaCpgkTadYesLADELXsZiPdfGNyOO54ew8h1VDjVGYEcqOliKUQwYn8zhBWm43bSaEk8n+Ys9pz0DMwrYB+5A6IP2X5eB/tJBj1ZbC0jwvbtGYfEE9peUe4pmhVO41SqwB6jG4VE3l8aM382RN0HjtQ==;GvMzNWUNSUfcvCBriZULNA=="

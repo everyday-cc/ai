@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-11-getting-smart-about-five-2022-ai-and-machine-learning-predictions.md",
+      "title": "Getting Smart About Five 2022 AI And Machine Learning Predictions",
+      "excerpt": "As new technologies exit the realm of dreams and enter the realm of possibility and reality, there’s always a reckoning with their true capabilities. In 2021, I saw teams build the foundations for some really important AI changes in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dcad5888028e02db6660ac%2F0x0.jpg",
+          "width": 1200,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/",
+      "publishedDateTime": "2022-01-11T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning.md",
       "title": "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning",
       "excerpt": "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -158,7 +211,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -211,7 +264,7 @@
       "originalUrl": "https://www.freepressjournal.in/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -541,6 +594,49 @@
         "Machine Learning",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-aiml-machine-learning-students-develop-beer-using-ai.md",
+      "title": "AIML machine learning students develop beer using AI",
+      "excerpt": "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
+      "originalUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Food Magazine",
+        "domain": "foodmag.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1315,110 +1411,6 @@
         "name": "Analytics",
         "domain": "healthitanalytics.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-why-2022-will-be-an-ai-powered-renaissance.md",
-      "title": "Why 2022 Will Be An AI-Powered Renaissance",
-      "excerpt": "Now, electronic brains powered by human-designed AI are poised to play the role of protagonists in 2022 and potentially accelerate progress in our society to drive our very own Renaissance. Some say that the best way to predict the future is to create it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/",
-      "publishedDateTime": "2022-01-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-aptivs-machine-learning-powered-radar-sees-even-what-you-dont.md",
-      "title": "Aptiv’s machine learning-powered radar sees even what you don’t",
-      "excerpt": "Aptiv is using machine leaning technology to help self-driving cars see objects, even if they're out of sight.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-2022/",
-      "originalUrl": "https://www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/lyft-aptiv-screen-press.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-2022/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/aptiv-machine-learning-radar-ces-2022/?amp",
-      "publishedDateTime": "2022-01-03T03:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

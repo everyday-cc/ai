@@ -56,20 +56,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "HEAL Software Launches Artificial Intelligence for IT Operations Solution"
-    excerpt: "HEAL Software Inc., provider of an AIOps preventive healing space, is introducing a new enterprise-grade, cloud-based Software-as-a-Service (SaaS) offering for its flagship HEAL product. HEAL is an artificial intelligence for IT operations (AIOps) software that enables IT teams to find and fix problems before they happen."
-    publishedDateTime: 2022-01-06T19:50:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/HEAL-Software-Launches-Artificial-Intelligence-for-IT-Operations-Solution-150825.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 36
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "QpJWowF3jboSUXImjraUF7kH+bXLAG4Y9J6BDZgXs2sWnhMY+HXDTFj72mgSzjbDCBtS0BkZVy1Gn99py99WVMtW9QL84CNXK4FF9/TMuK7yQzyewyePZ9NW3i8HLpbNTN6BLc5BKItoTi0sUK9y3xRjw9owe97XOcuLjWBPLLu9Hte5P41Q9A2o4K+YaFGKzKsCLPpOJvMvRU59H4qin+0d2Ff/dr1NPchG1jRU1WY5M+yFsTBdaPv9+CXUQhS14y0UXnpb1Y5SI65O1TZZkq1L99aRmgD5U8aFjHqaDbW7aM9ux/jtJC4GXe5r5Sb8sS11XLxu78JpdPZU//CXlLJEjHoF9ZdkJfF3kkKJ44A=;f3bNLDy6JAp4DJJkAW9odA=="
 ---

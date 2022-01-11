@@ -57,6 +57,22 @@ related:
         width: 558
         height: 372
         isCached: true
+  - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
+    excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
+    publishedDateTime: 2022-01-11T09:55:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831563.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://m.economictimes.com/thumb/msid-88831557,width-640,height-480,resizemode-7/iit-guwahati1.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "IIT-Guwahati To Start PG Programmes in Cybersecurity, Artificial Intelligence And Deep Learning"
     excerpt: "The candidates can apply for the programme on the official website of IIT Guwahati- iitg.ac.in. The candidates required to have a minimum of 50 per cent marks in bachelor's degree and least two years"
     publishedDateTime: 2022-01-10T13:21:00Z
@@ -70,34 +86,6 @@ related:
       - url: "https://cache.careers360.mobi/media/article_images/2022/1/10/IIT_GA_860.jpeg"
         width: 860
         height: 430
-        isCached: true
-  - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
-    excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
-    publishedDateTime: 2022-01-06T19:53:00Z
-    webUrl: "https://federalnewsnetwork.com/defense-news/2022/01/nga-cio-eyes-big-shifts-for-cloud-cybersecurity-and-machine-learning-in-2022/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo-400x270.png"
-        width: 400
-        height: 270
-        isCached: true
-  - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
-    excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
-    publishedDateTime: 2022-01-11T09:55:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 21
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
         isCached: true
 
 secured: "Kkmz4LZLBiOkGloNMVPKUq1sEq8+/7qkcViA/iYkCecTORlWE3sutMf4mPiZTftHJj4mRObzGLT4D+CKAzwDMso8YLNb0RfDA3BCsqEOooPIvGGWYe6QmL/j8yG7ROdhhNUt/1p7DzqVPUszZjoK5rNWvmGUzlvTDJRQA+3vHETlg3HwdzkHeJiYLANn+hEu/KZoA0O9Jn44a6anYiyxlDMOuYpAUlyzm0IOjWUTRCx8XvucXWqpPfzYkYQBIrTg7ulytbm4k2r0w7U5jpev6Y49gr+5Dbfb/k+21RyMWs3brk8f1j2xPSleysCby5d2YLL89J6GU6xIWf9uMmOBewz92tT3HFnxDNzdc6jTD6w=;KZUqaUEQb/488eh07ZeQwQ=="

@@ -26,22 +26,6 @@ images:
     height: 400
     isCached: true
 
-related:
-  - title: "NITDA to launch startup incubation programme for youths"
-    excerpt: "NITDA, through its subsidiary, the National Centre for Artificial Intelligence and Robotics (NCAIR), and in partnership with JICA, is set"
-    publishedDateTime: 2022-01-06T20:00:00Z
-    webUrl: "https://tribuneonlineng.com/nitda-to-launch-startup-incubation-programme-for-youths/"
-    type: article
-    provider:
-      name: Nigerian Tribune
-      domain: tribuneonlineng.com
-    quality: 24
-    images:
-      - url: "https://tribuneonlineng.com/wp-content/uploads/2021/01/NITDA-NEW-LOGO.jpg"
-        width: 650
-        height: 482
-        isCached: true
-
 secured: "VV7JH/Xr9bZEnsKE4IYNYPmuupjCMlJuIqQ8Pd9fXb+ZEBgm5nMd/4Rwd6Yhkn3mzMttBwM9s5hYcbFDMTW1P960hi2kNgWHJoxQeF6WpdCRzr16WsTaaBBxG8TqeebqywMdeGEXvA+o+n9wwOK46bIG8cAS++p7rhuwDc0OxzFPL3vE8wEBnnDkNxbDB1R7LjRIa6tpNipx1SSH/KPVBcImViXWOFJsmCBlVGDNZoHmKUFL0jwH6iWFVi5jEJr5A2QxfBfyegV82R3umIZl67Wfl59CvQmPtw3f+1VMkO3tQ9YN3HJ0tz1/7BtdcAMtrQ5sOj42BAI4rGmMxVxAj8WUzx9ot0Zxls040SC6uBo=;7VUVse52Wg7gyGhOwA7U+w=="
 ---
 

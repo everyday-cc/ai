@@ -38,20 +38,6 @@ related:
         width: 1280
         height: 636
         isCached: true
-  - title: "A Comparative Study of Deep-Learning Models for COVID-19 Diagnosis based on X-ray and CT Images"
-    excerpt: "Developing and comparing deep learning models for identifying Covid-19 diseases on CT and X-ray images. - GitHub - eliashossain001/SARS-CoV-2Detection: Developing and comparing deep learning"
-    publishedDateTime: 2022-01-10T11:10:00Z
-    webUrl: "https://github.com/eliashossain001/SARS-CoV-2Detection"
-    type: article
-    provider:
-      name: GitHub
-      domain: github.com
-    quality: 12
-    images:
-      - url: "https://opengraph.githubassets.com/008962df8611d7e459684bf9f5e909b93070a9b9ff361d03babe92fc661b9ccd/eliashossain001/SARS-CoV-2Detection"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Global Artificial Intelligence Chips Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence Chips Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2022-01-08T17:44:00Z

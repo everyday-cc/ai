@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-11T10:29:00Z
 originalUrl: "https://www.openaccessgovernment.org/trust-ai/127412/"
 webUrl: "https://www.openaccessgovernment.org/trust-ai/127412/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/01/dreamstime_xxl_69492433-scaled.jpg"
@@ -23,6 +24,6 @@ images:
     height: 1335
     isCached: true
 
-secured: "rIvHGjn0DDAvWvw/brjujSS6nipRuINW63a3xF4KVzScxIysrWdlfWKzgFUDLf4uRVogXWdr247mk7VNZdstRRzQDJXIDN7GV6yOVLcCyLeVmwiWWNnt6OiiAXp3fIzOg8clvY4uRq4XEg+59tox62ppbNeSgIGqB0HHdpoQ0z1+ZLH7EchEvm/Pt4EM7PF7n56Ih5DQs3AL2JmNVZfMgCxDLFdWZ8mfLjgiJTIgT9SIR1sbw1Pm380NOW1BPk0HeTqxwBPV+OH97KtrclJWXwqJi3Ko8tvIjrRjR+BWChNE8e+PXjkyX4jKQe55N12hqYFhO3MGsSjrK9ZVJZxuLxy4bsyuz0o9N5e4Y1aIoc4=;c5fWpyrmh6v8xD9rXZ8aWQ=="
+secured: "QHNJE4K0QRpL/kI47kJtSiGCtCrFP9rqottRWuI9bg41SvCnBNfy2Dfq/TuzT72YbZt7sLXQztiSJY1oz/4qg0si8IeioBnICGVrl3U12DWHPpvcB7amTBwJqukyXMNUTkPPMYMEMrEwDYbMOPjulf6u4HaNxTAf+SnMi5n6HpWUjCe7hdh51an24uAGIVu8w8qix9No70xYkAGskVHSNMJVVXUN/KA7TX1ZItakFyeEjzgP93IadxbbRpngkT/PeZ4QiUROF9pRNlqAkFTQGtM3e/oT/YOu2m3MGe9xILVL5HSSH9XXtU0nDgk6L58CS1pvb1ZcLTIsu2HycvDwkEHH1jrUWWbqYB42UQifMDYjaLzlSmj7+c/uAsmg+6NkeI2Js/Ahm/ZkdbTQfNX5rzrTFf1aI6W+3svXtq6lfhievOsA+Ykzqc0QbFvUt0UHEznMdFWwvUIPDsORKIeaFTsmGaGtPPFSqMxRrlJGBvCnFqj7nuWFmAPjWBRUF1b53NXkOVGNxF5LBddC7ha/bg==;851rukIKPr09XdpIuS4n5Q=="
 ---
 

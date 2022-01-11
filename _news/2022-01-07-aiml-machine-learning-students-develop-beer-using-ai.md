@@ -7,8 +7,8 @@ originalUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-
 webUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Food Magazine
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Using AI in Crime Detection"
+    excerpt: "Using AI in Crime Detection By cio review - As the rate of crime rises, the utilization of existing Artificial Intelligence algorithms is proving to be"
+    publishedDateTime: 2022-01-10T09:43:00Z
+    webUrl: "https://www.cioreview.com/news/using-ai-in-crime-detection-nid-34825-cid-210.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/ommxw.image300x350lawenforcement.jpg"
+        width: 300
+        height: 350
+        isCached: true
 
 secured: "33vLZPcQHt0fdwrwLrvpNhSb3f4bdq0+wexAu3pM1w9z2OeO84gNjbuwwrSj3yAnme3Zb+a/otMHfkNLuj3/iihMQEWJX7zn/BfNb7YoIU2RbTlFEODmIap5nUO9Xb5uYvfTBTLGOCrEMHvB8xLevdnQoaWw0Fr3Dumnft6Y8sMQ14FndxGSBFa/ClwgWrchYHiwgaW04ggmpWj67mKqOPsIpCJePyODUawMtRViHXdU9lEQC5U43APozTIJwNGpmaGRIV9xMvtIFm57QhEjwU+SNalYqboNGNG6YxwJJWB+uKEPskP7R6yHkZiMRHGlH4p+3i3JPxkT2Fol3IzR14IE9i54FCxqDAjmuhGkVM4=;zg5wFDs8POCmoxeihuSkag=="
 ---

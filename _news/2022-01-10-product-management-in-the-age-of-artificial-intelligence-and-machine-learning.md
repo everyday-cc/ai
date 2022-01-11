@@ -73,20 +73,6 @@ related:
         width: 820
         height: 312
         isCached: true
-  - title: "Learning From Other Industries in Healthcare"
-    excerpt: "While businesses in other sectors have become adept at bringing in ideas from outside their walls, health care has lagged behind. A key reason is that healthcare leaders are often blind when it comes to creatively responding to the industry’s challenges."
-    publishedDateTime: 2022-01-06T20:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/learning-from-other-industries-healthcare-jasmine-garces-king"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHTGkXNtE-fQw/article-cover_image-shrink_600_2000/0/1631411370022?e=1646870400&v=beta&t=khJrhyso-lpcsjfqCihr4_A96U770-de5qPzXmZ_hjc"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Measuring trust in AI"
     excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
     publishedDateTime: 2022-01-10T15:16:00Z

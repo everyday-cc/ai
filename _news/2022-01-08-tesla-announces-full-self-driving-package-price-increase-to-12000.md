@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-pac
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
 type: article
 quality: 89
-heat: 369
+heat: 379
 published: true
 
 provider:
@@ -445,6 +445,20 @@ related:
       - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-37-dynamic--entertainment--front-row--interior.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Tesla’s Full Self-Driving beta includes an ‘assertive’ mode that’s more aggressive on the road"
+    excerpt: "If you would want your self-driving Tesla to be more aggressive than the default, it seems that there's an option letting you do just that on the beta."
+    publishedDateTime: 2022-01-11T12:16:00Z
+    webUrl: "https://recombu.com/general/article/teslas-full-self-driving-beta-includes-an-assertive-mode-thats-more-aggressive-on-the-road"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 27
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2021/04/tesla-model-y.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 940
+        height: 492
         isCached: true
 
 secured: "j6T6cgHyZEt28D732aXXYHmxd4nZwf/QoruDWelpS8eWUOiHizh4FAl1GzW3ITBfPEzMbi1OrXgbaD59Uf9YxZuZPWcc2IM+InyFgjtWm6cd+PriG1u2c2Fktg2s308uI5WlKKavu+mTKBwndqBF79QHaFLytikEO7GKQMbHfh4X7v6f4fzv0u/eEd6Y6oFAUzDFblX8911HOeBVgyyFGuv/QorYY7vrMYND77un1A5W7I1T5QQDX5MRsr13P5/JiWeSSkl2vf5ScGzfbT1JM5qCvzUroY6veracanxquDJUybjVprzHTZxXciKn3Rj1T+GEWKYkKlprCja4J6kDlBoWxOleqQ62Y+8I+Jya9oQ=;L9ltDHSTQak//xYZMwvw9A=="

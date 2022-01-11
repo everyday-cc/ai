@@ -3,10 +3,12 @@ category: news
 title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
 excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
 publishedDateTime: 2022-01-11T09:55:00Z
-originalUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
-webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
+originalUrl: "https://economictimes.indiatimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831563.cms"
+webUrl: "https://economictimes.indiatimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831563.cms"
+ampWebUrl: "https://m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
+cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
 type: article
-quality: 21
+quality: 43
 heat: -1
 published: false
 
@@ -15,13 +17,14 @@ provider:
   domain: indiatimes.com
 
 topics:
+  - AI in Healthcare
   - AI
   - Machine Learning
 
 images:
-  - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-    width: 1069
-    height: 580
+  - url: "https://m.economictimes.com/thumb/msid-88831557,width-640,height-480,resizemode-7/iit-guwahati1.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -71,20 +74,6 @@ related:
         width: 860
         height: 430
         isCached: true
-  - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
-    excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
-    publishedDateTime: 2022-01-06T19:53:00Z
-    webUrl: "https://federalnewsnetwork.com/defense-news/2022/01/nga-cio-eyes-big-shifts-for-cloud-cybersecurity-and-machine-learning-in-2022/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo-400x270.png"
-        width: 400
-        height: 270
-        isCached: true
   - title: "Mark Andress on NGA’s Cloud, Machine Learning, Cybersecurity Efforts in 2022"
     excerpt: "Mark Andress, chief information officer at the National Geospatial-Intelligence Agency, said NGA is set to undergo several technology shifts in cloud, machine"
     publishedDateTime: 2022-01-07T21:33:00Z
@@ -100,6 +89,6 @@ related:
         height: 270
         isCached: true
 
-secured: "YLhYdmXThMUGV8tcluav7zjAn+Ax97wJZ1cOoIzx8TIpa0rFwcFt2Fem8zaZzGe8/PbZBKwLbPs5oXUv24SVzV8szNNO0bcmlVf0ExjRE+aNfAaz4DLCSmj+NVKPgJSPqWjGQ9usIchKbQvV0CVVKAWjPcAahvqNGFo9yLrPiKpsKGibwjprQcDtyAKH2ftoXGmZ5MR+v+MS66AePD6J4lbFQh79yBa98732Hr8uASO0Nx7fI3bjDVAvGNUdZUO+ZeMhhMx5/TIfYBeDetisdVJf21F4s3bztzl3axwx7kcaxj7fyGD8mpGIOy0DZI+lA4cACR1s79XOIj4QOg03BBRneLqvzEy/zI9MuTMa0wg=;xMuFaTrDQEUqLJ/Vy7wRLQ=="
+secured: "mO4lhVDPuUsCSx6YvWACgFcLO2TXMrWT0YyOw7ekVF3A1L3NPl4k2pbc7+HQU+VVgcSeaoeOfZ3B4tjYnutW9+Y5FatIci4LXw83hOYZMimt+3MmlO3Cyqc0/NcyLUlaeSjA4PLow9RQarV1s6SrAXmxyqGT/adJ3A4CfYZ4xefB2h7Qgs9Q497V0XSmanwfbgCyQzMJFLX1C8nily65Lg7jtU7rszLbtogybbSPolFX1khX4DEVSr4deCXnDe1ll03G1JQIz+jYh5rSPtEg62YMYRfKLXIiItvICIqihYB/l7qNCvK45IUmsYEYiGz281gc9Tih0WTjZjR8vmPugLb1NtxXaYgk/W4AgyiT21M=;c2rIEShGXUkUvOR5uLYZ9g=="
 ---
 

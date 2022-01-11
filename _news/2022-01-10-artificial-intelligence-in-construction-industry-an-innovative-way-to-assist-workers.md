@@ -43,6 +43,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "Measuring Construction Activity and AI Analysis Can Control Overtime"
+    excerpt: "A study used artificial intelligence to analyze jobsite activity recorded on several construction sites and found correlations that would allow contractors to plan overtime and control its use for max"
+    publishedDateTime: 2022-01-11T11:45:00Z
+    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21992912/versatile-measuring-construction-activity-and-ai-analysis-can-control-overtime"
+    type: article
+    provider:
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 39
+    images:
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/01/16x9/Dodge_Versatile_overtime.61dcc16ce635a.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 999
+        height: 561
+        isCached: true
 
 secured: "PYi/1gj7gzaQPOQd6pGweS7Oz/LxQaUGbijSPUPCxQ7OcJa6g8xjoQO4ioNMLKNglurWzt0PVNcKAmoWXwqdu7iaYrbHpyu4fxVEt0h9VFe69wIwuEMXSM6b6KtLG3niANdNEdgqgsCfpC23mRbgV+Ct5DlRKluIraFNhqYj5sRhD+nGm0i7gOrggSVQqLCD+Bn9WCfhIPshumBeI+ChRB+IxRVpM2beLy2pRlxFC1aCL8ZZnggL8pzniPyyFX43tRjurY5mBGRLEV+xEh3T5m5l25CaFudqfGoRz0aGTBaIyaHzupeCFyH7HdeTgt9weFDU/Nuxtwo6BIVxvwl3GOv6jW06Yu5yngH+i+JsiNA=;lFpL/L23PCudvbR7Azrrag=="
 ---

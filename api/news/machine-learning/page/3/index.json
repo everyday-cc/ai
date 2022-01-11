@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-21-reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights.md",
+      "title": "Reinventing Game Day: How The Bundesliga Uses Machine Learning To Deliver Real-Time, Data-Driven Soccer Insights",
+      "excerpt": "Machine learning is making this level of insight on matches possible for hundreds of millions of soccer fans globally.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/",
+      "originalUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0c778170ebe018990ec14%2F0x0.jpg",
+          "width": 1200,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/amazonwebservices/2021/12/20/reinventing-game-day-how-the-bundesliga-uses-machine-learning-to-deliver-real-time-data-driven-soccer-insights/amp/",
+      "publishedDateTime": "2021-12-20T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-the-growing-cost-of-deep-learning-for-source-code.md",
+      "title": "The Growing Cost of Deep Learning for Source Code",
+      "excerpt": "This would surely have sounded like a vision of a distant future just a decade ago, but such quick progress is indicative of the substantial and unique potential of deep learning for software engineering tasks and domains.",
+      "sourceUrl": null,
+      "webUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
+      "originalUrl": "https://cacm.acm.org/magazines/2022/1/257443-the-growing-cost-of-deep-learning-for-source-code/fulltext",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dl.acm.org/cms/attachment/97e981c2-320d-4e42-8d57-5388c3495f2b/uf1.jpg",
+          "width": 1021,
+          "height": 737,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-18T07:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "acm.org",
+        "domain": "acm.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-sure-deepminds-ai-is-impressive-but-can-it-guide-human-intuition.md",
       "title": "Sure, DeepMind’s AI is impressive, but can it guide human intuition?",
       "excerpt": "This article is part of our reviews of AI research papers, a series of posts that explore the latest findings in artificial intelligence. Deep learning can help discover mathematical relations that evade human scientists,",
@@ -1341,104 +1437,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-12-boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do.md",
-      "title": "Boffins unveil artificial intelligence that thinks just like we do",
-      "excerpt": "Researchers at Fujitsu and the MIT Center for Brains, Minds and Machines (CBMM) have achieved a “major milestone” in the quest to bolster the accuracy of AI models tasked with image recognition. As described in a new paper presented at NeurIPS 2021, the collaborators have developed a method of computation that mirrors the human brain to enable AI that can recognize information that does not exist in its training data (also called out-of-distribution data, or ODD). Although AI is already used for image recognition in a range of contexts (e.g. the analysis of medical x-rays), the performance of current models is highly sensitive to the environment. The significance of AI capable of recognizing ODD is that accuracy is maintained in imperfect conditions - for example, when the perspective or light level differs from the images on which the model was trained. MIT and Fujitsu achieved this feat by dividing deep neural networks (DNNs) into modules, each of which is responsible for recognizing a different attribute, such as shape or color, which is similar to the way the human brain processes visual information. According to testing against the CLEVR-CoGenT benchmark, AI models using this technique are the most accurate seen to date when it comes to image recognition. “This achievement marks a major milestone for the future development of AI technology that could deliver a new tool for training models that can respond flexibly to different situations and recognize even unknown data that differs considerably from the original training data with high accuracy, and we look forward to the exciting real-world opportunities it opens up,” said Dr. Seishi Okamoto, Fellow at Fujitsu. Dr. Tomaso Poggio, a professor at MIT’s Department of Brain and Cognitive Sciences, says computation principles inspired by neuroscience also have the potential to overcome issues such as database bias. “There is a significant gap between DNNs and humans when evaluated in out-of-distribution conditions, which severely compromises AI applications, especially in terms of their safety and fairness. The results obtained so far in this research program are a good step [towards addressing these kinds of issues],” he said. Going forward, Fujitsu and the CBMM say they will attempt to further refine their findings in an effort to develop AI models capable of making flexible judgements, with a view to putting them to work in fields such as manufacturing and medical care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "originalUrl": "https://www.techradar.com/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/zVspGAPHrMjv8jn8sGkvPC-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/boffins-unveil-artificial-intelligence-that-thinks-just-like-we-do",
-      "publishedDateTime": "2021-12-11T20:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do.md",
-      "title": "New Artificial Intelligence System Enables Machines That See the World More Like Humans Do",
-      "excerpt": "A new “common-sense” approach to computer vision enables artificial intelligence that interprets scenes more accurately than other systems do. Computer vision systems sometimes make inferences about a scene that fly in the face of common sense.",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
-      "originalUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/3DP3-Infers-Accurate-Pose-Estimates-of-Objects-777x532.jpg",
-          "width": 777,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
-      "cdnAmpWebUrl": "https://scitechdaily-com.cdn.ampproject.org/c/s/scitechdaily.com/new-artificial-intelligence-system-enables-machines-that-see-the-world-more-like-humans-do/amp/",
-      "publishedDateTime": "2021-12-11T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning",
-        "IBM AI"
       ]
     }
   ],

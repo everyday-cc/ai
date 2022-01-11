@@ -2,6 +2,242 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-10-big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report.md",
+      "title": "Big data analytics, AI/ML to be most in-demand skills in India in 2022: Report",
+      "excerpt": "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
+      "originalUrl": "https://www.freepressjournal.in/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.assettype.com/freepressjournal/2020-08/9554071a-079c-4e10-9a40-4779953e541e/artificial_intelligence_4550606_1920.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
+      "publishedDateTime": "2022-01-10T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-softbank-invests-in-artificial-intelligence-startup-qraft-technologies.md",
+      "title": "SoftBank Invests in Artificial-Intelligence Startup Qraft Technologies",
+      "excerpt": "Qraft Technologies plans to use the $146 million investment to fuel U.S. and China expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
+      "originalUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-464080/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
+      "publishedDateTime": "2022-01-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-ola-2-security-camera-with-face-recognition-ai-and-more-hits-kickstarter.md",
+      "title": "OLA 2 security camera with face recognition, AI and more hits Kickstarter",
+      "excerpt": "If you are in the market for a new security camera you might be interested in the OLA 2 launched via Kickstarter this month offering, facial",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
+      "originalUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/01/home-security-camera-outdoor.jpg",
+          "width": 700,
+          "height": 472,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T02:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-tesla-and-nvidia-are-picked-for-big-gains-by-this-robot-trader-its-been-right-before.md",
+      "title": "Tesla and Nvidia Are Picked for Big Gains by This Robot Trader. It’s Been Right Before.",
+      "excerpt": "This artificial intelligence-powered ETF ditched Netflix, Merck, and three other familiar stocks this month. Here's what it bought.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "originalUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-68043/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
+      "publishedDateTime": "2022-01-10T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-the-five-biggest-healthcare-tech-trends-in-2022.md",
+      "title": "The Five Biggest Healthcare Tech Trends In 2022",
+      "excerpt": "The healthcare sector is under enormous pressure at the moment, and technology adoption has been accelerating to help deliver better, cheaper, and more personalized healthcare to people. Here we look at the top healthcare tech trends in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dbc007e830ffbf736660a6%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/",
+      "publishedDateTime": "2022-01-09T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications.md",
       "title": "Etisalat Deploys Microsoft Azure Stack Edge to Offer 5G, IoT & AI Applications",
       "excerpt": "As part of their strategic partnership, Etisalat and Microsoft have joined forces to unlock new 5G scenarios with Azure Multi-access Edge Compute.",
@@ -546,7 +782,7 @@
       "originalUrl": "https://www.techspot.com/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -797,7 +1033,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/07/ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -850,7 +1086,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 369,
+      "heat": 379,
       "tags": null,
       "images": [
         {
@@ -996,251 +1232,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot.md",
-      "title": "IBM reportedly shopping Watson Health just as healthcare gets hot",
-      "excerpt": "IBM could be looking to sell the Watson Health division for a mere $1 billion, according to an Axios report. The question is why is IBM running away from the healthcare vertical just as it seems to be heating up,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
-      "originalUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-597922966.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/",
-      "publishedDateTime": "2022-01-07T14:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-aiml-processor-supports-socs-and-chiplets-for-smart-edge-devices.md",
-      "title": "New AI/ML processor supports SoCs and chiplets for smart edge devices",
-      "excerpt": "CEVA’s latest NeuPro-M supports both system-on-chip and heterogeneous SoC scalability, targeting edge AI/ML and edge compute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
-      "originalUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2022/01/CEVA-Neu-Pro-M-features.png",
-          "width": 893,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T12:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-blur-faces-in-videos-automatically-with-amazon-rekognition-video.md",
-      "title": "Blur faces in videos automatically with Amazon Rekognition Video",
-      "excerpt": "With the advent of artificial intelligence (AI) and machine learning (ML), customers and the general public have become increasingly aware of their privacy, as well as the value that it holds in today’s data-driven world. Enterprises are actively seeking out and marketing privacy-first solutions, especially",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-5902-image005-new-1260x537.png",
-          "width": 1260,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T11:45:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-absci-and-deep-learnings-quest-for-the-perfect-protein.md",
-      "title": "Absci and deep learning's quest for the perfect protein",
-      "excerpt": "The company has used one giant A.I. representation of proteins to broaden the search for novel biologics, and hopes to do everything in silico someday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "originalUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2f9500d3248e27e084c1639b553b1684c9998a30/2022/01/07/d62778de-642e-4ac1-91fb-7c07b0416f00/mathew-4039.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "publishedDateTime": "2022-01-07T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous.md",
-      "title": "New controversy in making? Tesla wants only cameras, AI to go fully autonomous",
-      "excerpt": "Tesla chief Elon Musk has shared that the EV company will make a system based on cameras and artificial intelligence to attain full autonomy in driving.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/01/07/600x338/2021-tesla-model-x_1621055198406_1641538769141.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html",
-      "publishedDateTime": "2022-01-07T10:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

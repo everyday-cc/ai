@@ -84,20 +84,6 @@ related:
         width: 820
         height: 312
         isCached: true
-  - title: "Learning From Other Industries in Healthcare"
-    excerpt: "While businesses in other sectors have become adept at bringing in ideas from outside their walls, health care has lagged behind. A key reason is that healthcare leaders are often blind when it comes to creatively responding to the industry’s challenges."
-    publishedDateTime: 2022-01-06T20:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/learning-from-other-industries-healthcare-jasmine-garces-king"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHTGkXNtE-fQw/article-cover_image-shrink_600_2000/0/1631411370022?e=1646870400&v=beta&t=khJrhyso-lpcsjfqCihr4_A96U770-de5qPzXmZ_hjc"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Measuring trust in AI"
     excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
     publishedDateTime: 2022-01-10T15:16:00Z
@@ -122,6 +108,6 @@ related:
       domain: america-retail.com
     quality: 19
 
-secured: "QHbI4KM2T0ZYuvRJpF2VyWAcKAbDHczmwIPKkXM4MpgiijIn05CB/Jt2c91S6XjuiTQ4ine9i7CkoEGZXR/sqG7/5AvfoElyzWX+ytlkVnJmdjiUv/vZF/8SlEghW9QD/Mk+eawZBOmlMayTdHlsOd1NFE16nvy09dMOV7CD/QOJ+/LQOtNwvpM3OW81azXIG10KuxjgsIdo7P4iWtsNFZ5hgiGAke5YaYFbLcTlVO7+4imIyL22U6H5T9SozNNfJ/thyo/jVvHMVVZAivxsQ079o2Wvf9p+BOpKcRdP7Nslnn9mpUmA1tK7a21hkGXwAZZ3p8/JrGrKGDbgB+lv01fbyEQkBc7nhBmmpNBwRSI=;FtR7tD+fyNxZRHkpzeJnpg=="
+secured: "OeeG3hwBa1a/bzYc6sQNdGsXTHHPHMaHRo48HCWE2qcI+R4skDAoACNTZ1JR4AGrKIQVqMKQbiOqQWeoAPA9eS1y44dh+QOFoxsTPwn6Bl9wS5DRU/Hu2XygqLXynfCWrbD9CXv4RbFerGrqSynx7Yx5Sidkerkq3FQSMsLTvakB6VeX/VkpDk5S0sHoE0HrYBrfNojSzhjcdFCw/FQXWUx0A6v4mYETyjQqAxRdL36LRiw2oTLVv6yq/ocwx/CIiYiI5A7+naaRn3l87VK++Za0tvUkwCEezaLmUn5VRbbkOrqMQg3VjRU1If6MBOEKIVTDHmz+8SriI8rRmSjEeHWSt1qSDzA3ISTY+mM2CDZa3h9LlAgzH2orjvDwNlRqurCFwsM0L21/WTMcvS/2pkUAMXNyJ6BTpqPfPJQJoJ7UstcGLCw4yQUdS1bS+Q+OILZJK9vMHGVt5nLdFCJN4oxDrFIJ+xiIgVTi4zKq9b/gZ8ttHSbqBRMsaKhhC/sBCZcxFmn2SRwYG2CTiyuPew==;WicaJWaxrYZrH7eai5JvIg=="
 ---
 

@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence aids effective fitness training"
-    excerpt: "Whether for squats or sit-ups, the software created by the start-up VAY alerts exercisers about incorrect movements via a smartphone screen. Now the ETH spin-off has been acquired by connected fitness equipment manufacturer Nautilus."
-    publishedDateTime: 2022-01-07T14:54:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp"
+  - title: "AIML machine learning students develop beer using AI"
+    excerpt: "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing."
+    publishedDateTime: 2022-01-07T00:00:00Z
+    webUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 72
+      name: Food Magazine
+      domain: foodmag.com.au
+    quality: 69
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-1.jpg"
-        width: 930
-        height: 465
-        isCached: true
-  - title: "How AI and machine learning can transform construction"
-    excerpt: "Karthik Venkatasubramanian extols the benefits of AI and machine learning and how they can be incorporated into a successful data strategy."
-    publishedDateTime: 2022-01-10T14:59:00Z
-    webUrl: "https://www.bimplus.co.uk/how-ai-and-machine-learning-can-transform-construction/"
-    type: article
-    provider:
-      name: bimplus.co.uk
-      domain: bimplus.co.uk
-    quality: 54
-    images:
-      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/01/Karthik-headshot.jpg"
-        width: 750
-        height: 422
+      - url: "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "fjkcJHAudJ/ie+wZKyk142nE8QqfWYts7DuGqkXQx69l2ztReapnRoQn3UKHXYWeZqotXX2c4cLNHxSek/txURocqz/WPlytDtviR5tQ3fQW3f1P2+NtlxgJ/M4Uod6fUu2RNDErFJcDpgL9rAUwV9rVL88DaKGMaho4gB1jd/yCRbNYMszAsDIj+L8FozQ3qdeirRZ/BGLDGKs33/ewVQkjT5Il2k9VDIpo/S5HH+BboFgfNKzWId8lyJS9b9qtxaEpYl4E18QhlewqmOdoaFrJoYNwswQ06G7tG1Wj7hGn2Sh7HfdYfD7lQc5Tc1dTbekfj50N1hNoD4f0BWmCJUHgl/VvEEYK7lCBvNoQVmI=;FkbYlpJFShFNC5xmAtSa4A=="

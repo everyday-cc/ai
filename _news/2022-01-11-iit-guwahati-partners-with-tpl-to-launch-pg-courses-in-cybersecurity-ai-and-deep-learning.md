@@ -44,6 +44,22 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
+    excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
+    publishedDateTime: 2022-01-11T09:55:00Z
+    webUrl: "https://economictimes.indiatimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831563.cms"
+    ampWebUrl: "https://m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 43
+    images:
+      - url: "https://m.economictimes.com/thumb/msid-88831557,width-640,height-480,resizemode-7/iit-guwahati1.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "IIT-Guwahati To Start PG Programmes in Cybersecurity, Artificial Intelligence And Deep Learning"
     excerpt: "The candidates can apply for the programme on the official website of IIT Guwahati- iitg.ac.in. The candidates required to have a minimum of 50 per cent marks in bachelor's degree and least two years"
     publishedDateTime: 2022-01-10T13:21:00Z
@@ -58,20 +74,6 @@ related:
         width: 860
         height: 430
         isCached: true
-  - title: "NGA CIO eyes big shifts for cloud, cybersecurity and machine learning in 2022"
-    excerpt: "The National Geospatial Intelligence Agency is undertaking several major technology shifts this year in cloud, cybersecurity and machine learning, as it continues to look at ways to take advantage of an “explosion” in commercial service and products,"
-    publishedDateTime: 2022-01-06T19:53:00Z
-    webUrl: "https://federalnewsnetwork.com/defense-news/2022/01/nga-cio-eyes-big-shifts-for-cloud-cybersecurity-and-machine-learning-in-2022/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2021/10/National-Geospatial-Intelligence-Agency-nga-logo-400x270.png"
-        width: 400
-        height: 270
-        isCached: true
   - title: "Mark Andress on NGA’s Cloud, Machine Learning, Cybersecurity Efforts in 2022"
     excerpt: "Mark Andress, chief information officer at the National Geospatial-Intelligence Agency, said NGA is set to undergo several technology shifts in cloud, machine"
     publishedDateTime: 2022-01-07T21:33:00Z
@@ -85,20 +87,6 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/01/07/07/e5/02/fb/86/43/83/84/00P4y00001NP9sOEAT.png"
         width: 270
         height: 270
-        isCached: true
-  - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
-    excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
-    publishedDateTime: 2022-01-11T09:55:00Z
-    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 21
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
         isCached: true
 
 secured: "7TSbu1jphGABnDrxBnBsXFLLoNoE3I6tRoYIH2CAspM/rcA7NbFNEFyDIgDON8scWQpQ0QLMhbuBp8112/LIFHGi3UKvW/l4AIyaHe1UCccgmvR33otWIwl4/EtytdpGUAoqCMDwBAzFtuMgvuhiC7gyLMWocpB9SDAD+MhBhKNji5ZyRBooshzV2KklQNCQRd5YKdPwxNSLHEe+/60y63UXjD3RrKBn+5t5F9KBUqutlpHBixj4eWKw7qTXY8P5UZgc6TCxP/5f+csd+nYqcmKALRLAjcRxZo40r14Ql7xylRbuaqr9NAng+EJ6fPOnPbETtE4b59SRLbu4GpwUEEVE5GjmjfE7rQqd6EnvS5g=;8yr3vLyntD9PVZvofDmhAg=="

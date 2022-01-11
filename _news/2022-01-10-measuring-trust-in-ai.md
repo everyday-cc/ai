@@ -85,20 +85,6 @@ related:
         width: 820
         height: 312
         isCached: true
-  - title: "Learning From Other Industries in Healthcare"
-    excerpt: "While businesses in other sectors have become adept at bringing in ideas from outside their walls, health care has lagged behind. A key reason is that healthcare leaders are often blind when it comes to creatively responding to the industry’s challenges."
-    publishedDateTime: 2022-01-06T20:18:00Z
-    webUrl: "https://www.linkedin.com/pulse/learning-from-other-industries-healthcare-jasmine-garces-king"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHTGkXNtE-fQw/article-cover_image-shrink_600_2000/0/1631411370022?e=1646870400&v=beta&t=khJrhyso-lpcsjfqCihr4_A96U770-de5qPzXmZ_hjc"
-        width: 800
-        height: 450
-        isCached: true
   - title: "CCC: AI Continuing to Infiltrate Claims Process"
     excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
     publishedDateTime: 2022-01-11T09:31:00Z

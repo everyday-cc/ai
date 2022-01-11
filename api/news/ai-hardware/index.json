@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-11-has-ai-found-a-treatment-for-fragile-x.md",
+      "title": "Has AI found a treatment for Fragile X?",
+      "excerpt": "What if AI can substantially speed it up? That's the premise of Quris, an artificial intelligence company hoping to disrupt the pharmaceutical arena. The company just announced the final close of $28 million in seed funding to support its clinical prediction platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/",
+      "originalUrl": "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a735ce92987d1c2468957f5b2ba40babd8f10947/2022/01/10/774ba7aa-3d2e-48aa-a3e0-4f7599319aaa/fragile-x.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/",
+      "publishedDateTime": "2022-01-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-09-the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need.md",
       "title": "The Nvidia RTX 3090 Ti is the GPU we all want – but it’s the RTX 3050 that we need",
       "excerpt": "As soon as Nvidia announced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards, a slew of powerful new gaming laptops was announced by all the big names. If Nvidia can deliver on its promises, it looks like 2022 is going to be a great year for gaming on a laptop.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.techspot.com/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -158,7 +210,7 @@
       "originalUrl": "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-EV-Brand-JiDU-to-Use-the-NVIDIA-DRIVE-Orin-System-on-a-Chip-to-Support-L4-Autonomous-Driving",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1355,58 +1407,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-2022-technology-trend-review-part-two-ai-and-graphs.md",
-      "title": "2022 technology trend review, part two: AI and graphs",
-      "excerpt": "AI and graphs have a few things in common: they are multi-faceted, ubiquitous in their applications, and seeing rapid growth in the 2020s.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/",
-      "originalUrl": "https://www.zdnet.com/article/2022-technology-trend-review-part-two-ai-and-graphs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b81aba36b92e149af0df467e70c7854b49258446/2021/11/02/900a38bb-71d8-4ccf-bef9-0916bce3d2ac/shutterstock-1948106629.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-technology-trend-review-part-two-ai-and-graphs/",
-      "publishedDateTime": "2021-12-21T12:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

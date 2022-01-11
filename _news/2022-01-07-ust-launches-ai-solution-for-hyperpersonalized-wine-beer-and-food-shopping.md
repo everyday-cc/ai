@@ -9,7 +9,7 @@ ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-a
 cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/10/full/20220110172823.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "HEAL Software Launches Artificial Intelligence for IT Operations Solution"
-    excerpt: "HEAL Software Inc., provider of an AIOps preventive healing space, is introducing a new enterprise-grade, cloud-based Software-as-a-Service (SaaS) offering for its flagship HEAL product. HEAL is an artificial intelligence for IT operations (AIOps) software that enables IT teams to find and fix problems before they happen."
-    publishedDateTime: 2022-01-06T19:50:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/HEAL-Software-Launches-Artificial-Intelligence-for-IT-Operations-Solution-150825.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 36
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Ginesys to Invest in CASA Retail AI to Power Targeted Personalised Customer Engagement"
     excerpt: "New Delhi, Delhi, India   Ginesys , a leading end-to-end technology solutions provider for retail businesses today announced a strategic"

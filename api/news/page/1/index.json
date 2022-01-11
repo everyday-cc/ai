@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-11-has-ai-found-a-treatment-for-fragile-x.md",
+      "title": "Has AI found a treatment for Fragile X?",
+      "excerpt": "What if AI can substantially speed it up? That's the premise of Quris, an artificial intelligence company hoping to disrupt the pharmaceutical arena. The company just announced the final close of $28 million in seed funding to support its clinical prediction platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/",
+      "originalUrl": "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a735ce92987d1c2468957f5b2ba40babd8f10947/2022/01/10/774ba7aa-3d2e-48aa-a3e0-4f7599319aaa/fragile-x.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/",
+      "publishedDateTime": "2022-01-11T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-getting-smart-about-five-2022-ai-and-machine-learning-predictions.md",
+      "title": "Getting Smart About Five 2022 AI And Machine Learning Predictions",
+      "excerpt": "As new technologies exit the realm of dreams and enter the realm of possibility and reality, there’s always a reckoning with their true capabilities. In 2021, I saw teams build the foundations for some really important AI changes in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dcad5888028e02db6660ac%2F0x0.jpg",
+          "width": 1200,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/",
+      "publishedDateTime": "2022-01-11T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-humans-are-still-significantly-better-at-predicting-the-weather-than-ai.md",
+      "title": "Humans are still significantly better at predicting the weather than AI",
+      "excerpt": "Despite all the progress that has been made in the realm of technology, AI, and machine learning, weather companies have not yet handed over the keys",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
+      "originalUrl": "https://www.techspot.com/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-10-image-37.jpg",
+          "width": 2138,
+          "height": 1402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
+      "publishedDateTime": "2022-01-11T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning.md",
       "title": "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning",
       "excerpt": "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning.",
@@ -10,7 +166,7 @@
       "originalUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -239,6 +395,48 @@
       "topics": [
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-adding-ai-to-the-construction-industry-munichs-conxai-raises-3m.md",
+      "title": "Adding AI to the Construction Industry, Munich’s Conxai Raises $3M",
+      "excerpt": "Munich-based Conxai has raised 2.7 million euros ($3 million) to harness artificial intelligence (AI) for the construction sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Construction-1-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/",
+      "publishedDateTime": "2022-01-10T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -845,7 +1043,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -898,7 +1096,7 @@
       "originalUrl": "https://www.itpro.co.uk/policy-legislation/it-regulation/361935/financial-regulators-scrutinise-reliance-aws-azure-google-cloud",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -995,21 +1193,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-10-big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report.md",
-      "title": "Big data analytics, AI/ML to be most in-demand skills in India in 2022: Report",
-      "excerpt": "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday.",
+      "path": "_news/2022-01-10-global-enterprise-artificial-intelligence-market-emerging-trends-major-key-players-aws-and-google-corporation.md",
+      "title": "Global Enterprise Artificial Intelligence Market: Emerging Trends, Major Key Players AWS and Google Corporation",
+      "excerpt": "According to the report The global Enterprise Artificial Intelligence market was valued at 6 6 Billion in 2019 and is anticipated to grow at a CAGR of 36 1 from 2020 to 2027 As complex data sets advanced machine learning",
       "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
-      "originalUrl": "https://www.freepressjournal.in/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
+      "webUrl": "https://www.openpr.com/news/2522181/global-enterprise-artificial-intelligence-market-emerging",
+      "originalUrl": "https://www.openpr.com/news/2522181/global-enterprise-artificial-intelligence-market-emerging",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.assettype.com/freepressjournal/2020-08/9554071a-079c-4e10-9a40-4779953e541e/artificial_intelligence_4550606_1920.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 620,
+          "url": "https://cdn.openpr.com/V/1/V110318404_g.jpg",
+          "width": 603,
+          "height": 394,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1017,13 +1215,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report",
-      "publishedDateTime": "2022-01-10T03:04:00-08:00",
+      "ampWebUrl": "https://www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging",
+      "publishedDateTime": "2022-01-10T03:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1033,200 +1231,7 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-softbank-invests-in-artificial-intelligence-startup-qraft-technologies.md",
-      "title": "SoftBank Invests in Artificial-Intelligence Startup Qraft Technologies",
-      "excerpt": "Qraft Technologies plans to use the $146 million investment to fuel U.S. and China expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "originalUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-464080/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "publishedDateTime": "2022-01-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-ola-2-security-camera-with-face-recognition-ai-and-more-hits-kickstarter.md",
-      "title": "OLA 2 security camera with face recognition, AI and more hits Kickstarter",
-      "excerpt": "If you are in the market for a new security camera you might be interested in the OLA 2 launched via Kickstarter this month offering, facial",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
-      "originalUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/01/home-security-camera-outdoor.jpg",
-          "width": 700,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-tesla-and-nvidia-are-picked-for-big-gains-by-this-robot-trader-its-been-right-before.md",
-      "title": "Tesla and Nvidia Are Picked for Big Gains by This Robot Trader. It’s Been Right Before.",
-      "excerpt": "This artificial intelligence-powered ETF ditched Netflix, Merck, and three other familiar stocks this month. Here's what it bought.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
-      "originalUrl": "https://www.barrons.com/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-68043/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218",
-      "publishedDateTime": "2022-01-10T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-the-five-biggest-healthcare-tech-trends-in-2022.md",
-      "title": "The Five Biggest Healthcare Tech Trends In 2022",
-      "excerpt": "The healthcare sector is under enormous pressure at the moment, and technology adoption has been accelerating to help deliver better, cheaper, and more personalized healthcare to people. Here we look at the top healthcare tech trends in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dbc007e830ffbf736660a6%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/",
-      "publishedDateTime": "2022-01-09T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
+        "AWS AI",
         "AI"
       ]
     }

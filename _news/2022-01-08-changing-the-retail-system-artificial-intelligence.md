@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/changing-retail-system-artificial-i
 webUrl: "https://www.linkedin.com/pulse/changing-retail-system-artificial-intelligence-anumak-company"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 825
     height: 495
     isCached: true
-
-related:
-  - title: "AI in closed-loop manufacturing can benefit edge computing systems: 4 things to consider in IIoT"
-    excerpt: "The convergence of AI and closed-loop manufacturing is coming. This could change IT thinking about edge IoT. Be prepared with these four things to know about it."
-    publishedDateTime: 2022-01-06T19:41:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 74
-    images:
-      - url: "https://www.techrepublic.com/a/hub/i/r/2018/02/01/31ad99a6-f326-4598-aebd-9b67d7b2dbaa/resize/1200x/c54bf641da518b3167d8cd47626582af/auto10.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "UXyepBHTB+o7ZAHUBzfLyde3yqAPG/6MrYZ2WV1yJW9Wi2bSTfHe5q78p5WtPMhr3vbyLSmYmGmiopStD/QPzkcGcDBRAdlIYW/N+EtWNk0bXH0uC2QigUzjch2kdNUJHI8fllwtTu9ECzYQ77g1eBUsCuOB0pHCtGNwWHdLLHVj+E6fr1vZqbF3QlwwRZ9SaQxgRzlJaIBj4NQlcXonXmsEATWQ1GdfhwLa7iZliVmodYRoX6N8/UNwlT4jtPQVIG3MD4xhL7Hx+KOJ3Fk5silSGqdODdfhQ91Ig2ctkbL2AOnzaxllyi88KOKh7orC+bUANFgdnhQUpw5EuSiGdhln4FrJyvKYVTQPqxC51Wc=;N4JDkCBmwtduaAkivZJopQ=="
 ---

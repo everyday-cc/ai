@@ -442,6 +442,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla’s Full Self-Driving beta includes an ‘assertive’ mode that’s more aggressive on the road"
+    excerpt: "If you would want your self-driving Tesla to be more aggressive than the default, it seems that there's an option letting you do just that on the beta."
+    publishedDateTime: 2022-01-11T12:16:00Z
+    webUrl: "https://recombu.com/general/article/teslas-full-self-driving-beta-includes-an-assertive-mode-thats-more-aggressive-on-the-road"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 27
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2021/04/tesla-model-y.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 940
+        height: 492
+        isCached: true
 
 secured: "m/LL3AVpwn/HU3tCLwC1hGY3F1JMcqDPiYpCxbJ8cL8AqWpGWPLiEh8dW9a76PvpxDic1CPCEBRA6/zjCNhEZogHm7F4lK5q58LndKjcadSw+L8uGX3ZNAttfulgCUbT1VUtiyPdd+4xNQIjIbdD6/bdc1Hxb0yGL5taHtyjUNVH8vsyCFpkuEU9mu8TpY+htoHkOnTZyHpKeUGjanaIPn40DHn59R/CK12eoJRgVEpQbTtNKjMCdEuOGv6B+FSIMqvy4Ekv5tqmmAILT5qPwm1ziy7uLAaUpQ4aAeIHMAtIvHeBCyuDDQ+fS0B9JNGVBLWWuQakUKmmPzGfG0kU+LXWNHGQ3Uixb02sAj8ET/aEEfvb8n5VFJKFeH7li9MaqWzrteH8h20MHKLP2+os5RCPKtU4O+FAbh1xPI1oeI/iY/wOgCN4loV9Sw4/Y5cnrNReU6soqwOyhEP2ZB42E3Jo3Bwsv7obYK76Q5oHMXtjosK1lwaIy5HemTR+Ls+4GmaB9OaEhPet2J4EeMAHZQ==;+ro5YLT6dSPGGgyXgoKjsA=="
 ---

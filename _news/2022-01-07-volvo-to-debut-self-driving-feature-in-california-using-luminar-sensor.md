@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 719
         isCached: true
+  - title: "Volvo's Self-Driving 'Ride Pilot' Technology to Be Tested in California"
+    excerpt: "The subscription-based program will be a feature of Volvo's electric flagship SUV that's coming later in 2022."
+    publishedDateTime: 2022-01-09T20:55:00Z
+    webUrl: "https://www.caranddriver.com/news/a38704761/volvos-self-driving-ride-pilot-california/"
+    ampWebUrl: "https://www.caranddriver.com/news/amp38704761/volvos-self-driving-ride-pilot-california/"
+    cdnAmpWebUrl: "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp38704761/volvos-self-driving-ride-pilot-california/"
+    type: article
+    provider:
+      name: Car and Driver
+      domain: caranddriver.com
+    quality: 44
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/284566-volvo-concept-recharge-1641756481.jpg?crop=1xw:0.8891213389121339xh;center,top&resize=1200:*"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "6FBj2k4QtrbZAQS0/vxxGCwbAKuAQp+WP804dtg9MmO7x9b7I6ntqbyi2WaSE19PdVq/8zXbHQItolKrM6HsfuHahbY1/8bxC+J49Dh8MMdHKgxB3Kb5q7cwKaM9VL01lNQaDjKmGZfQK+tJjYsbofRAdwlmAzZ61nLlNe3UYkj8TuUrRwfJprW54lnIk9DeC8MtxmaZLCRp4LDRnUqQtKHKwP1VT+kGGGzf+OCS10aYyK/kyBIgcBleTri5/8k9WqshbihE9LCwpLfFYmtedhO/vXlPbF2ZfpxodOd4/nie8UFu+qXH8o2e4o+v1Gez+FEdrCazmrS77bp0sE3U1MsUcDUKgE2CRzK+DFSK5fA=;gZDnT2GTn1BHPOVFYLSXbg=="
 ---

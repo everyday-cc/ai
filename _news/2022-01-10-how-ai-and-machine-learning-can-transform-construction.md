@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Getting Smart About Five 2022 AI And Machine Learning Predictions"
+    excerpt: "As new technologies exit the realm of dreams and enter the realm of possibility and reality, there’s always a reckoning with their true capabilities. In 2021, I saw teams build the foundations for some really important AI changes in 2022."
+    publishedDateTime: 2022-01-11T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dcad5888028e02db6660ac%2F0x0.jpg"
+        width: 1200
+        height: 688
+        isCached: true
   - title: "Artificial intelligence aids effective fitness training"
     excerpt: "Whether for squats or sit-ups, the software created by the start-up VAY alerts exercisers about incorrect movements via a smartphone screen. Now the ETH spin-off has been acquired by connected fitness equipment manufacturer Nautilus."
     publishedDateTime: 2022-01-07T14:54:00Z
@@ -40,20 +56,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-1.jpg"
         width: 930
         height: 465
-        isCached: true
-  - title: "Using AI in Crime Detection"
-    excerpt: "Using AI in Crime Detection By cio review - As the rate of crime rises, the utilization of existing Artificial Intelligence algorithms is proving to be"
-    publishedDateTime: 2022-01-10T09:43:00Z
-    webUrl: "https://www.cioreview.com/news/using-ai-in-crime-detection-nid-34825-cid-210.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/ommxw.image300x350lawenforcement.jpg"
-        width: 300
-        height: 350
         isCached: true
 
 secured: "xO7brneYAomFxP5iAFDmkTG2X00QAAu7zMYCBJAzzOTJ/z8kIa63ay5rufB26qasLNNSPLRY4tBN3/msrHVIcsEpWWHhz/QqYFmv/miJPcHn76xfuIHPxF2b2DzOrEeWrz+oBhoq5Xb4hmpc+6xeEKD6iWi1w4LhuIhFXT8jmWjTJaFXE33Bkee1cPAem4UAZjphtEiGVKFmkBo9yBnalAbHO1YFRaSyWQfWSGx9UK0aQw33BaQSOZNKJLw89Sk7846HOSkbV/ORFJGpBryjlaSHc1orm1TZ4QCxCBa71ylOt6AHzEPh+CsUHinClFyMMi7ci7bx7lmFmUKqAp/nR8Wf9n6P6xc3yBW95riTAYjLJICfeHclLxxQiBN0hDm+a76MQKt5t0Jok1bO4/72CKh7JcRJfjfSeAOJSr7++So7w3EOm4mKueak72sdaKFaJDZIHG0oGugAsy709Vgh8Qer5StdjNtC0dZZ/nFgBLU9z0eoMAOSL4vnhRJPCzui3dFOTY3YWWKRdTA0fO/tvQ==;llDB1BPGqTk6SLwMV5GuxA=="

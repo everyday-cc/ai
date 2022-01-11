@@ -2,6 +2,231 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-21-dtiqtm-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
+      "title": "DTiQtm Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
+      "excerpt": "DTiQtm, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer vision platform leader,",
+      "sourceUrl": null,
+      "webUrl": "https://www.lelezard.com/en/news-20166084.html",
+      "originalUrl": "https://www.lelezard.com/en/news-20166084.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.lelezard.com/img/pr_sections/science-technology.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Le Lézard",
+        "domain": "lelezard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications.md",
+      "title": "DTiQ™ Selects alwaysAI® Platform to Power Next-Generation Computer Vision Applications",
+      "excerpt": "DTiQ™, the world's leading provider of next-generation video intelligence, analytics, and managed video services for restaurants, convenience stores, and specialty retailers selects computer",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/dtiq-selects-alwaysai-platform-to-power-next-generation-computer-vision-applications/article_99897385-7d76-5aaf-a29a-2e783289af2a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/e5/4e5c49bb-1b34-5a68-9555-23d41196e8df/61c0e1244c993.image.jpg?crop=1280%2C672%2C0%2C23&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T10:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-ai-workforce-training-bill-clears-senate.md",
+      "title": "AI Workforce Training Bill Clears Senate",
+      "excerpt": "The bipartisan legislation aims to strengthen federal employees’ AI knowledge, with a focus on procurement professionals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/",
+      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/ai-workforce-training-bill-clears-senate/359997/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/20/GettyImages_1237079942/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T10:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nextgov",
+        "domain": "nextgov.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-learning-in-22.md",
+      "title": "CNBC Technology Executive Council survey reveals executives excited about machine learning in '22",
+      "excerpt": "CNBC Technology Executive Council survey reveals few executives worried about the omicron variant's impact to their 2022 outlook. Got a confidential news tip? We want to hear from you. Sign up for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2021/12/20/cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-earning-in-22.html",
+      "originalUrl": "https://www.cnbc.com/video/2021/12/20/cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-earning-in-22.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106991730-16400192271640019224-20405410156-1080pnbcnews.jpg?v=1640019226",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-20T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-artificial-intelligence-ai-helps-improve-patient-and-doctor-communication.md",
+      "title": "Artificial Intelligence (AI) Helps Improve Patient and Doctor Communication",
+      "excerpt": "Understanding between a patient with low health literacy and doctors can be improved with the help of artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/doctor-patient.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-improve-patient-and-doctor-communication-204804-1.htm",
+      "publishedDateTime": "2021-12-20T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-ai-chip-maker-kneron-raises-25m-for-autonomous-driving-push.md",
       "title": "AI chip maker Kneron raises $25M for autonomous driving push",
       "excerpt": "AI chips, which are semiconductors designed to accelerate machine learning, have many applications. One of the promising use cases, according to Albert Liu, is using AI chips in autonomous driving vehicles.",
@@ -897,247 +1122,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts.md",
-      "title": "AI Trends In 2022: What’s Real And What’s Hype? Hear From The Experts",
-      "excerpt": "To prepare for 2022, look past the top trends to learn the biggest hype and worst recommendations given to leaders. Here are answers to five unusual questions for the new year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c00dede5b830952a1aaa39%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4135%26cropY1%3D406%26cropY2%3D2345",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
-      "publishedDateTime": "2021-12-20T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-data-hunters-will-be-big-pharmas-next-prey.md",
-      "title": "Data hunters will be Big Pharma’s next prey",
-      "excerpt": "Big Pharma will need to tool up in the data arms race. Drug giants like AstraZeneca are pouring $160 billion a year into unearthing new treatments. Artificial intelligence could provide a shortcut, by helping discover new treatments and getting them to market sooner.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-pharmaceuticals-m-a-breakingviews-idDEKBN2IZ0YW",
-      "originalUrl": "https://www.reuters.com/article/us-pharmaceuticals-m-a-breakingviews-idDEKBN2IZ0YW",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20211220&t=2&i=1585312285&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHBJ0F3",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idDEKBN2IZ0YW",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idDEKBN2IZ0YW",
-      "publishedDateTime": "2021-12-20T02:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist.md",
-      "title": "Chinese AI Giant SenseTime Reopens $770 Million IPO One Week After U.S. Blacklist",
-      "excerpt": "Chinese artificial intelligence giant SenseTime is pushing ahead with its initial public offering in Hong Kong despite being placed on a U.S. investment blacklist just one week ago, and the company is keeping its price range unchanged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/",
-      "originalUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c0496fda73710a661aaa39%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/20/chinese-ai-giant-sensetime-reopens-770-million-ipo-one-week-after-us-blacklist/amp/",
-      "publishedDateTime": "2021-12-20T00:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders.md",
-      "title": "Island’s inclusion with Institute of Technology will bring robotics and AI opportunities for young Islanders",
-      "excerpt": "Teemill and The  College are partnering with the new Institute of Technology being created in the Solent area, bringing with it opportunities for young people",
-      "sourceUrl": null,
-      "webUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
-      "originalUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onthewight.com/wp-content/2021/12/man-doing-robotic-work-by-ThisisEngineering-RAEng-1024x714.jpg",
-          "width": 1024,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
-      "cdnAmpWebUrl": "https://onthewight-com.cdn.ampproject.org/c/s/onthewight.com/islands-inclusion-with-institute-of-technology-will-bring-robotics-and-ai-opportunities-for-young-islanders/amp/",
-      "publishedDateTime": "2021-12-19T23:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News OnTheWight Isle of Wight News",
-        "domain": "onthewight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-global-computer-vision-in-aerospace-and-defense-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2027.md",
-      "title": "Global Computer Vision in Aerospace and Defense Market 2021 In-Depth Analysis, Data Synthesis, Growth Objectives and Forecast to 2027",
-      "excerpt": "The Global Computer Vision in Aerospace and Defense Market by MarketQuest.biz report offers the most recent market trends and the targeted inflation prediction for the projected",
-      "sourceUrl": null,
-      "webUrl": "https://www.wboc.com/story/45491102/global-computer-vision-in-aerospace-and-defense-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2027",
-      "originalUrl": "https://www.wboc.com/story/45491102/global-computer-vision-in-aerospace-and-defense-market-2021-in-depth-analysis-data-synthesis-growth-objectives-and-forecast-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://ftpcontent6.worldnow.com/wboc/img/image-placeholder-4-21-2021.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-19T21:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBOC",
-        "domain": "wboc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

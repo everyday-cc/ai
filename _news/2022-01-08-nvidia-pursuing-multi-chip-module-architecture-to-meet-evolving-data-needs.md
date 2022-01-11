@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92906-nvidia-pursuing-multi-chip-m
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1940
     height: 1092
     isCached: true
-
-related:
-  - title: "Nvidia Research Plots A Course To Multiple Multichip GPU Engines"
-    excerpt: "There are two types of packaging that represent the future of computing, and both will have validity in certain domains: Wafer scale integration and"
-    publishedDateTime: 2022-01-06T20:20:00Z
-    webUrl: "https://www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/"
-    ampWebUrl: "https://www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/06/nvidia-research-plots-a-course-to-multiple-multichip-gpu-engines/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 74
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/nvidia-dpu-logo.jpg"
-        width: 714
-        height: 454
-        isCached: true
 
 secured: "AxxlgmJ5GwAIHslEWwj1fxlOekJM8uF5uuYFiLUaOVO65x2JhM/iV8SQBYhluWa3MlckjxDkunISMrR+g/j4zOmHsWzKfMlC3jfPObidIQF3y949ZrfyKsWf4b0Qd8U12A1qlWx8M5V3Xu5kJJmWOHN4pFT4DTiiET8FXwx6ptghVLG8CA21hQwg/esnAIEIaYxHcryTj59pAFAazrtW5a6XrfIN81362O0C/27dVUiehUcPakrjs4ly13R8QuamxRraZ9Lwb5w/kNfc/xIEcSMdPxj8l2dYDLcSDFgM9oy4i5TxTWQ0x0UC2wje57h02YQFdil7EXb6gPYEOF4AU/v0QIlLC5/VBQjO8lsx/Yo=;7iQHgLUFMYlu/GBEfsAsgw=="
 ---

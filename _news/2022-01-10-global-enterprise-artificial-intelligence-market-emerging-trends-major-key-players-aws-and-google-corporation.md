@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2522181/global-enterprise-artificial-inte
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: openpr.com
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Security Market: Emerging Trends, Major Key Players NVIDIA Corporation (US) and Intel Corporation (US)"
+    excerpt: "According to the report The global Artificial AI in Security market size is expected to reach 20 94 Billion by 2028 growing at the CAGR of 18 65 from 2021 to 2028 The major factor driving the growth of"
+    publishedDateTime: 2022-01-11T12:24:00Z
+    webUrl: "https://www.openpr.com/news/2523696/global-artificial-intelligence-ai-in-security-market"
+    ampWebUrl: "https://www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/V/1/V111113641_g.jpg"
+        width: 603
+        height: 380
+        isCached: true
   - title: "AI in Computer Vision Market: Explore Top Factors that Will Boost the Global Market in Future"
     excerpt: "AI in Computer Vision Market Computer vision is widely used in industries ranging from energy & utilities to manufacturing and automotive"
     publishedDateTime: 2022-01-07T06:28:00Z

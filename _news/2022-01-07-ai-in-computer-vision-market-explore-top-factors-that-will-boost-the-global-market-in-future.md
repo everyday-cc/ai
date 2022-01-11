@@ -41,6 +41,22 @@ related:
         width: 603
         height: 394
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Security Market: Emerging Trends, Major Key Players NVIDIA Corporation (US) and Intel Corporation (US)"
+    excerpt: "According to the report The global Artificial AI in Security market size is expected to reach 20 94 Billion by 2028 growing at the CAGR of 18 65 from 2021 to 2028 The major factor driving the growth of"
+    publishedDateTime: 2022-01-11T12:24:00Z
+    webUrl: "https://www.openpr.com/news/2523696/global-artificial-intelligence-ai-in-security-market"
+    ampWebUrl: "https://www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+    images:
+      - url: "https://cdn.openpr.com/V/1/V111113641_g.jpg"
+        width: 603
+        height: 380
+        isCached: true
 
 secured: "eI3OBWPQqDopJJUDje+wR8+k3+N8DEH3dyJEwvWasJmjpLwjhiXUiHlktC90eGLz7z4/Y0+4xQGRh2NCNLI9Q3DmCW6KkQQnhyGeZHCWb7h4yCdhQCdMxWQMA3pcnp5Z+r5im6m3k+ILYpnKL3sEawdFdAvA2gDOj7VM/QqfYTXht1i3SlTZt37ksJearkWNX38Txr5j7fkq+0IQGkMbTWGJGMpFfSSxj6bet+bhRvQV1ex4Kq8L+01oemkiQHB1iYx/494KVp0Rbq+X7Gu0gSO/gJeuZny72xGbgwNYSj/3gonVTCwAHKfeatIoEPivfsp/e2Odz3trgudP+Ji37XlliAWUe2q3YG3HTRPH4Mo=;PVszl7N9T1Yg01fY1nkdhA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/07/ai-weekly-the-implications-of-sel
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/ai-weekly-the-implications-of-self-driving-tractors-and-coming-ai-regulations/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI the brains driving broad transformation"
+    excerpt: "AI has become a core driving force for the new round of technological and industrial revolution in China, bringing tremendous changes to the country’s development and people’s lives in many fields, including healthcare,"
+    publishedDateTime: 2022-01-11T10:20:00Z
+    webUrl: "https://www.independent.co.uk/asia/china/china-daily/ai-brains-driving-broad-transformation-b1988601.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2022/01/07/10/AI.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 813
+        isCached: true
   - title: "The consequences of self-driving tractors and upcoming AI laws are discussed in this week’s AI Weekly"
     excerpt: "It and – self-driving tractors like it — might help solve the developing labour shortage in agriculture, as Wired’s Will Knight points out; employment of farm employees is anticipated to expand by just 1% from 2019 to 2029."
     publishedDateTime: 2022-01-08T09:20:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-
 webUrl: "https://www.geospatialworld.net/news/jidu-level-4-self-driving-vehicle-powered-by-nvidia-drive-orin-to-begin-production-next-year/"
 type: article
 quality: 129
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese AI giant Baidu ups the ante on autonomous driving, plans to launch its first car with level 4 automation next year"
-    excerpt: "The Chinese AI giant’s electric vehicle being developed by its carmaking arm, Jidu Automotive, will have level 4 autonomous driving capability."
-    publishedDateTime: 2022-01-06T20:10:00Z
-    webUrl: "https://www.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
-    ampWebUrl: "https://amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/business/china-business/article/3162412/chinese-ai-giant-baidu-ups-ante-autonomous-driving-plans"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 63
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/06/2fcd70af-ee76-43a9-aa18-bb710e2fe3d4_375a1050.jpg?itok=eNZLUxs8&v=1641470840"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Nvidia to supply chips for Baidu’s consumer EVs"
     excerpt: "Jidu Auto, an electric vehicle joint venture from tech giant Baidu and auto major Geely, has become the latest carmaker to commit to using Nvidia’s next-generation computer Drive Orin for its models' self-driving functions,"
     publishedDateTime: 2022-01-07T05:35:00Z
