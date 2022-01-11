@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SK Hynix tipped for Qualcomm AI chip partnership"
-    excerpt: "SK Hynix vice chairman and CEO Park Jung-ho revealed plans to jointly invest in developing energy-efficient AI chips."
-    publishedDateTime: 2022-01-06T08:50:00Z
-    webUrl: "https://www.mobileworldlive.com/asia/asia-news/sk-hynix-tipped-for-qualcomm-ai-chip-partnership"
-    type: article
-    provider:
-      name: Mobile World Live
-      domain: mobileworldlive.com
-    quality: 54
-    images:
-      - url: "https://www.mobileworldlive.com/wp-content/uploads/2020/10/SK-Hynix.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "GM's Ultra Cruise self-driving system to use Qualcomm's Snapdragon Ride hardware"
     excerpt: "GM plans to launch an upgraded version called Ultra Cruise, which the automaker says will handle 95% of the country's roads, meaning many journeys won't require any actual driving by a human. Like Super Cruise,"
     publishedDateTime: 2022-01-07T14:00:00Z

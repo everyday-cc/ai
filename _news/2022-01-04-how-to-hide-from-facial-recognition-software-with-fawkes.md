@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://www.privateinternetaccess.com/blog/wp-content/uploads/2022/01/monitoring-1305045_1280.jpeg"

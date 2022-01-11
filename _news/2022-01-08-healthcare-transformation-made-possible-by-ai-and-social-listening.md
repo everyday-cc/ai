@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-poss
 webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 585
         height: 933
         isCached: true
+  - title: "$40M Available for Artificial Intelligence and Transformative Technology Innovators to Improve Care and Health Outcomes for Older Americans"
+    excerpt: "America is getting older faster. According to the U.S. Census Bureau, the number of people aged 65 or older in the United States"
+    publishedDateTime: 2022-01-10T12:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/n24968907/40m-available-for-artificial-intelligence-and-transformative-technology-innovators-to-improve-care"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24968907"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24968907"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
 
 secured: "zdLhIxf9v+AALuFKXnAoiJ22bb3cx5UpGjjVLjn8UFzjFE5GkGKOJn2YpMLg2iiXKhpfZizniRHF1Eync8puZEP2UbKSokZtV6K6hmWFpSljGO6o1izr/Xfm8PuukWy5BlxYEw3JsFClJxEqdjf4WTZaZ8duqGUopeXQLpDrwdOZVfPobnhDQCUaV3X//jKGNQqlelZA8KuojdbbRBaJTWWyfVjMytyK/MR49z9IS2bZXd47O9T13xQ7y3pKEypAR1IsANlLu561HbivsGx0xlRl0fTuYRRzt2DILoyxO23Mjfo0xI3k47bdKSPZjhxRi8qbSQHYYJZjHWvZ6HORuCGSp/75bDK7zztkBW6ElW4=;GCPXEwnFaeA/hzQ9mLt38g=="
 ---

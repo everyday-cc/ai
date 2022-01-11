@@ -43,6 +43,20 @@ related:
         width: 1000
         height: 525
         isCached: true
+  - title: "The 10 Largest Global Startup Funding Rounds of December 2021"
+    excerpt: "Everything you need to need to know about the largest global startup funding rounds of December 2021; broken down by industry, stage, investors, and"
+    publishedDateTime: 2022-01-10T15:27:00Z
+    webUrl: "https://www.alleywatch.com/2022/01/global-startup-funding-top-largest-december-2021-vc/"
+    type: article
+    provider:
+      name: alleywatch.com
+      domain: alleywatch.com
+    quality: 22
+    images:
+      - url: "https://www.alleywatch.com/wp-content/uploads/2022/01/December-2021-top-startup-global-funding-rounds.jpg"
+        width: 1000
+        height: 525
+        isCached: true
 
 secured: "5iAsMrGLTsjz/2LDdsDK4DnwAd8YxczA/aeJRs0kFo8ZN3nrZ2nNEYFmp2OZ6glQmCOQLbd8+gu5ixkPQLaafaik7lSF0yV2PMgniGTSBVMMUVmr8163OjeGo24zR4qOES8dnCeARYWtYEGC4zfu5Yny5md8kyriWtwksJZ5gxXC6k9C1tqxiwJE9vxT0n6sScjoRwZwCmGkLdDkGq21z6WyeYny5shrccvMt+2Y9h5v+KA0gXqo/fdGtQKIvkwQvbR3oZN+pM70vIYsF/z/ItvK9enBcuE1IleZxM8GqgUheFSk7cyyiAOvVWEdnUDN3f94K2YpXOXkoAZTBKE3DUv8qRnmfJuENntdkZ62pP8=;So2i9nF374QP+rGOh8LIGQ=="
 ---

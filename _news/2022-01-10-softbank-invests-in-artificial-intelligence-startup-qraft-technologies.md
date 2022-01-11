@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-inte
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "SoftBank invests in artificial-intelligence startup Qraft Technologies"
+    excerpt: "SoftBank Group Corp. is investing $146 million in Qraft Technologies Inc. to gain access to the money manager’s artificial-intelligence tools and help seed the startup’s growth. Qraft, which manages $1."
+    publishedDateTime: 2022-01-10T23:52:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816887072.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/softbank-invests-in-artificial-intelligence-startup-qraft-technologies/amp-11641816887072.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/softbank-invests-in-artificial-intelligence-startup-qraft-technologies/amp-11641816887072.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 42
+    images:
+      - url: "https://images.livemint.com/img/2022/01/10/600x338/DELHIVERY-IPO-1_1641817041330_1641817057832.JPG"
+        width: 600
+        height: 338
         isCached: true
 
 secured: "81kEcW5H9h3URjDRAC9NDUOtEH5yFk486n91Sb7klAFeIe2bhRuA2njOlbuiMgnphJj0TjiijniogIVNukRm4FvUOp6rjESnLV8edZYIQZ7O2nYolkpAXN7Oao5/D8MLW5lKJI8cWCARlkWlUhtuSpAWc8vjW8osaUKSxuqn/U9doBwkg2S0+nPKs1eW81yERPhq+Diel6supWA/QiwP0hUkfr0+0V6ipJk0Eg/xf8reuHyhwZARQcgOQU32lceePBj6diu0xuJX0D6aw/negKmVwA3hhjMM2az92E939dKXU7PVy6zNLJ0UpNzQnLCmXCZLl04iw8OPvfiB7fwyHKO91mM3AVuMYgZ/aCj8TAE=;9c4LD5OLJAaaHdYX6RIQDw=="

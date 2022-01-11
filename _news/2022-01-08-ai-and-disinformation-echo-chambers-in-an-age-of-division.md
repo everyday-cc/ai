@@ -52,6 +52,17 @@ related:
         width: 847
         height: 440
         isCached: true
+  - title: "$40M Available for Artificial Intelligence and Transformative Technology Innovators to Improve Care and Health Outcomes for Older Americans"
+    excerpt: "America is getting older faster. According to the U.S. Census Bureau, the number of people aged 65 or older in the United States"
+    publishedDateTime: 2022-01-10T12:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/n24968907/40m-available-for-artificial-intelligence-and-transformative-technology-innovators-to-improve-care"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24968907"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24968907"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
 
 secured: "ahGqpM3bmdx977pH0vPqOtIjBObEO1AGOOYsTN7FNIU25biY/5G7BuIe4rYxbNWjQYUMSXhgmsYbI/zSRlg+j7kG2/M60W+EYfJZbt1xva92HbRLLvCQxagF+gPdvjd6EYlQeWitQKinYd4wsMXrrrERs5B7cIttY6HlMbMM/Gozqpj8kIGFtZ16l++Qi4sZ3lU4xyBZYlVwn397pLHeio90AcaNJpUXOIC1Pp62v+KdNeL2BKIFrObttr+1l380dGcKsrgJSPk81FIK8M6fuUq2TouI5EkegwFWt9DY7CxxZbjNmC4WNREE2AChqkz6E6daW8uv0UufrEFlTliQY54oVr6YlIvSbk201JqNvRM=;HLDdZ7gp5HxkELXG1Ul2og=="
 ---

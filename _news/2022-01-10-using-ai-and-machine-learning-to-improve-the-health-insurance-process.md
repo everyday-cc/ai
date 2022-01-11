@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-    publishedDateTime: 2022-01-06T15:15:00Z
-    webUrl: "https://www.lelezard.com/en/news-20181152.html"
+  - title: "Finding Love In The Midst Of Algorithms, Artificial Intelligence And Data"
+    excerpt: "What sustains the thriving business of love? What has made these apps, agents and companies who broker love, such a success? Here is what my experience taught me."
+    publishedDateTime: 2022-01-11T00:44:00Z
+    webUrl: "https://www.outlookindia.com/website/story/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 53
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 56
     images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
+      - url: "https://images.outlookindia.com/public/uploads/articles/2022/1/10/Untitled_design_(3).jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
     excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
@@ -102,6 +104,15 @@ related:
         width: 300
         height: 234
         isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+    publishedDateTime: 2022-01-06T14:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 33
   - title: "How AI is improving the translation experience for marketers"
     excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
     publishedDateTime: 2022-01-10T17:30:00Z
@@ -121,6 +132,6 @@ related:
       domain: wolterskluwer.com
     quality: 17
 
-secured: "WJRtlgT5EjQN051rIrLfLPmo/o8kaV+Lq1O/eOqQN6cBMGCvZXYZVGsxYfWPApFWyPYRupZ0IqtJ9RGlnHLiEtHMUHQnF2JQ4D5tcZyK6iFM4DET83GZ7/00CfNc0xGS4SOvjYJdh+/Jjeudurbb+OVFKZ1WLeLWd1H+u0DrXGhPl6GhwHqDIEkT4ciX+eQ9OCOVt9nXh/yPIu4uZqUtuiuadbXrGvsUq9fOsffEF/5blDh4cu/5R9NjuyZ1w4Yr+hwISeBhkatXaQx0MSwkwT8cfLpcoBbUjeg+LeNCLOMPuyiB3QAU+u3jEbE1RO8qyO+YlIgEfCJHWLh/B/f/CdGMwPsRfyGSyCS/mCOKKWI=;X2z0OJCJnNV/onxx239udg=="
+secured: "FVtH5XceXRA6MqrbsT3HPwz17L5DEbUIEyzg1sLadTVJYGRJ3pCBBoV8xJAGv0DGaW6Bmx9b9UeVey96Rc/mbxJemv0dluGBJstCJpq532j6hwsg3R9hjX3cSC31Mu7s8VRkiYY72FrXtssxjEqE4EwQD8ltWA8mzzSLJ7zVyt4/8ALx76QuAjROX+mSHRTr6r8HPMFdnQmjbZFgTUwNwM89qj9fAUKuRPQ6skAvHa2WMlDKGhF8rjR7aPR0pJRy3WW4eSSYwvbAy9rdA2AmvbL5CDbip8THnJnfZTdYUxoLP3VfCraPZYNrv35oZ3YkUY17m/yEHKQg/V/5IG1cRO0sSSbRfEGcMNk4/gArT4J3z6fkJn2dw5oadAlga/PeULoxgUwrQi6bGfT0/5/2KRyJ4gVtoHN/3LJ4EAHK0pkly2UpHtR+aA8AQuyfFC8UHOUk8biIwo1hDDpod3x5CCUGCSLcO8LFHNEMRNy+cZSa+obwDj8Sd9EfjKotoTus3qxzLKvIqYdIeXdfePOCig==;sSVOTzbpuKvBM7yzuC9KTA=="
 ---
 

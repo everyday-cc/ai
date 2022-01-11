@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geely partners with Mobileye in L4 self-driving vehicles"
-    excerpt: "Chinese automaker Geely Holding Group announced this week its premium electric vehicle (EV) brand Zeekr will work together with Intel’s...Read"
-    publishedDateTime: 2022-01-06T09:00:00Z
-    webUrl: "https://www.just-auto.com/news/geely-partners-with-mobileye-in-l4-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/zeekrlaunchnight_15042021-10.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
     excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
     publishedDateTime: 2022-01-07T08:44:00Z

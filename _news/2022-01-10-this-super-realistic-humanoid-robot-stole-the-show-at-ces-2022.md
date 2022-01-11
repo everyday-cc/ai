@@ -57,6 +57,34 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "DEEP Robotics’ Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
+    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry’s annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
+    publishedDateTime: 2022-01-06T14:45:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-china-asia-robotics-367ae93a9f70b62ab37261b1a4597fea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
+    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
+    publishedDateTime: 2022-01-07T05:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=596509"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
     excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
     publishedDateTime: 2022-01-06T16:01:00Z
@@ -87,6 +115,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "CES 2022: There’s a new robot dog in town"
+    excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
+    publishedDateTime: 2022-01-07T14:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17625/ces-2022-there-s-a-new-robot-dog-in-town"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/625/17625/Jueying_Lite2_on_2022_CES.jpg"
+        width: 752
+        height: 552
+        isCached: true
   - title: "CES 2022: Best concept and self-driving cars from the show"
     excerpt: "Concept vehicles are a staple of CES 2022 and while this year’s show suffered from a lack of attendees due to COVID-19, the concept vehicles and latest self-driving cars still made grand appearances."
     publishedDateTime: 2022-01-07T13:55:00Z
@@ -113,6 +155,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "hdB95kGlQt0a4awgWco1KIHYLaRGhBhu037SYHKUT1W28HvqF+rrE9mRgQK8T95lUq69jXrL7sEkXIMXkL5gZZ04PQ0BaY/Okp+bcUqemY3rHdTupXrMiuSqUjvk3qb83/8ZFdEYWuj+DQVhbD86Qj3MTiXi7lwAbNTJdW6ng25teHuAlcLres+q69GLhIaQzFqtfWFmD8FnMu3MZ/8vET+KGrIcutc+evrq6EFe7xWpa2S+wsY3t3r1wBqgQq/JZjd5oXrJiVxq8G0GV4vRq/rtEmPvr39nKokUyyI2u3EArCxpxteH0RfIx302pq5ODwex06PsDkU83fIzt6u9JN0pZnsMvSgdky4UOUDR898=;dlCM5tsHEysI+xwkqM1qKg=="
+secured: "iw36jIvE/iW0BEVgD0cbgiRb0QRQZLbqOKB1BI8DNJeeHo8T8wgoFpx5aoiHGw8gvXJH6T8eLM5c1/xeZkSVfL11uwquGbstf+CMsyvWGa/FPMLKJONbD0ySVh1wZP/04B2+lEBDW6DNlVnfHFYpV2YQFEpOEKvAc8AtmbwvcqXyw41hBwIehYpoxU5TfIEUgXQZMBsqyhajSsDskYfB10cUFacsCJDU+X1MFQ24993/fzo2Cvvw4nRO+C7ZUNJZK3yry/DFsYMa0Nm0MP4ANwil5463HHhMSW1kRHw62kskw6mGpNVbK9nLx/bw5Z0TiE1kiOA9JiTCxQu5SlrJyTh0C3TmfdWpObcj8jIVpSl4xns2CmmuqamloOX7O7coFa/WfXblYSuMYkelmxUFqUq2QYCQVTEZ+lFp1xlUqnddB3+8qKPTBrtl8uoADdtt/gIRCNLOCY03OahuL9sMr9NXo7giOn1WSuNAd6F4Ef/cwkYa72oDWRub6k/xc4A95QRfzv+5Qx1A2Lj2x2uYCQ==;+bTLXBygF4robhKOj0rPvw=="
 ---
 

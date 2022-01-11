@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "SoftBank invests in artificial-intelligence startup Qraft Technologies"
+    excerpt: "SoftBank Group Corp. is investing $146 million in Qraft Technologies Inc. to gain access to the money manager’s artificial-intelligence tools and help seed the startup’s growth. Qraft, which manages $1."
+    publishedDateTime: 2022-01-10T23:52:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816887072.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/softbank-invests-in-artificial-intelligence-startup-qraft-technologies/amp-11641816887072.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/softbank-invests-in-artificial-intelligence-startup-qraft-technologies/amp-11641816887072.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 42
+    images:
+      - url: "https://images.livemint.com/img/2022/01/10/600x338/DELHIVERY-IPO-1_1641817041330_1641817057832.JPG"
+        width: 600
+        height: 338
+        isCached: true
 
 secured: "F0KK5AVnBm+7Ox+alNS3hztWAEMWELj9PYbC5cJxwRkEbVbXAPY8UQgnT4hiyhxJ7oCmbuzUENuz89LZ8sHsWMrMjx/ywsyuepnQb3LFt7dLDyC904UuzfXuXKyZDeVw6BolPbsBvNrvOeLElFr6FIfKZyFUK2RKN0xUwEs3iNhfP8XKBayh8z5dXvJJsQMdusyYBrOCL7wLXdK0yu2Sgnkrlo8cJZgP1KPrlirrKdAHnftTSu1Ky6SD+dt3vzBgOJSFjT6h7oS/iu82C/B0Y4uY1ijJMU0F7LFfBdud6yrpsvMi+OHgeVi18TPxGdTpjBDP9Qkq8uXW9/daSnvUGWhSX014lXDy68CRaQvqyXY=;oodUcY8uO5svg5xu4dKhSw=="
 ---

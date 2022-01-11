@@ -82,6 +82,20 @@ related:
         width: 1240
         height: 827
         isCached: true
+  - title: "Can a Self-Driving 40-Ton Truck Be Safe? Developers Say Yes"
+    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
+    publishedDateTime: 2022-01-09T13:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-01-09/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBygXLUj_8n4/v0/1200x801.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "0wnD4vNIPfUPNpBx2ysD1fA/NKbmI08hP5bZIlretmxxZZFEzXxyP1RgNnY/x5wpfZUih+XYnt38hXeZzB32lUEZvwTvYoNUCDxzUyJEwI36r4ZVHShun3ZGx6r7sr544zzdP0d9v5pWCjrreV2G60zWs6iXf/+JdIjNjUaJz+nBWWv/4O3QR4vqudCg7OvG999W03KiWlg3mizBjM5n30c7yKwc5OlG2PDdRRSg+uhGLwvqnY7ZEnt+ErUhPUwxuZJ0aOcx7AFy2ZyoxfWPDtKz74W8D/aCtQQyXhsaar2gu3lO8rp0/pup+lasVMWoq1DMLknZS0zUW+nlqyvwpthc2NwKVORCcIQERNsxsqg=;oLAnyOJ2n+UDL682wMTbLg=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "HFCL powers its Network offerings with AI, joins hands with Aprecomm"
-    excerpt: "HFCL Limited, has announced powering its network offerings with Artificial Intelligence (AI) based Analytics, partnering with Aprecomm, the leading AI-powered Wi-Fi analytics technology provider."
-    publishedDateTime: 2022-01-06T08:43:00Z
-    webUrl: "https://www.equitybulls.com/category.php?id=304576"
-    type: article
-    provider:
-      name: Equity Bulls
-      domain: equitybulls.com
-    quality: 37
-    images:
-      - url: "https://www.equitybulls.com/equitybullsadmin/uploads/eb_news.jpg"
-        width: 900
-        height: 500
-        isCached: true
 
 secured: "zQex0ik3SKhktIpKlx+Lc09PSwWXBnCe6n5cM/R1gMHyP+gATBhvODrZt9OZNzArlSjkNSikW0DxTp40If7SHek7w/edRZWQPPA7ExPnAJfKQnc3MTzjSc4hJARDj/SrlKNqW2mTMJMf/zItTpHaqepu9G6nK5o1HwxF3JS8J8eFbVvztFgEZGEIi6qvA6+/1tMIGCYUkKoi6vcRRHHBdBWT5cPNuZqtlfGRh4unlpVLdRBZ7x6Xq1ny4crHZsB0jumOsFADrEPhlnJlxELS5lG3O6LG/7JVlTzo2JZcJ1OFd2B+BUj3NzIPQzkM9YKrj40PVZcnDTZbtZPJiiIZr91SeCqUumbKpzsOUBk0uK4=;nQLZnel+l//JqxsIBKI/pA=="
 ---

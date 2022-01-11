@@ -1,67 +1,26 @@
 ---
 category: news
-title: "Mobileye's Self-Driving Secret? 200PB of Data"
-excerpt: "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
-publishedDateTime: 2022-01-05T20:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
+title: "Mobileye’s Self-Driving Secret? 200PB of Data"
+excerpt: "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
+publishedDateTime: 2022-01-05T20:36:00Z
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-d12f56491bde4d348d137f961210da33"
 type: article
-quality: 4
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Geely partners with Mobileye in L4 self-driving vehicles"
-    excerpt: "Chinese automaker Geely Holding Group announced this week its premium electric vehicle (EV) brand Zeekr will work together with Intel’s...Read"
-    publishedDateTime: 2022-01-06T09:00:00Z
-    webUrl: "https://www.just-auto.com/news/geely-partners-with-mobileye-in-l4-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/zeekrlaunchnight_15042021-10.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "CES 2022: Intel’s Mobileye reveals big deals for self-driving"
-    excerpt: "During an Intel news conference today, Intel subsidiary Mobileye revealed multiple new strategic collaborations designed to transform driver and passenger experiences globally. Deals with Volkswagen Group,"
-    publishedDateTime: 2022-01-07T08:44:00Z
-    webUrl: "https://gadget.co.za/ces-2022-intels-mobileye-reveals-big-deals-for-self-driving/"
-    type: article
-    provider:
-      name: gadget.co.za
-      domain: gadget.co.za
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/01/Mobileye-CES-partners.jpg?resize=1000%2C600&#038;ssl=1"
-        width: 1000
-        height: 600
-        isCached: true
-  - title: "Geely to develop self-driving vehicle with Mobileye"
-    excerpt: "Geely Automobile Holdings plans to tap Intel’s Mobileye unit to develop a vehicle with L4 autonomy for Zeekr, its smart electric-vehicle brand."
-    publishedDateTime: 2022-01-06T17:37:00Z
-    webUrl: "https://www.autonews.com/china/geely-develop-self-driving-vehicle-mobileye"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/zeekrmobileye-700x525.jpg"
-        width: 800
-        height: 600
-        isCached: true
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
-secured: "/Q/gk0W19xZo9pc9DtU82zYdMK/EgdYrflJM+7B8jOCuTZ1furpaH+C45XWChXViJund57DlEyvT5VDUoM589XKuPhNV8wbV+4kZpHtgSut5frW/U22wRMBXXGbuhHh1ywMTIJjkIHapeTEkIrNmTfe1EIFPga/RIWkvmv6JvZ9Sj5wwHToNP6jiFc6B8f5FWBE/oJ/cSRRdzNbHVnoNEwfj8lsCdfdiLAdRMwrbJxL5DaWjrlEzpaZRfscoZp949B6bdEFKAbBM3DlTLX3dNoKc2jio+qaEIj01+0qFJ8Y6lttzN9S2hLzNL+0g4ClEgSXngQZLXrHPRW0PCVhv4yN0VzOMEwV8KMBoppniT7E=;Vq17C/1jfRowROUWuFLg8w=="
+secured: "0X4Qx8rsMz1I4jSHJXR5oGnWmAvhs6b6B95LNHvoIq4hoaOYJ2XEhAoJnLPHa5Vd4VySSiIJ+9cx81QywmFaJT5ikXmAQYqUS6CKooNuPUmXxj3AxD26OtG1t+yJCsloOR0x5q2dkVmK2Y6yBZtAioKA18LyTVfN2GJyEIYltrkamec2p6yr8fID2q9elUVo2pQSRkY3nPIBCsBeYpEk0Hto1CSlGMNnxOf5QKmxyFK0jQK5d1wEwRD/aINQ/KCFlfjI86s9XgjNflP8JbdvGlSgeWYyMxkQB9N28SXQTikyGTRJKmnWLALlazp0LxV8tNWekg3WN/yzm/NUpBbmUyae0QrGySFkplRzEqrHUdA=;+PtOUhQvmhW7UPt8W9iffQ=="
 ---
 

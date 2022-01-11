@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-10T21:51:00Z
 originalUrl: "https://www.linkedin.com/pulse/ai-soonicorns-10-indian-companies-joining-unicorns-pramanik-"
 webUrl: "https://www.linkedin.com/pulse/ai-soonicorns-10-indian-companies-joining-unicorns-pramanik-"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQF3ubqUw_c0hg/article-cover_image-shrink_600_2000/0/1641851216931?e=1647475200&v=beta&t=y5Bc9AwtJyEvMIPcJPZ46xn8Mg-EPyycFxBpDUVfY-4"

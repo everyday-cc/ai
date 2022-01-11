@@ -32,20 +32,6 @@ related:
       name: Zawya
       domain: zawya.com
     quality: 24
-  - title: "Amazon and Stellantis Collaborate to Introduce Customer-Centric Connected Experiences Across Millions of Vehicles"
-    excerpt: "Amazon and Stellantis N.V., a leading global automaker and mobility provider, today announced a series of global, multi-year agreements that will transform the in-vehicle experience for millions of St"
-    publishedDateTime: 2022-01-06T08:50:00Z
-    webUrl: "https://iotbusinessnews.com/2022/01/06/13579-amazon-and-stellantis-collaborate-to-introduce-customer-centric-connected-experiences-across-millions-of-vehicles/"
-    type: article
-    provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 3
-    images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/connected-car-telematics.jpg"
-        width: 800
-        height: 360
-        isCached: true
 
 secured: "q87+XfxieRiJlJW8Hi8IIYfAviVO37ZNNEJNYX33VMQYtft1QIAcNuU9EKIkjQ9GjhqkDzbfg+o7vVnld613ZPczhEsY4Od/PcQsNPCcVLCVM9VE+AMP1XP2Hw/3bVEtviLS15HsPSVx8XMAEDpDjkkkgAW9MCqq3ONzLR7rnmo6b9zvAlxoe2+VhaCBBo0I8nf45KZsm/rAT8kl5fOeXjeo0iLIX0dyUos0F/EmHMRa09plc7fY97MzTu6xKEPfsaZb1J16+Il/p3fpbD780+C97TvPcVzpCZ28b5nKk0CN5h8cuJTbsJeBrmpSHZ2vGG0UXcCVxmp8dDt08dcIe64AeGRcQ64YZ30js9bFYTY=;Dy/hHNHVHmbipoHfseONmA=="
 ---

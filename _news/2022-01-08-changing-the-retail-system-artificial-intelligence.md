@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Manufacturing Shifts To AI Of Things"
-    excerpt: "Smart sensors and analytics are starting to impact uptime and efficiency as smart manufacturing kicks into gear."
-    publishedDateTime: 2022-01-06T08:02:00Z
-    webUrl: "https://semiengineering.com/manufacturing-shifts-to-ai-of-things/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/aiot.png?fit=936%2C478&#038;ssl=1"
-        width: 936
-        height: 478
-        isCached: true
 
 secured: "UXyepBHTB+o7ZAHUBzfLyde3yqAPG/6MrYZ2WV1yJW9Wi2bSTfHe5q78p5WtPMhr3vbyLSmYmGmiopStD/QPzkcGcDBRAdlIYW/N+EtWNk0bXH0uC2QigUzjch2kdNUJHI8fllwtTu9ECzYQ77g1eBUsCuOB0pHCtGNwWHdLLHVj+E6fr1vZqbF3QlwwRZ9SaQxgRzlJaIBj4NQlcXonXmsEATWQ1GdfhwLa7iZliVmodYRoX6N8/UNwlT4jtPQVIG3MD4xhL7Hx+KOJ3Fk5silSGqdODdfhQ91Ig2ctkbL2AOnzaxllyi88KOKh7orC+bUANFgdnhQUpw5EuSiGdhln4FrJyvKYVTQPqxC51Wc=;N4JDkCBmwtduaAkivZJopQ=="
 ---

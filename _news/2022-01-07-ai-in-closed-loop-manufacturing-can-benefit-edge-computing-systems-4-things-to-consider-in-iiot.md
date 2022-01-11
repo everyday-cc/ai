@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-in-closed-loop-ma
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-in-closed-loop-manufacturing-can-benefit-edge-computing-systems-4-things-to-consider-in-iiot/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHaZDgaexmRqg/article-cover_image-shrink_600_2000/0/1641651966884?e=1647475200&v=beta&t=gaJOgaa-zuc3Z23AVdOp-mGa9P6BOZ9zRO7ofmUq2LI"
         width: 825
         height: 495
-        isCached: true
-  - title: "Manufacturing Shifts To AI Of Things"
-    excerpt: "Smart sensors and analytics are starting to impact uptime and efficiency as smart manufacturing kicks into gear."
-    publishedDateTime: 2022-01-06T08:02:00Z
-    webUrl: "https://semiengineering.com/manufacturing-shifts-to-ai-of-things/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://i1.wp.com/semiengineering.com/wp-content/uploads/aiot.png?fit=936%2C478&#038;ssl=1"
-        width: 936
-        height: 478
         isCached: true
 
 secured: "0pYAiwPPxvDVJsG3cgnN81ZDbkSc/Cm8XSMUQMzRm+VF7k8N8FdL2x6mW2lxP/fV1y41Tcg8xKgeeSObr5Xp6+CttY011+ItFinEU9gGLzWdjINVYim6gN3/M7QfFiWf49BLhvI48ZMEtEEwFd83mB2ijXjVzPZkH9ZlUpdp7bGS9o50lPfFF5TNfndmCBIZCsl3+TcGIKm/BJ1yIpgfmv7+MWAJ1SA3bxTCpv9j0CKGP6Nsiv29a0uCpQHQnWn92oVjKoMAQ7/t12ZZv3EU1DU9vyuPvc8wuJ5gIsR1V5BqN8uB/ANTLM8xGg9LuXsqIXKSNjRJ3DqOjW1Fly7hhCCwHqRIz8ZH3lanKfm2RaM=;f4DxZ3/MVUGSHuFyqqSdfg=="

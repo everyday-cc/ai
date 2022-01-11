@@ -7,7 +7,7 @@ originalUrl: "https://gadget.co.za/ces-2022-intels-mobileye-reveals-big-deals-fo
 webUrl: "https://gadget.co.za/ces-2022-intels-mobileye-reveals-big-deals-for-self-driving/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Geely partners with Mobileye in L4 self-driving vehicles"
-    excerpt: "Chinese automaker Geely Holding Group announced this week its premium electric vehicle (EV) brand Zeekr will work together with Intel’s...Read"
-    publishedDateTime: 2022-01-06T09:00:00Z
-    webUrl: "https://www.just-auto.com/news/geely-partners-with-mobileye-in-l4-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 24
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/zeekrlaunchnight_15042021-10.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Geely to develop self-driving vehicle with Mobileye"
     excerpt: "Geely Automobile Holdings plans to tap Intel’s Mobileye unit to develop a vehicle with L4 autonomy for Zeekr, its smart electric-vehicle brand."
     publishedDateTime: 2022-01-06T17:37:00Z

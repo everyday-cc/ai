@@ -24,22 +24,6 @@ images:
     height: 491
     isCached: true
 
-related:
-  - title: "Palit Launch GeForce RTX 3050 Dual & StormX Series Graphics Cards"
-    excerpt: "Palit has announced the launch of its GeForce RTX 3050 Dual and StormX Series graphics cards. The GeForce RTX 3050 brings the performance and efficiency of the NVIDIA Ampere architecture to more gamers than ever before and is the first 50-class desktop GPU to power the latest ray traced games at over 60 FPS."
-    publishedDateTime: 2022-01-06T08:30:00Z
-    webUrl: "https://www.eteknix.com/palit-launch-3050-dual-stormx-series-gpus/"
-    type: article
-    provider:
-      name: eTeknix
-      domain: eteknix.com
-    quality: 24
-    images:
-      - url: "https://cdn.eteknix.com/wp-content/uploads/2022/01/2-17.jpg"
-        width: 880
-        height: 490
-        isCached: true
-
 secured: "UggwAKA7dYIHZm9uAW/F3GpHC5ll+P34FYh7IAAWcRnaWI0M9ZpAcSu+Z7dTLD53KdxtRCryvwluKMWfw15fXpsuD7a7Yd059Qk8vGbvC/uPqqqPrxlpNSYF6CiloOcV7dfUkFqUcr3DhXphNmkPxXxI8rTq3WFR1rippuBq2IAtHUUHOUokWS8DTPiYx4OqJlBzE0PiDZGU62UFt/B3DkI8sDS2Wmj0vqiCH3j73CMWeeCNWdTHesVuB/lJ2s9TbtLpkX7Njw/2t1CjzDdm/wJ8QIgd2GPqgD8lozAulMeX7tyQNzZYveZUuevuWWo5QuxS3Vr2Q9TtPgAxzZbyieikX8grSDkb0D38S4oflfI=;qM8VQdxbNYDEfyvW1xbc4g=="
 ---
 

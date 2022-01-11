@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management,"
+excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,"
 publishedDateTime: 2022-01-10T15:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-supply-chain-market-size-worth--14-3-billion-globally-by-2028-at-20-17-cagr-verified-market-research-301457252.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-supply-chain-market-size-worth--14-3-billion-globally-by-2028-at-20-17-cagr-verified-market-research-301457252.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
 type: article
-quality: 23
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -33,7 +32,7 @@ related:
     provider:
       name: WFMZ-TV
       domain: wfmz.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/619c685a7b1c3.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
@@ -54,6 +53,6 @@ related:
         height: 400
         isCached: true
 
-secured: "cI2d945j2wEhPxrYVLGuz0IEAPaYE22EGnlxgV33wJOtPd/+3V+sVSEhUkhM+pqS+32C9cvZucR2U6G42a1CbHYxUxtYZRzh9EC8e6Fw6zzzHHMNRDX7XxY7gaUL05w6mytmV9bRNGBAF6nyJfc8kdySJYIofTepqM71lWGPUDijHrp93+++EG2linuVA6h7cQj4rEbEF7Y1CMxaeW7CgK+Lp3anqHfJoO+iDe2yc7kN/QB1NwEtdf6AbpSdTu+z7n3uvOAjszMNjEyCPvapATk7Fe8SNTUxDsJYezJPHMNvCnwVTujRMRcF0Drtp72hFXGNikbPFa8+oEChmN/+7y8CYvPAlV5L/aJM2pa+XBq4aLMOqAcFSV0/SLGFLY2sP71PH6CRhhyEnJIba1nYFwlPsZ10DEu1M3IBNnvUIzGkY4Zmv5EMVQiu0wfkG98U27Xqp/T0w96zIPAK8HCBOsKu6p9++F5gyFNKdK3UGsd36NjX49mq6yDPxu+TkKn1O3QgbDIdHhawOiQfMKxcYw==;i86GX6jjyl6w4qLgpq8KEA=="
+secured: "FQG73FhwzlxaC6jM8Zy/UvuFtm77nt68lh/nbOCI3HYInW/VdTJb0kMG42VraTpBMbXHjOsijrV8KmihorB4SiyGIyrOcxPTD9HPK3mUJ1rKUYo69imC4ivPxrZzBPJYV1LcYUnm3Uw4ZJ9gbN9HLqjTgXmxDlgY/m/rZNJvnwnzUV5zaXRMuubOxYzk0hpZBGk9vb9h5Mg5gtEba4LMca0+JrJvvMCjXyMs07njIPO09bRQhT8CBKZv9gaWwsRKa1VdxquG+DirTnBYpCb47PjUSrIVcWFC6lxphA+4a8Idkmukxew31JCmyTO05sHGQxUzKEdnJHO1Tr7JXy1HsNrhdDss5MkZA9XtUXfAZQo=;E41T8PKBTIjLlsQfDcFxvw=="
 ---
 

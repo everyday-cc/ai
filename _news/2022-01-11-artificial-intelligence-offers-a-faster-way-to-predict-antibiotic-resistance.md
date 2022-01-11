@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-faster-a
 ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-faster-antibiotic-resistance.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-faster-antibiotic-resistance.amp"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2017/antibiotics.jpg"
@@ -25,6 +26,6 @@ images:
     height: 1000
     isCached: true
 
-secured: "rttcRG3tvqmrE94/TPz59/mMrVjZODoWkJRcIKu1Gb1+K6EgZF/yDr4zEr+WFhwTGsHhX/TjBUm2KOK2u/uKaOEhvZ5J1Sp3rKISZU9HY5H6pLsHJrZ8inxyQN+QG+AoP41XvBcgQU5AKdX4EeBwu7G9uk/q2yaItzJAooF6czDkNfh8CU7TRg55XEbn97xXM3RhSLoGZjq9jwzkaHyQKFALjBGKYIKWYXpUm8KaobR5wm/th5bpiMKQJzb1KIF7FsvuMpidQNIAjp6DTLZZUXlqGnzXiCoWnhJ4I+MXEej+2WKlAnfig/FEG8+3tUHo+TJJ3Wd+HIiGb2xVDm6nr9glPevS4v5E6dEsTijbLKw=;ycGkmQEY17H3k/xrmvkf4w=="
+secured: "/cOaen1OAJYPDFP5T0qOsD9gb/PPtw+OJlAnYfFKiTR7udZ26tzFPjx4ferdWR+5Kis1zUpZZ8hoyus3EZk6hyj9PMG3LTjPQA0GGCU+mj05KFMbjUl7wsk85ULv7H07lakbYbgSFU+7x7UWyS9Li5FZb/C9NlEOIkQ899Pectjn96HMVpR1b68z2hOT4VBWE38YIRLcShsXeflSTQhFClEhqsGjYqauqEsXAHj6KiZrQ/SpLCx+5PBdh+OIc2VtLBZGBYLrka/AclaLgQkyew9+NWyIpCeinCWQ7NTY4lURO0w0aoQgb0AQkeVRyIDsYrnjNmqtKaWPdygIUXj5IKIJH2IneCsqRQApOOz1kEgpUw1ddYSS5Cd/OLn7b650Ro/bN9RyO4mMDOIJ+/hUsP4vfoJXBLCtmoIyhyfHQ3V1O3JXvD3j0zL11Bx53JHIto4PNx6hluTiC+qCN0K3aAYLHI6OPSBDYZ0TyFqHHP/NFPfLIr5lGG1rAQTHIKJCLEqssKs8Xf2u3EKY9wPeNQ==;9SPjCOm/V+aeh//CF1wITg=="
 ---
 

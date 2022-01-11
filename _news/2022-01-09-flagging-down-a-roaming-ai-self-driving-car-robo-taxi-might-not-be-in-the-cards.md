@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -71,6 +71,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/01/09/1437655.jpg"
         width: 1240
         height: 827
+        isCached: true
+  - title: "Can a Self-Driving 40-Ton Truck Be Safe? Developers Say Yes"
+    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
+    publishedDateTime: 2022-01-09T13:30:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-01-09/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 54
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBygXLUj_8n4/v0/1200x801.jpg"
+        width: 1200
+        height: 801
         isCached: true
   - title: "At CES, auto tech alliances firm up in the self-driving car wars"
     excerpt: "Mobileye, Qualcomm and Nvidia -- emerged at the CES in Las Vegas in locking down the brains of self-driving cars for the next decade."

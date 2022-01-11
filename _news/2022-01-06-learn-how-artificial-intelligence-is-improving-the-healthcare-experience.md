@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-publishedDateTime: 2022-01-06T15:15:00Z
-originalUrl: "https://www.lelezard.com/en/news-20181152.html"
-webUrl: "https://www.lelezard.com/en/news-20181152.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+publishedDateTime: 2022-01-06T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Using AI And Machine Learning To Improve The Health Insurance Process"
@@ -40,6 +34,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Finding Love In The Midst Of Algorithms, Artificial Intelligence And Data"
+    excerpt: "What sustains the thriving business of love? What has made these apps, agents and companies who broker love, such a success? Here is what my experience taught me."
+    publishedDateTime: 2022-01-11T00:44:00Z
+    webUrl: "https://www.outlookindia.com/website/story/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 56
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/articles/2022/1/10/Untitled_design_(3).jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
     excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
@@ -116,6 +126,6 @@ related:
       domain: wolterskluwer.com
     quality: 17
 
-secured: "SjntonX2wmzK1u1G8jI7eOClBtahlddPgKvUA0nm7XkQx48/+4bnXzDqbni24Hs2ElYSxPYsUWh3Ewwrw/Qs9aOAdCGyqQkoC+1nQW7vWJscHJh5RpYUVtc7QNtqXEAl1LABxGDageaLYRTlPsiLBqmqsdwHMLeuUx53ZDFztwr5WSBP6p5kTaK/Am/3PcsuPO2Ub90PCIeUDWKgqf+ycH0bG/2SiqufsGWnE3K0Gqout2+Vhhw+s69J6oy4DKhWHC4+V8IfIIH491iCYpWUg4Uym7jUTbJ0nirM+7Dm0iZp+jKgwLS7rYUdQVegBh3NTGH6ozQeaG4iVC7g6zR62RjhyIpqOc/mh0PCOToGXaE=;zd7DMVUMIWDlHCDTqhENcQ=="
+secured: "eT6juJX4P0/h7g7i62jPjp0onSBVdl0vXa8QWumw9FyU6B8PR4QuQohIvfBl7OD7AHaRRq7EapZEuDDbhIzY4XnxsSsNLpDoy5dKDXAa6eoaeC3IdoKBLMbH7+KCzQhpjpk4P5xoB0OEsxWuprL47WofdAPN2cAgb3oWZxfGhToB/3cqhbk9HGpPoG4QsqnPvRyrREfvI6Gd5rvH6wmVi9QhZBL/a4dmerYT/71qFZkPvVrjHSPJ/udcMGB4er/9u98jkiLE8eoCwrWnLi0REMmExSF6ZFEgHSOHKTP4n5K9C39mMbxvn4iQUEJTii67v3ZC+Ww62kH/07ymoVRLXLbDmVkJOVrETjhJ7Ke7OM0=;J6d4gocKsBEhxa8xVvT8/g=="
 ---
 

@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Robot Market Size, Share, Growth, Sales Revenue and Key Drivers Analysis Research Report by 2027"
-    excerpt: "Emergen Research Logo The rising demand for warehouse automation and the increasing adoption of mobile robots in the manufacturing plants"
-    publishedDateTime: 2022-01-06T07:42:00Z
-    webUrl: "https://menafn.com/1103496435/Mobile-Robot-Market-Size-Share-Growth-Sales-Revenue-and-Key-Drivers-Analysis-Research-Report-by-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?532764"
-        width: 445
-        height: 250
-        isCached: true
   - title: "Speech-to-text API Market Share Forecast, Growth Data by 2022-2025 | Size Analysis by Top Regions, Sales Revenue and Regional Segments Analysis"
     excerpt: "Global “Speech-to-text API Market” Research Report showing qualitative insights on business developments, presents,"
     publishedDateTime: 2022-01-07T09:19:00Z
@@ -53,20 +39,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
-    excerpt: "... of the key players offering cognitive services and Platforms-as Service (PaaS). The major cognitive service vendors include IBM (US), Microsoft (US), AWS (US), Google (US), TCS (India), Baidu ..."
-    publishedDateTime: 2022-01-10T12:45:00Z
-    webUrl: "https://menafn.com/1103514261/Cognitive-Services-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?957437"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "EFnC1fBn+GpYNBgd1fJ0tkx4tHmzw168IFZBAShhSaXk/+M0u0uhKm83kbF4vuWz4bgPdUgW4dVHaAwjpLfyLMK8FqWqkipaC1OicajCQXHiAc+BeE57wrtPNdrpF5PCDIPkrJneHOoaYtOtydkiVIilDsGA+AlsMpR2jTXH30iPNxGtywuQUEzfMFWa42aOL3wFKg6MCQQQW6VtAnf/xqQ2gpix9V2XqqRX2TalcbezPTn2lZdfO5nKREC22TZocT25PRxt8udedW2ys/xGveUeAwEPXPyrKz+Iyhpl9jsTZv1OfStxqagedSRn46rm3UdP3dthis2QodX7jNvaBhRVDiMMOrRBAe0RUxYXGQY=;9TlTev4T/HycBFZz4yLqPA=="

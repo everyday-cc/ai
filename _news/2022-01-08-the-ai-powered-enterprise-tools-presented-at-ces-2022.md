@@ -61,6 +61,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "DEEP Robotics’ Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
+    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry’s annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
+    publishedDateTime: 2022-01-06T14:45:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-china-asia-robotics-367ae93a9f70b62ab37261b1a4597fea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 54
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
+    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
+    publishedDateTime: 2022-01-07T05:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=596509"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 54
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
     excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
     publishedDateTime: 2022-01-06T16:01:00Z
@@ -90,6 +118,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2022/01/07/USAT/2b6a08d9-7ce8-4a07-9ea0-90a298e2b917-ameca-robot-horiz.jpg?auto=webp&crop=3010,1693,x13,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "CES 2022: There’s a new robot dog in town"
+    excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
+    publishedDateTime: 2022-01-07T14:00:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17625/ces-2022-there-s-a-new-robot-dog-in-town"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/625/17625/Jueying_Lite2_on_2022_CES.jpg"
+        width: 752
+        height: 552
         isCached: true
   - title: "CES 2022: Best concept and self-driving cars from the show"
     excerpt: "Concept vehicles are a staple of CES 2022 and while this year’s show suffered from a lack of attendees due to COVID-19, the concept vehicles and latest self-driving cars still made grand appearances."
