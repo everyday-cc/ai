@@ -58,6 +58,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "SoftBank invests $146m in S Korean fintech firm Qraft Technologies"
+    excerpt: "South Korea-based AI-enabled fintech company Qraft Technologies, Inc. (Qraft) has raised $146 million from Japanese behemoth SoftBank Group Corp as the company carves out its expansion plans in the US and China,"
+    publishedDateTime: 2022-01-11T04:24:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/softbank-qraft-technologies-276891/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 39
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/03/softbank-e1635444254685.jpg"
+        width: 1024
+        height: 517
+        isCached: true
 
 secured: "F0KK5AVnBm+7Ox+alNS3hztWAEMWELj9PYbC5cJxwRkEbVbXAPY8UQgnT4hiyhxJ7oCmbuzUENuz89LZ8sHsWMrMjx/ywsyuepnQb3LFt7dLDyC904UuzfXuXKyZDeVw6BolPbsBvNrvOeLElFr6FIfKZyFUK2RKN0xUwEs3iNhfP8XKBayh8z5dXvJJsQMdusyYBrOCL7wLXdK0yu2Sgnkrlo8cJZgP1KPrlirrKdAHnftTSu1Ky6SD+dt3vzBgOJSFjT6h7oS/iu82C/B0Y4uY1ijJMU0F7LFfBdud6yrpsvMi+OHgeVi18TPxGdTpjBDP9Qkq8uXW9/daSnvUGWhSX014lXDy68CRaQvqyXY=;oodUcY8uO5svg5xu4dKhSw=="
 ---

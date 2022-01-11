@@ -24,22 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "Chinese scientists build factory robot that can read minds on the assembly line"
-    excerpt: "Trained robot monitored co-worker’s brain and muscle signals to predict needs, China Three Gorges University team says in domestic peer-reviewed paper. China is in dire need of more powerful robotic technology to address its problems of a shrinking workforce and rising labour costs."
-    publishedDateTime: 2022-01-06T12:07:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/06/chinese-scientists-build-factory-robot-that-can-read-minds-on-the-assembly-line"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 35
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/06/1433749.jpg"
-        width: 1240
-        height: 697
-        isCached: true
-
 secured: "DYFI/4G7Z7t9Mb9mOmZcY4pCkgmJ7LDHbyNJ9gspvWDJ5ci2SQkeXtDvBdC3GRshqC66b4hHtZYlohpghlxIl4VsHoxVVOMkiK2E1pyG4PHeHy6T4HJxA1k1h7hMi2OceZcMIVPCCrdWtTUhAta6tQ2SruOyg+WLfNHUNgDG4PUqMrs6Rj+pEaosjsl7fCTOfEtfDT16VnDbTxZpKiYT7MosvSvDe3KrvicYl47KChV2P4zjmNMkK+nHhcJF/aYhlbr3fswrSPsqxuGRVun4fQOLJXGihEnltKUW/Gw0wWgxDUOYHFF3JidLh4YH/rq0Nqw6l/vJEcSgulU2dxgm9lTy5bXAHLi0KeIN5XfGDGk=;aHp8obcVaXdnb8yqknV6Pg=="
 ---
 

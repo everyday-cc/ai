@@ -69,15 +69,6 @@ related:
         width: 603
         height: 394
         isCached: true
-  - title: "SparkBeyond Discovery Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Today SparkBeyond announced the availability of its data science platform for supervised machine learning, SparkBeyond Discovery, in the Microsoft Azure Marketplace, an online"
-    publishedDateTime: 2022-01-06T13:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/sparkbeyond-discovery-now-available-in-the-microsoft-azure-marketplace/article_f5efd05d-d42a-55f9-8e58-b4adcf101572.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 49
   - title: "Qatar - Vodafone, Microsoft boost strategic partnership"
     excerpt: "Vodafone Qatar and Microsoft yesterday announced that the companies are building on their existing partnership in order t"
     publishedDateTime: 2022-01-10T09:55:00Z

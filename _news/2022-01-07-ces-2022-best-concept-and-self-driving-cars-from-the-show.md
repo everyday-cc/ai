@@ -143,6 +143,20 @@ related:
         width: 752
         height: 552
         isCached: true
+  - title: "China's service robots under spotlight at CES"
+    excerpt: "Many leading robotics firms are from China, and this year's state-of-the-art robots from the country on display at the CES put an end to the outdated litany that Chinese companies lack innovation. In commercialized service robotics and artificial intelligence,"
+    publishedDateTime: 2022-01-11T02:52:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202201/11/WS61dcd9f5a310cdd39bc80424.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202201/11/61dcd9f5a310cdd3d8260a6e.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
     excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
     publishedDateTime: 2022-01-08T02:00:00Z

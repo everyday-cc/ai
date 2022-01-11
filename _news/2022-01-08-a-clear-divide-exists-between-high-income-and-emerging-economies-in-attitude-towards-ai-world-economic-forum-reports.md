@@ -25,22 +25,6 @@ images:
     height: 810
     isCached: true
 
-related:
-  - title: "Potential uptake of artificial intelligence tested in World Economic Forum opinion survey"
-    excerpt: "A new survey commissioned by the World Economic Forum shows that 60% of respondents believe that artificial intelligence will have a major impact on their lives, and that this can start happening as soon as three to five years from now. The survey was ..."
-    publishedDateTime: 2022-01-06T12:18:00Z
-    webUrl: "https://economist.com.na/67197/technology/potential-uptake-of-artificial-intelligence-tested-in-world-economic-forum-opinion-survey/"
-    type: article
-    provider:
-      name: economist.com.na
-      domain: economist.com.na
-    quality: 28
-    images:
-      - url: "https://economist.com.na/wp-content/uploads/2022/01/Column-Energy-440x264.jpg"
-        width: 440
-        height: 264
-        isCached: true
-
 secured: "VqaFo8VI65An0TtTR9ZFrpCCCaMXCVPB/taQxA5jGLVlltzE57ve7kJHd8E9YMVffKEUW64ddA6jIPVKC0z5Svlx3INmWjd0A4qQcImVInztf0ARXIH1gvDgOIZs5sPpL2QXAwtf9wDRY3DuvtLVzYZnKsBQpSHsTni/s0/Of3jJELOl1a7mGypjpbh2GWUJdHXCbD3jNtgQqNjfqAqNkAiE3zk2v9/2VqW0cADUdnBI0zE7jJpIO2MWtsxuICbd90w+k/c/8LoBmAiBqP0DGE+FSKLAffCJaEqPv3BZbmnIhanrQ0cqrVZuCEMJjbX6Xk0giex+mXx4Bwc4AtYQixBe4QgfrJAafE4T4gvxX7ok1Dd958+d9EryhxhrFlHsBKgpntWOsKcF4biwSfHt20I6/6CdwFMMgPug6fv1/8AeviQsZFxqaGvJDUOqbbD5AKd20if8OrY4JuNULlczrzryqcT4OclOdFpkNbzHQkNibbrcmPtJH8HKwZ069MWfeiN/JnkyEJQJcFEftjc63A==;4PhpRTze4tpL2uPJhG1xmw=="
 ---
 

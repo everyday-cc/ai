@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-featur
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/volvo-concept-recharge-1_2.jpg"
         width: 1280
         height: 719
-        isCached: true
-  - title: "Volvo to launch self-driving feature in California"
-    excerpt: "Volvo Cars and self-driving sensor maker Luminar Technologies plan to release a hands-free driving system called ‘Ride Pilot’ that will debut in California."
-    publishedDateTime: 2022-01-06T12:29:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/01/volvo-to-debut-self-driving-feature-in-california/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/17410/2022-01-04t144149z_1944669228_rc2esr9xcrek_rtrmadp_3_volvo-cars-ceo.jpg?crop=0,0.23853879292805991,0,0.26927370707194004&cropmode=percentage&width=1200&height=450&rnd=132859435290000000"
-        width: 1200
-        height: 450
         isCached: true
 
 secured: "bi6suLqdKV7a2cl/Ta7Ap6LmT2+b6JJJDtRyGM2fk+HR/0M9haduBtBtLpI53+olSi3NChlQ9fL9f0HDEZcBKVd0lEHE5E7i7gh56SsbF6gVGiJ+70CaiycSO4zUxtyLXR1WIx3JO/tfP4EkrgspEoOK3jI5FczSTmL1OHuuSFhKKmQKuN2DogwWEDFBiQL2di54u9HzeGbh2VQl4RTqZG6vuxb/tZhZhUSnWtgtyeXiTx9TY4O7D/wSM8mx6DiSWEPaCpvLIIe668VUUwic8ka5Pxhx+tcZmgVNQRaZtDQKqYjTxS12WQWkdHlx4JCBgSzVeVnySc65tBww5rWs11h7ReuH5VpOwLcAU0DbNsw=;iJznk/r3OvvGfHQVmSeojg=="

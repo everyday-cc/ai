@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/100744258"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100744258"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjgyNDYyNjUzMTYyOTE0/john-deere_2.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
-    excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
-    publishedDateTime: 2022-01-06T11:12:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10374683/amp/John-Deere-unveils-self-driving-tractor-controlled-smartphone.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 7
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/01/06/11/52610271-0-image-a-15_1641467772637.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "fWkxkZ63/8dMjdMpLuigyAa2Q8lA2xOagTzl9YgciANNVImIWhK2inbOVrzCnHVzMB95lqPVIVHLP75blzQqhQuMmaDEhtDyd/QmNTl444FV0xfJtoMmMRQXrYh429rIxhr0vWXPVAdmBtZRldW0ld1Mi01E0OFp10eW/tSHxKWJMlE8NK2bSG6VPNwF5FpDPqbaqvFRxNdf4s5GlGTOVoAD3yAZeFOtddEwk9GIaYfr13OvMvhEgN18WCuF9c4SrWCStetR8EvXFFBBs/CEzsIhk2vVNv3NrXMuNzTL7RSsugYV6gwtckMyHETSL+4F6bN/oa/qbw6JKxQ9CACGXglLXAgoQsYQJ5vNZR3ACc8=;2w3BmERZPk+ErVNb1NDzjg=="

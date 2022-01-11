@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "China's service robots under spotlight at CES"
+    excerpt: "Many leading robotics firms are from China, and this year's state-of-the-art robots from the country on display at the CES put an end to the outdated litany that Chinese companies lack innovation. In commercialized service robotics and artificial intelligence,"
+    publishedDateTime: 2022-01-11T02:52:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202201/11/WS61dcd9f5a310cdd39bc80424.html"
+    type: article
+    provider:
+      name: China Daily
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202201/11/61dcd9f5a310cdd3d8260a6e.jpeg"
+        width: 720
+        height: 480
+        isCached: true
   - title: "CES 2022: Best concept and self-driving cars from the show"
     excerpt: "Concept vehicles are a staple of CES 2022 and while this year’s show suffered from a lack of attendees due to COVID-19, the concept vehicles and latest self-driving cars still made grand appearances."
     publishedDateTime: 2022-01-07T13:55:00Z

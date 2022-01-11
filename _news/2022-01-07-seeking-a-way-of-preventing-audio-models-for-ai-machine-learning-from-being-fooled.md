@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-01-audio-ai-machine.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lior Cole Is The Model Combining Artificial Intelligence With Religion"
-    excerpt: "Last Fashion Week in Milan, Lior Cole headed to the National Museum of Science and Technology of Milan on her one day off from walking runways. A science buff studying information science at Cornell,"
-    publishedDateTime: 2022-01-06T11:25:00Z
-    webUrl: "https://www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi"
-    ampWebUrl: "https://www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi/amp"
-    cdnAmpWebUrl: "https://www-vogue-co-uk.cdn.ampproject.org/c/s/www.vogue.co.uk/fashion/article/lior-cole-model-ai-technology-robo-rabbi/amp"
-    type: article
-    provider:
-      name: British Vogue
-      domain: vogue.co.uk
-    quality: 57
-    images:
-      - url: "https://media.vogue.co.uk/photos/61d6c6d7ea688ceb329b3f28/master/pass/lior-promo.jpeg"
-        width: 956
-        height: 956
-        isCached: true
   - title: "UST Launches UST AiSense - an AI-led Sensory Solution that Makes Hyper-personalized Shopping Recommendations for Wine, Beer and Food"
     excerpt: "UST, a leading digital transformation solutions company, has officially launched UST AiSense, a cutting-edge AI-led solution powered by Tastry, that provides personalized food and beverage recommendations using sensory science."
     publishedDateTime: 2022-01-06T14:39:00Z

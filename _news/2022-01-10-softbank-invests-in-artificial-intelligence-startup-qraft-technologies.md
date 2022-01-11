@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-inte
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
 type: article
 quality: 72
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://images.livemint.com/img/2022/01/10/600x338/DELHIVERY-IPO-1_1641817041330_1641817057832.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "SoftBank invests $146m in S Korean fintech firm Qraft Technologies"
+    excerpt: "South Korea-based AI-enabled fintech company Qraft Technologies, Inc. (Qraft) has raised $146 million from Japanese behemoth SoftBank Group Corp as the company carves out its expansion plans in the US and China,"
+    publishedDateTime: 2022-01-11T04:24:00Z
+    webUrl: "https://www.dealstreetasia.com/stories/softbank-qraft-technologies-276891/"
+    type: article
+    provider:
+      name: dealstreetasia
+      domain: dealstreetasia.com
+    quality: 39
+    images:
+      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/03/softbank-e1635444254685.jpg"
+        width: 1024
+        height: 517
         isCached: true
 
 secured: "81kEcW5H9h3URjDRAC9NDUOtEH5yFk486n91Sb7klAFeIe2bhRuA2njOlbuiMgnphJj0TjiijniogIVNukRm4FvUOp6rjESnLV8edZYIQZ7O2nYolkpAXN7Oao5/D8MLW5lKJI8cWCARlkWlUhtuSpAWc8vjW8osaUKSxuqn/U9doBwkg2S0+nPKs1eW81yERPhq+Diel6supWA/QiwP0hUkfr0+0V6ipJk0Eg/xf8reuHyhwZARQcgOQU32lceePBj6diu0xuJX0D6aw/negKmVwA3hhjMM2az92E939dKXU7PVy6zNLJ0UpNzQnLCmXCZLl04iw8OPvfiB7fwyHKO91mM3AVuMYgZ/aCj8TAE=;9c4LD5OLJAaaHdYX6RIQDw=="

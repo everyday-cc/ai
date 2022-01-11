@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Volvo to launch self-driving feature in California"
-    excerpt: "Volvo Cars and self-driving sensor maker Luminar Technologies plan to release a hands-free driving system called ‘Ride Pilot’ that will debut in California."
-    publishedDateTime: 2022-01-06T12:29:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/01/volvo-to-debut-self-driving-feature-in-california/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 24
-    images:
-      - url: "https://eandt.theiet.org/media/17410/2022-01-04t144149z_1944669228_rc2esr9xcrek_rtrmadp_3_volvo-cars-ceo.jpg?crop=0,0.23853879292805991,0,0.26927370707194004&cropmode=percentage&width=1200&height=450&rnd=132859435290000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "PsYphGXosejAHd4SaX8C9R/d+zw7fX/QdT9DpKfm16qxEHOSMQR+wVRI2kAi14UoPRjMxAWEH1DpfgiA48cKh0aPSjQW7S2ti0E+3nvJ68tRDXayLQlOc/BCAFRaVyIAR/Tag+szfH58fBFQJn0GcPFAdbu5Ioxt7bbL+rBH5/qDKSRXCOwn5fcG5PVJYt5SmxpGl/8AcHd5/IAm8cHV0Brj7EeCRhkYjHhW3j/WD4FsVh5GFHhVuBljDVlsXk6xP39InH+ieZyM6/MMOGlaFOLQPSRTAmK9LMyjAJuA7GVyaL+PUdBHYQDcjYXHHhv/jCQw5V9pjpJmOqdtOsZcPnDlbJS5lLMn6wo1svhUhpk=;ecjAVZ8OLaJBNjF1AzMOLw=="
 ---
