@@ -62,22 +62,6 @@ related:
         width: 799
         height: 596
         isCached: true
-  - title: "How Machine Learning Observability Helps America First Credit Union Stay A Step Ahead"
-    excerpt: "America First Credit Union's Data Science Manager Richard Woolston shares how his team taps into machine learning observability to help ensure speed, inclusiveness and a great customer experience."
-    publishedDateTime: 2022-01-06T15:04:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d70f8b8bfed47184299df6%2F0x0.jpg"
-        width: 500
-        height: 343
-        isCached: true
 
 secured: "GBEvvuUHVxdBcYSIiFhpg55k2XgTHanTL4Nm4yrSSZ9spJSSxZ+BOKm24AyX2NiKLywHSk2yfwuMfDPitMghITTs3oKxQp8fCJFjbrP9jvibWIq6GcCZmon6ugh1Snvp/ImtYnA9j63ZArOIZeVW5nxY0986pYr9UU7ZitKqoMHEUbmDQ6LhkYqSRH3vvF/mr254ZbJBcPlLMqkZAUAhH1qjml+GkRlYtUzlPJDzMDpoe7hNLEtJUl1cdcRIAZM9yfDDXgGUlQVXqfmJtKCmw6RjAkWd9fSvDP1v7BdPHa4/o4iaDiHEEqFm4yEsBbpbObga24xKDV8ws9UdlL6OrSRpfe2cyuQ20yHLssXicD0=;F+ycrQOKmrDHaB/nYWlhdw=="
 ---

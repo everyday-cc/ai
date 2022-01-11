@@ -53,15 +53,6 @@ related:
       name: Japan Today
       domain: japantoday.com
     quality: 21
-  - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
-    publishedDateTime: 2022-01-06T16:57:00Z
-    webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
 
 secured: "FV86MRb85Ut5b7AzTRm9Xjbgq6QQMRMhjAzINU34PxjSyqOE4fBMDqTRq5hS2FfOp35XRIjRkuEvQtvSCyKQ1z8QwYtDy3NmlwE/Yl1ZJ8szZZNzkvkCBdOZxjUZxBAljthP9NGIYqeWhSoYzJ88Q8121jEVL4rzr/G6vaAkFJRUv+V877jNLTTmTMxpYK/oIbeBfhntwkf5LoU7fI8GWiaQlu4vyaO7O5QyvUzhvQn7mhWN6Q+CdvbX52Kbq2ZHPcY5UdExMdnf7LBjmfrbb6sYfJOp6U3jz1gUPilDmkAtTq6UcHYVHdslYjftF+Y2sNnl/W6dt2YasJnpDG/t6/g12NOKVRKtL46fVCy8fhI=;wXkZzGoOjOcPVOvHlwBigg=="
 ---

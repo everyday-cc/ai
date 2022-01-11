@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/ai-could-revolutionize-health
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why 1 CMIO thinks AI can't revolutionize healthcare just yet"
-    excerpt: "Despite successfully integrating some AI platforms into his practice, Brett A. Oliver, MD, chief medical information officer at Louisville, Ky.-based Baptist Health Medical Group, isn't convinced that AI is in a place to transform healthcare."
-    publishedDateTime: 2022-01-06T16:53:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/why-1-cmio-thinks-ai-can-t-revolutionize-healthcare-just-yet.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 54
-    images:
-      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "An Unrealized Revolution: Artificial Intelligence in the Chemical Industry"
     excerpt: "Due to the Covid–19 epidemic, which dominates today and has not yet gained complete immunity, many sectors have suffered from different aspects. Each industry, which suffered from this situation for various reasons,"
     publishedDateTime: 2022-01-08T13:47:00Z

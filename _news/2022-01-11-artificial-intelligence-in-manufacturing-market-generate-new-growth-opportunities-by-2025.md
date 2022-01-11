@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-11T05:51:00Z
 originalUrl: "https://menafn.com/1103517811/Artificial-Intelligence-in-Manufacturing-Market-Generate-New-Growth-Opportunities-By-2025"
 webUrl: "https://menafn.com/1103517811/Artificial-Intelligence-in-Manufacturing-Market-Generate-New-Growth-Opportunities-By-2025"
 type: article
-quality: 28
-heat: 28
+quality: 30
+heat: 30
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://menafn.com/updates/pr/2022-01/11/EP_3c611image_story.jpeg"

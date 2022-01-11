@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-pac
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
 type: article
 quality: 89
-heat: 369
+heat: 379
 published: true
 
 provider:
@@ -405,6 +405,20 @@ related:
       - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Aviationtransport_122_menafn.jpg"
         width: 512
         height: 341
+        isCached: true
+  - title: "Tesla's Full Self-Driving Beta Might Just Help Drivers Perform Rolling Stops"
+    excerpt: "Drivers using Tesla ‘s Full Self-Driving (FSD) beta can now choose between three different driving profiles that will determine how the car will react to various situations on the road. Tesla is offering a “Chill,"
+    publishedDateTime: 2022-01-11T08:03:00Z
+    webUrl: "https://hypebeast.com/2022/1/tesla-full-self-driving-beta-assertive-mode-perform-rolling-stops"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 36
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-full-self-driving-beta-assertive-mode-perform-rolling-stops-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
         isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ Will Jump to $12,000 and the Only Winner Is Tesla"
     excerpt: "The change was announced in a tweet thread by CEO Elon Musk, who declared Tesla would increase the software's price from $10,000 to $12,000 in the United States on January 17. Musk added in a reply that \"FSD price will rise as we get closer to FSD production code release,"

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),"
+excerpt: "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc."
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
 type: article
 quality: 39
 heat: 39
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - Microsoft AI
+  - Google AI
   - AI
 
 images:
@@ -24,6 +24,22 @@ images:
     height: 1044
     isCached: true
 
-secured: "c7GpVguCwWe303OuFGuAqixfspsBXl6lR+kLmMhFRvEKH0ZU2IJocwaardC7Pmal6pDknx+yzkRedICJyJgcCwiH51u1A0P+fsP6+1WJ7ikKoJCkBoD79Qad7hB3qyGt+7zVDH3Lzdx5wO4CEKNFDujxReSRY3MP1sUYKCApT1len4x4Q7IJHz2SNK02IPwls5M0ErYKjqQ6skfw2Tcn0hl9QirS90ClVc713roR24aVA6wjTsroDRZIC9BhDk0n0MYHLpz3VIXhPe2PC2sz3M2DRu+4u0r6S+Zf8t2EW95bKKn38m2d70oUjdVxx9YPzyEujA2sWATdu/dwo0aglcQxwvDzVrWo5C1P/dmjjTw=;SNVTkOwh4+BmcxqrR69v5Q=="
+related:
+  - title: "New incubator for AI collaboration"
+    excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
+    publishedDateTime: 2022-01-10T06:01:00Z
+    webUrl: "https://insights.globalspec.com/article/17993/new-incubator-for-ai-collaboration"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
+        width: 640
+        height: 382
+        isCached: true
+
+secured: "0f/U3sdV+EbKOHrpJQcvmmhmB/sBj1rWoT5zKCleVIvd3yyqKJC9+0IDiI3BfIcon52wd36q9cOchyK9vQiHOnkHezDqcA8+u8auEZ0Oot/ncHgZ2LYBsQlajur+83YZ7dWX8RBCd/WMhEk8kbDXDqUPIfp38/hvGibqJhDAPT/AgIMkLdpZUqSnx4LCB9gBndBnAWJyKf8htflcY/N+IE6Uq1B4Uy4ZaGRSeso6E1vFQZII0TqePuMzvRMYZlgwAQL0WIFbVs/477W1naA5E8cBuOOBnNUj3qwWCM3OcL53Ifdk/2XB9nJxvIp5T3YPcK4VWsYFe16XopSL4Z1vRAdGvJbmRqBAglDtPzLmJBk=;fkAmrVEIog7thVm2enRzmw=="
 ---
 

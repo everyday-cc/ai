@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-inte
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
 type: article
 quality: 72
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "SoftBank Makes $146M Bet on AI Firm Qraft"
+    excerpt: "One of the largest tech investors globally, SoftBank, is investing $146 million in the South Korean AI company Qraft Technologies to help it expand into the U.S."
+    publishedDateTime: 2022-01-10T21:02:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2022/softbank-makes-146m-bet-on-ai-firm-qraft/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/softbank-makes-146m-bet-on-ai-firm-qraft/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/softbank-makes-146m-bet-on-ai-firm-qraft/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/01/softbank-fintech-investment-alphacredit-457x305.jpg"
+        width: 457
+        height: 305
         isCached: true
   - title: "SoftBank invests in artificial-intelligence startup Qraft Technologies"
     excerpt: "SoftBank Group Corp. is investing $146 million in Qraft Technologies Inc. to gain access to the money manager’s artificial-intelligence tools and help seed the startup’s growth. Qraft, which manages $1."

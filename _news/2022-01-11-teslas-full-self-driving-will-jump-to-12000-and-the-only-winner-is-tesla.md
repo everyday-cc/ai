@@ -416,6 +416,20 @@ related:
         width: 512
         height: 341
         isCached: true
+  - title: "Tesla's Full Self-Driving Beta Might Just Help Drivers Perform Rolling Stops"
+    excerpt: "Drivers using Tesla ‘s Full Self-Driving (FSD) beta can now choose between three different driving profiles that will determine how the car will react to various situations on the road. Tesla is offering a “Chill,"
+    publishedDateTime: 2022-01-11T08:03:00Z
+    webUrl: "https://hypebeast.com/2022/1/tesla-full-self-driving-beta-assertive-mode-perform-rolling-stops"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 36
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-full-self-driving-beta-assertive-mode-perform-rolling-stops-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
   - title: "Tesla’s ‘complete self-driving’ software will cost $12k, according to Elon Musk"
     excerpt: "Tesla CEO Elon Musk has announced that the company’s “full self-driving” (FSD) software will now cost $12,000. Musk said on Friday that the higher pricing, which is a $2,000 increase, would go into effect on January 17th for customers “only in the United States."
     publishedDateTime: 2022-01-08T10:20:00Z

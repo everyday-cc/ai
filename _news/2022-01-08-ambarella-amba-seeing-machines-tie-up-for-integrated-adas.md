@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/412098"
 webUrl: "https://www.entrepreneur.com/article/412098"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -29,31 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambarella (AMBA) Unveils AI-Based Image Signal Processor"
-    excerpt: "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)"
-    publishedDateTime: 2022-01-06T15:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor"
-    ampWebUrl: "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 71
-  - title: "Ambarella's Artificial Intelligence Image Signal Processor (AISP)"
-    excerpt: "New neural network based ISP enhances low-light and HDR processing by up to 100X compared to state-of-the-art traditional ISPs"
-    publishedDateTime: 2022-01-06T16:40:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/video-analytics/product/21252265/ambarella-ambarellas-artificial-intelligence-image-signal-processor-aisp"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 54
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/ambarella_AISP_technology.61d719e523321.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Ambarella introduces new AI-based image signal processor"
     excerpt: "Ambarella, an AI vision silicon company, announced its new Artificial Intelligence Image Signal Processor (AISP). Ambarella’s new AI-based ISP architecture uses neural networks to augment the image processing done by the hardware ISP integrated into its SoCs."
     publishedDateTime: 2022-01-07T08:53:00Z
@@ -67,20 +42,6 @@ related:
       - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef02788064de4b200d-600wi"
         width: 600
         height: 308
-        isCached: true
-  - title: "Amberella Unveils AI Domain Controller SoC for Multi-sensor Perception in AVs"
-    excerpt: "To accelerate efficient performance in autonomous vehicles, the new AI domain controller from Ambarella promises robust single-chip processing for multi-sensor perception in an advanced driver-assistance system (ADAS)."
-    publishedDateTime: 2022-01-10T18:30:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/amberella-ai-domain-controller-system-on-chip-multi-sensor-perception-autonomous-vehicles/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 36
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/amberella_cv2_domain_controller_soc_thumbnail.jpg"
-        width: 700
-        height: 300
         isCached: true
 
 secured: "0waXk/tXCe91ebMpGJi9SYhIyZRQLvaVdcNZ8tQMHxqJhWVrL7M4wjvyhZXkZDarK5G5YBXILDJPnitJfSaKOcDjeOhroSKwJccyZZgreu2nzoL6fQQyJb5NmBf5zTSl6UQ75waJ9w00A+StLpt2Cud1nI1eEWUci+6MMdwrICG0Q4n5a9pbgsDiyLwNFo7rK2EvJ99H7MBgvH18JYQaJmWZKSdjTD0QDgoEit/Nzw1GZzHyxrNMcBEhV1OWIKlFfP2Cz1X3+dC/SmjH5IX11uaUvx+eewXxoCC0recGjSLK4IVc+Bj7Y56mGlSNBdEUXxEtK7cj65WntBWpMNXF9SZgZxlP4P0oTgf6OYoXRGo=;kibLVC7utQbXRzCYMDKbRg=="

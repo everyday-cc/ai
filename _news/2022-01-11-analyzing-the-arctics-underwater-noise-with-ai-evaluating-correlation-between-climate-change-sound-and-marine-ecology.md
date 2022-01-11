@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Analyzing the Arctic’s Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
-excerpt: "Arctic sea ice is a keystone indicator of greenhouse-gas induced global climate change, which is expected to be amplified in the Arctic. The underwater acoustic environment in the Arctic Ocean contains a great deal of unique insights such as behavioral changes of its marine species and sea ice melting."
-publishedDateTime: 2022-01-10T17:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/climate-science-environment-san-jose-oceans-787fc3bf09d74bdb7a38e9e3d1a7d47d"
-webUrl: "https://apnews.com/press-release/pr-newswire/climate-science-environment-san-jose-oceans-787fc3bf09d74bdb7a38e9e3d1a7d47d"
+title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
+excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
+publishedDateTime: 2022-01-11T08:00:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=597869"
+webUrl: "https://us.acrofan.com/detail.php?number=597869"
 type: article
 quality: 12
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "http://us.acrofan.com/img/noImg.jpg"
+    width: 500
+    height: 324
     isCached: true
 
 related:
@@ -62,6 +62,6 @@ related:
       domain: reportsnreports.com
     quality: 3
 
-secured: "FpOfbfdYmQnfDhTT2UNpKnsOWMsmkE4KDVL1dsRSQw9MBt7HtjiwPeimGDUVM/XvCrdk79HPP6xC3duz783pPpgq1Z1tjidp1mE9+fLn8ym66DeJAsdw9LZawun/jdGZmEclhsjSdrt9BtMjO5ZeBn7WmbGx0B9sLrqfyRB1chwFnFz586a1oGukP62CFxuZJRZQuyHChlR2fhHGtvo/d4H+KN1iSpzuZXwBU5uHkV7KU/sMKlHPVU20pwv7Bm7jcx/OTQj1gSQboQigYgjpKdfMl+PoqWWntPiXdQL5e11yRBaUaQNKsZFj9vOxxU8TspkdwYTepG5McrVs85I1X/zCz1H0p9SFx3YWn1m1Lgs=;zCKvwQ+Z26dBcF+ScIuPVA=="
+secured: "11myFxYHGIBAsM69ucryDocjTOOBsoeItGprChhMBb9/D9uSK8Pm81qUbVavbmLF3GwT5SScTFA4MUalbyb0HuPsyqiMxAyuC3EoFG6gkHkLtZ+0i1jUCo8xR2pZiVK2q3ytFoEGwloZNPwt2S4vh65X/EvAHCh2PUMNRsIeQTgn/ACqBZztkeNohaeZ/9VwqVlOdAx7lVgJsDAZO3NhiVKRLTdbiLr4kr6JylKtll5S9PqTbnUQSDCLyxehgDIrxc+a6YVUgpF6JSe/tsnPS1gukUi/Zidso94TWkKyLhN61m9OO31/A8rzFApko65tCMQcKaQH8OYC3OiEZ3f9vJ2/fu0aWz6ABvVdmwR8B3A=;rrcHXLDNEkIjIzUPDjYvew=="
 ---
 

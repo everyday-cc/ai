@@ -24,6 +24,22 @@ images:
     height: 530
     isCached: true
 
+related:
+  - title: "Use of smart robot for distribution of zamzam water at two holy mosques to restart"
+    excerpt: "Two mosques in Saudi Arabia will resume the use of smart robots to distribute zamzam water bottles to their congregation, as Covid-19 cases in the country spike."
+    publishedDateTime: 2022-01-11T08:16:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/11/use-of-smart-robot-for-distribution-of-zamzam-water-at-two-holy-mosques-to-restart"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 33
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/11/1439652.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+
 secured: "yMChGPlA0sDHQnlrSdJJjJZcMVZTig4Nz+VnnOnAs2+9OtkL3aeDOkqoj7WWX9QnllnMmfep0kCU4MNPptyaz/qZzj46v1dTHKDMjh+zAz/R6xKtVfnlsqlwm4B0E7iwSvucS33wsmxXeV3VCwlB5Tbg7YRyIx2MMOidaoGewjlsJX4ZFVUbCCOZNL4rkPIYTn/xddnqDqdPxbO/AYK8CcQ/TGrsMCEpXRAD/EqTAVEeOnjMY9GQ4iFTdAsBeQWcX+AaBNABji19+cJOEZhs3bkBGLTS9E/ynyoLY4BAvAjWZDxO3Lki0BOko9+HWImKheX4C+kPulBau9xiIlPwrBWz9/jUFCQCG9AtdAIp/SM=;rG32Z7mGbT2VmVzX0WCIZg=="
 ---
 

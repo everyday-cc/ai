@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103514447/Vaccine-RD-will-be-a-Substantial-Ben
 webUrl: "https://menafn.com/1103514447/Vaccine-RD-will-be-a-Substantial-Beneficiary-of-AI-in-the-Epidemiology-Market"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 372
     height: 250
     isCached: true
-
-related:
-  - title: "Artificial Intelligence in the Epidemiology..."
-    excerpt: "The \"Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services 2022 - 2027\" report has been added to"
-    publishedDateTime: 2022-01-06T16:09:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/b24933888/artificial-intelligence-in-the-epidemiology-market-2022-2027-related-to-vaccine-r-d-ai-in-drug-dis"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24933888"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24933888"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "uFF7HF6jzIWcL0JuBGGNXoei4O7H2iApwiDpqJV0hToH8d2Y2geYxLDhWx39kdoUhP89MXL8bDpfX19No0c1MzdptjasmP4gbH0Eo/rCFhcjdResHkF4EJcoLwlmNdSk6Xq4re4hxdMh/oBGp2CLN495ymr+p7cUkt0BawymTy1K7tytYz9eTQzXMgmSfIyvi4OMdER66zxB70SYWfNNR7MyjSBzgvE+ovg407h04VtCSMKduhcOiqHvRc0gaDFpiXxUsQb2Dp5HDhgOXdiVEe4M7n975XPhzXloRh2jibf0OcFzBE2nMPyH+P5EDJEorTAeVHAfVSa5uN/97s+i50LsRXSThyp34hznawL66q8=;3Rpq+UcXyl6TtsAGFS8LXQ=="
 ---

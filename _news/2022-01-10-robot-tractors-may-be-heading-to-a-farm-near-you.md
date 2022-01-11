@@ -52,15 +52,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
-    publishedDateTime: 2022-01-06T16:57:00Z
-    webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
 
 secured: "WXUScarGQnWx2M950NKCJXclvCQ30H7G9Qvce2TAWIfTTASiAHoTyZHsgStBNrZimW7dGc0pCa/SJqDKq6WpqQrqZbOyDygoGnh4zjJXOBZDDabZSZ499xIeGlJ4nosvsP64k3B5Z7TUrcwlRth/ro7pO8Aiexx+CcfrX/kvtuya5ShsUSln5HbsKJ+fLukyy0kX3e6k7GO9/t7OrUnx3d2LBtiXiUg6IlFmM+28YDPl1uM7zFuhpZ7CISSyxGukEVSMXy65ukOpzIV2y8oadixHIGeomDeiEWaKZBB4havtxouwtUXXfaW3MAAbJgBjhQJh/eLA3yqT/tse4hrfIuXJ+4Lo2rgEjZIIaBuP0Dk=;FNNlDrz0PIJWAlQwQqVmvA=="
 ---

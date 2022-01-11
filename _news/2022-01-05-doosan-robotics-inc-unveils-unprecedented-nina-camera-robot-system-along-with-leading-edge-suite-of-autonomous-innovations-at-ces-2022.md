@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics Show (CES) 2022 from January 5-7 at booth 5318, West Hall, LVCC to demonstrate the company's unprecedented lineup of innovative robotics."
-publishedDateTime: 2022-01-05T15:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-1031079326"
-webUrl: "https://markets.businessinsider.com/news/stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-1031079326"
+excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
+publishedDateTime: 2022-01-05T13:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg"
-    width: 257
-    height: 400
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
+    width: 1154
+    height: 606
     isCached: true
 
-secured: "fDP5McWkcqlqVVATxtc1bgWdaWgK32S+pLEZBquYO1XM7npHNVhnIEYwkYJjS7Y5KmB6HGhXlYIpJzq/R1nR6nwo2BoNU9b697sl5POGhtawMV4H+rjXLxXPgrdDae6bPibzoMTGjPcEzdRPWsVONKAI4PqSd8RWy65n7WcPq45WEtJbvgC0NwTGIvFaBKjqTlPPt2LBA6vlbdF/b+yHCPupxZsNN8/7KqrP9z4su6q4dPMYe7o03V1jQGCPGj0aPe2GI0cmUF0TgCQ+rEaWMdGmR7pQKtEM+3sCWBnF0XkeilZZ8/YzJfzMr7sukqx1S9M8GPAr/jxtKwZaXwAdrE8dJ+hsRhUh2dYxh0SIYpE=;4NEM/kYkNkPP5QNw12Dmkw=="
+secured: "GJKdHdrL8SOePTes31YnzvMTdiePvx+TKLkSk8ashcZkjmFvz6/7pFZRGGtCon7m5gidaTxU9MZf5SrhOBkdsFLo4Xr4hbqDFo9V/6XPCrN4mndRLH3EbYoloUh0/3ODDie7cjPdwtEmmT0XM2yXh9W0tuRpwc28wBZVw7cmbe5YYx3CFS2D5heC0PnTT9PUXfZysZkDsFf5iCa8o5lgObTpmmhRLIQxcuafnRLpRYEhuvs7/xykTdEwpWDClf1teSgt+xIYTi1mqqSC+JYfrTT+NEJPsKnJ1CCji1ixGRb3lSF/gaRw5orKCfOz0naTSXnfqZKKo13aEGctTjY1V1OYIoQ2gvQofjxlrSq7qsg=;dfN/i0lzVCKh+aNkK5EkhQ=="
 ---
 

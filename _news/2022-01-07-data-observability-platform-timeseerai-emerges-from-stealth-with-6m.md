@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/07/data-observability-platform-times
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/data-observability-platform-timeseer-ai-emerges-from-stealth-with-6m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-532029221.jpg?fit=800%2C596&strip=all"
         width: 799
         height: 596
-        isCached: true
-  - title: "How Machine Learning Observability Helps America First Credit Union Stay A Step Ahead"
-    excerpt: "America First Credit Union's Data Science Manager Richard Woolston shares how his team taps into machine learning observability to help ensure speed, inclusiveness and a great customer experience."
-    publishedDateTime: 2022-01-06T15:04:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/01/06/how-machine-learning-observability-helps-america-first-credit-union-stay-a-step-ahead/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d70f8b8bfed47184299df6%2F0x0.jpg"
-        width: 500
-        height: 343
         isCached: true
   - title: "Observability, AI And Context: Protecting APIs From Today's (And Tomorrow's) Attacks"
     excerpt: "In today's world, application programming interfaces (APIs) — the connective communication tissue between applications — are everywhere. Everyday consumer electronics, from cars to TVs, are busy talking to servers and to each other,"

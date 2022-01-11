@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers"
-    excerpt: "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training."
-    publishedDateTime: 2022-01-09T17:51:00Z
-    webUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/"
-    ampWebUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
-    cdnAmpWebUrl: "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
+  - title: "5 Best AI Stocks for 2022"
+    excerpt: "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc."
+    publishedDateTime: 2022-01-08T20:10:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
     type: article
     provider:
-      name: The Constructor
-      domain: theconstructor.org
-    quality: 52
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 39
     images:
-      - url: "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg"
-        width: 1600
-        height: 1000
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
+        width: 1920
+        height: 1044
         isCached: true
 
 secured: "gGQyQ5K25fqDSwJXPShqyTKlSxJXsLhXrmfHILo7qQCyoASgV7FbfWTbwM6UKOBFJNrEy9pgFb0sYSAKWyqFuu2dX+84QD6PndBJfdi5wpT6SdH+kuNkkFjG09u3EdYNfryBJHF8QMhoEwBNpnPM1BAY5/v2/WQ28Zx4/X3/HjJ1+mrlzM19QXXEYxD2F3pLEM1CYewLGldszukOLz5ThMEP2G8w9e1PMdb5Py1sZE1Wv8exVw2hcGpLszdBZEc3CCMt7IWLgYCmjOiBhFlTMYtnJUzf5wgonYs8B9h+RT9syOrQFF68UONe7vBCTISaBYOF9ZspDHEgEtYrJzwVeJ4Wq/iWLgHTfMVy9rGUZTk=;syecm2J7o5yVYygFOTaSmw=="

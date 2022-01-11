@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Report: IBM again considering sale of Watson Health"
+    excerpt: "Nearly a year after rumors first swirled that IBM was mulling over a potential sale of its Watson Health artificial intelligence business, the company has reportedly restarted the process, according to a report published January 5 in Axios."
+    publishedDateTime: 2022-01-11T07:11:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134711"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 54
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2022_01_11_00_22_1177_watson_health_rsna_2021_400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "lVczLAZrbkwhOaIj4jfW/sKk+db1pxVYNZsHCePWvxic4DJ69hiBDMOsnud9P5AAJ2LP/TOQ9uiGgh63+0aLf3/EBnHMIMoMcT8uGTyG7b+BrwgSIUMXCcb5Q9UCfaZGUcClVZtRT0JAe5l+lAYl0j+DTDGqtD4lJ8I+s4t1EB0W8LD030xN5kOTlSc/Vb8WvLUTgWEgx2vwsUDY7me4qKnFK2AHjecPgrh12RwbPSj3y8vqazI3wU3zTUgyazSdJ/s+qyvwJlGLJg5uEI9feJi7ru0BI7By4voel2Y4giOPBBdQ6GKz8xNKtkjZRcPLWUDODKeI4/I1HrJif1n0H1659NeGqavgO4b+0s1OkGQ=;XO7Ur4ARtEYQqQ8Yf7i4Ng=="
 ---

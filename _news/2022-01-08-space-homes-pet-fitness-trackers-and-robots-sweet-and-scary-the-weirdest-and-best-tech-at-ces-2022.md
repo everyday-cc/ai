@@ -81,20 +81,6 @@ related:
         width: 500
         height: 324
         isCached: true
-  - title: "KEENON Robotics Showcases Full Line-Up of Service Robots at CES 2022"
-    excerpt: "KEENON Robotics Co., Ltd. (KEENON Robotics), the world’s leading service robotics company, displayed its entire product line of service robots at Consumer Electronics Show (CES) 2022 running from January 5-­­­­­­­­­­­­­­­7th in Las Vegas."
-    publishedDateTime: 2022-01-06T16:01:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-lifestyle-business-travel-robotics-67dee87015347605abe336102b739cc2"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "The weirdest stuff we saw at CES 2022: John Deere's self-driving tractor, robot masseuses"
     excerpt: "Among the odder sights at this year's Consumer Electronics Show: an autonomous tractor from John Deere and robots that will give you a massage."
     publishedDateTime: 2022-01-07T14:46:00Z

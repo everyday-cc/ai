@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-hea
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -75,6 +75,20 @@ related:
       - url: "https://contentstorage-nax1.emarketer.com/5e25b7a923b9f1f715d3079db3bea995/default-image-share.png?im=FitAndFill,width=1200,height=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Report: IBM again considering sale of Watson Health"
+    excerpt: "Nearly a year after rumors first swirled that IBM was mulling over a potential sale of its Watson Health artificial intelligence business, the company has reportedly restarted the process, according to a report published January 5 in Axios."
+    publishedDateTime: 2022-01-11T07:11:00Z
+    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134711"
+    type: article
+    provider:
+      name: AuntMinnie
+      domain: auntminnie.com
+    quality: 54
+    images:
+      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2022_01_11_00_22_1177_watson_health_rsna_2021_400.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "IBM is apparently looking to sell Watson Health at a time when the healthcare industry is booming"
     excerpt: "According to an Axios article, IBM may be trying to sell its Watson Health business for as little as $1 billion. Why is IBM avoiding the healthcare vertical at a time when it seems to be heating up, and at such a cheap price?"

@@ -53,6 +53,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Call Center AI Market to Reach $9.94 Billion By 2030: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global call center AI market generated $959.80 million in 2020, and is expected to reach $9.94 billion by 2030, registering a CAGR of 26."
+    publishedDateTime: 2022-01-11T08:53:00Z
+    webUrl: "https://menafn.com/1103519142/Call-Center-AI-Market-to-Reach-994-Billion-By-2030-Allied-Market-Research"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 34
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?997691"
+        width: 374
+        height: 250
+        isCached: true
 
 secured: "8d/vMgCYv2ezy1UlPKmul2NnFOVw6U84HahMNBRCECaOJByRaKI5g2gw7I2ZSUYJ5uTBfYbaG05QorHTro/x6BHioXpgZftmrD1X9xRJQn1cDAv6vztM6S/35Zw6vuy9JhC7KPk7D7xibZbi3qKiZij088U2RvbOPC9c2REF2PsrILOFL0RvwLtsQath3UtccgQP7TVRwnLUMghPHVlo3e9nKqP5TbQKfcqhWM41IYQZy6bSMbadxaTTTdoHyeowHHK9f4PhL+r9QZ41PX7FIS/0F7p2SYChYn8vrWg2CgrkvlYk2UEoXpaGVnwLXRFjCrXN2SnbF/Oi5jlPcOcszYluk/ckZdSBjozUEmrKPAv81tapDb+yhFzMh2vaz4769gu0mhLcKGho4wczqY9r0KEFNHRe3p3Fbf8Ti5N/bcP/3mntYuMHVVl6fFeCNJzPHEfzY7EsUJ1pms4weiA01qrq3rcU/Decu97niR1gQfuUCvlrpy25SYG+F2rjhvF/QVYA07cIMv6gx6N0Zi+//A==;tzvmq+ciOJl8SUYD9+p+5A=="
 ---
