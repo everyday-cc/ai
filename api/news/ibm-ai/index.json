@@ -383,6 +383,50 @@
       ]
     },
     {
+      "path": "_news/2021-12-29-futurism-launches-zero-trust-managed-security-acceleration-services.md",
+      "title": "Futurism Launches 'Zero Trust Managed Security Acceleration Services'",
+      "excerpt": "all integrated with IBM Watson – the AI for smarter business. Zero Trust is a conceptual and architectural framework for moving security from a network-oriented, perimeter-based security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/futurism-launches-zero-trust-managed-security-acceleration-services",
+      "originalUrl": "https://www.digitaljournal.com/pr/futurism-launches-zero-trust-managed-security-acceleration-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newswire.com/files/x/6c/7d/4d417b9a4c759dabe0d0feb14674.jpg",
+          "width": 512,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-27-the-perks-and-pitfalls-of-creating-prolific-ai-inventors.md",
       "title": "The perks and pitfalls of creating prolific AI inventors",
       "excerpt": "As more AI “invents,” they may become prolific inventors of the future. If patents are granted, who should get the rewards?",
@@ -1330,49 +1374,6 @@
       "provider": {
         "name": "India Times",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-ibm-watson-services-market-is-projected-to-be-valued-at-us-446-bn-by-2031-end.md",
-      "title": "IBM Watson Services Market is Projected to be Valued at US$ 44.6 Bn by 2031 End",
-      "excerpt": "ICT companies are extensively adopting technologies such as cloud computing and artificial intelligence to ensure seamless operations as teams continue working from home. Focus on fast automation, use of real-time operation within various end-use sectors such as automotive,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "originalUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2021/03/research-report-3-1.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ibm-watson-services-market-is-projected-to-be-valued-at-us-44-6-bn-by-2031-end/",
-      "publishedDateTime": "2021-11-23T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
         "images": null,
         "publishers": null,
         "authors": null

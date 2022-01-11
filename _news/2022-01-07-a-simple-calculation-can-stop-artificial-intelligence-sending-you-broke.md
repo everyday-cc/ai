@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/A-simple-calculation-can-stop-artificia
 webUrl: "https://www.econotimes.com/A-simple-calculation-can-stop-artificial-intelligence-sending-you-broke-1624523"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 496
     height: 248
     isCached: true
+
+related:
+  - title: "How simple liquids like water can perform complex calculations"
+    excerpt: "After many decades of astonishing developments, advances in semiconductor-based computing are beginning to slow as transistors reach their physical limits in size and speed. However, the requirements for computing continue to grow,"
+    publishedDateTime: 2022-01-11T13:14:00Z
+    webUrl: "https://techxplore.com/news/2022-01-simple-liquids-complex.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-simple-liquids-complex.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-simple-liquids-complex.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/how-simple-liquids-lik.jpg"
+        width: 2400
+        height: 1800
+        isCached: true
 
 secured: "g7+tkYSxJWQV4y7iT34nhht1LHAsxgYLRmPHRH0hearY1qzo193sLCSLHSSvQYTqq2US9X+Cqbn9MiLRWo3LQAwJgcek3RWadx+VewvxTbhJlyTcBBCBB0uTKTs4YByeWWvlXoCWtnDtmN5z1HRyqe67SLWIsU/JL6ps+KJUME6l7l7TNug1cYEynDxBNt539cK1gqxi2CQ14DjG8z3VCQoGi90l0klNHnabAntVi3c/9W4FiMPHek3a/W/QRpmi6NQD/Iou96j3HAnsf2ffwkDY8Oe1DT0FIBjK+WZkpzB3b5bYd5MAqzsMUYFOKeo6xRRRmeMWqppIib+5MfFjqVX4Dq+h5nfkVYAWlaXMmcU=;CHRG8YWaCYJRX8/3cBodxg=="
 ---

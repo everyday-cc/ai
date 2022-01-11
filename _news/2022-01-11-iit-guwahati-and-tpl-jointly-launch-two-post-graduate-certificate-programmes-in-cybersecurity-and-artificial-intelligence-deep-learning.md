@@ -3,12 +3,10 @@ category: news
 title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
 excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
 publishedDateTime: 2022-01-11T09:55:00Z
-originalUrl: "https://economictimes.indiatimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831563.cms"
-webUrl: "https://economictimes.indiatimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831563.cms"
-ampWebUrl: "https://m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
-cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
+originalUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
+webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
 type: article
-quality: 43
+quality: 21
 heat: -1
 published: false
 
@@ -17,14 +15,13 @@ provider:
   domain: indiatimes.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://m.economictimes.com/thumb/msid-88831557,width-640,height-480,resizemode-7/iit-guwahati1.jpg"
-    width: 640
-    height: 480
+  - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    width: 1069
+    height: 580
     isCached: true
 
 related:
@@ -89,6 +86,6 @@ related:
         height: 270
         isCached: true
 
-secured: "mO4lhVDPuUsCSx6YvWACgFcLO2TXMrWT0YyOw7ekVF3A1L3NPl4k2pbc7+HQU+VVgcSeaoeOfZ3B4tjYnutW9+Y5FatIci4LXw83hOYZMimt+3MmlO3Cyqc0/NcyLUlaeSjA4PLow9RQarV1s6SrAXmxyqGT/adJ3A4CfYZ4xefB2h7Qgs9Q497V0XSmanwfbgCyQzMJFLX1C8nily65Lg7jtU7rszLbtogybbSPolFX1khX4DEVSr4deCXnDe1ll03G1JQIz+jYh5rSPtEg62YMYRfKLXIiItvICIqihYB/l7qNCvK45IUmsYEYiGz281gc9Tih0WTjZjR8vmPugLb1NtxXaYgk/W4AgyiT21M=;c2rIEShGXUkUvOR5uLYZ9g=="
+secured: "zg/AlXD4J+nkXeonQSr3cOvoDhG43neo2CeGTHXeEjOl9jFrKdEQUDLaxAQotlDMqpLf/ZqENzEroW97V8n/QoTrfRBn5hFrfxYiIsJ8bLJuCs0OjWfVYIKtjZmHECtDPVT1wJcEKg7xKfsx5s8B32GNA/J+++tLtcUb2dNnQbmhnZsRQCrOoLlMv3oypYD9aLTGUyn75I0owbh/t4pwR4ZcMY9HXMUCKXpKGMk1Zf3IGKmyPna7jYc+VBL3R3bzEl7ujar0U+BLXv0Of1BXagSNxBDDM/7+Eo8gLIpVbHsB8+CUgOParMYoWHfCsP1NswPqjT1YcqdzQO6IXkK6MkBBL1Cim6tBqp3GoXCTwvM=;Up4zoHugG/QNV2qS43/1hg=="
 ---
 

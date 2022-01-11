@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202201/china-intensifies-biometric
 webUrl: "https://www.biometricupdate.com/202201/china-intensifies-biometrics-video-surveillance-research-as-social-credit-market-builds"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 914
     isCached: true
+
+related:
+  - title: "Face biometrics panel in US realizes it has bitten off quite a lot to chew"
+    excerpt: "A commission in Massachusetts debating the use of face biometrics by police has found that the topic is more freighted and complex than anticipated."
+    publishedDateTime: 2022-01-07T15:40:00Z
+    webUrl: "https://www.biometricupdate.com/202201/face-biometrics-panel-in-us-realizes-it-has-bitten-off-quite-a-lot-to-chew"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
+        isCached: true
 
 secured: "CohHrCX/clR/QA2+CbilUbVjhjiq4UPd6PLibUnj8IwjuvPMP1THv5ffO/p1krjwOl1nFUBaj+e0ZSB9a2Jj8+6E8PktuxnBunrOs2yNU8IhJk+ow9VCu+j6PPkibV4M/S5+PuvWaIsZZ51HGjF1YVzgt9Ter7+SPWwV/avqEeouN2kGOVP0CphczSZmNNJrB+CsJ6+2LhUBgK08NVpqzDqdNXJ3MLywSOkCg1kdhCJbl3bUYf5vB16ipX+L57L0FGywCXFedRhtWWWLU4YePF+HJKKKobQWI4IY2hz38M9w3izpx4u+96gJJiHIxXCV65HsJ0MQ4fHE6P8SNJjie1399Jzidsrd33kQPQy49yg=;/eLQ39yhgjUD4EJYEDa6/A=="
 ---

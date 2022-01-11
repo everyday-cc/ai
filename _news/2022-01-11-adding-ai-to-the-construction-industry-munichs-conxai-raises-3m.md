@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -55,6 +55,20 @@ related:
       - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/01/16x9/Dodge_Versatile_overtime.61dcc16ce635a.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 999
         height: 561
+        isCached: true
+  - title: "Veea and Conxai Fuse Edge Computing, Connectivity, and AI Technology"
+    excerpt: "With a common mission to transform the global construction industry using AI-driven network edge solutions designed to make worksites safer, more efficient, and manageable, Veea Inc., an innovation leader in integrated smart edge connectivity,"
+    publishedDateTime: 2022-01-11T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-veea-conxai-fuse-edge-computing-connectivity-ai-technology-/2022/01/11/9523556.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1722728/Veea_and_Conxai.jpg"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "8mXi7fSBL0K0s/iZd6SSXA4b84+jP3WW5JWxGkTvvS8imyIHWCDYZCIRMZHk0y4haQ8bpeolwV0apcNANv/HxvYZTXLyTNI/nnRNVueA5TdnQO8K5aTmijXLZqdrdcdfy02bLPi84OfVe0zOfgtJLew9noGi8XPIk0S4guiESu66igea93+yiuxsZA5yXxfa+QkhAmox+8oIIIA3GISk4Pz3MyIJCyw16+PxBwhj5cF1CisPat2toaViLBB5JjeKK7Tar7PIBH2jNEKR/rt64w1EhjJsjhXcm5QOIxmZIdEtYdwJFQXdPkTjiYpStLLDzzjwRIHkTPOiNl2tdpx49Ke85cB06hN/xw4GEiD6OX3/JsFJll621/4t/KidCMupaCpgkTadYesLADELXsZiPdfGNyOO54ew8h1VDjVGYEcqOliKUQwYn8zhBWm43bSaEk8n+Ys9pz0DMwrYB+5A6IP2X5eB/tJBj1ZbC0jwvbtGYfEE9peUe4pmhVO41SqwB6jG4VE3l8aM382RN0HjtQ==;GvMzNWUNSUfcvCBriZULNA=="

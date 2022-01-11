@@ -129,6 +129,15 @@ related:
         width: 720
         height: 480
         isCached: true
+  - title: "Pudu Robotics Commercial Service Robots Shine on World Stage at CES 2022"
+    excerpt: "Pudu Robotics, the global leader in commercial service robots, has wrapped up a highly successful showcase at CES 2022, which took place between January 5-7 in Las Vegas, Nevada, United States. In addition to exhibiting its flagship commercial service robots in the global arena,"
+    publishedDateTime: 2022-01-11T14:13:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/pudu-robotics-commercial-service-robots-shine-on-world-stage-at-ces-2022/18049/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 33
   - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
     excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
     publishedDateTime: 2022-01-08T02:00:00Z

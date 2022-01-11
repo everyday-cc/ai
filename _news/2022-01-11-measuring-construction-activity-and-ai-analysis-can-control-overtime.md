@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Veea and Conxai Fuse Edge Computing, Connectivity, and AI Technology"
+    excerpt: "With a common mission to transform the global construction industry using AI-driven network edge solutions designed to make worksites safer, more efficient, and manageable, Veea Inc., an innovation leader in integrated smart edge connectivity,"
+    publishedDateTime: 2022-01-11T13:08:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-veea-conxai-fuse-edge-computing-connectivity-ai-technology-/2022/01/11/9523556.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1722728/Veea_and_Conxai.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "6DLQ+ivfze7EGzi3bZMmOtFA32NZwRjSb4y81tnm/Xhpg6kVq+ptl3CBVuOiOJTnBCTWWA3b4Gw0io/HH78U2FTozl6AVPSVVvK9YD0/A6Q861W4zYOzg/t2aPVMVUNiYCFXaZVIcTf6HVobJ7EVYAsD5fDCUdEdZJJNmu1TuuLsCICf3JUmCJegZORa5gWNsHdt9wDZVzaYi3qfI7HzVVbyq4kobBE6ZVXdE6iII/Acfanzy9z8woX8H/EsCEvKTzpMj3c3lX0sSNlVd9xvZPvMxBCxw+MoG8eDUYe/lLzV29f0RTnFItFnrWbT5ymw/mA9RLparg0SSniEbJD6xdEZZ8JEfi9LGu3vvmPk+c4=;KBvNvd+eVhjvRoU2hceq6Q=="
 ---

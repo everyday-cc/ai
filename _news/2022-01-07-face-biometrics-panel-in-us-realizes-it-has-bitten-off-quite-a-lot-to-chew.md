@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202201/face-biometrics-panel-in-us
 webUrl: "https://www.biometricupdate.com/202201/face-biometrics-panel-in-us-realizes-it-has-bitten-off-quite-a-lot-to-chew"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Unissey claims 18 percent face biometrics performance gain in latest NIST testing"
-    excerpt: "The company contrasts this performance with that with human examiners, who are found to accept false matches for up to 30 percent of facial image comparisons."
-    publishedDateTime: 2022-01-06T22:31:00Z
-    webUrl: "https://www.biometricupdate.com/202201/unissey-claims-18-percent-face-biometrics-performance-gain-in-latest-nist-testing"
+  - title: "China intensifies biometrics, video surveillance research as social credit market builds"
+    excerpt: "China leads all other nations in publishing research on the visual surveillance of populations, one of the most controversial segments of biometrics."
+    publishedDateTime: 2022-01-10T18:19:00Z
+    webUrl: "https://www.biometricupdate.com/202201/china-intensifies-biometrics-video-surveillance-research-as-social-credit-market-builds"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 34
+    quality: 15
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/15123931/face-biometrics.jpg"
-        width: 1050
-        height: 591
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
+        width: 1200
+        height: 914
         isCached: true
 
 secured: "u7JC7MkJ6IMFixHafoP2bCNIPewunHzkR+ny0z1S5NoYuPRNB23hIeUYbjwT1vdRjCsYUeNRMOBpazV4ag64mvSdikBZ5KvqrDYZ+Qf05m4qEgSuleTXKv6vPtl3ZqiVWsBc8Rzvk63KJ6hQb3D0tFDoAK6gclMJqy737VvQ9qjPn/HUdblnrxxnMq4f+OdNNLF9eTOda4CtJEz6mVcmWjQH4EtRRc1UOv3OB6uwAa27zmyVDgcK4Gh83r12Tw/9Z0TvmN9vHzvVt2GcT9gzwCDEmiz3Pk6TV7LdvmiRwoBnmiaoWpO25NJVNcMLhwvjqFwRH2XsjEZ6mVagiCJY4qi9HoRhxScZHDL9XbT4P08=;3O0DLgIH0AKjciNhpXKf/g=="

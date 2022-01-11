@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
-    excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
-    publishedDateTime: 2022-01-11T08:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=597869"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "Global Artificial Intelligence Chips Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence Chips Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
     publishedDateTime: 2022-01-08T17:44:00Z

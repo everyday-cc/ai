@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/employers-investors-take-notice-of-
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -30,47 +30,68 @@ images:
     isCached: true
 
 related:
-  - title: "Employers, investors take notice of AI tools to speed job recruitment"
-    excerpt: "A chronic shortage of workers has more employers turning to artificial intelligence to supercharge recruiting efforts, seeking an edge in an increasingly pitched battle to fill job openings. By automating previously manual tasks—like pre-screening job applicants for basic qualifications,"
-    publishedDateTime: 2022-01-08T21:56:00Z
-    webUrl: "https://www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641637244910.html"
-    ampWebUrl: "https://www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment/amp-11641637244910.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment/amp-11641637244910.html"
+  - title: "Great Resignation Versus Increasing Investment In AI, Robotics And Automation: A Troubling Trend"
+    excerpt: "Hiring continues to sputter, while investors are declaring the \"golden age of automation.\" Are we automating the workforce of the future?"
+    publishedDateTime: 2022-01-11T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/"
+    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/amp/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: Forbes
+      domain: forbes.com
+    quality: 106
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61da04449c481c9368077737%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D3585%26cropY1%3D0%26cropY2%3D1974"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI, automation, and bots in the world of mortgage"
+    excerpt: "AI, automation, and bots in the world of mortgage But are automation and Machine Learning helping or failing? Here is all you need to know."
+    publishedDateTime: 2022-01-10T16:07:00Z
+    webUrl: "https://www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/"
+    ampWebUrl: "https://www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
     quality: 57
     images:
-      - url: "https://images.livemint.com/img/2022/01/08/600x338/jobaudition-kPDI--621x414@LiveMint_1641637494942.jpg"
-        width: 600
-        height: 337
+      - url: "https://www.dqindia.com/wp-content/uploads/2022/01/Sumit-Chadha1.jpg"
+        width: 800
+        height: 420
         isCached: true
-  - title: "The legal pitfalls of using AI in recruitment"
-    excerpt: "Gwynneth Tan highlights the issues employers should be aware of when considering adopting technology into their hiring processes"
-    publishedDateTime: 2022-01-07T12:36:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/experts/legal/legal-pitfalls-using-artificial-intelligence-recruitment"
+  - title: "Researchers find public trust in AI varies greatly depending on the application"
+    excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
+    publishedDateTime: 2022-01-10T15:24:00Z
+    webUrl: "https://techxplore.com/news/2022-01-ai-varies-greatly-application.html"
+    ampWebUrl: "https://techxplore.com/news/2022-01-ai-varies-greatly-application.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-ai-varies-greatly-application.amp"
     type: article
     provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 37
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 55
     images:
-      - url: "https://www.peoplemanagement.co.uk/Images/artificial-intelligence_tcm27-104992_w1228_n.jpg"
-        width: 960
-        height: 540
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/measuring-trust-in-ai.jpg"
+        width: 967
+        height: 755
         isCached: true
-  - title: "Employers using artificial intelligence to recruit workers"
-    excerpt: "More employers are turning to artificial intelligence to gain a worker recruitment edge, the Wall Street Journal reports.  By automating previously manual tasks—like prescreening job applicants for basic qualifications,"
-    publishedDateTime: 2022-01-10T15:11:00Z
-    webUrl: "https://www.businessreport.com/business/employers-using-artificial-intelligence-to-recruit-workers"
-    ampWebUrl: "https://www.businessreport.com/business/employers-using-artificial-intelligence-to-recruit-workers?amp=1"
-    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/employers-using-artificial-intelligence-to-recruit-workers?amp=1"
+  - title: "The 4 Best Automation Stocks to Buy"
+    excerpt: "Automation is one of the most exciting technological frontiers in the world today. And many investors are looking for the best automation stocks to buy."
+    publishedDateTime: 2022-01-10T11:07:00Z
+    webUrl: "https://investmentu.com/automation-stocks/"
     type: article
     provider:
-      name: Baton Rouge Business Report
-      domain: businessreport.com
-    quality: 37
+      name: Investment U
+      domain: investmentu.com
+    quality: 24
+    images:
+      - url: "https://investmentu.com/wp-content/uploads/2022/01/automation-stocks.jpg"
+        width: 730
+        height: 467
+        isCached: true
 
 secured: "S76+0e5VB78aQ2ZVSOfplZsReGRe7nzDgi9wcm+J09PR+JN4T9zzZ4bKtpsGXcoQeRRXjFG7xuSE5GXeOC9svKeUrkrwIJn4G7RPcS5x73JwOM/JpQWsJrtkef90DKkn+xGgLVnUW551JvOmj2Evw/NUgxnPKtN2aYTe8O6oXPxmrKMvQE7MvePjOgpzj52GBZt3DWlduQY0KDQh8K+2hETxbMTbQJ3hdtrfcun1ktjEvDr5QAdZhLjqYOFuwv5rjkZ9tOS8eilBX+dVEpKD3YHo3IcywC52Uavtfn7uAFILeAsdH3dSYbmxTw6b6tWSeikmqwqxsS0drpfVOaxIPajKgtT8lKwpCcZZRxUkJZKnewrUysFoJZKN8ekaTLVQZfTF1NuVazaF5EqV4YBmRV/yZNerOcKSTAD/0JX4hlDojUg3m7GW2josOnJg+quRF4hr3+Udgm66AVnwA0UjS4uzSnwvlWkSW+w1GBbsP1M+HEX5/TLvcbeFtm8G1HyGaJ+CL1DHmnc1gcbNDKddHQ==;UVrnKy25305zgr7ngAcXhQ=="
 ---

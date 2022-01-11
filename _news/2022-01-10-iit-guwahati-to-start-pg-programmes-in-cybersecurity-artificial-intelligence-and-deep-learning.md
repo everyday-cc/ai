@@ -57,22 +57,6 @@ related:
         width: 558
         height: 372
         isCached: true
-  - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
-    excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
-    publishedDateTime: 2022-01-11T09:55:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831563.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/amp_articleshow/88831563.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 43
-    images:
-      - url: "https://m.economictimes.com/thumb/msid-88831557,width-640,height-480,resizemode-7/iit-guwahati1.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Mark Andress on NGA’s Cloud, Machine Learning, Cybersecurity Efforts in 2022"
     excerpt: "Mark Andress, chief information officer at the National Geospatial-Intelligence Agency, said NGA is set to undergo several technology shifts in cloud, machine"
     publishedDateTime: 2022-01-07T21:33:00Z
@@ -86,6 +70,20 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/01/07/07/e5/02/fb/86/43/83/84/00P4y00001NP9sOEAT.png"
         width: 270
         height: 270
+        isCached: true
+  - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
+    excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
+    publishedDateTime: 2022-01-11T09:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 21
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
 
 secured: "YMPUS3kzEq61VP540yTus4L/n31WPL1m+xmjxrKf4jdNDPYOWG1tzrui4Ck6Hn9+4J4bSxOu7ODkL4RGnMthQ6iLyIVKXT3rP0CJlP079H0wpsrPbHDeBJtHhUmW+/LmUBL9n4JcS8vtpRTTK9iAKNjhp5wmdfHoCQUhGikCi7FS9gwR68w32NXW21jgNQ0kpFRgZk/JRjGf2vxJjP2fC7Y4BITmVn4dkR161dZbjRFwiXPAjLjBv0YrwQx4KHAkko0Q+EwIAEgY/c8wp5h2SUFizi+6qasOfvERf6rfiX1gvf3Ypku5SxKNVbU+gBV8ZVyDVLZYmQvAwRW6YkhneczIqcmq6YBswdikY1nWvNngIZGYiQzxIV+fyQEnVeqxq9ku2p3aTr435+zbKhCR0OnKqnMABPEL9nzLxtayDS+NO0MSa5Ch7iR3o1cQT6DnFTzed7IFcsoszeVzODDY2aivmmKjBkd7RTjsBjkD73Qw27AwxBf7rQ91mt45+kRsJfq+M0o79wGydqJYfp/qOg==;o80Eb8PVyE4O+EITAJFeDA=="

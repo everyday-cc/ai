@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "UST Launches AI Solution for Hyperpersonalized Wine, Beer and Food Shopping"
-    excerpt: "Digital transformation solutions company UST, has officially launched UST AiSense, which provides personalized food and beverage recommendations using sensory science. The deployable digital technology AI-led solution powered by Tastry,"
-    publishedDateTime: 2022-01-06T21:26:00Z
-    webUrl: "https://www.winsightgrocerybusiness.com/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
-    ampWebUrl: "https://www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
-    cdnAmpWebUrl: "https://www-winsightgrocerybusiness-com.cdn.ampproject.org/c/s/www.winsightgrocerybusiness.com/amp/retailers/ust-launches-ai-solution-hyperpersonalized-wine-beer-food-shopping"
-    type: article
-    provider:
-      name: Winsight Grocery Business
-      domain: winsightgrocerybusiness.com
-    quality: 55
-    images:
-      - url: "https://cdn.winsightmedia.com/platform/files/public/2022-01/background/400x600/Aisenseedit.jpg?VersionId=UEoY_EToLBfZIgtxoekaBEtGMCS4VD6u"
-        width: 400
-        height: 210
-        isCached: true
   - title: "Ginesys to invest in CASA Retail AI to power targeted personalised customer engagement"
     excerpt: "Ginesys, a leading end-to-end technology solutions provider for retail businesses today announced a strategic investment of USD 10mn over the next 3 years, in CASA Retail AI, to strengthen their custo"
     publishedDateTime: 2022-01-10T12:30:00Z

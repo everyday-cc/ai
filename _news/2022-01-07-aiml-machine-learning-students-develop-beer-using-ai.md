@@ -7,7 +7,7 @@ originalUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-
 webUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The legal pitfalls of using AI in recruitment"
+    excerpt: "Gwynneth Tan highlights the issues employers should be aware of when considering adopting technology into their hiring processes"
+    publishedDateTime: 2022-01-07T12:36:00Z
+    webUrl: "https://www.peoplemanagement.co.uk/experts/legal/legal-pitfalls-using-artificial-intelligence-recruitment"
+    type: article
+    provider:
+      name: People Management
+      domain: peoplemanagement.co.uk
+    quality: 37
+    images:
+      - url: "https://www.peoplemanagement.co.uk/Images/artificial-intelligence_tcm27-104992_w1228_n.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Using AI in Crime Detection"
     excerpt: "Using AI in Crime Detection By cio review - As the rate of crime rises, the utilization of existing Artificial Intelligence algorithms is proving to be"
     publishedDateTime: 2022-01-10T09:43:00Z

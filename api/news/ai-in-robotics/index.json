@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-11-great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend.md",
+      "title": "Great Resignation Versus Increasing Investment In AI, Robotics And Automation: A Troubling Trend",
+      "excerpt": "Hiring continues to sputter, while investors are declaring the \"golden age of automation.\" Are we automating the workforce of the future?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/",
+      "originalUrl": "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61da04449c481c9368077737%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D3585%26cropY1%3D0%26cropY2%3D1974",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/amp/",
+      "publishedDateTime": "2022-01-11T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-autonomous-tractors-with-robot-brains-are-coming-to-take-over-the-farm.md",
       "title": "Autonomous Tractors with Robot Brains Are Coming to Take Over the Farm",
       "excerpt": "John Deere revealed a self-driving tractor at CES with traditional diesel power, while Monarch's was autonomous and electric.",
@@ -334,6 +386,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-08-self-driving-truck-company-torc-robotics-picks-austin-for-tech-hub.md",
+      "title": "Self-driving truck company Torc Robotics picks Austin for tech hub",
+      "excerpt": "Torc says it chose Austin because of its deep talent pool as well as its location along the Southwest shipping corridor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/2022/01/07/torc-robotics-opening-austin-engineering-hub-accelerate-development-its-self-driving-truck-technolog/9118962002/",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/self-driving-truck-company-torc-robotics-picks-austin-for-tech-hub/ar-AASxzw7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/01/06/NAAS/faf46096-7cbd-44f0-8597-5fafbf3d41b4-torc2.jpg?auto=webp&crop=1185,667,x14,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.statesman.com/amp/9118962002",
+      "cdnAmpWebUrl": "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/9118962002",
+      "publishedDateTime": "2022-01-07T09:00:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "statesman.com/story/business/2022/01/07/torc-robotics-opening-austin-engineering-hub-accelerate-development-its-self-driving-truck-technolog/9118962002/",
+        "domain": "statesman.com/story/business/2022/01/07/torc-robotics-opening-austin-engineering-hub-accelerate-development-its-self-driving-truck-technolog/9118962002/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-the-best-robot-vacuums-of-ces-2022.md",
       "title": "The best robot vacuums of CES 2022",
       "excerpt": "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with.",
@@ -342,7 +437,7 @@
       "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1314,92 +1409,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-1493-billion-in-2027.md",
-      "title": "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027",
-      "excerpt": "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/",
-      "originalUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/01/Logistics-Robots.jpg",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/",
-      "publishedDateTime": "2022-01-03T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-2022-robotics-predictions-from-industry-experts.md",
-      "title": "2022 robotics predictions from industry experts",
-      "excerpt": "Leading robotics experts, including Juan Aparicio and Ken Goldberg, share what they'll be keeping an eye on in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
-      "originalUrl": "https://www.therobotreport.com/2022-robotics-predictions-from-industry-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/2022-robotics-predictions.jpg",
-          "width": 796,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null

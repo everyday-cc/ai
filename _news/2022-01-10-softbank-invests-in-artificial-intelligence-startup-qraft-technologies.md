@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligenc
 ampWebUrl: "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
 type: article
-quality: 72
-heat: 112
+quality: 172
+heat: 212
 published: true
 
 provider:
@@ -93,6 +93,6 @@ related:
         height: 517
         isCached: true
 
-secured: "81kEcW5H9h3URjDRAC9NDUOtEH5yFk486n91Sb7klAFeIe2bhRuA2njOlbuiMgnphJj0TjiijniogIVNukRm4FvUOp6rjESnLV8edZYIQZ7O2nYolkpAXN7Oao5/D8MLW5lKJI8cWCARlkWlUhtuSpAWc8vjW8osaUKSxuqn/U9doBwkg2S0+nPKs1eW81yERPhq+Diel6supWA/QiwP0hUkfr0+0V6ipJk0Eg/xf8reuHyhwZARQcgOQU32lceePBj6diu0xuJX0D6aw/negKmVwA3hhjMM2az92E939dKXU7PVy6zNLJ0UpNzQnLCmXCZLl04iw8OPvfiB7fwyHKO91mM3AVuMYgZ/aCj8TAE=;9c4LD5OLJAaaHdYX6RIQDw=="
+secured: "bNx+oyDIVJaQQlthZOP8X9kD8QJrrKBYWjV6+IHg7FAW2XrSmkcVXwHrl2rKe7WNk5W9VTBxFws9ot4xNmnWSOEhuoQHbPE53tFUkqH6B59RUwjD/YUFnLZKWDGckOfKr2bebLKbi+VrbU/K6v4n/VRkd72YKCv/IPjOud1e5Kr+uAV6KSiI8XcdbX7xcuz6qheTD+SKI9w8LE3r6OctYCPh7/tk1JbgaJDME5cHogjNBOaVpxQXh936jUBxIqxLrLVf2PdUvXntkyp2IeLT+2pzQJnnvSzKGRrKNTUvwepZWMyPKuzTaWQVW3YLAcofiw+37KPfPaCSU1apgqT6xmIcvIrtW2O3iRFD6NmZ1jZ044bMAD3rtuaADxVB0RJd;TqEFI/ZtTuhw/5+gNPElKA=="
 ---
 

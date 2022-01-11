@@ -1,20 +1,17 @@
 ---
 category: news
 title: "Data Startup Labelbox Reaches Toward $1 Billion Valuation With SoftBank Funding"
-excerpt: "In the enterprise, “we do not see the companies that you may think of as our competition,” says CEO Manu Sharma."
+excerpt: "When we are talking to the enterprise, we do not see the companies that you may think of as our competition,” says CEO Manu Sharma."
 publishedDateTime: 2022-01-06T11:00:00Z
 originalUrl: "https://www.forbes.com/sites/kenrickcai/2022/01/06/data-startup-labelbox-series-d-funding-from-softbank/"
-webUrl: "https://www.forbes.com/sites/kenrickcai/2022/01/06/data-startup-labelbox-series-d-funding-from-softbank/"
+webUrl: "https://www.forbes.com/sites/kenrickcai/2022/01/06/data-startup-labelbox-series-d-funding-from-softbank/?sh=6d9b8c6a2f59"
 type: article
-quality: 48
-heat: 48
-published: false
 
 provider:
   name: Forbes
   domain: forbes.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+    - url: "/assets/images/organizations/forbes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,11 +19,11 @@ topics:
   - AI
 
 images:
-  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d631a168710f2ab3034eaa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1599%26cropY1%3D2%26cropY2%3D1069"
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d631a168710f2ab3034eaa%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1599%26cropY1%3D0%26cropY2%3D1066"
     width: 1200
-    height: 801
+    height: 800
     isCached: true
 
-secured: "y9g279XZF9x3izHyqgMZgwLMJRtROfHhbfL+WrwbBNpXP/jXBxWX4puTuTWJWXNUVIksuF87tHBa/iCrEJSLZk1ntKt5oD+h0y1jQhB9kWZAsuzHD4sNXkHfGbGH50yZprAQcxqn427Ejltpjmrm2J6Rd7meiOnbAhK3Yim/Y9IcMIu3j3osCyWKRjsDcaQ5MNy8b3ETPP6WJajBWSQRkrhj1RTJNOqQpcH68PtMFXZF0/eTyS3Myz4CxwMCpVP7IwFrl6NKV6u/dndH1rAvk0aaxWWFP0uaI+mvcWetqVLgfreh7L//94vvZSSLGD3ejmwDu67iOXlsR9p++rUFcE/qOvyibuzNYZF1ebQX0cc=;YlFZSFenHP4FxifwbJNRBw=="
+secured: "NOXRL66jWH/CRnzi9mlCc16ccjL1Q88JZmr/43B+TEmvC4KJ/q+l/+6Aa/VxBUpt/rq5jj8nqVuShm088Y5E0f86z6PXd+oJopcW3SwZljLeL+EXfwvdIbFGf841iTpOC1q7EXuWL7m0N0EBikjyZrsE9qQpOLwSUjzuVX7GDf/OVL4Bl5jheE5xBcmZy6/usoAVHL9FNVHfpjUIga5L/rPyX7dy9cQQeKore+LPD9KcocoySABLa4cbgJy66l8RIuhiRoLpqs6q3sJpLv1nIFFRpm32GDLejGi4jEoE6XYkAwFrsB0OWu9Y+/IVVYMni2vFwBSyjlcrK8Wu/9Z5NCi9Ws2KgeiRhLv+M2w9bMA=;wzpZMJXHz49ywX0cLS+mcw=="
 ---
 

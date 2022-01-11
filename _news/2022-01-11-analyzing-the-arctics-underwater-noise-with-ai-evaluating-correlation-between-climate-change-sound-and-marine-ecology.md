@@ -24,29 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI: A Population Migration Model Integrating Global Climate Change and Covid-19 Impacts"
-    excerpt: "COVID-19 pandemic has bring global economic activity to a near- standstill with countries imposing some travel restrictions on people. On the opposite side, Climate Change affects the flows of migrations and has already started to reshape the world."
-    publishedDateTime: 2022-01-09T10:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-population-migration-model-integrating-global-climate-nko-o"
+  - title: "Machine learning and AI used to rapidly detect sepsis, cutting risk of death dramatically"
+    excerpt: "A groundbreaking advance in quickly detecting sepsis using machine learning has been pioneered by researchers in the Hancock Lab and the department of microbiology and immunology at UBC."
+    publishedDateTime: 2022-01-11T14:34:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.amp"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 29
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 65
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGogPJcPLJSCA/article-cover_image-shrink_720_1280/0/1609326937890?e=1647475200&v=beta&t=6qfVvD7v3cZDkTxb16Hi_V_rStlw5n-RRTX97ydikrc"
-        width: 1280
-        height: 636
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-and-a.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "Global Artificial Intelligence Chips Market Research Report 2021 - Impact of COVID-19 on the Market"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence Chips Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."
-    publishedDateTime: 2022-01-08T17:44:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5231511-global-artificial-intelligence-chips-market-research-report-2021-impact-of-covid-19-on-the-market.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 3
 
 secured: "11myFxYHGIBAsM69ucryDocjTOOBsoeItGprChhMBb9/D9uSK8Pm81qUbVavbmLF3GwT5SScTFA4MUalbyb0HuPsyqiMxAyuC3EoFG6gkHkLtZ+0i1jUCo8xR2pZiVK2q3ytFoEGwloZNPwt2S4vh65X/EvAHCh2PUMNRsIeQTgn/ACqBZztkeNohaeZ/9VwqVlOdAx7lVgJsDAZO3NhiVKRLTdbiLr4kr6JylKtll5S9PqTbnUQSDCLyxehgDIrxc+a6YVUgpF6JSe/tsnPS1gukUi/Zidso94TWkKyLhN61m9OO31/A8rzFApko65tCMQcKaQH8OYC3OiEZ3f9vJ2/fu0aWz6ABvVdmwR8B3A=;rrcHXLDNEkIjIzUPDjYvew=="
 ---
