@@ -7,7 +7,7 @@ originalUrl: "https://marketingsentinel.com/2022/01/10/how-will-c3-ai-inc-nyse-a
 webUrl: "https://marketingsentinel.com/2022/01/10/how-will-c3-ai-inc-nyse-ai-perform-in-the-next-few-months/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai Inc. (NYSE: AI)’s Upside Potential Is High"
-    excerpt: "C3.ai Inc. (NYSE:AI) shares, rose in value on Wednesday, January 05, with the stock price down by -4.83% to the previous day’s close as strong demand from buyers drove the stock to $29.33. Actively observing the price movement in the last trading,"
-    publishedDateTime: 2022-01-06T14:31:00Z
-    webUrl: "https://stocksregister.com/2022/01/06/c3-ai-inc-nyse-ais-upside-potential-is-high/"
-    type: article
-    provider:
-      name: stocksregister
-      domain: stocksregister.com
-    quality: 37
-    images:
-      - url: "https://stocksregister.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "For Risk-Tolerant Investors, C3.ai Inc. (NYSE: AI) Stands Out As A Strong Investment Choice"
     excerpt: "During the recent session, C3.ai Inc. (NYSE:AI)’s traded shares were 0.79 million. At the last check today, the stock’s price was $29.23, reflecting an intraday loss of -0.34% or -$0.1. The 52-week high for the AI share is $176."
     publishedDateTime: 2022-01-06T19:02:00Z
@@ -53,6 +39,6 @@ related:
         height: 900
         isCached: true
 
-secured: "Hz/DiHpictBzgWJj2fKHT63JS9bsfwdyBuut6BKAQSSCfAlBFwBt4VDgfMRphELWJ9MmGO7y1iDzLqjf32DXiHE5+nWV23BTZE0U5RlHcCF+RBMuvEfT8jbP6hqhpzqIFZgP3IKDzZly8KvmwRJvcS0VUjtjf6TxpT/6Vu9tJy1Z/Mmo7r9mtgp6hbvnmCF+x4mNHXJowwk+2CabDxvRB3QgD5gnczQSJ2aMON5lERtOnEs3r6ZfqKMUJVliN4u7fhoiDEeUcPLWapMjsANHpyK2VbOIFVvZIFGNaUfnkerhxJKAXUFqLfVzR9CVWsGm/WDOl7FvseVxOoY7F1Q7AioRGJnGt7bnctjCUa2Gko8=;fQx1yvAzQ+3R2gIqMEyq8g=="
+secured: "+Smtc+/mQBezonfrhTEtLvmleiknp/h7tbxY2h0GEwatZ1XNDRQqaE+Ht+MtyfeIILruTQGJAHVPLXAsaF9+P5tl+zpPukaymRppfs/N3zZWlQLeEoV3R9fChvCziU6Pu+VLDoHWKUXoG184EjV7hmImangLn8Bns1K6OhMt4Gr9GHUA1Wz5kImDCCgmSRS4YufoDwnPczWqKxBgWytpquAH48htkWxNhNVZDuy/AirQoSdZeF4d2fvnf2FNwtVzj9+bBmM6kvI0hy9zWfPEXwmIrwSXI8Ay5vV12CIXavEJsmnq8Bocfbsk34J/W4vMYEuPXElku76EFz4s/zlCkp8M+iYu2zXkEouB42eKOBk6VJjMGk30n19gMmnmDe7I268MmMXQTEkmoE+uOuWDeLQjf47iUQ+DboTKwtT2rfL0EL7Gcchu2etjP6f9lBdySGQ1HvP8pICXd/Xs3sRLlgWl5rcO7Nsxtvxtg2TndcuMmFqmJp6I9l0wlnSGNf+Q5tZaXhhxEESHCRuikhCCag==;8K6Dq04arolzEYCSxj4QsQ=="
 ---
 

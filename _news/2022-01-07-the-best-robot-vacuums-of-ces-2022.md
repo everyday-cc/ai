@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?a
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
 type: article
 quality: 91
-heat: 191
+heat: 181
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2022/01/Promo-Facebook-Facebook-link-image-1.jpeg?w=1280"
         width: 1200
         height: 630
-        isCached: true
-  - title: "DEEP Robotics’ Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
-    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry’s annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
-    publishedDateTime: 2022-01-06T14:45:00Z
-    webUrl: "https://apnews.com/press-release/PRNewswire/technology-science-china-asia-robotics-367ae93a9f70b62ab37261b1a4597fea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 54
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
     excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."

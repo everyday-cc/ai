@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/"
 type: article
 quality: 89
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Five health tech innovations to watch in 2022"
-    excerpt: "From an AI-powered early-warning system for post-operative complications to a non-invasive colonoscopy alternative, here are some innovations that are paving the way for a better tomorrow in healthcar"
-    publishedDateTime: 2022-01-06T14:30:00Z
-    webUrl: "https://www.raconteur.net/healthcare/health-tech-innovations-2022/"
-    type: article
-    provider:
-      name: Raconteur
-      domain: raconteur.net
-    quality: 24
-    images:
-      - url: "https://www.raconteur.net/wp-content/uploads/2022/01/Five-health-tech-innovations-to-watch-in-2022.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Five Key Trends Which Will Change the Data Science Landscape in 2022"
     excerpt: "I would like to start of by wishing you all a Happy New Year! As many of you may know, data science is transforming businesses world-wide. It has now become an integral part of the enterprise and is now starting to be known as the new oil."

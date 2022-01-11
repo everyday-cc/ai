@@ -41,6 +41,15 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "Microland Has Earned the Microsoft Azure Virtual Desktop Advanced Specialization"
+    excerpt: "This specialization demonstrates our expertise in assessment, design, implementation, and optimization of virtual desktop infrastructure in Azure  - Report on The Eastern Herald"
+    publishedDateTime: 2022-01-11T05:07:00Z
+    webUrl: "https://www.easternherald.com/2022/01/11/microland-has-earned-the-microsoft-azure-virtual-desktop-advanced-specialization/"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 29
 
 secured: "ocGeX8x3d4euJz101cDV17M93k+gOnxepXHnhhQ0ZeKvUyybBsZRvkupZFNpzvSfOntCIg7W7+C4FAgEsDPck+cMhGOS174aCj0zumQlefGPkNm97cLUKxksD86GQA45fLuNBaGzUNU3DWFnYYjxyxtn4lCjcgH94gDHpN9uPLtJQH5rk9u3XuS++kVaZcQNt9pE6f1ujIWxLQBOBCGVFJ3Z0YUhXJNfT6ffPWnL58D55Ogv1FoswIo/CwsT/wHPwp4SsOS5xDN35W2hMsSmBtaYavFxVYAcVgCBTwxyzmYZ7WTDGjKq2AeVbYciTVsnVpCcpc194T6VZcJEgEQxeYmXmeM/JcK5FDK6VYP2rsM=;UVbsukN2K4ro1OCe94wAog=="
 ---

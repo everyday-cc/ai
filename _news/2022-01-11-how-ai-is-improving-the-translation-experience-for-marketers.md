@@ -59,11 +59,25 @@ related:
     provider:
       name: CIOReview
       domain: cioreview.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.cioreview.com/news_new/sliderimage/t0ssq.pmmag.jpg"
         width: 300
         height: 350
+        isCached: true
+  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
+    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+    publishedDateTime: 2022-01-06T15:15:00Z
+    webUrl: "https://www.lelezard.com/en/news-20181152.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 53
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Opinion: Using AI and machine learning to improve the health insurance process"
     excerpt: "In the past decade, health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
@@ -107,15 +121,6 @@ related:
         width: 300
         height: 234
         isCached: true
-  - title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-    excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-    publishedDateTime: 2022-01-06T14:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 33
   - title: "How one company is applying AI to improve legal operations"
     excerpt: "Legal ops professionals are already using AI solutions to improve department performance. Here is how one legal department is doing it."
     publishedDateTime: 2022-01-06T18:49:00Z

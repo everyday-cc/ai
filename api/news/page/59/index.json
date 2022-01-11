@@ -2,6 +2,57 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-11-23-why-enterprises-should-build-ai-infrastructure-first.md",
+      "title": "Why enterprises should build AI infrastructure first",
+      "excerpt": "Looking forward, it’s clear that AI infrastructure will be more than just a competitive advantage, but an operational necessity.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/",
+      "originalUrl": "https://venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2013/11/infrastructure.jpg?w=1200&strip=all",
+          "width": 558,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/why-enterprises-should-build-ai-infrastructure-first/amp/",
+      "publishedDateTime": "2021-11-22T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-global-cognitive-informatics-market-research-report-2021-2026-healthcare-and-biomedicine-industry-will-lead-to-the-adoption-of-cognitive-service.md",
       "title": "Global Cognitive Informatics Market Research Report 2021-2026 - Healthcare and Biomedicine Industry Will Lead to the Adoption of Cognitive Service",
       "excerpt": "The enterprise sector will have the highest adoption of cognitive applications and services The global market will reach USD $32.6B by 2026, growing at 40.3% CAGR from 2021 to 2026 Key Topics Covered",
@@ -1018,58 +1069,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-22-global-deep-learning-in-machine-vision-market-2021-future-outlook-and-research-studies-to-2027.md",
-      "title": "Global Deep Learning in Machine Vision Market 2021 Future Outlook and Research Studies to 2027",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Nov 21, 2021 (CDN Newswire via Comtex) -- Global Deep Learning in Machine Vision Market Growth (Status and Outlook) 2021-2027 is the fresh report by MarketandResearch.biz ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-machine-vision-market-2021-future-outlook-and-research-studies-to-2027-2021-11-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-in-machine-vision-market-2021-future-outlook-and-research-studies-to-2027-2021-11-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-21T19:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

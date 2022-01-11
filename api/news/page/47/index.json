@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-12-02-dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning.md",
+      "title": "Dataiku releases new version of unified AI platform for machine learning",
+      "excerpt": "While trying to make data scientists more effective, Dataiku’s AI platform also provides no-code GUIs for data prep and AutoML capabilities.Read",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning-10804215",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dataiku-releases-new-version-of-unified-ai-platform-for-machine-learning-10804215",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-reimagining-your-customer-experience-with-conversational-ai.md",
       "title": "Reimagining Your Customer Experience With Conversational AI",
       "excerpt": "That needn’t be the case: it’s time for organizations to reevaluate the role of conversational AI in customer experiences. In many cases, it’s already become obvious that simple speech can replace high-friction processes.",
@@ -1137,50 +1180,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-deepminds-ai-helps-untangle-the-mathematics-of-knots.md",
-      "title": "DeepMind’s AI helps untangle the mathematics of knots",
-      "excerpt": "Researchers at artificial-intelligence powerhouse DeepMind, based in London, teamed up with mathematicians to tackle two separate problems — one in the theory of knots and the other in the study of symmetries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-03593-1?ref=dailydevbytes.com",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-03593-1?ref=dailydevbytes.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-03593-1/d41586-021-03593-1_19914642.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

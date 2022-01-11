@@ -31,7 +31,7 @@ related:
   - title: "This Robot Trader Is Betting on Big Gains for Tesla and Nvidia Stock. It’s Been Right Before."
     excerpt: "This artificial intelligence-powered ETF ditched Netflix, Merck, and three other familiar stocks this month. Here's what it bought."
     publishedDateTime: 2022-01-10T17:12:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218?siteid=yhoof2"
+    webUrl: "https://www.barrons.com/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218?refsec=funds"
     ampWebUrl: "https://www.barrons.com/amp/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-nvidia-stock-robot-trader-artifical-intelligence-51641575218"
     type: article

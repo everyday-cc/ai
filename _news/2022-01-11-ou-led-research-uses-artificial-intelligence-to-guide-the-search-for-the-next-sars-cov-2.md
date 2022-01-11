@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists employ AI to predict which viruses could infect humans in future"
+    excerpt: "Daniel Becker, an assistant professor of biology in the University of Oklahoma's Dodge Family College of Arts and Sciences, has been leading a proactive modeling study over the last year and a half to identify bat species that are likely to carry betacoronaviruses,"
+    publishedDateTime: 2022-01-11T06:26:00Z
+    webUrl: "https://www.news-medical.net/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 55
+    images:
+      - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"
+        width: 973
+        height: 514
+        isCached: true
   - title: "Researchers use artificial intelligence to guide the search for the next SARS-like virus"
     excerpt: "An international research team led by scientists at Georgetown University have demonstrated the power of artificial intelligence to predict which viruses could infect humans—like SARS-CoV-2, the virus that led to the COVID-19 pandemic—which animals host them,"
     publishedDateTime: 2022-01-10T23:30:00Z

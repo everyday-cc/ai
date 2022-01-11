@@ -2,6 +2,40 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-12-13-global-brain-cancer-surgery-and-radiation-therapy-market-research-2021.md",
+      "title": "Global Brain Cancer Surgery and Radiation Therapy Market Research 2021",
+      "excerpt": "The \"Surgery and Radiation Therapy in Brain Cancer - Market Insight, Competitive Landscape and Market Forecast - 2026\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24564999/global-brain-cancer-surgery-and-radiation-therapy-market-research-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24564999",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24564999",
+      "publishedDateTime": "2021-12-13T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-13-chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist.md",
       "title": "Chinese AI Giant SenseTime Remains Committed To IPO Despite U.S. Blacklist",
       "excerpt": "Chinese artificial intelligence company SenseTime has decided to postpone its initial public offering in Hong Kong after it was put on a U.S. investment blacklist, although the company insists that it still intends to complete the listing.",
@@ -1094,58 +1128,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-the-worlds-first-risc-v-gpu-could-be-on-the-horizon.md",
-      "title": "The world's first RISC-V GPU could be on the horizon",
-      "excerpt": "By creating GPUs specifically for RISC-V, it will be easier to conduct AI and machine learning work using chips featuring the architecture. However, by focusing on shaders, a GPU extension for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/uk/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
-      "originalUrl": "https://www.techradar.com/uk/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/3KVYrh3xCBJEz6enRvignB-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/the-worlds-first-risc-v-gpu-could-be-on-the-horizon",
-      "publishedDateTime": "2021-12-10T17:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/22388-etisalat-de
 webUrl: "https://www.thefastmode.com/technology-solutions/22388-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 539
         height: 359
         isCached: true
+  - title: "Microland Has Earned the Microsoft Azure Virtual Desktop Advanced Specialization"
+    excerpt: "This specialization demonstrates our expertise in assessment, design, implementation, and optimization of virtual desktop infrastructure in Azure  - Report on The Eastern Herald"
+    publishedDateTime: 2022-01-11T05:07:00Z
+    webUrl: "https://www.easternherald.com/2022/01/11/microland-has-earned-the-microsoft-azure-virtual-desktop-advanced-specialization/"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 29
 
 secured: "1thRMfc1zHHORsozhFTBFZ2IdkbrKB5uJzAqpe1lK1qcfHL79BubfiShDYMcj7FikCo/6ja6SoVFZuMYo2sdNfrZqybCyGiF+3hrwvc9Ng6mPFiAPODo6X5t+Wvdqr5qpOsUh2EwxXBNX4UGqV1Xezrf7OfnSrU8lRJLSzpQMwiA2HiCNz+NaVb2FeP7tLG4hrme//yFP3phIe76k3uIXqOQOkY2beAO4XeLaskjSApycXSw9xKPrJEgiZppDxv/1iuazaaQ1JSsvnhWDR+kKBdeZM26HvAdS3mOAXAJH5tVmLqa/BH3uHUzEEohGysikjc7J0111HSyzb+aKUcWo0GvBne3LtqdDrlz4CcqqFQa/cGs1kCdIGZEgroYC1nFiNDb5E47dLlQw+IqM7llHv1nRZC43zcsJdXxGSFQMzY4GXMfcyGsCRBcHqu2cO5NihtvdDozBEibRck0iBmzFncC+fU91ULYuOEc5e4NNJuBTxz5Zm93GbbNzwgRKD7bj4lFtfUD1V3xktJKCB4ibg==;l981PFQi4dAuPBtnowsf/A=="
 ---

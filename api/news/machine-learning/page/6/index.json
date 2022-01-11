@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-12-02-four-day-cardiology-conference-from-today.md",
-      "title": "Four-day cardiology conference from today",
-      "excerpt": "“Artificial Intelligence and Machine Learning ... will be working towards developing ‘Deep Neural Networks’ and achieving the target of accurately predicting heart risks in advance by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/telangana/four-day-cardiology-conference-from-today/article37789836.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/telangana/four-day-cardiology-conference-from-today/article37789836.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th.thgim.com/static/theme/default/base/img/og-image.jpg",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/telangana/four-day-cardiology-conference-from-today/article37789836.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/telangana/four-day-cardiology-conference-from-today/article37789836.ece/amp/",
-      "publishedDateTime": "2021-12-01T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-01-deep-learning-dreams-up-new-protein-structures.md",
       "title": "Deep Learning Dreams Up New Protein Structures",
       "excerpt": "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools.",
@@ -1411,6 +1368,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning.md",
+      "title": "Apollo Tyres Goes All-In on AWS to Make Factories Smarter with IoT and Machine Learning",
+      "excerpt": "Amazon Web Services (AWS) announced that Apollo Tyres, India’s leading tyre manufacturer, is going all-in on AWS to digitally transform. By moving all of its IT infrastructure to",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "originalUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2021/11/Apollo-Tyres_AWS-2.jpg?fit=800%2C532&ssl=1",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
+      "publishedDateTime": "2021-11-23T03:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

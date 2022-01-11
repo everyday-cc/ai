@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022"
-excerpt: "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the"
-publishedDateTime: 2022-01-05T13:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html"
+excerpt: "Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the Consumer Electronics Show (CES) 2022 from January 5-7 at booth 5318, West Hall, LVCC to demonstrate the company's unprecedented lineup of innovative robotics."
+publishedDateTime: 2022-01-05T15:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-1031079326"
+webUrl: "https://markets.businessinsider.com/news/stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022-1031079326"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize"
-    width: 1154
-    height: 606
+  - url: "https://mma.prnewswire.com/media/1718980/CES_20PR_NINA_201_ID_b68368801933.jpg"
+    width: 257
+    height: 400
     isCached: true
 
-secured: "WzZYjBubtSFsiWq2Ot80kBJzIIL+HplhkuisPUaL+L588Yi6/OeZRkpQxmuA2bfRW1eoMsBsWCexRYo3i+pk4FhaBNVGp4i9sN8Y4aXa3RVathGy9s302bh1s4XLMyV90hlEEd+V+6VBokT6kAGLFM337albdW6Q9s1kpwGfkYwGQHbNaOmW4WRF94oVxBbjB9KRDaDhGrKJMt2h9n6bidZoPqb0KHq0t6YIqzHlyTYMUElsYBa3NLYl+owZbNh156UEyGiFXjOCyqw0d7G+8Ki+wjpNU8vniI0TWgde+RlcnHUQMoyC41pOQqyjfyLMcdC+xwAlD7iPFfdMnjRTdJSyLAynBs2gUmhLuQnJusG3HejfiKWf67SwS/is8EYogrAveJb+QlxPVvN8/8UczVdYTxI6JwxqldV3i/y5BR/HIpSMBBi9cnijtHe0+pxzwV3OxR7V+Md0G+GCVDqYzSEJULXm8VDVmyRXXTygqdUmu93F5a//ODme1kBY50/WYNLz0NreQNwidm92YHBvyw==;Tq4mom28Zk9npAImwUYemQ=="
+secured: "fDP5McWkcqlqVVATxtc1bgWdaWgK32S+pLEZBquYO1XM7npHNVhnIEYwkYJjS7Y5KmB6HGhXlYIpJzq/R1nR6nwo2BoNU9b697sl5POGhtawMV4H+rjXLxXPgrdDae6bPibzoMTGjPcEzdRPWsVONKAI4PqSd8RWy65n7WcPq45WEtJbvgC0NwTGIvFaBKjqTlPPt2LBA6vlbdF/b+yHCPupxZsNN8/7KqrP9z4su6q4dPMYe7o03V1jQGCPGj0aPe2GI0cmUF0TgCQ+rEaWMdGmR7pQKtEM+3sCWBnF0XkeilZZ8/YzJfzMr7sukqx1S9M8GPAr/jxtKwZaXwAdrE8dJ+hsRhUh2dYxh0SIYpE=;4NEM/kYkNkPP5QNw12Dmkw=="
 ---
 

@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-08-the-first-model-from-baidus-new-ev-brand-jidu-to-use-the-nvidia-drive-orin-system-on-a-chip-to-support-l4-autonomous-driving.md",
+      "title": "The First Model From Baidu's New EV Brand JiDU to Use the NVIDIA DRIVE Orin System-on-a-Chip to Support L4 Autonomous Driving",
+      "excerpt": "JiDU Automotive, the new electric vehicle venture formed by China’s internet technology giant Baidu Inc and Chinese automaker Geely, will use the powerful NVIDIA DRIVE Orin system-on-a-chip (SoC) in its first model to support L4 autonomous driving capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.geospatialworld.net/news/jidu-level-4-self-driving-vehicle-powered-by-nvidia-drive-orin-to-begin-production-next-year/",
+      "originalUrl": "https://www.futurecar.com/5113/The-First-Model-From-Baidu’s-New-EV-Brand-JiDU-to-Use-the-NVIDIA-DRIVE-Orin-System-on-a-Chip-to-Support-L4-Autonomous-Driving",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geospatialworld.net/wp-content/uploads/2022/01/image-1-scaled.jpeg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "futurecar",
+        "domain": "futurecar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california.md",
       "title": "Volvo Ride Pilot autonomous driving feature to launch in California",
       "excerpt": "Many automotive manufacturers have been working to develop autonomous driving capabilities for their vehicles. The ability for a car to drive itself without supervision from a human is an",
@@ -209,7 +253,7 @@
       "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 191,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -344,6 +388,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
+      "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
+      "excerpt": "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -778,49 +875,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-07-seeking-a-way-of-preventing-audio-models-for-ai-machine-learning-from-being-fooled.md",
-      "title": "Seeking a way of preventing audio models for AI machine learning from being fooled",
-      "excerpt": "Artificial intelligence (AI) is increasingly based on machine learning models, trained using large datasets. Likewise, human-computer interaction is increasingly dependent on speech communication, mainly due to the remarkable performance of machine learning models in speech recognition tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
-      "originalUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/seeking-a-way-of-preve.jpg",
-          "width": 775,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-01-audio-ai-machine.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-audio-ai-machine.amp",
-      "publishedDateTime": "2022-01-06T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-07-ai-could-revolutionize-healthcare-but-can-we-trust-it.md",
       "title": "AI Could Revolutionize Healthcare. But Can We Trust It?",
       "excerpt": "At CES 2022, A panel of AI experts discussed what role AI might play in the future of healthcare. In a session titled \"Consumer Safety Driven by AI,\" Pat Baird, an AI engineer and software developer who works in standards and regulations for Phillips,",
@@ -1152,57 +1206,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-the-chillax-baby-mood-ai-smart-monitor-focuses-on-privacy.md",
-      "title": "The Chillax Baby Mood AI Smart Monitor focuses on privacy",
-      "excerpt": "Chillax announces its unique Baby Mood AI smart baby monitor with AI and machine learning that grows with your baby.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
-      "originalUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/baby-mood-_05-2.jpg",
-          "width": 655,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
-      "publishedDateTime": "2022-01-06T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
-publishedDateTime: 2022-01-06T14:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
+publishedDateTime: 2022-01-06T15:15:00Z
+originalUrl: "https://www.lelezard.com/en/news-20181152.html"
+webUrl: "https://www.lelezard.com/en/news-20181152.html"
 type: article
-quality: 33
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
+    width: 640
+    height: 480
+    isCached: true
 
 related:
   - title: "Using AI And Machine Learning To Improve The Health Insurance Process"
@@ -59,7 +65,7 @@ related:
     provider:
       name: CIOReview
       domain: cioreview.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://www.cioreview.com/news_new/sliderimage/t0ssq.pmmag.jpg"
         width: 300
@@ -126,6 +132,6 @@ related:
       domain: wolterskluwer.com
     quality: 17
 
-secured: "br5aYTM7+GVMqmUyHq+yYPlWDljnQnrNANvHuVm5j0KAe1iQgAHn3kqLJHlz7tDbLElHIqKtxs7q4G4OmcI523jyy1kPihCwvWcS1sM7lpAwxFcY+8E++3AI00HBHJpPqIBXjyUrA6RxpAXrs8KRHQy/OUISjMAgRjc6v1A4Ga0qtOkXVR68DlM01UzGE1OdV8xfSS9vHI8r/eRccZV8VJ9K1xbmlGfLosCTtmsEtIkK1c3N4Du83+uo3iZyzy8esu3zczpOHFET2YRy/NHXboopOxDYWBTCn9J3nC8xjBZacdH8pISrfdA/pZew9Uq69wcyVzl4C8KhaghkRKERzjKKXzp20BD8WbprTHf9oEQ=;vVcrydPgTS2ICg/HcsQ4ow=="
+secured: "AmzKN3XrgHfrnWkd6KeiDrMwpYlgDIzWcl8a8DE4oSFhw7MtcguNrf3WkqHLIc+vlF5OA74fB/VHHO4q9w9BOHp1wbw0tDq0kkqMUSCaFIdWFB88cFUt9uQe3KRNa7TygefFd2crpu8YZgWyPJJ8CHq+a13tqPqQFyVC42pJD/QavHUMpxrdNJbMtCwm6nIgaJOtjUueoUooviePtxze7/zJCGU/fkjp895GH3k1I6sEjxDNM9w9jn6HYqjB3C/QaYgCT49N8k6ZkeGz+9UZVGUhBgFBBHH8xPhZguv/8UC5ncQqjIBPkM8CsDkEhCsnBKOjUzFyKu+z2ZdUMNDd/yt1ce750EwDxgk2BgXboks=;afJDABp/dBu7zkt8prMQ7g=="
 ---
 

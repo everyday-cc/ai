@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-12-29-china-unveils-five-year-plan-for-robotics.md",
+      "title": "China unveils five-year plan for robotics",
+      "excerpt": "The five-year plan details the overarching goal of making China a key source of global robotics innovation by 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/",
+      "originalUrl": "https://www.therobotreport.com/china-unveils-five-year-plan-for-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/featured-web-qujar.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T18:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-nvidia-plans-to-be-a-force-behind-level-5-autonomous-vehicles.md",
       "title": "Nvidia Plans to Be a Force Behind Level 5 Autonomous Vehicles",
       "excerpt": "The company calls Pegasus, “The world's first artificial intelligence computer designed to drive fully ... essentially functioning as a mobile office or living room.\" Driverless cars will enable new ride- and car-sharing services,” Huang said.",
@@ -419,6 +462,49 @@
       ]
     },
     {
+      "path": "_news/2021-12-28-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
+      "title": "In Africa, rescuing the languages that Western tech ignores",
+      "excerpt": "Computers have become precise at translating spoken words to text messages, as long as you speak English or another dominant language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores",
+      "originalUrl": "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/ea37890/2147483647/strip/true/crop/5981x4000+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F45%2F9efb497bfe7a1ac25fe96c5b7ff5%2Faf25f1d9f7e44e5fb01b3552a4577d8c",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores?_amp=true",
+      "publishedDateTime": "2021-12-28T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-sjain-ventures-is-set-to-launch-finleg-a-service-that-will-assist-businesses-with-financial-and-legal-challenges.md",
       "title": "Sjain Ventures is set to launch Finleg, a service that will assist businesses with financial and legal challenges",
       "excerpt": "Finleg one of Sjain Ventures wings is set to launch in 2022 with its offices Raipur and Pune to serve as the company first locations Finleg offers income",
@@ -700,49 +786,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
-      "title": "In Africa, rescuing the languages that Western tech ignores",
-      "excerpt": "We are getting to the point where if a machine doesn’t understand your language it will be like it never existed,” said Vukosi Marivate, chief of data science at the University of Pretoria in South Africa,",
-      "sourceUrl": null,
-      "webUrl": "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
-      "originalUrl": "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/sacobserver.com/wp-content/uploads/2021/12/tech.jpeg?fit=1000%2C667&ssl=1",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/?amp",
-      "cdnAmpWebUrl": "https://sacobserver-com.cdn.ampproject.org/c/s/sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/?amp",
-      "publishedDateTime": "2021-12-27T23:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sacramento Observer",
-        "domain": "sacobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1106,49 +1149,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-china-has-developed-an-ai-prosecutor.md",
-      "title": "China has developed an… AI prosecutor?",
-      "excerpt": "AI is so pervasive in China, that it’s used in everything from online shopping to… let’s just call it 'Big Brother' activities.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/",
-      "originalUrl": "https://techwireasia.com/2021/12/china-has-developed-an-ai-prosecutor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/12/andoird-judge-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/china-has-developed-an-ai-prosecutor/",
-      "publishedDateTime": "2021-12-27T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

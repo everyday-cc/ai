@@ -2,6 +2,59 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-12-23-use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing.md",
+      "title": "Use deep learning frameworks natively in Amazon SageMaker Processing",
+      "excerpt": "Until recently, customers who wanted to use a deep learning (DL) framework with Amazon SageMaker Processing faced increased complexity compared to those using scikit-learn or Apache Spark. This post shows you how SageMaker Processing has simplified running machine learning (ML) preprocessing and postprocessing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T11:57:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-robots-and-conveyor-belts-jacky-li-talks-kitchen-tech-at-roger-bar-and-restaurant.md",
       "title": "Robots and conveyor belts: Jacky Li talks kitchen tech at Roger Bar and Restaurant",
       "excerpt": "Since opening in July, Roger Bar and Restaurant in Mountain View has faced hiring challenges amid a labor shortage during the pandemic. Leveraging tech tools can help alleviate some of the pressure.",
@@ -1115,49 +1168,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-fintech-oportun-completes-acquisition-of-banking-platform-digit.md",
-      "title": "FinTech Oportun Completes Acquisition of Banking Platform Digit",
-      "excerpt": "Fintech Oportun has acquired neobanking platform Digit for $211.1 million, which included an aggregate of $112.6 million in cash and $98.5 million in stock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
-      "originalUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/07/international-acquisitions-b2b-payments-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/acquisitions/2021/fintech-oportun-completes-acquisition-of-banking-platform-digit/amp/",
-      "publishedDateTime": "2021-12-22T18:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

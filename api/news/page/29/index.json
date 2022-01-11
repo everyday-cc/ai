@@ -2,6 +2,50 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-12-14-machine-learning-mlperf-and-ai-benchmark-4.md",
+      "title": "Machine Learning: MLPerf and AI Benchmark 4",
+      "excerpt": "Even as a new benchmark in the space, MLPerf has been made available that runs representative workloads on devices and takes advantage of both common ML frameworks such as NNAPI as well as the respective chip libraries for each vendor. Using this benchmark on retail phones to date, Qualcomm has had the lead in almost all the tests, but given that the company is promoting a 4x increase in AI performance, it will be interesting to see if that comes across all of MLPerf’s testing scenarios. It should be noted that Apple’s CoreML is currently not supported, hence the lack of Apple numbers here. Across the board in these first four tests Qualcomm is making a sizeable lead, going above and beyond what the S888 can do. Here we’re seeing up to a 2.2x result, making an average +75% gain. It’s not quite the 4x that Qualcomm promoted in its materials, but there’s a sizeable gap with the other high-end silicon we’ve tested to date. The only non-lead is with the language processing, where Google’s Tensor SoC is almost 2x what the S8g1 scores. This test is based on a mobileBERT model, and either for software or architecture reasons, it fits a lot better into the Google chip than any other. As smartphones increase their ML capabilities, we might see some vendors optimizing for specific workloads over others, like Google has, or offering different accelerator blocks for different models. The ML space is also fast paced, so perhaps optimizing for one type of model might not be a great strategy long-term. We will see. In AI Benchmark 4, running in pure NNAPI mode, the Qualcomm S8g1 takes a comfortable lead. Andrei noted in previous reviews with this test that the power consumed during this test can be quite high, up to 14 W, and this is where some chips might be able to pull ahead an efficiency advantage. Unfortunately we didn’t record power at the same time as the test, but it would be good to monitor this in the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.anandtech.com/show/17102/snapdragon-8-gen-1-performance-preview-sizing-up-cortex-x2/3",
+      "originalUrl": "https://www.anandtech.com/show/17102/snapdragon-8-gen-1-performance-preview-sizing-up-cortex-x2/3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.anandtech.com/doci/17102/P1010318a_678x452.JPG",
+          "width": 678,
+          "height": 291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AnandTech",
+        "domain": "anandtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-what-challenges-in-education-can-ai-solve-today.md",
       "title": "What Challenges In Education Can AI Solve Today?",
       "excerpt": "The core idea of e-learning mobile and web applications is making the process available anytime and anywhere through personal devices.",
@@ -1086,59 +1130,6 @@
         "AI Ethics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass.md",
-      "title": "Machine learning inference at the edge using Amazon Lookout for Vision and AWS IoT Greengrass",
-      "excerpt": "Discrete and continuous manufacturing lines generate a high volume of products at low latency, ranging from milliseconds to a few seconds. To identify defects at the same throughput of production, camera streams of images must be processed at low latency. Additionally, factories may have low network",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/machine-learning-inference-at-the-edge-using-amazon-lookout-for-vision-and-aws-iot-greengrass/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/11/26/hero-image.png",
-          "width": 1028,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-13T10:44:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

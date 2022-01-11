@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "C3.ai Inc. (NYSE: AI)’s Upside Potential Is High"
-    excerpt: "C3.ai Inc. (NYSE:AI) shares, rose in value on Wednesday, January 05, with the stock price down by -4.83% to the previous day’s close as strong demand from buyers drove the stock to $29.33. Actively observing the price movement in the last trading,"
-    publishedDateTime: 2022-01-06T14:31:00Z
-    webUrl: "https://stocksregister.com/2022/01/06/c3-ai-inc-nyse-ais-upside-potential-is-high/"
-    type: article
-    provider:
-      name: stocksregister
-      domain: stocksregister.com
-    quality: 37
-    images:
-      - url: "https://stocksregister.com/wp-content/plugins/feeds-for-youtube/img/placeholder.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How Will C3.ai Inc. (NYSE: AI) Perform In The Next Few Months?"
     excerpt: "C3.ai Inc. (NYSE:AI) has seen 1.3 million shares traded in the recent trading session. The company, currently valued at $3.11B, closed the recent trade at $28.22 per share which meant it lost -$1.72 on the day or -5."
     publishedDateTime: 2022-01-10T21:02:00Z

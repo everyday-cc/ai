@@ -1,28 +1,28 @@
 ---
 category: news
 title: "In Africa, rescuing the languages that Western tech ignores"
-excerpt: "We are getting to the point where if a machine doesn’t understand your language it will be like it never existed,” said Vukosi Marivate, chief of data science at the University of Pretoria in South Africa,"
-publishedDateTime: 2021-12-28T07:01:00Z
-originalUrl: "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
-webUrl: "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/"
-ampWebUrl: "https://sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/?amp"
-cdnAmpWebUrl: "https://sacobserver-com.cdn.ampproject.org/c/s/sacobserver.com/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/?amp"
+excerpt: "Computers have become precise at translating spoken words to text messages, as long as you speak English or another dominant language."
+publishedDateTime: 2021-12-28T13:03:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores"
+webUrl: "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-12-28/in-africa-rescuing-the-languages-that-western-tech-ignores?_amp=true"
 type: article
 
 provider:
-  name: The Sacramento Observer
-  domain: sacobserver.com
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i0.wp.com/sacobserver.com/wp-content/uploads/2021/12/tech.jpeg?fit=1000%2C667&ssl=1"
-    width: 1000
-    height: 667
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/ea37890/2147483647/strip/true/crop/5981x4000+9+0/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3c%2F45%2F9efb497bfe7a1ac25fe96c5b7ff5%2Faf25f1d9f7e44e5fb01b3552a4577d8c"
+    width: 320
+    height: 214
     isCached: true
 
-secured: "OLU9iG+I/XzQCmYuoZ3dmaCQ9wftnPBIAh+PAVVzKUlEHxuaCWw8QDronoNYTBykmrIjHa0fV2zwy0z45MCNpvet2r+xJIbqHUvXsg7zQSMf+iWA1hE8ZBAdthA+3RMBezhF7M6huEVC1eqzkvtUm1o0Rhdft8J0HBzwHxFlnCxXeEb5tsdB2M6lc7wXWjUPfU3nc5V1SYDP5x9dWsdVDYvDWsycGhqQQY9q76EJXMR49ji/fjetBvLAzgh7clq3Es59oVZBjkpts4cyuttq7WSeM9sJe/8JrjjSo//UunJ8wcv8hn/Q0x8LS+Q/O/gl2aeLfEK63bToWFvW2SpjvrFDpOzs3ab5bTpMsYDtT6/Vz1J4vTKzoICq21iuNhXnT1K0GSVPPT3vcF4ym/7zCRe2PGNrs9CZqeSqeGMeNqeiBoEIC95CChqhoRrv/IYb6h3h9q37mmfXGQT7pB40cH4CxOvALNdNXwmXGvdpTA5+8DEHIf8zD1NKA5nXm8cE1IMbiiwUEmQv0N0uU49Dyg==;7XM76RaTn21obzwVKi5h/Q=="
+secured: "ETvcXb6Qb69CGtQ3A+M40c4FJEdwUFediwlCa0iH8L2VKhRrWrrPMahtY+1af9agkpH+87cDj5bsHW9HjS8yv297MjuCpes2Zt2tTz8wke5T4qCnnNulek4ok9rgSvK0E/pG3h8e7maVRJl03tAXd3KemiNe4Sy/hh0AUN2rJ+481sE5LLbmcfpuJ1F58iCA6lz++Bw7jnN1CM4Q8iANtZ39MI+i4mX339XO3TzDQbJMZBIAH6VoR5k2mRECKmklP0C7vpmaIa6bjAyqZhd5GlvfEg2I8bT+fOMIxpV4hu+/6b3ineY31xh4/MbmvxnrKZVB0KrqjEhRVEhjzLk0ekD8M/5tJcFkx+3uMH5hdAo=;9vK1Jiq/Mcr/IPGEFFG4bA=="
 ---
 

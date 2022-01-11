@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-12-31-ethical-ai-a-perfect-world-or-a-perfect-storm-blog-1-of-2.md",
+      "title": "Ethical AI : A Perfect World Or A Perfect Storm Blog 1 Of 2.",
+      "excerpt": "This blog is one of two discussing Ethical AI offering perspectives of a Perfect World or a Perfect Storm or the AI Dilemma that leader must navigate forward to use AI practices effectively, and efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc42c9bc60197a26472c1fc%2F0x0.jpg",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2021/12/30/ethical-ai--a-perfect-world-or-a-perfect-storm-blog-1-of-2/amp/",
+      "publishedDateTime": "2021-12-30T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-ces-2022-innovation-award-honoree-deepbrain-ai-to-showcase-its-ai-human-solution.md",
       "title": "CES 2022 Innovation Award Honoree DeepBrain AI to showcase its AI Human solution!",
       "excerpt": "DeepBrain AI's video synthesis solutions, a CES 2022 Innovation Awards Winner, leverages the power of Artificial Intelligence to quickly create lifelike human-based AI avatars that inform, solve and guide users through thousands of possible scenarios and real time interactions.",
@@ -1141,48 +1193,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-indy-autonomous-challenge-to-host-first-autonomous-racecar-competition-at-ces.md",
-      "title": "Indy Autonomous Challenge to host first autonomous racecar competition at CES",
-      "excerpt": "Indy Autonomous Challenge is preparing to make history at CES 2022 by hosting the first autonomous racecar competition at the event. Energy Systems Network (ESN), principal organizer of the Indy ...",
-      "sourceUrl": null,
-      "webUrl": "https://roboticsandautomationnews.com/2021/12/28/indy-autonomous-challenge-to-host-first-autonomous-racecar-competition-at-ces/47873/",
-      "originalUrl": "https://menafn.com/1103458743/Indy-Autonomous-Challenge-to-host-first-autonomous-racecar-competition-at-CES",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2021/12/indy-autonomous-at-ces.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-29T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
