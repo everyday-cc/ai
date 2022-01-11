@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-08-nvidia-pursuing-multi-chip-module-architecture-to-meet-evolving-data-needs.md",
+      "title": "Nvidia pursuing multi chip module architecture to meet evolving data needs",
+      "excerpt": "Graphics processing units (GPUs) have become one of the primary resources supporting DL due to their inherent capabilities and optimizations. The COPA-GPU is based on the",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
+      "originalUrl": "https://www.techspot.com/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-08-image-4.jpg",
+          "width": 1940,
+          "height": 1092,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92906-nvidia-pursuing-multi-chip-module-architecture-meet-evolving.html",
+      "publishedDateTime": "2022-01-08T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation.md",
+      "title": "AI is quietly eating up the world’s workforce with job automation",
+      "excerpt": "AI job automation affects virtually every sector and industry. While this might seem like cause for alarm, it’s actually long overdue news.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/",
+      "originalUrl": "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-841824594.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/",
+      "publishedDateTime": "2022-01-08T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-alibabas-auto-driving-lab-chief-wang-gang-leaves-to-start-his-own-business.md",
       "title": "Alibaba’s auto driving lab chief Wang Gang leaves to start his own business",
       "excerpt": "Wang Gang, a former vice-president with e-commerce giant Alibaba Group Holding and head of its autonomous driving lab in the DAMO Academy, has quit to start his own business, becoming the latest top scientist to leave a Chinese Big Tech firm.",
@@ -210,7 +314,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 379,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -518,7 +622,7 @@
       "originalUrl": "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous-41641535023017.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -1038,6 +1142,50 @@
       ]
     },
     {
+      "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
+      "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
+      "excerpt": "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-bluru-based-ai-and-computer-vision-startup-avataar-raises-45-mn.md",
       "title": "B'luru-based AI and computer vision startup Avataar raises $45 mn",
       "excerpt": "Bengaluru and San Francisco-based AI and computer vision startup Avataar has raised $45 million in Series B funding led by Tiger Global. Existing investor Sequoia Capital India also participated in the round.",
@@ -1078,154 +1226,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-alteryx-announces-intent-to-buy-trifacta.md",
-      "title": "Alteryx announces intent to buy Trifacta",
-      "excerpt": "Analytics company Alteryx announced late yesterday its intent to acquire data preparation provider Trifacta for $400 million in cash. The deal will also include $75 million of restricted stock as inducement for Trifacta staff to say on.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/alteryx-announces-intent-to-buy-trifacta/",
-      "originalUrl": "https://www.zdnet.com/article/alteryx-announces-intent-to-buy-trifacta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ea61aba202ff04580cd2ef338f3149199c6a2085/2022/01/07/fc47fb37-4b90-423d-a4d5-840cfd90649d/citizen-ds.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/alteryx-announces-intent-to-buy-trifacta/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alteryx-announces-intent-to-buy-trifacta/",
-      "publishedDateTime": "2022-01-07T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-words-youve-longed-to-hear-come-and-be-touched-by-a-robot.md",
-      "title": "Words you've longed to hear: 'Come and be touched by a robot'",
-      "excerpt": "But then I read the immortal words of Consumer Technology Association president and CEO Gary Shapiro, in the Las Vegas Review-Journal: \"We will all be taking risks. But without risk there is no innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
-      "originalUrl": "https://www.zdnet.com/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b8d8feedfe9075695ddcdfcc5c65fbfa69d73a12/2022/01/05/bae42c57-1981-455c-aceb-3f44d068b608/screen-shot-2022-01-05-at-9-36-27-am.png?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
-      "publishedDateTime": "2022-01-07T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
-      "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
-      "excerpt": "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T04:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "IBM AI"
       ]
     }
   ],

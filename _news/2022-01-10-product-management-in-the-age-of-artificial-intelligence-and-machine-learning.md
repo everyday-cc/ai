@@ -110,6 +110,15 @@ related:
       name: america-retail.com
       domain: america-retail.com
     quality: 19
+  - title: "Measuring Trust in AI"
+    excerpt: "As part of this study, the team developed an octagonal visual metric, analogous to a rating system, which could be useful to AI researchers who wish to know how their work may be perceived by the public."
+    publishedDateTime: 2022-01-11T15:43:00Z
+    webUrl: "https://cacm.acm.org/news/257780-measuring-trust-in-ai"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "ACd5xd2fk39UHegmURRJiD65lxZeLIqdJXziY/DSN4Zw7yMnZF2qrd35DElrPy7Rt/Y0r9iS0wPGvJ8qBWH3HKmy5GKUAzQ2AHTOZvsB8bjkKdZ6hi1nQELZCJ77DLR2x5kLhOsW1tCZ8w+AsIbLn5JyeB6txSnqMhRr1nU11bLXz1DTRiH8EJ2AWDR2rbk5+q1Ns3DpwXajvh9/fe1gUCr8kfQkOt/AO9KW+1zDoZoFrBfsUfVCu2FlM3Ylc3OGMUAjC2g9aNwvgoZYw/g/8AraCxD1KLs/5ZPg02+iN/aGqcH7lR00eDszP1l2SoGt0AL0grk6Wwt0mbovXHzGvnXX9RMQYb+jgZF57R5sqHc=;ztAQLb9hznBJlCIM9ws83A=="
 ---

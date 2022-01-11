@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/big-data-analytics-aiml
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report"
 type: article
 quality: 72
-heat: 142
+heat: 122
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/ArtificialIntelligence_Pixabay_11012022_1200.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI Intersects with Floor Scrubbers for Robotic In-store Analytics"
-    excerpt: "AI robotics firm Brain Corp is partnering with Tennant Company to launch the data capture solution Inventory Scan, which is fitted to autonomous floor scrubbers."
-    publishedDateTime: 2022-01-07T00:14:00Z
-    webUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/"
-    ampWebUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/temast-457x305.jpeg"
-        width: 457
-        height: 305
         isCached: true
   - title: "Big data, AI/ML to be most in-demand skills in India in 2022"
     excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
@@ -122,15 +106,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
-    publishedDateTime: 2022-01-10T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
 
 secured: "byu9iRaPZaY4OJA5aDSi2KtBvWjF4pUu99RCWQ+Eel+r4Wbk0RbplhNF/q2AR4MPYfF0XrIB13LxDNPkPkqWLEoFlcFN9BNS/OMWFy05yyuZcrS0r8+w/D/Ge66sbg6NOlgd/jB4PeRJb1CZ9sAWAqHAfgetjLOF9CEISGnavadSH+haiLFVlVlRKgYXpF3YPM7eIi89kFPFrr0+qMWQgIqxiFkptEc1hjldV23yIpDQoE9dYYbs3SX9WBXsDhcDasbSBu1rBXzLqBldTRec/+5fiM113Vz5bVDDHHOygCUYgJ/msKbbEQK8qwEQ4WYymeXbZuV5NYDJOgA64ASbO2W8JMIWCj00rqUwawngiEI=;Jy5e97IryRKn6W9ifi+pHg=="
 ---

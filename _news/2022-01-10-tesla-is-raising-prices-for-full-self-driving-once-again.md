@@ -73,6 +73,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tesla Full Self-Driving has an 'Assertive' mode that can make rolling stops"
+    excerpt: "Tesla's polarizing Full Self-Driving beta software is back with another round of controversy. Now included with the software are profiles that change the behavior of the software, and one selection may engage in behavior that violates US traffic laws."
+    publishedDateTime: 2022-01-11T16:55:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-assertive-mode-rolling-stops/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/ZznhwJPP1wmRpl5zBeqxPLaLpBs=/2021/07/19/56f4362c-0a83-43a4-bbbd-42f736aa06ce/ogi-fsd.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla ‘Full Self-Driving’ beta features an ‘Assertive’ mode with rolling stops"
     excerpt: "Driving” beta 10.3 with an “Assertive Mode” that may perform rolling stops and other borderline maneuvers, The Verge has reported. The update was originally released in October 2021 with three profiles (“Chill,"
     publishedDateTime: 2022-01-10T12:02:00Z
@@ -189,6 +205,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/01/0x0-ModelY-12-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Tesla Restores Its “Assertive” Self-Driving Mode"
+    excerpt: "Tesla Inc (NASDAQ:TSLA) has reinstated the “assertive” self-driving mode. The company had issued an update in October containing the function —plus the “chill” and “average” modes— but removed it"
+    publishedDateTime: 2022-01-11T15:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/412550"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-412550.jpeg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
     excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"

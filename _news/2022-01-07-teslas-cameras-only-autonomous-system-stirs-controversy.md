@@ -42,15 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Tesla’s cameras-only driving system stirs controversy"
-    excerpt: "Tesla chief executive Elon Musk has touted a system built around eight “surround” cameras that feed data into the auto’s “deep neural network”, according to Tesla’s website. But as with so many other things involving Tesla,"
-    publishedDateTime: 2022-01-07T00:10:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/01/07/teslas-cameras-only-driving-system-stirs-controversy/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "/ugLHkPX8ETuNJt96z/MDmZ+zxg+BQhULW5/8Hkv79UT1gWSA8b82+39XiTdUaEfW97p+d0VviR3Wvf/ipi6pBhqpAAa3W5muK5ia1NCEPrUW+k97uuYk7XylAfu4GI91qTPXiSmuXcniiaO+lWPUZXo4JXZip+8KlDr0xMRULKDYkMVSpnVTQkjp0LuO5dj9JDzXsrUD19o2mstpxS/+FaaBd+45JzQOlCurr95opHQjh48tSDL7aaSiBNY5uOB+iWqECmFRGIFV3DlXhGrLVk2pd09lqzUljUNJHmU6AdUYCh9WSA/phhRBeW7MZS08OL4zy8v/e7KgYfdF3ONBHpvPHahaTVt/8zFXanh3gk=;uYsyVMgqeYgjThvpWwe8Cg=="
 ---

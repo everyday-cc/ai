@@ -107,6 +107,15 @@ related:
         width: 806
         height: 504
         isCached: true
+  - title: "Measuring Trust in AI"
+    excerpt: "As part of this study, the team developed an octagonal visual metric, analogous to a rating system, which could be useful to AI researchers who wish to know how their work may be perceived by the public."
+    publishedDateTime: 2022-01-11T15:43:00Z
+    webUrl: "https://cacm.acm.org/news/257780-measuring-trust-in-ai"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
 
 secured: "IsF6q/dz2SpekpAmjPtIUhrcOHT/kfg2q72LxGGogKAel+7daSy6Kw9lS+vcsg9xYSjNFQm5H9JrIX9g4FFfVKERU58x8h2XfEEfElIAc1OhmVXfzWEhRN6EofEkL0xw7xh5/NXf5whiaHQ1coofeEr19nOOlx8j0lpfORAvadR6SF8rOBn+DLzOX44EG+2wSFQwfzCnB+XrCwFXktCEtCVi9KcaddWf5RgKodQTgFVwmMWj4Zj+j52peIwU6sF1DXZp6FsAsTlLCMXvwgCTU4AgQHCKzzPHGNPClx3GhZ3O0GRuPOIicnmxXWayLm1yEC6eOo1SZSf9ceMvtb/T70+lt85xmlOQo5rOFTFboFY=;zRjoHI+lKl8WqNDKT8XwrA=="
 ---

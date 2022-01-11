@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/news/new-controversy-in-making-
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/new-controversy-in-making-tesla-wants-only-cameras-ai-to-go-fully-autonomous/amp-41641535023017.html"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla’s cameras-only driving system stirs controversy"
-    excerpt: "Tesla chief executive Elon Musk has touted a system built around eight “surround” cameras that feed data into the auto’s “deep neural network”, according to Tesla’s website. But as with so many other things involving Tesla,"
-    publishedDateTime: 2022-01-07T00:10:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/01/07/teslas-cameras-only-driving-system-stirs-controversy/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 19
 
 secured: "c+HE39W5Ivk2TBpjYlfsBCzfiblnOKxRHUQVGM3VS3ECFbNOTMDV1aJ+MhZNjnD8MV5D1AL0U0LjTi2LAFvGdwkk5DuKlTVmz2cRb+lyJHyQVTFuCMRpXVuCQFL+3Ab+mOa5CtvCLgEOG481O3q2PE8+JAJKPFn7/2dCQ7oKACmfkBmkyrwZDfoXUV909XCGV7IKMS+oPVaz3NLknG+c3j47hwaVQQuCBHCTAmXRgeqeUfneHg4VCAvj2B5G5qZqVTRQfW1Fz+mZAC1TJ5zZylPM2T5DQMISCtZLrv4Mf3Ah9Sz+iM93tHLEGua9DeisuLPLxiDJKRXXm7RYxzASKijc2Lx/ZaM3QeSqzF5GkjM=;u9RkjNEzBFCDDBL5wsWMcw=="
 ---

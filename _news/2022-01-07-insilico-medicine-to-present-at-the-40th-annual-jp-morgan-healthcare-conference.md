@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "REALM IDx™ to Participate Virtually in the 40th Annual J.P. Morgan Health Care Conference"
-    excerpt: "REALM IDx, Inc., a leader in integrated diagnostics, announced the company will participate in the upcoming 40th Annual J.P. Morgan Health Care Conference. This premier health care conference features global industry leaders,"
-    publishedDateTime: 2022-01-06T23:57:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-ff232c02aa05615ba640af196270be1d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 15
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Fosun Pharma and Insilico Medicine Announce a Strategic, AI-driven Drug Discovery and Development Collaboration to Jointly Advance Multiple Targets"
     excerpt: "This strategic collaboration includes an AI-driven drug discovery research and development (R&D) collaboration on four biological targets, as well as the co-development of Insilico's QPCTL program. Insilico will receive a total upfront payment of $13 million for the R&D collaboration projects and the co-development of the QPCTL program,"
     publishedDateTime: 2022-01-11T08:30:00Z

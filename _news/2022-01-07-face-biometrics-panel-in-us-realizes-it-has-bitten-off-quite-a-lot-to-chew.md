@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "New face biometric systems spread around borders but Congress has questions"
+    excerpt: "A pair of senators ask the CBP for visibility into its use of facial recognition systems to collect data from citizens as they leave and enter the nation."
+    publishedDateTime: 2022-01-11T16:56:00Z
+    webUrl: "https://www.biometricupdate.com/202201/new-face-biometric-systems-spread-around-borders-but-congress-has-questions"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 22
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/02081827/CBPs-Simplified-Arrival-process-to-capture-the-facial-biometrics-of-foreign-nationals-arriving-in-the-country-at-Detroit-Metropolitan-Airport.jpg"
+        width: 2000
+        height: 1126
+        isCached: true
   - title: "China intensifies biometrics, video surveillance research as social credit market builds"
     excerpt: "China leads all other nations in publishing research on the visual surveillance of populations, one of the most controversial segments of biometrics."
     publishedDateTime: 2022-01-10T18:19:00Z

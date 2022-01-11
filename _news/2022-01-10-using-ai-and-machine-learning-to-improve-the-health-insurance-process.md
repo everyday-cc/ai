@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
     provider:
       name: america-retail.com
       domain: america-retail.com
+    quality: 19
+  - title: "Measuring Trust in AI"
+    excerpt: "As part of this study, the team developed an octagonal visual metric, analogous to a rating system, which could be useful to AI researchers who wish to know how their work may be perceived by the public."
+    publishedDateTime: 2022-01-11T15:43:00Z
+    webUrl: "https://cacm.acm.org/news/257780-measuring-trust-in-ai"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
     quality: 19
 
 secured: "FVtH5XceXRA6MqrbsT3HPwz17L5DEbUIEyzg1sLadTVJYGRJ3pCBBoV8xJAGv0DGaW6Bmx9b9UeVey96Rc/mbxJemv0dluGBJstCJpq532j6hwsg3R9hjX3cSC31Mu7s8VRkiYY72FrXtssxjEqE4EwQD8ltWA8mzzSLJ7zVyt4/8ALx76QuAjROX+mSHRTr6r8HPMFdnQmjbZFgTUwNwM89qj9fAUKuRPQ6skAvHa2WMlDKGhF8rjR7aPR0pJRy3WW4eSSYwvbAy9rdA2AmvbL5CDbip8THnJnfZTdYUxoLP3VfCraPZYNrv35oZ3YkUY17m/yEHKQg/V/5IG1cRO0sSSbRfEGcMNk4/gArT4J3z6fkJn2dw5oadAlga/PeULoxgUwrQi6bGfT0/5/2KRyJ4gVtoHN/3LJ4EAHK0pkly2UpHtR+aA8AQuyfFC8UHOUk8biIwo1hDDpod3x5CCUGCSLcO8LFHNEMRNy+cZSa+obwDj8Sd9EfjKotoTus3qxzLKvIqYdIeXdfePOCig==;sSVOTzbpuKvBM7yzuC9KTA=="

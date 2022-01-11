@@ -28,19 +28,39 @@ images:
 
 related:
   - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
-    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange,"
-    publishedDateTime: 2022-01-07T12:01:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html"
+    excerpt: "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon Web Services (AWS) platform. The AWS Data Exchange allows businesses to easily find and subscribe to third-party data in the cloud."
+    publishedDateTime: 2022-01-07T14:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+  - title: "Analytics Unicorn Fractal Acquires U.S-Based Neal Analytics To Ramp Up Its Cloud AI Offerings"
+    excerpt: "The acquisition will help Fractal scale AI-based services on its platform and strengthen its presence in Pacific Northwest, Canada, and India."
+    publishedDateTime: 2022-01-11T16:35:00Z
+    webUrl: "https://inc42.com/buzz/analytics-unicorn-fractal-acquires-u-s-based-neal-analytics-to-ramp-up-its-cloud-ai-offerings/"
+    ampWebUrl: "https://inc42.com/buzz/analytics-unicorn-fractal-acquires-u-s-based-neal-analytics-to-ramp-up-its-cloud-ai-offerings/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/analytics-unicorn-fractal-acquires-u-s-based-neal-analytics-to-ramp-up-its-cloud-ai-offerings/amp/"
+    type: article
+    provider:
+      name: inc42.com
+      domain: inc42.com
+    quality: 48
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
+      - url: "https://inc42.com/wp-content/uploads/2022/01/Fractal-social-image.png"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
+    publishedDateTime: 2022-01-10T14:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "UvP4VLKJrjidpIi7Asu10U1c10zu5F6cHXrC/pqaCI25vCtCdRPaXO0QL6dh9PQavmtC7CXBqZEtuSsI7F40gMtEetpcniQn/lVj+2DnB6A8ZW/lJgauIgt7wfnC6V5I69dYEKE8PpJVOq5naCXs5k8/ZXdqoVpxbgKlF2LeRRiwhWm/gzHwB5nEv/QTmaVa4TOCLxilV9Zf4746c3jjs0NpplHOWCCu6ips386GDG4KUM2qqNXu2QQXmD1j+FYEpqi9juh5dYW58pp8Wgq+l4KuHSyAbPDYoL8o3umshfMhF2w9HN63daacj1yLH8bvSMgViIY5TG+MqxWbaTRTs/1SQ5QqvAoDwgs7Q2c8pm4=;tHlroCX3SKG47ZmXNNxOpA=="
 ---

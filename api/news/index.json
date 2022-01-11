@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-11-open-the-pod-bay-doors-please-hal-metas-ai-simulates-lip-reading.md",
+      "title": "Open the pod bay doors, please, HAL: Meta's AI simulates lip-reading",
+      "excerpt": "The software uses the popular approach of \"attention\" to make videos of speakers' lips and audio waveforms reinforce one another in ways much more efficient and accurate than prior approaches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "originalUrl": "https://www.zdnet.com/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/82312686fb708271d62d05573eb5b4c7c7bcfa50/2022/01/11/95887186-2304-4c82-b423-e501095fe40d/png-image-13.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "publishedDateTime": "2022-01-11T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-machine-learning-and-ai-used-to-rapidly-detect-sepsis-cutting-risk-of-death-dramatically.md",
       "title": "Machine learning and AI used to rapidly detect sepsis, cutting risk of death dramatically",
       "excerpt": "A groundbreaking advance in quickly detecting sepsis using machine learning has been pioneered by researchers in the Hancock Lab and the department of microbiology and immunology at UBC.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -945,7 +998,7 @@
       "originalUrl": "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1185,49 +1238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-autonomous-tractors-with-robot-brains-are-coming-to-take-over-the-farm.md",
-      "title": "Autonomous Tractors with Robot Brains Are Coming to Take Over the Farm",
-      "excerpt": "John Deere revealed a self-driving tractor at CES with traditional diesel power, while Monarch's was autonomous and electric.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/future-cars/a38705415/autonomous-tractors-robot-brains-for-farming/",
-      "originalUrl": "https://www.autoweek.com/news/future-cars/a38705415/autonomous-tractors-robot-brains-for-farming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/monarch-3-1641775695.png?crop=1.00xw:0.708xh;0,0.132xh&resize=1200:*",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoweek.com/news/future-cars/amp38705415/autonomous-tractors-robot-brains-for-farming/",
-      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/future-cars/amp38705415/autonomous-tractors-robot-brains-for-farming/",
-      "publishedDateTime": "2022-01-10T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

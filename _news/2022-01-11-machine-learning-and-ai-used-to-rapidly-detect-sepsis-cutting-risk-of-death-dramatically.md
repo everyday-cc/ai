@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-dea
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.amp"
 type: article
 quality: 65
-heat: 75
+heat: 86
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Using AI in Crime Detection"
+    excerpt: "Using AI in Crime Detection By cio review - As the rate of crime rises, the utilization of existing Artificial Intelligence algorithms is proving to be"
+    publishedDateTime: 2022-01-10T09:43:00Z
+    webUrl: "https://www.cioreview.com/news/using-ai-in-crime-detection-nid-34825-cid-210.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 37
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/ommxw.image300x350lawenforcement.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
     excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
     publishedDateTime: 2022-01-11T08:00:00Z
@@ -42,6 +56,6 @@ related:
         height: 324
         isCached: true
 
-secured: "ImFLYKo/HcVlc1JUzl9M8lfjf9pQq4Jm2XjBEhwGu27mvgUK9FJm7M+8lDu9mT57maCFtNd11qmMWFnb+zEXCJpgrOENqT8iRwtC72yqCnj60Ugs1piUYFPEl9xFai+2NOGkJGuCXg5nMGvcVwsWaBZFaYYhBQOtVipMbUjEr9C5AWqyBuMluRAjfJpxH+lVgPiBCJHj2eD14SrDMgUQO14JygCcPCrWLOPhk8S/3g3+WkSmDlhzlwXN2JVwIjjJ947ZDRUnXuTlOGREx7oYhdElk2E1D+EfQvidyQNRboVdzm1XcYAjAlYnCu0GxF+GsDbHkHTi3Nhl4ZFcBkN5gGsvcLdNNAN8rCSCAKIzmhw=;G8hl9PE3BThKb8la1bZn5g=="
+secured: "jVEeDeqv9RwZWHBSccIykoGIXLdXJibWO/EDkpj+xns3QGGgLYezBl854bVJI/uj9HsjrR3XG7tzX/2BhlVW8qa/+8YNvUyKKjnntqAX6aMPFLXdkeLWfrkb1Air/JTWxVY9HTgbEtMMSYJr0fukSsefJxtOmL4O8vzGxfyQWG6r0PB9ao0nlsu/Ki1+m2B1eEKeTyhZT3QqVU+kCSyMGbm7UKI6Fe/f75bI/zihhuLcb/suFcn6oM+MhLFWP0wgFCcQhUyeXeKNAHdnd3V+LZbgQMPVhXOYL3Nd7pJ6/HXhunKKDFKHQL4bPX3X4fhzP11SV3ZSj4oqd/8AEwVbpG3+EpIwbMk+QTaO0yD5KI9Zh97VsyCUVk5sct1F7C02yBKEQwYwaUReqs6CSXKNhuuMe2J8RqATssGHstey+rFT86oYIxain0Aim+SSHDU2WFdVTqFktJ089Udh4XatfcSF/206vctyiFXhHl5qJYbah5a0mkP6tm7jlc8TNyE1gKZ0kiN0bpgD1NwZ6C12pA==;z6+U+MCTX93nMc1rMX844g=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting
 webUrl: "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia"
 type: article
 quality: 123
-heat: 203
+heat: 213
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--ULGSC9r3--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-01-07t065402z_3_lynxmpei0605t_rtroptp_3_sanofi-results.jpg?itok=QpDT4toX"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Sanofi Joins AI Gold Rush in €4.6B Drug Discovery Pact with Exscientia"
+    excerpt: "As big pharma companies flock to drug discovery collaborations with artificial intelligence (AI) firms, the French giant Sanofi has sealed a €4.6B deal with the UK AI player Exscientia to develop oncology and immunology treatments. According to the deal ..."
+    publishedDateTime: 2022-01-11T15:17:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/exscientia-sanofi-ai/"
+    type: article
+    provider:
+      name: the Top 10
+      domain: labiotech.eu
+    quality: 37
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2022/01/exscientia-ai-sanofi-drug-discovery.jpg"
+        width: 1024
+        height: 536
         isCached: true
   - title: "Merck leans into AI with $610M in biobucks for Absci drug discovery pact"
     excerpt: "Merck is taking a deep dive into complex proteins with the help of AI-powered drug discovery company Absci. The two companies have signed a research collaboration for up to three targets in a deal worth up to $610 million in upfront fees and milestone payments."

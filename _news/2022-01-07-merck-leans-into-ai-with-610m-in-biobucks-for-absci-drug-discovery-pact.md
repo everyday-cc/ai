@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Sanofi Joins AI Gold Rush in €4.6B Drug Discovery Pact with Exscientia"
+    excerpt: "As big pharma companies flock to drug discovery collaborations with artificial intelligence (AI) firms, the French giant Sanofi has sealed a €4.6B deal with the UK AI player Exscientia to develop oncology and immunology treatments. According to the deal ..."
+    publishedDateTime: 2022-01-11T15:17:00Z
+    webUrl: "https://www.labiotech.eu/trends-news/exscientia-sanofi-ai/"
+    type: article
+    provider:
+      name: the Top 10
+      domain: labiotech.eu
+    quality: 37
+    images:
+      - url: "https://www.labiotech.eu/wp-content/uploads/2022/01/exscientia-ai-sanofi-drug-discovery.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "Sanofi bets big on AI again, paying $100M to start drug R&D pact with Exscientia"
     excerpt: "Sanofi’s new alliance with artificial intelligence biotech Exscientia spans up to 15 small molecule drugs in cancer and immunology. If drugs from the partnership reach the market, Exscientia could earn as much as $5."
     publishedDateTime: 2022-01-07T16:15:00Z

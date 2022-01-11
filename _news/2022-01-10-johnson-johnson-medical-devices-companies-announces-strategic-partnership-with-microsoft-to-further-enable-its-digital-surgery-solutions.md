@@ -83,6 +83,20 @@ related:
         width: 640
         height: 512
         isCached: true
+  - title: "Microsoft to help Johnson & Johnson transform digital surgery solutions"
+    excerpt: "Johnson & Johnson Medical Devices Companies (JJMDC) has partnered with Microsoft to transform its digital surgery solutions. The Microsoft Cloud will support a secure and compliant platform to “improve workflow and enhance surgical decision-making for a better overall customer experience and improved patient outcomes”,"
+    publishedDateTime: 2022-01-11T15:05:00Z
+    webUrl: "https://www.technologyrecord.com/Article/microsoft-to-help-johnson-johnson-transform-digital-surgery-solutions-127938"
+    type: article
+    provider:
+      name: technologyrecord.com
+      domain: technologyrecord.com
+    quality: 39
+    images:
+      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10666/img-Johnson-Johnson-medical-devices_web.jpg"
+        width: 940
+        height: 443
+        isCached: true
 
 secured: "CHbG7rslHhdD2hdm8cRB0tZjmmjth44IdDH+CvhMXRFfpg/lxq3eatwI1qcsnF6eejSfUdq7LSWq6mJkb87VVk4rU2nDO3SlpO3FMB1CB3fewhnsm0Xz5EEvIg4JV+ZXCrUzkIP5hyZ8mtD2X77vLQfVpeiGCceOIj6OcDipGnzk6QvKFRbCTAl+sp1AJRWzZPFHSafKxcdIdbsHlYjLSY4oKnAsuX9UB7g6lalTRUUyuFxaQ3HF6eAe+K5d9EGmuuClCDFyvPNTstdfdlJo/nR22hfSCjnwutb4Y/I/IHTGJOpwHQV+FUHNwuKcCK9c8QuoXV7OQ725PpFD0Fj72RwIZUe9qZ6RQWi5Fx9UKwE=;01OmWmZWlXExLtkGRRI2Og=="
 ---

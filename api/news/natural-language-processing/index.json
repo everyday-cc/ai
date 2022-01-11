@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-11-open-the-pod-bay-doors-please-hal-metas-ai-simulates-lip-reading.md",
+      "title": "Open the pod bay doors, please, HAL: Meta's AI simulates lip-reading",
+      "excerpt": "The software uses the popular approach of \"attention\" to make videos of speakers' lips and audio waveforms reinforce one another in ways much more efficient and accurate than prior approaches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "originalUrl": "https://www.zdnet.com/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/82312686fb708271d62d05573eb5b4c7c7bcfa50/2022/01/11/95887186-2304-4c82-b423-e501095fe40d/png-image-13.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "publishedDateTime": "2022-01-11T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-language-io-aims-to-strengthen-its-ai-powered-customer-service-localization-service.md",
       "title": "Language I/O aims to strengthen its AI-powered customer service localization service",
       "excerpt": "Langauge I/O, a startup developing technology to localize customer service experiences with AI, has raised $6.5 million in venture capital.",
@@ -1428,49 +1481,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-24-natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till-2020.md",
-      "title": "Natural Language Processing Market||Industry Analysis Insights, Future Growth, and Forecast till - 2020",
-      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Dec 24, 2021, 05:27 /Comserve / -- Natural Language Processing Market has prioritized the use of innovative technologies. Many healthcare and life sciences ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103442093/Natural-Language-Processing-MarketIndustry-Analysis-Insights-Future-Growth-and-Forecast-till-2020",
-      "originalUrl": "https://menafn.com/1103442093/Natural-Language-Processing-MarketIndustry-Analysis-Insights-Future-Growth-and-Forecast-till-2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?261716",
-          "width": 352,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-24T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

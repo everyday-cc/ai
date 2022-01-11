@@ -24,33 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "AIML machine learning students develop beer using AI"
-    excerpt: "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing."
-    publishedDateTime: 2022-01-07T00:00:00Z
-    webUrl: "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/"
+  - title: "Machine learning and AI used to rapidly detect sepsis, cutting risk of death dramatically"
+    excerpt: "A groundbreaking advance in quickly detecting sepsis using machine learning has been pioneered by researchers in the Hancock Lab and the department of microbiology and immunology at UBC."
+    publishedDateTime: 2022-01-11T14:34:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.amp"
     type: article
     provider:
-      name: Food Magazine
-      domain: foodmag.com.au
-    quality: 69
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 65
     images:
-      - url: "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-and-a.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "The legal pitfalls of using AI in recruitment"
-    excerpt: "Gwynneth Tan highlights the issues employers should be aware of when considering adopting technology into their hiring processes"
-    publishedDateTime: 2022-01-07T12:36:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/experts/legal/legal-pitfalls-using-artificial-intelligence-recruitment"
+  - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
+    excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
+    publishedDateTime: 2022-01-11T08:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=597869"
     type: article
     provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 37
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
     images:
-      - url: "https://www.peoplemanagement.co.uk/Images/artificial-intelligence_tcm27-104992_w1228_n.jpg"
-        width: 960
-        height: 540
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
         isCached: true
 
 secured: "fjkcJHAudJ/ie+wZKyk142nE8QqfWYts7DuGqkXQx69l2ztReapnRoQn3UKHXYWeZqotXX2c4cLNHxSek/txURocqz/WPlytDtviR5tQ3fQW3f1P2+NtlxgJ/M4Uod6fUu2RNDErFJcDpgL9rAUwV9rVL88DaKGMaho4gB1jd/yCRbNYMszAsDIj+L8FozQ3qdeirRZ/BGLDGKs33/ewVQkjT5Il2k9VDIpo/S5HH+BboFgfNKzWId8lyJS9b9qtxaEpYl4E18QhlewqmOdoaFrJoYNwswQ06G7tG1Wj7hGn2Sh7HfdYfD7lQc5Tc1dTbekfj50N1hNoD4f0BWmCJUHgl/VvEEYK7lCBvNoQVmI=;FkbYlpJFShFNC5xmAtSa4A=="

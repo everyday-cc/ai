@@ -2,6 +2,92 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-12-18-clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator.md",
+      "title": "Clearview AI to Stop Facial Recognition and Delete Data, Says French Regulator",
+      "excerpt": "The French regulator CNIL ( Conseil Nationale de l’Informatique et des Libertés) on Thursday (Dec. 16) issued an order against Clearview AI requesting that the company stop collecting and using images and personal data obtained through facial recognition and to delete this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/clearview-ai-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "publishedDateTime": "2021-12-17T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-surprise-surprise-teslas-full-self-driving-beta-causes-accident.md",
+      "title": "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident",
+      "excerpt": "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
+      "originalUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-Crash.gif",
+          "width": 600,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
+      "publishedDateTime": "2021-12-17T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-3-big-problems-with-datasets-in-ai-and-machine-learning.md",
       "title": "3 big problems with datasets in AI and machine learning",
       "excerpt": "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources.",
@@ -1082,101 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-samsung-jetbot-ai-review.md",
-      "title": "Samsung JetBot AI+ review",
-      "excerpt": "This intelligent and gentle cleaner is packed with features like livestream home monitoring, object recognition, multiple cleaning pattern options, and a self-emptying base. On paper, it’s one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
-      "originalUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BLS6YRHSXT9fdVWemg9qvD-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-machine-learning-certification-platforms-that-work.md",
-      "title": "Machine Learning Certification Platforms That Work",
-      "excerpt": "According to International Data Corporation, more than half of the world's economy will be digitised by 2023. As a result, businesses can expect to increase their investments in advanced technologies in order to prepare for the transition to a new digitised economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/machine-learning-certification-platforms-work-aman-kumar-singh",
-      "originalUrl": "https://www.linkedin.com/pulse/machine-learning-certification-platforms-work-aman-kumar-singh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHDArpJAx8Gzw/article-cover_image-shrink_720_1280/0/1639723108193?e=1645660800&v=beta&t=F86oZfVxpasgz8ygtgnanoP7Yd2lrD9VNwf_jmf21V0",
-          "width": 1280,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
