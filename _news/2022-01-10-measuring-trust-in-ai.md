@@ -57,6 +57,20 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "4 ways artificial intelligence is improving mental health therapy"
+    excerpt: "With an increased demand for services and workloads stretched, using AI within mental health services could be a game-changer."
+    publishedDateTime: 2022-01-11T17:57:00Z
+    webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
+    type: article
+    provider:
+      name: Big Think
+      domain: bigthink.com
+    quality: 56
+    images:
+      - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
+        width: 4098
+        height: 2304
+        isCached: true
   - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
     excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
     publishedDateTime: 2022-01-10T13:00:00Z
@@ -70,20 +84,6 @@ related:
       - url: "https://www.cioreview.com/news_new/sliderimage/t0ssq.pmmag.jpg"
         width: 300
         height: 350
-        isCached: true
-  - title: "4 ways artificial intelligence is improving mental health therapy"
-    excerpt: "With an increased demand for services and workloads stretched, using AI within mental health services could be a game-changer."
-    publishedDateTime: 2022-01-11T17:57:00Z
-    webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
-    type: article
-    provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 54
-    images:
-      - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
-        width: 4098
-        height: 2304
         isCached: true
   - title: "Opinion: Using AI and machine learning to improve the health insurance process"
     excerpt: "In the past decade, health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."

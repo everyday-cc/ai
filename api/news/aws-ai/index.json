@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-10-how-reliaquest-uses-amazon-sagemaker-to-accelerate-its-ai-innovation-by-35x.md",
-      "title": "How ReliaQuest uses Amazon SageMaker to accelerate its AI innovation by 35x ",
-      "excerpt": "Cybersecurity continues to be a top concern for enterprises. Yet the constantly evolving threat landscape that they face makes it harder than ever to be confident in their cybersecurity protections. To&nbsp;address&nbsp;this,&nbsp;ReliaQuest built&nbsp;GreyMatter,&nbsp;an Open XDR-as-a-Service platform&nbsp;that",
+      "path": "_news/2022-01-11-industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker.md",
+      "title": "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker",
+      "excerpt": "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-reliaquest-uses-amazon-sagemaker-to-accelerate-its-ai-innovation-by-35x/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-reliaquest-uses-amazon-sagemaker-to-accelerate-its-ai-innovation-by-35x/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 143,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/30/ML-6323-image001.jpg",
-          "width": 1200,
-          "height": 514,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/10/ML-5350-image007-1260x501.png",
+          "width": 1260,
+          "height": 501,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T09:59:10-08:00",
+      "publishedDateTime": "2022-01-11T12:05:52-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Computer Vision"
       ]
     },
     {

@@ -53,18 +53,18 @@ related:
         height: 400
         isCached: true
   - title: "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®"
-    excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,"
+    excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management,"
     publishedDateTime: 2022-01-10T15:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
+    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-supply-chain-market-size-worth--14-3-billion-globally-by-2028-at-20-17-cagr-verified-market-research-301457252.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 23
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+        width: 2696
+        height: 1414
         isCached: true
 
 secured: "2i8YDHkyaE9FTkBq1Ebt0qYhWkw3QCc21J/UvnnsUxiliVvji4CTmsGH3PSXkHm2GZYX4GuX0NDwRKhvz+Y6pPHtZ/8XcHR6Nsj1vNxb9bDoWrYQIPHjqnFUGhAsFk+qp1kFTv4m7w/Eb5bCTWygITxn/LnRO9PTz1c0XEouT6lCZaHvblzDbkf9DIemyiej3WGd/w7SsHU+F6CfPR5cSLqEhOEAJQolpN3GjSD2Y7pj4OpN1b/M/wm6r58CItSbghMU1P6FK+zOrziPvyQlO5x6phMl4CIO8qwWhJKF3QIQ02L3vpVeI0+YDMMwjfeN/gs2gYGn8wKd+2MxobJJYD0Q5EK/fYYv6DYqYvRys34=;k7Ey2lzODpQYYo4lg8G+Vg=="

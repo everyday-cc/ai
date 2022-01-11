@@ -67,7 +67,7 @@ related:
     provider:
       name: Big Think
       domain: bigthink.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
         width: 4098

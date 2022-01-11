@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202201/face-biometrics-panel-in-us
 webUrl: "https://www.biometricupdate.com/202201/face-biometrics-panel-in-us-realizes-it-has-bitten-off-quite-a-lot-to-chew"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New face biometric systems spread around borders but Congress has questions"
-    excerpt: "A pair of senators ask the CBP for visibility into its use of facial recognition systems to collect data from citizens as they leave and enter the nation."
-    publishedDateTime: 2022-01-11T16:56:00Z
-    webUrl: "https://www.biometricupdate.com/202201/new-face-biometric-systems-spread-around-borders-but-congress-has-questions"
+  - title: "Enterprise Security at CES 2022 Marked by IoT, Biometrics, and PC Chips"
+    excerpt: "Amid the onslaught of mostly consumer-oriented announcements in Las Vegas, a few key items pertaining to enterprise security emerged."
+    publishedDateTime: 2022-01-11T19:25:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/enterprise-security-at-ces-2022-marked-by-iot-biometrics-and-pc-chips"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/02081827/CBPs-Simplified-Arrival-process-to-capture-the-facial-biometrics-of-foreign-nationals-arriving-in-the-country-at-Detroit-Metropolitan-Airport.jpg"
-        width: 2000
-        height: 1126
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb24a4b2c26090dbd/61dddb1be25675203f22d7a2/amd_lenovo_pluton-sm.png"
+        width: 700
+        height: 394
         isCached: true
   - title: "China intensifies biometrics, video surveillance research as social credit market builds"
     excerpt: "China leads all other nations in publishing research on the visual surveillance of populations, one of the most controversial segments of biometrics."

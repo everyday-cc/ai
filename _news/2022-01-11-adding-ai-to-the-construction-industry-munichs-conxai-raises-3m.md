@@ -9,7 +9,7 @@ ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/"
 type: article
 quality: 57
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1722728/Veea_and_Conxai.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Veea, CONXAI Connect Construction with Real Time AI Assistance"
+    excerpt: "Even the best laid plans experience hiccups. Measure twice and cut once only goes so far in optimizing construction plans, as even the best supervisor can make an error. Engineering and construction are two industries with slower than expected AI adoption,"
+    publishedDateTime: 2022-01-11T19:24:00Z
+    webUrl: "https://www.iotevolutionworld.com/fog/articles/451164-veea-conxai-connect-construction-with-real-time-ai.htm"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jan/6301620456-AdobeStock_237320164_connected_Construction_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "8mXi7fSBL0K0s/iZd6SSXA4b84+jP3WW5JWxGkTvvS8imyIHWCDYZCIRMZHk0y4haQ8bpeolwV0apcNANv/HxvYZTXLyTNI/nnRNVueA5TdnQO8K5aTmijXLZqdrdcdfy02bLPi84OfVe0zOfgtJLew9noGi8XPIk0S4guiESu66igea93+yiuxsZA5yXxfa+QkhAmox+8oIIIA3GISk4Pz3MyIJCyw16+PxBwhj5cF1CisPat2toaViLBB5JjeKK7Tar7PIBH2jNEKR/rt64w1EhjJsjhXcm5QOIxmZIdEtYdwJFQXdPkTjiYpStLLDzzjwRIHkTPOiNl2tdpx49Ke85cB06hN/xw4GEiD6OX3/JsFJll621/4t/KidCMupaCpgkTadYesLADELXsZiPdfGNyOO54ew8h1VDjVGYEcqOliKUQwYn8zhBWm43bSaEk8n+Ys9pz0DMwrYB+5A6IP2X5eB/tJBj1ZbC0jwvbtGYfEE9peUe4pmhVO41SqwB6jG4VE3l8aM382RN0HjtQ==;GvMzNWUNSUfcvCBriZULNA=="

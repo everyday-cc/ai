@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-featur
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volvo to debut self-driving feature in California using Luminar sensor"
-    excerpt: "Volvo is planning to deploy the technology, which will allow the car to fully take over driving tasks in some limited situations, in a forthcoming all.."
-    publishedDateTime: 2022-01-07T04:12:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor/88747763"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-88747763,imgsize-905021,width-1200,height-628,overlay-etcio/volvo-to-debut-self-driving-feature-in-california-using-luminar-sensor.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Volvo to debut self-driving tech this year"
     excerpt: "Volvo has announced that it will introduce its new self-driving technology, called 'Ride Pilot' sometime in 2022.The Volvo Ride Pilot technology will make its debut in the brand's upcoming pure-electric"
     publishedDateTime: 2022-01-10T07:39:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/employers-investors-take-notice-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment/amp-11641637244910.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Mint
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Employers, Investors Take Notice of AI Tools to Speed Job Recruitment"
+    excerpt: "Companies are looking for an edge in hiring through artificial intelligence and automation technology."
+    publishedDateTime: 2022-01-07T22:53:00Z
+    webUrl: "https://www.wsj.com/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
+    ampWebUrl: "https://www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-464229/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "The legal pitfalls of using AI in recruitment"
     excerpt: "Gwynneth Tan highlights the issues employers should be aware of when considering adopting technology into their hiring processes"
     publishedDateTime: 2022-01-07T12:36:00Z

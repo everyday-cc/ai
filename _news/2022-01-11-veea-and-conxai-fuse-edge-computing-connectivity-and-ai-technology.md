@@ -70,6 +70,20 @@ related:
         width: 999
         height: 561
         isCached: true
+  - title: "Veea, CONXAI Connect Construction with Real Time AI Assistance"
+    excerpt: "Even the best laid plans experience hiccups. Measure twice and cut once only goes so far in optimizing construction plans, as even the best supervisor can make an error. Engineering and construction are two industries with slower than expected AI adoption,"
+    publishedDateTime: 2022-01-11T19:24:00Z
+    webUrl: "https://www.iotevolutionworld.com/fog/articles/451164-veea-conxai-connect-construction-with-real-time-ai.htm"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 37
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jan/6301620456-AdobeStock_237320164_connected_Construction_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "A1xBHR89zwGMirqKGUYhQ54ov9ef0MheaiVUj5GLjJnUWp0ctqFsO5gJYKf/4SWevhKEYU7D7GJXGUVycV6IFnkpoaMcj1XuIM3BLE/FDjnj/Q6couQd2JMt/GTXfM6dVd8VfuUjbkDu/xF4hV2CZx00gxCWIivt3pxMIYQmGNh7nj9GLKoQpa5IZhiG9qO4DFkceWO3NPhVJhikl2O9vkPHj+05ZnCR0AeIPwllNn0QSpotaLJRysGGH4heAMK0aOflM+/7clnmpm3ikLD1LvLvsqzZzDX09uGZDTufyRDXYhS/kb6ED7Hkn9rkKPQrUN4D5G2UV6qGGrrxkMno9NLsL++WatfbhGbixFd26BUhOHfxViMc/2FLJd/85Cl7fCU4wwu0FrOs23Oc1V4ndOOz/GyYeVzWWxm5/i1Z/YrLhhuy7AZSdJYU8nziH9Y4FJM4wRh3NkZ0LAd7y7mLTpJ40a8tqZ1jb+GzQtlvb/0LrcdgDivuWeSH+wNXgC4g9GGOZsWE32ziBsUSECsELA==;u8HAnnucOepLY+4LvaeGCQ=="
 ---

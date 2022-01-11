@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,"
+excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management,"
 publishedDateTime: 2022-01-10T15:15:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
+originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-supply-chain-market-size-worth--14-3-billion-globally-by-2028-at-20-17-cagr-verified-market-research-301457252.html"
+webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-supply-chain-market-size-worth--14-3-billion-globally-by-2028-at-20-17-cagr-verified-market-research-301457252.html"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
+    width: 2696
+    height: 1414
     isCached: true
 
 related:
@@ -68,6 +68,6 @@ related:
         height: 250
         isCached: true
 
-secured: "7QbJMdnHoomMMHJfHwS0UL1JnldDrkM6RTSygV1py4OAKYp99gihsmFIKI8nEVTkzictaYjfqkwmRyJ3k94yhhL0lDgvM5FkF1jGfLKbaDAAP5irgf6pgig5jmotDwneLjaVljAu18c9Rl6irex0HhtTTScb0y2Zel57O6KyJIVblinr8gzQlR4aYvNGJBhvYHI/iUHuYeG7EK4HzKtT9x2eoLIqXx14XFkz79LFkOalx5P1IRUe4u0pdTS8nhF9RL+lFXEXKTQo2gSloBU76rinjCikKnTqZnsdQQ/YQ3OHiCV/YggqOccCjFvlqckss5vgkN9g91T9O28EkRnVw0V4qXhAIbcACHxoSXIZY1C4y2RJL5zD9Imcpvw/vtvp2aELD7GD2E6DRTnNFXj7Ms6+pP6QWlBmYFyX3Rl65oxzE3BGPyAE9JxQsJj+6Wi+R2U6nQZ5ivBeIkadKIKmR/+PPaW/X+TnqSefMJ3XKcVmcbAO977VIXWUIdp8CI22Sa+jkw7SD9lwVL0/U0lR0w==;Uct1g6zda43Q3oh3jUlItg=="
+secured: "vn0sGnOh0+HRKfSzc/vi7L2r8xcjLtXuBRjj9w+5GqU3/xl4uFUMQGvpP+ZJfWlZWk8adFMbZ9UBzVhQ7b5ccYLzs7mGoJUgF/H7CB9pYl9LH7HRgC7rcb03+7TDZpzztb4kWm+Y/tWy00k77tzhADjV9bNM1tHNoOJE1o02qxrPuRZjh5vLH4gWhl7Fp3JyyRdncTggbVEVmrJlPOANKPIrBbmtQh671XuUmVMhSF+qPAk78tbz1/J3j06v1F3H+Mmj2JZplNzMbU7xQklVo/YWW1sxPqgXG2RMWB5taBMGt/al+2sbjCXWx246VlZfBmpjh/ArYYEx1dSlzynjNXdeOCyR+2E0Wcpadu33DwQ=;hARO58tqc9/5OTZV8x6ReA=="
 ---
 

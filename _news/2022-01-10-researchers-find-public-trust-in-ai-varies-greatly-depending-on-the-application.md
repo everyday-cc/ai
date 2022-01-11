@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-01-ai-varies-greatly-application.am
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-ai-varies-greatly-application.amp"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -27,67 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Great Resignation Versus Increasing Investment In AI, Robotics And Automation: A Troubling Trend"
-    excerpt: "Hiring continues to sputter, while investors are declaring the \"golden age of automation.\" Are we automating the workforce of the future?"
-    publishedDateTime: 2022-01-11T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/"
-    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/amp/"
+  - title: "Measuring Trust in Artificial Intelligence (AI)"
+    excerpt: "Researchers find public trust in AI varies greatly depending on the application. Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI."
+    publishedDateTime: 2022-01-10T15:00:00Z
+    webUrl: "https://scitechdaily.com/measuring-trust-in-artificial-intelligence-ai/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61da04449c481c9368077737%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D3585%26cropY1%3D0%26cropY2%3D1974"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Employers, Investors Take Notice of AI Tools to Speed Job Recruitment"
-    excerpt: "Companies are looking for an edge in hiring through artificial intelligence and automation technology."
-    publishedDateTime: 2022-01-07T22:53:00Z
-    webUrl: "https://www.wsj.com/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
-    ampWebUrl: "https://www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-464229/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "AI, automation, and bots in the world of mortgage"
-    excerpt: "AI, automation, and bots in the world of mortgage But are automation and Machine Learning helping or failing? Here is all you need to know."
-    publishedDateTime: 2022-01-10T16:07:00Z
-    webUrl: "https://www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/"
-    ampWebUrl: "https://www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2022/01/Sumit-Chadha1.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "The 4 Best Automation Stocks to Buy"
-    excerpt: "Automation is one of the most exciting technological frontiers in the world today. And many investors are looking for the best automation stocks to buy."
-    publishedDateTime: 2022-01-10T11:07:00Z
-    webUrl: "https://investmentu.com/automation-stocks/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2022/01/automation-stocks.jpg"
-        width: 730
-        height: 467
+      - url: "https://scitechdaily.com/images/Artistic-Artificial-Intelligence-Concept.jpg"
+        width: 2000
+        height: 1500
         isCached: true
 
 secured: "yo9qfDgN6v54rtIigPbEHLciEE9fa2jVyxz32TboYCoU8CYA327iF9AneXia8fWkZkhmkGteH95RBWEg/58ZNyFewe162QnB22VR3DwXWzMgfchmirTb9LRK16l4YPOxHSyvEx4C4t4k91aWhxBZQIvzjAXSranz0Ifg/a3nJ1bdPKs7qZlVcy8fehhFPpzKkF7PskJwjf6JjZwtj70hUj1pLDjYv/5ybuYd5nH5HyQniU3Mbx/o3tL75URBi0k56+ft7Z5svSpRF+uFv8ot0VbiojhLat67ZCTwryRhUHalf56m0BN09d+mXVZEUOr8dEHRkdD0nki/8zTqOn825JkravKU/GXoZ8ht5fXWOF45q4uIelS7xTEigDYR+/eYW9I7DIlXkviBAdoHCDUP6QBj2wSel/MRgizBoONEXYIGecr5ek978oLL28hHDicd04uBtGIwe5H62eQfCRSHHtCPTsbIOFYEJWUcCFY5VYMZcVgaab5DxyWgX4eRmUW4tIGZAJ8NTmANIHgek7qlcA==;gJLaC9T1L32FNuuBN/OlQw=="

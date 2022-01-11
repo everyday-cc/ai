@@ -24,6 +24,22 @@ images:
     height: 467
     isCached: true
 
+related:
+  - title: "The 4 Best Automation Stocks to Buy"
+    excerpt: "Automation is one of the most exciting technological frontiers in the world today. And many investors are looking for the best automation stocks to buy."
+    publishedDateTime: 2022-01-10T11:07:00Z
+    webUrl: "https://investmentu.com/automation-stocks/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 24
+    images:
+      - url: "https://investmentu.com/wp-content/uploads/2022/01/automation-stocks.jpg"
+        width: 730
+        height: 467
+        isCached: true
+
 secured: "d7kSKTWbHiBYnumer45Pg9L4ePkx8gOeJYgNO+qWYRRxhXMwJT4K9hjlmtHMiyCYnfaKArKHrRGGza5KK1vnN8VQA7qAvlXZUHA5ytBociMpP/iJTciUd89MEh6AXcpq/69nmE9Ksj2U6lvieu6tPA3j1+YB8fw0/iCuT5yzwKmovAJnkaT02dtGPns4dDkws2k0p8Wvw9GTlNYmuT6sK1UWEVhfPFEu+p1MdfSMmqy4p/U9IhZQlvmENPTKylgFzNvjsdh80ph8vpaGYNxHQNX3k1j+oNDOc3A1DW0yWrfLCzv8EF6CPoosA3eA+CAQbKRq2xS81NvYjx5ed0w3FyniSZl679B8qFH8j4L9DQp4LmheFoIBu0btkQM2kdT0RPn2EU4A0VdGf+WHLQhViwdaODW1ycPx05mR9+SzeyU5n6NNzcs0H6xVgI+e9dSG9UJzk8B8nRrnd47atccKAag3fBjkKD1adqdixYBP+sHFkuw/70ehWFTH+6QJah2BunP+Vu7R56y6LIC7yG9x4g==;R0eYPSVU+zKEtDKcUTQprw=="
 ---
 

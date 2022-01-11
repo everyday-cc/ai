@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202201/new-face-biometric-systems-
 webUrl: "https://www.biometricupdate.com/202201/new-face-biometric-systems-spread-around-borders-but-congress-has-questions"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 2000
     height: 1126
     isCached: true
-
-related:
-  - title: "Face biometrics panel in US realizes it has bitten off quite a lot to chew"
-    excerpt: "A commission in Massachusetts debating the use of face biometrics by police has found that the topic is more freighted and complex than anticipated."
-    publishedDateTime: 2022-01-07T15:40:00Z
-    webUrl: "https://www.biometricupdate.com/202201/face-biometrics-panel-in-us-realizes-it-has-bitten-off-quite-a-lot-to-chew"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
-        width: 1800
-        height: 734
-        isCached: true
-  - title: "China intensifies biometrics, video surveillance research as social credit market builds"
-    excerpt: "China leads all other nations in publishing research on the visual surveillance of populations, one of the most controversial segments of biometrics."
-    publishedDateTime: 2022-01-10T18:19:00Z
-    webUrl: "https://www.biometricupdate.com/202201/china-intensifies-biometrics-video-surveillance-research-as-social-credit-market-builds"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
-        isCached: true
 
 secured: "CUVvo107RowmA5o1NuVGVRMQRP2l70btWFvWo12qjPoAIZ24ljTN63UXjrYYG/TmLtblKQkdpyIJyUu1G2oditp9m7RzLOeW3kcfI6p/dQiS2FSmTPsVQFQuN8YHcPU8Ub4jsxI82kF8tfSl3hInxSR1ectCuB5G4R7nXiqh7Yl6DphnGXMMNN9otpUDPRPqtoYH6VC46JMDrCoJ4m+9cWKT6e16H48rJlhLYioWmkBu4BQo+7z+vhzjYoCVQ5bKaIhK7q1ISZowJWXPSCsgzfR5AieCbvcq5Sxa+c7PK+Y/t54XJmVyFCp7Efk0b+d82keDQx1zs5rLmat9qaUzZeu0/BJHrEb6u7sdyA6AJagN2piZ6JEe9UHlX8WeXPxJAjPtbs0LMD6ivFh+xJp0oUzXXp4DoZX+DrrqTdYUKhU+ftpUz6Du8lCSdAz8H3n/7Wxxq/U19h7D5PutC8KbFFNoZFLbVDt1URNIZ95Lpqm217zjq0qWGAgXkCOrzrvd4gM3tmqUXAWFmNgAE3FOkQ==;98Z2GQy2gsT94qpYxLZr8A=="
 ---

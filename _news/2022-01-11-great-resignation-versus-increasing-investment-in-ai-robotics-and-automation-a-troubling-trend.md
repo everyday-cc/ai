@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignat
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/amp/"
 type: article
 quality: 106
-heat: 146
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,67 +31,47 @@ images:
     isCached: true
 
 related:
-  - title: "Employers, Investors Take Notice of AI Tools to Speed Job Recruitment"
-    excerpt: "Companies are looking for an edge in hiring through artificial intelligence and automation technology."
-    publishedDateTime: 2022-01-07T22:53:00Z
-    webUrl: "https://www.wsj.com/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
-    ampWebUrl: "https://www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
+  - title: "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker"
+    excerpt: "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting"
+    publishedDateTime: 2022-01-11T20:05:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
+      name: AWS
+      domain: aws.amazon.com
+    quality: 113
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/10/ML-5350-image007-1260x501.png"
+        width: 1260
+        height: 501
+        isCached: true
+  - title: "How ReliaQuest uses Amazon SageMaker to accelerate its AI innovation by 35x "
+    excerpt: "Cybersecurity continues to be a top concern for enterprises. Yet the constantly evolving threat landscape that they face makes it harder than ever to be confident in their cybersecurity protections. To&nbsp;address&nbsp;this,&nbsp;ReliaQuest built&nbsp;GreyMatter,&nbsp;an Open XDR-as-a-Service platform&nbsp;that"
+    publishedDateTime: 2022-01-10T17:59:10Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-reliaquest-uses-amazon-sagemaker-to-accelerate-its-ai-innovation-by-35x/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 101
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/30/ML-6323-image001.jpg"
+        width: 1200
+        height: 514
+        isCached: true
+  - title: "Develop an automatic review image inspection service with Amazon SageMaker"
+    excerpt: "This is a guest post by Jihye Park, a Data Scientist at MUSINSA.&nbsp; MUSINSA is one of the largest online fashion platforms in South Korea, serving 8.4M customers and selling 6,000 fashion brands. Our monthly user traffic reaches 4M, and over 90% of our demographics consist of teens and young adults"
+    publishedDateTime: 2022-01-10T22:15:42Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/develop-an-automatic-review-image-inspection-service-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
     quality: 87
     images:
-      - url: "https://images.wsj.net/im-464229/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "AI, automation, and bots in the world of mortgage"
-    excerpt: "AI, automation, and bots in the world of mortgage But are automation and Machine Learning helping or failing? Here is all you need to know."
-    publishedDateTime: 2022-01-10T16:07:00Z
-    webUrl: "https://www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/"
-    ampWebUrl: "https://www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 57
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2022/01/Sumit-Chadha1.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "Researchers find public trust in AI varies greatly depending on the application"
-    excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
-    publishedDateTime: 2022-01-10T15:24:00Z
-    webUrl: "https://techxplore.com/news/2022-01-ai-varies-greatly-application.html"
-    ampWebUrl: "https://techxplore.com/news/2022-01-ai-varies-greatly-application.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-ai-varies-greatly-application.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 55
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/measuring-trust-in-ai.jpg"
-        width: 967
-        height: 755
-        isCached: true
-  - title: "The 4 Best Automation Stocks to Buy"
-    excerpt: "Automation is one of the most exciting technological frontiers in the world today. And many investors are looking for the best automation stocks to buy."
-    publishedDateTime: 2022-01-10T11:07:00Z
-    webUrl: "https://investmentu.com/automation-stocks/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2022/01/automation-stocks.jpg"
-        width: 730
-        height: 467
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/04/ML-6091-image001.jpg"
+        width: 2048
+        height: 1536
         isCached: true
 
 secured: "o+pKMkoAsb6mg+p0MTV0Rud98wOgGMfHLCuLAQ9GMI+LvKtUDVsIsfxLMX3Dg6OQbyav5rYs5s8YJlxpU/FQ+bik5Gpxm7MSppNWWIOMQhugNBI9m/Ep+CM0YySzolakrH+gP3hlW6Crfi3T7i/lT0IKNsvAhf7IfI2pBniBB8M9yGW48Gx6hx51H+TlkGTnGWSwkpH3XeN3UPNfGKrWxie+vI8hRPTrjQH2LuDlJGWAzt07MsQ8V98wB1RWaRQw0irDdtq6rJ6JxoDYFT4Rux5GZ5bVZ+ONuItc7NZl8wKyk/Yo4w8HFMRWH7dVCRjAFUxFHmtYN+mA1SxIxGOn+rQRoB7Q033p3GF+55vgY1vO/+y5fJCasU3PpEbMKRB00++JyC72+clhTerpEphLMxvX/pAvGdSxcad56ER+Gek95s6DScZ0Gd+v2rJWxd0spVWE290mhbQTNBhzEQRFtOy1lRtHGhjC6H1VuqTEHvqTDY3Uwvt7IY3c9msUW52w1sN+xQCOrp8sO1auR2hB+Q==;E1Q+Mcpk37ls1kZcjRTx5g=="

@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-11T17:57:00Z
 originalUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
 webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - Facebook AI
 
 images:
   - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"

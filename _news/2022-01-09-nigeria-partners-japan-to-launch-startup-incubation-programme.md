@@ -26,6 +26,17 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "MoneyGram Launches Partnership with Japanese Fintech Smiles to Enable International Money Transfers"
+    excerpt: "MoneyGram International, Inc. (NASDAQ: MGI), a global leader in the evolution of digital P2P payments, today announced a strategic partnership with Digital Wallet Corporation, a global fintech company and the owner of Smiles Mobile Remittance (Smiles),"
+    publishedDateTime: 2022-01-11T19:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-moneygram-launches-partnership-with-japanese-fintech-smiles-enable-/2022/01/11/9524339.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "VV7JH/Xr9bZEnsKE4IYNYPmuupjCMlJuIqQ8Pd9fXb+ZEBgm5nMd/4Rwd6Yhkn3mzMttBwM9s5hYcbFDMTW1P960hi2kNgWHJoxQeF6WpdCRzr16WsTaaBBxG8TqeebqywMdeGEXvA+o+n9wwOK46bIG8cAS++p7rhuwDc0OxzFPL3vE8wEBnnDkNxbDB1R7LjRIa6tpNipx1SSH/KPVBcImViXWOFJsmCBlVGDNZoHmKUFL0jwH6iWFVi5jEJr5A2QxfBfyegV82R3umIZl67Wfl59CvQmPtw3f+1VMkO3tQ9YN3HJ0tz1/7BtdcAMtrQ5sOj42BAI4rGmMxVxAj8WUzx9ot0Zxls040SC6uBo=;7VUVse52Wg7gyGhOwA7U+w=="
 ---
 
