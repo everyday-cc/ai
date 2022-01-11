@@ -24,22 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Finance Announces Launch of ICO for New Cryptocurrency Platform Based on AI and Machine Learning"
-    excerpt: "Neural networks of Smart Finance token empower and optimize its financial crypto platform with unique market features. Smart Finance today announced its revolutionary decentralized finance (DeFi) platform empowered by artificial intelligence (AI),"
-    publishedDateTime: 2022-01-11T18:25:00Z
-    webUrl: "https://www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.html"
-    ampWebUrl: "https://www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.amp.html"
-    cdnAmpWebUrl: "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.amp.html"
+  - title: "Smart Finance announces launch of ICO for new cryptocurrency platform based on AI and machine learning"
+    excerpt: "Smart Finance  announced its revolutionary decentralized finance (DeFi) platform empowered by artificial intelligence (AI), machine learning (ML) and groundbreaking mathematics expectations (ME). The SMF token is a secure and cost-effective method to invest and trade on the cryptocurrency market."
+    publishedDateTime: 2022-01-11T20:25:00Z
+    webUrl: "https://tynmagazine.com/smart-finance-announces-launch-of-ico-for-new-cryptocurrency-platform-based-on-ai-and-machine-learning/"
     type: article
     provider:
-      name: FinYear
-      domain: finyear.com
-    quality: 75
-    images:
-      - url: "https://cmsphoto.ww-cdn.com/superstatic/4807/art/grande/61549433-44837289.jpg?v=1641558956"
-        width: 1400
-        height: 1400
-        isCached: true
+      name: tynmagazine.com
+      domain: tynmagazine.com
+    quality: 35
 
 secured: "L7rJUW6BXaZSZMzwBJa25DQ/aR08N4byiRQfm0ERp/engELeNrPaMmn3Mga3o1mvPbIl+1fLT1UgvzlVMC0thZi7hUnq6N8dE9E1axFFzsDwH5sl1MHQUmaeWVESWn9t5CojTQwkRjU6btBn78EzHYQT+T5uFSkStSKCyjLZFWoUWeJoAfvvbVSwTXuOhbko+YEfYesHv7gUEa5gDkNVWYeMCnG1sYwmiThiscGk6el3jshE/2ieuli9EMVfU5g6P5zJibXS9RqzV+Lwrwa4hlDlQS9YojbqMpSCaxzhUZe4PZE43gbZNXEy0JsLUK8y+iHaueUjLZJTxKWjy5vwnErm7VOmsALSh6xDm3x+N0Q=;2J9HnRSsVPIIPaNVgbotPQ=="
 ---

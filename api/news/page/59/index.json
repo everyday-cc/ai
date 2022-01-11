@@ -2,6 +2,93 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2021-11-23-iitsec-2021-asti-broadens-its-simulation-portfolio.md",
+      "title": "I/ITSEC 2021: ASTi broadens its simulation portfolio",
+      "excerpt": "Comms simulation specialists ASTi will be using I/ITSEC 21 to showcase a number of its products alongside integration with Microsoft's HoloLens ... provides an evolutionary leap in immersion, cognitive loading, and automated scoring for pilot trainees ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.shephardmedia.com/news/training-simulation/asti-broadens-its-simulation-portfolio/",
+      "originalUrl": "https://www.shephardmedia.com/news/training-simulation/asti-broadens-its-simulation-portfolio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.shephardmedia.com/media/cache/images/images/article/solo-diagram_W9ITfhw/6c275fe20a6e9a359548e9cd9357486f.jpg",
+          "width": 800,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T06:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Shephard Media",
+        "domain": "shephardmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-cvg-airport-works-with-taskwatch-and-aws-panorama-to-enhance-operations-with-computer-vision-automation.md",
+      "title": "CVG Airport Works With TaskWatch and AWS Panorama to Enhance Operations With Computer Vision Automation",
+      "excerpt": "Cincinnati/Northern Kentucky International Airport (CVG) is working with TaskWatch and AWS Panorama to implement custom computer vision applications. After a successful pilot in 2020 where analytics were applied to video feeds and integrated into CVG’s existing TaskWatch wearable platform,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-airport-operation-1a4ba0689d974baea9be20d5ba500f58",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-streetlogic-launches-computer-vision-based-e-bike-collision-warning-system-raises-21m.md",
       "title": "Streetlogic launches computer vision-based e-bike collision warning system, raises $2.1M",
       "excerpt": "Streetlogic wants to help e-bike riders have a safer experience on the road. The company announced a $2.1 million pre-seed raise, as well as the launch of its flagship product, a surround-view camera that can predict front,",
@@ -1049,99 +1136,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage.md",
-      "title": "Report: AI has assisted half of all business owners during the labor shortage",
-      "excerpt": "As companies continue to see high turnover rates, business owners can benefit from AI handling the duties traditionally managed by humans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/",
-      "originalUrl": "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1269240296-e1637596014626.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/22/report-ai-has-assisted-half-of-all-business-owners-during-the-labor-shortage/amp/",
-      "publishedDateTime": "2021-11-22T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-grocers-try-smart-carts-to-reduce-labor-costs-shift-checkout-to-consumers.md",
-      "title": "Grocers Try Smart Carts to Reduce Labor Costs, Shift Checkout to Consumers",
-      "excerpt": "It’s hard for a 100-year-old company to transform itself into an AI company ... testing Caper’s carts back in 2019. In 2020, Amazon introduced its Dash Cart smart shopping cart at company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/veeve-is-taking-on-amazon-go-with-its-ai-smart-shopping-carts-2021-12",
-      "originalUrl": "https://www.pymnts.com/news/retail/2021/grocers-try-smart-carts-to-reduce-labor-costs-shift-checkout-to-consumers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/61c0d0fbb9cc2a001888e21d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

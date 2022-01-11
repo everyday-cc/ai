@@ -39,22 +39,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Nvidia to supply chips for Baidu’s consumer EVs"
-    excerpt: "Jidu Auto, an electric vehicle joint venture from tech giant Baidu and auto major Geely, has become the latest carmaker to commit to using Nvidia’s next-generation computer Drive Orin for its models' self-driving functions,"
-    publishedDateTime: 2022-01-07T05:35:00Z
-    webUrl: "https://technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
-    ampWebUrl: "https://technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "CES 2022: China’s JiDU adopts Nvidia’s Orin for first self-driving car"
     excerpt: "Nvidia announced at CES 2022 another automotive startup has chosen its semiconductors to power future Level 4 autonomous driving vehicles. JiDU, a Chinese automotive startup backed by Baidu, will use Nvidia’s Drive Orin system-on-chip (SoC) for its first production model that will be unveiled at the upcoming Beijing Auto Show in April and is slated for mass production and delivery by 2023."
     publishedDateTime: 2022-01-07T13:45:00Z

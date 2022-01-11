@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
+      "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
+      "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/412667",
+      "originalUrl": "https://www.entrepreneur.com/article/412667",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412667.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker.md",
       "title": "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker",
       "excerpt": "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting",
@@ -108,49 +161,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-10-global-enterprise-artificial-intelligence-market-emerging-trends-major-key-players-aws-and-google-corporation.md",
-      "title": "Global Enterprise Artificial Intelligence Market: Emerging Trends, Major Key Players AWS and Google Corporation",
-      "excerpt": "According to the report The global Enterprise Artificial Intelligence market was valued at 6 6 Billion in 2019 and is anticipated to grow at a CAGR of 36 1 from 2020 to 2027 As complex data sets advanced machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2522181/global-enterprise-artificial-intelligence-market-emerging",
-      "originalUrl": "https://www.openpr.com/news/2522181/global-enterprise-artificial-intelligence-market-emerging",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V110318404_g.jpg",
-          "width": 603,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging",
-      "publishedDateTime": "2022-01-10T03:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-07-blur-faces-in-videos-automatically-with-amazon-rekognition-video.md",
       "title": "Blur faces in videos automatically with Amazon Rekognition Video",
       "excerpt": "With the advent of artificial intelligence (AI) and machine learning (ML), customers and the general public have become increasingly aware of their privacy, as well as the value that it holds in today’s data-driven world. Enterprises are actively seeking out and marketing privacy-first solutions, especially",
@@ -212,7 +222,7 @@
       "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {

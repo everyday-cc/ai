@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-br
 webUrl: "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Fractal expands cloud AI offerings with the acquisition of Neal Analytics"
+    excerpt: "Fractal's acquisition of Neal Analytics will deepen Fractal's capability to scale AI on Microsoft's multi cloud ecosystems for its Fortune 500 clients and further expand its presence in North"
+    publishedDateTime: 2022-01-11T22:56:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54941204-fractal-expands-cloud-ai-offerings-with-the-acquisition-of-neal-analytics-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
 
 secured: "Zz3MGMDtztEf9FhtQ6m+I+/sjV0Pb7WIjePhq7p3hjyWT5bU14FGste/yQ7o4WUNoGsBTnLHt8HUiTGg9uQl7rv5WvEFxGlVF1LSYtKtDybE45Mdk7knTtZhaWgYtNijgHmDmlqlXUoarnQv5QxSCQ1EJAjYEZSBTB8GyhoGGXKJgI/93YLfIQV0jK6556GkvLvHuAztg4TM/IzewX6GYQM9amCd/5yyKnlFG3Ue5wTKm2pU0sLUi77ykdXZwMFrtYmnuGg+PoSJt67WeRiAnZFaOrhH/kZRnq+GeWyglkfMmhaM5mjodjp8Kn/IMVlgOlnXtxffNePWpKGUN4RKPCeJWEBZ7wECoMUn59nRso4=;Ixt2T7/Fi0tizqBg1lK6bA=="
 ---

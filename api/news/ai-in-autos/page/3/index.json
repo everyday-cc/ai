@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-22-self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status.md",
+      "title": "Self-driving startup Haomo raises RMB 1 billion, reaches unicorn status",
+      "excerpt": "Chinese self-driving startup Haomo announced Tuesday it has secured a RMB 1 billion (around $157 million) Series A from investors including GL Ventures, the early-stage investment arm of private equity firm Hillhouse Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "originalUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2021/12/22/self-driving-startup-haomo-raises-rmb-1-billion-reaches-unicorn-status/",
+      "publishedDateTime": "2021-12-21T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-waymo-adds-750-million-to-war-chest-as-driverless-cars-prove-tough-to-deploy.md",
       "title": "Waymo Adds $750 Million to War Chest as Driverless Cars Prove Tough to Deploy",
       "excerpt": "In the world of driverless cars, the big keep getting ... are going to big companies rather than unproven startups as the artificial intelligence technology has proven harder to deploy than ...",
@@ -1315,40 +1358,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-14-tap-into-the-artificial-intelligence-space-with-these-4-funds.md",
-      "title": "Tap Into the Artificial Intelligence Space With These 4 Funds",
-      "excerpt": "Maybe, but this is where machine learning and artificial intelligence (AI ... a photographic memory that can be used in robotics, self-driving cars, virtual assistants and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds",
-      "originalUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tap-into-the-artificial-intelligence-space-with-these-4-funds?amp",
-      "publishedDateTime": "2021-12-14T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

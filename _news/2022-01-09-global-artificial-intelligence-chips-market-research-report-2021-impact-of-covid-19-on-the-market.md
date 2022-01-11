@@ -32,6 +32,20 @@ related:
         width: 1280
         height: 636
         isCached: true
+  - title: "A Comparative Study of Deep-Learning Models for COVID-19 Diagnosis based on X-ray and CT Images"
+    excerpt: "Developing and comparing deep learning models for identifying Covid-19 diseases on CT and X-ray images. - GitHub - eliashossain001/SARS-CoV-2Detection: Developing and comparing deep learning"
+    publishedDateTime: 2022-01-10T11:10:00Z
+    webUrl: "https://github.com/eliashossain001/SARS-CoV-2Detection"
+    type: article
+    provider:
+      name: GitHub
+      domain: github.com
+    quality: 12
+    images:
+      - url: "https://opengraph.githubassets.com/008962df8611d7e459684bf9f5e909b93070a9b9ff361d03babe92fc661b9ccd/eliashossain001/SARS-CoV-2Detection"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "yAjaOJNqRLjWnAnf2P8u6xos0AdGhfeY0TbLXBBIzkpfBrxxuraYH0ZueAFx/Ssm2/+nvkSXyvUCf1j6B1IjmYxAEq/e8YqiXPMKUywRWRnte/Y+6gjgyzCpVltkXeWv+HFwqW+4+oCK5pwO6sk32CrfbVqF6vinAK+z17nhQSqhGeD4JxefPsUMTVQPxqwcimiRP45/5MVzn+RbWSRsfP2IFo0YDRo3nWbez3HLSC8uS3uOjqBJ5Qb2iEcVpSNgOM1bb5WFx/15f+YWQZ0PrRlbRnfxBb02kPLP7DOUQoZxb6q290izKlwhUMSP9A1WifG/WC2Esy4quHaTG+Yh2aHJlUPbR4js9Qqqvkhi43Y=;LTVZms+N0Cykk/CfGxwdDA=="
 ---

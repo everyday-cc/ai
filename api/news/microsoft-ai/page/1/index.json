@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
+      "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
+      "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/412667",
+      "originalUrl": "https://www.entrepreneur.com/article/412667",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412667.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-text-autocompletion-systems-aim-to-ease-our-lives-but-there-are-risks.md",
       "title": "Text autocompletion systems aim to ease our lives, but there are risks",
       "excerpt": "Text autocompletion technology uses AI to help us to write emails and messages by suggesting words and even entire sentences. But bias can creep into these systems.",
@@ -1356,58 +1409,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities.md",
-      "title": "Global stakeholders should use AI to mitigate impact of heat islands in cities",
-      "excerpt": "Interventions involving public health officials, enterprises, governments, communities, nonprofits and tech partners are the way to democratize technology and rectify urban heat island devastation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
-      "originalUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-485025710.jpg?w=1024",
-          "width": 1024,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
-      "publishedDateTime": "2021-12-22T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

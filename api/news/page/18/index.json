@@ -2,6 +2,92 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-12-23-artificial-intelligence-can-help-avoid-power-outages-heres-how-opinion.md",
+      "title": "Artificial intelligence can help avoid power outages. Here's how. | Opinion",
+      "excerpt": "Personal preparation is obviously important — such as making sure your car tires are in good shape, having a backup home heat source, and knowing where the flashlight is in case the power goes out. But there are also actions that can be taken at a larger scale to be better prepared;",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailyjournal.com/story/opinion/2021/12/23/artificial-intelligence-can-help-avoid-power-outages-heres-how/9001511002/",
+      "originalUrl": "https://www.thedailyjournal.com/story/opinion/2021/12/23/artificial-intelligence-can-help-avoid-power-outages-heres-how/9001511002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/09/22/PNJM/3fe38d84-e1a4-45bb-a705-7cbb713b6494-milida2.jpg?auto=webp&crop=4031,2267,x0,y62&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.thedailyjournal.com/amp/9001511002",
+      "cdnAmpWebUrl": "https://amp-thedailyjournal-com.cdn.ampproject.org/c/s/amp.thedailyjournal.com/amp/9001511002",
+      "publishedDateTime": "2021-12-23T01:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Journal",
+        "domain": "thedailyjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
+      "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
+      "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
+      "publishedDateTime": "2021-12-23T01:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-optical-chip-solves-hardest-math-problems-faster-than-gpus.md",
       "title": "Optical Chip Solves Hardest Math Problems Faster than GPUs",
       "excerpt": "Optical computing startup Lightelligence has demonstrated a silicon photonics accelerator running the Ising problem more than 100 times faster than a typical GPU setup. Lightelligence’s photonic arithmetic computing engine,",
@@ -1058,100 +1144,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity.md",
-      "title": "Can AI Virtual Assistants Help Close The Gaps In Cybersecurity?",
-      "excerpt": "In the era of the Great Resignation, when your company may be short on skilled employees, time and financial resources, digital cybersecurity analysts may be an option worth exploring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/can-ai-virtual-assistants-help-close-the-gaps-in-cybersecurity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1dc2e950fe36bb18fba64%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T05:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january.md",
-      "title": "DeWitt Township police will have access to facial recognition software starting in January",
-      "excerpt": "The DeWitt Township Police Department signed an agreement with the Michigan State Police to use their SNAP facial recognition software, which is meant to help officers identify suspects and crime victims while in the field.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
-      "originalUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/d9b/ea660b0be0634bafb4e6d8a0650cafd3/d9bf8296f47a4d2c87aba01c863fcc61/poster_0bf92dea6b6a425a80199eb2aaeefce4.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
-      "cdnAmpWebUrl": "https://www-fox47news-com.cdn.ampproject.org/c/s/www.fox47news.com/neighborhoods/dewitt-st-johns/dewitt-township-police-will-have-access-to-facial-recognition-software-starting-in-january?_amp=true",
-      "publishedDateTime": "2021-12-22T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSYM-TV",
-        "domain": "fox47news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

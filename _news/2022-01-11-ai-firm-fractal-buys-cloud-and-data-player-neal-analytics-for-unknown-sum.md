@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Fractal expands cloud AI offerings with the acquisition of Neal Analytics"
+    excerpt: "Fractal's acquisition of Neal Analytics will deepen Fractal's capability to scale AI on Microsoft's multi cloud ecosystems for its Fortune 500 clients and further expand its presence in North"
+    publishedDateTime: 2022-01-11T22:56:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54941204-fractal-expands-cloud-ai-offerings-with-the-acquisition-of-neal-analytics-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
 
 secured: "UvP4VLKJrjidpIi7Asu10U1c10zu5F6cHXrC/pqaCI25vCtCdRPaXO0QL6dh9PQavmtC7CXBqZEtuSsI7F40gMtEetpcniQn/lVj+2DnB6A8ZW/lJgauIgt7wfnC6V5I69dYEKE8PpJVOq5naCXs5k8/ZXdqoVpxbgKlF2LeRRiwhWm/gzHwB5nEv/QTmaVa4TOCLxilV9Zf4746c3jjs0NpplHOWCCu6ips386GDG4KUM2qqNXu2QQXmD1j+FYEpqi9juh5dYW58pp8Wgq+l4KuHSyAbPDYoL8o3umshfMhF2w9HN63daacj1yLH8bvSMgViIY5TG+MqxWbaTRTs/1SQ5QqvAoDwgs7Q2c8pm4=;tHlroCX3SKG47ZmXNNxOpA=="
 ---

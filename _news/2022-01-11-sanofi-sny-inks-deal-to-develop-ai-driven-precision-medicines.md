@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/412358"
 webUrl: "https://www.entrepreneur.com/article/412358"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.labiotech.eu/wp-content/uploads/2022/01/exscientia-ai-sanofi-drug-discovery.jpg"
         width: 1024
         height: 536
-        isCached: true
-  - title: "Exscientia and Sanofi establish strategic research collaboration to develop AI-driven pipeline of precision-engineered medicines"
-    excerpt: "Collaborative efforts aim to accelerate drug discovery and improve clinical success Agreement to utilize Exscientia’s AI-based capabilities and personalised medicine platform from target identification through patient selection Research will be focused on up to 15 novel small molecule candidates across oncology and immunology Exscientia will receive an upfront cash payment of $100 million with the potential of $5."
-    publishedDateTime: 2022-01-07T06:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-business-health-531f9bb727e741335053eb4f43091797"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "7FUqFAup2jdEblRgO1Y+XL3ywwBjyCWzxKClOpmR1rXAdQWpXR5bWwNyuBQFLM0/zI6rYasiMbkM/XYm3oLM2h0nlzLtWZSmxdrUjVGhejspXwNrCkT56jRrzQZWeKZAhmqJSkv/ycS8TXybzyJhMY7ImupQ+qnVVV0nsFynbzLUgQzO8PLcD3G86SdcVwr/Q7/KS1G3IQYlwdb1VoaR3GVlN1vwHNUcy4GKZjdb+mpmTBLpHPiLjaclP2HE5DpE7UhzMVlCFDpdyiXAtBCeo5wgzLxNuKm1r9o9ughoc/yOYFlvgMbqraikJJOP/LXipXRZkluXrscE5U/VfSGVajSe5ix90SSqhdGS9TuLO2iNTzOWs4hvVmlWCejJ4ql0/6DlyjOHdNHdyuw8wu79yeDGXFKsOEhmYIerNC+UketCFf8hnLQcrZbz2Yy05JI0NS7nqT3NvPl7TQ86/a7EfLfLVykOqh/STz3d1SWMbhqa/MBXJ+Hif7xdxdIVOuQCWRnl7SWhcCsZ6Y9gbu6a9w==;haRKT0tfr8ghQRIBSVnMVA=="

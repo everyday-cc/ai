@@ -43,20 +43,6 @@ related:
         width: 603
         height: 394
         isCached: true
-  - title: "AI in Computer Vision Market: Explore Top Factors that Will Boost the Global Market in Future"
-    excerpt: "AI in Computer Vision Market Computer vision is widely used in industries ranging from energy & utilities to manufacturing and automotive"
-    publishedDateTime: 2022-01-07T06:28:00Z
-    webUrl: "https://menafn.com/1103501989/AI-in-Computer-Vision-Market-Explore-Top-Factors-that-Will-Boost-the-Global-Market-in-Future"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/07/EP_2e58eimage_story.jpeg"
-        width: 790
-        height: 466
-        isCached: true
 
 secured: "n1Ts3BPZCfzgnwTL6FpLfqsLr/ae4+MrwZZtP8kQAxHrADLh0YzBqnWfGBmSOnkGCjiLPd2S1x65/HGOE735dDGoj/EJ0NmCisnjUIjD22YgMbEQFxjOG5CZiSArVwFhpT6TSwriXwmfKHEHmRi5XbVYyjVYefpeQU5Up+PIiAikJZi4ZL+vAa1Ye8yerm2CLFdbvCmaHkTRo7OoObsNJSVt9NNM/Ok6kbJ7sYBjvwZzXxT5bVYtA6UKCOmRFImZy+SVxaCGs2L50/IVAfxkYEiOn/tkrwGW4iq+aI6u0F8uPyTkPlh5wjPxKq0tx9MK0ndk6cFdaj7ce92TufUoUKvhMc2gTYSompITSqfKRvI=;mqFZQQJRAtF6ulpQ0R5lNQ=="
 ---

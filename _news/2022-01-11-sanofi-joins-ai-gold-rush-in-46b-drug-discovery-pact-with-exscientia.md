@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Exscientia and Sanofi establish strategic research collaboration to develop AI-driven pipeline of precision-engineered medicines"
-    excerpt: "Collaborative efforts aim to accelerate drug discovery and improve clinical success Agreement to utilize Exscientia’s AI-based capabilities and personalised medicine platform from target identification through patient selection Research will be focused on up to 15 novel small molecule candidates across oncology and immunology Exscientia will receive an upfront cash payment of $100 million with the potential of $5."
-    publishedDateTime: 2022-01-07T06:02:00Z
-    webUrl: "https://apnews.com/press-release/GlobeNewswire/coronavirus-pandemic-business-health-531f9bb727e741335053eb4f43091797"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 8
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "lzONj6dJrldH3u1G5kTuxINZBdG6UTs7v5/SxJqL00WiEjSPpK93QSFPA6mfrlFYmFzOdEuxdQ2zTmOdBciL8IFDV8YiqaMz+iYsuaBa8Q4JgnDGw0FqDJovoJmoiCTeeD/CLsKV4/P2F4cHEaPIZI9qQqd37r7OiYJU9X1+05CUBJchSfpHjHrycrmRweh0T6RsRVJKY2NI0nuJzW1oUyapo3O8IWzvCLLkYke3zPFfOLBfCt2zvISZ7rs+Js7nqxe2IIvGD15DznRIcw1w8avP9YpSdQA9HmevCoZAVY0BLkUOUnRWvTbxXl70RAe89S/AoKoX8lqyJAhaDSH+Xc7uHrq/CI6GVJB8ps3EKe4=;EgUIzNiNCu1ecKuCuRYgwg=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-11T09:55:00Z
 originalUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
 webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
 type: article
-quality: 23
+quality: 21
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: indiatimes.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
@@ -87,6 +86,6 @@ related:
         height: 270
         isCached: true
 
-secured: "j7quKSeG5TIXTxSjAC0rVCvct1rO58WsY27wGRSm0Bz5T2HZAjxCKLaSWBS8PX4/9zlIB55JLYKRXZQy/e364fcM0D+D6gXfaeh+bSj2lUsaGzI55gaIKISUXTWivkquWN1MmzLb3Nad9umD4lS1ulA65whM7PEMp5wlv8bHJXIZ4voipaO/Jkmb5cX9dsA8s5n04Z5jXtdb8MClMKzHriyyZTlqP53euvT7/hx1CsULgKtZoKiADS6+tEOb42nXJNaXCcM17Jz0vYCGVwInGWX55dt/ubG2kJfKjZ7CPUIdYmtxmG4HMEsILcJMcrnuPAORE90prxfSdrQe09yXcDKOe1eHfpxUliOKOWi8gzE=;GZQVAVgRtBb4/RgxmsyFEw=="
+secured: "daWvmvOpVZgKeboNimTxk0b8HJg2iw0mHS0VZAAzTQLqH2P+gQKGQI2fCjNo0ygOwFDxAJ9dq4Y+epRTYe50EXYoXSSBdVuEEtmmuUuEhK5ncCL42RK/7OEKjJUdF50LESB4DfV6xjtUS5XA0BOdKWfII8x+Cc+5pGnYWgz0T4/EAH/Ue37FMuarotO5eVS2TPjOx66mEN1hCChBy8c+v1buTmcZQkhI8fXbgJwJGFhmF4cRvEIaCfol93ph4rELDcgn59aaELk6YYZ7jN5KvK/BLbE0DSCUrzcsuyZUgNQFPf8NGb83qtUr/TyDhyee9w4vtr3DIbDUlN/IMx1Hxssa99Qhuks6vVW9/6hT2E0=;6K8b7hiHpsZk4cMIVZH2Vw=="
 ---
 

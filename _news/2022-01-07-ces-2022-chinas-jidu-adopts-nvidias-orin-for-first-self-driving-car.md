@@ -33,22 +33,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Nvidia to supply chips for Baidu’s consumer EVs"
-    excerpt: "Jidu Auto, an electric vehicle joint venture from tech giant Baidu and auto major Geely, has become the latest carmaker to commit to using Nvidia’s next-generation computer Drive Orin for its models' self-driving functions,"
-    publishedDateTime: 2022-01-07T05:35:00Z
-    webUrl: "https://technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
-    ampWebUrl: "https://technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/07/nvidia-to-supply-chips-for-baidus-consumer-evs/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
   - title: "Baidu to launch Level 2 autonomous car in 2023"
     excerpt: "China’s technology giant Baidu is stepping up its efforts to expand in the autonomous vehicle segment with the commercial launch...Read"
     publishedDateTime: 2022-01-07T12:12:00Z

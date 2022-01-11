@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Thankful Partners with Dixa to Bring AI Enhancements to Europe"
+    excerpt: "AI-based customer service solution company Thankful announced the formation of a new partnership with Dixa, a customer service platform provider based in the Netherlands. As part of this new business relationship,"
+    publishedDateTime: 2022-01-11T21:03:00Z
+    webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/articles/451171-thankful-partners-with-dixa-bring-ai-enhancements-europe.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jan/0516357558-AdobeStock_250484608_AI_automation_concept_SUPERSIZE.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Made in emerging Europe: InoBat, Humans.ai"
     excerpt: "Emerging Europe brings you a round-up of the region’s start-ups which recently closed financing rounds, sealed partnerships, or dropped new innovations, this week featuring Slovakia's InoBat and Romania's Humans."
     publishedDateTime: 2022-01-10T10:08:00Z

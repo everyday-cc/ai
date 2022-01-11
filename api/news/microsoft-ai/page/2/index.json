@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-23-global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities.md",
+      "title": "Global stakeholders should use AI to mitigate impact of heat islands in cities",
+      "excerpt": "Interventions involving public health officials, enterprises, governments, communities, nonprofits and tech partners are the way to democratize technology and rectify urban heat island devastation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
+      "originalUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-485025710.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/22/global-stakeholders-should-use-ai-to-mitigate-impact-of-heat-islands-in-cities/amp/",
+      "publishedDateTime": "2021-12-22T12:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-global-iot-technology-market-outlook-2026-evaluates-leading-vendors-nvidia-ibm-intel-samsung-electronics-microsoft-and-45-others.md",
       "title": "Global IoT Technology Market Outlook, 2026 | Evaluates Leading Vendors Nvidia, IBM, Intel, Samsung Electronics, Microsoft, and 45 Others",
       "excerpt": "The report evaluates leading vendors, products, and services offerings ... evolves to allow IoT networks and systems to become more cognitive. The emerging AIoT market will enable systems to ...",
@@ -1295,49 +1347,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.md",
-      "title": "Microsoft and Esri deliver centralized satellite image analysis in Azure Orbital",
-      "excerpt": "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88207179,imgsize-43790,width-1200,height-628,overlay-etcio/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital/88207179",
-      "publishedDateTime": "2021-12-10T03:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

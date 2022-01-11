@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-01-12-smart-finance-announces-launch-of-ico-for-new-cryptocurrency-platform-based-on-ai-and-machine-learning.md",
-      "title": "Smart Finance Announces Launch of ICO for New Cryptocurrency Platform Based on AI and Machine Learning",
-      "excerpt": "Neural networks of Smart Finance token empower and optimize its financial crypto platform with unique market features. Smart Finance today announced its revolutionary decentralized finance (DeFi) platform empowered by artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.html",
-      "originalUrl": "https://www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsphoto.ww-cdn.com/superstatic/4807/art/grande/61549433-44837289.jpg?v=1641558956",
-          "width": 1400,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.amp.html",
-      "cdnAmpWebUrl": "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.amp.html",
-      "publishedDateTime": "2022-01-11T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FinYear",
-        "domain": "finyear.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2022-01-11-machine-learning-and-ai-used-to-rapidly-detect-sepsis-cutting-risk-of-death-dramatically.md",
       "title": "Machine learning and AI used to rapidly detect sepsis, cutting risk of death dramatically",
       "excerpt": "A groundbreaking advance in quickly detecting sepsis using machine learning has been pioneered by researchers in the Hancock Lab and the department of microbiology and immunology at UBC.",
@@ -1410,6 +1366,59 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution.md",
+      "title": "AI, ML bubble to the top in new beverage-ordering solution",
+      "excerpt": "The Bees application empowers users to place orders anytime, anywhere. They can order an array of products, earn rewards where applicable, gain insights on how their business is performing, and have flexibility with delivery dates and times.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/",
+      "originalUrl": "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/cafe-x-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution/amp/",
+      "publishedDateTime": "2022-01-04T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

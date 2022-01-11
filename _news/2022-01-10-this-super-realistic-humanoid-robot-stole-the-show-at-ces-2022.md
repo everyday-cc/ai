@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "DEEP Robotics' Jueying Lite2 Robot Dog Makes Its Debut at CES 2022"
-    excerpt: "DEEP Robotics exhibited its intelligent quadruped robot Jueying Lite2 with its partner Alisys at CES 2022, the tech industry's annual trade show held this year in Las Vegas on January 5-7, 2022, showcasing cutting-edge robotics technologies."
-    publishedDateTime: 2022-01-07T05:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=596509"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 54
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "The weirdest stuff we saw at CES 2022: John Deere's self-driving tractor, robot masseuses"
     excerpt: "Among the odder sights at this year's Consumer Electronics Show: an autonomous tractor from John Deere and robots that will give you a massage."
     publishedDateTime: 2022-01-07T14:46:00Z

@@ -19,20 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Cargill adds two AI-driven innovations to portfolio"
-    excerpt: "Cargill has added two new products to its portfolio of AI-driven innovations that assist producers beyond nutrition in optimising production with actionable insights."
-    publishedDateTime: 2022-01-11T17:58:00Z
-    webUrl: "https://www.thepoultrysite.com/news/2022/01/cargill-adds-two-ai-driven-innovations-to-portfolio"
+  - title: "Gulf uniquely placed for AI innovation as 50% of data workers now automate manual tasks"
+    excerpt: "Despite strong progress, research shows that Gulf businesses struggle to unlock the value of AI innovation due to inconsistent staff training"
+    publishedDateTime: 2022-01-10T09:41:00Z
+    webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/Gulf_uniquely_placed_for_AI_innovation_as_50_of_data_workers_now_automate_manual_tasks-ZAWYA20220110094114/"
+    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/"
     type: article
     provider:
-      name: The Poultry Site
-      domain: thepoultrysite.com
-    quality: 37
+      name: Zawya
+      domain: zawya.com
+    quality: 51
     images:
-      - url: "https://5mpublishing.sirv.com/poultry%2Farticles%2FData%2FCargill-Birdoo.jpg?scale.option=fill&scale.width=1200&scale.height=630&crop.width=1200&crop.height=630&crop.y=center&crop.x=center"
-        width: 1200
-        height: 630
+      - url: "https://images.zawya.com/pr/images/2022/FPR_2755_2022_01_10.jpg"
+        width: 450
+        height: 305
         isCached: true
+  - title: "Alteryx: Gulf ripe for AI innovation as 50% of data workers automate tasks"
+    excerpt: "Alteryx unveils new data showing that the Gulf is uniquely placed to drive post-pandemic innovation.. Alteryx: Gulf ripe for AI innovation as 50% of data workers automate tasks. Alteryx, automation, Data,"
+    publishedDateTime: 2022-01-11T09:27:00Z
+    webUrl: "https://www.itp.net/business/alteryx-data-automation-and-ai-potential"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
 
 secured: "nJrmhe+yjJyxcszbGBLk+BWNukIg5hsgzoBuhdGgLZIyOq0TT3gGbDObTUXQhNIH+sxghO0RASCWlfb3H4v44xV+qPO0j0XjSicH/9urEqdiPs7YK2yX3OxDmm5zKyu/SVBhdVhtxQV+kwXl4DVjuyUEctTJ0VBL4gT/PrJ1+9SB594VoRFYXi5xK0tBqKVRp5drLIlzGbQv0/Naf5x/3h/3hCs7/xZ4dHAelJ+7qmhAy26NDJKCyrARpGJ6ciGzXRsMuVIPP3Dd+ztRGjD2EN7InL7nTVpKXYNcVsvTcP+AUhYjvXTzvnhEbOcmEqToqI1zdQM0JpM5lWjRj2BoALdV5IBQJB7v/EkLvsExj2w=;0n2yDEu+4Opa/Q5Ot//xJQ=="
 ---

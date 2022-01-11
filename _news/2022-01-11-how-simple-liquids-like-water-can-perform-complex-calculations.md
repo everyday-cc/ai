@@ -26,22 +26,6 @@ images:
     height: 1800
     isCached: true
 
-related:
-  - title: "A simple calculation can stop artificial intelligence sending you broke"
-    excerpt: "Mike is a 40-something crop farmer from southern Queensland. With a chestnut tan, crushing handshake and a strong outback accent, hes the third generation of his family to grow sorghum, a cereal mostly used for"
-    publishedDateTime: 2022-01-07T06:02:00Z
-    webUrl: "https://www.econotimes.com/A-simple-calculation-can-stop-artificial-intelligence-sending-you-broke-1624523"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 37
-    images:
-      - url: "https://s1.econotimes.com/assets/uploads/2022010626e855accc227a0bf_th_1024x0.jpg"
-        width: 496
-        height: 248
-        isCached: true
-
 secured: "TUNdwjarCzZJwNALsAsanZ6M2kcFnhOV2qS/GhYkZ07MSXl7HdHpSyQYaTShk3KcYP74a3WtQLuKHQvi7vrIj4TxxpNhS7VoblRn4xymHg8MvXhIZ+ZDBS51V4IBNAp1o6n/o9uOEmN+0FMQDG7KB/g3f4JTlGWu+SksjW2vD+cgAISED53QeVITwOLnaVFf1mmAvDJY0rsNFQSi4BoSc2KPfmnBUvFBDFrfI9lDwd0chP+HAamTKMILT/NwboWDzGkm6bJEpsose+JnY712r6MElfVOkqUB0YSdlHqjXlS7FEj/e35MjMoLRCQH3q2Y4rvWW1JJEYSduHR5WWY39kSmzDIzSqxwze+VQGgLPrI=;FAKFUlyz3zDzlqSByBN6ew=="
 ---
 

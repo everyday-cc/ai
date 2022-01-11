@@ -57,18 +57,18 @@ related:
         height: 250
         isCached: true
   - title: "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®"
-    excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management,"
+    excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,"
     publishedDateTime: 2022-01-10T15:15:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-supply-chain-market-size-worth--14-3-billion-globally-by-2028-at-20-17-cagr-verified-market-research-301457252.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 23
     images:
-      - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-        width: 2696
-        height: 1414
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4ZnOkGKYxF43HWPJY5xDV4BMEN6vrG7DUo6GR+zN2KzOBpssHbHomONbCzPZhzuSuecs6KkBJI2yCHXxxvtY5pi700llCIKN/4+YyNNtnpSSJ8SgbbgGbU0b8NpkTbdQp9soICTPnYg32x3ViMeMtVkwcDweRipynvcg5Ve/ddZM80y49ct+mVUkdS3RS/trRtWym4jCLZ6fqnh4cQ9tWuODvVD+FSwjcBaWRA6TzpWgBywc2vP/Wqd2RvqK2J9rrzuR2yvPFcsnLlSfQHkgm+8Bz7Ksk+Gf/SuznpIkmjxYG0/gQHLc2OPDashP1OngJONssohYU2xRTTZgrSPBm6txVO2smrj1fpiq8aPigPkcc9XL3hRY0RiwZb4Jnr5lhRLjQUg3eRWtGAKN0siRPCQWWvR0Fpq2aGpSXzEKFMbcpoP/AZLWuVgaXNtlAWvM6CUL4hTMhwd2neTpSuNqnS77UfAQAa99PZfhOp8r0OPratuv6DhoY7TNG6nfKxWIzAfU6mdOjfRzlA0jC1uCgw==;nPYkUlVfufil3LMC2x1oKA=="

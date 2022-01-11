@@ -55,6 +55,93 @@
       ]
     },
     {
+      "path": "_news/2022-01-11-university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust.md",
+      "title": "University of Cambridge: Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’",
+      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and 'threat modellers' dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it’s too late.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/cambridge-University.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "publishedDateTime": "2022-01-10T20:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-gulf-uniquely-placed-for-ai-innovation-as-50-of-data-workers-now-automate-manual-tasks.md",
+      "title": "Gulf uniquely placed for AI innovation as 50% of data workers now automate manual tasks",
+      "excerpt": "Despite strong progress, research shows that Gulf businesses struggle to unlock the value of AI innovation due to inconsistent staff training",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/Gulf_uniquely_placed_for_AI_innovation_as_50_of_data_workers_now_automate_manual_tasks-ZAWYA20220110094114/",
+      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/Gulf_uniquely_placed_for_AI_innovation_as_50_of_data_workers_now_automate_manual_tasks-ZAWYA20220110094114/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/pr/images/2022/FPR_2755_2022_01_10.jpg",
+          "width": 450,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/",
+      "publishedDateTime": "2022-01-10T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority.md",
       "title": "As Dubai Moves on AI Track, Tackling Ethical Risk Becomes Top Priority",
       "excerpt": "Data has emerged as the new oil for economic growth. This is especially so in the case of the UAE which is fast evolving into a knowledge-based economy with Dubai as the fountainhead of in - Mediawire",
@@ -1327,112 +1414,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-20-ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts.md",
-      "title": "AI Trends In 2022: What’s Real And What’s Hype? Hear From The Experts",
-      "excerpt": "To prepare for 2022, look past the top trends to learn the biggest hype and worst recommendations given to leaders. Here are answers to five unusual questions for the new year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
-      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c00dede5b830952a1aaa39%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4135%26cropY1%3D406%26cropY2%3D2345",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2021/12/20/ai-trends-in-2022-whats-real-and-whats-hype-hear-from-the-experts/amp/",
-      "publishedDateTime": "2021-12-20T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-3-big-problems-with-datasets-in-ai-and-machine-learning.md",
-      "title": "3 big problems with datasets in AI and machine learning",
-      "excerpt": "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 571,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
-      "publishedDateTime": "2021-12-17T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

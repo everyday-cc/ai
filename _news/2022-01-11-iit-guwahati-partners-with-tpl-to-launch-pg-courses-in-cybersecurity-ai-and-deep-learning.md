@@ -80,7 +80,7 @@ related:
     provider:
       name: India Times
       domain: indiatimes.com
-    quality: 23
+    quality: 21
     images:
       - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069

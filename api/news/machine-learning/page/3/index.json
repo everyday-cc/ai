@@ -2,59 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-12-21-cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-learning-in-22.md",
-      "title": "CNBC Technology Executive Council survey reveals executives excited about machine learning in '22",
-      "excerpt": "CNBC Technology Executive Council survey reveals few executives worried about the omicron variant's impact to their 2022 outlook. Got a confidential news tip? We want to hear from you. Sign up for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2021/12/20/cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-earning-in-22.html",
-      "originalUrl": "https://www.cnbc.com/video/2021/12/20/cnbc-technology-executive-council-survey-reveals-executives-excited-about-machine-earning-in-22.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106991730-16400192271640019224-20405410156-1080pnbcnews.jpg?v=1640019226",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2021-12-21-eight-effective-ways-to-leverage-machine-learning-ad-tools.md",
       "title": "Eight Effective Ways To Leverage Machine Learning Ad Tools",
       "excerpt": "Rather than guess at what approach will work best to reach target audiences, brands can generate predictive models using ML and AI to identify optimal creative, content, placements and more to boost the effectiveness,",
@@ -1455,6 +1402,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-13-morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon.md",
+      "title": "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon",
+      "excerpt": "Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine Learning for Good Hackathon, which leveraged natural language processing (NLP) to analyze COVID-related mental health data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon/article_896ee044-8e3c-51a5-a5ed-2d105a967696.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon/article_896ee044-8e3c-51a5-a5ed-2d105a967696.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T06:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

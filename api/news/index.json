@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
+      "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
+      "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/412667",
+      "originalUrl": "https://www.entrepreneur.com/article/412667",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412667.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature-called-dldsr.md",
       "title": "Latest Nvidia drivers reveal AI-powered downscaling feature called DLDSR",
       "excerpt": "Dynamic Super Resolution is Nvidia’s method for letting users easily downsample games. It renders a game at a higher resolution, then shrinks it back down to",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.techspot.com/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -148,50 +201,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-smart-finance-announces-launch-of-ico-for-new-cryptocurrency-platform-based-on-ai-and-machine-learning.md",
-      "title": "Smart Finance Announces Launch of ICO for New Cryptocurrency Platform Based on AI and Machine Learning",
-      "excerpt": "Neural networks of Smart Finance token empower and optimize its financial crypto platform with unique market features. Smart Finance today announced its revolutionary decentralized finance (DeFi) platform empowered by artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.html",
-      "originalUrl": "https://www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmsphoto.ww-cdn.com/superstatic/4807/art/grande/61549433-44837289.jpg?v=1641558956",
-          "width": 1400,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.amp.html",
-      "cdnAmpWebUrl": "https://www-finyear-com.cdn.ampproject.org/c/s/www.finyear.com/Smart-Finance-Announces-Launch-of-ICO-for-New-Cryptocurrency-Platform-Based-on-AI-and-Machine-Learning_a46462.amp.html",
-      "publishedDateTime": "2022-01-11T10:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FinYear",
-        "domain": "finyear.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -757,6 +766,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-11-corsight-ai-reduces-bias-in-its-facial-recognition-technology.md",
+      "title": "Corsight AI reduces bias in its facial recognition technology",
+      "excerpt": "Corsight AI, announces a reduction in both gender and racial bias within its Autonomous AI-powered solution, Fortify.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
+      "originalUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s33644.pcdn.co/wp-content/uploads/2018/08/facial-recognition-e1533212864558.jpeg",
+          "width": 388,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
+      "publishedDateTime": "2022-01-11T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ifsecglobal.com",
+        "domain": "ifsecglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning.md",
       "title": "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning",
       "excerpt": "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning.",
@@ -797,6 +849,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust.md",
+      "title": "University of Cambridge: Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’",
+      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and 'threat modellers' dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it’s too late.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/cambridge-University.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "publishedDateTime": "2022-01-10T20:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -1128,109 +1224,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-future-developments-in-ai-could-make-your-credit-score-obsolete.md",
-      "title": "Future developments in AI could make your credit score obsolete",
-      "excerpt": "While AI won't replace credit scores overnight, it is clear that it has the potential to do so in the future, changing lives across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/10/future-developments-in-ai-could-make-your-credit-score-obsolete/",
-      "originalUrl": "https://venturebeat.com/2022/01/10/future-developments-in-ai-could-make-your-credit-score-obsolete/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1182774846.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/10/future-developments-in-ai-could-make-your-credit-score-obsolete/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/future-developments-in-ai-could-make-your-credit-score-obsolete/amp/",
-      "publishedDateTime": "2022-01-10T13:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution.md",
-      "title": "Robotic Arms Are Using Machine Learning to Reach Deeper Into Distribution",
-      "excerpt": "Advances in technology are moving automated picking systems from the lab to labor-strapped warehouses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution-11641852537",
-      "originalUrl": "https://www.wsj.com/articles/robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution-11641852537",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-465171/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution-11641852537",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution-11641852537",
-      "publishedDateTime": "2022-01-10T13:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
