@@ -1,0 +1,52 @@
+---
+category: news
+title: "Dallas wants to be the site of Ford and Argo AI’s next autonomous vehicle facility"
+excerpt: "Dallas council members will vote Wednesday on whether to approve an economic development agreement with Ford in the hopes of being home to the automaker’s next autonomous vehicle facility. Ford, an investor and customer of AV technology company Argo AI,"
+publishedDateTime: 2022-01-11T01:32:00Z
+originalUrl: "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/"
+webUrl: "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/"
+ampWebUrl: "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/"
+type: article
+quality: 81
+heat: 91
+published: true
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024"
+    width: 1024
+    height: 592
+    isCached: true
+
+related:
+  - title: "Dallas is a finalist for $160 million Ford and Argo AI self-driving vehicle facility"
+    excerpt: "The City of Dallas will vote to approve an incentive package aimed at luring the plant to Dallas on Wednesday."
+    publishedDateTime: 2022-01-10T19:03:00Z
+    webUrl: "https://www.dallasnews.com/business/autos/2022/01/10/dallas-is-a-finalist-for-160-million-ford-and-argo-ai-self-driving-vehicle-facility/"
+    ampWebUrl: "https://www.dallasnews.com/business/autos/2022/01/10/dallas-is-a-finalist-for-160-million-ford-and-argo-ai-self-driving-vehicle-facility/?outputType=amp"
+    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/01/10/dallas-is-a-finalist-for-160-million-ford-and-argo-ai-self-driving-vehicle-facility/?outputType=amp"
+    type: article
+    provider:
+      name: Dallas Morning News
+      domain: dallasnews.com
+    quality: 52
+    images:
+      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JfACz9KM0HQR8HkzHM3EwW33QMc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/E2WMHE5VWRAENLWRJLBEQS7774.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "3UDRpHZvh7OxRI7g+3/SW3lQS6vfVDxOlaURF3Y6uuSV4nEM6KIPwlULk9JaJJqCYc+0FFlMdKb8cV9MEyjMpUzelOj2phrPPYdct5BvpR7mrWEdW5lOLzvGT77qzWx7PDK/fmLeoTYo0lvQFSYlHrRUx2WZijGABa0qTTGOT9kTvFolXI32lZ9dGx/gYZU/9Sql9M1FuIdhd+LuJuGeQiVVSaMFIHrY+GIenLnv8gJYL759mXshT8Hm3iz1GmvT+uSFWbwp8jycydTfpjuVTUcqqMgU9aN8QAezoK970a6aCPAUqBMH5WUxIInJiPnXHcpZXaT9iU318jRizFAfPzyWjnMkGPjTmODNmIvFqHI=;kMQ0suyud6jYYpa1q9U1AA=="
+---
+

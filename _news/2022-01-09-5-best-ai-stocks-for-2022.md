@@ -1,13 +1,13 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),"
+excerpt: "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc."
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - Microsoft AI
+  - Google AI
   - AI
 
 images:
@@ -24,22 +24,6 @@ images:
     height: 1044
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Stocks: The 10 Best AI Companies"
-    excerpt: "AI stocks may be excellent long-term investments. The global artificial intelligence market is on track to hit more than $554 billion in total revenue by 2024, according to market researcher IDC."
-    publishedDateTime: 2022-01-06T11:00:00Z
-    webUrl: "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 62
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"
-        width: 512
-        height: 512
-        isCached: true
-
-secured: "filPJY1xMjPpn3XFJlYXo14LDjxPBfLns9P2DrQTrMs9Gleu+vdp8ncSfBXbRgv2A+RvbHHv5bS3SPcAYazWSnPWLZj5Rr9rSx2E9tOMGBiR7SSONBTE9Ih7mDMJOd1QkuWlAot8+2ZblByX2ZHXtJTLoSPFaxwn0vaghDCL8XNO3yPtwlxs18+uxwtdbEEg+Y9f3J5iSILHd/ioUsY7XZBYx9GuKwzA9R/scK9XwMWd3sa0CO1S5wTCPacY9Q/Kk+sNHUNc6I0dQiDNsji9/wwGaAiLa2+V2tJVfQzocduzEd6N0WyOZ8IpUsKbjbii+M7TFKy/o69zT+W1iz2jci4FYL9WLc1NCwsxnO0tOXM=;AnxQtjjjPTMFHUzvSVPeKQ=="
+secured: "xA1Bv61tNLVVcFCp6FtUwBhYwaK7bXbeWTa+c+UchZabKAhue2ksIlUc5hJJFat9mu+vVtUu6n+pqHA1xLu+QmSJ+hnLPDKSR7cU7/qVO4Jkf8xZuzGDszqOxZ594I2s4W6y2RsCFmAs51+zUNDv4Iu59NpsWpDj7i1oUXWKF7KLwt5UKMU18UHwGXsBFVK4ItVyt0cWtVX1SCU5y/mIGjZPMcrym1FPJirX4TfYZFpF1A5qkINVcPXBCGb5duu5X+MGry7FX4p+e8kJcHrB5mIeUk+Tf8hHKYE1kLlu1su9UGBEdBGCkxR9S5sfl1VTpvQdbzU3cpcEDIWEwWaTmEvkpCRC7FQLeapfFqSSvSI=;sFOdqwdP6oI2clR/Qe6rxQ=="
 ---
 

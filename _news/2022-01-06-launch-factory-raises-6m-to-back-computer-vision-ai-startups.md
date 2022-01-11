@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Launch Factory Raises $6M to Back Computer Vision AI Startups"
-excerpt: "This round of funding aims to launch new computer vision AI companies. Led by Brad Chisum, CEO, James Hereford, and Kimberly Davis King, Launch Factory is a venture studio which, with this fund ..."
-publishedDateTime: 2022-01-05T21:51:00Z
-originalUrl: "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html"
-webUrl: "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html"
+excerpt: "Launch Factory, a San Diego, CA-based venture studio, raised $6m to fund its operations for 2022. This round of funding aims to launch new computer vision AI companies. Led by Brad Chisum, CEO, James Hereford,"
+publishedDateTime: 2022-01-05T20:57:00Z
+originalUrl: "https://finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html"
+webUrl: "https://finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html"
 type: article
 
 provider:
@@ -12,8 +12,9 @@ provider:
   domain: finsmes.com
 
 topics:
-  - Computer Vision
+  - AI Hardware
   - AI
+  - Computer Vision
 
 images:
   - url: "https://www.finsmes.com/wp-content/uploads/2022/01/launch-factory.png"
@@ -21,6 +22,6 @@ images:
     height: 320
     isCached: true
 
-secured: "Num5Ec73DiTJ9GzM1OCUJBl7yzEHe5x7n46lXiRUTFbOVAJqLKCnqX1SAC0PBXZBtpJ8HQJpB8edKRXH3104LiLNVzXY3bmv0O34lNlRG5/tpOtnjovJnzptZKjFfL4WF3IFnFMBtlfXhwm+1lUkcZ6DNbJMKXmZ/KQGcqVhJ+YbWFIncGf6OpCWxon+p8pFGdNiJy3myLRfSRjtbyS3wh7ZyoNVh2EiZIJ+M920mZmeFMPOMRIzllh9vP+mlO6tMUCYqO716dGg5A/l5AEQoAKnGx0Ev6/xx+GDUY1Grtye3MXSjIu9aJwk8oz06I8W90wlGpeKeC3BkvDys07H4yunf5SSKBa7n7V3q7/Onx8=;Ji6K40Rib7ze6yqkamsieg=="
+secured: "IEv65M7fYpTDCj5s5lbbs+UXQWDf2vn3KvZgGHFUd+wPzD05HgE/D45ffyxK6Fsmu+tU0F29VEvmVEbX97RpOPvpJ+xHmwYUxYMYlhwYR3rXiOUHNrt6subRrQZCPevnkqFsMrwUzSNz92LQ/MBe7tcOowPQVKbePylKfm3BqbtaxKJBDoLRUvrWDXuQeBZfYn9T/lflZg72tuV9S2G1IGBIwRD4UnawPtNtUD7sug8xLQbWRH39++lvNjyn6yk/AEBOYYQlvrq7D3iFDtLPJhK696oeS1G3ol+6zkvuLbKe8t6BunQPQiEuWhfxD3Yi4caJBUtRo5/Tg4NLkPhOwf1Ah9x094/gibl9a+yEZvE=;LiRbh04sK48QwlIapCD4Ig=="
 ---
 

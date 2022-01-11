@@ -27,56 +27,38 @@ images:
     isCached: true
 
 related:
-  - title: "John Deere and Naio robot tractor may be heading to a farm near you"
-    excerpt: "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas."
-    publishedDateTime: 2022-01-06T10:54:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
-    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
-    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html"
+  - title: "Driverless tractor set for commercial production at John Deere"
+    excerpt: "Using six pairs of stereo cameras and advanced artificial intelligence, the tractor can navigate to ... or for Rural news daily. Driverless tractor technology has the potential to help solve a modern agricultural dilemma — how can farmers do more ..."
+    publishedDateTime: 2022-01-09T23:40:00Z
+    webUrl: "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258"
+    ampWebUrl: "https://amp.abc.net.au/article/100744258"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100744258"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 76
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 59
     images:
-      - url: "https://images.hindustantimes.com/tech/img/2022/01/06/1600x900/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641471074615_1641471101321.jpg"
-        width: 1600
-        height: 900
+      - url: "https://live-production.wcms.abc-cdn.net.au/f487f31e61eec632773518289c8afdb1?impolicy=wcms_crop_resize&cropH=556&cropW=834&xPos=65&yPos=0&width=862&height=575"
+        width: 834
+        height: 556
         isCached: true
-  - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labour shortages, climate change and environmental protection, while trying to feed a growing world population."
-    publishedDateTime: 2022-01-08T02:26:00Z
-    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
-    ampWebUrl: "https://www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/tech-gadgets/2022/01/08/robot-tractors-may-be-heading-to-a-farm-near-you/2033756"
+  - title: "LG Also Wants to Cash in on Future Driverless Vehicles"
+    excerpt: "Are you excited or not about Apple’s on-again, off-again car project ? You should know that other tech giants are also exploring mobility solutions for the driverless future. At CES 2022 , Sony unveiled a new prototype of its Vision-S electric vehicle and announced the founding of a company to"
+    publishedDateTime: 2022-01-10T13:16:00Z
+    webUrl: "https://www.guideautoweb.com/en/articles/64037/lg-also-wants-to-cash-in-on-future-driverless-vehicles/"
+    ampWebUrl: "https://amp.guideautoweb.com/en/articles/64037/lg-also-wants-to-cash-in-on-future-driverless-vehicles/"
+    cdnAmpWebUrl: "https://amp-guideautoweb-com.cdn.ampproject.org/c/s/amp.guideautoweb.com/en/articles/64037/lg-also-wants-to-cash-in-on-future-driverless-vehicles/"
     type: article
     provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 61
+      name: Guideautoweb.com
+      domain: guideautoweb.com
+    quality: 59
     images:
-      - url: "https://media2.malaymail.com/resize_cache/uploads/articles/2022/2022-01/20220108_CES_ROBOT_TRACTOR_01-seo.jpg"
-        width: 1200
-        height: 630
+      - url: "https://i.gaw.to/content/photos/50/62/506244-un-autre-geant-des-technos-s-interesse-a-l-automobile.jpg"
+        width: 1037
+        height: 648
         isCached: true
-  - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
-    publishedDateTime: 2022-01-09T21:31:00Z
-    webUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 21
-  - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "The vehicle debuted Wednesday in a scaled-back opening of the Las Vegas tech conference where testing for Covid-19 is encouraged but not required."
-    publishedDateTime: 2022-01-06T16:57:00Z
-    webUrl: "https://www.courthousenews.com/robot-tractors-may-be-heading-to-a-farm-near-you/"
-    type: article
-    provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 19
   - title: "The future of farming? John Deere unveils its first driverless tractor that can be controlled by farmers using a smartphone and even stops ploughing if animals run in front of it"
     excerpt: "The US farming equipment giant revealed details of the adapted 8R tractor on the first day of the Consumer Electronics Show (CES) in Las Vegas on Wednesday."
     publishedDateTime: 2022-01-06T11:12:00Z

@@ -401,10 +401,10 @@
     {
       "path": "_news/2022-01-06-launch-factory-raises-6m-to-back-computer-vision-ai-startups.md",
       "title": "Launch Factory Raises $6M to Back Computer Vision AI Startups",
-      "excerpt": "This round of funding aims to launch new computer vision AI companies. Led by Brad Chisum, CEO, James Hereford, and Kimberly Davis King, Launch Factory is a venture studio which, with this fund ...",
+      "excerpt": "Launch Factory, a San Diego, CA-based venture studio, raised $6m to fund its operations for 2022. This round of funding aims to launch new computer vision AI companies. Led by Brad Chisum, CEO, James Hereford,",
       "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
-      "originalUrl": "https://www.finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
+      "webUrl": "https://finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
+      "originalUrl": "https://finsmes.com/2022/01/launch-factory-raises-6m-to-launch-computer-vision-ai-startups.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -423,7 +423,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T13:51:00-08:00",
+      "publishedDateTime": "2022-01-05T12:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "finsmes.com",
@@ -437,8 +437,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
       ]
     },
     {

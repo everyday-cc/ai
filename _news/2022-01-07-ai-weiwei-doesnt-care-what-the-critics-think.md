@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/videos/2022-01-07/ai-weiwei-doesn-t
 webUrl: "https://www.bloomberg.com/news/videos/2022-01-07/ai-weiwei-doesn-t-care-what-the-critics-think-video"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibtRNWbx9._I/v0/1200x800.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "No Other Way to Live: Why Ai Weiwei Left China"
-    excerpt: "In the face of power, I would always be at a disadvantage, I knew, but I was a born contrarian, and there’s no other way for me to live except by taking an oppositional stance,” Ai Weiwei, China’s most famous artist and activist in exile,"
-    publishedDateTime: 2022-01-06T10:00:00Z
-    webUrl: "https://www.thenation.com/article/world/ai-weiwei-china/"
-    ampWebUrl: "https://www.thenation.com/article/world/ai-weiwei-china/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/ai-weiwei-china/tnamp/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 59
-    images:
-      - url: "https://www.thenation.com/wp-content/uploads/2021/12/cover0110.jpg"
-        width: 385
-        height: 505
         isCached: true
   - title: "No Other Way to Live: Why Ai Weiwei Left China"
     excerpt: "In the face of power, I would always be at a disadvantage, I knew, but I was a born contrarian, and there’s no other way for me to live except by taking an oppositional stance,” Ai Weiwei, China’s most famous artist and activist in exile,"

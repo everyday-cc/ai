@@ -52,22 +52,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "No Other Way to Live: Why Ai Weiwei Left China"
-    excerpt: "In the face of power, I would always be at a disadvantage, I knew, but I was a born contrarian, and there’s no other way for me to live except by taking an oppositional stance,” Ai Weiwei, China’s most famous artist and activist in exile,"
-    publishedDateTime: 2022-01-06T10:00:00Z
-    webUrl: "https://www.thenation.com/article/world/ai-weiwei-china/"
-    ampWebUrl: "https://www.thenation.com/article/world/ai-weiwei-china/tnamp/"
-    cdnAmpWebUrl: "https://www-thenation-com.cdn.ampproject.org/c/s/www.thenation.com/article/world/ai-weiwei-china/tnamp/"
-    type: article
-    provider:
-      name: The Nation
-      domain: thenation.com
-    quality: 59
-    images:
-      - url: "https://www.thenation.com/wp-content/uploads/2021/12/cover0110.jpg"
-        width: 385
-        height: 505
-        isCached: true
 
 secured: "KYsAiKb4h+FRsWh4SvNzuNMTlTKtSdftUpidJOta8qka62lbQP09HWyNMTclcqmsD9FldsIhQ3i8PY5PQNt8pZgEV+UEftqq6qPUe6o/z9jiij6zfGNz4/IwjrB+pU7ejDW9i+ONLEv65LBSAhV8cHs7NnXo6MZ6obfgBPcIuYFnwnMaC8GkZ1pByXKj7Y3+aVdT1M59ifA8+xH2eys53Gi17KXxrHAI3BtWKGS8L1UFJmLUlyJoz7cJNOJHZjlHNKHmgEps/B9ErDe+K2BYlIMd+nbROAwazdJVuZXLbiezLwOV97vuiE+my/cle5cii9i7dsyQbIHgSHJYPYocbIZkv8ZjaZlqNgeVsYWbKv0=;9573mmz/O2RvMYDBSHKxrQ=="
 ---

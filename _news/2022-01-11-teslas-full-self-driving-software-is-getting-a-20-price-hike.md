@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk reveals another Tesla “Full Self-Driving” price increase"
+    excerpt: "Tesla may be credited for turning the automotive industry on its head and pushing forward battery-powered cars and power solutions, but that might not be what it’s remembered for. Company"
+    publishedDateTime: 2022-01-11T02:40:00Z
+    webUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/"
+    ampWebUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/tesla-model-y-1.jpg"
+        width: 1440
+        height: 820
+        isCached: true
   - title: "Tesla raises Full Self Driving software price to $12,000 in US: Elon Musk"
     excerpt: "Tesla Inc Chief Executive Officer Elon Musk tweeted on Friday that the electric carmaker will raise the U.S. price of its advanced driver assistant software dubbed \"Full Self Driving\" to $12,000 on Jan."
     publishedDateTime: 2022-01-08T12:50:00Z
@@ -429,6 +445,6 @@ related:
         height: 800
         isCached: true
 
-secured: "I4h5l/5LSKOsOKeq/O3Pc0CP4bYW44WtlXGTOZWyT4YS5fJMjjdR7QnXbhDZAoq+yijDjyNj6G5AIG4PSjZ2CT3BTQNzYzCanBgssZvFctlVwlxXq8RlGu6ho91/pV/pZV86Paol4Ye1J+2rORZf8i7DWzMSoBxnpEZglNLZS6pDArJnvthDjFSxSmiLbFrAu6hU/dWnjYBcYBywRNxRoBfuqv2HMMXQI6gLYD/ULDCBxhO5Ik2+lZgX2Wdnt5KzIz0ISFwI39Bh0m4OWfaIAcwterZLDutKV9HKBHIwL4a8bv6Eln2Ws2+ydMjpG6O2FRo1giuLo+FRxft9m2In5ZTpqVgtRVz9rvCZDvXaV8I=;y6l/2+8Ka79QdM8ddqGyZg=="
+secured: "m/LL3AVpwn/HU3tCLwC1hGY3F1JMcqDPiYpCxbJ8cL8AqWpGWPLiEh8dW9a76PvpxDic1CPCEBRA6/zjCNhEZogHm7F4lK5q58LndKjcadSw+L8uGX3ZNAttfulgCUbT1VUtiyPdd+4xNQIjIbdD6/bdc1Hxb0yGL5taHtyjUNVH8vsyCFpkuEU9mu8TpY+htoHkOnTZyHpKeUGjanaIPn40DHn59R/CK12eoJRgVEpQbTtNKjMCdEuOGv6B+FSIMqvy4Ekv5tqmmAILT5qPwm1ziy7uLAaUpQ4aAeIHMAtIvHeBCyuDDQ+fS0B9JNGVBLWWuQakUKmmPzGfG0kU+LXWNHGQ3Uixb02sAj8ET/aEEfvb8n5VFJKFeH7li9MaqWzrteH8h20MHKLP2+os5RCPKtU4O+FAbh1xPI1oeI/iY/wOgCN4loV9Sw4/Y5cnrNReU6soqwOyhEP2ZB42E3Jo3Bwsv7obYK76Q5oHMXtjosK1lwaIy5HemTR+Ls+4GmaB9OaEhPet2J4EeMAHZQ==;+ro5YLT6dSPGGgyXgoKjsA=="
 ---
 

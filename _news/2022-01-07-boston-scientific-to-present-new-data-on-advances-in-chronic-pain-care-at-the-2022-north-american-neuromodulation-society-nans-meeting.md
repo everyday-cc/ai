@@ -3,8 +3,8 @@ category: news
 title: "Boston Scientific to Present New Data on Advances in Chronic Pain Care at the 2022 North American Neuromodulation Society (NANS) Meeting"
 excerpt: "Boston Scientific Corporation (NYSE: BSX) today announced key data that will be featured at the 25th North American Neuromodulation Society (NANS) annual meeting, in Orlando, Florida, on Jan.13-15, 2022."
 publishedDateTime: 2022-01-07T12:00:00Z
-originalUrl: "https://apnews.com/press-release/PRNewswire/science-business-health-north-america-chronic-pain-674af79cf7f719bd30ba62ed308d9fa1"
-webUrl: "https://apnews.com/press-release/PRNewswire/science-business-health-north-america-chronic-pain-674af79cf7f719bd30ba62ed308d9fa1"
+originalUrl: "https://apnews.com/press-release/pr-newswire/science-business-health-north-america-chronic-pain-674af79cf7f719bd30ba62ed308d9fa1"
+webUrl: "https://apnews.com/press-release/pr-newswire/science-business-health-north-america-chronic-pain-674af79cf7f719bd30ba62ed308d9fa1"
 type: article
 quality: 6
 heat: 6
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "O0+Jvevy21ZsYqVh+T03nYlhGKDuBD7IXxQQtLb3lZpEJV5XOHv8TCtzagNEt31IpoGGeedBJkwVc+fTi03vvr+WS94CxOVH1QEHaDi37+Ru4LgbLxltDjUgfdlSJMUycbyPN4JREiFR1TdM2IUE0pFnXtq3seD6bKonNhnqnl3a/UD/1APA0jIueTxyJooegy7Bu7O8VTEKt7XdO8Txua/ZvrnDded/pG4XN3h04PjF6hy24Qcwu0whURxBVmlWKDfJUIgU/5nRAMdroUGYY3ksmDerxyDOCLYILF1B+uFkyESoP32oRaOqpWBSqCe88o4D0+35WiMWy3f+OLX3qC84qHIsXxl9RE3wwT/D2nQ=;v66fIhTUhhnENOFPGVc84Q=="
+secured: "wz7qcmRdr2I0y4HZ2RMRLFvQQRi9Fkq8H3HhZORQ7tCniixhB8iQRL/jG6MRqiEMCTYuyYxnP+zb3V9rMtLO2/Ceiter/YcCp69awVXfpStLgD4Wq+6Zmsn/v9lGBX2lqJyx8XCfhYfTnYDijXxawRkCNnav2L7czGjaEAEQld/90qi5iUnZZRXC5/vbafm/v5yuyCc1YUdn+xM4BsqxCkrsQ4dpO4Fot51UUbeSJmsIX3WlDNx8o+PgKvlnqllTiBgf+4cO4cCHO+qhGYsJTQgsQ33sEcBvB34DgmDYqfIBdmDxRrgTY5YCCJlNn1PNXvYbE692bJ6NaVGGZN2yw3Up7AswaVj/uElFi30teZ8=;NJsN+yTq8eh8T3KLQZx2kQ=="
 ---
 

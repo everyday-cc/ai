@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk reveals another Tesla “Full Self-Driving” price increase"
+    excerpt: "Tesla may be credited for turning the automotive industry on its head and pushing forward battery-powered cars and power solutions, but that might not be what it’s remembered for. Company"
+    publishedDateTime: 2022-01-11T02:40:00Z
+    webUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/"
+    ampWebUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/tesla-model-y-1.jpg"
+        width: 1440
+        height: 820
+        isCached: true
   - title: "Tesla ‘Full Self-Driving’ beta features an ‘Assertive’ mode with rolling stops"
     excerpt: "Driving” beta 10.3 with an “Assertive Mode” that may perform rolling stops and other borderline maneuvers, The Verge has reported. The update was originally released in October 2021 with three profiles (“Chill,"
     publishedDateTime: 2022-01-10T12:02:00Z

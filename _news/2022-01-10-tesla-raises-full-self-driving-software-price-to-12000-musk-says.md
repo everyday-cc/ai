@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk reveals another Tesla “Full Self-Driving” price increase"
+    excerpt: "Tesla may be credited for turning the automotive industry on its head and pushing forward battery-powered cars and power solutions, but that might not be what it’s remembered for. Company"
+    publishedDateTime: 2022-01-11T02:40:00Z
+    webUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/"
+    ampWebUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 89
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/tesla-model-y-1.jpg"
+        width: 1440
+        height: 820
+        isCached: true
   - title: "Tesla raises Full Self Driving software price to $12,000 in US: Elon Musk"
     excerpt: "Tesla Inc Chief Executive Officer Elon Musk tweeted on Friday that the electric carmaker will raise the U.S. price of its advanced driver assistant software dubbed \"Full Self Driving\" to $12,000 on Jan."
     publishedDateTime: 2022-01-08T12:50:00Z

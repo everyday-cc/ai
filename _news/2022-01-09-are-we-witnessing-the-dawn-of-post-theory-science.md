@@ -3,8 +3,8 @@ category: news
 title: "Are we witnessing the dawn of post-theory science?"
 excerpt: "Does the advent of machine learning mean the classic methodology of hypothesise, predict and test has had its day?"
 publishedDateTime: 2022-01-09T08:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science?mc_cid=d14454f3d2&mc_eid=ceaf225bbc"
-webUrl: "https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science?mc_cid=d14454f3d2&mc_eid=ceaf225bbc"
+originalUrl: "https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science?request-id=52d1cc16-d437-4771-ba6f-01c79adda9e2&pml=1"
+webUrl: "https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science?request-id=52d1cc16-d437-4771-ba6f-01c79adda9e2&pml=1"
 type: article
 quality: 24
 heat: 24
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "hnqXQoiPDIGTtW3TMu6A8RNrB1caUfBbhKpfqid+u10pD+mmvsqXdfh01iSZECsWxyUiXflnNO8jp0F1gH9hp6KDBjoAhXLwvwNEfekmtkSAyoZYSkw0Fzg0U7YxE6RvAbQxj8T/7WQiu5zrzEG/uNsXL9T9Mg+O3e7EnBHtQ8ay2v9Tpw43Uu/DDAujBkijaovn15JmFxOB9RZyupdgVPxu4iuikqFV9PgbOAq7VEO50VpfChMFmwkZK6Vhriy8DTD6iEo2E0Puq1eO5WeazCiaDjibTIoMYZQ6qf48HL6IXL0NAsZFMZx6xaOkYL4TkQu4vT7HPfAR11BwKdKwFidJKj7IrhvLYfFXxZC3WTfanizj5j2O2jfw7HoCVO4NC9OBzNOHaD5uTBEQvv2XCxxQRRDPPihVDTnxptBWVW5GnKK+9Sw2n+QV8TLvw8yHP4vndeJNy6CTubn+PBIhwQ7VXiUQtmWfjuLWbAtjMmQTBVYeiNMLtyYJDTWB5DiPB3gNvZULE8AiDwtX4ZsmLA==;fFwOfLx7J7wD4RzgdwLp0w=="
+secured: "LI2Fi3WvDxw5/FQ4TJs+X0JqAo1N65+p0simpBrzaNegXLq8GYhzS+cOhX1jWuJ1MxB9d78cxLzGeFjdU8u9XxLxvzOqqeL8i6ItGVOE70cAxNkoobNvZZLoCFytEuj7wxXek7wVdnBRDYxtaZotDpmJT7iQpmuIsBVG2rDIVlB6lAMlz1j3DYAQPknCaiX5nQy2mB8S13Iw1kKQYoJkKnlGPVVwVzQn+LHP+UdnkO1lhCYr6qCe/skBbfVs7OJsJeeWW2r2mTHKWXT1wFGqK1OajkcCbkhuIbw6jS1dcCz5vgsOUhkT6K2v4jBRAO7oZfpOCAUftte/+lMYpvXJmH/yCV10ONTOCGoedRvrFGk=;89VzcvNe0n4GdhqxWHGAyw=="
 ---
 
