@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://www.armstrongeconomics.com/wp-content/uploads/2019/06/Facial-Recognition.jpg"
         width: 500
         height: 334
+        isCached: true
+  - title: "The Hard Problem of AI is the Problem"
+    excerpt: "Much energy and resources are being put into Artificial Intelligence currently. Artificial Intelligence is expected to approach and eclipse human intelligence."
+    publishedDateTime: 2022-01-11T10:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/hard-problem-ai-anders-lisdorf"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFDWKeI54GJnQ/article-cover_image-shrink_720_1280/0/1641896379868?e=1647475200&v=beta&t=qDpzz7WUHrYu6gwtBNjgACgFMKz5rOX5BTTD8ySm5nA"
+        width: 540
+        height: 720
         isCached: true
 
 secured: "AOOOvVzvSc8iAEU6le6tLceWHSD/dWLiYOca5uuEXjdLHmofAgm4473uw9J9JbS41PQZpxid30Fqq3hxYp8Pu6yW/9x9G1oPoadPvsXec6g3E4S8idyiY3GvWj2l//fACvUFsx9krdInYTZra5dswabhX216D8mHbvZNvDl74hD3E8cTU9H56rodMJLuATEVl82Tl/XELPWwLVfX/le7zTE69fYwUTGy/PCL3Zmn/iF+GvEEojJCF/f+Cs61KBWnEyg40BcFTzHUD2gFzHM8x26+oeYX68Px7Gd2SkVmZngZ6rjmOILwpc//lOhXTHxDfuC899qehCW4hIKDpEjFdkCq2DpsNZPdYTN8oE9qRBc=;Ca8J4waypWcqOhHD7VZsww=="

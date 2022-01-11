@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-sars-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-sars-like-virus.amp"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists employ AI to predict which viruses could infect humans in future"
-    excerpt: "Daniel Becker, an assistant professor of biology in the University of Oklahoma's Dodge Family College of Arts and Sciences, has been leading a proactive modeling study over the last year and a half to identify bat species that are likely to carry betacoronaviruses,"
-    publishedDateTime: 2022-01-11T06:26:00Z
-    webUrl: "https://www.news-medical.net/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx"
+  - title: "Researchers use AI to search for next SARS-like virus"
+    excerpt: "An international research team of scientists has demonstrated the power of Artificial Intelligence (AI) to predict which"
+    publishedDateTime: 2022-01-11T10:51:00Z
+    webUrl: "https://menafn.com/1103520180/Researchers-use-AI-to-search-for-next-SARS-like-virus"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 55
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"
-        width: 973
-        height: 514
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?261716"
+        width: 352
+        height: 250
         isCached: true
   - title: "OU-led research uses artificial intelligence to guide the search for the next SARS-COV-2"
     excerpt: "Daniel Becker, an assistant professor of biology in the University of Oklahoma’s Dodge Family College of Arts and Sciences, has been leading a proactive modeling study over the last year and a half to identify bat species that are likely to carry betacoronaviruses,"

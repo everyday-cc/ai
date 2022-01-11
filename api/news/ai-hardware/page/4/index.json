@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-12-01-qualcomm-snapdragon-8-gen-1-chip-will-power-flagship-phones-from-oneplus-and-xiaomi.md",
-      "title": "Qualcomm Snapdragon 8 Gen 1 chip will power flagship phones from OnePlus and Xiaomi",
-      "excerpt": "The Qualcomm Snapdragon 8 Gen 1 will power most top-end Android smartphones coming later this year and early next year.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/",
-      "originalUrl": "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2021/11/Snapdragon.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/mobile-tabs/qualcomm-snapdragon-8-gen-1-chip-announced-7649009/lite/",
-      "publishedDateTime": "2021-11-30T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-01-qualcomm-launches-snapdragon-8-gen-1-mobile-platform-with-ai-camera-security-boost.md",
       "title": "Qualcomm launches Snapdragon 8 Gen 1 mobile platform with AI, camera, security boost",
       "excerpt": "Qualcomm has announced Snapdragon 8 Gen 1 featuring improved camera capabilities, artificial intelligence (AI) applications, and security enhancements.  During the annual Qualcomm Snapdragon Tech Summit,",

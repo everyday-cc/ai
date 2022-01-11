@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech Startups Foresee Faster Loan Disbursal As RBI Opens Credit Bureau Data"
-    excerpt: "According to the latest RBI guidelines, fintech startups with a minimum net worth of INR 2 Cr will have access to the credit bureau's data."
-    publishedDateTime: 2022-01-07T14:43:00Z
-    webUrl: "https://inc42.com/buzz/fintech-startups-foresee-faster-loan-disbursal-as-rbi-opens-credit-bureau-data/"
-    ampWebUrl: "https://inc42.com/buzz/fintech-startups-foresee-faster-loan-disbursal-as-rbi-opens-credit-bureau-data/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/fintech-startups-foresee-faster-loan-disbursal-as-rbi-opens-credit-bureau-data/amp/"
+  - title: "Is SEC’s Gary Gensler the Skunk at the Fintech Party or the Adult in the Room?"
+    excerpt: "U.S. Securities and Exchange Commission Chair Gary Gensler says that question might not be hypothetical for long. The pandemic hastened the already rapid rise of cryptocurrencies, robo-advisers, and apps that make it easier to trade and invest."
+    publishedDateTime: 2022-01-11T09:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-01-11/stock-market-how-sec-chair-gary-gensler-could-shake-up-trading-algorithms"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 40
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 50
     images:
-      - url: "https://inc42.com/wp-content/uploads/2022/01/Untitled-design-3.png"
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is_srDrUrj5M/v0/1200x630.jpg"
         width: 1200
-        height: 628
+        height: 630
         isCached: true
 
 secured: "bGNNAyJudpZZMmm71LhhqENIqM8lmBDC3H1516NAjg8mywGYk5w901A6Zs8Lr6rCeJIz7vmIRutG9mNC1XET3kTiAjVddsxDwGGOPGrJ70I9anjln2BT9BL19jsv7FIMtjU6SfVtVfop4rpY1v/K529F5sOeNVlrBrZYAelV9yxUW+wy9CrBwrhHDWni7PNrFU3rBWQZlmyeEFsKSH2LZhY8SKFpE80A2q7cNjgXiCuQsDWam1dbAxSmxhAGdEcnOZUS10GRuex7f3bbzJ576zNtpvfH8dIZ8fAosaYw4UvbglqHdh7FpqlJIb+RYQcaFrPZXzYFLnlKAuc/EziX5ee9a9AQiXcI49/BeTqloCQ=;r0cZCHRHzMTU2tiLYlrdzw=="

@@ -107,15 +107,20 @@ related:
         width: 300
         height: 234
         isCached: true
-  - title: "How one company is applying AI to improve legal operations"
-    excerpt: "Legal ops professionals are already using AI solutions to improve department performance. Here is how one legal department is doing it."
-    publishedDateTime: 2022-01-06T18:49:00Z
-    webUrl: "https://www.wolterskluwer.com/en/expert-insights/how-one-company-is-applying-ai-to-improve-legal-ops"
+  - title: "CCC: AI Continuing to Infiltrate Claims Process"
+    excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
+    publishedDateTime: 2022-01-11T09:31:00Z
+    webUrl: "https://www.fenderbender.com/articles/17291-ccc-ai-continuing-to-infiltrate-claims-process"
     type: article
     provider:
-      name: Wolters Kluwer
-      domain: wolterskluwer.com
-    quality: 17
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 37
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/artificial-intelligence.jpg?height=635&t=1626952330&width=1200"
+        width: 806
+        height: 504
+        isCached: true
 
 secured: "IsF6q/dz2SpekpAmjPtIUhrcOHT/kfg2q72LxGGogKAel+7daSy6Kw9lS+vcsg9xYSjNFQm5H9JrIX9g4FFfVKERU58x8h2XfEEfElIAc1OhmVXfzWEhRN6EofEkL0xw7xh5/NXf5whiaHQ1coofeEr19nOOlx8j0lpfORAvadR6SF8rOBn+DLzOX44EG+2wSFQwfzCnB+XrCwFXktCEtCVi9KcaddWf5RgKodQTgFVwmMWj4Zj+j52peIwU6sF1DXZp6FsAsTlLCMXvwgCTU4AgQHCKzzPHGNPClx3GhZ3O0GRuPOIicnmxXWayLm1yEC6eOo1SZSf9ceMvtb/T70+lt85xmlOQo5rOFTFboFY=;zRjoHI+lKl8WqNDKT8XwrA=="
 ---

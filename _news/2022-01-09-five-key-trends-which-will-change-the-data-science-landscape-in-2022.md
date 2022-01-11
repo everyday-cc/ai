@@ -61,20 +61,6 @@ related:
         width: 448
         height: 316
         isCached: true
-  - title: "AI for telehealth & the latest in health tech at CES"
-    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
-    publishedDateTime: 2022-01-06T18:10:00Z
-    webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 37
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "5 Trends That Will Help Your EdTech Startup Thrive in 2022"
     excerpt: "The majority of EdTech startups think that the way to succeed is to digitize traditional learning methods and amass as much content as possible. But nothing could be further from the truth. In reality,"
     publishedDateTime: 2022-01-07T20:36:00Z

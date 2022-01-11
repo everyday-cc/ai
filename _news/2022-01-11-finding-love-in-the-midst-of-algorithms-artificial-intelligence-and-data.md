@@ -98,6 +98,20 @@ related:
         width: 300
         height: 234
         isCached: true
+  - title: "CCC: AI Continuing to Infiltrate Claims Process"
+    excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
+    publishedDateTime: 2022-01-11T09:31:00Z
+    webUrl: "https://www.fenderbender.com/articles/17291-ccc-ai-continuing-to-infiltrate-claims-process"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 37
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/artificial-intelligence.jpg?height=635&t=1626952330&width=1200"
+        width: 806
+        height: 504
+        isCached: true
   - title: "How AI is improving the translation experience for marketers"
     excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
     publishedDateTime: 2022-01-10T17:30:00Z
@@ -107,15 +121,6 @@ related:
       name: america-retail.com
       domain: america-retail.com
     quality: 19
-  - title: "How one company is applying AI to improve legal operations"
-    excerpt: "Legal ops professionals are already using AI solutions to improve department performance. Here is how one legal department is doing it."
-    publishedDateTime: 2022-01-06T18:49:00Z
-    webUrl: "https://www.wolterskluwer.com/en/expert-insights/how-one-company-is-applying-ai-to-improve-legal-ops"
-    type: article
-    provider:
-      name: Wolters Kluwer
-      domain: wolterskluwer.com
-    quality: 17
 
 secured: "VYqdcFq6K1u8pcFOJjlJ8o14Smfr/8kZuNpOlY31rv4+lSiriFrxePz60s27Cw0o/jvaXeqA+Xk+NfDjnOLgo89SQqYSZ8rWIpFjlVXSok3aGB0FFgibNndt4c4ZKnKRKFN3mcUyKcbiQzufqzEFS5wZSK4n3zUBw3Uyt+AaS8S+WA4sbiRJvZ5y4BxyDGrlizJrjRdjmZ4TnOUY375JShNrX5H6gmwVvmh/Jp7hRDmcfb9No7QHVMGIHsij8VLOwq6mKXeyqV1VS6ctVjkAIZWSwo4svEmd+dE6jd+Lc8Bh4RrO3Hq/HcShEsJr5/4OvdXPf3LksLy9x+A+ZDPy8n+y/qR5hRIZNtc7A66sAJ0=;yKSZmtTUwiqpt9YO/nbYBA=="
 ---

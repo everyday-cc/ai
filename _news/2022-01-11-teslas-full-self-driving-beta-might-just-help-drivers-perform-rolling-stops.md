@@ -220,22 +220,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "GM, With Qualcomm, Is Taking a Tesla-Like Approach to Self-Driving Cars"
-    excerpt: "The Detroit auto maker and the chip manufacturer unveiled a new computing architecture that will take GM's autonomous driving functions to the next level."
-    publishedDateTime: 2022-01-06T19:00:00Z
-    webUrl: "https://www.barrons.com/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
-    ampWebUrl: "https://www.barrons.com/amp/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-284801/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla's Elon Musk Tweets Full Self-Driving Option Price Increase"
     excerpt: "Tesla raises the price of its Full Self-Driving autopilot option from $10,000 to $12,000 beginning Jan. 17. Telsa's ( TSLA) - Get Tesla Inc Report CEO Elon Musk on Friday tweeted that the electric vehicle maker plans to raise the price of its Full Self-Driving autopilot option to $12,"
     publishedDateTime: 2022-01-09T02:54:00Z
@@ -459,6 +443,6 @@ related:
         height: 800
         isCached: true
 
-secured: "c3LSS+HM9y77uLdSkvLpVG6O1iB0NJDcChl7bH6Eb77wif5NOLz69BnxGz5cgZ6kb8Ud6eiKKYpWeNehhKpaW79f/jBlgdWlDHvUa+cf8ruTkKo8fQKttj7+rQsFetHDKJ1eKlwyHCO66EW4n3bOWs4GIls83MyTv9SIBr3d5OboowEB/oKKOOzkhXtKziup5ero9v8CYl2pmq34cPdMUKOUPwuqhmaVf94FUe4LrM6dxXIvp/FBLKZKlW2C28PE5/t4I3/AeU17ob919F0VotkHMDw+zIfK3mXJr3YVqD+nHeqNQeitmv0gXtElhE2vS8WSS4vfisBh+pGweE9NBQiPvV96KBFHNpGQPID2GTg=;LoFP5vLuU0r69JaFyWQI4A=="
+secured: "sbdoYJz20kswBnHybaUzRfhdgSQxQ9vYQspcNJ2P/k3LVbluxvr3fMp2+pji/iVqoNhZzgMgXwnF6oFgtAF/qUFNHQH9F7WcGACJEOPStYQbKFAMTJdoCjx9FmtDpf5frSnVo9bhUnT/52cm5j3oq9w56TmwiRtXDVIg3bAX5t/43IYS6HAVwVZUlb4qmRBv/VWKhWWYx2Tg0DSjilpiF8oab9eMmU5Vn7BqeCEq2ZmIMtIluRPxLJ7jzOJPHWyxfS8TG3YW9PqlTL2eHp4IJlDwe0Jv+iny0K6qLd4rbfAzR3L9jquayOzWkDdg+GdXuzJrZ0HVGg5B0IjUXQfI43t5APKjjMVUcLekBDZB6EhZ3nQk1EJr/G3bC0IJ6ne589RQkawEc6dTBU9u0XOr3HIg4qzmCFpz70a8QfomJQgEZQDFU722M0HIhL5xlvL8jsA6aWiPjxna2t9rbO3H1aOcSLFKon7NGPCRqnKN//QNdz1DwtNuVlT7wFjXMiYDe1eLDee3BkSze7T1NoQogQ==;ZdEaLcGEMbqKxvtLeYA5pA=="
 ---
 

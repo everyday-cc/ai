@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersec
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -85,7 +85,21 @@ related:
         width: 270
         height: 270
         isCached: true
+  - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
+    excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
+    publishedDateTime: 2022-01-11T09:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 21
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
 
-secured: "DqJdWDv7OEAmnSjgtqnEx2BqSzF+JRGJyz0vAouHPT3iF5jQVcygYO/EbrJOMmJrydvy5HDZHkk9Cqg/iYb26wrrQK5kVulLBotb52E/yMMYjYIYHfyAfvMmS1886tij0rk0w0BY/SZwbPEPKVI6suUMosPrD5JIeIjafJqZRLtwo24afQO9r2t+VulGRpJCp9REJDNPOQlj+fbVprHFrdTqjRdWtPHf3KKEiR+NgnY9EOPxZriu8FWnxnWq9ONcRDl4cvnxnt9b73J8IxIi+IiGFUBBiQ88m+i+r6QgN8JqpJWIYjileeA0sMDXgH0O4Gh7cLQzqq926VDM7qt3DE6gcMcAtTQzw21U6KBS7UU=;xFma6GskVI99C7IPJkd//g=="
+secured: "aaAj5VjuYi1mDMX5KztnLOFnssnifgk1TB8Fs+Wpe5LU6yIJwUv4VPU99y30f0lfexLQWxNJW/sncOb6yXnP3Ag3VM/AnPUfyKEi8U2SFmT0a4qv9LOKb1LdGMqQZ1iwqxl7DJiOl4W2Yn98xXDN8/7MGh3bLsVU89EBeLQgnPGNkyjPsvTv3mcWQbx4MPoo7gXdEqRqIH+KaztTPQNsB08dmzb2+xvCYzJmQQ9iaDrOT1TBJZce8iUe4ffN2IBpqrIYqMohrSnZhFWBvZRtdCPV6YNLFu/ND5LeqJLw5d1+nkWvdch7i5XKWcjLkMGYwe0vnqxWf05R+Uhl5l2HoMsRuR5zXK4BGx2raxWzC83Vr0QPrX0KRLxNOOJPg4WbhTAJLBbuJeQ8Edtr3jdN5lxBhr4/LA0sBrFpQRvMiz2LYNyPwB7rtytyhHI8IHZrsprsGx7OcCbMHjWNSwDTO5zDGjuFSI/xwHjB54Xy9KrUGnG1W0u1JRi+VD4BVI/398MuAZNkarL/+2uJVUa4qQ==;DCb4R9G2omxu1l8lFvARig=="
 ---
 

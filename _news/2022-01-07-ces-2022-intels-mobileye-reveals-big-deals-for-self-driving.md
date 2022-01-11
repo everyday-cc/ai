@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Geely to develop self-driving vehicle with Mobileye"
-    excerpt: "Geely Automobile Holdings plans to tap Intel’s Mobileye unit to develop a vehicle with L4 autonomy for Zeekr, its smart electric-vehicle brand."
-    publishedDateTime: 2022-01-06T17:37:00Z
-    webUrl: "https://www.autonews.com/china/geely-develop-self-driving-vehicle-mobileye"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/zeekrmobileye-700x525.jpg"
-        width: 800
-        height: 600
-        isCached: true
-
 secured: "abusmlRDfU97BKp7oHwOMQs7owhXvJT+OmecXBxMKQLBFTxsWmk5dnmbfF6Y9uvTJTb7yiY3I901VDh2knk9BkLhuY+e6OGsrSNMd/XJj/u/Rc1JwO5o4mxBRUn3JH6YAy2EemoHI5GT2e1NzKVZC3IoyGd5QFv5UxOGYcqhf8i59sxRoyTcF17xgJ4ObERVVMPd1UyeEG+drCZUiLYtgBk9YJFHU11wy5a3lHqq10wkClPOSfKqLw7qhqS7rHR46Q0961G7f4MNG7aiNlRJvdYcoJrS9yHECxN75bebFNJkBRsLr9+yuQ9r6oJZMz16s0Pym8vova1GKKkZOZKAS75529RI+lMu+aFjYIyM4G4=;vehRHkCTcXLcI++8yr1h+A=="
 ---
 

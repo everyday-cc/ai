@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Smart robot to distribute Zamzam water"
+    excerpt: "The Grand Mosque in Makkah has rolled out a robot to distribute Zamzam water bottles. Undersecretary of the Zamzam Watering Department for Field Affairs at the Grand Mosque Badr Al Luqmani said the smart robot technology is based on an autonomous distribution of Zamzam water bottles within the health protocols and precautionary measures against COVID-19,"
+    publishedDateTime: 2022-01-11T10:27:00Z
+    webUrl: "https://www.bna.bh/en/SmartrobottodistributeZamzamwater.aspx?cms=q8FmFJgiscL2fwIzON1%2bDtove8o9mnnRWNpTwhKIYHI%3d"
+    type: article
+    provider:
+      name: bna.bh
+      domain: www.bna.bh
+    quality: 39
+    images:
+      - url: "https://bna-media.s3-eu-west-1.amazonaws.com/Media/Images/News/World-News/Zamzam-d9488f65-4265-43cb-8cee-0b500a6a7ec8.jpeg"
+        width: 740
+        height: 453
+        isCached: true
   - title: "Use of smart robot for distribution of zamzam water at two holy mosques to restart"
     excerpt: "Two mosques in Saudi Arabia will resume the use of smart robots to distribute zamzam water bottles to their congregation, as Covid-19 cases in the country spike."
     publishedDateTime: 2022-01-11T08:16:00Z

@@ -38,20 +38,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Chinese Dissident Ai Weiwei Dismissed Tennis Star Peng as Party ‘Soldier’"
-    excerpt: "Chinese dissident Ai Weiwei dismissed tennis star Peng Shuai as a “soldier” of the Communist Party, at a time when she appeared in state-media footage released to quell global concerns over her safety after she made allegations against a former top official."
-    publishedDateTime: 2022-01-06T18:03:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-06/china-s-ai-weiwei-dismissed-tennis-star-peng-as-party-soldier"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 66
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibtRNWbx9._I/v0/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "KYsAiKb4h+FRsWh4SvNzuNMTlTKtSdftUpidJOta8qka62lbQP09HWyNMTclcqmsD9FldsIhQ3i8PY5PQNt8pZgEV+UEftqq6qPUe6o/z9jiij6zfGNz4/IwjrB+pU7ejDW9i+ONLEv65LBSAhV8cHs7NnXo6MZ6obfgBPcIuYFnwnMaC8GkZ1pByXKj7Y3+aVdT1M59ifA8+xH2eys53Gi17KXxrHAI3BtWKGS8L1UFJmLUlyJoz7cJNOJHZjlHNKHmgEps/B9ErDe+K2BYlIMd+nbROAwazdJVuZXLbiezLwOV97vuiE+my/cle5cii9i7dsyQbIHgSHJYPYocbIZkv8ZjaZlqNgeVsYWbKv0=;9573mmz/O2RvMYDBSHKxrQ=="
 ---

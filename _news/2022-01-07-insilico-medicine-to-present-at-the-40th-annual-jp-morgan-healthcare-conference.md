@@ -42,11 +42,11 @@ related:
   - title: "Fosun Pharma and Insilico Medicine Announce a Strategic, AI-driven Drug Discovery and Development Collaboration to Jointly Advance Multiple Targets"
     excerpt: "This strategic collaboration includes an AI-driven drug discovery research and development (R&D) collaboration on four biological targets, as well as the co-development of Insilico's QPCTL program. Insilico will receive a total upfront payment of $13 million for the R&D collaboration projects and the co-development of the QPCTL program,"
     publishedDateTime: 2022-01-11T08:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/fosun-pharma-and-insilico-medicine-announce-a-strategic-ai-driven-drug-discovery-and-development-collaboration-to-jointly-advance-multiple-targets-829629042.html"
+    webUrl: "https://www.prnewswire.com/in/news-releases/fosun-pharma-and-insilico-medicine-announce-a-strategic-ai-driven-drug-discovery-and-development-collaboration-to-jointly-advance-multiple-targets-829629042.html"
     type: article
     provider:
       name: PR Newswire
-      domain: prnewswire.co.uk
+      domain: prnewswire.com
     quality: 1
     images:
       - url: "https://mma.prnewswire.com/media/1723121/Fosun.jpg?p=facebook"

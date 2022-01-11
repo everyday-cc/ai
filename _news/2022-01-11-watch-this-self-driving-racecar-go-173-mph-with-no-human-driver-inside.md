@@ -2,21 +2,33 @@
 category: news
 title: "Watch this self-driving racecar go 173 mph with no human driver inside"
 excerpt: "Autonomous racecars competed head-to-head at the Indy Autonomous Challenge at CES. The competition aims to improve self-driving technology for use on and off the racetrack."
-publishedDateTime: 2022-01-10T21:33:00Z
-originalUrl: "https://www.messenger-inquirer.com/news/national/watch-this-self-driving-racecar-go-173-mph-with-no-human-driver-inside/video_98ce8b12-afc5-5e8e-a817-1b4315a96a33.html"
-webUrl: "https://www.messenger-inquirer.com/news/national/watch-this-self-driving-racecar-go-173-mph-with-no-human-driver-inside/video_98ce8b12-afc5-5e8e-a817-1b4315a96a33.html"
+publishedDateTime: 2022-01-10T22:33:00Z
+originalUrl: "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
+webUrl: "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
 type: article
-quality: 4
-heat: 4
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: Messenger-Inquirer
-  domain: messenger-inquirer.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220110165120-polimove-self-driving-racecar-super-tease.jpeg"
+    width: 1100
+    height: 619
+    isCached: true
 
 related:
   - title: "Technology & Innovation Roundup: Self-driving car technology from FAU wins second patent"
@@ -29,6 +41,6 @@ related:
       domain: bizjournals.com
     quality: 0
 
-secured: "FuYlwVkmuTonSj0FMKFonBHONKN4XVq9g7TrjdJKSgEWG2Q4CIlu1oyDmO67Dw9zuEXswosso1KOJKM1KK+mU8YJSz6tojYiuKYekhmpdU45Wgm4KU9jRrojYiNzeDG7NydDbrAqU4/OdHWsNjJ3kN73iVTSUbgXfeS/KqR2lsL70rs8crigwSIi4JZ0oN/mo9Pvf3yXdZ8jbf55h2W8Zv6ivSfLdBEHHySHXsmq1W+SUgpmdGVDfEzyDa4oiqe82DT9W3Hy7DkYDGdzi07dQJq5Hb7Mh34jch3PaJn+cn638F3gxHHzcqj7eVzHVAcPkRjL06we1jM+GEq/rwrAYnWK7cETHpeNcqQlN9jvi8c=;k3TnUhDHOIXkU270cFrwww=="
+secured: "CLduAPIBBT9lE3kZmDshiCbJDfJXU2lRMONs5IsDdQ1JYFkbyZOwRDyQWwWxHT1iJlyjUjJWwm+fn+7/chwRPRUQkFL814f2SqQcgQ+Ho+zXAGldCZZqRN8QyKu9dQNM8TkGZNHEnNbPJ+rQfL4V1KOU9Lu4mxYP9nRjdDJQ83wgvZeFu9PhuiTUeNFqg9PVr3kZJthQOzhMsBnHogCrFbQrMiMeyk63O7QdW0LgTdnXUpVOxZgKXWKS7h9Y+l6auYH87RPDwnfPBF2BDSH28G4OPeRGQIDPhcioRZFFGoLUKrUqAmtQYCF7B3NCF9pKK86xOpoVkJyisqZ1R6ub/t/+/phStbMmMjoUuCkdVTY=;hyYalF//USmaQOuMsYXlDw=="
 ---
 

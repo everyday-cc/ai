@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-pac
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
 type: article
 quality: 89
-heat: 379
+heat: 369
 published: true
 
 provider:
@@ -209,22 +209,6 @@ related:
       - url: "https://media.nbcnewyork.com/2022/01/106996323-1641303541918-gettyimages-1347936771-dsc06374_2021102121941947.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "GM, With Qualcomm, Is Taking a Tesla-Like Approach to Self-Driving Cars"
-    excerpt: "The Detroit auto maker and the chip manufacturer unveiled a new computing architecture that will take GM's autonomous driving functions to the next level."
-    publishedDateTime: 2022-01-06T19:00:00Z
-    webUrl: "https://www.barrons.com/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
-    ampWebUrl: "https://www.barrons.com/amp/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-284801/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Tesla's Elon Musk Tweets Full Self-Driving Option Price Increase"
     excerpt: "Tesla raises the price of its Full Self-Driving autopilot option from $10,000 to $12,000 beginning Jan. 17. Telsa's ( TSLA) - Get Tesla Inc Report CEO Elon Musk on Friday tweeted that the electric vehicle maker plans to raise the price of its Full Self-Driving autopilot option to $12,"

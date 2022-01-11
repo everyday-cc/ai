@@ -222,22 +222,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "GM, With Qualcomm, Is Taking a Tesla-Like Approach to Self-Driving Cars"
-    excerpt: "The Detroit auto maker and the chip manufacturer unveiled a new computing architecture that will take GM's autonomous driving functions to the next level."
-    publishedDateTime: 2022-01-06T19:00:00Z
-    webUrl: "https://www.barrons.com/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
-    ampWebUrl: "https://www.barrons.com/amp/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/gm-qualcomm-ultracruise-self-driving-51641495264"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-284801/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla’s Self-Driving Is Getting Better — and More Expensive"
     excerpt: "Elon Musk tweeted that new versions of the company's driver-assistance software, dubbed Full Self Driving, are coming soon—and the price is going up too."
     publishedDateTime: 2022-01-09T01:45:00Z

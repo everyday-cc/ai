@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI for telehealth & the latest in health tech at CES"
-    excerpt: "You’re reading the web edition of STAT Health Tech, our guide to how tech is transforming the life sciences. Sign up to get this newsletter delivered in your inbox every Tuesday and Thursday. Most telehealth companies haven’t cracked the code to profitability yet."
-    publishedDateTime: 2022-01-06T18:10:00Z
-    webUrl: "https://www.statnews.com/2022/01/06/telehealth-health-tech-ces/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 37
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2022/01/GettyImages-1237511996-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Five Key Trends Which Will Change the Data Science Landscape in 2022"
     excerpt: "I would like to start of by wishing you all a Happy New Year! As many of you may know, data science is transforming businesses world-wide. It has now become an integral part of the enterprise and is now starting to be known as the new oil."
     publishedDateTime: 2022-01-09T10:47:00Z

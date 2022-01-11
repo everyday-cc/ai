@@ -43,21 +43,21 @@ related:
         width: 1200
         height: 620
         isCached: true
-  - title: "AI Intersects with Floor Scrubbers for Robotic In-store Analytics"
-    excerpt: "AI robotics firm Brain Corp is partnering with Tennant Company to launch the data capture solution Inventory Scan, which is fitted to autonomous floor scrubbers."
-    publishedDateTime: 2022-01-07T00:14:00Z
-    webUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/"
-    ampWebUrl: "https://www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/partnerships/2022/ai-intersects-with-floor-scrubbers-for-robotic-in-store-analytics/amp/"
+  - title: "Big data analytics, AI/ML to be most in-demand skills in India in 2022: Monster report"
+    excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
+    publishedDateTime: 2022-01-11T07:50:00Z
+    webUrl: "https://www.thenewsminute.com/article/big-data-analytics-aiml-be-most-demand-skills-india-2022-monster-report-159726"
+    ampWebUrl: "https://www.thenewsminute.com/article/big-data-analytics-aiml-be-most-demand-skills-india-2022-monster-report-159726?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/big-data-analytics-aiml-be-most-demand-skills-india-2022-monster-report-159726?amp"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 68
     images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/temast-457x305.jpeg"
-        width: 457
-        height: 305
+      - url: "https://www.thenewsminute.com/sites/default/files/ArtificialIntelligence_Pixabay_11012022_1200.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Big data, AI/ML to be most in-demand skills in India in 2022"
     excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
@@ -105,15 +105,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
-    publishedDateTime: 2022-01-10T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
 
 secured: "5nZQH10iAHbnMq5B4Lo1MBS5oCIW+piXMsw06q98q0gqilCGCwjQfj2Db/6qC379kezAokGbhAAt65clb18O+at2SH6ty8pJxQmIwnxo+WtvZVb8nDi0oM7V9kSkLr+Sli1noO5YHBB1tvt7D2+jrutIneCPM3IDdSdzaQD1icdKPe+yzL6nenZqROiYCrXOeMsnMgcjwv5+B9BB1yKQlyzzV5GYd5zFDwLnkDvjzBbctoBhWtEHptU2uTcpmElI/QVROO3Sb3qGVo5JfDZRO9bg6XL3tJn+ptvIzp+yMtPNvhq3FvJFdDXR8743YjomvSEL4uLdqZDISJfW1Fog4XhQldVb0PdOEHmVjHdNRY7JnAizdQl/l30fpVhObjKQjEXETiQNrK5T/TsiHlxAmKkliW0FBKra03Ooj2SRDynAJpppfLfANJWq3Y6c5WI4pwM3bRoG/AvKKdrqGnAIW3SwpWUZWxZ+HcyLIGPnia5PNJyv2frxqzB0xOOmKvxggkkHLPdj+Lh2syezoXCP5Q==;9LF0CEtNo7IzFJ2XrCiVkw=="
 ---

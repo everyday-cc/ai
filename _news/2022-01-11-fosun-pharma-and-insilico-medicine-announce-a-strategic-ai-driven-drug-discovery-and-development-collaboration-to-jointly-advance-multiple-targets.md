@@ -3,8 +3,8 @@ category: news
 title: "Fosun Pharma and Insilico Medicine Announce a Strategic, AI-driven Drug Discovery and Development Collaboration to Jointly Advance Multiple Targets"
 excerpt: "This strategic collaboration includes an AI-driven drug discovery research and development (R&D) collaboration on four biological targets, as well as the co-development of Insilico's QPCTL program. Insilico will receive a total upfront payment of $13 million for the R&D collaboration projects and the co-development of the QPCTL program,"
 publishedDateTime: 2022-01-11T08:30:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/fosun-pharma-and-insilico-medicine-announce-a-strategic-ai-driven-drug-discovery-and-development-collaboration-to-jointly-advance-multiple-targets-829629042.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/fosun-pharma-and-insilico-medicine-announce-a-strategic-ai-driven-drug-discovery-and-development-collaboration-to-jointly-advance-multiple-targets-829629042.html"
+originalUrl: "https://www.prnewswire.com/in/news-releases/fosun-pharma-and-insilico-medicine-announce-a-strategic-ai-driven-drug-discovery-and-development-collaboration-to-jointly-advance-multiple-targets-829629042.html"
+webUrl: "https://www.prnewswire.com/in/news-releases/fosun-pharma-and-insilico-medicine-announce-a-strategic-ai-driven-drug-discovery-and-development-collaboration-to-jointly-advance-multiple-targets-829629042.html"
 type: article
 quality: 1
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
@@ -54,6 +54,6 @@ related:
         height: 450
         isCached: true
 
-secured: "aRXMWzbu90JAwlJo+qg2ym7Sdh/BuzIe44ae7C4jTM1hef5lA7KzXwVg2rlmg/pKusEUB0xi9KcGmfpXDmNt1Xuq8UvmV5kf05FuvcnnSrXSkS652h/lvqUktLnmejT6EbRq++TIWLCKGuU1kqWi2fBQbsN4VgnqyW0WgVCUVUczlIbUiW3lHE5021w9LGqc8KbUerdA+4SDbCd/HLTABa2Tk6kIaa1xixM/jXS8YE6pFjmZDLyRiHhrJTZpmofUlPGTIG/F6qOc0xa1hDJdmCGz+Fq4tHxYXEiG/KOIECPwMOzdFPurd6bdbGyVhFKAeXK1s2I4nF3mCs6+5rsBRdoKnx0PXQ7LGhiswcFGARI=;7KXlmZ8G3Jm0sfWDe6Xy8w=="
+secured: "R8T7QQR3kvSklAeJgVyszMCJxD4vMhua40OivkBOxYEyiP4RIIeC0Y0WpDL/QWFLnu9j//gtpr59LFeleIUgQmVUOHYDsYn1yq6qUKCvS7zGFXeREBtI77m7UiyltQClek2Vi2e4XA3Sxt/V/vk/8pf8lbMYw51jds37vXDq/7rOnSDg5E7ZA7PlFuzwL8B2PkNYTFcgb1puyCetnSheqMTU0pV5ViEEfjKfCa51ePWCv9j0kHhjclxXzIRnxtIhebrUuLXgzNGfZwqsR5ztUd+LEq0DYMxiHZpk9mKrU4UKdDIPirGMVSQWso0Qw7j9vOToEtUlLxYn7MzJAE6N3NCbm8PYw0ToGs74yc91qLY=;NHRXaw0A7L07NDI/JN4eHw=="
 ---
 

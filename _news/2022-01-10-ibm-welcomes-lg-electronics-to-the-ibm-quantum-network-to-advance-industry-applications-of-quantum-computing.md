@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "LG Electronics joins IBM Quantum Network to research AI, IoT, and more"
+    excerpt: "The two companies plan to spend the next three years exploring applications of quantum computing to support connected cars, digital transformation, and robotics applications."
+    publishedDateTime: 2022-01-10T21:48:00Z
+    webUrl: "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
   - title: "LG Electronics joining IBM Quantum Network for research into AI, IoT and more"
     excerpt: "The two companies plan to spend the next three years exploring applications of quantum computing to support connected cars, digital transformation and robotics applications."
     publishedDateTime: 2022-01-10T21:48:00Z
@@ -36,20 +47,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 64
-  - title: "Android smart module includes SoC for AI IoT apps"
-    excerpt: "Quectel Wireless Solutions has announced the launch of the SG865W-WF, a new generation of flagship Android smart modules. The module is equipped with Qualcomm’s QCS8250 system-on-chip (SoC), which offers powerful performance and rich multimedia functions to meet industrial and consumer Artificial Intelligence IoT (AIoT) scenarios."
-    publishedDateTime: 2022-01-07T00:18:00Z
-    webUrl: "https://www.eeworldonline.com/android-smart-module-includes-soc-for-ai-iot-apps/"
-    type: article
-    provider:
-      name: eeworldonline.com
-      domain: eeworldonline.com
-    quality: 39
-    images:
-      - url: "https://www.eeworldonline.com/wp-content/uploads/2022/01/quetel.png"
-        width: 800
-        height: 407
-        isCached: true
   - title: "A research adventure into Artificial Intelligence"
     excerpt: "Alan embarked on a first-of its-kind Masters programme to explore the transformational potential of Applied Artificial Intelligence for industry. The course, delivered by Cranfield University was developed in collaboration with Professor Nick Colosimo,"
     publishedDateTime: 2022-01-10T08:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitsecurity.com/news/amp/csa-guidance-addresses-securit
 cdnAmpWebUrl: "https://healthitsecurity-com.cdn.ampproject.org/c/s/healthitsecurity.com/news/amp/csa-guidance-addresses-security-privacy-risks-of-ai-in-healthcare"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 480
     height: 278
     isCached: true
-
-related:
-  - title: "Cloud Security Alliance Releases Guidance on Use of Artificial Intelligence (AI) in Healthcare"
-    excerpt: "The Cloud Security Alliance (CSA), the world’s leading organization dedicated to defining standards, certifications, and best practices to help ensure"
-    publishedDateTime: 2022-01-06T17:05:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220106005239/en/Cloud-Security-Alliance-Releases-Guidance-on-Use-of-Artificial-Intelligence-AI-in-Healthcare"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
 
 secured: "lhE1xG+QLMoQKnXjDhm6tTNAbjxlvZ55naVvaDS8hh3eVnjtxlvkVxW8CilYrTqKapID7x4abU1oPIcnqLSiz7EP+kOXMMbP631EIsbjywTbhOH5rTBnqqipEBY2/WjCIiGubXOZdzjHKl88ngOFdzibVoTz+KAZoA2IOn9fYeohIKwmmkBPLnqRnt7obnyYSaWOHMyMjIMw3KznlOhNIVWhqfGenkyFiFvP2H7ATKu6KDCSCvuVrUzaNUlWh7IBW/bw//qjEkQOfKbv0CSnTmyO1jfCh2bAUNhqsIxdS+D6bfnJGH7BNSnK+lCIoM0gQAS8wl9ZAjFzFdx+6vd/5d6IS9yBw2ciVC4xaR5EUnM=;4R7CrbtieiAiS2r93DL0sg=="
 ---
