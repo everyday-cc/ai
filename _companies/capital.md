@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "capitalcom"
   url: "https://twitter.com/capitalcom"
-  followers: 132514
+  followers: 132667
 
 size: 51-200 employees
 yearFounded: 2016
@@ -35,7 +35,7 @@ tags:
   - FinTech
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1466693072041955333/zBKm2wmo_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1480949278394798083/J_XeA_mQ_400x400.jpg"
     width: 400
     height: 400
     isCached: true
