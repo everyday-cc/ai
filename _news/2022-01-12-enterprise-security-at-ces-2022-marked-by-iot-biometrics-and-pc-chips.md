@@ -7,8 +7,8 @@ originalUrl: "https://www.darkreading.com/dr-tech/enterprise-security-at-ces-202
 webUrl: "https://www.darkreading.com/dr-tech/enterprise-security-at-ces-2022-marked-by-iot-biometrics-and-pc-chips"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Dark Reading
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rank One to supply face biometrics SDK to US Marshals Service for prisoner transfers"
+    excerpt: "The technology provides touchless biometric verification of prisoners’ identities at a distance during transport and outdoor prisoner exchanges."
+    publishedDateTime: 2022-01-12T19:51:00Z
+    webUrl: "https://www.biometricupdate.com/202201/rank-one-to-supply-face-biometrics-sdk-to-us-marshals-service-for-prisoner-transfers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 17
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/01161503/handcuffs.jpg"
+        width: 1200
+        height: 709
+        isCached: true
   - title: "China intensifies biometrics, video surveillance research as social credit market builds"
     excerpt: "China leads all other nations in publishing research on the visual surveillance of populations, one of the most controversial segments of biometrics."
     publishedDateTime: 2022-01-10T18:19:00Z

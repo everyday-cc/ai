@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards ?Top Small Business Lending Platform' Finalist"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today congratulated its customer Reliant Funding for being recognized as a LendIT Fintech Industry Awards 2021 finalist. The fifth annual LendIT Fintech Industry Awards honor"
-    publishedDateTime: 2022-01-12T17:39:00Z
-    webUrl: "https://www.lelezard.com/en/news-20189764.html"
+  - title: "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards 'Top Small Business Lending Platform' Finalist"
+    excerpt: "LendIT Fintech Industry Awards honor the world's leading influencers and innovators in 14 unique categories. Reliant Funding was named a finalist in the \"Top Small Business Lending Platform\" category,"
+    publishedDateTime: 2022-01-12T17:15:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-provenir-customer-reliant-funding-named-lendit-fintech-industry-/2022/01/12/9525217.htm"
     type: article
     provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 1
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "3Btpp15a7kJWpvJahLRH/p12f/ly7cCS1HeHASumLbpdCohqxi2Kx2Y6aUX2LwMqdIQiWHuqlrOCdwuMtDDGDReEPvflQ12Zgb202K6SDte+GYsgFOJ4ZdgDOP3eBLuVwt8C7hDcu1/NY7lbbG+gdbTnVuyWFhVv8mugApjRn+4GYwM+qRAQxjw0j5hpeR/4EatjAw1H3CwFb97iVbjbf1N9uME4oL4kMBqU2R6uxPU3vXG7dmV5cUCmvd71UsIGrHh6PoAiUlPXkZKcCCut54EnkCWhNQWFuof2sHVLIRg3MKTh1fJT/nIhaIYm4rg/WQ+ewhsxPdEvksaE3VJjx1/GtddGo3z+aGpwszF7vfo=;g9XE30VT2HOMUtdWUyEtfg=="
 ---

@@ -2,6 +2,74 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2021-12-16-breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-cross-sectional-population-level-study.md",
+      "title": "Breakfast skipping and cognitive and emotional engagement at school: A cross-sectional population level study",
+      "excerpt": "This study investigated the association between breakfast skipping and cognitive and emotional aspects of school engagement. Design: Cross-sectional study using data from a population level survey of children and adolescents’ wellbeing and engagement at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/public-health-nutrition/article/breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-crosssectional-population-level-study/1468D5C45FDA98D16D29A99CA6C4373B",
+      "originalUrl": "https://www.cambridge.org/core/journals/public-health-nutrition/article/breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-crosssectional-population-level-study/1468D5C45FDA98D16D29A99CA6C4373B",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-mind-controlled-robots-now-one-step-closer.md",
+      "title": "Mind-controlled robots now one step closer",
+      "excerpt": "Tetraplegic patients are prisoners of their own bodies, unable to speak or perform the slightest movement. Researchers have been working for years to develop systems that can help these patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/938162",
+      "originalUrl": "https://www.eurekalert.org/news-releases/938162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3-year-old-children-the-skot-cohort-studies.md",
       "title": "Plasma vitamin B12 concentration is positively associated with cognitive development in healthy Danish 3-year-old children; the SKOT cohort studies",
       "excerpt": "Sophie H Christensen [Opens in a new window], HTML view is not available for this content. However, as you have access to this content, a full PDF is available via the ‘Save PDF’ action button. Adequate vitamin B12 and folate concentrations are ...",
@@ -1071,100 +1139,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-developing-ai-applications-on-azure.md",
-      "title": "Developing AI Applications on Azure",
-      "excerpt": "Next, this course introduces the machine learning tools available in Microsoft Azure. We'll review standardized approaches to data analytics and you'll receive specific guidance on Microsoft's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
-      "originalUrl": "https://www.usnews.com/education/skillbuilder/developing-ai-applications-on-azure-0_DMj3I_RZEemNmw4gGersHg",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T06:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-forethought-nabs-65m-series-c-to-improve-customer-service-with-ai.md",
-      "title": "Forethought nabs $65M Series C to improve customer service with AI",
-      "excerpt": "Forethought, a startup looking to put AI to work across customer service, won the TechCrunch Disrupt Battlefield and soon after landed a $9 million Series A. Well, three years later that company just landed a $65 million Series C,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/",
-      "originalUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1210502593.jpg?w=1024",
-          "width": 1024,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/forethought-nabs-65m-series-c-to-improve-customer-service-with-ai/amp/",
-      "publishedDateTime": "2021-12-15T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

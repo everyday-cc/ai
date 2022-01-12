@@ -25,17 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "HBKU's Qatar Computing Research Institute creates real-time Arabic text-to-speech system"
-    excerpt: "A pioneering real-time Arabic text-to-speech (TTS) system has been created by the Arabic Language Technologies team at Qa"
-    publishedDateTime: 2022-01-12T09:56:00Z
-    webUrl: "https://menafn.com/1103525963/HBKUs-Qatar-Computing-Research-Institute-creates-real-time-Arabic-text-to-speech-system"
+  - title: "HBKU’s Qatar Computing Research Institute creates real-time Arabic text-to-speech system"
+    excerpt: "Doha: A pioneering real time Arabic text to speech (TTS) system has been created by the Arabic Language Technologies team at Qatar Computing"
+    publishedDateTime: 2022-01-12T06:24:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/12/01/2022/hbkus-qatar-computing-research-institute-creates-real-time-arabic-text-to-speech-system"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
     quality: 15
     images:
-      - url: "https://menafn.com/updates/pr/2022-01/12/TP_fcf65image_story.jpg"
+      - url: "https://thepeninsulaqatar.com/get/maximage/20220112_1641968730-475.jpg?1641968730"
         width: 960
         height: 642
         isCached: true

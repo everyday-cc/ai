@@ -1,0 +1,28 @@
+---
+category: news
+title: "Michael Jordan joins UAE's artificial intelligence university"
+excerpt: "Jordan’s appointment brings a wealth of experience to the university, and to the country, in artificial intelligence; in the interface of computer science and statistics; and in computational biology,"
+publishedDateTime: 2022-01-12T15:37:00Z
+originalUrl: "https://www.khaleejtimes.com/education/michael-jordan-joins-uaes-artificial-intelligence-university"
+webUrl: "https://www.khaleejtimes.com/education/michael-jordan-joins-uaes-artificial-intelligence-university"
+type: article
+quality: 37
+heat: 37
+published: false
+
+provider:
+  name: Khaleej Times
+  domain: khaleejtimes.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://image.khaleejtimes.com?uuid=78582d9f-eb92-5d9c-bd87-08fd9e78457a&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84508&x=0&y=0.07746&width=1200&height=675"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "8q491+y5r8Gb/NACOU131YRdbHtCKqfm7PEFBn57lKhcIKYZ47q5OjR0L4+2hPm0GawJM7HEl1L3q5cQEqSFHK6rbANpDII+a9TxeKRsjOHjbUWlZVB+W46kN4HIbdW9ACiHxtLYoqvpD/szdt1zi7PHz/dpXwOaPNPcPzvQRTxwbJqZhBzFbIwmURTuFZhguLJmarxiJCspo2Js6K/uGnl8b7ye2niTF6rXavFIYZophAnKe/+A79td6eg6siuPRmmweQ76TBxS8Duu6csECShPHkMvTpIQ+yiEEH+HTCIx/e3qjnVPCbYkXFSmoD4BHHJJ5s/K2XpFw5V+1FI9yFc3koJ2l1LQMcQBeiK3BNQ=;+5AC6mzgJ/GHodvGSVDUUQ=="
+---
+

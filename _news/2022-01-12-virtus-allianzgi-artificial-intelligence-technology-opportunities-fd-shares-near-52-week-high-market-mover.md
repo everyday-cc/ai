@@ -19,6 +19,19 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fd Shares Approach 52-Week High - Market Mover"
+    excerpt: "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fd shares closed today at 0.5% below its 52 week high of $25.78, giving the company a market cap of $880M. The"
+    publishedDateTime: 2022-01-12T18:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/virtus-allianzgi-artificial-intelligence-technology-opportunities-fd-shares-approach-52"
+    ampWebUrl: "https://www.nasdaq.com/articles/virtus-allianzgi-artificial-intelligence-technology-opportunities-fd-shares-approach-52?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/virtus-allianzgi-artificial-intelligence-technology-opportunities-fd-shares-approach-52?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 45
+
 secured: "/gXm6bBCu8zm+De+LhcCqknm9FNnYbBfaVAq/krz5wKRvRGNc2htcXl3mbJOUtpNsLAANPpusLFxTb5WzmSaC5HeisdJTp8ZEZkFM+q5SPxcz3AXCU+CNQoVDMM0eRTIcq4wwWB4lKgwYynwyLcFZLybhpKXu/b0wDJXCswnIdRCN3R7f1PJKxV46Wbpg4h2KpQjVx9As4yUb/Kbq/wRx/W1MHNZMrOw7yrGeAUEcVnD1LpXi19gunuAcu3OS6YFmaW22yDkAcdrp79JZS0k/WGZrwtR9UeyofKu2rtleWVjwdrWSPKRJ0lF6Yb7TXqMuznNIjqEShn8emVFWTOSinhhOQV0NL5oIdI+A7ZmYRM=;4CAQWCV87IprvkhUmSmueQ=="
 ---
 

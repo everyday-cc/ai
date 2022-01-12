@@ -8,7 +8,7 @@ webUrl: "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-dee
 ampWebUrl: "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/"
 type: article
-quality: 72
+quality: 74
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/01/deepscribe-founders.jpeg?w=1024"
@@ -63,6 +64,6 @@ related:
         height: 675
         isCached: true
 
-secured: "MUer0EXOZer3cos1zFno1i/1koUipc+f4eqFD/KSjaJTjD85OTxC/D/ghFV/HopxfnhhTpsKWYPe3aRRH/qGi9hIrnFbz2gUGwv25b8H0SVt3y4GGMSSyJAmtq/Twjc4o94Zter9t/CPd8cInPyAl3eFGIpmTHFLEOLraBW3dWdWhlKO0pNPAUXxpnBGY1YQpvBYsuCg1u63wjEtwe/eYsk6KrTxJnAq+oMoOZLRpg+6SYXrjhlMZFXijmKVRKhIhc9jhyaKehYkeYbzr59P3MMnUimpVVQ0eBeTFZ0WjyOx9jwxNeuRdi1UIkCWPt+As3262HyqBgBBGU0Hl9e3iXuVZFuAH5z18vQZX+Z29ew=;8gDeX0TkS8bM5XXxhbu6WA=="
+secured: "vnTIuliMQG0vQAcXHiOvN+JkT3VOV9O0xjivXp1yTjc4RFCHDAU8u0YX3Bnh+Y3K4OmSijWrgC5a3h5xqSR1Q8qbeETpVGMJ9wMokI4XOR2DmUdB/e1AwktnbuK/0Bt0IQZyrZd7N7xOtGGD4Qk+Ttkhw/t7+CaeZ0C6j/GGwbLhBIxF5VkRuuxRqc6qZNwsaNmTKtQleLEczdyJ0t9/Ed3A3Rin24fJMOVNQU9OIjpwgffaTwlIufNZjHluBob5vuW6wJZBNom1kERCiCUXI3lv6+1K+FCQhzwKPeY1c/tBMIqUsq5CGw7EoCHDUU10NIy/kuDh77N2XQHzZwH1tAy+q930wz11dfisWHtI1fAjy3MyxTbmZ44QQUOVBtEkHLl6bd+DA7ypXAZP3Ztzg6+ZsqHsOfUKGyJsnF1dlAkUa2/7qSPMkbeLv2oxCBpz/g9eqD3tfpYa1Wlig9QEn4LFjfmHvuUigRsrsiPU9nxUfIOCv3TrzaXyB9rKrCCRoZP45k8CBBzv3MEVdQ4kIg==;Ia8z4wpsV/rBk/Y3h0jVXg=="
 ---
 

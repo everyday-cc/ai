@@ -1146,20 +1146,20 @@
     },
     {
       "path": "_news/2022-01-05-deere-rolls-out-fully-autonomous-tractor-at-ces.md",
-      "title": "Deere Rolls Out Fully Autonomous Tractor at CES",
-      "excerpt": "Deere said it has developed a fully autonomous tractor designed for large-scale farming and that it plans to sell the machine later this year.",
+      "title": "Deere rolls out fully autonomous tractor at CES",
+      "excerpt": "The images are fed to the onboard computer, where a convolutional neural network—an advanced form of artificial intelligence that analyzes images—classifies pixels in milliseconds, identifies ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "originalUrl": "https://www.wsj.com/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
+      "webUrl": "https://www.livemint.com/technology/tech-news/deere-rolls-out-fully-autonomous-tractor-at-ces-11641394480799.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/deere-rolls-out-fully-autonomous-tractor-at-ces-11641394480799.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-461772/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://images.livemint.com/img/2022/01/05/600x338/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641394574301_1641394627276.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1167,23 +1167,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/deere-rolls-out-fully-autonomous-tractor-at-ces-11641346963",
-      "publishedDateTime": "2022-01-04T16:42:00-08:00",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/deere-rolls-out-fully-autonomous-tractor-at-ces/amp-11641394480799.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/deere-rolls-out-fully-autonomous-tractor-at-ces/amp-11641394480799.html",
+      "publishedDateTime": "2022-01-05T00:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

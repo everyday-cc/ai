@@ -41,6 +41,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "The Era of AI is Here and Businesses Love It"
+    excerpt: "The use of artificial intelligence or AI is much more common than most people realize. Although we are far from the threshold of most sci-fi films and the"
+    publishedDateTime: 2022-01-12T19:35:00Z
+    webUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/"
+    ampWebUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
+    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
+    type: article
+    provider:
+      name: techspective.net
+      domain: techspective.net
+    quality: 59
+    images:
+      - url: "https://techspective.net/wp-content/uploads/2022/01/artificial-intelligence-gfd97c804c_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "New hub launched to test AI standards"
     excerpt: "The Alan Turing Institute has been selected to lead a pilot AI Standards Hub, set to work closely with members of the AI community"
     publishedDateTime: 2022-01-12T16:52:00Z

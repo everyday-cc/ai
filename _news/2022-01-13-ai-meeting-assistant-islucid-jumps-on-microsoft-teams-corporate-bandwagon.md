@@ -3,8 +3,8 @@ category: news
 title: "AI Meeting Assistant isLucid Jumps on Microsoft Teams Corporate Bandwagon"
 excerpt: "Microsoft loved the idea and signed a new partnership in Europe. This is how Microsoft Teams has landed a new internal app with a unique feature. IsLucid is a smart digital assistant for conference calls that can finally turn our voice to text to tasks in project management systems such as Jira,"
 publishedDateTime: 2022-01-12T17:29:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-meeting-assistant-islucid-jumps-microsoft-teams-corporate-/2022/01/12/9525238.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-meeting-assistant-islucid-jumps-microsoft-teams-corporate-/2022/01/12/9525238.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/01/12/9525238.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/01/12/9525238.htm"
 type: article
 quality: 53
 heat: -1
@@ -187,6 +187,6 @@ related:
       domain: businessinsider.com
     quality: 15
 
-secured: "4eTn/I/EtgD+vim5nzOMKCm4TorAh04R8iMlcCBDZm6a2uEZNvSngWCUCJbsx814cSx3mRrKqWUcBkS65ze56IX1CyWkt/OzUydhVZ5nDtPziYyh390TlI3dutPs3IwtdT8WS87bJJHzybBK7iLSHVgAYZgMQO1dmyxS31cHLVM/CvoVJBgP3o+SlU4VhKdRGR3QDrKnQbmutJNyEP9VRJWZ6x+GskuNo0tEhjLwUIO+AZMNufIh0y2p+tL/iLdpCVl6qcJeNqbSYGiwO3ptglt+Zc/e47+r1aQckYUqWIFJa8ouX/7CxNhXfTvOQFuwDPg3EyQmsFNgnfOElX2OMw1AFkAHbekpJIEW3MyXjhQ=;RMz3mguxM5zyXpzxNurVTQ=="
+secured: "0ZFtA8azqfS6V4tJMCSL6hEfsOu5siNQxsD8+JQPo2NTisvVPHQddjGp8ITun3KMHlq6tm1k8aR4DS1LXrvltZ5XJI6jpf2KyoeE0bc2j6h3irmF2rmjzGOYMZCNBcISL6Yc8weACmChtWpWBh1JOR8sr6TL/D/8Ff/RpLwjkIfL3Ll+0OY9FMiuX3iB+AAqFYulxTSTLCyaFtRezvB9/MrLwyzBYwqwSeSfUzHHo5BYPHSs2X3SJlxVHII4lZDaUeR9STjf2cz5g8tqWqF0r0/fugckD1tlr2dsVSQJzG5rENGSzANdKpSq5m3WYhKd/T1H0TOqf3XfEhe9SyNnqAaAmidw7ovFhgR1f4ifT7Y=;NwvVWV8W3IrtuBM7BAlHAA=="
 ---
 

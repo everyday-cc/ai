@@ -254,6 +254,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "California’s DMV Reevaluating Stance On Tesla’s Full Self-Driving Beta"
+    excerpt: "The DMV had previously considered Tesla's FSD as a Level 2 system, but videos and software updates are forcing a rethink"
+    publishedDateTime: 2022-01-12T18:28:00Z
+    webUrl: "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/"
+    ampWebUrl: "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla’s 'Full Self-Driving' software just got a big price hike to $12,000"
     excerpt: "Tesla’s “Full Self-Driving” (FSD) software is about to get its second big price hike since it first entered beta in October 2020. What began at $8,000 quickly rose to $10,000 within days, and now it’s set to rise to $12,000 later this month."
     publishedDateTime: 2022-01-09T14:20:00Z

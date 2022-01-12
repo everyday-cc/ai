@@ -1,25 +1,25 @@
 ---
 category: news
-title: "HBKU's Qatar Computing Research Institute creates real-time Arabic text-to-speech system"
-excerpt: "A pioneering real-time Arabic text-to-speech (TTS) system has been created by the Arabic Language Technologies team at Qa"
-publishedDateTime: 2022-01-12T09:56:00Z
-originalUrl: "https://menafn.com/1103525963/HBKUs-Qatar-Computing-Research-Institute-creates-real-time-Arabic-text-to-speech-system"
-webUrl: "https://menafn.com/1103525963/HBKUs-Qatar-Computing-Research-Institute-creates-real-time-Arabic-text-to-speech-system"
+title: "HBKU’s Qatar Computing Research Institute creates real-time Arabic text-to-speech system"
+excerpt: "Doha: A pioneering real time Arabic text to speech (TTS) system has been created by the Arabic Language Technologies team at Qatar Computing"
+publishedDateTime: 2022-01-12T06:24:00Z
+originalUrl: "https://thepeninsulaqatar.com/article/12/01/2022/hbkus-qatar-computing-research-institute-creates-real-time-arabic-text-to-speech-system"
+webUrl: "https://thepeninsulaqatar.com/article/12/01/2022/hbkus-qatar-computing-research-institute-creates-real-time-arabic-text-to-speech-system"
 type: article
 quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: The Peninsula
+  domain: thepeninsulaqatar.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-01/12/TP_fcf65image_story.jpg"
+  - url: "https://thepeninsulaqatar.com/get/maximage/20220112_1641968730-475.jpg?1641968730"
     width: 960
     height: 642
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 355
         isCached: true
 
-secured: "LWG2xDtg9zdyNFXTA+r+so62K5rihr6+2QJekEF3ygPRZNZCqOPq3aEBDtlMHrQGNlJWRrW0+CQgMIuB2gFdxowNrfGak/JSMJ7WmkSk2NMpQHZu1fImWjjWLklYcZhlTc8W09qunX6fw9AS++YiVokTDrX2AZkWayp509XEOCYgdKoV0t8rLnfzbG4N1v+c1ShkBiSHQizqUFajo/fSm7+yvyTryOaBwAHgRmvVdWHmPYe2pJzOKOvadJ/e6UOGl0t7prrErNuWJYXWUtIb64iSAMbKd+diqdTqJLsdluSC0USKv59gPljVyXDWnMKlhMmFDh+ztAsFmVAm+j9jUk9/N+LrTFAqqXulOSfIaNE=;MywCi5Fwn+2mxL9PYUco0Q=="
+secured: "1XUIP95i4NlFHtuIlfy4RRvqv8vY8AJUxCvFFewICMOQiVGKNDNe21NZry+HUKqkvRei81SQ7sXn7ip3mXj4oRnJrQx8OLBH3ZnUYJv+1E/gzIYDDQYEGK1MSTTMrJHT17IX+Mmgsksv+7+lKrrzHIenfLFCJEuJyIlD20ELm5rSgWSRTQly36nM3L+8mmmwMtNArMRGYVUAQPL9t/VOSXGkSHhMQP0PCr0DnLP4sbcHo/XqACHJzmpnLYSrZjZN5JsTJKMtO+0T1O3E5o6piYZRGO8uCs+R8KpRUypyQRNiqEpZ/9+UweApjdgkcc8caBo/gnQi4ASq+hPkEole7DcsygYh6B8Ni2BmeQtL7/8=;aV/U0pZjnBoahjRaAjMzKA=="
 ---
 

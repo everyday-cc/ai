@@ -57,7 +57,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/01/deepscribe-founders.jpeg?w=1024"
         width: 1024

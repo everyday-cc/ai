@@ -30,20 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces General Availability Of Amazon EC2 Hpc6a Instances"
-    excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for computing, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-    publishedDateTime: 2022-01-11T14:45:00Z
-    webUrl: "https://www.hostreview.com/news/220111-aws-announces-general-availability-of-amazon-ec2-hpc6a-instances"
+  - title: "AWS Announces General Availability of Amazon EC2 Hpc6a Instances"
+    excerpt: "New Amazon EC2 Hpc6a instances powered by AMD EPYC processors are purpose-built for HPC workloads and deliver up to 65% better price performance"
+    publishedDateTime: 2022-01-11T05:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220110005933/en/AWS-Announces-General-Availability-of-Amazon-EC2-Hpc6a-Instances"
     type: article
     provider:
-      name: Host Review
-      domain: hostreview.com
-    quality: 54
-    images:
-      - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 34
 
 secured: "Ne2FO+jPJcDENA1a4WoKIY8kJ42xKPGSajSbTfxYmLkp8BZypHAzWSMFiVUyLplNzRLzyf3FtYJVXSYsJE1J18CbrqnDhZwBdgclmOIA8IQn0lrBFjK9jxeM3aSwYoNhY0XG+OOZbBht2ErHI0jR0zzKuAchKIBkMuLUYxg8EW+o2KmSQMfEWTdQISt+VQfkqAucAuU9gi0sCAcz9XT18Oc5ztXp2tkEKzRqB4E7PpTVvMBDSOzSBaguVpsTiMxyR7KlJj/m2bsXrRnGV4/dvCZTbOlmB0qt9HN0IiovjRA1h5IkEiErz+ozQjjAXX7GlXahfnSO+oYg6DomEMWTN3fnMjZH8uvhdbSRFT2jQnf11r/QwgVYKUIk6G0kANZ+V70m4FSzqer+MI3dhq4UsvXW2eZhzewp1gNkWTcyIFYvuGidFsPC4KW641t4oW57TyobZMI1ed2RbDdpMoMyEsVsQXjKJxlYRRGbt3/L/Ltz9FD1hCHy8l5ov8v8Bj6Iu/nsBVqR6X5sdNjy4gwzVg==;IU6DjEx0jiSAdXXZD40lUQ=="
 ---

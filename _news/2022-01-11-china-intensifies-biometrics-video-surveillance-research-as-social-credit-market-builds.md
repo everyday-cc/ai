@@ -39,6 +39,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Rank One to supply face biometrics SDK to US Marshals Service for prisoner transfers"
+    excerpt: "The technology provides touchless biometric verification of prisoners’ identities at a distance during transport and outdoor prisoner exchanges."
+    publishedDateTime: 2022-01-12T19:51:00Z
+    webUrl: "https://www.biometricupdate.com/202201/rank-one-to-supply-face-biometrics-sdk-to-us-marshals-service-for-prisoner-transfers"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 17
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/01161503/handcuffs.jpg"
+        width: 1200
+        height: 709
+        isCached: true
 
 secured: "CohHrCX/clR/QA2+CbilUbVjhjiq4UPd6PLibUnj8IwjuvPMP1THv5ffO/p1krjwOl1nFUBaj+e0ZSB9a2Jj8+6E8PktuxnBunrOs2yNU8IhJk+ow9VCu+j6PPkibV4M/S5+PuvWaIsZZ51HGjF1YVzgt9Ter7+SPWwV/avqEeouN2kGOVP0CphczSZmNNJrB+CsJ6+2LhUBgK08NVpqzDqdNXJ3MLywSOkCg1kdhCJbl3bUYf5vB16ipX+L57L0FGywCXFedRhtWWWLU4YePF+HJKKKobQWI4IY2hz38M9w3izpx4u+96gJJiHIxXCV65HsJ0MQ4fHE6P8SNJjie1399Jzidsrd33kQPQy49yg=;/eLQ39yhgjUD4EJYEDa6/A=="
 ---

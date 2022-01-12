@@ -1,45 +1,27 @@
 ---
 category: news
 title: "Alias Intelligence Enhances Client Portal with the Release of Automated Ordering Services"
-excerpt: "Alias Intelligence, a background investigations and due diligence firm that provides comprehensive and timely searches for financial and investment institutions, corporations, real estate entities, law firms,"
-publishedDateTime: 2022-01-10T17:03:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-d3e121967419ae5551fe18e0dc3eda7a"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-d3e121967419ae5551fe18e0dc3eda7a"
+excerpt: "\"We listened carefully to our client's needs, and we delivered,\" said Adam Rudman, Founder and CEO of Alias Intelligence. \"The Portal is a significant step towards enhancing the overall client experience."
+publishedDateTime: 2022-01-10T17:14:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/alias-intelligence-enhances-client-portal-with-the-release-of-automated-ordering-services-1031091567"
+webUrl: "https://markets.businessinsider.com/news/stocks/alias-intelligence-enhances-client-portal-with-the-release-of-automated-ordering-services-1031091567"
 type: article
-quality: 15
-heat: -1
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-related:
-  - title: "Tech alliances with chip corporations at CES in self-driving tech world"
-    excerpt: "Major automakers like General Motors, or Ford find companies with an upper hand in techs like Tesla and Apple are entering the market."
-    publishedDateTime: 2022-01-08T04:25:00Z
-    webUrl: "https://techstory.in/tech-alliances-with-chip-corporations-at-ces-in-self-driving-tech-world/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 41
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/01/JeX_mrWItiY3QwRb80nYiAU_zpUxMFxzvNuiAKpcU1w.jpg"
-        width: 533
-        height: 300
-        isCached: true
-
-secured: "oTBMKhn0PQ0BN4sTAABo2QnCe8KWHALrMXWTTeKycHuubBMFP3mCpyjCgJXZkJvErvd1bsj8AFiWpp9DMS6Aa++rs7J1sAuIS2cIQ6zkO71F2li6SOxgcC0A8Ba84/n0WKEmBpawiJI6QrsF9Nta+hFMKlt3LrJbWXHWkuiRkTA1GDa9GKgpLVZJGHpF6jIn1daTQc25zASW1vHubWsbrJHNl5WtdBI/R0HJdhJxes2uMqX7a8yiPhbQtZ1tRjtZI+TZu0yxmDIeyjVsZN2XR9sCIYWnNabb1SXxDBK+g/1aET+O1iY5AtZttQz7NGkJJbh6eocvxeUr6jfgGDxlekTlz7Qg/7WSK3pr6T5U2Vo=;Nv4LKpYnfshcVQ6WfeLwZg=="
+secured: "YQID4VJP63MO2qQDKPIoW9omnU45KZDL7YMkcI8SzBsvvPzibtPfkTPk29iTppgdZqhbR8IC6LgMLMh7GJ7KhqCvuQ81ai8nX6dMQ6AmcWyaxWnCtfAw00jIBJ61fdL/OWtv7XIwL08b59fj6RSbwygONlhqo7gxAUzX71Q94LKUAahL/EL2bL8WSD9KpB9Jnalv5ySPdUiCPiSmzIS96HkFCWzTd0mQSu0r6G8WpbuVQwzQDeXgPfGpWwR1O4lANlhQ9nYB7SVwaSNOYTgyTh3TYThJBnR0MTc73k026vqWOlk0O0b7IyUGTiqLcUNubCknIltSUuOLcOpCT24BxpjMV4Jc9faWYoe7tT2BOpM=;QmUaBqiJ077Bc1EwNH8lJw=="
 ---
 

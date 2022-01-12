@@ -1,28 +1,27 @@
 ---
 category: news
 title: "Artificial intelligence predicts RNA and DNA binding sites to speed up drug discovery"
-excerpt: "The iMolecule group from Skoltech has developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
-publishedDateTime: 2022-01-11T16:24:00Z
-originalUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.html"
-webUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.html"
-ampWebUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.amp"
+excerpt: "Researchers developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
+publishedDateTime: 2022-01-11T16:10:00Z
+originalUrl: "https://www.nanowerk.com/news2/biotech/newsid=59510.php"
+webUrl: "https://www.nanowerk.com/news2/biotech/newsid=59510.php"
 type: article
-quality: 50
-heat: 60
+quality: 32
+heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Nanowerk
+  domain: nanowerk.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-2.jpg"
-    width: 1474
-    height: 656
+  - url: "https://www.nanowerk.com/news2/biotech/id59510_1.jpg"
+    width: 1290
+    height: 574
     isCached: true
 
 related:
@@ -43,6 +42,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Ww5zGEdNkK0sDWPwzvrTegXZ/YuBr4t8yAavCbnHnzklmrGlzS25Db324XGSTVhTikPRnx0mBhLEuM4xo8x0WnDigjjzsY9JyofIU8+MIqbfcPPptpvTAcXF2EUC+7iQq5MLRBPRHK+z2/M2LfsCvt+rG8QnIZ7lgRWJmyDtzwKL6y3mEIryohIJWkAjt7Ovo8TauIqSS0L3WsiUTY4m385bDM1pc1KHtjL8JFOGJtd18gv37LCrcDFHqGyrj8k+3DCnBoEVqRTftpIsUyZ5w9rQeIv0QZhAjQCvEfWKSVJ7L29JB8xY6QnnN7ojLIkXTkKHpRlQvev5q5c7VaEQZSj+jOgVg7aATr0vNZxDPcg=;ZOZLFUbR3RueO6/w0FiZ2g=="
+secured: "GX54bkO232d20ULAzVZ1YoYNUU5bbdBcc6+NS9evzczQAjdwtS45Sc72FCBMtfvLWtLOrO8xvdI6BPvpK14CIDztPPNudCfN9lhRDVWLtfUnzz6O/L4WNS3FNcuF66RkSetr8SJNIETSrgSX05xSmVp824LqLZwGIvamKstRyjZhf7Y802QwKag6asafS4FFhEKNWnhPtVSdMdEnAtYX/bixtUv1dFLcdDjJW2EaQ9+1OrTujrxLBskivSrDUnUkIq+/6+XweVnWp8rMcsm6j6+Hq3Jq/c+yZFyxg1VUNLFa6mteiPvwUEUsgFonj/TDsQZTA0pnvVOLlvZdkA0pG7etU716P0/4wKFGMUGqm6E=;TyTYqLsKmG5CI+iZPi6jSg=="
 ---
 

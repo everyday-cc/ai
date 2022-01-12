@@ -8,8 +8,8 @@ webUrl: "https://www.livemint.com/opinion/online-views/beethovens-10th-symphony-
 ampWebUrl: "https://www.livemint.com/opinion/online-views/beethovens-10th-symphony-and-the-jarring-notes-of-ai/amp-11642003036741.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/online-views/beethovens-10th-symphony-and-the-jarring-notes-of-ai/amp-11642003036741.html"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://images.livemint.com/img/2022/01/12/600x338/HEALTH-CORONAVIRUS-GERMANY-49_1642003193790_1642003208588.JPG"

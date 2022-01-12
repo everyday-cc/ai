@@ -270,6 +270,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "California’s DMV Reevaluating Stance On Tesla’s Full Self-Driving Beta"
+    excerpt: "The DMV had previously considered Tesla's FSD as a Level 2 system, but videos and software updates are forcing a rethink"
+    publishedDateTime: 2022-01-12T18:28:00Z
+    webUrl: "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/"
+    ampWebUrl: "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "Tesla Full Self-Driving Test Being Re-Evaluated by California DMV: Report"
     excerpt: "Tesla vehicles with the older 10.3 FSD software repeatedly provided forward collision warnings when there was no immediate danger."
     publishedDateTime: 2022-01-12T10:47:00Z

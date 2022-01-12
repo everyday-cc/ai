@@ -132,6 +132,36 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Sacrificing Some Performance To Make Cloud Data Analytics Portable"
+    excerpt: "Amazon Web Services, Microsoft Azure, and Google Cloud – are all addressing the same issues of scale, performance, and economics"
+    publishedDateTime: 2022-01-12T19:17:00Z
+    webUrl: "https://www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/"
+    ampWebUrl: "https://www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/ab_cloud-logo-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
+  - title: "Location analytics startup Placer.ai closes $100M investment at $1B valuation"
+    excerpt: "Startup Placer.ai, which helps retailers analyze foot traffic at their stores to identify opportunities for business growth, today revealed that it has closed a $100 million funding round at a $1 billion valuation."
+    publishedDateTime: 2022-01-12T20:07:00Z
+    webUrl: "https://siliconangle.com/2022/01/12/location-analytics-startup-placer-ai-closes-100m-investment-1b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/Image-3.png"
+        width: 800
+        height: 450
+        isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
     excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
     publishedDateTime: 2022-01-10T13:35:00Z
@@ -176,6 +206,6 @@ related:
       domain: webindia123.com
     quality: 13
 
-secured: "FJVpBQuti8lY/EMUH6sOZ9Qw/tLtb35oLtR4tg/N0atOv+lCpSr6q7CNOfXLeUolNPVNIzxEAZDnECLsu9kOucmC3byN5Rs9lSH8mWpGrCuGpoa6xFx1fvcgfcR1PbG1RBJG1UohSecJaMQX6QpaenALNYOZFbelUBe/cbOvP8a0goTaoXU/mpQ//tPuqDuslpLzMj9Fn63jVBRu9jGVp8/J9WXeubDvs/tHk5NcMk1gSlqqR16cyQPhZb2w83C+UkF3RTwj3sUqG/hOSbXAUe87diXnnfVjDhJi5kGR6JMHTnRmCQd8M2KXFQ22sDgBBTT1BW66M4Pis2xJgCShRBouDhg+BabJP9vy3DCb2Gs=;+8SVFX1dhmdGlVB4UHi0KQ=="
+secured: "Huh9WKXKcqVV5W9X7nGBSd6M8qYMHYzp/b+q7jEQAsfp0v4HMMoBteVLFU3ThabOxnp9dg9NqIZrpXou3AR0dwC2y+6Np699vVq3hHvoIBJa+5oIVPf4G2XtvdHRTsbr1nkrB043De+4wsbziGbr3SAvV6gb/WkhvJIvN2V0xuBssULi8YYaRR1sdLSWToz+JovpjJ1HhwJs+Eq4Aa2nWPmOUbLP1o3zoJ24BamGxf2D7e1pXdaRsv0563Gfnyb62fxBiNNjYq2QwAYzBmM9zuFPPEJxiqtJZY6JBe92qpAa8fpPrt8kI5/Qj+kfPObENckk18/H7dKVkEZT6SznYza99Z8ZfMQRdLGHdNusum01aobLThtmjXg343ij34bKPa4FSrzygry9QIzhGpgdokHSF4LYtopKAfCA8FDQz9DpQf0QQe4BmxMiyiuO/Z+rgUpqdWxAHsnwrH71IICpDQYQPaic1+BmBU4umqVayFc38an9IARi6vGak22vco8LU0LXwFceshBhT+Ov050VdA==;eBcx46xGjWF1U7g18JjrIA=="
 ---
 

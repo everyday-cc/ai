@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
 type: article
 quality: 89
-heat: 109
+heat: 120
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Era of AI is Here and Businesses Love It"
+    excerpt: "The use of artificial intelligence or AI is much more common than most people realize. Although we are far from the threshold of most sci-fi films and the"
+    publishedDateTime: 2022-01-12T19:35:00Z
+    webUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/"
+    ampWebUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
+    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
+    type: article
+    provider:
+      name: techspective.net
+      domain: techspective.net
+    quality: 59
+    images:
+      - url: "https://techspective.net/wp-content/uploads/2022/01/artificial-intelligence-gfd97c804c_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "DCMS initiative to set standards for AI"
     excerpt: "The Alan Turing Institute, supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government"
     publishedDateTime: 2022-01-12T11:08:00Z

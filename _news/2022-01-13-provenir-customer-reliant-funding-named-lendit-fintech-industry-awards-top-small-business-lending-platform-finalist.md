@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards ?Top Small Business Lending Platform' Finalist"
-excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today congratulated its customer Reliant Funding for being recognized as a LendIT Fintech Industry Awards 2021 finalist. The fifth annual LendIT Fintech Industry Awards honor"
-publishedDateTime: 2022-01-12T17:39:00Z
-originalUrl: "https://www.lelezard.com/en/news-20189764.html"
-webUrl: "https://www.lelezard.com/en/news-20189764.html"
+title: "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards 'Top Small Business Lending Platform' Finalist"
+excerpt: "LendIT Fintech Industry Awards honor the world's leading influencers and innovators in 14 unique categories. Reliant Funding was named a finalist in the \"Top Small Business Lending Platform\" category,"
+publishedDateTime: 2022-01-12T17:15:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-provenir-customer-reliant-funding-named-lendit-fintech-industry-/2022/01/12/9525217.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-provenir-customer-reliant-funding-named-lendit-fintech-industry-/2022/01/12/9525217.htm"
 type: article
-quality: 1
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
-    isCached: true
 
 related:
   - title: "Jay Rasik Modi Wins the Business Excellence Award for Founding the Best FinTech Online Platforms in Canada"
@@ -40,6 +34,6 @@ related:
         height: 450
         isCached: true
 
-secured: "wzdwVFom6iblyW/EHZMWPk2A8YpPS1z4weYE6HpFv99br7mMU3wp8patOtZsaySPGP5Nkg8OAou64pF3il19HPecjye7PKiN/JdPqnJm9jZ+O+E372Swjrj+pCBqrcNYr6UidIIopnL4AGcIaXp/ftkImc6pM3+Xm46wNU84Wl47lS1yOUrxZ7FiTaqMh2sd4yb1Kd0FKWROaGoFaZ5VfPJbH55alb2EJ+EEmEEErLxjJrfPTAX2dCBGLO4NOvj2O7vPdOqezkRklf7nKuxXsrg7BJXC4+aOjqV24SjgM/oBZITw41xjNFYtktRdlwaONg6Mfya4cD1rGfn8iL1EP8QCwDuzM91A3ixZP+kMwr8=;tgq2zqohM9dQyiAqQP/3fg=="
+secured: "3Ew6e7slmJ7yVqvfx2l8Wdbm70IFQ9sMTiA6AW5Igq1twRblymCvyE0AU+MQ1m9zPyzni9bn4QowYASUJ3W9vz26wKhVi/L0qruwimU0agQK4ulrdFXqGaI6JSN1w6EuMBuifkOpKa8XxUXFCnTO7eMMftH73CTAePuG2NkRWagj09rxFtQOekxv3fay+0b8L/Dx/xmXAOV920aHtqFBGIOkEixKRQKAFLA02JCxhGHAmYzebgA9Wl2fMUz93zx9Lp/N5YEee5HBahYQuosVLMf9BOFcH83P2rKc+Bu5xztoGGoR8779BWuSAqTsh8/3GgrwByFX0tZpOWEi1B7yHhfCeOxY9Ij2FX1t1LSiU8Q=;ga8YRUUhZ4hKCgKYt1ir/w=="
 ---
 

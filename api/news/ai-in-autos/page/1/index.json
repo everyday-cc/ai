@@ -62,7 +62,7 @@
       "originalUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -253,7 +253,7 @@
       "originalUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 399,
+      "heat": 409,
       "tags": null,
       "images": [
         {
@@ -779,17 +779,17 @@
     {
       "path": "_news/2022-01-07-volvo-takes-on-tesla-as-it-becomes-first-car-maker-to-trial-self-driving-car-with-no-one-behind-the-wheel.md",
       "title": "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel",
-      "excerpt": "The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on California ... road safety tech firm Zenseact and artificial intelligence whizzes at Luminar to build Ride ...",
+      "excerpt": "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on",
       "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/",
-      "originalUrl": "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/",
+      "webUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/",
+      "originalUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1",
+          "url": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1",
           "width": 1500,
           "height": 1000,
           "title": null,
@@ -799,13 +799,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/",
-      "publishedDateTime": "2022-01-07T06:29:00-08:00",
+      "ampWebUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/",
+      "cdnAmpWebUrl": "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/",
+      "publishedDateTime": "2022-01-07T05:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
+        "name": "The Scottish Sun",
+        "domain": "thescottishsun.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
