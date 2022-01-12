@@ -41,6 +41,22 @@ related:
         width: 323
         height: 362
         isCached: true
+  - title: "Merck Foundation CEO and African First Ladies announce the winners of Merck Foundation \" More Than a Mother\" 2021 media recognition awards"
+    excerpt: "Merck Foundation ( the philanthropic arm of Merck KGaA Germany in partnership with African First Ladies announced the winners of Merck Foundation Africa Media Recognition Awards “More Than a Mother” 2021."
+    publishedDateTime: 2022-01-12T15:40:00Z
+    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Merck_Foundation_CEO_and_African_First_Ladies_announce_the_winners_of_Merck_Foundation__More_Than_a_Mother_2021_media_recognition_awards-AFPR1201202220136/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/AFPR1201202220136/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR1201202220136/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 10
+    images:
+      - url: "https://www.africa-newsroom.com/files/large/590f88951bdceec"
+        width: 2126
+        height: 1417
+        isCached: true
 
 secured: "viswlD39ankfi5UDEDSSlcTdM0CQhEkqGONK8+aXRIRxF4k8dGzMctHuC8ocKtyU9C9BE8iDQEzQIopMNqKLYrmYuDYNscqlWTt6XcxcdcnrrcHCuNd1OWqic55yaNDiQ5uxdy8yD6SehoID/dcVXM9PdzOF5iJqRsjSC3wQqWWgY3yhj7sSkNzvXH9Q60a27bTJP965vzV+6fzjk5TBN76CkqXewUapT5fOWyDtBgkNqAbgJ9OFPhvAfWZgVkwNrHI7xsc++QHGDytohBEoVAn0fXYaayD56kFDhvvSX5h6vyKDpe699+LgKX5MBOdoMLnABCQ3bMJq4r7BiOZrbc3iOIUWwGIhRawRshF1rhw=;tf77dc3RT7X3cwthigj92g=="
 ---

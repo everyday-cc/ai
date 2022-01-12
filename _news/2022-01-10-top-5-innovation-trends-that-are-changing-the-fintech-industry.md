@@ -73,6 +73,20 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "EQM Indexes Launches Emerging Markets FinTech Index"
+    excerpt: "1 Emerging and frontier markets have provided fertile ground for FinTech solutions, disrupting traditional financial ... Realizeit, the provider of the first-of-its-kind AI-powered adaptive platform that personalizes learning for performance, announced ..."
+    publishedDateTime: 2022-01-12T14:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-20189213.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "The Fintech Ecosystem in Jersey: Interview With Amy Bryant"
     excerpt: "A special interview with Amy Bryant, Deputy CEO of Jersey Finance on the importance of fintech and how Jersey is growing to meet this demand"
     publishedDateTime: 2022-01-11T17:13:00Z

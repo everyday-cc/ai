@@ -30,21 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Meta claims its AI improves speech recognition quality by reading lips"
-    excerpt: "People perceive speech both by listening to it and watching the lip movements of speakers. In fact, studies show that visual cues play a key role in language learning. By contrast"
-    publishedDateTime: 2022-01-08T00:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/"
-    ampWebUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/"
+  - title: "Dunwoody gains national recognition for combating sex trafficking"
+    excerpt: "DUNWOODY, Ga. - Tuesday was National Human Trafficking Awareness Day, and one metro Atlanta city is being recognized as a City of Freedom for taking action against trafficking. The city of Dunwoody’s mayor just signed a proclamation urging its employees ..."
+    publishedDateTime: 2022-01-12T04:47:00Z
+    webUrl: "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking"
+    ampWebUrl: "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp"
+    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 108
+      name: FOX 5 Atlanta
+      domain: fox5atlanta.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1351969920.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/01/932/470/35QT5QT5.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+  - title: "Second Starbucks store wins union recognition after US labour board ruling"
+    excerpt: "STARBUCKS workers at Buffalo’s Genesee Street cafe became the latest to join the Starbucks Workers United revolution sweeping the United States after voting in favour of union representation. The National Labour Relations Board ruled in favour of the global coffee chain’s employees,"
+    publishedDateTime: 2022-01-11T16:41:00Z
+    webUrl: "https://morningstaronline.co.uk/article/w/second-starbucks-store-wins-union-recognition-after-labour-board-ruling"
+    type: article
+    provider:
+      name: Morning Star
+      domain: morningstaronline.co.uk
+    quality: 22
+    images:
+      - url: "https://morningstaronline.co.uk/sites/default/files/AP21354602509275.jpg"
+        width: 1185
+        height: 790
         isCached: true
 
 secured: "x+jcmA/y6PEGI8Qe4jPLH+PpYiqq6PQfVt9kyrOj9/HBW/hGx/1EDwVPznop8oC/Qx1VlmdUlLhDGyuTIrd4VvqRcBggNY44KNRONLOHvHGA3nNt8cR1PJe7Sn0XH/ZtiOw4xdtQ2FugkbCwYuhW89PtQB7ADej/JdWwzson3akZ6cqEMTSb5aAh9iQv1QVr/YQGg4hvdi9UUDeMHpHyQN83K3glfbsVC3928yxBM1bxSEgqOOeA2cpmeLoUpQTvlE0eivWKw3Ciy+mJwNPzl01t2jeLMXn4fV9RJagf96aOP6wdGKDg/yQW7iTN6bVVko5hruAVv4MLpRD5q36Gir1hbvTzMoygbDvSdLOm7kk=;w34PQ/LZmitvaLkJ0JY+BA=="

@@ -18,19 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Advantage One Credit Union selects Scienaptic’s AI-Powered Credit underwriting platform"
-    excerpt: "Leading AI-powered credit decision platform provider, Scienaptic announced today that Advantage One Credit Union has chosen its AI-based underwriting platform to complement its lending process and make advanced loan decisions."
-    publishedDateTime: 2022-01-10T14:13:00Z
-    webUrl: "https://www.cuinsight.com/press-release/advantage-one-credit-union-selects-scienaptics-ai-powered-credit-underwriting-platform"
+  - title: "Using AI for Real-Time Engineering Decisions"
+    excerpt: "MathWorks’ Heather Gorr explains how engineers can apply artificial intelligence to real-time engineering decisions, as well as the issues involving data synchronization."
+    publishedDateTime: 2022-01-12T16:41:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21213913/electronic-design-using-ai-for-realtime-engineering-decisions"
     type: article
     provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 29
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 37
     images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/01/AI_engineering_promo.61df026b7f048.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "7trzCtiJ52yL8bgbxVsWjDRMu70pH0JFri9bDEvWbX5G0pt820Z70l+Mq5iFaeKJa7YbCHLorOUUtoLybc/7MpD3C/wLPVwmrTuxdp1d7325zP9hNIEXUY+udOQdDp8kCCjXsd3DBgvmzyNUmZWgaIDVO3G7RF5oPxD68+TbzlaFnrxP4PhaRYBk27cw4PQFcw/N3lGrhU/XtYY0zkTLy41Sfd/NjBAzgIIoiy7v27k5hNO2UItVBYIh6Q7+kDtSe0400Y0a3rpZZPtWwci8XZkxCFYYlMpo/if6CnZpXz3wkD2eIedWzl4Rlp0x1IhTlqTMy4d4DaGzJikwBCDl/3ZSjo+M/+uB9IqHRu7Aeuc=;yUZacQWBVriZNvQpyifIeA=="

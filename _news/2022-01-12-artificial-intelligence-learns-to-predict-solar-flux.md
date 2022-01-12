@@ -8,7 +8,7 @@ webUrl: "https://phys.org/news/2022-01-artificial-intelligence-solar-flux.html"
 ampWebUrl: "https://phys.org/news/2022-01-artificial-intelligence-solar-flux.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-artificial-intelligence-solar-flux.amp"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-3.jpg"
@@ -57,6 +58,6 @@ related:
         height: 422
         isCached: true
 
-secured: "sq5wXNAIxOvA5dlDDAa7vYeIz5K2m+SSlVHyfLpVh0GTmib8c4wOx10ttaRuyp63hmevLJP4H7RTsJJTsb2D0VWOCxVlDb/jgonaHVJvb+A+Apv4qMix6yHbs0Um4tBcaXFsXp3kcYK3I9+vzcNaVb+tzh0VGdHrd5/x8WR+vAqQVv+/W0/v5v9WziQTCKUb2cJu/cZso5egOuLLWKAvzQuiLS9T6FIRR4duyszyof291XxGLNR4FMcnn58OR+wbKb9IlNXlEMXVYBCT8nvy/2FRbwVCxQ6+e7XA+JICPYpIS19uG5Ybz/x+ZgcJvgzIghVrCBSCzCJaTIbuIkpg+SgXC2hi1EBbh2gyiHxe9cU=;8LXEpvaGY9zidhc7943n8w=="
+secured: "NTncA0Fj72wrIF4lrnBRqTflixk+iB2KbG9p4qcblBE9Ksf0Ns4ydPzB3iNnaxblsQNHbqh7xY9nmLHPu5jqu4g5ejPOSkjkSP8GP6k7x2UcZ+Z0HqvLwL70qPWPzOtt7cqFpBKtarFvKKDdW0lfJFoQABV3G/X9Q/g9u8lDYrtsYWJxK84ZbiG4iwtrwidNHmtFb6WNNBts45Thsh4Y3l5m0BKH45axe+YiIuii5Sl07QlPCHVJfC61Ymi+3KgsbOTceftp9j44ql6O8hB+2PLJBW1yrp3fbTrxoLRlim+1Az5OxiajBruI2IG5/Lbghq9pplZk/Zl75aveiMXFzQJGYw8KoeT/YndRYFE1YqxejWPLCN8oUbCIJCf+8YXQ2os7aLnq86dtncbnRooywIvdTER4S+1YXnPycr4ifFcefzQJJrorqzUsTCQVsMLoAIdT2D0FKzqGPadImGx6+caL8CqD5kjAm2iWPdFneBjoRtkU/9adaV4nM1QKW8cQT/uA8PZxmtGENk+qXBohiw==;8H5U6B6x7HihGldeb+a24Q=="
 ---
 

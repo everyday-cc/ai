@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Learn how Artificial Intelligence is Improving the Healthcare Experience"
-excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand, and utilize their health benefits."
-publishedDateTime: 2022-01-06T15:15:00Z
-originalUrl: "https://www.lelezard.com/en/news-20181152.html"
-webUrl: "https://www.lelezard.com/en/news-20181152.html"
+excerpt: "Scheduled to broadcast spring/2022, the award-winning series, Advancements with Ted Danson, will discover how innovations in AI are helping employees to access, understand,"
+publishedDateTime: 2022-01-06T14:00:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/learn-how-artificial-intelligence-is-improving-the-healthcare-experience/article_52ee920e-f23f-5d52-b6e5-db365c1fd27c.html"
 type: article
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "g5obMM85lvdp7LlPiJGCE4TKpe2a6thKCof3XDrnPn8ISATcxC8Hr2v7utI5i/CE/4zoVCGIDxLVUmOlWxD/3pPkSpf7Xwbh+13ADA9UaT5bqVrBtvyJqr5Jg5DK/ed+k+Xp+lGoOwXfkdGUcDmf9UW8NBRnZ7icdmJ+bNxPXYEOWrCfu9v0I0FkIetabiVjUu8whYccbOvczPXk80aJ7upKYo/EpxP6jNVxPhXW90xfawR2Wo9bW3wwIa9JgaWWqIJOk3Glg7B0IrYUp0JtQlyINbVvsBj1+tTaTt3LTC8lFfCqrP2tF0D5vYOKNVFY9AksWuHVu0HmBlPElooL99Wsu2F39w7AHtpGTxnFuVo=;5gIBvhJmcmV+fK+MpXBIcA=="
+secured: "G/UhOIDAe3obNWY4wFpLkZGUxyrCRwAwemdWKq7NcW3N6EPPRRGd9WRIguzJSYIph5COSRUPr/+teBrpCf0NVlpzt3fNv5NaW9ryX/4W8qk+jkQeJ7bpORZsWTYA/wuYs4cJgXFLz62wJiNRnOkSDPQ2nVr5QwngxFxlZMuGA+08Pi5HyxWi9/BbAUbn9KOUNaIE0MhMsH5HBhUbHpzWrY0jBw8jaSVLXjV4TJlhFno5ieszAvryLq95b5I3HHgzfwE72bR2IAL5k4Eo2Xu9DNCq8T8FvTUtSiSfmhCcR62dkWe9ufRWajAGRwmvFiDO0YF99ZLQTXrlnMrZGFwOZRIANvGffx4zGqr0fPqK4Sg=;TkLwioXpA8S0Eh5kXyCBzw=="
 ---
 

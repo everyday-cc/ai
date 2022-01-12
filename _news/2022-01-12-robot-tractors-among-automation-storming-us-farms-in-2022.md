@@ -8,7 +8,7 @@ webUrl: "https://techhq.com/2022/01/robot-tractors-among-automation-storming-us-
 ampWebUrl: "https://techhq.com/amp/2022/01/robot-tractors-among-automation-storming-us-farms-in-2022/"
 cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/robot-tractors-among-automation-storming-us-farms-in-2022/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.techhq.com/wp-content/uploads/2022/01/DSC4385-375x210.jpg"
@@ -69,6 +70,6 @@ related:
       domain: japantoday.com
     quality: 21
 
-secured: "AlZNj68vD11s1WtuflouSh7tgvOpj8S3msl1Iym078vEDaxBPb6XIQEpq8SmFBuMTzxaHct0RBS3L5HeTVtIfudClGdR8C1vXhTEjR12vxNmDrjRtl3+ZDRJ2CDZ3sOAJAEnoALMPL3eagO0q30JOFVjmzetUfmzVBr+tXbiNJuR3hN9ojhe+ubcmj9Vzh2sFS9mkMnR0xYXaFc8j82xZWjnlZpu60yjaRNicOwnRUPWlnpylq9PM+i8hX4x9/rzrwTRyCclu+NcEKq1ilK113BIjAvQz18gRCKgpQxVGkhTg7VCeBKQIGvzn8DkjzgfzPu5RKdjjk2Cvqb7w+A0XKgM0kVInGUCQ5QHVYdRdPI=;7/jXc4weX7UYZRHHLSQxKw=="
+secured: "MeL8z+YdpKbUqWgIBESCrwWKrkQ9qxIAQWsRd4TTr9Ul+odoBuKB7Ko1dtueJL//1PZmFHerr5t4r+tZM3cs+bZx8T+kjs0NctPLgtXi5ZsMLML/Impkdm34XCG/xSSWgN8rfm169mzptvbUjUoqKeI4SLz30KerlPx6xUmFKF97Eohx1Y3Yj2rvImZHLnDqywb4nWy/5tNvOB7G6p79WSPOT/65dOGEeq6hBzQU5HVTHMGtSwi3uB335Rdz3vHcwhM7d8Cy5w1BLwYeflbRNp2dW2pQRTDxV+EgdhjOc2MaMhRG11ek0NQCIQ2bxglsA2QsbNso9MNOdrpv0BB/R4Yqhik3gQL5hAcA19908xIN4JHHSzCQ3YlfD4JHcBOqs96i04Wt2yQy+tRsQb/DxdCH0EQpJMhwyWZeB/SnSf2D/g7ARkZMS5X3JVopKxgjI51RZfVsd7ZlogUuSZV+JOWThEOIRAG1i0emkUie33GwHf35m85omE8a53+urFofou/LOsQVElyM3rWby2o65Q==;lhSH+KIlpgHoliCfXzLSAQ=="
 ---
 

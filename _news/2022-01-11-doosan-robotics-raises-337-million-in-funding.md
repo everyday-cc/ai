@@ -7,8 +7,8 @@ originalUrl: "https://www.thefastmode.com/investments-and-expansions/22412-doosa
 webUrl: "https://www.thefastmode.com/investments-and-expansions/22412-doosan-robotics-raises-33-7-million-in-funding"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Deep
@@ -23,6 +23,17 @@ images:
     width: 752
     height: 408
     isCached: true
+
+related:
+  - title: "Boosted.ai Raises $35 Million Series B Led"
+    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Series B financing round, led by Ten Coves Capital and Spark Capital."
+    publishedDateTime: 2022-01-12T16:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-boostedai-raises-35-million-series-b-led-ten-/2022/01/12/9525084.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "d27JbdsZLQuulipYarP+/ZE11spcMI/rl+jIkLLTX7ntaPDF8IPciyeqip6mHqQ2qa4PUQU00EbjO2mhzxN2UIbcWw8AyZmILNavpiWNCerm9k1JJXpOjgQtEDm9+nVYl9y7UAjcsLIB/sRLvf+9jnnww9SVSA8rB8LrbcEHmhY+EDULij6G/eKvhPSr9fDu+4xCxp7H+B0/j9BXvKJdoeqp28JP+zaFC0rRPU5XxmFiooLd4KaO+zRfwk4JeyDBtHlyau5gtL9FB3Sq58UdurRxXTmxF71n4QgLXfl7vVimfCch+tj9fSlhQcSapsSWZKluN7C3Zf2JiIBBxyojDvYX3wktSrtNtjO2tbMxLoQeynusGsevcGAPbD+Aokfvj9gDn5bx9/5Bn8ysm7Vfie+TTGKIXJ3UnE6TL223seIFz29gGz1RIQ80yPRgBQZnvS/fVDPfOom1U2nLCsiYt9VdMGxCI+7I/GlLF+qjNwZvdM+lHLo2HB+y39IKjghADeksaYeddAz3yKb3Mg4nRA==;z6Ucbq/o+rLfIwW+uz6gkQ=="
 ---

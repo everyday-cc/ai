@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtoninformer.com/sophia-the-robot-commits-to-hel
 webUrl: "https://www.washingtoninformer.com/sophia-the-robot-commits-to-helping-end-global-racism-and-injustice/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,40 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "Sophia the Robot interviewed during Tech with Soul"
+    excerpt: "Sophia the Robot said she’s committed to improving the quality of life for all people throughout the world, and asserted that artificial intelligence (AI) can help bring racial equality, economic"
+    publishedDateTime: 2022-01-12T10:32:00Z
+    webUrl: "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.html"
+    ampWebUrl: "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.amp.html"
+    cdnAmpWebUrl: "https://www-miamitimesonline-com.cdn.ampproject.org/c/s/www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.amp.html"
+    type: article
+    provider:
+      name: The Miami Times
+      domain: miamitimesonline.com
+    quality: 59
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/miamitimesonline.com/content/tncms/custom/image/b4f5338a-6dd9-11ea-8081-4fee519df8b2.png"
+        width: 1256
+        height: 1261
+        isCached: true
+  - title: "NNPA CEO Dr. Benjamin F. Chavis to Interview Sophia the Robot at First Tech with Soul Virtual Conference"
+    excerpt: "NNPA Newswire Senior National Correspondent@StacyBrownMedia (NNPA) - From Civil Rights to Space Rights, that’s the motto of National"
+    publishedDateTime: 2022-01-10T07:01:00Z
+    webUrl: "https://sacobserver.com/2022/01/nnpa-ceo-dr-benjamin-f-chavis-to-interview-sophia-the-robot-at-first-tech-with-soul-virtual-conference/"
+    ampWebUrl: "https://sacobserver.com/2022/01/nnpa-ceo-dr-benjamin-f-chavis-to-interview-sophia-the-robot-at-first-tech-with-soul-virtual-conference/?amp"
+    cdnAmpWebUrl: "https://sacobserver-com.cdn.ampproject.org/c/s/sacobserver.com/2022/01/nnpa-ceo-dr-benjamin-f-chavis-to-interview-sophia-the-robot-at-first-tech-with-soul-virtual-conference/?amp"
+    type: article
+    provider:
+      name: The Sacramento Observer
+      domain: sacobserver.com
+    quality: 42
+    images:
+      - url: "https://i0.wp.com/sacobserver.com/wp-content/uploads/2022/01/chavis-interviews-sophia-the-robot-featured-web.jpeg?fit=1400%2C730&ssl=1"
+        width: 1400
+        height: 730
+        isCached: true
 
 secured: "9reGbonck9b+KGEMBYm0kPVVf4sAGep7AKUzVgsIAuLY770dw2TEc6efohkgR1r8QlP9xxOcKj5ATK4q41LTmbeGuT6Mf9dH+S55pCmmUBfiMPiDL6P8Tic4Ffzvsc1CzO5YshCsB4pwQrv7y0e4r5lXk43LaMd9Dp4ytZY9zdGNVavHp5LbXFhdE56PmWoVpXNTHjR3208lH9oc44CkR/CWgnNQmQJ76cBzYMNsC4fskMjGgsAx+LGdzfaUDA/3x3OaUBzZDt49AKLn/GAAgdRn5vcshRel9BgT8jLH1KbDpWQ3L85Qiv3x8iKDFwnVGP5ATyG6oB/tAayXRmVEJw6R43G+a3BJCdOfwO3i7J0LQVXcqRUp840GOFu2TWD72x8h3hNCMGgAj0DapHegDqW7t35HiNhbJIan8cz9R5rukmKTvZeRs9XS7xHbU4szdT9eP/bihV5UcgUHzvUnDNAO8hDfJyo9GIQ0bsmgT2VwITHZynJBg7ZmokhnUR7KwpBQIIhNAOm+OytvBysogA==;50EH+R99VVGJEtRJtQLdVA=="
 ---

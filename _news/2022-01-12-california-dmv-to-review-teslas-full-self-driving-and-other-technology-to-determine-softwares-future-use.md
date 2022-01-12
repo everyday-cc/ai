@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla announces Full Self-Driving package price increase to $12,000"
-    excerpt: "Tesla announced today that it is going to increase the price of its Full Self-Driving package to $12,000 starting on January 17. It should coincide with the release of an important new update. The Price of Tesla’s Full Self-Driving (FSD) package has been somewhat controversial."
-    publishedDateTime: 2022-01-08T00:06:00Z
-    webUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/"
-    ampWebUrl: "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk reveals another Tesla “Full Self-Driving” price increase"
     excerpt: "Tesla may be credited for turning the automotive industry on its head and pushing forward battery-powered cars and power solutions, but that might not be what it’s remembered for. Company"
     publishedDateTime: 2022-01-11T02:40:00Z
@@ -137,22 +121,6 @@ related:
         width: 2560
         height: 1439
         isCached: true
-  - title: "Tesla Self Driving Is Getting So Good It Will Cost More"
-    excerpt: "Elon Musk tweeted that new versions of the company's driver assistance software, dubbed Full Self Driving is coming soon—and the price is going up too."
-    publishedDateTime: 2022-01-08T00:23:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51641601389"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 74
-    images:
-      - url: "https://images.barrons.com/im-464381/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla raises price of \"Full Self-Driving\" software to $12,000"
     excerpt: "\"Tesla FSD price rising to $12k on Jan 17. Just in the US,\" tweeted Elon Musk on Saturday. \"FSD price will rise as we get closer to FSD production code release.\" The premium driver assistance package,"
     publishedDateTime: 2022-01-09T06:36:00Z
@@ -168,22 +136,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150569888/medium_image_1150569888.jpg"
         width: 768
         height: 519
-        isCached: true
-  - title: "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’"
-    excerpt: "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”."
-    publishedDateTime: 2022-01-12T13:20:00Z
-    webUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/"
-    ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tesla raises Full Self Driving software price to US$12,000 in US"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday (Jan 7) that the electric carmaker will raise the US price of its advanced driver assistant software dubbed \"Full Self Driving\" to US$12,000 on Jan 17. The 20 per cent price rise comes less than two years since Tesla raised Full Self-Driving (FSD) prices to US$10,"
@@ -237,50 +189,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/01/0x0-ModelY-12-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Tesla Restores Its “Assertive” Self-Driving Mode"
-    excerpt: "Tesla Inc (NASDAQ:TSLA) has reinstated the “assertive” self-driving mode. The company had issued an update in October containing the function —plus the “chill” and “average” modes— but removed it"
-    publishedDateTime: 2022-01-11T15:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/412550"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-412550.jpeg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Elon Musk Says Tesla Will Raise Price of “Full Self-Driving” Driver Assistance to $12,000"
-    excerpt: "In a series of posts on Twitter, where he has 69.2 million followers, Musk wrote, “Tesla FSD price rising to $12k on Jan 17. Just in the US.”"
-    publishedDateTime: 2022-01-08T00:40:00Z
-    webUrl: "https://www.nbcnewyork.com/news/business/money-report/elon-musk-says-tesla-will-raise-price-of-full-self-driving-driver-assistance-to-12000/3485837/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/elon-musk-says-tesla-will-raise-price-of-full-self-driving-driver-assistance-to-12000/3485837/?amp"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/elon-musk-says-tesla-will-raise-price-of-full-self-driving-driver-assistance-to-12000/3485837/?amp"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 65
-    images:
-      - url: "https://media.nbcnewyork.com/2022/01/106996323-1641303541918-gettyimages-1347936771-dsc06374_2021102121941947.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "California DMV reviewing approach to regulating Tesla's public self-driving test - report"
-    excerpt: "California is reevaluating Tesla Inc's Full Self-Driving (FSD) test program, to determine if the electric-car maker's software should fall under its motor vehicle department's autonomous vehicle regulations,"
-    publishedDateTime: 2022-01-12T08:40:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/california-dmv-reviewing-approach-regulating-teslas-public-self-driving-test-2022-01-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
-    images:
-      - url: "https://www.reuters.com/resizer/hqaIi_DyIttnxcgs7NH4k0nsFqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVG6QOSCRZNDTAYCWAL4Q7ANN4.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Tesla's Elon Musk Tweets Full Self-Driving Option Price Increase"
     excerpt: "Tesla raises the price of its Full Self-Driving autopilot option from $10,000 to $12,000 beginning Jan. 17. Telsa's ( TSLA) - Get Tesla Inc Report CEO Elon Musk on Friday tweeted that the electric vehicle maker plans to raise the price of its Full Self-Driving autopilot option to $12,"
@@ -478,20 +386,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Tesla Restores Its 'Assertive' Self-Driving Mode"
-    excerpt: "Free-Photos / Pixabay Tesla Inc (NASDAQ:TSLA) has reinstated the“assertive” self-driving mode. The company had issued an update in October"
-    publishedDateTime: 2022-01-11T18:40:00Z
-    webUrl: "https://menafn.com/1103522257/Tesla-Restores-Its-Assertive-Self-Driving-Mode&source=22"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/11/V_c159aimage_story.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"
     publishedDateTime: 2022-01-09T09:58:00Z
@@ -577,6 +471,6 @@ related:
         height: 492
         isCached: true
 
-secured: "e6FbqWWvPUuAZGj6t3QDTrl5buNjhH/mtJsHgt9aUmg8iAQrq9jc71pgTbcol7BxhIYLmUcJ0T5nKhRPFZOh84Lk0f8+CUkYRLVyVIz6GsMGsi+qxcoeEN89jUpMA6uR9LRXz//bpj80dBCc985u8QzOqtMpxtg9SI8lYPNv+JCNsaf30rLMan4AR3TvtdSXdI9FI0W+qso7IWgh3b1aTW+CVeri0qXYeZQWxKa/POHn/02Pv/8WL3n4dyHt6hnQO65kzf4oeeu6nUNsjbvaeAx+NpSUdrDO8CQJOhDcmS0QWQHhvL0jzImMtqUSmf2G8DdIx8beEkI+jmek7DIaEzGSLAObYcW1IIJdtw1IL3Y=;cF2yd4nge6vGPbYYw30m2Q=="
+secured: "cO9YdL5wPGYXPoV+J1d7IdsDe9uQyNSLduTN0FkoXPLfXKLeADooeT/AUHJ4di+pgSYy9y8WL1kR5oGyZIQuPve4t+oyk4vbZHfCGggE45RG93fWtpMkpKK2T5+qMD9F2jhM+6ZTCAwBx9zjnqyB5mL38JxgJTo8j9Y0vrz98chgLpE+/S2/oFrgQv5oAkPr3ICVSiWp2YgWHkzOJ/W6GPCiTwLpuut7EnLsGdn8A7bIN3ziI/Qd5C60wkgxTXcpP1EMUPNoRKqOvY/Ta1AEmOYgfKrA4Cl4MuqNg4iAREuN3bJuo5sVuLVAs62gE4tBy4F3MknbusmBRv0r8Z64+37sDsSN84CqylXqzuXGoLsMEOpNOj8JpcaMZMvs79FOH4+n/82u0Cy0QP/yYU5PHFVTuQAoS0mfHsfxA2Z+KekasnqXtCMCOxUrfyIevndIDJ+62SvrTz5fP/kcOiLOGEZRILyKpJeag/C0DXhLe7vm9l2849LbkRMpAp/yHRa/NoU+f4BIad7+Sux6TTVkmw==;8DcVornSeM2CYdw4x/Gt0w=="
 ---
 

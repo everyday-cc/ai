@@ -53,7 +53,7 @@ related:
     provider:
       name: TechHQ
       domain: techhq.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://cdn.techhq.com/wp-content/uploads/2022/01/DSC4385-375x210.jpg"
         width: 375

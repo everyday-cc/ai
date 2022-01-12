@@ -54,6 +54,22 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Variable Speed Limits Are Aiming To Help, But Can Confuse Human Drivers And Yet Are Easy-Peasy For AI Self-Driving Cars"
+    excerpt: "Variable speed limits (VSL) continue to be experimented with and at times are confusing to human drivers, meanwhile self-driving cars will readily accommodate VSL."
+    publishedDateTime: 2022-01-12T15:30:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 65
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6078a05fc12d1be6202022c7%2F0x0.jpg%3FcropX1%3D143%26cropX2%3D2523%26cropY1%3D387%26cropY2%3D1502"
+        width: 1200
+        height: 562
+        isCached: true
   - title: "Robot trucks get US tests, raising self-driving safety stakes"
     excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
     publishedDateTime: 2022-01-10T01:04:00Z
@@ -81,6 +97,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBygXLUj_8n4/v0/1200x801.jpg"
         width: 1200
         height: 801
+        isCached: true
+  - title: "The consequences of self-driving tractors and upcoming AI laws are discussed in this week’s AI Weekly"
+    excerpt: "It and – self-driving tractors like it — might help solve the developing labour shortage in agriculture, as Wired’s Will Knight points out; employment of farm employees is anticipated to expand by just 1% from 2019 to 2029."
+    publishedDateTime: 2022-01-08T09:20:00Z
+    webUrl: "https://bestgamingpro.com/the-consequences-of-self-driving-tractors-and-upcoming-ai-laws-are-discussed-in-this-weeks-ai-weekly/"
+    type: article
+    provider:
+      name: bestgamingpro
+      domain: bestgamingpro.com
+    quality: 24
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/AI-Weekly-The-implications-of-self-driving-tractors-and-coming-AI-regulations.png"
+        width: 600
+        height: 375
         isCached: true
 
 secured: "YN0WBdYZCfwIKeZj6F9s9oVTXQY8HVO2KVBS5wBpeIo78WgWRffNQnmjIIZJxN9YLW0vDE9RQ1afcbkQFYCu5OxVB4t9r2f7Lfa0DuJ7pNgcpEg6qCiEWqd68UbRNGPGsWEVRR+U1usaKfjpk58Tt7Xbp2QWD0WMzBCwTLsRIrzeU4xm7Ixjltb/sfeHDKh0u8Yrj7kqV27bZtSXQ4cPnvM7eFHtNCBfzBgK2MMGKhgMe3QoO7o8N79tV4XRz1352A1LOWGpJaWuEhvCQaezN3xi6irL3roE9AmMR7oDwPurcdtGfKDjiAfcv8HUf5mVgLa9YF/eEvfKbY9PlyFYIVZw3hRoFYAMsrW+0Gx6/IQ=;4k9Cv+ckUCB5bXrhd2WMmw=="

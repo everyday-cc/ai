@@ -49,6 +49,20 @@ related:
         width: 847
         height: 440
         isCached: true
+  - title: "AI the brains driving broad transformation"
+    excerpt: "AI has become a core driving force for the new round of technological and industrial revolution in China, bringing tremendous changes to the country’s development and people’s lives in many fields, including healthcare,"
+    publishedDateTime: 2022-01-11T10:20:00Z
+    webUrl: "https://www.independent.co.uk/asia/china/china-daily/ai-brains-driving-broad-transformation-b1988601.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2022/01/07/10/AI.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 813
+        isCached: true
 
 secured: "YRPny1MRnDAWeI+FDAVQL/ZY3HiSv9wFhYGjP5eHQGgYXy+3FMvQWQ5UUCFogxG38KoeX1AQkyLTNGXiCa7zCnnk51U37mLQJGD9e8N9kQU0//jukIK5QuLcUhvDSOM71wwNyJtqa05Lz/3MU8PTBqO5b6X9BiItzx31UxFseh2LyQg9HVDauOQOnrrSzqJR3TQ+fneBlDmqMUYcdvuw3RKyRl0OOdFhUYW5ePZPMteYBQi7KCwqYPTkCBAtxpl64sa8jeF7ZnIB7DecXyk/UnC96zntWJs6wKl3oC6qOxJhMhGgr3wBu2vtqTNfsclke6/RKOFtk2jWdtSWgj6YLuBdzpKPZqK9ZAaSXFmyG98=;UBIc36GdV/ebAZkA3DKXOA=="
 ---
