@@ -386,7 +386,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 439,
       "tags": null,
       "images": [
         {
@@ -571,17 +571,17 @@
     {
       "path": "_news/2022-01-07-volvo-takes-on-tesla-as-it-becomes-first-car-maker-to-trial-self-driving-car-with-no-one-behind-the-wheel.md",
       "title": "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel",
-      "excerpt": "The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on California ... road safety tech firm Zenseact and artificial intelligence whizzes at Luminar to build Ride ...",
+      "excerpt": "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on",
       "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/",
-      "originalUrl": "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/",
+      "webUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/",
+      "originalUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1",
+          "url": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1",
           "width": 1500,
           "height": 1000,
           "title": null,
@@ -591,13 +591,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/",
-      "publishedDateTime": "2022-01-07T06:29:00-08:00",
+      "ampWebUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/",
+      "cdnAmpWebUrl": "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/",
+      "publishedDateTime": "2022-01-07T05:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
+        "name": "The Scottish Sun",
+        "domain": "thescottishsun.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -999,25 +999,34 @@
     },
     {
       "path": "_news/2022-01-06-mobileyes-self-driving-secret-200pb-of-data.md",
-      "title": "Mobileye's Self-Driving Secret? 200PB of Data",
-      "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
+      "title": "Mobileye’s Self-Driving Secret? 200PB of Data",
+      "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm",
+      "webUrl": "https://www.eagletribune.com/region/mobileye-s-self-driving-secret-200pb-of-data/article_f340e20f-0da0-5d51-b44d-11881a6d633a.html",
+      "originalUrl": "https://www.eagletribune.com/region/mobileye-s-self-driving-secret-200pb-of-data/article_f340e20f-0da0-5d51-b44d-11881a6d633a.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/01/701faee6-abfe-56cd-bff2-38269434cd20/61d60355dc27f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T12:38:00-08:00",
+      "publishedDateTime": "2022-01-05T11:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null

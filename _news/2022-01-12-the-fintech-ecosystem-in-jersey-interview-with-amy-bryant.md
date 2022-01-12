@@ -26,18 +26,34 @@ images:
 
 related:
   - title: "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry"
-    excerpt: "ROBO INU FINANCE aims to create an open ecosystem where anyone, from anywhere, can gain financial freedom by using the Fintech built that is said"
-    publishedDateTime: 2022-01-12T05:42:00Z
-    webUrl: "https://menafn.com/1103524787/Robo-Inu-Finance-Aims-to-Create-a-New-Era-of-Payment-Methods-Using-the-Fintech-Industry"
+    excerpt: "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry."
+    publishedDateTime: 2022-01-12T06:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25011004"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 46
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
     images:
-      - url: "https://menafn.com/updates/pr/2022-01/12/M_40e3b767-b_Image_In_Body.jpg"
+      - url: "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg"
         width: 500
         height: 236
+        isCached: true
+  - title: "FinTech and the New Consumer Market"
+    excerpt: "FinTech and the New Consumer Market  - Fintech innovations such as the Internet of Things, artificial intelligence, blockchain, and cloud computing are"
+    publishedDateTime: 2022-01-10T11:16:00Z
+    webUrl: "https://www.cioreview.com/news/fintech-and-the-new-consumer-market-nid-34827-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/skvkm.fintech.jpg"
+        width: 300
+        height: 350
         isCached: true
   - title: "Top 5 Innovation Trends That Are Changing the FinTech Industry"
     excerpt: "Top 5 Innovation Trends That Are Changing the FinTech Industry The FinTech industry has skyrocketed over the past few years, disrupting the financial services ecosystem. The pace of change is increasing at an exponential rate,"
@@ -53,15 +69,6 @@ related:
         width: 602
         height: 403
         isCached: true
-  - title: "Tenet Fintech Group Inc.: Tenet CEO to Provide Business Update and Address Recent Stock Performance in Q&A Interview"
-    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the"
-    publishedDateTime: 2022-01-07T18:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54922290-tenet-fintech-group-inc-tenet-ceo-to-provide-business-update-and-address-recent-stock-performance-in-q-a-interview-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "yQBd5d/op9GR34t+OYzybo6pdHqB8Bwz3ZArVsu+LMB4A6b0rWrtQyHnlGHoRY7fBOcWEac1OYKHn5dWr/zLLltNSeMAmjjX9GCp2JC38J1+I6V0ie01DFhxN0x9NfN2ZHxKCn4pFHI1RNTYvRw1EjnseZAx3Q2kd1W6t8U2joNp/pe1phBkgwjujkG6UC+AdSkqWIIwOPEYtQcLyGJiLBBgpktBZfA/8VJXwjK0Ly1xFjgxDibJ2LJxqvr4UqzaZJnSrJize15WlbrttMqt0akUN3BCvGxUmuBeRNCrk90hQ/baoHsWGzCzSK01Hacy3qXiLNlkd6t45FdWbneuykld7ZW90YYbjglQMXGWzHo=;mDn/Df5eHv0WkSUJ8GwXOQ=="
 ---

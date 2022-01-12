@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speec
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/amp/"
 type: article
 quality: 108
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta AI builds speech recognition platform that uses visual cues to filter out background noise"
-    excerpt: "Meta AI builds speech recognition platform that uses visual cues to filter out background noise - SiliconANGLE"
-    publishedDateTime: 2022-01-07T17:04:00Z
-    webUrl: "https://siliconangle.com/2022/01/07/meta-ai-built-speech-recognition-platform-relies-visual-cues-filter-background-noise/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/AV-HuBERT.png"
-        width: 963
-        height: 501
-        isCached: true
   - title: "Facial emotion recognition may improve automatic speech translation"
     excerpt: "Meta AI recently published a new framework (AV-HuBERT) to improve automatic speech recognition thanks to lips monitoring, de facto combining Speech with Vision, two of the traditional areas of Artificial Intelligence."
     publishedDateTime: 2022-01-09T10:54:00Z

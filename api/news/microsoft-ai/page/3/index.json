@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-11-exclusive-microsofts-16-billion-nuance-bid-set-for-eu-antitrust-approval-sources.md",
+      "title": "Exclusive-Microsoft's $16 billion Nuance bid set for EU antitrust approval -sources",
+      "excerpt": "A Microsoft logo is seen in Los Angeles, California U.S. November 7, 2017. REUTERS/Lucy Nicholson/File Photo/File Photo",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/exclusive-eu-regulators-set-okay-16-bln-microsoft-nuance-deal-sources-say-2021-12-10/",
+      "originalUrl": "https://www.reuters.com/news/picture/exclusive-microsofts-16-billion-nuance-b-idUSKBN2IP0UR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/S6ULVEOZDVLILIHGLNYJ5EPUEE.jpg",
+          "width": 4657,
+          "height": 3105,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T08:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-microsoft-and-esri-deliver-centralized-satellite-image-analysis-in-azure-orbital.md",
       "title": "Microsoft and Esri deliver centralized satellite image analysis in Azure Orbital",
       "excerpt": "To satisfy the growing demand for this data, Microsoft has teamed with Esri, the global leader in location intelligence, to rapidly analyze imagery data captured by satellite providers in space orbit.",
@@ -1301,58 +1353,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model.md",
-      "title": "Google uses MLPerf competition to showcase performance on gigantic version of BERT language model",
-      "excerpt": "Google said training large models is a \"huge focus\" for the company, and ought to get more attention in the benchmark results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/",
-      "originalUrl": "https://www.zdnet.com/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/547e402c837aacf5da42103d55a79a7cc87ae178/2021/12/01/7a51176a-d83a-45d9-8872-b2ee491d8554/google-tpuv4-data-center.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-mlperf-competition-to-showcase-performance-on-gigantic-version-of-bert-language-model/",
-      "publishedDateTime": "2021-12-01T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

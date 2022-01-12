@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-12-aiml-at-scale-the-next-horizon-for-ppgs-data-strategy.md",
+      "title": "AI/ML at scale: The next horizon for PPG’s data strategy",
+      "excerpt": "At PPG, data is key not only to IT strategy, but to enabling business strategy, says Jeff Lipniskis, global IT director. With a solid foundation in place, his focus now is on being AI ready.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
+      "originalUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/01/horizon_transformation_change_future_hope_bright-100746109-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
+      "publishedDateTime": "2022-01-12T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-surface-navy-2022-tactical-focus-driving-ai-development.md",
       "title": "Surface Navy 2022: Tactical focus driving AI development",
       "excerpt": "US Navy (USN) leaders are looking to leverage advanced technological capabilities in artificial intelligence (AI) and machine learning (ML) in the tactical",
@@ -41,6 +85,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry.md",
+      "title": "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry",
+      "excerpt": "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg",
+          "width": 500,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25011004",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004",
+      "publishedDateTime": "2022-01-11T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -1148,91 +1235,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond.md",
-      "title": "Khris Digital Marketing Offers Unique Insight on the Future of AI Copywriting in 2022 and Beyond",
-      "excerpt": "With 2021 squarely in the rearview, digital marketing thought leader Khris Steven of Khris Digital Marketing is breaking down what the future of AI copywriting tools and",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/ab24985849/khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/ab24985849/khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/a9a239dd6e54d62f1111d3ee578b6c18.jpg",
-          "width": 600,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24985849",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24985849",
-      "publishedDateTime": "2022-01-10T14:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-lg-electronics-joins-ibm-quantum-network-to-research-ai-iot-and-more.md",
-      "title": "LG Electronics joins IBM Quantum Network to research AI, IoT, and more",
-      "excerpt": "The two companies plan to spend the next three years exploring applications of quantum computing to support connected cars, digital transformation, and robotics applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "originalUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "publishedDateTime": "2022-01-10T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

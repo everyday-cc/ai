@@ -1,27 +1,29 @@
 ---
 category: news
 title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
-excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
-publishedDateTime: 2022-01-11T09:55:00Z
-originalUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
-webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
+excerpt: "Indian Institute of Technology Guwahati (IITG) and Times Professional Learning (TPL), under its brand The Second Wind (TimesTSW), have launched the Post Graduate Certificate Programme in Cybersecurity"
+publishedDateTime: 2022-01-11T11:50:00Z
+originalUrl: "https://indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
+webUrl: "https://indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
+ampWebUrl: "https://indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
+cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
 type: article
-quality: 21
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: India Education Diary
+  domain: indiaeducationdiary.in
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-    width: 1069
-    height: 580
+  - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/IIT-Guwahati-main-gate.jpeg"
+    width: 279
+    height: 210
     isCached: true
 
 related:
@@ -102,6 +104,6 @@ related:
         height: 270
         isCached: true
 
-secured: "r7vDCVoF/exP83SSHe7DgTwM8r4RHjwWqxsTP7bHFIOEDCkQZkjeN2TVVq9soA88UVxP0QxfaNBd+XmSsE4nOQrhd6fPJdo4EtgMfpb3mt/VI7sLj15VtS7tUUtKdA5Ic7ZMAfHxX/dNOfhPoGyJdrQDJQXzqln/sEb4TNIVRHGCa+gb6dl/oVCB4wNDmNgy63Qs+KkxOYMkv5/7PTZbxP3EEDDyseq1z2jT8VWZQppRM57DHfNWnaq0DBomdwBcpkBeE+46LChDA86W+UPPYRbqys+HlX/4xyMWljOpmmp9sxvfsluSyGqr1PBpDjEs+wpe5hvj7PjWTy93gIPx0ctv7jCOodNhTuHebMW6bXU=;iFwfL6QkyJs12oc4nMLpkA=="
+secured: "aO4/7jf4l65bdNgymn6+RwFlgorMejWIkTBHDGAouuzUf1RRJEAZTlDoeKEUoYbxhD0Ch/SFK9rPeCFcJV3nW+ZFhi4+DMO52Y4hM2FdqHl5i/gyqy1G9w+IDkzCe6Dy6BFNj8/PkD7dEt0uWQe2EMlCbBsD7ZNfVUUjFMB7A3n2x2G9cLhtMkAyycoAthD+ULbGwb5vwsE8IvE3ZfiJsLuNWoATjXVLI88Lvz664ErrwMk/8+YF0XfcTP+6MOmCJ56GoWACOPA3Z/eK2Rs7kTE+nPtaU6Jtupla0umEVn4leEKjkHawuD+zTEwDc1DjgbhabQCOEmqXtiVH8ZkGiKNUdXg6xP08NFoKnKI5EhA=;qcSXPM+Zwo9DW51XOUIgFA=="
 ---
 

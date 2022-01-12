@@ -9,8 +9,8 @@ ampWebUrl: "https://m.jpost.com/special-content/can-voice-ai-apps-become-the-rel
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future-692089/amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Jerusalem Post Blogs
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "What will be the Language of our Digital Future?"
+    excerpt: "The Internet is built-in English, it started with it and continues with it. Digitalization is a big part of our lives, especially when the world is in the"
+    publishedDateTime: 2022-01-12T06:10:00Z
+    webUrl: "https://www.englishforums.com/blog/what-will-be-the-language-of-our-digital-future/"
+    ampWebUrl: "https://www.englishforums.com/blog/what-will-be-the-language-of-our-digital-future/amp/"
+    cdnAmpWebUrl: "https://www-englishforums-com.cdn.ampproject.org/c/s/www.englishforums.com/blog/what-will-be-the-language-of-our-digital-future/amp/"
+    type: article
+    provider:
+      name: englishforums.com
+      domain: englishforums.com
+    quality: 44
+    images:
+      - url: "https://www.englishforums.com/blog/wp-content/uploads/2022/01/business-gcfc974dd4_1920.jpg"
+        width: 1920
+        height: 1075
+        isCached: true
   - title: "Why is AI so important in the future?"
     excerpt: "The world is moving faster than ever before and it seems like everyone wants to be part of it. So, what if I tell you that it is not the present that matters, it is the future that matters? Yes, that’s right."
     publishedDateTime: 2022-01-11T05:02:00Z
@@ -40,6 +56,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGm7zM-bKTmEA/article-cover_image-shrink_720_1280/0/1641877007415?e=1647475200&v=beta&t=YMRS27O0e_98owFQMQyhFa8UbvjivpR3qfPr9xY8nPk"
         width: 948
         height: 720
+        isCached: true
+  - title: "Can AI imagine the next victims of police violence? Future Wake explores injustice through code"
+    excerpt: "What are the issues with using AI for predictive policing? Could it reduce crime or does it reinforce racial biases in the criminal justice system? The co-founder of artist project Future Wake examines unjust policing using AI and storytelling."
+    publishedDateTime: 2022-01-12T10:36:00Z
+    webUrl: "https://www.itsnicethat.com/articles/future-wake-can-ai-imagine-police-violence-digital-opinion-120122"
+    type: article
+    provider:
+      name: It’s Nice That
+      domain: itsnicethat.com
+    quality: 25
+    images:
+      - url: "https://admin.itsnicethat.com/images/hY-up2FZnvPDgis6DzYbEaUym3U=/219974/width-1440%7Cformat-jpeg/future-wake-opinion-itsnicethat-2.png"
+        width: 1440
+        height: 487
         isCached: true
 
 secured: "P/bIsVH26C3qhc5gNMI+TJps+R7AuXtD2AFQOgkkVbQct/bVG1uqYhcgI72gDcH8RTCqIcKRt1m3ngsEiYgQhmQeaLs5aZ6NXQnkT5Sev4vc3kGVqJKL+L2PWmjqTwIYEMNSz1ocWxl5NBenXGIe8AdOig/JXC5Q19GblzvodZAY+JcPTVpAZ/uqinHRZoDPYsa8TtjkLIFBLdHM6ErExVDwcoQgWg7ccY3Hv6Pa2d8C36VS+bIJ7vbg7VmtkOgHU2AqDHktKCOPE/zwsgCsbaIky96AkFpop7kzpJroX8GYZWbUgZ8tU2x7ROY1Mdh8U8zezNwTS1+I9JlD07XdIyCIocmpvXOOMPnRXYXOB0E=;m03pCUOqGK/9Ez2a/DMBQA=="

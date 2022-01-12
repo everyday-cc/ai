@@ -2,6 +2,135 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-07-aiml-machine-learning-students-develop-beer-using-ai.md",
+      "title": "AIML machine learning students develop beer using AI",
+      "excerpt": "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
+      "originalUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Food Magazine",
+        "domain": "foodmag.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
+      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-ai-could-revolutionize-healthcare-but-can-we-trust-it.md",
+      "title": "AI Could Revolutionize Healthcare. But Can We Trust It?",
+      "excerpt": "At CES 2022, A panel of AI experts discussed what role AI might play in the future of healthcare. In a session titled \"Consumer Safety Driven by AI,\" Pat Baird, an AI engineer and software developer who works in standards and regulations for Phillips,",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "originalUrl": "https://interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/bM6A39gRO7/sizes/alex-knight-2ejcsulrwc8-unsplash_resize_md.jpg",
+          "width": 744,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-could-revolutionize-healthcare-but-can-we-trust-it",
+      "publishedDateTime": "2022-01-06T13:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-ust-launches-ai-solution-for-hyperpersonalized-wine-beer-and-food-shopping.md",
       "title": "UST Launches AI Solution for Hyperpersonalized Wine, Beer and Food Shopping",
       "excerpt": "Digital transformation solutions company UST, has officially launched UST AiSense, which provides personalized food and beverage recommendations using sensory science. The deployable digital technology AI-led solution powered by Tastry,",
@@ -1037,151 +1166,6 @@
         "AI",
         "AI Ethics",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ai-startup-fractal-enters-unicorn-club.md",
-      "title": "AI startup Fractal enters Unicorn club",
-      "excerpt": "DeepTech startup Fractal enters the unicorn club after raising $360 million from global asset firm TPG. Post the latest financing round Fractal has been valued at $1 Billion stated",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/",
-      "originalUrl": "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg",
-          "width": 850,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/",
-      "publishedDateTime": "2022-01-05T21:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg.md",
-      "title": "AI Startup Fractal Joins Unicorn Club After $360 Million Investment From TPG",
-      "excerpt": "AI startup Fractal, which is based in Mumbai and New York, has received a $360 million investment from private equity giant TPG's Asia investment arm, valuing the company at over $1 billion and becoming the latest startup from India to achieve unicorn status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/",
-      "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d67ba2000e8e2814f3d174%2F0x0.jpg",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/",
-      "publishedDateTime": "2022-01-05T20:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ethical-ai-ai-with-morality.md",
-      "title": "Ethical AI: AI with Morality",
-      "excerpt": "As soon as the term Artificial Intelligence comes into a discussion somewhere in the corners of the mind there arrives a scenario much like the movie ‘Terminator’. But relax our current discussion will not be about whether machines will take control over humans or not until and unless we want so.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma",
-      "originalUrl": "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHY6r9n5imA2g/article-cover_image-shrink_720_1280/0/1641443202337?e=1646870400&v=beta&t=eQEdERReKBwO5eSxvvr9kvs2_LzNHeI1HRICvOdRF24",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

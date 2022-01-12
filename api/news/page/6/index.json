@@ -2,6 +2,151 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-06-ai-startup-fractal-enters-unicorn-club.md",
+      "title": "AI startup Fractal enters Unicorn club",
+      "excerpt": "DeepTech startup Fractal enters the unicorn club after raising $360 million from global asset firm TPG. Post the latest financing round Fractal has been valued at $1 Billion stated",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/",
+      "originalUrl": "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2021/03/funding.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-startup-fractal-enters-unicorn-club/amp/",
+      "publishedDateTime": "2022-01-05T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg.md",
+      "title": "AI Startup Fractal Joins Unicorn Club After $360 Million Investment From TPG",
+      "excerpt": "AI startup Fractal, which is based in Mumbai and New York, has received a $360 million investment from private equity giant TPG's Asia investment arm, valuing the company at over $1 billion and becoming the latest startup from India to achieve unicorn status.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/",
+      "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d67ba2000e8e2814f3d174%2F0x0.jpg",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/06/ai-startup-fractal-joins-unicorn-club-after-360-million-investment-from-tpg/amp/",
+      "publishedDateTime": "2022-01-05T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-ethical-ai-ai-with-morality.md",
+      "title": "Ethical AI: AI with Morality",
+      "excerpt": "As soon as the term Artificial Intelligence comes into a discussion somewhere in the corners of the mind there arrives a scenario much like the movie ‘Terminator’. But relax our current discussion will not be about whether machines will take control over humans or not until and unless we want so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma",
+      "originalUrl": "https://www.linkedin.com/pulse/ethical-ai-morality-utkarsh-sharma",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQHY6r9n5imA2g/article-cover_image-shrink_720_1280/0/1641443202337?e=1646870400&v=beta&t=eQEdERReKBwO5eSxvvr9kvs2_LzNHeI1HRICvOdRF24",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T20:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
       "title": "Robot tractors may be heading to a farm near you",
       "excerpt": "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ...",
@@ -729,40 +874,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-06-mobileyes-self-driving-secret-200pb-of-data.md",
-      "title": "Mobileye's Self-Driving Secret? 200PB of Data",
-      "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-06-ecovacs-new-deebot-x1-cleans-your-home-and-itself.md",
       "title": "Ecovacs’ new Deebot X1 cleans your home and itself",
       "excerpt": "Well-known robot vacuum maker Ecovacs has revealed its newest robot floor cleaner as part of CES 2022: The Ecovacs Deebot X1, and this one is a pretty significant upgrade, with useful new tech. By now we’re all familiar with robot vacuums and mops,",
@@ -920,6 +1031,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-06-mobileyes-self-driving-secret-200pb-of-data.md",
+      "title": "Mobileye’s Self-Driving Secret? 200PB of Data",
+      "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/mobileye-s-self-driving-secret-200pb-of-data/article_f340e20f-0da0-5d51-b44d-11881a6d633a.html",
+      "originalUrl": "https://www.eagletribune.com/region/mobileye-s-self-driving-secret-200pb-of-data/article_f340e20f-0da0-5d51-b44d-11881a6d633a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/01/701faee6-abfe-56cd-bff2-38269434cd20/61d60355dc27f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-telanganas-facial-recognition-technology-comes-under-scanner.md",
       "title": "Telangana’s facial recognition technology comes under scanner",
       "excerpt": "A division bench of the state high court issued a notice to the state government and the Hyderabad city police commissioner, seeking an explanation over the propriety of the usage of technology and whether it infringes on one’s privacy while being in public places.",
@@ -1044,153 +1198,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses.md",
-      "title": "Qualcomm and Microsoft collaborate on custom chips for AR glasses",
-      "excerpt": "Qualcomm announced its intentions to integrate software platforms with Microsoft at Tuesday's CES 2022 keynote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "originalUrl": "https://www.techrepublic.com/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/05/d15a4544-a48e-4c75-b83d-46c610541963/resize/1200x/3c064522004e0f70855c4f2157fd60fe/ar-glasses.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses-ces-2022/",
-      "publishedDateTime": "2022-01-05T09:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-global-legal-software-market-report-2021-with-focus-on-machine-learning-researchandmarketscom.md",
-      "title": "Global Legal Software Market Report 2021 with Focus on Machine Learning - ResearchAndMarkets.com",
-      "excerpt": "Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global legal software (focus on machine learning) market is expected to grow from $0.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-software-microsoft-corp-3eef4ecf3cb44b9786a7a855cd53ff46",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-software-microsoft-corp-3eef4ecf3cb44b9786a7a855cd53ff46",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T09:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma.md",
-      "title": "CES 2022: Bosch tests deep audio AI developed on the ISS to detect asthma",
-      "excerpt": "Doctors will use a high-resolution microphone to record children as they speak and breathe to look for breathing problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/",
-      "originalUrl": "https://www.techrepublic.com/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/05/71827816-518b-472c-af88-edd717df8b36/resize/1200x/a155db81a2a1570f394412fb32f2f529/370a4810.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2022-bosch-tests-deep-audio-ai-developed-on-the-iss-to-detect-asthma/",
-      "publishedDateTime": "2022-01-05T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

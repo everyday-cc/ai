@@ -44,6 +44,36 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "What will be the Language of our Digital Future?"
+    excerpt: "The Internet is built-in English, it started with it and continues with it. Digitalization is a big part of our lives, especially when the world is in the"
+    publishedDateTime: 2022-01-12T06:10:00Z
+    webUrl: "https://www.englishforums.com/blog/what-will-be-the-language-of-our-digital-future/"
+    ampWebUrl: "https://www.englishforums.com/blog/what-will-be-the-language-of-our-digital-future/amp/"
+    cdnAmpWebUrl: "https://www-englishforums-com.cdn.ampproject.org/c/s/www.englishforums.com/blog/what-will-be-the-language-of-our-digital-future/amp/"
+    type: article
+    provider:
+      name: englishforums.com
+      domain: englishforums.com
+    quality: 44
+    images:
+      - url: "https://www.englishforums.com/blog/wp-content/uploads/2022/01/business-gcfc974dd4_1920.jpg"
+        width: 1920
+        height: 1075
+        isCached: true
+  - title: "Can AI imagine the next victims of police violence? Future Wake explores injustice through code"
+    excerpt: "What are the issues with using AI for predictive policing? Could it reduce crime or does it reinforce racial biases in the criminal justice system? The co-founder of artist project Future Wake examines unjust policing using AI and storytelling."
+    publishedDateTime: 2022-01-12T10:36:00Z
+    webUrl: "https://www.itsnicethat.com/articles/future-wake-can-ai-imagine-police-violence-digital-opinion-120122"
+    type: article
+    provider:
+      name: It’s Nice That
+      domain: itsnicethat.com
+    quality: 25
+    images:
+      - url: "https://admin.itsnicethat.com/images/hY-up2FZnvPDgis6DzYbEaUym3U=/219974/width-1440%7Cformat-jpeg/future-wake-opinion-itsnicethat-2.png"
+        width: 1440
+        height: 487
+        isCached: true
 
 secured: "Rr7hSLdwYs25yKGXz9tAsa7WtYFgWVy/ZrRcE0fextfANqn9ziwWQsNLA4AUp4XtJ8DtxY1Mu6CsJEhmMycu7ZI6C9TDy8vBh6Ycq9GxjgvB4Uh/mvjpy11kxAYYdYdYm7tthX196IHY7VO1PzPR5Q9jLh81RTuQ1AHjhjk7QqmbcIlXiZaMqPtecXSz3GGBaFcF2tnpivGK7/q2xCW9+S+3OpempYQwTL9qv12kXbMAqv01gJceEy3D4cSYDlF9Al8gGNEfz9LmbPXiVtx64QtdHzfk6pzd2eHxRSWK1r2TWd3dzcqhXh9CNAa/95JJjaJdNEz/b5XKz/WdLWYkqTwkDjLB1tSBv2vYStr4NW4=;W+wLZDW0lEYlbL2lkfxhsw=="
 ---

@@ -1,30 +1,46 @@
 ---
 category: news
 title: "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry"
-excerpt: "ROBO INU FINANCE aims to create an open ecosystem where anyone, from anywhere, can gain financial freedom by using the Fintech built that is said"
-publishedDateTime: 2022-01-12T05:42:00Z
-originalUrl: "https://menafn.com/1103524787/Robo-Inu-Finance-Aims-to-Create-a-New-Era-of-Payment-Methods-Using-the-Fintech-Industry"
-webUrl: "https://menafn.com/1103524787/Robo-Inu-Finance-Aims-to-Create-a-New-Era-of-Payment-Methods-Using-the-Fintech-Industry"
+excerpt: "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry."
+publishedDateTime: 2022-01-12T06:29:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry"
+ampWebUrl: "https://www.benzinga.com/amp/content/25011004"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004"
 type: article
-quality: 46
-heat: 46
-published: false
+quality: 66
+heat: 96
+published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-01/12/M_40e3b767-b_Image_In_Body.jpg"
+  - url: "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg"
     width: 500
     height: 236
     isCached: true
 
 related:
+  - title: "FinTech and the New Consumer Market"
+    excerpt: "FinTech and the New Consumer Market  - Fintech innovations such as the Internet of Things, artificial intelligence, blockchain, and cloud computing are"
+    publishedDateTime: 2022-01-10T11:16:00Z
+    webUrl: "https://www.cioreview.com/news/fintech-and-the-new-consumer-market-nid-34827-cid-189.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 24
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/skvkm.fintech.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Top 5 Innovation Trends That Are Changing the FinTech Industry"
     excerpt: "Top 5 Innovation Trends That Are Changing the FinTech Industry The FinTech industry has skyrocketed over the past few years, disrupting the financial services ecosystem. The pace of change is increasing at an exponential rate,"
     publishedDateTime: 2022-01-10T13:20:00Z
@@ -53,16 +69,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tenet Fintech Group Inc.: Tenet CEO to Provide Business Update and Address Recent Stock Performance in Q&A Interview"
-    excerpt: "Tenet Fintech Group Inc. (CSE: PKK) (OTC Pink: PKKFF) (\"Tenet\" or the \"Company\"), an innovative Fintech and AI service provider and manager of the"
-    publishedDateTime: 2022-01-07T18:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54922290-tenet-fintech-group-inc-tenet-ceo-to-provide-business-update-and-address-recent-stock-performance-in-q-a-interview-296.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
-secured: "MTb9wMUd2rkZ4IWXQRLiQQ7LW8gwEuo1XTKhQfwZW56cwyG3JKJF3+SjFZ6g+voyQBUNPZJ0vnAEpd4zY+3i6WbuGA8HWccQ7ARgf2qEXU9mGhVj4M8yZ6HKfAvfgyotcjaH4Un0ijOlTV3z9NPNjfZhsjCHedNmyxR6V0ZQtVu6nRvfNjXN8lGQOl/NXYQfQA8f3zDEX0+A+vjASl47TJ5A8Jv/VxlutkEL52oi4Gn94RlVYnV91BRW2Bbc94CntcmWflQSdQhPs8U+5Qu2o/6V1oGIdFvqVudxAfKKqi17tDt2x6tBA/dYpTWnf2f/Xv1EXZTThocP5XlXRrs6bt6yrvgT8YFssgzbN2FjKM4=;Ph/qNn+uY/fW7hKvDDCG6Q=="
+secured: "2YjuEAiggL3DlIKjp/EzlW72PVnrjuMYfIzpOU3MzQZZn4QktsmZfxCxCRmXrA5Ru9xc7m0eXvZi7ncvJ4PpJ2qeevdzdqFjqZRqBfj2NJNrZYJF/FQXMttEbufxkRUyOgbkvvtLchnEAYkRS73F4Wl2d5jUi0umQeTgwPZcx81Yn7bCkahsDYN/L6ckV3HIhDCH18J9tuPN3vrIYNdWynZZ72zj38hhZRYlFEeCvjvK4x8CyBWIAjwgLffXt4pmM0nHGcLnWF55uo7mNl17pzr0BoUcJWsA1b4sA2Ojhfh+gGlYMgUQpx+mISI/rixsRKPcLHbkKZlUxR8UBF/SV5e6TBGU77cHv3F9jZfqwPQ=;ZtHmW+4rGqH5uf8g8SnerA=="
 ---
 

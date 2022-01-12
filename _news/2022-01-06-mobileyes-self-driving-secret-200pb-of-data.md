@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Mobileye's Self-Driving Secret? 200PB of Data"
-excerpt: "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
-publishedDateTime: 2022-01-05T20:38:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm"
+title: "Mobileye’s Self-Driving Secret? 200PB of Data"
+excerpt: "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,"
+publishedDateTime: 2022-01-05T19:36:00Z
+originalUrl: "https://www.eagletribune.com/region/mobileye-s-self-driving-secret-200pb-of-data/article_f340e20f-0da0-5d51-b44d-11881a6d633a.html"
+webUrl: "https://www.eagletribune.com/region/mobileye-s-self-driving-secret-200pb-of-data/article_f340e20f-0da0-5d51-b44d-11881a6d633a.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "Eek1ZLVQtOZx3B/IeR12OrrGhpuF/EGKouKdK+IApkY7TUMBKcoEcw3hlFgcG9rPfNEsU41THuXYwpJI/29cwWUWz/QZ+rat+WVeFjIaODZYVyMvHinKn7ej9yQg1a9MHclA3zwk6r/cYpdFbXwnqb51vGlP7OYe88LNw8PdYI0j8kBfRvFJ3ciW4RwRg9kZSlbF8ODmbUIE228j7+S6xQLSMX2RtZIvKWH6Y8xRM0NzBrg4qHJEoviu2Xits82BYOqoxRzdYFY9F/ikTEF45ga1OHWxntmFBGWwNVd7e/66QQUx3BsZwQe29Tbr4OrYP5BOVvVA41D3BhqwwjM/tXZ5wTtIif2KpQ/N6b3yaVk=;Cidvm2WGVcDrPlvmY2CA0g=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/01/701faee6-abfe-56cd-bff2-38269434cd20/61d60355dc27f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "csiwESMzD1p0r0gz4QnkHilAgACW8oRqTTtsbnssvg8uORyZ1XQWdP6tFmCo/EBVzBzQbnYY/b7/RssTHVT25miSdrvPj7ydOdOhEPpoc5NLehWjxv/w6fEv5w6155Uy9E2YdMCklhuB89T98Y8FajZt81acW6kwr39jKL7+75+Up4qmkP2gwbo45YhzIEdiVJ3O2kwnaUQ63Dvr6N9ASKp3s+d1IaUOSHKZrlOiWFbXzHvY2pxMphEGM/4RsZaKLnEyZuIYXsAIA7KbIDyUw+0fagtmGqwaKudYNTMtzwIjSBlOiufmzZPZGx3DUSrZRp9dTQSVfgvKWuHV46mCggWoKsi2XaNgu2LWHZnQYNo=;xQzOJsg4lglhe5Xwq0oQ2Q=="
 ---
 

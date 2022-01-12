@@ -2,6 +2,137 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-10-driverless-tractor-set-for-commercial-production-at-john-deere.md",
+      "title": "Driverless tractor set for commercial production at John Deere",
+      "excerpt": "Using six pairs of stereo cameras and advanced artificial intelligence, the tractor can navigate to ... or for Rural news daily. Driverless tractor technology has the potential to help solve a modern agricultural dilemma — how can farmers do more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258",
+      "originalUrl": "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/f487f31e61eec632773518289c8afdb1?impolicy=wcms_crop_resize&cropH=556&cropW=834&xPos=65&yPos=0&width=862&height=575",
+          "width": 834,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/100744258",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100744258",
+      "publishedDateTime": "2022-01-09T15:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-your-health-artificial-intelligence-to-help-prevent-dementia.md",
+      "title": "Your Health: Artificial intelligence to help prevent dementia?",
+      "excerpt": "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s already in the operating",
+      "sourceUrl": null,
+      "webUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/",
+      "originalUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yourerie.com/wp-content/uploads/sites/27/2022/01/Your-Health-Artificial-intelligence-to-help-prevent-dementia.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/",
+      "cdnAmpWebUrl": "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/",
+      "publishedDateTime": "2022-01-09T14:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "yourerie.com",
+        "domain": "yourerie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-artificial-intelligence-in-construction-industry-an-innovative-way-to-assist-workers.md",
+      "title": "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers",
+      "excerpt": "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training.",
+      "sourceUrl": null,
+      "webUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/",
+      "originalUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1",
+      "cdnAmpWebUrl": "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1",
+      "publishedDateTime": "2022-01-09T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Constructor",
+        "domain": "theconstructor.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-09-flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards.md",
       "title": "Flagging Down A Roaming AI Self-Driving Car Robo-Taxi Might Not Be In The Cards",
       "excerpt": "Flagging down a taxi or cab is still something done today, and the question arises whether AI-based self-driving car robo-taxis will do the same.",
@@ -772,7 +903,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 439,
       "tags": null,
       "images": [
         {
@@ -824,7 +955,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/07/meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1120,145 +1251,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round.md",
-      "title": "AI & Computer Vision platform Avatar raises $45mn in Tiger Global-led round",
-      "excerpt": "The Series B round saw co-participation from existing investor Sequoia Capital India. The financing is one of the largest fundraising rounds in the Applied 3D/AR space",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
-      "publishedDateTime": "2022-01-07T11:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
-      "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
-      "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/24947489/why-nvidia-is-needhams-top-aiml-stock-pick-for-2022",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/24947489/why-nvidia-is-needhams-top-aiml-stock-pick-for-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-gc3f7ba6fb_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24947489",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24947489",
-      "publishedDateTime": "2022-01-07T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-absci-and-deep-learnings-quest-for-the-perfect-protein.md",
-      "title": "Absci and deep learning's quest for the perfect protein",
-      "excerpt": "The company has used one giant A.I. representation of proteins to broaden the search for novel biologics, and hopes to do everything in silico someday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "originalUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2f9500d3248e27e084c1639b553b1684c9998a30/2022/01/07/d62778de-642e-4ac1-91fb-7c07b0416f00/mathew-4039.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "publishedDateTime": "2022-01-07T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

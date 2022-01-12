@@ -38,20 +38,6 @@ related:
         width: 635
         height: 400
         isCached: true
-  - title: "Sanofi partners with AI firm Exscientia to develop up to 15 new drugs"
-    excerpt: "French drugmaker Sanofi SA will partner with British AI firm Exscientia Plc to develop up to 15 drug candidates across oncology and immunology, in a deal worth up to US$5.2 billion in milestone payments,"
-    publishedDateTime: 2022-01-07T18:59:00Z
-    webUrl: "https://www.channelnewsasia.com/business/sanofi-partners-ai-firm-exscientia-develop-15-new-drugs-2420736"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 37
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--ULGSC9r3--/fl_relative%2Cg_south_east%2Cl_one-cms:core:watermark:reuters%2Cw_0.1/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/one-cms/core/2022-01-07t065402z_3_lynxmpei0605t_rtroptp_3_sanofi-results.jpg?itok=QpDT4toX"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "yLzATl/24464TwgGeYt4XSsURCLuFtbfuxkMyG6WLiEaUyvKNwuAzl5yojSr4G5lqVpabUiOuQoUVIDFOKLWNzZc5ljFUmzHvi8HlaPOBPhy95hbc5w4WPfXbCvvZ7gJJuOEaNmFQ0WS7Guu06HMs/PmBFAo4I/Z5Yqf/fDfXxPTInaSiS1oAJzmnUXvOXjZH2FQlojaWBEfLoAy9vuP2BkScRKYPgLsU6DiVISlgmqeNwbYI4HdrvIxJ0JF4nGdJoLa62QX3fQZJTCsnRTdj9UnqY4YpzuPwMX3x3iJH5IWjtikSSQok4yuk/hNOaxBfNjCtBhS/tq6HCEJiRTSkEYjFth0u86mRGuQq8Pl2PFKhopSl2MGFFb8YLXP93C8oZSTttEijUoIdW+oZJvIJWJ1s6F4c02yAYewnz830D6JbrHOZUNYFtjzNqSU0ygAvyehh0DH5kMBi3qxNHvA5vWiZRWhR74uxGP2Wl3S7eJpDV1roaVNeYkt9aT8uYEXp+wyuPEmxxsWhsvFWXktxA==;EdvvOOsDONwGAprgl0lZLw=="
 ---

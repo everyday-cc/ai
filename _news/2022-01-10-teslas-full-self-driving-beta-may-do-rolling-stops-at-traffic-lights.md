@@ -252,6 +252,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "California DMV reviewing approach to regulating Tesla's public self-driving test - report"
+    excerpt: "California is reevaluating Tesla Inc's Full Self-Driving (FSD) test program, to determine if the electric-car maker's software should fall under its motor vehicle department's autonomous vehicle regulations,"
+    publishedDateTime: 2022-01-12T08:40:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/california-dmv-reviewing-approach-regulating-teslas-public-self-driving-test-2022-01-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 60
+    images:
+      - url: "https://www.reuters.com/resizer/hqaIi_DyIttnxcgs7NH4k0nsFqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVG6QOSCRZNDTAYCWAL4Q7ANN4.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla's Elon Musk Tweets Full Self-Driving Option Price Increase"
     excerpt: "Tesla raises the price of its Full Self-Driving autopilot option from $10,000 to $12,000 beginning Jan. 17. Telsa's ( TSLA) - Get Tesla Inc Report CEO Elon Musk on Friday tweeted that the electric vehicle maker plans to raise the price of its Full Self-Driving autopilot option to $12,"
     publishedDateTime: 2022-01-09T02:54:00Z
@@ -284,6 +298,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla's Full Self-Driving programme under reevaluation in US: Report"
+    excerpt: "Tesla's Full Self-Driving test programme is being reevaluated by Californian authorities to determine if its software should fall under its motor vehicle department's autonomous vehicle regulations, the Los Angeles Times reported."
+    publishedDateTime: 2022-01-12T09:44:00Z
+    webUrl: "https://inshorts.com/en/news/teslas-full-selfdriving-programme-under-reevaluation-in-us-report-1641980679441"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/teslas-full-selfdriving-programme-under-reevaluation-in-us-report-1641980679441"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/teslas-full-selfdriving-programme-under-reevaluation-in-us-report-1641980679441"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/01_jan/12_wed/img_1641979176093_593.jpg?"
+        width: 960
+        height: 640
+        isCached: true
   - title: "Tesla’s 'Full Self-Driving' software just got a big price hike to $12,000"
     excerpt: "Tesla’s “Full Self-Driving” (FSD) software is about to get its second big price hike since it first entered beta in October 2020. What began at $8,000 quickly rose to $10,000 within days, and now it’s set to rise to $12,000 later this month."
     publishedDateTime: 2022-01-09T14:20:00Z
@@ -297,6 +327,22 @@ related:
     quality: 58
     images:
       - url: "https://cdn.mos.cms.futurecdn.net/7L55ZrcXePgR9KSs7b3vqX-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Tesla Full Self-Driving Test Being Re-Evaluated by California DMV: Report"
+    excerpt: "Tesla vehicles with the older 10.3 FSD software repeatedly provided forward collision warnings when there was no immediate danger."
+    publishedDateTime: 2022-01-12T10:47:00Z
+    webUrl: "https://gadgets.ndtv.com/transportation/news/tesla-full-self-driving-fsd-test-pilot-program-california-us-dmv-evaluate-review-2703874"
+    ampWebUrl: "https://gadgets.ndtv.com/transportation/news/tesla-full-self-driving-fsd-test-pilot-program-california-us-dmv-evaluate-review-2703874/amp"
+    cdnAmpWebUrl: "https://gadgets-ndtv-com.cdn.ampproject.org/c/s/gadgets.ndtv.com/transportation/news/tesla-full-self-driving-fsd-test-pilot-program-california-us-dmv-evaluate-review-2703874/amp"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://i.gadgets360cdn.com/large/tesla_model_3_reuters_full_1577690658134.JPG"
         width: 1200
         height: 675
         isCached: true

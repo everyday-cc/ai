@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2521406/ai-guided-diagnostics-to-drive-th
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2521406/ai-guided-diagnostics-to-drive-the-diabetic-nephropathy-market"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,19 @@ images:
     width: 618
     height: 311
     isCached: true
+
+related:
+  - title: "AI in Medical Diagnostics: Global Markets"
+    excerpt: "Reportlinker.com announces the release of the report \"AI in Medical Diagnostics: Global Markets\" -  The report also covers market projections through 2026, as well as key market players. This report discusses the AI medical diagnostics market and its various resources."
+    publishedDateTime: 2022-01-12T07:23:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25011222/ai-in-medical-diagnostics-global-markets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25011222"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011222"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "IBxtHAweOgtqALiwtox5+gq3hhG6Yq2HzXar2Sgmr8yyd6pz4HBFGiIOb2hLnwdyvFLS4BBXnu8duChjB6oe5orrBmJTVHdUOTAQxyUcW9S+siPTAjIhsatZsYks3fpTVszzBLBagIywSt1E3QkECKZu9RsK+sK/1+igD8JqBmy7SkYnkI/VluaGsEO42XvgxPWnIBTegN0lcEYNxdKubxtlzDRXSeZ5zU2L85gVIL+0lE89OPGbDdkZKC0FwdLspBAl2qgle/gFbA0in/VRXZmITnlbOKCeb15+fzL2O8h35av89XKB8BDeYRe6ymbyhiVyHbNPtusliOssbApR5gSL5t7ffYn8iVCdVm3VI+8=;XYRVVEvW8YVPFEqV5DpEsA=="
 ---

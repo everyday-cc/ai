@@ -2,6 +2,91 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-11-khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond.md",
+      "title": "Khris Digital Marketing Offers Unique Insight on the Future of AI Copywriting in 2022 and Beyond",
+      "excerpt": "With 2021 squarely in the rearview, digital marketing thought leader Khris Steven of Khris Digital Marketing is breaking down what the future of AI copywriting tools and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/ab24985849/khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/ab24985849/khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.getnews.info/uploads/a9a239dd6e54d62f1111d3ee578b6c18.jpg",
+          "width": 600,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24985849",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24985849",
+      "publishedDateTime": "2022-01-10T14:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-lg-electronics-joins-ibm-quantum-network-to-research-ai-iot-and-more.md",
+      "title": "LG Electronics joins IBM Quantum Network to research AI, IoT, and more",
+      "excerpt": "The two companies plan to spend the next three years exploring applications of quantum computing to support connected cars, digital transformation, and robotics applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "originalUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "publishedDateTime": "2022-01-10T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-stagezero-raises-18m-to-combine-mobile-game-rewards-and-ai-training-data.md",
       "title": "StageZero raises $1.8M to combine mobile game rewards and AI training data",
       "excerpt": "StageZero has raised $1.8 million in funding to give gamers rewards for participating in in-app tasks that generate AI training data.",
@@ -217,7 +302,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/412358",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -716,6 +801,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-10-can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future.md",
+      "title": "Can Voice AI Apps become the reliable virtual assistants of the future?",
+      "excerpt": "But when it comes to voice recognition technology like Apple’s Siri, consumer expectations face major disappointment. Try to hold a conversation with Siri and you’re bound to be met with the iPhone assistant’s confusion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.jpost.com/special-content/can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future-692089",
+      "originalUrl": "https://www.jpost.com/special-content/can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future-692089",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/493470",
+          "width": 640,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.jpost.com/special-content/can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future-692089/amp",
+      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/special-content/can-voice-ai-apps-become-the-reliable-virtual-assistants-of-the-future-692089/amp",
+      "publishedDateTime": "2022-01-10T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Jerusalem Post Blogs",
+        "domain": "jpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-alphabet-is-reportedly-spinning-out-its-secretive-quantum-computing-division.md",
       "title": "Alphabet is reportedly spinning out its secretive quantum computing division",
       "excerpt": "This momentum could be kickstarted sooner than expected as Alphabet is reportedly planning on spinning out its quantum division,. Business Insider reports that the secretive division, started by Google cofounder Sergei Brin,",
@@ -1002,7 +1130,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1093,137 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-driverless-tractor-set-for-commercial-production-at-john-deere.md",
-      "title": "Driverless tractor set for commercial production at John Deere",
-      "excerpt": "Using six pairs of stereo cameras and advanced artificial intelligence, the tractor can navigate to ... or for Rural news daily. Driverless tractor technology has the potential to help solve a modern agricultural dilemma — how can farmers do more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258",
-      "originalUrl": "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/f487f31e61eec632773518289c8afdb1?impolicy=wcms_crop_resize&cropH=556&cropW=834&xPos=65&yPos=0&width=862&height=575",
-          "width": 834,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/100744258",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100744258",
-      "publishedDateTime": "2022-01-09T15:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-your-health-artificial-intelligence-to-help-prevent-dementia.md",
-      "title": "Your Health: Artificial intelligence to help prevent dementia?",
-      "excerpt": "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s already in the operating",
-      "sourceUrl": null,
-      "webUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/",
-      "originalUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.yourerie.com/wp-content/uploads/sites/27/2022/01/Your-Health-Artificial-intelligence-to-help-prevent-dementia.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/",
-      "cdnAmpWebUrl": "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/",
-      "publishedDateTime": "2022-01-09T14:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "yourerie.com",
-        "domain": "yourerie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-artificial-intelligence-in-construction-industry-an-innovative-way-to-assist-workers.md",
-      "title": "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers",
-      "excerpt": "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training.",
-      "sourceUrl": null,
-      "webUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/",
-      "originalUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1",
-      "cdnAmpWebUrl": "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1",
-      "publishedDateTime": "2022-01-09T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Constructor",
-        "domain": "theconstructor.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

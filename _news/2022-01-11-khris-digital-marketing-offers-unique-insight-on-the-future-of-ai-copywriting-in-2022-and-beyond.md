@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24985849"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24985849"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Is How AI Content Marketing Will Shake Up 2022"
-    excerpt: "With the embers of the outgoing year fizzling out, businesses are already gearing up and getting ready to take 2022 by storm. The need to seek out alternatives to standard-issue messaging — to stay relevant — is not an option,"
-    publishedDateTime: 2022-01-07T18:25:00Z
-    webUrl: "https://www.timesunion.com/business/article/This-Is-How-AI-Content-Marketing-Will-Shake-Up-16757547.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/41/25/21894520/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "AI is coming for copywriters"
     excerpt: "Artificial intelligence is coming for copywriters, and it’s going to be a tough job market. The irony of the Internet is that it’s made copywriters more important than ever."
     publishedDateTime: 2022-01-10T16:11:00Z

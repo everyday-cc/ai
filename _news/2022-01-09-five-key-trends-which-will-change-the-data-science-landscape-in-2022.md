@@ -75,6 +75,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Five key fintech trends to watch in 2022"
+    excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
+    publishedDateTime: 2022-01-12T07:32:00Z
+    webUrl: "https://thepaypers.com/expert-opinion/five-key-fintech-trends-to-watch-in-2022--1253845"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 24
+    images:
+      - url: "https://thepaypers.com/images/social_media/fintech-trends-social-media_LI.png"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "5 Trends That Will Help Your EdTech Startup Thrive in 2022"
     excerpt: "The majority of EdTech startups think that the way to succeed is to digitize traditional learning methods and amass as much content as possible. But nothing could be further from the truth. In reality,"
     publishedDateTime: 2022-01-07T20:36:00Z

@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Meta AI builds speech recognition platform that uses visual cues to filter out background noise"
-    excerpt: "Meta AI builds speech recognition platform that uses visual cues to filter out background noise - SiliconANGLE"
-    publishedDateTime: 2022-01-07T17:04:00Z
-    webUrl: "https://siliconangle.com/2022/01/07/meta-ai-built-speech-recognition-platform-relies-visual-cues-filter-background-noise/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 44
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/AV-HuBERT.png"
-        width: 963
-        height: 501
-        isCached: true
 
 secured: "x+jcmA/y6PEGI8Qe4jPLH+PpYiqq6PQfVt9kyrOj9/HBW/hGx/1EDwVPznop8oC/Qx1VlmdUlLhDGyuTIrd4VvqRcBggNY44KNRONLOHvHGA3nNt8cR1PJe7Sn0XH/ZtiOw4xdtQ2FugkbCwYuhW89PtQB7ADej/JdWwzson3akZ6cqEMTSb5aAh9iQv1QVr/YQGg4hvdi9UUDeMHpHyQN83K3glfbsVC3928yxBM1bxSEgqOOeA2cpmeLoUpQTvlE0eivWKw3Ciy+mJwNPzl01t2jeLMXn4fV9RJagf96aOP6wdGKDg/yQW7iTN6bVVko5hruAVv4MLpRD5q36Gir1hbvTzMoygbDvSdLOm7kk=;w34PQ/LZmitvaLkJ0JY+BA=="
 ---

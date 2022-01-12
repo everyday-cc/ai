@@ -25,17 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Is SEC’s Gary Gensler the Skunk at the Fintech Party or the Adult in the Room?"
-    excerpt: "U.S. Securities and Exchange Commission Chair Gary Gensler says that question might not be hypothetical for long. The pandemic hastened the already rapid rise of cryptocurrencies, robo-advisers, and apps that make it easier to trade and invest."
-    publishedDateTime: 2022-01-11T09:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-11/stock-market-how-sec-chair-gary-gensler-could-shake-up-trading-algorithms"
+  - title: "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry"
+    excerpt: "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry."
+    publishedDateTime: 2022-01-12T06:29:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25011004"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 50
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 66
     images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/is_srDrUrj5M/v0/1200x630.jpg"
+      - url: "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg"
+        width: 500
+        height: 236
+        isCached: true
+  - title: "Top 5 Innovation Trends That Are Changing the FinTech Industry"
+    excerpt: "Top 5 Innovation Trends That Are Changing the FinTech Industry The FinTech industry has skyrocketed over the past few years, disrupting the financial services ecosystem. The pace of change is increasing at an exponential rate,"
+    publishedDateTime: 2022-01-10T13:20:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-5-innovation-trends-changing-fintech-industry"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnBwRPvYaadA/article-cover_image-shrink_600_2000/0/1641820278631?e=1647475200&v=beta&t=tphLI04fPoU5RySHqMmlMGl5OIdQUx6FJAeMaPtny5w"
+        width: 602
+        height: 403
+        isCached: true
+  - title: "The Fintech Ecosystem in Jersey: Interview With Amy Bryant"
+    excerpt: "A special interview with Amy Bryant, Deputy CEO of Jersey Finance on the importance of fintech and how Jersey is growing to meet this demand"
+    publishedDateTime: 2022-01-11T17:13:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-ecosystem-jersey-interview-amy-bryant"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/DemoDay%20-%20Amy%20Intro.jpg.png?itok=C_xELvbZ"
         width: 1200
         height: 630
         isCached: true

@@ -2,6 +2,166 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-12-04-top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021.md",
+      "title": "Top 12 AI and machine learning announcements at AWS re:Invent 2021",
+      "excerpt": "Invent 2021 conference, Amazon announced a slew of new Amazon Web Services features powered by AI and machine learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/amazon-logo-reuters.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/top-12-ai-and-machine-learning-announcements-at-aws-reinvent-2021/amp/",
+      "publishedDateTime": "2021-12-03T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "AI in Finance",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-ai-weekly-recognition-of-bias-in-ai-continues-to-grow.md",
+      "title": "AI Weekly: Recognition of bias in AI continues to grow",
+      "excerpt": "There's growing recognition that AI encodes biases. Efforts are underway to address these while recognizing the challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/",
+      "originalUrl": "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/03/ai-weekly-recognition-of-bias-in-ai-continues-to-grow/amp/",
+      "publishedDateTime": "2021-12-03T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-04-amazon-sagemaker-the-easiest-way-to-build-artificial-intelligence-models-became-even-easier.md",
+      "title": "Amazon SageMaker – The Easiest Way To Build Artificial Intelligence Models Became Even Easier",
+      "excerpt": "VIce President and Principal Analyst Quantum, AI, and Space, Paul Smith-Goodson dives into two of Amazon SageMaker's new features that were announced at one of the most important annual technical cloud conferences,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61aa5933cafd39f832c92b71%2F0x0.jpg%3FcropX1%3D18%26cropX2%3D572%26cropY1%3D0%26cropY2%3D312",
+          "width": 554,
+          "height": 312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2021/12/03/amazon-sagemaker--the-easiest-way-to-build-artificial-intelligence-models-became-even-easier/amp/",
+      "publishedDateTime": "2021-12-03T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-04-how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools.md",
       "title": "How the 'Great Resignation' is accelerating the use of robotics and AI-based tools",
       "excerpt": "artificial intelligence with machine learning, robotics, high-speed data streaming and a slew of other technologies, Reinharz says. The revolution will include the use of autonomous remote services, commonly known as robotics, and will benefit industries ...",
@@ -1019,134 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems.md",
-      "title": "South African crowd-solving startup Zindi building a community of data scientists and using AI to solve real world problems",
-      "excerpt": "Zindi is all about using AI to solve real world problems for companies and individuals. And the South Africa-based crowd-solving startup has done that over the last three years they have been in existence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "originalUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Zindi-Team-in-Cape-Town-1.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/02/south-african-crowd-solving-startup-zindi-building-a-community-of-data-scientists-and-using-ai-to-solve-real-world-problems/amp/",
-      "publishedDateTime": "2021-12-02T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours.md",
-      "title": "These 4 Indian Airports Will Have Facial Recognition; Data Will Be Deleted In 24 Hours",
-      "excerpt": "The Airports Authority of India has been working on a project of FRT-based Biometric Boarding System.Facial Recognition Technology (FRT) is highly looked forward to, after the Indian government announ",
-      "sourceUrl": null,
-      "webUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/",
-      "originalUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://trak.in/wp-content/uploads/2021/12/72b0f32797dd441c89b1396bba9ac524_18.jpeg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/",
-      "cdnAmpWebUrl": "https://trak-in.cdn.ampproject.org/c/s/trak.in/tags/business/2021/12/03/these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours/amp/",
-      "publishedDateTime": "2021-12-02T22:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Trak.in - India Business Blog",
-        "domain": "trak.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-qualcomm-technologies-and-google-cloud-announce-collaboration-on-neural-architecture-search-for-the-connected-intelligent-edge.md",
-      "title": "Qualcomm Technologies and Google Cloud Announce Collaboration on Neural Architecture Search for the Connected Intelligent Edge",
-      "excerpt": "Qualcomm Technologies and Google Cloud are collaborating on Neural Architecture Search (NAS), enabling the companies to create and optimize AI models automatically rather than manually. • First available on Snapdragon® 8,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswiretoday.com/news/176743/",
-      "originalUrl": "https://www.newswiretoday.com/news/176743/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire Today",
-        "domain": "newswiretoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

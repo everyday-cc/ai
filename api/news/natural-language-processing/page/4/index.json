@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-07-speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022-2027.md",
+      "title": "Speech Recognition Engine Market Companies, and Competitive Landscape Market Players : Nuance, Microsoft, Alphabet – 2022 - 2027",
+      "excerpt": "Dec 07, 2021 (Heraldkeepers) -- The Speech Recognition Engine Market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022---2027-2021-12-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-engine-market-companies-and-competitive-landscape-market-players-nuance-microsoft-alphabet-2022---2027-2021-12-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-german-language-service-provider-milengo-expands-to-the-us.md",
       "title": "German Language Service Provider Milengo Expands to the US",
       "excerpt": "Combining a global pool of more than 1,200 qualified in-country linguists with an inhouse team of machine translation and language AI experts, allows Milengo to offer their customers tailored ...",
@@ -1294,50 +1347,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights.md",
-      "title": "Using machine learning and natural language processing to measure consumer reviews for product attribute insights",
-      "excerpt": "The study, forthcoming in the Journal of Marketing, is titled “Attribute Embedding: Learning Hierarchical Representations of Product Attributes from Consumer Reviews” and is authored by Xin (Shane) Wang,",
-      "sourceUrl": null,
-      "webUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "originalUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://manometcurrent.com/wp-content/uploads/2021/11/newswise-logo-square.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "cdnAmpWebUrl": "https://manometcurrent-com.cdn.ampproject.org/c/s/manometcurrent.com/using-machine-learning-and-natural-language-processing-to-measure-consumer-reviews-for-product-attribute-insights/",
-      "publishedDateTime": "2021-11-23T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manometcurrent.com",
-        "domain": "manometcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

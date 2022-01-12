@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-12-aiml-at-scale-the-next-horizon-for-ppgs-data-strategy.md",
+      "title": "AI/ML at scale: The next horizon for PPG’s data strategy",
+      "excerpt": "At PPG, data is key not only to IT strategy, but to enabling business strategy, says Jeff Lipniskis, global IT director. With a solid foundation in place, his focus now is on being AI ready.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
+      "originalUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/01/horizon_transformation_change_future_hope_bright-100746109-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
+      "publishedDateTime": "2022-01-12T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-machine-learning-and-ai-used-to-rapidly-detect-sepsis-cutting-risk-of-death-dramatically.md",
       "title": "Machine learning and AI used to rapidly detect sepsis, cutting risk of death dramatically",
       "excerpt": "A groundbreaking advance in quickly detecting sepsis using machine learning has been pioneered by researchers in the Hancock Lab and the department of microbiology and immunology at UBC.",
@@ -1378,40 +1422,6 @@
         "Machine Learning",
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-the-machine-learning-future-is-now-how-ai-is-disrupting-entire-industries.md",
-      "title": "The Machine Learning Future Is Now: How AI is Disrupting Entire Industries",
-      "excerpt": "M achine learning and artificial intelligence (AI) are no longer the concepts of science fiction – they’re a $1.41 billion industry that is already making big changes to the way we understand and use immense databases for a wide range of purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries",
-      "originalUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp",
-      "publishedDateTime": "2022-01-04T06:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
