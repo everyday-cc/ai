@@ -18,34 +18,29 @@ topics:
   - AI
 
 related:
-  - title: "AI: A Population Migration Model Integrating Global Climate Change and Covid-19 Impacts"
-    excerpt: "COVID-19 pandemic has bring global economic activity to a near- standstill with countries imposing some travel restrictions on people. On the opposite side, Climate Change affects the flows of migrations and has already started to reshape the world."
-    publishedDateTime: 2022-01-09T10:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-population-migration-model-integrating-global-climate-nko-o"
+  - title: "Leena AI introduces Covid-19 Workplace Response Suite"
+    excerpt: "Leena AI, the company that's revolutionizing enterprise employee experience, today launched the Covid-19 Workplace Response Suite. The new product helps organizations track and maintain employee vaccination records,"
+    publishedDateTime: 2022-01-12T06:43:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1230017&cat=PR News Wire"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 29
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGogPJcPLJSCA/article-cover_image-shrink_720_1280/0/1609326937890?e=1647475200&v=beta&t=6qfVvD7v3cZDkTxb16Hi_V_rStlw5n-RRTX97ydikrc"
-        width: 1280
-        height: 636
+      - url: "https://mma.prnewswire.com/media/1637941/Leena_AI_Logo.jpg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "A Comparative Study of Deep-Learning Models for COVID-19 Diagnosis based on X-ray and CT Images"
-    excerpt: "Developing and comparing deep learning models for identifying Covid-19 diseases on CT and X-ray images. - GitHub - eliashossain001/SARS-CoV-2Detection: Developing and comparing deep learning"
-    publishedDateTime: 2022-01-10T11:10:00Z
-    webUrl: "https://github.com/eliashossain001/SARS-CoV-2Detection"
+  - title: "Artificial Intelligence for Psychological Health Analysis During COVID-19"
+    excerpt: "The coronavirus disease 2019 (COVID-19) pandemic has spread over 200 million confirmed cases and caused more than 5 million deaths worldwide. Besides an epidemiological disaster, it is also a psychological crisis that presents a serious threat to people’s mental health."
+    publishedDateTime: 2022-01-10T16:15:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/31333/artificial-intelligence-for-psychological-health-analysis-during-covid-19"
     type: article
     provider:
-      name: GitHub
-      domain: github.com
-    quality: 12
-    images:
-      - url: "https://opengraph.githubassets.com/008962df8611d7e459684bf9f5e909b93070a9b9ff361d03babe92fc661b9ccd/eliashossain001/SARS-CoV-2Detection"
-        width: 1200
-        height: 600
-        isCached: true
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 18
 
 secured: "yAjaOJNqRLjWnAnf2P8u6xos0AdGhfeY0TbLXBBIzkpfBrxxuraYH0ZueAFx/Ssm2/+nvkSXyvUCf1j6B1IjmYxAEq/e8YqiXPMKUywRWRnte/Y+6gjgyzCpVltkXeWv+HFwqW+4+oCK5pwO6sk32CrfbVqF6vinAK+z17nhQSqhGeD4JxefPsUMTVQPxqwcimiRP45/5MVzn+RbWSRsfP2IFo0YDRo3nWbez3HLSC8uS3uOjqBJ5Qb2iEcVpSNgOM1bb5WFx/15f+YWQZ0PrRlbRnfxBb02kPLP7DOUQoZxb6q290izKlwhUMSP9A1WifG/WC2Esy4quHaTG+Yh2aHJlUPbR4js9Qqqvkhi43Y=;LTVZms+N0Cykk/CfGxwdDA=="
 ---

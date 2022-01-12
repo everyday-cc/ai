@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 688
         isCached: true
-  - title: "Artificial intelligence aids effective fitness training"
-    excerpt: "Whether for squats or sit-ups, the software created by the start-up VAY alerts exercisers about incorrect movements via a smartphone screen. Now the ETH spin-off has been acquired by connected fitness equipment manufacturer Nautilus."
-    publishedDateTime: 2022-01-07T14:54:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-artificial-intelligence-aids-effective.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 72
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-1.jpg"
-        width: 930
-        height: 465
-        isCached: true
 
 secured: "xO7brneYAomFxP5iAFDmkTG2X00QAAu7zMYCBJAzzOTJ/z8kIa63ay5rufB26qasLNNSPLRY4tBN3/msrHVIcsEpWWHhz/QqYFmv/miJPcHn76xfuIHPxF2b2DzOrEeWrz+oBhoq5Xb4hmpc+6xeEKD6iWi1w4LhuIhFXT8jmWjTJaFXE33Bkee1cPAem4UAZjphtEiGVKFmkBo9yBnalAbHO1YFRaSyWQfWSGx9UK0aQw33BaQSOZNKJLw89Sk7846HOSkbV/ORFJGpBryjlaSHc1orm1TZ4QCxCBa71ylOt6AHzEPh+CsUHinClFyMMi7ci7bx7lmFmUKqAp/nR8Wf9n6P6xc3yBW95riTAYjLJICfeHclLxxQiBN0hDm+a76MQKt5t0Jok1bO4/72CKh7JcRJfjfSeAOJSr7++So7w3EOm4mKueak72sdaKFaJDZIHG0oGugAsy709Vgh8Qer5StdjNtC0dZZ/nFgBLU9z0eoMAOSL4vnhRJPCzui3dFOTY3YWWKRdTA0fO/tvQ==;llDB1BPGqTk6SLwMV5GuxA=="
 ---

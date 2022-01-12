@@ -35,7 +35,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 24
+    quality: 26
   - title: "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
     excerpt: "... of the key players offering cognitive services and Platforms-as Service (PaaS). The major cognitive service vendors include IBM (US), Microsoft (US), AWS (US), Google (US), TCS (India), Baidu ..."
     publishedDateTime: 2022-01-10T12:45:00Z

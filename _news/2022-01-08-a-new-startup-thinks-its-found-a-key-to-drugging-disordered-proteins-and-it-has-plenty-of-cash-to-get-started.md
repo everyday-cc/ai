@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "This Start-Up is Bringing the Power of Proximity to the Fresh Food Industry"
-    excerpt: "Afresh Technologies, a San Francisco-based startup, and its founder ... Their operating system works with AI to forecast demand, calculate current inventory, and optimize ordering for grocery store produce departments. Right now, most grocery inventory ..."
-    publishedDateTime: 2022-01-07T13:23:00Z
-    webUrl: "https://www.linkedin.com/pulse/start-up-bringing-power-proximity-fresh-food-industry-krippendorff"
+  - title: "A new AI start­up has emerged, and Pfiz­er likes what it sees"
+    excerpt: "Aaron Morris and Alpha Lee met years ago while studying applied mathematics at Oxford University. They eventually went their separate ways, with Morris diving into machine learning applications in finance while Lee researched how it could transform medicinal chemistry."
+    publishedDateTime: 2022-01-11T14:00:00Z
+    webUrl: "https://endpts.com/a-new-ai-startup-has-emerged-and-pfizer-likes-what-it-sees/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 20
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQExLLd3z3GY7w/article-cover_image-shrink_720_1280/0/1641561467677?e=1646870400&v=beta&t=DmzXkmOiYwEOZsxsHjw3H-MUl_gwq6-067HWY4TTN3Q"
-        width: 1082
-        height: 720
-        isCached: true
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 17
 
 secured: "Fx+Dvk25bDbnau3a2OWZx+cj57uX/5a7LE87q8mLBBDSftyNaISIeQrIzC8iXGxytVoS7CqRUGhpoSPpQ+SzbJfuJ+kAa16JO/OTgDzeEDOnNQXRrWvQBweF/J2y76Xywm3Fns0ANP4HD86cvccdKwUKeQe//tHr7FH5QEFTgccKuTV5Y6rMWywwzU0AeTA5rshU6g4xrZD0OGHC6muAUGtPIU0X428zkbSOztgXReu2cY265EW7Dl6VwzK7OTZOeqDxoAG//R4uDX6siHPS3xQ9ZJGblqkO4ZPLoSk6odDgNaicjaIP9iVM1iPAdXhtVi8zWplnFwbq0Ky1l3WkSPCwXZcuw6DpqAY4NINvwBg=;e2Ma0eF0fMi557VmSdkX0Q=="
 ---

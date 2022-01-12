@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "http://www.sfexaminer.com/wp-content/uploads/2021/12/27671320_web1_201105-WLT-AI1-edit.jpg"

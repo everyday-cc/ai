@@ -71,22 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The weirdest stuff we saw at CES 2022: John Deere's self-driving tractor, robot masseuses"
-    excerpt: "Among the odder sights at this year's Consumer Electronics Show: an autonomous tractor from John Deere and robots that will give you a massage."
-    publishedDateTime: 2022-01-07T14:46:00Z
-    webUrl: "https://www.usatoday.com/story/tech/columnist/2022/01/07/ces-best-products-weird/9126052002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/9126052002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/9126052002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 52
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/01/07/USAT/2b6a08d9-7ce8-4a07-9ea0-90a298e2b917-ameca-robot-horiz.jpg?auto=webp&crop=3010,1693,x13,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Top 5 Artificial Intelligence Announcement Made At CES 2022"
     excerpt: "At CES 2022, the tech company showcased how enterprises can take advantage of the platform to train AI models with just a single click and without coding. Avalanche computing has revealed that the hAIsten AI uses multi-GPUs to accelerate AI development while reducing the AI development cycle to a few months."
     publishedDateTime: 2022-01-12T01:50:00Z
@@ -101,20 +85,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "CES 2022: There’s a new robot dog in town"
-    excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
-    publishedDateTime: 2022-01-07T14:00:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17625/ces-2022-there-s-a-new-robot-dog-in-town"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/625/17625/Jueying_Lite2_on_2022_CES.jpg"
-        width: 752
-        height: 552
-        isCached: true
   - title: "Pudu Robotics Commercial Service Robots Shine on World Stage at CES 2022"
     excerpt: "Pudu Robotics, the global leader in commercial service robots, has wrapped up a highly successful showcase at CES 2022, which took place between January 5-7 in Las Vegas, Nevada, United States. In addition to exhibiting its flagship commercial service robots in the global arena,"
     publishedDateTime: 2022-01-11T14:13:00Z
@@ -124,20 +94,6 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 33
-  - title: "CES 2022: Best concept and self-driving cars from the show"
-    excerpt: "Concept vehicles are a staple of CES 2022 and while this year’s show suffered from a lack of attendees due to COVID-19, the concept vehicles and latest self-driving cars still made grand appearances."
-    publishedDateTime: 2022-01-07T13:55:00Z
-    webUrl: "https://electronics360.globalspec.com/article/17626/ces-2022-best-concept-and-self-driving-cars-from-the-show"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 24
-    images:
-      - url: "https://electronics360.globalspec.com/images/assets/626/17626/Caddy_interior_MAIN.jpg"
-        width: 752
-        height: 501
-        isCached: true
   - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
     excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
     publishedDateTime: 2022-01-08T02:00:00Z

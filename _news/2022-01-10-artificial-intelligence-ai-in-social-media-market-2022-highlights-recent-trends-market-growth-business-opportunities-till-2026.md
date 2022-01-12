@@ -8,7 +8,7 @@ webUrl: "https://www.openpr.com/news/2521813/artificial-intelligence-ai-in-socia
 ampWebUrl: "https://www.openpr.com/amp/2521813/artificial-intelligence-ai-in-social-media-market-2022"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2521813/artificial-intelligence-ai-in-social-media-market-2022"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - IBM AI
+  - Facebook AI
 
 related:
   - title: "Artificial Intelligence in Manufacturing Market Generate New Growth Opportunities By 2025"

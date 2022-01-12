@@ -49,7 +49,7 @@ related:
     provider:
       name: openpr.com
       domain: openpr.com
-    quality: 24
+    quality: 26
   - title: "Global System-on-Chips’ R&D Portfolio Analysis and Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
     excerpt: "Chips’ R&D Portfolio Analysis and Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This technology and innovation study focuses on the benefits of SoC, the emerging trends in SoC hardware,"
     publishedDateTime: 2022-01-11T17:38:00Z

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Surface Navy 2022: Tactical focus driving AI development"
+    excerpt: "US Navy (USN) leaders are looking to leverage advanced technological capabilities in artificial intelligence (AI) and machine learning (ML) in the tactical"
+    publishedDateTime: 2022-01-12T06:54:00Z
+    webUrl: "https://www.janes.com/defence-news/defence/latest/surface-navy-2022-tactical-focus-driving-ai-development"
+    ampWebUrl: "https://www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
+    cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
+    type: article
+    provider:
+      name: Jane's Information Group
+      domain: janes.com
+    quality: 59
+    images:
+      - url: "https://www.janes.com/images/default-source/news-images/bsp_11674-idr-15802.jpg?sfvrsn=fd3d809b_2"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Artificial intelligence, data and 2022: What experts at SAS are expecting"
     excerpt: "If anything, the onslaught of the COVID pandemic is driving further research into artificial intelligence and data analytics as companies and researchers try to capitalize on changes in worforce, research and development,"
     publishedDateTime: 2022-01-11T14:07:00Z
@@ -39,6 +55,20 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2022/01/year-g5a68d3205_1280-e1641032917912.jpg"
         width: 1251
         height: 704
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market Outlook 2022: Big Things are Happening"
+    excerpt: "The latest research on“Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation in"
+    publishedDateTime: 2022-01-08T06:45:00Z
+    webUrl: "https://menafn.com/1103506410/Artificial-Intelligence-AI-in-Real-Estate-Market-Outlook-2022-Big-Things-are-Happening"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 43
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145577"
+        width: 421
+        height: 249
         isCached: true
 
 secured: "ESTBOPvwmt+nnC+FBL4RowVVqz+Xzz7efgkRmh1RNb7DEOI543wyyi4FoG39w3BymNqeZimtMndyGyVQgh5TMq6xKZ5RP1Rz9bfH+ACVSKFNPWgxQ2nKMiqrAmFs0mWkDnErUX5Rwp0M8nJ2LacX0x/3IM7hD0d0Xg9uJiAFZTaaQxz+rIjP7JB/DBnK7yjpeW5oq/6gDN2J6WwSfLsq0j6TTzbCOHF8kIlRD9oRyyWN2xxpnlkesJOnDxwKbQ7pHzIxV3JT4IP2RKEo7pU9l3dsajiS0Az9xqBYBLFi+cqa5RiWG6pTC362AlxYaXX7tNB400d0CgfvPYSLzTneb49DN+QwVwOhTC6oc39kzHA=;iNQsTZXI0ELpvqnxAP2UKA=="

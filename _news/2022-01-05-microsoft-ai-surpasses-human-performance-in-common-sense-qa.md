@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGcRRyk4eeGRA/article-cover_image-shrink_600_2000/0/1641381987976?e=1646870400&v=beta&t=upT6m_EjVjrDYowz0-Z_5XboiSunC7qUD-dVL6qAcMg"

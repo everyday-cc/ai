@@ -47,22 +47,6 @@ related:
         width: 752
         height: 408
         isCached: true
-  - title: "Agricultural AI Market is Set To Fly High in Years to Come with IBM, Deere & Company, Microsoft"
-    excerpt: "The Agricultural AI Market Development Outlook Study has been added to HTF MI repository The study envisage detailed qualitative as well as quantitative market data insights and follows Industry benchmark classification and NAICS standards to built strong players coverage in"
-    publishedDateTime: 2022-01-07T14:55:00Z
-    webUrl: "https://www.openpr.com/news/2520941/agricultural-ai-market-is-set-to-fly-high-in-years-to-come-with-ibm"
-    ampWebUrl: "https://www.openpr.com/amp/2520941/agricultural-ai-market-is-set-to-fly-high-in-years-to-come-with-ibm"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2520941/agricultural-ai-market-is-set-to-fly-high-in-years-to-come-with-ibm"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 62
-    images:
-      - url: "https://cdn.openpr.com/V/1/V107189837_g.jpg"
-        width: 539
-        height: 359
-        isCached: true
   - title: "Johnson & Johnson and Microsoft partner up on digital surgery"
     excerpt: "Johnson & Johnson will use Microsoft Azure cloud computing services to better connect surgeons and patients in a digital surgery ecosystem."
     publishedDateTime: 2022-01-10T19:16:00Z

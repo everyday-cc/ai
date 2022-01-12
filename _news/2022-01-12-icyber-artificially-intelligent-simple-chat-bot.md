@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-12T04:16:00Z
 originalUrl: "https://github.com/ranCMD/icyber-simple-chatbot"
 webUrl: "https://github.com/ranCMD/icyber-simple-chatbot"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://opengraph.githubassets.com/b7eb58194ef6e6f81cc26a9525a7b95c7bd5882d570780cddc08640dc2d2ed4f/ranCMD/icyber-simple-chatbot"

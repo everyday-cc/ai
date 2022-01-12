@@ -41,19 +41,21 @@ related:
         width: 400
         height: 209
         isCached: true
-  - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
-    excerpt: "Providing data from the world's most accurate weather forecaster1, IBM Watson Advertising's Weather Analytics harness the relationship between weather and consumer behavior using artificial intelligence to extract deep insights to help businesses make more ..."
-    publishedDateTime: 2022-01-07T13:02:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange"
+  - title: "Fractal acquires Neal Analytics to expand cloud AI offerings"
+    excerpt: "Neal Analytics strengthens Fractal’s AI engineering capabilities & cloud-first offerings on Microsoft’s multi cloud ecosystems and enables clients to scale AI and power decisions. Fractal, (fractal.ai),"
+    publishedDateTime: 2022-01-12T04:34:00Z
+    webUrl: "https://www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/"
+    ampWebUrl: "https://www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/amp/"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 67
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
         isCached: true
   - title: "AI firm Fractal buys cloud and data player Neal Analytics for unknown sum"
     excerpt: "Neal Analytics is a Microsoft Gold Consulting Partner supporting its cross-industry clients, such as PepsiCo and Microsoft, in their data-driven transformation initiatives"

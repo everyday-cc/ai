@@ -9,7 +9,7 @@ ampWebUrl: "https://wraltechwire.com/2022/01/11/artificial-intelligence-data-and
 cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/01/11/artificial-intelligence-data-and-2022-what-experts-at-sas-are-expecting/?amp=1"
 type: article
 quality: 58
-heat: 68
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,36 @@ images:
     isCached: true
 
 related:
+  - title: "Surface Navy 2022: Tactical focus driving AI development"
+    excerpt: "US Navy (USN) leaders are looking to leverage advanced technological capabilities in artificial intelligence (AI) and machine learning (ML) in the tactical"
+    publishedDateTime: 2022-01-12T06:54:00Z
+    webUrl: "https://www.janes.com/defence-news/defence/latest/surface-navy-2022-tactical-focus-driving-ai-development"
+    ampWebUrl: "https://www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
+    cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
+    type: article
+    provider:
+      name: Jane's Information Group
+      domain: janes.com
+    quality: 59
+    images:
+      - url: "https://www.janes.com/images/default-source/news-images/bsp_11674-idr-15802.jpg?sfvrsn=fd3d809b_2"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Real Estate Market Outlook 2022: Big Things are Happening"
+    excerpt: "The latest research on“Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation in"
+    publishedDateTime: 2022-01-08T06:45:00Z
+    webUrl: "https://menafn.com/1103506410/Artificial-Intelligence-AI-in-Real-Estate-Market-Outlook-2022-Big-Things-are-Happening"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 43
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145577"
+        width: 421
+        height: 249
+        isCached: true
   - title: "2022: The Year of Freight Procurement AI"
     excerpt: "And many shippers and carriers are scrambling to find ways to better navigate new challenges that are here to stay. Enter AI. Renowned for slow-moving technology adoption, the logistics industry is now taking a long, hard look at AI as it tries to build ..."
     publishedDateTime: 2022-01-10T13:01:00Z

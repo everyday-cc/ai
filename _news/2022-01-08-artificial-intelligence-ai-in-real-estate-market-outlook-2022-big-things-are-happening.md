@@ -24,61 +24,52 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Cyber Security Market to Witness at a 22.60% CAGR through 2027"
-    excerpt: "The research report on the Global Artificial Intelligence (AI) in Cyber Security Market provides a comprehensive analysis of the industry size, share"
-    publishedDateTime: 2022-01-08T03:40:00Z
-    webUrl: "https://menafn.com/1103505927/Global-Artificial-Intelligence-AI-in-Cyber-Security-Market-to-Witness-at-a-2260-CAGR-through-2027"
+  - title: "Surface Navy 2022: Tactical focus driving AI development"
+    excerpt: "US Navy (USN) leaders are looking to leverage advanced technological capabilities in artificial intelligence (AI) and machine learning (ML) in the tactical"
+    publishedDateTime: 2022-01-12T06:54:00Z
+    webUrl: "https://www.janes.com/defence-news/defence/latest/surface-navy-2022-tactical-focus-driving-ai-development"
+    ampWebUrl: "https://www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
+    cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 54
+      name: Jane's Information Group
+      domain: janes.com
+    quality: 59
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?327254"
-        width: 375
-        height: 250
+      - url: "https://www.janes.com/images/default-source/news-images/bsp_11674-idr-15802.jpg?sfvrsn=fd3d809b_2"
+        width: 600
+        height: 360
         isCached: true
-  - title: "AI-Enabled Testing Tools Market revenues will grow at over 13% CAGR through 2030"
-    excerpt: "As per a most recent report by Future Market Insights (FMI), worldwide AI-Enabled Testing Tools market incomes will develop at more than 13% CAGR through 2030. Telecom firms are utilizing the capability of AI to oversee and evaluate huge volumes of enormous information with an end goal to draw significant bits of knowledge and deal"
-    publishedDateTime: 2022-01-11T09:34:00Z
-    webUrl: "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/"
-    ampWebUrl: "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/"
+  - title: "Artificial intelligence, data and 2022: What experts at SAS are expecting"
+    excerpt: "If anything, the onslaught of the COVID pandemic is driving further research into artificial intelligence and data analytics as companies and researchers try to capitalize on changes in worforce, research and development,"
+    publishedDateTime: 2022-01-11T14:07:00Z
+    webUrl: "https://wraltechwire.com/2022/01/11/artificial-intelligence-data-and-2022-what-experts-at-sas-are-expecting/"
+    ampWebUrl: "https://wraltechwire.com/2022/01/11/artificial-intelligence-data-and-2022-what-experts-at-sas-are-expecting/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/01/11/artificial-intelligence-data-and-2022-what-experts-at-sas-are-expecting/?amp=1"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 58
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/AI-Enabled-Testing-Tools.jpg"
-        width: 2100
-        height: 900
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/01/year-g5a68d3205_1280-e1641032917912.jpg"
+        width: 1251
+        height: 704
         isCached: true
-  - title: "Business Intelligence Platform Market to Exhibit 10% CAGR through 2029"
-    excerpt: "New Study Reports \" Business Intelligence Platform Market 2021 Global Opportunities, Challenges, Strategies and Forecasts 2029\" has been Added on PersistenceMarketResearch. Report Details: Technological advancements in business intelligence platforms such as artificial intelligence,"
-    publishedDateTime: 2022-01-10T17:34:00Z
-    webUrl: "https://www.openpr.com/news/2522581/business-intelligence-platform-market-to-exhibit-10-cagr"
-    ampWebUrl: "https://www.openpr.com/amp/2522581/business-intelligence-platform-market-to-exhibit-10-cagr"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522581/business-intelligence-platform-market-to-exhibit-10-cagr"
+  - title: "2022: The Year of Freight Procurement AI"
+    excerpt: "And many shippers and carriers are scrambling to find ways to better navigate new challenges that are here to stay. Enter AI. Renowned for slow-moving technology adoption, the logistics industry is now taking a long, hard look at AI as it tries to build ..."
+    publishedDateTime: 2022-01-10T13:01:00Z
+    webUrl: "https://www.manufacturing.net/supply-chain/blog/21992688/2022-the-year-of-freight-procurement-ai"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 37
     images:
-      - url: "https://cdn.openpr.com/V/1/V110625747_g.jpg"
-        width: 620
-        height: 485
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/01/16x9/iStock_850502998.61d8a4778e20f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Cyber Security Market Growth (Status and Outlook) 2022-2028"
-    excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Cyber Security Market Growth (Status and Outlook) 2022-2028 report by LP Information INC. As the global economy mends, the 2021 growth of"
-    publishedDateTime: 2022-01-08T13:15:00Z
-    webUrl: "https://www.reportsnreports.com/reports/5267531-global-artificial-intelligence-ai-in-cyber-security-market-growth-status-and-outlook-2022-2028.html"
-    type: article
-    provider:
-      name: ReportsnReports
-      domain: reportsnreports.com
-    quality: 35
 
 secured: "I3tcY/dQF+4M/p/5/v8FU4F/UidHduz8KZI2+6r6Z08h/iLQah/8dvOIPOWJeBKedCO217Wx9Vyt097CGmLHbVX+L6Rr7xPdrqHK3+ESfUj2sjbc5rrUIS3h40qSkEzsxXgT+zIjRDHzmumCMdJFoxa8QhYddkWptOLGiCkFP6d9msBDlX7+/kxaf/SN7c37jiawl/ssKn09w1ulfXWdBMmVJciqG+zkp6sSfwVUx5QU2zxyn0Lm47L/hpWTj0Hq7QuiTyV1B34g4KzgQLyGhaKZYsmsdgEZXtYgbWoisE/p5XMbkXcDN+XPWVZTSTbJ8ZG0twln75tdIS0oq/HmI+7P2lgjzW9RULS+1N/58YA=;cAVGngNDc9gQRXYi5g7UPQ=="
 ---

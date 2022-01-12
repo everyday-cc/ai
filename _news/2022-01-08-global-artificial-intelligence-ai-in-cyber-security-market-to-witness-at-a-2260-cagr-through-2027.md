@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103505927/Global-Artificial-Intelligence-AI-in
 webUrl: "https://menafn.com/1103505927/Global-Artificial-Intelligence-AI-in-Cyber-Security-Market-to-Witness-at-a-2260-CAGR-through-2027"
 type: article
 quality: 54
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://cdn.openpr.com/V/1/V110625747_g.jpg"
         width: 620
         height: 485
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market Outlook 2022: Big Things are Happening"
-    excerpt: "The latest research on“Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation in"
-    publishedDateTime: 2022-01-08T06:45:00Z
-    webUrl: "https://menafn.com/1103506410/Artificial-Intelligence-AI-in-Real-Estate-Market-Outlook-2022-Big-Things-are-Happening"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145577"
-        width: 421
-        height: 249
         isCached: true
   - title: "Global Artificial Intelligence (AI) in Cyber Security Market Growth (Status and Outlook) 2022-2028"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence (AI) in Cyber Security Market Growth (Status and Outlook) 2022-2028 report by LP Information INC. As the global economy mends, the 2021 growth of"

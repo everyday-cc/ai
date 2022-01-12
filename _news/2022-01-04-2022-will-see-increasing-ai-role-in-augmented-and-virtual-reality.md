@@ -1,44 +1,20 @@
 ---
 category: news
 title: "2022 Will See Increasing AI Role in Augmented and Virtual Reality"
-excerpt: "Over 20 million active users will leverage Artificial Intelligence (AI) for augmented reality usage in 2022. Enterprises have been leaning into AI to extract the maximum value from hardware, platforms,"
-publishedDateTime: 2022-01-04T14:40:00Z
-originalUrl: "https://www.abiresearch.com/press/2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality/"
-webUrl: "https://www.abiresearch.com/press/2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality/"
+excerpt: "In its new whitepaper, 70 Technology Trends That Will—and Will Not—Shape 2022, ABI Research analysts identify 35 trends that will shape the technology"
+publishedDateTime: 2022-01-04T12:30:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality/article_ab60c9e5-b2ce-5b71-a588-b2c17a401835.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality/article_ab60c9e5-b2ce-5b71-a588-b2c17a401835.html"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: ABI Research
-  domain: abiresearch.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
+  - Facebook AI
   - AI
 
-images:
-  - url: "https://cdn2.abiresearch.com/static/social_images/Will_Social_Card_Augmented_Reality.jpg"
-    width: 1650
-    height: 825
-    isCached: true
-
-related:
-  - title: "2022 Will See Increasing AI Role in Augmented and Virtual Reality"
-    excerpt: "Trend Report identifies the key AR market trend that will deliver in 2022—and the one that won't NEW YORK, Jan. 4, 2022 /PRNewswire/ -- In its new whitepaper, 70 Technology Trends That Will—and Will Not—Shape 2022,"
-    publishedDateTime: 2022-01-05T04:30:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=594883"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 37
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
-
-secured: "skMpLXuIuuAf7kl+EF8Z4aESVmaX56MqTbY9le8ENFbmt8fvouKZ6iSmVSrYhlGCqJtUpq6VV0Gh09eQytBuDt1yFySHG2epRBZqfRfWn/OFPi08twWF+H06/2hxns2jmnAP8q5ufuv47cfNtXDDaZSMeymgrMe1jhJFPnSV5e/zkdc6S51QbiUUUJGVTk45oBgPWJ/7EFzIGAkbj2LPaMniwv5fRTHKC9mObV29hNMDDxq7LBtARDQm52Yin9G4vjzn6M9zqLCSt5rlpmFrddNdVI6+il/uY4CH6LNRUt0yc46daLIYcUDWzlObxX6woF+zNgx8MNqO4ZscB9YIC9QC+M0x87hgtrMfsIkgZzE=;YXjKB8sO1Si9e4EXP+XZpQ=="
+secured: "brpDnZ8qxgLgVa+e+zSeGhROS+ILzXMMhfR9p182Iem13fY7Y5DFu5SolDqRcwLqiUv4MJMzEv4qMvXW5oUvv+5xeFsq2cJ2MUmvF5bZaUKEjDz/87nvwVNEfnW1WcTViSeXsgSs07gqP62+cfFUvWGBUiXHWzRqPL8q2JuNrfy0nwK3rzF0UTAzOtYoQ2oJ4Y00WnoeHbzEjx1ylpwhnZ8jWTY8MRnvHvXRyjC6kYe7iZoAKCRsefBLedWWvkmdMkcx4ohh4oRknzUj6i/Sn0T3Fp7sCtv6QA9m5DfQOOqWZNTIAUNiLcbCVsvzb/iLK4omXtMruwVSktzew1ONUp15oH2bcVy+mXuk/3oIRlpFHvIW2mrleVGDeP+g51Gtt4uHN8lsa1mJg0QjZdp2vnTqEcXdC7ET6YMWPMtmeiiUqz2hq9gi3+GWM4NG8vaHyhsfFlK5xQXCma8zZjsLj/eW3IVso1DlhJ9a5Ea08aD82kJkdpTOyiCv3oJEgSwPhwmMWXK9yrwnDW4cmmE+bg==;U0zfXnr9l5Bu26VpLF4kNQ=="
 ---
 
