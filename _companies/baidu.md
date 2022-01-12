@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "BaiduResearch"
   url: "https://twitter.com/BaiduResearch"
-  followers: 57044
+  followers: 57043
 
 size: 10,001+ employees
 yearFounded: 2000
