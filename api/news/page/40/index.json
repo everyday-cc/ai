@@ -2,6 +2,49 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-12-08-will-we-ever-cheat-death-and-become-immortal-with-mind-uploading.md",
+      "title": "Will We Ever Cheat Death and Become Immortal With Mind Uploading?",
+      "excerpt": "Mind uploading is a complicated and advanced technology but it is not impossible as it sounds. But may it be a self-defeating endeavor?",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/cheating-death-and-becoming-immortal-with-mind-uploading",
+      "originalUrl": "https://interestingengineering.com/cheating-death-and-becoming-immortal-with-mind-uploading",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/PrO3xvmEGq/sizes/futuristic-vr-with-businesswoman-using-digital-tablet-picture-id1303398550_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/cheating-death-and-becoming-immortal-with-mind-uploading",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/cheating-death-and-becoming-immortal-with-mind-uploading",
+      "publishedDateTime": "2021-12-07T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-the-fintech-revolution-in-china.md",
       "title": "The FinTech Revolution In China",
       "excerpt": "China has seen an incredible transformation over the past few decades. It's gone from being one of the poorest countries in Asia to a thriving, industrialised nation that is now the second-largest economy in the world.",
@@ -1080,58 +1123,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-plans-to-take-self-driving-car-unit-mobileye-public.md",
-      "title": "Intel plans to take self-driving car unit Mobileye public",
-      "excerpt": "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/intel-mobileye-ipo-idCAKBN2IM010",
-      "originalUrl": "https://www.reuters.com/article/intel-mobileye-ipo-idCAKBN2IM010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20211207&t=2&i=1583830999&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEHB600M",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2IM010",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2IM010",
-      "publishedDateTime": "2021-12-06T23:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -28,6 +28,20 @@ images:
 
 related:
   - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
+    excerpt: "© 2022 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2022-01-08T19:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
     excerpt: "Providing data from the world's most accurate weather forecaster1, IBM Watson Advertising's Weather Analytics harness the relationship between weather and consumer behavior using artificial intelligence to extract deep insights to help businesses make more ..."
     publishedDateTime: 2022-01-07T13:02:00Z
     webUrl: "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange"
@@ -57,6 +71,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
+    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
+    publishedDateTime: 2022-01-10T13:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/articleshow/88814127.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 33
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-665726,msid-88814157/technology.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Fractal expands cloud AI offerings with the acquisition of Neal Analytics"
     excerpt: "Fractal's acquisition of Neal Analytics will deepen Fractal's capability to scale AI on Microsoft's multi cloud ecosystems for its Fortune 500 clients and further expand its presence in North"
     publishedDateTime: 2022-01-11T22:56:00Z
@@ -66,6 +96,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 18
+  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
+    publishedDateTime: 2022-01-10T14:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "uqjEEi1bHrK3Kvnk4B/ZxEDgSM0ULlx7h5Pkum9lSl0h8E/xjdYHbSOYQBm9Fzpaim7D56rEuzz5XHSiwxRxdCcN9t1CEYdfD3yGUWk92+pZaz7epASK0noDMWAl1k7nsOag4fC/IHoGeY0CS79apEjeEyWbY/QKd2NeU00KN/1gDffuM9E8r6pZxjidSi8UaupWmRoU0jYTbdBp7UJpOglydL3dA4KDcjh4FX9uZ8SoBUfWT1OCd1BnH8rlJrz6wlO1m/RiK37FJsT3j0VmA8pXhQx7+Fw19sLVQ1oZ1LwSjZAsA4gFxheB47ztEBWHXaC0lSehJLKV5eio5WRa9rhbWJ0K4KcYO3U1A5HvK5M=;RTnxWpMNMc1cKDVcVYCiRQ=="
 ---

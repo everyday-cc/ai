@@ -40,6 +40,15 @@ related:
         width: 2880
         height: 1170
         isCached: true
+  - title: "Researchers use artificial intelligence to guide the search for the next SARS-like virus"
+    excerpt: "Scientists have demonstrated the power of artificial intelligence to predict which viruses -- like SARS-CoV-2, the virus that led to the COVID-19 pandemic -- could infect humans, which animals host them,"
+    publishedDateTime: 2022-01-12T01:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/01/220110184916.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 38
   - title: "Researchers use AI to search for next SARS-like virus"
     excerpt: "An international research team of scientists has demonstrated the power of Artificial Intelligence (AI) to predict which"
     publishedDateTime: 2022-01-11T10:51:00Z

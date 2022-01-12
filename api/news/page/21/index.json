@@ -2,6 +2,50 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-21-ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft.md",
+      "title": "AI in Social Media Market by Product, Applications, Geographic and Key Players: Google, Facebook, Microsoft",
+      "excerpt": "Instagram (owned by Facebook) uses AI to identify visuals. The AI in Social Media Market research report provides a thorough and comprehensive analysis of the global Industry. It contains ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2021/12/AI-in-Social-Media.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-how-automation-is-transforming-healthcare-jobs.md",
       "title": "How Automation Is Transforming Healthcare Jobs",
       "excerpt": "Both current and future doctors will need to navigate a sea of big data as digitization and its allied technologies wind their way deeper and deeper into the fabric of our daily routines and work life.",
@@ -1077,49 +1121,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-rigetti-provides-business-update-and-nine-month-2021-financial-highlights.md",
-      "title": "Rigetti Provides Business Update and Nine-Month 2021 Financial Highlights",
-      "excerpt": "Rigetti Computing (“Rigetti” or the “Company”), a pioneer and leader in hybrid quantum-classical computing, today announced business highlights for the year to date and financial highlights for the nine months ended October 31,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/business-c3b26fe1babf59b779f4567dd9528570",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/business-c3b26fe1babf59b779f4567dd9528570",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-20T13:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

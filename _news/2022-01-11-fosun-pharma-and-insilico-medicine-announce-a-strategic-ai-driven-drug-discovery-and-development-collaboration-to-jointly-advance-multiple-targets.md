@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/in/news-releases/fosun-pharma-and-insil
 webUrl: "https://www.prnewswire.com/in/news-releases/fosun-pharma-and-insilico-medicine-announce-a-strategic-ai-driven-drug-discovery-and-development-collaboration-to-jointly-advance-multiple-targets-829629042.html"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1268
     height: 664
     isCached: true
-
-related:
-  - title: "Insilico Medicine to Present at the 40th Annual J.P. Morgan Healthcare Conference"
-    excerpt: "Insilico Medicine (\"Insilico\"), an end-to-end artificial intelligence (AI)-driven drug discovery company, will virtually participate in the 40th Annual J.P. Morgan Healthcare Conference. Alex Zhavoronkov,"
-    publishedDateTime: 2022-01-07T10:55:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=596729"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 34
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
 
 secured: "PEcljcfm2KJmwNhufH304A7ldrMG+G8tOO2z5OlNHep0hCiDXaaiGNw45nM/8ukfYBoQI2hd59FNltScEprYeSM+pjuUwfmvEFjb979DFWXIlYqvEqAsDCtkJ5yyGgspA2SLWMLC1FECOzAeN+NMvLvZ15qubJClruL+9zllE40GmMmU1kk2+c3kn9PMe/KflhRDIeAhKoReVVedP9+r2wxhKHTF6azYjuTm8TUG/3ItHXCQa5QWqpZCqR8HbseqysQzcTkzYrtxJT2F37OJebO/sFi5fQKNQ7JijiuFbsjoV8HECSJT0m6JJtDJCTEQ2OPqKmXN2Ggwn3UZVBJLSrjVeJikO+rpQKZdeb7h4/+3Pt4Rydxbroz58I8UlyascvqdVCpv+F9+RPTjT3Ffnv7esmkFrlxi1e7nD24ZdOeNsIxNCFb8yW0KNapLasQAt6CvqBWJSuLJqe9DjQSEmTWQUDxFM6z4JXc3xpt4dfSywIIMKR3eEUYUM24EaHGBb2pnJjd/CdEinXZLFPmyOQ==;TIB87WeQLPY9Jgb0WCmkDw=="
 ---

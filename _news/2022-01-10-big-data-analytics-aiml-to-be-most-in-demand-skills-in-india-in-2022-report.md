@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/business/big-data-analytics-aiml
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report"
 type: article
 quality: 72
-heat: 132
+heat: 112
 published: true
 
 provider:
@@ -75,22 +75,6 @@ related:
         height: 900
         isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
-    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
-    publishedDateTime: 2022-01-10T13:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/articleshow/88814127.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 33
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-665726,msid-88814157/technology.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
     excerpt: "With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI, the role of AI and machine learning will only continue to grow in 2022, with a significant increase in the demand for related roles,"
     publishedDateTime: 2022-01-10T18:24:00Z
     webUrl: "https://www.indiatvnews.com/business/news/adopting-chatbots-hiring-in-data-analytics-to-see-rise-in-2022-says-report-2022-01-10-753776"
@@ -106,15 +90,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
-    publishedDateTime: 2022-01-10T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
 
 secured: "byu9iRaPZaY4OJA5aDSi2KtBvWjF4pUu99RCWQ+Eel+r4Wbk0RbplhNF/q2AR4MPYfF0XrIB13LxDNPkPkqWLEoFlcFN9BNS/OMWFy05yyuZcrS0r8+w/D/Ge66sbg6NOlgd/jB4PeRJb1CZ9sAWAqHAfgetjLOF9CEISGnavadSH+haiLFVlVlRKgYXpF3YPM7eIi89kFPFrr0+qMWQgIqxiFkptEc1hjldV23yIpDQoE9dYYbs3SX9WBXsDhcDasbSBu1rBXzLqBldTRec/+5fiM113Vz5bVDDHHOygCUYgJ/msKbbEQK8qwEQ4WYymeXbZuV5NYDJOgA64ASbO2W8JMIWCj00rqUwawngiEI=;Jy5e97IryRKn6W9ifi+pHg=="
 ---

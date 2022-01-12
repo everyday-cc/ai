@@ -26,6 +26,24 @@ images:
     height: 520
     isCached: true
 
+related:
+  - title: "DeSantis touts Florida's 'freedom' from COVID mandates, lockdowns during State of the State speech"
+    excerpt: "In his \"State of the State\" address, Gov. DeSantis referred to Florida being a free state 10 times during the 33-minute speech. \"Freedom works. Our economy is the envy of the nation,\" he said. “Florida has become the escape hatch for those chafing under authoritarian,"
+    publishedDateTime: 2022-01-11T19:18:00Z
+    webUrl: "https://www.fox13news.com/news/gov-desantis-to-lay-out-2022-agenda-in-state-of-the-state-speech"
+    ampWebUrl: "https://www.fox13news.com/news/gov-desantis-to-lay-out-2022-agenda-in-state-of-the-state-speech.amp"
+    cdnAmpWebUrl: "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/gov-desantis-to-lay-out-2022-agenda-in-state-of-the-state-speech.amp"
+    type: article
+    provider:
+      name: Fox 13
+      domain: fox13news.com
+    quality: 30
+    images:
+      - url: "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/10/932/470/ron-desantis.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
+
 secured: "X8+1Fs1zRf1XKXHa9sgWY8YDne8k1nBNXIVKyM3bDfg9RyuGxpsp0a7xt3Gz1XpXoHVW+Wgnluss52kZeoBoK2+qk5I26+3miue6lJY+XeBE1myG1iqzsRsY+sj55VKcMXu5w0FAoMO/2nRqY/r2lrF8p1JCQDgDsz25fBTaetE159zw5nkBuJYzY4GoQuOJ0wrR0Gmo3eI1ACW2hfU8vHDCBgEa/dgos2hmkBKFt6DqDV0XJF6KlWinJ+/NCnK5HuC97PO5cSJ/xlctlgwEGRSXyndv2Ipb8dY21hgIdig/n46rPyqZ4jW259laVLuKmQaC/Ldsk7EZ9jhFvzJIrfmzGJx2uN8+HM+GoL5ruY4=;kpOsBEjZ3xpubWcHSTFRww=="
 ---
 

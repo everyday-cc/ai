@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2021-12-02-robotaxis-approved-to-start-services-in-beijing.md",
+      "title": "Robotaxis approved to start services in Beijing",
+      "excerpt": "Despite Beijing’s tech crackdown on both local and international companies in China, robotaxis have been making the headlines in the country.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "originalUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/11/081_AFPS14105-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
+      "publishedDateTime": "2021-12-01T18:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-aws-wants-to-make-it-easier-to-get-to-grips-with-machine-learning.md",
       "title": "AWS wants to make it easier to get to grips with machine learning",
       "excerpt": "Getting to grips with Machine Learning (ML) technology could soon be much easier thanks to a new service from Amazon Web Services. The company has launched Amazon SageMaker Studio Lab, a free, no ...",
@@ -1121,49 +1164,6 @@
         "AWS AI",
         "Machine Learning",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-announces-six-new-amazon-sagemaker-capabilities.md",
-      "title": "AWS Announces Six New Amazon SageMaker Capabilities",
-      "excerpt": "Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced six new capabilities for its industry-leading machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-six-new-amazon-sagemaker-capabilities/article_fe10ca33-5d35-51de-a962-edec445d626c.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-announces-six-new-amazon-sagemaker-capabilities/article_fe10ca33-5d35-51de-a962-edec445d626c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T11:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

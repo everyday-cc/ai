@@ -75,22 +75,6 @@ related:
         height: 900
         isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
-    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
-    publishedDateTime: 2022-01-10T13:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/articleshow/88814127.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 33
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-665726,msid-88814157/technology.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
     excerpt: "With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI, the role of AI and machine learning will only continue to grow in 2022, with a significant increase in the demand for related roles,"
     publishedDateTime: 2022-01-10T18:24:00Z
     webUrl: "https://www.indiatvnews.com/business/news/adopting-chatbots-hiring-in-data-analytics-to-see-rise-in-2022-says-report-2022-01-10-753776"
@@ -106,15 +90,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
-    publishedDateTime: 2022-01-10T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
 
 secured: "r8HIDb5ohRFUuNrzVp72WhIaTCaTIeCraH+EDVx/WKt775Gltx1CgIGZ++l3yu8hdd6vqm5zT3yQlt2XtwdOQfJkKnPvNw8iyD1K47UIxuyef7cZuH0ZC6eQk4y9wOiAZskGapScfNn0ddCkfsKE483CNM5bw1s/z2q3HQ6tEpnMS3lOeOAWIXkUYorK1xlLDsbx8HFSdtLXhdW7yCoPGrsrXMsLlqNx4fY7RYbkSowgXW1J3I3TZ2UrICcs/yJFS054f6Niuw0OYILD5mHF7c5WMsvVgW+KhLu5DN515w2qKoQk7Go1WwmdiEhzl/2p4xxnRN4TZKQbeuUKbdz1/2ol7s6h1o2xhSmPaewvXb8gPLRIIeJ46oz8J4v+E3GR37mJvy6IzmC728PJQr1e055VWk0SJIhbRncLXEpopTwhG77OSk+Fd6mHzaH+Rg86exHvD1UcHRgII6B+iOC4yRnEKdVq+bPkL/K5AjIIVPcP13nSWaPeNSGa/pgOOApefMV2s89ZzFT8mZALjdyJZA==;Jupu+xgH2TjNj6elBDJGQQ=="
 ---

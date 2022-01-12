@@ -2,6 +2,48 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-08-clearview-ai-ordered-to-comply-with-canadas-privacy-rules.md",
+      "title": "Clearview AI Ordered to Comply With Canada’s Privacy Rules",
+      "excerpt": "Canada’s privacy regulators have ordered Clearview AI to comply with a previous directive to stop collecting images of residents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Clearview-AI-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/amp/",
+      "publishedDateTime": "2022-01-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
       "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
       "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the adoption of artificial intelligence and machine learning, next-gen automotive and mobility,",
@@ -115,7 +157,7 @@
       "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -219,7 +261,7 @@
       "originalUrl": "https://inshorts.com/en/news/blurubased-ai-and-computer-vision-startup-avataar-raises-$45-mn-1641560896833",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -251,50 +293,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
-      "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
-      "excerpt": "Providing data from the world's most accurate weather forecaster1, IBM Watson Advertising's Weather Analytics harness the relationship between weather and consumer behavior using artificial intelligence to extract deep insights to help businesses make more ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -725,6 +723,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag.md",
+      "title": "Buy Or Build An Autonomous Race Car To Take The Checkered Flag",
+      "excerpt": "For those of us whose interest and expertise lie in software, Amazon Web Services just launched AWS DeepRacer: a complete package for exploring machine learning on autonomous vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "originalUrl": "https://hackaday.com/2018/11/30/buy-or-build-an-autonomous-race-car-to-take-the-checkered-flag/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2018/11/aws-deepracer-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -1164,41 +1205,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-ambarella-amba-unveils-ai-based-image-signal-processor.md",
-      "title": "Ambarella (AMBA) Unveils AI-Based Image Signal Processor",
-      "excerpt": "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
-      "originalUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
-      "publishedDateTime": "2022-01-06T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

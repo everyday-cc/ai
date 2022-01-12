@@ -57,6 +57,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Global System-on-Chips’ R&D Portfolio Analysis and Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
+    excerpt: "Chips’ R&D Portfolio Analysis and Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This technology and innovation study focuses on the benefits of SoC, the emerging trends in SoC hardware,"
+    publishedDateTime: 2022-01-11T17:38:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-e4a7140664b643b897f8c0b58f8cc0ae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "NmP6TgW0fKOSGRs9gZq50NX43MuoXzzcfEk8PIod97nmJs0qDTMvtemcN+vwyCXXG/fbnEvRET6H7T+oJvsswK2vu7kEeuvn3QM8ZIWiphg3qo1SakXa04boj8pX4BjlmK/kTgGNmDX9HgH6h0xBhh4Z5NN6+Aat0LBt5eJ0+6wVOkpMZEhrHK93Xdva401xzcMoWKpuGtS2/rRpvP4ky9/UDEE0aO1UI6E2yqdvTLw5ynB6YwiPNUAK6tfNId4W8lQtp03MS7MEiPLGLYfqSEat+RC6U6iWG8nnfJK7TY2AUVzVzYAKw2o2+W4N0WhZ7k6gCQkoNKWF4SkVibgNeajLOwSXTWiUzUkS8JZ86W8=;mNXjSuvlm+lv/eckR88WHg=="
 ---

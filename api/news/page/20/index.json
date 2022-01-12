@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-22-is-artificial-intelligence-about-to-transform-the-mammogram.md",
+      "title": "Is artificial intelligence about to transform the mammogram?",
+      "excerpt": "An MIT researcher has devised a radical technique: an AI that can predict breast cancer. But it’s a long climb from the lab to the real world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/12/21/mammogram-artificial-intelligence-cancer-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K7FJNC6TMI6ZMPPZN4L44L7BY.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T14:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-faster-safer-more-efficient-data-processing-with-edge-ai.md",
       "title": "Faster, safer, more efficient data processing with Edge AI",
       "excerpt": "The integration of AI into devices will improve the efficiency, security, and speed of data analytics. Edge AI is the future of data.",
@@ -1062,50 +1105,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft.md",
-      "title": "AI in Social Media Market by Product, Applications, Geographic and Key Players: Google, Facebook, Microsoft",
-      "excerpt": "Instagram (owned by Facebook) uses AI to identify visuals. The AI in Social Media Market research report provides a thorough and comprehensive analysis of the global Industry. It contains ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-social-media-market-by-product-applications-geographic-and-key-players-google-facebook-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2021/12/AI-in-Social-Media.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T05:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

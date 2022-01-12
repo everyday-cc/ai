@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-05-2022-startup-predictions-the-trends-sectors-and-tech-worth-watching.md",
+      "title": "2022 Startup Predictions: The Trends, Sectors, And Tech Worth Watching",
+      "excerpt": "Will 2022 be another record year for investment into the European venture community? Here are a few of the trends and technologies likely to drive investment decisions in the year ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/",
+      "originalUrl": "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d5a9fe900aca137e034ea8%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kjartanrist/2022/01/05/2022-startup-predictions-the-trends-sectors-and-tech-worth-watching/amp/",
+      "publishedDateTime": "2022-01-05T05:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-using-ai-for-drug-discovery.md",
       "title": "Using AI for drug discovery…",
       "excerpt": "Protai, an Israeli MedTech company is changing the way new drugs are discovered with their AI-powered platform… Protai, an Israeli AI-powered drug discovery start-up, today announced its emergence from stealth,",
@@ -1149,49 +1200,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-use-a-convolution-neural-network-that-follows-the-structure-of-the-lenet-cnn-to-classify-images-of-the-miniplaces-csail-datasetdataset.md",
-      "title": "Use a Convolution Neural Network that follows the structure of the LeNet CNN to classify images of the Miniplaces CSAIL datasetDataset",
-      "excerpt": "Use a Convolution Neural Network that follows the structure of the LeNet CNN to classify images of the Miniplaces CSAIL datasetDataset - GitHub - seanericksonpl12/CNN-Image-Classifier: Use a",
-      "sourceUrl": null,
-      "webUrl": "https://github.com/seanericksonpl12/CNN-Image-Classifier",
-      "originalUrl": "https://github.com/seanericksonpl12/CNN-Image-Classifier",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://opengraph.githubassets.com/1f5d672059fa66cce30739690ecd1be564fbcd099254ac31f4afc6a2cd54eb0f/seanericksonpl12/CNN-Image-Classifier",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T11:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GitHub",
-        "domain": "github.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

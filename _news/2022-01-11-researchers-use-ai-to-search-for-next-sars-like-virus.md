@@ -40,6 +40,15 @@ related:
         width: 2880
         height: 1170
         isCached: true
+  - title: "Researchers use artificial intelligence to guide the search for the next SARS-like virus"
+    excerpt: "Scientists have demonstrated the power of artificial intelligence to predict which viruses -- like SARS-CoV-2, the virus that led to the COVID-19 pandemic -- could infect humans, which animals host them,"
+    publishedDateTime: 2022-01-12T01:57:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/01/220110184916.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 38
   - title: "OU-led research uses artificial intelligence to guide the search for the next SARS-COV-2"
     excerpt: "Daniel Becker, an assistant professor of biology in the University of Oklahoma’s Dodge Family College of Arts and Sciences, has been leading a proactive modeling study over the last year and a half to identify bat species that are likely to carry betacoronaviruses,"
     publishedDateTime: 2022-01-10T23:31:00Z

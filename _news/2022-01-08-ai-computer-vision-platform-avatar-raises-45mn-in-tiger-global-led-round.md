@@ -43,22 +43,6 @@ related:
         width: 736
         height: 395
         isCached: true
-  - title: "AI and Computer Vision platform Avataar raises $45 mn in Series B funding"
-    excerpt: "Avataar's platform powers the largest global eCommerce marketplaces and leading D2C brands, shaping consumer journeys with life-sized 3D product evaluation coupled with interactive feature discovery."
-    publishedDateTime: 2022-01-07T09:26:00Z
-    webUrl: "https://www.business-standard.com/article/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-and-computer-vision-platform-avataar-raises-45-mn-in-series-b-funding-122010700711_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 73
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/06/full/1609874455-1747.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Sequoia, Tiger Global back $45m round of Indian AR startup"
     excerpt: "India-based Avataar, an AI and augmented reality startup, said it raised US$45 million in a series B round that was led by Tiger Global and joined by existing backer Sequoia Capital India. Established in 2014,"
     publishedDateTime: 2022-01-07T13:13:00Z

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "FOCUS-At CES, tech alliances firm up in the self-driving car wars"
-    excerpt: "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market."
-    publishedDateTime: 2022-01-07T11:00:00Z
-    webUrl: "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT"
+  - title: "Watch this self-driving racecar go 173 mph with no human driver inside"
+    excerpt: "Autonomous racecars competed head-to-head at the Indy Autonomous Challenge at CES. The competition aims to improve self-driving technology for use on and off the racetrack."
+    publishedDateTime: 2022-01-10T22:33:00Z
+    webUrl: "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CNN
+      domain: cnn.com
     quality: 74
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL"
-        width: 830
-        height: 545
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220110165120-polimove-self-driving-racecar-super-tease.jpeg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
@@ -58,20 +58,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Tech alliances with chip corporations at CES in self-driving tech world"
-    excerpt: "Major automakers like General Motors, or Ford find companies with an upper hand in techs like Tesla and Apple are entering the market."
-    publishedDateTime: 2022-01-08T04:25:00Z
-    webUrl: "https://techstory.in/tech-alliances-with-chip-corporations-at-ces-in-self-driving-tech-world/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 41
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/01/JeX_mrWItiY3QwRb80nYiAU_zpUxMFxzvNuiAKpcU1w.jpg"
-        width: 533
-        height: 300
         isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Friday (Jan 7) in an unprecedented high-speed ma"
@@ -101,6 +87,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Technology & Innovation Roundup: Self-driving car technology from FAU wins second patent"
+    excerpt: "That’s the idea behind new self-driving car technology coming out of Florida Atlantic University in Boca Raton. The tech, which uses artificial intelligence and machine learning to mimic driving behavior,"
+    publishedDateTime: 2022-01-10T11:17:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2022/01/10/technology-innovation-roundup-01-07-22.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "ClhczcvZtIgSMJwZHbdGy2i9+YQ8NNk2QTI+BaSsCkwYHeiiITOhw2cNRsLeXiPLzIdfHAZctIXIpe+xvfrr3mh3p9DkXEpBI9MbAm9Pq8/gu7E0w9bKpT3wEyceGpOoset7pG/y5iYUclVs6xyJePZE6lw5GLKs5mPqYhZ9AtMBsHM5Q3jgPjCGnl+s2MRqmIEHY/DEer4s6l3lAK+Sw/hQsnKYyyYQSOS+2hq7mj2TQtznY7y1gYQznUDTZl6SpselyxrBWT6m4Yxth3q4c1jDejG0X4mHqRhO0sOiGBmDzRPP0MYWTvDAmiVhR08Z3Kfcnv4aZApjiQqI/TLAnK9c3NtNwTafbUgCxX6JNi8=;9EaGXHDBw+/PD4jjjDeMpQ=="
 ---

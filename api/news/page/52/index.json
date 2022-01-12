@@ -2,6 +2,50 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
+      "title": "AWS pitches robotics as the next big thing",
+      "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
+      "originalUrl": "https://itwire.com/cloud/aws-pitches-robotics-as-the-next-big-thing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/7aaca86652042fcb618061ebd565670c_M.jpg",
+          "width": 375,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aws-targets-the-energy-industry-with-launch-of-the-aws-energy-competency-program.md",
       "title": "AWS targets the energy industry with launch of the AWS Energy Competency Program",
       "excerpt": "Amazon today announced a new program that will formally identify AWS Partners who develop specialized solutions aimed at the energy industry. The new AWS Energy Competency Program, as it’s called, will identify these specialized partners who have already demonstrated the technical expertise",
@@ -1098,50 +1142,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.md",
-      "title": "Trans-AI will propel Artificial General Intelligence to Superintelligence",
-      "excerpt": "The critical issue is that Artificial Intelligence is weak and narrow, instead of being trans-disciplinary AI or true machine intelligence and learnin..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-87995459,imgsize-1900172,width-1200,height-628,overlay-etcio/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/trans-ai-will-propel-artificial-general-intelligence-to-superintelligence/87995459",
-      "publishedDateTime": "2021-11-29T19:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

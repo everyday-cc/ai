@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Speech-to-text API Market Share Forecast, Growth Data by 2022-2025 | Size Analysis by Top Regions, Sales Revenue and Regional Segments Analysis"
-    excerpt: "Global “Speech-to-text API Market” Research Report showing qualitative insights on business developments, presents,"
-    publishedDateTime: 2022-01-07T09:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-share-forecast-growth-data-by-2022-2025-size-analysis-by-top-regions-sales-revenue-and-regional-segments-analysis-2022-01-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Telecommunication Market 2021: Industry Analysis, Opportunities, Technology, Demand, Top Players and Growth Forecast 2027"
     excerpt: "Summery New Research study examines the current worldwide Artificial Intelligence in Telecommunication Market in terms of demand and supply as well as pricing patterns for the current and future years The revenue market share profit margin primary product portfolio and"
     publishedDateTime: 2022-01-10T10:42:00Z

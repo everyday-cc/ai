@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "FOCUS-At CES, tech alliances firm up in the self-driving car wars"
-    excerpt: "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market."
-    publishedDateTime: 2022-01-07T11:00:00Z
-    webUrl: "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT"
+  - title: "Watch this self-driving racecar go 173 mph with no human driver inside"
+    excerpt: "Autonomous racecars competed head-to-head at the Indy Autonomous Challenge at CES. The competition aims to improve self-driving technology for use on and off the racetrack."
+    publishedDateTime: 2022-01-10T22:33:00Z
+    webUrl: "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CNN
+      domain: cnn.com
     quality: 74
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL"
-        width: 830
-        height: 545
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220110165120-polimove-self-driving-racecar-super-tease.jpeg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "AI-driven self-driving race cars create history at CES 2022"
     excerpt: "Self-driving race cars made their own place at the CES 2022. Italian American team PoliMOVE developed a self-driving race car based on a Formula One car, nicknamed as Minerva claimed to have created history at the event,"
@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tech alliances with chip corporations at CES in self-driving tech world"
-    excerpt: "Major automakers like General Motors, or Ford find companies with an upper hand in techs like Tesla and Apple are entering the market."
-    publishedDateTime: 2022-01-08T04:25:00Z
-    webUrl: "https://techstory.in/tech-alliances-with-chip-corporations-at-ces-in-self-driving-tech-world/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 41
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/01/JeX_mrWItiY3QwRb80nYiAU_zpUxMFxzvNuiAKpcU1w.jpg"
-        width: 533
-        height: 300
-        isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Friday (Jan 7) in an unprecedented high-speed ma"
     publishedDateTime: 2022-01-08T20:08:00Z
@@ -101,6 +87,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Technology & Innovation Roundup: Self-driving car technology from FAU wins second patent"
+    excerpt: "That’s the idea behind new self-driving car technology coming out of Florida Atlantic University in Boca Raton. The tech, which uses artificial intelligence and machine learning to mimic driving behavior,"
+    publishedDateTime: 2022-01-10T11:17:00Z
+    webUrl: "https://www.bizjournals.com/southflorida/news/2022/01/10/technology-innovation-roundup-01-07-22.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 0
 
 secured: "DElK3Afj+9svuItbp68p0s8hk5Gy6jaWdXnULJUc1MMqzUf7TGsxZ9m3XkTXu/w7kzQ+aYTnx6xmoGGrb4y3M6hrSw7mFcLwoiPxvS7b+WB6vbmXhgCng5yoJGrKs4ukdjl2p6DUUTCiZcglVeDTlAMTaeb6XmWgyVKgRMOJ0B/nUOPxVDuiJ2Sp1QT1tlZozEHVv1sMIvUml0Q6otb5naRL3kNbxHt6TW/QkAYd1Kl6e5gnA7JxOsuP8CVUtTI/lq/rZfRS51SruyEPPMvjK+ti/OgjUUlLkTnhJNgHMjb9levdXN8clZB4q000E0kscU5LE5K6K1fU9kPl3Tq0XSS4KdqgqfDIK+leT0LLMKU=;6DYbQxJOq9UtnHBS7x7h2g=="
 ---

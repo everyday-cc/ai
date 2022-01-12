@@ -89,31 +89,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
-    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
-    publishedDateTime: 2022-01-10T13:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/articleshow/88814127.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 33
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-665726,msid-88814157/technology.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
-    publishedDateTime: 2022-01-10T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
 
 secured: "5nZQH10iAHbnMq5B4Lo1MBS5oCIW+piXMsw06q98q0gqilCGCwjQfj2Db/6qC379kezAokGbhAAt65clb18O+at2SH6ty8pJxQmIwnxo+WtvZVb8nDi0oM7V9kSkLr+Sli1noO5YHBB1tvt7D2+jrutIneCPM3IDdSdzaQD1icdKPe+yzL6nenZqROiYCrXOeMsnMgcjwv5+B9BB1yKQlyzzV5GYd5zFDwLnkDvjzBbctoBhWtEHptU2uTcpmElI/QVROO3Sb3qGVo5JfDZRO9bg6XL3tJn+ptvIzp+yMtPNvhq3FvJFdDXR8743YjomvSEL4uLdqZDISJfW1Fog4XhQldVb0PdOEHmVjHdNRY7JnAizdQl/l30fpVhObjKQjEXETiQNrK5T/TsiHlxAmKkliW0FBKra03Ooj2SRDynAJpppfLfANJWq3Y6c5WI4pwM3bRoG/AvKKdrqGnAIW3SwpWUZWxZ+HcyLIGPnia5PNJyv2frxqzB0xOOmKvxggkkHLPdj+Lh2syezoXCP5Q==;9LF0CEtNo7IzFJ2XrCiVkw=="
 ---

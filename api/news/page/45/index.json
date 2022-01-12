@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
+      "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
+      "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/p24428632/moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24428632",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24428632",
+      "publishedDateTime": "2021-12-03T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-new-slaughterbots-video-warns-of-need-for-legal-controls-on-killer-robots.md",
       "title": "New ‘Slaughterbots’ Video Warns Of Need For Legal Controls On Killer Robots",
       "excerpt": "A new video highlights the risks posed by autonomous weapons or ‘killer robots’ – and the steps needed prevent them from being used. It even has Elon Musk scared.",
@@ -1089,59 +1132,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch.md",
-      "title": "Univ. of Washington deep learning researchers ‘hallucinate’ protein designs from scratch",
-      "excerpt": "New protein structures not seen in nature have emerged from deep learning software deployed by University of Washington researchers and their colleagues. The approach is a step toward building",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/",
-      "originalUrl": "https://www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2021/12/hallucinated-protein-630x352.png",
-          "width": 630,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2021/univ-of-washington-deep-learning-researchers-hallucinate-protein-designs-from-scratch/amp/",
-      "publishedDateTime": "2021-12-02T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],
