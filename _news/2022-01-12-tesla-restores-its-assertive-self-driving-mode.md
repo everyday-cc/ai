@@ -372,22 +372,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
-    excerpt: "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on"
-    publishedDateTime: 2022-01-07T13:22:00Z
-    webUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/"
-    ampWebUrl: "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-    cdnAmpWebUrl: "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/"
-    type: article
-    provider:
-      name: The Scottish Sun
-      domain: thescottishsun.co.uk
-    quality: 42
-    images:
-      - url: "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Tesla’s full self-driving beta may perform 'rolling stops'"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will 'n"
     publishedDateTime: 2022-01-10T05:40:00Z
@@ -415,6 +399,20 @@ related:
       - url: "https://s.hdnux.com/photos/01/23/43/17/21902317/3/rawImage.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Tesla adds chill and assertive self-driving modes"
+    excerpt: "Tesla's automated driver assist feature has added an assertive driving mode. The setting will follow other cars more"
+    publishedDateTime: 2022-01-12T03:59:00Z
+    webUrl: "https://www.businessghana.com/site/news/Technology/254221/Tesla-adds-chill-and-assertive-self-driving-modes"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-11-134342000.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"

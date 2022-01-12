@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html"
 type: article
 quality: 88
-heat: 98
+heat: 99
 published: true
 
 provider:

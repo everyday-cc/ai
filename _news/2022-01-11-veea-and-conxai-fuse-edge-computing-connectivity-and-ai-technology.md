@@ -2,17 +2,21 @@
 category: news
 title: "Veea and Conxai Fuse Edge Computing, Connectivity, and AI Technology"
 excerpt: "With a common mission to transform the global construction industry using AI-driven network edge solutions designed to make worksites safer, more efficient, and manageable, Veea Inc., an innovation leader in integrated smart edge connectivity,"
-publishedDateTime: 2022-01-11T13:08:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-veea-conxai-fuse-edge-computing-connectivity-ai-technology-/2022/01/11/9523556.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-veea-conxai-fuse-edge-computing-connectivity-ai-technology-/2022/01/11/9523556.htm"
+publishedDateTime: 2022-01-11T13:15:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/veea-and-conxai-fuse-edge-computing-connectivity-and-ai-technology-1031093761"
+webUrl: "https://markets.businessinsider.com/news/stocks/veea-and-conxai-fuse-edge-computing-connectivity-and-ai-technology-1031093761"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 67
+heat: 97
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -39,22 +43,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Construction-1-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers"
-    excerpt: "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training."
-    publishedDateTime: 2022-01-09T17:51:00Z
-    webUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/"
-    ampWebUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
-    cdnAmpWebUrl: "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
-    type: article
-    provider:
-      name: The Constructor
-      domain: theconstructor.org
-    quality: 52
-    images:
-      - url: "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg"
-        width: 1600
-        height: 1000
         isCached: true
   - title: "Measuring Construction Activity and AI Analysis Can Control Overtime"
     excerpt: "A study used artificial intelligence to analyze jobsite activity recorded on several construction sites and found correlations that would allow contractors to plan overtime and control its use for max"
@@ -85,6 +73,6 @@ related:
         height: 600
         isCached: true
 
-secured: "A1xBHR89zwGMirqKGUYhQ54ov9ef0MheaiVUj5GLjJnUWp0ctqFsO5gJYKf/4SWevhKEYU7D7GJXGUVycV6IFnkpoaMcj1XuIM3BLE/FDjnj/Q6couQd2JMt/GTXfM6dVd8VfuUjbkDu/xF4hV2CZx00gxCWIivt3pxMIYQmGNh7nj9GLKoQpa5IZhiG9qO4DFkceWO3NPhVJhikl2O9vkPHj+05ZnCR0AeIPwllNn0QSpotaLJRysGGH4heAMK0aOflM+/7clnmpm3ikLD1LvLvsqzZzDX09uGZDTufyRDXYhS/kb6ED7Hkn9rkKPQrUN4D5G2UV6qGGrrxkMno9NLsL++WatfbhGbixFd26BUhOHfxViMc/2FLJd/85Cl7fCU4wwu0FrOs23Oc1V4ndOOz/GyYeVzWWxm5/i1Z/YrLhhuy7AZSdJYU8nziH9Y4FJM4wRh3NkZ0LAd7y7mLTpJ40a8tqZ1jb+GzQtlvb/0LrcdgDivuWeSH+wNXgC4g9GGOZsWE32ziBsUSECsELA==;u8HAnnucOepLY+4LvaeGCQ=="
+secured: "tC/SQrifs0zQrJsTnuAciy8s0mnV8pSmEidBmRDdYi7SO6p8ve1sDYghh4I8tZaPzsY9Ip0mW+ZVjvfdbY21wnxZeTTfAB4bq0WFpo3nLFJi1rzPoV63+9fJlECTalwSl82lQSZ1/W0XpmpBS2cjOurQoVME4E7/0484SiRz3e4D5cDEhymZ4i96OME0pUO1GvzpSgHUnAJFOi6Swgi9C3AaqjWIZxIetPPbYsmalSdr3xmYRIU3FwCxPlG+sHI82dNvWUE3qKHAQ6AjF7ZErkoZuzlYU8X7WwfD23Q/9l+Xo9r6m0CIe2XRM5CLztSdMKE2f9WmxHlaqx6O/CW+eJ3li2lge0qicvKn3uLwA2M=;D5Ye2VNgXu+2MvFeAUGUVA=="
 ---
 

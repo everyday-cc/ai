@@ -7,7 +7,7 @@ originalUrl: "https://investmentu.com/automation-stocks/"
 webUrl: "https://investmentu.com/automation-stocks/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 730
     height: 467
     isCached: true
-
-related:
-  - title: "5 Best Self-Driving Car Stocks to Buy Today"
-    excerpt: "The best self-driving car stocks are set to revolutionize the auto industry in a way we’ve never seen before. Check out my watchlist below."
-    publishedDateTime: 2022-01-10T10:09:00Z
-    webUrl: "https://investmentu.com/best-self-driving-car-stocks/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2022/01/best-self-driving-car-stocks.jpg"
-        width: 730
-        height: 467
-        isCached: true
 
 secured: "3Slf3c0CDoFry5LmZt+LfI8mnURcBALTwUt3N6rbo3hZEiA10TzWdabUwy4c5kN0jeg1rrOrtkz+ex5KRGpxJBF/xI0KQROFetb6ZeLZtnYRM2Y7KVZTHaUCBkoR5rcqqbcuUdEKA9cFeLJbY5se6wdSORkElp6xhUoWyR5bjAJbhwP+lzcQBuGOnVps7HtN7dAZXmTicNaXE9hoEgTKQUdE5Yj7nTU5lMrNbUakqf7sVoE43U0XfjVs9XPGqz6n+smdIm/sNJd833voiu4NevXhng9WFY/H+oUhJsxWTeqxvmZDI+sgj/LJO0BkgLq/tONDWUF7wVJjdsKc11juiNO8O16etYNybLGPrj80bp0=;szvUpMf5Bzd2QRFlCsNSgw=="
 ---

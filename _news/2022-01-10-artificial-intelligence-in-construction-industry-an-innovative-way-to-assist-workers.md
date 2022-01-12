@@ -9,8 +9,8 @@ ampWebUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-a
 cdnAmpWebUrl: "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: The Constructor
@@ -27,63 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Adding AI to the Construction Industry, Munich’s Conxai Raises $3M"
-    excerpt: "Munich-based Conxai has raised 2.7 million euros ($3 million) to harness artificial intelligence (AI) for the construction sector."
-    publishedDateTime: 2022-01-10T22:25:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/"
+  - title: "New incubator for AI collaboration"
+    excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
+    publishedDateTime: 2022-01-10T06:01:00Z
+    webUrl: "https://insights.globalspec.com/article/17993/new-incubator-for-ai-collaboration"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Construction-1-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Measuring Construction Activity and AI Analysis Can Control Overtime"
-    excerpt: "A study used artificial intelligence to analyze jobsite activity recorded on several construction sites and found correlations that would allow contractors to plan overtime and control its use for max"
-    publishedDateTime: 2022-01-11T11:45:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21992912/versatile-measuring-construction-activity-and-ai-analysis-can-control-overtime"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 39
     images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/01/16x9/Dodge_Versatile_overtime.61dcc16ce635a.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 999
-        height: 561
+      - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
+        width: 640
+        height: 382
         isCached: true
-  - title: "Veea and Conxai Fuse Edge Computing, Connectivity, and AI Technology"
-    excerpt: "With a common mission to transform the global construction industry using AI-driven network edge solutions designed to make worksites safer, more efficient, and manageable, Veea Inc., an innovation leader in integrated smart edge connectivity,"
-    publishedDateTime: 2022-01-11T13:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-veea-conxai-fuse-edge-computing-connectivity-ai-technology-/2022/01/11/9523556.htm"
+  - title: "Spartan Radar Applauded by Frost & Sullivan for Delivering Highly Innovative 4D Radar Solutions to the Automotive Industry"
+    excerpt: "Based on its recent analysis of the 4D radar for the automotive industry, Frost & Sullivan  recognizes Spartan Radar  with the 2022 North American Technology Innovation Leadership Award for its sophisticated and next-generation radar solutions."
+    publishedDateTime: 2022-01-11T14:49:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229811&cat=PR News Wire"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 37
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
     images:
-      - url: "https://mma.prnewswire.com/media/1722728/Veea_and_Conxai.jpg"
+      - url: "https://mma.prnewswire.com/media/1723780/Spartan_Radar_Award_Logo.jpg"
         width: 400
-        height: 267
-        isCached: true
-  - title: "Veea, CONXAI Connect Construction with Real Time AI Assistance"
-    excerpt: "Even the best laid plans experience hiccups. Measure twice and cut once only goes so far in optimizing construction plans, as even the best supervisor can make an error. Engineering and construction are two industries with slower than expected AI adoption,"
-    publishedDateTime: 2022-01-11T19:24:00Z
-    webUrl: "https://www.iotevolutionworld.com/fog/articles/451164-veea-conxai-connect-construction-with-real-time-ai.htm"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 37
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jan/6301620456-AdobeStock_237320164_connected_Construction_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
+        height: 366
         isCached: true
 
 secured: "PYi/1gj7gzaQPOQd6pGweS7Oz/LxQaUGbijSPUPCxQ7OcJa6g8xjoQO4ioNMLKNglurWzt0PVNcKAmoWXwqdu7iaYrbHpyu4fxVEt0h9VFe69wIwuEMXSM6b6KtLG3niANdNEdgqgsCfpC23mRbgV+Ct5DlRKluIraFNhqYj5sRhD+nGm0i7gOrggSVQqLCD+Bn9WCfhIPshumBeI+ChRB+IxRVpM2beLy2pRlxFC1aCL8ZZnggL8pzniPyyFX43tRjurY5mBGRLEV+xEh3T5m5l25CaFudqfGoRz0aGTBaIyaHzupeCFyH7HdeTgt9weFDU/Nuxtwo6BIVxvwl3GOv6jW06Yu5yngH+i+JsiNA=;lFpL/L23PCudvbR7Azrrag=="

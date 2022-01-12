@@ -2,6 +2,57 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-12-23-ai-firm-sensetime-prices-hong-kong-ipo-at-bottom-of-range.md",
+      "title": "AI Firm SenseTime Prices Hong Kong IPO at Bottom of Range",
+      "excerpt": "SenseTime Group Inc. is likely to price its Hong Kong initial public offering at the bottom of its marketed range, according to people familiar with the matter. SenseTime plans to",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-22/sensetime-is-said-to-price-hong-kong-ipo-at-bottom-of-range",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-22/sensetime-is-said-to-price-hong-kong-ipo-at-bottom-of-range",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0jPdbk7bxKw/v1/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T08:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-jing-jiaweis-jm9-series-domestic-gpu-available-for-sale-in-china.md",
       "title": "Jing Jiawei’s JM9 series domestic GPU available for sale in China",
       "excerpt": "After completing preliminary testing, Jing Jiawei, a Chinese domestic GPU manufacturer, announced that their new JM9 series processors are now available for purchase.",
@@ -1083,57 +1134,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai.md",
-      "title": "Taking the world by simulation: The rise of synthetic data in AI",
-      "excerpt": "Would you trust AI that has been trained on synthetic data, as opposed to real-world data? You may not know it, but you probably already do.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/simulation-big-border.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/21/taking-the-world-by-simulation-the-rise-of-synthetic-data-in-ai/amp/",
-      "publishedDateTime": "2021-12-21T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

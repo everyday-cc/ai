@@ -33,20 +33,6 @@ related:
         width: 2560
         height: 1440
         isCached: true
-  - title: "Baidu to launch Level 2 autonomous car in 2023"
-    excerpt: "China’s technology giant Baidu is stepping up its efforts to expand in the autonomous vehicle segment with the commercial launch...Read"
-    publishedDateTime: 2022-01-07T12:12:00Z
-    webUrl: "https://www.just-auto.com/news/baidu-to-launch-level-2-autonomous-car-in-2023/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/37/2021/08/Baidu_Co_founder_CEO_Robin_Li_CCTV_host_Beining_Sa_sit.jpg"
-        width: 1270
-        height: 846
-        isCached: true
 
 secured: "BC00fM5k+4X2hJhKpoTMNmocGUtbS2LIDjAbRLbNashDHtSajDM5RGQ9wRpje/QrB9/T1MIA4/yGIw+99/88EUzrDEfCbnlCF1P38S7voHH4NBHiCzhJ0DHyjJiwpWIubeJVExppjxhxKO0VeIt/aAIlBd1YfVji96MFTxOdOiT89P6BedQzXYvBDWLr1yaRThwZlXkOJf21mK7ptVB4vN+n5F6io2/VDGuFYkl9oMV3Dy1BeX32A467taxkAeXOy+vgTzGc9012ScwCu0/YVOCdg3S6+0c+ZExPZvEzRVz9UnRsvT/mLaOjdIh8DUoNrR93kY2830KqBvZShKhnBQJjaOo6OzznEpBxOVC7y3E=;bzXvilqPFOE1wxLask15Rw=="
 ---

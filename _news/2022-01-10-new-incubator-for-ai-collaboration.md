@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "5 Best AI Stocks for 2022"
-    excerpt: "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc."
-    publishedDateTime: 2022-01-08T20:10:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
+  - title: "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers"
+    excerpt: "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training."
+    publishedDateTime: 2022-01-09T17:51:00Z
+    webUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/"
+    ampWebUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
+    cdnAmpWebUrl: "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
     type: article
     provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
+      name: The Constructor
+      domain: theconstructor.org
+    quality: 52
     images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
-        width: 1920
-        height: 1044
+      - url: "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg"
+        width: 1600
+        height: 1000
+        isCached: true
+  - title: "Spartan Radar Applauded by Frost & Sullivan for Delivering Highly Innovative 4D Radar Solutions to the Automotive Industry"
+    excerpt: "Based on its recent analysis of the 4D radar for the automotive industry, Frost & Sullivan  recognizes Spartan Radar  with the 2022 North American Technology Innovation Leadership Award for its sophisticated and next-generation radar solutions."
+    publishedDateTime: 2022-01-11T14:49:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229811&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1723780/Spartan_Radar_Award_Logo.jpg"
+        width: 400
+        height: 366
         isCached: true
 
 secured: "gGQyQ5K25fqDSwJXPShqyTKlSxJXsLhXrmfHILo7qQCyoASgV7FbfWTbwM6UKOBFJNrEy9pgFb0sYSAKWyqFuu2dX+84QD6PndBJfdi5wpT6SdH+kuNkkFjG09u3EdYNfryBJHF8QMhoEwBNpnPM1BAY5/v2/WQ28Zx4/X3/HjJ1+mrlzM19QXXEYxD2F3pLEM1CYewLGldszukOLz5ThMEP2G8w9e1PMdb5Py1sZE1Wv8exVw2hcGpLszdBZEc3CCMt7IWLgYCmjOiBhFlTMYtnJUzf5wgonYs8B9h+RT9syOrQFF68UONe7vBCTISaBYOF9ZspDHEgEtYrJzwVeJ4Wq/iWLgHTfMVy9rGUZTk=;syecm2J7o5yVYygFOTaSmw=="

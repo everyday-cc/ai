@@ -20,6 +20,22 @@ topics:
   - Machine Learning
   - AI
 
-secured: "UvUp8pnb+nGiNFG7UpH1YBSFUPjthgNQMXXvzgeDAshySIY1DwUhqO0eFWKMPBKZSoafKzqYxoOZ8mxmCjUXJCn46Cs0zQ9/f1PIrWcmAiPfWiht+xE6NiG1x5gyULCClXh5MnzXbWiOvznSiIhvcc2RIhLWvoKx8cbBKx6Sa2c7w0l//BfNtUHetMUEKZq8OpfXd+LTSwyQymAayjE9qKTbcV75fF2fiJTs2xT4doX08lkWG10sFwaLGs/AbgpIALJeGw1GNmBGw96kUMgnskvG6cJeNGpAf1zsJKLabDq29niyUJkY1b2MaqvUc+a5gsmYsEBktMrETpKaSwo7tJQYmVUYtQ2TrqNuVA5Na/Q=;+01uevHAQlNdulqpFAhqyQ=="
+related:
+  - title: "Garage Founder-in-Residence launches Rhetoric, providing feedback for start-up pitches through AI-based coaching"
+    excerpt: "While working as a data science manager at Lyft, second-year graduate student Raman Malik had a revelation: the best way to improve the careers of his junior data scientists is to coach and critique their presentations to company leadership."
+    publishedDateTime: 2022-01-12T04:55:00Z
+    webUrl: "https://dailynorthwestern.com/2022/01/11/campus/garage-founder-in-residence-launches-rhetoric-providing-feedback-for-start-up-pitches-through-ai-based-coaching/"
+    type: article
+    provider:
+      name: The Daily Northwestern
+      domain: dailynorthwestern.com
+    quality: 16
+    images:
+      - url: "https://dailynorthwestern.com/wp-content/uploads/2022/01/GARAGE_Seeger_2.jpg"
+        width: 1501
+        height: 1001
+        isCached: true
+
+secured: "NyRsGHXnYaB64yZc45RBOVDGWDAsdAHJKFC3qirANWeelr6KplkD0J+DPowphHL4e+rW88eSBjT/8gN6r+aJeYn4CTyJJHiO1+9ynRc/wsBkBlGHegmoQbt0CAce4OYQNZKRdelzfcFmbo/A/TXECfdZoiLFzs3inRPl0FzkFhXESoCKEpGqzJOgaSbfiWb5i4FC/aeRBFYJUi9BLTOpxfr8Vlp45gCwJwGij4qItDIvbI7nNhgBNp2HWoOKH/XaXq0BzwXPZryoFPrtgP/ggzOYsTECEtF7iif5DG441naCwltjTd8I2ZgYJsYnJFT0pqxEJa7L0iwrIahEzda/yBfcM3orkSIb/AYkn+RQ9MU=;fba+PsyehqhdWTpEGf6gZw=="
 ---
 

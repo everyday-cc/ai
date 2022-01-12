@@ -2,6 +2,57 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-12-06-sensetime-launches-hong-kong-ipo-to-raise-up-to-767-million-term-sheet.md",
+      "title": "SenseTime Launches Hong Kong IPO to Raise up to $767 Million -Term Sheet",
+      "excerpt": "HONG KONG (Reuters) -Chinese artificial intelligence startup SenseTime Group is looking to raise up to $767 million in its Hong Kong initial public offering (IPO), according to a term sheet seen by Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-12-05/sensetime-launches-hong-kong-ipo-to-raise-up-to-767-million-term-sheet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 226,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-446639?width=860&height=573",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
+      "publishedDateTime": "2021-12-05T22:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth.md",
       "title": "Increasing Investments in NLP in Healthcare and Life Sciences Market Bolsters Industry Growth",
       "excerpt": "Natural Language Processing or NLP is a rapidly emerging sector in the overall artificial intelligence or AI technological field. Rising investments in the global NLP in healthcare and life sciences market have provided effective solutions to extract ...",
@@ -1062,49 +1113,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-04-ecu-robotics-team-wins-awards-at-national-competition.md",
-      "title": "ECU robotics team wins awards at national competition",
-      "excerpt": "High finishes in national robotics competitions are becoming a habit for the Association of Technology, Management and Applied Engineering team from East Carolina University.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reflector.com/news/local/ecu-robotics-team-wins-awards-at-national-competition/article_ffd400ac-d7d1-516d-9c99-195c639d58ca.html",
-      "originalUrl": "https://www.reflector.com/news/local/ecu-robotics-team-wins-awards-at-national-competition/article_ffd400ac-d7d1-516d-9c99-195c639d58ca.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/reflector.com/content/tncms/assets/v3/editorial/9/71/9711c353-db90-5d56-aa08-28e8c3c0ffb7/61a901ab1f984.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T20:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Reflector",
-        "domain": "reflector.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

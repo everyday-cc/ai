@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "The legal pitfalls of using AI in recruitment"
-    excerpt: "Gwynneth Tan highlights the issues employers should be aware of when considering adopting technology into their hiring processes"
-    publishedDateTime: 2022-01-07T12:36:00Z
-    webUrl: "https://www.peoplemanagement.co.uk/experts/legal/legal-pitfalls-using-artificial-intelligence-recruitment"
-    type: article
-    provider:
-      name: People Management
-      domain: peoplemanagement.co.uk
-    quality: 37
-    images:
-      - url: "https://www.peoplemanagement.co.uk/Images/artificial-intelligence_tcm27-104992_w1228_n.jpg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Employers using artificial intelligence to recruit workers"
     excerpt: "More employers are turning to artificial intelligence to gain a worker recruitment edge, the Wall Street Journal reports.  By automating previously manual tasks—like prescreening job applicants for basic qualifications,"
     publishedDateTime: 2022-01-10T15:11:00Z

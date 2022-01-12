@@ -2,6 +2,57 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-12-07-report-ai-investments-see-largest-year-over-year-growth-in-20-years.md",
+      "title": "Report: AI investments see largest year-over-year growth in 20 years",
+      "excerpt": "Results indicate that COVID-19 has contributed to a surging global interest in AI from both governments and investors.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "originalUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe-e1637353198623.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
+      "publishedDateTime": "2021-12-06T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-clearview-ai-close-to-being-awarded-a-us-patent-for-its-facial-recognition-tech.md",
       "title": "Clearview AI close to being awarded a US patent for its facial recognition tech",
       "excerpt": "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on",
@@ -1155,57 +1206,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-sensetime-launches-hong-kong-ipo-to-raise-up-to-767-million-term-sheet.md",
-      "title": "SenseTime Launches Hong Kong IPO to Raise up to $767 Million -Term Sheet",
-      "excerpt": "HONG KONG (Reuters) -Chinese artificial intelligence startup SenseTime Group is looking to raise up to $767 million in its Hong Kong initial public offering (IPO), according to a term sheet seen by Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2021-12-05/sensetime-launches-hong-kong-ipo-to-raise-up-to-767-million-term-sheet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 226,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-446639?width=860&height=573",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/chinas-sensetime-aims-to-raise-up-to-767-million-in-ipo-11638787055",
-      "publishedDateTime": "2021-12-05T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

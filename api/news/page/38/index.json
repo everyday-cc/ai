@@ -2,6 +2,57 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-12-08-synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more.md",
+      "title": "Synthesia raises $50M to leverage synthetic avatars for corporate training and more",
+      "excerpt": "Synthesia, a startup using AI to create synthetic videos, is walking a fine, but thus far prosperous, line between being creepy and being pretty freakin’ cool. Today, it announced the close of a $50 million Series B funding round led by Kleiner Perkins,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
+      "originalUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/img-Hero-WithActor.png?w=1024",
+          "width": 1023,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/08/synthesia-raises-50m-to-leverage-synthetic-avatars-for-corporate-training-and-more/amp/",
+      "publishedDateTime": "2021-12-08T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-the-best-smart-home-gadgets-you-can-buy-right-now.md",
       "title": "The best smart home gadgets you can buy right now",
       "excerpt": "Here’s a list of the best smart home gadgets, from smart plugs to robot vacuums, that you can get, as chosen by Engadget editors..",
@@ -1074,49 +1125,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-clearview-ai-to-get-facial-recognition-patent-should-we-be-scared.md",
-      "title": "Clearview AI To Get Facial Recognition Patent; Should We Be Scared?",
-      "excerpt": "Clearview AI, the firm that created the controversial facial recognition and scrapes social media platforms to add pictures of people on its database, is about to be awarded a patent for its technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "originalUrl": "https://www.gizbot.com/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizbot.com/img/2021/12/4-1638947408.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "cdnAmpWebUrl": "https://www-gizbot-com.cdn.ampproject.org/c/s/www.gizbot.com/amphtml/internet/features/clearview-ai-to-get-facial-recognition-patent-should-we-be-scared-078113.html",
-      "publishedDateTime": "2021-12-07T23:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GIZBOT",
-        "domain": "gizbot.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

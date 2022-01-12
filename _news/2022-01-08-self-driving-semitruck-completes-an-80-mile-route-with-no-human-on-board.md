@@ -7,7 +7,7 @@ originalUrl: "https://3quarksdaily.com/3quarksdaily/2022/01/self-driving-semitru
 webUrl: "https://3quarksdaily.com/3quarksdaily/2022/01/self-driving-semitruck-completes-an-80-mile-route-with-no-human-on-board.html"
 type: article
 quality: 23
-heat: -1
+heat: 23
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Journal Times editorial: Self-driving semis? We're not quite ready"
-    excerpt: "We don’t know if we’re quite ready for this. But it’s probably coming soon to an Interstate highway near you. Soon. We read with interest the news accounts of a test drive of a semitruck that completed an 80-mile route in Arizona with no human on board and no human intervention during the trip using technology developed by TuSimple,"
-    publishedDateTime: 2022-01-07T12:30:00Z
-    webUrl: "https://journaltimes.com/opinion/editorial/journal-times-editorial-self-driving-semis-were-not-quite-ready/article_a6d0d8ec-9c3a-5848-9838-474290237e37.html"
-    type: article
-    provider:
-      name: The Journal Times
-      domain: journaltimes.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/assets/v3/editorial/a/6d/a6d0d8ec-9c3a-5848-9838-474290237e37/61d62fd678ed3.preview.jpg?crop=1200%2C630%2C0%2C1&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "czM1kyn8uG9d7zY5ZBAqNzjJ0vbZvCCuwjy+l4JPbKxWBX2amAZ9vFLwaINSfNIsVlc7xP4WGdxofzF4SIQGm1fWZ4+S+mmoYh4TAMFBHgz6DBbO5F/CmRyNECxsCA5Lw6uX6P8JnXbyu0eO/6S25lxu6mr4NeCTYIUs2IPCXJG1uHpYlaj16zcvhTUf0G9CehzQSYW2YnGmxW8+KdQBQYkbOtQhbwI2/AfffOWXe30OXCpbmPWmH10WeVVct/yn/+P7UypcfZVRG+VSgir+Flc/LrxRdaoEbnBMOoub7oKwFmTkz+oIb6InSRQ+bVKidv0A2YJQ+kSzTgzqrVFDkEiDj73bTk0PoM3GOhR/JuA=;0WELL+urokRRLLunyX/jpg=="
 ---

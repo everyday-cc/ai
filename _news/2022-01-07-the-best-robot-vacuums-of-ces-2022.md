@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Top 5 Artificial Intelligence Announcement Made At CES 2022"
+    excerpt: "At CES 2022, the tech company showcased how enterprises can take advantage of the platform to train AI models with just a single click and without coding. Avalanche computing has revealed that the hAIsten AI uses multi-GPUs to accelerate AI development while reducing the AI development cycle to a few months."
+    publishedDateTime: 2022-01-12T01:50:00Z
+    webUrl: "https://techbooky.com/top-5-artificial-intelligence-announcement-made-at-ces-2022/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 41
+    images:
+      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/dcnzskR6VeJGXRqo282e3f-1200-80.jpg?fit=1200%2C675&ssl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "CES 2022: There’s a new robot dog in town"
     excerpt: "Deep Robotics has revealed its latest intelligent four-legged robot at the world’s largest trade show, CES 2022. Called Jueying Lite2, the robot dog is designed for scientific research institutes, universities and hobbyists with an improved range of motion control as well as improved intelligent interactive options compared to its predecessor."
     publishedDateTime: 2022-01-07T14:00:00Z
@@ -105,20 +119,6 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202201/11/61dcd9f5a310cdd3d8260a6e.jpeg"
         width: 720
         height: 480
-        isCached: true
-  - title: "Top 5 Artificial Intelligence Announcement Made At CES 2022"
-    excerpt: "At CES 2022, the tech company showcased how enterprises can take advantage of the platform to train AI models with just a single click and without coding. Avalanche computing has revealed that the hAIsten AI uses multi-GPUs to accelerate AI development while reducing the AI development cycle to a few months."
-    publishedDateTime: 2022-01-12T01:50:00Z
-    webUrl: "https://techbooky.com/top-5-artificial-intelligence-announcement-made-at-ces-2022/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/dcnzskR6VeJGXRqo282e3f-1200-80.jpg?fit=1200%2C675&ssl=1"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Pudu Robotics Commercial Service Robots Shine on World Stage at CES 2022"
     excerpt: "Pudu Robotics, the global leader in commercial service robots, has wrapped up a highly successful showcase at CES 2022, which took place between January 5-7 in Las Vegas, Nevada, United States. In addition to exhibiting its flagship commercial service robots in the global arena,"

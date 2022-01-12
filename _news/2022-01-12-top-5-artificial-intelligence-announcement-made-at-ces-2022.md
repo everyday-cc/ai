@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-12T01:50:00Z
 originalUrl: "https://techbooky.com/top-5-artificial-intelligence-announcement-made-at-ces-2022/"
 webUrl: "https://techbooky.com/top-5-artificial-intelligence-announcement-made-at-ces-2022/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/dcnzskR6VeJGXRqo282e3f-1200-80.jpg?fit=1200%2C675&ssl=1"
@@ -150,6 +151,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "BsusXQkNrrsJlyPSq5yuieCFbepDYGWpFoBgHPbVsq5HcyauQ1+IHX693KFxeqHovdtPDkNI4yvI1nqXa0rVYxbMFZSF8WF9ndQzIThBE5GNgXTvFn+74EcQSUzHwblga8erswhjhAqOuw+tdJookAH6jUrQjjech+J/J5eqGMjCMy9PNqaqKzdkbXET0zPjiKYjzaSyU8XNLGiBua+OaHH7ApjMt7275nH4m9E78iOqZ3koGQjOfzFQolw4QUJ1V01RZk7Oa/N/KNNK8gqystneDFS11DPYO+xKKz1n3l04NbkveWjUjb2gIsPCGIq4mW0i2u+WjrG6vYPs1QBrtV7uAbHDN6nn9k/b4MD/wko=;6z6lDuFyJsptX4B/VubANQ=="
+secured: "KvDZ7yH3Qv8j9yUkfwCoVEZUsQXmM1ePugTeayaNPgEYGMMPfu+EzMtafVWgcpH7LvzgMz7bwPWjzw58E3GQ3MbxduQnHa73YK2+hR3whFFMjc2/PkDb2b5dwqknp3+Op9p8x6jo8OLBGlCT408P+/B1R8Jhzy+FqxFRiSbA/vuWR5Oi0fvkMn5G1O+kU34Dxg+kYSSWcCSLuCDjKBk12SoURoazuuoChJHv4PjmJlHN5CzFZJB6r2klBa2MoDGwOB5NYuFWaUbw12a+/YJ3PqgTrCb2DBFA5B+Ugub0/NP6g94CaUZVpbhTq7zyx3G/JtX4NjC5K/7k51L1i02h3YJFQZeVcPkNzqWQpG9TGj3GI+zXL4DZYfGYHGlmsiFpdRwIbHZ6+xM/t49Jm8WYlm4WZt5nmR1m0awRoz2IdGi9VloLvPQ1sEiEsn9tp5iMLB35vl4aOY7bquX15bd7h3JFDkiQLl5ehqCANj2wddHznJFGakrVXrlcyj8kR4Y1p6UCZGIMpn8d4KYLqr7RpA==;JlpBbyopVecf5GF58sG/Gg=="
 ---
 

@@ -46,22 +46,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Observability, AI And Context: Protecting APIs From Today's (And Tomorrow's) Attacks"
-    excerpt: "In today's world, application programming interfaces (APIs) — the connective communication tissue between applications — are everywhere. Everyday consumer electronics, from cars to TVs, are busy talking to servers and to each other,"
-    publishedDateTime: 2022-01-07T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/07/observability-ai-and-context-protecting-apis-from-todays-and-tomorrows-attacks/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/07/observability-ai-and-context-protecting-apis-from-todays-and-tomorrows-attacks/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/07/observability-ai-and-context-protecting-apis-from-todays-and-tomorrows-attacks/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 80
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eed009b5c3e3a00074773a7%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "pJux0nBG6Xq4jY5qR51zCyjK4nXmEBN4zIWi1R7cDnN0DD0zQdG2WzHK1BJNhxwq3YhHbnfuoRHwSfekCzP+lhKBGWtaqCg3CDfF3RbtpF15aBKf7lzEnI3icdxg+zmOOqjxxnr+MypICKVT9vz/Fzu1uf5KY06mEKUjlRkSohpTEee67YqEoPvCAHWvLEwRnSeJeQj+990V1jphyOK9eFW3FTqu6K9/Q+iPNU/KQe2czQ9R3XeQ1q6as+rX4ac014eQHUE7mOIZ2eJHR6nmXhN14SRg4KXFibCMfa3AK5wVpEZqqOhxbROiaaS4VPwVM1ViqyHYFCRfd4hNdWE3G86NtpoIhhc9r1TfekLpkAc=;W8EoaS72W34NAmHmVoIrmQ=="
 ---

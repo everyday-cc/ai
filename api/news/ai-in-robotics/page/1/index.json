@@ -186,6 +186,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-10-artificial-intelligence-in-construction-industry-an-innovative-way-to-assist-workers.md",
+      "title": "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers",
+      "excerpt": "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training.",
+      "sourceUrl": null,
+      "webUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/",
+      "originalUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg",
+          "width": 1600,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1",
+      "cdnAmpWebUrl": "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1",
+      "publishedDateTime": "2022-01-09T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Constructor",
+        "domain": "theconstructor.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-09-a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life.md",
       "title": "A Colorado 'fusioneer' invented a painting robot and an inspiring way of life",
       "excerpt": "And the robot holding a paintbrush. One look at this room can be overwhelming for visitors, so Paul Kirby likes to start simple. It’s an old trick he learned as a ski instructor in Vail, when he realized every skier has slightly different goals for the slopes.",
@@ -1357,49 +1400,6 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-1493-billion-in-2027.md",
-      "title": "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027",
-      "excerpt": "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/",
-      "originalUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/01/Logistics-Robots.jpg",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-14-93-billion-in-2027/amp/",
-      "publishedDateTime": "2022-01-03T14:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,49 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-12-03-what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics.md",
+      "title": "What meets the eye: get granular consumer insights with visual analytics",
+      "excerpt": "Social network and search engine algorithms favor images and video over plain text, which means visual content receives wider reach and better engagement from users now than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/industryinsights/2021/12/03/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
+      "originalUrl": "https://www.thedrum.com/industryinsights/2021/12/03/what-meets-the-eye-get-granular-consumer-insights-with-visual-analytics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-669632-image_21--default--1080.png",
+          "width": 1080,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-03T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-moloco-earns-2021-smarties-award-for-machine-learning-ai-campaign.md",
       "title": "Moloco Earns 2021 SMARTIES Award for Machine Learning & AI Campaign",
       "excerpt": "Esteemed marketing trade association MMA has recognized Moloco as a leader in marketing technology REDWOOD CITY, Calif. (PRWEB) Moloco (",
@@ -1080,58 +1123,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge.md",
-      "title": "AWS BugBust sets the Guinness World Record for the largest bug fixing challenge",
-      "excerpt": "AWS BugBust is the first global bug-busting challenge for developers to eliminate 1 million software bugs and save $100 million in technical debt for their organizations. AWS BugBust allows you to create and manage private events that transform and gamify the process of finding and fixing bugs in your",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-bugbust-sets-the-guinness-world-record-for-the-largest-bug-fixing-challenge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/02/BugBust-Challenge-board.jpg",
-          "width": 701,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T15:06:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -1,29 +1,48 @@
 ---
 category: news
 title: "Artificial intelligence predicts RNA and DNA binding sites to speed up drug discovery"
-excerpt: "Researchers developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
-publishedDateTime: 2022-01-11T16:10:00Z
-originalUrl: "https://www.nanowerk.com/news2/biotech/newsid=59510.php"
-webUrl: "https://www.nanowerk.com/news2/biotech/newsid=59510.php"
+excerpt: "The iMolecule group from Skoltech has developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
+publishedDateTime: 2022-01-11T16:24:00Z
+originalUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.html"
+webUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.html"
+ampWebUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.amp"
 type: article
-quality: 32
-heat: 32
+quality: 50
+heat: 60
 published: false
 
 provider:
-  name: Nanowerk
-  domain: nanowerk.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
-  - Machine Learning
   - AI
 
 images:
-  - url: "https://www.nanowerk.com/news2/biotech/id59510_1.jpg"
-    width: 1290
-    height: 574
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-2.jpg"
+    width: 1474
+    height: 656
     isCached: true
 
-secured: "EWuI3t/tQwegz9xI9CSwqyO8zjR3Z7vXn5t92T1/Bh0KRB2T6vKyKTBtr+rGaHuv5HNXxDH4kMOojbprolXA7sOnlKFc1sDWl4xQmjJWFdTHumnITsQ21aN+krjgSaqUTdwMBlL+Y/bGTMQ63+HZF215zCqVJqGl5+s8qxHi+Y8wnyACPrThOZjEv8eKRJXet76i2vwJqLqIWYHR0jjb9E8gRKn8xn1lgJyjRyzNMshetuXW9XLcaqbHHUwdE7vx6zRBJlQq9Vem8HJZ4CQHKRlh4skf6QCpKRLleclOg58/Qiu/qiaQOdxDFMTrnUMK/aGW5MhWCUOrEQkN8bL6uUcZeXsh1HXn5nD96LLC5fA=;PKRWGcVr93hWClhaKyZvHw=="
+related:
+  - title: "AI-driven solution predicts RNA and DNA binding sites to accelerate rational drug discovery"
+    excerpt: "The iMolecule group from Skoltech has developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
+    publishedDateTime: 2022-01-12T03:05:00Z
+    webUrl: "https://www.news-medical.net/news/20220111/AI-driven-solution-predicts-RNA-and-DNA-binding-sites-to-accelerate-rational-drug-discovery.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220111/AI-driven-solution-predicts-RNA-and-DNA-binding-sites-to-accelerate-rational-drug-discovery.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220111/AI-driven-solution-predicts-RNA-and-DNA-binding-sites-to-accelerate-rational-drug-discovery.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 47
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "p9sJhpZkQ/03yRtkZwS86UmfqSdqnOEv715YE/9zMxIxI1bs5oGhGlBDLSGC4ME+ScxJ1pqGx2dWAsE4uWqu7Gq2O5GfKLIa9rUInTD0E+4NjrYAoGeggjX520G8jhkpRjNsGWTjnTWfyZHnjEMOrLBO/tbxputr3kcRJlJKjU/0osO7Wsjxb7VtWqjVC46/hjrD1cip2ykXz65GC2HXRJd2Gh0yeMw6latLl1bvdkOkorPOiIri93x2dvDe7hBwCHwFbHOiqQnBxTQQfd6clQF7ZWx8jUksdD1JQkK09O9QnTxYQkBI7BOKsLSFyk+hUTjp/Nmeh6xmyH5g3IBra6nuwHF8YLOw6os87gdYroI=;QOSPIluYiQFILEvOTjbC8Q=="
 ---
 
