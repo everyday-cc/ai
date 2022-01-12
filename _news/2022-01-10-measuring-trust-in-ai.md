@@ -99,6 +99,20 @@ related:
         width: 820
         height: 312
         isCached: true
+  - title: "How Upcoming AI Technologies Will Impact Businesses"
+    excerpt: "Robots and automation have long been a part of the manufacturing ... With continuous innovations and new ideas, there are lots of ways that companies can improve thanks to AI. Start researching and stay ahead of the curve."
+    publishedDateTime: 2022-01-12T07:59:00Z
+    webUrl: "https://negosentro.com/how-upcoming-ai-technologies-will-impact-businesses/"
+    type: article
+    provider:
+      name: negosentro.com
+      domain: negosentro.com
+    quality: 39
+    images:
+      - url: "https://negosentro.com/wp-content/uploads/2022/01/jumpstory-download20220112-075819.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "CCC: AI Continuing to Infiltrate Claims Process"
     excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
     publishedDateTime: 2022-01-11T09:31:00Z

@@ -56,20 +56,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "WEKA Announces $73 Million Series D for Data Platform for AI"
-    excerpt: "A symbol of artificial intelligence. Photo: public domain. CTech – Israeli data storage startup WEKA, formerly WekaIO, has announced that"
-    publishedDateTime: 2022-01-07T15:54:00Z
-    webUrl: "https://www.algemeiner.com/2022/01/07/weka-announces-73-million-series-d-for-data-platform-for-ai/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 37
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2021/11/Artificial-Intelligence.jpg"
-        width: 720
-        height: 360
-        isCached: true
 
 secured: "a5Xw/iYurj5ZQuC9prYtIIDh/Uu0HRmNgeVgBiIiTUtQ+EQ/vutUoF97O5JBwvWMRod8DhypeAInKFfAO3aZ4UYNpRSaQN7KSydQNCHZtOwYwiinJEihA9ThCChanAmx3HwXY4CXUohRzZVu9t7bTm8yt5INt+VUNqTO4hSAnA+U8u4H5kCMkbwjC6jiae80VmPbqNBl3AksLW1WEn9fEvtznCKqHoU1I94ROhrDwA+nEoZKkr5NGAGjJknjvTnFPtzBGdHSnZzFP0FWD9uSrtObhDkqvRFfSLNmAGFkWLOaCXMOqhOe5a6qlJGzZcFBlHcFWi0cBs7Adxts4jTuYISNSEn7WpK/ij5O0ALI6FY=;IZB6yI4z3xEenZFZlPG+5Q=="
 ---

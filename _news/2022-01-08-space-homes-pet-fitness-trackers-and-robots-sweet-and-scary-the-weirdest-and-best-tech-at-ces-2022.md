@@ -9,7 +9,7 @@ ampWebUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fit
 cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -19,91 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "The best robot vacuums of CES 2022"
-    excerpt: "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with."
-    publishedDateTime: 2022-01-07T15:06:00Z
-    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/"
-    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 91
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "The AI-Powered Enterprise Tools Presented at CES 2022"
-    excerpt: "Highlights from Las Vegas include AI-powered chips, robots and tractors."
-    publishedDateTime: 2022-01-07T22:31:00Z
-    webUrl: "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-464264/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "This super realistic “humanoid robot” stole the show at CES 2022"
-    excerpt: "There is always a ton to see at CES, and this year’s show – although scaled back – was no different. Follow Rich DeMuro on Instagram for more tech news, reviews and tips. One of"
-    publishedDateTime: 2022-01-10T12:55:00Z
-    webUrl: "https://ktla.com/morning-news/technology/talking-to-ameca-humanoid-robot-engineered-arts-ces-2022-las-vegas/"
-    ampWebUrl: "https://ktla.com/morning-news/technology/talking-to-ameca-humanoid-robot-engineered-arts-ces-2022-las-vegas/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/morning-news/technology/talking-to-ameca-humanoid-robot-engineered-arts-ces-2022-las-vegas/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 59
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/01/Promo-Facebook-Facebook-link-image-1.jpeg?w=1280"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Top 5 Artificial Intelligence Announcement Made At CES 2022"
-    excerpt: "At CES 2022, the tech company showcased how enterprises can take advantage of the platform to train AI models with just a single click and without coding. Avalanche computing has revealed that the hAIsten AI uses multi-GPUs to accelerate AI development while reducing the AI development cycle to a few months."
-    publishedDateTime: 2022-01-12T01:50:00Z
-    webUrl: "https://techbooky.com/top-5-artificial-intelligence-announcement-made-at-ces-2022/"
-    type: article
-    provider:
-      name: techbooky.com
-      domain: techbooky.com
-    quality: 41
-    images:
-      - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/dcnzskR6VeJGXRqo282e3f-1200-80.jpg?fit=1200%2C675&ssl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "China's service robots under spotlight at CES"
-    excerpt: "Many leading robotics firms are from China, and this year's state-of-the-art robots from the country on display at the CES put an end to the outdated litany that Chinese companies lack innovation. In commercialized service robotics and artificial intelligence,"
-    publishedDateTime: 2022-01-11T02:52:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202201/11/WS61dcd9f5a310cdd39bc80424.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202201/11/61dcd9f5a310cdd3d8260a6e.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Pudu Robotics Commercial Service Robots Shine on World Stage at CES 2022"
-    excerpt: "Pudu Robotics, the global leader in commercial service robots, has wrapped up a highly successful showcase at CES 2022, which took place between January 5-7 in Las Vegas, Nevada, United States. In addition to exhibiting its flagship commercial service robots in the global arena,"
-    publishedDateTime: 2022-01-11T14:13:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/pudu-robotics-commercial-service-robots-shine-on-world-stage-at-ces-2022/18049/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 33
 
 secured: "hLedjXWXBk0xJZ7o1OCR5brcseYUgKU4ongxVcpr/n5YpRvJiPn/Zk/IPnhPzuGw/MsL30hy/YfA/YtpDg2x+IeUzok8mfjNXdrPR31alBAy2uwCY0nahGqJ2ZUE6Oo66lrhJ4taUdVPe68iEsh7Gl6lKvXCwu3H0T3wQNWMM59TCXnJwmb3BEksgZ+lygVHNdBrnS7pzEorvSh8pD8V5I0Ka+kVGq2GdAuPV6FhhBcJq93RjPyiuA5VmYbS7QkkujZlZ8vhtHkGk8RNP4SuX5Y17xplVGvcMLvj6C+hGo6vAOAX0hn/5JV0RkcuZaNNy/hrBh8O6BCI2+cS5jTETAnTNuOsGMbvVB24YTeS5Hs=;iQR/yIjMgE+XjKH34A2bvA=="
 ---

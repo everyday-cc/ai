@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-lands-25m/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/investment-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "WEKA Announces $73 Million Series D for Data Platform for AI"
-    excerpt: "A symbol of artificial intelligence. Photo: public domain. CTech – Israeli data storage startup WEKA, formerly WekaIO, has announced that"
-    publishedDateTime: 2022-01-07T15:54:00Z
-    webUrl: "https://www.algemeiner.com/2022/01/07/weka-announces-73-million-series-d-for-data-platform-for-ai/"
-    type: article
-    provider:
-      name: Algemeiner
-      domain: algemeiner.com
-    quality: 37
-    images:
-      - url: "https://www.algemeiner.com/wp-content/uploads/2021/11/Artificial-Intelligence.jpg"
-        width: 720
-        height: 360
         isCached: true
   - title: "MOSTLY AI Raises $25M, Expected to Continue Expansion in European, U.S. Markets"
     excerpt: "MOSTLY AI, an Austrian data privacy startup, has raised $25 million in Series B funding led by Molten Ventures with"

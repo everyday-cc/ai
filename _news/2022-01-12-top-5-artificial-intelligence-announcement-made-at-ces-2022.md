@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The best robot vacuums of CES 2022"
-    excerpt: "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with."
-    publishedDateTime: 2022-01-07T15:06:00Z
-    webUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/"
-    ampWebUrl: "https://www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuums-of-ces-2022/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 91
-    images:
-      - url: "https://icdn.digitaltrends.com/image/digitaltrends/ecovacs-x1-omni-2.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "The AI-Powered Enterprise Tools Presented at CES 2022"
     excerpt: "Highlights from Las Vegas include AI-powered chips, robots and tractors."
     publishedDateTime: 2022-01-07T22:31:00Z
@@ -56,56 +40,34 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "This super realistic “humanoid robot” stole the show at CES 2022"
-    excerpt: "There is always a ton to see at CES, and this year’s show – although scaled back – was no different. Follow Rich DeMuro on Instagram for more tech news, reviews and tips. One of"
-    publishedDateTime: 2022-01-10T12:55:00Z
-    webUrl: "https://ktla.com/morning-news/technology/talking-to-ameca-humanoid-robot-engineered-arts-ces-2022-las-vegas/"
-    ampWebUrl: "https://ktla.com/morning-news/technology/talking-to-ameca-humanoid-robot-engineered-arts-ces-2022-las-vegas/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/morning-news/technology/talking-to-ameca-humanoid-robot-engineered-arts-ces-2022-las-vegas/amp/"
+  - title: "Enterprise Security at CES 2022 Marked by IoT, Biometrics, and PC Chips"
+    excerpt: "Amid the onslaught of mostly consumer-oriented announcements in Las Vegas, a few key items pertaining to enterprise security emerged."
+    publishedDateTime: 2022-01-11T19:25:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/enterprise-security-at-ces-2022-marked-by-iot-biometrics-and-pc-chips"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 59
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
     images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/01/Promo-Facebook-Facebook-link-image-1.jpeg?w=1280"
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb24a4b2c26090dbd/61dddb1be25675203f22d7a2/amd_lenovo_pluton-sm.png"
+        width: 700
+        height: 394
+        isCached: true
+  - title: "biped unveils an AI copilot for blind and visually impaired people at CES 2022"
+    excerpt: "CES 2022, swiss startup biped premiered an AI copilot for persons who are blind or have a visual impairment. the companys"
+    publishedDateTime: 2022-01-10T10:40:00Z
+    webUrl: "https://www.designboom.com/technology/biped-ai-copilot-blind-visually-impaired-people-ces-2022-01-10-2022/"
+    type: article
+    provider:
+      name: Designboom
+      domain: designboom.com
+    quality: 33
+    images:
+      - url: "https://www.designboom.com/wp-content/uploads/2022/01/biped-copilot-designboom-1200-1.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "China's service robots under spotlight at CES"
-    excerpt: "Many leading robotics firms are from China, and this year's state-of-the-art robots from the country on display at the CES put an end to the outdated litany that Chinese companies lack innovation. In commercialized service robotics and artificial intelligence,"
-    publishedDateTime: 2022-01-11T02:52:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202201/11/WS61dcd9f5a310cdd39bc80424.html"
-    type: article
-    provider:
-      name: China Daily
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202201/11/61dcd9f5a310cdd3d8260a6e.jpeg"
-        width: 720
-        height: 480
-        isCached: true
-  - title: "Pudu Robotics Commercial Service Robots Shine on World Stage at CES 2022"
-    excerpt: "Pudu Robotics, the global leader in commercial service robots, has wrapped up a highly successful showcase at CES 2022, which took place between January 5-7 in Las Vegas, Nevada, United States. In addition to exhibiting its flagship commercial service robots in the global arena,"
-    publishedDateTime: 2022-01-11T14:13:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/pudu-robotics-commercial-service-robots-shine-on-world-stage-at-ces-2022/18049/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 33
-  - title: "Space homes, pet fitness trackers, and robots sweet and scary: The weirdest and best tech at CES 2022"
-    excerpt: "The world's biggest consumer electronics trade show known as CES feels weird this year, with far fewer consumer tech companies showing off their latest and greatest almost every January. Some of the industry's plans are raising eyebrows."
-    publishedDateTime: 2022-01-08T02:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/space-homes-pet-fitness-trackers-and-robots-sweet-and-scary-the-weirdest-and-best-tech-at-ces-2022/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "KvDZ7yH3Qv8j9yUkfwCoVEZUsQXmM1ePugTeayaNPgEYGMMPfu+EzMtafVWgcpH7LvzgMz7bwPWjzw58E3GQ3MbxduQnHa73YK2+hR3whFFMjc2/PkDb2b5dwqknp3+Op9p8x6jo8OLBGlCT408P+/B1R8Jhzy+FqxFRiSbA/vuWR5Oi0fvkMn5G1O+kU34Dxg+kYSSWcCSLuCDjKBk12SoURoazuuoChJHv4PjmJlHN5CzFZJB6r2klBa2MoDGwOB5NYuFWaUbw12a+/YJ3PqgTrCb2DBFA5B+Ugub0/NP6g94CaUZVpbhTq7zyx3G/JtX4NjC5K/7k51L1i02h3YJFQZeVcPkNzqWQpG9TGj3GI+zXL4DZYfGYHGlmsiFpdRwIbHZ6+xM/t49Jm8WYlm4WZt5nmR1m0awRoz2IdGi9VloLvPQ1sEiEsn9tp5iMLB35vl4aOY7bquX15bd7h3JFDkiQLl5ehqCANj2wddHznJFGakrVXrlcyj8kR4Y1p6UCZGIMpn8d4KYLqr7RpA==;JlpBbyopVecf5GF58sG/Gg=="
 ---

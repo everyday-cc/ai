@@ -7,7 +7,7 @@ originalUrl: "https://www.qsrmagazine.com/news/checkers-rallys-and-presto-announ
 webUrl: "https://www.qsrmagazine.com/news/checkers-rallys-and-presto-announce-largest-rollout-drive-thru-ai-voice-assistant"
 type: article
 quality: 15
-heat: -1
+heat: 15
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deere sets cautious rollout of self-driving tractors"
-    excerpt: "Deere seems to be aware that it can't afford to roll out the new tractors if there are still bugs, which could hurt its sterling reputation in unveiling new agricultural technology."
-    publishedDateTime: 2022-01-07T15:43:00Z
-    webUrl: "https://www.chicagobusiness.com/manufacturing/deere-expects-slow-rollout-autonomous-tractors-year"
+  - title: "Checkers & Rally’s and Presto Announce Largest Ever Rollout of Drive-Thru A.I. Voice Assistant in the Hospitality Industry"
+    excerpt: "Checkers & Rally’s to deploy Presto’s voice ordering solution at all corporate-owned restaurants nationwide, becoming the first large concept to utilize artificial intelligence (A.I.) based drive-thru voice ordering nationwide."
+    publishedDateTime: 2022-01-10T07:00:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20220110005382/checkers-rallys-and-presto-announce-largest-ever-rollout-of-drive-thru-ai-voice-assistant-in-the-hospitality-industry"
     type: article
     provider:
-      name: Crain's Chicago Business
-      domain: chicagobusiness.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.chicagobusiness.com/styles/800x600/s3/deere_6.jpg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "AtRFggU5BiIxT8NhBFE8OGQFiWaVeDpFDJDioal+WmicoXgYcMV3ppBghQdJ21+IgRzhh/15r3XNcqNAFn1AnHHR9iusHDw3yBQB47mxde5cry7HkpmZTJgd2UEZW8rJcyXwn2X03eZ1MED+ps8No2W3jTVEO0xTALTme/XzjX29xLeZmYojFm2dpkl3TS36Vpekaob6yLx7Xr9KxgwU+xcS4brRcL2u1IgpeFMBu092yNLjxIR3e2KakLBEloUqy+m60xfMXL2xVopc9FpdTCtYE/1vHlklNiuvoQarJORp7N/SZHiSlbaIsGYyKCE+0XR8mgis/a6gSzRFZ/T3CTs/NllZkimsH13fL5TzWrs=;9KF9u+RnPAID1VkLa2IC+w=="
 ---

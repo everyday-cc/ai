@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "The California-based tech giant utilizes AI in blocking misinformation and other harmful content on its family of apps. Additionally, AI tools developed by Meta Platforms, Inc. (NASDAQ:FB) play a major role in improving the customer shopping experience on Facebook,"
+excerpt: "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc."
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
 type: article
 quality: 39
 heat: 39
@@ -15,7 +15,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - Facebook AI
+  - Google AI
   - AI
 
 images:
@@ -24,6 +24,22 @@ images:
     height: 1044
     isCached: true
 
-secured: "c01erWD7Q+FLX3hDjT6TGHGzehQwiIjcrTLcSzAKLWO0jpzTNpfDrXEs3BN0aS2s9MKPWKzgAalS1ycbUt8Prw8EYzPQLo9D2uRX/NTDdOhIr+DX4B+9gAGFQBYSW9JrB3PBj+/OjHH4uhTnkKqadfGosvj7aRLJMTSqJIFB8ZXGFG+zHAntb8vpo11tgHEqUASQNBbGx2BUx4RQ1I7jnj6CedtGJujlE6P2pEHeWAzPG+sa+ZU7im4JMA/j7dnQYi3RWvjH2FxJVLN6PXmZ+rb+Tvfhrw5BekLLXKjixPCHaUoOMJNCTvC/SyffD1cmHd7SGXPO4EJJZ8FcPQwU9R0AKyK0IpnkPH5nC8QZ5OI=;WSAkDCntAc0uZ+pRwvRAhg=="
+related:
+  - title: "2021 AI Recap & Founders’ Predictions for 2022"
+    excerpt: "Originally posted on  Blog by Jodi Lifschitz As we continue to spear our heads through Covid we can clearly see that the tech industry did not let the global pandemic get in the way of its progress. In fact,"
+    publishedDateTime: 2022-01-11T09:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/2021-ai-recap-founders-predictions-2022-dataloop"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEVM5XQOPL99g/article-cover_image-shrink_720_1280/0/1641893053016?e=1647475200&v=beta&t=pqvzcFTl0LSjS5IBRKSVYzdQLbxfkBghNmJ6sc5tLZ0"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "dEkUbCRlukG5qbPVGQyWQZbRbbo6V3OU6xVWAY4simW1frM2bAKlEchrC4pQvmmih+WUoJ7d7v+aD/y3Qn9w4FX+K8DaAmZAwUBDEOglcmHldpf+WOv/LCMR7LYzUSIacRmZf3nzjveWkqp5EcZImYJr/FrZwBOMrL342HSHrQiBdDRp4ZZ8vUs17bxAT3doQ8ppYt5c2MmbpCfOxqBq88sCPxpOkc5/devR2ji7SISWvsmmTQ4OjKBHY0FlKylKGN7QLhX1VBLKvOBuEj0ft6r2D7/9+91IU7oulr2FbDvUWWy1c7w6F/DGHhozk7ztPlEMBOK2kFL24RstrbHD5Fp0ZwxV5BhkrToR9TBY6IA=;RKosfNaMXW0qqB69rm/u+g=="
 ---
 

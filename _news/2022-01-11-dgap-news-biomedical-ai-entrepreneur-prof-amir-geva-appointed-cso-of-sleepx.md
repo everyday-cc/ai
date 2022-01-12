@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-11T13:38:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/dgap-news-biomedical-ai-entrepreneur-prof-amir-geva-appointed-cso-of-sleepx-1031093857"
 webUrl: "https://markets.businessinsider.com/news/stocks/dgap-news-biomedical-ai-entrepreneur-prof-amir-geva-appointed-cso-of-sleepx-1031093857"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://public.newsdirect.com/543316838/ZwAY9LkW.jpeg"

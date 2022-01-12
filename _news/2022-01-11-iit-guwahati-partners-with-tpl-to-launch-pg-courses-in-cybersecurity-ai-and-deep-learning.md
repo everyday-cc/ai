@@ -44,6 +44,22 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "IIT Guwahati Launches Post Graduate Certificate Programmes in Cybersecurity, and Artificial Intelligence and Deep Learning"
+    excerpt: "IIT Guwahati aims to upskill and reskill candidates for careers in cybersecurity as well as Artificial Intelligence and Deep Learning"
+    publishedDateTime: 2022-01-12T08:46:00Z
+    webUrl: "https://www.dqindia.com/iit-guwahati-launches-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-and-deep-learning/"
+    ampWebUrl: "https://www.dqindia.com/iit-guwahati-launches-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-and-deep-learning/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-launches-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-and-deep-learning/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 48
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
+        width: 800
+        height: 420
+        isCached: true
   - title: "IIT-Guwahati To Start PG Programmes in Cybersecurity, Artificial Intelligence And Deep Learning"
     excerpt: "The candidates can apply for the programme on the official website of IIT Guwahati- iitg.ac.in. The candidates required to have a minimum of 50 per cent marks in bachelor's degree and least two years"
     publishedDateTime: 2022-01-10T13:21:00Z
@@ -58,22 +74,6 @@ related:
         width: 860
         height: 430
         isCached: true
-  - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
-    excerpt: "Indian Institute of Technology Guwahati (IITG) and Times Professional Learning (TPL), under its brand The Second Wind (TimesTSW), have launched the Post Graduate Certificate Programme in Cybersecurity"
-    publishedDateTime: 2022-01-11T11:50:00Z
-    webUrl: "https://indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
-    ampWebUrl: "https://indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 41
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/IIT-Guwahati-main-gate.jpeg"
-        width: 279
-        height: 210
-        isCached: true
   - title: "Mark Andress on NGA’s Cloud, Machine Learning, Cybersecurity Efforts in 2022"
     excerpt: "Mark Andress, chief information officer at the National Geospatial-Intelligence Agency, said NGA is set to undergo several technology shifts in cloud, machine"
     publishedDateTime: 2022-01-07T21:33:00Z
@@ -87,6 +87,20 @@ related:
       - url: "https://executivegov-media.s3.amazonaws.com/2022/01/07/07/e5/02/fb/86/43/83/84/00P4y00001NP9sOEAT.png"
         width: 270
         height: 270
+        isCached: true
+  - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
+    excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
+    publishedDateTime: 2022-01-11T09:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 21
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
         isCached: true
 
 secured: "+l9WdXNjvkB7P8JT1OwbnajETQaMFlpJDy+cn2tZmlJDpGJ+vXY/QJN8LNtOzybYQN96D2Z+8Vs/SPjIPXsJKhX++p1PPTgEyNDyIwY2ydiEzrk43l8qYcp+l0OHNG9GNYcqpR47fHZ1UdWD/TDUaV+rTTQqrL7dZLcnXIf/+2t4hJKouRhzrkEzXwOSqNnDH5IBaIsd2sUbReRxcEr7EuHqZmVKTvVlFKLq+FNiFmQvjAG28+22BxtxADVu3MGieRqymGSS9ksvzDTWPRX7mwvyMGH+exOVuLPa8LW/XL5RuieH6AOIcnCoGUITaotWZuKL8ymoSNO7MWQ+dX74TfoGJ3N9nuIdMaipf/71TtWdyHs2HeFYJ3WNwfzx5LeAIPW+hVHPgF3tFmlyVVMmesJsXdC/jk50jeV05nu/Kz82hl7/oP4oIlHlqqse75hNOwd+rOfaJwuLqSN17dDekRSHxgwIYfsNTbJrCdnsx8AAS+MPb2rOiNPKjsg8iWTMFAixFmzN1vxYpbkt482jJg==;Ms6lUupCPdrvNljpDOVN/Q=="

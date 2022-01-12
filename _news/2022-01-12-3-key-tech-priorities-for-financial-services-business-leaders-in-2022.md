@@ -1,29 +1,31 @@
 ---
 category: news
-title: "3 Key Tech Priorities for Financial Services Business Leaders in 2022"
+title: "3 Key tech priorities for financial services business leaders in 2022"
 excerpt: "Technology in modern financial services can be a complex subject. This is what business leaders should focus on for success."
-publishedDateTime: 2022-01-11T19:54:00Z
-originalUrl: "https://financialit.net/blog/it-ai/3-key-tech-priorities-financial-services-business-leaders-2022"
-webUrl: "https://financialit.net/blog/it-ai/3-key-tech-priorities-financial-services-business-leaders-2022"
+publishedDateTime: 2022-01-12T07:28:00Z
+originalUrl: "https://bmmagazine.co.uk/opinion/3-key-tech-priorities-for-financial-services-business-leaders-in-2022/?amp"
+webUrl: "https://bmmagazine.co.uk/opinion/3-key-tech-priorities-for-financial-services-business-leaders-in-2022/?amp"
+ampWebUrl: "https://bmmagazine.co.uk/opinion/3-key-tech-priorities-for-financial-services-business-leaders-in-2022/?amp"
+cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/opinion/3-key-tech-priorities-for-financial-services-business-leaders-in-2022/?amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Financial IT
-  domain: financialit.net
+  name: Business Matters
+  domain: bmmagazine.co.uk
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://financialit.net/sites/default/files/dsc_2526.png"
-    width: 1500
-    height: 1500
+  - url: "https://bmmagazine.co.uk/wp-content/uploads/2022/01/shutterstock_720659980-scaled.jpg"
+    width: 850
+    height: 567
     isCached: true
 
-secured: "5dXIbW6R5+EpWqyfM/GqO3XkCU+SEOKO3SmDbLwCN0GjnAbICOMOyhx5tOo23wOXgVZfvu20tTQd51na1eQn8LbHWwjVac0OiFDQ0leMf+DPy4EQcz6ii8hEDbAPX6MEt5NJbnBsHevR1zpeDIIGKyxJE5y9hKwyNEdCU/e7lE8jwHTetRP9SL1KDuroUSEairNhmyQ0CEs+JqNoPeTZf1Fu93KyV08IFG7IS45/v34tK4E3AqwPIO2u9Ilr8TUJfyArtIxloyNjagviDSDEw9HerKFh2VPbnODErbOGKyp0w9cyJc6o/+q9cgxULXUmvy/hKkg93pg0H48Pk0vNjmxFwqRAgqDKZpVfCLk/AFQ=;+vvRE/BJXAEMc8OaOd4OkQ=="
+secured: "qOgpBVFS0GJwJU305VzAKjbc5dnZj9tpMKHfJKOA/I/2BlTn0UjruVvBX/XqYblDmt2jm7vRMi/hqNZ88UBWY6C4sY3kfom8BNU0KECwzVp9+AUYnaeU9phBAnQU3sG5bXarSXl3YfmzO3FU3/u4InjMHd3PAcHqEWT8QeN2omgj89BMq99+XR9xcPOhmIzBgxpwwRjTT6lYxIuVczHAJDX0AjmZOSi8w/NDGfXB/OjQeEHya0p4BRMGgw/cZ+7pQM8V/vyy10ug1sDdnO1smL9q/0TGjDFb5GQlMZKt0s8AECAY4sUm7UVVRT6jHac0OMSnoRXfzsNUJeL0uXAoJ26Dna7QgSnqFKLautWl+Ns=;QUDD/JJrwniLE66ZG7GdLw=="
 ---
 

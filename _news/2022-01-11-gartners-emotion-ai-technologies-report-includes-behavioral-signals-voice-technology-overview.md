@@ -7,7 +7,7 @@ originalUrl: "https://myfox8.com/business/press-releases/cision/20220111LA25693/
 webUrl: "https://myfox8.com/business/press-releases/cision/20220111LA25693/gartners-emotion-ai-technologies-report-includes-behavioral-signals-voice-technology-overview/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Tag: Artificial Intelligence Technology Solutions, Inc."
-    excerpt: "DETROIT—Robotic Assistance Devices (RAD), a wholly owned subsidiary of Artificial Intelligence Technology Solutions, Inc., announced it has launched a new website, radsecurity.com According to RAD, the new website offers “cleaner,"
-    publishedDateTime: 2022-01-07T16:30:00Z
-    webUrl: "https://www.securitysystemsnews.com/tag/artificial-intelligence-technology-solutions-inc-"
-    type: article
-    provider:
-      name: Security Systems News
-      domain: securitysystemsnews.com
-    quality: 39
-    images:
-      - url: "https://www.securitysystemsnews.com/images/og-default-image.png"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "ClcWEVeC0a6Neu7CSoVeNqvxWtjXpnybO+XTZvdPNkVIkWwTX77ZC/XyEYiaU5A45X/MeqxAppH7UT5MkIU0VAha6nmE4Lo4Ofwj1wqNV+kf3D9nWWNjPr7+67c/tklPerxuIKvZv8WA64MzySsrInK3TWR7e5nfGQkMjdCPR5jHsR5cOUY2En2ndLx8GNqPJpvITKdHQ4/PUOhdIXsDufpVxUdbzc2b5K9wKoElTVWvhkX2DyBzqvic/tmhzBKSNaWVJIRzdX3FKi0BL+ItXV+HHcmNMEWG9uaGPXA+n3D5jmJP3Y73CfhIXdfISG8uz6sXYesHkReKcHnCpALfuYwhYxal4FWZinU1CPRmSSA=;lpWGEEj0TzAArbtkLHOxqA=="
 ---

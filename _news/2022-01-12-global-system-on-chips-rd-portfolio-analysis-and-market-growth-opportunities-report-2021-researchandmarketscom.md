@@ -3,8 +3,8 @@ category: news
 title: "Global System-on-Chips’ R&D Portfolio Analysis and Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
 excerpt: "Chips’ R&D Portfolio Analysis and Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This technology and innovation study focuses on the benefits of SoC, the emerging trends in SoC hardware,"
 publishedDateTime: 2022-01-11T17:38:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-e4a7140664b643b897f8c0b58f8cc0ae"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-e4a7140664b643b897f8c0b58f8cc0ae"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-e4a7140664b643b897f8c0b58f8cc0ae"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-e4a7140664b643b897f8c0b58f8cc0ae"
 type: article
 quality: 17
 heat: -1
@@ -64,16 +64,7 @@ related:
         width: 375
         height: 250
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned"
-    excerpt: "In the recent MEP National Network™/Modern Machine Shop webinar \"Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned,\" Andy Carr of South Carolina MEP (SCMEP) and Delta Bravo Founder and CEO Rick Oppedisano discussed AI solutions that work best for small and medium-sized manufacturers (SMMs)."
-    publishedDateTime: 2022-01-07T16:18:00Z
-    webUrl: "https://www.publicnow.com/view/E1A12CAC87232C8E026C6B337ACE858D8150DD8C"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 8
 
-secured: "PL9mnh2dXFkv98NZlxQrsQu4/mHrTXv7mmJNTzos4L5VrH+4ytK5M2Bl5iz2mOSzPzvUd3QvfhAXR+mf/SPVMd/WFQd1tBeHoEwfXLRINDiOnN8wJKa7izSho1w2j88NozlADLKQPem2yG8EJBOvixPK52NWzxTbdJuCocBa8kY5iteX+Ug4DA+Vv8B7SRZVhrpkiGowxFd6dyTMUpC33KwtURKNVRlfx9MV8YzHLMOfCXqVkrA/1PjmKCCLYvnPhltlBkv8+OLIxmMDm2VC5sRQnys6hqR9FrTP5xte7WLaQyF+0GWwbDinvppffX411Dwm3ubmpP/rTxit8kJifXIvTbh9GTqCdrgek9q8GuM=;JctxwbwgNdYcVNhX4/4VJg=="
+secured: "4ShT+rm/aaGRg2qrTYtlcUR81CjbVYwDWvvnsT3zl2fqC99JIQcPaRX672CKdnoX5i+opX4Wt+7OSj3f9CN57SQYmUmNjjSWg/yj2vVsNbm8kMkEjMmsxyvzrwNBz9vvg6j9+2rLv7R4FcyQuvsoF3ZkCZHnwQ3qFfUOj0az6uE2J+l3O9tN/N8R7psqqdpm+eL/TBvCqcUHtq6JZBmOCAc+wFdUfdWkw+ga0frBGFbZrSLBjUqh8kUbtPrmD/rzwXOzEfCvDX79/0B+e9MG4n5UPudmPPb7V5sKDk47ZUjskdceRxBXYsI3AaWIm0QEUG/bXJRShnjfElZeF/P51GW0v0GQHTLcUCcjvYRvWL8=;sbdNsWPrjo6UjXp0GikW+g=="
 ---
 

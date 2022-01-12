@@ -9,7 +9,7 @@ ampWebUrl: "https://www.team-bhp.com/news/volvo-debut-self-driving-tech-year?amp
 cdnAmpWebUrl: "https://www-team--bhp-com.cdn.ampproject.org/c/s/www.team-bhp.com/news/volvo-debut-self-driving-tech-year?amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Volvo Ride Pilot autonomous driving feature to launch in California"
-    excerpt: "Many automotive manufacturers have been working to develop autonomous driving capabilities for their vehicles. The ability for a car to drive itself without supervision from a human is an"
-    publishedDateTime: 2022-01-07T16:41:00Z
-    webUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/"
-    ampWebUrl: "https://www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/volvo-ride-pilot-autonomous-driving-feature-to-launch-in-california-07706172/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 74
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/volvo-concept-recharge-side.jpg"
-        width: 1440
-        height: 800
-        isCached: true
   - title: "Volvo's Self-Driving 'Ride Pilot' Technology to Be Tested in California"
     excerpt: "The subscription-based program will be a feature of Volvo's electric flagship SUV that's coming later in 2022."
     publishedDateTime: 2022-01-09T20:55:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/284566-volvo-concept-recharge-1641756481.jpg?crop=1xw:0.8891213389121339xh;center,top&resize=1200:*"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Xpeng Motors invests in lidar company to bolster self-driving tech"
+    excerpt: "Xpeng Motors led a investment in Zvision Technologies, a Chinese startup that makes lidar sensors for self-driving cars."
+    publishedDateTime: 2022-01-12T03:08:00Z
+    webUrl: "https://technode.com/2022/01/12/xpeng-motors-invests-in-lidar-company-to-bolster-self-driving-tech/"
+    ampWebUrl: "https://technode.com/2022/01/12/xpeng-motors-invests-in-lidar-company-to-bolster-self-driving-tech/"
+    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/12/xpeng-motors-invests-in-lidar-company-to-bolster-self-driving-tech/"
+    type: article
+    provider:
+      name: TechNode
+      domain: technode.com
+    quality: 44
+    images:
+      - url: "https://technode.com/wp-content/uploads/2022/01/172121708_m.jpg"
+        width: 2365
+        height: 1774
         isCached: true
 
 secured: "PsYphGXosejAHd4SaX8C9R/d+zw7fX/QdT9DpKfm16qxEHOSMQR+wVRI2kAi14UoPRjMxAWEH1DpfgiA48cKh0aPSjQW7S2ti0E+3nvJ68tRDXayLQlOc/BCAFRaVyIAR/Tag+szfH58fBFQJn0GcPFAdbu5Ioxt7bbL+rBH5/qDKSRXCOwn5fcG5PVJYt5SmxpGl/8AcHd5/IAm8cHV0Brj7EeCRhkYjHhW3j/WD4FsVh5GFHhVuBljDVlsXk6xP39InH+ieZyM6/MMOGlaFOLQPSRTAmK9LMyjAJuA7GVyaL+PUdBHYQDcjYXHHhv/jCQw5V9pjpJmOqdtOsZcPnDlbJS5lLMn6wo1svhUhpk=;ecjAVZ8OLaJBNjF1AzMOLw=="

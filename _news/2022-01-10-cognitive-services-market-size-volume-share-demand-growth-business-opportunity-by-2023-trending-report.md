@@ -53,7 +53,7 @@ related:
   - title: "Global System-on-Chips’ R&D Portfolio Analysis and Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
     excerpt: "Chips’ R&D Portfolio Analysis and Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This technology and innovation study focuses on the benefits of SoC, the emerging trends in SoC hardware,"
     publishedDateTime: 2022-01-11T17:38:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-e4a7140664b643b897f8c0b58f8cc0ae"
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-e4a7140664b643b897f8c0b58f8cc0ae"
     type: article
     provider:
       name: Associated Press
@@ -64,15 +64,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned"
-    excerpt: "In the recent MEP National Network™/Modern Machine Shop webinar \"Artificial Intelligence in Manufacturing: Real World Success Stories and Lessons Learned,\" Andy Carr of South Carolina MEP (SCMEP) and Delta Bravo Founder and CEO Rick Oppedisano discussed AI solutions that work best for small and medium-sized manufacturers (SMMs)."
-    publishedDateTime: 2022-01-07T16:18:00Z
-    webUrl: "https://www.publicnow.com/view/E1A12CAC87232C8E026C6B337ACE858D8150DD8C"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 8
 
 secured: "TZTOXwDT+7l5PwtAHh8iOaA8MBjGsPX93rwgggcSgvtI5ePYAa8C1mJItdmoYnJsVaDCyOBpR1Q80Ln70AsDNcq3OriMo+P24fg1gp4qsf/1sUX9M4tYQWx627Yr4r3OGBTJMDdHBG8ei0bczYesIRigN/sMft49tNQ03yCIu0qZux0HGiG93AYYiaCeIrBH8bdg8WdoZ/ztF4ZU46L84OPmdrg7OF3tRpBEfOT+Cr3Y53CVVkNudQL6H3VEJLnZqCCOl0o2R3uzYzjTWkiT5Gx4iqIjxwS7bw06/VXbXIhJYDk1SI8ADO2oKiuwgyChHkjy8SATW6ma+83FV4N83d4wttaoLjwYDJ7MTkFL3Zk=;0oaOIHReSRvSrDugTldYZg=="
 ---

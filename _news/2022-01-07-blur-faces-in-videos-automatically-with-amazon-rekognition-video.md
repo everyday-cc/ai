@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos
 webUrl: "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1260
     height: 537
     isCached: true
-
-related:
-  - title: "Swap.com Partners with FIND.Fashion on AI-Powered Visual Search and Emotion Recognition"
-    excerpt: "Swap.com began working with FIND.Fashion visual search to give shoppers artificial intelligence and emotion recognition to search millions of items."
-    publishedDateTime: 2022-01-07T15:38:00Z
-    webUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/"
-    ampWebUrl: "https://www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/retail/2022/swap-com-partners-with-find-fashion-on-ai-powered-visual-search-and-emotion-recognition/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 49
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/visual-search-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "DAKUeaLZpCXJVMNqEMnx1/1yeqb8gqaeI9Pqs2CYFRMP+l2qKFj9dX+FcdC+I7uUv+NjLXZBelvr4vSVWoBjdfsSIx90KCnKPaKcEN42mJ0C2Cak3mdg0qJJPNeRzkrqLJAKLJVxHhBRe/GgWYWao0kBV/D62Xf9GrdmfFhPgsK3hvj1eS8tEELwWVzqJlA+Zm6zasngPL5Jd7KTdr+zQ9Vf5WVzMIYGk8ux+lJAWQlu6D1wEQuSoSbS/N1PO/jgxAtS7/RTCvDBA9UQuHEHNyC5AFN1koP+mFzo+DmVMgkNovKMpyBPDMCY7On3R4mt7ON0WF0jRAA9jD447x4rIv14j6vhKlmB0eQvrdo5fn0=;kkFK1efgdWmUZiK8jvTdCA=="
 ---

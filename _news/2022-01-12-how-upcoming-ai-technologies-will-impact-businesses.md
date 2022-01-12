@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
-excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
-publishedDateTime: 2022-01-10T13:00:00Z
-originalUrl: "https://www.cioreview.com/news/product-management-in-the-age-of-artificial-intelligence-and-machine-learning-nid-34835-cid-214.html"
-webUrl: "https://www.cioreview.com/news/product-management-in-the-age-of-artificial-intelligence-and-machine-learning-nid-34835-cid-214.html"
+title: "How Upcoming AI Technologies Will Impact Businesses"
+excerpt: "Robots and automation have long been a part of the manufacturing ... With continuous innovations and new ideas, there are lots of ways that companies can improve thanks to AI. Start researching and stay ahead of the curve."
+publishedDateTime: 2022-01-12T07:59:00Z
+originalUrl: "https://negosentro.com/how-upcoming-ai-technologies-will-impact-businesses/"
+webUrl: "https://negosentro.com/how-upcoming-ai-technologies-will-impact-businesses/"
 type: article
-quality: 55
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CIOReview
-  domain: cioreview.com
+  name: negosentro.com
+  domain: negosentro.com
 
 topics:
-  - Machine Learning
+  - AI in Robotics
   - AI
-  - AI in Healthcare
-  - Natural Language Processing
 
 images:
-  - url: "https://www.cioreview.com/news_new/sliderimage/t0ssq.pmmag.jpg"
-    width: 300
-    height: 350
+  - url: "https://negosentro.com/wp-content/uploads/2022/01/jumpstory-download20220112-075819.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -73,6 +71,20 @@ related:
         width: 4098
         height: 2304
         isCached: true
+  - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
+    excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
+    publishedDateTime: 2022-01-10T13:00:00Z
+    webUrl: "https://www.cioreview.com/news/product-management-in-the-age-of-artificial-intelligence-and-machine-learning-nid-34835-cid-214.html"
+    type: article
+    provider:
+      name: CIOReview
+      domain: cioreview.com
+    quality: 55
+    images:
+      - url: "https://www.cioreview.com/news_new/sliderimage/t0ssq.pmmag.jpg"
+        width: 300
+        height: 350
+        isCached: true
   - title: "Opinion: Using AI and machine learning to improve the health insurance process"
     excerpt: "In the past decade, health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
     publishedDateTime: 2022-01-10T14:16:00Z
@@ -100,20 +112,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eaa9e3c5-5093-4b99-9689-9edc97fa962c/Rendition/thumbnail/Content/Public"
         width: 300
         height: 234
-        isCached: true
-  - title: "How Upcoming AI Technologies Will Impact Businesses"
-    excerpt: "Robots and automation have long been a part of the manufacturing ... With continuous innovations and new ideas, there are lots of ways that companies can improve thanks to AI. Start researching and stay ahead of the curve."
-    publishedDateTime: 2022-01-12T07:59:00Z
-    webUrl: "https://negosentro.com/how-upcoming-ai-technologies-will-impact-businesses/"
-    type: article
-    provider:
-      name: negosentro.com
-      domain: negosentro.com
-    quality: 39
-    images:
-      - url: "https://negosentro.com/wp-content/uploads/2022/01/jumpstory-download20220112-075819.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "CCC: AI Continuing to Infiltrate Claims Process"
     excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
@@ -148,6 +146,6 @@ related:
       domain: acm.org
     quality: 19
 
-secured: "ACd5xd2fk39UHegmURRJiD65lxZeLIqdJXziY/DSN4Zw7yMnZF2qrd35DElrPy7Rt/Y0r9iS0wPGvJ8qBWH3HKmy5GKUAzQ2AHTOZvsB8bjkKdZ6hi1nQELZCJ77DLR2x5kLhOsW1tCZ8w+AsIbLn5JyeB6txSnqMhRr1nU11bLXz1DTRiH8EJ2AWDR2rbk5+q1Ns3DpwXajvh9/fe1gUCr8kfQkOt/AO9KW+1zDoZoFrBfsUfVCu2FlM3Ylc3OGMUAjC2g9aNwvgoZYw/g/8AraCxD1KLs/5ZPg02+iN/aGqcH7lR00eDszP1l2SoGt0AL0grk6Wwt0mbovXHzGvnXX9RMQYb+jgZF57R5sqHc=;ztAQLb9hznBJlCIM9ws83A=="
+secured: "eXNGf4KlA7jjQyT1BW9F396ZXFJFzMiV56MGmtS2qvuM552fS6mx4pBQlSXAdbfwyT9KAnwlBhH2554CZCFEmgGLz2QYAJQLHE8yj3yOsoA3iNY3Tl18WF0o1TwBBMhILkO9QDNq4JOAhRqvp2A2xjU6In7mEHO76pMOc60ke+zAu7PynxRufmoZTbSYZGuGn7wo1lx2KJQhFs0TSO+RYIaXgqx6NvcOL8Z6bJjQsZ7ykRZ3ZnX0nIdyLDIy8Ah66wJ5+AbEqEltRknCeZO1TwDLLUuPJm8ygpXZBj1SirADVDxoNKVp/cmxp2EBH5nWPDde/g7KeIbRbk+yK5vs4sjVhy5TBdtA9V611Tv36JU=;Kr9Fqcr0WKk6rIQNC0JWoA=="
 ---
 
