@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 167
   - title: "A research adventure into Artificial Intelligence"
     excerpt: "Alan embarked on a first-of its-kind Masters programme to explore the transformational potential of Applied Artificial Intelligence for industry. The course, delivered by Cranfield University was developed in collaboration with Professor Nick Colosimo,"
     publishedDateTime: 2022-01-10T08:25:00Z

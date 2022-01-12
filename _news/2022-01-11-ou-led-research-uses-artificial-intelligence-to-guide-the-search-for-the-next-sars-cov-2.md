@@ -63,6 +63,20 @@ related:
         width: 352
         height: 250
         isCached: true
+  - title: "Shall We Play a Game? Researchers Use AI To Search for the Next COVID/SARS-Like Virus"
+    excerpt: "An international research team led by scientists at Georgetown University have demonstrated the power of artificial intelligence to predict which viruses could infect humans — like SARS-CoV-2, the virus that led to the COVID-19 pandemic — which animals host them,"
+    publishedDateTime: 2022-01-12T14:45:00Z
+    webUrl: "https://scitechdaily.com/shall-we-play-a-game-researchers-use-ai-to-search-for-the-next-covid-sars-like-virus/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 30
+    images:
+      - url: "https://scitechdaily.com/images/Rhinolophus-rouxi-Bat-scaled.jpg"
+        width: 2560
+        height: 1040
+        isCached: true
 
 secured: "hE4Mr/Qva/TTU8svOIIwxliscmTIXwED4V0HNJzgmduQsaQ7LY+GN6EyKhM3gcftJV7QAyRvEj2S8bK/KZb1e0/PnkYEBS80cATMKxhApwo6nJLJhlh7m475z2R6FDW9GgibO3ll9G59dxB/EEWF1qQ4Jplul62951QvaAwr8oW6J6qJqDrecJkEgHj7uBMpzuGd2K1TlCmKBgdmBccHGQoLziff9ngHr8DK9bRAnD/lWNLBw3SfspHO9bOsEXhKU8ysPF3Klyd/qBFbvN6+eisLbMVfI8yhLHt4Jhu6jJBnNgEDQ1eIfLCNdghfkQtLrHdGU3pYxWxHep0IoP6ic94JVPIvHWBWXi7zwiEoDvc9VoBSpwCxdrAN8N8ks1c++eRFRmwvrgdW9O/l4kXaqWcjaEJGRn791/5C3RqPmhV06G0Sr2pxRUYfmw+2soqz7cktouXnAtdCcdUn0GK24S68l0uJ/lR9znmyrts7vjN6PjMNkmN/f8l7ZWj+dKfx6YYenfD3qXkafQGrta6COg==;dZypZ9LIuRXhVXS+1Aqk/w=="
 ---

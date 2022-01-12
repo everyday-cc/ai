@@ -26,22 +26,6 @@ images:
     height: 640
     isCached: true
 
-related:
-  - title: "TuSimple Trials Self-Driving Trucks Amid Trucker Squeeze"
-    excerpt: "As the U.S. trucking industry faces a shortage of more than 80,000 drivers, according to the American Trucking Association, one company is hoping that it can one day fill the gaps by bringing its autonomous trucks nationwide."
-    publishedDateTime: 2022-01-07T22:07:00Z
-    webUrl: "https://sourcingjournal.com/topics/logistics/tusimple-trucker-shortage-autonomous-driverless-self-driving-nvidia-321892/"
-    type: article
-    provider:
-      name: sourcingjournal
-      domain: sourcingjournal.com
-    quality: 24
-    images:
-      - url: "https://i1.wp.com/sourcingjournal.com/wp-content/uploads/2022/01/TuSimpleCameras.png?fit=1200%2C674&quality=98&ssl=1"
-        width: 1200
-        height: 674
-        isCached: true
-
 secured: "itgx/J0EzFoMSfYJsQkZHkMSjF59chz2KGiIVtkQdB0B8nqx3Rcmp4wiuoEaLqaZJHNF3ifhiDaXq1KjC67doPb2Trypqf75DZ2NwuYkoy4+ByBZiSAlKC97NpdtacvpHe/meep0fpJnWrxYdDL5OIW6ebWek1GRVOiMf6wS3fyqIHNa+8s9TtRzrOP8nSKi2Iw5qQPUib2xPRuw/l82AmVRA3fFjc9iQenx87KmIx+FwhTIW8nfaRZwuCt5rD4C4jwCdGUi8Hxy4TSkwVe5WuQJGY61FWfcruzNwkg0iX6GA6Rs+1sddMeyaU+D05AY9OQzFHCQP0yyk984//jIkgSe9m+CpRvquHoDOUSpkl7szcCwrywHYNV4WLyW4yG/XDYw6GIcq4aC2SAD5F5Egn2f9v917qMKDwefVPZqL3Rb5Lv4y0kXyX+khPxCB4ifL7SpCeMflFtp93jdhtR+BreBsaqmQ73pJvEC+OiNoQPTVKngIZkl+GT32T07GR9BaC8TzJUT/Jh1YSt8y4cQUg==;uFwfziXX9bRCkR4zCd6Hdg=="
 ---
 

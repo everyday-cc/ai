@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/guardrail-failure-companies-are-lo
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias/"
 type: article
-quality: 84
-heat: 84
+quality: 184
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "bmjREu/TeiFKAT8H4XKiBpQjXmS7vOamZxmvZxIJwxz2eX6YYnL14fk6eDoCr8amcqjgUIb5P9um2y5uY9g4tllVYHdAZglwR/zqoeuVvuKr1j/gPi4VVY0aGD9AQbxDdCj07Vrv/oP9/X2obi3YoQ38cT8rh6dRT4oDsvXAxpod/g911ydB/ypOocPsABWaHJWaBUeArN3KZh9Ck34/2n6RWBd4qkjgiaYVJyEm+lLC4vA541bw2NJyMA6O1S6TGApDjQzeejSEO+1EUyottgqp7aArHSv2j8O+/TSZrjjDW6tKV5//G2SQiRNRTCitlTzXPzmWSpuXyvqkEQolC9obFZfqDylBteQ+bB09kgg=;MpCLOdlJzZYxWLEXlRlqNQ=="
+secured: "y1rHygdB1iwpHgFvWHBwqlmTRCZcxt3cgS7verCxSBNKKBfMDUNq7RZAsrHprV2yUyjtdBmfi7Hcl9izypcDEmRen9eNXM1195emtv7voxdKKMasuBRp8KLDmALmgOkaqAp47n0et9MW7YyzFjPpNCNZaj2XP9kCbquGmGtgQ9kTDVQ+W+PLct/L4C1wRs1uq+2aTcO1n9p/ZI+YNVbQmbNknvUARhCBlXwnJ9BfgcawQti0PqM7clh2hlmNL3a0DRZ1VKGSvFXjHo8s45k9Y6RMjRnJhxjIAJwVpKVUPAY3I2twDK/IIx5HmFZEccJCx6+yGSQEzo/6+23KK3ONawwxQhdbo+sSjilHbCm5pzDZuxwRCssuZEp0RZz0hp0oaEUYh6Zj4l5ujHp48cbRqsZ0h75K6xRWT5mBT/RcBKON1wHU4nLygmvlLR/Gx1WOfVVPRfNY9R2VOGfSi5ClPBh3pRVWMmUfayOy3CBUNZKKqJdk/PryWkm9DKwb0rv5SM+Y297eCY9KvUwoPr93yXZIahgTqOfGmCacGdWkyfo=;wJMtHP2fcn/JIwF97OwN5A=="
 ---
 

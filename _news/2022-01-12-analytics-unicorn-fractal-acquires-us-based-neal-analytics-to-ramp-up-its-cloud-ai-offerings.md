@@ -41,6 +41,38 @@ related:
         width: 400
         height: 209
         isCached: true
+  - title: "Placer.ai, a location analytics startup, finds $100M at a $1B valuation"
+    excerpt: "Many of us are moving around these days a lot less than we used to — because of Covid, we’re working from home instead of an office; and we are traveling and going out less. Now, as we shift back into more “normal” behavior,"
+    publishedDateTime: 2022-01-12T13:08:00Z
+    webUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/"
+    ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-76530606.jpg?w=1024"
+        width: 1024
+        height: 680
+        isCached: true
+  - title: "Location analytics company Placer.ai nabs $100M to generate insights from foot traffic"
+    excerpt: "Placer.ai gives retailers, hospitality outlets, and real estate companies foot-traffic data to unlock insights on customers and competition."
+    publishedDateTime: 2022-01-12T13:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/"
+    ampWebUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/analytics-banner-min.0439da31-scaled-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 665
+        isCached: true
   - title: "Fractal acquires Neal Analytics to expand cloud AI offerings"
     excerpt: "Neal Analytics strengthens Fractal’s AI engineering capabilities & cloud-first offerings on Microsoft’s multi cloud ecosystems and enables clients to scale AI and power decisions. Fractal, (fractal.ai),"
     publishedDateTime: 2022-01-12T04:34:00Z
@@ -72,6 +104,20 @@ related:
       - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-07/09/full/1594315734-4321.jpg&width=1200"
         width: 1200
         height: 900
+        isCached: true
+  - title: "IBM wants to exit healthcare by selling its Watson Health business"
+    excerpt: "IBM is attempting to sell its Watson Health business—just around a year after it was first reported to mull a sale in 2021. For context, Watson Health, formed in 2015, develops AI-driven analytics solutions for hospitals,"
+    publishedDateTime: 2022-01-10T05:10:00Z
+    webUrl: "https://www.emarketer.com/content/ibm-wants-exit-healthcare-by-selling-its-watson-health-business"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 56
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/5e25b7a923b9f1f715d3079db3bea995/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
     excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."

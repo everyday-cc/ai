@@ -86,6 +86,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "JFrog Joined by Cloud Industry Visionaries from AWS, Google Cloud, and Microsoft Azure for DevOps Cloud Days"
+    excerpt: "Calling all developers to join JFrog executives, customers, solution engineers, and cloud experts from AWS, Google Cloud, and Microsoft Azure, to learn best practices, solution tips, the importance of cloud native"
+    publishedDateTime: 2022-01-12T14:35:00Z
+    webUrl: "https://www.lelezard.com/en/news-20189323.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 52
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Qatar - Vodafone, Microsoft boost strategic partnership"
     excerpt: "Vodafone Qatar and Microsoft yesterday announced that the companies are building on their existing partnership in order t"
     publishedDateTime: 2022-01-10T09:55:00Z

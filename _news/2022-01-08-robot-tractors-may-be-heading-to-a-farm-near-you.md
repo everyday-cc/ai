@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Robot tractors among automation storming US farms in 2022"
+    excerpt: "Robot tractors, driverless plows, and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers who are already juggling"
+    publishedDateTime: 2022-01-12T13:24:00Z
+    webUrl: "https://techhq.com/2022/01/robot-tractors-among-automation-storming-us-farms-in-2022/"
+    ampWebUrl: "https://techhq.com/amp/2022/01/robot-tractors-among-automation-storming-us-farms-in-2022/"
+    cdnAmpWebUrl: "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2022/01/robot-tractors-among-automation-storming-us-farms-in-2022/"
+    type: article
+    provider:
+      name: TechHQ
+      domain: techhq.com
+    quality: 59
+    images:
+      - url: "https://cdn.techhq.com/wp-content/uploads/2022/01/DSC4385-375x210.jpg"
+        width: 375
+        height: 210
+        isCached: true
   - title: "Robot tractors may be heading to a farm near you"
     excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
     publishedDateTime: 2022-01-09T21:31:00Z

@@ -19,19 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Thanks to SambaNova Systems, OTP Bank will have the fastest AI supercomputer in Europe"
-    excerpt: "SambaNova Systems, OTP Bank and the Hungarian Ministry of Innovation and Technology (ITM) announced a partnership to build Europe’s fastest AI supercomputer within 100 days, leaving Wall Street and their European competitors including the French behind in the AI sprint."
-    publishedDateTime: 2022-01-10T09:51:00Z
-    webUrl: "https://www.actuia.com/english/thanks-to-sambanova-systems-otp-bank-will-have-the-fastest-ai-supercomputer-in-europe/"
+  - title: "JD.com opens robotic shops in the Netherlands as Chinese e-commerce giant tests new model in Europe"
+    excerpt: "JD.com has remained largely unscathed by government’s tech crackdown but new markets are key to offset slower consumer spending in China."
+    publishedDateTime: 2022-01-10T22:00:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests"
+    ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests"
+    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests"
     type: article
     provider:
-      name: Actu IA
-      domain: actuia.com
-    quality: 48
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 158
     images:
-      - url: "https://www.actuia.com/wp-content/uploads/2022/01/visuel-otpbank-sambanova.png"
-        width: 3333
-        height: 1667
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/10/091cf70a-db49-4b80-82a6-b402c01fe2f0_92b0c6d5.jpg?itok=5t6ipMJf&v=1641810010"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Making the Netherlands safer with artificial intelligence"
+    excerpt: "The use of artificial intelligence continues to play a supporting role within the police force. Although this might sound less exciting, artificial intelligence does create a lot of opportunities. Take the officers on the street,"
+    publishedDateTime: 2022-01-12T12:13:00Z
+    webUrl: "https://www.uu.nl/en/organisation/alumni/alumni-about-tomorrow/all-stories/bas-testerink"
+    type: article
+    provider:
+      name: Universiteit Utrecht
+      domain: www.uu.nl
+    quality: 37
+    images:
+      - url: "https://www.uu.nl/sites/default/files/styles/image_1600xn/public/ubd-lustrum-alumni-bas.png?itok=1d9Szliv"
+        width: 1600
+        height: 910
         isCached: true
 
 secured: "cRHZWRT7nkhd+GaQgCo9jI+EaEIu0kFHi18S+UqisIzUYXNRVLSIBo1fZ5AMaMpyTGTQ+iAIqyrXVNUrwxm/4jesYwrvaq9jMyjjTFNm0FLlwC71SPLIDnUu4OfaaJRU4S7eAqAi2bjrZbSvcvY0bV1Miyt4S1IuGOj75lVKgVTusfCxd2C9CONe0JfGsqQoZg7IxmfTHMKZB8AeVBc6wHLbrVg42cJzee9K60A2n+s1fl6NlFQoOKJOL4wB7FVy3FakFF7/nx+n85X+AhF16e2tPvoIrjxbpeCxYwO0RWrnCEx54FYj3BhYl5jHovX9x2UJKNL86He6RxSRethPJ/Ff97hhQLFAGMjSrcr5vH4=;ejkvlTgJttvBjRXoa46etw=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-poss
 webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://biz-file.com/c/2111/636347-847x440.jpg?2"
         width: 847
         height: 440
-        isCached: true
-  - title: "AI and Disinformation – Echo Chambers in an Age of Division"
-    excerpt: "Echo Chambers in an Age of DivisionVicar SayeediJanuary 8, 2022Disinformation, or its contemporary moniker, ‘fake news’,"
-    publishedDateTime: 2022-01-07T23:00:00Z
-    webUrl: "https://www.goodreads.com/author_blog_posts/22104422-ai-and-disinformation-echo-chambers-in-an-age-of-division"
-    type: article
-    provider:
-      name: Goodreads
-      domain: goodreads.com
-    quality: 37
-    images:
-      - url: "https://images.gr-assets.com/authors/1614972635p8/7086757.jpg"
-        width: 585
-        height: 933
         isCached: true
   - title: "$40M Available for Artificial Intelligence and Transformative Technology Innovators to Improve Care and Health Outcomes for Older Americans"
     excerpt: "America is getting older faster. According to the U.S. Census Bureau, the number of people aged 65 or older in the United States"

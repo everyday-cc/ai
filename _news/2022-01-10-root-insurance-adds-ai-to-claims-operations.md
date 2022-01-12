@@ -23,6 +23,17 @@ images:
     height: 518
     isCached: true
 
+related:
+  - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
+    excerpt: "OSARO will take the lead in providing AI software to improve the efficiency of robot operations, and INNOTECH will provide support from demonstration testing to integration of the AI software."
+    publishedDateTime: 2022-01-12T13:52:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2022/01/12/innotech-and-osaro-collaborate-to-build-a-demonstration-ai-picking-robot-system-for-rohto-pharmaceuticals-next-generation-smart-factory/18060/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 3
+
 secured: "ielkN7Wurbm4UbdI0ghuGv38Sw6+op0lyOGGbsuZeUAFH2E3jQqyPSmZQnHrdI38jaWXzrpz9u7adkPNw+s6i/Uu8jluH9XGHW0cYSINa73+kVa3BBrSYUtUv96P96bnKq/9KtGDo4xZV2NdOmverT2PZwSeUHdXyT4KT+eRk0Fm10KG+RnHirK+BWIJQ0PFCP8dnSHey0ODIwQWAXtC4oplnCMuLm8u3SGleeHwCBV8pznOHBZaI86EKPcNFJqDBm5plim4yFExEWlXhkkjz4fC8gOFZo0bmeNgkmIECLJicg0U9nk3rWCeHVerUqGnWVckAum1vQcVJwnYzRW1rDrfWjg9xf5qFhk1w0YPI2U=;gTYyGE68FIhHFQKi/5bpKw=="
 ---
 

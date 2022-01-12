@@ -90,20 +90,6 @@ related:
         width: 279
         height: 210
         isCached: true
-  - title: "Mark Andress on NGA’s Cloud, Machine Learning, Cybersecurity Efforts in 2022"
-    excerpt: "Mark Andress, chief information officer at the National Geospatial-Intelligence Agency, said NGA is set to undergo several technology shifts in cloud, machine"
-    publishedDateTime: 2022-01-07T21:33:00Z
-    webUrl: "https://executivegov.com/2022/01/mark-andress-on-ngas-cloud-machine-learning-cybersecurity-efforts-in-2022/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 36
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/01/07/07/e5/02/fb/86/43/83/84/00P4y00001NP9sOEAT.png"
-        width: 270
-        height: 270
-        isCached: true
 
 secured: "+l9WdXNjvkB7P8JT1OwbnajETQaMFlpJDy+cn2tZmlJDpGJ+vXY/QJN8LNtOzybYQN96D2Z+8Vs/SPjIPXsJKhX++p1PPTgEyNDyIwY2ydiEzrk43l8qYcp+l0OHNG9GNYcqpR47fHZ1UdWD/TDUaV+rTTQqrL7dZLcnXIf/+2t4hJKouRhzrkEzXwOSqNnDH5IBaIsd2sUbReRxcEr7EuHqZmVKTvVlFKLq+FNiFmQvjAG28+22BxtxADVu3MGieRqymGSS9ksvzDTWPRX7mwvyMGH+exOVuLPa8LW/XL5RuieH6AOIcnCoGUITaotWZuKL8ymoSNO7MWQ+dX74TfoGJ3N9nuIdMaipf/71TtWdyHs2HeFYJ3WNwfzx5LeAIPW+hVHPgF3tFmlyVVMmesJsXdC/jk50jeV05nu/Kz82hl7/oP4oIlHlqqse75hNOwd+rOfaJwuLqSN17dDekRSHxgwIYfsNTbJrCdnsx8AAS+MPb2rOiNPKjsg8iWTMFAixFmzN1vxYpbkt482jJg==;Ms6lUupCPdrvNljpDOVN/Q=="
 ---

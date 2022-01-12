@@ -49,20 +49,6 @@ related:
         width: 847
         height: 440
         isCached: true
-  - title: "AI and Disinformation – Echo Chambers in an Age of Division"
-    excerpt: "Echo Chambers in an Age of DivisionVicar SayeediJanuary 8, 2022Disinformation, or its contemporary moniker, ‘fake news’,"
-    publishedDateTime: 2022-01-07T23:00:00Z
-    webUrl: "https://www.goodreads.com/author_blog_posts/22104422-ai-and-disinformation-echo-chambers-in-an-age-of-division"
-    type: article
-    provider:
-      name: Goodreads
-      domain: goodreads.com
-    quality: 37
-    images:
-      - url: "https://images.gr-assets.com/authors/1614972635p8/7086757.jpg"
-        width: 585
-        height: 933
-        isCached: true
 
 secured: "YRPny1MRnDAWeI+FDAVQL/ZY3HiSv9wFhYGjP5eHQGgYXy+3FMvQWQ5UUCFogxG38KoeX1AQkyLTNGXiCa7zCnnk51U37mLQJGD9e8N9kQU0//jukIK5QuLcUhvDSOM71wwNyJtqa05Lz/3MU8PTBqO5b6X9BiItzx31UxFseh2LyQg9HVDauOQOnrrSzqJR3TQ+fneBlDmqMUYcdvuw3RKyRl0OOdFhUYW5ePZPMteYBQi7KCwqYPTkCBAtxpl64sa8jeF7ZnIB7DecXyk/UnC96zntWJs6wKl3oC6qOxJhMhGgr3wBu2vtqTNfsclke6/RKOFtk2jWdtSWgj6YLuBdzpKPZqK9ZAaSXFmyG98=;UBIc36GdV/ebAZkA3DKXOA=="
 ---

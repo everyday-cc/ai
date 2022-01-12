@@ -49,6 +49,20 @@ related:
         width: 352
         height: 250
         isCached: true
+  - title: "Shall We Play a Game? Researchers Use AI To Search for the Next COVID/SARS-Like Virus"
+    excerpt: "An international research team led by scientists at Georgetown University have demonstrated the power of artificial intelligence to predict which viruses could infect humans — like SARS-CoV-2, the virus that led to the COVID-19 pandemic — which animals host them,"
+    publishedDateTime: 2022-01-12T14:45:00Z
+    webUrl: "https://scitechdaily.com/shall-we-play-a-game-researchers-use-ai-to-search-for-the-next-covid-sars-like-virus/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 30
+    images:
+      - url: "https://scitechdaily.com/images/Rhinolophus-rouxi-Bat-scaled.jpg"
+        width: 2560
+        height: 1040
+        isCached: true
   - title: "OU-led research uses artificial intelligence to guide the search for the next SARS-COV-2"
     excerpt: "Daniel Becker, an assistant professor of biology in the University of Oklahoma’s Dodge Family College of Arts and Sciences, has been leading a proactive modeling study over the last year and a half to identify bat species that are likely to carry betacoronaviruses,"
     publishedDateTime: 2022-01-10T23:31:00Z

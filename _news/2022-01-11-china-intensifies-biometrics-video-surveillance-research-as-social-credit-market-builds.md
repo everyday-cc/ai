@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "New face biometric systems spread around borders but Congress has questions"
-    excerpt: "A pair of senators ask the CBP for visibility into its use of facial recognition systems to collect data from citizens as they leave and enter the nation."
-    publishedDateTime: 2022-01-11T16:56:00Z
-    webUrl: "https://www.biometricupdate.com/202201/new-face-biometric-systems-spread-around-borders-but-congress-has-questions"
+  - title: "Enterprise Security at CES 2022 Marked by IoT, Biometrics, and PC Chips"
+    excerpt: "Amid the onslaught of mostly consumer-oriented announcements in Las Vegas, a few key items pertaining to enterprise security emerged."
+    publishedDateTime: 2022-01-11T19:25:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/enterprise-security-at-ces-2022-marked-by-iot-biometrics-and-pc-chips"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 56
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/02081827/CBPs-Simplified-Arrival-process-to-capture-the-facial-biometrics-of-foreign-nationals-arriving-in-the-country-at-Detroit-Metropolitan-Airport.jpg"
-        width: 2000
-        height: 1126
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltb24a4b2c26090dbd/61dddb1be25675203f22d7a2/amd_lenovo_pluton-sm.png"
+        width: 700
+        height: 394
         isCached: true
 
 secured: "CohHrCX/clR/QA2+CbilUbVjhjiq4UPd6PLibUnj8IwjuvPMP1THv5ffO/p1krjwOl1nFUBaj+e0ZSB9a2Jj8+6E8PktuxnBunrOs2yNU8IhJk+ow9VCu+j6PPkibV4M/S5+PuvWaIsZZ51HGjF1YVzgt9Ter7+SPWwV/avqEeouN2kGOVP0CphczSZmNNJrB+CsJ6+2LhUBgK08NVpqzDqdNXJ3MLywSOkCg1kdhCJbl3bUYf5vB16ipX+L57L0FGywCXFedRhtWWWLU4YePF+HJKKKobQWI4IY2hz38M9w3izpx4u+96gJJiHIxXCV65HsJ0MQ4fHE6P8SNJjie1399Jzidsrd33kQPQy49yg=;/eLQ39yhgjUD4EJYEDa6/A=="

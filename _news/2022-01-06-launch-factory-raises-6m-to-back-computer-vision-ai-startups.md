@@ -14,6 +14,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.finsmes.com/wp-content/uploads/2022/01/launch-factory.png"

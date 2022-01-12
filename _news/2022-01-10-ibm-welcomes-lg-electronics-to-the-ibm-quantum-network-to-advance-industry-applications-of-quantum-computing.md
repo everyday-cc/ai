@@ -35,7 +35,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 67
+    quality: 167
   - title: "LG Electronics joining IBM Quantum Network for research into AI, IoT and more"
     excerpt: "The two companies plan to spend the next three years exploring applications of quantum computing to support connected cars, digital transformation and robotics applications."
     publishedDateTime: 2022-01-10T21:48:00Z

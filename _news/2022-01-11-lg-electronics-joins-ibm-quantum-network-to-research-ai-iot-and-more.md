@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-networ
 ampWebUrl: "https://www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/"
 type: article
-quality: 67
-heat: 97
+quality: 167
+heat: 197
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         height: 209
         isCached: true
 
-secured: "5sJMAKHGycmfjq7IEZsHYch7gRfWwPWRK5i03Kyp1SDChTYTdCMjr9CcyhWcvmroBVDIeDd1tG3g9y27E7oksH/4ByrLR9EG4MJ0m7f8VDvqJIGPqX0GqVSb222M+pW4ppIfod6AO+LmvIE7rCFFupVBZGB5Y1TfVspPZaRs36RZo1tGgGdwXJFe9S/00r5pbKbmo8aVZatwguLKevE6U7sSlyh8DL8Qgdqg8ZMW+zaXTZqDnGdr3PHlTbl9717RVwY66uJ2dieQmeQqSeuv/QIrteennmTx8FezgJn7Qgfaewl1XuRM5bER89T6QFsDy4bDKTgSUbXCOxzdiE69tJgJsbTdzfPJlHOwNi69lBpyfno278+NoaA9UrJ6HmE2Hgt/MPivojEfoN+TyeHcZQ6GCE0Aayl5ccHMCTSQVwHPXVCgkCmatrLj/3hYtSTX8hVPLNCXuQ4hbE77+r756pXMDK1vFIvtbHOPSxZHFF7WR2nvaBsrAx9Z8JHyL878shHXO03uccDy84s2kdlp6w==;cXbvKU4b9hUNUAmWXIOnzw=="
+secured: "0SXnzQsVXFlYajWNNwONni8ycv23Hy6qy/x/IkqBuBkBVT29NA0AobA/XQ/8tI5dasCuitNSDP2kXchfobR78ri9IfHcwK/N5mYNIE9HzczEkkcfDkcoNBzDj7BSnX4HDGe3QrLUXw5MOyhH0YPDrQTG229oKH7Vg6/1H4QIRXjJoHnZdg0kX37zEzMA/gF03JgDrSxHs+4Af14/vhbgbAKrsFzac+HdPOZnv9ksodb8U4nBD90G9zzz2Kb6A3YFt8UMvJ8R0P8NTQhkjQqZKPOV4SED42q314zQlsSfSqxD+64O+i5sNplTquW8dqqVaQhmCfkqhaXsBB+CdnpXuVHHgaeTHwiqLJpuZP6IYUfz51AdAedkWMsAMYtU0Mz/Y3nnICkxfQlYNHObERU2UGloa9ABfcC7MsqFgAYnWYK5Uo4MUuTc1tCvkdsz/NGGQKKoJmqyWSNiRzT5W17q8dyLtcAv5EUVsdkuHmc0Rkk9yBF83ct22uqilSikuezdoIFQkCJOZXsZ6Bc2HLgepET6SmuvsS2gYbOOATtvbg8=;sJOi+0K3hOljYCa5xxJR3Q=="
 ---
 

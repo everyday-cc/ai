@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-la
 ampWebUrl: "https://venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-lands-25m/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-lands-25m/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 187
+heat: 207
 published: true
 
 provider:
@@ -61,6 +61,6 @@ related:
         height: 1126
         isCached: true
 
-secured: "2wa/6t9Uf9/2Z4/S4JZ1RjNzj23B+7+MjANv0VgLQ8OX+F+i4Wn5vPUbfe+Fz+/DYUPJ5TKtwAcTR5wTaktCyt4ZiWJvsp8L8q4BSnA8dTX8G0UEixx2kwWLJiUpZ1jO/lctaUPx3xUR/WMk/ADJBhrkUZH+47f7Irz8LqWMY9/DYpfc5g5ag8EJR6FYk5y5sXduP3ontDlvjEfccur52yXKpxpTH47vBvnEPicdmBjJJbtCSz4jUAcW5G3bwd2ktx2/jKvr9tR2pUEGPkRABxP7+RPIqjkHidUf/kgl9ZQK1GIoMcVXkKGClWcEjCF3mt8dpW0K4cmSmUMp8p0WNYo7uNm4YoHO4T35eoCosItu/rDDbB770SitxbRSBfxJzvsg6MMZl+aqb/axT+F1TxoHQ6+xqCerKHHvs7EKfhJj8iWKeZyGfdXs+L1LWnHjwUYskw+MDOhN0sLtSrOnlkeX19lknXI0U2To/iaWvgw/KrGiX/2jS+RVf8gwzzCFYE7TW8SufSuQnlJYJ4JJ0Q==;0RQM527yHFYWDW6hTjy9JA=="
+secured: "GI7AUE3HYN4tIfzPfTFo/SGB15pPieNDwu/oxAC7Q0tuujNM7yLeL17vsKCDF3PTVR/PgOLgeg+tGJ3P7aqYI/LAjRrljeFni2qNMAb+EGi4L3rCHAB3gdparK9ObZm54XberorBns3GOnG1Wyy25tJ8xYcx8wprpl3bMldpzpzQ6hvb5hApK7LxB+tQguCQv3p0BDjF4diPziS1Diz35NsvTCzFqVw6y3uKslxRU7BcbIlfTz3DYdllJ4Xu4QgzLkJOXehUSNaUdyJmBCNv7cHDU56dIm/Jl551t1FQc/zv2+Mw1qRe5fkPx38C0lHM4FBUu4fxleQnDZB3ZNBPHCEk4Sa0nTYz8fxr/nRA2FT5lqTtarrh9+YNmATdn4R1t9nb0NCt5ukQGXOJzqg8PsaO9by/z71firhjV/XatBcr49iwWDSdZ0w8MU1njd8bfS40V17mf3f+qa5b/X4svwniLm1kBwjRsvWuPpp0dBnyFaFblhR+2Vj9Uw88/fvSBDDAWhaDTQq378bBbR3z/HjhhfXzZCBBwTpZPndzyW8=;3wArYTdMsp92F5kVMeZRHg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/daily-ai-acquires-
 webUrl: "https://markets.businessinsider.com/news/stocks/daily-ai-acquires-whiteboard-crm-1031094241"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Daily AI Acquires Whiteboard CRM"
+    excerpt: "AI, the provider of solutions for mortgage lending, announced the acquisition of Whiteboard CRM. Whiteboard provides a mortgage CRM built to accelerate lead management, partner relationships, team production,"
+    publishedDateTime: 2022-01-12T13:30:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/daily-ai-acquires-whiteboard-crm"
+    type: article
+    provider:
+      name: National Mortgage Professional Magazine
+      domain: nationalmortgageprofessional.com
+    quality: 54
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/2022-01/Daily%20AI%20Logo.jpg"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Daily AI Acquires Whiteboard for Mortgage CRM Software"
     excerpt: "AI, a mortgage lending solutions provider, has acquired Whiteboard CRM. Whiteboard provides a mortgage CRM built to accelerate lead management, partner relationships, team production and revenue growth."
     publishedDateTime: 2022-01-11T16:04:00Z

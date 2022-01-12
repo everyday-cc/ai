@@ -26,66 +26,134 @@ images:
     isCached: true
 
 related:
-  - title: "IBM reportedly shopping Watson Health just as healthcare gets hot"
-    excerpt: "IBM could be looking to sell the Watson Health division for a mere $1 billion, according to an Axios report. The question is why is IBM running away from the healthcare vertical just as it seems to be heating up,"
-    publishedDateTime: 2022-01-07T22:19:00Z
-    webUrl: "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/"
-    ampWebUrl: "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/"
+  - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
+    excerpt: "© 2022 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+    publishedDateTime: 2022-01-08T19:36:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
+        isCached: true
+  - title: "Placer.ai, a location analytics startup, finds $100M at a $1B valuation"
+    excerpt: "Many of us are moving around these days a lot less than we used to — because of Covid, we’re working from home instead of an office; and we are traveling and going out less. Now, as we shift back into more “normal” behavior,"
+    publishedDateTime: 2022-01-12T13:08:00Z
+    webUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/"
+    ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 106
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-597922966.jpg?w=1024"
+      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-76530606.jpg?w=1024"
         width: 1024
-        height: 683
+        height: 680
         isCached: true
-  - title: "Changing face of health and healthcare"
-    excerpt: "Foundation highlights the various aspects which will be crucial during and after the pandemic The onset of the COVID-19 pandemic saw the medical fraternity, technology innovators, manufacturers, regulators,"
-    publishedDateTime: 2022-01-10T08:55:00Z
-    webUrl: "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
+  - title: "Location analytics company Placer.ai nabs $100M to generate insights from foot traffic"
+    excerpt: "Placer.ai gives retailers, hospitality outlets, and real estate companies foot-traffic data to unlock insights on customers and competition."
+    publishedDateTime: 2022-01-12T13:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/"
+    ampWebUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
     type: article
     provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/analytics-banner-min.0439da31-scaled-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 665
+        isCached: true
+  - title: "Fractal acquires Neal Analytics to expand cloud AI offerings"
+    excerpt: "Neal Analytics strengthens Fractal’s AI engineering capabilities & cloud-first offerings on Microsoft’s multi cloud ecosystems and enables clients to scale AI and power decisions. Fractal, (fractal.ai),"
+    publishedDateTime: 2022-01-12T04:34:00Z
+    webUrl: "https://www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/"
+    ampWebUrl: "https://www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
     quality: 59
     images:
-      - url: "https://www.expresshealthcare.in/wp-content/uploads/2022/01/750-x-400-2.jpg"
-        width: 750
-        height: 400
+      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
+        width: 800
+        height: 420
         isCached: true
-  - title: "Report: IBM again considering sale of Watson Health"
-    excerpt: "Nearly a year after rumors first swirled that IBM was mulling over a potential sale of its Watson Health artificial intelligence business, the company has reportedly restarted the process, according to a report published January 5 in Axios."
-    publishedDateTime: 2022-01-11T07:11:00Z
-    webUrl: "https://www.auntminnie.com/index.aspx?sec=log&itemid=134711"
+  - title: "AI firm Fractal buys cloud and data player Neal Analytics for unknown sum"
+    excerpt: "Neal Analytics is a Microsoft Gold Consulting Partner supporting its cross-industry clients, such as PepsiCo and Microsoft, in their data-driven transformation initiatives"
+    publishedDateTime: 2022-01-11T11:14:00Z
+    webUrl: "https://www.business-standard.com/article/companies/ai-firm-fractal-buys-cloud-and-data-player-neal-analytics-for-unknown-sum-122011101029_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-firm-fractal-buys-cloud-and-data-player-neal-analytics-for-unknown-sum-122011101029_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-firm-fractal-buys-cloud-and-data-player-neal-analytics-for-unknown-sum-122011101029_1.html"
     type: article
     provider:
-      name: AuntMinnie
-      domain: auntminnie.com
-    quality: 54
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
     images:
-      - url: "https://www.auntminnie.com/user/images/content_images/pho_redir/2022_01_11_00_22_1177_watson_health_rsna_2021_400.jpg"
-        width: 400
-        height: 400
+      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-07/09/full/1594315734-4321.jpg&width=1200"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "IBM is apparently looking to sell Watson Health at a time when the healthcare industry is booming"
-    excerpt: "According to an Axios article, IBM may be trying to sell its Watson Health business for as little as $1 billion. Why is IBM avoiding the healthcare vertical at a time when it seems to be heating up, and at such a cheap price?"
-    publishedDateTime: 2022-01-08T11:50:00Z
-    webUrl: "https://bestgamingpro.com/ibm-is-apparently-looking-to-sell-watson-health-at-a-time-when-the-healthcare-industry-is-booming/"
+  - title: "Analytics Unicorn Fractal Acquires U.S-Based Neal Analytics To Ramp Up Its Cloud AI Offerings"
+    excerpt: "The acquisition will help Fractal scale AI-based services on its platform and strengthen its presence in Pacific Northwest, Canada, and India."
+    publishedDateTime: 2022-01-11T16:35:00Z
+    webUrl: "https://inc42.com/buzz/analytics-unicorn-fractal-acquires-u-s-based-neal-analytics-to-ramp-up-its-cloud-ai-offerings/"
+    ampWebUrl: "https://inc42.com/buzz/analytics-unicorn-fractal-acquires-u-s-based-neal-analytics-to-ramp-up-its-cloud-ai-offerings/amp/"
+    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/analytics-unicorn-fractal-acquires-u-s-based-neal-analytics-to-ramp-up-its-cloud-ai-offerings/amp/"
     type: article
     provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 43
+      name: inc42.com
+      domain: inc42.com
+    quality: 48
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/IBM-reportedly-shopping-Watson-Health-just-as-healthcare-gets-hot.png"
+      - url: "https://inc42.com/wp-content/uploads/2022/01/Fractal-social-image.png"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
+    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
+    publishedDateTime: 2022-01-10T13:35:00Z
+    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/articleshow/88814127.cms"
+    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 33
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-665726,msid-88814157/technology.jpg"
         width: 600
-        height: 375
+        height: 450
         isCached: true
+  - title: "Fractal expands cloud AI offerings with the acquisition of Neal Analytics"
+    excerpt: "Fractal's acquisition of Neal Analytics will deepen Fractal's capability to scale AI on Microsoft's multi cloud ecosystems for its Fortune 500 clients and further expand its presence in North"
+    publishedDateTime: 2022-01-11T22:56:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54941204-fractal-expands-cloud-ai-offerings-with-the-acquisition-of-neal-analytics-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
+  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
+    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
+    publishedDateTime: 2022-01-10T14:41:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 13
 
 secured: "TnJnnrVKEciGeoqpTWb53ZsV5quIuyFNFUjX0rf1cy0DKqcgWJ0wpRWzehf7Vr0mYRw8RWfcrn0k8KIQBgUgZ4/JjcRXlutLyez2PRMEhw86MdBq+uNVu0Ceh3Bp+PqbpWwI31uXzC3QlO/dpAZhGBnVhq/Ujn/EycVyGVipVrxPft8dP11oxYyocqVvoxODyg9tImBefo1NCcs3W7QD50B/Z2PkIB46Uq4+FGMk1obeJnie8ILzLDzTMuop9qUT1OdaLUL/soRSD/aLvMrnG6wCQBBIsq+Dl8omJOKfETgNMr4mK2OyMXmz7/olcoPHasupoU/Vuo2x9KN0KZNuNXUX/MVkadp+36B6XV7vql7l1ElJ1MZm+V7q8cXxRysPrwvmo6zl5vw/xwmjeXvAxYMLCozHHIIBYuDWfY3+qAh/lU4StjeAzyLCcF20gyNvdBHxSU2wkakak2aQCDcFQjRtGvd3xsaXO5ukr5rVsexuNz8/nCscMWoZEav8eAMnspBB25wP45Ju7O/8bAAhQA==;2nVaNPW+f1QU5Nwu/VKnUw=="
 ---

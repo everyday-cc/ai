@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersec
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -88,20 +88,6 @@ related:
       - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/IIT-Guwahati-main-gate.jpeg"
         width: 279
         height: 210
-        isCached: true
-  - title: "Mark Andress on NGA’s Cloud, Machine Learning, Cybersecurity Efforts in 2022"
-    excerpt: "Mark Andress, chief information officer at the National Geospatial-Intelligence Agency, said NGA is set to undergo several technology shifts in cloud, machine"
-    publishedDateTime: 2022-01-07T21:33:00Z
-    webUrl: "https://executivegov.com/2022/01/mark-andress-on-ngas-cloud-machine-learning-cybersecurity-efforts-in-2022/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 36
-    images:
-      - url: "https://executivegov-media.s3.amazonaws.com/2022/01/07/07/e5/02/fb/86/43/83/84/00P4y00001NP9sOEAT.png"
-        width: 270
-        height: 270
         isCached: true
 
 secured: "aaAj5VjuYi1mDMX5KztnLOFnssnifgk1TB8Fs+Wpe5LU6yIJwUv4VPU99y30f0lfexLQWxNJW/sncOb6yXnP3Ag3VM/AnPUfyKEi8U2SFmT0a4qv9LOKb1LdGMqQZ1iwqxl7DJiOl4W2Yn98xXDN8/7MGh3bLsVU89EBeLQgnPGNkyjPsvTv3mcWQbx4MPoo7gXdEqRqIH+KaztTPQNsB08dmzb2+xvCYzJmQQ9iaDrOT1TBJZce8iUe4ffN2IBpqrIYqMohrSnZhFWBvZRtdCPV6YNLFu/ND5LeqJLw5d1+nkWvdch7i5XKWcjLkMGYwe0vnqxWf05R+Uhl5l2HoMsRuR5zXK4BGx2raxWzC83Vr0QPrX0KRLxNOOJPg4WbhTAJLBbuJeQ8Edtr3jdN5lxBhr4/LA0sBrFpQRvMiz2LYNyPwB7rtytyhHI8IHZrsprsGx7OcCbMHjWNSwDTO5zDGjuFSI/xwHjB54Xy9KrUGnG1W0u1JRi+VD4BVI/398MuAZNkarL/+2uJVUa4qQ==;DCb4R9G2omxu1l8lFvARig=="

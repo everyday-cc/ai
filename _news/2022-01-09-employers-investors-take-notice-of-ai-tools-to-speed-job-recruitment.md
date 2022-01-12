@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/employers-investors-take-notice-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment/amp-11641637244910.html"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Employers, Investors Take Notice of AI Tools to Speed Job Recruitment"
-    excerpt: "Companies are looking for an edge in hiring through artificial intelligence and automation technology."
-    publishedDateTime: 2022-01-07T22:53:00Z
-    webUrl: "https://www.wsj.com/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
-    ampWebUrl: "https://www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-464229/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Employers using artificial intelligence to recruit workers"
     excerpt: "More employers are turning to artificial intelligence to gain a worker recruitment edge, the Wall Street Journal reports.  By automating previously manual tasks—like prescreening job applicants for basic qualifications,"
     publishedDateTime: 2022-01-10T15:11:00Z

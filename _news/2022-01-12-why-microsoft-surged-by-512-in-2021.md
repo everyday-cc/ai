@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2022/01/11/why-microsoft-surged-by-
 webUrl: "https://www.fool.com/investing/2022/01/11/why-microsoft-surged-by-512-in-2021/"
 type: article
 quality: 69
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://developer-tech.com/wp-content/uploads/sites/3/2022/01/extending-azure-digital-twins-real-time-analytics-developer-cloud-iot-platform-scaleout-software.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "JFrog Joined by Cloud Industry Visionaries from AWS, Google Cloud, and Microsoft Azure for DevOps Cloud Days"
+    excerpt: "Calling all developers to join JFrog executives, customers, solution engineers, and cloud experts from AWS, Google Cloud, and Microsoft Azure, to learn best practices, solution tips, the importance of cloud native"
+    publishedDateTime: 2022-01-12T14:35:00Z
+    webUrl: "https://www.lelezard.com/en/news-20189323.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 52
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Global Voice Recognition Market: Emerging Trends, Major Key Players Microsoft Inc and Google"
     excerpt: "According to the report The Global Voice Recognition Market was estimated to be 9 9 Billion in 2019 and is anticipated to grow at a CAGR of 18 9 from 2020 to 2027 To prevent data breaches a more robust"

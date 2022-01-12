@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/amp/"
 type: article
 quality: 86
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,37 +30,23 @@ images:
     isCached: true
 
 related:
-  - title: "Language I/O aims to strengthen its AI-powered customer service localization service"
-    excerpt: "Langauge I/O, a startup developing technology to localize customer service experiences with AI, has raised $6.5 million in venture capital."
-    publishedDateTime: 2022-01-11T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/"
-    ampWebUrl: "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/"
+  - title: "SeekOut will expand AI-powered recruitment tools with new $125M"
+    excerpt: "SeekOut, an AI-powered recruitment platform, has raised $125 million in funding to expand its software platform."
+    publishedDateTime: 2022-01-12T14:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/"
+    ampWebUrl: "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 82
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Second Nature Launches AI-Powered Interactive Sales Coaching Solution with $12.5M Investment"
-    excerpt: "Second Nature, the automated AI-powered sales coaching solution, today announced the company's launch alongside a $12.5M Series A round of investment by signals Venture Capital, StageOne Ventures, Cardumen Capital,"
-    publishedDateTime: 2022-01-12T12:44:00Z
-    webUrl: "https://www.lelezard.com/en/news-20188518.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 43
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
+      - url: "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1092756998-e1636570502724.jpg?fit=800%2C534&strip=all"
+        width: 800
+        height: 400
         isCached: true
 
-secured: "an9kYnyMDazem2zP0p6a2C9qK0SnIRgrfVKLmKQY8BweP/0b3a4g74ERdjpXSIVTAZkN52xDGtOFjG/ptTw4si8NmJC+nuFgzJZYCG1O0H2IyCcl75xq5p2n0/ytLV7WL8RWcpMN09u74zXaFM1BTrE0H0BvXI4WhiLvp18fcdmMECTD9CVzA56ltzvoPyBcYp6ZeDv1tCNOVRH4R5wH9E7Ut7rgjA7dI27mjQw1rAtlQUS/KzxxDUXksP3vgVbyqgGLiYBN0gtpit9Mx98WDsODNlHMjzKBG9RJt995/ELGVg1GYWnXKMqw0w6Rs7nvww5rAWGX0bCBPCnPIVhbUf6CwgsJRTXdMAyfIg10C18=;lbvixzSkP/Rb4cdXbmnutA=="
+secured: "+N6xSZ35TtHMl0ND0O8rZLcnzQPl2WEjwd37Mwnes6m0QbR646y+VIU0VKbmqKvsQzMX4T88GWeELQctr6OcdbKMsswuKFQpfc7IRagzZeIT0COEu00XEL20ks9bbTZwIbZLPGiMqSDDHDOmbdJzRGfH44JiS/WpOIEHfb8sK0OZNBaQHI6ka5BJbNY6HtvpWg4Bo2RQuHRnMNIrSmtjNDRwDVeLRnLF3Wto5g+1n7oCk1C1npmpUxDON24n5kkzeoWuAz7TRlcyC5+RzmcxTFHV4F+vs46qSPd4G6tCBk4erQgaKuJfgYYUbNJcWpB4Ey+KUszU+Xe8YTiCPrHDFgCusNfemxhGJtdWu646JYzrRY4hiQj1VOkMAv6uUaQ0RXpvq6VqRJI1X4mqUCVhsY2R9Iwi5pPaJVMusTVEBEG+DoYyQprgYOhcqibNf/1ISyUeh7Z5ChidKKgxWf8vdLe3l+OZyyx+W2QP1N5KSTeXx0h99V3Cc6FFK8n5FyYnsrNskspwsrVSJCVbmUduGA==;C0St0cZVCzq5di7HZUlkEg=="
 ---
 

@@ -153,6 +153,22 @@ related:
         width: 768
         height: 519
         isCached: true
+  - title: "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’"
+    excerpt: "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”."
+    publishedDateTime: 2022-01-12T13:20:00Z
+    webUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/"
+    ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 73
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla raises Full Self Driving software price to US$12,000 in US"
     excerpt: "Tesla CEO Elon Musk tweeted on Friday (Jan 7) that the electric carmaker will raise the US price of its advanced driver assistant software dubbed \"Full Self Driving\" to US$12,000 on Jan 17. The 20 per cent price rise comes less than two years since Tesla raised Full Self-Driving (FSD) prices to US$10,"
     publishedDateTime: 2022-01-08T12:54:00Z
@@ -403,6 +419,22 @@ related:
       - url: "https://i.ytimg.com/vi/gEA4fdna4-w/hqdefault.jpg"
         width: 480
         height: 360
+        isCached: true
+  - title: "California DMV to review Tesla's 'Full Self-Driving' and other technology to determine software's future use"
+    excerpt: "The review could carry major implications for the company which has deployed beta software by that name to more than 12,000 vehicles on public roads."
+    publishedDateTime: 2022-01-12T13:32:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/01/12/california-review-teslas-self-driving-determine-future-use-tdn/9184216002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/9184216002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9184216002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 40
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/04/20/PDTN/766b09c5-25eb-4df0-a8df-153f952d5296-BIZ-AUTO-TESLA-CRASH-REGULATORS-DMT.jpg?auto=webp&crop=2122,1194,x0,y106&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Tesla’s full self-driving beta may perform 'rolling stops'"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will 'n"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence learns to predict solar flux"
+    excerpt: "Researchers from the Department of Computer Systems Engineering at Universidad Politécnica de Madrid,in collaboration with the University of Strathclyde (UK), used a deep learning approach that had previously shown promising performance in other forecasting problems,"
+    publishedDateTime: 2022-01-12T14:31:00Z
+    webUrl: "https://phys.org/news/2022-01-artificial-intelligence-solar-flux.html"
+    ampWebUrl: "https://phys.org/news/2022-01-artificial-intelligence-solar-flux.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-artificial-intelligence-solar-flux.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-3.jpg"
+        width: 600
+        height: 324
+        isCached: true
   - title: "How AI and machine learning can transform construction"
     excerpt: "Karthik Venkatasubramanian extols the benefits of AI and machine learning and how they can be incorporated into a successful data strategy."
     publishedDateTime: 2022-01-10T14:59:00Z

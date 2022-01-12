@@ -41,6 +41,36 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Deep Learning In Drug Discovery and Diagnostics Market Trends and Forecast"
+    excerpt: "Deep Learning in Drug Discovery and Diagnostics Market is expected to value over USD xx billion by 2027 end and register a CAGR of xx% from the forec"
+    publishedDateTime: 2022-01-12T13:42:00Z
+    webUrl: "https://menafn.com/1103527504/Deep-Learning-In-Drug-Discovery-and-Diagnostics-Market-Trends-and-Forecast"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?868007"
+        width: 374
+        height: 250
+        isCached: true
+  - title: "Artificial Intelligence Voice Market Trend, Future Demand, Analysis by Top Leading Player and Forecast Till2028| iFlyTek, Google, Apple"
+    excerpt: "LOS ANGELES United States The research study presented in this report offers a complete and intelligent analysis of the competition segmentation dynamics and geographical advancement of the global Artificial Intelligence Voice market It takes into account the CAGR value volume"
+    publishedDateTime: 2022-01-12T13:55:00Z
+    webUrl: "https://www.openpr.com/news/2525217/artificial-intelligence-voice-market-trend-future-demand"
+    ampWebUrl: "https://www.openpr.com/amp/2525217/artificial-intelligence-voice-market-trend-future-demand"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2525217/artificial-intelligence-voice-market-trend-future-demand"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 27
+    images:
+      - url: "https://cdn.openpr.com/V/1/V112395796_g.jpg"
+        width: 800
+        height: 407
+        isCached: true
   - title: "AI in Social Media Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 10, 2022, 06:52 /Comserve / -- MarketsandMarkets forecasts the global AI in social media market to grow from USD 633.1 mill"
     publishedDateTime: 2022-01-10T12:45:00Z

@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "Leena AI introduces Covid-19 Workplace Response Suite"
-    excerpt: "Leena AI, the company that's revolutionizing enterprise employee experience, today launched the Covid-19 Workplace Response Suite. The new product helps organizations track and maintain employee vaccination records,"
-    publishedDateTime: 2022-01-12T06:43:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1230017&cat=PR News Wire"
+    excerpt: "Leena AI, the company that’s revolutionizing enterprise employee experience, today launched the Covid-19 Workplace Response Suite. The new product helps organizations track and maintain employee vaccination records,"
+    publishedDateTime: 2022-01-12T13:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-health-768400e893346cf50ad4e6df53cbd394"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Associated Press
+      domain: apnews.com
     quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/1637941/Leena_AI_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Global Artificial Intelligence Chips Market Research Report 2021 - Impact of COVID-19 on the Market"
     excerpt: "Pages Report] Check for Discount on Global Artificial Intelligence Chips Market Research Report 2021 - Impact of COVID-19 on the Market report by Maia Research."

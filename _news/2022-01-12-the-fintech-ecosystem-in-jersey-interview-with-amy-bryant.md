@@ -55,6 +55,20 @@ related:
         width: 300
         height: 350
         isCached: true
+  - title: "The growth of a fintech engineering team"
+    excerpt: "I’m normally behind the scenes, but as the year gets going, I wanted to reflect on some of the changes that our team has been through since we launched Payhawk in 2018. In July 2018, Hristo and I started as the only two employees and engineers at Payhawk."
+    publishedDateTime: 2022-01-10T11:27:00Z
+    webUrl: "https://www.linkedin.com/pulse/growth-fintech-engineering-team-boyko-karadzhov"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEQ3z4GZgUEGg/article-cover_image-shrink_720_1280/0/1641813005654?e=1647475200&v=beta&t=u8bKJWsIxMaB_P1km1rpnddfoFbnLiCvOg8J5H_nr8U"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Top 5 Innovation Trends That Are Changing the FinTech Industry"
     excerpt: "Top 5 Innovation Trends That Are Changing the FinTech Industry The FinTech industry has skyrocketed over the past few years, disrupting the financial services ecosystem. The pace of change is increasing at an exponential rate,"
     publishedDateTime: 2022-01-10T13:20:00Z
