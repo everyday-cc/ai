@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bigpanda"
   url: "https://twitter.com/bigpanda"
-  followers: 3064
+  followers: 3065
 
 size: 51-200 employees
 yearFounded: 2012
