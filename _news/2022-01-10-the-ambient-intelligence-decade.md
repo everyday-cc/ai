@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/09/the-ambient-intelligence-decade/a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/09/the-ambient-intelligence-decade/amp/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

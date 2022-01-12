@@ -3,23 +3,23 @@ category: news
 title: "Language I/O Secures Series A Round for a 2021 Total Fundraise of $12.1 Million"
 excerpt: "PRNewswire/ -- (LIO), a leader in multilingual customer engagement, today announced it has raised a $6.5 million Series A round of funding, bringing"
 publishedDateTime: 2022-01-11T12:00:00Z
-originalUrl: "https://www.douglas-budget.com/news/state/article_c9460a75-cd57-578d-991d-2978b61e4677.html"
-webUrl: "https://www.douglas-budget.com/news/state/article_c9460a75-cd57-578d-991d-2978b61e4677.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/language-i-o-secures-series-a-round-for-a-2021-total-fundraise-of-12-1/article_d382acc5-fa32-5111-b4d8-0e0d94975bbf.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/language-i-o-secures-series-a-round-for-a-2021-total-fundraise-of-12-1/article_d382acc5-fa32-5111-b4d8-0e0d94975bbf.html"
 type: article
 quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Douglas Budget
-  domain: douglas-budget.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/douglas-budget.com/content/tncms/assets/v3/editorial/7/da/7daf0387-ee14-53c3-90ad-4f540e578bef/61dd7fc40f878.image.jpg?crop=1029%2C540%2C835%2C0&resize=1029%2C540&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/b4/ab43698b-80fc-5e18-bf41-1eed0c5ca163/61dd7fbd0aa89.image.jpg?crop=1029%2C540%2C835%2C0&resize=1029%2C540&order=crop%2Cresize"
     width: 1029
     height: 540
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "ayJkhrJFi0aQ3YpStu6pKI/XZ+oHH0Tca2qn4Oy6ueNr5upupDGE80LFxKFv9m8/pS8un16KfeqyvOw2ES207eD/viU5TEAKxapHZ9Q7uxMiUrQ2CH9B5p2B/CLDFKo8uXrnnE6pIEpuxt30xGhh1u8IXr6Qi+GM9T9eCkvBhmmQ+RfyXjA0SxPb+5UbRu9XvymoZPQIb9nbyorrVm9UnwnGWsC0rnvhCPRmAh/SMWLePfKPJmPCYf/GowO6qbO/Y8QKT9UaNWBVKq3f+Y9rOGnZH9JeP87Gt+JT0S9UqE6zBdvnCFGHMUC2vCgYJrkcWRGvvhcc1g4XBPIR4vedliYTsYDe2oetO4sXUyBQZBQ5mZagwCh3dJWcejdrUMhu8SnAnHZEchwZ15ZAn3+S/H4xGM0lkWL17LQSdgL6q0LBPqsK6KOrGz7u5D45JGQqz8fKwc9lLljuomP8AlYqAk9GpXPLm28s9lmKd4pGZUiNcsubNjinmR+RgU+eaQGdcZedm2eajVH0BgIgQMLL6w==;1LpXmBEy7gXppfQ/G0R/sw=="
+secured: "7TPgS2hA3zvVG4xoU07Sbbw2ZGy5AFF4giqM9TAFjpou2Pzpv5BKStrbf2/EBm0yME75x0Kf2IloNI1+T7UVn6KOVnq0h6Zgcc5O0kOAQr0B9kszUQNLe1Bi55frjJ0kxpppos9BjziJRUxu5tdI/upl3ogFNCwydR7A+B6WGoj8jm6bRyHf8x2HE7/0ZZgaqRSTPEK1Qy0gWntor0/piaDqcWp4TZFE2ju9bWu8cFWwDDKjC9bayFo4jXjh6VE8tpbnnnoRHPlPaCWuDaos8NEOrtUbRJHBsg9A+m/FkFT5nXevL2551JQcjoce+Qw9UYYrrMupBOcZrV0jq5vwqAxgzj24lysXG9v/WnDTvxo=;GPDjH0nhCK2Vf8B71/J5/Q=="
 ---
 

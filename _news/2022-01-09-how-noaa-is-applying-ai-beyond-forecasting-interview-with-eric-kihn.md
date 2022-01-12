@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

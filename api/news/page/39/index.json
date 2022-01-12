@@ -2,6 +2,135 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-12-08-cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations.md",
+      "title": "Cognitive Space 2021 Recap - Momentum in Artificial Intelligence for Satellite Operations",
+      "excerpt": "Recap - Momentum in Artificial Intelligence for Satellite Operations Cognitive Space announced the highlights of a very successful year in its mission to dramatically improve the way we monitor the Earth for economic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiainfoline.com/article/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html",
+      "originalUrl": "https://www.indiainfoline.com/article/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
+          "width": 350,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html",
+      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-business-wire-environment/cognitive-space-2021-recap-momentum-in-artificial-intelligence-for-satellite-operations-121120800370_1.html",
+      "publishedDateTime": "2021-12-07T21:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Infoline",
+        "domain": "indiainfoline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-mumbai-based-firm-to-launch-aiot-enabled-driverless-car-next-year-details-here.md",
+      "title": "Mumbai-based firm to launch AIoT-enabled driverless car next year. Details here",
+      "excerpt": "Mumbai-based automobile-as-a-service company - Autonomous Intelligence Motors Private Limited (AIMPL) - on Wednesday announced that it will launch an artificial intelligence-of-things (AIoT) powered autonomous car in the country next year.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here-41638941456556.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2021/12/08/600x338/1169801_Wallpaper2_1638941650133.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/mumbaibased-firm-to-launch-aiot-based-driverless-car-next-year-details-here/amp-41638941456556.html",
+      "publishedDateTime": "2021-12-07T21:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-nec-facial-recognition-can-check-for-vaccination.md",
+      "title": "NEC: Facial recognition can check for vaccination",
+      "excerpt": "The CEO of Japanese electronics maker NEC says its facial-recognition technology could help fight the spread of coronavirus infections by being used to verify people's vaccination status.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20211208_18_1055617_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20211208_18/amp.html",
+      "publishedDateTime": "2021-12-07T19:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-natural-language-processing-time-is-now-to-advance-human-language-insights-for-finance-industry.md",
       "title": "Natural language processing: time is now to advance human language insights for finance industry",
       "excerpt": "Investments in natural language processing technology are becoming vital to providing market insights for the finance sector, with the capacity to analyse more data and help identify risks and trends.",
@@ -1070,152 +1199,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-the-fintech-revolution-in-china.md",
-      "title": "The FinTech Revolution In China",
-      "excerpt": "China has seen an incredible transformation over the past few decades. It's gone from being one of the poorest countries in Asia to a thriving, industrialised nation that is now the second-largest economy in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
-      "originalUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQERJsVp4-GWkA/article-cover_image-shrink_600_2000/0/1638896477318?e=1645056000&v=beta&t=Wu9KRdTKpjhJgYLbVfxCTqw4bkOwfHE4iF-IUWuDt9k",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T09:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-suki-a-siri-like-voice-platform-for-doctors-raises-55-million.md",
-      "title": "Suki, a Siri-like voice platform for doctors, raises $55 million",
-      "excerpt": "Suki is an AI-powered voice platform that doctors can use to generate and retrieve medical notes, and reduce time-consuming administration.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/9c849f8e-1c22-4954-b3fa-a6a10ddac299_LeticiaRamireznote-1.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
-      "publishedDateTime": "2021-12-07T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-y-combinator-and-mit-startup-oda-studio-raises-28m-for-ai-powered-photo-enhancement-solutions.md",
-      "title": "Y Combinator and MIT Startup Oda Studio Raises $2.8M for AI-powered Photo Enhancement Solutions",
-      "excerpt": "Oda Studio, a Y Combinator startup founded by a team of MIT graduates with extensive experience in artificial intelligence (AI), recently announced it raised $2.8 million to make their solution available globally.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-b010ce010e18465fa5cc6cc526449370",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-b010ce010e18465fa5cc6cc526449370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T07:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

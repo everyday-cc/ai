@@ -9,7 +9,7 @@ ampWebUrl: "https://www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-r
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-tsla-nvidia-nvda-stocks-robot-trader-artifical-intelligence-51641575218"
 type: article
 quality: 83
-heat: 94
+heat: 93
 published: true
 
 provider:

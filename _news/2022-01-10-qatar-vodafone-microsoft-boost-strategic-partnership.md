@@ -25,6 +25,50 @@ images:
     isCached: true
 
 related:
+  - title: "Why Microsoft Surged by 51.2% in 2021"
+    excerpt: "Shares of Microsoft (NASDAQ:MSFT) surged by 51.2% in 2021, according to data provided by S&P Global Market Intelligence. For context, the Nasdaq Composite index gained 22.2% last year, so Microsoft's gain was more than double that of the technology-heavy index."
+    publishedDateTime: 2022-01-11T17:30:00Z
+    webUrl: "https://www.fool.com/investing/2022/01/11/why-microsoft-surged-by-512-in-2021/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/660795/lady-using-laptop-in-office.jpg"
+        width: 2236
+        height: 1341
+        isCached: true
+  - title: "Etisalat Deploys Microsoft Azure Stack Edge to Offer 5G, IoT & AI Applications"
+    excerpt: "As part of their strategic partnership, Etisalat and Microsoft have joined forces to unlock new 5G scenarios with Azure Multi-access Edge Compute."
+    publishedDateTime: 2022-01-10T01:03:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/22388-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 65
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/2ba54f984ac4fa9e7f381b58becce23f.jpg?t=20220110_005244"
+        width: 752
+        height: 408
+        isCached: true
+  - title: "Agricultural AI Market is Set To Fly High in Years to Come with IBM, Deere & Company, Microsoft"
+    excerpt: "The Agricultural AI Market Development Outlook Study has been added to HTF MI repository The study envisage detailed qualitative as well as quantitative market data insights and follows Industry benchmark classification and NAICS standards to built strong players coverage in"
+    publishedDateTime: 2022-01-07T14:55:00Z
+    webUrl: "https://www.openpr.com/news/2520941/agricultural-ai-market-is-set-to-fly-high-in-years-to-come-with-ibm"
+    ampWebUrl: "https://www.openpr.com/amp/2520941/agricultural-ai-market-is-set-to-fly-high-in-years-to-come-with-ibm"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2520941/agricultural-ai-market-is-set-to-fly-high-in-years-to-come-with-ibm"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 62
+    images:
+      - url: "https://cdn.openpr.com/V/1/V107189837_g.jpg"
+        width: 539
+        height: 359
+        isCached: true
   - title: "Johnson & Johnson and Microsoft partner up on digital surgery"
     excerpt: "Johnson & Johnson will use Microsoft Azure cloud computing services to better connect surgeons and patients in a digital surgery ecosystem."
     publishedDateTime: 2022-01-10T19:16:00Z
@@ -85,6 +129,26 @@ related:
         width: 940
         height: 443
         isCached: true
+  - title: "Artificial Intelligence Solution Market Report: Trends, Forecast and Competitive Analysis By 2028 | Google, Baidu, IBM, Microsoft, SAP, Intel"
+    excerpt: "Artificial Intelligence has been one of the quickest developing innovations lately Artificial intelligence is related to human knowledge with comparable attributes for example language getting thinking learning critical thinking and others Makers in the market observe tremendous hidden scholarly difficulties"
+    publishedDateTime: 2022-01-11T11:15:00Z
+    webUrl: "https://www.openpr.com/news/2523525/artificial-intelligence-solution-market-report-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2523525/artificial-intelligence-solution-market-report-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2523525/artificial-intelligence-solution-market-report-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 34
+  - title: "Microland Has Earned the Microsoft Azure Virtual Desktop Advanced Specialization"
+    excerpt: "This specialization demonstrates our expertise in assessment, design, implementation, and optimization of virtual desktop infrastructure in Azure  - Report on The Eastern Herald"
+    publishedDateTime: 2022-01-11T05:07:00Z
+    webUrl: "https://www.easternherald.com/2022/01/11/microland-has-earned-the-microsoft-azure-virtual-desktop-advanced-specialization/"
+    type: article
+    provider:
+      name: easternherald.com
+      domain: easternherald.com
+    quality: 29
   - title: "Johnson & Johnson Medical Devices Companies Announces Strategic Partnership with Microsoft to Further Enable its Digital Surgery Solutions"
     excerpt: "The Johnson & Johnson Medical Devices Companies (JJMDC)* today announced that it will collaborate with Microsoft to further enable and expand JJMDC's secure and compliant digital surgery ecosystem. The Microsoft Cloud will help JJMDC realize its vision of driving innovation that advances skills,"
     publishedDateTime: 2022-01-10T14:30:00Z

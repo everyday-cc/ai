@@ -2,6 +2,91 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-01-03-jon-nordmark-builds-iterateai-as-digital-transformation-accelerator.md",
+      "title": "Jon Nordmark Builds Iterate.ai As Digital Transformation Accelerator",
+      "excerpt": "When former hockey player and luggage e-commerce entrepreneur John Nordmark was recruited as a board member for an Eastern European accelerator, he had little idea that the journey would lead to the development of an AI-powered,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cf504a2261ffd176941f6f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2146%26cropY1%3D86%26cropY2%3D1293",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/01/03/jon-nordmark-builds-iterateai-as-digital-transformation-accelerator/amp/",
+      "publishedDateTime": "2022-01-03T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-3-soaring-fintech-stocks-that-could-rocket-higher-in-2022.md",
+      "title": "3 Soaring Fintech Stocks That Could Rocket Higher in 2022",
+      "excerpt": "N ow that 2021's come to a close, it's time to look back at the best-performing fintech stocks to see if they have what it takes to keep climbing. Global-E Online (NASDAQ: GLBE), Upstart Holdings (NASDAQ: UPST),",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022",
+      "originalUrl": "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-soaring-fintech-stocks-that-could-rocket-higher-in-2022?amp",
+      "publishedDateTime": "2022-01-03T03:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-aptivs-machine-learning-powered-radar-sees-even-what-you-dont.md",
       "title": "Aptiv’s machine learning-powered radar sees even what you don’t",
       "excerpt": "Aptiv is using machine leaning technology to help self-driving cars see objects, even if they're out of sight.",
@@ -631,6 +716,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-01-model-based-reasoning-in-distributed-cognitive-systems.md",
+      "title": "Model-Based Reasoning in Distributed Cognitive Systems",
+      "excerpt": "Model-Based Reasoning in Distributed Cognitive Systems - Volume 73 Issue 5 Skip to main content Accessibility help We use cookies to distinguish you from other users and to provide you with a better experience on our websites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-01-mitsubishi-ufj-financial-group-inc-mufg-stock-trading-around-544-per-share-whats-next.md",
       "title": "Mitsubishi UFJ Financial Group Inc. [MUFG] Stock trading around $5.44 per share: What’s Next?",
       "excerpt": "Mitsubishi UFJ Financial Group Inc. loss -1.09% or... Mitsubishi UFJ Financial Group Inc. [NYSE: MUFG] loss -1.09% or -0.06 points to close at $5.44 with a heavy trading volume of 2198921 shares. The company report on December 7,",
@@ -999,145 +1118,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-rezos-ai-powered-contact-center-delivers-faster-results-with-microsofts-ai-capabilities.md",
-      "title": "Rezo’s AI-powered contact center delivers faster results with Microsoft’s AI capabilities",
-      "excerpt": "Azure AI helps startups access high-quality vision, speech, language and decision-making ... supporting a wide range of use cases, including translation for call centers, web page localisation ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
-      "originalUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/F800x400-d-1640887464935.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
-      "publishedDateTime": "2021-12-30T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-bow-down-before-this-us310000-massage-mega-robot-human.md",
-      "title": "Bow down before this US$310,000 massage mega-robot, human",
-      "excerpt": "A startup called Massage Robotics is launching its flagship robot at CES: A two-armed, seven-square-foot mega-bot that can understand verbal commands, is powered by a neural network of other robots with which it exchanges data in real time,",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
-      "originalUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/article/b/bow-down-b/bow-down-before-this-310000-massage-mega-robot-human_b6bz.620.jpg",
-          "width": 619,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
-      "publishedDateTime": "2021-12-30T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-crashing-the-self-driving-party-of-tesla-co.md",
-      "title": "Crashing The Self-Driving Party Of Tesla & Co.",
-      "excerpt": "Self-driving cars — and their hands-free precursors from the likes of Tesla, Cadillac, Audi, and Ford — may be barreling towards an obstacle that they can all see and can’t avoid: the courtroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/",
-      "originalUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce44219eeac3a2a090a845%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2735%26cropY1%3D0%26cropY2%3D1537",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidundercoffler/2021/12/30/crashing-the-self-driving-party-of-tesla-et-al/amp/",
-      "publishedDateTime": "2021-12-30T14:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

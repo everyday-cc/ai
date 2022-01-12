@@ -28,14 +28,14 @@ related:
   - title: "Language I/O Secures Series A Round for a 2021 Total Fundraise of $12.1 Million"
     excerpt: "PRNewswire/ -- (LIO), a leader in multilingual customer engagement, today announced it has raised a $6.5 million Series A round of funding, bringing"
     publishedDateTime: 2022-01-11T12:00:00Z
-    webUrl: "https://www.douglas-budget.com/news/state/article_c9460a75-cd57-578d-991d-2978b61e4677.html"
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/language-i-o-secures-series-a-round-for-a-2021-total-fundraise-of-12-1/article_d382acc5-fa32-5111-b4d8-0e0d94975bbf.html"
     type: article
     provider:
-      name: Douglas Budget
-      domain: douglas-budget.com
+      name: WFMZ-TV
+      domain: wfmz.com
     quality: 35
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/douglas-budget.com/content/tncms/assets/v3/editorial/7/da/7daf0387-ee14-53c3-90ad-4f540e578bef/61dd7fc40f878.image.jpg?crop=1029%2C540%2C835%2C0&resize=1029%2C540&order=crop%2Cresize"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/a/b4/ab43698b-80fc-5e18-bf41-1eed0c5ca163/61dd7fbd0aa89.image.jpg?crop=1029%2C540%2C835%2C0&resize=1029%2C540&order=crop%2Cresize"
         width: 1029
         height: 540
         isCached: true

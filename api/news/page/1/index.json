@@ -212,7 +212,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-lands-25m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -287,6 +287,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-why-microsoft-surged-by-512-in-2021.md",
+      "title": "Why Microsoft Surged by 51.2% in 2021",
+      "excerpt": "Shares of Microsoft (NASDAQ:MSFT) surged by 51.2% in 2021, according to data provided by S&P Global Market Intelligence. For context, the Nasdaq Composite index gained 22.2% last year, so Microsoft's gain was more than double that of the technology-heavy index.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/11/why-microsoft-surged-by-512-in-2021/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/11/why-microsoft-surged-by-512-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/660795/lady-using-laptop-in-office.jpg",
+          "width": 2236,
+          "height": 1341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -420,7 +472,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1158,57 +1210,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-stagezero-raises-18m-to-combine-mobile-game-rewards-and-ai-training-data.md",
-      "title": "StageZero raises $1.8M to combine mobile game rewards and AI training data",
-      "excerpt": "StageZero has raised $1.8 million in funding to give gamers rewards for participating in in-app tasks that generate AI training data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/",
-      "originalUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/stagezero-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/amp/",
-      "publishedDateTime": "2022-01-10T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

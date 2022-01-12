@@ -2,6 +2,126 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-12-24-how-india-may-become-an-ai-powerhouse.md",
+      "title": "How India may become an AI powerhouse?",
+      "excerpt": "India should look at AI solutions that cater to Indian regional languages. While cheap data ... The Government’s National Translation Mission which aims to make knowledge texts accessible ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88466210,imgsize-12332,width-1200,height-628,overlay-etcio/how-india-may-become-an-ai-powerhouse.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "publishedDateTime": "2021-12-24T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-global-2274-bn-ai-in-fintech-markets-to-2026.md",
+      "title": "Global $22.74 Bn AI in Fintech Markets to 2026",
+      "excerpt": "The \"Global AI in Fintech Market (2021-2026) by Component, Application, Deployment Mode, Geography, Competitive Analysis and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24768225/global-22-74-bn-ai-in-fintech-markets-to-2026",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24768225/global-22-74-bn-ai-in-fintech-markets-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24768225",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24768225",
+      "publishedDateTime": "2021-12-24T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-top-intelligent-automation-jobs-to-apply-for-in-december-2021.md",
+      "title": "Top Intelligent Automation Jobs to Apply For in December 2021",
+      "excerpt": "A list of top intelligent automation jobs for techie to apply for in December 2021 to receive offer letters from jobs in intelligent automation. Artificial intelligence expertise is needed for automation jobs in December.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Intelligent-Automation-Jobs-to-Apply-For-in-December-2021.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
       "title": "In Africa, rescuing the languages that Western tech ignores",
       "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
@@ -1021,153 +1141,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-public-streets-are-the-lab-for-self-driving-experiments.md",
-      "title": "Public Streets Are the Lab for Self-Driving Experiments",
-      "excerpt": "When the U.S. ordered companies to report accidents involving driver-assistance tech, Tesla was thought to be the motivation. But 108 companies were listed, showing how widespread the testing may be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/23/multimedia/23wheels/23wheels-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.amp.html",
-      "publishedDateTime": "2021-12-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-this-material-learns-like-animals-and-could-help-further-ai-research.md",
-      "title": "This material ‘learns’ like animals, and could help further AI research",
-      "excerpt": "Nickel oxide demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/this-material-learns-like-animals-further-ai-research-syndication",
-      "originalUrl": "https://thenextweb.com/news/this-material-learns-like-animals-further-ai-research-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-9-1.jpg&signature=c0f5f57ae9c7b56ea3a15f5ec59cc554",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-fintech-startup-khatabook-aims-to-double-employee-base-in-2022.md",
-      "title": "Fintech startup Khatabook aims to double employee base in 2022",
-      "excerpt": "Fintech startup Khatabook on Thursday announced that it is planning to double its employee base in 2022. The company said that it will continue to strengthen its talent base in 2022 by accelerating hiring across engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "originalUrl": "https://www.freepressjournal.in/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-10/30daa46c-42a1-4418-b22a-2ef888f0f1d8/startups.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "publishedDateTime": "2021-12-23T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

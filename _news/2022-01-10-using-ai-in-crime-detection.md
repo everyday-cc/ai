@@ -40,6 +40,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Artificial intelligence used to detect sepsis quicker, 'dramatically' reducing risk of death: B.C. research"
+    excerpt: "Researchers out of the University of British Columbia have found that artificial intelligence can detect sepsis quicker."
+    publishedDateTime: 2022-01-11T23:26:00Z
+    webUrl: "https://bc.ctvnews.ca/artificial-intelligence-used-to-detect-sepsis-quicker-dramatically-reducing-risk-of-death-b-c-research-1.5736181"
+    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2022/1/11/1_5736181.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2022/1/11/1_5736181.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 41
+    images:
+      - url: "https://beta.ctvnews.ca/local/british-columbia/2022/1/11/1_5736181/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
   - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
     excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
     publishedDateTime: 2022-01-11T08:00:00Z

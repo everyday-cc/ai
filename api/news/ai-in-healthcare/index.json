@@ -114,7 +114,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -263,7 +263,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -534,6 +534,59 @@
         "AI in Autos",
         "IBM AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by-apple-ge-healthcare-google-deepmind-health.md",
+      "title": "Healthcare AI Market Witnessed the Highest Demand, Leading Regions | By -Apple, Ge Healthcare, Google Deepmind Health",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jan 06, 2022 (Heraldkeepers) -- The report by Infinity Business Insights provides a comprehensive view of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by--apple-ge-healthcare-google-deepmind-health-2022-01-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by--apple-ge-healthcare-google-deepmind-health-2022-01-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1358,40 +1411,6 @@
       "provider": {
         "name": "Washington Post",
         "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-omicron-looms-large-over-healthcare-workers-and-ai-can-help.md",
-      "title": "Omicron Looms Large Over Healthcare Workers, And AI Can Help",
-      "excerpt": "As COVID-19 vaccination rates rise and the U.S. and other countries gain more knowledge of the virus, decision-makers must adjust their policies to better prepare for omicron and future variants. Of the more than 240 million people confirmed to have contracted COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
-      "originalUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/omicron-looms-large-over-healthcare-workers-and-ai-can-help?amp",
-      "publishedDateTime": "2021-12-21T09:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

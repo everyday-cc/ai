@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-01-09-how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn.md",
-      "title": "How NOAA Is Applying AI Beyond Forecasting: Interview With Eric Kihn",
-      "excerpt": "NOAA is applying AI beyond forecasting to a range of applications that are helping people and the world in which we live.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogs-images.forbes.com/assets/images/avatars/blog-5907_400_4ad9d95032852c3294283bf5f7eed635.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/01/09/how-noaa-is-applying-ai-beyond-forecasting-interview-with-eric-kihn/amp/",
-      "publishedDateTime": "2022-01-09T06:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-01-09-the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence.md",
       "title": "The AI Bill Of Rights: Protecting Americans From The Dangers Of Artificial Intelligence",
       "excerpt": "The White House is proposing an AI Bill of Rights to guard against these problems and ensure AI systems do not harm the people.",
@@ -616,7 +564,7 @@
       "originalUrl": "https://electrek.co/2022/01/07/tesla-announces-full-self-driving-package-price-increase-12000/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 409,
+      "heat": 399,
       "tags": null,
       "images": [
         {
@@ -773,7 +721,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1240,6 +1188,48 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-clearview-ai-ordered-to-comply-with-canadas-privacy-rules.md",
+      "title": "Clearview AI Ordered to Comply With Canada’s Privacy Rules",
+      "excerpt": "Canada’s privacy regulators have ordered Clearview AI to comply with a previous directive to stop collecting images of residents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/Clearview-AI-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2022/clearview-ai-ordered-to-comply-with-canadas-privacy-rules/amp/",
+      "publishedDateTime": "2022-01-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

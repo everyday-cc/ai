@@ -107,21 +107,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-11-johnson-johnson-and-microsoft-partner-up-on-digital-surgery.md",
-      "title": "Johnson & Johnson and Microsoft partner up on digital surgery",
-      "excerpt": "Johnson & Johnson will use Microsoft Azure cloud computing services to better connect surgeons and patients in a digital surgery ecosystem.",
+      "path": "_news/2022-01-12-why-microsoft-surged-by-512-in-2021.md",
+      "title": "Why Microsoft Surged by 51.2% in 2021",
+      "excerpt": "Shares of Microsoft (NASDAQ:MSFT) surged by 51.2% in 2021, according to data provided by S&P Global Market Intelligence. For context, the Nasdaq Composite index gained 22.2% last year, so Microsoft's gain was more than double that of the technology-heavy index.",
       "sourceUrl": null,
-      "webUrl": "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/",
-      "originalUrl": "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/",
+      "webUrl": "https://www.fool.com/investing/2022/01/11/why-microsoft-surged-by-512-in-2021/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/11/why-microsoft-surged-by-512-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 169,
       "tags": null,
       "images": [
         {
-          "url": "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/01/johnson-johnson-multiuse.jpg",
-          "width": 770,
-          "height": 500,
+          "url": "https://g.foolcdn.com/editorial/images/660795/lady-using-laptop-in-office.jpg",
+          "width": 2236,
+          "height": 1341,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -129,14 +129,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/?amp",
-      "cdnAmpWebUrl": "https://www-medicaldesignandoutsourcing-com.cdn.ampproject.org/c/s/www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/?amp",
-      "publishedDateTime": "2022-01-10T11:16:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T09:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Design and Outsourcing",
-        "domain": "medicaldesignandoutsourcing.com",
-        "images": null,
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -200,49 +209,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications.md",
-      "title": "Etisalat Deploys Microsoft Azure Stack Edge to Offer 5G, IoT & AI Applications",
-      "excerpt": "As part of their strategic partnership, Etisalat and Microsoft have joined forces to unlock new 5G scenarios with Azure Multi-access Edge Compute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/22388-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/22388-etisalat-deploys-microsoft-azure-stack-edge-to-offer-5g-iot-ai-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/2ba54f984ac4fa9e7f381b58becce23f.jpg?t=20220110_005244",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-09T17:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     },
     {
@@ -770,6 +736,40 @@
         "Microsoft AI",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-01-model-based-reasoning-in-distributed-cognitive-systems.md",
+      "title": "Model-Based Reasoning in Distributed Cognitive Systems",
+      "excerpt": "Model-Based Reasoning in Distributed Cognitive Systems - Volume 73 Issue 5 Skip to main content Accessibility help We use cookies to distinguish you from other users and to provide you with a better experience on our websites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {

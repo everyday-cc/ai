@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Are we witnessing the dawn of post-theory science?"
-excerpt: "Does the advent of machine learning mean the classic methodology of hypothesise, predict and test has had its day?"
-publishedDateTime: 2022-01-09T08:00:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science?request-id=52d1cc16-d437-4771-ba6f-01c79adda9e2&pml=1"
-webUrl: "https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science?request-id=52d1cc16-d437-4771-ba6f-01c79adda9e2&pml=1"
+excerpt: "AlphaFold, a program built by DeepMind, has produced the most accurate predictions yet of protein structures based on the amino acids they contain. Both are completely silent on why they work ..."
+publishedDateTime: 2022-01-09T14:28:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science"
+webUrl: "https://www.theguardian.com/technology/2022/jan/09/are-we-witnessing-the-dawn-of-post-theory-science"
 type: article
 quality: 24
 heat: 24
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Rm/Sy2ARiNLwn55HhnjsCz3II4FSQa0g/bDBl6uNmc3YZnfiUJgmubNLq3dkjxc3MIyiUl31v/y/dx1Pndv8+/ZFZ5lYY1Vug3Y2JS2wp9uxFPV7p9KDCP3qzIHrJrDzefTkJ+c1NUWD4IxlFH2YFgK0K8rj5gXMsC/oISltXTrbnZWl4PKxAieCUkhDaSnAlSOtiqfFSumEyh/87F8ZnAMt+FjmHcpqm/cqIZ+WouBEkFAWFmLfbnzyrlY2q+aR2u3KibJNsptF4eMrf80wM1rL+073RmCbAMC3zbTRpg6AjIgvON0YMP7kDRjLr4sgiVjTR+RqtdRT/nGKmSMC2cqO5t8Ib/wl7jeyz7k/c1zm5jXmTNfXbkFz4mquF4mDK3sgrgYzZkb5Koz4GbDaUGP9T8e0dhCWSnW/Li25G4dV25dRCF26M+Zz0Xy0R+HQGocubJizae983HT37W9XkXNLaU8ejkCmNg0up8OS0KWrTg70eyq/1P+N8RC34KAdi8ekLOGGN2z8v04Y8YrMUw==;D9YEL2iz1L/GKyF3vc0hxQ=="
+secured: "k6H0HHUjK2JZHXcQu99I28kIjWkYWG7YAN5wZxXLqGiB6cy4QKVuAU4V5MSpVA8Jn1wmp4SK1XYB5P9EzR2RziVXIInHX4RCDD3pHWslscBN3eaSn13stXWye1t4Ql3wJ0ecw1xb1qPXVFk2VX9TzNDgPugljLpupRbCS99RAgxRNsJvi8yeRxsmeV4pxC9rGwFlFno+QjIywfShKpmqCF1vAUYebsz8SNXcrG791rOv6J7NGl09ThgpOLefP0qluLo3vhdkEjsN97RuhYVv0Bs8EaRoR4NhGzPfVHwRD1pZT+/0R78GDjWXOGs+rIhJ44PXjX77OV0Bj5OXqrSjp+C7DMxvQAsfCs20Up+li10=;/gtUoGDjCgLEcvPpyW2QBA=="
 ---
 

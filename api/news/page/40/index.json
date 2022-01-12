@@ -2,6 +2,152 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2021-12-08-the-fintech-revolution-in-china.md",
+      "title": "The FinTech Revolution In China",
+      "excerpt": "China has seen an incredible transformation over the past few decades. It's gone from being one of the poorest countries in Asia to a thriving, industrialised nation that is now the second-largest economy in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
+      "originalUrl": "https://www.linkedin.com/pulse/fintech-revolution-china-banq-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQERJsVp4-GWkA/article-cover_image-shrink_600_2000/0/1638896477318?e=1645056000&v=beta&t=Wu9KRdTKpjhJgYLbVfxCTqw4bkOwfHE4iF-IUWuDt9k",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T09:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-suki-a-siri-like-voice-platform-for-doctors-raises-55-million.md",
+      "title": "Suki, a Siri-like voice platform for doctors, raises $55 million",
+      "excerpt": "Suki is an AI-powered voice platform that doctors can use to generate and retrieve medical notes, and reduce time-consuming administration.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/9c849f8e-1c22-4954-b3fa-a6a10ddac299_LeticiaRamireznote-1.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/suki-a-siri-like-voice-platform-for-doctors-raises-55-million/amp/",
+      "publishedDateTime": "2021-12-07T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-y-combinator-and-mit-startup-oda-studio-raises-28m-for-ai-powered-photo-enhancement-solutions.md",
+      "title": "Y Combinator and MIT Startup Oda Studio Raises $2.8M for AI-powered Photo Enhancement Solutions",
+      "excerpt": "Oda Studio, a Y Combinator startup founded by a team of MIT graduates with extensive experience in artificial intelligence (AI), recently announced it raised $2.8 million to make their solution available globally.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-b010ce010e18465fa5cc6cc526449370",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-b010ce010e18465fa5cc6cc526449370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T07:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-intel-plans-potential-50-billion-ipo-for-its-israeli-self-driving-car-unit-shares-rise.md",
       "title": "Intel Plans Potential $50 Billion IPO For Its Israeli Self-Driving Car Unit, Shares Rise",
       "excerpt": "The tech giant said that it would take its self-driving car firm, Mobileye, public next year at a potential valuation of more than $50 billion, sources first told The Wall Street Journal. Intel originally acquired 100% of the Israeli company in 2017 for $15.",
@@ -987,137 +1133,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more.md",
-      "title": "Gurugram-based Krishify taps AI, ML to help farmers earn more",
-      "excerpt": "A Gurugram-based agtech startup platform, Krishfy, is trying to put machine learning (ML), artificial intelligence (AI) and the Android system to best use for farmers across the country by offering a one-stop solution to improve their economic status.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thehindubusinessline.com/economy/agri-business/mli5k5/article37878953.ece/ALTERNATES/LANDSCAPE_615/bl07Krishify",
-          "width": 615,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/economy/agri-business/gurugram-based-krishify-taps-ai-ml-to-help-farmers-earn-more/article37878954.ece/amp/",
-      "publishedDateTime": "2021-12-06T23:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-stellantis-ai-strategy-targets-226b-in-revenues-by-2030.md",
-      "title": "Stellantis’ AI strategy targets $22.6b in revenues by 2030",
-      "excerpt": "Carmaker Stellantis announced a strategy Tuesday to embed AI-enabled software in 34 million vehicles across its 14 brands targeting 20 billion euros ($22.6 billion) in annual revenues",
-      "sourceUrl": null,
-      "webUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
-      "originalUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.informnny.com/wp-content/uploads/sites/58/2020/02/cropped-50-512X512-1.png?strip=1",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
-      "cdnAmpWebUrl": "https://www-informnny-com.cdn.ampproject.org/c/s/www.informnny.com/news/tech-news/stellantis-ai-strategy-targets-22-6b-in-revenues-by-2030/amp/",
-      "publishedDateTime": "2021-12-06T23:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWTI",
-        "domain": "informnny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-supercomputers-in-enterprise-ai.md",
-      "title": "Supercomputers in enterprise AI",
-      "excerpt": "Forward-thinking enterprises across the globe have recognised that the future of business success will depend on their ability to leverage AI, says Werner Coetzee, business development executive at Data Sciences Corporation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
-      "originalUrl": "https://www.itweb.co.za/content/KBpdg7pzLYpqLEew",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/BJFxvhrDx3sZxTSGmFHjB5LNK62QzeUk8EApFSryBUvShvg3N4WOQ5yhpHPIrEUQjIFJ03Sjv8jr6GqeOyqRy3AHhQlCV0lVl9wVoQ=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KBpdg7pzLYpqLEew",
-      "publishedDateTime": "2021-12-06T22:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

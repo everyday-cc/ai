@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -57,19 +57,19 @@
     {
       "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
       "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
-      "excerpt": "IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange,",
+      "excerpt": "Providing data from the world's most accurate weather forecaster1, IBM Watson Advertising's Weather Analytics harness the relationship between weather and consumer behavior using artificial intelligence to extract deep insights to help businesses make more ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-301455865.html",
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange",
       "featuredContent": null,
       "highlight": null,
       "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -79,11 +79,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-07T04:01:00-08:00",
+      "publishedDateTime": "2022-01-07T05:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,9 +93,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "IBM AI",
         "AI",
-        "IBM AI"
+        "AWS AI"
       ]
     },
     {

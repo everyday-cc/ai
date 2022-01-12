@@ -2,41 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2022-01-06-ambarella-amba-unveils-ai-based-image-signal-processor.md",
-      "title": "Ambarella (AMBA) Unveils AI-Based Image Signal Processor",
-      "excerpt": "Ambarella AMBA recently announced the launch of Artificial Intelligence (“AI”)-based Image Signal Processor (“AISP”) during the ongoing Consumer Electronics Show (“CES)",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
-      "originalUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ambarella-amba-unveils-ai-based-image-signal-processor?amp",
-      "publishedDateTime": "2022-01-06T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-01-06-kokoon-nightbuds-now-use-ai-to-help-manage-your-sound-sleep-better.md",
       "title": "Kokoon Nightbuds now use AI to help manage your sound sleep better",
       "excerpt": "Now, Kukoon has announced new features to improve your sleep quality further and claims its new algorithm uses AI to offer a deeper analysis to help you get more rest at night. Kukoon’s earbuds house crucial sensors to detect your sleep including an ...",
@@ -794,8 +759,8 @@
       "title": "Robot tractors may be heading to a farm near you",
       "excerpt": "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ...",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25",
-      "originalUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25",
+      "webUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
+      "originalUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -814,7 +779,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T18:35:00-08:00",
+      "publishedDateTime": "2022-01-05T19:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Middle East North Africa Financial Network",
@@ -926,6 +891,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by-apple-ge-healthcare-google-deepmind-health.md",
+      "title": "Healthcare AI Market Witnessed the Highest Demand, Leading Regions | By -Apple, Ge Healthcare, Google Deepmind Health",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jan 06, 2022 (Heraldkeepers) -- The report by Infinity Business Insights provides a comprehensive view of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by--apple-ge-healthcare-google-deepmind-health-2022-01-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by--apple-ge-healthcare-google-deepmind-health-2022-01-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

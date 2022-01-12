@@ -107,6 +107,59 @@
       ]
     },
     {
+      "path": "_news/2022-01-06-healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by-apple-ge-healthcare-google-deepmind-health.md",
+      "title": "Healthcare AI Market Witnessed the Highest Demand, Leading Regions | By -Apple, Ge Healthcare, Google Deepmind Health",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jan 06, 2022 (Heraldkeepers) -- The report by Infinity Business Insights provides a comprehensive view of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by--apple-ge-healthcare-google-deepmind-health-2022-01-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-witnessed-the-highest-demand-leading-regions-by--apple-ge-healthcare-google-deepmind-health-2022-01-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-2021-year-in-review-google-quantum-ai.md",
       "title": "2021 Year in Review: Google Quantum AI",
       "excerpt": "Google’s Quantum AI team has had a productive 2021. Despite ongoing global challenges, we’ve made significant progress in our effort to build a fully error-corrected quantum computer, working towards our next hardware milestone of building an error-corrected quantum bit (qubit) prototype. At the same",
@@ -1365,59 +1418,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-could-googles-deepmind-ai-transform-healthcare.md",
-      "title": "Could Google's DeepMind AI Transform Healthcare?",
-      "excerpt": "Google DeepMind AI can predict protein interactions, including folding. The AI could help increase basic scientific knowledge, potentially with drug development. Although DeepMind won't transform healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
-      "originalUrl": "https://www.fool.com/investing/2021/12/03/could-googles-deepmind-ai-transform-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/655355/gettyimages-1273886962.jpg",
-          "width": 4000,
-          "height": 2250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-03T03:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

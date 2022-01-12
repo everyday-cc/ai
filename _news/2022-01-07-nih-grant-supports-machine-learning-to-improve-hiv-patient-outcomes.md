@@ -9,7 +9,7 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/nihgrant-supports-machine-lea
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/nihgrant-supports-machine-learningtoimprovehiv-patient-outcomes"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 480
     height: 284
     isCached: true
-
-related:
-  - title: "Grants totaling $4.6 million support the use of machine learning to improve outcomes of people with HIV"
-    excerpt: "Over the past four decades of treating HIV/AIDS, two important facts have been established: HIV-positive patients need to be put on treatment as soon as they’re diagnosed and then kept on an effective treatment plan."
-    publishedDateTime: 2022-01-07T07:26:00Z
-    webUrl: "https://indiaeducationdiary.in/grants-totaling-4-6-million-support-the-use-of-machine-learning-to-improve-outcomes-of-people-with-hiv/"
-    ampWebUrl: "https://indiaeducationdiary.in/grants-totaling-4-6-million-support-the-use-of-machine-learning-to-improve-outcomes-of-people-with-hiv/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/grants-totaling-4-6-million-support-the-use-of-machine-learning-to-improve-outcomes-of-people-with-hiv/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 43
-    images:
-      - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png"
-        width: 534
-        height: 462
-        isCached: true
 
 secured: "9EYQ9fEDvisqFAlBMupKQkK9SwR8VM/nb2Kz442rt5BWEPouAl8diezLj+buCGktX+4makYEq0y3iO4GrZBijSf3e7dgGGkxBcPbcLkcpyY1NrPrEe6MiGBiea76O62xVnDQ/hDFPSacnYhZQW+09BsOIPPxA2abGIRycki4jdGME3/mxkTb24k9qz72sIPcZKxrGWJnhnhrW6qlzAk0YLSGn/Z+1vX7ItbboDwCG1Tx+Qy04cje2sucRogqVbY4jsEQxPbS34gb2CB2tb5i4kEv06N4IE7j721c0a3aV8V31kEnHhfaKdKnoRUQt3UcmjIVBbrNJqdsbFMyY8Ny4iltX1nIB44BGi4ee9e/MMQ=;NyV7oLNO6EEkk/+gppQ4MA=="
 ---

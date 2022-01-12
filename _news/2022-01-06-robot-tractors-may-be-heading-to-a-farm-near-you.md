@@ -2,9 +2,9 @@
 category: news
 title: "Robot tractors may be heading to a farm near you"
 excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
-publishedDateTime: 2022-01-06T02:35:00Z
-originalUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
-webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you&source=25"
+publishedDateTime: 2022-01-06T03:12:00Z
+originalUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you"
+webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you"
 type: article
 
 provider:
@@ -22,6 +22,6 @@ images:
     height: 512
     isCached: true
 
-secured: "npSVAK069W9ADxjUWs9podNoJQu99ZBEq0jWOh6BwfZP8eYO0o14Ni+6uU2zaMg+1fhoj72n+WU00bcuuxfZc2TAcEjNtw3NgKaQM5agNE2dKCUuso0bWNsy2hNZI79BpFFcv/Eo7xc717HI0cKbXnlzFp/3P1bp3P520C9ktCuO44qsAKFd6wCMAOM9ZO1h+YzM15RVri1U6z6tWBz4Pfkz/Uf6Kfbq02KUCVK+ATnzuR/ynNGr2rJyeFxxJv8jnbYk6eE6TYACglm75IbB84VNVnvbo+It/+KGqpiyAtNX0jc8nksciPStk0bxRqL1vX3YMY7GU3GiFM37TolLad8uW5WLY72V7O6ylrahaD4=;kJooDSSF6a4g2Ri8gqdHcw=="
+secured: "zNsci2ys3Vv9Y6+pE8o6eVsLHF+FFgHTDLSNwMgSrykz1n+sCRy/Lwf8tGT5quLfC1ZB7L6m8xpIF9aTsIU2lVztsMg+rBNf6To9Sh2jimihJd2O/K9IR4HAjMgl5SA3IZqhw/2yfY8CiBdcurLx3SS6/MlovaAusqRD7yBnTpmy+6YNMc/Z67IUc0/Mrz9G+mlgZL1+Sgpv7KTVTdCpILmSchiAATof7Jzknn5XcKfywqPHCjOwGUUzEQn++E/QD7jSuHqHzQ6lNlMCiKkpo6sfQYGKGY4PiYvEaaRhy1Dkbwsv9CWHd9xMJtLviPFezvmbyniBgnisji7HadsrGS3pTwf4BFhW/nN8i8IvPnM=;eR/Keh298I+DHuUUHtWaYw=="
 ---
 

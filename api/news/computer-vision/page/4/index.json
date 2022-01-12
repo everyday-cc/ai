@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-03-real-world-computer-vision-applications-communications-experts-should-understand.md",
+      "title": "Real-World Computer Vision Applications Communications Experts Should Understand",
+      "excerpt": "As this technology gets better and better, I think we’re going to find more ways to use it to make our lives safer and better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D617%26cropY2%3D3768",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
+      "publishedDateTime": "2021-12-03T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-these-4-indian-airports-will-have-facial-recognition-data-will-be-deleted-in-24-hours.md",
       "title": "These 4 Indian Airports Will Have Facial Recognition; Data Will Be Deleted In 24 Hours",
       "excerpt": "The Airports Authority of India has been working on a project of FRT-based Biometric Boarding System.Facial Recognition Technology (FRT) is highly looked forward to, after the Indian government announ",
@@ -1326,58 +1378,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-facial-recognition-market-size-opportunity-analysis-report-by-2026.md",
-      "title": "Facial Recognition Market Size | Opportunity Analysis Report by 2026",
-      "excerpt": "Facial Recognition Market size is set to cross USD 12 billion by 2026, according to a new research report by Global Market Insights, Inc. Global facial recognition market is growing demand for advanced identification and verification technologies stemming from rising security concerns is poised to drive outlook.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-opportunity-analysis-report-by-2026-2021-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T21:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
