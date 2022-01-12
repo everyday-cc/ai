@@ -2,6 +2,259 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-08-employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment.md",
+      "title": "Employers, Investors Take Notice of AI Tools to Speed Job Recruitment",
+      "excerpt": "Companies are looking for an edge in hiring through artificial intelligence and automation technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629",
+      "originalUrl": "https://www.wsj.com/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-464229/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/employers-investors-take-notice-of-ai-tools-to-speed-job-recruitment-11641599629",
+      "publishedDateTime": "2022-01-07T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-the-ai-powered-enterprise-tools-presented-at-ces-2022.md",
+      "title": "The AI-Powered Enterprise Tools Presented at CES 2022",
+      "excerpt": "Highlights from Las Vegas include AI-powered chips, robots and tractors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304",
+      "originalUrl": "https://www.wsj.com/articles/the-ai-powered-enterprise-tools-presented-at-ces-2022-11641598304",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-464264/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T14:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot.md",
+      "title": "IBM reportedly shopping Watson Health just as healthcare gets hot",
+      "excerpt": "IBM could be looking to sell the Watson Health division for a mere $1 billion, according to an Axios report. The question is why is IBM running away from the healthcare vertical just as it seems to be heating up,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
+      "originalUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-597922966.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/07/ibm-reportedly-shopping-watson-health-just-as-healthcare-gets-hot/amp/",
+      "publishedDateTime": "2022-01-07T14:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-new-aiml-processor-supports-socs-and-chiplets-for-smart-edge-devices.md",
+      "title": "New AI/ML processor supports SoCs and chiplets for smart edge devices",
+      "excerpt": "CEVA’s latest NeuPro-M supports both system-on-chip and heterogeneous SoC scalability, targeting edge AI/ML and edge compute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
+      "originalUrl": "https://www.embedded.com/new-ai-ml-processor-supports-socs-and-chiplets-for-smart-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2022/01/CEVA-Neu-Pro-M-features.png",
+          "width": 893,
+          "height": 786,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T12:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-blur-faces-in-videos-automatically-with-amazon-rekognition-video.md",
+      "title": "Blur faces in videos automatically with Amazon Rekognition Video",
+      "excerpt": "With the advent of artificial intelligence (AI) and machine learning (ML), customers and the general public have become increasingly aware of their privacy, as well as the value that it holds in today’s data-driven world. Enterprises are actively seeking out and marketing privacy-first solutions, especially",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-5902-image005-new-1260x537.png",
+          "width": 1260,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T11:45:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round.md",
       "title": "AI & Computer Vision platform Avatar raises $45mn in Tiger Global-led round",
       "excerpt": "The Series B round saw co-participation from existing investor Sequoia Capital India. The financing is one of the largest fundraising rounds in the Applied 3D/AR space",
@@ -952,238 +1205,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-focus-at-ces-tech-alliances-firm-up-in-the-self-driving-car-wars.md",
-      "title": "FOCUS-At CES, tech alliances firm up in the self-driving car wars",
-      "excerpt": "Major automakers like General Motors Co , Ford Motor Co and Volvo Cars deepened ties with key technology partners this week to gird for the fight against electric car challenger Tesla Inc and Apple Inc as it revs up to enter the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT",
-      "originalUrl": "https://www.reuters.com/article/tech-ces-autos-semiconductors-idCNL1N2TM2CT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20220107&t=2&i=1587027218&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEI060FL",
-          "width": 830,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCNL1N2TM2CT",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCNL1N2TM2CT",
-      "publishedDateTime": "2022-01-07T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement.md",
-      "title": "AI and machine learning adoption is the future of security and law enforcement",
-      "excerpt": "Video analytics based on AI/ML algorithms are gaining popularity with time and are soon expected to become a requisite for all law enforcement departments and public places to optimise safety",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
-      "originalUrl": "https://www.forbesindia.com/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Jan/img_175481_cctv.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/isbinsight/ai-and-machine-learning-adoption-is-the-future-of-security-and-law-enforcement/72807/1",
-      "publishedDateTime": "2022-01-07T02:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority.md",
-      "title": "As Dubai Moves on AI Track, Tackling Ethical Risk Becomes Top Priority",
-      "excerpt": "Data has emerged as the new oil for economic growth. This is especially so in the case of the UAE which is fast evolving into a knowledge-based economy with Dubai as the fountainhead of in - Mediawire",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority/articleshow/88749274.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority/articleshow/88749274.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/msid-88749271,width-640,height-480,resizemode-7/pexels-pixabay-219692-2.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority/amp_articleshow/88749274.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/as-dubai-moves-on-ai-track-tackling-ethical-risk-becomes-top-priority/amp_articleshow/88749274.cms",
-      "publishedDateTime": "2022-01-06T21:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-sanofi-makes-ai-play-putting-up-100m-and-billions-in-biobucks-to-form-broad-deal-with-exscientia.md",
-      "title": "Sanofi makes AI play, putting up $100M and billions in biobucks to form broad deal with Exscientia",
-      "excerpt": "Sanofi is getting deeper into AI-driven R&D. After working with AI drug discovery shop Exscientia for five years, Sanofi has significantly expanded its relationship, putting up $100 million and $5.2 billion on the backend for the chance to work on up to 15 small molecules across oncology and immunology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia",
-      "originalUrl": "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercebiotech/1641487855/Sanofi.jpg/Sanofi.jpg?VersionId=iGMK6OHqHmXYmaa5FawGN5L8VNKX49li",
-          "width": 800,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T21:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FierceBiotech",
-        "domain": "fiercebiotech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ai-weiwei-doesnt-care-what-the-critics-think.md",
-      "title": "Ai Weiwei Doesn't Care What the Critics Think",
-      "excerpt": "Emma Barnett meets with the acclaimed artist and dissident Ai Weiwei to talk about his detention in China, his fight for human rights and the art of protest. (Source: Bloomberg)",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2022-01-07/ai-weiwei-doesn-t-care-what-the-critics-think-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2022-01-07/ai-weiwei-doesn-t-care-what-the-critics-think-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibhDPmwQksh4/v50/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

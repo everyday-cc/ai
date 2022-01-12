@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-12-can-humans-teach-robots-to-think-like-us.md",
+      "title": "Can Humans Teach Robots To Think Like Us?",
+      "excerpt": "Teaching robots to think like humans may be the next frontier for tech developers and researchers involved in the ongoing development of technologies such as AI and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d66f8dbbb58ffd41f3d174%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
+      "publishedDateTime": "2022-01-12T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines.md",
+      "title": "Fomo launches “Fomo Robotics” to offer UV Disinfection Machines",
+      "excerpt": "IAQ Technologies LLC, a wholly owned subsidiaries of Fomo (FOMC) and Energy Intelligence Center LLC plans to offer UV Disinfection Robots, designed and sold by a leading provider",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "originalUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "publishedDateTime": "2022-01-12T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-10-autonomous-tractors-with-robot-brains-are-coming-to-take-over-the-farm.md",
       "title": "Autonomous Tractors with Robot Brains Are Coming to Take Over the Farm",
       "excerpt": "John Deere revealed a self-driving tractor at CES with traditional diesel power, while Monarch's was autonomous and electric.",
@@ -759,50 +854,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
-      "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
-      "originalUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-01-06-chinese-scientists-build-factory-robot-that-can-read-minds.md",
       "title": "Chinese scientists build factory robot that can read minds",
       "excerpt": "Researchers in China say they have developed an industrial robot that can read a human co-worker’s mind with 96 per cent accuracy.The robot not only monitored the worker’s brain waves, but also collected electric signals from muscles,",
@@ -832,6 +883,49 @@
       "provider": {
         "name": "Asia One",
         "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
+      "title": "Robot Tractors May Be Heading To A Farm Near You",
+      "excerpt": "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/robot-tractors-may-be-heading-farm-near-you-3369830",
+      "originalUrl": "https://www.ibtimes.com/robot-tractors-may-be-heading-farm-near-you-3369830",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/05/john-deere-unveiled-the-fully-autonomous-8r-tractor.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T16:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1319,102 +1413,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-labrador-retriever-robot-for-those-with-chronic-pain.md",
-      "title": "Labrador \"Retriever\" robot for those with chronic pain",
-      "excerpt": "Labrador Systems . A new personal robot takes a page from the massive proliferation of enterprise materials handling robots over the past few years. The Retriever from developer L",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "originalUrl": "https://www.zdnet.com/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c5037216932a5c4b6dfc87f67948394f889a2866/2021/12/30/2e364f0a-8ac2-49bf-9803-73818ae17f83/labrador-retriever.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/labrador-retriever-robot-for-those-with-chronic-pain/",
-      "publishedDateTime": "2022-01-04T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery.md",
-      "title": "AI, robotics, home care and mental health to lead healthcare delivery",
-      "excerpt": "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
-      "originalUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700",
-          "width": 700,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune India",
-        "domain": "fortuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

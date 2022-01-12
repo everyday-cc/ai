@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-cellebrite-wins-significant-open-s
 webUrl: "https://www.tmcnet.com/usubmit/-cellebrite-wins-significant-open-source-intelligence-solutions-customer-/2022/01/10/9522565.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner"
+    excerpt: "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner GlobeNewswire January 12, 2022 Company announces Cellebrite Guardian is available on AWS, part of"
+    publishedDateTime: 2022-01-12T12:00:00Z
+    webUrl: "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner"
+    ampWebUrl: "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 59
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/Notified-GlobeNewswire-Color-Large_67.jpg?itok=_uosp_3H"
+        width: 763
+        height: 509
+        isCached: true
+  - title: "Cellebrite DI Ltd: Cellebrite Joins AWS Partner Network as an Advanced Technology Partner"
+    excerpt: "Company announces Cellebrite Guardian is available on AWS, part of the Company's industry leading investigative Digital Intelligence platform Customers can now harness the power of AWS with Cellebrite"
+    publishedDateTime: 2022-01-12T12:05:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54954502-cellebrite-di-ltd-cellebrite-joins-aws-partner-network-as-an-advanced-technology-partner-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 10
 
 secured: "kyhOCvgXC0vjIynyc5523rp5BpiKXrlLJc4gKMn2Q3nv0BowQ/a9P/Lb+OM+wtB8VnEdQD7jtPDUCLrsCJS0yL/gvvSQO2S1QitwWRnJGhhQztmHhq+jMz5n13lyjDeCwvLkPLRUrMRAeYkeopwIoLxa8RUgx79KXyJJG4jOC9FryxOXKf/pGeUJR6ih05QLZzIMh7r+YRsHaU0hJt52mzyWv3pWJQ0iaXAjeAOSN82044vwIyHfNbjV5B+saYNwc1lxzybzV3dyRwEDMC1bdEB59Rs1Lzmq2a1OYbh7/HoA+HtpsldSQtx/hViqKQTgdY66MmMRxsgOcmouBJ0b9RhByHICPT1YzdGJaEOqzNQ=;6YzGipJggO8t4sRF+rx6kA=="
 ---

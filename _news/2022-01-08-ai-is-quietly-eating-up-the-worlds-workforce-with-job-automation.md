@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-world
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://i-hls.com/wp-content/uploads/2022/01/augmented-reality-gd6734eeca_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "The Manufacturing World Is Ready for Open-Source AI"
+    excerpt: "One might assume that artificial intelligence can be easily applied to industrial manufacturing. This is unfortunately not the case."
+    publishedDateTime: 2022-01-12T12:32:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34308-the-manufacturing-world-is-ready-for-a-wordpress-for-ai"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 37
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2022/0111_code.png?height=635&t=1641960813&width=1200"
+        width: 847
+        height: 635
         isCached: true
 
 secured: "XKwfddIxBDZQzCcBB7Lugr6HKtVNVOpAJh1+uatsP3KDA93oXPsQ/Utp7ppjze0THuO3u5NsXUReIri6qJGDDGYmXdrtmcZlrJZokLBDEGENJNwy1FJNEqhoYVIGJ3hKJvbVsosQ2XSXJEff+ef+8fVGpt43Ff6LztUDLxJ2mGf43ITN5eKt3kLOJVHigx9jtuDLjAXykrCNb9dzbfUPzcP7iJUi8leeFd7LWY2i7RfxNK4A7nvNYlckYN4EL8M2wxJ0A9YzdAFUQLC/KJDtl4oyjo0yr9qny8WdMS/bSZqlv/0xh70xD+hkzjDzcSxkGTkk5P6EHy3hR4xkPytTKO4o1JBnpgXeFHzwlNxdsAs=;zfp7dew7U7kWICcuXyhLMQ=="

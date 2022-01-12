@@ -1,0 +1,76 @@
+---
+category: news
+title: "The Manufacturing World Is Ready for Open-Source AI"
+excerpt: "One might assume that artificial intelligence can be easily applied to industrial manufacturing. This is unfortunately not the case."
+publishedDateTime: 2022-01-12T12:32:00Z
+originalUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34308-the-manufacturing-world-is-ready-for-a-wordpress-for-ai"
+webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34308-the-manufacturing-world-is-ready-for-a-wordpress-for-ai"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Supply Chain
+  domain: supplychainbrain.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2022/0111_code.png?height=635&t=1641960813&width=1200"
+    width: 847
+    height: 635
+    isCached: true
+
+related:
+  - title: "AI is quietly eating up the world’s workforce with job automation"
+    excerpt: "AI job automation affects virtually every sector and industry. While this might seem like cause for alarm, it’s actually long overdue news."
+    publishedDateTime: 2022-01-08T14:20:00Z
+    webUrl: "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/"
+    ampWebUrl: "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-841824594.jpg?w=1200&strip=all"
+        width: 1200
+        height: 734
+        isCached: true
+  - title: "AI, automation, and bots in the world of mortgage"
+    excerpt: "AI, automation, and bots in the world of mortgage But are automation and Machine Learning helping or failing? Here is all you need to know."
+    publishedDateTime: 2022-01-10T16:07:00Z
+    webUrl: "https://www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/"
+    ampWebUrl: "https://www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/amp/"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/amp/"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 57
+    images:
+      - url: "https://www.dqindia.com/wp-content/uploads/2022/01/Sumit-Chadha1.jpg"
+        width: 800
+        height: 420
+        isCached: true
+  - title: "Automation of Vital Resource will Be Based on Artificial Intelligence"
+    excerpt: "Companies are using augmented reality technologies in their manufacturing processes. Lockheed Martin, for example, uses"
+    publishedDateTime: 2022-01-10T16:00:00Z
+    webUrl: "https://i-hls.com/archives/112580"
+    type: article
+    provider:
+      name: AUS&R
+      domain: i-hls.com
+    quality: 37
+    images:
+      - url: "https://i-hls.com/wp-content/uploads/2022/01/augmented-reality-gd6734eeca_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+
+secured: "DRUCco7ssQub1LehFyKXNK+jRfhda5jH+L5iED/PNpdAN0/g6pbSl5nkQz2o36Uyz4bN8TanRTjcf0chiWmhyi8AJYRLysQzfB6i72+/pEDwgG3+pa5x3syZEt5s8NickbLQgUsctWo2moPyQ2OJRGw3Yuced80+PgQXp3iGOdI2BtLTJCKqu/dYO7BBi9ZFo28SZJyJnhLQm2rVDxW1UuXySFQz2xFVJx8PuSqkMK4BVJr9rUzmQn7v3GU36FSdMFWgXgR2KkgLk8vpSZ7bFS7Xq6P6YZ0QX6jWOVfvdg8aEbkQmFxIUSm3Dx5Y/dSCQag5ZTR+oXhLeA7xdPNUPFCZ9nqK1gAAJp43a1NnYBA=;Xb/LZtmRq5r/cUx4n4FUIw=="
+---
+

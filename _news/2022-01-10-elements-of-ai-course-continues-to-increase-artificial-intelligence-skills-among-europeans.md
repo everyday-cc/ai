@@ -3,8 +3,8 @@ category: news
 title: "Elements of AI course continues to increase artificial intelligence skills among Europeans"
 excerpt: "Elements of AI, launched during Finland’s Presidency of the Council of the EU, is the first educational course launched across Europe and an important investment in artificial intelligence (AI) skills throughout the continent."
 publishedDateTime: 2022-01-10T08:26:00Z
-originalUrl: "https://valtioneuvosto.fi/en/-/1410877/elements-of-ai-course-continues-to-increase-artificial-intelligence-skills-among-europeans"
-webUrl: "https://valtioneuvosto.fi/en/-/1410877/elements-of-ai-course-continues-to-increase-artificial-intelligence-skills-among-europeans"
+originalUrl: "https://valtioneuvosto.fi/en/-//1410877/elements-of-ai-course-continues-to-increase-artificial-intelligence-skills-among-europeans"
+webUrl: "https://valtioneuvosto.fi/en/-//1410877/elements-of-ai-course-continues-to-increase-artificial-intelligence-skills-among-europeans"
 type: article
 quality: 42
 heat: 42
@@ -53,6 +53,6 @@ related:
         height: 1067
         isCached: true
 
-secured: "SHv7D3wEkDciGEGbdqApZUziEJbLGB82p3231DnVoIyQkkLvDgdmoFiKCWVlcohAz5lZkosmZ8FUV/z7a+sf10ODXyotrhOnIikHI6F+qyRcdkzsEjR2op+3t8CzuAPsXQ6T7DX7+ZtcSI4D1wseU/pF0X/Eel/fhRABM7/38SB2nVlXJ0NCP7F5K4IIk3yyuMVxtaasYmAL/7hpGu8ygPllw0lEw96g+Q/WNYfYyuekqL4APEqAf3cid6GvE82KjBc1BOc6LKeuRT2Eos5lrw1b0BzT3bRfyHDFpyCp75OOweLNsj8yJXsU5skTDToP5AgBS+XarO5dPf7tbzH5UaKXvX4Iv75WSKkuCbFM46Q=;Vw3gskEYHsWgiOswAIg87A=="
+secured: "ljPmDXvWBTQ9FC+9Ml2dmSgVbjcyacqCeUBwOE7tKx3wbDVRZPJ7b0u0iD3i67OiX63+GGnLvsXlEIqn3TRTNLtoRq3tLp7bwxcjsdql7/lvUEPV2b+CQukgGcF1+9krZknWlJkZtLIhqS5AgmV2s3AjpPQsopv3ExPXMTgbm8pyvdPcHhZpbnluQwzh/XkpAJWDlId3LOvpA56V/+4DQib+kn3L6Kh5r7Zg0IuqdYu/zaMV3+uWONcrrQMIe+Z9nZBTHbToYVTq+6mFS1jGPowT2u5ZvQTUxKWbqD3ZJuwUdEkYSwze7MC6kSqT1KdtIa48xmwEhFL6VMDKEJP1LPgX8Vq/li5Uj2EZk2jHGLU=;wWe3qKz3t5SV7xGvCRps8Q=="
 ---
 

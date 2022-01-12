@@ -56,6 +56,20 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "The Manufacturing World Is Ready for Open-Source AI"
+    excerpt: "One might assume that artificial intelligence can be easily applied to industrial manufacturing. This is unfortunately not the case."
+    publishedDateTime: 2022-01-12T12:32:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34308-the-manufacturing-world-is-ready-for-a-wordpress-for-ai"
+    type: article
+    provider:
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 37
+    images:
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2022/0111_code.png?height=635&t=1641960813&width=1200"
+        width: 847
+        height: 635
+        isCached: true
 
 secured: "Cnb9HTvy9DXBJkX2YIW3XU8rlnljpzrQCb51O9GuX4jreS3tt5Q3mfv4BfDINywjCcXJGh6eXLYTy60fIiLfQthY5qmIMvTIHvDcy+3zDb41FXQhP1Ylwxs5NED6/hEocem+Mr4AJdkEc0uzmOru81/nVwcL7dbZvjdz9jk4WfsA6KvgiReBWfeSeZNrGnG7yFzm97z2VV8gOwFzflm891rlbBOHhVNjLv1ueygg7tUjXbAX7ir8Y40uLU0YJvSwLCrYRYho75PR3k2QYneBCJmtBNzQ2a719N54Z5LPA1NpZGKJt1beJdde936ISeYurKI/qh0ewESqocPCtAb422VF4HEiv4uW8baNs8TT8hQ=;V6/K27rMWjMshqKYeRt9zQ=="
 ---

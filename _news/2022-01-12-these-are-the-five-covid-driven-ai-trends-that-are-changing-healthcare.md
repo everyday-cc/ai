@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "5 Trends That Will Help Your EdTech Startup Thrive in 2022"
-    excerpt: "The majority of EdTech startups think that the way to succeed is to digitize traditional learning methods and amass as much content as possible. But nothing could be further from the truth. In reality,"
-    publishedDateTime: 2022-01-07T20:36:00Z
-    webUrl: "https://www.chron.com/business/article/5-Trends-That-Will-Help-Your-EdTech-Startup-16756880.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 22
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/41/07/21893619/3/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "POoBSZauTSrzYsFoRL81H3rLnfPkmXQEIEKv74iSpxV8D25C1UkezGSR8d18vp7FJcnb4zE8n1LbxGHwO94lF/k21nmkptCNAR/TDwfrxqH/+9GnKl4HaHdGVrPqQC5Qgdw2EbMZNmYkGP2JKITf1lDF33T27vx5gpxAb1hwjIYMzcCuV36ZH3rtLn7UpVka7reK9F8dm7DVBIwBJwXSZFuDlwGUerc87RQHFodHveF72VM301AjMrfZnzC8irCU3ny2S0kcHUkQNZZzS3XW39+OcbAAaGXr+zpQ+3rSfyKyoq0GJmHdnJJ5Q9GmzUn6CCxdrO2QARN7pWIGd2J+uoLur9x1qUV5ls9CXPoJ36pcroQPx6ESyeFjROnytERPjNKpXMbVaY23Dz15/cXL45d0D/PWBn7IjOh+xUKgs3yR+Y8gYRVGCpVIEtCOMCm1HngmuPPRCwXMn8aozOoIXCENF9+JCtB2ZsGWTIJu8V3RqTmKxykhf8kvMZdsI+wlPrChpI6ByGNAS0kqrQxWYQ==;F9p7vberLOeGSyif3/bRsA=="
 ---

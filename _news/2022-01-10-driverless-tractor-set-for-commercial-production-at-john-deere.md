@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.abc.net.au/article/100744258"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100744258"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-tii-euroracing-autonomous-race-car-passes-the-tum-news-photo-1641842458.jpg?crop=1.00xw:0.753xh;0,0.0978xh&resize=1200:*"
         width: 1200
         height: 602
-        isCached: true
-  - title: "Deere Unveils First Self-Driving Tractor"
-    excerpt: "Deere's autonomous tractor can be controlled by a smartphone. Deere revealed its first self-driving tractor that farmers can control with a smartphone at CES 2022. The company created autonomous equipment including a box that is placed on the front and one on the back of existing agricultural machinery such as the 8R 410 row crop tractor that has a total of 12 stereo cameras and an Nvidia GPU."
-    publishedDateTime: 2022-01-07T20:02:00Z
-    webUrl: "https://www.thestreet.com/investing/agriculture-vehicles-autonomous-technology"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/agriculture-vehicles-autonomous-technology"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 44
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTgzMjgyNDYyNjUzMTYyOTE0/john-deere_2.jpg"
-        width: 620
-        height: 349
         isCached: true
 
 secured: "fWkxkZ63/8dMjdMpLuigyAa2Q8lA2xOagTzl9YgciANNVImIWhK2inbOVrzCnHVzMB95lqPVIVHLP75blzQqhQuMmaDEhtDyd/QmNTl444FV0xfJtoMmMRQXrYh429rIxhr0vWXPVAdmBtZRldW0ld1Mi01E0OFp10eW/tSHxKWJMlE8NK2bSG6VPNwF5FpDPqbaqvFRxNdf4s5GlGTOVoAD3yAZeFOtddEwk9GIaYfr13OvMvhEgN18WCuF9c4SrWCStetR8EvXFFBBs/CEzsIhk2vVNv3NrXMuNzTL7RSsugYV6gwtckMyHETSL+4F6bN/oa/qbw6JKxQ9CACGXglLXAgoQsYQJ5vNZR3ACc8=;2w3BmERZPk+ErVNb1NDzjg=="

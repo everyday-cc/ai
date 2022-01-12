@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-06-automl-market-revenue-set-to-surpass-14-billion-by-2030.md",
+      "title": "AutoML market revenue set to surpass $14 billion by 2030",
+      "excerpt": "The automated machine learning (ML) market is expected to grow from $346.2 million in 2020 to $14.8 billion by 2030, based on forecasts from P&S Intelligence, Leading the market is a surge in demand for fraud detection solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030",
+      "originalUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1604666878/itpro/2020/11/shutterstock_brain_AI_machine_learning.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/machine-learning/361762/automl-market-revenue-set-to-surpass-14-billion-by-2030?amp",
+      "publishedDateTime": "2021-12-06T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-06-open-sourcing-human-rights-documentation-in-the-digital-age-why-machine-learning-isnt-a-silver-bullet.md",
       "title": "Open-Sourcing Human Rights Documentation In The Digital Age — Why Machine Learning Isn’t A Silver Bullet",
       "excerpt": "Increasingly, human rights violations are documented live on social media, only to be automatically erased for violating content moderation policies. Hadi al-Khatib, founder of Mnemonic, saves these audiovisual documents so they are available as evidence for lawyers and journalists.",
@@ -1343,51 +1395,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-aws-sizes-trainium-for-aiml-model-boom.md",
-      "title": "AWS Sizes Trainium for AI/ML Model Boom",
-      "excerpt": "While AWS is making it clear they will continue to innovate around GPUs for cloud-based machine learning, there was little doubt after today that their",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "originalUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Des12-1024x476.jpg",
-          "width": 1024,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2021/12/02/aws-sizes-trainium-for-ai-ml-model-boom/amp/",
-      "publishedDateTime": "2021-12-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],

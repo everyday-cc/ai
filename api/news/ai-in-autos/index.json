@@ -193,7 +193,7 @@
       "originalUrl": "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -807,50 +807,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-06-robot-tractors-may-be-heading-to-a-farm-near-you.md",
-      "title": "Robot tractors may be heading to a farm near you",
-      "excerpt": "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
-      "originalUrl": "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-01-06-gm-reveals-new-self-driving-cadillac-concept-car-plans-to-offer-personal-autonomous-vehicles-by-mid-decade.md",
       "title": "GM reveals new self-driving Cadillac concept car, plans to offer personal autonomous vehicles by mid-decade",
       "excerpt": "General Motors unveiled a new personal self-driving electric concept car from its luxury brand Cadillac during the CES technology show Wednesday. The sleek two-passenger vehicle, called InnerSpace, is part of the brand's Halo Concept Portfolio,",
@@ -999,34 +955,25 @@
     },
     {
       "path": "_news/2022-01-06-mobileyes-self-driving-secret-200pb-of-data.md",
-      "title": "Mobileye’s Self-Driving Secret? 200PB of Data",
-      "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data – some 200 petabytes worth. When combined with Mobileye’s state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
+      "title": "Mobileye's Self-Driving Secret? 200PB of Data",
+      "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/mobileye-s-self-driving-secret-200pb-of-data/article_f340e20f-0da0-5d51-b44d-11881a6d633a.html",
-      "originalUrl": "https://www.eagletribune.com/region/mobileye-s-self-driving-secret-200pb-of-data/article_f340e20f-0da0-5d51-b44d-11881a6d633a.html",
+      "webUrl": "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-mobileyes-self-driving-secret-200pb-data-/2022/01/05/9520967.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/7/01/701faee6-abfe-56cd-bff2-38269434cd20/61d60355dc27f.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T11:36:00-08:00",
+      "publishedDateTime": "2022-01-05T12:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1412,6 +1359,58 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler.md",
+      "title": "Toyota Announces New Self-Driving Auto Software, Challenging VW And Daimler",
+      "excerpt": "Year-end sales figures are expected to show Toyota breaking General Motors’ 95-year hold on the U.S. top spot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/",
+      "originalUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d39019dc6c1246f755465d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5778%26cropY1%3D275%26cropY2%3D3527",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zacharysmith/2022/01/03/toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler/amp/",
+      "publishedDateTime": "2022-01-03T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

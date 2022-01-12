@@ -55,58 +55,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-11-language-io-aims-to-strengthen-its-ai-powered-customer-service-localization-service.md",
-      "title": "Language I/O aims to strengthen its AI-powered customer service localization service",
-      "excerpt": "Langauge I/O, a startup developing technology to localize customer service experiences with AI, has raised $6.5 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
-      "publishedDateTime": "2022-01-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-11-inside-bigscience-the-quest-to-build-a-powerful-open-language-model.md",
       "title": "Inside BigScience, the quest to build a powerful open language model",
       "excerpt": "Hugging Face's BigScience project is making progress toward developing an open, massive -- and highly capable -- natural language model.",
@@ -407,7 +355,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/08/ai-is-quietly-eating-up-the-worlds-workforce-with-job-automation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1042,6 +990,40 @@
         "Facebook AI",
         "Microsoft AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
+      "title": "In Africa, rescuing the languages that Western tech ignores",
+      "excerpt": "Computers have become amazingly precise at translating spoken words to text messages and scouring huge troves of information for answers to complex questions. At least, that is, so long as you speak English or another of the world’s dominant languages.",
+      "sourceUrl": null,
+      "webUrl": "https://japantoday.com/category/tech/in-africa-rescuing-the-languages-that-western-tech-ignores",
+      "originalUrl": "https://japantoday.com/category/tech/in-africa-rescuing-the-languages-that-western-tech-ignores",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Japan Today",
+        "domain": "japantoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {

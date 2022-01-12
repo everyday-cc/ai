@@ -2,6 +2,299 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-12-ai-standards-hub-will-help-uk-businesses-improve-ai-governance.md",
+      "title": "AI Standards Hub will help UK businesses improve AI governance",
+      "excerpt": "The launch of the initiative, led by the Alan Turing Institute, comes as 1.3 million UK businesses are expected to use AI by 2040",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641989946/itpro/GettyImages-AI-concept.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp",
+      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp",
+      "publishedDateTime": "2022-01-12T04:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-cellebrite-joins-aws-partner-network-as-an-advanced-technology-partner.md",
+      "title": "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner",
+      "excerpt": "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner GlobeNewswire January 12, 2022 Company announces Cellebrite Guardian is available on AWS, part of",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner",
+      "originalUrl": "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/Notified-GlobeNewswire-Color-Large_67.jpg?itok=_uosp_3H",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp",
+      "publishedDateTime": "2022-01-12T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-second-nature-raises-125m-to-coach-salespeople-with-ai-powered-avatars.md",
+      "title": "Second Nature raises $12.5M to coach salespeople with AI-powered avatars",
+      "excerpt": "Second Nature, a startup developing AI-powered avatars to coach salespeople, has raised $12.5 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/",
+      "originalUrl": "https://venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1261563652.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/amp/",
+      "publishedDateTime": "2022-01-12T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-can-humans-teach-robots-to-think-like-us.md",
+      "title": "Can Humans Teach Robots To Think Like Us?",
+      "excerpt": "Teaching robots to think like humans may be the next frontier for tech developers and researchers involved in the ongoing development of technologies such as AI and robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d66f8dbbb58ffd41f3d174%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/12/can-humans-teach-robots-to-think-like-us/amp/",
+      "publishedDateTime": "2022-01-12T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact.md",
+      "title": "How An Ethical AI Startup Makes A Triple-Bottom Line Impact",
+      "excerpt": "Even tech companies can consider people and planet, as well as profit. And they can find investors who share their social mission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/",
+      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61db74e008657af633f8d8c6%2F0x0.jpg",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/amp/",
+      "publishedDateTime": "2022-01-12T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines.md",
+      "title": "Fomo launches “Fomo Robotics” to offer UV Disinfection Machines",
+      "excerpt": "IAQ Technologies LLC, a wholly owned subsidiaries of Fomo (FOMC) and Energy Intelligence Center LLC plans to offer UV Disinfection Robots, designed and sold by a leading provider",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "originalUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "publishedDateTime": "2022-01-12T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-aiml-at-scale-the-next-horizon-for-ppgs-data-strategy.md",
       "title": "AI/ML at scale: The next horizon for PPG’s data strategy",
       "excerpt": "At PPG, data is key not only to IT strategy, but to enabling business strategy, says Jeff Lipniskis, global IT director. With a solid foundation in place, his focus now is on being AI ready.",
@@ -349,7 +642,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/11/text-autocompletion-systems-aim-to-ease-our-lives-but-there-are-risks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -747,58 +1040,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-11-language-io-aims-to-strengthen-its-ai-powered-customer-service-localization-service.md",
-      "title": "Language I/O aims to strengthen its AI-powered customer service localization service",
-      "excerpt": "Langauge I/O, a startup developing technology to localize customer service experiences with AI, has raised $6.5 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/09/translate-6089103_1280-e1631120702283.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/language-i-o-aims-to-strengthen-its-ai-powered-customer-service-localization-service/amp/",
-      "publishedDateTime": "2022-01-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-11-has-ai-found-a-treatment-for-fragile-x.md",
       "title": "Has AI found a treatment for Fragile X?",
       "excerpt": "What if AI can substantially speed it up? That's the premise of Quris, an artificial intelligence company hoping to disrupt the pharmaceutical arena. The company just announced the final close of $28 million in seed funding to support its clinical prediction platform.",
@@ -994,247 +1235,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning.md",
-      "title": "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning",
-      "excerpt": "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
-      "originalUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/09/Blockchain-in-healthcare1.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
-      "publishedDateTime": "2022-01-10T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust.md",
-      "title": "University of Cambridge: Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’",
-      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and 'threat modellers' dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it’s too late.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/cambridge-University.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "publishedDateTime": "2022-01-10T20:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-will-artificial-intelligence-be-taking-your-next-drive-thru-order.md",
-      "title": "Will Artificial Intelligence Be Taking Your Next Drive-Thru Order?",
-      "excerpt": "Many people have experienced ordering fast food in a drive-thru and opening the bag later to find their French fries are missing, or their burgers are covered in ketchup they did not want. Artificial intelligence (AI) may make ordering food through a talking box easier,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/",
-      "originalUrl": "https://www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dcf833608447f229f8d8c0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5077%26cropY1%3D0%26cropY2%3D3386",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/amp/",
-      "publishedDateTime": "2022-01-10T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility.md",
-      "title": "Dallas wants to be the site of Ford and Argo AI’s next autonomous vehicle facility",
-      "excerpt": "Dallas council members will vote Wednesday on whether to approve an economic development agreement with Ford in the hopes of being home to the automaker’s next autonomous vehicle facility. Ford, an investor and customer of AV technology company Argo AI,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/",
-      "originalUrl": "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/",
-      "publishedDateTime": "2022-01-10T17:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-watch-this-self-driving-racecar-go-173-mph-with-no-human-driver-inside.md",
-      "title": "Watch this self-driving racecar go 173 mph with no human driver inside",
-      "excerpt": "Autonomous racecars competed head-to-head at the Indy Autonomous Challenge at CES. The competition aims to improve self-driving technology for use on and off the racetrack.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "originalUrl": "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220110165120-polimove-self-driving-racecar-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "publishedDateTime": "2022-01-10T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

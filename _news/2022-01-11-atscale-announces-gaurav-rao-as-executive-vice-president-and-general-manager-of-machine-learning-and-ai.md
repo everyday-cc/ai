@@ -1,18 +1,20 @@
 ---
 category: news
 title: "AtScale Announces Gaurav Rao as Executive Vice President and General Manager of Machine Learning and AI"
-excerpt: "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today announced the appointment of Gaurav Rao to the newly created position of executive vice president and general manager of machine learning and AI."
-publishedDateTime: 2022-01-11T14:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-atscale-announces-gaurav-rao-as-executive-vice-president-/2022/01/11/9523749.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-atscale-announces-gaurav-rao-as-executive-vice-president-/2022/01/11/9523749.htm"
+excerpt: "Veteran Technology Executive Brings Deep AI/ML Experience to Lead Strategy for Expanding Semantic Layer Solutions for Enterprise AI AtScale, the leading provider of"
+publishedDateTime: 2022-01-11T12:59:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/b24994314/atscale-announces-gaurav-rao-as-executive-vice-president-and-general-manager-of-machine-learning-a"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/b24994314/atscale-announces-gaurav-rao-as-executive-vice-president-and-general-manager-of-machine-learning-a"
+ampWebUrl: "https://www.benzinga.com/amp/content/24994314"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24994314"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: 38
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
@@ -34,6 +36,6 @@ related:
         height: 1001
         isCached: true
 
-secured: "wY2cFSzIF41XUwFVh86b687ZCUpfp3oWiOJDOzLG+Yex+BiPIwFKcqlT2iqTxc3omhL0hzKNMtJB6P6pr/9TRPCHZgBhMvRE1KRwr///2f/XleTfV95mMwbVTZ3HGLEED3Hh0MxxK4Df8CLnB4kYtFs8W4N4xJs6++UqETQ32ceH9CbP4EBjjMTC6PLIyJR/W8s7/KnjNtnMixZDL8G+CS8gliT4SyeEqXKBn2H4TEbEhQhOVWa1XWKdvIB895sSrCC3/6NNHqUMGep5vaixhJ80bYVXoIkT14K2/1ZBiZ6W/D0Al1+ZMIJ3dgnbP1w/32c0yOPIGNHOKkkccUZ1B7yq0v63j6eZ0J0q5U++exM=;INLKVJFGtcoaAcAei0UxGA=="
+secured: "u+eJaWbbPWGSpn6ubhFCtCv7ErUxEFVxkb/b9bzOK09fQAeryOcmKRV8S3aXIEUspawo1a8d910uPtw6vn4u85MRbO+ub8Tgz2iZZbU6ZgDrM8cjK2JyJKSh8L+a2SRyFOE8oPNvuCrWAmaCq1o84K/vQ5B+Xcqoi1GRj0ss6R5pak8yBWT/QR2D801T/61ZSV95xjElYyzG4392Szm2OC4RO7mdzEOSP6Ol4T1/zVx43r0VhXOrK1+6OPyVszvj9CYC++HXlWbD2ijcMZKLVJYekgdGTR324cqW7bocnH1NfCD0mUIq3UnuOEuBvHvOjQHVC7/FoSUFB0AXZvzoKQu6d2USp+TgcyGOz/iTOzM=;AzJ4pbJyy4P54pC6sJOLtA=="
 ---
 

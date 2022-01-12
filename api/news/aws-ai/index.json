@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-12-cellebrite-joins-aws-partner-network-as-an-advanced-technology-partner.md",
+      "title": "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner",
+      "excerpt": "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner GlobeNewswire January 12, 2022 Company announces Cellebrite Guardian is available on AWS, part of",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner",
+      "originalUrl": "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/Notified-GlobeNewswire-Color-Large_67.jpg?itok=_uosp_3H",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp",
+      "publishedDateTime": "2022-01-12T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
       "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
       "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
@@ -1428,61 +1471,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model.md",
-      "title": "Build a computer vision model using Amazon Rekognition Custom Labels and compare the results with a custom trained TensorFlow model",
-      "excerpt": "Building accurate computer vision models to detect objects in images requires deep knowledge of each step in the process—from labeling, processing, and preparing the training and validation data, to making the right model choice and tuning the model’s hyperparameters adequately to achieve the maximum",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-3316-image001.jpg",
-          "width": 701,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T12:14:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],
