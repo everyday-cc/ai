@@ -41,6 +41,22 @@ related:
         width: 2236
         height: 1341
         isCached: true
+  - title: "Acuity Brands expands tie-up with Microsoft to enable sustainable building solutions"
+    excerpt: "Acuity Brands (AYI) expands its collaboration with Microsoft (MSFT) to bring new capabilities to AYI smart lighting, lighting controls and building automation"
+    publishedDateTime: 2022-01-12T13:28:00Z
+    webUrl: "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions"
+    ampWebUrl: "https://seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 67
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Etisalat Deploys Microsoft Azure Stack Edge to Offer 5G, IoT & AI Applications"
     excerpt: "As part of their strategic partnership, Etisalat and Microsoft have joined forces to unlock new 5G scenarios with Azure Multi-access Edge Compute."
     publishedDateTime: 2022-01-10T01:03:00Z
@@ -68,6 +84,20 @@ related:
       - url: "https://developer-tech.com/wp-content/uploads/sites/3/2022/01/extending-azure-digital-twins-real-time-analytics-developer-cloud-iot-platform-scaleout-software.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "AI Meeting Assistant isLucid Jumps on Microsoft Teams Corporate Bandwagon"
+    excerpt: "Microsoft loved the idea and signed a new partnership in Europe. This is how Microsoft Teams has landed a new internal app with a unique feature. IsLucid is a smart digital assistant for conference calls that can finally turn our voice to text to tasks in project management systems such as Jira,"
+    publishedDateTime: 2022-01-12T17:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-meeting-assistant-islucid-jumps-microsoft-teams-corporate-/2022/01/12/9525238.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 53
+    images:
+      - url: "https://www.prdistribution.com/spirit/uploads/pressreleases/2022/29693421.jpeg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "JFrog Joined by Cloud Industry Visionaries from AWS, Google Cloud, and Microsoft Azure for DevOps Cloud Days"
     excerpt: "Calling all developers to join JFrog executives, customers, solution engineers, and cloud experts from AWS, Google Cloud, and Microsoft Azure, to learn best practices, solution tips, the importance of cloud native"

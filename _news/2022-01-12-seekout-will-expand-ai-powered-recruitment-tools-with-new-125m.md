@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-re
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 99
 published: true
 
 provider:

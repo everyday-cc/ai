@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/amp/"
 type: article
 quality: 92
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dc6c853130b369a1f8d8c1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1280%26cropY1%3D1%26cropY2%3D721"
         width: 1200
         height: 675
+        isCached: true
+  - title: "AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry"
+    excerpt: "DeepScribe, an AI-powered medical transcription platform, has raised $30 million in series A funding led by Nina Achadjian at Index Ventures, with participation from Scale.ai CEO Alex Wang, Figma CEO Dylan Field,"
+    publishedDateTime: 2022-01-12T17:26:00Z
+    webUrl: "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/"
+    ampWebUrl: "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/deepscribe-founders.jpeg?w=1024"
+        width: 1024
+        height: 684
         isCached: true
 
 secured: "90mbAnJ2JtJSIKq4Ts/dkvHIyy6ZEPUYkHi0gO47yqm6THYwVkWJxNkr+O/fOsaNR2d+CbuKDrtcTcFhr3vPnreHJzZubMWmcTPSpJFC4Z3pNw5fpu4Qa6gqY1wpdAmTtnXxp/NZfesC20var69+SxINZpluqfGbUWxdHz+aBrHmPKLBYxTkKo16pL2IeGAmygazhr4R5AEmXBnTFm+++zZBqbAur8RbjOcLRATTGAsrO7Kauv553+C8PdUjDJ0R7Jpjsp/KqDNGSx2mGGcIAtLBXIUSUoA4endtevKsruEDecLlW2KoZkBacaKPRn/DX2HTAMkI+lEk1exXRCxLo6LOMpO9mSBpTfnZIafKxbIe2a21reybXFYVOwN31juNmDnz9Sue6Ym8ifUQpMOH9f5Mu0IJB9wAqvNAer7NmEQQh6cQJiBGSVOEnvb0iTmCLVRaCzC7rCm0MkbcWIn491O0sJCAF78Tybfw8sl5oq9Sp9NYn5UhrryEIu9kX09E11Vhcy6CahnBn3X5TPt+5A==;9Y0PAMEtmopC/XQ59EjhSg=="

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning, AI used to rapidly detect sepsis"
+    excerpt: "Sepsis strikes roughly 2 million people each year and is the cause of one in three hospital deaths in the United States, according to the Centers for Disease Control and Prevention. “Sepsis is the body’s extreme response to an infection and,"
+    publishedDateTime: 2022-01-12T17:56:00Z
+    webUrl: "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/"
+    ampWebUrl: "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 74
+    images:
+      - url: "https://www.ajc.com/resizer/8fTbEGrlh6x5xJYQWrHSKMW_Q68=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-12-2022/t_966c65e132e24545b6b37ee7896e70eb_name_sepsis.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine learning and AI used to rapidly detect sepsis, cutting risk of death dramatically"
     excerpt: "A groundbreaking advance in quickly detecting sepsis using machine learning has been pioneered by researchers in the Hancock Lab and the department of microbiology and immunology at UBC."
     publishedDateTime: 2022-01-11T14:34:00Z
@@ -55,20 +71,6 @@ related:
       - url: "https://beta.ctvnews.ca/local/british-columbia/2022/1/11/1_5736181/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1020
         height: 574
-        isCached: true
-  - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
-    excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
-    publishedDateTime: 2022-01-11T08:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=597869"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
         isCached: true
 
 secured: "fjkcJHAudJ/ie+wZKyk142nE8QqfWYts7DuGqkXQx69l2ztReapnRoQn3UKHXYWeZqotXX2c4cLNHxSek/txURocqz/WPlytDtviR5tQ3fQW3f1P2+NtlxgJ/M4Uod6fUu2RNDErFJcDpgL9rAUwV9rVL88DaKGMaho4gB1jd/yCRbNYMszAsDIj+L8FozQ3qdeirRZ/BGLDGKs33/ewVQkjT5Il2k9VDIpo/S5HH+BboFgfNKzWId8lyJS9b9qtxaEpYl4E18QhlewqmOdoaFrJoYNwswQ06G7tG1Wj7hGn2Sh7HfdYfD7lQc5Tc1dTbekfj50N1hNoD4f0BWmCJUHgl/VvEEYK7lCBvNoQVmI=;FkbYlpJFShFNC5xmAtSa4A=="

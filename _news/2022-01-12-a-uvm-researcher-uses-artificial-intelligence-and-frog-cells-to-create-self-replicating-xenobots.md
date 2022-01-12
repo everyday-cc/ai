@@ -8,8 +8,8 @@ webUrl: "https://www.sevendaysvt.com/vermont/a-uvm-researcher-uses-artificial-in
 ampWebUrl: "https://www.sevendaysvt.com/vermont/a-uvm-researcher-uses-artificial-intelligence-and-frog-cells-to-create-self-replicating-xenobots/Content?oid=34653312&media=AMP+HTML"
 cdnAmpWebUrl: "https://www-sevendaysvt-com.cdn.ampproject.org/c/s/www.sevendaysvt.com/vermont/a-uvm-researcher-uses-artificial-intelligence-and-frog-cells-to-create-self-replicating-xenobots/Content?oid=34653312&media=AMP+HTML"
 type: article
-quality: 43
-heat: 43
+quality: 47
+heat: 47
 published: false
 
 provider:
@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://media2.fdncms.com/sevendaysvt/imager/u/original/34653307/science1-1-d0fe9ea1c399c7f1.jpg"
@@ -25,6 +27,6 @@ images:
     height: 768
     isCached: true
 
-secured: "rQlRbBcy+hCQGMRxaf/B5R66BWwQJLwrjty/SqEr21P/FGjDE1YUiZKVY8tj0dMieqbeBjV3d9ZSMphP/pbQGye/G8slYQ+q49jEk9qTY1A4WHA0hmEoad21dyvdPVGdgGaE8UlMQvPolkw2kzdf6/lO8TZbvsoX3YKMFAXpcdZ6GqPcfP39WTJvULASejeV97WGCbEw2EUNqRv4HVQ4c+Hz5f3e3Q1949P1Dzr5ABzNNXxUTdvvjtmbOe9RB8UBBUZz3B/zgbP0wUleM/jNhfA1Tg2y4J04pWkVq84ydSYros06wjocl34Y3Ycg89sa54w7GnFsl1zEK7EewG15lBethe+hY7LMlICX7Xsfkh8=;kOR3mlNmsSKxGs7z7HYWDg=="
+secured: "YpZxmSOhTbEtqxPCMBh4GvwSil1XJcbRiO2tHaCwE0ZsRufJlADy0X+HdXZDaQp2HFigBqrha3AWI9EQ7/kIWnxDFxTU5u0vjdQrwRcNo367ZrGke17lkA/UE4VuE6sOsVXauqDgtpo91fpXOQq7yqx726NrV+Q5rfHokVn/a54rJ2/9gRM1NS5RFUNa3XMlD1XdW4wsAmJXKvU0RMfqkWb3LiWsJlzRdHWMMraCqCXMgm45RG+d05FcDkYbOEbIonU4TFMaGM5z6XlJi7YOAXGqRgeDbueNmbNr4xpXSgZuA23AYZ5lw5yVB+Mg4gydh/mSS+h95mYuvNnDZ7Ohhsb0qBXhv/pZXq1aQ0U7J6lr1qJZbhaLnGhyaXzupTS2PZ1+p2oqc+PchwSSsl6i40LyVJDFvmxdjGvkkMIb8z42zriAVk2FHmDyDiiXbXXoarwzUfhF1aGFgb2vQmKIPNj1uIGBaMiDJKbuowB7KadL/hZCm8drPbxobW2fSTu7kU7oTsos6oJsclTN8uAvBw==;zjWRUJqs6qJVurwV+IerCg=="
 ---
 

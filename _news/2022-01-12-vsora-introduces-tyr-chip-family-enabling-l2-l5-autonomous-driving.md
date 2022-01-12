@@ -1,29 +1,25 @@
 ---
 category: news
 title: "VSORA Introduces Tyr Chip Family Enabling L2-L5 Autonomous Driving"
-excerpt: "VSORA today unveiled a family of PetaFLOPS computational companion chips to accelerate Level 3 (L3) through Level 5 (L5) autonomous vehicle designs."
-publishedDateTime: 2022-01-12T12:48:00Z
-originalUrl: "https://www.design-reuse.com/news/51228/vsora-l2-l5-autonomous-driving.html"
-webUrl: "https://www.design-reuse.com/news/51228/vsora-l2-l5-autonomous-driving.html"
+excerpt: "VSORA, provider of high-performance silicon intellectual property (IP) solutions for artificial intelligence (AI),"
+publishedDateTime: 2022-01-12T15:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/g25020620/vsora-introduces-tyr-chip-family-enabling-l2-l5-autonomous-driving"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/g25020620/vsora-introduces-tyr-chip-family-enabling-l2-l5-autonomous-driving"
+ampWebUrl: "https://www.benzinga.com/amp/content/25020620"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25020620"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.design-reuse.com/news_img2/homepage51228/20220112d_1.jpg"
-    width: 306
-    height: 372
-    isCached: true
-
-secured: "W1C/w3LLlohMjvPeVGjh93bUZjiJFAJP32D/Y5aqEOPM7RHmuWh3WPQAzmX6Y5mKD4+LOMSdbFl3fXUiQs77BfBHxcVZdr29Lo/A+1QRkn2LnGHSdzsLQqZRHNtdPIGquPgD73UUYv6NFrM3H/ZNVwWIV69Rib1JWORmX2X0xODvL1w5g3cwdgfOXWulkVNFc9kuMfDAq2zWBwgil2bA+IYZgU1VFboIhx0j1yqdjFZKB8U517QzRlwqmvA16u3dqdsNvPADu9RmKnfNtqeP0xbtK0a5SeUAcw6fhnCVHeJ26a2zbM5bQXUjAS/iub5icdktUb+qpdXX6CMRfy+M0Rre7ldpv/sjsQnK2vZDTCERdccbpUilzVRQZYEkQk4DtsLDi21a4iusTWucZkKqzAm8X4jHuhYPMEEiOSPPRMz1IJT4/gyc0cqsm5Ez4Aw/GyKGVuA1PYmodMPMIstf8RujNkrIVmSzUoPPgxSYVtNrHDfn1mgvPjctLw8qKGRTvYNu5uKdEmQ2ECn6wkCmxw==;S9PpdAkmXp5c78I5RrMRVw=="
+secured: "GcMJ9I85SB2t4F1LJjUz27uk2Se5mtxCCkWJ0HDyZcgfw6MFZaL1tJzDUGop3ygIO04dqhwa+H85u/03nkhVdrEHzw5CIjT2R6erG01HaJ9GA9Qe8leHUNvqzrTftLg+UqM5rl1rjNG6qnvF+K7YEPi8z2bfNZEh+jzlxh74H3FRqSFJpPMKKa0Q1rvxNPRrNLNaghyopPhlIgZFvZjfx8Mq/BBiE8aXK/TSZAWo1m1Ts+ur5mm6F0y2CGbYge2p4CF9C17sojPyv1rTl46EvArWrSXyGtG8uN3yb+zXvxkFN/OJ6DLxMs+3qUAEu7Pct5aMF2q4j4E2sZFsmPrsIkP1+9S9AraY5ExQglciAxk=;FYR93lkWFoiNIlsXjp/ndA=="
 ---
 

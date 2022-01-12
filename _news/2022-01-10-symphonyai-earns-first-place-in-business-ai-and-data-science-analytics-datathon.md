@@ -142,6 +142,29 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Real Estate Industry Gets In On $100M Funding Round For Location Analytics Startup Placer.ai"
+    excerpt: "The funding round included CRE players J.M Schapiro, Eliot Bencuya, Jeff Karsh, Daniel Klein and Majestic Realty."
+    publishedDateTime: 2022-01-12T18:14:00Z
+    webUrl: "https://www.bisnow.com/national/news/commercial-real-estate/placer-ai-1-billion-valuation-111483"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 26
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2022%2F01%2F61df0ea382dca-screen-shot-2022-01-12-at-9-22-48-am.png&width=1200&sign=Ax_3TVJGo3Q-8FaTUFp3xmD2AoMdMJycACnWR9LFkb0"
+        width: 1200
+        height: 817
+        isCached: true
+  - title: "Fractal expands cloud AI offerings with the acquisition of Neal Analytics"
+    excerpt: "Fractal, (fractal.ai), a global provider of artificial intelligence and advanced analytics to Fortune 500® companies, today announced"
+    publishedDateTime: 2022-01-11T08:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fractal-expands-cloud-ai-offerings-with-the-acquisition-of-neal-analytics-301458023.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 18
   - title: "Fractal expands cloud AI offerings with the acquisition of Neal Analytics"
     excerpt: "Fractal's acquisition of Neal Analytics will deepen Fractal's capability to scale AI on Microsoft's multi cloud ecosystems for its Fortune 500 clients and further expand its presence in North"
     publishedDateTime: 2022-01-11T22:56:00Z

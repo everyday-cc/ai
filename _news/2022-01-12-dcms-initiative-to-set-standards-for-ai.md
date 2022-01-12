@@ -41,6 +41,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "New hub launched to test AI standards"
+    excerpt: "The Alan Turing Institute has been selected to lead a pilot AI Standards Hub, set to work closely with members of the AI community"
+    publishedDateTime: 2022-01-12T16:52:00Z
+    webUrl: "https://www.techuk.org/resource/new-hub-launched-to-test-ai-standards.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
+        width: 400
+        height: 276
+        isCached: true
 
 secured: "hO2aN0SHVNFSKc+03hOTNn5oNibetEyHNu8CV6huywdzP2Ks6x0WelkE/28Bj5dRh+FMj9jvPD93ZaoHwwuWk8vo6gueuW4XbI34jfMURNvcAQvxb1ab5QNs0xUms46w7x+9BXfPG6cMu+dqW7mXR54Rs6eyPqNdTfw8YEOhNIyS2p9mTwHr+vZAMPqmxxi1Ru6wGmIqZfCpJ1TxbOCqCr80O19TiToxX8YdSmAWWnvAd3oh3w9Yjq/VXGtHwMRdr70WXDJZ9UC1qy/2SqnjJjTRvP3CBkWl4vyMvOm2I9ZHVOUGPq2eao1ag5MxMimR4Pnz0ajgYCcMCFeLd5y69t0O1dz6V9FBkbqfNvXGNgM=;lvfu5s+qCzxFFNYQ10EGtw=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 636
         isCached: true
+  - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
+    excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
+    publishedDateTime: 2022-01-11T08:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=597869"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 12
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "XXIw7uL6xwBW9JxctNHDRsrssLggphfDONPgKm11mwS5SVmIWLT5p9RlZM19Exv42m5FKqNsn9j6d1DFbwJsIZsYAVsH0vfgSzvwYONaQc8Ifjdi0Na9jw+/HjSDNeusMa4TY1ww069hSHN6/o2ZGJDljhS+aoJBDI0UEUQCX+Q3HbpIQnGlaZ38Nh5CQtTIdlJAxf8AquoaCSh1bfcE7cChloXMB/zZaijIK4mAn8OaX8bbdmT2IzznJtBG+x48D67A506Eqs2pshewDKsb9AGfTr8PuXklcGlX6ct8qBG9VAUkfTgXLHz698pgc/CwZxAjxjHTdMtBlGXVxVEEA5aU/cBmn/1VPWbWR1U1Ukg=;exyFAd5ZMZgMfmVSyaYtNA=="
 ---

@@ -254,6 +254,22 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "California May Finally Regulate Tesla's \"Full Self-Driving\" Beta Test"
+    excerpt: "California allows vehicle manufacturers to implement Level 2 systems in production vehicles but has much more stringent requirements for tests of any semi-autonomous system meant to move further up the chain."
+    publishedDateTime: 2022-01-12T17:00:00Z
+    webUrl: "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132"
+    ampWebUrl: "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2c5c03495b6e5210a97c22476d2fec12.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Tesla Full Self-Driving Test Being Re-Evaluated by California DMV: Report"
     excerpt: "Tesla vehicles with the older 10.3 FSD software repeatedly provided forward collision warnings when there was no immediate danger."
     publishedDateTime: 2022-01-12T10:47:00Z

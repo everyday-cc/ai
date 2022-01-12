@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/01/12110327/DA075902-4F1D-459C-9DF1-7317E370696B.jpeg"
         width: 847
         height: 720
+        isCached: true
+  - title: "New hub launched to test AI standards"
+    excerpt: "The Alan Turing Institute has been selected to lead a pilot AI Standards Hub, set to work closely with members of the AI community"
+    publishedDateTime: 2022-01-12T16:52:00Z
+    webUrl: "https://www.techuk.org/resource/new-hub-launched-to-test-ai-standards.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
+        width: 400
+        height: 276
         isCached: true
 
 secured: "U6l+Xia/u8q0uTxRGOqdtrMrG7GfFaOV0MGShgsrtEPRXE4C/GxtPfh9648kDK8h4Os+nKUjPWAjiBLSE0hxI5NwWIkqx3rVisbUaOzB5A40H7xqxEYdsF8UhxxnaNZ7kiqeKrlqXGiVe+PEcLrp/LLr4JDiDvHRlf1NncXQb0vc4SLD8jIReslUjIGsk3pSBxornd5bxvxromJGE3uUXzV2Mt7xgDH0PD+yaoxLvPycIVGgnmYwht/jbam9wjGvENlqqHfSZo3EKXGTdLsBvl9QXgHoVzqdSGMHrHJz8TSR7veUfODI1aJVEWMe0WeKCfQPwNJaJeg+hylhqbju8jX9IXlG7nDaDLNmwb7wWMg=;U66u+y3DytVo/KtNPhwR0Q=="

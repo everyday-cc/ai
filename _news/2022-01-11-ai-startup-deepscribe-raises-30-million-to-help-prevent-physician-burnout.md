@@ -46,6 +46,22 @@ related:
         width: 480
         height: 321
         isCached: true
+  - title: "AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry"
+    excerpt: "DeepScribe, an AI-powered medical transcription platform, has raised $30 million in series A funding led by Nina Achadjian at Index Ventures, with participation from Scale.ai CEO Alex Wang, Figma CEO Dylan Field,"
+    publishedDateTime: 2022-01-12T17:26:00Z
+    webUrl: "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/"
+    ampWebUrl: "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 72
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/deepscribe-founders.jpeg?w=1024"
+        width: 1024
+        height: 684
+        isCached: true
 
 secured: "EjVgm3m7ey9VdSEp3cv1MynEUHgmJxPsQVJKLtnq/ADvEDJ0lvMyFJXsBA0Of0HNLPFhbUnOFP5KPLYr5lqaE6mlSl+EhceeT93wv5LQXXUraaWOHKC8dCWnMiEzUHG+EPKly1OKcstVaLSIvkJKSfUcv7ea/f+hsbXQwrcKUSK/au7rFykWmkbcMKQkfFN9Q5RA36/figPRoUDeRSOUPVwwx5rOaPTDNp9LGltDg+SZGOk9dw5wYD/DkLo1fzxZDsapYXqXxbVblnreQjzgeZTvf4PAKSE6U+7Qu1+pSkG/b1q762d/EkZ/JBsNmP6eaui2d/qPGLI8eg+xsfJcFFAriWX5TItaWWYmfEv5OWPGCcuA8P1CpSqOtV+Wte/Pb73thddoH1kzXPQN+VaWiZGBWppbq1kqTwE0J2DALPZ/VwSveM6LNIeH7EJ5vKwa8tn6zByooA3H63qStWm7OWBNXJduynhoV/VIsGjyy78wub5RdgP0ejoHvuzaM/ZKkHg2pYigWFmYpobmjkrl9A==;XLpNJOYaaRSxn2RMKSCTMQ=="
 ---
