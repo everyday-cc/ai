@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition
 cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: FOX 5 Atlanta
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial emotion recognition may improve automatic speech translation"
-    excerpt: "Meta AI recently published a new framework (AV-HuBERT) to improve automatic speech recognition thanks to lips monitoring, de facto combining Speech with Vision, two of the traditional areas of Artificial Intelligence."
-    publishedDateTime: 2022-01-09T10:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/facial-emotion-recognition-may-improve-automatic-claudio-fantinuoli"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 26
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFeWYqiGiAQvA/article-cover_image-shrink_720_1280/0/1641666117499?e=1647475200&v=beta&t=qP4IsyD6qU3OKozu2-NErJb1jHMYfJu7pLy0PoFQKy8"
-        width: 1280
-        height: 630
-        isCached: true
   - title: "Second Starbucks store wins union recognition after US labour board ruling"
     excerpt: "STARBUCKS workers at Buffalo’s Genesee Street cafe became the latest to join the Starbucks Workers United revolution sweeping the United States after voting in favour of union representation. The National Labour Relations Board ruled in favour of the global coffee chain’s employees,"
     publishedDateTime: 2022-01-11T16:41:00Z

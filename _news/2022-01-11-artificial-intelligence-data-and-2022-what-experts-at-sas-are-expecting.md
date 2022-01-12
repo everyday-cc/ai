@@ -43,20 +43,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market Outlook 2022: Big Things are Happening"
-    excerpt: "The latest research on“Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation in"
-    publishedDateTime: 2022-01-08T06:45:00Z
-    webUrl: "https://menafn.com/1103506410/Artificial-Intelligence-AI-in-Real-Estate-Market-Outlook-2022-Big-Things-are-Happening"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145577"
-        width: 421
-        height: 249
-        isCached: true
   - title: "2022: The Year of Freight Procurement AI"
     excerpt: "And many shippers and carriers are scrambling to find ways to better navigate new challenges that are here to stay. Enter AI. Renowned for slow-moving technology adoption, the logistics industry is now taking a long, hard look at AI as it tries to build ..."
     publishedDateTime: 2022-01-10T13:01:00Z

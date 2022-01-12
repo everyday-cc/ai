@@ -56,20 +56,6 @@ related:
         width: 1251
         height: 704
         isCached: true
-  - title: "Artificial Intelligence (AI) in Real Estate Market Outlook 2022: Big Things are Happening"
-    excerpt: "The latest research on“Global Artificial Intelligence (AI) in Real Estate Report 2021” offered by HTF MI provides a comprehensive investigation in"
-    publishedDateTime: 2022-01-08T06:45:00Z
-    webUrl: "https://menafn.com/1103506410/Artificial-Intelligence-AI-in-Real-Estate-Market-Outlook-2022-Big-Things-are-Happening"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 43
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?145577"
-        width: 421
-        height: 249
-        isCached: true
 
 secured: "ESTBOPvwmt+nnC+FBL4RowVVqz+Xzz7efgkRmh1RNb7DEOI543wyyi4FoG39w3BymNqeZimtMndyGyVQgh5TMq6xKZ5RP1Rz9bfH+ACVSKFNPWgxQ2nKMiqrAmFs0mWkDnErUX5Rwp0M8nJ2LacX0x/3IM7hD0d0Xg9uJiAFZTaaQxz+rIjP7JB/DBnK7yjpeW5oq/6gDN2J6WwSfLsq0j6TTzbCOHF8kIlRD9oRyyWN2xxpnlkesJOnDxwKbQ7pHzIxV3JT4IP2RKEo7pU9l3dsajiS0Az9xqBYBLFi+cqa5RiWG6pTC362AlxYaXX7tNB400d0CgfvPYSLzTneb49DN+QwVwOhTC6oc39kzHA=;iNQsTZXI0ELpvqnxAP2UKA=="
 ---

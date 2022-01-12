@@ -41,6 +41,20 @@ related:
         width: 500
         height: 236
         isCached: true
+  - title: "Fintech and the Retail Industry"
+    excerpt: "Yes, it’s a new buzzword in the retail industry, but there is a lot more to it. So what exactly does “Fintech” mean? Fintech is a term that covers a wide range of financial technologies, like e-commerce,"
+    publishedDateTime: 2022-01-12T20:51:00Z
+    webUrl: "https://retail-insider.com/articles/2022/01/fintech-and-the-retail-industry/"
+    type: article
+    provider:
+      name: Retail Insider
+      domain: retail-insider.com
+    quality: 39
+    images:
+      - url: "https://retailinsider.b-cdn.net/wp-content/uploads/2022/01/pexels-photo-5076516.jpeg"
+        width: 867
+        height: 1300
+        isCached: true
   - title: "The growth of a fintech engineering team"
     excerpt: "I’m normally behind the scenes, but as the year gets going, I wanted to reflect on some of the changes that our team has been through since we launched Payhawk in 2018. In July 2018, Hristo and I started as the only two employees and engineers at Payhawk."
     publishedDateTime: 2022-01-10T11:27:00Z

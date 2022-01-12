@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/asia/china/china-daily/ai-brains-dri
 webUrl: "https://www.independent.co.uk/asia/china/china-daily/ai-brains-driving-broad-transformation-b1988601.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,33 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Transformation – Made Possible by AI and Social Listening"
-    excerpt: "The COVID-19 pandemic is far from over as the third variant is knocking at our door. The nightmare of the second wave is still fresh in our minds."
-    publishedDateTime: 2022-01-08T05:34:00Z
-    webUrl: "https://www.linkedin.com/pulse/healthcare-transformation-made-possible-ai-social-listening-ghosh"
+  - title: "Pony.ai forms JV with Sinotrans to further deployment of autonomous driving technologies"
+    excerpt: "Autonomous driving technology company Pony.ai recently formed a joint venture with Sinotrans, part of China Merchants Group and one of China’s leading logistics and freight forwarding companies. The two companies will work together to build a smart logistics network featuring autonomous driving trucking technologies."
+    publishedDateTime: 2022-01-10T10:36:00Z
+    webUrl: "https://www.greencarcongress.com/2022/01/20220110-pony.html"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
+      name: Green Car Congress
+      domain: greencarcongress.com
+    quality: 30
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQF3jh7aFba0xQ/article-cover_image-shrink_600_2000/0/1587884611896?e=1646870400&v=beta&t=FLrtkrWVf2QBx2l68J6wYV3eo80sAakL_X-TEwio-SY"
-        width: 820
-        height: 312
-        isCached: true
-  - title: "Discriminatory AI and disinformation powered by deep fakes"
-    excerpt: "Here are some of the concerns where AI might go wrong and that I believe need more awareness in 2022: Gender and racial bias in AI According to a Unesco report, only 12% of the ar"
-    publishedDateTime: 2022-01-10T08:49:00Z
-    webUrl: "https://www.bizcommunity.com/Article/196/852/223906.html"
-    type: article
-    provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 41
-    images:
-      - url: "https://biz-file.com/c/2111/636347-847x440.jpg?2"
-        width: 847
-        height: 440
+      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef027880653d4a200d-600wi"
+        width: 600
+        height: 305
         isCached: true
   - title: "$40M Available for Artificial Intelligence and Transformative Technology Innovators to Improve Care and Health Outcomes for Older Americans"
     excerpt: "America is getting older faster. According to the U.S. Census Bureau, the number of people aged 65 or older in the United States"

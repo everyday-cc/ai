@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "Japan Restricts Exports of AI Facial Technology"
-    excerpt: "The Japanese government is restricting facial recognition exports over growing concern of China’s extreme surveillance measures. A recent report from Tokyo’s Central News Agency (CNA) states that China has been using AI-powered facial recognition technology to “deploy"
-    publishedDateTime: 2022-01-08T05:03:00Z
-    webUrl: "https://www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/"
-    ampWebUrl: "https://www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/?amp"
-    cdnAmpWebUrl: "https://www-armstrongeconomics-com.cdn.ampproject.org/c/s/www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/?amp"
-    type: article
-    provider:
-      name: Armstrong Economics
-      domain: armstrongeconomics.com
-    quality: 59
-    images:
-      - url: "https://www.armstrongeconomics.com/wp-content/uploads/2019/06/Facial-Recognition.jpg"
-        width: 500
-        height: 334
-        isCached: true
 
 secured: "m5q/F9o87HHFGBiMp+u0IfZ4cZRPLFxvoL5Uuxl9UEKTNmgLIlNslNoabsIK8sRBmwRq7rIk1X6NLkVVfsb+K8fEexpLoZSV/GvqQby/xHi4Tb0MWjr3H7mcWt8qYipfkxjPnyFd/cXKTvO2xBPyVzlWyYCBO80EZQ5OWqnLbofTkKG1d8ho7PRGz3PtNq+zzkjeZNEOUw1wzIuScI9mxzPSxv62SyOcKb4Az/eS30mOiR68pqRnKr9i1QuoQnG9gdNi3mftTQdj7I/a7MCv0jaujusAVJp2wAn7w9ut1XC3/34XEjaP7DDT+lR8PgYi7AxBFK9XhqO3e0VlBdg2ClqmicCRprxFV2TmZ3TFoag=;TuLrFqwx6EmGT93YS1Qytw=="
 ---

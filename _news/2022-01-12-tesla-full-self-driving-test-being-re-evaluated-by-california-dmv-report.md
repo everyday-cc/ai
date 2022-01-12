@@ -474,6 +474,20 @@ related:
         width: 600
         height: 375
         isCached: true
+  - title: "California reviews whether Tesla's self-driving tests require regulatory oversight"
+    excerpt: "State regulator cites \"videos showing a dangerous use of that technology\" and federal investigations into Tesla vehicle crashes."
+    publishedDateTime: 2022-01-12T21:06:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/teslas-self-driving-tests-might-require-regulatory-oversight-calif"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 33
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web_0_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Tesla Hikes Price of Full Self-Driving Package; Cybertruck Production Date Disappears"
     excerpt: "The cost of Tesla’s Full Self-Driving package will soon increase by 20%, according to recent tweets from CEO Elon Musk."
     publishedDateTime: 2022-01-10T15:44:00Z

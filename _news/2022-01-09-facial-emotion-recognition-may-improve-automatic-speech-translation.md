@@ -30,35 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Dunwoody gains national recognition for combating sex trafficking"
-    excerpt: "DUNWOODY, Ga. - Tuesday was National Human Trafficking Awareness Day, and one metro Atlanta city is being recognized as a City of Freedom for taking action against trafficking. The city of Dunwoody’s mayor just signed a proclamation urging its employees ..."
-    publishedDateTime: 2022-01-12T04:47:00Z
-    webUrl: "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking"
-    ampWebUrl: "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp"
-    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp"
+  - title: "Graph-based recommendation system with Neptune ML: An illustration on social network link prediction challenges"
+    excerpt: "Recommendation systems are one of the most widely adopted machine learning (ML) technologies in real-world applications, ranging from social networks to ecommerce platforms. Users of many online systems rely on recommendation systems to make new friendships, discover new music according to suggested"
+    publishedDateTime: 2022-01-12T22:50:19Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/"
     type: article
     provider:
-      name: FOX 5 Atlanta
-      domain: fox5atlanta.com
-    quality: 59
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
     images:
-      - url: "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/01/932/470/35QT5QT5.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
-        isCached: true
-  - title: "Second Starbucks store wins union recognition after US labour board ruling"
-    excerpt: "STARBUCKS workers at Buffalo’s Genesee Street cafe became the latest to join the Starbucks Workers United revolution sweeping the United States after voting in favour of union representation. The National Labour Relations Board ruled in favour of the global coffee chain’s employees,"
-    publishedDateTime: 2022-01-11T16:41:00Z
-    webUrl: "https://morningstaronline.co.uk/article/w/second-starbucks-store-wins-union-recognition-after-labour-board-ruling"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 22
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/AP21354602509275.jpg"
-        width: 1185
-        height: 790
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/04/ML-6681-image003-1111x630.png"
+        width: 1111
+        height: 630
         isCached: true
 
 secured: "x+jcmA/y6PEGI8Qe4jPLH+PpYiqq6PQfVt9kyrOj9/HBW/hGx/1EDwVPznop8oC/Qx1VlmdUlLhDGyuTIrd4VvqRcBggNY44KNRONLOHvHGA3nNt8cR1PJe7Sn0XH/ZtiOw4xdtQ2FugkbCwYuhW89PtQB7ADej/JdWwzson3akZ6cqEMTSb5aAh9iQv1QVr/YQGg4hvdi9UUDeMHpHyQN83K3glfbsVC3928yxBM1bxSEgqOOeA2cpmeLoUpQTvlE0eivWKw3Ciy+mJwNPzl01t2jeLMXn4fV9RJagf96aOP6wdGKDg/yQW7iTN6bVVko5hruAVv4MLpRD5q36Gir1hbvTzMoygbDvSdLOm7kk=;w34PQ/LZmitvaLkJ0JY+BA=="

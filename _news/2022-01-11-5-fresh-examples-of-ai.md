@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Japan Restricts Exports of AI Facial Technology"
-    excerpt: "The Japanese government is restricting facial recognition exports over growing concern of China’s extreme surveillance measures. A recent report from Tokyo’s Central News Agency (CNA) states that China has been using AI-powered facial recognition technology to “deploy"
-    publishedDateTime: 2022-01-08T05:03:00Z
-    webUrl: "https://www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/"
-    ampWebUrl: "https://www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/?amp"
-    cdnAmpWebUrl: "https://www-armstrongeconomics-com.cdn.ampproject.org/c/s/www.armstrongeconomics.com/world-news/technology-world-news/japan-restricts-exports-of-ai-facial-technology/?amp"
-    type: article
-    provider:
-      name: Armstrong Economics
-      domain: armstrongeconomics.com
-    quality: 59
-    images:
-      - url: "https://www.armstrongeconomics.com/wp-content/uploads/2019/06/Facial-Recognition.jpg"
-        width: 500
-        height: 334
-        isCached: true
   - title: "The Hard Problem of AI is the Problem"
     excerpt: "Much energy and resources are being put into Artificial Intelligence currently. Artificial Intelligence is expected to approach and eclipse human intelligence."
     publishedDateTime: 2022-01-11T10:30:00Z

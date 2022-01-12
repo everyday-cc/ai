@@ -7,8 +7,8 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artif
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: 61
+published: false
 
 provider:
   name: WFMZ-TV
@@ -42,34 +42,6 @@ related:
       - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Call Center AI Market to Reach $9.94 Billion By 2030: Allied Market Research"
-    excerpt: "According to the report published by Allied Market Research, the global call center AI market generated $959.80 million in 2020, and is expected to reach $9.94 billion by 2030, registering a CAGR of 26."
-    publishedDateTime: 2022-01-11T08:53:00Z
-    webUrl: "https://menafn.com/1103519142/Call-Center-AI-Market-to-Reach-994-Billion-By-2030-Allied-Market-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 34
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?997691"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®"
-    excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,"
-    publishedDateTime: 2022-01-10T15:15:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 23
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "4ZnOkGKYxF43HWPJY5xDV4BMEN6vrG7DUo6GR+zN2KzOBpssHbHomONbCzPZhzuSuecs6KkBJI2yCHXxxvtY5pi700llCIKN/4+YyNNtnpSSJ8SgbbgGbU0b8NpkTbdQp9soICTPnYg32x3ViMeMtVkwcDweRipynvcg5Ve/ddZM80y49ct+mVUkdS3RS/trRtWym4jCLZ6fqnh4cQ9tWuODvVD+FSwjcBaWRA6TzpWgBywc2vP/Wqd2RvqK2J9rrzuR2yvPFcsnLlSfQHkgm+8Bz7Ksk+Gf/SuznpIkmjxYG0/gQHLc2OPDashP1OngJONssohYU2xRTTZgrSPBm6txVO2smrj1fpiq8aPigPkcc9XL3hRY0RiwZb4Jnr5lhRLjQUg3eRWtGAKN0siRPCQWWvR0Fpq2aGpSXzEKFMbcpoP/AZLWuVgaXNtlAWvM6CUL4hTMhwd2neTpSuNqnS77UfAQAa99PZfhOp8r0OPratuv6DhoY7TNG6nfKxWIzAfU6mdOjfRzlA0jC1uCgw==;nPYkUlVfufil3LMC2x1oKA=="

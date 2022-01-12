@@ -474,6 +474,20 @@ related:
         width: 600
         height: 375
         isCached: true
+  - title: "California reviews whether Tesla's self-driving tests require regulatory oversight"
+    excerpt: "State regulator cites \"videos showing a dangerous use of that technology\" and federal investigations into Tesla vehicle crashes."
+    publishedDateTime: 2022-01-12T21:06:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/teslas-self-driving-tests-might-require-regulatory-oversight-calif"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 33
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web_0_1.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Tesla Hikes Price of Full Self-Driving Package; Cybertruck Production Date Disappears"
     excerpt: "The cost of Tesla’s Full Self-Driving package will soon increase by 20%, according to recent tweets from CEO Elon Musk."
     publishedDateTime: 2022-01-10T15:44:00Z
@@ -503,6 +517,6 @@ related:
         height: 492
         isCached: true
 
-secured: "KfhnYNm8H87OB/PVBE1A7VfuS0wLc/vZOuj43CO4zNbSP16F0ktMe7Uw5W2atnESl3rSuejpWQnM8aNprIqCnZV+8J6cW4t4uhdYSquEU1UXFQFV2ksK3PeDiEIBPRgG6pYYnTepDt3FbavmKLaIbvV5Y4HvL7C2fzzemel7ZCxwNlUB9/MQokd5S9ky6qm51ZS08T57gwHhZ5lzr5dDXu+FOIj/fO9ojpktix/ZdaF+bkY3qJwF8ErsW/nW8A+x2FXembxlGPd48r5KG1Vu995flGnB9ZhvTDD83vVR29IVtrPnredhL9by3nRIPnYVk6qRoUb7xX5fX7B+2lPwx9zP7wOuh87DCqDIxKT8yIM=;ajjNXHlzIWQyJXcJFe067A=="
+secured: "EqVfu33wru0UufxTwPHMXLiX9zJ0kFADc6mr4UKpClOS1yljYY7e3B8u8DTf7NcPBe2V1RpRoMngSIExR7PMiqH4W5Gjj/cIsAK2F6aOsp++S/UOXzcMRVDRbYApw3e5TefUqJaB1RPk8kP7wWTlK/WnSaaaBtc5EVGlPLWldjD5C9gAhGMRx6dHoXwVyebZZDwsqZwz0pMSJKPAfV6JFICUSzKGm2d5c/lzprgkTk30IW14mdyg7owbL76VhPvqRdZiBIlUSPJ+wTLCrFDL+265zXbnIXs1tdcy7rGlprG3EYz0avaHO0ryrR3MZURhhwXW/3B9+IgPP/ziXZ8M/K6mxWdV8/lB3AAAzQL8nODvwLFaYRmDMAXY/5xjyWHL3mJ1MMIdKzwQzo85VTsiZxeZLeIIkmg0TiUfd/Zmv2dXQvf2+ReLWXu5EQQeT19meYbc3H0tp9NPqb9yd9NGaKHb/uyYP9fQ5/0uxpUZ/BvAu6ANxq5KNPocZCOnPTirODq8zpeNjif2UMpYLhD20g==;ASjN+YHrGILgV5ke9wlLVw=="
 ---
 

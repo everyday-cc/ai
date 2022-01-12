@@ -24,33 +24,49 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR: AMR"
-    excerpt: "Allied Market Research recently published a report, titled, \"Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and Others), Application (Natural"
-    publishedDateTime: 2022-01-10T12:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html"
+  - title: "AI in Computer Vision Market Size Soaring at 26.3% CAGR to Reach 64.59 billion USD by 2027"
+    excerpt: "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64."
+    publishedDateTime: 2022-01-10T13:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 51
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/619c685a7b1c3.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Allied Market Research: Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR: AMR"
-    excerpt: "Rise in need for smart homes & smart cities, advent of quantum computing, and surge in investments in AI startups drive the growth of the global artificial intelligence chip market. PORTLAND"
-    publishedDateTime: 2022-01-10T13:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54932643-allied-market-research-artificial-intelligence-chip-market-to-reach-dollar-194-9-bn-globally-by-2030-at-37-4-cagr-amr-008.htm"
+  - title: "AI-Enabled Testing Tools Market revenues will grow at over 13% CAGR through 2030"
+    excerpt: "As per a most recent report by Future Market Insights (FMI), worldwide AI-Enabled Testing Tools market incomes will develop at more than 13% CAGR through 2030. Telecom firms are utilizing the capability of AI to oversee and evaluate huge volumes of enormous information with an end goal to draw significant bits of knowledge and deal"
+    publishedDateTime: 2022-01-11T09:34:00Z
+    webUrl: "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/"
+    ampWebUrl: "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/AI-Enabled-Testing-Tools.jpg"
+        width: 2100
+        height: 900
+        isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market Size, Share, Growth, Trend and Forecast Till 2027"
+    excerpt: "The global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 SURREY, B"
+    publishedDateTime: 2022-01-11T06:51:00Z
+    webUrl: "https://menafn.com/1103517967/Artificial-Intelligence-in-the-Education-Sector-Market-Size-Share-Growth-Trend-and-Forecast-Till-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 39
     images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?740404"
+        width: 374
+        height: 250
         isCached: true
   - title: "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®"
     excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,"

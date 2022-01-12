@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103517967/Artificial-Intelligence-in-the-Educa
 webUrl: "https://menafn.com/1103517967/Artificial-Intelligence-in-the-Education-Sector-Market-Size-Share-Growth-Trend-and-Forecast-Till-2027"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -26,65 +26,63 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning In Drug Discovery and Diagnostics Market Trends and Forecast"
-    excerpt: "Deep Learning in Drug Discovery and Diagnostics Market is expected to value over USD xx billion by 2027 end and register a CAGR of xx% from the forec"
-    publishedDateTime: 2022-01-12T13:42:00Z
-    webUrl: "https://menafn.com/1103527504/Deep-Learning-In-Drug-Discovery-and-Diagnostics-Market-Trends-and-Forecast"
+  - title: "AI in Computer Vision Market Size Soaring at 26.3% CAGR to Reach 64.59 billion USD by 2027"
+    excerpt: "Unscathed by challenges, the worldwide AI in computer market is expected to record a strong CAGR of 26.3% over 2021-2027, consequently multiplying the industry remuneration from USD 12.6 million in 2020 to USD 64."
+    publishedDateTime: 2022-01-10T13:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-Enabled Testing Tools Market revenues will grow at over 13% CAGR through 2030"
+    excerpt: "As per a most recent report by Future Market Insights (FMI), worldwide AI-Enabled Testing Tools market incomes will develop at more than 13% CAGR through 2030. Telecom firms are utilizing the capability of AI to oversee and evaluate huge volumes of enormous information with an end goal to draw significant bits of knowledge and deal"
+    publishedDateTime: 2022-01-11T09:34:00Z
+    webUrl: "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/"
+    ampWebUrl: "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/AI-Enabled-Testing-Tools.jpg"
+        width: 2100
+        height: 900
+        isCached: true
+  - title: "Call Center AI Market to Reach $9.94 Billion By 2030: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global call center AI market generated $959.80 million in 2020, and is expected to reach $9.94 billion by 2030, registering a CAGR of 26."
+    publishedDateTime: 2022-01-11T08:53:00Z
+    webUrl: "https://menafn.com/1103519142/Call-Center-AI-Market-to-Reach-994-Billion-By-2030-Allied-Market-Research"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 37
+    quality: 34
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?868007"
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?997691"
         width: 374
         height: 250
         isCached: true
-  - title: "Artificial Intelligence Voice Market Trend, Future Demand, Analysis by Top Leading Player and Forecast Till2028| iFlyTek, Google, Apple"
-    excerpt: "LOS ANGELES United States The research study presented in this report offers a complete and intelligent analysis of the competition segmentation dynamics and geographical advancement of the global Artificial Intelligence Voice market It takes into account the CAGR value volume"
-    publishedDateTime: 2022-01-12T13:55:00Z
-    webUrl: "https://www.openpr.com/news/2525217/artificial-intelligence-voice-market-trend-future-demand"
-    ampWebUrl: "https://www.openpr.com/amp/2525217/artificial-intelligence-voice-market-trend-future-demand"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2525217/artificial-intelligence-voice-market-trend-future-demand"
+  - title: "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®"
+    excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,"
+    publishedDateTime: 2022-01-10T15:15:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 27
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 23
     images:
-      - url: "https://cdn.openpr.com/V/1/V112395796_g.jpg"
-        width: 800
-        height: 407
-        isCached: true
-  - title: "Artificial Intelligence in Telecommunication Market 2021: Industry Analysis, Opportunities, Technology, Demand, Top Players and Growth Forecast 2027"
-    excerpt: "Summery New Research study examines the current worldwide Artificial Intelligence in Telecommunication Market in terms of demand and supply as well as pricing patterns for the current and future years The revenue market share profit margin primary product portfolio and"
-    publishedDateTime: 2022-01-10T10:42:00Z
-    webUrl: "https://www.openpr.com/news/2522008/artificial-intelligence-in-telecommunication-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2522008/artificial-intelligence-in-telecommunication-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522008/artificial-intelligence-in-telecommunication-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
-    images:
-      - url: "https://cdn.openpr.com/V/1/V110498270_g.jpg"
-        width: 660
-        height: 495
-        isCached: true
-  - title: "AI in Social Media Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 10, 2022, 06:52 /Comserve / -- MarketsandMarkets forecasts the global AI in social media market to grow from USD 633.1 mill"
-    publishedDateTime: 2022-01-10T12:45:00Z
-    webUrl: "https://menafn.com/1103514255/AI-in-Social-Media-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?957437"
-        width: 375
-        height: 250
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "i3F3JAK0Jxwu+Oao6t8s/OoCJq+yBCglsoNJ/kvfD00477ulX/yS8DFKjxAYtKytZjlLLx3vMi5Um5hlcTagJkEqINcqnulXYnIkMJ/AG1u5JKBv8omAnWonbu6jHYicvZUJ4pu0EvwnxiC2hckwt/6zGCXMmJHtIalJMHeS848tyR10Ah9ZPzRPHwGBgSeHOr8sbiegGNp2pHgp0kLib3xNQ4TVUL41syHQW8E14zTB/uQJD0qf+AUA+GpRwGTpX6TA2/d2LArVa0t30Z76wrcC/vFC9P7w5/vVnaHdJMZD4fN+z0fSbVviV15ZOeMdKSuv0Zkdg7M/q5rueYDBUpYeBnr+1Tw2S28/lcenmtM=;jtDSQT7kmYdPeEZdUSUc0Q=="

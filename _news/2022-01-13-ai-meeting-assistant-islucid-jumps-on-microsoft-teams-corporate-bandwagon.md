@@ -2,26 +2,26 @@
 category: news
 title: "AI Meeting Assistant isLucid Jumps on Microsoft Teams Corporate Bandwagon"
 excerpt: "Microsoft loved the idea and signed a new partnership in Europe. This is how Microsoft Teams has landed a new internal app with a unique feature. IsLucid is a smart digital assistant for conference calls that can finally turn our voice to text to tasks in project management systems such as Jira,"
-publishedDateTime: 2022-01-12T17:29:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/01/12/9525238.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/01/12/9525238.htm"
+publishedDateTime: 2022-01-12T17:40:00Z
+originalUrl: "https://menafn.com/1103528599/AI-Meeting-Assistant-isLucid-Jumps-on-Microsoft-Teams-Corporate-Bandwagon"
+webUrl: "https://menafn.com/1103528599/AI-Meeting-Assistant-isLucid-Jumps-on-Microsoft-Teams-Corporate-Bandwagon"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://www.prdistribution.com/spirit/uploads/pressreleases/2022/29693421.jpeg"
-    width: 1200
-    height: 800
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?175147"
+    width: 443
+    height: 250
     isCached: true
 
 related:
@@ -187,6 +187,6 @@ related:
       domain: businessinsider.com
     quality: 15
 
-secured: "0ZFtA8azqfS6V4tJMCSL6hEfsOu5siNQxsD8+JQPo2NTisvVPHQddjGp8ITun3KMHlq6tm1k8aR4DS1LXrvltZ5XJI6jpf2KyoeE0bc2j6h3irmF2rmjzGOYMZCNBcISL6Yc8weACmChtWpWBh1JOR8sr6TL/D/8Ff/RpLwjkIfL3Ll+0OY9FMiuX3iB+AAqFYulxTSTLCyaFtRezvB9/MrLwyzBYwqwSeSfUzHHo5BYPHSs2X3SJlxVHII4lZDaUeR9STjf2cz5g8tqWqF0r0/fugckD1tlr2dsVSQJzG5rENGSzANdKpSq5m3WYhKd/T1H0TOqf3XfEhe9SyNnqAaAmidw7ovFhgR1f4ifT7Y=;NwvVWV8W3IrtuBM7BAlHAA=="
+secured: "IZ1hqKB7lsbXeu01C0TRWQKeS+lgyn3jpTmqTnt9cy4v+SYvEErMxjktHcPeYRk4F5vIxafmYnFCEBhoSjtK0qDXodYpJiiqgV7H2iW3aTYYRNWUPe1lzYfSEXEXZ940XK5NCGY6/xQO/+5CMn6jOTKW3mrY22CJRd/6+cz/toZimPO3DjTJvOAuFSzOl76rTSSVYsuTXaOdyO3HO2wC5v1fvnQsdKgGmObKtzrVuQiFA369B50TFkUQRzfr/tK2IxzZDwEWK7G5h2qygkYCC+KjDydYHazjV+S4aY7lTnEWABifo5pf8g8SaSlFSmDj0R6iJI2ZMHul3y4Bz8VCsONH+FbQCxvhHjYNxfuZ+hg=;zCDOgShxe6apxPAUohaz2g=="
 ---
 
