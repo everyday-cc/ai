@@ -44,6 +44,20 @@ related:
         width: 620
         height: 413
         isCached: true
+  - title: "Top 3 Autonomous Cars Market Trends to Watch Post-COVID"
+    excerpt: "Key Prominent Players Covered in the Autonomous Cars Market are Autoliv Inc., Aptiv, Waymo LLC, Robert Bosch GmbH, Daimler AG, Baidu, AutoX, Inc., Pony.ai, Ford Motor Company, HYUNDAI"
+    publishedDateTime: 2022-01-13T07:21:00Z
+    webUrl: "https://www.wicz.com/story/45643442/top-3-autonomous-cars-market-trends-to-watch-post-covid"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 24
+    images:
+      - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/22021329_G.png?lastEditedDate=1642040505000"
+        width: 450
+        height: 350
+        isCached: true
   - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
     publishedDateTime: 2022-01-13T15:25:00Z

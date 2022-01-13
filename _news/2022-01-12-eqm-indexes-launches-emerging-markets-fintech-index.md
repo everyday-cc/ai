@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AuthBridge fintech Fintelle adds biometric liveness detection, voice authentication"
+    excerpt: "Fintelle has updated its technology suite to include voice-based authentication and face biometrics liveness detection capabilities."
+    publishedDateTime: 2022-01-13T22:05:00Z
+    webUrl: "https://www.biometricupdate.com/202201/authbridge-fintech-fintelle-adds-biometric-liveness-detection-voice-authentication"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "vzgHwv97B6cSVbK+efx7E++rI+OxQuSFnve/Qqp8H3Ty/Tnrutr8Bny/QZUc74JyJ/69TKE0zAUYPyuwfuRvv2mZST9JTrSUQ+Et2SY0f8hM7vzSs5cwNyEcOpUV8LFA7WLjk20RmG/tbI6e3UJ3XRymSO49OXSOCoEEYYw1ePuAgfUf141dk23+rV42jLj1TpnVKxsjkMXl3+TrtluZlSmW/vmE70FkPRFYPaV2cFWC5OoN3LwFsTQhZDzP1ry/Oat1b44oBowKpZxeEOMppxfGCKt7iq9WSIFG4tZiWwynIXyQnTS7DzrPIJ4mAo1Iv3VOeY8Wm22vzfC+wRlkALlZQyOoED/zGXemj4IVbIo=;jnAkhVl73W2y/3wNvmbgEA=="
 ---

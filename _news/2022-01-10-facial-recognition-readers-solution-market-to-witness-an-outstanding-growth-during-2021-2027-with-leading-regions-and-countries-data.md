@@ -77,6 +77,22 @@ related:
         width: 603
         height: 373
         isCached: true
+  - title: "Artificial Intelligence Virtual Visors Market: Breaking Conventional Technology to Reduce Road Fatalities"
+    excerpt: "According to a new report from Fact.MR, a market research and competitive intelligence firm, the number of car displays is constantly expanding, increasing by over 65 percent between 2016 and 2021. According to Fact."
+    publishedDateTime: 2022-01-13T21:10:00Z
+    webUrl: "https://techbullion.com/artificial-intelligence-virtual-visors-market-breaking-conventional-technology-to-reduce-road-fatalities/"
+    ampWebUrl: "https://techbullion.com/artificial-intelligence-virtual-visors-market-breaking-conventional-technology-to-reduce-road-fatalities/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-virtual-visors-market-breaking-conventional-technology-to-reduce-road-fatalities/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 40
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/01/4-4.jpg"
+        width: 509
+        height: 340
+        isCached: true
   - title: "Speech Analytics Market worth $4.5 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a research report \" Speech Analytics Market by Component (Solutions and Services), Application (Risk & Compliance Management, Sentiment Analysis), Organization Size, Deployment Mode (Cloud,"
     publishedDateTime: 2022-01-13T14:33:00Z

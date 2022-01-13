@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
 type: article
 quality: 89
-heat: 399
+heat: 389
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-10-image.jpg"
         width: 2560
         height: 1439
-        isCached: true
-  - title: "Tesla raises price of \"Full Self-Driving\" software to $12,000"
-    excerpt: "\"Tesla FSD price rising to $12k on Jan 17. Just in the US,\" tweeted Elon Musk on Saturday. \"FSD price will rise as we get closer to FSD production code release.\" The premium driver assistance package,"
-    publishedDateTime: 2022-01-09T06:36:00Z
-    webUrl: "https://seekingalpha.com/news/3786445-tesla-raises-price-of-full-self-driving-software-to-12000"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3786445-tesla-raises-price-of-full-self-driving-software-to-12000"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3786445-tesla-raises-price-of-full-self-driving-software-to-12000"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 74
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150569888/medium_image_1150569888.jpg"
-        width: 768
-        height: 519
         isCached: true
   - title: "Electric Vehicle Checkpoint: Tesla Will Raise Price of Self-Driving Feature"
     excerpt: "See the latest news for the top stocks in the electric vehicle space including Ford, Rivian, Lucid, Nio, and more."

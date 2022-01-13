@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 636
         isCached: true
+  - title: "Top 3 Autonomous Cars Market Trends to Watch Post-COVID"
+    excerpt: "Key Prominent Players Covered in the Autonomous Cars Market are Autoliv Inc., Aptiv, Waymo LLC, Robert Bosch GmbH, Daimler AG, Baidu, AutoX, Inc., Pony.ai, Ford Motor Company, HYUNDAI"
+    publishedDateTime: 2022-01-13T07:21:00Z
+    webUrl: "https://www.wicz.com/story/45643442/top-3-autonomous-cars-market-trends-to-watch-post-covid"
+    type: article
+    provider:
+      name: FOX 40 WICZ TV
+      domain: wicz.com
+    quality: 24
+    images:
+      - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/22021329_G.png?lastEditedDate=1642040505000"
+        width: 450
+        height: 350
+        isCached: true
   - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
     publishedDateTime: 2022-01-13T15:25:00Z
@@ -65,6 +79,6 @@ related:
       domain: frontiersin.org
     quality: 18
 
-secured: "xBAPUbAMPI8ZTW01DEpckBgshEZqdnf64t5lzfe9bz3WK8h7RVaf7xW1SKBmm1S+a1zMCpiE0X8Nw35TPIBZTIibuMwJr4eolAe1Nmb1PkOjgKfFd5uGqReMYzfHHhfeODKqNcaQtRlNfSUCGzWpMqvF/up0sf/0RhO1G6KCBQzeKF+RuUeOHJQWx0P3WTw8lbZx2xB0tDXePu7qLwKmEbZTKcFOq4slnWUsjrAFM7iwXtN4kg9saGTA+iFCLYUuL9i7jxgun4fZtEKzBEXPsakb6/TKkuxJhnq5lqRjSN8iZfYvpDMzjeDfao7VavC6UWXp46ro0Ok7M7ZKbAttLjHMhgu9BdMkujzSj4ftxU0=;mIbqYZagCyZHxEbqNJCSfA=="
+secured: "FWMC5YtlAVg6+KaqXCodkN/wnTwXlBmxQ+VZgDHAq10cF9mN3aXqfwOOVWSU2dab7SM+ez82XAdn62ieHp1h3+CxIbPFTGtGb2bTpkA7dMSKZT62Hjtu5kCSVAuri1Om6da+mk1fGy/J295M9AVyK4nFs3QKaj97MsMjTrYc9LDhpOqzIDC4L6occwWRvOwlzxMpVm9iVETNk82iQR//L6FrDKhsOuOgSTN8PtIVn9/gvfQSjstZkFHyaMunmKxQqs2RJrDhoCMBmP5Jqm9V9MqUtythaTR8ORPsodPhOg4WwlPXfHJwQl7vGxrLLjXpun3Ql7JqLLDR3GkRf6EK2tItfEnXgltWKdBOkt3gdpILsoNWFDkk6FVf4rYzgJUzi474e4OakjS+rxz5NhHg5bzMS4OV6w92U/a4n1WGz/eeBPk28++wNJnip28DjyTmj6gU2OyKJHRZdDMS6w0UXx5kWK0o5L8eqvVzshqvkVejIivhuhhlWd7Hr4+JaUUHtclGyfWcKKcCr5MCedKcUA==;SarAJeEkr33bRRzgvKp+kA=="
 ---
 

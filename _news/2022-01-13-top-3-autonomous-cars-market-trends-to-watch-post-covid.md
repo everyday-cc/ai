@@ -1,0 +1,84 @@
+---
+category: news
+title: "Top 3 Autonomous Cars Market Trends to Watch Post-COVID"
+excerpt: "Key Prominent Players Covered in the Autonomous Cars Market are Autoliv Inc., Aptiv, Waymo LLC, Robert Bosch GmbH, Daimler AG, Baidu, AutoX, Inc., Pony.ai, Ford Motor Company, HYUNDAI"
+publishedDateTime: 2022-01-13T07:21:00Z
+originalUrl: "https://www.wicz.com/story/45643442/top-3-autonomous-cars-market-trends-to-watch-post-covid"
+webUrl: "https://www.wicz.com/story/45643442/top-3-autonomous-cars-market-trends-to-watch-post-covid"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: FOX 40 WICZ TV
+  domain: wicz.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/22021329_G.png?lastEditedDate=1642040505000"
+    width: 450
+    height: 350
+    isCached: true
+
+related:
+  - title: "Tribal leaders voice concerns about water, voting, COVID"
+    excerpt: "Water rights, the ongoing impacts of the COVID-19 pandemic, voting rights, and infrastructure needs were some of the common issues that several tribal leaders from across Arizona talked about during their visit to the Capitol to talk with legislative leaders about their respective sovereign nations as part of the 27th Annual Indian Nations and Tribes Legislative Day."
+    publishedDateTime: 2022-01-13T19:51:00Z
+    webUrl: "https://indiancountrytoday.com/news/tribal-leaders-voice-concerns-about-water-voting-covid"
+    ampWebUrl: "https://indiancountrytoday.com/.amp/news/tribal-leaders-voice-concerns-about-water-voting-covid"
+    cdnAmpWebUrl: "https://indiancountrytoday-com.cdn.ampproject.org/c/s/indiancountrytoday.com/.amp/news/tribal-leaders-voice-concerns-about-water-voting-covid"
+    type: article
+    provider:
+      name: Indian Country Today
+      domain: indiancountrytoday.com
+    quality: 44
+    images:
+      - url: "https://indiancountrytoday.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg2NjcxMTIyMDU2NDg4NTE5/navajo-nation-president-jonathan-nez-addresses-the-arizona-state-legislature-at-the-state-capitol.jpg"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "AI: A Population Migration Model Integrating Global Climate Change and Covid-19 Impacts"
+    excerpt: "COVID-19 pandemic has bring global economic activity to a near- standstill with countries imposing some travel restrictions on people. On the opposite side, Climate Change affects the flows of migrations and has already started to reshape the world."
+    publishedDateTime: 2022-01-09T10:24:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-population-migration-model-integrating-global-climate-nko-o"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 29
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGogPJcPLJSCA/article-cover_image-shrink_720_1280/0/1609326937890?e=1647475200&v=beta&t=6qfVvD7v3cZDkTxb16Hi_V_rStlw5n-RRTX97ydikrc"
+        width: 1280
+        height: 636
+        isCached: true
+  - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
+    excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
+    publishedDateTime: 2022-01-13T15:25:00Z
+    webUrl: "https://www.azmirror.com/2022/01/13/tribal-leaders-voice-concerns-about-water-voting-covid-19-to-state-lawmakers/"
+    type: article
+    provider:
+      name: Arizona Mirror
+      domain: azmirror.com
+    quality: 20
+    images:
+      - url: "https://www.azmirror.com/wp-content/uploads/2022/01/jonathan-nez-state-house-2022.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Artificial Intelligence for Psychological Health Analysis During COVID-19"
+    excerpt: "The coronavirus disease 2019 (COVID-19) pandemic has spread over 200 million confirmed cases and caused more than 5 million deaths worldwide. Besides an epidemiological disaster, it is also a psychological crisis that presents a serious threat to people’s mental health."
+    publishedDateTime: 2022-01-10T16:15:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/31333/artificial-intelligence-for-psychological-health-analysis-during-covid-19"
+    type: article
+    provider:
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 18
+
+secured: "dtA1l0BeGLqC/fQwazEumL4TGK4OwQU69fSAifAa+Eus1ZhXhhn7em2lJzSFS6r5aKUl892yoQ/5/PsIhBndKpG8hg/sx1RIw/JVHf3aHcgHl21B9SNNkPLM/Da/CpvyLaz+6FQPei1Y9QHv+Myo4ceKarFlrexJt5q8zWcf52bCkoLVJVhNMJdKbenfxSHp8PQ+ygLyC1g2wCP3GhhrQpoQMeoW+gBgaInoprTNb3yG2XOhWBgDgnOeOuep7XvG3Z723xRk9J9Th4uRsaQQhmZdnPHtZvqBdhfPOPHlz268CjuR2JsdyainOpyzptMi3MdYgIiVFImZkiRt/heaP3ikUbfLcuvwK3GJgHZ9RoY=;bclqfvExhuvGMJZvYQiknQ=="
+---
+

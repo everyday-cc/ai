@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Machine Learning as a Service (MLaaS) Market 2022-2027: Industry Size, Growth, Share & Analysis"
-excerpt: "According to the latest report by IMARC Group, titled, \"Machine Learning as a Service (MLaaS) Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\", the global machine learning as a service (MLaaS) market reached a value of US$ 3."
-publishedDateTime: 2022-01-05T19:00:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272109313/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share--analysis"
-webUrl: "https://www.bignewsnetwork.com/news/272109313/machine-learning-as-a-service-mlaas-market-2022-2027-industry-size-growth-share--analysis"
+excerpt: "According to the latest report by IMARC Group, titled,“  Machine Learning as a Service (MLaaS) Market : Global Industry Trends, Sh"
+publishedDateTime: 2022-01-05T20:41:00Z
+originalUrl: "https://menafn.com/1103494442/Machine-Learning-as-a-Service-MLaaS-Market-2022-2027-Industry-Size-Growth-Share-Analysis"
+webUrl: "https://menafn.com/1103494442/Machine-Learning-as-a-Service-MLaaS-Market-2022-2027-Industry-Size-Growth-Share-Analysis"
 type: article
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AI in Finance
@@ -17,11 +17,11 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://cdn.bignewsnetwork.com/cus1642047160623.jpg"
-    width: 630
-    height: 420
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?340447"
+    width: 436
+    height: 249
     isCached: true
 
-secured: "P25x3Okv/cHqAfuh/sKxDTvWhQY8xjJqB9LU1WXV76pQkVrFgde0l239QFwbOzA1MsT5dCTgOONDMAPdYMr3pTwtb2/bE6azzx0NtgyK7rHwwgpwPycnsdxVNgK5PTUYnet215FIPklp0mIVBEHBcrrqL4UXnV5ZQ/Ih0tmpB6biRTBemPqY7bmlyvJVwMvR2CpZX1h9Jq3pJgi3R5cFQcn0ubZKX1JQsw8BPGMb7TBTg91d5UhFAv8BOB4ivD5wSdQZqbAyg6ixu2OPIpMcRfiCbvjjLXXTXFvWy/t8EpM3DqZ2Zlg8Qi0Oss8U+wLuIBol842Wx1l8aFJ0aOkH0tSoLWZT7cpet6dq1UTB6HM=;z0VKFAPceIM5x1vgbVtdww=="
+secured: "LWP/Md7AldRZIDzXoQf6ncLQC9gNyFRRTuw3J6uZ6iAGGRmZB4vbQjSCDOA9zkPQD9HTQsnoE4m8mrlKQtDZX51xpLZGYyyGSU9cOrCMp+qtqDraRDcWNuWOxF3CeTYLpCBKVz9jjYWMKSU5cKmkJxIxeoDKrk4dki/VAtVLHzri7PYCvV91IfaarkGAGOdM37G4bfBj4ooW2HYW5+tBP5HSvIgSLSS9mwLFEAfbnVuaPfu+YCuk5UcN0E8gJHEElx86kvtHVe5aw6TDlqYFy1CvBCMN3G1elY8q99JrRLaN+R5GY1mTxwB+NVCU1Rc5yxpIsWtmPZIvbwsEhP7Vobqfv1GW05y6xUUy7FJ5tc0=;ASd2iEUktYPCkXurEkEYwA=="
 ---
 

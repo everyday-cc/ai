@@ -73,6 +73,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Small Data, AI and ML - Predicting Coup d'état"
+    excerpt: "Can AI / ML spot countries at risk of a sudden change in leadership in a coup attempt? Looks like so. Researchers at the University of Central Florida are working with a system called CoupCast to estimate the likelihood that an individual country will undergo a coup d’état."
+    publishedDateTime: 2022-01-13T21:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/small-data-ai-ml-predicting-coup-d%25C3%25A9tat-srinivasan-sankar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH9jIN-eqMkzg/article-cover_image-shrink_600_2000/0/1642105649075?e=1647475200&v=beta&t=NTT3oVKPm_NoL1Ath2x30jU3i5NdTSge3borhBhIi9E"
+        width: 1080
+        height: 505
+        isCached: true
 
 secured: "NTncA0Fj72wrIF4lrnBRqTflixk+iB2KbG9p4qcblBE9Ksf0Ns4ydPzB3iNnaxblsQNHbqh7xY9nmLHPu5jqu4g5ejPOSkjkSP8GP6k7x2UcZ+Z0HqvLwL70qPWPzOtt7cqFpBKtarFvKKDdW0lfJFoQABV3G/X9Q/g9u8lDYrtsYWJxK84ZbiG4iwtrwidNHmtFb6WNNBts45Thsh4Y3l5m0BKH45axe+YiIuii5Sl07QlPCHVJfC61Ymi+3KgsbOTceftp9j44ql6O8hB+2PLJBW1yrp3fbTrxoLRlim+1Az5OxiajBruI2IG5/Lbghq9pplZk/Zl75aveiMXFzQJGYw8KoeT/YndRYFE1YqxejWPLCN8oUbCIJCf+8YXQ2os7aLnq86dtncbnRooywIvdTER4S+1YXnPycr4ifFcefzQJJrorqzUsTCQVsMLoAIdT2D0FKzqGPadImGx6+caL8CqD5kjAm2iWPdFneBjoRtkU/9adaV4nM1QKW8cQT/uA8PZxmtGENk+qXBohiw==;8H5U6B6x7HihGldeb+a24Q=="
 ---

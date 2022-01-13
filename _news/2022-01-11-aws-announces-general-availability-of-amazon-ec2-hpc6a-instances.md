@@ -1,18 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 Hpc6a Instances"
-excerpt: "New Amazon EC2 Hpc6a instances powered by AMD EPYC processors are purpose-built for HPC workloads and deliver up to 65% better price performance"
-publishedDateTime: 2022-01-11T05:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20220110005933/en/AWS-Announces-General-Availability-of-Amazon-EC2-Hpc6a-Instances"
-webUrl: "https://www.businesswire.com/news/home/20220110005933/en/AWS-Announces-General-Availability-of-Amazon-EC2-Hpc6a-Instances"
+excerpt: "New purpose-built Amazon EC2 instances for HPC workloads deliver up to 65% better price performance compared to similar compute-optimized Amazon EC2 instances"
+publishedDateTime: 2022-01-11T00:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/b24986457/aws-announces-general-availability-of-amazon-ec2-hpc6a-instances"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/b24986457/aws-announces-general-availability-of-amazon-ec2-hpc6a-instances"
+ampWebUrl: "https://www.benzinga.com/amp/content/24986457"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24986457"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -34,6 +36,6 @@ related:
         height: 400
         isCached: true
 
-secured: "s+uERxhRKK7+esNda1aAqwfNEHGzNspoTcSZNyfnPXCSIY3x72ePSgDAhLuaynXn7TRXAtZjA445JT4bNci1ry7/QCViaUyL+YPeKm2RA0EpZj09hgQ7sIQUJ2DaKYZnNL/nwpUIrSivTkwAqLGZLb2dCaGJX3AyTEVLvqEwi3KUtZPorPYqpaKkSTqpNnMr4ltBTjjcZKHQORfEeS3PUFQ1lj44AavZPSdyr+bRAaAYf3GmvzJgk51xqGC5tZ4Bm6ZWDLrG8DVeoNIaiF533t4S4IPJ+Iy4xVUXv7pCOrcnPrXMxwEumcpyej+USOvanloM5+geoBP1kbwA+83CQyB/l81MRrdnS7rJbV1p1xg=;rD8d/kxb3+PgdiSpTpHQew=="
+secured: "DFWXj7BFx2MR5b5SzFBHl9CJq83qI5vDnGLAwusWvoQNvldDwDahqUqqwkazYibSExNLV9p3zGsik3aH08XusYjlD6A5Khx/5iq9KjH35mArQSvfVWRb5mKAu93kVC+XKAJyXdLMPN6WX0Lb4Z23+s4rDnRChM3yZq9C+6r38oK+ZNLIGdQpiaHDzQluybxAsDYS6oY9kh1d6qoDt5Oims1nGJvm4F04RhH/wWQjI4w5gQ1H8y7jC3/OkFR2keZVzk6al5a126W57D+reeqfyp9FUzLIKiVasXouCGIJidBR5Yn669AuoYtHJgvlFi9m5wftJtz10gP6suukfCwqFItRrj65YYAzAWpAVzFSCOA=;MCk0CpnmgM5zHtazhiZVsw=="
 ---
 

@@ -56,6 +56,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Samsung’s Breakthrough In Human Brain-Like MRAM Tech Claims To Excel At AI Workloads"
+    excerpt: "Without getting into the weedy details, MRAM offers the performance of DRAM with the non-volatility of flash memory. It also uses much less power than DRAM. (If that sounds familiar, you probably read this article yesterday."
+    publishedDateTime: 2022-01-13T20:10:00Z
+    webUrl: "https://hothardware.com/news/samsung-brain-like-mram-tech-claims-to-excel-at-ai-workloads"
+    ampWebUrl: "https://amp.hothardware.com/news/samsung-brain-like-mram-tech-claims-to-excel-at-ai-workloads"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/samsung-brain-like-mram-tech-claims-to-excel-at-ai-workloads"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 52
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/57368/content/hero-samsung-mram.jpg"
+        width: 708
+        height: 379
+        isCached: true
 
 secured: "0PsrJ6pbmjQj9y+TxEJAsYkAzi4sQSnzkCjKj/fLbnlluNpqIxtJDrnd6OGWkAZbSsSdkJPv+DWosfzMAg9ZU2Rrhkn8zONXSowTYnSzKkXqfvvP6G6taewNXoMioA5vrrsa4FnzObquTVIbZw7sbpdURalWFXVl29Cne+EaRVsQmExkYptSs1S5tLGXojX9N4bBrQ8bOekNF375nDvFSB/LhX2i9CiHqCtbk36WlRFOuH4AlL73sQ1SYEZfxW6UA9cM4j1rEFmbLOQyKHXOFUfypnB4Yqf6jNrE6/4cI3itsjArvgKxNCcfotOS/vn1bcEHHY7qieenESM44W09QBZozMQxUfRbROpQGskXGFRLFeVHEVXoG0GAWGXrlHuI1HIBNbw1lUoueeJ2fV1z2yTTGAF6AXj6enNjytSOzlHaN+N6yoBZRQgTMpnsQ4j1ria3Vcc4Ak3uCi0IOIzkpSgpiuNXZqZ500pLO5Zz6F6x4wd+KzNgP+htS45XLvA4lz2lPFz4K67QfUZNL6zWyA==;iC/C/tzyuTmVzFw3Mo8TGA=="
 ---

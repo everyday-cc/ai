@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Robot Tractors May Be Heading To A Farm Near You"
-excerpt: "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas."
-publishedDateTime: 2022-01-06T00:55:00Z
-originalUrl: "https://www.ibtimes.com/robot-tractors-may-be-heading-farm-near-you-3369830"
-webUrl: "https://www.ibtimes.com/robot-tractors-may-be-heading-farm-near-you-3369830"
+title: "Robot tractors may be heading to a farm near you"
+excerpt: "Driverless plows and autonomous tools to ... Equipped with six pairs of cameras and artificial intelligence capabilities, the equipment constantly checks its position to the inch, and stops ..."
+publishedDateTime: 2022-01-06T03:12:00Z
+originalUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you"
+webUrl: "https://menafn.com/1103495041/Robot-tractors-may-be-heading-to-a-farm-near-you"
 type: article
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2022/01/05/john-deere-unveiled-the-fully-autonomous-8r-tractor.jpg"
+  - url: "https://menafn.com/updates/pr/2022-01/05/AFP_2b7f0image_story.jpg"
     width: 768
     height: 512
     isCached: true
 
-secured: "USd05b+DL9GTcNRsug+Mxhi8p/LRe0B/bNXHkWZy/3NfgL7blzKH7J7/J1SyG9tUdUSEz1sIFb94WIFOZtPStDQ8ILYNStKJ3ADzXZoQog0eN/rsx3odWGO7KSDG3/0SrNMkJp5ut0qq6Ekf3293fviK1DkaG4rit7EK33i9ZSBFPKy0OG3NOLFNij2h6DNSe5CcnsCFpoHPcITCv3l1wS+xzEgvYjrBRcIaZskdWAx6omY/CkA6X07MnwBPXK+sUdCu7H/TZZy/wJWPnqo3FbCTCiFcV0cWUj9BJZlsdK6Ex4jV2OHMWsCCn7gRAO7mftGlOxIDxpmpBbQqTCuUA+COEL6ywJh6Wg1uBd3SIVo=;OI0Fi1HRUK6xJCqRABQs6w=="
+secured: "CMaWsKNP6dmVxk3bard8pBwwYAATIyPVUEH8kafuBpJo8eQ7kx/jNXEULTXTgcecOpfR5t0BHGV+aQ4DuNC8Tdi78ddYoItQ98EiB2fHyvKY1vvJQFXwBIeWTcCulr3HzoBQ8vYp3TYzBNzNIN446PMLLWh/9U9HXAGvb0if0vHNqZrUWar65UrtTQ7SwJgosKfjB7tgn6vJt2zl+92T87rbuqm8ferDOFeso1vyHeHcMRmDN+WaqPsFJSnqopZyHNGWxHqMwGvCnsgBoU3kVRbTWVqkAegJgsZZFVW8fpWDxoH+carobOLuilJew3PzzKGxvLmMZudU7uAi82jSTM2J5PMLJC/OnRn0HP72pKQ=;Fcf//y0fsPiQJ16KLynIiw=="
 ---
 

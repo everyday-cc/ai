@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25011004"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004"
 type: article
 quality: 66
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -124,6 +124,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/DemoDay%20-%20Amy%20Intro.jpg.png?itok=C_xELvbZ"
         width: 1200
         height: 630
+        isCached: true
+  - title: "AuthBridge fintech Fintelle adds biometric liveness detection, voice authentication"
+    excerpt: "Fintelle has updated its technology suite to include voice-based authentication and face biometrics liveness detection capabilities."
+    publishedDateTime: 2022-01-13T22:05:00Z
+    webUrl: "https://www.biometricupdate.com/202201/authbridge-fintech-fintelle-adds-biometric-liveness-detection-voice-authentication"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "zJRAYS/6RJiz/Mv5PJgP8gOxxLPaliXU/hFQPUrT9U2cwCxXqHy/V7o2S4JGJtkvFPBEsr0dqbThLhmvqpWr9ZutWzLcVRSP73aTsG86Hj+y7ysv4K3+Yrinrc8xPaTLkoAHabJFWBliM5BHixcluFwzpucN3nR6a/lGBBS0IFwWO/DJ4B/pXYc9LA5NqufeKOV95CscCSj5puXIKXD9WHN7Yl3ERoqXwc9RjITpkl+4O3YDmZrVyZhxgCV+6BnsQ005BFtOCyxEo37gb5Fok5PmQZ5N1eXLuDBddACbhneZ//9bpn/88vVZ5dtzoQFp6Uu3UKTqkkwCoSgHGFr4D/raX6DCfqVD5uKy9dZ/8Szb/ileLWsJp6EKJm0R1KuE9zd436aNOh/+2xLr8hNqAB5kCwQiB3ryYNvgnkGf/Ac2AW1CVamqPooBoTMpfJ8H29sH9CBlBDvX6klcZ9RmnCVYd3lZvOgSnsC+VPUiMFvC8K34IHz7GyYKcNu5WGixNFFAPDzi/FHl9QnhhjShiw==;guOTf4wOepu/MLUS4Mv3CA=="

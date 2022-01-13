@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/01/Karthik-headshot.jpg"
         width: 750
         height: 422
+        isCached: true
+  - title: "Small Data, AI and ML - Predicting Coup d'état"
+    excerpt: "Can AI / ML spot countries at risk of a sudden change in leadership in a coup attempt? Looks like so. Researchers at the University of Central Florida are working with a system called CoupCast to estimate the likelihood that an individual country will undergo a coup d’état."
+    publishedDateTime: 2022-01-13T21:22:00Z
+    webUrl: "https://www.linkedin.com/pulse/small-data-ai-ml-predicting-coup-d%25C3%25A9tat-srinivasan-sankar"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH9jIN-eqMkzg/article-cover_image-shrink_600_2000/0/1642105649075?e=1647475200&v=beta&t=NTT3oVKPm_NoL1Ath2x30jU3i5NdTSge3borhBhIi9E"
+        width: 1080
+        height: 505
         isCached: true
 
 secured: "/jkgM8LBgmb/QnK5M8gZ0N1MiBskOZ4DkRizjIc3QfQ2u4/7ohQDGthhm2m1V3x1QQijTTf25mjQ87+nI0XBsT7jo0ysMbRA5skgtJm7tMu8og08l7lD3hpvHuei7QiypS8ak7IAuC3X+ch7ySPu9W+YEmJQ+h9d/XbV0C5DQ4BzusZaRxHrfBbcMAzHfJB39OoFL8+R8TCnTL6EXSLYr/9F94tWG2Wp+6C+fxtvgZtbwrnKWFQ93t9UK0WH2VHW/HmSTdLK6keeMqUBvpHwKjinvqNfU2bZ+rADRJ7ZEjmbhTBFaPAIPo+jF8aqYTiz0wkJsH7GSEnDMfwnINhSrBuTL5MFCauWacTPD4uhWr3hnpEGyx5O1DnUb8exOw3O+Kl48oEshFTomZQwNihypf6FGsg2MEAEp6kDq5JLtAQjyV/i8BnmN+x6a9faCp7kKLu2WZoT54JmWaN1lLvUjq4NKtvVPDcVpzA7aB4dAjduZopMzeAzzKrmF/gTgEKuloqSs6PtP+ckhi7FOy2Tcg==;dntJvXrqgDV64Q43Vwfy3Q=="

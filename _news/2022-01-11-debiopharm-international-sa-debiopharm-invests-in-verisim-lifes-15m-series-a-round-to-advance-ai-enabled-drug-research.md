@@ -34,6 +34,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Workplace Intelligence Security Company Shield Gets $15M Investment"
+    excerpt: "Shield, the Israeli workplace intelligence platform for compliance firms, closed a $15 million Series A funding round, the company announced Thursday (Jan. 13)."
+    publishedDateTime: 2022-01-13T22:14:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2022/workplace-intelligence-security-company-shield-gets-15m-investment/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/workplace-intelligence-security-company-shield-gets-15m-investment/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/workplace-intelligence-security-company-shield-gets-15m-investment/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 59
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/investments-funding-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "DEBIOPHARM INVESTS IN VERISIM LIFE'S $15M SERIES A ROUND TO ADVANCE AI-ENABLED DRUG RESEARCH"
     excerpt: "Debiopharm (  ), a Swiss biopharmaceutical company, announced today their co-investment in California -based start-up VeriSIM Life's $15 Million Series A Round to advance their mission to accelerate drug development via technology powered by artificial intelligence (AI)."
     publishedDateTime: 2022-01-10T18:35:00Z
