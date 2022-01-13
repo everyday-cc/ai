@@ -28,14 +28,14 @@ related:
   - title: "The US Army sees a future of robots and AI. But what if budget cuts and leadership changes get in the way?"
     excerpt: "Four years into Army Futures Command, experts say the effort is on track, but they warn that leadership changes, potential budget cuts and a few contracting and technological hiccups could put it at risk."
     publishedDateTime: 2022-01-12T21:11:00Z
-    webUrl: "https://www.airforcetimes.com/land/2022/01/10/the-us-army-put-experimentation-and-prototyping-at-the-core-of-its-modernization-initiative-is-it-working/"
+    webUrl: "https://www.marinecorpstimes.com/land/2022/01/10/the-us-army-put-experimentation-and-prototyping-at-the-core-of-its-modernization-initiative-is-it-working/"
     type: article
     provider:
-      name: Air Force Times
-      domain: airforcetimes.com
+      name: Marine Corps Times
+      domain: marinecorpstimes.com
     quality: 36
     images:
-      - url: "https://www.airforcetimes.com/resizer/4Ia3JMNdxDUWE9VFZ7pncFrSVnI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BAH43C34Y5FLPNRYXYXBVDFRAM.jpg"
+      - url: "https://www.marinecorpstimes.com/resizer/4Ia3JMNdxDUWE9VFZ7pncFrSVnI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BAH43C34Y5FLPNRYXYXBVDFRAM.jpg"
         width: 1024
         height: 683
         isCached: true

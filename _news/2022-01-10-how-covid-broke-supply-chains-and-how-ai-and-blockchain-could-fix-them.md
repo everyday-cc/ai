@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-01-covid-broke-chains-ai-blockchain.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-covid-broke-chains-ai-blockchain.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence May Help in the Fight Against COVID-19"
+    excerpt: "Novel machine learning framework could alleviate the work of radiologists by providing fast and accurate disease diagnosis. Click here if this is your press release! - eTurboNews | Trends | Travel New"
+    publishedDateTime: 2022-01-13T02:30:00Z
+    webUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 54
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/01/A-HOLD-FreeRelease-1.jpg"
+        width: 557
+        height: 386
+        isCached: true
   - title: "Blockchain and AI – The Future of Data Processing"
     excerpt: "We are already living in a world with many AI-enabled uses. Artificial Intelligence is anticipated to disrupt industries as a whole. We have cars designed completely by AI, many factories are completely autonomous because of them,"
     publishedDateTime: 2022-01-12T18:58:00Z

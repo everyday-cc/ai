@@ -99,19 +99,21 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "The consequences of self-driving tractors and upcoming AI laws are discussed in this week’s AI Weekly"
-    excerpt: "It and – self-driving tractors like it — might help solve the developing labour shortage in agriculture, as Wired’s Will Knight points out; employment of farm employees is anticipated to expand by just 1% from 2019 to 2029."
-    publishedDateTime: 2022-01-08T09:20:00Z
-    webUrl: "https://bestgamingpro.com/the-consequences-of-self-driving-tractors-and-upcoming-ai-laws-are-discussed-in-this-weeks-ai-weekly/"
+  - title: "Self-driving trucks are hitting the roads"
+    excerpt: "Studio17’s Ilyana Capellan talks to Daniel Geoulla from B& D Law Group APLC about the autonomous vehicles that are hitting the roads and making the news. Geoulla projects that things"
+    publishedDateTime: 2022-01-13T01:30:00Z
+    webUrl: "https://www.kget.com/studio17live/self-driving-trucks-are-hitting-the-roads/"
+    ampWebUrl: "https://www.kget.com/studio17live/self-driving-trucks-are-hitting-the-roads/amp/"
+    cdnAmpWebUrl: "https://www-kget-com.cdn.ampproject.org/c/s/www.kget.com/studio17live/self-driving-trucks-are-hitting-the-roads/amp/"
     type: article
     provider:
-      name: bestgamingpro
-      domain: bestgamingpro.com
-    quality: 24
+      name: KGET.com
+      domain: kget.com
+    quality: 44
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/01/AI-Weekly-The-implications-of-self-driving-tractors-and-coming-AI-regulations.png"
-        width: 600
-        height: 375
+      - url: "https://www.kget.com/wp-content/uploads/sites/2/2022/01/snapshot-19.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "wA5kI5QslPFuDWv/440VA4JlzwC1Mf0BiSF/GaSOdMkAcmHdm199DLMeXNn8yFjYChiPx0ibGY7fRvEUATNZqjfqHF4JvLZw03Q4PnvjAzjl4LYXxZdCSY7ZqAKt9vic+B0O2H5Jy9V8dbZynrR0nECJce2wipHVDxcnf67TpQSjkV9tRWW69tManBfeVx/5zt/dMtMbF9ZUphYxfQH5QFYdnecSvpWiHPMt4MtwGWHdAh128k3WBTU1JfM4w9MQ3bVLixEhbCEIjHpgyP+y5uhS9iuPE5AhP7OeNcYYFJ08ObfgFFdEDaZ4SB4mMYv+rxcNWE4Y85BZY7dYOCumGet1J6WHY5xizqNgSGznHgw=;enQsHUM0J7LRxkFwkvW2eg=="

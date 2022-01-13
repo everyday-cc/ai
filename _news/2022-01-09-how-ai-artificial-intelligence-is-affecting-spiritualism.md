@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/how-ai-artificial-intelligence-affe
 webUrl: "https://www.linkedin.com/pulse/how-ai-artificial-intelligence-affecting-spiritualism-vijaye-beeharry"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -21,19 +21,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Living on the Edge (AI)"
-    excerpt: "We are living in a hyperconnected world, where every device is connected, and are generating data at an unprecedented rate. If we look at a smartwatch or a smartphone, smart cars, smart factories, smart homes,"
-    publishedDateTime: 2022-01-08T10:13:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/living-on-the-edge-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/living-on-the-edge-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/living-on-the-edge-ai/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 37
 
 secured: "OoXSTjNCFXYWZY2ZePDW8IzHNIf1EMSNXOizTneKSCz3Im/DFpsA7HFun5MSqu7Ij7YhlFjVAj/2f/t8F8UuFQTD5Hk8aQP6KAxyY4puScsYc3XrBmdmDO/H5GxyX2zK0yLL5lYq2fHoN0OqagksQ+2Nj1Ki0lUvAcoA+ZBLDgwATbng6O5EwpA87ZzFcMDAUDueCAk8j6bwLpLjRDqdGqUtox2HbDgVNdHmjm+DHe80d9Iylc8SX2kev3A5xl/2QTGlIC94tELnpIOFyNYpTlowY5ss90PwSKe7ToUOiJ1zs4Ydjmk+2fuN6CW+gzp9NLNDv6/YaMX9m+h4tnKMippLLFWbI/PACqn86IQqKO0=;IqMEUzOj2+CW1GXK/KXSoA=="
 ---

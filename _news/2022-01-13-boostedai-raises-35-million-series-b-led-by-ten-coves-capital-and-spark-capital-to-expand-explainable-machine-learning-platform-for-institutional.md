@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Distributed machine learning startup Boosted.ai raises $35M"
+    excerpt: "Distributed machine learning startup Boosted.ai revealed today it has raised $35 million in new funding to scale up its web-based platform that brings explainable machine learning tools to investment managers."
+    publishedDateTime: 2022-01-13T01:49:00Z
+    webUrl: "https://siliconangle.com/2022/01/12/distributed-machine-learning-startup-boosted-ai-raises-35m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/boostedai.png"
+        width: 722
+        height: 366
+        isCached: true
   - title: "Spark, Ten Coves Back Boosted.ai With $35 Million to Expand Asset Management Software"
     excerpt: "Boosted.ai, a provider of artificial intelligence software to investment management firms, is raising $35 million in a series B round led by Spark Capital and fintech investor Ten Coves Capital. The money will be used to build Boosted Insights,"
     publishedDateTime: 2022-01-12T16:04:00Z

@@ -20,21 +20,14 @@ topics:
 
 related:
   - title: "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner"
-    excerpt: "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner GlobeNewswire January 12, 2022 Company announces Cellebrite Guardian is available on AWS, part of"
-    publishedDateTime: 2022-01-12T12:00:00Z
-    webUrl: "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner"
-    ampWebUrl: "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp"
+    excerpt: "Company announces Cellebrite Guardian is available on AWS, part of the Company’s industry leading investigative Digital Intelligence platform. Customers can now harness the powe"
+    publishedDateTime: 2022-01-12T12:05:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-cellebrite-joins-aws-partner-network-as-an-advanced-/2022/01/12/9524624.htm"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 59
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/Notified-GlobeNewswire-Color-Large_67.jpg?itok=_uosp_3H"
-        width: 763
-        height: 509
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "Cellebrite Wins Significant Open-Source Intelligence Solutions Customer Contract"
     excerpt: "Cellebrite (Nasdaq: CLBT), a global leader in Digital Intelligence (DI) solutions for the public and private sectors, today announced that it has won a significant Open-Source Intelligence (“OSINT”) customer contract following the Company’s acquisition of Digital Clues in November 2021."
     publishedDateTime: 2022-01-10T12:10:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-12T12:06:00Z
 originalUrl: "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe?source=collection_home---------1-------------------------------"
 webUrl: "https://uxdesign.cc/daring-more-raw-ai-ness-a-critique-of-personified-voice-assistants-a700ec8cc7fe?source=collection_home---------1-------------------------------"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://miro.medium.com/max/1200/1*aL6JXr0isbYlFpddX1l0ZA.png"

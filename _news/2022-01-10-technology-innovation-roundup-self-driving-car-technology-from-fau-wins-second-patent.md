@@ -51,21 +51,21 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Self-driving race cars zip into history at CES"
-    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas Friday in an unprecedented high-speed match between self-driving vehicles."
-    publishedDateTime: 2022-01-08T10:10:00Z
-    webUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.html"
-    ampWebUrl: "https://techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-01-self-driving-cars-history-ces.amp"
+  - title: "At this autonomous race car competition, these speed cars are programmed to drive themselves"
+    excerpt: "The Indy Autonomous Challenge is no ordinary race car race. Recently, I attended the event at the Las Vegas Motor Speedway, which has teams from all over the world building and racing cars that"
+    publishedDateTime: 2022-01-12T13:19:00Z
+    webUrl: "https://ktla.com/morning-news/technology/indy-autonomous-racing-las-vegas-speedway-ces-self-driving-race-cars-first-person/"
+    ampWebUrl: "https://ktla.com/morning-news/technology/indy-autonomous-racing-las-vegas-speedway-ces-self-driving-race-cars-first-person/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/morning-news/technology/indy-autonomous-racing-las-vegas-speedway-ces-self-driving-race-cars-first-person/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 44
+      name: KTLA
+      domain: ktla.com
+    quality: 33
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/self-driving-cars-race.jpg"
-        width: 1024
-        height: 682
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/01/E6CA7FEC-E95F-4D2B-A708-755D831E9DAB.jpg?w=1280"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Friday (Jan 7) in an unprecedented high-speed ma"

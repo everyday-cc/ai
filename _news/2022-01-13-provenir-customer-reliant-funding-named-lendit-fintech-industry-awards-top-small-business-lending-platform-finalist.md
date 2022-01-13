@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Provenir Customer Reliant Funding Named LendIT Fintech Industry Awards 'Top Small Business Lending Platform' Finalist"
-excerpt: "LendIT Fintech Industry Awards honor the world's leading influencers and innovators in 14 unique categories. Reliant Funding was named a finalist in the \"Top Small Business Lending Platform\" category,"
-publishedDateTime: 2022-01-12T17:15:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-provenir-customer-reliant-funding-named-lendit-fintech-industry-/2022/01/12/9525217.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-provenir-customer-reliant-funding-named-lendit-fintech-industry-/2022/01/12/9525217.htm"
+excerpt: "Nationwide provider recognized for excellence in supporting more than 10,000 small businesses with fast, flexible funding Provenir, a global leader in AI-powered"
+publishedDateTime: 2022-01-12T16:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/b25022101/provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/b25022101/provenir-customer-reliant-funding-named-lendit-fintech-industry-awards-top-small-business-lending-"
+ampWebUrl: "https://www.benzinga.com/amp/content/25022101"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25022101"
 type: article
-quality: 0
+quality: 1
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
@@ -34,6 +36,6 @@ related:
         height: 450
         isCached: true
 
-secured: "ByloRyfehN/3SsmC3/Loo0rNE5Q/VpOzF2bfiALSTXuhxmojXJsInJ8dNUYTg7rKgYhKBVWRDQ31q/b2sYLl9DzFlHR3vGDrfa3u03uyxgQ6pRAySnSYnRtc85zVYg4vbxkpwXvpJbPDJUxOTR5IFY2pzdPrjIbWsQdbghjJ5A3CV5yEDVTT/Ow43qaxZnGs8RaeWHl5nvEyEUa72X/8icJdiRaqxlrUZg81EN0ZTPamB5AkPXtctDVePNzYnjnT+cTMG8DUlLg+MxqTtJ+lCZ33fMQgbBRqWK74TTBrrD7z3T3NvkDDl4q3wg28kN6XDB1eucQa/OB3Ktgi4AJDKsHOnmq7vE+dCWXSfoD6Q/A=;zSEnt1gbhiwqCFgHALL/zQ=="
+secured: "nj7NcrSJc2aHcDBPDYNoYk406a+v8goyfvdpS5SE+GWfHOV9net1Tiie9jypgbNYfH/94tXuxaG1GtC9iOgt0cFhHvYJdxf62DIGF/P39EyYokvlwNm9uUxpTvqb3XW2ePRGdiagi1UTU+EmhYQ/uJmJ4BlPO6ViRqoRNH6feWEohvJ1eg6LGH5CDV+oIGzPNlkJMWJDfMBOh1ykHsD/sc0f0qvhmhZ6gvt7Vix2vZf0XOSg9yB04u52dD1cB6mhjEzuU5cUdyu5xRCGV7zldOm4BWOLdpJsENWFXSt36AwKIwd5vnOadYMlYOo3da7V98R1rZx3wCegDBoVqwzkUOGSq2+13Bg1p1HeIoD020s=;jlA/J1VnpWjFQq1vb0SqIw=="
 ---
 

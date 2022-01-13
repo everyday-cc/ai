@@ -7,7 +7,7 @@ originalUrl: "https://www.bloombergquint.com/markets/spark-ten-coves-back-booste
 webUrl: "https://www.bloombergquint.com/markets/spark-ten-coves-back-boosted-in-35-million-funding-round"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Distributed machine learning startup Boosted.ai raises $35M"
+    excerpt: "Distributed machine learning startup Boosted.ai revealed today it has raised $35 million in new funding to scale up its web-based platform that brings explainable machine learning tools to investment managers."
+    publishedDateTime: 2022-01-13T01:49:00Z
+    webUrl: "https://siliconangle.com/2022/01/12/distributed-machine-learning-startup-boosted-ai-raises-35m/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/boostedai.png"
+        width: 722
+        height: 366
+        isCached: true
   - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional In"
     excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Series B financing round, led by Ten Coves Capital and Spark Capital."
     publishedDateTime: 2022-01-12T14:00:00Z

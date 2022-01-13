@@ -1,24 +1,45 @@
 ---
 category: news
 title: "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform"
-excerpt: "Cogniteam integrates NVIDIA Isaac GEMs into Nimbus, streamlining robotics from development to deployment leveraging the NVIDIA Jetson platform"
-publishedDateTime: 2022-01-11T22:13:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/"
-webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/"
+excerpt: "Cogniteam today announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development and deployment platform, allowing cloud-enabled deployments to use NVIDIA technology for the first time."
+publishedDateTime: 2022-01-11T21:47:00Z
+originalUrl: "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/"
+webUrl: "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/"
 type: article
-quality: 19
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: insidebigdata.com
+  domain: insidebigdata.com
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
+  - AI in Robotics
+
+images:
+  - url: "https://insidebigdata.com/wp-content/uploads/2022/01/Cogniteam_Nimbus-Screenshot.jpeg"
+    width: 700
+    height: 390
+    isCached: true
 
 related:
+  - title: "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI"
+    excerpt: "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development"
+    publishedDateTime: 2022-01-13T01:49:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/22443-cogniteam-s-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 55
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/7827149b6074de43d8f06fef9ab86bcb.jpg?t=20220113_014842"
+        width: 752
+        height: 408
+        isCached: true
   - title: "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform"
     excerpt: "Cogniteam integrates NVIDIA Isaac GEMs into Nimbus, streamlining robotics from development to deployment leveraging the NVIDIA Jetson platform <br /"
     publishedDateTime: 2022-01-11T13:44:00Z
@@ -34,6 +55,6 @@ related:
         height: 797
         isCached: true
 
-secured: "Djqz/ya0RY7g3tv+cDiEkrbvXfrsIC9+kSV6KOvWvZv9R5S3UNouznexYJ5s4V5GJ+7s4Dxja+NUoIiWp+LtWxGt50Gx1Ttd3Hg0qGw5cRpwFEtPlzh4DyXq3v7O71spOcCPID0hwgGtCrswr3qQCYudGdaXDGH3Mb3IsMR4sRSas3UZvqLgAbtJsq3WiBMyvDUVFjR7M6PB+nvlXncAhJk16vWiVNpJVpgRSn+s0uhicZOJUjQDSnfUcWdXHrZ6koD7v6anekz8bZ+UzPZ0De2U8OxcOT1nDg4LHFCHvEXFG/H4SkXt+Dc8kkh/jfToLjOlrNCFg0NfdYgxgckAf5wxIS5/PZUVmo7Khim9p4c=;VZImOsQAGYiMkJrc9z+8xg=="
+secured: "JNevPiXObIltks/eYM7DpCT3+ggH8ZWU+15DHWHPixtJ3GmXPzyZS9E3d68flF2lsesBSa13W7Zj7LQcuNFChzJLcm9wpA5bl2/nhP0uCUnuSlR5u8Rj4zy7+GfSiTOpa3VxzUywfjITn5+VOTlO5SpZ96s6YlNcg7DpCtXr+3nCXUptRW1OWYBlpH1bdZ2uwjXhR9I7MC5EcKlMBqDHZ5fSbGSf1MXxuCcJKXNtQGbh2NbkwSzLquRSPvn0DI5A1vta5XDIQVPQhC0GEH62N+Fgt0bYS/qV9UPmM4+JjdJIQhM5Ip7frd+Wqa2nHQ3liV5zBbf3gNvD7kpOKy6YOmJW+4V7G2l1RnlJBkIyVyU=;wBaevb6c1wRRmC3O61/v1Q=="
 ---
 

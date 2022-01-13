@@ -40,6 +40,20 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "Artificial Intelligence May Help in the Fight Against COVID-19"
+    excerpt: "Novel machine learning framework could alleviate the work of radiologists by providing fast and accurate disease diagnosis. Click here if this is your press release! - eTurboNews | Trends | Travel New"
+    publishedDateTime: 2022-01-13T02:30:00Z
+    webUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 54
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/01/A-HOLD-FreeRelease-1.jpg"
+        width: 557
+        height: 386
+        isCached: true
 
 secured: "kF7kPrM/qDkhIdqEj1asn4stLgFO5Y7pB9mD0ZKoDtsVeF2LLz4B1P/B16vNyx48I4tedChjUIQtpoq7CkTiKs9uzGr8fEkVQHfwi8lAf8VLrGzOoDhcMm4f87RX+CHYW3uNUEmXVVOEAfUTPJ3JtgI2UIUvFQ7YaGf2pGJ12z8ZHJvyhVI6BciYgIyjP6wioaVXfdBANRJORqLtbiS6CIaS307rGgLtUVtqIRC+KSO9uG0I0Y6WACemlaOWSJrCfu71Hm36I4R+UUA4k/4flhBJHNllg5RGeDkCJX9Qej1ZceB6jLF7vKCwpdBDjNf4xzIMqqSpRRPJV28wkMHSbzGdzASB9ey8+ldCLsLdFFY=;qzlTol/SOhP7MmQdrSpacw=="
 ---

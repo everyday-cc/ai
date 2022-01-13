@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner"
-excerpt: "Cellebrite Joins AWS Partner Network as an Advanced Technology Partner GlobeNewswire January 12, 2022 Company announces Cellebrite Guardian is available on AWS, part of"
-publishedDateTime: 2022-01-12T12:00:00Z
-originalUrl: "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner"
-webUrl: "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner"
-ampWebUrl: "https://www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/cellebrite-joins-aws-partner-network-advanced-technology-partner?amp"
+excerpt: "Company announces Cellebrite Guardian is available on AWS, part of the Company’s industry leading investigative Digital Intelligence platform. Customers can now harness the powe"
+publishedDateTime: 2022-01-12T12:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cellebrite-joins-aws-partner-network-as-an-advanced-/2022/01/12/9524624.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cellebrite-joins-aws-partner-network-as-an-advanced-/2022/01/12/9524624.htm"
 type: article
-quality: 59
-heat: 79
-published: true
+quality: 19
+heat: 19
+published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Jan2022/Notified-GlobeNewswire-Color-Large_67.jpg?itok=_uosp_3H"
-    width: 763
-    height: 509
-    isCached: true
 
 related:
   - title: "Cellebrite DI Ltd: Cellebrite Joins AWS Partner Network as an Advanced Technology Partner"
@@ -46,6 +38,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "XUFoPE6Q21TCDY/Y6qlDbynfD5xvvaPx4LUT/8QC31dRQ1srksv64HZBdlhvPDzJfVzR/srqTrra4O1nmb/zkai04ymqsEJvYm1MFo744Bm3RRGCGAO9MS+UcTaVel166TTlWrYN6U1D5wfuuySBL+z97F+xYGIz57/kv360hTfymQFj2WUgsP5YH9/elTFyOQe9MAgssZ0tSqE8K1Wsk9lmWf7p8xTSvSKDI46L4LiMxt/BRbNGj4bShizmdaR+YK4K8yspsQeRuuqytBrLZw8DjFDfV0zsEM+OMINQTteOCET+MmnEr/3L121RT1NhZiIUNLZ0dOP/s1VkXnYQ+TGEdKkBjhzsSlpKiTT4+QRZueHR8qLlAmnItiuNBzSteL4gX7p5aGSyu+1gC384A5wThYiXgsIRjw8EnKmGFULC/3BB9k7ss/GibStWyNP4/owYz9a/lHXiq36oUv1+e5gfP9tBVGomTSEHubQOg8V1lhdy+Ax5lm4Vp08sead/kFLcehjz4i5eEenCOSGDBA==;WucXQzql/3dmvz1Xb6vG6A=="
+secured: "KI0wsBud/+3uMDOC8xkfv9zb3DKM2uLKy4L+qwjt+mNkIIYp2vlwjGh9uybpGBIK5TPoMbGXRhQB9B833lmPk5hTHGBMDv2K17api2bpbVJ+ThvOAalOCC838s/TOVuLdx7yLH1ZglMAJ0NmwsluoKu7zIqaLPfrU3Mltv7QJZ4IX9Dye2tQUpiql86ZS3/5x6+V6HCwPZ5/iMkSsohOCUm52kgQY9qNnIhAIEYoKn6E64c7aAI7Lldq2jzt/kLhVB6NjGO6hEZsQW3dCZrhxNjfcFX2jyZCNjsJwk1BjVbK3wenuAUkWHxzN5Zpxvt3FOw588m+wyUhetwz+XegvIEidCdgGQsmb5hfXt6Ry8Y=;1C5pu+4/TKSJVqdDBpau0g=="
 ---
 
