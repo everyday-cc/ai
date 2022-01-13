@@ -1,29 +1,27 @@
 ---
 category: news
-title: "California DMV to review Tesla's 'Full Self-Driving' and other technology to determine software's future use"
-excerpt: "The review could carry major implications for the company which has deployed beta software by that name to more than 12,000 vehicles on public roads."
-publishedDateTime: 2022-01-12T13:32:00Z
-originalUrl: "https://www.detroitnews.com/story/business/autos/2022/01/12/california-review-teslas-self-driving-determine-future-use-tdn/9184216002/"
-webUrl: "https://www.detroitnews.com/story/business/autos/2022/01/12/california-review-teslas-self-driving-determine-future-use-tdn/9184216002/"
-ampWebUrl: "https://amp.detroitnews.com/amp/9184216002"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9184216002"
+title: "California DMV to review Tesla’s ‘Full Self-Driving’ and other technology to determine software’s future use"
+excerpt: "A DMV spokeswoman said the department had notified Tesla of the review, which is separate from an evaluation of its use of the term \"Full Self-Driving.\""
+publishedDateTime: 2022-01-12T05:26:00Z
+originalUrl: "https://www.washingtonpost.com/technology/2022/01/11/tesla-dmv-fsd/"
+webUrl: "https://www.washingtonpost.com/technology/2022/01/11/tesla-dmv-fsd/"
 type: article
-quality: 40
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: Washington Post
+  domain: washingtonpost.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/04/20/PDTN/766b09c5-25eb-4df0-a8df-153f952d5296-BIZ-AUTO-TESLA-CRASH-REGULATORS-DMT.jpg?auto=webp&crop=2122,1194,x0,y106&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XJW5RITSX4I6ZITNDQQ4C2Y4SM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -473,6 +471,6 @@ related:
         height: 492
         isCached: true
 
-secured: "cO9YdL5wPGYXPoV+J1d7IdsDe9uQyNSLduTN0FkoXPLfXKLeADooeT/AUHJ4di+pgSYy9y8WL1kR5oGyZIQuPve4t+oyk4vbZHfCGggE45RG93fWtpMkpKK2T5+qMD9F2jhM+6ZTCAwBx9zjnqyB5mL38JxgJTo8j9Y0vrz98chgLpE+/S2/oFrgQv5oAkPr3ICVSiWp2YgWHkzOJ/W6GPCiTwLpuut7EnLsGdn8A7bIN3ziI/Qd5C60wkgxTXcpP1EMUPNoRKqOvY/Ta1AEmOYgfKrA4Cl4MuqNg4iAREuN3bJuo5sVuLVAs62gE4tBy4F3MknbusmBRv0r8Z64+37sDsSN84CqylXqzuXGoLsMEOpNOj8JpcaMZMvs79FOH4+n/82u0Cy0QP/yYU5PHFVTuQAoS0mfHsfxA2Z+KekasnqXtCMCOxUrfyIevndIDJ+62SvrTz5fP/kcOiLOGEZRILyKpJeag/C0DXhLe7vm9l2849LbkRMpAp/yHRa/NoU+f4BIad7+Sux6TTVkmw==;8DcVornSeM2CYdw4x/Gt0w=="
+secured: "4Ek7F1zwEUa5m3zYw0jylqYQLjd7c0LvazHVE8PR/y0KYhw1y6y536JSmsGisBrL9F1BinYYnTk1PgaOPvH4swzKElVbZKrY/ipYBu1obrAKD4iy8Ww3r2j7Q+dYzY0312wng9NxwAwcbEtudliVLYyLS69NW/5qqPWW0/lHM56Ll+ijNTELsg+k5O2m8/yGLRhdVbsD6x2nF2UEIRSQJ1VQNVoai0BT4El3XGeBB3antvpkIlePftz7E51VH686R2li60+AfxApNd+EJhBODOwwPU2xT9M9Zw1+cndg+LJ9PTA1AY4K8j0N1pNHbuNzBajg1+ICefj7Mr9rXbPsScQdyGESCkrxJkda/8pBLwo=;w1H98yK+2iZ3Zv7p5fpo1g=="
 ---
 

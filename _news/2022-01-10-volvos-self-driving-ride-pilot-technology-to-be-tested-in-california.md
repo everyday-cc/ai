@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "Xpeng Motors invests in lidar company to bolster self-driving tech"
-    excerpt: "Xpeng Motors led a investment in Zvision Technologies, a Chinese startup that makes lidar sensors for self-driving cars."
-    publishedDateTime: 2022-01-12T03:08:00Z
-    webUrl: "https://technode.com/2022/01/12/xpeng-motors-invests-in-lidar-company-to-bolster-self-driving-tech/"
-    ampWebUrl: "https://technode.com/2022/01/12/xpeng-motors-invests-in-lidar-company-to-bolster-self-driving-tech/"
-    cdnAmpWebUrl: "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/12/xpeng-motors-invests-in-lidar-company-to-bolster-self-driving-tech/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 44
-    images:
-      - url: "https://technode.com/wp-content/uploads/2022/01/172121708_m.jpg"
-        width: 2365
-        height: 1774
-        isCached: true
 
 secured: "3OQI3igUYtY12sD0W0Jdj3a+bqITUVJIiJ7fDP7qpQ+bxUKRBIOJ6iz3jaTM0CNLB+UKyFGCYoUBtNv47hyC991FBbJwlI785fJRAcZx0Dc/6qVI5nqQ2y0ywXXlqgXwtAEC+Vlo2F/+kWuCvREzs1b5jvQaRb0x9DpWJzqEttA8fqI9K+QiEUsEwsYaAwHf5FHK3ZAOwQJCu66Z4Kkp4pVYciGJlqvUCMATGxwVkvolZ6V0GDvOIuqEIsdaKpHedfYfnGrlDzI4ksQjohq+P4qK3OkcyrabhofcmAP2UgNmWAfZaQhJl+fEU5aoYR/kpOu4X7pyW/091fp3ggjbtfL+7uLLQiuLPGCm8no4Gf77vIGjHR6b8GM+mGU+fZ1a5N4JeNY5GRis7Hy0l0NtdQg5x4TcvpRT63teLiavh8fsCA7O3lhVrojvAwqIru5gMGDK6aUWO5GWNT5xyMWs8xmVqSmafHMPCWqhBP7V6Kj0c7cSmRPIasNlZz69tDaMaukRB6aMXhUY2om116fBvA==;qxj6w9Dm7Qp6KYT/zLzMSw=="
 ---

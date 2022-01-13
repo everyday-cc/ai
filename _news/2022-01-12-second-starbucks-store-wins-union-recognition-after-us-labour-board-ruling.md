@@ -41,6 +41,22 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Taliban regime fit for international recognition: says envoy"
+    excerpt: "KARACHI: The Taliban government representative in Pakistan said on Wednesday, the regime in Kabul had “all the requisites for its recognition” by the international community b"
+    publishedDateTime: 2022-01-13T06:32:00Z
+    webUrl: "https://tribune.com.pk/story/2338510/taliban-regime-fit-for-international-recognition-says-envoy"
+    ampWebUrl: "https://tribune.com.pk/story/2338510/taliban-regime-fit-for-international-recognition-says-envoy?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2338510/taliban-regime-fit-for-international-recognition-says-envoy?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 44
+    images:
+      - url: " https://i.tribune.com.pk/media/images/Taliban-delegation-in-China1627482450-0/Taliban-delegation-in-China1627482450-0.jpg  "
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "yWm9acbUwN+aADK/G/xfg+BjtOlMQLvpnjQpYBlzZfbjMOFnb8T5leLGZjy7kV9E1TusGk4pSLb9YHI+fA88bTVyQCgom6iycWBHzOrtitGb96ZXVticjhs4v1s3bZEznd0zoYC/uYh+PvvkmDdCcPiwTKj6lKxH+QN6FTFqQZsxUJJM8rjMOy659JhC6Fv3CoAfsBA8aU8ic+CpzRFgkx4WB0oRmV4sgbZY3HtSNhS8v3x3Qf9kiYSnJd72anMHcRiFgAVNmPK6+WogNFHBKZk4Q2F9yBl8oSGo52AgwaASiTqokUOmURYP7pDgTaVXasBv8QXib7lkSpmD7dXPSPYWMxEAwmlOoxO6K0kQpuQ=;vEn3eWfMz1/iZ9+wOh3crw=="
 ---

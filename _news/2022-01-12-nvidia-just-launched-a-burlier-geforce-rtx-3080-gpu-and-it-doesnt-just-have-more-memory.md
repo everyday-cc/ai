@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.hothardware.com/news/nvidia-geforce-rtx-3080-gpu-more-me
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-geforce-rtx-3080-gpu-more-memory"
 type: article
 quality: 50
-heat: -1
+heat: 60
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Nvidia RTX 3090 Ti is the GPU we all want – but it’s the RTX 3050 that we need"
-    excerpt: "As soon as Nvidia announced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards, a slew of powerful new gaming laptops was announced by all the big names. If Nvidia can deliver on its promises, it looks like 2022 is going to be a great year for gaming on a laptop."
-    publishedDateTime: 2022-01-08T16:00:00Z
-    webUrl: "https://www.techradar.com/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
-    ampWebUrl: "https://www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-nvidia-rtx-3090-ti-is-the-gpu-we-all-want-but-its-the-rtx-3050-that-we-need"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 83
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/gkrPzGSC3Yn9zTUAUvmGRe-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "The Nvidia RTX 3090 Ti is the GPU we all desire, but we really need the RTX 3050"
     excerpt: "All of the major brands released a flurry of powerful new gaming laptops as soon as Nvidia introduced its RTX 3070 Ti and RTX 3080 Ti laptop graphics cards. If Nvidia can keep its promises, 2022 is shaping up to be a fantastic year for laptop gaming."
     publishedDateTime: 2022-01-08T21:20:00Z

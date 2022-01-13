@@ -7,7 +7,7 @@ originalUrl: "https://www.indianweb2.com/2022/01/orai-robotics-raises-inr-65-cr-
 webUrl: "https://www.indianweb2.com/2022/01/orai-robotics-raises-inr-65-cr-in-pre.html"
 type: article
 quality: 61
-heat: 81
+heat: 82
 published: true
 
 provider:

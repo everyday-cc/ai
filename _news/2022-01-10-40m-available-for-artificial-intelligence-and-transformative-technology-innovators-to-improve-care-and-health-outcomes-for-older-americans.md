@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 813
         isCached: true
+  - title: "Where Do The Chips Fall In The Energy Transformation?"
+    excerpt: "The energy industry is in the first stages of a once-in-a-century transformation. And one of the most important aspects of this shift is that EVs, solar farms grid equipment, and appliances will inherently rely more on digital technologies."
+    publishedDateTime: 2022-01-13T08:04:00Z
+    webUrl: "https://semiengineering.com/where-do-the-chips-fall-in-the-energy-transformation/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/2017/03/iStock-620003738.jpg?fit=724%2C483&#038;ssl=1"
+        width: 724
+        height: 483
+        isCached: true
   - title: "Pony.ai forms JV with Sinotrans to further deployment of autonomous driving technologies"
     excerpt: "Autonomous driving technology company Pony.ai recently formed a joint venture with Sinotrans, part of China Merchants Group and one of China’s leading logistics and freight forwarding companies. The two companies will work together to build a smart logistics network featuring autonomous driving trucking technologies."
     publishedDateTime: 2022-01-10T10:36:00Z

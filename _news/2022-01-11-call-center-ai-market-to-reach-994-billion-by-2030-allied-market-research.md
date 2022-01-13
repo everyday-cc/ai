@@ -68,6 +68,15 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Artificial Intelligence In Drug Discovery Market To Gain A CAGR Of 40.8% By 2025"
+    excerpt: "The incorporation of AI and machine learning tools in drug discovery and development applications can improve healthcare outcomes by enhancing overall efficiency. As per MRFR, the Artificial Intelligence in Drug Discovery Market is estimated to gain a USD 2,"
+    publishedDateTime: 2022-01-13T07:13:00Z
+    webUrl: "https://www.medgadget.com/2022/01/artificial-intelligence-in-drug-discovery-market-to-gain-a-cagr-of-40-8-by-2025.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 29
   - title: "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®"
     excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,"
     publishedDateTime: 2022-01-10T15:15:00Z

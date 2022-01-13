@@ -127,6 +127,15 @@ related:
         width: 806
         height: 504
         isCached: true
+  - title: "New AI image processing chip for 8K TV unveiled in Beijing"
+    excerpt: "China's first Artificial Intelligence (AI) image processing chip for 8K TV has been released by Hisense in Beijing, CGTN reports. The move is seen by government officials as a milestone in the country's development of key TV technologies. The chip ..."
+    publishedDateTime: 2022-01-13T07:02:00Z
+    webUrl: "https://www.publicnow.com/view/8BA2FC5AFB8DCC48F45693A910B3A6CE2036BEDD"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
   - title: "How AI is improving the translation experience for marketers"
     excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
     publishedDateTime: 2022-01-10T17:30:00Z

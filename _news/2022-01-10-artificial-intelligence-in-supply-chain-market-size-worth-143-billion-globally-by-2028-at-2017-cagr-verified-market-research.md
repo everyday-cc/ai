@@ -83,6 +83,15 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Artificial Intelligence In Drug Discovery Market To Gain A CAGR Of 40.8% By 2025"
+    excerpt: "The incorporation of AI and machine learning tools in drug discovery and development applications can improve healthcare outcomes by enhancing overall efficiency. As per MRFR, the Artificial Intelligence in Drug Discovery Market is estimated to gain a USD 2,"
+    publishedDateTime: 2022-01-13T07:13:00Z
+    webUrl: "https://www.medgadget.com/2022/01/artificial-intelligence-in-drug-discovery-market-to-gain-a-cagr-of-40-8-by-2025.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 29
 
 secured: "QTuxHjUPKYxJNR0dtH8BP43Af3SZQEqz4wfrUCpZcmXFIpmzUJHYpU589cdlp0Ikjljqc3GYLw4TWgIpiQZUoOowt24jkitnU0WxKQ+j7Jp44sug5NiXgq0r2UZrmJ5qPCwr/dbUZu3+BzRzgQJRGJE5r/Wk6p/VxwDTpvmdRA7xZoCRcjuCGSc2FImLU47clEVN8jAuhvcx1tsZopEaXIFxVTPeKSgSPn3/5RD7xOW+9saGZ9vWyhNiiaCDSwdQl2hfJ6spKJiib82w2fOxlWwL8fbTnzqRWRA7A8/BoS1zvAQ5j8MPRRtT1hCJXyYQurLHsAsM4V0rc9mnPhbnye0kX9FCJFvYBAW333mXMSdRqBV4RhGDiOvTgI2mcRXS8zXATtsRd/2fMwaObZYOSgVkspOyD90hywIuuIyVGYfhuPkAb0gRde03pvjHvBTGN3o6ubAittpH05CyzYHF8l+SUwEyAVJOizT/PjhhtkHNNQTfGv/+3CSfzEZx7oLJeOzonFbosPTUGbq8ZjOrNw==;rFNCo3Ty4qbQX/yv99/11w=="
 ---

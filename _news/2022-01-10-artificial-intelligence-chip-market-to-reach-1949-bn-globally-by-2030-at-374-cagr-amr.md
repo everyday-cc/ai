@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-10T12:10:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html"
 type: article
-quality: 45
-heat: 45
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -15,7 +15,6 @@ provider:
   domain: wfmz.com
 
 topics:
-  - AI in Healthcare
   - AI
   - AI Hardware
 
@@ -41,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "l3b4q0iyqnFaiDvf0cXVlUw/0L2uEqb9QJcJjVT4bU3D48e8kR4OR2nlVNAfxnsrGAWcOb+egYZ+oGXGyxMjm72qLgKUu2HmUcIXCumLsJgO7NK+nFJr/1LAk87mCHH/Af2fuW3ZTOTzMrLpKpA3AVbj040WXBdzd3sTjoRvxe/2OqC8T+CHQS2LVW/Jm7+MDalSZ0Xbok5AeMrP8NoG1EKPdRRVwlz/oCoaj12cnFn4iWCdPoGlfCi89SR0DMb+3EDFnwWAOVMRSpXPcn3vD2oBy40ic5MZFu6ddj+/Nm7r/wLTzKDJDwzXY6xMX35bQb+wCCLRthYDxS4AzCQYy8vKBNChpx1ij99iHAz1lqIDdSMMGBVu1GgyrioMKlXfO6g3ty7FPLuiuuLkR9fTcaxt6O6u01WdaZVGYzHd2vYERL7T/JZ8qRDN5L4MZDIPasvp4iGkjmIdjU8ycDXr2JeYKFEqjSaqM9+Qcbs0QbAn4WCbCmd8D7zqhhGmkRq7lMO2CPTSIsQ0Vza+NPT3Bw==;VGSCLtY4v1pLoB3cV8xy9w=="
+secured: "dkdV1jnr5gu9p/KRka8PgZtbinS0jliwLU1ohLGnmTeO4YGJ75ieSZq8rKxwNzsjhtNYxZRHhrNcJ6KU6Jh3l1tmqhBBUNQrvh8mJAVFNy1Zts/smR3g5s1rveAO/kavVECoPsERJUZ27f8kK3DMAS7veMxWPapI2NpsOaEsgukm+yQ0WKvbVDH42+0END6fEE/VsiYTHw9GFs8kXPsdI+gB3D6Wy69K7HYLU988ZBkek/2CfmnukENCLqLm538kyfcVamBBqbPMRndc/deJtaLhXPVkeqytmF9Poc89VIDvViQHz2MhLQ3guB/2E4y+vciCXb7d5OQ+9on6518ezEbjEiuyY9ZL+WstSo6yXhQ=;d0OUiEa6WQJ2Ett7u66C6w=="
 ---
 

@@ -330,22 +330,6 @@ related:
         width: 480
         height: 360
         isCached: true
-  - title: "California DMV to review Tesla's 'Full Self-Driving' and other technology to determine software's future use"
-    excerpt: "The review could carry major implications for the company which has deployed beta software by that name to more than 12,000 vehicles on public roads."
-    publishedDateTime: 2022-01-12T13:32:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/01/12/california-review-teslas-self-driving-determine-future-use-tdn/9184216002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/9184216002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9184216002"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 40
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/04/20/PDTN/766b09c5-25eb-4df0-a8df-153f952d5296-BIZ-AUTO-TESLA-CRASH-REGULATORS-DMT.jpg?auto=webp&crop=2122,1194,x0,y106&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla’s full self-driving beta may perform 'rolling stops'"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will 'n"
     publishedDateTime: 2022-01-10T05:40:00Z
@@ -471,6 +455,20 @@ related:
       - url: "https://recombu-images.imgix.net/app/uploads/2021/04/tesla-model-y.jpg?fm=pjpg&ixlib=php-3.3.0"
         width: 940
         height: 492
+        isCached: true
+  - title: "California DMV to review Tesla’s ‘Full Self-Driving’ and other technology to determine software’s future use"
+    excerpt: "A DMV spokeswoman said the department had notified Tesla of the review, which is separate from an evaluation of its use of the term \"Full Self-Driving.\""
+    publishedDateTime: 2022-01-12T05:26:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/01/11/tesla-dmv-fsd/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 20
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XJW5RITSX4I6ZITNDQQ4C2Y4SM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "EjBY4xpSAOpPGWIwND++bSTYviR/ha2Doi9YUIbBbFCIoePIUAADtTqw7d9d9z6gubBibE04QNJIgBTNUdvqZP0krv67XZrpSt2PchpXunPdjj9ys2uZC8cB/p3GsoVTpGuyyN3Dnlb7iAM8PJ62kZvKSBaFEiG8tpKgetuNomoI9g2/+i/TBRynDX3JfljJUyMPPKJ1Qf0e56AAcAIwsW1oyXdynIBgkaxPpsRK8ZCQA63C1NaWH/EPld420/nDh97LhNLYNE4ROSEx79GwseJ/z5YJCAX/LnH4qH+20rpGTiwNpweUT23Lc9mjH8+9IsFodEMsTMlLdl82oGOUPVHOL4XS99T17qoRw9jo1xc=;re/Kp9MUlzfh+P0HmD094Q=="

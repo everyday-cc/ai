@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect
 cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://beta.ctvnews.ca/local/british-columbia/2022/1/11/1_5736181/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1020
         height: 574
+        isCached: true
+  - title: "Machine learning rapidly detects sepsis"
+    excerpt: "Researchers at University of British Columbia used artificial intelligence to identify sets of genes that predict whether a patient will acquire severe sepsis."
+    publishedDateTime: 2022-01-13T07:00:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/machine-learning-rapidly-detects-sepsis.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 39
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/26372/rect-01-university-of-british-columbia.jpg"
+        width: 400
+        height: 240
         isCached: true
   - title: "Using AI in Crime Detection"
     excerpt: "Using AI in Crime Detection By cio review - As the rate of crime rises, the utilization of existing Artificial Intelligence algorithms is proving to be"

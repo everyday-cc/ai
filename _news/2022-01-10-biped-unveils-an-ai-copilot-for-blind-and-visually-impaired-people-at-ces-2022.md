@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "DeepBrain AI, newly revealing its AI Kiosks, was spotlighted by the world stage at CES, and continues the journey by exhibiting at NRF 2022."
+    excerpt: "For this year's NRF, DeepBrain AI will be showing how AI Humans can be adopted in commerce. Many innovative changes are being made and one of them is unmanned stores. But there are some downsides to it."
+    publishedDateTime: 2022-01-13T08:46:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-deepbra-ai-newly-revealing-its-ai-kiosks-spotlighted-/2022/01/13/9525517.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
+    images:
+      - url: "https://mma.prnewswire.com/media/1725814/image.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "nAtVhWj12AlFc1bwVM2yN1ZwnC+ZH1uVo44rbZzwBDPvTUI3xchmcjg5L5iHRy9HltRQMC36EtoiWNNxaY9O5gc9phZWnRCMEx/1IT578kkUvEynbHmgnvaCVMB1hko3ccEp3GkKBch/Cer9s5fOT9NgtpHl9DaCHTtddPVGDYHrRG8AHHTpAu9HdqT+EZnIEsFAhM9nJMHNIMv0qK8uCfgg/ahoRz+TIHj+aAhUiUuvu56vejs2izKQgJN+S0zDvvaNSAOCNYDxN6XDXpZtGz9u+9mVyj+FmpNl7ngrBXb+SSYjh8cWsiIP/yQqXWbLaLZEKxj0pRDjH/g/lRXGJSWoGzzfPoKpAIUcfTqtyBY=;wwFn7zFg4kLyc7cgPZpLbw=="
 ---

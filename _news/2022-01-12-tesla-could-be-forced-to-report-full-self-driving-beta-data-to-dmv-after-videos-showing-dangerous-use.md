@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
 type: article
 quality: 73
-heat: 94
+heat: 93
 published: true
 
 provider:

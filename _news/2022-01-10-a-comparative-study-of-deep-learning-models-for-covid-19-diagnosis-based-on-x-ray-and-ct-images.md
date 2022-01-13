@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 636
         isCached: true
+  - title: "UP schools violating RTE rules to face action"
+    excerpt: "Act rules will now face action. The basic education department has decided to initiate the process of withdrawing recognition of schools not complying with RTE rules. Nearly one lakh students from ..."
+    publishedDateTime: 2022-01-13T08:41:00Z
+    webUrl: "https://menafn.com/1103532072/UP-schools-violating-RTE-rules-to-face-action"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?569314"
+        width: 332
+        height: 250
+        isCached: true
   - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
     excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
     publishedDateTime: 2022-01-11T08:00:00Z

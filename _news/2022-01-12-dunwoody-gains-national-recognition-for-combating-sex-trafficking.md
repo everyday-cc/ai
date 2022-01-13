@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition
 cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: FOX 5 Atlanta
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Taliban regime fit for international recognition: says envoy"
+    excerpt: "KARACHI: The Taliban government representative in Pakistan said on Wednesday, the regime in Kabul had “all the requisites for its recognition” by the international community b"
+    publishedDateTime: 2022-01-13T06:32:00Z
+    webUrl: "https://tribune.com.pk/story/2338510/taliban-regime-fit-for-international-recognition-says-envoy"
+    ampWebUrl: "https://tribune.com.pk/story/2338510/taliban-regime-fit-for-international-recognition-says-envoy?amp=1"
+    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2338510/taliban-regime-fit-for-international-recognition-says-envoy?amp=1"
+    type: article
+    provider:
+      name: The Express Tribune
+      domain: tribune.com.pk
+    quality: 44
+    images:
+      - url: " https://i.tribune.com.pk/media/images/Taliban-delegation-in-China1627482450-0/Taliban-delegation-in-China1627482450-0.jpg  "
+        width: 800
+        height: 600
+        isCached: true
   - title: "Second Starbucks store wins union recognition after US labour board ruling"
     excerpt: "STARBUCKS workers at Buffalo’s Genesee Street cafe became the latest to join the Starbucks Workers United revolution sweeping the United States after voting in favour of union representation. The National Labour Relations Board ruled in favour of the global coffee chain’s employees,"
     publishedDateTime: 2022-01-11T16:41:00Z

@@ -57,6 +57,20 @@ related:
         width: 2560
         height: 1707
         isCached: true
+  - title: "Sophia the Robot Commits to Help End Global Racism and Injustice"
+    excerpt: "We need to create a society that is based on equality and justice for all. It’s paramount for humans and AI to work together. We should celebrate diversity and I believe we will see a decrease in racism,"
+    publishedDateTime: 2022-01-13T00:00:00Z
+    webUrl: "https://lasentinel.net/sophia-the-robot-commits-to-help-end-global-racism-and-injustice.html"
+    type: article
+    provider:
+      name: Los Angeles Sentinel
+      domain: lasentinel.net
+    quality: 39
+    images:
+      - url: "https://lasentinel.net/wp-content/uploads/sites/5/2022/01/xzxAH9Tg.jpeg"
+        width: 440
+        height: 559
+        isCached: true
 
 secured: "ecYh0s39wcFdtMHGDh+c81Y+J2SmE/KnKxTFGeCqyhevaSXIpQ1G95c246tb58tHbUCY5OXy47X7qRBRSiMNDead3btiWUFEXpzNtSNFxZPu0YbKep6qztbXBIv437vSL8PLHqgfvazotZI9h6DpL526ZMPE3ZbvbIDLcIILK+/2NqIo6W8LNXsMRqwfVkMCbpYqk0mvSCdNFE6tY96rVG2AJXstBx+SDO6FNtaCTsTSYvH67aTtmTNOU4nn7CCj5+zSQj2zscm3OWZyalnR9E242DVuQDD2VQATy77UoqvJsEyXuT3NK+enA07gy4tJeR0WkkhCRPveUHrVfpvXMioERRPIvk2GI8+4iQJQSME=;dyMuo8505GjS08cAkprvBg=="
 ---

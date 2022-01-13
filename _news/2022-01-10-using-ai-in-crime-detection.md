@@ -72,6 +72,20 @@ related:
         width: 1020
         height: 574
         isCached: true
+  - title: "Machine learning rapidly detects sepsis"
+    excerpt: "Researchers at University of British Columbia used artificial intelligence to identify sets of genes that predict whether a patient will acquire severe sepsis."
+    publishedDateTime: 2022-01-13T07:00:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/machine-learning-rapidly-detects-sepsis.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 39
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/26372/rect-01-university-of-british-columbia.jpg"
+        width: 400
+        height: 240
+        isCached: true
 
 secured: "fjkcJHAudJ/ie+wZKyk142nE8QqfWYts7DuGqkXQx69l2ztReapnRoQn3UKHXYWeZqotXX2c4cLNHxSek/txURocqz/WPlytDtviR5tQ3fQW3f1P2+NtlxgJ/M4Uod6fUu2RNDErFJcDpgL9rAUwV9rVL88DaKGMaho4gB1jd/yCRbNYMszAsDIj+L8FozQ3qdeirRZ/BGLDGKs33/ewVQkjT5Il2k9VDIpo/S5HH+BboFgfNKzWId8lyJS9b9qtxaEpYl4E18QhlewqmOdoaFrJoYNwswQ06G7tG1Wj7hGn2Sh7HfdYfD7lQc5Tc1dTbekfj50N1hNoD4f0BWmCJUHgl/VvEEYK7lCBvNoQVmI=;FkbYlpJFShFNC5xmAtSa4A=="
 ---
