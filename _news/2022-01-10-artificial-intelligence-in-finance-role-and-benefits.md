@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-10T06:22:00Z
 originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-finance-role-benefits-ashok-sagar"
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-finance-role-benefits-ashok-sagar"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Finance
+  - AWS AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHPsqZm9kmc6A/article-cover_image-shrink_720_1280/0/1641793521329?e=1647475200&v=beta&t=XPIDIqm9PIJnAAjdxoMpALf5TqFxVqDubGkS_FOKdXY"

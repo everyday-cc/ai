@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-12T22:32:00Z
 originalUrl: "https://www.nextgov.com/policy/2022/01/report-ensure-federal-ai-policies-are-aligned/360698/"
 webUrl: "https://www.nextgov.com/policy/2022/01/report-ensure-federal-ai-policies-are-aligned/360698/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.nextgov.com/media/img/cd/2022/01/12/hand_touching_brain_of_ai_symbolic_machine_learning_artificial_of_picture_id1274437411/open-graph.jpg"
@@ -23,6 +24,6 @@ images:
     height: 400
     isCached: true
 
-secured: "NHtEwEyDRYNsoKqIbZ08sPtjMF7JPpE9YZ3Q8qkHz54pHdatsUdsq2Ig0CgOR5y9TcLyElqReDp752EhQ+82sn+5BOJZtOJ0LdWMG/Eq0c4uyJy7KEd7lHfGtoedQ1gb6t0QCiL2oEDZGoGjCKvWk8NsGm4Na3+y2lZ1yoZnZS70sEGe8qVdLOja0id4zK38p8E40tTn/ItK5BWFhAGPAWW5Y9/F8S9yHxyNRir29elPSwym8232vfT31/FUGshQSauytEWh/mdjD+44LRJzOW347bd9BAo+aeRb7i4K2E4f0MkdvEsKTPqiJoD3wc4VaahDPjUJiS8HLPilSLHnMsNygOotHNLsq4QhBOnPpvw=;ZWdeWNa/D0+Vp4TBqtxcTw=="
+secured: "kE9yMrNKi9rdk1lkyLdy4D56o4ozk26xDhIqzzqFOdwcyIP6Nmoq216cNwv1UpdN+dVtC/ElLmXkC2aMuZUDW125MprXDSz3lF/KeiKELedXVaDkQ4KURztHf9W7g8wO6oeDhsaQz9yHJGlYfKjS8ebnr+aj0qNwFk6jTX3rwg265VlcPTnGeSB5J4fEX4tvYc8A6gMs/GTaMogkSje+xL9qRIrxj0GwGy2W505ZVtm9hT7oWSF3WqCICqOqYNf5wMUN+bvwPZ5DWLT5rhIA55ScNDY9k/azZjqQalPtaIqG3EV9Gk1w3q/akRBArWz9KYZBdz+VXfYqM28weLYMTuNhLDMjvGKnvypqY9NAeDS2kt8fX9vHpIhWgpDxDDd6XhQ0wrYXaAFkpoVec5omkip89AlFh/hsiKaeiyUrP5Or/QxMB61Y0lKpnc0G4AltoaD8iv/FDfQ97y3qFX7e9X69FacW2FLxnfrBQLDOOAgp5sLJgmTGjyB75rllgg8qRDMx7PRHa8vAsRgEbSPZzw==;+8x+2klJcp4fshKVQfTokA=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/22/01/n24968907/40m-available-fo
 ampWebUrl: "https://www.benzinga.com/amp/content/24968907"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24968907"
 type: article
-quality: 20
+quality: 22
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AWS AI
 
 related:
   - title: "AI the brains driving broad transformation"

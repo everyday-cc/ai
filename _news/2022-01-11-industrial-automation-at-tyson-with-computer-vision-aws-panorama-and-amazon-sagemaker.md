@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/industrial-automatio
 webUrl: "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/"
 type: article
 quality: 113
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -87,6 +87,20 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/04/ML-6091-image001.jpg"
         width: 2048
         height: 1536
+        isCached: true
+  - title: "Optimize your inference jobs using dynamic batch inference with TorchServe on Amazon SageMaker"
+    excerpt: "In deep learning, batch processing refers to feeding multiple inputs into a model. Although it’s essential during training, it can be very helpful to manage the cost and optimize throughput during inference time as well. Hardware accelerators are optimized for parallelism, and batching helps saturate"
+    publishedDateTime: 2022-01-12T23:37:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-your-inference-jobs-using-dynamic-batch-inference-with-torchserve-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
         isCached: true
 
 secured: "2VmKSleMHXe8UrGH3VXJ5uM7k0KDud99Cchf9L2D/w3NNIerHMXIojXgNASEGpIKqkIxmYpNTqXA40hSM54mj1IP97aLhBjqRG6YGz8NpxKcxArt4LZ3W06zzBt0OrK31LPBeFghRkPO/Zt4ikmhl8q5bJrr6TgnNnYzfcLLsplagNxv/snj67s/z/UvKbmwWIC4TMawURcMG8kEozGaKIBUhXX5rzuBEZHi5ZsoxAoFHXO9Vo+qlSeK2mBeUJLC4qUunBMndqvcVCGdg51VO/QmrHJOSBb/BBacqbbjTzHFiL60voD5ETNr9WnP+xs6Rqo8zB7Ay8JegLdvzqnL3Atdrleujh8r/UNqR1gd5tU=;3gbCBNJkYYQyHBBnGmSYjw=="

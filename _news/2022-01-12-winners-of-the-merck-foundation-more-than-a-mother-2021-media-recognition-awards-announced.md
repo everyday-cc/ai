@@ -57,6 +57,15 @@ related:
         width: 2126
         height: 1417
         isCached: true
+  - title: "Merck Foundation announces 63 winners of Merck Foundation Africa Media Recognition Awards 2021 in partnership With African First Ladies"
+    excerpt: "Merck Foundation, the philanthropic arm of Merck KGaA Germany in partnership with African First Ladies announced the winners of Merck Foundation Africa Media Recognition Awards \"More Than a Mother\" 2021."
+    publishedDateTime: 2022-01-13T00:20:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220112/3891372.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
 
 secured: "13tu2cb+hoVyHxADzuT7zJ7o438QgMYSFSMf+R0eDiZ213+xdPTUXY+bMasauW+Ch7xQdmPVWDMJlF9huG1Tqb/HrOOo0JtVCQJwzwXVZMEKnOTrLgK6aSSjhR6JOGGs7L7AqsxvflpWqG5jzGH2NHLD95MWKi7Yz95G4GkmmrN7yWF0K8/GY7OIFBhNBaiaql7SdYZ9i7GJgTs9agRwiQZpIpwG1fCtmwqZ6i9IqMeHDBjCVeaja6bA/Qh1r8MbRs/GZDWNEVEWq0JmETdDcGihYT4AVHzDvgZLaj9QKjkBBlGc3COF8SHSsrvB86OOX6CZECd20OjntP7A98q+n8UZUILNTa/GbxrQCr2XAogfwPQersZZFW1aNhlG+qEtalt+rf15aMcJVonTWpo3BH4UmrOMbhGo31hotg+2nbuK0esj1iaA9YP3+kXjbhlhZJtS+IRBRA0E2DHmfKl8tv9T2PbOjO4mTrMqMDhYWxcluatoNWm6yOd5mSR2TOEw0Akb05dWsJn7+NcVHDb6bw==;121duX0RnUACKv0Pu1JlHw=="
 ---

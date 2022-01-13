@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-10T12:10:00Z
 originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html"
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html"
 type: article
-quality: 51
-heat: 61
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -15,15 +15,12 @@ provider:
   domain: wfmz.com
 
 topics:
+  - AI in Healthcare
   - AI
   - AI Hardware
-  - Natural Language Processing
-  - AI in Healthcare
-  - AI in Robotics
-  - Facebook AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/619c685a7b1c3.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61deaba58de15.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
@@ -44,6 +41,6 @@ related:
         height: 400
         isCached: true
 
-secured: "4ZnOkGKYxF43HWPJY5xDV4BMEN6vrG7DUo6GR+zN2KzOBpssHbHomONbCzPZhzuSuecs6KkBJI2yCHXxxvtY5pi700llCIKN/4+YyNNtnpSSJ8SgbbgGbU0b8NpkTbdQp9soICTPnYg32x3ViMeMtVkwcDweRipynvcg5Ve/ddZM80y49ct+mVUkdS3RS/trRtWym4jCLZ6fqnh4cQ9tWuODvVD+FSwjcBaWRA6TzpWgBywc2vP/Wqd2RvqK2J9rrzuR2yvPFcsnLlSfQHkgm+8Bz7Ksk+Gf/SuznpIkmjxYG0/gQHLc2OPDashP1OngJONssohYU2xRTTZgrSPBm6txVO2smrj1fpiq8aPigPkcc9XL3hRY0RiwZb4Jnr5lhRLjQUg3eRWtGAKN0siRPCQWWvR0Fpq2aGpSXzEKFMbcpoP/AZLWuVgaXNtlAWvM6CUL4hTMhwd2neTpSuNqnS77UfAQAa99PZfhOp8r0OPratuv6DhoY7TNG6nfKxWIzAfU6mdOjfRzlA0jC1uCgw==;nPYkUlVfufil3LMC2x1oKA=="
+secured: "qo+78SmpIrPquI3BP24eXBKOdjKqTnk2rmgwL6J++70jHopL69s7ADV4Bv7cOxf3RCa2p0PJwd2ZNoZxi5CFOJmjvnVcTg2zy24pEmk5LSlUXU3XU9lnRNXIV0Qu0GOtIWdt8LEMIobwWlF+vCCeeHCA1HNu9IgEg6uze7qNiwsoU2TmbKZP5KMN8IvMh1EOiduNmgBvJDELOQULi7iHviJhJuYuXQqgRJmg8YkxEKlpvx78d42FH5vMkpxBKwV8IsaAWYytagOLmX9eu9NKUnCDm8aWC77b8/g+UwoAFKfckZVlOcncclkw9+DJ/mgCNiQz7lLba/4KylT9OAuh87RaMut/ZOzyZnywBvPyD4E=;vNf6bLQU5OOi3g61NRhFQQ=="
 ---
 

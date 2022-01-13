@@ -87,6 +87,20 @@ related:
         width: 2048
         height: 1536
         isCached: true
+  - title: "Optimize your inference jobs using dynamic batch inference with TorchServe on Amazon SageMaker"
+    excerpt: "In deep learning, batch processing refers to feeding multiple inputs into a model. Although it’s essential during training, it can be very helpful to manage the cost and optimize throughput during inference time as well. Hardware accelerators are optimized for parallelism, and batching helps saturate"
+    publishedDateTime: 2022-01-12T23:37:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-your-inference-jobs-using-dynamic-batch-inference-with-torchserve-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 77
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
 
 secured: "Tnod7cQk0Xv1HXddiwwCNwtgyaaUs8Yqepgfl/vGR8MjzeO/5lp7+QBoEi3LuLmXxxBfK+kBhlohFwJVp/+5BfCLxNXnqdzOQfwIKLBaaKYG3dkrAuFPpDGMTkegBAMhlr1RzGmknjQ4NIAx7H8yRGzGUEdYGSJ0GfYHgwrCZ+JgRywLAA71NBiJet1hHfPuc8UEpCtn1t5COJfCBFJ9W2PiGYRJxST2XnYUw1RcG+z/73KxC21xI/C7l7cDDw88pGBle3owXqBCUVRuLBnK9qYxxXBFB8dtvCBL06mw8CZjFUGgkeG1Fykc/IRdSSGgMEqiy6z5618+bFcJUDz/A2l4n9YPgW+KPfID5+/zeVE=;X06GDCgp+gQxjc94O35Smw=="
 ---

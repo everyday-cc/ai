@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoweek.com/news/future-cars/amp38705415/autonomous-tra
 cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/future-cars/amp38705415/autonomous-tractors-robot-brains-for-farming/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://cdn.techhq.com/wp-content/uploads/2022/01/DSC4385-375x210.jpg"
         width: 375
         height: 210
+        isCached: true
+  - title: "Self-driving tractors are next big change for farmers"
+    excerpt: "Self-steering tractors are nothing new to Minnesota farmer Doug Nimz, who, four years ago, first used a new type of John Deere tractor on his 2,000-acre corn and soybean farm"
+    publishedDateTime: 2022-01-12T21:49:00Z
+    webUrl: "https://www.malaysiasun.com/news/272160137/self-driving-tractors-are-next-big-change-for-farmers"
+    type: article
+    provider:
+      name: Malaysia Sun
+      domain: malaysiasun.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1641967875865.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Robot tractors may be heading to a farm near you"
     excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."

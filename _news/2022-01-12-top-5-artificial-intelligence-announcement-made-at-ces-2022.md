@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-12T01:50:00Z
 originalUrl: "https://techbooky.com/top-5-artificial-intelligence-announcement-made-at-ces-2022/"
 webUrl: "https://techbooky.com/top-5-artificial-intelligence-announcement-made-at-ces-2022/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Robotics
+  - AWS AI
 
 images:
   - url: "https://i0.wp.com/techbooky.com/wp-content/uploads/2022/01/dcnzskR6VeJGXRqo282e3f-1200-80.jpg?fit=1200%2C675&ssl=1"
