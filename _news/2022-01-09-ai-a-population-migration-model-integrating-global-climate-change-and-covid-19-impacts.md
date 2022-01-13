@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/ai-population-migration-model-integ
 webUrl: "https://www.linkedin.com/pulse/ai-population-migration-model-integrating-global-climate-nko-o"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tribal leaders voice concerns about water, voting, COVID"
+    excerpt: "Water rights, the ongoing impacts of the COVID-19 pandemic, voting rights, and infrastructure needs were some of the common issues that several tribal leaders from across Arizona talked about during their visit to the Capitol to talk with legislative leaders about their respective sovereign nations as part of the 27th Annual Indian Nations and Tribes Legislative Day."
+    publishedDateTime: 2022-01-13T19:51:00Z
+    webUrl: "https://indiancountrytoday.com/news/tribal-leaders-voice-concerns-about-water-voting-covid"
+    ampWebUrl: "https://indiancountrytoday.com/.amp/news/tribal-leaders-voice-concerns-about-water-voting-covid"
+    cdnAmpWebUrl: "https://indiancountrytoday-com.cdn.ampproject.org/c/s/indiancountrytoday.com/.amp/news/tribal-leaders-voice-concerns-about-water-voting-covid"
+    type: article
+    provider:
+      name: Indian Country Today
+      domain: indiancountrytoday.com
+    quality: 44
+    images:
+      - url: "https://indiancountrytoday.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg2NjcxMTIyMDU2NDg4NTE5/navajo-nation-president-jonathan-nez-addresses-the-arizona-state-legislature-at-the-state-capitol.jpg"
+        width: 620
+        height: 413
+        isCached: true
   - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
     publishedDateTime: 2022-01-13T15:25:00Z
@@ -42,34 +58,15 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "A Comparative Study of Deep-Learning Models for COVID-19 Diagnosis based on X-ray and CT Images"
-    excerpt: "Developing and comparing deep learning models for identifying Covid-19 diseases on CT and X-ray images. - GitHub - eliashossain001/SARS-CoV-2Detection: Developing and comparing deep learning"
-    publishedDateTime: 2022-01-10T11:10:00Z
-    webUrl: "https://github.com/eliashossain001/SARS-CoV-2Detection"
+  - title: "Artificial Intelligence for Psychological Health Analysis During COVID-19"
+    excerpt: "The coronavirus disease 2019 (COVID-19) pandemic has spread over 200 million confirmed cases and caused more than 5 million deaths worldwide. Besides an epidemiological disaster, it is also a psychological crisis that presents a serious threat to people’s mental health."
+    publishedDateTime: 2022-01-10T16:15:00Z
+    webUrl: "https://www.frontiersin.org/research-topics/31333/artificial-intelligence-for-psychological-health-analysis-during-covid-19"
     type: article
     provider:
-      name: GitHub
-      domain: github.com
-    quality: 12
-    images:
-      - url: "https://opengraph.githubassets.com/008962df8611d7e459684bf9f5e909b93070a9b9ff361d03babe92fc661b9ccd/eliashossain001/SARS-CoV-2Detection"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
-    excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
-    publishedDateTime: 2022-01-11T08:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=597869"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
-        isCached: true
+      name: Frontiers
+      domain: frontiersin.org
+    quality: 18
 
 secured: "eUz5j2IKItB5ml6JNTXFH8Hv13hMh7noqlT5a/RaaX5yGeyuDyzrZLjv+g4Kcs4zG8rHp7ZLT1JmkiyvZp8S007140QaZOaHRU+SqyX8IP2JAdy5C4hVqm2Kh/COI9D2YENrrKO2Cvnce0MDerJItpPTjaatExA51Xug60Tt5cIuOagbc2mtTx8/xE7ip+jiep2G/mUzglIPv94t8WmDY+iBuhjrC+0ZLhTMzLzX8tlmQlCrda4FWgChaBQImN3y5CWi2ZocqWZxwM09kQXsqfKApB1LUCMoIAsoZosHUkpBXa4X7YzJF9Nbj16KCO3jOoc9C0MJ4jbbUxhCtLITJW17i6PWRohCTJamDi2Wu3I=;rEcP3TM8LqEDO9n2R/AT5Q=="
 ---

@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI: A Population Migration Model Integrating Global Climate Change and Covid-19 Impacts"
-    excerpt: "COVID-19 pandemic has bring global economic activity to a near- standstill with countries imposing some travel restrictions on people. On the opposite side, Climate Change affects the flows of migrations and has already started to reshape the world."
-    publishedDateTime: 2022-01-09T10:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-population-migration-model-integrating-global-climate-nko-o"
+  - title: "Predicting India’s COVID-19 Third Wave with LSTM"
+    excerpt: "Complete project of predicting new COVID-19 cases in the next 90 days with LSTM. India is seeing a steep rise in COVID-19 cases"
+    publishedDateTime: 2022-01-11T19:31:00Z
+    webUrl: "https://github.com/SamratDuttaOfficial/Covid_India_LSTM"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 29
+      name: GitHub
+      domain: github.com
+    quality: 24
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGogPJcPLJSCA/article-cover_image-shrink_720_1280/0/1609326937890?e=1647475200&v=beta&t=6qfVvD7v3cZDkTxb16Hi_V_rStlw5n-RRTX97ydikrc"
-        width: 1280
-        height: 636
-        isCached: true
-  - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
-    excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
-    publishedDateTime: 2022-01-13T15:25:00Z
-    webUrl: "https://www.azmirror.com/2022/01/13/tribal-leaders-voice-concerns-about-water-voting-covid-19-to-state-lawmakers/"
-    type: article
-    provider:
-      name: Arizona Mirror
-      domain: azmirror.com
-    quality: 20
-    images:
-      - url: "https://www.azmirror.com/wp-content/uploads/2022/01/jonathan-nez-state-house-2022.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
-    excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
-    publishedDateTime: 2022-01-11T08:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=597869"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 12
-    images:
-      - url: "http://us.acrofan.com/img/noImg.jpg"
-        width: 500
-        height: 324
+      - url: "https://opengraph.githubassets.com/7c90fa853cb24c478af342c594040f1fa9230cc0d4f11fff1f56c737ce5b6d83/SamratDuttaOfficial/Covid_India_LSTM"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "XXIw7uL6xwBW9JxctNHDRsrssLggphfDONPgKm11mwS5SVmIWLT5p9RlZM19Exv42m5FKqNsn9j6d1DFbwJsIZsYAVsH0vfgSzvwYONaQc8Ifjdi0Na9jw+/HjSDNeusMa4TY1ww069hSHN6/o2ZGJDljhS+aoJBDI0UEUQCX+Q3HbpIQnGlaZ38Nh5CQtTIdlJAxf8AquoaCSh1bfcE7cChloXMB/zZaijIK4mAn8OaX8bbdmT2IzznJtBG+x48D67A506Eqs2pshewDKsb9AGfTr8PuXklcGlX6ct8qBG9VAUkfTgXLHz698pgc/CwZxAjxjHTdMtBlGXVxVEEA5aU/cBmn/1VPWbWR1U1Ukg=;exyFAd5ZMZgMfmVSyaYtNA=="

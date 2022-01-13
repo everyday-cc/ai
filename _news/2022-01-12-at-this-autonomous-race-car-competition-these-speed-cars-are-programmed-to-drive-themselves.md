@@ -43,22 +43,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "AI-driven self-driving race cars create history at CES 2022"
-    excerpt: "Self-driving race cars made their own place at the CES 2022. Italian American team PoliMOVE developed a self-driving race car based on a Formula One car, nicknamed as Minerva claimed to have created history at the event,"
-    publishedDateTime: 2022-01-09T04:29:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022-41641700029723.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/auto-images/Kia/Seltos/1589878851759_Seltos1"
-        width: 630
-        height: 420
-        isCached: true
   - title: "Self-driving race cars zip into history at CES"
     excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Jan 7 in an unprecedented high-speed match between self-driving vehicles."
     publishedDateTime: 2022-01-10T09:38:00Z

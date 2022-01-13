@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-raci
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven self-driving race cars create history at CES 2022"
-    excerpt: "Self-driving race cars made their own place at the CES 2022. Italian American team PoliMOVE developed a self-driving race car based on a Formula One car, nicknamed as Minerva claimed to have created history at the event,"
-    publishedDateTime: 2022-01-09T04:29:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022-41641700029723.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/aidriven-self-driving-race-cars-create-history-at-ces-2022/amp-41641700029723.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/auto/auto-images/Kia/Seltos/1589878851759_Seltos1"
-        width: 630
-        height: 420
-        isCached: true
   - title: "At this autonomous race car competition, these speed cars are programmed to drive themselves"
     excerpt: "The Indy Autonomous Challenge is no ordinary race car race. Recently, I attended the event at the Las Vegas Motor Speedway, which has teams from all over the world building and racing cars that"
     publishedDateTime: 2022-01-12T13:19:00Z

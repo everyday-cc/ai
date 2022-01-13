@@ -26,6 +26,22 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "New Unicorn Fractal Bolsters Cloud Play with Neal Buy"
+    excerpt: "This acquisition bolsters Fractal’s cloud engineering offerings through access to Microsoft’s multi-cloud ecosystems and Neal Analytics’ expertise with the Azure stack ... Appen’s 2021 State of AI and Machine Learning Report, larger companies ..."
+    publishedDateTime: 2022-01-13T20:42:00Z
+    webUrl: "https://www.datanami.com/2022/01/13/new-unicorn-fractal-bolsters-cloud-play-with-neal-buy/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/cloud_money_shutterstock_chanpipat.jpg"
+        width: 934
+        height: 482
+        isCached: true
+
 secured: "Jv/xpRcHzQOUCD6+ympW7EAVGrJ24WAuyC+tGBe6PxfEJ9r/prpvqNN2iJYrf76EdffHNSLSCRqE1veqC0SN1yZdvDGyAiE1ngIJQMW6KAUFP819YQRPMtJnV0sq8Vn7b+WWq52bOwG2hDq78MzCyBXk68cH03k00C55G6lQa7SGwUdrH9pzYhT8AG9Z1EZ1mON4fW/Lkv+b4u1rFjg+aeRhppUjxgsSLFc3GAtmgK/x+XecYVvduF0ngJUTY3UVM9evy2iydfjwpNeoagoFTYrSPsnjXTLGbtLBdEv3VEzJUVYFer2GcH/IvWZ3oOm+DungJ3NIxH9jwjfcP3YimVpuP6kdztWaxmJ5pbc0hKXLnsd+Cq8ZPuEtxSmyzDPH+IoSPWfx4nYOgl6JWDbx7tVAAChNU2O7R2AYKbzcLuboTbx85g3P7QRC1qyswn1gDDNcaSUGPmhsyERRJ5YzWxNIxa+A2+Y8MUvVqHnZgBdL8HY86hiFT+og4RYWMAGP069cXCD8KqWd2e1maAqZQw==;OoN2vpNc1TP+3JXZ1Oq2Sg=="
 ---
 
