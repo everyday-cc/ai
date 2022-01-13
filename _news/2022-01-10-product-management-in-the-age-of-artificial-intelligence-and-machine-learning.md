@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Protai’s AI-powered platform is improving drug discovery"
+    excerpt: "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform."
+    publishedDateTime: 2022-01-13T18:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/"
+    ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Finding Love In The Midst Of Algorithms, Artificial Intelligence And Data"
     excerpt: "What sustains the thriving business of love? What has made these apps, agents and companies who broker love, such a success? Here is what my experience taught me."
     publishedDateTime: 2022-01-11T00:44:00Z
@@ -72,6 +88,20 @@ related:
       - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
         width: 4098
         height: 2304
+        isCached: true
+  - title: "3 Vectors of Artificial Intelligence and Machine Learning"
+    excerpt: "The New Stack Shorts covers three areas that are reshaping business processes and environments - from the intelligent applications that embed AI/ML and take advantage of data, and the system of enablers that allow them to reach scale to the chips that power them."
+    publishedDateTime: 2022-01-13T15:30:00Z
+    webUrl: "https://thenewstack.io/3-vectors-of-artificial-intelligence-and-machine-learning/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 56
+    images:
+      - url: "https://cdn.thenewstack.io/media/2022/01/67e2a21e-tns-shorts-awsmachine-learning.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Opinion: Using AI and machine learning to improve the health insurance process"
     excerpt: "In the past decade, health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
@@ -132,6 +162,15 @@ related:
     provider:
       name: america-retail.com
       domain: america-retail.com
+    quality: 19
+  - title: "How AI is being used to improve disability employment"
+    excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"
+    publishedDateTime: 2022-01-13T17:57:00Z
+    webUrl: "https://www.publicnow.com/view/8577DB312DF16BC9561778F10E8C2C5DA84C3480"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
     quality: 19
 
 secured: "ACd5xd2fk39UHegmURRJiD65lxZeLIqdJXziY/DSN4Zw7yMnZF2qrd35DElrPy7Rt/Y0r9iS0wPGvJ8qBWH3HKmy5GKUAzQ2AHTOZvsB8bjkKdZ6hi1nQELZCJ77DLR2x5kLhOsW1tCZ8w+AsIbLn5JyeB6txSnqMhRr1nU11bLXz1DTRiH8EJ2AWDR2rbk5+q1Ns3DpwXajvh9/fe1gUCr8kfQkOt/AO9KW+1zDoZoFrBfsUfVCu2FlM3Ylc3OGMUAjC2g9aNwvgoZYw/g/8AraCxD1KLs/5ZPg02+iN/aGqcH7lR00eDszP1l2SoGt0AL0grk6Wwt0mbovXHzGvnXX9RMQYb+jgZF57R5sqHc=;ztAQLb9hznBJlCIM9ws83A=="

@@ -2,9 +2,9 @@
 category: news
 title: "Is the Value of AI & Machine Learning Out of Reach for SMEs?"
 excerpt: "While not all the above are entirely achievable, some of them at least were attempted by nearly every business in the United Kingdom – in reality, they had to do something. Unfortunately, for SMEs, which make up 99% of businesses in the UK,"
-publishedDateTime: 2022-01-13T14:46:00Z
-originalUrl: "https://www.fenews.co.uk/work-leadership/is-the-value-of-ai-machine-learning-out-of-reach-for-smes/"
-webUrl: "https://www.fenews.co.uk/work-leadership/is-the-value-of-ai-machine-learning-out-of-reach-for-smes/"
+publishedDateTime: 2022-01-13T15:25:00Z
+originalUrl: "https://www.fenews.co.uk/edtech/is-the-value-of-ai-machine-learning-out-of-reach-for-smes/"
+webUrl: "https://www.fenews.co.uk/edtech/is-the-value-of-ai-machine-learning-out-of-reach-for-smes/"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 338
     isCached: true
 
-secured: "W4EzaxSKDsmSUcbCovL9vuQ4Tm5myQvPyzenAiScsQZjKDV6Ha/SIUfvT2GneWH8YPEMJtZoQX9PmXhUNmzdG3O14MhkHezAN403FteI4xcamurnf12yBZoHYqtw9OiyyX7c8rhIekdDHig9viaJ5v+XHF5x0rBkhwN6OP3TukqhzZZ1yaouYucV8fB5mxlXtTC1XDiboYopEG8V07UBQKX6ADNPf1JGYHCIYbgABoG7fsYM8Viur1/iV9lSneLdv2V6mNW4/goV5/H5VxjB8D+F1UpY6RiWUENelKOQDVdA20h3cdnOM0wkJWxg/b78sjdo7j3d/qPC5qIX9A1BXhMGls9dFIpblzdCTDrsQCc=;njubi9s9N0l6b34SEXaKmQ=="
+secured: "vvm6kVkLBF0N1D/p1/mM9wWD1paeEOVtgtjx3zQEQGag30/mA9UsXa0DE6oAKwl9W8m89M/YJMWiC0wkOf312Xbyp2+E3D5O8XEWi4rnhQn/pAhrxzArVN2g9UF+nnNAYMVwN413H9pcbp19bAYfysxueBBq16OveaHOTgFyqg6AyYULRbFquexWLUZqhP7nIg0HRF7qNllcGIKGqAcEqtx5GPCG917sumJw66rSbZbrTxw8yE2FxknNhQcyYG50hLm+WdP11FFZo7vvPmCMDm1Te4osC9VRL5RXD7RdXJPn/yWNGWgCQPbl+MA69XkVUbZLzqNFa2lbU7uB1O3dC+wdP3LlTgMTzMczAqVP2BY=;PH7J1at/qDYnB3mX8wwDMA=="
 ---
 

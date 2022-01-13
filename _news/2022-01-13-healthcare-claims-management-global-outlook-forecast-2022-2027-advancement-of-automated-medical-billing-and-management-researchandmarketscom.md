@@ -18,6 +18,17 @@ topics:
   - AI in Healthcare
   - AI
 
+related:
+  - title: "Global Environment, Health and Safety (EHS) Software Markets, 2022-2026 - EHS4.0 & Artificial Intelligence (AI) Solutions for EHS Gaining Traction"
+    excerpt: "DUBLIN, Jan. 13, 2022 /PRNewswire/ -- The \"Global Environment, Health and Safety (EHS) Software Market: Size, Trends & Forecasts (2022-2026 Edition)\" report has been added to ResearchAndMarkets.com's offering. Global Environment, Health and Safety (EHS ..."
+    publishedDateTime: 2022-01-13T18:58:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-environment-health-and-safety-ehs-software-markets-2022-2026---ehs4-0-artificial/article_57971b52-db82-568d-af35-c12bfe022156.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 0
+
 secured: "5k6z6jBsPzsa1s/K7bRlUeJkmmK0c4EB0c9xVcm4/niTeeLfpEQUF8lSso0hlUFujUcu+oBagUSVOF6/1Y/NtWv6hcIR4eofqtW8e/+wRWs1C3e/TaqYZlIMdSMaCR6j73cBGjLuLadpYYtXjHvwfo4PNl04h1C/+bWVt6xcl84MrW75zHg4xD4r8xwUYQRJWt45mqw+YsK8queCWNmc5WyEJ9n9FhyHgUfIpBWZlfVmqhv66lOs+3QOxF+4+afTYp3RbvT324N0M25FCtdAdz33IZU7mrOsmFqGRpgTUT/BqytNaUCT/WjHKigEZtDO39aLRH+VK2kE8FQijONhrlSjWvr6BCr8Li4nV7wOb2U=;byIGeNcegc8J51eJDGvxJw=="
 ---
 

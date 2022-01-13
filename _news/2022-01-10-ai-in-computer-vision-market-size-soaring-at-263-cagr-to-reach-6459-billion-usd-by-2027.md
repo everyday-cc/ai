@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion by 2023"
+    excerpt: "North America dominates this market presently, followed by Europe. In 2016, China dominated the Asia-Pacific market; similarly, the UK led the ove"
+    publishedDateTime: 2022-01-13T18:44:00Z
+    webUrl: "https://menafn.com/1103535474/Emotion-Detection-and-Recognition-EDR-Market-to-Reach-339-Billion-by-2023"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?53360"
+        width: 436
+        height: 249
         isCached: true
 
 secured: "TXoPrVd8ppmcAIQzAcM5zNf5bCXrrcroc5IHXB3M9gjKeBIGJ0SlOSyuEwr28Xuvx+EDtgupypdRy5pxQ4W3WoMl2grwbgeWHTNtV769zCpxxkxkRpi20SBv+6SrSLK/UEW/hxIuB28qcn/VBOfZ/m0J5GrcMB0X4xe2Ns7BNwJOmajFIk81ri10hH0VRxH7q1+8OYe8Asjzg0vXEiU91kRMGzP3nrW7mciZuyngjUlFzktS+YYC4kN3ehXTyABjMzZvteIuyZl3lFoqo8ONV7XQ0pvfV3ZYX6NU1nf6QboyQge9Ra88upwEvYlKraqHQmHvfh3LzOZQd9OStKa4o22F/vCPVf/NPTe6GZYJYU0=;r46yeoi0d+uCGyAVufyAkg=="

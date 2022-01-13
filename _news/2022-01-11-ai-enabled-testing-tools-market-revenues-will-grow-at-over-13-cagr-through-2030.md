@@ -91,6 +91,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Emotion Detection and Recognition (EDR) Market to Reach $33.9 Billion by 2023"
+    excerpt: "North America dominates this market presently, followed by Europe. In 2016, China dominated the Asia-Pacific market; similarly, the UK led the ove"
+    publishedDateTime: 2022-01-13T18:44:00Z
+    webUrl: "https://menafn.com/1103535474/Emotion-Detection-and-Recognition-EDR-Market-to-Reach-339-Billion-by-2023"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?53360"
+        width: 436
+        height: 249
+        isCached: true
 
 secured: "oRDPw2/zb5IbEmi0N4ex/DyHsJ6OL9jWjMi8Tj++yCJLZEQ9vYjaJ4b49qUrfBkjqOdaxT8ct5R6nwARVurN9vyieo+sOJSeiKizhR/cwPe/iCM6F5QB3E66y4tFSLSD/tibppDYeGoVyt2csOXfBU4sZ9Mpa7FQCuv35ADZ47gHt5z0e7IVrhUw08HA357WK9mde7jq8rEvmzZ8IhqG4Z+u9g5iQW51+sfV5JKSQNihtRGVC3/JVF58UxFQ8P/dXcSpquO8XH31Fpcqs0RD26o3BX7GPntAoAkvtuncyLeqSK45DpQ9fDn3XMss6BcZTS5314Y2HbWxIUG14JZVQO9Dl3lGOIh5OuFeqWSdhz8=;kn2H7Ti19QIvGj1ItQmEQA=="
 ---

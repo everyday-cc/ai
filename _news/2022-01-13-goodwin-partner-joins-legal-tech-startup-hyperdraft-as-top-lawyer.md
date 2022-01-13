@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/legal/legalindustry/goodwin-partner-joins-
 webUrl: "https://www.reuters.com/legal/legalindustry/goodwin-partner-joins-legal-tech-startup-hyperdraft-top-lawyer-2022-01-12/"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Reuters
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Goodwin Procter Partner Joins Legal Tech Startup as First-Ever GC"
+    excerpt: "The modernization of law is happening now and the technology that HyperDraft has developed will change the legal industry for the better, said Sean Greaney, HyperDraft's newly hired general counsel."
+    publishedDateTime: 2022-01-13T17:36:00Z
+    webUrl: "https://www.law.com/corpcounsel/2022/01/13/goodwin-procter-partner-joins-legal-tech-startup-as-first-ever-gc/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 22
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/390/2022/01/HyperDraft-Sign-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "Legal Tech Startup HyperDraft Taps Partner from Goodwin Procter as First General Counsel"
     excerpt: "Legal Tech startup HyperDraft has announced the hiring of its latest legal industry veteran, Sean Greaney, a technology partner from Goodwin Procter LLP as its first General Counsel. This comes on the heels of adding legal industry titan,"
     publishedDateTime: 2022-01-12T13:54:00Z

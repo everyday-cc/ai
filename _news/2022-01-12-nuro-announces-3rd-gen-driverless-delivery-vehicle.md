@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-third-generation-driverles
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/"
 type: article
 quality: 159
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-tii-euroracing-autonomous-race-car-passes-the-tum-news-photo-1641842458.jpg?crop=1.00xw:0.753xh;0,0.0978xh&resize=1200:*"
         width: 1200
         height: 602
+        isCached: true
+  - title: "Dude, Where’s My Driverless Car?"
+    excerpt: "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way"
+    publishedDateTime: 2022-01-13T18:47:00Z
+    webUrl: "https://www.businessbecause.com/news/insights/8012/driverless-cars-future"
+    ampWebUrl: "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future"
+    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 59
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/1641574105.png"
+        width: 750
+        height: 468
         isCached: true
 
 secured: "unrNcxt/lSFHD2qpiqRTfodqq6srxE4+ych86PMtGGumNtrfDF0n9QCH9TUJnNv1ZdPOa6jFNnmDGCrPQe1csFEuuPAh3KCpomkG8ms70O5X26wGdGr4rUSyYKsm/V9SOAbi9cfl3rJ+czoBVfz3qa80VybWjj+RrDeAq+VN37JRJW93TI4VcW8CtK6q+DNWd98GoEs+6PCHUggxI6uS29iUTF1De8OEApEa6EsV1Hj9ssK+EJeP8Melj60c11dv21g+INNzGz8X1TR1XhBW66mk9GNxiFToGZAnfosYEUx46/ALof5T+rdan6Sz3rhjoVSldZeGZMB6O/AJwBDCmTHvqzQcMr2H+5HZ2VthZIo=;X5WYOtVrL9l/7cM6miZvZQ=="

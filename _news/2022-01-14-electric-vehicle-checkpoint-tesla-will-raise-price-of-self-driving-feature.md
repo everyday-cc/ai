@@ -160,38 +160,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Tesla's Elon Musk Tweets Full Self-Driving Option Price Increase"
-    excerpt: "Tesla raises the price of its Full Self-Driving autopilot option from $10,000 to $12,000 beginning Jan. 17. Telsa's ( TSLA) - Get Tesla Inc Report CEO Elon Musk on Friday tweeted that the electric vehicle maker plans to raise the price of its Full Self-Driving autopilot option to $12,"
-    publishedDateTime: 2022-01-09T02:54:00Z
-    webUrl: "https://www.thestreet.com/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgyMDYxMzI0Nzk5MzIxNDE2/genetic-counselor-doctor-patient-sh.jpg"
-        width: 620
-        height: 400
-        isCached: true
-  - title: "Tesla’s Self-Driving Is Getting Better — and More Expensive"
-    excerpt: "Elon Musk tweeted that new versions of the company's driver-assistance software, dubbed Full Self Driving, are coming soon—and the price is going up too."
-    publishedDateTime: 2022-01-09T01:45:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51641601389"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-464381/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla's full self-driving beta may do 'rolling stops' at traffic lights"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will \"not exit passing lanes\" and \"may perform rolling stops\" at traffic lights. It is still not entirely clear whether cars will come to a full stop at stop signs or not."
     publishedDateTime: 2022-01-10T05:47:00Z
@@ -271,6 +239,22 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG"
         width: 600
         height: 338
+        isCached: true
+  - title: "California reviews whether Tesla’s self-driving tests require oversight"
+    excerpt: "DMV revisiting prior decision that full self-driving is not subject to its regulations on autonomous vehicles"
+    publishedDateTime: 2022-01-13T16:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
+        width: 620
+        height: 372
         isCached: true
   - title: "Tesla’s 'Full Self-Driving' software just got a big price hike to $12,000"
     excerpt: "Tesla’s “Full Self-Driving” (FSD) software is about to get its second big price hike since it first entered beta in October 2020. What began at $8,000 quickly rose to $10,000 within days, and now it’s set to rise to $12,000 later this month."
@@ -503,6 +487,6 @@ related:
         height: 960
         isCached: true
 
-secured: "crws9E/8mgquQrc+LJXU5uDGh+dLqOEW0M1KgYYRc4gvot0NKIQj83m6GKk4okKdo8OKplQ7PU9MPZwkgTgeJJfAAbebN3jlQwQ+6Kd+y41MtIXDFF6CRad1SXw49lyMr7QjLyyyRqzONu42bpsy+G0Xqsl2XsVIXe5OsA109b6n+pydXENW/8+mPwExN/rqSYGBp58MDfeeXqtS1U5CAxjlmc5Rzh17ziihFow0ORCg5Wa1k4wluJAVwwbQ1KZ+6gi8/XG235rWyQCig3+exw3FMfycUz6QOTTZ4fiBBwIyGyKmh7OiQWHLJaJOSUeIT0HDtzQeaGUVFZ8BW0ecmbgHk5kdzg9fDaxm1wX44kY=;suviVDqcHdN8IiWOYzUgIg=="
+secured: "M8JLQm+XtrGC2mzfrUWutlYJqtjposbVVciReM9x+JVQXjuUIbw1OiL2GAYnyT/TZu/Cf1ktGGcS+LApjm7Knhpr7FasM5fWHvwJZcHQLebe7mDPig9rha7xiZ3eGfRWYJ5/AZwJzLXQMNuSVE++xGyp07/JdsDr1o4iJxoG45SeCfM0KPGjWF7br4XXRx9KgP39Kt4RKUF/3desWPdsXzyUdNdTcGy4nNHxiLb+zPiT+EbPSjjPKIT/9Sejw+/+DFUxVueyWhdbmZlHj+9R7LHW4XKuzEdQzffKfq78F+H6gze4HnGfzJZABQ82mMReAq4D2ege3rpfirkHQdqWS5YW+kMDad2Mm1qj8ISVQdX11k9NpWoBNew43wxV06RxRlyJPK+I593/+9BtYuhsE4640YU0u2Pw9IffQAnn84KNbfF1f01zQggNkDb1NjBORxldn04bE/4IsfFAQkPBWJmhT2Epri+vnWQhSdlepxQEdvRxri++vsx6Ha9eBKSs0c5ooproVYTztgq4BHzKbw==;y41TqBsXGKpIes1lWHujIg=="
 ---
 

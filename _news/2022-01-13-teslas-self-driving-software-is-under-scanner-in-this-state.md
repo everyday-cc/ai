@@ -176,38 +176,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Tesla's Elon Musk Tweets Full Self-Driving Option Price Increase"
-    excerpt: "Tesla raises the price of its Full Self-Driving autopilot option from $10,000 to $12,000 beginning Jan. 17. Telsa's ( TSLA) - Get Tesla Inc Report CEO Elon Musk on Friday tweeted that the electric vehicle maker plans to raise the price of its Full Self-Driving autopilot option to $12,"
-    publishedDateTime: 2022-01-09T02:54:00Z
-    webUrl: "https://www.thestreet.com/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
-    ampWebUrl: "https://www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/teslas-elon-musk-tweets-full-self-driving-option-price-increase"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 59
-    images:
-      - url: "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgyMDYxMzI0Nzk5MzIxNDE2/genetic-counselor-doctor-patient-sh.jpg"
-        width: 620
-        height: 400
-        isCached: true
-  - title: "Tesla’s Self-Driving Is Getting Better — and More Expensive"
-    excerpt: "Elon Musk tweeted that new versions of the company's driver-assistance software, dubbed Full Self Driving, are coming soon—and the price is going up too."
-    publishedDateTime: 2022-01-09T01:45:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-stock-self-driving-51641601389"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-stock-self-driving-51641601389"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 59
-    images:
-      - url: "https://images.barrons.com/im-464381/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Tesla's full self-driving beta may do 'rolling stops' at traffic lights"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will \"not exit passing lanes\" and \"may perform rolling stops\" at traffic lights. It is still not entirely clear whether cars will come to a full stop at stop signs or not."
     publishedDateTime: 2022-01-10T05:47:00Z
@@ -271,6 +239,22 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-1024x555.jpg"
         width: 1024
         height: 555
+        isCached: true
+  - title: "California reviews whether Tesla’s self-driving tests require oversight"
+    excerpt: "DMV revisiting prior decision that full self-driving is not subject to its regulations on autonomous vehicles"
+    publishedDateTime: 2022-01-13T16:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
+    images:
+      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
+        width: 620
+        height: 372
         isCached: true
   - title: "Tesla’s 'Full Self-Driving' software just got a big price hike to $12,000"
     excerpt: "Tesla’s “Full Self-Driving” (FSD) software is about to get its second big price hike since it first entered beta in October 2020. What began at $8,000 quickly rose to $10,000 within days, and now it’s set to rise to $12,000 later this month."

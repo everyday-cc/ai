@@ -107,6 +107,22 @@ related:
         width: 1037
         height: 648
         isCached: true
+  - title: "Dude, Where’s My Driverless Car?"
+    excerpt: "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way"
+    publishedDateTime: 2022-01-13T18:47:00Z
+    webUrl: "https://www.businessbecause.com/news/insights/8012/driverless-cars-future"
+    ampWebUrl: "https://amp.businessbecause.com/news/insights/8012/driverless-cars-future"
+    cdnAmpWebUrl: "https://amp-businessbecause-com.cdn.ampproject.org/c/s/amp.businessbecause.com/news/insights/8012/driverless-cars-future"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 59
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/1641574105.png"
+        width: 750
+        height: 468
+        isCached: true
 
 secured: "fZueK+NQdtg+H9h7jjofjUuoldraWXp0QqPfQRp+z6jaHQidkrsSQ3fvteIHJyV56cIn5gEBrADG0Qb+CAn+NztEdu1f8KhtT98Yckb0CidK4m4AeUaLYiu+pCRM2R2ROphNcvHxZ2KK/NqIra0j9M8wMOya54fsfWURy6+YmzJ8E3h6w5KKPGO3UrBgczy12heuIxWuNbFT4y/sKwyKAn8wT3FXQ7MBCH4Shii2wITKPpm71mceNsERKtpMyvSI7O1M73Fy8ToCFSI8Ny57wikbqzofTwt0QPoz2j4fIGxUfwt/jCPPMu0HX7pmGSCmqfVXg16vkgN3xEtg4WzXzb+xP66wYeaUPe2ZLYFk0W4=;EAedb5zqPsnZGkwbmjE4UQ=="
 ---

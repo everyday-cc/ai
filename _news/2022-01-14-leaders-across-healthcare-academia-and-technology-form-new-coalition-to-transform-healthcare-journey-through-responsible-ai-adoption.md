@@ -2,21 +2,27 @@
 category: news
 title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
 excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
-publishedDateTime: 2022-01-13T16:04:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-leaders-across-healthcare-academia-technology-form-new-coalition-/2022/01/13/9526129.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-leaders-across-healthcare-academia-technology-form-new-coalition-/2022/01/13/9526129.htm"
+publishedDateTime: 2022-01-13T16:13:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b"
+webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AI the brains driving broad transformation"
@@ -72,7 +78,16 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
+    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
+    publishedDateTime: 2022-01-13T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible/article_8df099d3-d5c5-52c4-b300-7e9b1b4eea10.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 3
 
-secured: "hLwRaMnQo/dVIWUKVkhv2XsXhmNelIkDe1k7f6WshyvXweJqhwXq2WKfhEoXmNbFbczNT5x+se67AejZ9NmJU7HsdfmsFmFYhRrPHA/eHj3lJ2rBpo5EknKxU0B0uJQI8PVxXcpmxxEXxOc3aXHuFRMtP5EOAXLcmGCfHgCvBkvUhYpOPKcWwvLnQW8JcAhPnWcumOGoQzN/hXdTgNWMct7wxMlaec1940icDvaBiRwHQvE/F3W7m/NLYys4BNA6/Ycuj4W05O2+U4zvoQOgUZcZ/ozr/+xVlSnLwPYJLsAGsc1D+fiZdJVKdG1btPSaH2vDcFRR+pduNqPScBOQxUrwdxIGi1jjiSwf1ab+9Zs=;OuqTDkLKn8C5Fy+SoBzgjg=="
+secured: "uKp5/ix/CWsgO7zkbStM7GkcANxt5KbHvWNjfOd6XDX1aDFD+F9YdfUdziKzKKCSyGgoxkb08kpP6lSlrL5Zqku6NyQmzjDgjEChAaPloQq1JhM67X5lEYCHf/dE2VZlzat7XaVaz7jXSUWjuEjOX0zVo5HTKfX5tRcjeUIyjz2X86jUpb+Lr6o66/C+GhkLUeyjp9F6wK1pVVCkkQkPiL9k7Ww9HpfmsTRFWRFvsZ+ERfzgCi0HJNV865l+Cbjx2gY5XIw3YDCgxAXOZMAk+yqRyReZGQvDyS/AeiYhU/AbiFB+SzIC6uCjWyumpYm0Uwaf6+b/Vo7zEWzx3E646gorCFPfO/2nuG65pb2qi4g=;dCdSLbXjfrrurMaIUnAy+A=="
 ---
 

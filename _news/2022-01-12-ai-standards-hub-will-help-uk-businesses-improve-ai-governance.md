@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techspective.net/wp-content/uploads/2022/01/artificial-intelligence-gfd97c804c_1920.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "15% of UK businesses have adopted AI"
+    excerpt: "A new report from DCMS shows that while over 430,000 businesses are already using AI, there is great potential for further growth."
+    publishedDateTime: 2022-01-13T17:16:00Z
+    webUrl: "https://www.techuk.org/resource/15-of-uk-businesses-have-adopted-ai.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/f12b63e3-8de1-4d35-84fa22dd2862822c/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/AR-AI-industrial-Robot-121487519-web-1500px.jpg"
+        width: 400
+        height: 248
         isCached: true
 
 secured: "U6l+Xia/u8q0uTxRGOqdtrMrG7GfFaOV0MGShgsrtEPRXE4C/GxtPfh9648kDK8h4Os+nKUjPWAjiBLSE0hxI5NwWIkqx3rVisbUaOzB5A40H7xqxEYdsF8UhxxnaNZ7kiqeKrlqXGiVe+PEcLrp/LLr4JDiDvHRlf1NncXQb0vc4SLD8jIReslUjIGsk3pSBxornd5bxvxromJGE3uUXzV2Mt7xgDH0PD+yaoxLvPycIVGgnmYwht/jbam9wjGvENlqqHfSZo3EKXGTdLsBvl9QXgHoVzqdSGMHrHJz8TSR7veUfODI1aJVEWMe0WeKCfQPwNJaJeg+hylhqbju8jX9IXlG7nDaDLNmwb7wWMg=;U66u+y3DytVo/KtNPhwR0Q=="

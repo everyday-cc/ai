@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/"
 type: article
 quality: 106
-heat: 186
+heat: 216
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Protai’s AI-powered platform is improving drug discovery"
+    excerpt: "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform."
+    publishedDateTime: 2022-01-13T18:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/"
+    ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all"
+        width: 800
+        height: 430
+        isCached: true
   - title: "Finding Love In The Midst Of Algorithms, Artificial Intelligence And Data"
     excerpt: "What sustains the thriving business of love? What has made these apps, agents and companies who broker love, such a success? Here is what my experience taught me."
     publishedDateTime: 2022-01-11T00:44:00Z
@@ -61,6 +77,20 @@ related:
       - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
         width: 4098
         height: 2304
+        isCached: true
+  - title: "3 Vectors of Artificial Intelligence and Machine Learning"
+    excerpt: "The New Stack Shorts covers three areas that are reshaping business processes and environments - from the intelligent applications that embed AI/ML and take advantage of data, and the system of enablers that allow them to reach scale to the chips that power them."
+    publishedDateTime: 2022-01-13T15:30:00Z
+    webUrl: "https://thenewstack.io/3-vectors-of-artificial-intelligence-and-machine-learning/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 56
+    images:
+      - url: "https://cdn.thenewstack.io/media/2022/01/67e2a21e-tns-shorts-awsmachine-learning.png"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
     excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
@@ -135,6 +165,15 @@ related:
     provider:
       name: america-retail.com
       domain: america-retail.com
+    quality: 19
+  - title: "How AI is being used to improve disability employment"
+    excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"
+    publishedDateTime: 2022-01-13T17:57:00Z
+    webUrl: "https://www.publicnow.com/view/8577DB312DF16BC9561778F10E8C2C5DA84C3480"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
     quality: 19
 
 secured: "FVtH5XceXRA6MqrbsT3HPwz17L5DEbUIEyzg1sLadTVJYGRJ3pCBBoV8xJAGv0DGaW6Bmx9b9UeVey96Rc/mbxJemv0dluGBJstCJpq532j6hwsg3R9hjX3cSC31Mu7s8VRkiYY72FrXtssxjEqE4EwQD8ltWA8mzzSLJ7zVyt4/8ALx76QuAjROX+mSHRTr6r8HPMFdnQmjbZFgTUwNwM89qj9fAUKuRPQ6skAvHa2WMlDKGhF8rjR7aPR0pJRy3WW4eSSYwvbAy9rdA2AmvbL5CDbip8THnJnfZTdYUxoLP3VfCraPZYNrv35oZ3YkUY17m/yEHKQg/V/5IG1cRO0sSSbRfEGcMNk4/gArT4J3z6fkJn2dw5oadAlga/PeULoxgUwrQi6bGfT0/5/2KRyJ4gVtoHN/3LJ4EAHK0pkly2UpHtR+aA8AQuyfFC8UHOUk8biIwo1hDDpod3x5CCUGCSLcO8LFHNEMRNy+cZSa+obwDj8Sd9EfjKotoTus3qxzLKvIqYdIeXdfePOCig==;sSVOTzbpuKvBM7yzuC9KTA=="
