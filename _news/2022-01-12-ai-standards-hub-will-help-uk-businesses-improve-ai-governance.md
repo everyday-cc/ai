@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
         width: 400
         height: 276
+        isCached: true
+  - title: "New UK initiative to shape global standards for Artificial Intelligence"
+    excerpt: "The Alan Turing Institute (@turinginst), supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government initiative to lead in shaping global technical standards for Artificial Intelligence."
+    publishedDateTime: 2022-01-13T09:40:00Z
+    webUrl: "https://www.fenews.co.uk/education/dcms-news-release-new-uk-initiative-to-shape-global-standards-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: fenews.co.uk
+      domain: fenews.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fenews.co.uk/wp-content/uploads/2021/09/46fc9920bc.png"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "U6l+Xia/u8q0uTxRGOqdtrMrG7GfFaOV0MGShgsrtEPRXE4C/GxtPfh9648kDK8h4Os+nKUjPWAjiBLSE0hxI5NwWIkqx3rVisbUaOzB5A40H7xqxEYdsF8UhxxnaNZ7kiqeKrlqXGiVe+PEcLrp/LLr4JDiDvHRlf1NncXQb0vc4SLD8jIReslUjIGsk3pSBxornd5bxvxromJGE3uUXzV2Mt7xgDH0PD+yaoxLvPycIVGgnmYwht/jbam9wjGvENlqqHfSZo3EKXGTdLsBvl9QXgHoVzqdSGMHrHJz8TSR7veUfODI1aJVEWMe0WeKCfQPwNJaJeg+hylhqbju8jX9IXlG7nDaDLNmwb7wWMg=;U66u+y3DytVo/KtNPhwR0Q=="

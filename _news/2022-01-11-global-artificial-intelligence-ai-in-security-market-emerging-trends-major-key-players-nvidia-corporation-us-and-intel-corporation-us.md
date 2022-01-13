@@ -43,6 +43,22 @@ related:
         width: 603
         height: 394
         isCached: true
+  - title: "Global Artificial Neural Network Market: Emerging Trends, Major Key Players Google and IBM"
+    excerpt: "According to the report The global Artificial Neural Network market size is expected to grow from XX Million in 2020 to XX Million by 2028 growing at the CAGR of more than 22 from 2021 to 2028 The major driver"
+    publishedDateTime: 2022-01-13T12:14:00Z
+    webUrl: "https://www.openpr.com/news/2526268/global-artificial-neural-network-market-emerging-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2526268/global-artificial-neural-network-market-emerging-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526268/global-artificial-neural-network-market-emerging-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/V/1/V113377635_g.jpg"
+        width: 603
+        height: 373
+        isCached: true
   - title: "Facial Recognition Readers Solution Market to Witness an Outstanding Growth during 2021-2027 with Leading Regions and Countries Data"
     excerpt: "Global “Facial Recognition Readers Solution Market\" is expected to grow at a steady growth during the forecast"
     publishedDateTime: 2022-01-10T08:56:00Z

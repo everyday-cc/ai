@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/2021-ai-recap-founders-predictions-
 webUrl: "https://www.linkedin.com/pulse/2021-ai-recap-founders-predictions-2022-dataloop"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "5 Best AI Stocks for 2022"
-    excerpt: "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),"
-    publishedDateTime: 2022-01-08T20:10:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 39
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg"
-        width: 1920
-        height: 1044
-        isCached: true
 
 secured: "GhOeJHU60Hp4drMFDEoaG63R8/Qqj4GrWsmOloB2bLCRWubwB+wpOZ+G8zII5jGKENyx/uqBfcW9BxJSg64k6OklsOxDkB0cSYVkQ2mOFyJ7bhRxbiz96J9kVZoC3ZduSDuii9xx34jQvM87yEXFvnIwzloxhBMdGFAgABE1uf+wh2fIa6NwpeaH0mXOzkklVmlKSTB4F7MoHMrdSgEIsNf8IJyt3V2RihS9DHdK3Pmp2qB5eTi16YliC4M6NUj1qK1o2CLdFHqjIQ04QdHTJn8sW1X5BX65fKJdjT7XTn+GhO9dxAGsLuRudTATPm1xxHpypaJpUp0qcpkIzysa1yxw76+CWgVdBN1dtPzWV+VuwiuXfvqrL1HPgSbVFFJMcN5u8nIUSR8Gf5r7folHZwY5DelCnkiEFge9NetmlT0dgPpAATa+md84c9op/Ot5F0aOQ4+TacJw7B3biNqewnDgylcEPahfL++vGVD/0Wyuw3CsaZlWlSmXqLhCbKNdl3mtyD3I0wt9UnPXbLXL9w==;URuciiOkJckaodNcjKexrA=="
 ---

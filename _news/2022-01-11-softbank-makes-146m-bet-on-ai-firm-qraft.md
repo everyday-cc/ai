@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Softbank injects $146 million into AI for asset management firm Qraft"
+    excerpt: "AI enabled fintech company Qraft Technologies, Inc. (“Qraft” or “the company”) today announced that it has closed a US$146 million investment from SoftBank Group Corp. (“SoftBank”), which includes primary growth capital and secondary capital that will be used to fund share purchases from investors."
+    publishedDateTime: 2022-01-13T11:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90971/softbank-injects-146-million-into-ai-for-asset-management-firm-qraft"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "SoftBank invests in artificial-intelligence startup Qraft Technologies"
     excerpt: "SoftBank Group Corp. is investing $146 million in Qraft Technologies Inc. to gain access to the money manager’s artificial-intelligence tools and help seed the startup’s growth. Qraft, which manages $1."
     publishedDateTime: 2022-01-10T23:52:00Z

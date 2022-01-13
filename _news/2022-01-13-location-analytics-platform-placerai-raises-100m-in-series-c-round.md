@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
-    excerpt: "© 2022 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-    publishedDateTime: 2022-01-08T19:36:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
   - title: "Placer.ai, a location analytics startup, finds $100M at a $1B valuation"
     excerpt: "Many of us are moving around these days a lot less than we used to — because of Covid, we’re working from home instead of an office; and we are traveling and going out less. Now, as we shift back into more “normal” behavior,"
     publishedDateTime: 2022-01-12T13:08:00Z
@@ -104,65 +90,44 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "IBM wants to exit healthcare by selling its Watson Health business"
-    excerpt: "IBM is attempting to sell its Watson Health business—just around a year after it was first reported to mull a sale in 2021. For context, Watson Health, formed in 2015, develops AI-driven analytics solutions for hospitals,"
-    publishedDateTime: 2022-01-10T05:10:00Z
-    webUrl: "https://www.emarketer.com/content/ibm-wants-exit-healthcare-by-selling-its-watson-health-business"
+  - title: "AIOps startup BigPanda raises $190M at $1.2B valuation"
+    excerpt: "BigPanda Inc., a fast-growing startup competing in the AIOps segment of the enterprise software market, today said that it has closed a $190 million funding round at a $1.2 billion valuation. Advent International and Insight Partners co-led the round."
+    publishedDateTime: 2022-01-12T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/01/12/draft-aiops-startup-bigpanda-raises-190m-at-1-2b-valuation/"
     type: article
     provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 56
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://contentstorage-nax1.emarketer.com/5e25b7a923b9f1f715d3079db3bea995/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/unsplash.png"
+        width: 850
+        height: 477
         isCached: true
-  - title: "Analytics Unicorn Fractal Acquires U.S-Based Neal Analytics To Ramp Up Its Cloud AI Offerings"
-    excerpt: "The acquisition will help Fractal scale AI-based services on its platform and strengthen its presence in Pacific Northwest, Canada, and India."
-    publishedDateTime: 2022-01-11T16:35:00Z
-    webUrl: "https://inc42.com/buzz/analytics-unicorn-fractal-acquires-u-s-based-neal-analytics-to-ramp-up-its-cloud-ai-offerings/"
-    ampWebUrl: "https://inc42.com/buzz/analytics-unicorn-fractal-acquires-u-s-based-neal-analytics-to-ramp-up-its-cloud-ai-offerings/amp/"
-    cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/analytics-unicorn-fractal-acquires-u-s-based-neal-analytics-to-ramp-up-its-cloud-ai-offerings/amp/"
+  - title: "Location data firm Placer.ai hits unicorn status with $100M Series C"
+    excerpt: "Placer.ai hits unicorn status with $100 million Series C, planning to double its headcount and expand its data offerings to new clients."
+    publishedDateTime: 2022-01-12T17:00:00Z
+    webUrl: "https://therealdeal.com/miami/2022/01/12/location-data-firm-placer-ai-hits-unicorn-status-with-100m-series-c/"
+    ampWebUrl: "https://therealdeal.com/miami/2022/01/12/location-data-firm-placer-ai-hits-unicorn-status-with-100m-series-c/amp/"
+    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/miami/2022/01/12/location-data-firm-placer-ai-hits-unicorn-status-with-100m-series-c/amp/"
     type: article
     provider:
-      name: inc42.com
-      domain: inc42.com
-    quality: 48
-    images:
-      - url: "https://inc42.com/wp-content/uploads/2022/01/Fractal-social-image.png"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Sacrificing Some Performance To Make Cloud Data Analytics Portable"
-    excerpt: "Amazon Web Services, Microsoft Azure, and Google Cloud – are all addressing the same issues of scale, performance, and economics"
-    publishedDateTime: 2022-01-12T19:17:00Z
-    webUrl: "https://www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/"
-    ampWebUrl: "https://www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/amp/"
+      name: The Real Deal
+      domain: therealdeal.com
+    quality: 37
+  - title: "The Briefing: TravelPerk Picks Up $115M, Placer.ai Lands $100M, And More"
+    excerpt: "Placer.ai, developer of software for tracking and analyzing retail foot traffic, raised $100 million in fresh funding round led by Product Hunt CEO Josh Buckley at a reported valuation of over $1 billion."
+    publishedDateTime: 2022-01-12T14:04:00Z
+    webUrl: "https://news.crunchbase.com/news/briefing-1-12-22/"
     type: article
     provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
+      name: crunchbase
+      domain: crunchbase.com
+    quality: 36
     images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/ab_cloud-logo-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
-  - title: "Machine Learning to Power the Future of Streaming Analytics"
-    excerpt: "The incredible amount of data that will be generated in the next few years demands help to manage, mostly in the form of machine learning algorithms."
-    publishedDateTime: 2022-01-13T10:15:00Z
-    webUrl: "https://tdwi.org/articles/2022/01/13/adv-all-machine-learning-to-power-the-future-of-streaming-analytics.aspx"
-    type: article
-    provider:
-      name: TDWI
-      domain: tdwi.org
-    quality: 39
-    images:
-      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/machinelearning4.jpg"
-        width: 976
-        height: 400
+      - url: "https://news.crunchbase.com/wp-content/uploads/2021/09/The_Briefing-rs.jpg"
+        width: 900
+        height: 506
         isCached: true
   - title: "Location analytics startup Placer.ai closes $100M investment at $1B valuation"
     excerpt: "Startup Placer.ai, which helps retailers analyze foot traffic at their stores to identify opportunities for business growth, today revealed that it has closed a $100 million funding round at a $1 billion valuation."
@@ -176,22 +141,6 @@ related:
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/Image-3.png"
         width: 800
-        height: 450
-        isCached: true
-  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
-    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
-    publishedDateTime: 2022-01-10T13:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/articleshow/88814127.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 33
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-665726,msid-88814157/technology.jpg"
-        width: 600
         height: 450
         isCached: true
   - title: "Real Estate Industry Gets In On $100M Funding Round For Location Analytics Startup Placer.ai"
@@ -226,6 +175,15 @@ related:
       name: Finanznachrichten
       domain: finanznachrichten.de
     quality: 18
+  - title: "Placer.ai joined the Bay Area's unicorn herd with a new $100M round"
+    excerpt: "Placer Labs Inc. The startup, which does business as Placer.ai, announced Wednesday its backers valued it at $1 billion as part of its latest funding round, a $100 million Series C. That's nearly triple the $350 million valuation they assigned it in its Series B round last April,"
+    publishedDateTime: 2022-01-12T12:00:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2022/01/12/placer-ai-joins-unicorns-with-new-funding-round.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
   - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
     excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
     publishedDateTime: 2022-01-10T14:41:00Z

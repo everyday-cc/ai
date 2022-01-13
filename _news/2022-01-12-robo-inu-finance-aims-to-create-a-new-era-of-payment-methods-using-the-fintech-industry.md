@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25011004"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robo Inu Finance aims to create payment methods using the FinTech industry"
+    excerpt: "Robo Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial"
+    publishedDateTime: 2022-01-13T11:42:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/robo-inu-finance-aims-to-create-payment-methods-using-the-fintech-industry/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 52
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/01/8c_8LinT_400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Fintech and the Retail Industry"
     excerpt: "Yes, it’s a new buzzword in the retail industry, but there is a lot more to it. So what exactly does “Fintech” mean? Fintech is a term that covers a wide range of financial technologies, like e-commerce,"
     publishedDateTime: 2022-01-12T20:51:00Z

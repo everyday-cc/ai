@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-inte
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
 type: article
 quality: 172
-heat: 212
+heat: 222
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/01/softbank-fintech-investment-alphacredit-457x305.jpg"
         width: 457
         height: 305
+        isCached: true
+  - title: "Softbank injects $146 million into AI for asset management firm Qraft"
+    excerpt: "AI enabled fintech company Qraft Technologies, Inc. (“Qraft” or “the company”) today announced that it has closed a US$146 million investment from SoftBank Group Corp. (“SoftBank”), which includes primary growth capital and secondary capital that will be used to fund share purchases from investors."
+    publishedDateTime: 2022-01-13T11:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/90971/softbank-injects-146-million-into-ai-for-asset-management-firm-qraft"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 54
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "SoftBank invests in artificial-intelligence startup Qraft Technologies"
     excerpt: "SoftBank Group Corp. is investing $146 million in Qraft Technologies Inc. to gain access to the money manager’s artificial-intelligence tools and help seed the startup’s growth. Qraft, which manages $1."

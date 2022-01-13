@@ -85,6 +85,20 @@ related:
         width: 400
         height: 276
         isCached: true
+  - title: "New UK initiative to shape global standards for Artificial Intelligence"
+    excerpt: "The Alan Turing Institute (@turinginst), supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government initiative to lead in shaping global technical standards for Artificial Intelligence."
+    publishedDateTime: 2022-01-13T09:40:00Z
+    webUrl: "https://www.fenews.co.uk/education/dcms-news-release-new-uk-initiative-to-shape-global-standards-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: fenews.co.uk
+      domain: fenews.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fenews.co.uk/wp-content/uploads/2021/09/46fc9920bc.png"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "IsRy5WHDcDTTR4bIaw5npc/v5kpua1oPc2l4X/jgLrdVcv1GPAgSFVwklh/39CzHinYdC9Hlk4AGaY2edMSSnHtFFW7XIj7Fh7d/3BXd61xKxeomwgRONxjJ3vORIOTuY0tTaT0dfMH58PCRAGNWOKESoeUYO5jaluuA9u8+ZWxn7a8izb1AbrMZmXaVa+f2ZOUYy6kyk1gQzs0Efa4k+l7Rgzs8DQgrSkVGjomOyn8XN5DUt4pCfqkfo/zjfk4pUQrt7AItW3payb60ATYVo2KsOKXgaSeqAUc+Z4UsKleCk4I7ghFgEkjW/8xwiXzDCpiU33RWOMSSDF7Hxc++/NpJbspFiQcfS94z4/QeYnY=;vwbxn+nvhhOT/w1j7SYaWA=="
 ---

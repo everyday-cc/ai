@@ -41,6 +41,20 @@ related:
         width: 500
         height: 236
         isCached: true
+  - title: "Robo Inu Finance aims to create payment methods using the FinTech industry"
+    excerpt: "Robo Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial"
+    publishedDateTime: 2022-01-13T11:42:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/robo-inu-finance-aims-to-create-payment-methods-using-the-fintech-industry/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 52
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/01/8c_8LinT_400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "FinTech and the New Consumer Market"
     excerpt: "FinTech and the New Consumer Market  - Fintech innovations such as the Internet of Things, artificial intelligence, blockchain, and cloud computing are"
     publishedDateTime: 2022-01-10T11:16:00Z

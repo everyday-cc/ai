@@ -9,8 +9,8 @@ ampWebUrl: "https://www.yourerie.com/on-our-air/your-health/your-health-artifici
 cdnAmpWebUrl: "https://www-yourerie-com.cdn.ampproject.org/c/s/www.yourerie.com/on-our-air/your-health/your-health-artificial-intelligence-to-help-prevent-dementia/amp/"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: yourerie.com
@@ -27,24 +27,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "HealthWatch: The Future – AI Prevents Dementia?"
-    excerpt: "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s"
-    publishedDateTime: 2022-01-08T19:41:00Z
-    webUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/"
-    ampWebUrl: "https://www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
-    cdnAmpWebUrl: "https://www-wearegreenbay-com.cdn.ampproject.org/c/s/www.wearegreenbay.com/healthwatch/healthwatch-the-future-ai-prevents-dementia/amp/"
-    type: article
-    provider:
-      name: We Are Green Bay
-      domain: wearegreenbay.com
-    quality: 59
-    images:
-      - url: "https://www.wearegreenbay.com/wp-content/uploads/sites/70/2020/04/HealthWatch.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "WerjertvCJUMDbTKKfsjb1rXpfUTnk0tixwYTml+okrL4kwFAocyRMekh++11AtKLAcqjrSctI3Z27gwqQvW/QIgDpbAwc64GtHKaEcGSSmxt20PrAGr3gUYxGahB7QWIhfL/oNx2IaHaTTn/qLD6QuHexV8z2RoPU2ccVfosBEKlzkiuK/vzlwhYRftx5a0FQGaT/3JP08sZiHEKdIZFBPqb675Vu7ssZAq4t+0wLmCvmu1kIeQvjzgfCUuw5S8AtMu4VswSQ8HM2AYYr/BejEfzZar1mnlgITGeVw3qhLpqV2cKkZJtXhurT9SWbymJ+non7lcKeR/LS/xlHPhUS2SW/D7lQlgonOcstnSGmE=;ZQRA18odtxjymuPX/d+C7Q=="
 ---

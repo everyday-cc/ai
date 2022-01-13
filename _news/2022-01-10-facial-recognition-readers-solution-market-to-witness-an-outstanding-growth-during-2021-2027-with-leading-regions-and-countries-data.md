@@ -61,6 +61,22 @@ related:
         width: 603
         height: 380
         isCached: true
+  - title: "Global Artificial Neural Network Market: Emerging Trends, Major Key Players Google and IBM"
+    excerpt: "According to the report The global Artificial Neural Network market size is expected to grow from XX Million in 2020 to XX Million by 2028 growing at the CAGR of more than 22 from 2021 to 2028 The major driver"
+    publishedDateTime: 2022-01-13T12:14:00Z
+    webUrl: "https://www.openpr.com/news/2526268/global-artificial-neural-network-market-emerging-trends"
+    ampWebUrl: "https://www.openpr.com/amp/2526268/global-artificial-neural-network-market-emerging-trends"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526268/global-artificial-neural-network-market-emerging-trends"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 49
+    images:
+      - url: "https://cdn.openpr.com/V/1/V113377635_g.jpg"
+        width: 603
+        height: 373
+        isCached: true
 
 secured: "uoHRbcrALe7v3mtVscPstrhxyaqlYzg1uGQM2n0E2zAKyPYBwp/+FMIAGB1j3n+vd/xQggNXaPYudEr6wNKmfAEeKZrLTFiSOaJ+laDGzGl3hvBOhNEcphl/UBSQxamnYXn/CyUv1K3qzqu9OTI2aMqN8ayGa9fFy3TCDiq02adh+TOcdkQOWnNkdFNg8obti4xL1XF9ku8y5rmb5fowbWWPp/WZzQkXcpqH2hFaTXaFKoxZdb0cbc978jF9qpF2tPgum9H6mc+PIae4XOnzIa4qjXAc3WnLY0V2ms4phGek6/EwD6PMG5X3UZ4W10Tx0oMlQVKJwkwGyINqBemC5PynL5g++zNhkdtWqar0d9A=;LgoCE6XLDF8fflcRgDcWTQ=="
 ---

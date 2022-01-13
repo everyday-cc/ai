@@ -7,7 +7,7 @@ originalUrl: "https://www.khaleejtimes.com/education/michael-jordan-joins-uaes-a
 webUrl: "https://www.khaleejtimes.com/education/michael-jordan-joins-uaes-artificial-intelligence-university"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Michael Jordan joins MBZUAI as laureate professor"
+    excerpt: "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Mic"
+    publishedDateTime: 2022-01-13T12:41:00Z
+    webUrl: "https://menafn.com/1103533602/Michael-Jordan-joins-MBZUAI-as-laureate-professor"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?45781"
+        width: 502
+        height: 250
+        isCached: true
   - title: "Michael Jordan joins UAE's artificial intelligence university"
     excerpt: "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Michael I. Jordan, has been named laureate professor at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)."
     publishedDateTime: 2022-01-13T03:41:00Z
