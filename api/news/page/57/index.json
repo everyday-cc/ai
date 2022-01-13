@@ -2,6 +2,92 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2021-11-27-ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines.md",
+      "title": "AI Weekly: UN recommendations point to need for AI ethics guidelines",
+      "excerpt": "The United Nations' new AI ethics regulations point to growing recognition of the need for AI ethics guidelines.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
+      "originalUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/26/ai-weekly-un-recommendations-point-to-need-for-ai-ethics-guidelines/amp/",
+      "publishedDateTime": "2021-11-26T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-26-baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report.md",
+      "title": "Baidu’s Robotaxi Service Approved For Commercial Deployment in Beijing – Report",
+      "excerpt": "Baidu (BIDU) and self-driving startup Pony.ai can proceed and launch paid driverless robotaxi services in Beijing. According to a report published by Reuters, the two companies have secured the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report",
+      "originalUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidus-robotaxi-service-approved-for-commercial-deployment-in-beijing-report?amp",
+      "publishedDateTime": "2021-11-26T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-26-flowrite-is-an-ai-writing-productivity-tool-that-wants-to-help-you-hit-inbox-zero.md",
       "title": "Flowrite is an AI writing productivity tool that wants to help you hit inbox zero",
       "excerpt": "When TechCrunch asks Flowrite if it’s ‘Grammarly on steroids’, CEO and co-founder Aaro Isosaari laughs, saying that’s the comment they always get for the AI writing productivity tool they’ve been building since late summer 2020 — drawing on early access to",
@@ -1058,92 +1144,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users.md",
-      "title": "MediaTek fixes vulnerability on its chips allowing certain apps to listen users",
-      "excerpt": "MediaTek went from a controversial chipmaker to one of the most relevant in the last years. The Dimensity lineup brought the Taiwanese chipmaker big achievements",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
-      "originalUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2021/11/MediaTek-Dimensity-2232-1024x576.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2021/11/25/mediatek-fixes-vulnerability-on-its-chips-allowing-certain-apps-to-listen-users/amp/",
-      "publishedDateTime": "2021-11-25T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros.md",
-      "title": "Artificial intelligence in the healthcare sector: Lindera successfully closes financing round of six million euros",
-      "excerpt": "Lindera– one of the leading deep-tech companies in the field of computer vision – has successfully closed a Series A financing round. The Berlin-based health-tech company is receiving additional growt",
-      "sourceUrl": null,
-      "webUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
-      "originalUrl": "https://www.djournal.com/artificial-intelligence-in-the-healthcare-sector-lindera-successfully-closes-financing-round-of-six-million-euros/article_db459d96-a723-5570-98bc-9f77961f3171.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/a/12/a12a1954-7d37-5490-aa80-d0bb0d17c216/619fa25c6fc1b.image.jpg?crop=1272%2C668%2C3%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T05:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Journal",
-        "domain": "djournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

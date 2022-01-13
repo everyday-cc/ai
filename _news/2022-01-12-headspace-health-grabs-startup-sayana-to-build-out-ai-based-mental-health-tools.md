@@ -40,6 +40,20 @@ related:
         width: 1022
         height: 535
         isCached: true
+  - title: "Headspace Health acquires an AI chatbot—will peer-to-peer therapy be next?"
+    excerpt: "In wake of Headspace Health’s acquisition of AI chatbot Sayana, we explore how telemental health firms might look to stand out from the pack."
+    publishedDateTime: 2022-01-13T05:15:00Z
+    webUrl: "https://www.emarketer.com/content/headspace-health-acquired-ai-chatbot-will-peer-to-peer-therapy-next"
+    type: article
+    provider:
+      name: eMarketer
+      domain: emarketer.com
+    quality: 52
+    images:
+      - url: "https://contentstorage-nax1.emarketer.com/fc689f21a4c485515751be40c979d636/default-image-share.png?im=FitAndFill,width=1200,height=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xGqjR4SjLz83GoSSbPFZa2ahsX0R/aVupvLijfPfMdO/fvo1+cyLca8X/0KfCEAtOPb+ofCc5B2hqT/t80riWHjx6zZ1YUyrDgygQDenIV7FjtYwNfrhyzlGYY0BaHbixN/X2JNyOBBmI5mnRBNZSzJuN3w4Tmm83TgGzDojVOyHJsqfYEh98cGlMVs5GD4wLyk4yP7O1t1XhnfShBGT5ajhWDLBaulH2O3qn63le6k8/+hdBiUB7nEqtX/lKZKaH5E3LUWazrKksjUlWI6IHt/86MAyZYtVGEQeN/W0hRYK6/w4+18oRX494P8CTRlTnhEwv2QF8KHQJJlpwZasiAIKrVuXCVLWp6+0L0TkHv0=;oe5gMXAHBhcgd2gm3n1Dzg=="
 ---

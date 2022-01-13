@@ -2,6 +2,95 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-06-itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022.md",
+      "title": "ITRI intros innovations in AI, robotics, and ICT at CES 2022",
+      "excerpt": "Taiwan’s largest and one of the world’s leading high-tech applied research institutions, will introduce AI, robotics, and ICT technologies at its CES 2022 booth",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/",
+      "originalUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2022/01/ITRI.jpg",
+          "width": 531,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/itri-intros-innovations-in-ai-robotics-and-ict-at-ces-2022/amp/",
+      "publishedDateTime": "2022-01-06T00:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology.md",
+      "title": "Confronting Ethical Challenges Remains Key to Advancing Facial-Recognition Technology",
+      "excerpt": "Facial-recognition technology has proved itself a useful tool, especially for identifying perpetrators of crime, but it raises serious ethical issues when used in public places. Regulators and privacy watchdogs are butting heads over the matter,",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/",
+      "originalUrl": "https://internationalbanker.com/technology/confronting-ethical-challenges-remains-key-to-advancing-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://internationalbanker.com/wp-content/uploads/2021/12/Facial-Recognition-Technology.png",
+          "width": 975,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-ai-startup-fractal-enters-unicorn-club.md",
       "title": "AI startup Fractal enters Unicorn club",
       "excerpt": "DeepTech startup Fractal enters the unicorn club after raising $360 million from global asset firm TPG. Post the latest financing round Fractal has been valued at $1 Billion stated",
@@ -1104,91 +1193,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-amazon-announces-broad-cloud-and-ai-collaboration-with-auto-giant-stellantis.md",
-      "title": "Amazon announces broad cloud and AI collaboration with auto giant Stellantis",
-      "excerpt": "Stellantis NV, one of the world’s top automakers, that will encompass smart vehicles, a cloud-based data mesh and other ambitious technology initiatives. Stellantis was formed in 2021 from the merger of Chrysler Automobiles and PSA Group.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/",
-      "originalUrl": "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/amazon.png",
-          "width": 718,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T10:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman.md",
-      "title": "Australian man plans to marry robot after failing to find loving woman",
-      "excerpt": "Australian man wants to marry his expensive AI robot Emma and doesn't want to change anything about their relationship",
-      "sourceUrl": null,
-      "webUrl": "https://www.geo.tv/latest/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
-      "originalUrl": "https://www.geo.tv/latest/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geo.tv/assets/uploads/updates/2022-01-05/l_391772_102300_updates.jpg",
-          "width": 700,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geo.tv/amp/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
-      "cdnAmpWebUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
-      "publishedDateTime": "2022-01-05T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geo News",
-        "domain": "www.geo.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

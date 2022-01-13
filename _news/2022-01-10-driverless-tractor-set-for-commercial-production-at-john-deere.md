@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.abc.net.au/article/100744258"
 cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100744258"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Australian Broadcasting Corporation
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "RTA forum reviews traffic rules of driverless flying taxis in Dubai"
+    excerpt: "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation."
+    publishedDateTime: 2022-01-13T06:31:00Z
+    webUrl: "https://www.zawya.com/mena/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 74
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "LG Also Wants to Cash in on Future Driverless Vehicles"
     excerpt: "Are you excited or not about Apple’s on-again, off-again car project ? You should know that other tech giants are also exploring mobility solutions for the driverless future. At CES 2022 , Sony unveiled a new prototype of its Vision-S electric vehicle and announced the founding of a company to"
     publishedDateTime: 2022-01-10T13:16:00Z

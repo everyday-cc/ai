@@ -2,6 +2,110 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-12-18-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/A.I._hand_playing_the_game_of_Go.width-700.jpg",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T11:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-ai-weekly-novel-architectures-could-make-large-language-models-more-scalable.md",
+      "title": "AI Weekly: Novel architectures could make large language models more scalable",
+      "excerpt": "Large language models are currently difficult to scale. But this could change with an architecture called mixture of experts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/",
+      "originalUrl": "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/ai-weekly-novel-architectures-could-make-large-language-models-more-scalable/amp/",
+      "publishedDateTime": "2021-12-17T11:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-18-9-semiconductor-themes-for-2022-automotive-chip-shortage-strong-cloud-demand-aiml-powering-metaverse-and-more.md",
       "title": "9 Semiconductor Themes For 2022: Automotive Chip Shortage, Strong Cloud Demand, AI/ML Powering Metaverse And More",
       "excerpt": "Recent supply chain conditions set up the semiconductor sector for substantial revenue in 2022 with much of the growth coming from substantial restocking by customers, according to an analyst at Morgan Stanley.",
@@ -1098,100 +1202,6 @@
         "images": [
           {
             "url": "/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now-freely-connect-to-the-dbc-network.md",
-      "title": "DeepBrain Chain computing power mainnet launches online, meaning all GPU servers can now freely connect to the DBC network",
-      "excerpt": "With the advent of the digital era represented by Metaverse + AI, high performance computing power （GPU）will become the most important basic resource.Singapore - December 17, 2021 — As Metaverse become the new hot space to enter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now",
-      "originalUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp",
-      "publishedDateTime": "2021-12-17T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-levis-ai-chief-says-algorithms-have-helped-boost-revenue.md",
-      "title": "Levi’s AI Chief Says Algorithms Have Helped Boost Revenue",
-      "excerpt": "The use of AI has helped the apparel company make better decisions in areas such as pricing and shipping, Chief Strategy and AI Officer Katia Walsh says.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231",
-      "originalUrl": "https://www.wsj.com/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-451210/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231",
-      "publishedDateTime": "2021-12-17T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,101 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-12-17-artificial-intelligence-in-platform-as-a-service-paas-market.md",
+      "title": "Artificial Intelligence in Platform as a Service (PaaS) Market",
+      "excerpt": "Latest Study on Industrial Growth of Global Artificial Intelligence in Platform as a Service (PaaS) Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "originalUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/U/c/Uc16495437_g.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
+      "publishedDateTime": "2021-12-16T10:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode.md",
+      "title": "Waymo says self-driving car that struck pedestrian in San Francisco was in manual mode",
+      "excerpt": "A Waymo self-driving Jaguar I-Pace that struck a pedestrian in San Francisco on Wednesday evening was in manual mode, the company told TechCrunch in response to an initial report posted on Reddit. Waymo says the vehicle was in manual mode at the time,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/06/waymo-ipace.jpeg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
+      "publishedDateTime": "2021-12-16T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-21st-century-problems-insuring-ai-and-smart-devices.md",
       "title": "21st Century Problems: Insuring AI and Smart Devices",
       "excerpt": "How the insurance industry is grappling with covering AI, smart devices, and driverless cars Key takeaways: The insurance industry must evolve along with technology Changes relate to new analyses and",
@@ -1100,91 +1195,6 @@
       "provider": {
         "name": "The Korea Herald",
         "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-3-startups-spearheading-ai-growth-in-south-korea.md",
-      "title": "3 startups spearheading AI growth in South Korea",
-      "excerpt": "According to McKinsey & Company, at least 70% of businesses worldwide would have adopted at least one type of AI technology by 2030. However, South Korea aims to be one step ahead of the rest. In line with its national strategy for artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea",
-      "originalUrl": "https://www.techinasia.com/3-startups-spearheading-ai-growth-south-korea",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T20:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us.md",
-      "title": "Tesla self driving Beta went against the most dangerous roads in the US",
-      "excerpt": "American Irish Youtuber CGP Gray released a video showing how Tesla Model 3 with Full Self Driving technology against the Tail of Dragon.",
-      "sourceUrl": null,
-      "webUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
-      "originalUrl": "https://techstory.in/tesla-self-driving-beta-went-against-the-most-dangerous-roads-in-the-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techstory.in/wp-content/uploads/2021/12/Screen-Shot-2021-12-15-at-3.00.18-PM-1024x570-1.png",
-          "width": 1024,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T20:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tech",
-        "domain": "techstory.in",
         "images": null,
         "publishers": null,
         "authors": null

@@ -1,29 +1,22 @@
 ---
 category: news
 title: "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform"
-excerpt: "Cogniteam today announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development and deployment platform, allowing cloud-enabled deployments to use NVIDIA technology for the first time."
-publishedDateTime: 2022-01-11T21:47:00Z
-originalUrl: "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/"
-webUrl: "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/"
+excerpt: "Cogniteam integrates NVIDIA Isaac GEMs into Nimbus, streamlining robotics from development to deployment leveraging the NVIDIA Jetson platform"
+publishedDateTime: 2022-01-11T22:13:00Z
+originalUrl: "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/"
+webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/"
 type: article
-quality: 41
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: insidebigdata.com
-  domain: insidebigdata.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
-  - AI Hardware
-  - AI
   - AI in Robotics
-
-images:
-  - url: "https://insidebigdata.com/wp-content/uploads/2022/01/Cogniteam_Nimbus-Screenshot.jpeg"
-    width: 700
-    height: 390
-    isCached: true
+  - AI
 
 related:
   - title: "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI"
@@ -55,6 +48,6 @@ related:
         height: 797
         isCached: true
 
-secured: "DChO3r8NPjN1ddW04K12Fu/BCyjddIMqTOwjMz5Z7XBKf0W8UzE/EyCqjlgOU6V+wuJLw2ttou2kEo3YfLNOaTfGDDccj4l8nvOLHb1Ls4qeuFlTEnaDT7nEnf/x/Dk5/SGqbfNl0MFXdbkK2e0J+QWXzbljwx/E1fGukX9N8uyg6GMU1uWIZSgZEisWSK3CNoia5rGiYQzQqlYVRdGpE5t881itEZoa5lcZCUKk4w1Lxlf/B6Ui6Gbh8iTvqEaqc4X3Ok8jAbm+GdJ6cibfwA+FtIPKJAeWy6f5yr1GW4TOQUUV5DmVQbW0lFl0xiNLgAW5xXM32TjlVJCYsmv02QpW0NhjnyRj9oIFMi+LKzE=;WIGmBF7T9P+QAOqezCYODA=="
+secured: "RsbLrDBxAR9i0P/zBbso3ylV+B6xjzKD417gc2DeSjRAUZYt5ccQMO0ymKJsLq8OtikFdcUcvISMXj2Bv5bq8+yHIKrRAejAWzO4kmR+gecZGGW0ZHI0NT5GNqjTTNgdEL+8XDjK3GsSbIWOOWewpGrcubz4ZNLLe0uxGWgb29uTqXBALwqkKY6CKVh31JitwvrY8gCnAGXt00LeZ3OrpI+3EDJbDpcqJYpD9Iz/qKSYME7V4LtKC8F76thh7KcMi8sSbyZUk25pm3BKgu0cWtGrtyc+aJ0aHmkvIwNGQKDdVnzhMmuUPXzkUZYkgJoGv4V4ueCOsgfaBIk8hGliDLsB01Yh4zdsvvafBR8TXdc=;xNsGVQHlA+St/av7eXuBXw=="
 ---
 

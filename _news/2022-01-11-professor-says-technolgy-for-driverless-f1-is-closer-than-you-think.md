@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "RTA forum reviews traffic rules of driverless flying taxis in Dubai"
+    excerpt: "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation."
+    publishedDateTime: 2022-01-13T06:31:00Z
+    webUrl: "https://www.zawya.com/mena/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/"
+    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 74
+    images:
+      - url: "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Driverless tractor set for commercial production at John Deere"
     excerpt: "Using six pairs of stereo cameras and advanced artificial intelligence, the tractor can navigate to ... or for Rural news daily. Driverless tractor technology has the potential to help solve a modern agricultural dilemma — how can farmers do more ..."
     publishedDateTime: 2022-01-09T23:40:00Z

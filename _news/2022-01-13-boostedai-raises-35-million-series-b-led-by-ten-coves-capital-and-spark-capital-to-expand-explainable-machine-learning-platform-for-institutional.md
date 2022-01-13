@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional In"
-    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Series B financing round, led by Ten Coves Capital and Spark Capital."
-    publishedDateTime: 2022-01-12T14:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=599340"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
-    images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
-        isCached: true
 
 secured: "2P1YP4XHkU2zZBC0AMCxB2/1iVGy0Dr3cVf2Gcgbq72G2wZnAtfYPhLwm8xzIypqliZcEDNRFyT1S06kqjHKBfTl4WI3txaJpUIlOsbl3oK9IwNZVPpqNcRYzVLCS2BoKEOzbNOeXpbrI8xMgn3GBiUn5p2jGhkoLDIvZ9+lUIDOKhMDgCm/If7SfDUqLdDzM4ESYTNJ4gtcDwCiv8SSclv9BGNHlbeNI79pV/RVNBU8A/Ea/HZciZSBcS1T5AVBX3qCb6/9oqLoCea8uysTLIiolpuCi96fAotxtGyQWu5zsD4PkHFiGCI5Er4BLkS/6yuxSlIIFf7r55WxmarzOc0Lw7hpyJ4Cj9cU9LhY+y4=;U5i5bjU/FPySAffl208gYw=="
 ---

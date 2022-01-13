@@ -2,6 +2,111 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-12-10-us-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker.md",
+      "title": "U.S. to Bar Investment in Chinese AI Giant, Considers Banning Key Exports to Top Chip Maker",
+      "excerpt": "The focus on SenseTime and Semiconductor Manufacturing International is part of broader Biden administration effort against China’s tech firms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
+      "originalUrl": "https://www.wsj.com/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-449342/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-to-bar-investment-in-chinese-ai-giant-considers-banning-key-exports-to-top-chip-maker-11639092799",
+      "publishedDateTime": "2021-12-09T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-codifying-humanity-why-ai-sucks-at-content-moderation.md",
+      "title": "Codifying humanity: Why AI sucks at content moderation",
+      "excerpt": "Meta unveiled a new content moderation AI system that it claims is a step towards generalized AI systems. We think they might be exaggerating.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
+      "originalUrl": "https://thenextweb.com/news/codifying-humanity-why-ai-sucks-content-moderation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Fzipperzuck.jpg&signature=f413e64c9b1f9fae8b90159af5c31f24",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T14:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-instabase-adds-deep-learning-to-make-sense-of-unstructured-data.md",
       "title": "Instabase adds deep learning to make sense of unstructured data",
       "excerpt": "Instabase hopes to help businesses benefit from unstructured data with the help of some good, old-fashioned AI",
@@ -1037,110 +1142,6 @@
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-millions-of-americans-will-now-be-eligible-for-superhero-healthcare.md",
-      "title": "Millions Of Americans Will Now Be Eligible For Superhero Healthcare",
-      "excerpt": "Following Wonder Woman Gal Gadot's announcement last week that she would be joining forces with healthcare giant K Health, the company is now announcing it will provide primary care to 10 million more",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b20098bc35b3d9629e2162%2F0x0.jpg%3FcropX1%3D418%26cropX2%3D4579%26cropY1%3D0%26cropY2%3D2340",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carrierubinstein/2021/12/09/millions-of-americans-will-now-be-eligible-for-superhero-healthcare/amp/",
-      "publishedDateTime": "2021-12-09T04:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone.md",
-      "title": "The Psychology Of Voice Technology: Building A Better Voice Assistant For Everyone",
-      "excerpt": "If a voice assistant can't do its primary job and understand what's being asked, the user is a lot less likely to continue using it. So, what can be done to create a more inclusive VUI experience?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b0b46dd7853eea1ce9f3db%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/09/the-psychology-of-voice-technology-building-a-better-voice-assistant-for-everyone/amp/",
-      "publishedDateTime": "2021-12-09T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

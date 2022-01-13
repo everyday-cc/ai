@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-13-rta-forum-reviews-traffic-rules-of-driverless-flying-taxis-in-dubai.md",
+      "title": "RTA forum reviews traffic rules of driverless flying taxis in Dubai",
+      "excerpt": "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "originalUrl": "https://www.zawya.com/mena/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20220112142948653/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20220112142948653/",
+      "publishedDateTime": "2022-01-12T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-orai-robotics-raises-inr-65-cr-in-pre-series-a-round-led-by-inflection-point-ventures.md",
+      "title": "ORAI Robotics Raises INR 6.5 Cr in Pre-series a Round Led by Inflection Point Ventures",
+      "excerpt": "Sujit Das Biswas, CTO & Swapnil Jain, CEO ORAI Robotics is an integrated conversational AI platform focused at maximising",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2022/01/orai-robotics-raises-inr-65-cr-in-pre.html",
+      "originalUrl": "https://www.indianweb2.com/2022/01/orai-robotics-raises-inr-65-cr-in-pre.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi-55sk0UPRjuXp0VEHwUIeE-_dB8pASiF95yLJ5HKHBIlw_ogifsLTwu97CCxGyPedDJprFoyMc-r7KJTiQcFKXgUJCHsZduGi7bxo-kSN1aKvZTNYb2JaxaBlv1rCmePKXitKowKzQp5eVm1DdXCakmGdW-sdo9PO9VRO3tVQWE5IfoKYOStz4src=s16000",
+          "width": 1812,
+          "height": 1251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-cogniteams-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai.md",
       "title": "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI",
       "excerpt": "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development",
@@ -54,7 +140,7 @@
       "originalUrl": "https://siliconangle.com/2022/01/12/distributed-machine-learning-startup-boosted-ai-raises-35m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -528,7 +614,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -579,7 +665,7 @@
       "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -1095,111 +1181,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
-      "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
-      "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/412667",
-      "originalUrl": "https://www.entrepreneur.com/article/412667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412667.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature-called-dldsr.md",
-      "title": "Latest Nvidia drivers reveal AI-powered downscaling feature called DLDSR",
-      "excerpt": "Dynamic Super Resolution is Nvidia’s method for letting users easily downsample games. It renders a game at a higher resolution, then shrinks it back down to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
-      "originalUrl": "https://www.techspot.com/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-11-image-21.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
-      "publishedDateTime": "2022-01-11T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

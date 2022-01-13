@@ -2,6 +2,100 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-12-17-deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now-freely-connect-to-the-dbc-network.md",
+      "title": "DeepBrain Chain computing power mainnet launches online, meaning all GPU servers can now freely connect to the DBC network",
+      "excerpt": "With the advent of the digital era represented by Metaverse + AI, high performance computing power （GPU）will become the most important basic resource.Singapore - December 17, 2021 — As Metaverse become the new hot space to enter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now",
+      "originalUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp",
+      "publishedDateTime": "2021-12-17T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-levis-ai-chief-says-algorithms-have-helped-boost-revenue.md",
+      "title": "Levi’s AI Chief Says Algorithms Have Helped Boost Revenue",
+      "excerpt": "The use of AI has helped the apparel company make better decisions in areas such as pricing and shipping, Chief Strategy and AI Officer Katia Walsh says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231",
+      "originalUrl": "https://www.wsj.com/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-451210/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/levis-ai-chief-says-algorithms-have-helped-boost-revenue-11639744231",
+      "publishedDateTime": "2021-12-17T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-how-ai-and-data-analytics-drive-value-in-the-finance-function.md",
       "title": "How AI And Data Analytics Drive Value In The Finance Function",
       "excerpt": "The era of AI and “Big Data” offers immense opportunity for finance teams to automate routine tasks, allowing professionals to focus on higher-value activities.",
@@ -1034,101 +1128,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-artificial-intelligence-in-platform-as-a-service-paas-market.md",
-      "title": "Artificial Intelligence in Platform as a Service (PaaS) Market",
-      "excerpt": "Latest Study on Industrial Growth of Global Artificial Intelligence in Platform as a Service (PaaS) Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "originalUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc16495437_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "publishedDateTime": "2021-12-16T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode.md",
-      "title": "Waymo says self-driving car that struck pedestrian in San Francisco was in manual mode",
-      "excerpt": "A Waymo self-driving Jaguar I-Pace that struck a pedestrian in San Francisco on Wednesday evening was in manual mode, the company told TechCrunch in response to an initial report posted on Reddit. Waymo says the vehicle was in manual mode at the time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
-      "originalUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/waymo-ipace.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
-      "publishedDateTime": "2021-12-16T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

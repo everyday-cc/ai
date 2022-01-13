@@ -43,6 +43,20 @@ related:
         width: 603
         height: 394
         isCached: true
+  - title: "Facial Recognition Readers Solution Market to Witness an Outstanding Growth during 2021-2027 with Leading Regions and Countries Data"
+    excerpt: "Global “Facial Recognition Readers Solution Market\" is expected to grow at a steady growth during the forecast"
+    publishedDateTime: 2022-01-10T08:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-readers-solution-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data-2022-01-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "n1Ts3BPZCfzgnwTL6FpLfqsLr/ae4+MrwZZtP8kQAxHrADLh0YzBqnWfGBmSOnkGCjiLPd2S1x65/HGOE735dDGoj/EJ0NmCisnjUIjD22YgMbEQFxjOG5CZiSArVwFhpT6TSwriXwmfKHEHmRi5XbVYyjVYefpeQU5Up+PIiAikJZi4ZL+vAa1Ye8yerm2CLFdbvCmaHkTRo7OoObsNJSVt9NNM/Ok6kbJ7sYBjvwZzXxT5bVYtA6UKCOmRFImZy+SVxaCGs2L50/IVAfxkYEiOn/tkrwGW4iq+aI6u0F8uPyTkPlh5wjPxKq0tx9MK0ndk6cFdaj7ce92TufUoUKvhMc2gTYSompITSqfKRvI=;mqFZQQJRAtF6ulpQ0R5lNQ=="
 ---

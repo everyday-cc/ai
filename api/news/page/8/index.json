@@ -2,6 +2,91 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-06-amazon-announces-broad-cloud-and-ai-collaboration-with-auto-giant-stellantis.md",
+      "title": "Amazon announces broad cloud and AI collaboration with auto giant Stellantis",
+      "excerpt": "Stellantis NV, one of the world’s top automakers, that will encompass smart vehicles, a cloud-based data mesh and other ambitious technology initiatives. Stellantis was formed in 2021 from the merger of Chrysler Automobiles and PSA Group.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/",
+      "originalUrl": "https://siliconangle.com/2022/01/05/amazon-announces-broad-cloud-ai-collaboration-auto-giant-stellantis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/amazon.png",
+          "width": 718,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman.md",
+      "title": "Australian man plans to marry robot after failing to find loving woman",
+      "excerpt": "Australian man wants to marry his expensive AI robot Emma and doesn't want to change anything about their relationship",
+      "sourceUrl": null,
+      "webUrl": "https://www.geo.tv/latest/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "originalUrl": "https://www.geo.tv/latest/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geo.tv/assets/uploads/updates/2022-01-05/l_391772_102300_updates.jpg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geo.tv/amp/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "cdnAmpWebUrl": "https://www-geo-tv.cdn.ampproject.org/c/s/www.geo.tv/amp/391772-australian-man-plans-to-marry-robot-after-failing-to-find-loving-woman",
+      "publishedDateTime": "2022-01-05T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geo News",
+        "domain": "www.geo.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-qualcomm-and-microsoft-collaborate-on-custom-chips-for-ar-glasses.md",
       "title": "Qualcomm and Microsoft collaborate on custom chips for AR glasses",
       "excerpt": "Qualcomm announced its intentions to integrate software platforms with Microsoft at Tuesday's CES 2022 keynote.",
@@ -1074,109 +1159,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-accelerate-the-in-vehicle-digital-experience-with-azure-cognitive-services.md",
-      "title": "Accelerate the in-vehicle digital experience with Azure Cognitive Services",
-      "excerpt": "Microsoft is helping to reshape the automotive industry in the way it serves its drivers with in-vehicle infotainment systems. Together with the car manufacturers, Microsoft is creating new driving experiences with speech based on the text-to-speech and speech-to-text capabilities within Azure Cognitive",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
-      "originalUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/832c79d4-6a7e-4c24-bb1f-cd13680e49ec.jpg",
-          "width": 1074,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T00:00:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-ai-could-repair-the-damage-done-by-data-overload.md",
-      "title": "AI could repair the damage done by data overload",
-      "excerpt": "With AI we can start leveraging data to empower connections and enhance problem-solving, collaboration, and finding the answers we need.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-494436399.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
-      "publishedDateTime": "2022-01-04T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

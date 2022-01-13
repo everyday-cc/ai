@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-13-rta-forum-reviews-traffic-rules-of-driverless-flying-taxis-in-dubai.md",
+      "title": "RTA forum reviews traffic rules of driverless flying taxis in Dubai",
+      "excerpt": "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "originalUrl": "https://www.zawya.com/mena/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20220112142948653/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20220112142948653/",
+      "publishedDateTime": "2022-01-12T22:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-nuro-add-airbags-for-people-to-self-driving-delivery-vehicles.md",
       "title": "Nuro Add Airbags (for People) to Self-Driving Delivery Vehicles",
       "excerpt": "Pedestrians can be an absent-minded bunch, so Nuro's newest delivery bot adds an external airbag to protect those who may collide with it on the sidewalk.",
@@ -393,49 +436,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-10-driverless-tractor-set-for-commercial-production-at-john-deere.md",
-      "title": "Driverless tractor set for commercial production at John Deere",
-      "excerpt": "Using six pairs of stereo cameras and advanced artificial intelligence, the tractor can navigate to ... or for Rural news daily. Driverless tractor technology has the potential to help solve a modern agricultural dilemma — how can farmers do more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258",
-      "originalUrl": "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/f487f31e61eec632773518289c8afdb1?impolicy=wcms_crop_resize&cropH=556&cropW=834&xPos=65&yPos=0&width=862&height=575",
-          "width": 834,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/100744258",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100744258",
-      "publishedDateTime": "2022-01-09T15:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-10-your-health-artificial-intelligence-to-help-prevent-dementia.md",
       "title": "Your Health: Artificial intelligence to help prevent dementia?",
       "excerpt": "Artificial intelligence, or AI, allows machines to work more efficiently and solve problems faster. AI is all the buzz in the healthcare industry right now. It’s already in the operating",
@@ -781,17 +781,17 @@
       "title": "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel",
       "excerpt": "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on",
       "sourceUrl": null,
-      "webUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/",
-      "originalUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/",
+      "webUrl": "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/",
+      "originalUrl": "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1500,
-          "height": 1000,
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -799,13 +799,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/",
-      "cdnAmpWebUrl": "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/",
+      "ampWebUrl": "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/",
       "publishedDateTime": "2022-01-07T05:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Scottish Sun",
-        "domain": "thescottishsun.co.uk",
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Cultural China: Deep respect for teachers -- a tradition spanning ages"
-    excerpt: "Honoring teachers and their intelligence has always been a tradition in China. Since ancient times, teachers have been respected by people as messengers of wisdom. The famous Chinese idiom, \"Cheng Men Li Xue,"
-    publishedDateTime: 2022-01-08T14:15:00Z
-    webUrl: "https://english.news.cn/20220108/92732dd8d2864257b76eb79c55ea89d6/c.html"
-    type: article
-    provider:
-      name: China
-      domain: news.cn
-    quality: 24
-    images:
-      - url: "https://english.news.cn/20220108/92732dd8d2864257b76eb79c55ea89d6/zxcode_2022010892732dd8d2864257b76eb79c55ea89d6.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Cultural China: Deep respect for teachers -- a tradition spanning ages"
     excerpt: "Honoring teachers and their intelligence has always been a tradition in China Since ancient times teachers have been respected by"
     publishedDateTime: 2022-01-08T16:30:00Z
     webUrl: "https://www.bignewsnetwork.com/news/272130195/cultural-china-deep-respect-for-teachers----a-tradition-spanning-ages"

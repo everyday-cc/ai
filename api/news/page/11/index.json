@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-04-spreading-the-wing-to-enter-taiwans-robotics-market-to-catch-up-with-amr-trend.md",
+      "title": "Spreading the wing to enter Taiwan's robotics market to catch up with AMR trend",
+      "excerpt": "All major robotic manufacturers invested a lot to keep up with the trend of AMR. In the Automation Taipei exhibition, many players have launched their flagship AMR products",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
+      "originalUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
+      "publishedDateTime": "2022-01-03T18:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-how-computer-vision-can-boost-your-e-commerce-conversions.md",
+      "title": "How Computer Vision Can Boost Your E-Commerce Conversions",
+      "excerpt": "Managing images is one of the most important activities an e-commerce site has to carry out. Let's explore how computer vision and digital asset management can boost your e-commerce conversions. AI is reshaping how businesses carry out their digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.business.com/articles/how-computer-vision-boosts-ecommerce-conversions/",
+      "originalUrl": "https://www.business.com/articles/how-computer-vision-boosts-ecommerce-conversions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.business.com/images/content/5e8/e5e799c658a2c748b4576/1500-0-",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business.com",
+        "domain": "business.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-toyota-announces-new-self-driving-auto-software-challenging-vw-and-daimler.md",
       "title": "Toyota Announces New Self-Driving Auto Software, Challenging VW And Daimler",
       "excerpt": "Year-end sales figures are expected to show Toyota breaking General Motors’ 95-year hold on the U.S. top spot.",
@@ -1093,91 +1179,6 @@
         "AI in Robotics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-the-cognitive-behaviour-therapist.md",
-      "title": "the Cognitive Behaviour Therapist",
-      "excerpt": "You are leaving Cambridge Core and will be taken to this journal's article submission site. To send this article to your account, please select one or more formats and confirm that you agree to abide by our usage policies. If this is the first time you use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/volume/C6DAAC9D66D8BB395165BC5F79B27810",
-      "originalUrl": "https://www.cambridge.org/core/journals/the-cognitive-behaviour-therapist/volume/C6DAAC9D66D8BB395165BC5F79B27810",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridge.org/core/services/aop-file-manager/file/56ab7c9d40b4e47e0c389966",
-          "width": 512,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T01:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-ces-2022-deepbrain-humanises-ai-avatars.md",
-      "title": "CES 2022: Deepbrain humanises AI avatars",
-      "excerpt": "DeepBrain AI’s industry-first approach to “humanising” AI assistants provides users with an experience that is familiar, enlightening and approachable. Its video synthesis solutions, a CES 2022 Innovation Awards Winner,",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/",
-      "originalUrl": "https://gadget.co.za/ces-2022-deepbrain-humanises-ai-avatars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/gadget.co.za/wp-content/uploads/2022/01/All_AI_Influencer_AI_Bank_teller_AI_doctors_utilized_AI.jpg?resize=1000%2C600&#038;ssl=1",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T01:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

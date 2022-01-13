@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-07-blur-faces-in-videos-automatically-with-amazon-rekognition-video.md",
+      "title": "Blur faces in videos automatically with Amazon Rekognition Video",
+      "excerpt": "With the advent of artificial intelligence (AI) and machine learning (ML), customers and the general public have become increasingly aware of their privacy, as well as the value that it holds in today’s data-driven world. Enterprises are actively seeking out and marketing privacy-first solutions, especially",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/blur-faces-in-videos-automatically-with-amazon-rekognition-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/06/ML-5902-image005-new-1260x537.png",
+          "width": 1260,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-07T11:45:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-01-08-ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round.md",
+      "title": "AI & Computer Vision platform Avatar raises $45mn in Tiger Global-led round",
+      "excerpt": "The Series B round saw co-participation from existing investor Sequoia Capital India. The financing is one of the largest fundraising rounds in the Applied 3D/AR space",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/11/full/1626023772-9613.jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-computer-vision-platform-avatar-raises-45mn-in-tiger-global-led-round-122010800042_1.html",
+      "publishedDateTime": "2022-01-07T11:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
       "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
       "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the",
@@ -630,17 +726,17 @@
       "title": "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel",
       "excerpt": "VOLVO is set to carry out the world’s first self-driving car trial with no driver behind the wheel The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on",
       "sourceUrl": null,
-      "webUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/",
-      "originalUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/",
+      "webUrl": "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/",
+      "originalUrl": "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.thescottishsun.co.uk/wp-content/uploads/sites/2/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1",
-          "width": 1500,
-          "height": 1000,
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -648,13 +744,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/",
-      "cdnAmpWebUrl": "https://www-thescottishsun-co-uk.cdn.ampproject.org/c/s/www.thescottishsun.co.uk/motors/8248825/volvo-trial-self-driving-car-electric-suv/amp/",
+      "ampWebUrl": "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/",
       "publishedDateTime": "2022-01-07T05:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Scottish Sun",
-        "domain": "thescottishsun.co.uk",
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1089,100 +1185,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-ai-weiwei-doesnt-care-what-the-critics-think.md",
-      "title": "Ai Weiwei Doesn't Care What the Critics Think",
-      "excerpt": "Emma Barnett meets with the acclaimed artist and dissident Ai Weiwei to talk about his detention in China, his fight for human rights and the art of protest. (Source: Bloomberg)",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/videos/2022-01-07/ai-weiwei-doesn-t-care-what-the-critics-think-video",
-      "originalUrl": "https://www.bloomberg.com/news/videos/2022-01-07/ai-weiwei-doesn-t-care-what-the-critics-think-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibhDPmwQksh4/v50/-1x-1.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T17:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-aiml-machine-learning-students-develop-beer-using-ai.md",
-      "title": "AIML machine learning students develop beer using AI",
-      "excerpt": "A new South Australian craft beer has been designed entirely by AI by the University of Adelaide’s AIML and Barossa Valley Brewing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
-      "originalUrl": "https://www.foodmag.com.au/aiml-machine-learning-students-develop-beer-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.foodmag.com.au/wp-content/uploads/2022/01/BE02AF04-D1ED-4F84-A559-1400473CE404_1_201_a.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-06T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Food Magazine",
-        "domain": "foodmag.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

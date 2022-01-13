@@ -89,6 +89,22 @@ related:
         width: 800
         height: 420
         isCached: true
+  - title: "Location Analytics Platform Placer.ai Raises $100M in Series C Round"
+    excerpt: "Placer.ai, a location analytics platform serving companies with data around consumer foot traffic, has raised $100 million in a Series C round."
+    publishedDateTime: 2022-01-13T03:43:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2022/location-analytics-platform-placer-ai-raises-100m-in-series-c-round/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/location-analytics-platform-placer-ai-raises-100m-in-series-c-round/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/location-analytics-platform-placer-ai-raises-100m-in-series-c-round/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/placerai-investment-100m-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "IBM wants to exit healthcare by selling its Watson Health business"
     excerpt: "IBM is attempting to sell its Watson Health business—just around a year after it was first reported to mull a sale in 2021. For context, Watson Health, formed in 2015, develops AI-driven analytics solutions for hospitals,"
     publishedDateTime: 2022-01-10T05:10:00Z

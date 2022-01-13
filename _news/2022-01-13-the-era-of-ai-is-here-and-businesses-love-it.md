@@ -57,6 +57,20 @@ related:
         width: 847
         height: 720
         isCached: true
+  - title: "Alan Turing Institute to lead AI Standards Hub"
+    excerpt: "The UK Government has announced the creation of an AI Standards Hub to work on improving the governance of artificial intelligence. A pilot of the hub – an online platform to bring together the national AI community – will be led by the Alan Turing Institute supported by the British Standards Institution and National Physical Laboratory."
+    publishedDateTime: 2022-01-13T00:04:00Z
+    webUrl: "https://www.ukauthority.com/articles/alan-turing-institute-to-lead-ai-standards-hub/"
+    type: article
+    provider:
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 39
+    images:
+      - url: "https://www.ukauthority.com/media/11108/ai-standards-hub-logo-govuk-ogl.jpg"
+        width: 500
+        height: 324
+        isCached: true
   - title: "New hub launched to test AI standards"
     excerpt: "The Alan Turing Institute has been selected to lead a pilot AI Standards Hub, set to work closely with members of the AI community"
     publishedDateTime: 2022-01-12T16:52:00Z

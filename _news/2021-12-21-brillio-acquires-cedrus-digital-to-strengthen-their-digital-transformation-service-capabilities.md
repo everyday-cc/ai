@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://beta.darkreading.com/images/og-image.jpg"

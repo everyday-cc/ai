@@ -104,6 +104,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Location Analytics Platform Placer.ai Raises $100M in Series C Round"
+    excerpt: "Placer.ai, a location analytics platform serving companies with data around consumer foot traffic, has raised $100 million in a Series C round."
+    publishedDateTime: 2022-01-13T03:43:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2022/location-analytics-platform-placer-ai-raises-100m-in-series-c-round/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/location-analytics-platform-placer-ai-raises-100m-in-series-c-round/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/location-analytics-platform-placer-ai-raises-100m-in-series-c-round/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/placerai-investment-100m-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
   - title: "Analytics Unicorn Fractal Acquires U.S-Based Neal Analytics To Ramp Up Its Cloud AI Offerings"
     excerpt: "The acquisition will help Fractal scale AI-based services on its platform and strengthen its presence in Pacific Northwest, Canada, and India."
     publishedDateTime: 2022-01-11T16:35:00Z
