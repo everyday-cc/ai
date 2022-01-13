@@ -47,22 +47,6 @@ related:
         width: 1156
         height: 771
         isCached: true
-  - title: "You May Be Able to Own a Self-Driving Car After All"
-    excerpt: "For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM announcement this week shows that’s changing."
-    publishedDateTime: 2022-01-08T12:00:00Z
-    webUrl: "https://www.wired.com/story/you-own-self-driving-car/"
-    ampWebUrl: "https://www.wired.com/story/you-own-self-driving-car/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/you-own-self-driving-car/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/61d6487b704a9d4aab6ee7bc/master/pass/Business_Cadillac-Halo-001.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
     excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
     publishedDateTime: 2022-01-09T14:30:00Z

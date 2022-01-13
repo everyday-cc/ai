@@ -23,6 +23,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Michael Jordan joins UAE's artificial intelligence university"
+    excerpt: "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Michael I. Jordan, has been named laureate professor at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)."
+    publishedDateTime: 2022-01-13T03:41:00Z
+    webUrl: "https://menafn.com/1103530586/Michael-Jordan-joins-UAEs-artificial-intelligence-university"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/12/KT_37862image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "8q491+y5r8Gb/NACOU131YRdbHtCKqfm7PEFBn57lKhcIKYZ47q5OjR0L4+2hPm0GawJM7HEl1L3q5cQEqSFHK6rbANpDII+a9TxeKRsjOHjbUWlZVB+W46kN4HIbdW9ACiHxtLYoqvpD/szdt1zi7PHz/dpXwOaPNPcPzvQRTxwbJqZhBzFbIwmURTuFZhguLJmarxiJCspo2Js6K/uGnl8b7ye2niTF6rXavFIYZophAnKe/+A79td6eg6siuPRmmweQ76TBxS8Duu6csECShPHkMvTpIQ+yiEEH+HTCIx/e3qjnVPCbYkXFSmoD4BHHJJ5s/K2XpFw5V+1FI9yFc3koJ2l1LQMcQBeiK3BNQ=;+5AC6mzgJ/GHodvGSVDUUQ=="
 ---
 

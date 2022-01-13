@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/amp/"
 type: article
 quality: 85
-heat: 145
+heat: 135
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "You May Be Able to Own a Self-Driving Car After All"
-    excerpt: "For years, automakers focused on using autonomous technology for “robotaxis,” akin to a shared Uber. A GM announcement this week shows that’s changing."
-    publishedDateTime: 2022-01-08T12:00:00Z
-    webUrl: "https://www.wired.com/story/you-own-self-driving-car/"
-    ampWebUrl: "https://www.wired.com/story/you-own-self-driving-car/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/you-own-self-driving-car/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 74
-    images:
-      - url: "https://media.wired.com/photos/61d6487b704a9d4aab6ee7bc/master/pass/Business_Cadillac-Halo-001.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Variable Speed Limits Are Aiming To Help, But Can Confuse Human Drivers And Yet Are Easy-Peasy For AI Self-Driving Cars"
     excerpt: "Variable speed limits (VSL) continue to be experimented with and at times are confusing to human drivers, meanwhile self-driving cars will readily accommodate VSL."
     publishedDateTime: 2022-01-12T15:30:00Z

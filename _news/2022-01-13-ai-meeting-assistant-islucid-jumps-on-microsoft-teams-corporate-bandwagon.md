@@ -2,26 +2,26 @@
 category: news
 title: "AI Meeting Assistant isLucid Jumps on Microsoft Teams Corporate Bandwagon"
 excerpt: "Microsoft loved the idea and signed a new partnership in Europe. This is how Microsoft Teams has landed a new internal app with a unique feature. IsLucid is a smart digital assistant for conference calls that can finally turn our voice to text to tasks in project management systems such as Jira,"
-publishedDateTime: 2022-01-12T17:40:00Z
-originalUrl: "https://menafn.com/1103528599/AI-Meeting-Assistant-isLucid-Jumps-on-Microsoft-Teams-Corporate-Bandwagon"
-webUrl: "https://menafn.com/1103528599/AI-Meeting-Assistant-isLucid-Jumps-on-Microsoft-Teams-Corporate-Bandwagon"
+publishedDateTime: 2022-01-12T17:29:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ai-meeting-assistant-islucid-jumps-microsoft-teams-corporate-/2022/01/12/9525238.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ai-meeting-assistant-islucid-jumps-microsoft-teams-corporate-/2022/01/12/9525238.htm"
 type: article
 quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?175147"
-    width: 443
-    height: 250
+  - url: "https://www.prdistribution.com/spirit/uploads/pressreleases/2022/29693421.jpeg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -187,6 +187,6 @@ related:
       domain: businessinsider.com
     quality: 15
 
-secured: "rK1MPra72Gb9JIHiIt/XnpOOnHEjXrhouTtjZKOna7bdcxadBB6/r3691AvG7vAHsShkUlISj2LsOGUx6Z4szqR3u2UqIGRCL+ncngR5vh4wdenXAbmBv19l2IeeLG2ruw0NFnvwSXdo0Ho4/ykA2tya1G5DNQ48ouaPVFR1spFlgSbhp5QlqjuG5ovdu4DK7I5c5vh53fIZ2BULXAHRH02BKVMVENUm2gllJ4Niu64tnCeHKhj9mOyq9TrwUKJ3YiRj7cOq3+uMPD7/+ifEMR/zGcDZLW3VB2yKL9eZvxHrSco5KME+oO1hF+Vc5HlgzOFY6TbdrminFKHH5+Vp8Iiefp2ZpNCLxvfKJ0JZBSduLcNOAVAuWGwnNrNXdJLgg1E6waTgo20paBLeEWP2Ej23Yy+2IlRc3F+5y07bTYD1Qxe5trB3liN7918TjYTtbEDcZYAnXDvo6v1YsWNKXfM7mW07V/PIVavyLa/WZ1+K8oBg6ha3cMmtRPr5MpHmdB4XOlsywiQ8nBVhbCWvmA==;AvSRRuxoaw2vzT3nxAsTVw=="
+secured: "0pt7jg+fWHpBikLukBYiUhMnPyABIDkOujU0bMECOMSh3e9TtY6JqzeO1AOX7SULG0aAwlwYggD+HoXmFeqvIJ6i15Iq37zwhBcYdp76OjtxLeH74MZq6EtniglBmMd8B9j0QAilypeQH3uCfR+DRpXoJxeYDpAv8CA3BfqmtgsCR6528vh72ujyL5uZQpmnq2SwmSkS9WVnNdGO/3Mr7WSdOgjo2+bLXvgpRFEDsAqY6eLCK2fsvqhtfKo6BX/ir/kS+QC9TtCOxPXnNqikylkna/t3J2O4BzIyW421ZqkgPyIGx4OIfojRjOL/jA9Px+VEXCPOkSJ/SdRHLALRQCWRJIFGPc0AXZVika5G+Ts=;bSPN7zKUsWNV94TFJ02GZQ=="
 ---
 

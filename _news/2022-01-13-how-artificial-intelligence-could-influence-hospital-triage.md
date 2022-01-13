@@ -8,8 +8,8 @@ webUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intel
 ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.marketplace.org/wp-content/uploads/2022/01/GettyImages-1229667700.png?fit=740%2C416"
@@ -25,6 +26,6 @@ images:
     height: 416
     isCached: true
 
-secured: "RW8ijIiqJH7UleaY/CJmUdS/MjNvitXlBdrlM2WEwzIO8T9VgNyMA6+ZAIKc81azqh6/tthJj4qmesm218AZj3QSXSqm3V7ZlWj1xjzXKMC/nfiTGh0isKospKi1ECvZbibXBjVG7Xvbdz+RCi1GrgDR2eQIlULiSaZlkHimudIpnlFOn0c0cnaZehA0FK9mQwdmYXQHbz98qjpyThTJO/7L/wzCzFtH4QFxsMDCRTToUkLW/QDp9fHYK9aZ4Vl6EfepPJArENaFPYirq7op2FVfozExLspBfbiH7zNNcq4tUIsuFQ5Q6HTF9pIoSz11nTI07J8Doqlrgxjbsw1RGdv8LxmXiVyafiIT3rpzXEY=;Zjl8rFY81QAQ6+cZCNR0bw=="
+secured: "9NFNkhHE1u9dycBnqTu0YPf+tYGWVBoG+zd0sE3Q8KeRoHFbhdRg+1iGXvCzVrSvOeak+1d5qZl+hiR7a6KRCDjOCwuxZk81AZ9hccK+V22BJPwSuFvfuGtW2uCG40CKO0gdqUDUuzwwYwSfe1zbOBr9C5bXTzk4JiwBckuziSHBCsgJiy2bJNuZrTRhUW3EHw1GB3tov6ql7oV21cInQfnRr0KiyVzTPOY1+IWjw0t7kfj/ohtBJ5zhzttPEFRIrsMlwoG2KNMn8y5f1mEIyee2jcWD1NDcZSOsTFHEUfQFVP+jGcTg9IrP7c2LxxCGnDIapCO1QJlBzUKS8tMNyArPxVxWknp4ZGoefkhMe1JViqN3IrRn5BCc7R08Zruj/LaQ5KsAwGSbADwcvLJXXo6ZrYkyWEWVxbbV58XctMeHvHnNWKQFtrEf2IukP0GM71W9zyBOQ0p+dGt21G83fMo58CIJmj5kInDXJD96i8TlwJwxgAKtRO5XXxlvFfPryuymaySCLftQIsQzZmWI/A==;FA8e4tL5L+E0uROK5+Awlg=="
 ---
 
