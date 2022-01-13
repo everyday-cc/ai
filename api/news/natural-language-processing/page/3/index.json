@@ -2,6 +2,84 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-17-kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship.md",
+      "title": "Kahu ki Rotorua: Kereama Heke growing future for whānau through electrical apprenticeship",
+      "excerpt": "Click here for English translation He tangata whakatō moemoeā e ngangahau ai tana whānau a Kereama ... where te reo Māori became their second language. One day I may speak on the pae like ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nzherald.co.nz/rotorua-daily-post/news/kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship/NATTO7NYPMKH3ADCNFHJCZ2ELQ/",
+      "originalUrl": "https://www.nzherald.co.nz/rotorua-daily-post/news/kahu-ki-rotorua-kereama-heke-growing-future-for-whanau-through-electrical-apprenticeship/NATTO7NYPMKH3ADCNFHJCZ2ELQ/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nzherald.co.nz/resizer/L3cgkh8lOHYNFBetcINEGgsVvs8=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/QVCVEXFNA4ZKKTPAJTTIAEZ2GU.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Zealand Herald",
+        "domain": "nzherald.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-marketing-teams.md",
+      "title": "Unbabel Acquires Language Translation Company Lingo24 to Deliver Multilingual Content for Global Marketing Teams",
+      "excerpt": "The Move Expands Unbabel's Language Operations (LangOps) Capabilities to Bring Multilingual Customer Experiences Across Marketing and Customer Service Unbabel, an AI-powered language operations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/b24661629/unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-m",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/b24661629/unbabel-acquires-language-translation-company-lingo24-to-deliver-multilingual-content-for-global-m",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24661629",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24661629",
+      "publishedDateTime": "2021-12-16T15:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-how-to-leverage-ai-for-maximum-benefits-for-your-business.md",
       "title": "How to Leverage AI for Maximum Benefits for Your Business",
       "excerpt": "Artificial Intelligence (AI) is dramatically changing the business world and AI writer assistants in specific can help you to create content on a scale for your business and attract potential new customers.",
@@ -1356,102 +1434,6 @@
         "name": "WFMZ-TV",
         "domain": "wfmz.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-university-wide-institute-to-integrate-natural-artificial-intelligence.md",
-      "title": "University-wide Institute to Integrate Natural, Artificial Intelligence",
-      "excerpt": "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://news.harvard.edu/gazette/story/2021/12/new-harvard-institute-to-study-natural-artificial-intelligence/",
-      "originalUrl": "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-mlcommons-releases-open-source-datasets-for-speech-recognition.md",
-      "title": "MLCommons releases open source datasets for speech recognition",
-      "excerpt": "The nonprofit consortium MLCommons has released a massive, license-free dataset for speech recognition system development and testing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
-      "originalUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/04/GettyImages-1279453193-e1617364143462.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/14/ml-commons-releases-open-source-datasets-for-speech-recognition/amp/",
-      "publishedDateTime": "2021-12-06T21:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers"
-    excerpt: "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training."
-    publishedDateTime: 2022-01-09T17:51:00Z
-    webUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/"
-    ampWebUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
-    cdnAmpWebUrl: "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
+  - title: "Large international evaluation shows AI accurately diagnoses prostate cancer"
+    excerpt: "Researchers at Karolinska Institutet in Sweden have together with international collaborators completed a comprehensive international validation of artificial intelligence (AI) for diagnosing and ..."
+    publishedDateTime: 2022-01-13T16:34:00Z
+    webUrl: "https://medicalxpress.com/news/2022-01-large-international-ai-accurately-prostate.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-01-large-international-ai-accurately-prostate.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-large-international-ai-accurately-prostate.amp"
     type: article
     provider:
-      name: The Constructor
-      domain: theconstructor.org
-    quality: 52
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 54
     images:
-      - url: "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
-  - title: "Spartan Radar Applauded by Frost & Sullivan for Delivering Highly Innovative 4D Radar Solutions to the Automotive Industry"
-    excerpt: "Based on its recent analysis of the 4D radar for the automotive industry, Frost & Sullivan  recognizes Spartan Radar  with the 2022 North American Technology Innovation Leadership Award for its sophisticated and next-generation radar solutions."
-    publishedDateTime: 2022-01-11T14:49:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229811&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1723780/Spartan_Radar_Award_Logo.jpg"
-        width: 400
-        height: 366
+      - url: "https://scx2.b-cdn.net/gfx/news/2021/prostate-cancer-2.jpg"
+        width: 740
+        height: 444
         isCached: true
 
 secured: "gGQyQ5K25fqDSwJXPShqyTKlSxJXsLhXrmfHILo7qQCyoASgV7FbfWTbwM6UKOBFJNrEy9pgFb0sYSAKWyqFuu2dX+84QD6PndBJfdi5wpT6SdH+kuNkkFjG09u3EdYNfryBJHF8QMhoEwBNpnPM1BAY5/v2/WQ28Zx4/X3/HjJ1+mrlzM19QXXEYxD2F3pLEM1CYewLGldszukOLz5ThMEP2G8w9e1PMdb5Py1sZE1Wv8exVw2hcGpLszdBZEc3CCMt7IWLgYCmjOiBhFlTMYtnJUzf5wgonYs8B9h+RT9syOrQFF68UONe7vBCTISaBYOF9ZspDHEgEtYrJzwVeJ4Wq/iWLgHTfMVy9rGUZTk=;syecm2J7o5yVYygFOTaSmw=="

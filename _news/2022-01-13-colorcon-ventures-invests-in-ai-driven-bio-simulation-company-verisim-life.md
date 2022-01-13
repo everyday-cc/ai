@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/colorcon-ventures-
 webUrl: "https://markets.businessinsider.com/news/stocks/colorcon-ventures-invests-in-ai-driven-bio-simulation-company-verisim-life-1031100011"
 type: article
 quality: 65
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,6 +28,36 @@ images:
     isCached: true
 
 related:
+  - title: "How was my pitch, Jenny? Zoom's venture fund invests in conversational AI platform"
+    excerpt: "Second Nature uses natural language processing and subject matter experts to build sales skills and product knowledge."
+    publishedDateTime: 2022-01-13T15:18:00Z
+    webUrl: "https://www.techrepublic.com/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 83
+    images:
+      - url: "https://www.techrepublic.com/a/hub/i/r/2022/01/13/3f149792-bfed-4dec-9ea4-240158b8d3c2/resize/1200x/30778448d1a8d8309ebad3f0df49e1a6/second-nature-analysis-screenshot.jpg"
+        width: 1200
+        height: 935
+        isCached: true
+  - title: "Zoom Invests In Israeli AI-Powered Sales Coaching Solution"
+    excerpt: "Second Nature offers a software platform for immersive sales simulations in natural language with an AI conversation partner called 'Jenny.'"
+    publishedDateTime: 2022-01-12T13:49:00Z
+    webUrl: "https://nocamels.com/2022/01/zoom-sales-coaching-second-nature/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 54
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/second.jpg"
+        width: 1200
+        height: 841
+        isCached: true
   - title: "Conversational AI platform Orai raises Rs 6.5 cr in pre-Series A round led by Inflection Point Ventures"
     excerpt: "Conversational AI platform Orai has announced it has raised Rs 6.5 crore in a pre-Series A round led by Inflection Point Ventures, angel investment platform. The funds raised will be utilised in expansion in sales and marketing,"
     publishedDateTime: 2022-01-13T06:30:00Z
@@ -59,6 +89,6 @@ related:
         height: 905
         isCached: true
 
-secured: "uBAETIqmwHPvbI02jEIx8DTOCv1jrC+9ICqsp/s8PZuAVvuhLW9hWRT1+OhU+FHVTyN4nLC+rgGF025WZRtAnf8GocIM63e7WEQS/yIhCgGCoN57SB3q4uQe+bBqSAvGZeGraYV3QPt9/bHVgoZcszgWuy3RLqAnlYmhixDnnaPVPzgJul+CFEsGvaxujMTo8IcIxfd38R1mr+yy8Dh4SHo+vRstiY+D3Z8IEiVk0sbEg8+aIhaiJ7s+//r3k6ZQQOTrflnD+xixxDLPjEcRjZjnQ92JWIy/5WhZmRFrRo0E+9q6XmqkQCbp6NvwoEs0iBOBhVw30xh1zSXFgb8oWQvfyD6N6wa9HzRa9q8wOHg=;+isYqtIqueXuINJBcEEyFw=="
+secured: "uvN5HxP6EG/NIPksq6Jq38Px9Y4edPNNvSNkFIVlVfg5+LFf/+yi/5Z75stU5OPhf0ejqBbCpW6lWM0unzlF6UdTk9mC/QvD9x6EpMbvRRP97LU6mPWKqnZdw65a18Hrh3/ROWKiG3HfPQhvLZFYR/ZzAk1GGeh9tIC8YTTkCcRFSbHHtvjY5v5mHk3imD0vGBPQ4herqsCRUvgGYJgYKMMWWi2ZKZOAegzyhri6mw608rKwhUue6cJigcgrdbB6N1daw5JtcZdFjQsrD06swt1jdd8lFBnR3MaE/vUemuCMX7LqG+b3GcqmFQ4pfN/NB5CV2ZRArJt9KFoPPV+SLFZW9J70NyIiHuPnGfY1+QqcQ5r7SZuArUSLADIUecTFYFGi6UKlISm8hQzaI1BdfI5fKTtNINPlbJc3EyPGeYPW9nQz/Mi81Jqz/BOIpszfK1g9M9fSrHCkl6Y/OlB5E21BPhmcJmvoO7AQGuQQB6GIlYZfOK6PExCaSlkgXpY6BhqrW0Z3mlGgbBZSWz/5iQ==;Qg7u5FG8dcD5VChAH+dMTw=="
 ---
 

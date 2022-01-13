@@ -64,6 +64,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
+    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
+    publishedDateTime: 2022-01-13T16:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-leaders-across-healthcare-academia-technology-form-new-coalition-/2022/01/13/9526129.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "q77SNKTas8zq1OxBt3OHL9b/5UZjnw1Xk8Dk9aLyeiNhSX/6I2FhuuRAnseaRHtnO2wSz57Jix+0+fzH1w5aWrv1M0QkjIUyvwG283Httzvv3EXz+B0HaaqsJQVTvjlDHHR92xbis1U12TSnWILgaMtg1iqiNKf35OLSlnQs2XIkat29Eo8ikclLHGjdUSrmvMSCnXONGe8+K/BQ7eXM7OYyHupJ7E8e917eCu3DdCpKXsVntmrKHV6Eer+KCmG1oJGIDn38mBz6r2nvdZIXrM/Sadap8YYHdXdT0/4QI+GNSOmQ/3GJgZLijtSqzyqeBF/sFnmklCDVWJJspyQplwov+U3cLd+O1OSsmSXKHn8=;ymKQXUv1gLTbAsr6s5PHpw=="
 ---

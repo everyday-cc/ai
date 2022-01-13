@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-13-entertainment-robots-market-by-technology-innovation-and-growth-2021.md",
+      "title": "Entertainment Robots Market by Technology Innovation and Growth 2021",
+      "excerpt": "Entertainment Robots Market NEW YORK, NY, U.S., January 13, 2022 /EINPresswire.com / -- Advancement in artificial intelligence technology",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103534725/Entertainment-Robots-Market-by-Technology-Innovation-and-Growth-2021",
+      "originalUrl": "https://menafn.com/1103534725/Entertainment-Robots-Market-by-Technology-Innovation-and-Growth-2021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-01/13/EP_43fe4image_story.jpeg",
+          "width": 800,
+          "height": 507,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-new-nuro-robot-think-storm-trooper-meets-tayo-the-bus.md",
       "title": "New Nuro robot? Think Storm Trooper meets Tayo the Bus",
       "excerpt": "Nuro . As the pandemic roils on under a fresh wave of cases, the delivery robot wars continue to heat up. For technology developers, that means a new generation of robotic platfor",
@@ -41,6 +84,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-the-future-of-farming-think-artificial-intelligence-robots-and-drones.md",
+      "title": "The future of farming? Think artificial intelligence, robots, and drones.",
+      "excerpt": "The outfit at Iowa State, founded last September, is one of 11 established in eight disciplines, including agriculture, following a $220 million investment from the National Science Foundation and the Department of Agriculture,",
+      "sourceUrl": null,
+      "webUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
+      "originalUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://grist.org/fix/wp-content/uploads/sites/3/2022/01/WhatsNext_AI.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
+      "cdnAmpWebUrl": "https://grist-org.cdn.ampproject.org/c/s/grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
+      "publishedDateTime": "2022-01-13T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Grist",
+        "domain": "grist.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -416,49 +502,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-artificial-intelligence-in-construction-industry-an-innovative-way-to-assist-workers.md",
-      "title": "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers",
-      "excerpt": "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training.",
-      "sourceUrl": null,
-      "webUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/",
-      "originalUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg",
-          "width": 1600,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1",
-      "cdnAmpWebUrl": "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1",
-      "publishedDateTime": "2022-01-09T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Constructor",
-        "domain": "theconstructor.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1349,58 +1392,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-why-home-robots-are-a-lot-further-away-than-you-think.md",
-      "title": "Why ‘home robots’ are a lot further away than you think",
-      "excerpt": "We all want robot companions, butlers, and laborers. We also want time travel and magic beer mugs that get empty.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/why-home-robots-are-further-away-than-you-think",
-      "originalUrl": "https://thenextweb.com/news/why-home-robots-are-further-away-than-you-think",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fpinnochio.jpg&signature=8b9996b535d66c0e8fa2152d0c7a643e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T13:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

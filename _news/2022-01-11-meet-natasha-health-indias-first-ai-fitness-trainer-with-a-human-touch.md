@@ -34,6 +34,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Top AI researchers from India"
+    excerpt: "A 2020 digital project, The Global AI Talent Tracker, by MacroPolo, the think tank of the Paulson Institute in Chicago, revealed that 12% of elite AI researchers had pursued their education in India."
+    publishedDateTime: 2022-01-11T12:17:00Z
+    webUrl: "https://analyticsindiamag.com/top-ai-researchers-from-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Top-AI-researchers-from-India-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
 
 secured: "/6q0Vp2qTr/CuzpjL1MbYhS4wz4hTf+5ylin48xavDXlEgSpEf+sQD+WYmXk19YWoTCaLg0eHsUrAg29ZXOf1aqQXYRtHF3BGOYGz6xVeCBhdni+c387Gr5HYy/l/cGWhvvC+s78AOx4NJUunsmXp3b5e6S4HzXBQSrxbDlhi6x9B7ia43BrkGflZevR1b6GmJvFnPIlqMyZgXWXkrg5wPMbJ+fVe+tidGhuh4NMO1Xe34GNOfAt+hg3kOkLNm3iNA23hnK9nmivD7oL53/ieVdHpnEql9FVZoNYUnfIliA0RMWdXhDtTCbrtcySfOmqF7tl7lZ8e4AoqY31VcWhkmW6rI6PAm4kvCo7omNc/+k=;JoGUH8FYZ4lWozcMuXXK1Q=="
 ---

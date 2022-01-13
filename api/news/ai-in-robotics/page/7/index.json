@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-11-30-ex-apple-tesla-leaders-raise-1000000-in-1-hour-from-retail-investors-on-track-to-release-worlds-first-artificial-human-arm.md",
+      "title": "Ex-Apple / Tesla Leaders Raise $1,000,000 in 1 Hour From Retail Investors, On Track to Release World’s First Artificial Human Arm",
+      "excerpt": "Atom Limbs, a technology company combining breakthroughs in neural interfacing and human-scale robotics to create mind-controlled bionic limbs, launched its regulation CF equity crowdfunding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-1-000-000-in-1-hour-from-retail-investors-on/article_dccbd6cb-795f-55a9-89f2-9693546dd4e0.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ex-apple-tesla-leaders-raise-1-000-000-in-1-hour-from-retail-investors-on/article_dccbd6cb-795f-55a9-89f2-9693546dd4e0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/Nov-Dec-Jmag-widget.jpg",
+          "width": 350,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-30T07:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aws-pitches-robotics-as-the-next-big-thing.md",
       "title": "AWS pitches robotics as the next big thing",
       "excerpt": "Invent 2021 conference in Las Vegas the company announced robots take centre stage in the company’s future plans, while data continues to be a hot topic. The annual AWS re:Invent conference is back to in-person and enjoyed capacity-filling crowds in excess of expectations",
@@ -1372,58 +1416,6 @@
         "name": "inc42.com",
         "domain": "inc42.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-robots-for-the-win-during-ecommerce-holiday-crunch.md",
-      "title": "Robots for the win during ecommerce holiday crunch",
-      "excerpt": "Between labor shortages, COVID continuing to wreak havoc on the supply chain, and the upcoming holiday season (in which eCommerce is expected to grow up to 15%), retailers, eCommerce, and warehouses will face a challenging few months to meet increased consumer demands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-for-the-win-during-ecommerce-crunch/",
-      "originalUrl": "https://www.zdnet.com/article/robots-for-the-win-during-ecommerce-crunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/071fc579b11fc5f8254621a0b7f3f4f4e58dbf47/2021/11/19/e111dedd-8bb2-4944-af46-19babbfc10cb/berkshire-grey-robtotic-picking-general-merchandise-1000x842.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-for-the-win-during-ecommerce-crunch/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-for-the-win-during-ecommerce-crunch/",
-      "publishedDateTime": "2021-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

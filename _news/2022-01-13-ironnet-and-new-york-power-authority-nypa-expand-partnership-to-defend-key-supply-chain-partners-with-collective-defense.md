@@ -22,7 +22,7 @@ related:
   - title: "With Ransomware Attacks Continuing to Rise, Netsurion's Partnership with Deep Instinct Achieves Complete Threat Cycle Protection in a Managed Platform"
     excerpt: "Netsurion, a leading managed security service provider (MSSP), today announced that a year into its strategic relationship with Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity,"
     publishedDateTime: 2022-01-13T14:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-with-ransomware-attacks-continuing-rise-netsurions-partnership-with-/2022/01/13/9525879.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/01/13/9525879.htm"
     type: article
     provider:
       name: TMCnet

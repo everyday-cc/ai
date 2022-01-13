@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-13T11:00:00Z
 originalUrl: "https://whattheythink.com/articles/108945-artificial-intelligence-defining-often-misused-term/"
 webUrl: "https://whattheythink.com/articles/108945-artificial-intelligence-defining-often-misused-term/"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Healthcare
+  - Natural Language Processing
 
 images:
   - url: "https://d3a577syzx0or3.cloudfront.net/video/2022-1%E2%80%9311-marc-olin-cary.jpg"

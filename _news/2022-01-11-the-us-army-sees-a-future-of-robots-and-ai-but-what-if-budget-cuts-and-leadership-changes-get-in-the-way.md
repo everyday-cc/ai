@@ -7,7 +7,7 @@ originalUrl: "https://www.defensenews.com/land/2022/01/10/the-us-army-put-experi
 webUrl: "https://www.defensenews.com/land/2022/01/10/the-us-army-put-experimentation-and-prototyping-at-the-core-of-its-modernization-initiative-is-it-working/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "The future of farming? Think artificial intelligence, robots, and drones."
+    excerpt: "The outfit at Iowa State, founded last September, is one of 11 established in eight disciplines, including agriculture, following a $220 million investment from the National Science Foundation and the Department of Agriculture,"
+    publishedDateTime: 2022-01-13T13:00:00Z
+    webUrl: "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/"
+    ampWebUrl: "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/"
+    cdnAmpWebUrl: "https://grist-org.cdn.ampproject.org/c/s/grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/"
+    type: article
+    provider:
+      name: Grist
+      domain: grist.org
+    quality: 73
+    images:
+      - url: "https://grist.org/fix/wp-content/uploads/sites/3/2022/01/WhatsNext_AI.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "The US Army sees a future of robots and AI. But what if budget cuts and leadership changes get in the way?"
     excerpt: "Four years into Army Futures Command, experts say the effort is on track, but they warn that leadership changes, potential budget cuts and a few contracting and technological hiccups could put it at risk."
     publishedDateTime: 2022-01-12T21:11:00Z

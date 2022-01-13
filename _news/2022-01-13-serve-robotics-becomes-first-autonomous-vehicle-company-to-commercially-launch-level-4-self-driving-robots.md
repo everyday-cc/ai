@@ -2,26 +2,27 @@
 category: news
 title: "Serve Robotics Becomes First Autonomous Vehicle Company to Commercially Launch Level 4 Self-Driving Robots"
 excerpt: "Serve Robotics, the leading autonomous sidewalk delivery company, today announced the deployment of its next-generation delivery robots, becoming the first autonomous vehicle company to complete commercial deliveries at Level 4 autonomy."
-publishedDateTime: 2022-01-13T14:37:00Z
-originalUrl: "https://www.lelezard.com/en/news-20191354.html"
-webUrl: "https://www.lelezard.com/en/news-20191354.html"
+publishedDateTime: 2022-01-13T14:05:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-serve-robotics-becomes-first-autonomous-vehicle-company-commercially-/2022/01/13/9525910.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-serve-robotics-becomes-first-autonomous-vehicle-company-commercially-/2022/01/13/9525910.htm"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Robotics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
-    width: 640
-    height: 480
+  - url: "https://mma.prnewswire.com/media/1725762/Serve_supervision.jpg"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -42,6 +43,6 @@ related:
         height: 683
         isCached: true
 
-secured: "wTWhgqY3pdvEsBNllSxrdVW5Sqt45fTMH/DBvdLOYqOrSHt3n7y4XhUgQIdEjyLd6QVIwJmeELE0OkdqUvJfa9O8u7ZK89SIHDHG/m1X7sV4c70Nx/QWl8sJUGT7pUZ02aUtnqf+U8hsG7LN8YlZLKKOzw9k9qEuOJGYct8Do0nuH9qMCpkS9U7ohoqp6DSYg+YGRRmia9malGp7EParww6pL4KI4sJ+2S60b12A+TFrL3kysK0+BAOACEEeRksxMGIsAISXYcJD6P1oRebqUBUpMGmiBKsyZ0Hkc8Jy1HSeq2lF8TCzbG6yGMsas347C6EllulmqD6Atmieu+UztY8XMqMz6I4+chhddywTUTE=;QgofWnWHEW/TgNjvwOSoKg=="
+secured: "m2GwVqPDEQCQtBGSodDeR6T35cUZavb07PaRwLb/tgvyFy+amgQCRJuERbBY83bbtfuIkKnseC/7dnE2fwD3S6snBQy1aUEYUeMQpKyp0mBNIGui3+Fb3mH8Rg26g8sM6ZAIMnctwzCGuwaEpw1Nok7f2j7VdFiu4AI/bhWGjfEw76BLnm8c6THYkxx1M/1MqvSFagYGujhW2gKwINfXJl4iT3L5eHXBqAxUO9UXXMBx0EthKUkhVvtffcDn3H0IIiSB/I5MFwn+VjOcrVwHJZHUjWSvRja1pC0V7noOzoI7d4EA1V44zUdcjr7BeGimqL/cU+lP61iH8gYxlla7ROJBadOXWXKGlzMYf+wyNbU=;cMWBFGby79Eoj4hsUNxiXA=="
 ---
 

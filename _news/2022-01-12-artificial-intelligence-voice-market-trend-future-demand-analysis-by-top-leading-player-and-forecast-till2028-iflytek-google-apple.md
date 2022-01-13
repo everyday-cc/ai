@@ -26,24 +26,6 @@ images:
     height: 407
     isCached: true
 
-related:
-  - title: "Artificial Intelligence in Telecommunication Market 2021: Industry Analysis, Opportunities, Technology, Demand, Top Players and Growth Forecast 2027"
-    excerpt: "Summery New Research study examines the current worldwide Artificial Intelligence in Telecommunication Market in terms of demand and supply as well as pricing patterns for the current and future years The revenue market share profit margin primary product portfolio and"
-    publishedDateTime: 2022-01-10T10:42:00Z
-    webUrl: "https://www.openpr.com/news/2522008/artificial-intelligence-in-telecommunication-market-2021"
-    ampWebUrl: "https://www.openpr.com/amp/2522008/artificial-intelligence-in-telecommunication-market-2021"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522008/artificial-intelligence-in-telecommunication-market-2021"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 20
-    images:
-      - url: "https://cdn.openpr.com/V/1/V110498270_g.jpg"
-        width: 660
-        height: 495
-        isCached: true
-
 secured: "vF7iHqwdBpqvF4fKujI04dY5LJBgu+GhMvS59+ZGyLuV3HsVbN9aN4cikd4zFqgLuNScUe1zb6NLoBqSDEFfk21ndIlGviysyCf6oSz218TOKT3T5YVXluJQYGsd8IFphEevxHgYK/bP2H5i0/2yv7KqJ3mnPWbWPEiAc5uxHDJ92OwWiXQY7qWn3Mt20rMo+ad7nljfX2N49RpIeMtgIya39M/cO25pFClrBFUAxmnKoXQKgClMwKTz5zIJtyA90Hmys+dVFvFifQslTYVU4myBQ0qSno+jNMbTUtkHM2KrF4Tn/UAjZHMOHo+ttt1YhkhbWx8WCzZOJTAZweNvNJtk8i2jndaFqgObqqNJaHg=;ys0AC8SoA/U+2qUfbmeF7g=="
 ---
 

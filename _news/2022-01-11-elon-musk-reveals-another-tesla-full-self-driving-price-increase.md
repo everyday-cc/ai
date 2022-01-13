@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
 type: article
 quality: 89
-heat: 399
+heat: 409
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1150569888/medium_image_1150569888.jpg"
         width: 768
         height: 519
+        isCached: true
+  - title: "Electric Vehicle Checkpoint: Tesla Will Raise Price of Self-Driving Feature"
+    excerpt: "See the latest news for the top stocks in the electric vehicle space including Ford, Rivian, Lucid, Nio, and more."
+    publishedDateTime: 2022-01-13T16:00:00Z
+    webUrl: "https://www.thestreet.com/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 72
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgyODY1MjE0OTAxODU1NTg0/nyse-trader_4.jpg"
+        width: 620
+        height: 349
         isCached: true
   - title: "Tesla Hikes Price on Full Self-Driving to $12K"
     excerpt: "(TSLA) is increasing the price of its Full Self-Driving (FSD) feature to $12,000, effective from January 17, 2022. Meanwhile, TSLA shares closed down 3.5% at $1,026.96 on January 7. Tesla formally released the FSD Beta Button in the last week of September to select drivers based on their safety scores."

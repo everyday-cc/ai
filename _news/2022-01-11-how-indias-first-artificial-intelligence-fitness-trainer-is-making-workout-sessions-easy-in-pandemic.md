@@ -9,8 +9,8 @@ ampWebUrl: "https://thelogicalindian.com/amp/health/indias-first-artificial-inte
 cdnAmpWebUrl: "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/health/indias-first-artificial-intelligence-fitness-trainer-is-making-workout-sessions-easy-in-pandemic-33195"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Logical Indian
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Top AI researchers from India"
+    excerpt: "A 2020 digital project, The Global AI Talent Tracker, by MacroPolo, the think tank of the Paulson Institute in Chicago, revealed that 12% of elite AI researchers had pursued their education in India."
+    publishedDateTime: 2022-01-11T12:17:00Z
+    webUrl: "https://analyticsindiamag.com/top-ai-researchers-from-india/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Top-AI-researchers-from-India-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
   - title: "Meet Natasha Health, India's first AI Fitness Trainer with a human touch"
     excerpt: "According to Natasha.Health Founder Pritish Swarup, \"I attended gym and fitness classes as much as I could. When I couldn't make it, I would be using fitness apps like Nike Training Club, Aaptiv, Cult,"
     publishedDateTime: 2022-01-11T00:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/2021-ai-recap-founders-predictions-
 webUrl: "https://www.linkedin.com/pulse/2021-ai-recap-founders-predictions-2022-dataloop"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Top Data Science & AI Trends For 2022"
+    excerpt: "After a pandemic-driven start to 2020, enterprises across industries realised the significance of AI and Data Sciences. Its adoption accelerated, and leaders correctly predicted growth in the industry in all aspects."
+    publishedDateTime: 2022-01-12T11:24:00Z
+    webUrl: "https://analyticsindiamag.com/top-data-science-ai-trends-for-2022/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Trends-Report-Banner-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
 
 secured: "GhOeJHU60Hp4drMFDEoaG63R8/Qqj4GrWsmOloB2bLCRWubwB+wpOZ+G8zII5jGKENyx/uqBfcW9BxJSg64k6OklsOxDkB0cSYVkQ2mOFyJ7bhRxbiz96J9kVZoC3ZduSDuii9xx34jQvM87yEXFvnIwzloxhBMdGFAgABE1uf+wh2fIa6NwpeaH0mXOzkklVmlKSTB4F7MoHMrdSgEIsNf8IJyt3V2RihS9DHdK3Pmp2qB5eTi16YliC4M6NUj1qK1o2CLdFHqjIQ04QdHTJn8sW1X5BX65fKJdjT7XTn+GhO9dxAGsLuRudTATPm1xxHpypaJpUp0qcpkIzysa1yxw76+CWgVdBN1dtPzWV+VuwiuXfvqrL1HPgSbVFFJMcN5u8nIUSR8Gf5r7folHZwY5DelCnkiEFge9NetmlT0dgPpAATa+md84c9op/Ot5F0aOQ4+TacJw7B3biNqewnDgylcEPahfL++vGVD/0Wyuw3CsaZlWlSmXqLhCbKNdl3mtyD3I0wt9UnPXbLXL9w==;URuciiOkJckaodNcjKexrA=="
 ---

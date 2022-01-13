@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 1000
         isCached: true
-  - title: "New incubator for AI collaboration"
-    excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
-    publishedDateTime: 2022-01-10T06:01:00Z
-    webUrl: "https://insights.globalspec.com/article/17993/new-incubator-for-ai-collaboration"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
-        width: 640
-        height: 382
-        isCached: true
 
 secured: "r4iVJ3lUSQLsHppANL+Kq62fAHHV2toAD5VOdZT9RMZX+MwxSW5GKBPyPbbDe701o31wdYUcGXlhdN8R8pUBZhE79WE/PwGGrfftBedH7kuhgsPlvNAJ6iWjqsYyhtSxEjE0msvwbbAiCKuKqha4qE8ioDYqodHOktgolzA5cjVVPsmof8BzB9QclRqKgHj6MCvH55K14zsm5erATq+eGwKJT/juWPxdhwKQvc1U69uCqLGCyBKIOxJNHFBc/A0MblpqpTVfBbIHpGj8f3H+hohnkrLsUyBCVgNi73Uz6DOFDzQkXrNUwib6tFPZlpSF2Kz+xyH+Ir6FNHKXOknE0kv+uw3X8cEdcxMmlnFCpaA=;hKzJTLxBLY3pFDdJTIoDFw=="
 ---

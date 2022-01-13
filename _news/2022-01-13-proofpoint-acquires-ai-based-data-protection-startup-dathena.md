@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How data protection can be used to address AI-bias"
+    excerpt: "Algorithmic bias is a challenge that industry has been aware of for many years. Reform to the UK's data protection regime can help in helping to solve it."
+    publishedDateTime: 2022-01-13T14:58:00Z
+    webUrl: "https://www.techuk.org/resource/how-data-protection-can-be-used-to-address-ai-bias.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/c68cbdbb-8609-4047-a774bfb4c9041d2a/700x435_highestperformance_/AI-Brain-6108.jpg"
+        width: 700
+        height: 435
+        isCached: true
   - title: "Proofpoint Buys AI-Powered Data Protection Startup Dathena"
     excerpt: "Proofpoint has purchased Dathena to help organizations better understand information risk and eliminate data loss through artificial intelligence-based data classification."
     publishedDateTime: 2022-01-10T22:56:00Z

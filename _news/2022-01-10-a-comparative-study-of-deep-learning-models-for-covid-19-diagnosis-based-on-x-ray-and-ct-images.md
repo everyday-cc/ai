@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 636
         isCached: true
+  - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
+    excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
+    publishedDateTime: 2022-01-13T15:25:00Z
+    webUrl: "https://www.azmirror.com/2022/01/13/tribal-leaders-voice-concerns-about-water-voting-covid-19-to-state-lawmakers/"
+    type: article
+    provider:
+      name: Arizona Mirror
+      domain: azmirror.com
+    quality: 20
+    images:
+      - url: "https://www.azmirror.com/wp-content/uploads/2022/01/jonathan-nez-state-house-2022.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "Analyzing the Arctic's Underwater Noise with AI: Evaluating Correlation between Climate Change, Sound and Marine Ecology"
     excerpt: "Therefore, existing analysis tasks have inevitably involved biologists manually sorting out the sounds. Cochl is a deep tech startup advancing sound AI technology, founded by researchers in the audio and machine learning field. Cochl's core AI model has ..."
     publishedDateTime: 2022-01-11T08:00:00Z

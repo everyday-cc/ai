@@ -9,8 +9,8 @@ ampWebUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-a
 cdnAmpWebUrl: "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: The Constructor
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New incubator for AI collaboration"
-    excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
-    publishedDateTime: 2022-01-10T06:01:00Z
-    webUrl: "https://insights.globalspec.com/article/17993/new-incubator-for-ai-collaboration"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
-        width: 640
-        height: 382
-        isCached: true
   - title: "Spartan Radar Applauded by Frost & Sullivan for Delivering Highly Innovative 4D Radar Solutions to the Automotive Industry"
     excerpt: "Based on its recent analysis of the 4D radar for the automotive industry, Frost & Sullivan  recognizes Spartan Radar  with the 2022 North American Technology Innovation Leadership Award for its sophisticated and next-generation radar solutions."
     publishedDateTime: 2022-01-11T14:49:00Z

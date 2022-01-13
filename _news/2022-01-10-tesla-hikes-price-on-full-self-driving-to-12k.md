@@ -115,6 +115,22 @@ related:
         width: 768
         height: 519
         isCached: true
+  - title: "Electric Vehicle Checkpoint: Tesla Will Raise Price of Self-Driving Feature"
+    excerpt: "See the latest news for the top stocks in the electric vehicle space including Ford, Rivian, Lucid, Nio, and more."
+    publishedDateTime: 2022-01-13T16:00:00Z
+    webUrl: "https://www.thestreet.com/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature"
+    ampWebUrl: "https://www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 72
+    images:
+      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgyODY1MjE0OTAxODU1NTg0/nyse-trader_4.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Tesla Is Raising Prices for Full Self Driving Once Again"
     excerpt: "Tesla is now raising the price of its Full Self Driving software once again, bringing the still-in-beta program to $12,000 USD within the U.S. market. According to a tweet from the automaker’s CEO Elon Musk,"
     publishedDateTime: 2022-01-10T04:05:00Z

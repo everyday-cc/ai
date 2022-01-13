@@ -64,6 +64,15 @@ related:
         width: 600
         height: 305
         isCached: true
+  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
+    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
+    publishedDateTime: 2022-01-13T16:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-leaders-across-healthcare-academia-technology-form-new-coalition-/2022/01/13/9526129.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 3
 
 secured: "YRPny1MRnDAWeI+FDAVQL/ZY3HiSv9wFhYGjP5eHQGgYXy+3FMvQWQ5UUCFogxG38KoeX1AQkyLTNGXiCa7zCnnk51U37mLQJGD9e8N9kQU0//jukIK5QuLcUhvDSOM71wwNyJtqa05Lz/3MU8PTBqO5b6X9BiItzx31UxFseh2LyQg9HVDauOQOnrrSzqJR3TQ+fneBlDmqMUYcdvuw3RKyRl0OOdFhUYW5ePZPMteYBQi7KCwqYPTkCBAtxpl64sa8jeF7ZnIB7DecXyk/UnC96zntWJs6wKl3oC6qOxJhMhGgr3wBu2vtqTNfsclke6/RKOFtk2jWdtSWgj6YLuBdzpKPZqK9ZAaSXFmyG98=;UBIc36GdV/ebAZkA3DKXOA=="
 ---

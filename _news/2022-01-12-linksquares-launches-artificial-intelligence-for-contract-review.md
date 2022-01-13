@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20189200.html"
 webUrl: "https://www.lelezard.com/en/news-20189200.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 640
     height: 480
     isCached: true
+
+related:
+  - title: "Second Nature Launches AI-Powered Interactive Sales Coaching Solution with $12.5M Investment"
+    excerpt: "Second Nature, the automated AI-powered sales coaching solution, today announced the company's launch alongside a $12.5M Series A round of investment by signals Venture Capital, StageOne Ventures, Cardumen Capital,"
+    publishedDateTime: 2022-01-12T12:44:00Z
+    webUrl: "https://www.lelezard.com/en/news-20188518.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 43
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "uQKL6Av0+1Uw1GbjoIul7hTBODLBYaYtUGw2dt8+vJLy4Jr8WQHs1gGNx+BBXQtwfiJtgrdiz9ejKLQEsVTNM9Q6j9189HjEoKNrxGKll0NSk6538Im9bLOnrDBAODv2sdCwbOATX9oxLt7T8o72HX/yUyWwCRlJXnJtON2GQSWNvX5kZDfbTSZDpD8O+r5BpJW9CZPzy3i0Gqj3KuTYod7G2l/VJClcFF9KYO3ETzrLNUR6KAEzlMItqFLAbenjpUelU7XzTWGZhOU6BHg4R2WZlmg0Kai8kewP57vHPIcP8heJePBbl61HNS24yQvaQFWAdoqsh6ssxROZlDnRLbvGCgy7vCBMHTNaFGLUifI=;ZAIL2qGNvBIJA6Oh1n1spw=="
 ---
