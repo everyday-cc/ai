@@ -4,52 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_companies/cisco.md",
-      "title": "Cisco",
-      "excerpt": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cisco/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cisco/",
-      "type": "profile",
-      "name": "Cisco",
-      "overview": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
-      "website": "https://www.cisco.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/cisco/",
-        "followers": 2993527
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cisco"
-      },
-      "twitter": {
-        "username": "cisco",
-        "url": "https://twitter.com/cisco",
-        "followers": 726133
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1984,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "funding": {
-        "status": "IPO"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "heat": 238,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1449015588492234758/TLUXoeBt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Cisco",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/nvidia.md",
       "title": "NVIDIA",
       "excerpt": "NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, NVIDIA is increasingly known as “the AI computing company.”",
@@ -69,7 +23,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 81874
+        "followers": 81879
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -86,7 +40,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 221,
+      "heat": 204,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"
@@ -101,6 +55,111 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_200_200/0?e=1594857600&v=beta&t=Oind1GcEBma7VBWb3WzNUERBP78P-pelw0U8HIiRZj8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/cisco.md",
+      "title": "Cisco",
+      "excerpt": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cisco/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cisco/",
+      "type": "profile",
+      "name": "Cisco",
+      "overview": "Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. ",
+      "website": "https://www.cisco.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cisco/",
+        "followers": 2993527
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cisco"
+      },
+      "twitter": {
+        "username": "cisco",
+        "url": "https://twitter.com/cisco",
+        "followers": 726145
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1984,
+      "locations": [
+        "San Jose, CA"
+      ],
+      "funding": {
+        "status": "IPO"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "heat": 176,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1449015588492234758/TLUXoeBt_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Cisco",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/cerebras.net.md",
+      "title": "Cerebras Systems",
+      "excerpt": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cerebras.net/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cerebras.net/",
+      "type": "profile",
+      "name": "Cerebras Systems",
+      "overview": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
+      "website": "https://www.cerebras.net/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cerebras-systems",
+        "followers": 3222
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cerebras-systems"
+      },
+      "twitter": {
+        "username": "cerebrassystems",
+        "url": "https://twitter.com/cerebrassystems",
+        "followers": 3089
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Los Altos, CA",
+        "Los Altos, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=czfAzRWRjYE"
+        }
+      ],
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1334540469582303232/emfdgIPB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Cerebras Systems",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGn1axP_BXm8A/company-logo_200_200/0?e=1594857600&v=beta&t=UVp5RJEkqbD1ENjCol9tlSZViYVa7GE3uKhjQHkwRuE",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -129,7 +188,7 @@
       "twitter": {
         "username": "graphcoreai",
         "url": "https://twitter.com/graphcoreai",
-        "followers": 8150
+        "followers": 8151
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -149,7 +208,7 @@
           "url": "https://www.youtube.com/watch?v=Gh-Tff7DdzU"
         }
       ],
-      "heat": 152,
+      "heat": 83,
       "tags": [
         "Europe"
       ],
@@ -163,6 +222,168 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C510BAQGNIENP-jbVAA/company-logo_200_200/0?e=1594857600&v=beta&t=EOe9ISmyZdBkXhNbtuG5y3CtVza1ekxbxU0l3Un5PT0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/mythic-ai.md",
+      "title": "Mythic",
+      "excerpt": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mythic-ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/mythic-ai/",
+      "type": "profile",
+      "name": "Mythic",
+      "overview": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
+      "website": "https://www.mythic-ai.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/isocline",
+        "followers": 214
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/isocline"
+      },
+      "twitter": {
+        "username": "mythicinc",
+        "url": "https://twitter.com/mythicinc",
+        "followers": 865
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Austin, TX",
+        "Austin, TX"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=q59k-4c-hbk"
+        }
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mythic",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/wavecomp.ai.md",
+      "title": "Wave Computing",
+      "excerpt": "Wave Computing is a VC-backed company that is revolutionizing artificial intelligence. with its dataflow-based chips, systems and software that deliver orders of magnitude performance improvements over legacy architectures. The company’s vision is to bring deep learning to customers’ data wherever it may be—from the edge to the data center—helping accelerate time-to-insight. Based in Campbell, CA, Wave Computing has been named Frost &amp; Sullivan’s 2018 “Machine Learning Industry Technology Innovation Leader,” and recognized by CIO Application Magazine’s as one of the “Top 25 Artificial Intelligence Providers.” Combined with MIPS, Wave now has over 400 granted and pending patents and hundreds of customers worldwide.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wavecomp.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/wavecomp.ai/",
+      "type": "profile",
+      "name": "Wave Computing",
+      "overview": "Wave Computing is a VC-backed company that is revolutionizing artificial intelligence. with its dataflow-based chips, systems and software that deliver orders of magnitude performance improvements over legacy architectures. The company’s vision is to bring deep learning to customers’ data wherever it may be—from the edge to the data center—helping accelerate time-to-insight. Based in Campbell, CA, Wave Computing has been named Frost &amp; Sullivan’s 2018 “Machine Learning Industry Technology Innovation Leader,” and recognized by CIO Application Magazine’s as one of the “Top 25 Artificial Intelligence Providers.” Combined with MIPS, Wave now has over 400 granted and pending patents and hundreds of customers worldwide.",
+      "website": "https://wavecomp.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/wave-computing",
+        "followers": 3609
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/wave-semiconductor"
+      },
+      "twitter": {
+        "username": "wavecomputing",
+        "url": "https://twitter.com/wavecomputing",
+        "followers": 439
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Campbell, CA",
+        "Campbell, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=pHaRbs5cOek"
+        }
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/971851969139654657/os61yXfP_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Wave Computing",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/luminouscomputing.md",
+      "title": "Luminous Computing",
+      "excerpt": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/luminouscomputing/index.json",
+      "webUrl": "https://everyday.cc/ai/company/luminouscomputing/",
+      "type": "profile",
+      "name": "Luminous Computing",
+      "overview": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
+      "website": "https://www.luminouscomputing.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/luminous-computing",
+        "followers": 421
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/luminous-computing"
+      },
+      "twitter": {
+        "username": "LuminousAI",
+        "url": "https://twitter.com/LuminousAI",
+        "followers": 1132
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Palo Alto, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=mzAX5DS3xYw"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1135642952003227648/xfBlggxy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Luminous Computing",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHcbIuYidU8Eg/company-logo_200_200/0?e=1594857600&v=beta&t=iEiUdkXFnltxhJGJWcyw0iQBvirv81o4Zv-BUivoLNI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -210,7 +431,7 @@
           "url": "https://www.youtube.com/watch?v=L7DsXXUyRis"
         }
       ],
-      "heat": 89,
+      "heat": 58,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1407741049733328902/mT66uXhK_400x400.jpg",
@@ -221,174 +442,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C510BAQHW5I8H_LBHiQ/company-logo_200_200/0?e=1594857600&v=beta&t=fHFU1sj7uJ17yMEZd--Eo267OJTbR8GBtcvN7jxKNIk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/q-ctrl.md",
-      "title": "Q-CTRL",
-      "excerpt": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/q-ctrl/index.json",
-      "webUrl": "https://everyday.cc/ai/company/q-ctrl/",
-      "type": "profile",
-      "name": "Q-CTRL",
-      "overview": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
-      "website": "https://q-ctrl.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/q-ctrl/",
-        "followers": 1236
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/q-ctrl"
-      },
-      "twitter": {
-        "username": "qctrlHQ",
-        "url": "https://twitter.com/qctrlHQ",
-        "followers": 4029
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "SYDNEY, NSW"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=Ez300fBAfY8"
-        }
-      ],
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1067192828151754753/pJVi1G-6_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Q-CTRL",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cerebras.net.md",
-      "title": "Cerebras Systems",
-      "excerpt": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cerebras.net/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cerebras.net/",
-      "type": "profile",
-      "name": "Cerebras Systems",
-      "overview": "Cerebras is a stealth-mode startup backed by premier venture capitalists and industry leading technologists. We are serially successful entrepreneurs dedicated to solving problems others are afraid to tackle.  We value integrity, passion, real world problem solving ability, and a sense of humor. We are always looking for extraordinary people to join our team. Click here to view some of our current openings www.cerebras.net/careers/",
-      "website": "https://www.cerebras.net/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/cerebras-systems",
-        "followers": 3222
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cerebras-systems"
-      },
-      "twitter": {
-        "username": "cerebrassystems",
-        "url": "https://twitter.com/cerebrassystems",
-        "followers": 3089
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Los Altos, CA",
-        "Los Altos, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=czfAzRWRjYE"
-        }
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1334540469582303232/emfdgIPB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Cerebras Systems",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGn1axP_BXm8A/company-logo_200_200/0?e=1594857600&v=beta&t=UVp5RJEkqbD1ENjCol9tlSZViYVa7GE3uKhjQHkwRuE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/luminouscomputing.md",
-      "title": "Luminous Computing",
-      "excerpt": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/luminouscomputing/index.json",
-      "webUrl": "https://everyday.cc/ai/company/luminouscomputing/",
-      "type": "profile",
-      "name": "Luminous Computing",
-      "overview": "MAPEGY is organizing the world’s information on innovation to answer questions about what technologies, markets, companies and experts to invest in. @pwalde",
-      "website": "https://www.luminouscomputing.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/luminous-computing",
-        "followers": 421
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/luminous-computing"
-      },
-      "twitter": {
-        "username": "LuminousAI",
-        "url": "https://twitter.com/LuminousAI",
-        "followers": 1131
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "Palo Alto, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=mzAX5DS3xYw"
-        }
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1135642952003227648/xfBlggxy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Luminous Computing",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHcbIuYidU8Eg/company-logo_200_200/0?e=1594857600&v=beta&t=iEiUdkXFnltxhJGJWcyw0iQBvirv81o4Zv-BUivoLNI",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -499,6 +552,58 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/leapmind.io.md",
+      "title": "LeapMind",
+      "excerpt": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/leapmind.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/leapmind.io/",
+      "type": "profile",
+      "name": "LeapMind",
+      "overview": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
+      "website": "http://leapmind.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/leapmind-inc/",
+        "followers": 1026
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/leap-mind"
+      },
+      "twitter": {
+        "username": "leapmind_inc",
+        "url": "https://twitter.com/leapmind_inc",
+        "followers": 890
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Tokyo, Japan",
+        "Shibuya-ku, Tokyo"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=IsTf6hB0bGo"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1240580034902908931/E1foW3iy_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "LeapMind",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/movidius.md",
       "title": "Movidius",
       "excerpt": "Movidius, an Intel company specializes in high-performance, ultra-low power vision processor chips, for advanced visual intelligence and AI applications on modern devices such smart cameras, drones, robots and wearable devices.",
@@ -550,58 +655,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/mythic-ai.md",
-      "title": "Mythic",
-      "excerpt": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mythic-ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/mythic-ai/",
-      "type": "profile",
-      "name": "Mythic",
-      "overview": "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles.",
-      "website": "https://www.mythic-ai.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/isocline",
-        "followers": 214
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/isocline"
-      },
-      "twitter": {
-        "username": "mythicinc",
-        "url": "https://twitter.com/mythicinc",
-        "followers": 865
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Austin, TX",
-        "Austin, TX"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=q59k-4c-hbk"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/880822480620756993/_GikEhZy_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mythic",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/nuviainc.md",
       "title": "NUVIA",
       "excerpt": "Headquartered in Santa Clara, NUVIA was founded on the promise of reimagining silicon design for high-performance computing environments. The company is focused on building products that blend the best attributes of compute performance, power efficiency and scalability. For more information, please visit www.nuviainc.com.",
@@ -648,32 +701,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/leapmind.io.md",
-      "title": "LeapMind",
-      "excerpt": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/leapmind.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/leapmind.io/",
+      "path": "_companies/q-ctrl.md",
+      "title": "Q-CTRL",
+      "excerpt": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/q-ctrl/index.json",
+      "webUrl": "https://everyday.cc/ai/company/q-ctrl/",
       "type": "profile",
-      "name": "LeapMind",
-      "overview": "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power.",
-      "website": "http://leapmind.io/",
+      "name": "Q-CTRL",
+      "overview": "The world is witnessing the dawn of a new industry.  We’ll help you take control of your quantum future.",
+      "website": "https://q-ctrl.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/leapmind-inc/",
-        "followers": 1026
+        "url": "https://www.linkedin.com/company/q-ctrl/",
+        "followers": 1236
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/leap-mind"
+        "url": "https://www.crunchbase.com/organization/q-ctrl"
       },
       "twitter": {
-        "username": "leapmind_inc",
-        "url": "https://twitter.com/leapmind_inc",
-        "followers": 890
+        "username": "qctrlHQ",
+        "url": "https://twitter.com/qctrlHQ",
+        "followers": 4029
       },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
+      "size": "11-50 employees",
+      "yearFounded": 2017,
       "locations": [
-        "Tokyo, Japan",
-        "Shibuya-ku, Tokyo"
+        "SYDNEY, NSW"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -684,68 +736,16 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=IsTf6hB0bGo"
+          "url": "https://www.youtube.com/watch?v=Ez300fBAfY8"
         }
       ],
-      "heat": 41,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1240580034902908931/E1foW3iy_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1067192828151754753/pJVi1G-6_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "LeapMind",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/wavecomp.ai.md",
-      "title": "Wave Computing",
-      "excerpt": "Wave Computing is a VC-backed company that is revolutionizing artificial intelligence. with its dataflow-based chips, systems and software that deliver orders of magnitude performance improvements over legacy architectures. The company’s vision is to bring deep learning to customers’ data wherever it may be—from the edge to the data center—helping accelerate time-to-insight. Based in Campbell, CA, Wave Computing has been named Frost &amp; Sullivan’s 2018 “Machine Learning Industry Technology Innovation Leader,” and recognized by CIO Application Magazine’s as one of the “Top 25 Artificial Intelligence Providers.” Combined with MIPS, Wave now has over 400 granted and pending patents and hundreds of customers worldwide.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/wavecomp.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/wavecomp.ai/",
-      "type": "profile",
-      "name": "Wave Computing",
-      "overview": "Wave Computing is a VC-backed company that is revolutionizing artificial intelligence. with its dataflow-based chips, systems and software that deliver orders of magnitude performance improvements over legacy architectures. The company’s vision is to bring deep learning to customers’ data wherever it may be—from the edge to the data center—helping accelerate time-to-insight. Based in Campbell, CA, Wave Computing has been named Frost &amp; Sullivan’s 2018 “Machine Learning Industry Technology Innovation Leader,” and recognized by CIO Application Magazine’s as one of the “Top 25 Artificial Intelligence Providers.” Combined with MIPS, Wave now has over 400 granted and pending patents and hundreds of customers worldwide.",
-      "website": "https://wavecomp.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/wave-computing",
-        "followers": 3609
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/wave-semiconductor"
-      },
-      "twitter": {
-        "username": "wavecomputing",
-        "url": "https://twitter.com/wavecomputing",
-        "followers": 438
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2010,
-      "locations": [
-        "Campbell, CA",
-        "Campbell, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=pHaRbs5cOek"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/971851969139654657/os61yXfP_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Wave Computing",
+          "title": "Q-CTRL",
           "isCached": true
         }
       ],
@@ -771,7 +771,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 26497
+        "followers": 26495
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -784,7 +784,7 @@
         "AI Hardware",
         "Computer Vision"
       ],
-      "heat": 31,
+      "heat": 0,
       "tags": [
         "Autonomous Vehicles",
         "Image Recognition"

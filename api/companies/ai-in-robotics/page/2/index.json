@@ -4,35 +4,32 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/kindred.ai.md",
-      "title": "Kindred AI",
-      "excerpt": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kindred.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kindred.ai/",
+      "path": "_companies/amprobotics.md",
+      "title": "AMP Robotics",
+      "excerpt": "AMP Robotics™ is an industrial artificial intelligence and robotics company that is changing the economics of material recovery and recycling.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/amprobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/amprobotics/",
       "type": "profile",
-      "name": "Kindred AI",
-      "otherNames": [
-        "Kindred Systems Inc"
-      ],
-      "overview": "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time.",
-      "website": "https://www.kindred.ai/",
+      "name": "AMP Robotics",
+      "overview": "AMP Robotics™ is an industrial artificial intelligence and robotics company that is changing the economics of material recovery and recycling.",
+      "website": "http://amprobotics.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/kindred.ai/",
-        "followers": 5070
+        "url": "https://www.linkedin.com/company/amp-robotics/",
+        "followers": 1365
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kindred-2"
+        "url": "https://www.crunchbase.com/organization/amp-robotics"
       },
       "twitter": {
-        "username": "kindredai",
-        "url": "https://twitter.com/kindredai",
-        "followers": 1312
+        "username": "amprobotics",
+        "url": "https://twitter.com/amprobotics",
+        "followers": 1544
       },
-      "size": "51-200 employees",
-      "yearFounded": 2014,
+      "size": "11-50 employees",
+      "yearFounded": 2015,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Louisville, CO",
+        "Louisville, Colorado"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -43,20 +40,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=kjKPL53Tgw8"
+          "url": "https://www.youtube.com/watch?v=C1PEsXWl-ZM"
         }
       ],
-      "heat": 31,
+      "heat": 41,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1004511334103318529/hHu9Ko-Z_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/647436657956818944/Qx6rgmxe_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Kindred AI",
+          "title": "AMP Robotics",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFQ4A760Fv3jg/company-logo_200_200/0?e=1594857600&v=beta&t=1PpW9m40ve_Pscju9i-dvlHQ4nRNb2OwOxejAf7nFGg",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGye8dvPM0w9Q/company-logo_200_200/0?e=1594857600&v=beta&t=oZAUxvov98uZrmPofdLj-5JIc6xvI2slfqfJODVBpCg",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -66,48 +63,58 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/softbankrobotics.md",
-      "title": "SoftBank Robotics",
-      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/softbankrobotics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/softbankrobotics/",
+      "path": "_companies/preferred-networks.jp.md",
+      "title": "Preferred Networks",
+      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/preferred-networks.jp/index.json",
+      "webUrl": "https://everyday.cc/ai/company/preferred-networks.jp/",
       "type": "profile",
-      "name": "SoftBank Robotics",
-      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
-      "website": "https://www.softbankrobotics.com",
+      "name": "Preferred Networks",
+      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "website": "https://www.preferred-networks.jp/en/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
-        "followers": 426
+        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
+        "followers": 1435
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/softbank-robotics"
+        "url": "https://www.crunchbase.com/organization/preferred-networks"
       },
       "twitter": {
-        "username": "sbreurope",
-        "url": "https://twitter.com/sbreurope",
-        "followers": 16621
+        "username": "preferrednet",
+        "url": "https://twitter.com/preferrednet",
+        "followers": 5850
       },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Tokyo, Tokyo"
+        "Tokyo, Japan",
+        "Chiyoda-ku, Tokyo"
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
+          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
         }
       ],
-      "heat": 31,
+      "heat": 41,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1407644568405917696/WeCkT4jo_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "SoftBank Robotics",
+          "title": "Preferred Networks",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"

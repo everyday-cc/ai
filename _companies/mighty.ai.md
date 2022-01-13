@@ -4,7 +4,7 @@ otherNames:
   - "Spare5"
 overview: "Narrative Science creates software that writes stories from data to drive understanding and better results.  How the future gets written."
 type: "profile"
-heat: 50
+heat: 65
 
 website: https://mighty.ai
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "UWPNSkVaVauNYNkCU4XCaqdsFUeBELqn3c8BS6u3KY/lD+j0YjzfpTs2MTacTWR5AW165Zv8K/DQV3fDael7or54unHC7ROmY9P9ath/RdvMIGrtFeLUwUPbQxRwruig7eK3UhJh3elltFo75QKyj1YLic2vxrV0vLePfknVs/CXHxuOSGHrzsywHivbpewoe4jMrQbdnib8gBL/8Pui0kTSRVybBvIH627liCZbOCW7szZ2QpBKaGdd4F1YJnGSvJ1zccf5L9bu3BFQn0a6YV6iGvohAO07TDcVRzlS9bvztYuurLV+VVNkP+8DiE8/zorpmHnmCTM6IUllyP8n/nlos5g2LpMQd/aTKwQ3DPynVM96VduEBSMCU3UwgHybzPUUDWw7qzyJVe4SFUlzXNvFq0KJuWH/Xq5bdy34Vyg=;Eefg2+WdTRY+54Yb3pI/vA=="
+secured: "T8ac7kmy7Ft8FigDUSWV0pmguf6RtNhVYnOyb+jGecMu/qp670LL5YjB6Aomxx6rTq1Ap9jNECDMMrLE61GcIMBBOKL/qRqb6gL7TaN9PYy6rUDJHnFbQWtSta2/SoDnEabSuDDYAPO+2EOx5pxsQq49D3ZAWFlzSKzfdCxVv6Ak+xiAILdXyWy0whHqJkGYgecoVptnpMLigkROkOJuH7lMbVBcLEL+DNTv+MvLnAjldNjpD/5L8u8Xp4op/562QC9VxmjIs2OHPpmtzluH6z02bwL+xTUwpyfScR6spkNsMOdJjsDoDyJBJ4Jz94yL6SdtrH1vDn5wyLKs53w7em6tOyrIfC5esU1fVddFszSeGy/s0snTbp5UEIfTgyGiIv4bemgCP6j24+vCX4zT4Z3r8LqkZchIiWq+fvvj7IU=;8rfDWRiH4pREewGl0h96WA=="
 ---
 
