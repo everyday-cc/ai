@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=UZ5wscMAAAAJ
-  citations: 287540
+  citations: 287681
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Andrew_Zisserman
