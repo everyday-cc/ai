@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startu
 ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
 type: article
-quality: 87
-heat: 217
+quality: 187
+heat: 317
 published: true
 
 provider:
@@ -198,6 +198,6 @@ related:
       domain: webindia123.com
     quality: 13
 
-secured: "X4OKnTKt6vtPJpzdbnI2WNkOztj0fDG/g2UrRnv/6HLEfBfXiv2Bx54JtXJnv9mMUPl4Ie4py/LdLbfW/KmFWcXl9GnRecqf2PDXwhzEjhauKtq0pR4cMEDsLFRhwaZpm1ezFvy1oEZEZptSd7EZS9W5P8PcH+ptCkEvo8n+orytQRmlzz40qtg0Uciw5bTR6XiG9t0ycRO2JPnRYQCi4djWy2eouk2zWaR3ilm9Q+8qIhBOszZKyYVlgRV/yaomKbokXE4POoTfwCqFJQ5PrDrsrEGp2BmAmHP+NhzVYCFzV+r7LIYsrtm2h84KOpleVLdDICnck2+zk4MmcMbOWD3HRjcYFnjLoMaKfYR7/ZOB6BrzwFJyorLUh9ojwzsh8orVXmlnVZx8oWPhH5IO7apn42n7bz2sQXIoFp6dUIDVlYsVVwzPCxQRn+L1Y5C6ULKGjVWQ0WYBHh4k+JsK1ZEYuhoMRmlaZyNN+na9Ckr6jEtk54okuZhY9DJKc4Zmt8R1QafEXds/OokLZhoDBg==;/yDOUFimPSRyT74rOr2Pxw=="
+secured: "trg3E/s8c2f68cViwIhA3eLOuzawGyFndWKUpbJcD3jswjX1tuWp7aLRwBYc3ucSpalrvBtxrWEWxtde1oplJSmlwTBbxz6Gfwg4Iu90tGi+2QiCGS8k4RGPGzjBkg5HfTiU+GwXr35dkWniq1bEy08Eph1tfSZOvHKbqt+YiPUi68hJJk97grlFM9+qL34SPX/XzHcy9fV+tgOPxvIkN6dt0Akusj26wZKvVbxKiNvfF61mxpT9MCf1jUVsqDrtlr3sC+UMMNQ1PpKONzIhh717SGT3CIssSzYJ+ZxRwTbyzg/gJDE0r5QstWfCdIaNF5EblD55ZWWa3kbh313lcgaI+WKTEzPB7sjwbjCaL1b61SMzfEVb2WumrOunvBRu5z17Dn0l84aeei3fRRTsoqLyuQv9FKcXQikfsSvTjk2Zwc/y9bTyicK1E1nZ2lSmJ+nXLK0V9vEhoV9qeF9bhkLnXhiUIbg+AWUQquAQFwAmmISpWabgjqhPfhOJ12t9zRgYaocOZ7Fy1zWNojtydCmH8z97PBxh/Lz4PsAiqSA=;MEoUdtoBD3TJ48NpIeuWKw=="
 ---
 

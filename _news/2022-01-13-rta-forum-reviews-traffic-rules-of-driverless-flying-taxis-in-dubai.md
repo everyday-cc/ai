@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Zawya
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Nuro announces 3rd-gen driverless delivery vehicle"
+    excerpt: "The cute little Nuro pod gets a big cargo upgrade and new sensors. Remember Nuro? You know, they make the cute little driverless delivery pods and they've partnered with companies like Kroger, FedEx,"
+    publishedDateTime: 2022-01-12T14:00:11Z
+    webUrl: "https://www.cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/"
+    type: article
+    provider:
+      name: cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/
+      domain: cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/
+    quality: 159
+    images:
+      - url: "https://www.cnet.com/a/img/SGxZeFDiIQh6cIx9DHeuWGlgWwc=/2022/01/11/c0fbe27d-6be4-4702-aca0-7637dc5ebaed/nuro-family-groceries.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nuro Add Airbags (for People) to Self-Driving Delivery Vehicles"
+    excerpt: "Pedestrians can be an absent-minded bunch, so Nuro's newest delivery bot adds an external airbag to protect those who may collide with it on the sidewalk."
+    publishedDateTime: 2022-01-12T18:37:00Z
+    webUrl: "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles"
+    ampWebUrl: "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/0450pNfKRBwFezwmdnvuEr0-1.fit_lim.size_1200x630.v1642009417.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Driverless tractor set for commercial production at John Deere"
     excerpt: "Using six pairs of stereo cameras and advanced artificial intelligence, the tractor can navigate to ... or for Rural news daily. Driverless tractor technology has the potential to help solve a modern agricultural dilemma — how can farmers do more ..."
     publishedDateTime: 2022-01-09T23:40:00Z

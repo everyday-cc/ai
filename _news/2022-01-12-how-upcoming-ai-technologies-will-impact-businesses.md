@@ -99,20 +99,6 @@ related:
         width: 820
         height: 312
         isCached: true
-  - title: "Measuring trust in AI"
-    excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
-    publishedDateTime: 2022-01-10T15:16:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/939434"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eaa9e3c5-5093-4b99-9689-9edc97fa962c/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 234
-        isCached: true
   - title: "CCC: AI Continuing to Infiltrate Claims Process"
     excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
     publishedDateTime: 2022-01-11T09:31:00Z
@@ -144,15 +130,6 @@ related:
     provider:
       name: america-retail.com
       domain: america-retail.com
-    quality: 19
-  - title: "Measuring Trust in AI"
-    excerpt: "As part of this study, the team developed an octagonal visual metric, analogous to a rating system, which could be useful to AI researchers who wish to know how their work may be perceived by the public."
-    publishedDateTime: 2022-01-11T15:43:00Z
-    webUrl: "https://cacm.acm.org/news/257780-measuring-trust-in-ai"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
     quality: 19
 
 secured: "eXNGf4KlA7jjQyT1BW9F396ZXFJFzMiV56MGmtS2qvuM552fS6mx4pBQlSXAdbfwyT9KAnwlBhH2554CZCFEmgGLz2QYAJQLHE8yj3yOsoA3iNY3Tl18WF0o1TwBBMhILkO9QDNq4JOAhRqvp2A2xjU6In7mEHO76pMOc60ke+zAu7PynxRufmoZTbSYZGuGn7wo1lx2KJQhFs0TSO+RYIaXgqx6NvcOL8Z6bJjQsZ7ykRZ3ZnX0nIdyLDIy8Ah66wJ5+AbEqEltRknCeZO1TwDLLUuPJm8ygpXZBj1SirADVDxoNKVp/cmxp2EBH5nWPDde/g7KeIbRbk+yK5vs4sjVhy5TBdtA9V611Tv36JU=;Kr9Fqcr0WKk6rIQNC0JWoA=="

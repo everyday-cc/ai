@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-debiopharm-invests-verisim-lifes-1
 webUrl: "https://www.tmcnet.com/usubmit/-debiopharm-invests-verisim-lifes-15m-series-round-advance-/2022/01/10/9523113.htm"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Shield bags $15M Series A to address surging demand for its AI-powered communication compliance platform"
+    excerpt: "Over the past two years, since the pandemic hit, there has been a sharp rise in financial crime compliance costs, nearing $50 billion in 2021, up 58% compared to 2019, in the U.S. and Canada.  Shield,"
+    publishedDateTime: 2022-01-13T13:00:00Z
+    webUrl: "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/"
+    ampWebUrl: "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/Shield-Founding-Team.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Debiopharm International SA: DEBIOPHARM INVESTS IN VERISIM LIFE'S $15M SERIES A ROUND TO ADVANCE AI-ENABLED DRUG RESEARCH"
     excerpt: "Funding to support BIOiSIM computational platform to reduce the need for animal testing by selecting compounds showing promise to cure a disease prior to research in humans LAUSANNE, Switzerland"
     publishedDateTime: 2022-01-10T18:29:00Z

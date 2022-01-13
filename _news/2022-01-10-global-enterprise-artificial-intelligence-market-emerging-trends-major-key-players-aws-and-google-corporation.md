@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2522181/global-enterprise-artificial-inte
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522181/global-enterprise-artificial-intelligence-market-emerging"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Analytics Market worth $4.5 billion by 2026 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to a research report \" Speech Analytics Market by Component (Solutions and Services), Application (Risk & Compliance Management, Sentiment Analysis), Organization Size, Deployment Mode (Cloud,"
+    publishedDateTime: 2022-01-13T14:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-speech-analytics-market-worth-45-billion-2026-exclusive-/2022/01/13/9526024.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "/L7wxJ9Cm9AUMMNqaYI/gGU8wx0+fBzuTD/eu7cfcrOIxyeh5oU25AwXlBSuoEU3/e/pDPh60bw88dqMo27PRj+UtiBs+c1A6i5G0ZP04OA2KwNj2P5p9tQOIlZKG1Vc4Mp3fvyII5LJ0Ba3ArbP2hWB4bYcT5uO0HzqfMBI7QzmK85NEFNQG00V69DsKymyXH0HtkTRlBtwt2RgdvjxEpLASdfabrQZTTkiJzMk3VYDTjlbcWXMmo/u2o+Zk07mhG7mq/zA3I2/w/F7QMt1v8RYjzWJ6Aveb+AgeP6oAWY4pd32217k2OJ66NNRdY2rlSI/rnihEtDKt31bfH6mEMLN5Jt6ER0liY0RlylmIms=;+PGvaVPhmYEcaAC9BEEqEA=="
 ---

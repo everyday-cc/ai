@@ -8,8 +8,8 @@ webUrl: "https://www.openpr.com/news/2526101/artificial-intelligence-in-security
 ampWebUrl: "https://www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming"
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming"
 type: article
-quality: 63
-heat: 73
+quality: 65
+heat: 75
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Autos
   - AI
   - AI in Security
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.openpr.com/V/1/V113166983_g.jpg"
@@ -45,6 +46,6 @@ related:
         height: 582
         isCached: true
 
-secured: "EnRbSzsiqVVavhQMKEyCt6b34tzffv2gQslZfYJk+U4zRy1HXZyqrR+BIdVbkV5h0jhuRUulsQMAo9xWGFpXPhGivMyAl8VmZIDgjdq0PhvhOPra8fKaQ2NQTvnYbCktiiJ6qDABwPmy+l03/PKaQvEeMV9inNt6289Rua9P5ElSlSGDJLvsXw+ONtDgk5WfCiwurKU9LcCAQ8DQa2xNxhuzXYGWjtdfAPzvnMr2p8M5GH482L/oBc/ToAZZSMIn9jQncSuymYODw/bVm7JPFrbeKONA7Yo7+sla4gFpUBan/EV1kO9ga0QJrO5hSBgTjfVEsOPPHeTqG8ILf/GKGAha1WulbZCCuH+xnoiDL+s=;3787wge2ElFSqxDphgEkgA=="
+secured: "55WDI/NGU60pUenBxLna2gz60eU/WWJaJ0QuS+3qjUKK6pPvq8o9mNDBGOkKNwNSHXGR/GAGky/Kt+LqQtRL4PTNiZpiMnkvEkS2G3V4Td2UVt5T/7UGuIn7c0VKf4lIVd44l/YFVc6vZ4dEsNr2b2MXOIm7qoBVRkPK21VAoprP8NJh1kzGAXLF3aNSfoZ98zlp1oMn3Iqu/65ypCojHnJSJqWA5kE/rzI/B8fLBXmL8Rwe9uKuUDlLgXJEZDz4G6qTeq0XMnCYNfZ6eT8SBOUPRcEPoX09N868+dCSfNwWqumSOqlUI6GwRPrziS6H1dS2ijDR5GtklknoljO/BzHMBtwlIDBYjcCoChierCaYWXp7bEVCN/DUu6YINf2e4HsuNYZjop9J6hsKktKaJYYDRRaP+fqD3WaP8/AC85qKiaVHptRbVT/sE2ia6hfw0aXXQ/D5hCeQZjIC808W2Ec3JhJOpidjw2dcFs/RIcaJDT3ZR4ZY6Dq0j2YKDbfwfps5YIB4ymRGmDqj8khFzw==;Dr8Z3T7FLcx6BdDjbJLDUg=="
 ---
 

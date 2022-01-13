@@ -1,0 +1,54 @@
+---
+category: news
+title: "Shield bags $15M Series A to address surging demand for its AI-powered communication compliance platform"
+excerpt: "Over the past two years, since the pandemic hit, there has been a sharp rise in financial crime compliance costs, nearing $50 billion in 2021, up 58% compared to 2019, in the U.S. and Canada.  Shield,"
+publishedDateTime: 2022-01-13T13:00:00Z
+originalUrl: "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/"
+webUrl: "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/"
+ampWebUrl: "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/"
+type: article
+quality: 70
+heat: 90
+published: true
+
+provider:
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/01/Shield-Founding-Team.jpg?w=1024"
+    width: 1024
+    height: 683
+    isCached: true
+
+related:
+  - title: "DEBIOPHARM INVESTS IN VERISIM LIFE'S $15M SERIES A ROUND TO ADVANCE AI-ENABLED DRUG RESEARCH"
+    excerpt: "Debiopharm (  ), a Swiss biopharmaceutical company, announced today their co-investment in California -based start-up VeriSIM Life's $15 Million Series A Round to advance their mission to accelerate drug development via technology powered by artificial intelligence (AI)."
+    publishedDateTime: 2022-01-10T18:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-debiopharm-invests-verisim-lifes-15m-series-round-advance-/2022/01/10/9523113.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
+  - title: "Debiopharm International SA: DEBIOPHARM INVESTS IN VERISIM LIFE'S $15M SERIES A ROUND TO ADVANCE AI-ENABLED DRUG RESEARCH"
+    excerpt: "Funding to support BIOiSIM computational platform to reduce the need for animal testing by selecting compounds showing promise to cure a disease prior to research in humans LAUSANNE, Switzerland"
+    publishedDateTime: 2022-01-10T18:29:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54935953-debiopharm-international-sa-debiopharm-invests-in-verisim-life-s-dollar-15m-series-a-round-to-advance-ai-enabled-drug-research-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+
+secured: "hEHvf4rHkGCVigRqTLqyQOrQmY6s1Z/UMV325rsP4QQAzA8VlosYbMl557TIufLpY4igwhka6r+bDn97bScq/3qcNtMeLYIYKgt3qAfWFZxe44CppCo1PI22rrZbMA2nSSVVvSNhRSQP0uaC+Sifzsj9M892dNfN0qrh6jWlYtU4IJbsfDHu/lDqFm2i7SbPMZeOEKktUdFpuR4EEnkVsVXn8JglsJXYXH0leLYfqXGxziii/DaBSy87F8oVutklpySeZBDYRpbU1MFVJ1wfchrCClpkez0c+wSwTAT9tTKmebMG2N/E0OSfWRKekh8wbi5SziW171rug4QIBrK36USmR4WN4+DGKw7lMxWwonc=;Y/7WQVgTuMqrLlO49IHtgQ=="
+---
+

@@ -25,37 +25,30 @@ images:
     isCached: true
 
 related:
-  - title: "AI Standards Hub will help UK businesses improve AI governance"
-    excerpt: "The launch of the initiative, led by the Alan Turing Institute, comes as 1.3 million UK businesses are expected to use AI by 2040"
-    publishedDateTime: 2022-01-12T12:31:00Z
-    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical"
-    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
-    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
+  - title: "Government backs Turing Institute in bid to set global AI technical standards"
+    excerpt: "The DCMS has announced an AI Standards Hub, comprising The Alan Turing Institute, the National Physical Laboratory and the British Standards Institution to set a global bar for AI technical standards."
+    publishedDateTime: 2022-01-12T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards"
+    ampWebUrl: "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1"
     type: article
     provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 89
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641989946/itpro/GettyImages-AI-concept.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "The Era of AI is Here and Businesses Love It"
-    excerpt: "The use of artificial intelligence or AI is much more common than most people realize. Although we are far from the threshold of most sci-fi films and the"
-    publishedDateTime: 2022-01-12T19:35:00Z
-    webUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/"
-    ampWebUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
-    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 134
+  - title: "Measuring trust in AI"
+    excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
+    publishedDateTime: 2022-01-10T15:16:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/939434"
     type: article
     provider:
-      name: techspective.net
-      domain: techspective.net
-    quality: 59
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://techspective.net/wp-content/uploads/2022/01/artificial-intelligence-gfd97c804c_1920.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eaa9e3c5-5093-4b99-9689-9edc97fa962c/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 234
         isCached: true
   - title: "Alan Turing Institute to lead AI Standards Hub"
     excerpt: "The UK Government has announced the creation of an AI Standards Hub to work on improving the governance of artificial intelligence. A pilot of the hub – an online platform to bring together the national AI community – will be led by the Alan Turing Institute supported by the British Standards Institution and National Physical Laboratory."
@@ -99,6 +92,38 @@ related:
         width: 960
         height: 640
         isCached: true
+  - title: "Measuring Trust in AI"
+    excerpt: "As part of this study, the team developed an octagonal visual metric, analogous to a rating system, which could be useful to AI researchers who wish to know how their work may be perceived by the public."
+    publishedDateTime: 2022-01-11T15:43:00Z
+    webUrl: "https://cacm.acm.org/news/257780-measuring-trust-in-ai"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
+  - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional In"
+    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Series B financing round, led by Ten Coves Capital and Spark Capital."
+    publishedDateTime: 2022-01-12T14:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=599340"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional Investors"
+    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Se"
+    publishedDateTime: 2022-01-12T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220112005316/en/Boosted.ai-Raises-35-Million-Series-B-Led-by-Ten-Coves-Capital-and-Spark-Capital-to-Expand-Explainable-Machine-Learning-Platform-for-Institutional-Investors"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "hO2aN0SHVNFSKc+03hOTNn5oNibetEyHNu8CV6huywdzP2Ks6x0WelkE/28Bj5dRh+FMj9jvPD93ZaoHwwuWk8vo6gueuW4XbI34jfMURNvcAQvxb1ab5QNs0xUms46w7x+9BXfPG6cMu+dqW7mXR54Rs6eyPqNdTfw8YEOhNIyS2p9mTwHr+vZAMPqmxxi1Ru6wGmIqZfCpJ1TxbOCqCr80O19TiToxX8YdSmAWWnvAd3oh3w9Yjq/VXGtHwMRdr70WXDJZ9UC1qy/2SqnjJjTRvP3CBkWl4vyMvOm2I9ZHVOUGPq2eao1ag5MxMimR4Pnz0ajgYCcMCFeLd5y69t0O1dz6V9FBkbqfNvXGNgM=;lvfu5s+qCzxFFNYQ10EGtw=="
 ---

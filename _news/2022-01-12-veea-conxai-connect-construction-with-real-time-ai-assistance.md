@@ -24,64 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Veea and Conxai Fuse Edge Computing, Connectivity, and AI Technology"
-    excerpt: "With a common mission to transform the global construction industry using AI-driven network edge solutions designed to make worksites safer, more efficient, and manageable, Veea Inc., an innovation leader in integrated smart edge connectivity,"
-    publishedDateTime: 2022-01-11T13:15:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/veea-and-conxai-fuse-edge-computing-connectivity-and-ai-technology-1031093761"
+  - title: "14 Ways To Leverage AI To Better Connect With Customers"
+    excerpt: "In 2022, marketers will no doubt find more unique ways to incorporate AI into their operations to enhance campaigns while boosting the effectiveness of data analysis and the accuracy of reporting."
+    publishedDateTime: 2022-01-13T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://mma.prnewswire.com/media/1722728/Veea_and_Conxai.jpg"
-        width: 400
-        height: 267
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df4cda763af9c8f4a29ba3%2F0x0.jpg"
+        width: 1200
+        height: 819
         isCached: true
-  - title: "Adding AI to the Construction Industry, Munich’s Conxai Raises $3M"
-    excerpt: "Munich-based Conxai has raised 2.7 million euros ($3 million) to harness artificial intelligence (AI) for the construction sector."
-    publishedDateTime: 2022-01-10T22:25:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/"
+  - title: "AI to benefit customers and developers in real estate"
+    excerpt: "The current global crisis due to Omicron and COVID cases is also pushing both, developers and customers, to go for online booking of retail and residential spaces. This would eventually compel the arrival of AI and ML in the Indian real-estate sector."
+    publishedDateTime: 2022-01-11T08:50:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20220111/3890527.html"
     type: article
     provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Construction-1-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Measuring Construction Activity and AI Analysis Can Control Overtime"
-    excerpt: "A study used artificial intelligence to analyze jobsite activity recorded on several construction sites and found correlations that would allow contractors to plan overtime and control its use for max"
-    publishedDateTime: 2022-01-11T11:45:00Z
-    webUrl: "https://www.forconstructionpros.com/construction-technology/press-release/21992912/versatile-measuring-construction-activity-and-ai-analysis-can-control-overtime"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 39
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2022/01/16x9/Dodge_Versatile_overtime.61dcc16ce635a.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 999
-        height: 561
-        isCached: true
-  - title: "How Conversational AI Can Give Your Business A Competitive Edge"
-    excerpt: "AI is transforming different aspects of running a business, including communication with customers. The need for offline call centers may soon decline, as"
-    publishedDateTime: 2022-01-12T16:42:00Z
-    webUrl: "https://www.techshout.com/how-conversational-ai-can-give-your-business-a-competitive-edge/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 37
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/04/artificial-intelligence-ai.jpg"
-        width: 690
-        height: 388
-        isCached: true
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 17
 
 secured: "lHO7LE1+tHBI+RFkNIPkadk09SPqhBfGmUlYN+VkNljLZDfmMSR9Udy582T+3lGSFwvkxLk/8ge0xRu/NHvJuQmem5eF3J4QuRaaeHfc7zf62kf1oQNUPX8ftTMotqCPuDs7x6VMK4S2cMn8OOEV+FQuWjrfeCQaoGlKAwqoKF8GVA4NUctxJPfzYSBNSAfjcEyaV4U5bov/yaF3nnR0xv0JWZRFW+h0GgZfXpL060ngDnWQc3gGbfevkZc/hZWdeSXo9t7TcHrLwzHneul1NIFkEB1bM5b0e2aXs82d+BEqJLbz10KKgODrglBQMx2nD3Pxbanyp2I5vUzQ4q/fkD2p0bvvZLICqBV6aCS5+BM=;i/RaaLNn8BSST8BwKo1wEw=="
 ---

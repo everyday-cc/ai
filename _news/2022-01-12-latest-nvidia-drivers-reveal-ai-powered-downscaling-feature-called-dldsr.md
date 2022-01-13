@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html"
 type: article
 quality: 88
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "4 Reasons to Invest in Nvidia's AI in 2022"
+    excerpt: "This is where the AI part comes in, a few years ago, when researchers were trying to build the first AI models that really worked, technology had not caught up with the idea yet. We needed massive lakes of data and we needed processors that could move that data around."
+    publishedDateTime: 2022-01-13T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?time=1642082401"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "Nvidia reveals Deep Learning Dynamic Super Resolution tech"
     excerpt: "Nvidia reveals an update to its DSR downscaling tech called DLDSR which uses AI to downscale the images from... lower higher resolutions."
     publishedDateTime: 2022-01-11T21:00:00Z

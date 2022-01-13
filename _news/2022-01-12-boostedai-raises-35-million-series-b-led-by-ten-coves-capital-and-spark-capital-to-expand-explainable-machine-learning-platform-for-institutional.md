@@ -25,36 +25,105 @@ images:
     isCached: true
 
 related:
-  - title: "ORAI Robotics Raises INR 6.5 Cr in Pre-series a Round Led by Inflection Point Ventures"
-    excerpt: "Sujit Das Biswas, CTO & Swapnil Jain, CEO ORAI Robotics is an integrated conversational AI platform focused at maximising"
-    publishedDateTime: 2022-01-13T06:01:00Z
-    webUrl: "https://www.indianweb2.com/2022/01/orai-robotics-raises-inr-65-cr-in-pre.html"
+  - title: "Government backs Turing Institute in bid to set global AI technical standards"
+    excerpt: "The DCMS has announced an AI Standards Hub, comprising The Alan Turing Institute, the National Physical Laboratory and the British Standards Institution to set a global bar for AI technical standards."
+    publishedDateTime: 2022-01-12T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards"
+    ampWebUrl: "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 61
-    images:
-      - url: "https://blogger.googleusercontent.com/img/a/AVvXsEi-55sk0UPRjuXp0VEHwUIeE-_dB8pASiF95yLJ5HKHBIlw_ogifsLTwu97CCxGyPedDJprFoyMc-r7KJTiQcFKXgUJCHsZduGi7bxo-kSN1aKvZTNYb2JaxaBlv1rCmePKXitKowKzQp5eVm1DdXCakmGdW-sdo9PO9VRO3tVQWE5IfoKYOStz4src=s16000"
-        width: 1812
-        height: 1251
-        isCached: true
-  - title: "Conversational AI platform Orai raises Rs 6.5 cr in pre-Series A round led by Inflection Point Ventures"
-    excerpt: "Conversational AI platform Orai has announced it has raised Rs 6.5 crore in a pre-Series A round led by Inflection Point Ventures, angel investment platform. The funds raised will be utilised in expansion in sales and marketing,"
-    publishedDateTime: 2022-01-13T06:30:00Z
-    webUrl: "https://www.freepressjournal.in/business/conversational-ai-platform-orai-raises-rs-65-cr-in-pre-series-a-round-led-by-inflection-point-ventures"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/conversational-ai-platform-orai-raises-rs-65-cr-in-pre-series-a-round-led-by-inflection-point-ventures"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/conversational-ai-platform-orai-raises-rs-65-cr-in-pre-series-a-round-led-by-inflection-point-ventures"
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 134
+  - title: "Measuring trust in AI"
+    excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
+    publishedDateTime: 2022-01-10T15:16:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/939434"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 41
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
     images:
-      - url: "https://images.assettype.com/freepressjournal/2022-01/9ba31fb1-3074-4bb4-a850-37ffcd9663bc/Co_founders_L_R_Sujit_Das_Biswas__CTO___Swapnil_Jain__CEO.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 828
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eaa9e3c5-5093-4b99-9689-9edc97fa962c/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 234
         isCached: true
+  - title: "DCMS initiative to set standards for AI"
+    excerpt: "The Alan Turing Institute, supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government"
+    publishedDateTime: 2022-01-12T11:08:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/dcms-initiative-set-standards-ai-2022-01/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 39
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/01/12110327/DA075902-4F1D-459C-9DF1-7317E370696B.jpeg"
+        width: 847
+        height: 720
+        isCached: true
+  - title: "Alan Turing Institute to lead AI Standards Hub"
+    excerpt: "The UK Government has announced the creation of an AI Standards Hub to work on improving the governance of artificial intelligence. A pilot of the hub – an online platform to bring together the national AI community – will be led by the Alan Turing Institute supported by the British Standards Institution and National Physical Laboratory."
+    publishedDateTime: 2022-01-13T00:04:00Z
+    webUrl: "https://www.ukauthority.com/articles/alan-turing-institute-to-lead-ai-standards-hub/"
+    type: article
+    provider:
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 39
+    images:
+      - url: "https://www.ukauthority.com/media/11108/ai-standards-hub-logo-govuk-ogl.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "New hub launched to test AI standards"
+    excerpt: "The Alan Turing Institute has been selected to lead a pilot AI Standards Hub, set to work closely with members of the AI community"
+    publishedDateTime: 2022-01-12T16:52:00Z
+    webUrl: "https://www.techuk.org/resource/new-hub-launched-to-test-ai-standards.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
+        width: 400
+        height: 276
+        isCached: true
+  - title: "New UK initiative to shape global standards for Artificial Intelligence"
+    excerpt: "The Alan Turing Institute (@turinginst), supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government initiative to lead in shaping global technical standards for Artificial Intelligence."
+    publishedDateTime: 2022-01-13T09:40:00Z
+    webUrl: "https://www.fenews.co.uk/education/dcms-news-release-new-uk-initiative-to-shape-global-standards-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: fenews.co.uk
+      domain: fenews.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fenews.co.uk/wp-content/uploads/2021/09/46fc9920bc.png"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Measuring Trust in AI"
+    excerpt: "As part of this study, the team developed an octagonal visual metric, analogous to a rating system, which could be useful to AI researchers who wish to know how their work may be perceived by the public."
+    publishedDateTime: 2022-01-11T15:43:00Z
+    webUrl: "https://cacm.acm.org/news/257780-measuring-trust-in-ai"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 19
+  - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional Investors"
+    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Se"
+    publishedDateTime: 2022-01-12T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220112005316/en/Boosted.ai-Raises-35-Million-Series-B-Led-by-Ten-Coves-Capital-and-Spark-Capital-to-Expand-Explainable-Machine-Learning-Platform-for-Institutional-Investors"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "koy0H20eQGSDlNJpdtxIScUCZZ+DaZezIC6M03B1AuWcFPgv+szJphitfQZSW7iFIEKrOzrfmdbKinWqNSgEwgV8qnwMC/2IqCceT0+WygJ5ktkHqMxrbmsRLHlN0c7tybizVBFYBz9QC2AVKDIKToaiwIO6yhq3uFiTVUsOqke8qa546YFXLUs0mYBygOLKJYHn9SRKQkkaRGDWR9ekzUynzZHQmWalKGZIWIrSvlFHTmQTPPSWZ8rN6hsVPwITQ2k+ijojQUjVFYzFb8Xr3YdQ8N39Men2R2FHzOTFcexi4UW2ba23GuPkvX1L+nVmkqGtc01fPu1rwUqdN9eGAGdN836u32rLS8Pkiok8eko=;W7IgstlE0Ifg1QF+S8GuNA=="
 ---

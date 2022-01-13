@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Nuro announces 3rd-gen driverless delivery vehicle"
+    excerpt: "The cute little Nuro pod gets a big cargo upgrade and new sensors. Remember Nuro? You know, they make the cute little driverless delivery pods and they've partnered with companies like Kroger, FedEx,"
+    publishedDateTime: 2022-01-12T14:00:11Z
+    webUrl: "https://www.cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/"
+    type: article
+    provider:
+      name: cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/
+      domain: cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/
+    quality: 159
+    images:
+      - url: "https://www.cnet.com/a/img/SGxZeFDiIQh6cIx9DHeuWGlgWwc=/2022/01/11/c0fbe27d-6be4-4702-aca0-7637dc5ebaed/nuro-family-groceries.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nuro Add Airbags (for People) to Self-Driving Delivery Vehicles"
+    excerpt: "Pedestrians can be an absent-minded bunch, so Nuro's newest delivery bot adds an external airbag to protect those who may collide with it on the sidewalk."
+    publishedDateTime: 2022-01-12T18:37:00Z
+    webUrl: "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles"
+    ampWebUrl: "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true"
+    cdnAmpWebUrl: "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 89
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/0450pNfKRBwFezwmdnvuEr0-1.fit_lim.size_1200x630.v1642009417.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "RTA forum reviews traffic rules of driverless flying taxis in Dubai"
     excerpt: "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation."
     publishedDateTime: 2022-01-13T06:31:00Z

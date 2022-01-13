@@ -93,20 +93,6 @@ related:
         width: 820
         height: 312
         isCached: true
-  - title: "Measuring trust in AI"
-    excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
-    publishedDateTime: 2022-01-10T15:16:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/939434"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eaa9e3c5-5093-4b99-9689-9edc97fa962c/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 234
-        isCached: true
   - title: "How Upcoming AI Technologies Will Impact Businesses"
     excerpt: "Robots and automation have long been a part of the manufacturing ... With continuous innovations and new ideas, there are lots of ways that companies can improve thanks to AI. Start researching and stay ahead of the curve."
     publishedDateTime: 2022-01-12T07:59:00Z
@@ -144,15 +130,6 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 34
-  - title: "Measuring Trust in AI"
-    excerpt: "As part of this study, the team developed an octagonal visual metric, analogous to a rating system, which could be useful to AI researchers who wish to know how their work may be perceived by the public."
-    publishedDateTime: 2022-01-11T15:43:00Z
-    webUrl: "https://cacm.acm.org/news/257780-measuring-trust-in-ai"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "IsF6q/dz2SpekpAmjPtIUhrcOHT/kfg2q72LxGGogKAel+7daSy6Kw9lS+vcsg9xYSjNFQm5H9JrIX9g4FFfVKERU58x8h2XfEEfElIAc1OhmVXfzWEhRN6EofEkL0xw7xh5/NXf5whiaHQ1coofeEr19nOOlx8j0lpfORAvadR6SF8rOBn+DLzOX44EG+2wSFQwfzCnB+XrCwFXktCEtCVi9KcaddWf5RgKodQTgFVwmMWj4Zj+j52peIwU6sF1DXZp6FsAsTlLCMXvwgCTU4AgQHCKzzPHGNPClx3GhZ3O0GRuPOIicnmxXWayLm1yEC6eOo1SZSf9ceMvtb/T70+lt85xmlOQo5rOFTFboFY=;zRjoHI+lKl8WqNDKT8XwrA=="
 ---

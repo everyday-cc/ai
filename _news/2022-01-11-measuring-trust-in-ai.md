@@ -19,80 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Using AI And Machine Learning To Improve The Health Insurance Process"
-    excerpt: "Health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
-    publishedDateTime: 2022-01-10T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/"
+  - title: "Government backs Turing Institute in bid to set global AI technical standards"
+    excerpt: "The DCMS has announced an AI Standards Hub, comprising The Alan Turing Institute, the National Physical Laboratory and the British Standards Institution to set a global bar for AI technical standards."
+    publishedDateTime: 2022-01-12T09:00:00Z
+    webUrl: "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards"
+    ampWebUrl: "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Finding Love In The Midst Of Algorithms, Artificial Intelligence And Data"
-    excerpt: "What sustains the thriving business of love? What has made these apps, agents and companies who broker love, such a success? Here is what my experience taught me."
-    publishedDateTime: 2022-01-11T00:44:00Z
-    webUrl: "https://www.outlookindia.com/website/story/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
-    ampWebUrl: "https://www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 56
-    images:
-      - url: "https://images.outlookindia.com/public/uploads/articles/2022/1/10/Untitled_design_(3).jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "4 ways artificial intelligence is improving mental health therapy"
-    excerpt: "With an increased demand for services and workloads stretched, using AI within mental health services could be a game-changer."
-    publishedDateTime: 2022-01-11T17:57:00Z
-    webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
-    type: article
-    provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 56
-    images:
-      - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
-        width: 4098
-        height: 2304
-        isCached: true
-  - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
-    excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
-    publishedDateTime: 2022-01-10T13:00:00Z
-    webUrl: "https://www.cioreview.com/news/product-management-in-the-age-of-artificial-intelligence-and-machine-learning-nid-34835-cid-214.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 55
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/t0ssq.pmmag.jpg"
-        width: 300
-        height: 350
-        isCached: true
-  - title: "Opinion: Using AI and machine learning to improve the health insurance process"
-    excerpt: "In the past decade, health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
-    publishedDateTime: 2022-01-10T14:16:00Z
-    webUrl: "https://www.healthleadersmedia.com/payer/opinion-using-ai-and-machine-learning-improve-health-insurance-process"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 50
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
-        isCached: true
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 134
   - title: "Measuring trust in AI"
     excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
     publishedDateTime: 2022-01-10T15:16:00Z
@@ -107,52 +44,85 @@ related:
         width: 300
         height: 234
         isCached: true
-  - title: "How Upcoming AI Technologies Will Impact Businesses"
-    excerpt: "Robots and automation have long been a part of the manufacturing ... With continuous innovations and new ideas, there are lots of ways that companies can improve thanks to AI. Start researching and stay ahead of the curve."
-    publishedDateTime: 2022-01-12T07:59:00Z
-    webUrl: "https://negosentro.com/how-upcoming-ai-technologies-will-impact-businesses/"
+  - title: "DCMS initiative to set standards for AI"
+    excerpt: "The Alan Turing Institute, supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government"
+    publishedDateTime: 2022-01-12T11:08:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/dcms-initiative-set-standards-ai-2022-01/"
     type: article
     provider:
-      name: negosentro.com
-      domain: negosentro.com
+      name: Electronics Weekly
+      domain: electronicsweekly.com
     quality: 39
     images:
-      - url: "https://negosentro.com/wp-content/uploads/2022/01/jumpstory-download20220112-075819.jpg"
-        width: 1280
-        height: 853
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/01/12110327/DA075902-4F1D-459C-9DF1-7317E370696B.jpeg"
+        width: 847
+        height: 720
         isCached: true
-  - title: "CCC: AI Continuing to Infiltrate Claims Process"
-    excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
-    publishedDateTime: 2022-01-11T09:31:00Z
-    webUrl: "https://www.fenderbender.com/articles/17291-ccc-ai-continuing-to-infiltrate-claims-process"
+  - title: "Alan Turing Institute to lead AI Standards Hub"
+    excerpt: "The UK Government has announced the creation of an AI Standards Hub to work on improving the governance of artificial intelligence. A pilot of the hub – an online platform to bring together the national AI community – will be led by the Alan Turing Institute supported by the British Standards Institution and National Physical Laboratory."
+    publishedDateTime: 2022-01-13T00:04:00Z
+    webUrl: "https://www.ukauthority.com/articles/alan-turing-institute-to-lead-ai-standards-hub/"
     type: article
     provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 37
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 39
     images:
-      - url: "https://www.fenderbender.com/ext/resources/artificial-intelligence.jpg?height=635&t=1626952330&width=1200"
-        width: 806
-        height: 504
+      - url: "https://www.ukauthority.com/media/11108/ai-standards-hub-logo-govuk-ogl.jpg"
+        width: 500
+        height: 324
         isCached: true
-  - title: "New AI image processing chip for 8K TV unveiled in Beijing"
-    excerpt: "China's first Artificial Intelligence (AI) image processing chip for 8K TV has been released by Hisense in Beijing, CGTN reports. The move is seen by government officials as a milestone in the country's development of key TV technologies. The chip ..."
-    publishedDateTime: 2022-01-13T07:02:00Z
-    webUrl: "https://www.publicnow.com/view/8BA2FC5AFB8DCC48F45693A910B3A6CE2036BEDD"
+  - title: "New hub launched to test AI standards"
+    excerpt: "The Alan Turing Institute has been selected to lead a pilot AI Standards Hub, set to work closely with members of the AI community"
+    publishedDateTime: 2022-01-12T16:52:00Z
+    webUrl: "https://www.techuk.org/resource/new-hub-launched-to-test-ai-standards.html"
     type: article
     provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
-  - title: "How AI is improving the translation experience for marketers"
-    excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
-    publishedDateTime: 2022-01-10T17:30:00Z
-    webUrl: "https://www.america-retail.com/usa/how-ai-is-improving-the-translation-experience-for-marketers/"
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
+        width: 400
+        height: 276
+        isCached: true
+  - title: "New UK initiative to shape global standards for Artificial Intelligence"
+    excerpt: "The Alan Turing Institute (@turinginst), supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government initiative to lead in shaping global technical standards for Artificial Intelligence."
+    publishedDateTime: 2022-01-13T09:40:00Z
+    webUrl: "https://www.fenews.co.uk/education/dcms-news-release-new-uk-initiative-to-shape-global-standards-for-artificial-intelligence/"
     type: article
     provider:
-      name: america-retail.com
-      domain: america-retail.com
-    quality: 19
+      name: fenews.co.uk
+      domain: fenews.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fenews.co.uk/wp-content/uploads/2021/09/46fc9920bc.png"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional In"
+    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Series B financing round, led by Ten Coves Capital and Spark Capital."
+    publishedDateTime: 2022-01-12T14:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=599340"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 14
+    images:
+      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
+        width: 580
+        height: 339
+        isCached: true
+  - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional Investors"
+    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Se"
+    publishedDateTime: 2022-01-12T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220112005316/en/Boosted.ai-Raises-35-Million-Series-B-Led-by-Ten-Coves-Capital-and-Spark-Capital-to-Expand-Explainable-Machine-Learning-Platform-for-Institutional-Investors"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "9tq8ZhbB5l23fU3CMc0cedn6Jq2GQixEqNVTrySamjvlYMeKyTa22fwGuqbWv4cuhz61R3edfDRHS40rO24W5TKMGxmAooW0xy0mV65KNYgW4sjndG2qKzfBQSwU0W+xpeJ8ef4Wa4EMDZ5+V8oyxvq3cBJVgLsddr7ABGKAebR8HwNnhBu9X1GhSGWx/xpz8JBMqeVZO1k2fwDUuxbNXy+lpAga5qtQAsqJ0ne486Z6qg88i5zuSynCxR0Y7sPwkA2bgEX4hCF5ieNFvpDBQRc3lvra5cB/q50vwcvr+6fbGNYJjcYrFuBVxKDpn/1/FYH5IsXGKALPwd1Ah/aZJD+Ms+91VVJP0CzfoFJoJ2w=;gXR39onFhXAx0acNzc5PtQ=="
 ---

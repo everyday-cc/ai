@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20220111/AI-driven-solution-pr
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220111/AI-driven-solution-predicts-RNA-and-DNA-binding-sites-to-accelerate-rational-drug-discovery.aspx"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -27,18 +27,20 @@ images:
 
 related:
   - title: "Artificial intelligence predicts RNA and DNA binding sites to speed up drug discovery"
-    excerpt: "Researchers developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
-    publishedDateTime: 2022-01-11T16:10:00Z
-    webUrl: "https://www.nanowerk.com/news2/biotech/newsid=59510.php"
+    excerpt: "The iMolecule group from Skoltech has developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
+    publishedDateTime: 2022-01-11T16:24:00Z
+    webUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.html"
+    ampWebUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.amp"
     type: article
     provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 32
+      name: Phys.org
+      domain: phys.org
+    quality: 50
     images:
-      - url: "https://www.nanowerk.com/news2/biotech/id59510_1.jpg"
-        width: 1290
-        height: 574
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-2.jpg"
+        width: 1474
+        height: 656
         isCached: true
 
 secured: "VGbyDMvp52GJubZLRMksOBk4pvorGsS/Toe8kfW5a0650lXA529ozRyo/FC7xAgdxFgXkFH6XsP9rban2GyjfvCoZInEgfvexYbx6arsCtyji8564bSN+ZiO8wzspHzl/hpRHNmQ6nlAPWbpPPZ+hNaUFvxbC2zTn5RcFDSbkLG+3Xi523DXh1tKa+dhJJANf/580Qn9LmzdGBF8PTSbf7BK5RJxTd3jGy250N/1+J6fGIe+sZ0XTL1nC8XS1MuZudXufNSJ930IAVwrqcVSswGq2+fUXup31ML/ywfrAFP0bxH9ITwT3A4CdujMH/kuPQWUrSyiEFPsdaG+2aut0SLqor5A04sVfPr5tuAdMmU=;tzbrxGYbxcFnA4MbxaJh2Q=="

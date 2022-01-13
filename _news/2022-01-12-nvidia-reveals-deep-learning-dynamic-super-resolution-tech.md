@@ -43,6 +43,17 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "4 Reasons to Invest in Nvidia's AI in 2022"
+    excerpt: "This is where the AI part comes in, a few years ago, when researchers were trying to build the first AI models that really worked, technology had not caught up with the idea yet. We needed massive lakes of data and we needed processors that could move that data around."
+    publishedDateTime: 2022-01-13T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?time=1642082401"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "oOT6G/vNUPVur6jIc34fT7aW4I9HCKWoyuxq6fRRg6IwpSBXw2BtNrF71RcBDmds6JAlU4LqYT0SF25agixwzGkXcqO6YEqoofJR2EZcSfw3iGIfJfLF3tD8kEgdYMSN7RNF3xuVw2wmAv2bHygrwV5WxfP00rCxKHlBA7O6KPN9Rtfh9nHQFVSHZ5yi1qaKiort+jYqMx+bhYCqUSwU8v6VTmeTm6HfdpfCMIGgGkCL3HmWvjncVcP2jYt+Qhx7wgvLmcX/TZO3TGtN/icNHTGMMMTz4EZ2qCmzqEuEPvNy7IF9jctqB78yQc+cmYmZaiUJx1XkWXWrf4fYlaxsts/horIhjyBnnOzMK+p3RnP6TlbPYchkMhzTPiuAQrlK2WiYVm85LkGcEVq+XWCL1jxP0toubv9CwAy9GuzQHtPlrVCYqpGxDRuXI1gvuc92lOAfRTn02c97zh3LRscKoydHHDoeSWj2+1qo0IO1dc5dIZ3o7KzI6kMMVjT1DOYntNPBpO9d/dM5GXg66ojCFg==;lCZxSVUuQQB7N/N1ShnEAg=="
 ---
