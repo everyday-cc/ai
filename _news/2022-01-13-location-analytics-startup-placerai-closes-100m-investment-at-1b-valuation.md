@@ -164,6 +164,20 @@ related:
         width: 2560
         height: 1706
         isCached: true
+  - title: "Machine Learning to Power the Future of Streaming Analytics"
+    excerpt: "The incredible amount of data that will be generated in the next few years demands help to manage, mostly in the form of machine learning algorithms."
+    publishedDateTime: 2022-01-13T10:15:00Z
+    webUrl: "https://tdwi.org/articles/2022/01/13/adv-all-machine-learning-to-power-the-future-of-streaming-analytics.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 39
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/machinelearning4.jpg"
+        width: 976
+        height: 400
+        isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
     excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
     publishedDateTime: 2022-01-10T13:35:00Z

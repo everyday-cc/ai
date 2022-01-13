@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-adverti
 webUrl: "https://markets.businessinsider.com/news/stocks/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange-1031083662"
 type: article
 quality: 97
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -155,6 +155,20 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/ab_cloud-logo-scaled.jpg"
         width: 2560
         height: 1706
+        isCached: true
+  - title: "Machine Learning to Power the Future of Streaming Analytics"
+    excerpt: "The incredible amount of data that will be generated in the next few years demands help to manage, mostly in the form of machine learning algorithms."
+    publishedDateTime: 2022-01-13T10:15:00Z
+    webUrl: "https://tdwi.org/articles/2022/01/13/adv-all-machine-learning-to-power-the-future-of-streaming-analytics.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 39
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/machinelearning4.jpg"
+        width: 976
+        height: 400
         isCached: true
   - title: "Location analytics startup Placer.ai closes $100M investment at $1B valuation"
     excerpt: "Startup Placer.ai, which helps retailers analyze foot traffic at their stores to identify opportunities for business growth, today revealed that it has closed a $100 million funding round at a $1 billion valuation."

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-san-francisco-robotics-cd7b2bbb6f2048169b1aa520c62aff2c"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -26,33 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech leader Builders Capital brings innovative software platform to borrowers through BIMQuote and Customhome.ai acquisition"
-    excerpt: "Builders Capital, the nation’s leading non-bank residential construction lender, announced the acquisition of BIMQuote and Customhome.ai this week. These two technology platforms are complementary additions to the Builders Capital product suite,"
-    publishedDateTime: 2022-01-11T14:05:00Z
-    webUrl: "https://www.constructiondive.com/press-release/20220110-fintech-leader-builders-capital-brings-innovative-software-platform-to-borr/"
+  - title: "AI research collaboration begins"
+    excerpt: "An associate professor in RIT’s College of Liberal Arts was awarded nearly $2 million by the National Science Foundation to lead a team of RIT faculty addressing a lack of diversity in the artificial intelligence research community and gaps in AI curricula."
+    publishedDateTime: 2022-01-13T09:55:00Z
+    webUrl: "https://www.rit.edu/news/ai-research-collaboration-begins"
     type: article
     provider:
-      name: Construction Dive
-      domain: constructiondive.com
-    quality: 11
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 37
     images:
-      - url: "https://res.cloudinary.com/dmgi9movl/image/upload/dpr_2.0,h_200,w_200/v1641842682/press_release/assets/company_logos/BC-Logo-XL_igamaa.png"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Fosun Pharma and Insilico Medicine Announce a Strategic, AI-driven Drug Discovery and Development Collaboration to Jointly Advance Multiple Targets"
-    excerpt: "This strategic collaboration includes an AI-driven drug discovery research and development (R&D) collaboration on four biological targets, as well as the co-development of Insilico's QPCTL program. Insilico will receive a total upfront payment of $13 million for the R&D collaboration projects and the co-development of the QPCTL program,"
-    publishedDateTime: 2022-01-11T08:30:00Z
-    webUrl: "https://www.prnewswire.com/in/news-releases/fosun-pharma-and-insilico-medicine-announce-a-strategic-ai-driven-drug-discovery-and-development-collaboration-to-jointly-advance-multiple-targets-829629042.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 1
-    images:
-      - url: "https://mma.prnewswire.com/media/1723121/Fosun.jpg?p=facebook"
-        width: 1268
-        height: 664
+      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2022-01/AI-research-ASW_4898.jpg?itok=9cjuXLTQ"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "r3SaJQDiHT/s4kaw9yuLNUX3p12tYGzeJYZNHhzLxoYOc0dLeRI43iOr3Zy3dadPPHMuIuJoqa2nA/aZ52/3YffO5zi88yBitVifjFbNhhiEM5ff3qPHLxuphwLkdHG6sZSIPLqxp65RK5Pt/rozzWHhTYWiP9wsbyyIH6MzNmNm3DmtAR7P64aX9bPPzaFz2ut/0a91otEqZu2nQ5p0/ooramVzjlDozmFg0XrXbqpgAvs9nhVDziJnJ/OD82kIgcLPEWTdDLasYEmzSbY19Vu6VESM121OWEBxq/w1+4nOgs6wgO9SPrHKi8peJZl97BaQXi6b0yLZAsVYDAA4fMecxoLm70ZwKx2Zd8gKJP0=;35JgQHEXL31fS1OkqFtbuQ=="

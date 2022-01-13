@@ -30,19 +30,16 @@ images:
 
 related:
   - title: "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR: AMR"
-    excerpt: "Allied Market Research recently published a report, titled, \"Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and Others), Application (Natural"
+    excerpt: "Allied Market Research recently published a report, titled, \"Artificial Intelligence Chip Market by Chip Type (GPU, ASIC,"
     publishedDateTime: 2022-01-10T12:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html"
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/n24967954/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr-amr"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24967954"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24967954"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 43
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61deaba58de15.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 45
 
 secured: "QNp2zzqtTRBeHa22Hkrffvrw2VMjQLHL2LOmTq7e/q/hZhg5LMbvaBm2tKFiRVMD6bjoeH+9tYZAj/68GXycoGslJKzI67Fvng2fVR/yt8lsbHMszmGsxX6qtBvlihY1RQZ3UoDPWew6Zg5QKTcx91JnMU8zRwz2KZcKu+RelBGH5KFDDtVEdvmN5A1nNG2bIGt1Ls7+ubSybFypHI7XuuBEYWT/z3zgi2Ue/nef1W2GuEBvo0/hX3EXwF2C7sLQaHzefRVxah7O6k1gu/qbLz7k8JJWH9rVisiqZFZhCLt4Tit0iAKmVgmIhAMLs0rPuZXwBfWCQr6Yv05M1YKfolCqrXNy8BWVX+lrs9MIbLw=;w375O5G1OeMDPF1YhoshSA=="
 ---
