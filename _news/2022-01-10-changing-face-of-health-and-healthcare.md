@@ -9,8 +9,8 @@ ampWebUrl: "https://www.expresshealthcare.in/amp/news/changing-face-of-health-an
 cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: expresshealthcare
@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Electronics companies are changing the face of car manufacturing"
+    excerpt: "For most of the history of motor vehicles, in-car electronics has lagged behind the rest of the consumer industry. Now, that's changing, and, perhaps, electronics companies might have an advantage."
+    publishedDateTime: 2022-01-14T12:31:00Z
+    webUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing"
+    ampWebUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 24
 
 secured: "OYpIugNDkut1VVeaGo3hdiPX9qhUPIUZcsAGK1DtXh+mXI2Jjng99RX2sggNPea6i+cWlaoiQBLh2OsM/caagW9pnCmgWHdHIyCrGO/qY/MpnzJCcUspWiZSKKU9eWa1YWa1vxW3Ma9+fJeOJywqSvi+IwBb64NDpV6DzIqWOIQ/aUNbTnrhXB/YAAJfuTuAXymOccU0mToHTzxYcYWSRJGvghElMmIu5rpwpJq4SElxPRZhUWffOATFF3s4gfQh2m8PwbWG9MLIGgLOFy5wEwUdh8vPr40yPOLbnjow9qtGLZHrhJdr/ElkLJY26UeeZz2c2yJAgRFDprfSAQXMSzd3Mv9bCVAJzgSjZUihE5E=;9dlbBbR8IZUo3K8c7Ut7uw=="
 ---

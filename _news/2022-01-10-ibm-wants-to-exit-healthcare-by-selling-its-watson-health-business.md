@@ -42,6 +42,17 @@ related:
         width: 750
         height: 400
         isCached: true
+  - title: "Electronics companies are changing the face of car manufacturing"
+    excerpt: "For most of the history of motor vehicles, in-car electronics has lagged behind the rest of the consumer industry. Now, that's changing, and, perhaps, electronics companies might have an advantage."
+    publishedDateTime: 2022-01-14T12:31:00Z
+    webUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing"
+    ampWebUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 24
 
 secured: "TnJnnrVKEciGeoqpTWb53ZsV5quIuyFNFUjX0rf1cy0DKqcgWJ0wpRWzehf7Vr0mYRw8RWfcrn0k8KIQBgUgZ4/JjcRXlutLyez2PRMEhw86MdBq+uNVu0Ceh3Bp+PqbpWwI31uXzC3QlO/dpAZhGBnVhq/Ujn/EycVyGVipVrxPft8dP11oxYyocqVvoxODyg9tImBefo1NCcs3W7QD50B/Z2PkIB46Uq4+FGMk1obeJnie8ILzLDzTMuop9qUT1OdaLUL/soRSD/aLvMrnG6wCQBBIsq+Dl8omJOKfETgNMr4mK2OyMXmz7/olcoPHasupoU/Vuo2x9KN0KZNuNXUX/MVkadp+36B6XV7vql7l1ElJ1MZm+V7q8cXxRysPrwvmo6zl5vw/xwmjeXvAxYMLCozHHIIBYuDWfY3+qAh/lU4StjeAzyLCcF20gyNvdBHxSU2wkakak2aQCDcFQjRtGvd3xsaXO5ukr5rVsexuNz8/nCscMWoZEav8eAMnspBB25wP45Ju7O/8bAAhQA==;2nVaNPW+f1QU5Nwu/VKnUw=="
 ---

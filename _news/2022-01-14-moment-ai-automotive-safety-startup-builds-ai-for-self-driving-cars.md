@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-14T09:00:00Z
 originalUrl: "https://www.bizjournals.com/washington/news/2022/01/14/startups-to-watch-moment-ai-self-driving-car-tech.html"
 webUrl: "https://www.bizjournals.com/washington/news/2022/01/14/startups-to-watch-moment-ai-self-driving-car-tech.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Five Revenue Models That Can Drive Growth For AI Startups"
