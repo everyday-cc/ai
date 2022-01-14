@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot trucks get US tests, raising self-driving safety stakes"
-    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
-    publishedDateTime: 2022-01-10T01:04:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/10/robot-trucks-get-us-tests-raising-self-driving-safety-stakes"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 56
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/09/1437655.jpg"
-        width: 1240
-        height: 827
-        isCached: true
   - title: "Can a Self-Driving 40-Ton Truck resolve some supply chain issues? Developers Say Yes"
     excerpt: "Technology companies are proceeding with tests to demonstrate that driverless trucks are the long-term solution."
     publishedDateTime: 2022-01-10T03:46:00Z
@@ -56,64 +42,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-65262,msid-88801274/istock-1127822663.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Self-driving trucks are hitting the roads"
-    excerpt: "Studio17’s Ilyana Capellan talks to Daniel Geoulla from B& D Law Group APLC about the autonomous vehicles that are hitting the roads and making the news. Geoulla projects that things"
-    publishedDateTime: 2022-01-13T01:30:00Z
-    webUrl: "https://www.kget.com/studio17live/self-driving-trucks-are-hitting-the-roads/"
-    ampWebUrl: "https://www.kget.com/studio17live/self-driving-trucks-are-hitting-the-roads/amp/"
-    cdnAmpWebUrl: "https://www-kget-com.cdn.ampproject.org/c/s/www.kget.com/studio17live/self-driving-trucks-are-hitting-the-roads/amp/"
-    type: article
-    provider:
-      name: KGET.com
-      domain: kget.com
-    quality: 44
-    images:
-      - url: "https://www.kget.com/wp-content/uploads/sites/2/2022/01/snapshot-19.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "5 Best Self-Driving Car Stocks to Buy Today"
-    excerpt: "The best self-driving car stocks are set to revolutionize the auto industry in a way we’ve never seen before. Check out my watchlist below."
-    publishedDateTime: 2022-01-10T10:09:00Z
-    webUrl: "https://investmentu.com/best-self-driving-car-stocks/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2022/01/best-self-driving-car-stocks.jpg"
-        width: 730
-        height: 467
-        isCached: true
-  - title: "Self-Driving Truck Makes Delivery 10 Hours Faster Than Human"
-    excerpt: "Right now, there's a shortage of truck drivers in the US and worldwide, exacerbated by the e-commerce boom brought on by the pandemic. One solution to the problem is autonomous trucks, and several companies are in a race to be the first to launch one."
-    publishedDateTime: 2022-01-10T11:47:00Z
-    webUrl: "https://www.peacefmonline.com/pages/local/tech/202201/458602.php"
-    type: article
-    provider:
-      name: Peace FM Online
-      domain: peacefmonline.com
-    quality: 24
-    images:
-      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202201/865806382_819983.jpg"
-        width: 600
-        height: 336
-        isCached: true
-  - title: "Self-driving startup Nuro showcases next-gen grocery getter"
-    excerpt: "Nuro, the self-driving startup attempting to capitalize on the delivery boom by working with partners such as 7-Eleven, FedEx and Kroger, unveiled its third-generation vehicle this week. Instead of following the sequencing of its R1 and R2 prototype predecessors,"
-    publishedDateTime: 2022-01-13T18:29:00Z
-    webUrl: "https://www.autonews.com/mobility-report-newsletter/self-driving-startup-nuro-showcases-next-gen-grocery-getter"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/Samsung_Reuters-01_i.jpg"
-        width: 792
-        height: 488
         isCached: true
 
 secured: "iEtKfsPY69SjO6XyDLq4rx+b/yeeMK/fWcckY7ZxaU4/3XFOzKzkulIy+5heRiYDq5xfXo+RoYCnoGnUObldvuSqLDNbUmMhwjMVA7AY362CK7KJTlmJQbC7PK473ZiXclbgzBgWe5n8tzpw4EvlxkvcffQyN25LiqGsaJwQCZpUK6xBqk6yw4H7mXsH+fW07ys0NkcmpyLzYpyFdXiSc1kbl5MJJ6pPH1Ctd1lFG2CLR/8YvEAYC+3lOPyqgb/HdlhZSVzR88yQOhDJQalzvWgMIMrl2xHVhFSoimoA82qSps+oWQ/aT9D8+d91XjZ+Y4pC/vlNscOZmbHBW2T7qc1rWIt0fKeW2xnaBWCwOTI=;K1YSX3eLLy0O8rkV9n/Zvg=="

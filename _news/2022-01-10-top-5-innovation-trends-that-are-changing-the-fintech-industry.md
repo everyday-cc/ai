@@ -129,6 +129,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "TOP CHALLENGES FOR THE FINTECH 2020 – 2022"
+    excerpt: "More than a year ago, we published an article about challenges, the fintech faced in 2020. There was a first year of radical changes in the fintech industry due to the first pandemic hit."
+    publishedDateTime: 2022-01-13T17:29:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-challenges-fintech-2020-2022-slava-s-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEG8AheauFsGA/article-cover_image-shrink_720_1280/0/1642094648115?e=1647475200&v=beta&t=iN2EjCQAUnJhv6ARTCkVvAB1LKiBxV8d0Y-P0fRq9aY"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AuthBridge fintech Fintelle adds biometric liveness detection, voice authentication"
     excerpt: "Fintelle has updated its technology suite to include voice-based authentication and face biometrics liveness detection capabilities."
     publishedDateTime: 2022-01-13T22:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -44,6 +44,33 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioERp1mVKf04/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Waymo Lands Big Deal with J.B. Hunt for Self Driving Truck Tech"
+    excerpt: "J.B. Hunt Transport Services Inc. announced a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in transportation and logistics."
+    publishedDateTime: 2022-01-14T17:02:00Z
+    webUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech"
+    ampWebUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
+    cdnAmpWebUrl: "https://www-swfinstitute-org.cdn.ampproject.org/c/s/www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
+    type: article
+    provider:
+      name: Sovereign Wealth Fund Institute
+      domain: swfinstitute.org
+    quality: 54
+  - title: "Waymo and Trucker J.B. Hunt Partner Up. This Isn’t Just About Self-Driving Vehicles."
+    excerpt: "The agreement gives both companies two ways to benefit, but shares of the trucking company were lower on Friday."
+    publishedDateTime: 2022-01-14T17:36:00Z
+    webUrl: "https://www.barrons.com/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
+    ampWebUrl: "https://www.barrons.com/amp/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 52
+    images:
+      - url: "https://images.barrons.com/im-468245/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "J.B. Hunt, Waymo expand partnership on self-driving truck technology"
     excerpt: "J.B. Hunt Transport Services Inc. announced Friday (Jan. 14) a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in"

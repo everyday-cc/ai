@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202201/new-face-biometric-systems-
 webUrl: "https://www.biometricupdate.com/202201/new-face-biometric-systems-spread-around-borders-but-congress-has-questions"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ramco Systems builds voice biometric authentication on Azure Cognitive Services"
+    excerpt: "Ramco aims to facilitate authentication in a post-COVID world, where many countries mandate the use of facemasks which can affect facial recognition accuracy."
+    publishedDateTime: 2022-01-14T18:11:00Z
+    webUrl: "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 52
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
   - title: "ValidSoft Recognized as a Global Voice Biometrics Leader in Opus Analysis on Intelligent Authentication and Fraud Prevention"
     excerpt: "ValidSoft, a transformative provider of voice identity and assurance solutions, has been recognized as a forward global leader for voice biometrics providers in the 2022 Opus Research Intelliview report: Intelligent Authentication and Fraud Prevention Analysis."
     publishedDateTime: 2022-01-13T14:54:00Z

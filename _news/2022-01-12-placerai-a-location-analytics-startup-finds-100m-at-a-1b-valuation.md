@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-sta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
 type: article
 quality: 187
-heat: 327
+heat: 337
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/placerai-investment-100m-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "AI is leveraging advanced analytics for physical security operations"
+    excerpt: "Enterprise organizations need to move beyond static forensic security mindsets and embrace software as a force multiplier"
+    publishedDateTime: 2022-01-14T18:36:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/article/21253250/ai-is-leveraging-advanced-analytics-for-physical-security-operations"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 54
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/GettyImages_1276589384.61e1b2419bc26.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AIOps startup BigPanda raises $190M at $1.2B valuation"
     excerpt: "BigPanda Inc., a fast-growing startup competing in the AIOps segment of the enterprise software market, today said that it has closed a $190 million funding round at a $1.2 billion valuation. Advent International and Insight Partners co-led the round."

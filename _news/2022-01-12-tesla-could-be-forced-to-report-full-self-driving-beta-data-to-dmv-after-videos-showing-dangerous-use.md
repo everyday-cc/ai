@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://www.reuters.com/resizer/hqaIi_DyIttnxcgs7NH4k0nsFqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVG6QOSCRZNDTAYCWAL4Q7ANN4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
+    excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
+    publishedDateTime: 2022-01-14T18:00:00Z
+    webUrl: "https://recombu.com/general/article/what-the-tech-teslas-assertive-self-driving-mode-could-be-a-recipe-for-disaster"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 33
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2022/01/WTT-59.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 940
+        height: 627
         isCached: true
 
 secured: "rcoAcCPWFY20VkaRSc+pmcBlHqWBspG6cILYneglzMeMvfPX94ZJbjsl8Es52s8XGvEYTJ04TPrF2Esli+WHCbsw1eAMgpnCwHOxpEhs3+I3cJS/pO1yR//C5gwL86SwmS3J7xSY7LBSu/DJOnCgqe12fBesRa/UM8k6ShTWEoX0Bs5FkMGG2rYc3hST/YSkOAHEC3PDxh8sKWrtC7S+x7eW8Vi0+hNacK4JqSYf223kaXlNW7UEfGFEE/cQjFi3BifWHkZR3WdGp0P3hRjATQjpsAZObb7YCCf2nHTc8EllyCiQfTAKUjS8lwzAf4nVs5YjZSKez5tm63mZwEMZ2SLNTg2uTtGaX72dYzrDqeiG0EjuVecGW45yAdp3UOLdOdC6479OUtlLLoxnfIvMSE6fNX6sDu2XU9LMlMV5jPgOzgPf8IMjmM03aQAbtk5RiNo13aAP/+iLVaEwz7JCkuYWvj+6Ec+MDhyL0cBjMJqJjFtjSGcot6xdgACFrn75hOwx7kPdoy9JhX4qQjPUaw==;5aDnJhMqtCjfwzMTPPmNkw=="

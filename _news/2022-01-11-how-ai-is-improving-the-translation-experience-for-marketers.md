@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI and language intelligence are helping employees learn"
+    excerpt: "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive."
+    publishedDateTime: 2022-01-14T18:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/"
+    ampWebUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How Protai’s AI-powered platform is improving drug discovery"
     excerpt: "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform."
     publishedDateTime: 2022-01-13T18:40:00Z

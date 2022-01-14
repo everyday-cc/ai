@@ -139,6 +139,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "TOP CHALLENGES FOR THE FINTECH 2020 – 2022"
+    excerpt: "More than a year ago, we published an article about challenges, the fintech faced in 2020. There was a first year of radical changes in the fintech industry due to the first pandemic hit."
+    publishedDateTime: 2022-01-13T17:29:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-challenges-fintech-2020-2022-slava-s-"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEG8AheauFsGA/article-cover_image-shrink_720_1280/0/1642094648115?e=1647475200&v=beta&t=iN2EjCQAUnJhv6ARTCkVvAB1LKiBxV8d0Y-P0fRq9aY"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "Xcwh/BwxPTmqvkk3s+mu804ia/Djg/u2XyhI4NdqBQT9dojTTBHelSmqr39Jm24Uhr4czsRe/pXCvx7jZjuZt9eKbmOrYSjLOyAJCxnQypaxLyZyYmXC/tx06tAvTZXakA4iVLsgpvWq9b7Y+/ymbijRE8MO0QzRNL+03fDySiJFN+Id3AiNWwYRZ6TTPNmX251ATap7UmVtjua18L6vBQV8+QyQunxbM9S31JYk2XUqzTtTIuBoe+1Ot5ryu74zqOMYF7ff19rf/lJYp1Fg7vIC3yWTdkPkoBw0SrQEMHJBfXHvLMVcgcsshjJg53nhY7NzU3DWaJ7n/DdQQtCx5Ap2iOg2379qTNElOtb55RQYYjTCLJo3546u/X5rNd6g2qGCqbTP5qllLAQqBxxv+woidm852Xl8USgsRC3t/V5FwD2FslTa6105BJrbz1c0lvntYLkvHNfCJTEuv8OebIBQgDOR54sJuEblJYP1WwM4Li+LTW7AMeqUTaAMZxIbUO2T5taa37ACpiaO5YEIOg==;ngcJV3xUlzknKMmxu6AXMA=="
 ---

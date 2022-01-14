@@ -45,6 +45,33 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Waymo Lands Big Deal with J.B. Hunt for Self Driving Truck Tech"
+    excerpt: "J.B. Hunt Transport Services Inc. announced a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in transportation and logistics."
+    publishedDateTime: 2022-01-14T17:02:00Z
+    webUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech"
+    ampWebUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
+    cdnAmpWebUrl: "https://www-swfinstitute-org.cdn.ampproject.org/c/s/www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
+    type: article
+    provider:
+      name: Sovereign Wealth Fund Institute
+      domain: swfinstitute.org
+    quality: 54
+  - title: "Waymo and Trucker J.B. Hunt Partner Up. This Isn’t Just About Self-Driving Vehicles."
+    excerpt: "The agreement gives both companies two ways to benefit, but shares of the trucking company were lower on Friday."
+    publishedDateTime: 2022-01-14T17:36:00Z
+    webUrl: "https://www.barrons.com/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
+    ampWebUrl: "https://www.barrons.com/amp/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 52
+    images:
+      - url: "https://images.barrons.com/im-468245/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "J.B. Hunt, Waymo expand partnership on self-driving truck technology"
     excerpt: "J.B. Hunt Transport Services Inc. announced Friday (Jan. 14) a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in"
     publishedDateTime: 2022-01-14T15:23:00Z
@@ -60,6 +87,6 @@ related:
         height: 630
         isCached: true
 
-secured: "hTRK8d8PHtQW+3/K9p4ZZ7y6s1hIFd1Fi1d/bO7J9M6snnpRvEv5UeiiGqi6kCgQUcj6tPj1n0dqlUHs/IpYKKoJxAKxSGI8ia91mN3fHM3+BqgCFc2mJ6iRKL5PA2tA0mvr1kYRqUvsI+TwchULb89asRVe75ofKiek19ab1OffZTgLnp3beG7FMn3kuS11qW/t6O80b+qUgd2T3T8+wqQGbig6celZCYUI10CwgqBikvApula0wWgo8ZzBW/+B3rWUMXfbK2EMAz25fEBRff9aj/vfNVzUThMjIx22cI/Etk0flXJ1we9cs3/mUp/ZJy3+xogQueWPJMGeJani2EoOmPl3JtvKCCPXIZXIjr0=;JfWuOrXWHba/WhQ0hNO3lw=="
+secured: "XSRHLYEU09P4L/wEgmvitrdML5AgPZ518APlTN1C0LWsT6/ZdytfbQCS4aZ7J7pjdESAi0pmf9tmTPbOWbH0gJb0SxEXFC2NVeWGSf9/Sr4ky5jYBDG56cxMbrZsMGG21Gp9Cv/Pzxq5w0xvUa1Ja+BJhaQQluxZb95nMh8fBWxtN9iJ/Rfwugdpx75F6xVBlHcax9oa2pdZC2J3dBAjBl60qRNYaRtPEOZa50UFrKdVbciMLddjJOtKwj892B5Afa+MwywRVotUQFeaccar1zMIjg0EoHoWyK0Hgmo5fU50TSbbvzq3bLh37Ao3qZaeIwyyl913CK6GYrzGiMSNBaLEVvH6iWRhWhFYq702Snen+l7yVni4CuxHXvcmLY5M4KW+V8nksxX28NUQPhimFg7bxCQbac8pe3q6IZ1VzDY/m0SEG+Wzw1ZOoZ1ClFt8eV90iI1kmtqo0UnbZWzoaZJm+a2SWfF2BgNWmq5V6TR5U1WipammYgOsbb11tx+t0FeRO7h+oRIt5w9c7StyKw==;kpG1dPJI/iJ4z27Wjzogiw=="
 ---
 

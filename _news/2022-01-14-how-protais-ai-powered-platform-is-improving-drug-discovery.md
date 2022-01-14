@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI and language intelligence are helping employees learn"
+    excerpt: "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive."
+    publishedDateTime: 2022-01-14T18:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/"
+    ampWebUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Finding Love In The Midst Of Algorithms, Artificial Intelligence And Data"
     excerpt: "What sustains the thriving business of love? What has made these apps, agents and companies who broker love, such a success? Here is what my experience taught me."
     publishedDateTime: 2022-01-11T00:44:00Z

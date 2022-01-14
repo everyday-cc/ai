@@ -1,28 +1,26 @@
 ---
 category: news
 title: "INFINIQ Reveals AI-based Autonomous Driving Data and Next-Generation Retail Tech at CES® 2022"
-excerpt: "INFINIQ, a leading artificial intelligence (AI) and autonomous driving data service company, unveiled its groundbreaking autonomous driving and retail innovation technology at CES 2022, the world's most influential tech event,"
+excerpt: "INFINIQ, a leading artificial intelligence (AI) and autonomous driving data service company, unveiled its groundbreaking autonomous driving and retail innovation technology at"
 publishedDateTime: 2022-01-05T12:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/n24905893/infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/n24905893/infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022"
-ampWebUrl: "https://www.benzinga.com/amp/content/24905893"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24905893"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022/article_f4e5d4d7-69b1-518f-b525-990c82fce1f4.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/infiniq-reveals-ai-based-autonomous-driving-data-and-next-generation-retail-tech-at-ces-2022/article_f4e5d4d7-69b1-518f-b525-990c82fce1f4.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1719770/INFINIQ_CES_2022.jpg"
-    width: 400
-    height: 244
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/b/0c/b0cbb410-ec9a-52f3-b874-766c6503e339/61d5a1623b457.image.jpg?crop=1280%2C672%2C0%2C54&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "HjQqhxv8poicAANZtDOGHkNofkkeK+SS+hDQu1fhhecaNGDIn46vRWl3f8YjZttucx2Kb43wYMr6OGWOy9N3EGAD6E2BOhRjVfUShhrq3ftRYyVFdaEAHlUF0G3CUM9WdFPlv7UPJaJyGIkbQJfzmai7zJQ99lPxCcF1u7qxIwzP15Vp14vJRQ+UL37+WdfeJE+DLueVbeSqyeWQFCQpK01c/+sFa9rhkPY6L2UnAnVc0eVFrLGV4P2mMmN4mc5fnKelGpYJ7XD6hfjWRqPrITzh/CPXOLRAviGEb2P2DV5XMorHUucc6pz/gZkIKphY7W0iSRZTmnca7GPpnVfV+Y91NAafD174JRWniwWUeso=;wZd3DoIaT9jYv1Z9rUbVyg=="
+secured: "7gr+u5NxPWTVkkW6EDT3pIvRHtYHUiHRkx2Jkm/DSPBSfynulCz7712yY3rNJUBhXE6/RDrRFeQjsScGW4R7DaX+7cp0jWDqDWJfMSnP9DTn+dY9IopFmug5tWLpMQVZGhY+hL15YtYFnL+LEKNivDgwyKKomBK3kI/zP3VxFS6UOVy/KAYGGvJUI1yrGSJGtgev7EVejeoLNnG5d6GdbJyULrDzWP0cMK65RgsF2+5IKDjXkqbMMhbnzlOIKxWXl2kxVTEoJ8IX466ztD4TXOvZnGwjykXNbvuPhXIXYCf0uDh4USoXTYQONKC5AVWmpNjNj9VVvBLUJi4CrhatHPM2sje1nVKXXzPJ/rr6FNM=;OVbNRiwk3an09CV/YTyKWA=="
 ---
 

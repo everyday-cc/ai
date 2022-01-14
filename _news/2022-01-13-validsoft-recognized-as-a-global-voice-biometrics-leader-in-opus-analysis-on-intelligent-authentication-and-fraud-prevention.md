@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ramco Systems builds voice biometric authentication on Azure Cognitive Services"
+    excerpt: "Ramco aims to facilitate authentication in a post-COVID world, where many countries mandate the use of facemasks which can affect facial recognition accuracy."
+    publishedDateTime: 2022-01-14T18:11:00Z
+    webUrl: "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 52
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
   - title: "New face biometric systems spread around borders but Congress has questions"
     excerpt: "A pair of senators ask the CBP for visibility into its use of facial recognition systems to collect data from citizens as they leave and enter the nation."
     publishedDateTime: 2022-01-11T16:56:00Z

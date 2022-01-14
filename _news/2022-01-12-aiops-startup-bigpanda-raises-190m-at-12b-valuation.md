@@ -104,6 +104,20 @@ related:
         width: 457
         height: 274
         isCached: true
+  - title: "AI is leveraging advanced analytics for physical security operations"
+    excerpt: "Enterprise organizations need to move beyond static forensic security mindsets and embrace software as a force multiplier"
+    publishedDateTime: 2022-01-14T18:36:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/article/21253250/ai-is-leveraging-advanced-analytics-for-physical-security-operations"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 54
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/GettyImages_1276589384.61e1b2419bc26.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Location data firm Placer.ai hits unicorn status with $100M Series C"
     excerpt: "Placer.ai hits unicorn status with $100 million Series C, planning to double its headcount and expand its data offerings to new clients."
     publishedDateTime: 2022-01-12T17:00:00Z

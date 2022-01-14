@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-01-aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models.md",
+      "title": "AWS introduces new Trn1 chips to speed up training of machine learning models",
+      "excerpt": "As more companies move to custom silicon for their customer’s workloads, Amazon has been busy on this front. They introduced the Inferentia chip in 2019 to help speed up inference learning. Then last year the company launched a second Trainium chip,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
+      "originalUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-30-at-12.02.09-PM.jpg?w=1024",
+          "width": 1024,
+          "height": 582,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/30/aws-introduces-new-trn1-chips-to-speed-up-training-of-machine-learning-models/amp/",
+      "publishedDateTime": "2021-11-30T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-swimming-australia-making-gold-medalists-with-machine-learning.md",
       "title": "Swimming Australia: Making Gold Medalists With Machine Learning",
       "excerpt": "For Swimming Australia, a more unified view of data was essential to optimizing athlete performance at the Tokyo Olympic games—and bringing home nine gold medals.",

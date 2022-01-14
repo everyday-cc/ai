@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
+    excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
+    publishedDateTime: 2022-01-14T18:00:00Z
+    webUrl: "https://recombu.com/general/article/what-the-tech-teslas-assertive-self-driving-mode-could-be-a-recipe-for-disaster"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 33
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2022/01/WTT-59.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 940
+        height: 627
+        isCached: true
 
 secured: "EWxau2xfMPKJApEoa544avfPZPYB2NQMuNT2mkDET2JjylMokK82VJGQE/Gyc0hsg6fCyrJILLjOrezUTfGEpxaxtVyDJdQkLmQ7qO/htR7VWQj7BGpm675isaRqPmpNVjJJ5wd982pjOr16vw8K87cs69GyxWvjeTjY5UMUuusNOE8D8CzCrdMItS9dRMwZI1F+6dDQBJ748iZTqOFA4SvB/uSXQfTJJyzwK0IpnLOx5en1D6hyNpiVM8B94IX4H8ORucS41NYtvnctHJLpOEXi5Hsw2q47n/pGBdlFqw04GhRggxL60aFWd3D4Uifwnh8jIzJWUwxwNCgiIKCsXRs/XgFc2WUzx2x0AtTP6Co=;oMYRkSNxSx//RROVbp2ikQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2526101/artificial-intelligence-in-securi
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.openpr.com/V/1/V113459080_g.jpg"
         width: 800
         height: 582
+        isCached: true
+  - title: "Emotional Intelligence Market to see Huge Growth by 2027 | Kairos, Cogito, Tobii, Google"
+    excerpt: "Advance Market Analytics published a new research publication on “Emotional Intelligence Market Insights, to 2027″ with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2022-01-13T14:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/emotional-intelligence-market-see-huge-growth-2027-kairos-vetal"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 30
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQGNJUK_pvMrxA/article-cover_image-shrink_720_1280/0/1642084184422?e=1647475200&v=beta&t=KWntx0GlENhYlNoCavDi9OY0Mse7xRM8VpcNfbjHkew"
+        width: 989
+        height: 720
         isCached: true
 
 secured: "55WDI/NGU60pUenBxLna2gz60eU/WWJaJ0QuS+3qjUKK6pPvq8o9mNDBGOkKNwNSHXGR/GAGky/Kt+LqQtRL4PTNiZpiMnkvEkS2G3V4Td2UVt5T/7UGuIn7c0VKf4lIVd44l/YFVc6vZ4dEsNr2b2MXOIm7qoBVRkPK21VAoprP8NJh1kzGAXLF3aNSfoZ98zlp1oMn3Iqu/65ypCojHnJSJqWA5kE/rzI/B8fLBXmL8Rwe9uKuUDlLgXJEZDz4G6qTeq0XMnCYNfZ6eT8SBOUPRcEPoX09N868+dCSfNwWqumSOqlUI6GwRPrziS6H1dS2ijDR5GtklknoljO/BzHMBtwlIDBYjcCoChierCaYWXp7bEVCN/DUu6YINf2e4HsuNYZjop9J6hsKktKaJYYDRRaP+fqD3WaP8/AC85qKiaVHptRbVT/sE2ia6hfw0aXXQ/D5hCeQZjIC808W2Ec3JhJOpidjw2dcFs/RIcaJDT3ZR4ZY6Dq0j2YKDbfwfps5YIB4ymRGmDqj8khFzw==;Dr8Z3T7FLcx6BdDjbJLDUg=="

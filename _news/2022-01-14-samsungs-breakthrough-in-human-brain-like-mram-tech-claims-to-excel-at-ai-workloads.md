@@ -43,6 +43,22 @@ related:
         width: 2000
         height: 1332
         isCached: true
+  - title: "Samsung develops in-memory computing for AI chips"
+    excerpt: "Samsung Electronics announced it has developed an in-memory computing technology that merges memory and system semiconductors."
+    publishedDateTime: 2022-01-14T16:13:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2022/01/14/Samsung-in-memory-computing-AI-semiconductor-chips/5981642180108/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 74
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/i/5981642180108/2022/1/16421803414018/v1.5/Samsung-develops-in-memory-computing-for-AI-chips.jpg"
+        width: 680
+        height: 454
+        isCached: true
   - title: "Samsung Testing First MRAM Computers: New Era Of AI Computers Coming"
     excerpt: "Today, as techpowerup reported, Samsung Electronics officially announced the world’s first computer equipped with MRAM memory. MRAM stands for Magnetoresistive Random Access Memory. Related papers"
     publishedDateTime: 2022-01-13T15:29:00Z

@@ -55,7 +55,34 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Waymo Lands Big Deal with J.B. Hunt for Self Driving Truck Tech"
+    excerpt: "J.B. Hunt Transport Services Inc. announced a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in transportation and logistics."
+    publishedDateTime: 2022-01-14T17:02:00Z
+    webUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech"
+    ampWebUrl: "https://www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
+    cdnAmpWebUrl: "https://www-swfinstitute-org.cdn.ampproject.org/c/s/www.swfinstitute.org/news/90703/waymo-lands-big-deal-with-j-b-hunt-for-self-driving-truck-tech/amp"
+    type: article
+    provider:
+      name: Sovereign Wealth Fund Institute
+      domain: swfinstitute.org
+    quality: 54
+  - title: "Waymo and Trucker J.B. Hunt Partner Up. This Isn’t Just About Self-Driving Vehicles."
+    excerpt: "The agreement gives both companies two ways to benefit, but shares of the trucking company were lower on Friday."
+    publishedDateTime: 2022-01-14T17:36:00Z
+    webUrl: "https://www.barrons.com/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
+    ampWebUrl: "https://www.barrons.com/amp/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/waymo-j-b-hunt-self-driving-trucks-51642181706"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 52
+    images:
+      - url: "https://images.barrons.com/im-468245/social"
+        width: 1280
+        height: 640
+        isCached: true
 
-secured: "u5DqLBlbBX2cwAwxpoEv4O9gjQ/DVO46IvUW8aTys4OGftvJJg5rjMddj2Jgs4EeBqrc+LOtI6mWsHbBsk3HcOZ5c/pI2JKmO0B3Gmh8fdEMxrqxOnwymsLkI/5E8hKPhm/UXht+Gn5Vo8DdYCo5pW3LYn4yQRC1CIhJeZIvvXqRP7KcOJOmi/A1lh7huKz1OfPbRDKUOeeFcSE05qcfS7mMoY5x4gxEke60UsSjH6llWC9JgYbfYNpL7fhEz77m8X6613qeYNbS4gPjDmEisR3+vI/zkP+qva+32/vy3aDilIUvJh1Sl7QWuPX87EwpHRDizlijC/VWKUvCE2Cu/ktkaLYWPeFuQAvLkIploLk=;IEwKkO5htYgefv53O3yC6g=="
+secured: "Ny3AR9L4AUlVKuP1yzAoGIIRp9LA4QCA2cIB1KERjBSLmU9ENvp167/vtLXp7WR7zX2d7mxOclwXqKFDfgDRYin4g5dWdMq/LXE5BtfOEEa2hLfILIuhodNmy9IfPz1um8o3uj3wGXcO9ckUwr9wThGGo9PRSf2+BgQzqNgMdQr5hjFY2BLyNXWxn16XCa8jhm3rRmvHG5lVuICOFq41Kbq2/cW2VCooaQXNVUGap2OfKujju0KSBk/asXMBFYNP7pwo/A9C96smw+D8kErSi84rSBwqCQ4pOWlF/HSb0bKeoUvq85LL70sjxz3BzWfkTKhSb7UNaMeHG6Hxz3nAhxkGbm+1+BEPhngQMxSVikzgBueXMWi4W7Sjcyv3nOk5TVFvcqYwNv+8llhIQhHVV8Cqcjb9xsgpe1vGEJPcjobtQh9mn0vkPqbIHybW1gkfguorPGlUYwluCyhPXNmp1y4UuBJwidYgs5zskgYxJ1w15BRQNwIaKGF3psDvg5q0kxt7+wS7CUYO8Fb/TAr6fw==;ax+oWRp9C7zZzytAgqp3qA=="
 ---
 

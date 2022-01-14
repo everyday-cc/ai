@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/serve-robotics-becomes-fi
 webUrl: "https://www.prnewswire.com/news-releases/serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots-301460151.html"
 type: article
 quality: 136
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Serve Robotics achieves autonomous robo-delivery milestone"
+    excerpt: "Autonomous sidewalk delivery company Serve Robotics completed robot deliveries with zero human interaction — an industry first."
+    publishedDateTime: 2022-01-14T18:13:00Z
+    webUrl: "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone"
+    ampWebUrl: "https://www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/serve-robotics-achieves-autonomous-robo-delivery-milestone/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 74
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/01/Serve-crossing-with-pedestrians.jpg.optimal.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Pudu Robotics Commercial Service Robots Shine on World Stage at CES 2022"
     excerpt: "Pudu Robotics, the global leader in commercial service robots, has wrapped up a highly successful showcase at CES 2022, which took place between January 5-7 in Las Vegas, Nevada, United States. In addition to exhibiting its flagship commercial service robots in the global arena,"
     publishedDateTime: 2022-01-11T14:13:00Z
