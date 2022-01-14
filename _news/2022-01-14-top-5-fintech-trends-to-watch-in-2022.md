@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "MobiDev Listed Top 6 Healthcare Technology Trends in 2022"
+    excerpt: "Stepping into 2022, COVID-19's presence still continues to linger around the world. That being said, it's critical to remain mindful of the tech trends"
+    publishedDateTime: 2022-01-14T12:44:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mobidev-listed-top-6-healthcare-technology-trends-in-2022/article_c7e77c5a-d6a8-5c40-a71a-a4cc57a347e3.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/89/0890c0c6-fc47-5d19-a69d-c6f5cdd65608/61e17fba02f4d.image.jpg?crop=1857%2C975%2C134%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "These Are the Five Covid-Driven A.I. Trends That Are Changing Healthcare"
     excerpt: "For all of its ills, Covid-19 has supercharged consumerism in America's healthcare system, offering tantalizing opportunities for companies interested in lowering health care costs and increasing access to quality medical care."
     publishedDateTime: 2022-01-11T18:07:00Z
@@ -83,15 +97,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "MobiDev Listed Top 6 Healthcare Technology Trends in 2022"
-    excerpt: "MobiDev experts listed the most important healthcare technology trends that impact the industry in 2022. Trend 1 Artificial Intelligence in Healthcare In the healthcare industry, machine learning is extremely helpful for the development of new ..."
-    publishedDateTime: 2022-01-14T13:48:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-mobidev-listed-top-6-healthcare-technology-trends-2022-/2022/01/14/9526630.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "7/yZXUp+rW6+RmoyYm+uLY+teno7inztGa09AtWICLxoiCvx/dYeaEOXZDnjRkYeLqh63s+Ar4LhK2nJzCdRVWOUcPhfNnK+rRAV0+4fGXAjCBM29fO64tydVnNsxqgCYSvOEIxjZYMBGYg8pEieI2fAyHwvXirmxKR9vchE8YiisXYOwfDRSQUpEnTue50DEeHnGjElDLiygOP0afr51xkCWS1Sc4t0qBnuWm2btZRL/q6wJcD++3rZo6FAHQSbf7oMYjg8KcWe8mFQA2azpH4iM/0GzXav4yVTXCxa5XQekHH/dzk443az+PXgu6TU0nVtng2xXDBqFRaqvyTkauoPSEQqlyC2FKAYPq/pz+c=;74kYcA99AYPo5YggFgI1uA=="
 ---

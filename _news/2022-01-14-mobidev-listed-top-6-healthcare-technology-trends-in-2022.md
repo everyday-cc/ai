@@ -1,22 +1,28 @@
 ---
 category: news
 title: "MobiDev Listed Top 6 Healthcare Technology Trends in 2022"
-excerpt: "MobiDev experts listed the most important healthcare technology trends that impact the industry in 2022. Trend 1 Artificial Intelligence in Healthcare In the healthcare industry, machine learning is extremely helpful for the development of new ..."
-publishedDateTime: 2022-01-14T13:48:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-mobidev-listed-top-6-healthcare-technology-trends-2022-/2022/01/14/9526630.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-mobidev-listed-top-6-healthcare-technology-trends-2022-/2022/01/14/9526630.htm"
+excerpt: "Stepping into 2022, COVID-19's presence still continues to linger around the world. That being said, it's critical to remain mindful of the tech trends"
+publishedDateTime: 2022-01-14T12:44:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mobidev-listed-top-6-healthcare-technology-trends-in-2022/article_c7e77c5a-d6a8-5c40-a71a-a4cc57a347e3.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mobidev-listed-top-6-healthcare-technology-trends-in-2022/article_c7e77c5a-d6a8-5c40-a71a-a4cc57a347e3.html"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/89/0890c0c6-fc47-5d19-a69d-c6f5cdd65608/61e17fba02f4d.image.jpg?crop=1857%2C975%2C134%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "The Five Biggest Healthcare Tech Trends In 2022"
@@ -92,6 +98,6 @@ related:
         height: 4000
         isCached: true
 
-secured: "vH+T5mrCgJAB2hV6H4SN2N5jLdd8HxIqqBNM3sDRiPlnYtYHsJr5AqhW4Uvjh1CCq2nvPq3STOUzyoY0FQ5JaWERU75XBVR+5Cn8fgtbq3iJictxeJQgNvplWaj6ioW8DEc5hK4HPBwZo+4O1WneP8+Fb0h0UWhQTgkNtSI/+/Ep9E9lgfqcpFrg8tk/3iu6YbWJY+GWbhfYTmtY/yL7GMnQ2c+JMujJkw6nUXVB9aXY/yCBiUoWo3krZcnapO6HeEi21reoD8zdkOMJNLlmbYqfubOM0EaDyf9NikFE4owI3lAR+RQ9xrM4Ic2LgDxvynxpjpH1f+7AFC29MKvZDyPtRDG5ZfUdbMv88uPWXpg=;kHXXPar4+lzB647Z6ulqPA=="
+secured: "diVlaxhaxLDyKEIpk9f6nhyhwo3Cv1iZ/KVbiOIa95ADrJgBuMmwrtfYbsRsZB+eFLef+LcvT2QBJoATr1h3XgirQy2BhbrGC4Wyt+88gfNn4ibVU3MU/6q8JdbJX6jVK+X+Q4cS6fIgvud4uyxvcLAqukeuN2aIBFO76uERRWyTTZG5cHRmNNBWHrGqFjmTSaSH8nJHUX133rdBispMY2WBg5ygp8xJ8Nah15AcuH4UbPif8yWivsb6CAcDx0sX61vvA0rUFlo/sTdLudjwTlAsphFwRrWl9kplo4k8voUzbQbYYTsFxWDrVi90bHAAKV9O9mqkHbqTilgVg/v4L9ub+UuNk9Hb90FDVXlDWr0=;z6A3zzjetj3fkuD9Z9+fKg=="
 ---
 

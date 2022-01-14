@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.pcinvasion.com/wp-content/uploads/2022/01/My_Great_Capture_Screenshot_2018_04_02_13_17_17.0.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Nvidia’s Deep Learning Dynamic Super Resolution tech is out now – here’s how to enable it"
+    excerpt: "Nvidia's DLDSR, which downsamples games for higher detail at a lower performance cost, is now available on GeForce RTX GPUs via driver update."
+    publishedDateTime: 2022-01-14T16:39:00Z
+    webUrl: "https://www.rockpapershotgun.com/nvidias-deep-learning-dynamic-super-resolution-tech-is-out-now-heres-how-to-enable-it"
+    type: article
+    provider:
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 30
+    images:
+      - url: "https://assets2.rockpapershotgun.com/god-of-war-world-serpent.png/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-world-serpent.png"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "p4D/ERXCe86OO8A4Id0u8a6PsrEY5qOIdri6BRuc900mxo7H9xq18l4GeqvRTHz8h7Dwk0wYRAC8l3YqaBl+hzHsxzYUuefynAcnFAAvG+4rwPd83ivuu0wknggg66kOzwnaiDJhRLHdpSw1EwGpD4NlJ1SsAa9e5NZlb3drDYZ/XMYIia8pgZgK/Z5tWNDp4k39NNFImx3rqvcFcyWaXb1MmBqwoaaEkl8zpCakBn0WW/VE0SoJJ2a3KPLlO2h62xAL4wZGpdM3+bulowkFyJlh4BFv/Kom7TxadKE6TJ4is5pQ5KvOuZAVZmcglmMqx4d3sEBAoPiUoCy/sF5XEoI+hRCorsL3Bdj+6ylr3/2yyhuTxsR6/vFGDNgrP7P2hToV/Wbz+SZ+rZC741K61PftjIf856B0MHSCdsjfWwwU99zX0TWj1k8lXsZ4LToTxJkKeoSs4DEO7x5toafeXG/TppsuPQCkfWuXYDwad6r7RMM6rEMcIdAIN4Y6M/uKiWF75svTBXvaUINDdih7Bg==;6Q9b6pvuNgpMY6M0z8FLQA=="

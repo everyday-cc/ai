@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tech Trends: Sensor Fusion Pushes AI Forward"
+    excerpt: "Combining data from multiple sensors can ease the strict reliance on video surveillance when creating deep learning algorithms"
+    publishedDateTime: 2022-01-14T15:30:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21250598/tech-trends-sensor-fusion-pushes-ai-forward"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/12/Coulombe__Brian.61bcb95e59904.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "n0/HtLVDD5kifVxloAHnBUMWOVlF4JI4r91sBRmiPSpeICm2qy1CYJhkXBrG95TPX0zCGb4LaRWOd8KIgrmFEyU6mLTd0Udvqv4ok2VncD49TOTzKplb8ads141goG8Hh0qwSFI9A3AIykW5kIycJMcPxEAiAi0u4+XkYGSyCqcVeMRH4UNJKjm+TTTfzJM6z72MexQY0FkFXR3NYWM/g488OrOwlLOsWytOd6tO90vygwu5MxW01LUBCemObwMegY1GK5CUfIaqeFIDS8fWm6lgMNFs98OLYWLoc8NHuZLmcqRMUmU5lc+f47inr1ObPwsdsYTSz4QjPYw285Ab2pFP4dZ0jcOfalWK4e1W/WpDVGk/VtEnMQe6EjymhHTaAEtihotEbyOBl2bbVR1iNOq/2VBgXDw/0Zl2JwkDMUi9QIhFlkE1ev2QNu/jjCCWNSq+2yxubP7+FH9WUaEgv88U0hY1OoOYfK7uZg8pktgyH1g6fpjEV4UJtT+OO9XhUtG+Whkqphmc9fL6z2FIIQ==;L/qYBwA9C1aG4QOx3+LqMQ=="
 ---

@@ -52,6 +52,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "CES 2022 tech notes wrap-up"
+    excerpt: "Be sure to check out Steve Surfaro's Day 1 and Day 2 Tech Notes columns to learn more about security technologies highlighted during this year’s show. Could this CES mark the turning point for affordable “industrial” IoT sensors used in real time image processing,"
+    publishedDateTime: 2022-01-14T16:21:00Z
+    webUrl: "https://www.securityinfowatch.com/ces/article/21253235/ces-2022-tech-notes-wrapup"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 24
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/ambarella_ces_2022_2.61e19ffc250e7.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "DeepBrain AI, newly revealing its AI Kiosks, was spotlighted by the world stage at CES, and continues the journey by exhibiting at NRF 2022."
     excerpt: "For this year's NRF, DeepBrain AI will be showing how AI Humans can be adopted in commerce. Many innovative changes are being made and one of them is unmanned stores. But there are some downsides to it."
     publishedDateTime: 2022-01-13T08:46:00Z

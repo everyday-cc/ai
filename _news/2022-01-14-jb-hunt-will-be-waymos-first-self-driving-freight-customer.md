@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -30,6 +30,36 @@ images:
     height: 576
     isCached: true
 
-secured: "u+2z/5CGs6Th0/VU7Z1c51cLDEScPHTtHWDkjn/r1g5tmZreLLOUEY6LsV1EeWUaVNVCa8ArO57/uzAWtu3yU2nqxGzaH5WLP8BV2hivUFQttbODmTaQ+OcQd1zfSR/yMEWroEqhNi/Abez55gPCG78Bg9GjyL0LNetG2/o00yZ4Iq3y8CutlWrTOxToBixXRLrB/IPhClComwxnOYyo3G5h8FAFDoMn4la7FEtWwqqqQUMiGXB/Em3IOjdbCzu4FHEjj4JOTWNVe4SWRMsNofOYycpm0Xqqpz/sDWAKtoeK7j0oPorC4OC8asR/IGGAOGMH+znBGcwYdPq/rfE0D9DAACXKcuhvEI7hzQ2May8=;NlqoSGfWiEtDkOt+D1oIJA=="
+related:
+  - title: "Waymo, J.B. Hunt Sign Deal to Use Self-Driving Trucks in Texas"
+    excerpt: "Alphabet Inc.’s Waymo signed a multiyear deal with J.B. Hunt Transport Services Inc. to haul freight using autonomous trucks in Texas, its latest bid to reshape transportation with self-driving technology."
+    publishedDateTime: 2022-01-14T14:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2022-01-14/waymo-j-b-hunt-sign-deal-to-use-self-driving-trucks-in-texas"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ioERp1mVKf04/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "J.B. Hunt, Waymo expand partnership on self-driving truck technology"
+    excerpt: "J.B. Hunt Transport Services Inc. announced Friday (Jan. 14) a long-term, strategic alliance with Waymo Via as the two companies expand efforts to integrate commercial autonomous driving technology in"
+    publishedDateTime: 2022-01-14T15:23:00Z
+    webUrl: "https://talkbusiness.net/2022/01/j-b-hunt-waymo-expand-partnership-on-self-driving-truck-technology/"
+    type: article
+    provider:
+      name: Talk Business & Politics
+      domain: talkbusiness.net
+    quality: 39
+    images:
+      - url: "https://talkbusiness.net/wp-content/uploads/2022/01/JB-Hunt-Waymo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "Atk7p/wKgxJ6oV3cszF1wf0DdevDL1EIHIp9R2I7CbDhT1zMorFIsBkE0WDIgy3zrhOqv0LlMSwPcVCM4uoEtO1W3KB2B7xvQqgbrr4eFSomW4jUu3c3rbd1dVgErkkt3tKdWUZEpXBSQTCp4dhFvKICBr253t2nGSjeHOWl2oV/Gmw3UiVi87rsUkFdoR7ze4Iv1lRCw4NJvGXtdN3Uy3Ng3/yHab6YDiOqDTjzxV+ftdUcdvlucD6fFfGfctx8C6D2uj7ypDojP0pDvohAHp+g9P5QUvbojctSzk+0Tx5+NgiAYhW0d2LZOwsLZEq7AmLBsKxZKWB5CtLJMeM9v1G4JxU8d0cX75rhTEQKX5w7X/frXga/ePnScN5jV7CEd3vnaTLKdqBA4FLzH3052i6gFcp5iJEKEd8UTG/HSq8cyngN/gJMTXLMxwOOLW4YVmDFMFi3+RiMvefBtTGgUpqJIjcqrhuWgww8GSM4tHVTcvlng4T+T/oEKYdCwRWQl4V6VcgeVH7snf39mFfTyw==;cX7z+r6OsKJv823Ld9BpeQ=="
 ---
 

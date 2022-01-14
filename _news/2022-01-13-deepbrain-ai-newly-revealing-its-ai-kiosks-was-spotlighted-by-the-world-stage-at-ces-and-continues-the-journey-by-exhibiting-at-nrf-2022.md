@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "CES 2022 tech notes wrap-up"
+    excerpt: "Be sure to check out Steve Surfaro's Day 1 and Day 2 Tech Notes columns to learn more about security technologies highlighted during this year’s show. Could this CES mark the turning point for affordable “industrial” IoT sensors used in real time image processing,"
+    publishedDateTime: 2022-01-14T16:21:00Z
+    webUrl: "https://www.securityinfowatch.com/ces/article/21253235/ces-2022-tech-notes-wrapup"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 24
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/ambarella_ces_2022_2.61e19ffc250e7.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GLyRzVGNEMT07fHi7crD3Bjv3qIhEclVbOiA8JdDh9O2Twilc5pclPYZc5AsTKQ1Z/9fbaZvYsiyLDE2w/0Y7KqJ1Is7Vt0Nqt/J2vXCQKICJMuAFQdqBgqoCjL79qM0OfeSpUo2kGHowD0SdSOfDrOcg2E8Adrdp8OunyzF1B3r/pQ0eMuS2MbO3ojDa0/0OGOINuNR4952lLw6NNoPUgJbJ9Kr4aOid66i80OAzTmdHji4HvNV+XYMGBXsRxluxTg5t5cdOrw5dwuGrbOTv7juBOdRPei3osnNGAHYFrh4BPzPsGqQQadtt+5iPovG87wGjhKPUvdnjQjyC+NAHBouaze3s46HGIsymGQp11w=;SV1qHLvYD7puXOZwF8nSMA=="
 ---

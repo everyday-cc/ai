@@ -298,22 +298,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "Elon Musk Announces Tesla Bumping Full Self-Driving Package Price By $2,000 To $12,000"
-    excerpt: "Tesla’s Full Self-Driving package (FSD) is an incredibly popular option among owners, even despite the software costing a hefty $10,000. But now, as announced by Tesla CEO Elon Musk himself, the package will be getting a $2,"
-    publishedDateTime: 2022-01-09T23:05:00Z
-    webUrl: "https://www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/"
-    ampWebUrl: "https://www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/elon-musk-announces-tesla-bumping-full-self-driving-package-price-by-2000-to-12000/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 51
-    images:
-      - url: "https://i.ytimg.com/vi/gEA4fdna4-w/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Tesla’s full self-driving beta may perform 'rolling stops'"
     excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will 'n"
     publishedDateTime: 2022-01-10T05:40:00Z

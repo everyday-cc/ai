@@ -7,7 +7,7 @@ originalUrl: "https://www.bbntimes.com/technology/are-we-living-in-a-computer-si
 webUrl: "https://www.bbntimes.com/technology/are-we-living-in-a-computer-simulation-artificial-superintelligence-could-provide-the-answer"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The ambient intelligence decade"
-    excerpt: "This is leading to ambient intelligence – described in Fortune as “computers and AI humming in the background of people’s lives.” First envisioned in the 1990s by Eli Zelkha and his team at Palo Alto Ventures,"
-    publishedDateTime: 2022-01-10T00:20:00Z
-    webUrl: "https://venturebeat.com/2022/01/09/the-ambient-intelligence-decade/"
-    ampWebUrl: "https://venturebeat.com/2022/01/09/the-ambient-intelligence-decade/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/09/the-ambient-intelligence-decade/amp/"
+  - title: "The question of whether a computer can think is no more interesting than whether a submarine can swim. Honestly, what is #intelligence?"
+    excerpt: "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.” This quote from Edsger W."
+    publishedDateTime: 2022-01-10T09:40:00Z
+    webUrl: "https://www.linkedin.com/pulse/question-whether-computer-can-think-more-interesting-than-moioli"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 72
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 0
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1323621873.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHJ3vMwsB7OkQ/article-cover_image-shrink_600_2000/0/1641805901694?e=1647475200&v=beta&t=IH6-4UU_iwjWpchq8qRPBN7XTvMxU8zqOyPuUvNjo8w"
+        width: 800
+        height: 399
         isCached: true
 
 secured: "raI+yylJ/h7dcayjw0kr18msElg20suofFzcow0PvCz0cfI0a4zGhztHtvkzY4122HNF2pEplJ89GrPAvFST2yjL9h1By/RbE6UoTF1jE9kGzs7EX6XC9PVFCiilzl3LoIj+MiyTeM637pJuq93V0B7oPxTQWeh5S2tn+HSf9Phuu6dml2bA1xc6GTocPFJsuOrvRrRendUgjNhmLtR37RJVYQbGLesGGWbjZ3b13fcHszKF92ZO62Koxh07rfqQ+xAwyFphttA99b+tQHU4BZQNlXh/pwzi7XpMmalsp1aF6rhNHH+8kJejJG5vuWgvXIJ5475jKAJepY4b3ab5MnSwqSpeedo2C0p3+tGCwlg=;SJrHoYuEgYvkyS+nOd6JRg=="

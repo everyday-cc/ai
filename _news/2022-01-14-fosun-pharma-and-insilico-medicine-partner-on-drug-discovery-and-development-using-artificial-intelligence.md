@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-14T14:43:00Z
 originalUrl: "https://www.pharmtech.com/view/fosun-pharma-and-insilico-medicine-partner-on-drug-discovery-and-development-using-artificial-intelligence"
 webUrl: "https://www.pharmtech.com/view/fosun-pharma-and-insilico-medicine-partner-on-drug-discovery-and-development-using-artificial-intelligence"
 type: article
-quality: 0
+quality: 1
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Fosun Pharma and Insilico Medicine Announce a Strategic, AI-driven Drug Discovery and Development Collaboration to Jointly Advance Multiple Targets"

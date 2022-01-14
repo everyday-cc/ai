@@ -54,6 +54,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Nvidia’s Deep Learning Dynamic Super Resolution tech is out now – here’s how to enable it"
+    excerpt: "Nvidia's DLDSR, which downsamples games for higher detail at a lower performance cost, is now available on GeForce RTX GPUs via driver update."
+    publishedDateTime: 2022-01-14T16:39:00Z
+    webUrl: "https://www.rockpapershotgun.com/nvidias-deep-learning-dynamic-super-resolution-tech-is-out-now-heres-how-to-enable-it"
+    type: article
+    provider:
+      name: Rock, Paper, Shotgun
+      domain: rockpapershotgun.com
+    quality: 30
+    images:
+      - url: "https://assets2.rockpapershotgun.com/god-of-war-world-serpent.png/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-world-serpent.png"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "oOT6G/vNUPVur6jIc34fT7aW4I9HCKWoyuxq6fRRg6IwpSBXw2BtNrF71RcBDmds6JAlU4LqYT0SF25agixwzGkXcqO6YEqoofJR2EZcSfw3iGIfJfLF3tD8kEgdYMSN7RNF3xuVw2wmAv2bHygrwV5WxfP00rCxKHlBA7O6KPN9Rtfh9nHQFVSHZ5yi1qaKiort+jYqMx+bhYCqUSwU8v6VTmeTm6HfdpfCMIGgGkCL3HmWvjncVcP2jYt+Qhx7wgvLmcX/TZO3TGtN/icNHTGMMMTz4EZ2qCmzqEuEPvNy7IF9jctqB78yQc+cmYmZaiUJx1XkWXWrf4fYlaxsts/horIhjyBnnOzMK+p3RnP6TlbPYchkMhzTPiuAQrlK2WiYVm85LkGcEVq+XWCL1jxP0toubv9CwAy9GuzQHtPlrVCYqpGxDRuXI1gvuc92lOAfRTn02c97zh3LRscKoydHHDoeSWj2+1qo0IO1dc5dIZ3o7KzI6kMMVjT1DOYntNPBpO9d/dM5GXg66ojCFg==;lCZxSVUuQQB7N/N1ShnEAg=="
 ---

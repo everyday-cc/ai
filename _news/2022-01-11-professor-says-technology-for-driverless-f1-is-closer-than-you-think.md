@@ -75,22 +75,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Driverless tractor set for commercial production at John Deere"
-    excerpt: "Using six pairs of stereo cameras and advanced artificial intelligence, the tractor can navigate to ... or for Rural news daily. Driverless tractor technology has the potential to help solve a modern agricultural dilemma — how can farmers do more ..."
-    publishedDateTime: 2022-01-09T23:40:00Z
-    webUrl: "https://www.abc.net.au/news/rural/2022-01-10/driverless-tractor-john-deere/100744258"
-    ampWebUrl: "https://amp.abc.net.au/article/100744258"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/100744258"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 59
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/f487f31e61eec632773518289c8afdb1?impolicy=wcms_crop_resize&cropH=556&cropW=834&xPos=65&yPos=0&width=862&height=575"
-        width: 834
-        height: 556
-        isCached: true
   - title: "LG Also Wants to Cash in on Future Driverless Vehicles"
     excerpt: "Are you excited or not about Apple’s on-again, off-again car project ? You should know that other tech giants are also exploring mobility solutions for the driverless future. At CES 2022 , Sony unveiled a new prototype of its Vision-S electric vehicle and announced the founding of a company to"
     publishedDateTime: 2022-01-10T13:16:00Z
