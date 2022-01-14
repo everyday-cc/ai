@@ -88,15 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Analytics Market worth $4.5 billion by 2026 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to a research report \" Speech Analytics Market by Component (Solutions and Services), Application (Risk & Compliance Management, Sentiment Analysis), Organization Size, Deployment Mode (Cloud,"
-    publishedDateTime: 2022-01-13T14:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-speech-analytics-market-worth-45-billion-2026-exclusive-/2022/01/13/9526024.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "rtRU7agzDZ5ll6C6rHhCf35W4pVwxt3bt7u+rRfODRqWVkh0V9bIPqHabPH3zIZpV4n2fFJL4NyAATu2vEDL/F1k5P4deb6pqM8AdnzkBNqiAKcIhUz0434VvS5Hbs9kPwXbktZUXCNiVMoQlw1ykbqvebFa6Hx93u+qs+D+uE0a+jx/No89DJ0/T8uE7UbLANGCARa9upChp7RXltPX550XWcGq7GHVQ6KpEHb1Gz5bQP6gEo+HZD/jWvzkh3endtDLoF4WGhfquCwcFcTjnxEORC4nq5NDBo6mTMwifP4V++ZU74nAddncMWHH3TzfWtDBj5ATK0a4kc8gV00Gk+q+VwdqEKoB7C6sL3xltvYj4lqfRTyYTc4Z1Ky5E4ygQVH00fr8k9HFypU12XvoS0SxiqT0WYOXhlkFqdouhSR+ru0iFT2ygcTuZFBLel1IosvFctm99tw2cDY+pno1L4W0gVCEq4LuO4fTbDh9hx496LhLSFgDtsXSjBbeEyDWDiiCLkw3uZ8BfWJo3RBleA==;luzk2MZsJJ25zXAjnHUkxg=="
 ---

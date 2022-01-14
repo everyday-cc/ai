@@ -44,20 +44,6 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 17
-  - title: "IBM Welcomes LG Electronics to the IBM Quantum Network to Advance Industry Applications of Quantum Computing"
-    excerpt: "IBM (NYSE: IBM) today announced that LG Electronics has joined the IBM Quantum Network to advance the industry applications of quantum computing. By joining the IBM Quantum Network, IBM will provide LG Electronics access to IBM's quantum computing systems,"
-    publishedDateTime: 2022-01-10T05:10:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/01/10/ibm-welcomes-lg-electronics-to-the-ibm-quantum-network-to-advance-industry"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "r8g79g5FDQRKrA1J1VEOzXW4cWDXPLNuxTLW8rWbZMwd2tf9ClB+2pRAKap/opxwrIK9PJ9vngatEZHru1BC6xMkGt0SaTZVZQp2yku3tUQl+g54MIvZUlaenISQPf4xJOSPtvBxyCWH1JfJlL/1KrVUS0bcIuVPSZU6HKQ5pBRFRKKXwPPtFvLEfbTmkn+wnazgywGPepIwN3U+NJW3SUGU19e5xcUuQXRKi+g4kZDMP31ZSbY9xgGLOvdtayz+GV4EJtZq1wlM1O/+c06hnHGXz2b/m8S5o+tyvqGGaatqLgrUngctw2qoNa7i182/QQrE/S9XjPKdzJ4zpbkTN4aiTX382vU5i9Q480pMwBA=;/pCZLIKYtUhrcK+yR3a9Sg=="
 ---

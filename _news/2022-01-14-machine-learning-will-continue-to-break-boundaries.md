@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-14T09:39:00Z
 originalUrl: "https://www.bizcommunity.com/Article/196/852/224064.html"
 webUrl: "https://www.bizcommunity.com/Article/196/852/224064.html"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://biz-file.com/c/1404/189159.jpg"

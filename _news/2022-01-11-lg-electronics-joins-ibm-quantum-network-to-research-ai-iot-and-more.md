@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/"
 type: article
 quality: 167
-heat: 197
+heat: 187
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 17
-  - title: "IBM Welcomes LG Electronics to the IBM Quantum Network to Advance Industry Applications of Quantum Computing"
-    excerpt: "IBM (NYSE: IBM) today announced that LG Electronics has joined the IBM Quantum Network to advance the industry applications of quantum computing. By joining the IBM Quantum Network, IBM will provide LG Electronics access to IBM's quantum computing systems,"
-    publishedDateTime: 2022-01-10T05:10:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2022/01/10/ibm-welcomes-lg-electronics-to-the-ibm-quantum-network-to-advance-industry"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 5
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
-        isCached: true
 
 secured: "0SXnzQsVXFlYajWNNwONni8ycv23Hy6qy/x/IkqBuBkBVT29NA0AobA/XQ/8tI5dasCuitNSDP2kXchfobR78ri9IfHcwK/N5mYNIE9HzczEkkcfDkcoNBzDj7BSnX4HDGe3QrLUXw5MOyhH0YPDrQTG229oKH7Vg6/1H4QIRXjJoHnZdg0kX37zEzMA/gF03JgDrSxHs+4Af14/vhbgbAKrsFzac+HdPOZnv9ksodb8U4nBD90G9zzz2Kb6A3YFt8UMvJ8R0P8NTQhkjQqZKPOV4SED42q314zQlsSfSqxD+64O+i5sNplTquW8dqqVaQhmCfkqhaXsBB+CdnpXuVHHgaeTHwiqLJpuZP6IYUfz51AdAedkWMsAMYtU0Mz/Y3nnICkxfQlYNHObERU2UGloa9ABfcC7MsqFgAYnWYK5Uo4MUuTc1tCvkdsz/NGGQKKoJmqyWSNiRzT5W17q8dyLtcAv5EUVsdkuHmc0Rkk9yBF83ct22uqilSikuezdoIFQkCJOZXsZ6Bc2HLgepET6SmuvsS2gYbOOATtvbg8=;sJOi+0K3hOljYCa5xxJR3Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92936-humans-significantly-better-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Disrupting the economics of software testing through AI"
+    excerpt: "Torsten Volk, managing research director at EMA, highlights 5 categories of AI and 6 pain points of test automation that AI addresses."
+    publishedDateTime: 2022-01-14T21:20:00Z
+    webUrl: "https://sdtimes.com/test/disrupting-the-economics-of-software-testing-through-ai/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 67
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2022/01/b744404607f524183cc48bd943733e2f.jpg"
+        width: 917
+        height: 611
+        isCached: true
   - title: "AI Isn’t Ready to Take Over Weather Prediction"
     excerpt: "Despite several decades of computerized automatic forecast development, human-powered predictions assisted by these technologies are more accessible and more accurate than their AI counterparts."
     publishedDateTime: 2022-01-10T16:58:00Z

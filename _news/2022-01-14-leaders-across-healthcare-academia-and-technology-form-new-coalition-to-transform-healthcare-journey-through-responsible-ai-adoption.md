@@ -39,20 +39,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "New incubator for AI collaboration"
-    excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
-    publishedDateTime: 2022-01-10T06:01:00Z
-    webUrl: "https://insights.globalspec.com/article/17993/new-incubator-for-ai-collaboration"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
-    images:
-      - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
-        width: 640
-        height: 382
-        isCached: true
   - title: "AI the brains driving broad transformation"
     excerpt: "AI has become a core driving force for the new round of technological and industrial revolution in China, bringing tremendous changes to the country’s development and people’s lives in many fields, including healthcare,"
     publishedDateTime: 2022-01-11T10:20:00Z
@@ -66,20 +52,6 @@ related:
       - url: "https://static.independent.co.uk/2022/01/07/10/AI.jpg?width=1200&auto=webp&quality=75"
         width: 1200
         height: 813
-        isCached: true
-  - title: "Root Insurance Adds AI to Claims Operations"
-    excerpt: "Root will launch the partnership with the AI Subro solution from Tractable. “Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers."
-    publishedDateTime: 2022-01-10T14:33:00Z
-    webUrl: "https://www.fenderbender.com/articles/17289-root-insurance-adds-ai-to-claims-operations"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 37
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/2021/09/02/pexels-pixabay-373543.jpg?height=635&t=1631180410&width=1200"
-        width: 777
-        height: 518
         isCached: true
   - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
     excerpt: "OSARO Inc. a global leader in the development and provision of advanced robotics automation, and INNOTECH CORPORATION, which provides advanced products for electronics and consumer industries, have announced a collaboration to create an innovative demonstration for Rohto Pharmaceutical Co."

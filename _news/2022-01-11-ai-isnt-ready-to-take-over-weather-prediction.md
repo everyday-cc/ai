@@ -40,6 +40,20 @@ related:
         width: 2138
         height: 1402
         isCached: true
+  - title: "Disrupting the economics of software testing through AI"
+    excerpt: "Torsten Volk, managing research director at EMA, highlights 5 categories of AI and 6 pain points of test automation that AI addresses."
+    publishedDateTime: 2022-01-14T21:20:00Z
+    webUrl: "https://sdtimes.com/test/disrupting-the-economics-of-software-testing-through-ai/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 67
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2022/01/b744404607f524183cc48bd943733e2f.jpg"
+        width: 917
+        height: 611
+        isCached: true
 
 secured: "aoAZdSAKLqqh0Wg9K7wHIPdB+kA7n+1WkaepX2q3DB07v/sSVYirAcDjiht0ichN7kucmCdfnIkog/mSif2W1kC0xlRqVdJMYQbRwyqUGkTuclAIGxg5GY64rMvH5TtfFWsubWJFXFqFmd3SPQG2KnnXCuJaU8AFX58s3JeOqwGdKwHJB+oYRXkU0bsC2fOxSbMJEvzoQgWysDQPpGrgy6Bqwpq7b/VttYo1VjtC9gCdDmQe+wdOJtGc0X9DKXBjn1T1L/KlrEYB+8Tg831A7OOLHbYx9Cef14Eexl6bfJV0CpIuq9jvpIRmJYgGnskbJn0DQLhIohyYFlW//jY3XvYM4ACn9VyYq2bc6dEjLYk=;W21BCa6YahjGR6JPFDXCKg=="
 ---

@@ -134,22 +134,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tesla's full self-driving beta may do 'rolling stops' at traffic lights"
-    excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will \"not exit passing lanes\" and \"may perform rolling stops\" at traffic lights. It is still not entirely clear whether cars will come to a full stop at stop signs or not."
-    publishedDateTime: 2022-01-10T05:47:00Z
-    webUrl: "https://www.business-standard.com/article/international/tesla-s-full-self-driving-beta-may-do-rolling-stops-at-traffic-lights-122011000290_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/international/tesla-s-full-self-driving-beta-may-do-rolling-stops-at-traffic-lights-122011000290_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/tesla-s-full-self-driving-beta-may-do-rolling-stops-at-traffic-lights-122011000290_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 59
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/18/full/1605681784-7704.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Tesla's Full Self-Driving programme under reevaluation in US: Report"
     excerpt: "Tesla's Full Self-Driving test programme is being reevaluated by Californian authorities to determine if its software should fall under its motor vehicle department's autonomous vehicle regulations, the Los Angeles Times reported."
     publishedDateTime: 2022-01-12T09:44:00Z
@@ -287,20 +271,6 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2019/10/tesla-y-1000x600.jpg"
         width: 1000
         height: 600
-        isCached: true
-  - title: "Tesla’s full self-driving beta may perform 'rolling stops'"
-    excerpt: "Tesla has brought new driver assistance features in its Full Self-Driving (FSD) beta, where the electric car will 'n"
-    publishedDateTime: 2022-01-10T05:40:00Z
-    webUrl: "https://menafn.com/1103512140/Teslas-full-self-driving-beta-may-perform-rolling-stops"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?690057"
-        width: 332
-        height: 250
         isCached: true
   - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
     excerpt: "Tesla CEO Elon Musk announced that Tesla's Full Self-Driving (FSD) software will be priced at $12,000 starting on January 17, up from $10,000 This price jump isn't unprecedented. The last time Tesla's FSD price increased was in October 2020,"

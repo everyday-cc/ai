@@ -9,7 +9,7 @@ ampWebUrl: "https://www.expresshealthcare.in/amp/news/changing-face-of-health-an
 cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM wants to exit healthcare by selling its Watson Health business"
-    excerpt: "IBM is attempting to sell its Watson Health business—just around a year after it was first reported to mull a sale in 2021. For context, Watson Health, formed in 2015, develops AI-driven analytics solutions for hospitals,"
-    publishedDateTime: 2022-01-10T05:10:00Z
-    webUrl: "https://www.emarketer.com/content/ibm-wants-exit-healthcare-by-selling-its-watson-health-business"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 56
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/5e25b7a923b9f1f715d3079db3bea995/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "These Are the Five Covid-Driven A.I. Trends That Are Changing Healthcare"
     excerpt: "For all of its ills, Covid-19 has supercharged consumerism in America's healthcare system, offering tantalizing opportunities for companies interested in lowering health care costs and increasing access to quality medical care."
     publishedDateTime: 2022-01-11T18:07:00Z

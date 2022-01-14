@@ -41,22 +41,6 @@ related:
         width: 1256
         height: 1261
         isCached: true
-  - title: "NNPA CEO Dr. Benjamin F. Chavis to Interview Sophia the Robot at First Tech with Soul Virtual Conference"
-    excerpt: "NNPA Newswire Senior National Correspondent@StacyBrownMedia (NNPA) - From Civil Rights to Space Rights, that’s the motto of National"
-    publishedDateTime: 2022-01-10T07:01:00Z
-    webUrl: "https://sacobserver.com/2022/01/nnpa-ceo-dr-benjamin-f-chavis-to-interview-sophia-the-robot-at-first-tech-with-soul-virtual-conference/"
-    ampWebUrl: "https://sacobserver.com/2022/01/nnpa-ceo-dr-benjamin-f-chavis-to-interview-sophia-the-robot-at-first-tech-with-soul-virtual-conference/?amp"
-    cdnAmpWebUrl: "https://sacobserver-com.cdn.ampproject.org/c/s/sacobserver.com/2022/01/nnpa-ceo-dr-benjamin-f-chavis-to-interview-sophia-the-robot-at-first-tech-with-soul-virtual-conference/?amp"
-    type: article
-    provider:
-      name: The Sacramento Observer
-      domain: sacobserver.com
-    quality: 42
-    images:
-      - url: "https://i0.wp.com/sacobserver.com/wp-content/uploads/2022/01/chavis-interviews-sophia-the-robot-featured-web.jpeg?fit=1400%2C730&ssl=1"
-        width: 1400
-        height: 730
-        isCached: true
   - title: "Sophia the Robot Commits to Helping End Global Racism and Injustice"
     excerpt: "Sophia the Robot said she’s committed to improving the quality of life for all people throughout the world, and asserted that artificial intelligence (AI) can help bring racial equality, economic equity,"
     publishedDateTime: 2022-01-10T17:48:00Z
