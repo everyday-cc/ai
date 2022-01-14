@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 665
         isCached: true
+  - title: "Impact of 5G on Artificial intelligence"
+    excerpt: "Now more and more people are learning about artificial intelligence.  5G has conquered the whole world.  However, what is the connection between them?  In this article we will figure"
+    publishedDateTime: 2022-01-14T13:34:00Z
+    webUrl: "https://www.designyourway.net/blog/misc/impact-of-5g-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: designyourway.net
+      domain: designyourway.net
+    quality: 37
+    images:
+      - url: "https://www.designyourway.net/blog/wp-content/uploads/2022/01/5g.jpg"
+        width: 1000
+        height: 395
+        isCached: true
 
 secured: "m5q/F9o87HHFGBiMp+u0IfZ4cZRPLFxvoL5Uuxl9UEKTNmgLIlNslNoabsIK8sRBmwRq7rIk1X6NLkVVfsb+K8fEexpLoZSV/GvqQby/xHi4Tb0MWjr3H7mcWt8qYipfkxjPnyFd/cXKTvO2xBPyVzlWyYCBO80EZQ5OWqnLbofTkKG1d8ho7PRGz3PtNq+zzkjeZNEOUw1wzIuScI9mxzPSxv62SyOcKb4Az/eS30mOiR68pqRnKr9i1QuoQnG9gdNi3mftTQdj7I/a7MCv0jaujusAVJp2wAn7w9ut1XC3/34XEjaP7DDT+lR8PgYi7AxBFK9XhqO3e0VlBdg2ClqmicCRprxFV2TmZ3TFoag=;TuLrFqwx6EmGT93YS1Qytw=="
 ---

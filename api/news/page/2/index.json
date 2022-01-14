@@ -2,6 +2,337 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-13-the-future-of-farming-think-artificial-intelligence-robots-and-drones.md",
+      "title": "The future of farming? Think artificial intelligence, robots, and drones.",
+      "excerpt": "The outfit at Iowa State, founded last September, is one of 11 established in eight disciplines, including agriculture, following a $220 million investment from the National Science Foundation and the Department of Agriculture,",
+      "sourceUrl": null,
+      "webUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
+      "originalUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://grist.org/fix/wp-content/uploads/sites/3/2022/01/WhatsNext_AI.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
+      "cdnAmpWebUrl": "https://grist-org.cdn.ampproject.org/c/s/grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
+      "publishedDateTime": "2022-01-13T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Grist",
+        "domain": "grist.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-14-ways-to-leverage-ai-to-better-connect-with-customers.md",
+      "title": "14 Ways To Leverage AI To Better Connect With Customers",
+      "excerpt": "In 2022, marketers will no doubt find more unique ways to incorporate AI into their operations to enhance campaigns while boosting the effectiveness of data analysis and the accuracy of reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df4cda763af9c8f4a29ba3%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/",
+      "publishedDateTime": "2022-01-13T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-using-localized-models-to-get-more-from-your-aiml-investments.md",
+      "title": "Using Localized Models To Get More From Your AI/ML Investments",
+      "excerpt": "There are a lot of opportunities to experiment with localized models to help businesses gain a clearer understanding of their demographics and the unique needs and desires of different locations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/using-localized-models-to-get-more-from-your-aiml-investments/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/using-localized-models-to-get-more-from-your-aiml-investments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/using-localized-models-to-get-more-from-your-aiml-investments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/using-localized-models-to-get-more-from-your-aiml-investments/amp/",
+      "publishedDateTime": "2022-01-13T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-artificial-intelligence-in-security-market-to-see-booming-growth-acalvio-cylance-ibm-micron.md",
+      "title": "Artificial Intelligence in Security Market to See Booming Growth | Acalvio, Cylance, IBM, Micron",
+      "excerpt": "Advance Market Analytics published a new research publication on Artificial Intelligence in Security Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "originalUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/V/1/V113166983_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "publishedDateTime": "2022-01-13T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-sezzle-takes-aim-at-bnpl-fraud-with-ai-machine-learning.md",
+      "title": "Sezzle Takes Aim at BNPL Fraud With AI, Machine Learning",
+      "excerpt": "The latest in digital fraud 2. An interview with Sezzle on using technology like AI and ML to reduce fraud 3. A Deep Dive on fraud in buy now, pay later",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/",
+      "originalUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/digital-fraud-buy-now-pay-later-artificial-intelligence-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/amp/",
+      "publishedDateTime": "2022-01-13T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-blended-learning-will-be-the-way-forward-for-the-education-sector.md",
+      "title": "Blended Learning Will Be the Way Forward For the Education Sector",
+      "excerpt": "Blended learning or a balanced composition of physical and digital learning has now become the ‘New Essential’",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/412942",
+      "originalUrl": "https://www.entrepreneur.com/article/412942",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1642064172-Myproject17.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T00:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-chinese-self-driving-chip-startup-secures-investment-from-bosch.md",
+      "title": "Chinese self-driving chip startup secures investment from Bosch",
+      "excerpt": "Boyuan Capital, an investment arm of German car supplier Bosch, has invested an undisclosed sum into Chinese semiconductor startup Black Sesame, making its first bet on artificial intelligence chips for self-driving vehicles in China.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
+      "originalUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
+      "publishedDateTime": "2022-01-13T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-cogniteams-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai.md",
       "title": "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI",
       "excerpt": "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development",
@@ -43,6 +374,49 @@
         "AI Hardware",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion.md",
+      "title": "Philippines’ neobank Tonik builds on Google Cloud to speed up financial inclusion",
+      "excerpt": "The Philippines’ first licensed neobank Tonik Digital Bank, hastens underbanked financial inclusion locally by leveraging Google Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
+      "originalUrl": "https://techwireasia.com/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2022/01/Philippines-digital-banking-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
+      "publishedDateTime": "2022-01-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -826,359 +1200,6 @@
         "AI in Robotics",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact.md",
-      "title": "How An Ethical AI Startup Makes A Triple-Bottom Line Impact",
-      "excerpt": "Even tech companies can consider people and planet, as well as profit. And they can find investors who share their social mission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/",
-      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61db74e008657af633f8d8c6%2F0x0.jpg",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/01/12/how-an-ethical-ai-startup-makes-a-triple-bottom-line-impact/amp/",
-      "publishedDateTime": "2022-01-12T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines.md",
-      "title": "Fomo launches “Fomo Robotics” to offer UV Disinfection Machines",
-      "excerpt": "IAQ Technologies LLC, a wholly owned subsidiaries of Fomo (FOMC) and Energy Intelligence Center LLC plans to offer UV Disinfection Robots, designed and sold by a leading provider",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "originalUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "publishedDateTime": "2022-01-12T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-sophia-the-robot-interviewed-during-tech-with-soul.md",
-      "title": "Sophia the Robot interviewed during Tech with Soul",
-      "excerpt": "Sophia the Robot said she’s committed to improving the quality of life for all people throughout the world, and asserted that artificial intelligence (AI) can help bring racial equality, economic",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.html",
-      "originalUrl": "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/miamitimesonline.com/content/tncms/custom/image/b4f5338a-6dd9-11ea-8081-4fee519df8b2.png",
-          "width": 1256,
-          "height": 1261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.amp.html",
-      "cdnAmpWebUrl": "https://www-miamitimesonline-com.cdn.ampproject.org/c/s/www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.amp.html",
-      "publishedDateTime": "2022-01-12T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Miami Times",
-        "domain": "miamitimesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-aiml-at-scale-the-next-horizon-for-ppgs-data-strategy.md",
-      "title": "AI/ML at scale: The next horizon for PPG’s data strategy",
-      "excerpt": "At PPG, data is key not only to IT strategy, but to enabling business strategy, says Jeff Lipniskis, global IT director. With a solid foundation in place, his focus now is on being AI ready.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
-      "originalUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/01/horizon_transformation_change_future_hope_bright-100746109-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/302874/ai-ml-at-scale-the-next-horizon-for-ppgs-data-strategy.html/amp",
-      "publishedDateTime": "2022-01-12T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-government-backs-turing-institute-in-bid-to-set-global-ai-technical-standards.md",
-      "title": "Government backs Turing Institute in bid to set global AI technical standards",
-      "excerpt": "The DCMS has announced an AI Standards Hub, comprising The Alan Turing Institute, the National Physical Laboratory and the British Standards Institution to set a global bar for AI technical standards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards",
-      "originalUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1",
-      "publishedDateTime": "2022-01-12T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-surface-navy-2022-tactical-focus-driving-ai-development.md",
-      "title": "Surface Navy 2022: Tactical focus driving AI development",
-      "excerpt": "US Navy (USN) leaders are looking to leverage advanced technological capabilities in artificial intelligence (AI) and machine learning (ML) in the tactical",
-      "sourceUrl": null,
-      "webUrl": "https://www.janes.com/defence-news/defence/latest/surface-navy-2022-tactical-focus-driving-ai-development",
-      "originalUrl": "https://www.janes.com/defence-news/defence/latest/surface-navy-2022-tactical-focus-driving-ai-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.janes.com/images/default-source/news-images/bsp_11674-idr-15802.jpg?sfvrsn=fd3d809b_2",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "publishedDateTime": "2022-01-11T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
-      "title": "How managed services will evolve in 2022: The data analytics revolution",
-      "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1171422745-e1641922862738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "publishedDateTime": "2022-01-11T22:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry.md",
-      "title": "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry",
-      "excerpt": "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg",
-          "width": 500,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25011004",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004",
-      "publishedDateTime": "2022-01-11T22:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

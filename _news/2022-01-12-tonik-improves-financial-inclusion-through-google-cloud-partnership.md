@@ -41,6 +41,20 @@ related:
         width: 450
         height: 300
         isCached: true
+  - title: "Tonik builds on Google Cloud to accelerate financial inclusion and open banking innovation in PHL"
+    excerpt: "Neobank to reimagine and provide financial services that were once out of reach to millions of Filipinos, especially those living in rural areas"
+    publishedDateTime: 2022-01-12T14:18:00Z
+    webUrl: "https://businessmirror.com.ph/2022/01/12/tonik-builds-on-google-cloud-to-accelerate-financial-inclusion-and-open-banking-innovation-in-phl/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 26
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/BusinessMirror-BM-lettermark.jpg"
+        width: 1400
+        height: 799
+        isCached: true
 
 secured: "KyHGP+Ykb6ADrdJkaPMHjReaPIIEPzj5Cq2DaQQiatEFO8kCgaas5JXfvEavaIHpIalZCZ3eAd5cFAsbwsA3gVXTyknF4ZqupHoK02XrkFb+UJ7k2Bw+OBGHK+6UFIuZ+kiqwbGrg3kK1A4B1AyKfzDJ/V1Lk+eZB2sph6MczOk1kavQwAoGaIDzS77uDGe574iUj3xcs905s9xw/8hpIOYex4T7iKciauvwRAJoDMtzSbT6LMiBHnjXVldGLkdi9ubI4/4A32fadS25J41f//GxcXN2AlYFuI/MKNB1q9LbY55htnCxaSJKMEj6SXqevYo6I6vv3vvoY+pwWFVdgLgxnb25viQS1he7/fYeCQk=;CMVqstbcA2TgEUZspJ2A3Q=="
 ---

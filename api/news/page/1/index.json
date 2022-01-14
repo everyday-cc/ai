@@ -2,6 +2,284 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-14-a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians.md",
+      "title": "A Four Wheeled Fully Autonomous Delivery Robot Has an Airbag for Pedestrians",
+      "excerpt": "Autonomous driving companies talk about AI and collision-avoidance tech. But this bot maker has put in a measure if other things fail.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians",
+      "originalUrl": "https://interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/XD6KkKyz6v/sizes/nuro-1920_resize_md.png",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians",
+      "publishedDateTime": "2022-01-14T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-jb-hunt-will-be-waymos-first-self-driving-freight-customer.md",
+      "title": "J.B. Hunt will be Waymo’s first self-driving freight customer",
+      "excerpt": "Waymo Via, the autonomous vehicle company’s trucking and cargo transportation unit, is expanding its existing partnership with logistics company J.B. Hunt Transport Services from a pilot into a long-term strategic alliance.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "originalUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Waymo-Via_JBH.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "publishedDateTime": "2022-01-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-december-retail-sales-slide-19-amid-shortages-omicron.md",
+      "title": "December retail sales slide 1.9% amid shortages, omicron",
+      "excerpt": "Americans, beset by product shortages, rising prices and the arrival of omicron, sharply cut their spending in December after a burst of spending in the fall that helped bolster the holiday season",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20220111005911/en/DeepScribe-Raises-30M-To-Become-First-Widely-Accepted-Application-of-Voice-AI-in-Healthcare",
+      "originalUrl": "https://abcnews.go.com/Business/wireStory/december-retail-sales-slide-19-amid-shortages-omicron-82264798",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-chinas-robotaxis-charged-ahead-in-2021.md",
+      "title": "China’s robotaxis charged ahead in 2021",
+      "excerpt": "Autonomous driving startups in China are in an arms race to put passengers in their machine-driven vehicles. Every few weeks, news arrives that another major player has got the greenlight to launch a new pilot program or a small-scale service.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
+      "originalUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-696723580.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
+      "publishedDateTime": "2022-01-14T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-amazon-fixes-security-flaw-in-aws-glue-service.md",
+      "title": "Amazon fixes security flaw in AWS Glue service",
+      "excerpt": "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
+      "publishedDateTime": "2022-01-14T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-four-times-shakespeare-has-inspired-stories-about-robots-and-ai.md",
+      "title": "Four times Shakespeare has inspired stories about robots and AI",
+      "excerpt": "Science fiction is full of computer programmes and androids who fall afoul of the plots of some of Shakespeare’s most brutal tragedies.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/four-times-shakespeare-has-inspired-stories-about-robots-and-ai-174137",
+      "originalUrl": "https://theconversation.com/four-times-shakespeare-has-inspired-stories-about-robots-and-ai-174137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/440682/original/file-20220113-2253-18vte8y.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop",
+          "width": 320,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/four-times-shakespeare-has-inspired-stories-about-robots-and-ai-174137",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/four-times-shakespeare-has-inspired-stories-about-robots-and-ai-174137",
+      "publishedDateTime": "2022-01-14T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-from-robot-soccer-to-speedgate-these-sports-of-the-future-already-exist.md",
       "title": "From robot soccer to speedgate, these sports of the future already exist",
       "excerpt": "These high-tech sports may sound like they come from the future, but they already exist. Here are some of the most ground-breaking. In drone soccer, teams of between three and five pilots score points by flying their \"striker\" drone through their opponent's goal,",
@@ -62,7 +340,7 @@
       "originalUrl": "https://www.openpr.com/news/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -282,6 +560,49 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-sales-enablement-startup-highspot-raises-248m-at-35b-valuation.md",
+      "title": "Sales enablement startup Highspot raises $248M at $3.5B valuation",
+      "excerpt": "Sales software maker Highspot Inc. today said that it has raised a $248 million funding round after growing revenues nearly tenfold over the last three years. B Capital Group and D1 Capital Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/",
+      "originalUrl": "https://siliconangle.com/2022/01/13/sales-enablement-startup-highspot-raises-248m-3-5b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1138450928.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
+      "publishedDateTime": "2022-01-13T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -588,58 +909,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-13-five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives.md",
-      "title": "Five Things Every Enterprise Can Do To Ensure The Long-Term Success And Sustainability Of AI Initiatives",
-      "excerpt": "As companies prioritize sustainable value creation, it’s past time for AI to become a bigger part of the conversation. By taking these five steps, organizations can go a long way in achieving resilient AI initiatives that benefit all stakeholders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e04920093cc7466934b4ed%2F0x0.jpg",
-          "width": 1200,
-          "height": 823,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/amp/",
-      "publishedDateTime": "2022-01-13T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-13-how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform.md",
       "title": "How was my pitch, Jenny? Zoom's venture fund invests in conversational AI platform",
       "excerpt": "Second Nature uses natural language processing and subject matter experts to build sales skills and product knowledge.",
@@ -847,6 +1116,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-13-serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots.md",
+      "title": "Serve Robotics Becomes First Autonomous Vehicle Company to Commercially Launch Level 4 Self-Driving Robots",
+      "excerpt": "Serve Robotics, the leading autonomous sidewalk delivery company, today announced the deployment of its next-generation delivery",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots-301460151.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots-301460151.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1725764/L4_V1_006_FINAL.mp4?p=medium",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform.md",
       "title": "Shield bags $15M Series A to address surging demand for its AI-powered communication compliance platform",
       "excerpt": "Over the past two years, since the pandemic hit, there has been a sharp rise in financial crime compliance costs, nearing $50 billion in 2021, up 58% compared to 2019, in the U.S. and Canada.  Shield,",
@@ -895,337 +1207,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-the-future-of-farming-think-artificial-intelligence-robots-and-drones.md",
-      "title": "The future of farming? Think artificial intelligence, robots, and drones.",
-      "excerpt": "The outfit at Iowa State, founded last September, is one of 11 established in eight disciplines, including agriculture, following a $220 million investment from the National Science Foundation and the Department of Agriculture,",
-      "sourceUrl": null,
-      "webUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
-      "originalUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://grist.org/fix/wp-content/uploads/sites/3/2022/01/WhatsNext_AI.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
-      "cdnAmpWebUrl": "https://grist-org.cdn.ampproject.org/c/s/grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
-      "publishedDateTime": "2022-01-13T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Grist",
-        "domain": "grist.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-14-ways-to-leverage-ai-to-better-connect-with-customers.md",
-      "title": "14 Ways To Leverage AI To Better Connect With Customers",
-      "excerpt": "In 2022, marketers will no doubt find more unique ways to incorporate AI into their operations to enhance campaigns while boosting the effectiveness of data analysis and the accuracy of reporting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df4cda763af9c8f4a29ba3%2F0x0.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/",
-      "publishedDateTime": "2022-01-13T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-using-localized-models-to-get-more-from-your-aiml-investments.md",
-      "title": "Using Localized Models To Get More From Your AI/ML Investments",
-      "excerpt": "There are a lot of opportunities to experiment with localized models to help businesses gain a clearer understanding of their demographics and the unique needs and desires of different locations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/using-localized-models-to-get-more-from-your-aiml-investments/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/using-localized-models-to-get-more-from-your-aiml-investments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60aebd253bb898555bf94d92%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/using-localized-models-to-get-more-from-your-aiml-investments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/using-localized-models-to-get-more-from-your-aiml-investments/amp/",
-      "publishedDateTime": "2022-01-13T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-artificial-intelligence-in-security-market-to-see-booming-growth-acalvio-cylance-ibm-micron.md",
-      "title": "Artificial Intelligence in Security Market to See Booming Growth | Acalvio, Cylance, IBM, Micron",
-      "excerpt": "Advance Market Analytics published a new research publication on Artificial Intelligence in Security Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "originalUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V113166983_g.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "publishedDateTime": "2022-01-13T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-sezzle-takes-aim-at-bnpl-fraud-with-ai-machine-learning.md",
-      "title": "Sezzle Takes Aim at BNPL Fraud With AI, Machine Learning",
-      "excerpt": "The latest in digital fraud 2. An interview with Sezzle on using technology like AI and ML to reduce fraud 3. A Deep Dive on fraud in buy now, pay later",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/",
-      "originalUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/digital-fraud-buy-now-pay-later-artificial-intelligence-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2022/sezzle-takes-aim-bnpl-fraud-with-ai-machine-learning/amp/",
-      "publishedDateTime": "2022-01-13T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-blended-learning-will-be-the-way-forward-for-the-education-sector.md",
-      "title": "Blended Learning Will Be the Way Forward For the Education Sector",
-      "excerpt": "Blended learning or a balanced composition of physical and digital learning has now become the ‘New Essential’",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/412942",
-      "originalUrl": "https://www.entrepreneur.com/article/412942",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1642064172-Myproject17.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-chinese-self-driving-chip-startup-secures-investment-from-bosch.md",
-      "title": "Chinese self-driving chip startup secures investment from Bosch",
-      "excerpt": "Boyuan Capital, an investment arm of German car supplier Bosch, has invested an undisclosed sum into Chinese semiconductor startup Black Sesame, making its first bet on artificial intelligence chips for self-driving vehicles in China.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
-      "originalUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
-      "publishedDateTime": "2022-01-13T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

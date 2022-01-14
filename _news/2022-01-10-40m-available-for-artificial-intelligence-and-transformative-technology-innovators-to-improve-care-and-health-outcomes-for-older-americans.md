@@ -22,6 +22,34 @@ topics:
   - AWS AI
 
 related:
+  - title: "New coalition aims to accelerate responsible AI innovation to transform healthcare"
+    excerpt: "The Artificial Intelligence Industry Innovation Coalition (AI3C) leverages the collective brainpower, experience and expertise of the Brookings Institution, Cleveland Clinic, Duke Health, Intermountain Healthcare,"
+    publishedDateTime: 2022-01-14T00:50:00Z
+    webUrl: "https://medcitynews.com/2022/01/new-coalition-aims-to-accelerate-responsible-ai-innovation-to-transform-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 48
+    images:
+      - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
+        width: 788
+        height: 443
+        isCached: true
+  - title: "New incubator for AI collaboration"
+    excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
+    publishedDateTime: 2022-01-10T06:01:00Z
+    webUrl: "https://insights.globalspec.com/article/17993/new-incubator-for-ai-collaboration"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 39
+    images:
+      - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
+        width: 640
+        height: 382
+        isCached: true
   - title: "AI the brains driving broad transformation"
     excerpt: "AI has become a core driving force for the new round of technological and industrial revolution in China, bringing tremendous changes to the country’s development and people’s lives in many fields, including healthcare,"
     publishedDateTime: 2022-01-11T10:20:00Z
@@ -36,34 +64,57 @@ related:
         width: 1200
         height: 813
         isCached: true
-  - title: "Where Do The Chips Fall In The Energy Transformation?"
-    excerpt: "The energy industry is in the first stages of a once-in-a-century transformation. And one of the most important aspects of this shift is that EVs, solar farms grid equipment, and appliances will inherently rely more on digital technologies."
-    publishedDateTime: 2022-01-13T08:04:00Z
-    webUrl: "https://semiengineering.com/where-do-the-chips-fall-in-the-energy-transformation/"
+  - title: "Root Insurance Adds AI to Claims Operations"
+    excerpt: "Root will launch the partnership with the AI Subro solution from Tractable. “Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers."
+    publishedDateTime: 2022-01-10T14:33:00Z
+    webUrl: "https://www.fenderbender.com/articles/17289-root-insurance-adds-ai-to-claims-operations"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 37
     images:
-      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/2017/03/iStock-620003738.jpg?fit=724%2C483&#038;ssl=1"
-        width: 724
-        height: 483
+      - url: "https://www.fenderbender.com/ext/resources/2021/09/02/pexels-pixabay-373543.jpg?height=635&t=1631180410&width=1200"
+        width: 777
+        height: 518
         isCached: true
-  - title: "Pony.ai forms JV with Sinotrans to further deployment of autonomous driving technologies"
-    excerpt: "Autonomous driving technology company Pony.ai recently formed a joint venture with Sinotrans, part of China Merchants Group and one of China’s leading logistics and freight forwarding companies. The two companies will work together to build a smart logistics network featuring autonomous driving trucking technologies."
-    publishedDateTime: 2022-01-10T10:36:00Z
-    webUrl: "https://www.greencarcongress.com/2022/01/20220110-pony.html"
+  - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
+    excerpt: "OSARO Inc. a global leader in the development and provision of advanced robotics automation, and INNOTECH CORPORATION, which provides advanced products for electronics and consumer industries, have announced a collaboration to create an innovative demonstration for Rohto Pharmaceutical Co."
+    publishedDateTime: 2022-01-11T15:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-san-francisco-robotics-cd7b2bbb6f2048169b1aa520c62aff2c"
     type: article
     provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 30
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
     images:
-      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef027880653d4a200d-600wi"
-        width: 600
-        height: 305
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
+    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
+    publishedDateTime: 2022-01-13T16:13:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
+    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
+    publishedDateTime: 2022-01-13T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible/article_8df099d3-d5c5-52c4-b300-7e9b1b4eea10.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 3
 
 secured: "YRPny1MRnDAWeI+FDAVQL/ZY3HiSv9wFhYGjP5eHQGgYXy+3FMvQWQ5UUCFogxG38KoeX1AQkyLTNGXiCa7zCnnk51U37mLQJGD9e8N9kQU0//jukIK5QuLcUhvDSOM71wwNyJtqa05Lz/3MU8PTBqO5b6X9BiItzx31UxFseh2LyQg9HVDauOQOnrrSzqJR3TQ+fneBlDmqMUYcdvuw3RKyRl0OOdFhUYW5ePZPMteYBQi7KCwqYPTkCBAtxpl64sa8jeF7ZnIB7DecXyk/UnC96zntWJs6wKl3oC6qOxJhMhGgr3wBu2vtqTNfsclke6/RKOFtk2jWdtSWgj6YLuBdzpKPZqK9ZAaSXFmyG98=;UBIc36GdV/ebAZkA3DKXOA=="
 ---

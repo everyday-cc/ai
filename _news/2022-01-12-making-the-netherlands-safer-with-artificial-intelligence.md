@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Chinese restaurant chain is forced to use ROBOT waiters during the Covid pandemic"
+    excerpt: "Directors at The Chinese Buffet unveiled one BellaBot in each of four restaurants in Liverpool, St Helens, Bolton and Wigan, to serve food to diners in place of humans."
+    publishedDateTime: 2022-01-14T13:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 69
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/14/13/52927541-0-image-a-63_1642165520636.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Thankful Expands To Europe"
     excerpt: "Venice, California-based AI customer service software developer Thankful said today that it is expanding into the European market, via a partnership with Netherlands-based Dixa. According to the companies,"
     publishedDateTime: 2022-01-10T13:59:00Z

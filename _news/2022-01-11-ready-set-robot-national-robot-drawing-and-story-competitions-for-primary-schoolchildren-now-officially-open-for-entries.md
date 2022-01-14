@@ -20,18 +20,41 @@ topics:
 
 related:
   - title: "Serve Robotics Becomes First Autonomous Vehicle Company to Commercially Launch Level 4 Self-Driving Robots"
-    excerpt: "Serve Robotics, the leading autonomous sidewalk delivery company, today announced the deployment of its next-generation delivery robots, becoming the first autonomous vehicle company to complete commercial deliveries at Level 4 autonomy."
-    publishedDateTime: 2022-01-13T14:05:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-serve-robotics-becomes-first-autonomous-vehicle-company-commercially-/2022/01/13/9525910.htm"
+    excerpt: "Serve Robotics, the leading autonomous sidewalk delivery company, today announced the deployment of its next-generation delivery"
+    publishedDateTime: 2022-01-13T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots-301460151.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 136
     images:
-      - url: "https://mma.prnewswire.com/media/1725762/Serve_supervision.jpg"
-        width: 400
-        height: 225
+      - url: "https://mma.prnewswire.com/media/1725764/L4_V1_006_FINAL.mp4?p=medium"
+        width: 512
+        height: 288
+        isCached: true
+  - title: "Pudu Robotics Commercial Service Robots Shine on World Stage at CES 2022"
+    excerpt: "Pudu Robotics, the global leader in commercial service robots, has wrapped up a highly successful showcase at CES 2022, which took place between January 5-7 in Las Vegas, Nevada, United States. In addition to exhibiting its flagship commercial service robots in the global arena,"
+    publishedDateTime: 2022-01-11T14:13:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/pudu-robotics-commercial-service-robots-shine-on-world-stage-at-ces-2022/18049/"
+    type: article
+    provider:
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 33
+  - title: "Self-Driving Robots Achieve Level 4 Autonomy, Will Invade City Sidewalks"
+    excerpt: "Serve Robotics, the Postmates spin-off robot department under Uber's wing, has introduced its next-generation delivery robots capable of operating without human intervention. The fully-autonomous robots have already completed their first delivery,"
+    publishedDateTime: 2022-01-13T18:18:00Z
+    webUrl: "https://www.autoevolution.com/news/self-driving-robots-achieve-level-4-autonomy-will-invade-city-sidewalks-179091.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 23
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/self-driving-robots-achieve-level-4-autonomy-will-invade-city-sidewalks-179091_1.jpg"
+        width: 1072
+        height: 660
         isCached: true
 
 secured: "WMR2xv+KLZsaRKNqUVE+C4MLXJfHjHHyjjyQliZDc+VusXBIRMT8PwgHS4e7J8kL+EEnWxqBnKkS/zPF9et5JedckLMuoPPY9Qh9IRBjCbBW4wReT5K2RwBx8qAYUtu0lfjoakZkM7ryaZFA+/ZUvMDDtpQbVhL4Zn+1dA58Ew/zd8VoHYAsqMykcJHg6qYDecH1Q8KjcdySywcH3pL63fTfI3XX4NMyqUFwHWIMPseQ/crDrd52m94YUYk2HKHheFv8kaeyRGp3g+IbZNZf8bDPuiw9Mdjb3gY53PkRVQ+SwqS3H/17FST98nDDRQI6s1mZNh4bOlwMC2Y7QlWRDp4zD7pz1+Dkkq0B5lIOkTY=;ECjqZKIL2iF+OiiO8XKtQw=="

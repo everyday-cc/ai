@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFDWKeI54GJnQ/article-cover_image-shrink_720_1280/0/1641896379868?e=1647475200&v=beta&t=qDpzz7WUHrYu6gwtBNjgACgFMKz5rOX5BTTD8ySm5nA"
         width: 540
         height: 720
+        isCached: true
+  - title: "Impact of 5G on Artificial intelligence"
+    excerpt: "Now more and more people are learning about artificial intelligence.  5G has conquered the whole world.  However, what is the connection between them?  In this article we will figure"
+    publishedDateTime: 2022-01-14T13:34:00Z
+    webUrl: "https://www.designyourway.net/blog/misc/impact-of-5g-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: designyourway.net
+      domain: designyourway.net
+    quality: 37
+    images:
+      - url: "https://www.designyourway.net/blog/wp-content/uploads/2022/01/5g.jpg"
+        width: 1000
+        height: 395
         isCached: true
 
 secured: "AOOOvVzvSc8iAEU6le6tLceWHSD/dWLiYOca5uuEXjdLHmofAgm4473uw9J9JbS41PQZpxid30Fqq3hxYp8Pu6yW/9x9G1oPoadPvsXec6g3E4S8idyiY3GvWj2l//fACvUFsx9krdInYTZra5dswabhX216D8mHbvZNvDl74hD3E8cTU9H56rodMJLuATEVl82Tl/XELPWwLVfX/le7zTE69fYwUTGy/PCL3Zmn/iF+GvEEojJCF/f+Cs61KBWnEyg40BcFTzHUD2gFzHM8x26+oeYX68Px7Gd2SkVmZngZ6rjmOILwpc//lOhXTHxDfuC899qehCW4hIKDpEjFdkCq2DpsNZPdYTN8oE9qRBc=;Ca8J4waypWcqOhHD7VZsww=="

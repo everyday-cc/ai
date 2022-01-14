@@ -58,15 +58,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Robot tractors may be heading to a farm near you"
-    excerpt: "Driverless plows and autonomous tools to weed vegetable plots are the latest innovations ready to help farmers juggling labor shortages, climate change and environmental protection, while trying to feed a growing world population."
-    publishedDateTime: 2022-01-09T21:31:00Z
-    webUrl: "https://japantoday.com/category/tech/robot-tractors-may-be-heading-to-a-farm-near-you"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
-    quality: 21
 
 secured: "MeL8z+YdpKbUqWgIBESCrwWKrkQ9qxIAQWsRd4TTr9Ul+odoBuKB7Ko1dtueJL//1PZmFHerr5t4r+tZM3cs+bZx8T+kjs0NctPLgtXi5ZsMLML/Impkdm34XCG/xSSWgN8rfm169mzptvbUjUoqKeI4SLz30KerlPx6xUmFKF97Eohx1Y3Yj2rvImZHLnDqywb4nWy/5tNvOB7G6p79WSPOT/65dOGEeq6hBzQU5HVTHMGtSwi3uB335Rdz3vHcwhM7d8Cy5w1BLwYeflbRNp2dW2pQRTDxV+EgdhjOc2MaMhRG11ek0NQCIQ2bxglsA2QsbNso9MNOdrpv0BB/R4Yqhik3gQL5hAcA19908xIN4JHHSzCQ3YlfD4JHcBOqs96i04Wt2yQy+tRsQb/DxdCH0EQpJMhwyWZeB/SnSf2D/g7ARkZMS5X3JVopKxgjI51RZfVsd7ZlogUuSZV+JOWThEOIRAG1i0emkUie33GwHf35m85omE8a53+urFofou/LOsQVElyM3rWby2o65Q==;lhSH+KIlpgHoliCfXzLSAQ=="
 ---

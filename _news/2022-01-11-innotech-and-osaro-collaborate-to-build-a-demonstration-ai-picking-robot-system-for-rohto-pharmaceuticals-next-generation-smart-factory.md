@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "New coalition aims to accelerate responsible AI innovation to transform healthcare"
+    excerpt: "The Artificial Intelligence Industry Innovation Coalition (AI3C) leverages the collective brainpower, experience and expertise of the Brookings Institution, Cleveland Clinic, Duke Health, Intermountain Healthcare,"
+    publishedDateTime: 2022-01-14T00:50:00Z
+    webUrl: "https://medcitynews.com/2022/01/new-coalition-aims-to-accelerate-responsible-ai-innovation-to-transform-healthcare/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 48
+    images:
+      - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
+        width: 788
+        height: 443
+        isCached: true
   - title: "New incubator for AI collaboration"
     excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
     publishedDateTime: 2022-01-10T06:01:00Z
@@ -39,6 +53,20 @@ related:
       - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
         width: 640
         height: 382
+        isCached: true
+  - title: "AI the brains driving broad transformation"
+    excerpt: "AI has become a core driving force for the new round of technological and industrial revolution in China, bringing tremendous changes to the country’s development and people’s lives in many fields, including healthcare,"
+    publishedDateTime: 2022-01-11T10:20:00Z
+    webUrl: "https://www.independent.co.uk/asia/china/china-daily/ai-brains-driving-broad-transformation-b1988601.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2022/01/07/10/AI.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 813
         isCached: true
   - title: "Root Insurance Adds AI to Claims Operations"
     excerpt: "Root will launch the partnership with the AI Subro solution from Tractable. “Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers."
@@ -54,38 +82,10 @@ related:
         width: 777
         height: 518
         isCached: true
-  - title: "AI research collaboration begins"
-    excerpt: "An associate professor in RIT’s College of Liberal Arts was awarded nearly $2 million by the National Science Foundation to lead a team of RIT faculty addressing a lack of diversity in the artificial intelligence research community and gaps in AI curricula."
-    publishedDateTime: 2022-01-13T09:55:00Z
-    webUrl: "https://www.rit.edu/news/ai-research-collaboration-begins"
-    type: article
-    provider:
-      name: Rochester Institute of Technology
-      domain: rit.edu
-    quality: 37
-    images:
-      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2022-01/AI-research-ASW_4898.jpg?itok=9cjuXLTQ"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Penn Collaborative to Test AI, RPM Technologies for Senior, Alzheimer's Care"
-    excerpt: "Researchers from Penn Medicine and the University of Pennsylvania School of Nursing are joining forces on an NIH-funded project to improve care management at home for seniors and people living with Alzheimer's disease."
-    publishedDateTime: 2022-01-11T21:46:00Z
-    webUrl: "https://www.healthleadersmedia.com/innovation/penn-collaborative-test-ai-rpm-technologies-senior-alzheimers-care"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 36
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
-        isCached: true
   - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
     excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
     publishedDateTime: 2022-01-13T16:13:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b"
+    webUrl: "https://apnews.com/press-release/PRNewswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b"
     type: article
     provider:
       name: Associated Press
@@ -96,15 +96,17 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
-    excerpt: "OSARO will take the lead in providing AI software to improve the efficiency of robot operations, and INNOTECH will provide support from demonstration testing to integration of the AI software."
-    publishedDateTime: 2022-01-12T13:52:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2022/01/12/innotech-and-osaro-collaborate-to-build-a-demonstration-ai-picking-robot-system-for-rohto-pharmaceuticals-next-generation-smart-factory/18060/"
+  - title: "$40M Available for Artificial Intelligence and Transformative Technology Innovators to Improve Care and Health Outcomes for Older Americans"
+    excerpt: "America is getting older faster. According to the U.S. Census Bureau, the number of people aged 65 or older in the United States"
+    publishedDateTime: 2022-01-10T12:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/n24968907/40m-available-for-artificial-intelligence-and-transformative-technology-innovators-to-improve-care"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24968907"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24968907"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 3
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
   - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
     excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
     publishedDateTime: 2022-01-13T15:00:00Z

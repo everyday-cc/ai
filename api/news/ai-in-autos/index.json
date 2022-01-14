@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-14-jb-hunt-will-be-waymos-first-self-driving-freight-customer.md",
+      "title": "J.B. Hunt will be Waymo’s first self-driving freight customer",
+      "excerpt": "Waymo Via, the autonomous vehicle company’s trucking and cargo transportation unit, is expanding its existing partnership with logistics company J.B. Hunt Transport Services from a pilot into a long-term strategic alliance.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "originalUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Waymo-Via_JBH.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/j-b-hunt-will-be-waymos-first-self-driving-freight-customer/amp/",
+      "publishedDateTime": "2022-01-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-chinas-robotaxis-charged-ahead-in-2021.md",
+      "title": "China’s robotaxis charged ahead in 2021",
+      "excerpt": "Autonomous driving startups in China are in an arms race to put passengers in their machine-driven vehicles. Every few weeks, news arrives that another major player has got the greenlight to launch a new pilot program or a small-scale service.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
+      "originalUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-696723580.jpg?w=1024",
+          "width": 1024,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/14/2021-robotaxi-china/amp/",
+      "publishedDateTime": "2022-01-14T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-artificial-intelligence-in-security-market-to-see-booming-growth-acalvio-cylance-ibm-micron.md",
       "title": "Artificial Intelligence in Security Market to See Booming Growth | Acalvio, Cylance, IBM, Micron",
       "excerpt": "Advance Market Analytics published a new research publication on Artificial Intelligence in Security Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
@@ -1314,83 +1418,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-automotive-artificial-intelligence-market-forecast-to-2028-global-analysis-by-offering.md",
-      "title": "Automotive Artificial Intelligence Market Forecast to 2028 Global Analysis By Offering",
-      "excerpt": "Automotive artificial intelligence is used for improving the ... Otto Motors (Clearpath Robotics, Tesla, Waymo LLCInc. On January 30, 2020, the International Health Regulations Emergency Committee ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-forecast-to-2028-global-analysis-by-offering",
-      "originalUrl": "https://www.digitaljournal.com/pr/automotive-artificial-intelligence-market-forecast-to-2028-global-analysis-by-offering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/Climate-Change-AFP-1K-e1641821177710-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-self-driving-advances-could-accelerate-in-2022.md",
-      "title": "Self-Driving Advances Could Accelerate in 2022",
-      "excerpt": "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "publishedDateTime": "2022-01-04T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,487 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-12-24-ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures.md",
+      "title": "AI-Powered Seafood Marketplace Startup Raises $40 Million From Tiger Global And Prosus Ventures",
+      "excerpt": "Captain Fresh, an AI-powered seafood marketplace startup in India, has raised $40 million in Series B funding led by Tiger Global and Prosus Ventures, the venture arm of Dutch internet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prosus.com/news/prosus-ventures-and-tiger-global-lead-40m-series-b-investment-in-captain-fresh/",
+      "originalUrl": "https://www.forbes.com/sites/ralphjennings/2021/12/24/ai-powered-seafood-marketplace-startup-raises-40-million-from-tiger-global-and-prosus-ventures/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.presspage.com/uploads/2658/1920_teamcaptainfreshthumbnail.jpg?10000",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-knowing-more-about-democratization-of-ai-and-low-code-no-code-solutions.md",
+      "title": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions",
+      "excerpt": "Knowing More About Democratization Of AI And Low-Code / No-Code Solutions Earlier this year, we predicted that the democratization of AI and Low-Code / No-Code solutions would be two of the top technologies to watch in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
+      "originalUrl": "https://www.linkedin.com/pulse/knowing-more-democratization-ai-low-code-no-code-solutions-mori-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQF2z7vSmxkQMA/article-cover_image-shrink_720_1280/0/1640351317057?e=1646265600&v=beta&t=kORlkc1_7WcMSE7tL63sivW0viNpUQAfNoGb8pfQAZI",
+          "width": 720,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T05:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-natural-language-processing-marketindustry-analysis-insights-future-growth-and-forecast-till-2020.md",
+      "title": "Natural Language Processing Market||Industry Analysis Insights, Future Growth, and Forecast till - 2020",
+      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Dec 24, 2021, 05:27 /Comserve / -- Natural Language Processing Market has prioritized the use of innovative technologies. Many healthcare and life sciences ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1103442093/Natural-Language-Processing-MarketIndustry-Analysis-Insights-Future-Growth-and-Forecast-till-2020",
+      "originalUrl": "https://menafn.com/1103442093/Natural-Language-Processing-MarketIndustry-Analysis-Insights-Future-Growth-and-Forecast-till-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?261716",
+          "width": 352,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-eliminating-artificial-intelligence-bias-is-everyones-job.md",
+      "title": "Eliminating artificial intelligence bias is everyone's job",
+      "excerpt": "A call for more awareness and training behind AI deployments. Not just for developers and data scientists, bur also product managers, executives, marketing managers, and merchandisers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "originalUrl": "https://www.zdnet.com/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1460b5152eaefc84d5de78d1e39527d080c1adc5/2021/12/24/bc4cbcd8-b327-40f7-b832-0a3a799e11a3/img-8571.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/eliminating-artificial-intelligence-bias-is-everyones-job/",
+      "publishedDateTime": "2021-12-24T04:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-baidu-gears-up-for-imminent-metaverse-app-launch.md",
+      "title": "Baidu gears up for imminent metaverse app launch",
+      "excerpt": "Baidu aims to unveil its technological advances and applications in areas like artificial intelligence, intelligent transportation, biocomputing, quantum computing, and autonomous driving.",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/cryptocurrency-news/baidu-gears-up-for-imminent-metaverse-app-launch-2723279",
+      "originalUrl": "https://www.investing.com/news/cryptocurrency-news/baidu-gears-up-for-imminent-metaverse-app-launch-2723279",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/Cryptocurrencies_800x533_L_1535981327.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics.md",
+      "title": "Rajasthan Government Sets Aside Rs 200 Crores To Train Youth In AI, Ml And Robotics",
+      "excerpt": "Rajiv Gandhi Center for Advanced Technology will be set in Jaipur, which would conduct certificate courses and multidisciplinary research in AI, ML, Robotics and Virtual Reality.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
+      "originalUrl": "https://analyticsindiamag.com/rajasthan-government-sets-aside-rs-200-crores-to-train-youth-in-ai-ml-and-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/12/ashok-gehlot-new.jpeg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T02:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-how-india-may-become-an-ai-powerhouse.md",
+      "title": "How India may become an AI powerhouse?",
+      "excerpt": "India should look at AI solutions that cater to Indian regional languages. While cheap data ... The Government’s National Translation Mission which aims to make knowledge texts accessible ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88466210,imgsize-12332,width-1200,height-628,overlay-etcio/how-india-may-become-an-ai-powerhouse.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/how-india-may-become-an-ai-powerhouse/88466210",
+      "publishedDateTime": "2021-12-24T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-global-2274-bn-ai-in-fintech-markets-to-2026.md",
+      "title": "Global $22.74 Bn AI in Fintech Markets to 2026",
+      "excerpt": "The \"Global AI in Fintech Market (2021-2026) by Component, Application, Deployment Mode, Geography, Competitive Analysis and",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24768225/global-22-74-bn-ai-in-fintech-markets-to-2026",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24768225/global-22-74-bn-ai-in-fintech-markets-to-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24768225",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24768225",
+      "publishedDateTime": "2021-12-24T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-top-intelligent-automation-jobs-to-apply-for-in-december-2021.md",
+      "title": "Top Intelligent Automation Jobs to Apply For in December 2021",
+      "excerpt": "A list of top intelligent automation jobs for techie to apply for in December 2021 to receive offer letters from jobs in intelligent automation. Artificial intelligence expertise is needed for automation jobs in December.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/top-intelligent-automation-jobs-to-apply-for-in-december-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Intelligent-Automation-Jobs-to-Apply-For-in-December-2021.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-24T01:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
+      "title": "In Africa, rescuing the languages that Western tech ignores",
+      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don't have enough data for. Computer scientists at Meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
+      "originalUrl": "https://www.detroitnews.com/story/news/world/2021/12/24/africa-rescuing-languages-western-tech-ignores/9013584002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/24/PDTN/c7fad02d-adbe-4204-bd09-9f438ace1084-AP21356747118534.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/9013584002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/9013584002",
+      "publishedDateTime": "2021-12-23T21:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-accenture-partners-with-bbva-on-artificial-intelligence.md",
+      "title": "Accenture Partners With BBVA on Artificial Intelligence",
+      "excerpt": "With this partnership, Accenture will collaborate with BBVA to develop the latter’s agility of operations, by harnessing the power of analytics and artificial intelligence. This will be carried out with Accenture’s AI-powered SynOps platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence",
+      "originalUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/accenture-partners-with-bbva-on-artificial-intelligence?amp",
+      "publishedDateTime": "2021-12-23T21:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-24-use-of-robots-ai-in-defence-applications-rising-official.md",
       "title": "Use of robots, AI in defence applications rising: official",
       "excerpt": "Delivering a lecture at Velammal College of Engineering and Technology, as part of ‘Azadi Ka Amrit Mahotsav’ initiative, on role of DRDO in self-reliance and defence technologies, he said that application of Aritificial Intelligence (AI) and Machine Learning and use of robots was increasing.",
@@ -670,515 +1151,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-these-ecovacs-robot-vacuums-are-45-off-until-midnight.md",
-      "title": "These Ecovacs robot vacuums are 45% off until midnight",
-      "excerpt": "Amazon has what may very well be the final robot vacuum sale of 2021. The online retailer has solid deals on three Ecovacs robot vacuums. These deals won’t arrive before Christmas, but they should get there before the New Year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/561869/today-only-get-a-good-deal-on-these-ecovacs-robot-vacuums.html",
-      "originalUrl": "https://www.pcworld.com/article/561869/today-only-get-a-good-deal-on-these-ecovacs-robot-vacuums.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2021/12/DeebotVac.png?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T05:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-this-ai-powered-art-app-lets-you-paint-pictures-with-words.md",
-      "title": "This AI-powered art app lets you paint pictures with words",
-      "excerpt": "The reality-bending powers of AI have been kept increasingly busy over the past decade. We’ve had computer vision-powered 3D dioramas; trend-setting style-transfer; viral photorealistic selfie-tuning,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/23/wombo-dream-app/",
-      "originalUrl": "https://techcrunch.com/2021/12/23/wombo-dream-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/IMG_6269.png?w=748",
-          "width": 748,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/23/wombo-dream-app/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/23/wombo-dream-app/amp/",
-      "publishedDateTime": "2021-12-23T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-4-internet-of-medical-things-iomt-stocks-to-buy-for-2022.md",
-      "title": "4 Internet of Medical Things (IoMT) Stocks to Buy for 2022",
-      "excerpt": "The Internet of Medical Things (IoMT) is swiftly gaining pace as healthcare companies are looking for ways to innovate and keep up with technology to help patients and physicians better monitor and track diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022",
-      "originalUrl": "https://www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-internet-of-medical-things-iomt-stocks-to-buy-for-2022?amp",
-      "publishedDateTime": "2021-12-23T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-in-africa-rescuing-the-languages-that-western-tech-ignores.md",
-      "title": "In Africa, rescuing the languages that Western tech ignores",
-      "excerpt": "More mundane translation glitches have been turned ... to improve technology for so-called “low-resource” languages that AI systems don’t have enough data for. Computer scientists at Meta ...",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
-      "originalUrl": "https://wtop.com/national/2021/12/in-africa-rescuing-the-languages-that-western-tech-ignores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2021/12/AI_Translating_for_Africa_18534-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-the-last-major-obstacle-to-cracking-the-code-on-self-driving-cars.md",
-      "title": "The last major obstacle to cracking the code on self-driving cars",
-      "excerpt": "The Intel-backed startup wants to use its position as the world's biggest seller of driver assistance systems to map every road on earth and develop a safer, more reliable self-driving car.",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/",
-      "originalUrl": "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2021/12/2021-07-20T192606Z_1895303704_RC2IOO9L1187_RTRMADP_3_MOBILEYE-AUTONOMOUS-e1639523528196.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/2102482/mobileye-says-mapping-every-road-is-the-key-to-self-driving-cars/amp/",
-      "publishedDateTime": "2021-12-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-pope-demands-humility-in-new-zinger-filled-christmas-speech.md",
-      "title": "Pope demands humility in new zinger-filled Christmas speech",
-      "excerpt": "Pope Francis urged Vatican cardinals, bishops and bureaucrats Thursday to embrace humility this Christmas season, saying their pride, self-interest and the “glitter of our armor” was perverting their spiritual lives and corrupting the church’s mission.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/a04d3c12674a14127f8efbdaafd3ae97",
-      "originalUrl": "https://apnews.com/a04d3c12674a14127f8efbdaafd3ae97",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/afs-prod/media/612fc5f2c40e4f09a913cf25f2e24774/3000.jpeg",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T03:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-public-streets-are-the-lab-for-self-driving-experiments.md",
-      "title": "Public Streets Are the Lab for Self-Driving Experiments",
-      "excerpt": "When the U.S. ordered companies to report accidents involving driver-assistance tech, Tesla was thought to be the motivation. But 108 companies were listed, showing how widespread the testing may be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/23/multimedia/23wheels/23wheels-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/23/business/tesla-self-driving-regulations.amp.html",
-      "publishedDateTime": "2021-12-23T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-this-material-learns-like-animals-and-could-help-further-ai-research.md",
-      "title": "This material ‘learns’ like animals, and could help further AI research",
-      "excerpt": "Nickel oxide demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/this-material-learns-like-animals-further-ai-research-syndication",
-      "originalUrl": "https://thenextweb.com/news/this-material-learns-like-animals-further-ai-research-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FUntitled-design-9-1.jpg&signature=c0f5f57ae9c7b56ea3a15f5ec59cc554",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-23T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-fintech-startup-khatabook-aims-to-double-employee-base-in-2022.md",
-      "title": "Fintech startup Khatabook aims to double employee base in 2022",
-      "excerpt": "Fintech startup Khatabook on Thursday announced that it is planning to double its employee base in 2022. The company said that it will continue to strengthen its talent base in 2022 by accelerating hiring across engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "originalUrl": "https://www.freepressjournal.in/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/freepressjournal/2021-10/30daa46c-42a1-4418-b22a-2ef888f0f1d8/startups.PNG?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1199,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/fintech-startup-khatabook-aims-to-double-employee-base-in-2022",
-      "publishedDateTime": "2021-12-23T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-artificial-intelligence-can-help-avoid-power-outages-heres-how-opinion.md",
-      "title": "Artificial intelligence can help avoid power outages. Here's how. | Opinion",
-      "excerpt": "Personal preparation is obviously important — such as making sure your car tires are in good shape, having a backup home heat source, and knowing where the flashlight is in case the power goes out. But there are also actions that can be taken at a larger scale to be better prepared;",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailyjournal.com/story/opinion/2021/12/23/artificial-intelligence-can-help-avoid-power-outages-heres-how/9001511002/",
-      "originalUrl": "https://www.thedailyjournal.com/story/opinion/2021/12/23/artificial-intelligence-can-help-avoid-power-outages-heres-how/9001511002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/09/22/PNJM/3fe38d84-e1a4-45bb-a705-7cbb713b6494-milida2.jpg?auto=webp&crop=4031,2267,x0,y62&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.thedailyjournal.com/amp/9001511002",
-      "cdnAmpWebUrl": "https://amp-thedailyjournal-com.cdn.ampproject.org/c/s/amp.thedailyjournal.com/amp/9001511002",
-      "publishedDateTime": "2021-12-23T01:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Journal",
-        "domain": "thedailyjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk.md",
-      "title": "Banks Seek AI Platforms-as-a-Service Amid Ever-Increasing Risk",
-      "excerpt": "Sudhir Jha of Brighterion explains that artificial intelligence can help prevent fraud. To get the maximum benefit, enterprises should embrace “AI-as-a-service.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
-      "originalUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/artificial-intelligence/2021/banks-seek-ai-platforms-as-a-service-amid-ever-increasing-risk/amp/",
-      "publishedDateTime": "2021-12-23T01:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

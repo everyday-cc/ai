@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-14-amazon-fixes-security-flaw-in-aws-glue-service.md",
+      "title": "Amazon fixes security flaw in AWS Glue service",
+      "excerpt": "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
+      "publishedDateTime": "2022-01-14T05:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges.md",
       "title": "Graph-based recommendation system with Neptune ML: An illustration on social network link prediction challenges",
       "excerpt": "Recommendation systems are one of the most widely adopted machine learning (ML) technologies in real-world applications, ranging from social networks to ecommerce platforms. Users of many online systems rely on recommendation systems to make new friendships, discover new music according to suggested",
@@ -1423,50 +1477,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-18-massrobotics-and-aws-robotics-join-forces-new-savioke-relay.md",
-      "title": "MassRobotics and AWS Robotics join forces; New Savioke Relay+",
-      "excerpt": "Steve and Mike interview Fady Saad from MassRobotics and Eric Anderson from AWS about the new AWS Robotics Accelerator program.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/massrobotics-and-aws-robotics-join-forces-new-savioke-relay/",
-      "originalUrl": "https://www.therobotreport.com/massrobotics-and-aws-robotics-join-forces-new-savioke-relay/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2021/12/AWS-roborunner-featured-web.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

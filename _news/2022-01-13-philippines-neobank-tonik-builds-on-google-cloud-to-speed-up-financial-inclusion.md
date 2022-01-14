@@ -9,8 +9,8 @@ ampWebUrl: "https://techwireasia.com/amp/2022/01/philippines-neobank-tonik-build
 cdnAmpWebUrl: "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: techwireasia.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tonik builds on Google Cloud to accelerate financial inclusion and open banking innovation in PHL"
+    excerpt: "Neobank to reimagine and provide financial services that were once out of reach to millions of Filipinos, especially those living in rural areas"
+    publishedDateTime: 2022-01-12T14:18:00Z
+    webUrl: "https://businessmirror.com.ph/2022/01/12/tonik-builds-on-google-cloud-to-accelerate-financial-inclusion-and-open-banking-innovation-in-phl/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 26
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/BusinessMirror-BM-lettermark.jpg"
+        width: 1400
+        height: 799
+        isCached: true
   - title: "Tonik improves financial inclusion through Google Cloud partnership"
     excerpt: "Singapore-based digital bank, <a href=' target='_blank'>Tonik, has tapped <a href=' target='_blank'>Google Cloud’s platform to improve financial inclusion for all"
     publishedDateTime: 2022-01-12T10:57:00Z

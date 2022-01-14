@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -87,6 +87,15 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "MobiDev Listed Top 6 Healthcare Technology Trends in 2022"
+    excerpt: "MobiDev experts listed the most important healthcare technology trends that impact the industry in 2022. Trend 1 Artificial Intelligence in Healthcare In the healthcare industry, machine learning is extremely helpful for the development of new ..."
+    publishedDateTime: 2022-01-14T13:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mobidev-listed-top-6-healthcare-technology-trends-2022-/2022/01/14/9526630.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "CXPQla4YuySB0+4jryg4cgDHdU5YlBNjmIU0DiubZ97GwZ7SY7Z/pzsDnYg3gWCsRKn5vZ7hIj7ZEaTQCRRSLbFftkdtF27vj7hFz6eL1jGuOhrokI5WnN/b8pTnmq62GDMAzFgs3T9PMDoPS0y8Xp5X6eoZzvWrhA16231M7l7eOmwZaged4yjUJ2huI/CcniKrZveirHH3zwzljm5e0paa+2y4gWKMUuQhfMRzXVPjByGewb2fwr9S3aGRcBtXa2aecLfRPdaTG6reHoWlOPPN6BQ0H5mPIYMmYodwVeJoqmPJI89nBLd+sZUYjTtvCggEqSSd9QSGmiKQ6TJDKNJ/xR+6sx1kQHGx0Dz9QU8=;f/ldYOHUilZ7Bz80/dWM0A=="
 ---

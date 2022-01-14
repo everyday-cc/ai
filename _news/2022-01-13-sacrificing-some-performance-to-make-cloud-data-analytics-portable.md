@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Net4 launches video analytics powered by AWS Wavelength"
+    excerpt: "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,"
+    publishedDateTime: 2022-01-13T12:02:00Z
+    webUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html?ref=nav"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 59
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/identity-and-access-management-key-to-how-companies-secure-assets-in-2022-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics: Report"
     excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022. With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI,"
     publishedDateTime: 2022-01-10T14:14:00Z

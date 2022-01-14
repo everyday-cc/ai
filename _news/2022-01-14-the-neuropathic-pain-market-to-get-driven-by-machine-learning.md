@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2526894/the-neuropathic-pain-market-to-ge
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

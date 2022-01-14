@@ -2,6 +2,155 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-02-artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026.md",
+      "title": "Artificial Intelligence Chipsets Market Size | Opportunity Analysis Report by 2026",
+      "excerpt": "Artificial Intelligence Chipsets Market size is set to surpass USD 70 billion by 2026, according to a new research report by Global Market Insights, Inc. The Artificial Intelligence Chipsets (AI) Market growth is ascribed to massive growth of e-commerce as well as social media platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-opportunity-analysis-report-by-2026-2021-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T19:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-7-eleven-to-pilot-delivery-via-robotics-powered-vehicles.md",
+      "title": "7-Eleven to pilot delivery via robotics-powered vehicles",
+      "excerpt": "Convenience store giant 7-Eleven plans to test online order delivery in California using Nuro autonomous vehicles. Irving, Texas-based 7-Eleven said Wednesday said the pilot in Mountain View, Calif.,",
+      "sourceUrl": null,
+      "webUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
+      "originalUrl": "https://www.supermarketnews.com/online-retail/7-eleven-pilot-delivery-robotics-powered-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supermarketnews.com/sites/supermarketnews.com/files/7Eleven-Nuro%20autonomous%20vehicle%20delivery.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T11:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supermarket News",
+        "domain": "supermarketnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy.md",
+      "title": "4 AI trends for 2022: Neural networks, strategic ethics, better hiring and gastronomy",
+      "excerpt": "In 2022, we can expect AI to expand its reach into robotic automation, better software for decision-making and a confrontation of the looming ethical issues, according to Sony experts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
+      "originalUrl": "https://www.techrepublic.com/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/06/02/b1bed642-5c3b-45a0-83b4-6f3308cf3795/resize/1200x/5a1638d5619f9c86f3ccb120f4785b3b/server-robot.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/4-ai-trends-for-2022-neural-networks-strategic-ethics-better-hiring-and-gastronomy/",
+      "publishedDateTime": "2021-12-01T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-adt-commercial-introduces-humanoid-robotics-to-security-industry.md",
       "title": "ADT Commercial introduces humanoid robotics to security industry",
       "excerpt": "DALLAS—ADT Commercial prides itself on delivering innovative commercial security, fire, life safety and risk consulting solutions for its customer base throughout the United States. That focus on",
@@ -1267,144 +1416,6 @@
       "provider": {
         "name": "The Island Now",
         "domain": "theislandnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-forget-roomba-this-advanced-samsung-robot-vacuum-is-350-off-for-black-friday.md",
-      "title": "Forget Roomba: This advanced Samsung Robot Vacuum is $350 OFF for Black Friday",
-      "excerpt": "This Samsung Robot Vacuum Black Friday deal is one of the smartest vacuums available today, with intelligence that help keep your floors clean.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
-      "originalUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/dtdeals/samsung-jet-bot-ai-robot-vacuum-with-intelligent-power-control-black-friday-2021/?amp",
-      "publishedDateTime": "2021-11-24T09:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-robotic-solution-to-aid-nuclear-decommissioning.md",
-      "title": "Robotic solution to aid nuclear decommissioning",
-      "excerpt": "An EPSRC-funded project led by Sussex University aims to develop a robotic solution to address nuclear decommissioning challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
-      "originalUrl": "https://www.theengineer.co.uk/robotic-solution-to-aid-nuclear-decommissioning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://theengineer.markallengroup.com/production/2021/11/shutterstock_1567223413.jpg",
-          "width": 940,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-24T00:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Engineer",
-        "domain": "theengineer.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-24-covid-19-impact-on-professional-service-robots-market-to-witness-impressive-growth-during-2020-2025.md",
-      "title": "Covid-19 Impact on Professional Service Robots Market to Witness Impressive Growth During 2020-2025",
-      "excerpt": "keeping in mind the interest of all the stakeholders across the value chain. Following are the ways in which the market is segmented. Professional Service Robots Market Size, Share, & Forecast ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2472475/covid-19-impact-on-professional-service-robots-market",
-      "originalUrl": "https://www.openpr.com/news/2472475/covid-19-impact-on-professional-service-robots-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/b/Ub24791230_g.jpg",
-          "width": 800,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2472475/covid-19-impact-on-professional-service-robots-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2472475/covid-19-impact-on-professional-service-robots-market",
-      "publishedDateTime": "2021-11-23T23:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robot
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests"
 type: article
 quality: 158
-heat: 178
+heat: 188
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese restaurant chain is forced to use ROBOT waiters during the Covid pandemic"
+    excerpt: "Directors at The Chinese Buffet unveiled one BellaBot in each of four restaurants in Liverpool, St Helens, Bolton and Wigan, to serve food to diners in place of humans."
+    publishedDateTime: 2022-01-14T13:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 69
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/14/13/52927541-0-image-a-63_1642165520636.jpg"
+        width: 636
+        height: 382
+        isCached: true
   - title: "Making the Netherlands safer with artificial intelligence"
     excerpt: "The use of artificial intelligence continues to play a supporting role within the police force. Although this might sound less exciting, artificial intelligence does create a lot of opportunities. Take the officers on the street,"
     publishedDateTime: 2022-01-12T12:13:00Z

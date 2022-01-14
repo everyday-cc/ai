@@ -83,6 +83,15 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "MobiDev Listed Top 6 Healthcare Technology Trends in 2022"
+    excerpt: "MobiDev experts listed the most important healthcare technology trends that impact the industry in 2022. Trend 1 Artificial Intelligence in Healthcare In the healthcare industry, machine learning is extremely helpful for the development of new ..."
+    publishedDateTime: 2022-01-14T13:48:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-mobidev-listed-top-6-healthcare-technology-trends-2022-/2022/01/14/9526630.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
 
 secured: "M+O/4XoeHu2bj8GV8dnDiCR/ajy6RIu5GCGUfhzgWVRHVJdSmmhg7oqnRLep8lupOmodnt9PO4+ACuCRb7zXbQoV4t+8fPpR59cIscdz4ngdR0ynPphit4OsJ1E5noOOM9Y9kHZdnk/sfYIholZSBK/99266DXau/YxkM9mOEIIX3NmOMfT3pRXZolRKf9wXXW8H0cYUFDBfcNdeCku6jpRdfpeDdfylzZuv349n6W0Ij3dlldQAEPAJU92EMMwZpwY3PlltwoCzqHEaQQmdUnoHKm/bFEUnmdga60D5cWxofOa4g5RDBjUNWf7ZpKlgdxhIHynZgUvQxzbMffAC0zdvGtbkPfE7Ze55yJqaak0=;OXPv14R0ctmw+DLveRlIqQ=="
 ---

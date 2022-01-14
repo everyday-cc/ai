@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for IT Operations Platform Market | Deep Research Study with Forecast to 2030"
-    excerpt: "Research is a leader in developing well-researched reports. The expertise of the researchers at TMR Research makes the report stand out from"
-    publishedDateTime: 2022-01-14T10:41:00Z
-    webUrl: "https://menafn.com/1103539242/Artificial-Intelligence-for-IT-Operations-Platform-Market-Deep-Research-Study-with-Forecast-to-2030"
+  - title: "AI research collaboration begins"
+    excerpt: "An associate professor in RIT’s College of Liberal Arts was awarded nearly $2 million by the National Science Foundation to lead a team of RIT faculty addressing a lack of diversity in the artificial intelligence research community and gaps in AI curricula."
+    publishedDateTime: 2022-01-13T09:55:00Z
+    webUrl: "https://www.rit.edu/news/ai-research-collaboration-begins"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 24
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?667153"
-        width: 318
-        height: 250
+      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2022-01/AI-research-ASW_4898.jpg?itok=9cjuXLTQ"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "+GPMF9ainU/aw4fIereScQb/JOu6aoRHZNQItM2y0xOvFTYDzOYTKgBL9BxBH0dV0/BHgnCdc26WYKXjQGK4Aq0chsM9oEgyNUQrKBg4YxKEDXtto3r2vPRJh3J6EjhE0ilJCcjJ/UzSQyFZcN6rEBc8idLPSDZQAoWzwoes2A8s7McSB7v69O1qwNHxrBpktGInNQc8DhzCHip0IiMfeXoenzSY+cp00W38428aOiKXmbex+nw+VW6nzslY3RENeaURR8/w/Fq6BCkGyryDR5EbPLRolYM+7Gc6n+a/F1Kyi+/9J1GunSeRz1u1eyEcA6gqIcUV1cJWDd14C58bN2hhMAqQuJ+J4iV88wuZG68=;D5xxF1SrHAAPkN72r4x8+Q=="

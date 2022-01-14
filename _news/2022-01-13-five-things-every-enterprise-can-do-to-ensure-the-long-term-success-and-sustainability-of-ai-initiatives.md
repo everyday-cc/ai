@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/amp/"
 type: article
 quality: 72
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -31,29 +31,52 @@ images:
     isCached: true
 
 related:
-  - title: "Retail Industry Reshapes with Hybrid Cloud and AI to Help Meet Shifting Consumer Shopping and Sustainability Preferences"
-    excerpt: "Institute for Business Value, in association with the National Retail Federation, the world's largest retail trade association, released their second global study*, \" Consumers want it all ,\" which reveals rising consumer preferences for sustainability and shopping journeys splintered across multiple digital,"
-    publishedDateTime: 2022-01-13T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/retail-industry-reshapes-with-hybrid-cloud-and-ai-to-help-meet-shifting-consumer-shopping-and-sustainability-preferences-1031100016"
+  - title: "IBM Acquires Envizi to Help Organizations Accelerate Sustainability Initiatives and Achieve Environmental Goals"
+    excerpt: "This acquisition builds ... most comprehensive AI software to help them accelerate their sustainability initiatives and support their environmental goals, IBM is also using its software to improve ..."
+    publishedDateTime: 2022-01-11T15:29:00Z
+    webUrl: "https://newsroom.ibm.com/2022-01-11-IBM-Acquires-Envizi-to-Help-Organizations-Accelerate-Sustainability-Initiatives-and-Achieve-Environmental-Goals?lnk=ushpv18nf1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 147
     images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-        width: 400
-        height: 209
+      - url: "https://newsroom.ibm.com/image/Largo+Announcement_Social_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Misuse of Buzzwords Like Artificial Intelligence and Internet of Things to Dodge Liability"
-    excerpt: "Terms like \"Artificial Intelligence\" have long been used and misused to justify wrong \"moderation\" and various accidents (such as 'driverless' [sic] cars), but we can help European officials see through the façade and hold reckless companies accountable,"
-    publishedDateTime: 2022-01-11T00:47:00Z
-    webUrl: "https://techrights.org/2022/01/11/artificial-intelligence-liability/"
+  - title: "IBM looks to sustainability with acquisition of emissions data company Envizi"
+    excerpt: "Perhaps IBM has decided the Watson brand has lost some of its shine over the years and has moved on from attaching the name to every AI-driven solution in the company. The company notes that it is ..."
+    publishedDateTime: 2022-01-11T17:49:00Z
+    webUrl: "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/"
+    ampWebUrl: "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/"
     type: article
     provider:
-      name: techrights.org
-      domain: techrights.org
-    quality: 9
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 86
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1234056550.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "IBM deals again, this time acquiring Australian firm in sustainability solutions move"
+    excerpt: "In a move to bolster its sustainability business, IBM has acquired Australia-based Envizi, a provider of data and analytics software focused on environmental performance management. Interestingly, IBM already was using Envizi as part of a growing portfolio of offerings dealing with supply chains,"
+    publishedDateTime: 2022-01-11T16:02:00Z
+    webUrl: "https://wraltechwire.com/2022/01/11/ibm-deals-again-this-time-acquiring-australian-firm-in-sustainability-solutions-move/"
+    ampWebUrl: "https://wraltechwire.com/2022/01/11/ibm-deals-again-this-time-acquiring-australian-firm-in-sustainability-solutions-move/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/01/11/ibm-deals-again-this-time-acquiring-australian-firm-in-sustainability-solutions-move/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 52
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
 
 secured: "YF3Z78xwvt2OfRABeQaYL9kN2KbkZNWATdEIqG8LjfgjQfL9qR5WVQfOOrm77QP3GbzQXiMJ56/V/UT6RIWakVwySycNTL0uadR693e9scjURDfsXzLPHL0xI1fW/4huoQw1piOjfx0/FHYGDZeF0kNe9bnDwt1VkD9vSJGOS6jM8mNDUL/61mYQPi1eN32yOMvdGxsvcblQOsv3ymbtMqjGaL2r08d84/6J/mK+5tJFyOEocPMKAQmWXGJwncsBzlxSD8WfLEqDQEgDNyO5TGuckNcYVocqjYqBisE9LmNy0V0rzWARjVYGt4SzgKzz5/RhALU15NhL4K/YbT770ElYeW5qbmXNZ3VtmRKL4Zk=;47/cexrrn9AOYaXfW93Jdw=="
 ---

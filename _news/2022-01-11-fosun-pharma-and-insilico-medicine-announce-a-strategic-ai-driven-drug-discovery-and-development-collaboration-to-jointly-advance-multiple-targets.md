@@ -24,6 +24,17 @@ images:
     height: 664
     isCached: true
 
+related:
+  - title: "Fosun Pharma and Insilico Medicine Partner on Drug Discovery and Development Using Artificial Intelligence"
+    excerpt: "Fosun Pharma and Insilico Medicine will collaborate on AI-driven drug discovery and development of product candidates targeting multiple disease targets."
+    publishedDateTime: 2022-01-14T14:43:00Z
+    webUrl: "https://www.pharmtech.com/view/fosun-pharma-and-insilico-medicine-partner-on-drug-discovery-and-development-using-artificial-intelligence"
+    type: article
+    provider:
+      name: PharmTech
+      domain: pharmtech.com
+    quality: 0
+
 secured: "PEcljcfm2KJmwNhufH304A7ldrMG+G8tOO2z5OlNHep0hCiDXaaiGNw45nM/8ukfYBoQI2hd59FNltScEprYeSM+pjuUwfmvEFjb979DFWXIlYqvEqAsDCtkJ5yyGgspA2SLWMLC1FECOzAeN+NMvLvZ15qubJClruL+9zllE40GmMmU1kk2+c3kn9PMe/KflhRDIeAhKoReVVedP9+r2wxhKHTF6azYjuTm8TUG/3ItHXCQa5QWqpZCqR8HbseqysQzcTkzYrtxJT2F37OJebO/sFi5fQKNQ7JijiuFbsjoV8HECSJT0m6JJtDJCTEQ2OPqKmXN2Ggwn3UZVBJLSrjVeJikO+rpQKZdeb7h4/+3Pt4Rydxbroz58I8UlyascvqdVCpv+F9+RPTjT3Ffnv7esmkFrlxi1e7nD24ZdOeNsIxNCFb8yW0KNapLasQAt6CvqBWJSuLJqe9DjQSEmTWQUDxFM6z4JXc3xpt4dfSywIIMKR3eEUYUM24EaHGBb2pnJjd/CdEinXZLFPmyOQ==;TIB87WeQLPY9Jgb0WCmkDw=="
 ---
 
