@@ -49,7 +49,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/jp-valery-lvfoii3sjq8-unsplash_2.jpg"
         width: 1024

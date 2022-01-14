@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 978
         isCached: true
-  - title: "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers"
-    excerpt: "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training."
-    publishedDateTime: 2022-01-09T17:51:00Z
-    webUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/"
-    ampWebUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
-    cdnAmpWebUrl: "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
-    type: article
-    provider:
-      name: The Constructor
-      domain: theconstructor.org
-    quality: 52
-    images:
-      - url: "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
 
 secured: "72LV4xO5SvjkCEK07WCoLrztgwR6C/Zkb72XlKjDVypYssc0gKE8dV+6lSprKNYQy4NMpRfx5ZdTTi8vDh7B34/+fdlFdTY2ESEAOPnfijEsjjZAWn7Mxh9dthrYHE/H3QuQwS57Ks+FncYW/PeItaStQ1pwxUZVhiggLnyzD3Zt04isf+Iz/DRbrWXw2NchlTzEzIaFcP++ufoAl5HQkj/wu5c0qh8sIIPAMgWJn9mqCuEInT6Kgz2LX1Cpa8MIKuvA7RMWy1IxgCbGW9QtHGVACmFroGIGLXnPCyaJzlPaet3ew+iX9Qou411A6E/SRo6702hxmhW0+Rq3kEsCJB3G7pylNAuRzFOCuENku5nzcLzuYMWDm54Wb1Ov1JnsUYrpUzc4inb+Cud9ttQyvRcy4lk1I3yj+bndju7Dh8jpK+FeslB8S8LbUln1+GepJIKit2YJYeE00mRUypcJGC/L1qys6PyGm1zmiCJh1rsYpRJesNPHb+JeflabOmeD2y+54dz6lkbqVrZzVaHt1w==;k4Rg8fBtseWJbEYBninFnw=="
 ---

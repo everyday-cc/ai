@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Construction Industry: An Innovative Way to Assist Workers"
-    excerpt: "Artificial intelligence is a technology that can develop intelligent models in order to assist workers with on-site safety and training."
-    publishedDateTime: 2022-01-09T17:51:00Z
-    webUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/"
-    ampWebUrl: "https://theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
-    cdnAmpWebUrl: "https://theconstructor-org.cdn.ampproject.org/c/s/theconstructor.org/artificial-intelligence/ai-construction-assist-workers/560732/?amp=1"
-    type: article
-    provider:
-      name: The Constructor
-      domain: theconstructor.org
-    quality: 52
-    images:
-      - url: "https://theconstructor.org/wp-content/uploads/2022/01/ai.jpg"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "How the AI-Enabled Worker Will Deliver Better Government in 2022"
     excerpt: "Looking to 2022 and beyond, we believe this is only the start, and we foresee even more uses for AI in the public sector, as more government institutions find practical applications of AI that ease rote work and deliver better outcomes for the public at large."
     publishedDateTime: 2022-01-13T14:00:00Z

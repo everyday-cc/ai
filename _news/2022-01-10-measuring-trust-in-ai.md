@@ -36,6 +36,22 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 134
+  - title: "Can new UK Hub shape global AI standards?"
+    excerpt: "Can Brexit Britain really influence and hold its own on AI standards, when the US tech giants have their own agenda? Hot on the heels of the UK's National AI Strategy - launched in September last year - comes the AI Standards Hub,"
+    publishedDateTime: 2022-01-14T09:11:00Z
+    webUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards"
+    ampWebUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
+        width: 640
+        height: 384
+        isCached: true
   - title: "DCMS initiative to set standards for AI"
     excerpt: "The Alan Turing Institute, supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government"
     publishedDateTime: 2022-01-12T11:08:00Z

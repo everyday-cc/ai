@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
       name: publicnow.com
       domain: publicnow.com
     quality: 34
+  - title: "Moment AI: Automotive safety startup builds AI for self-driving cars"
+    excerpt: "Moment AI develops a software for the autonomous vehicle industry to protect vulnerable drivers from accidents — and now see why this Arlington company is one of our Startups to Watch for 2022."
+    publishedDateTime: 2022-01-14T09:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2022/01/14/startups-to-watch-moment-ai-self-driving-car-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "XHo4cO9aFK37TUS217l8cNqbvYpl79BQYE0TCf0Yg7MMkjNOrBy8eJS0SWvSLeYk3BvQZFXoSIBExfmlHoD/0X0mGBIDviRRwiGGR3recsKT6fL+FNjNAMaCAcZKjOSdfzqLyiCgrfk6UMPPtV9SPp61H7syqXcOczzfhQHMa08oiMBReMytvasmNGmYFR+17+DP8rDAt3nN927IebittrvbyZ347YOvLuwzZsIL+/I6Zvi1n9XAGC11cnnU7aFTLYr+4lOeEyBSAbskCbhl1tY6ZHUu64KTDJWgIHm1oS/N1TDvKvjPQtxRU2rASaxLPsNPiMxLoxbM/N76u5F5UlFumBpD57dLIkAeFC9dKCPzScqUDUsPdK4L6ZppEEwSgcVyOxZun7ytdebqQOrPnvTRlHgApLB9dJ4SjiFH3Smlu+4F5+2KAxzGxwMff5yyVj8LtWAo1nFDixxJgEceQoQNZp3bqvpNIfS+pW6T5ugNBUte0PUDwT9b4HA81l1S1EUAQU8W349fvbDhixAe9A==;fRVR2tONe0DJsuepz5dINQ=="
 ---

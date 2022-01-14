@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/news/252511914/Government-backs-Turin
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1"
 type: article
 quality: 134
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -20,6 +20,22 @@ topics:
   - AI
 
 related:
+  - title: "Can new UK Hub shape global AI standards?"
+    excerpt: "Can Brexit Britain really influence and hold its own on AI standards, when the US tech giants have their own agenda? Hot on the heels of the UK's National AI Strategy - launched in September last year - comes the AI Standards Hub,"
+    publishedDateTime: 2022-01-14T09:11:00Z
+    webUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards"
+    ampWebUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
+        width: 640
+        height: 384
+        isCached: true
   - title: "Measuring trust in AI"
     excerpt: "Prompted by the increasing prominence of artificial intelligence (AI) in society, University of Tokyo researchers investigated public attitudes toward the ethics of AI. Their findings quantify how different demographics and ethical scenarios affect these attitudes."
     publishedDateTime: 2022-01-10T15:16:00Z

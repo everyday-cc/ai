@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/Articles/India/20220113/3892164.
 webUrl: "https://news.webindia123.com/news/Articles/India/20220113/3892164.html"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Private Schools In Uttar Pradesh To Lose Recognition In Case Of RTE Violations: Report"
+    excerpt: "The Department of Basic Education has decided to begin the process of revoking recognition from schools that do not comply to the rules set by the RTE Act, as per report."
+    publishedDateTime: 2022-01-14T10:06:00Z
+    webUrl: "https://www.ndtv.com/education/private-schools-in-uttar-pradesh-lose-recognition-in-case-of-rte-violations-report"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 16
+    images:
+      - url: "https://cache.careers360.mobi/media/article_images/2022/1/14/shutterstock_339103472.jpg"
+        width: 860
+        height: 430
+        isCached: true
 
 secured: "cHEoZbXXZaZ3RBU5YqDaBASpt2AHYo2OTHxbZc1doOiVQXQqw79HTSbV+iKryjPlfYMi9k699tG6sMemU9WqhKVLdE9cTfi8SfPo8b+m7+MPAwV+P+gWpjQRq5b0ePwRDZf63j/ZJc77kbHrWbZ3Wu7FJcoHhBavb8VJ7SXvwnZjlW8dNh4f+6wVtVkz5I/BBRRKuxRm5/KGexfw1E5cFgWLI9uAgGxTH15tpMf4yUOwPgPbmw+gg69hJwVa50bIrV9MY1ILTEH/3/NOkDngSrqzE4Q+TSz4i5aU9TrAhAw/gsJgmyFz50hL025iwm2Lau/xDlxJPFNRUZ5l/0sS4qHBHIhgGMm/V6r6tK2QuAk=;S21Pt8SlqU2L3ICYLsLk7Q=="
 ---
