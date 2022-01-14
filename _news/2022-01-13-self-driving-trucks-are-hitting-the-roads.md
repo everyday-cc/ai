@@ -59,17 +59,6 @@ related:
         width: 1200
         height: 562
         isCached: true
-  - title: "Robot Trucks Get U.S. Tests, Raising Self-Driving Safety Stakes"
-    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
-    publishedDateTime: 2022-01-09T14:30:00Z
-    webUrl: "https://www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162"
-    ampWebUrl: "https://www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162.amp.html"
-    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes-1.1705162.amp.html"
-    type: article
-    provider:
-      name: bnnbloomberg
-      domain: bnnbloomberg.ca
-    quality: 56
   - title: "Robot trucks get US tests, raising self-driving safety stakes"
     excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
     publishedDateTime: 2022-01-10T01:04:00Z
@@ -83,20 +72,6 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/01/09/1437655.jpg"
         width: 1240
         height: 827
-        isCached: true
-  - title: "Can a Self-Driving 40-Ton Truck Be Safe? Developers Say Yes"
-    excerpt: "Shipping companies and software developers are experimenting with self-driving trucks as a way to solve a driver shortage worsened by the Covid-19 pandemic, drawing fire from safety advocates who call the technology a risk to motorists."
-    publishedDateTime: 2022-01-09T13:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-01-09/robot-trucks-get-u-s-tests-raising-self-driving-safety-stakes"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBygXLUj_8n4/v0/1200x801.jpg"
-        width: 1200
-        height: 801
         isCached: true
 
 secured: "t2hju/id9PKPtMihPg9lhomhz+LpiMrqyUTE7CN+Ig6yZzKOHTQ7qBfo5JWKalj7Y1q/SuFDKCODK1b4/SBab3+WOeeAI0Wl2UgaOOBIYbniFtJDjifdzwbUIeW3U+h6F00b++FCEOfBkKmIs9nab6qIUKAEfo9c7FhPkesSC4KKzG3FFiVaLW4mqg7MGYjyxi/pX3m5OnGYx8WN1XFXFx03dpKxIaJ5WRQPLLczYS+XS45edDAp/7+Ev9yqQ6+n+LII4LI+7V8ikw3tlQSaYsa2/rwbrNxtGmcrnW0eiEO0o2ZsBr8YR0siUyWpeKU2G6tpJ1Z85cccTIb/0Ao2+252cZHMhW0Q/SKXNECuyHc=;R19KSlC7SllYfAhI8MRhDw=="

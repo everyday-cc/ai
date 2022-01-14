@@ -55,7 +55,7 @@ related:
     provider:
       name: blocksandfiles
       domain: blocksandfiles.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://blocksandfiles.com/wp-content/uploads/2020/02/brain_neuron.jpg"
         width: 1000

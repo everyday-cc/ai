@@ -240,22 +240,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Tesla’s 'Full Self-Driving' software just got a big price hike to $12,000"
-    excerpt: "Tesla’s “Full Self-Driving” (FSD) software is about to get its second big price hike since it first entered beta in October 2020. What began at $8,000 quickly rose to $10,000 within days, and now it’s set to rise to $12,000 later this month."
-    publishedDateTime: 2022-01-09T14:20:00Z
-    webUrl: "https://www.tomsguide.com/news/teslas-full-self-driving-software-just-got-a-big-price-hike-to-dollar12000"
-    ampWebUrl: "https://www.tomsguide.com/amp/news/teslas-full-self-driving-software-just-got-a-big-price-hike-to-dollar12000"
-    cdnAmpWebUrl: "https://www-tomsguide-com.cdn.ampproject.org/c/s/www.tomsguide.com/amp/news/teslas-full-self-driving-software-just-got-a-big-price-hike-to-dollar12000"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 58
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/7L55ZrcXePgR9KSs7b3vqX-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tesla Full Self-Driving Test Being Re-Evaluated by California DMV: Report"
     excerpt: "Tesla vehicles with the older 10.3 FSD software repeatedly provided forward collision warnings when there was no immediate danger."
     publishedDateTime: 2022-01-12T10:47:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-13T11:40:00Z
 originalUrl: "https://blocksandfiles.com/2022/01/13/mram-chip-with-embedded-compute-demod-for-ai-by-samsung/"
 webUrl: "https://blocksandfiles.com/2022/01/13/mram-chip-with-embedded-compute-demod-for-ai-by-samsung/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 images:
   - url: "https://blocksandfiles.com/wp-content/uploads/2020/02/brain_neuron.jpg"
@@ -88,6 +89,6 @@ related:
         height: 325
         isCached: true
 
-secured: "2X5Jmuv+o6n4s0e5LOn2q/PW7hUIFTo0VghiPbu0EkKPSq0gIgUvpQQ/8IGZgxbVsOEtO6WGifgfTeTXADXTyYY42JBT17clIX8f059NII+vwF4bbblJjCgDVYoFUCwfRwSuuGwYkDmpeI4lDjzyZeBGR/JuwwhrM60MKSX6KNGCOHbI2vmYttDlEmvV0PGpZ0ruhgwE7kXtzVRO8rl9XUr+MD/BB8zC9vIQcECiRE0tNnwCb8FIq6LMiFlO6JD4VZFPzmz0uU3UvW4XzXZsml5WcF2yibRmHrHh+7sZSN4blmnI4vJsK9d6A7Tb2TQVNiuyIFSCMIc0zeOPvYfVtYvfNogKlnM3f5f2VhLQDmo=;6BOhbHrPtVgjl8Pd/tQlRA=="
+secured: "x1W+UbbaGk9oCg88gb7cz7qGLJ+Fp77CQRgc0KDn2nwlJqXRZRAYTcVihuJBOQxFcGO8Rg2ouJlovLdFJrrWGqvp+OTPAjeACUnshoHiQkmjXkgWiowLdwrLDYICrf0YBE/bJxp5qMfdI05sNjbiqvA3Ybctw/tIvmjjXYyXBXlA0gyRZbDfkNr9BDdHZVrPc44dsb56+vHvzpKMQaDXQIMTN/Njbs99Z/R6l+WUwnQC8s9NYTw11ZsFcW2eD1NdKw6lEHc8Ij66UOP4ai1YegdfNcHRH/phCwbOxgWq8XFkVN137coni9XFMtRU6jojCaTX9s+6eTr+yttkAf5eJghlUWe3DekTtWxOWEFNNT+GBxfC6kd65F9UcuKmyTaL5pg7g2FJgk2pw2VRzoNyfVv7zecxmhtZQpgH4XK6Mrlq8DI91XF0iC14Dh50UEaC03JdtnpqZIzOVr0vsZieVNpq+3cFXo0ywhfCR7TjGCjqzNoFsQmVCnk7XZ5riNrf3CPM0rXY3BTKewn5j71akQ==;LcFFHYlOHzlDwG+hlfWt8A=="
 ---
 

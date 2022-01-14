@@ -24,6 +24,22 @@ images:
     height: 648
     isCached: true
 
+related:
+  - title: "Ising on the cake: Sync Computing spots opportunity for cloud resource optimisation"
+    excerpt: "Startup Sync Computing has devised a hardware answer to the problem that NetApp’s Spot solves with software: how to optimise large-scale public cloud compute and storage use. It’s operating in near stealth,"
+    publishedDateTime: 2022-01-13T15:05:00Z
+    webUrl: "https://blocksandfiles.com/2022/01/13/sync-computing-optimising-large-scale-public-cloud-instance-navigation-with-hw/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 18
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/01/Sync-Computing.jpg"
+        width: 950
+        height: 633
+        isCached: true
+
 secured: "CmWnt+Uh/3DIREnj86Q/FTjqHRhIz25BFD5BDd6OcUnkvPcQkxYcDobOMQeXQO30S6tCqtIfK+ylcJ1fouuLoxozIbxBlFVvboz+GX4TyUy7jma+gnPiQ15opwPQ4efczA/wRIqSulckcRVBQlYPhJo58MiYRdD3qSZC19tChhE1dA+hg4gU4e4fOtf2WKn/ivmZesBcQ1bpY9cp4gfzGR3oKYDJAqaRyzafl8qUh2YAcpYVIOCpN9LquEHrG8ECN1DmcUp+5m74MYSneogJ7V6hWpT140dm+O1EejZ5PKJMxGnijcSbhuWgh/cHjKQMiDdoRbf7dUPPYyTtKMrJCY5F7GVV32MSfL0WsRuhCkX8LYy7TbSFeqXYTcAD7CX1LyfPwPOuF5TkfayrSZRoOL6D7Jjs8peFnjHBRcmnW6K8TxOVQDAAOE3/icjx466JWlosZYVaVLy6JnMZZxmU/+wm1qaGwjlF/sUQLuxaJAPkPly3kMgOVH2zVrjYphV9QA/RKobWwQa/gCdPcsYINQ==;/XuCBtm0t/40KtVxu33CXA=="
 ---
 

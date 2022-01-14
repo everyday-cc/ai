@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
+title: "Tribal leaders voice concerns about water, covid-19 to legislators"
 excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
-publishedDateTime: 2022-01-13T15:25:00Z
-originalUrl: "https://www.azmirror.com/2022/01/13/tribal-leaders-voice-concerns-about-water-voting-covid-19-to-state-lawmakers/"
-webUrl: "https://www.azmirror.com/2022/01/13/tribal-leaders-voice-concerns-about-water-voting-covid-19-to-state-lawmakers/"
+publishedDateTime: 2022-01-14T05:26:00Z
+originalUrl: "https://www.havasunews.com/news/arizona/tribal-leaders-voice-concerns-about-water-covid-19-to-legislators/article_b027f44e-74fa-11ec-868d-2b220795b290.html"
+webUrl: "https://www.havasunews.com/news/arizona/tribal-leaders-voice-concerns-about-water-covid-19-to-legislators/article_b027f44e-74fa-11ec-868d-2b220795b290.html"
 type: article
-quality: 20
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Arizona Mirror
-  domain: azmirror.com
+  name: Havasu News
+  domain: havasunews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.azmirror.com/wp-content/uploads/2022/01/jonathan-nez-state-house-2022.jpg"
-    width: 1280
-    height: 853
+  - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/d/76/d76061fe-74fa-11ec-8a38-9faf97021aa8/61e10a4b615ed.image.jpg?resize=400%2C266"
+    width: 400
+    height: 266
     isCached: true
 
 related:
@@ -55,19 +55,19 @@ related:
         width: 450
         height: 350
         isCached: true
-  - title: "Tribal leaders voice concerns about water, covid-19 to legislators"
+  - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
-    publishedDateTime: 2022-01-14T05:26:00Z
-    webUrl: "https://www.havasunews.com/news/arizona/tribal-leaders-voice-concerns-about-water-covid-19-to-legislators/article_b027f44e-74fa-11ec-868d-2b220795b290.html"
+    publishedDateTime: 2022-01-13T15:25:00Z
+    webUrl: "https://www.azmirror.com/2022/01/13/tribal-leaders-voice-concerns-about-water-voting-covid-19-to-state-lawmakers/"
     type: article
     provider:
-      name: Havasu News
-      domain: havasunews.com
-    quality: 24
+      name: Arizona Mirror
+      domain: azmirror.com
+    quality: 20
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/havasunews.com/content/tncms/assets/v3/editorial/d/76/d76061fe-74fa-11ec-8a38-9faf97021aa8/61e10a4b615ed.image.jpg?resize=400%2C266"
-        width: 400
-        height: 266
+      - url: "https://www.azmirror.com/wp-content/uploads/2022/01/jonathan-nez-state-house-2022.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "Artificial Intelligence for Psychological Health Analysis During COVID-19"
     excerpt: "The coronavirus disease 2019 (COVID-19) pandemic has spread over 200 million confirmed cases and caused more than 5 million deaths worldwide. Besides an epidemiological disaster, it is also a psychological crisis that presents a serious threat to people’s mental health."
@@ -79,6 +79,6 @@ related:
       domain: frontiersin.org
     quality: 18
 
-secured: "OvI1KBOyF/JeakiP0F70z3cbA/6MV9iWnEVQ9rkweIve0ABHMdYZhuDqZzLmFRiNBfmiBCC+5P9IItxs/40J4RNwxBuPX/3vCPp+FKNRGjbZeIdHNog75blozmSOvKSR3IyITpH9jCYN0XvtSZhM1bk6Mmu3MrfJMIxD+m2jF//cHcL55sCMVJB7g5o4vEOmx0hyStIa1834odgQyRF6nVRpHbrmKH5T1b63Sl4fw4wSPrzqYj8innCEUqxcb/QmYhK/Mjtvw34GzB2yPPzfYBsLRtqkJ3lQM7kQb2ivhzrm64f3QrUYXtBqwjrmr2tj38GchM2hoRQMlZ2A3dfjhyat6Q4N0VfvNe8YNpWsWeb6I/qHeveX27/NoZrHwoP9NwtZ9BpNrGFVSRGn6Iz6YXfuBUcpjABRwN6nO6kPoOWhaXx1kYnbJBJSdMsFZNLiVKYHDwvIkhe/EZT5Hsdapc1rVOVUQJA3otE9LWXXHptZR8f222t9UU4hJhNXku0XvlfF91UNeean1XT70yLbXA==;uw9zo8onqQUpfZ6GXm1kwg=="
+secured: "4cqb0L7fG+Y+WcW930Vj7UzeuKXwcT3P0Y7o8FmZO5tAb+2d/xp7ulfXSmOIDbKVcAzWuY/knDhbtQcVky5F+X+uJlm2ONs8zMLDled6cHi6cmBWKQ/rgn603J8Jz2Uo9dRZExB0sihnQLDvtfn0E5CaPzKxg9IaxiQuSEGt9d5HCOv3rOfvznTiSoJqYj8YQyHn6CEvDy0qpmyW5sgEYK13FW1iVdvpYixkNjrst6LNyf+nbbw1ocqFSOhyGHu4pqWYMNIPBUGUeEQdVX+5ad3ZbDHfusRm6RDlaWefhfkH78WrczujBBjRCLx/kxv0UF2CcniFIJA+6GDjOQI0bUDeuG8Xnl/xNvCzRjhupvY=;/yR4XH2aIB/Wqepi6XcCOA=="
 ---
 
