@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-serve-robotics-becomes-first-auton
 webUrl: "https://www.tmcnet.com/usubmit/-serve-robotics-becomes-first-autonomous-vehicle-company-commercially-/2022/01/13/9525910.htm"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -26,22 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Legislation paves road to self-driving commercial vehicles in Pennsylvania"
-    excerpt: "Pennsylvania has been at the forefront of autonomous vehicle development and now state legislators want to get commercial self-driving vehicles on the commonwealth’s road. Last week, state Senate Transportation Committee Chairman Wayne Langerholc introduced a bill to usher in testing and commercial deployment of highly,"
-    publishedDateTime: 2022-01-09T12:57:00Z
-    webUrl: "https://www.lehighvalleylive.com/traffic/2022/01/legislation-paves-road-to-self-driving-commercial-vehicles-in-pennsylvania.html"
-    ampWebUrl: "https://www.lehighvalleylive.com/traffic/2022/01/legislation-paves-road-to-self-driving-commercial-vehicles-in-pennsylvania.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-lehighvalleylive-com.cdn.ampproject.org/c/s/www.lehighvalleylive.com/traffic/2022/01/legislation-paves-road-to-self-driving-commercial-vehicles-in-pennsylvania.html?outputType=amp"
+  - title: "Ready, set, robot! National Robot Drawing and Story Competitions for Primary Schoolchildren Now Officially Open For Entries"
+    excerpt: "\"Once Upon A Robot\" writing competition and \"Draw A Robot\" design challenge launch today, offering unique prizes; budding artists and authors invited to enter London, United Kingdom, January 11th 2022—The EPSRC UK Robotics and Autonomous Systems (UK-RAS) Network is today pleased to announce the official launch of its 2022 competitions to get the UK's primary schoolchildren drawing and writing about all things \"robot\"."
+    publishedDateTime: 2022-01-11T14:11:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/ready-set-robot-national-robot-drawing-and-story-competitions-for-primary-schoolchildren-now-officially-open-for-entries/18048/"
     type: article
     provider:
-      name: Lehigh Valley Live
-      domain: lehighvalleylive.com
-    quality: 42
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/XVEQSEDXGBHKJH2LZNTSTSDTPY.JPG"
-        width: 1024
-        height: 683
-        isCached: true
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 0
 
 secured: "m2GwVqPDEQCQtBGSodDeR6T35cUZavb07PaRwLb/tgvyFy+amgQCRJuERbBY83bbtfuIkKnseC/7dnE2fwD3S6snBQy1aUEYUeMQpKyp0mBNIGui3+Fb3mH8Rg26g8sM6ZAIMnctwzCGuwaEpw1Nok7f2j7VdFiu4AI/bhWGjfEw76BLnm8c6THYkxx1M/1MqvSFagYGujhW2gKwINfXJl4iT3L5eHXBqAxUO9UXXMBx0EthKUkhVvtffcDn3H0IIiSB/I5MFwn+VjOcrVwHJZHUjWSvRja1pC0V7noOzoI7d4EA1V44zUdcjr7BeGimqL/cU+lP61iH8gYxlla7ROJBadOXWXKGlzMYf+wyNbU=;cMWBFGby79Eoj4hsUNxiXA=="
 ---

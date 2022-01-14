@@ -2,6 +2,239 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-12-14-mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme.md",
+      "title": "Mohammed bin Rashid honours 240 graduates of the ‘Artificial Intelligence Programme’",
+      "excerpt": "Dubai: His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President and Prime Minister of the UAE and Ruler of Dubai, honoured the graduates of the second and third batches of the ‘Artificial Intelligence Programme’ organised by the National Programme for Artificial Intelligence and the Kellogg College - University of Oxford.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
+      "originalUrl": "https://gulfnews.com/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2021/12/13/Expo-2020-Dubai_17db5173489_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/expo-2020/news/mohammed-bin-rashid-honours-240-graduates-of-the-artificial-intelligence-programme-1.1639420471929",
+      "publishedDateTime": "2021-12-13T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-machine-learning-trends-for-marketers-to-watch-in-2022.md",
+      "title": "Machine Learning Trends for Marketers to Watch in 2022",
+      "excerpt": "Machine learning and AI research are making strides daily, with interesting implications for business. While it feels like a lot of the cool innovations are happening only in the scientific fields, progress can be seen in the marketing discipline too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
+      "originalUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/94a7c49ae3ef4fc7ba5b3c945e91b28b.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/machine-learning-trends-for-marketers-to-watch-in-2022/amp/",
+      "publishedDateTime": "2021-12-13T10:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams.md",
+      "title": "Unique closes $6M Seed for its AI-driven video calls platform aimed at sales teams",
+      "excerpt": "Unique, a video calls platform that uses AI to teach sales teams how to improve their pitches, has closed a $6 million Seed round from a bunch of Angel investors. These include Phillip Stauffer, U.S based founder and general partner of Fyrfly Venture Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
+      "originalUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/Unique-founders-.jpg?w=1024",
+          "width": 1024,
+          "height": 681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/13/unique-closes-6m-seed-for-its-ai-driven-video-calls-platform-aimed-at-sales-teams/amp/",
+      "publishedDateTime": "2021-12-13T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-privacera-named-top-3-data-and-ai-startup-in-2021-datanami-readers-and-editors-choice-awards.md",
+      "title": "Privacera Named Top 3 Data and AI Startup in 2021 Datanami Readers' and Editors' Choice Awards",
+      "excerpt": "Privacera, the unified data access governance leader founded by the creators of Apache Ranger™, has been recognized in the sixth annual Datanami Readers' and Editors' Choice Awards in the Top 3 Data and AI Startups category,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/12/13/9510136.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1192069/Privacera_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-13T09:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-the-us-china-technology-arms-race-its-not-a-two-country-race-anymore.md",
+      "title": "The US-China Technology Arms Race. It’s Not A Two-Country Race Anymore.",
+      "excerpt": "The global technology arms race is no longer a race among a few countries, especially the US and China. It's expanded, and includes a large number of countries all vying for competitive advantage. The US — one of the major players — must double down on its technology investment strategy — or lose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b23ade927438ad6f8fdd64%2F0x0.jpg",
+          "width": 1200,
+          "height": 795,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2021/12/13/the-us-china-technology-arms-race-its-not-a-two-country-race-anymore/amp/",
+      "publishedDateTime": "2021-12-13T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-morgan-stanley-and-the-child-mind-institute-select-winners-of-machine-learning-for-good-hackathon.md",
       "title": "Morgan Stanley and the Child Mind Institute Select Winners of “Machine Learning for Good” Hackathon",
       "excerpt": "NEW YORK--(BUSINESS WIRE)--Morgan Stanley and the Child Mind Institute today announced the results of the judging from Morgan Stanley’s Machine ... leading global financial services firm ...",
@@ -887,239 +1120,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist.md",
-      "title": "Chinese AI Giant SenseTime Remains Committed To IPO Despite U.S. Blacklist",
-      "excerpt": "Chinese artificial intelligence company SenseTime has decided to postpone its initial public offering in Hong Kong after it was put on a U.S. investment blacklist, although the company insists that it still intends to complete the listing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/",
-      "originalUrl": "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b6f6a34d9d48fe56dda795%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ywang/2021/12/13/chinese-ai-giant-sensetime-remains-committed-to-ipo-despite-us-blacklist/amp/",
-      "publishedDateTime": "2021-12-12T23:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-can-a-new-independent-institute-improve-the-ethics-of-ai.md",
-      "title": "Can a new independent institute improve the ethics of AI?",
-      "excerpt": "Former Google AI researcher Timnit Gebru is launching an independent AI institute to explore how the technology can exacerbate inequality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/",
-      "originalUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.maddyness.com/uk/app/uploads/2021/12/jackson-so-TQ3SgrW9lkM-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/?amp",
-      "cdnAmpWebUrl": "https://www-maddyness-com.cdn.ampproject.org/c/s/www.maddyness.com/uk/2021/12/13/can-a-new-independent-institute-improve-the-ethics-of-ai/?amp",
-      "publishedDateTime": "2021-12-12T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Maddyness",
-        "domain": "maddyness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting.md",
-      "title": "China’s AI giant SenseTime postpones IPO after US blacklisting",
-      "excerpt": "SenseTime, one of China’s most valuable AI solution providers, is putting its $767 million public listing on hold, the company said Monday. The announcement came three weeks after the Hong Kong Stock Exchange gave the go-ahead to SenseTime’s IPO.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
-      "originalUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/08/sensetime1.jpg?w=1024",
-          "width": 1024,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/12/chinas-ai-giant-sensetime-postpones-ipo-after-us-blacklisting/amp/",
-      "publishedDateTime": "2021-12-12T21:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-this-tiny-ai-powered-robot-is-learning-to-explore-the-ocean-on-its-own.md",
-      "title": "This tiny AI-powered robot is learning to explore the ocean on its own",
-      "excerpt": "A new Caltech robot could use machine learning to navigate through turbulent and unknown terrains in the ocean. The ocean is big, and our attempts to understand it are still largely surface-deep. According to the National Oceanic and Atmospheric Organization,",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/",
-      "originalUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2021/12/10/Gunnarson_Peter-Dabiri_John-CARL-bot-1207-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/caltech-carl-bot-ai-ocean-robot/?amp",
-      "publishedDateTime": "2021-12-12T18:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2021-12-13-samsung-promotes-robotics-as-future-growth-driver.md",
-      "title": "Samsung promotes robotics as future growth driver",
-      "excerpt": "Samsung Electronics Co. named its newly merged unit for mobile and appliances the device experience (DX) division, the company has said, in a sign of its resolve to provide its customers with new, meaningful experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/133_320432.html",
-      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2021/12/133_320432.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202112/a9c0dc257eb940bc83ed532915ba59f5.jpg",
-          "width": 980,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320432",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=320432",
-      "publishedDateTime": "2021-12-12T18:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "koreatimes.co.kr",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

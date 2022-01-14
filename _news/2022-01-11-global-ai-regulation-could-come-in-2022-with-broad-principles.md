@@ -37,6 +37,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Top AI Trends to expect in 2022"
+    excerpt: "We live in an AI-driven world. Artificial intelligence (AI) has had a significant impact on the strengthening and transformation of industries all over the world. As we go deeper into a digitally altered society,"
+    publishedDateTime: 2022-01-14T04:37:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/top-ai-trends-to-expect-in-2022/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/top-ai-trends-to-expect-in-2022/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/top-ai-trends-to-expect-in-2022/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
 
 secured: "gkBKFGRIq4CWxJiYUWRpvE4iekg4w92c66Qu6OdMFOJfplFRnsh4dA4fqK/jHULpTTSaCwtOK1z8TjHHyr2+qTcSJa/WuTLspF510JDLVrRFcrIWOsEGdqOrgvX6JIQTcQyOsOjuJutO4RWO5cvn4YTfbPizvLUSl1nvPmVOKKYsE+w8StrnSq8Jum5D4agMNqCFr3AuLk8Hl6fLP0iynbReMQq9R0he/DgZmLmtC3z+ZzR1s2a+azJ0mO2Dy3CFoDkMpeZVrE4CFuKCGNlFNxNn91Jm8tNw+EkQJfo18hfLtRytoWtRezfMYl/9Nfgetqf88HbFCGaKr1kmrT9zjYhs58y8X6YaGwOstlxlSMqRCXPuIzNVH2enU2ACyMXhXmb/G4H35REUPcbcQAspiA6LFQbB8ZtopYf1ksR2zjNEloylZuJaC9zAUSt5Lbi7fxGJYkg6AV7spMR18NhkeSOSO9Ijt6duBg4DjHHHgGKL06xRD9uZlljBDl10wLd8FXK3CCfDrNpZgrysSRyOpQ==;dxX0cwtR1kNBn/HpEv94Ww=="
 ---

@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-14-michael-jordan-joins-uaes-artificial-intelligence-university.md",
+      "title": "Michael Jordan joins UAE's artificial intelligence university",
+      "excerpt": "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Michael I. Jordan, has been named laureate professor at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/life/story/Michael_Jordan_joins_UAEs_artificial_intelligence_university-SNG_277923760/",
+      "originalUrl": "https://www.zawya.com/mena/en/life/story/Michael_Jordan_joins_UAEs_artificial_intelligence_university-SNG_277923760/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/180620130010CTNU.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_277923760/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_277923760/",
+      "publishedDateTime": "2022-01-13T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-chinas-taxpayers-on-edge-as-beijing-tightens-oversight-with-big-data-and-artificial-intelligence.md",
+      "title": "China’s taxpayers on edge as Beijing tightens oversight with big data and artificial intelligence",
+      "excerpt": "From small business owners to the wealthy, Chinese are bracing for greater scrutiny under a new tax surveillance system that will deploy big data and artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/economy/china-economy/article/3163277/chinas-taxpayers-edge-beijing-tightens-oversight-big-data-and",
+      "originalUrl": "https://www.scmp.com/economy/china-economy/article/3163277/chinas-taxpayers-edge-beijing-tightens-oversight-big-data-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/14/aa407304-363b-4c1a-bb13-3677e9b31f4b_961553fd.jpg?itok=uq36w-aR&v=1642122743",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/economy/china-economy/article/3163277/chinas-taxpayers-edge-beijing-tightens-oversight-big-data-and",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3163277/chinas-taxpayers-edge-beijing-tightens-oversight-big-data-and",
+      "publishedDateTime": "2022-01-13T18:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order.md",
       "title": "How cloud, AI, and machine learning are shaping the new work order",
       "excerpt": "From cloud chaos to clarity.” As enterprises embrace the cloud, AI and deep data analytics, existing jobs, and workplaces will go through a fundamental shift. This transformation will shape the present and future of talent.",
@@ -10,7 +103,7 @@
       "originalUrl": "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -94,6 +187,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-microsoft-msft-accelerates-manufacturing-homegrown-chips.md",
+      "title": "Microsoft (MSFT) Accelerates Manufacturing Homegrown Chips",
+      "excerpt": "Microsoft (MSFT) hires key Apple engineer Mike Filippo to manufacture in-house processors for the servers running its cloud-computing services and Surface line of personal computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/413080",
+      "originalUrl": "https://www.entrepreneur.com/article/413080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413080.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -291,49 +437,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-entertainment-robots-market-by-technology-innovation-and-growth-2021.md",
-      "title": "Entertainment Robots Market by Technology Innovation and Growth 2021",
-      "excerpt": "Entertainment Robots Market NEW YORK, NY, U.S., January 13, 2022 /EINPresswire.com / -- Advancement in artificial intelligence technology",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103534725/Entertainment-Robots-Market-by-Technology-Innovation-and-Growth-2021",
-      "originalUrl": "https://menafn.com/1103534725/Entertainment-Robots-Market-by-Technology-Innovation-and-Growth-2021",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-01/13/EP_43fe4image_story.jpeg",
-          "width": 800,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -1123,101 +1226,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-landingai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy.md",
-      "title": "Landing.AI hires vision expert Dechow to correct the Big Data fallacy",
-      "excerpt": "Practical application of deep learning may require focusing less on giant datasets, more on the way examples of training data are handled, says Andrew Ng.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/landing-ai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy/",
-      "originalUrl": "https://www.zdnet.com/article/landing-ai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a9c230b2219899024419d49ddbf8917ea2181f51/2022/01/12/35f7de6c-7d8e-412c-92b3-c20127b51bc0/andrew-ng-2022-zoom-call-with-zdnet.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/landing-ai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/landing-ai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy/",
-      "publishedDateTime": "2022-01-12T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-machine-learning-ai-used-to-rapidly-detect-sepsis.md",
-      "title": "Machine learning, AI used to rapidly detect sepsis",
-      "excerpt": "Sepsis strikes roughly 2 million people each year and is the cause of one in three hospital deaths in the United States, according to the Centers for Disease Control and Prevention. “Sepsis is the body’s extreme response to an infection and,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
-      "originalUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ajc.com/resizer/8fTbEGrlh6x5xJYQWrHSKMW_Q68=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-12-2022/t_966c65e132e24545b6b37ee7896e70eb_name_sepsis.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
-      "publishedDateTime": "2022-01-12T09:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Atlanta Journal-Constitution",
-        "domain": "ajc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

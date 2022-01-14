@@ -2,44 +2,30 @@
 category: news
 title: "Michael Jordan joins UAE's artificial intelligence university"
 excerpt: "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Michael I. Jordan, has been named laureate professor at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)."
-publishedDateTime: 2022-01-13T03:41:00Z
-originalUrl: "https://menafn.com/1103530586/Michael-Jordan-joins-UAEs-artificial-intelligence-university"
-webUrl: "https://menafn.com/1103530586/Michael-Jordan-joins-UAEs-artificial-intelligence-university"
+publishedDateTime: 2022-01-14T04:35:00Z
+originalUrl: "https://www.zawya.com/mena/en/life/story/Michael_Jordan_joins_UAEs_artificial_intelligence_university-SNG_277923760/"
+webUrl: "https://www.zawya.com/mena/en/life/story/Michael_Jordan_joins_UAEs_artificial_intelligence_university-SNG_277923760/"
+ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_277923760/"
+cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_277923760/"
 type: article
-quality: 37
-heat: -1
-published: false
+quality: 57
+heat: 87
+published: true
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-01/12/KT_37862image_story.jpg"
-    width: 600
-    height: 337
+  - url: "https://images.zawya.com/images/cia/zAmp/180620130010CTNU.jpg"
+    width: 1199
+    height: 800
     isCached: true
 
 related:
-  - title: "Michael Jordan joins UAE's artificial intelligence university"
-    excerpt: "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Michael I. Jordan, has been named laureate professor at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)."
-    publishedDateTime: 2022-01-14T04:35:00Z
-    webUrl: "https://www.zawya.com/mena/en/life/story/Michael_Jordan_joins_UAEs_artificial_intelligence_university-SNG_277923760/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/SNG_277923760/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_277923760/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 57
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/180620130010CTNU.jpg"
-        width: 1199
-        height: 800
-        isCached: true
   - title: "Michael Jordan joins MBZUAI as laureate professor"
     excerpt: "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Mic"
     publishedDateTime: 2022-01-13T12:41:00Z
@@ -68,7 +54,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Michael Jordan joins UAE's artificial intelligence university"
+    excerpt: "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Michael I. Jordan, has been named laureate professor at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI)."
+    publishedDateTime: 2022-01-13T03:41:00Z
+    webUrl: "https://menafn.com/1103530586/Michael-Jordan-joins-UAEs-artificial-intelligence-university"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/12/KT_37862image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
-secured: "0PeI0e3zQPK33v9Qa3DrCjTxHH8Nja6vV3pnKeVLKMXzrUVDHo6k4k+ltaAcC5dFrjMrlQUaiZUwWiugp49wE6fQUYrTIysLDOQh48vD2I0PXw6vydCRNHXktraUx59AuRxHi9xHVkXHiI9T1jf27c4DRdKpI4H2fhGmNUsclYfYYTHQh9spJrGB+HDCJXG+/Ac0DscUZQbKQgeN0tVxZzcyCCrSZaRattwQ/mDAoVCWqnqu0EUNh+eZBVYoX6lqjVA4f5xr5om8w4WQjmoiH4M1pPKcL9Dry8NpTpN7bhfczvpZz+VlUjq4NFqLUQBVZAJ6qAzhv5i9T8BXMdW6Y8MTv9llNUxEW16bbOPfTLE=;0TEjupizkOo4vdUuF7YikQ=="
+secured: "vJoLUYudCQAZ7ZZVYEPNkbGO+qxpoojAUHCdvRtQzqz8xPycGeW+N2mBnkHpnvYSiXr4YfCWsv0g8bQn2pjFkF5EsOC5qf0Vv+zkqhjjMh52Y4K3BhwWW5xSKUmGuToHxQPuJbTjQUafFFTrSuiZ9WvI0zcyEN2z1C601OMyJEhVZqYIKq4oEte20JaIXssPg+G+L83nigHLhjFjTJwbF+5gOCyTOupmjS7FwigWqfoGJAyQrDBz+/9BdSTi77N9iGgJldZIKYv/xpkdV4C7IBqioFPjFZeXXUaRAuI517EEEvJ53NZpaG1pCg8Q9Lejg+iKXKVKNuOeCJVqpln11DfkjG5hOVEyGIYmlL3xsSQ=;zT8LNvU7iCOlCAVYSqDRAg=="
 ---
 

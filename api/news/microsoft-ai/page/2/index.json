@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-30-a-look-back-at-recent-ai-trends-and-what-2022-might-hold.md",
+      "title": "A look back at recent AI trends — and what 2022 might hold",
+      "excerpt": "Hear from CIOs, CTOs, and other C-level and senior execs on data and AI strategies at the Future of Work Summit this January 12, 2022. Learn more 2021 was an eventful year for AI. With the advent of new techniques,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
+      "originalUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/algorithm-e1638474876863.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/30/a-look-back-at-recent-ai-trends-and-what-2022-might-hold/amp/",
+      "publishedDateTime": "2021-12-30T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Facebook AI",
+        "AI Ethics",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-30-looking-back-on-2021.md",
+      "title": "Looking Back on 2021",
+      "excerpt": "It's that time of year again. You know, the time where you start to question everything you are doing with your life, wonder if you have achieved anything at all - and desperately try to fill in your quarterly review forms with the words \"What was my impact?",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/looking-back-2021-michelle-sandford",
+      "originalUrl": "https://www.linkedin.com/pulse/looking-back-2021-michelle-sandford",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQG9G1db4qVsZg/article-cover_image-shrink_720_1280/0/1640665123412?e=1646870400&v=beta&t=3EIRwk89uk3naAHwI5JhLIBrwj0R9SXyHXf7GdBaGyA",
+          "width": 1277,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-29T20:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-30-2021-was-a-breakthrough-year-for-ai.md",
       "title": "2021 was a breakthrough year for AI",
       "excerpt": "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide.",
@@ -1252,84 +1360,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3-year-old-children-the-skot-cohort-studies.md",
-      "title": "Plasma vitamin B12 concentration is positively associated with cognitive development in healthy Danish 3-year-old children; the SKOT cohort studies",
-      "excerpt": "Sophie H Christensen [Opens in a new window], HTML view is not available for this content. However, as you have access to this content, a full PDF is available via the ‘Save PDF’ action button. Adequate vitamin B12 and folate concentrations are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3yearold-children-the-skot-cohort-studies/4A324620BEE475E8AAB414D683A8B83F",
-      "originalUrl": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3yearold-children-the-skot-cohort-studies/4A324620BEE475E8AAB414D683A8B83F",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft.md",
-      "title": "Companies Must Assess Threats to AI & ML Systems in 2022: Microsoft",
-      "excerpt": "Most companies lack the proper tools to assess their vulnerability to threats facing their AI systems and ML pipelines, prompting Microsoft to release a risk assessment framework.",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/risk/companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft",
-      "originalUrl": "https://www.darkreading.com/risk/companies-must-assess-threats-to-ai-ml-systems-in-2022-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blte4689bb9d4891a78/61ba7e150c86f53774da5d45/MachineLearning_AlexeyKotelnikov_Alamy.jpg",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T15:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     }
   ],

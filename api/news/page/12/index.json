@@ -2,6 +2,185 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-04-moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park.md",
+      "title": "Moving AI From The Safe And Secure Lab Into The Real World Isn’t Always A Walk In The Park",
+      "excerpt": "If you dream it, you can do it,” is a saying often attributed to Walt Disney, who successfully transformed his vision into a movie and theme park empire. While this is a great motivational quote, it wasn’t a simple formula for success for Disney back then,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F696529578%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/moving-ai-from-the-safe-and-secure-lab-into-the-real-world-isnt-always-a-walk-in-the-park/amp/",
+      "publishedDateTime": "2022-01-04T04:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality.md",
+      "title": "2022 Will See Increasing AI Role in Augmented and Virtual Reality",
+      "excerpt": "In its new whitepaper, 70 Technology Trends That Will—and Will Not—Shape 2022, ABI Research analysts identify 35 trends that will shape the technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality/article_ab60c9e5-b2ce-5b71-a588-b2c17a401835.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/2022-will-see-increasing-ai-role-in-augmented-and-virtual-reality/article_ab60c9e5-b2ce-5b71-a588-b2c17a401835.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T04:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-lg-builds-tech-to-start-cars-using-facial-recognition.md",
+      "title": "LG builds tech to start cars using facial recognition",
+      "excerpt": "The technology will enable users to start their vehicles as well as make adjustments to control the vehicles through facial expressions and hand gestures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/sci-tech/technology/7kfqy8/article38110437.ece/ALTERNATES/LANDSCAPE_615/LGfacialjpg",
+          "width": 615,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/lg-builds-tech-to-start-cars-using-facial-recognition/article38110103.ece/amp/",
+      "publishedDateTime": "2022-01-04T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-the-danger-of-leaving-weather-prediction-to-ai.md",
+      "title": "The Danger of Leaving Weather Prediction to AI",
+      "excerpt": "When it comes to forecasting the elements, many seem ready to welcome the machine. But humans still outperform the algorithms—especially in bad conditions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/",
+      "originalUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61bcfdf760b9d5dd7134793f/master/pass/The-Danger-of-Leaving-Weather-Prediction-to-AI.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/weather-forecasting-artifical-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/weather-forecasting-artifical-intelligence/amp",
+      "publishedDateTime": "2022-01-04T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-why-2022-will-be-an-ai-powered-renaissance.md",
       "title": "Why 2022 Will Be An AI-Powered Renaissance",
       "excerpt": "Now, electronic brains powered by human-designed AI are poised to play the role of protagonists in 2022 and potentially accelerate progress in our society to drive our very own Renaissance. Some say that the best way to predict the future is to create it,",
@@ -96,6 +275,49 @@
         "AI",
         "Microsoft AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-ubtech-showcases-autonomous-uv-c-robot-at-ces-2022.md",
+      "title": "UBTECH Showcases Autonomous UV-C Robot at CES 2022",
+      "excerpt": "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510",
+          "width": 400,
+          "height": 510,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -914,239 +1136,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-artificial-intelligence-ai-hardware-market-scenario-strategies-growth-factors-and-forecast-2027.md",
-      "title": "Artificial Intelligence (AI) Hardware Market Scenario, Strategies, Growth Factors and Forecast 2027",
-      "excerpt": "A recent report provides crucial insights along with application based and forecast information in the Global Artificial Intelligence (AI) Hardware Market. The report provides a comprehensive analysis of key factors that are expected to drive the growth of this market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-scenario-strategies-growth-factors-and-forecast-2027-2022-01-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-scenario-strategies-growth-factors-and-forecast-2027-2022-01-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-ai-powered-chatbots-designed-ethically-can-support-high-quality-university-teaching.md",
-      "title": "AI-powered chatbots, designed ethically, can support high-quality university teaching",
-      "excerpt": "While COVID-19 forced an emergency transformation to online learning at universities, learning how to teach efficiently and effectively online using different platforms and tools is a positive addition to education and is here to stay.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
-      "originalUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-powered-chatbots-de.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-powered-chatbots-ethically-high-quality-university.amp",
-      "publishedDateTime": "2022-01-03T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-ai-apps-and-platforms-get-real.md",
-      "title": "AI Apps And Platforms Get Real",
-      "excerpt": "Despite being around since the early 50s, AI is finally maturing from an interesting piece of technology to one that is delivering significant, tangible benefits in numerous market segments and across many different businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61cdb401815f9d046390a841%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/03/ai-apps-and-platforms-get-real/amp/",
-      "publishedDateTime": "2022-01-03T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-music-playback-platform-market-will-hit-big-revenues-in-future-googleplay-163music-iheartradio-alibaba.md",
-      "title": "Music Playback Platform Market Will Hit Big Revenues In Future | GooglePlay, 163Music, IHeartRadio, Alibaba",
-      "excerpt": "Advance Market Analytics published a new research publication on Global Music Playback Platform Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
-      "originalUrl": "https://www.openpr.com/news/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V103274728_g.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2515847/music-playback-platform-market-will-hit-big-revenues-in-future",
-      "publishedDateTime": "2022-01-03T05:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-robo-dogs-and-therapy-bots-artificial-intelligence-goes-cuddly.md",
-      "title": "Robo-dogs and therapy bots: Artificial intelligence goes cuddly",
-      "excerpt": "In Japan mechanical companions are finding their way into the hearts of stressed-out adults, schoolchildren, and patients with PTSD or dementia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
-      "originalUrl": "https://www.cbsnews.com/news/robo-dogs-therapy-bots-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2022/01/03/2fe2df27-a54e-457e-8391-a829769c3f6e/thumbnail/1200x630/bdc4a46af1af8eed58d370a42a8e332b/robo-dog.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/robo-dogs-therapy-bots-artificial-intelligence/",
-      "publishedDateTime": "2022-01-03T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

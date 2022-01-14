@@ -25,6 +25,31 @@ images:
     isCached: true
 
 related:
+  - title: "Entertainment Robotics Market Acquire Huge Growth, Global Opportunities and Trends from 2022 to 2027"
+    excerpt: "The Global Entertainment Robotics Market Research Report published by the Market Intelligence Data discovers recent outlooks for global and key regions in terms of key players countries product types and end industries This report studies the top players in the"
+    publishedDateTime: 2022-01-10T08:52:00Z
+    webUrl: "https://www.openpr.com/news/2521674/entertainment-robotics-market-acquire-huge-growth-global"
+    ampWebUrl: "https://www.openpr.com/amp/2521674/entertainment-robotics-market-acquire-huge-growth-global"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2521674/entertainment-robotics-market-acquire-huge-growth-global"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 54
+  - title: "Entertainment Robots Market by Technology Innovation and Growth 2021"
+    excerpt: "Entertainment Robots Market NEW YORK, NY, U.S., January 13, 2022 /EINPresswire.com / -- Advancement in artificial intelligence technology"
+    publishedDateTime: 2022-01-13T15:41:00Z
+    webUrl: "https://menafn.com/1103534725/Entertainment-Robots-Market-by-Technology-Innovation-and-Growth-2021"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/13/EP_43fe4image_story.jpeg"
+        width: 800
+        height: 507
+        isCached: true
   - title: "Artificial Intelligence (AI) in Social Media Market 2022 Highlights Recent Trends, Market Growth, Business Opportunities till 2026"
     excerpt: "The Artificial Intelligence AI in Social Media Market report offers an in depth assessment of market dynamics the competitive landscape segments and regions in order to help readers to become familiar with the Artificial Intelligence AI in Social Media market"
     publishedDateTime: 2022-01-10T09:41:00Z
@@ -47,20 +72,31 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 24
-  - title: "Cognitive Services Market-Size Volume, Share, Demand growth, Business Opportunity by-2023 (Trending Report)"
-    excerpt: "... of the key players offering cognitive services and Platforms-as Service (PaaS). The major cognitive service vendors include IBM (US), Microsoft (US), AWS (US), Google (US), TCS (India), Baidu ..."
-    publishedDateTime: 2022-01-10T12:45:00Z
-    webUrl: "https://menafn.com/1103514261/Cognitive-Services-Market-Size-Volume-Share-Demand-growth-Business-Opportunity-by-2023-Trending-Report"
+  - title: "Artificial Intelligence in Telecommunication Market 2021: Industry Analysis, Opportunities, Technology, Demand, Top Players and Growth Forecast 2027"
+    excerpt: "Summery New Research study examines the current worldwide Artificial Intelligence in Telecommunication Market in terms of demand and supply as well as pricing patterns for the current and future years The revenue market share profit margin primary product portfolio and"
+    publishedDateTime: 2022-01-10T10:42:00Z
+    webUrl: "https://www.openpr.com/news/2522008/artificial-intelligence-in-telecommunication-market-2021"
+    ampWebUrl: "https://www.openpr.com/amp/2522008/artificial-intelligence-in-telecommunication-market-2021"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522008/artificial-intelligence-in-telecommunication-market-2021"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
+      name: openpr.com
+      domain: openpr.com
+    quality: 20
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?957437"
-        width: 375
-        height: 250
+      - url: "https://cdn.openpr.com/V/1/V110498270_g.jpg"
+        width: 660
+        height: 495
         isCached: true
+  - title: "Healthcare Claims Management Global Outlook & Forecast 2022-2027: Advancement of Automated Medical Billing and Management - ResearchAndMarkets.com"
+    excerpt: "The \"Healthcare Claims Management Market - Global Outlook & Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence (AI) has transformed various industries across the globe and radically can alter the healthcare field."
+    publishedDateTime: 2022-01-13T14:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-healthcare-claims-management-global-outlook-forecast-2022-2027-/2022/01/13/9526038.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "4ShT+rm/aaGRg2qrTYtlcUR81CjbVYwDWvvnsT3zl2fqC99JIQcPaRX672CKdnoX5i+opX4Wt+7OSj3f9CN57SQYmUmNjjSWg/yj2vVsNbm8kMkEjMmsxyvzrwNBz9vvg6j9+2rLv7R4FcyQuvsoF3ZkCZHnwQ3qFfUOj0az6uE2J+l3O9tN/N8R7psqqdpm+eL/TBvCqcUHtq6JZBmOCAc+wFdUfdWkw+ga0frBGFbZrSLBjUqh8kUbtPrmD/rzwXOzEfCvDX79/0B+e9MG4n5UPudmPPb7V5sKDk47ZUjskdceRxBXYsI3AaWIm0QEUG/bXJRShnjfElZeF/P51GW0v0GQHTLcUCcjvYRvWL8=;sbdNsWPrjo6UjXp0GikW+g=="
 ---

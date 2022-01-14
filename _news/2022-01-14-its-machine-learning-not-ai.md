@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-14T02:28:00Z
 originalUrl: "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh"
 webUrl: "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - IBM AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C5612AQFvVKc2mtnqhw/article-cover_image-shrink_600_2000/0/1642127255161?e=1647475200&v=beta&t=Y8Vdhbw9yATaB2IpzTyQ3csWJ4qsUlioGVXg1GBFph8"

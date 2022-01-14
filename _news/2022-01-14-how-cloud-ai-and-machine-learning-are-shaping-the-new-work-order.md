@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
