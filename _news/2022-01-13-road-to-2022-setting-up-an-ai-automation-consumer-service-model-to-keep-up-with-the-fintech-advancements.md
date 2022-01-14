@@ -7,7 +7,7 @@ originalUrl: "https://www.socialsamosa.com/2022/01/road-to-2022-ai-automation-co
 webUrl: "https://www.socialsamosa.com/2022/01/road-to-2022-ai-automation-consumer-service-model-to-keep-up-with-fintech-advancements/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "2022 AI predictions from AspenTech"
-    excerpt: "Bill Scudder, SVP and GM of AIoT Solutions at AspenTech, shares his predictions on AI, automation and workplace culture for 2022. Generational workforce changes will accelerate kn"
-    publishedDateTime: 2022-01-09T08:00:00Z
-    webUrl: "https://manufacturingglobal.com/ai-and-automation/2022-ai-predictions-aspentech"
-    type: article
-    provider:
-      name: manufacturingglobal.com
-      domain: manufacturingglobal.com
-    quality: 37
-    images:
-      - url: "https://manufacturingglobal.com/sites/default/files/styles/og_image/public/image/GettyImages-1092965482.jpg.png?itok=TiAX63LR"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Um3uJtf3CiAMH+FaNdLqTYYwFoH8AgkTFk1ZzrC6cwcPiBUTPO//fH3HqVQzFrlhv7cJpom8Ci6iPITAUBybIiEo0m60nIbAX69ugh6RWaApb2Fcd6pdvnkdT3ZSZ7LpuShg2TlsSJlhgen3RLU3KNzvUrEut4YKBXUdwzpHi/jpXXhEZ1wzvDbq/t0Ycjjldvsu8bu71GTNssa4fnQuyoAWmovY2/SGcr9P845KT+KfwQ6d7MN1MWd9wCxKSufLNOKmeUvGQ4miXfju7ulvyAebTEhb4xkns1WrUhe+vP0leOpKMjKz7DRqRt94Cj9QBUOrOdliAP8w2U0xmnwx3eHLeJXueIrQroXQadR4lUKoit+y6oDfXENTu4clrqRabwv9MzHjePWviKqonvvdtwIzFYkKU5JMUo/xNwSFFRllN+G5563NgqO3AFj0/ElMc5hyYE2pxSv3/8/Nw74DTzDTj0sXuyNAW9VPegxvHKGV9FxGJ6GZeeFu9v2rgJJYxa2P4exNjdj4CbuGP1k43w==;ilW0W7b3XBBycoQ44ZqVKQ=="
 ---

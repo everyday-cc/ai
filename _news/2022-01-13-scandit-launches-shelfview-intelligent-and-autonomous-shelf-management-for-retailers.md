@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Scandit launches ShelfView: intelligent and autonomous shelf management for retailers"
-excerpt: "ShelfView is a smart data capture and analytics solution that enables real-time shelf visibility and empowers more intelligent and efficient store operations. Based on advanced computer vision technology,"
-publishedDateTime: 2022-01-13T08:02:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-1e995dacb353a4cc9d03326dc7251175"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-1e995dacb353a4cc9d03326dc7251175"
+excerpt: "Scandit, the leader in Smart Data Capture, has launched ShelfView for retail. ShelfView is a smart data capture and analytics solution"
+publishedDateTime: 2022-01-13T07:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/n25031022/scandit-launches-shelfview-intelligent-and-autonomous-shelf-management-for-retailers"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/n25031022/scandit-launches-shelfview-intelligent-and-autonomous-shelf-management-for-retailers"
+ampWebUrl: "https://www.benzinga.com/amp/content/25031022"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25031022"
 type: article
 quality: 32
 heat: 32
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "iuQMpxnFymI1kL/Hvuusmc6OtSbVTdhhqbJEAAtkamkn0iqRwW4ydFn1NpV+oRudRZ135p5ny8G5mslh5vMuegKwCyxK6xQNXyCN95mNRVEebRnZ/ObwDcMXN4tzp8EGjvjwwtFxIgma4JS6e7zO5q1D1mhkYbvGVFQ+Iqz9lVyR5W21qUqOJdWeX1kDUGcbGhwD/sVimVHAjohyGpzW2TPEj+WzkHfdthmfxuPn6EeocEV8d0nhA19xUgmVvcTwdWpXQmsv1NenDWBCcUXDuNZNFZi6q7hm4nzDY4Dh9skDiEPajb7ghbGlkzlVxmAOjUonpuZZik+cR85XXuv18UGkKpeF23lmLKFC8JBMFzA=;F/Y3UsNIdZhEUbsDZwxGyw=="
+secured: "BLGQrOPI56j5C1ybotWLZ2MfXXAHEG7387HeT4X8z02Oy0/MzE07Yr7l+8MaY0Azd04p4Jiobwz5X70vjIM+AXoZUqlxRSQJAsN22+hHGfZ/Tp1EJbIxsI/SKtSdW70+b1IibRriBY5+iPa976sU9J6qXFIeVxkZ4fsXfVXIORPwXosWUx3BIL4r0KNbcxP6bBj86M34eLdE1GDlGb8yDvd8L6cB6fsWr9L+w99OtSlTRDh5R1BJyNL8GixjLHWE4/UHuTGZ+3jNq/ItVLi2hsVNVxb/LCLGl2TWjD4iomJKmyc1eCFIWZ+Gfw5kS0Y77YHqpKDA2R7zwErCK3p2fJqnAV3pf2PxC4Ohayq0iLA=;0wutVw5Aq/YzkwmJ29oXgw=="
 ---
 

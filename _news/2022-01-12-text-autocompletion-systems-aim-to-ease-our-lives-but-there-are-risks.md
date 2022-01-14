@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/11/text-autocompletion-systems-aim-t
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/text-autocompletion-systems-aim-to-ease-our-lives-but-there-are-risks/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

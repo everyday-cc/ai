@@ -68,6 +68,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Artificial Intelligence Platforms Market to grow by USD"
+    excerpt: "PRNewswire/ -- 68% of the growth will originate from North America for the artificial intelligence platforms market. The US is the key market for artificial intelligence platforms market in North America."
+    publishedDateTime: 2022-01-14T00:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-usd-1729-bn-/2022/01/13/9526405.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1725144/Technavio_AI_Platform.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Artificial Intelligence In Drug Discovery Market To Gain A CAGR Of 40.8% By 2025"
     excerpt: "The incorporation of AI and machine learning tools in drug discovery and development applications can improve healthcare outcomes by enhancing overall efficiency. As per MRFR, the Artificial Intelligence in Drug Discovery Market is estimated to gain a USD 2,"
     publishedDateTime: 2022-01-13T07:13:00Z

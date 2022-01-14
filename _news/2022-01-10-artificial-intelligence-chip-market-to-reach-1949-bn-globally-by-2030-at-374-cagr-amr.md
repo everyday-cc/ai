@@ -42,6 +42,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product"
+    publishedDateTime: 2022-01-14T00:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
 
 secured: "+f217b0wmc+lD6DhkVs9GUxN7O5ixl6UplcCKDT2oCsvBuNTZKZhMbhM0idayMq5IcvP1cqqfh+L0aUAPQ5AyNbCw12m0GZXh8JOps1i3R/DPM0etdAiyKegHjCtfFze15dL/hUYNK+WWNMnfTRLuTcbf8GiaaGsEVRBIwQ8pdmaw5zBiGTGjOA0adhlMc2FToYXqs7ZFBx1YSD0bmxYvyOM608uONx/UKbR3+GZ6vbZHQ0K7C5dU4h99uqgXNZMMen/50OVxfB1grKJtgZ+WjKflRWmXwYOjL3juReVQzGlBOYfMsCZwy47rg7/O3MU/dyVV79/8PZ/mfA7+FBZqLEPhibKnuqI5N/eUhHtSrLYxQU13WkVfKSDLNTH4sJ2rJrxwoJhoSp1v895olZsRtpxzBknoQxOS8u3Q9VErnPOfCqpYboV45G72yoRkFtfiYHeNgLyEBxdSAXhDLtygPRc3eiBYrpeCTM27fkd2ZjxU1QXCyyd8WpcGs5fAXgZ3YALFlyvzUJ1ArWYwW4DRg==;l+AVJcFZtWN1EAsa6fC5+g=="
 ---

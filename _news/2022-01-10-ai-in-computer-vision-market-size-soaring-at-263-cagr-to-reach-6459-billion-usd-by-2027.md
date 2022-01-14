@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?740404"
         width: 374
         height: 250
+        isCached: true
+  - title: "Artificial Intelligence Platforms Market to grow by USD"
+    excerpt: "PRNewswire/ -- 68% of the growth will originate from North America for the artificial intelligence platforms market. The US is the key market for artificial intelligence platforms market in North America."
+    publishedDateTime: 2022-01-14T00:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-platforms-market-grow-usd-1729-bn-/2022/01/13/9526405.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1725144/Technavio_AI_Platform.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Call Center AI Market to Reach $9.94 Billion By 2030: Allied Market Research"
     excerpt: "According to the report published by Allied Market Research, the global call center AI market generated $959.80 million in 2020, and is expected to reach $9.94 billion by 2030, registering a CAGR of 26."

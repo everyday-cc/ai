@@ -7,7 +7,7 @@ originalUrl: "https://www.audible.com/pd/Why-is-Artificial-Intelligence-the-Futu
 webUrl: "https://www.audible.com/pd/Why-is-Artificial-Intelligence-the-Future-of-Growth-Podcast/B09Q355ZLF"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,19 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Can IBM Shrink Itself Back to Growth?"
-    excerpt: "IBM stock has underperformed for many years. When taking a look under the hood, it's easy to see why. Although the dividend has been increasing, revenues and earnings have steadily been decreasing for a decade."
-    publishedDateTime: 2022-01-09T07:41:00Z
-    webUrl: "https://www.nasdaq.com/articles/can-ibm-shrink-itself-back-to-growth"
-    ampWebUrl: "https://www.nasdaq.com/articles/can-ibm-shrink-itself-back-to-growth?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ibm-shrink-itself-back-to-growth?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "uzYQasr3MJS3x2621OacAiuvOGm/GM7hqgkxzzwrSzfzF3ijW7V8omfjlsF+heXhKJCYWYs2N0yNmlqa43S7tAXXzKe674SHlM5z0xQLfpKSzgr214co4IpAno+Zx2aJmTw8DtIJYNEGkv5Ax/L0j9XZtSfCWxjVj9QuVE/NZtAz+N5IiVgj7JphHcC99H3LPS61tl4Ptq9qZXJcBmEk23aVZM14/uBcA6u7BEOL36JR020YS/ETD9hZ2C1QKUyEJ7q8hBLWyZ48YVcdnmSGPkD2Y0YwhDIWTJPvnobP2UFsbVpnnQr3r2U+mXcNRC/44AOdTDzBd+YzWKlRsx5nkSTFC/z5AUYmq2DY1mWPNRg=;Dpw2kj9tPn6lEzTnTIhmaw=="
 ---

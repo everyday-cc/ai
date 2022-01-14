@@ -19,6 +19,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Finance
+  - AI in Autos
 
 images:
   - url: "https://customerthink.com/wp-content/uploads/pixabay-robot-1214536_1280.png"

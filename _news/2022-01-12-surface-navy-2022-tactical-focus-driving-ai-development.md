@@ -9,7 +9,7 @@ ampWebUrl: "https://www.janes.com/amp/surface-navy-2022-tactical-focus-driving-a
 cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:
