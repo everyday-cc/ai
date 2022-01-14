@@ -64,29 +64,6 @@ related:
         width: 600
         height: 305
         isCached: true
-  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
-    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
-    publishedDateTime: 2022-01-13T16:13:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
-    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
-    publishedDateTime: 2022-01-13T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible/article_8df099d3-d5c5-52c4-b300-7e9b1b4eea10.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
 
 secured: "YRPny1MRnDAWeI+FDAVQL/ZY3HiSv9wFhYGjP5eHQGgYXy+3FMvQWQ5UUCFogxG38KoeX1AQkyLTNGXiCa7zCnnk51U37mLQJGD9e8N9kQU0//jukIK5QuLcUhvDSOM71wwNyJtqa05Lz/3MU8PTBqO5b6X9BiItzx31UxFseh2LyQg9HVDauOQOnrrSzqJR3TQ+fneBlDmqMUYcdvuw3RKyRl0OOdFhUYW5ePZPMteYBQi7KCwqYPTkCBAtxpl64sa8jeF7ZnIB7DecXyk/UnC96zntWJs6wKl3oC6qOxJhMhGgr3wBu2vtqTNfsclke6/RKOFtk2jWdtSWgj6YLuBdzpKPZqK9ZAaSXFmyG98=;UBIc36GdV/ebAZkA3DKXOA=="
 ---

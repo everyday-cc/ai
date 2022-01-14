@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25011222"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011222"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -21,21 +21,19 @@ topics:
   - AI
 
 related:
-  - title: "AI-guided diagnostics to drive the Diabetic Nephropathy Market"
-    excerpt: "The Diabetic Nephropathy Market is expected to grow on an irreversible note in the next 10 years The future scenario would be data driven healthcare This would in turn widen the potential for enhancing treatment options With interoperability taking the"
-    publishedDateTime: 2022-01-10T05:01:00Z
-    webUrl: "https://www.openpr.com/news/2521406/ai-guided-diagnostics-to-drive-the-diabetic-nephropathy-market"
-    ampWebUrl: "https://www.openpr.com/amp/2521406/ai-guided-diagnostics-to-drive-the-diabetic-nephropathy-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2521406/ai-guided-diagnostics-to-drive-the-diabetic-nephropathy-market"
+  - title: "Deep Learning In Drug Discovery and Diagnostics Market Trends and Forecast"
+    excerpt: "Deep Learning in Drug Discovery and Diagnostics Market is expected to value over USD xx billion by 2027 end and register a CAGR of xx% from the forec"
+    publishedDateTime: 2022-01-12T13:42:00Z
+    webUrl: "https://menafn.com/1103527504/Deep-Learning-In-Drug-Discovery-and-Diagnostics-Market-Trends-and-Forecast"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
     images:
-      - url: "https://cdn.openpr.com/V/1/V110192213_g.jpg"
-        width: 618
-        height: 311
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?868007"
+        width: 374
+        height: 250
         isCached: true
 
 secured: "Szi9rDsPepli89X3VGnUq5wmfHGBQUOuzEqmodMyJvLByM9zMr0ouhxdDh9aNFRIJbvxzWVqc0maOJOCieIwQnanRtuBWP3w1+xGi1loMAXs1M2kjm7Jqtpaen9qwE4eIQRI0jq8de90E9Q9yRSbgSJu0lw1BiiH3VEsBTMIagJm5q4HDe6Y2pvaVETsoTt7POpMQZQH0QvL9VfmJHid4uSBEtoq3iVVtKnsqf4TvxoG5dYTy0qfB7siFaZ7Rl4u/lWQJFDOmcILLERei0nYa6DCfp7zJ1oVAedSVW5E1Ih0SlMXLKtWu7UDdBREIlGyd9vwdKmx+XlgKlXzyAdYnSp6kX+I/di2q8lnV46/wLQ=;N5PZWqRDI/Q9xeT80LE42A=="

@@ -370,6 +370,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "California regulator revisiting Tesla’s Full Self-Driving beta software"
+    excerpt: "Recently a letter was sent to State Senator Lena Gonzalez, the agency now says it is “revisiting” that decision."
+    publishedDateTime: 2022-01-14T05:43:00Z
+    webUrl: "https://techstory.in/california-regulator-revisiting-teslas-full-self-driving-beta-software/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
+        width: 940
+        height: 516
+        isCached: true
   - title: "Tesla's Full Self-Driving Beta Might Just Help Drivers Perform Rolling Stops"
     excerpt: "Drivers using Tesla ‘s Full Self-Driving (FSD) beta can now choose between three different driving profiles that will determine how the car will react to various situations on the road. Tesla is offering a “Chill,"
     publishedDateTime: 2022-01-11T08:03:00Z
@@ -441,6 +455,6 @@ related:
         height: 960
         isCached: true
 
-secured: "G3J6PLARQ3FjT63Z6iKVzG/URxgrS6C48P0M4QQ9iAalNauX0rI+KuN4h83gUfL6uEfgwQyhm26mOUnLSpoQcZTV5Rp0te2tNeqzdAp8617y+qWfhZo9u6Dg40JgxZ70rR9h1Var00M7OcSFaXToaJ06/b31oRFYTPkl+geu9gAmeWAcM7wi5P86CSS6SlC8arFEc0KIDtVTvOkYSiRTsxIqFZzyNgS/wZm9f4GtqjVHMmsV8C4N5NjeS+QUN1ED9C1ntyXLO33tI8snT82GQrNQCnytkexlxVY+S37uTxD7TjC7BgXKnkFAWp/QdIhVg65okt/ZxIOJsy3PD5xn2PDDJn6+Ms2BEAYBExyircM=;KH8emBbNRQ1c7hBuQpFy+A=="
+secured: "C1tqYflw8hl13At8RFFbuodQrfSxcKJwjxEPunXOYao+YV5a0478G7SsQXwxNgWf3bkbnsgsqBFDquSgDL0ab7Vqbpkpx2pg3YcunbCb81NIKd+eSl1N+kbLdXD6Y9CSE5Z65YmjMdTHiGAQtRTprYz2YVG//Q6xsbTsfjW58S8yCQRsJogmP3mF3gEEIoyY0uvcTL5cpQUsKlpeQW6bkWSXC3BVCIKISqN6+RqkQ+a+tAGAGPQSi2N5tQHYE7GkVJE0IRpU7kAG+ZH9JNvZqKiID8obNENDuzqRlNfgx68aDO7uv4wz0bzShVRx9RnaQhW4C+WvYG+WcJ7RnbaOtX5b0+kT3vwVGqkpx9LEsa2puxgU/5obUw0Pa8QvPYBA+NrvWFzzoFTjPCauXqnCgIb882V9rC2hNOXrnPaWYXp2vLh/TUTv5+YW6oFvYfCaPefzeWfZKg05UbjLV4t/EdmLCoMB+nXFgIV8Oqlply3UrntI4MV8os3k4iAFI7wR6dkN/lJIkLC01RJ6gBridw==;JAEBEgp7NB4wJlNDkzUxqQ=="
 ---
 

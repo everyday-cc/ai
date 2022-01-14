@@ -370,6 +370,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "California regulator revisiting Tesla’s Full Self-Driving beta software"
+    excerpt: "Recently a letter was sent to State Senator Lena Gonzalez, the agency now says it is “revisiting” that decision."
+    publishedDateTime: 2022-01-14T05:43:00Z
+    webUrl: "https://techstory.in/california-regulator-revisiting-teslas-full-self-driving-beta-software/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
+        width: 940
+        height: 516
+        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ Will Jump to $12,000 and the Only Winner Is Tesla"
     excerpt: "The change was announced in a tweet thread by CEO Elon Musk, who declared Tesla would increase the software's price from $10,000 to $12,000 in the United States on January 17. Musk added in a reply that \"FSD price will rise as we get closer to FSD production code release,"
     publishedDateTime: 2022-01-10T18:47:00Z

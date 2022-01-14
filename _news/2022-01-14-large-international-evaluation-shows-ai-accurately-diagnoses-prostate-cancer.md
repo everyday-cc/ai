@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-large-international-ai-accura
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-large-international-ai-accurately-prostate.amp"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "New incubator for AI collaboration"
-    excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
-    publishedDateTime: 2022-01-10T06:01:00Z
-    webUrl: "https://insights.globalspec.com/article/17993/new-incubator-for-ai-collaboration"
+  - title: "Study shows AI systems can accurately identify and grade prostate cancer"
+    excerpt: "Researchers at Karolinska Institutet in Sweden have together with international collaborators completed a comprehensive international validation of artificial intelligence (AI) for diagnosing and grading prostate cancer."
+    publishedDateTime: 2022-01-13T23:55:00Z
+    webUrl: "https://www.news-medical.net/news/20220113/Study-shows-AI-systems-can-accurately-identify-and-grade-prostate-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220113/Study-shows-AI-systems-can-accurately-identify-and-grade-prostate-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220113/Study-shows-AI-systems-can-accurately-identify-and-grade-prostate-cancer.aspx"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 39
+      name: News Medical
+      domain: news-medical.net
+    quality: 56
     images:
-      - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
-        width: 640
-        height: 382
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "BI+UymUh9FubdBJkIb0ExDnrX8WbTYolbsnKWMCbC2+ob9VeY1DGw3/pw4fPVHzvTYuDc+C1tL0YTO2xwbgeFKTezm5WlTREvNdum2qDNr22q4pODUv7MUSNktz1PtpagDiyO1b05jnKbsb+z+ig3Roq+AGmu/QWlCIpD7b59CfFwIuU8Aw/e+6Op6s/KZp8e4So2HZckLPvZMwNyR02CIMv6upUHyIo96I3G8CYdzjJgd02shjhubmI4K3DwfEG8IkcAzMTIEbj2zECSIlTTrbWKrir9VOqPFnvhOaQgA0Wf21yuEQW3/mjskRYAlSCs6qPii5Gp4QTYW4iPs0YPI0gpy52YzfMATcQWz0d5KDORCceGt7AI9QmcPVtuDoE4lHS4miNGZcnI02Xbqi4NHf5976qKVJKHg6xFoUsSZluUj8yEAti9qn2T4WfWstKqkyxSa8Qd86Z4OZLdTJR3itakBrumrcw4KeFeMDivGqPPq8JQfhKoSQp/UumByswOuxOYQTH+rJY+kSxTGcCzw==;uyYl1toQkpE2CwdLAB6brQ=="

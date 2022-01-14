@@ -356,6 +356,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "California regulator revisiting Tesla’s Full Self-Driving beta software"
+    excerpt: "Recently a letter was sent to State Senator Lena Gonzalez, the agency now says it is “revisiting” that decision."
+    publishedDateTime: 2022-01-14T05:43:00Z
+    webUrl: "https://techstory.in/california-regulator-revisiting-teslas-full-self-driving-beta-software/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
+        width: 940
+        height: 516
+        isCached: true
   - title: "Tesla's Full Self-Driving Beta Might Just Help Drivers Perform Rolling Stops"
     excerpt: "Drivers using Tesla ‘s Full Self-Driving (FSD) beta can now choose between three different driving profiles that will determine how the car will react to various situations on the road. Tesla is offering a “Chill,"
     publishedDateTime: 2022-01-11T08:03:00Z

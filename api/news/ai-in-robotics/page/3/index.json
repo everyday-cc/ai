@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-28-the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges.md",
+      "title": "The Maritime Robotics Challenge: Collaboration to Solve “Unsolvable” Challenges",
+      "excerpt": "The Mohamed Bin Zayed International Robotics Challenge offers more than $3 million USD in prizes.  This year, the Maritime Robotics Challenge is designed to bring emerging technologies together to tac",
+      "sourceUrl": null,
+      "webUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
+      "originalUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dronelife.com/wp-content/uploads/2021/12/1024px-Maritime_Transportation-e1640629145440.jpg",
+          "width": 612,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
+      "cdnAmpWebUrl": "https://dronelife-com.cdn.ampproject.org/c/s/dronelife.com/2021/12/27/the-maritime-robotics-challenge-collaboration-to-solve-unsolvable-challenges/amp/",
+      "publishedDateTime": "2021-12-27T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dronelife",
+        "domain": "dronelife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-robotics-might-be-bigger-than-industrial-revolution-lightspeed-partner-says.md",
       "title": "Robotics might be ‘bigger than industrial revolution,’ Lightspeed Partner says",
       "excerpt": "Raviraj Jain, whose firm has invested in a startup that’s developing a grasping tool, says warehouses represent ‘the biggest opportunity’ for robotics at present",
@@ -1279,58 +1322,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-nauticus-robotics-to-go-public-in-560-million-spac-merger.md",
-      "title": "Nauticus Robotics to Go Public in $560 Million SPAC Merger",
-      "excerpt": "The ocean software startup is working to replace large ships with robots in industries including energy and fishing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
-      "originalUrl": "https://www.wsj.com/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-453691/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/nauticus-robotics-to-go-public-in-560-million-spac-merger-11639735204",
-      "publishedDateTime": "2021-12-17T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

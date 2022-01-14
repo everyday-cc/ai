@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Global Environment, Health and Safety (EHS) Software Markets, 2022-2026 - EHS4.0 & Artificial Intelligence (AI) Solutions for EHS Gaining Traction"
-excerpt: "DUBLIN, Jan. 13, 2022 /PRNewswire/ -- The \"Global Environment, Health and Safety (EHS) Software Market: Size, Trends & Forecasts (2022-2026 Edition)\" report has been added to ResearchAndMarkets.com's offering. Global Environment, Health and Safety (EHS ..."
-publishedDateTime: 2022-01-13T18:58:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-environment-health-and-safety-ehs-software-markets-2022-2026---ehs4-0-artificial/article_57971b52-db82-568d-af35-c12bfe022156.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/global-environment-health-and-safety-ehs-software-markets-2022-2026---ehs4-0-artificial/article_57971b52-db82-568d-af35-c12bfe022156.html"
+excerpt: "Software Market: Size, Trends & Forecasts (2022-2026 Edition)\" report has been added to ResearchAndMarkets.com's offering. Global Environment, Health and Safety (EHS) Software Market report provides an in-depth analysis of the EHS software market,"
+publishedDateTime: 2022-01-13T16:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/n25042532/global-environment-health-and-safety-ehs-software-markets-2022-2026-ehs4-0-artificial-intelligence"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/n25042532/global-environment-health-and-safety-ehs-software-markets-2022-2026-ehs4-0-artificial-intelligence"
+ampWebUrl: "https://www.benzinga.com/amp/content/25042532"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25042532"
 type: article
-quality: 0
-heat: 0
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "S5mKxterxLzqo2adBru79sEB4zInLAPwoMuw6RGUPE+2PL1ZDp+nA9JN96iBlozXLdnlIORzQe+EMhUzUIuoTdSVX/DUmJ8tK4oa9lIYUKpT7KVLlg9gDaLGq1tpgAcIQN6SdAheeA1WUKHs+DJjVH8o+SrRqOff8VrV7mrZaAkUmwI2fcscJz+87Uq9jFrS3H61oqjEFJ3a2Pqoo6TPyLPC6V2Scl8Drd3i5LekKR1kIV8jekFKx0L4mtYbGZJL0QaAd4az8RgsfbXV95VuWKI9ZZfYQGtChgcFH3rr28aFht/haAuWJyRxohWuQpBnCLI/Ers33r/iD0r48xk8m3V4DcNc7MhxdtRP00+PGwxd4jTS41EBIClcr+sBcfU8ZHaAuRo1kmF9ipWqGGklb2D1Msc4hyQVnhws5ZC3T2c9OEvSLAhDJ5HLjz0ZkKN9p7oAN6nZL0exPsLX2sEzC0joXoyq2wAfRhfL+FUvx6GGqi/h8qMPdRMe6ehEMhTJoGmXrp9K6G/wwnFJVD5T9A==;mp/yqVkTAbxF1ThqGGHqyw=="
+secured: "1RYc1yRmqTlrihvkrkYntPMf2CACbdiT6PmtkhplC1tQIZMvsZf53UW9c81jlHEUUZQUN2Mfq0+uBRBaaY9F4AdiKRheenAJCWwkpSrhDSbigpbmoj4yTZwHbWbPtVOX2EE4qKo+AQh/93tvxjD4vSlyMayH9QSpr9EAOEetww2HWXt41SnobOMlMig9aEhyEX2KZFYk0MC5ky6D34JFXbLu9uGg3v3di1pNQPWUwhCJz5Q5HkbKu9+XODbHLY2OVV+arkt8oA8xkQGfSM/p31MfUmMs27xqtBjrFqNZV3FIRT6ogTS+rRFQ672avAgs+d6Z9ZK7aa1+/BRP9dIh35HWVyh7nOe3KdpdM/AiYO0=;f3pasAHcXj1x76eVsPh7iQ=="
 ---
 

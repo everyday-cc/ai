@@ -46,6 +46,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "The Top AI-Powered Recruitment Changes to Consider in 2022"
+    excerpt: "Artificial intelligence has become a necessity for employers willing to stay on top of their game. AI-driven recruitment is inevitable, and innovative solutions will continue popping up throughout 202"
+    publishedDateTime: 2022-01-14T08:31:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-ai-powered-recruitment-changes-consider-2022-pierrick-le-bourdiec"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 39
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHjnfBfRxk15Q/article-cover_image-shrink_720_1280/0/1642147381614?e=1647475200&v=beta&t=9BruFEcRft7R1OpxpfR8M1DlE5-lude3lCEKXQ1_Qb8"
+        width: 1081
+        height: 720
+        isCached: true
 
 secured: "+N6xSZ35TtHMl0ND0O8rZLcnzQPl2WEjwd37Mwnes6m0QbR646y+VIU0VKbmqKvsQzMX4T88GWeELQctr6OcdbKMsswuKFQpfc7IRagzZeIT0COEu00XEL20ks9bbTZwIbZLPGiMqSDDHDOmbdJzRGfH44JiS/WpOIEHfb8sK0OZNBaQHI6ka5BJbNY6HtvpWg4Bo2RQuHRnMNIrSmtjNDRwDVeLRnLF3Wto5g+1n7oCk1C1npmpUxDON24n5kkzeoWuAz7TRlcyC5+RzmcxTFHV4F+vs46qSPd4G6tCBk4erQgaKuJfgYYUbNJcWpB4Ey+KUszU+Xe8YTiCPrHDFgCusNfemxhGJtdWu646JYzrRY4hiQj1VOkMAv6uUaQ0RXpvq6VqRJI1X4mqUCVhsY2R9Iwi5pPaJVMusTVEBEG+DoYyQprgYOhcqibNf/1ISyUeh7Z5ChidKKgxWf8vdLe3l+OZyyx+W2QP1N5KSTeXx0h99V3Cc6FFK8n5FyYnsrNskspwsrVSJCVbmUduGA==;C0St0cZVCzq5di7HZUlkEg=="
 ---

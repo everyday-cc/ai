@@ -55,6 +55,34 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Five AI Inference Trends for 2022"
+    excerpt: "It’s an exciting time to be a part of the rapidly growing AI industry, particularly in the field of inference. Once relegated simply to high-end and outrageously expensive computing systems, AI inference has been marching towards the edge at super-fast speeds."
+    publishedDateTime: 2022-01-14T07:26:00Z
+    webUrl: "https://www.design-reuse.com/news/51243/five-ai-inference-trends-for-2022.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 37
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51243/2022.jpg"
+        width: 470
+        height: 315
+        isCached: true
+  - title: "Top 5 Fintech Trends to Watch in 2022"
+    excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
+    publishedDateTime: 2022-01-14T08:03:00Z
+    webUrl: "https://financialit.net/blog/fintech-trends-banking-nft-blockchain-payment-bnpl/top-5-fintech-trends-watch-2022"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/img_4252.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
 
 secured: "M+O/4XoeHu2bj8GV8dnDiCR/ajy6RIu5GCGUfhzgWVRHVJdSmmhg7oqnRLep8lupOmodnt9PO4+ACuCRb7zXbQoV4t+8fPpR59cIscdz4ngdR0ynPphit4OsJ1E5noOOM9Y9kHZdnk/sfYIholZSBK/99266DXau/YxkM9mOEIIX3NmOMfT3pRXZolRKf9wXXW8H0cYUFDBfcNdeCku6jpRdfpeDdfylzZuv349n6W0Ij3dlldQAEPAJU92EMMwZpwY3PlltwoCzqHEaQQmdUnoHKm/bFEUnmdga60D5cWxofOa4g5RDBjUNWf7ZpKlgdxhIHynZgUvQxzbMffAC0zdvGtbkPfE7Ze55yJqaak0=;OXPv14R0ctmw+DLveRlIqQ=="
 ---

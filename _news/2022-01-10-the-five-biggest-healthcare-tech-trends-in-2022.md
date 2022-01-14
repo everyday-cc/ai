@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 129
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Five AI Inference Trends for 2022"
+    excerpt: "It’s an exciting time to be a part of the rapidly growing AI industry, particularly in the field of inference. Once relegated simply to high-end and outrageously expensive computing systems, AI inference has been marching towards the edge at super-fast speeds."
+    publishedDateTime: 2022-01-14T07:26:00Z
+    webUrl: "https://www.design-reuse.com/news/51243/five-ai-inference-trends-for-2022.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 37
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51243/2022.jpg"
+        width: 470
+        height: 315
+        isCached: true
   - title: "Five key fintech trends to watch in 2022"
     excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
     publishedDateTime: 2022-01-12T07:32:00Z
@@ -58,6 +72,20 @@ related:
       - url: "https://thepaypers.com/images/social_media/fintech-trends-social-media_LI.png"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Top 5 Fintech Trends to Watch in 2022"
+    excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
+    publishedDateTime: 2022-01-14T08:03:00Z
+    webUrl: "https://financialit.net/blog/fintech-trends-banking-nft-blockchain-payment-bnpl/top-5-fintech-trends-watch-2022"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/img_4252.jpg"
+        width: 6000
+        height: 4000
         isCached: true
 
 secured: "CXPQla4YuySB0+4jryg4cgDHdU5YlBNjmIU0DiubZ97GwZ7SY7Z/pzsDnYg3gWCsRKn5vZ7hIj7ZEaTQCRRSLbFftkdtF27vj7hFz6eL1jGuOhrokI5WnN/b8pTnmq62GDMAzFgs3T9PMDoPS0y8Xp5X6eoZzvWrhA16231M7l7eOmwZaged4yjUJ2huI/CcniKrZveirHH3zwzljm5e0paa+2y4gWKMUuQhfMRzXVPjByGewb2fwr9S3aGRcBtXa2aecLfRPdaTG6reHoWlOPPN6BQ0H5mPIYMmYodwVeJoqmPJI89nBLd+sZUYjTtvCggEqSSd9QSGmiKQ6TJDKNJ/xR+6sx1kQHGx0Dz9QU8=;f/ldYOHUilZ7Bz80/dWM0A=="

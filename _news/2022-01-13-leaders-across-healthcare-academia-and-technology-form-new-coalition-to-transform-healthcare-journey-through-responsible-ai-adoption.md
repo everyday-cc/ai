@@ -19,47 +19,75 @@ topics:
   - AI
 
 related:
-  - title: "AI the brains driving broad transformation"
-    excerpt: "AI has become a core driving force for the new round of technological and industrial revolution in China, bringing tremendous changes to the country’s development and people’s lives in many fields, including healthcare,"
-    publishedDateTime: 2022-01-11T10:20:00Z
-    webUrl: "https://www.independent.co.uk/asia/china/china-daily/ai-brains-driving-broad-transformation-b1988601.html"
+  - title: "New incubator for AI collaboration"
+    excerpt: "The new AI Innovation Incubator’s goal is to create a bond between industry and lab/academic sectors through cognitive simulation. State of the art AI technologies can assist with problem solving in national security issues and applied science matters."
+    publishedDateTime: 2022-01-10T06:01:00Z
+    webUrl: "https://insights.globalspec.com/article/17993/new-incubator-for-ai-collaboration"
     type: article
     provider:
-      name: The Independent
-      domain: independent.co.uk
+      name: Engineering360 News
+      domain: globalspec.com
     quality: 39
     images:
-      - url: "https://static.independent.co.uk/2022/01/07/10/AI.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 813
+      - url: "https://insights.globalspec.com/images/assets/993/17993/Artificial-Intelligence_Main.jpg"
+        width: 640
+        height: 382
         isCached: true
-  - title: "Where Do The Chips Fall In The Energy Transformation?"
-    excerpt: "The energy industry is in the first stages of a once-in-a-century transformation. And one of the most important aspects of this shift is that EVs, solar farms grid equipment, and appliances will inherently rely more on digital technologies."
-    publishedDateTime: 2022-01-13T08:04:00Z
-    webUrl: "https://semiengineering.com/where-do-the-chips-fall-in-the-energy-transformation/"
+  - title: "Root Insurance Adds AI to Claims Operations"
+    excerpt: "Root will launch the partnership with the AI Subro solution from Tractable. “Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers."
+    publishedDateTime: 2022-01-10T14:33:00Z
+    webUrl: "https://www.fenderbender.com/articles/17289-root-insurance-adds-ai-to-claims-operations"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 37
     images:
-      - url: "https://i0.wp.com/semiengineering.com/wp-content/uploads/2017/03/iStock-620003738.jpg?fit=724%2C483&#038;ssl=1"
-        width: 724
-        height: 483
+      - url: "https://www.fenderbender.com/ext/resources/2021/09/02/pexels-pixabay-373543.jpg?height=635&t=1631180410&width=1200"
+        width: 777
+        height: 518
         isCached: true
-  - title: "Pony.ai forms JV with Sinotrans to further deployment of autonomous driving technologies"
-    excerpt: "Autonomous driving technology company Pony.ai recently formed a joint venture with Sinotrans, part of China Merchants Group and one of China’s leading logistics and freight forwarding companies. The two companies will work together to build a smart logistics network featuring autonomous driving trucking technologies."
-    publishedDateTime: 2022-01-10T10:36:00Z
-    webUrl: "https://www.greencarcongress.com/2022/01/20220110-pony.html"
+  - title: "AI research collaboration begins"
+    excerpt: "An associate professor in RIT’s College of Liberal Arts was awarded nearly $2 million by the National Science Foundation to lead a team of RIT faculty addressing a lack of diversity in the artificial intelligence research community and gaps in AI curricula."
+    publishedDateTime: 2022-01-13T09:55:00Z
+    webUrl: "https://www.rit.edu/news/ai-research-collaboration-begins"
     type: article
     provider:
-      name: Green Car Congress
-      domain: greencarcongress.com
-    quality: 30
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 37
     images:
-      - url: "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef027880653d4a200d-600wi"
-        width: 600
-        height: 305
+      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2022-01/AI-research-ASW_4898.jpg?itok=9cjuXLTQ"
+        width: 1080
+        height: 720
+        isCached: true
+  - title: "Penn Collaborative to Test AI, RPM Technologies for Senior, Alzheimer's Care"
+    excerpt: "Researchers from Penn Medicine and the University of Pennsylvania School of Nursing are joining forces on an NIH-funded project to improve care management at home for seniors and people living with Alzheimer's disease."
+    publishedDateTime: 2022-01-11T21:46:00Z
+    webUrl: "https://www.healthleadersmedia.com/innovation/penn-collaborative-test-ai-rpm-technologies-senior-alzheimers-care"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 36
+    images:
+      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
+        width: 820
+        height: 312
+        isCached: true
+  - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
+    excerpt: "OSARO Inc. a global leader in the development and provision of advanced robotics automation, and INNOTECH CORPORATION, which provides advanced products for electronics and consumer industries, have announced a collaboration to create an innovative demonstration for Rohto Pharmaceutical Co."
+    publishedDateTime: 2022-01-11T15:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-san-francisco-robotics-cd7b2bbb6f2048169b1aa520c62aff2c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
     excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
@@ -75,17 +103,15 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "$40M Available for Artificial Intelligence and Transformative Technology Innovators to Improve Care and Health Outcomes for Older Americans"
-    excerpt: "America is getting older faster. According to the U.S. Census Bureau, the number of people aged 65 or older in the United States"
-    publishedDateTime: 2022-01-10T12:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/n24968907/40m-available-for-artificial-intelligence-and-transformative-technology-innovators-to-improve-care"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24968907"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24968907"
+  - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
+    excerpt: "OSARO will take the lead in providing AI software to improve the efficiency of robot operations, and INNOTECH will provide support from demonstration testing to integration of the AI software."
+    publishedDateTime: 2022-01-12T13:52:00Z
+    webUrl: "https://www.roboticstomorrow.com/news/2022/01/12/innotech-and-osaro-collaborate-to-build-a-demonstration-ai-picking-robot-system-for-rohto-pharmaceuticals-next-generation-smart-factory/18060/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
+      name: Robotics Tomorrow
+      domain: roboticstomorrow.com
+    quality: 3
 
 secured: "E4nAtQci98B2n9Vq+J1o9EIkDJ9oYS8cZn1F9mB7VmuF/JJsrp1QkAo5g93kst0yMQ2ygtosD7nc5tjoFsBI4TkvXpCrnZVcBAfwwr7LiYraXlCS95UlPYsQAl73zXVLptW6hnRSSNh2owVSeR/Y7pzcYmwSnT9vtzbilOdyOgcWF4+jkkhp4/c9B+FTRCODJyybprDn51ylNOPA+DEN68d0q6pfHUIoxqIg5AzT2bl/GHd3L9OealkcgFNZeiz7sKAaST7m0fttpxIGvGicj3SU7gP9XmW4eJvDo18cNZWZBSYsleSV3ITW5yF1dXpkywpy5xiXs8a9fkM0Jkly0dKdYOz2BqbBAlH3km4IeLnJCfFwl212dI8YFxdiMbs6gnRwRg41d1PpBpsCfLEIq42bwqcwYoG6BSVj6rjpFnxKiKPxm/5tsZaVRVlAnPk1CGW0FcVEbb7+9TjxUPXj5uzz3uqSLCBFKfVx5A4yUznjbK5wfKGubnimazGFv/24BQGgdupUA56zO0VpBPkZdw==;s0sxWW9AQXXyXOR9uVngVg=="
 ---

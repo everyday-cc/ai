@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
 type: article
 quality: 89
-heat: 369
+heat: 379
 published: true
 
 provider:
@@ -359,6 +359,20 @@ related:
       - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-11-134342000.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "California regulator revisiting Tesla’s Full Self-Driving beta software"
+    excerpt: "Recently a letter was sent to State Senator Lena Gonzalez, the agency now says it is “revisiting” that decision."
+    publishedDateTime: 2022-01-14T05:43:00Z
+    webUrl: "https://techstory.in/california-regulator-revisiting-teslas-full-self-driving-beta-software/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
+        width: 940
+        height: 516
         isCached: true
   - title: "Tesla's Full Self-Driving Beta Might Just Help Drivers Perform Rolling Stops"
     excerpt: "Drivers using Tesla ‘s Full Self-Driving (FSD) beta can now choose between three different driving profiles that will determine how the car will react to various situations on the road. Tesla is offering a “Chill,"

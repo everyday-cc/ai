@@ -7,8 +7,8 @@ originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/10/robot-trucks-
 webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/10/robot-trucks-get-us-tests-raising-self-driving-safety-stakes"
 type: article
 quality: 56
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: The Star
@@ -26,37 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Flagging Down A Roaming AI Self-Driving Car Robo-Taxi Might Not Be In The Cards"
-    excerpt: "Flagging down a taxi or cab is still something done today, and the question arises whether AI-based self-driving car robo-taxis will do the same."
-    publishedDateTime: 2022-01-09T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/09/flagging-down-a-roaming-ai-self-driving-car-robo-taxi-might-not-be-in-the-cards/amp/"
+  - title: "Can a Self-Driving 40-Ton Truck resolve some supply chain issues? Developers Say Yes"
+    excerpt: "Technology companies are proceeding with tests to demonstrate that driverless trucks are the long-term solution."
+    publishedDateTime: 2022-01-10T03:46:00Z
+    webUrl: "https://economictimes.indiatimes.com/small-biz/security-tech/technology/can-a-self-driving-40-ton-truck-resolve-some-supply-chain-issues-developers-say-yes/articleshow/88801173.cms"
+    ampWebUrl: "https://m.economictimes.com/small-biz/security-tech/technology/can-a-self-driving-40-ton-truck-resolve-some-supply-chain-issues-developers-say-yes/amp_articleshow/88801173.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/security-tech/technology/can-a-self-driving-40-ton-truck-resolve-some-supply-chain-issues-developers-say-yes/amp_articleshow/88801173.cms"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
+      name: India Times
+      domain: indiatimes.com
+    quality: 52
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60c7e1dc9878b5eedc7980d1%2F0x0.jpg"
-        width: 1156
-        height: 771
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-65262,msid-88801274/istock-1127822663.jpg"
+        width: 600
+        height: 450
         isCached: true
-  - title: "Variable Speed Limits Are Aiming To Help, But Can Confuse Human Drivers And Yet Are Easy-Peasy For AI Self-Driving Cars"
-    excerpt: "Variable speed limits (VSL) continue to be experimented with and at times are confusing to human drivers, meanwhile self-driving cars will readily accommodate VSL."
-    publishedDateTime: 2022-01-12T15:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/01/12/variable-speed-limits-are-aiming-to-help-but-can-confuse-human-drivers-and-yet-are-easy-peasy-for-ai-self-driving-cars/amp/"
+  - title: "As companies test self-driving trucks in US, safety advocates spew fire"
+    excerpt: "While it might still take years for the self-driving trucks to get regulatory approval, tech firms believe that this is as a long-term solution. The move to get driverless trucks on roads is being seen as a safety concern, especially at a time when Tesla's ..."
+    publishedDateTime: 2022-01-10T20:02:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/as-companies-test-self-driving-trucks-in-us-safety-advocates-spew-fire-41641800661430.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/as-companies-test-self-driving-trucks-in-us-safety-advocates-spew-fire/amp-41641800661430.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/as-companies-test-self-driving-trucks-in-us-safety-advocates-spew-fire/amp-41641800661430.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 65
+      name: hindustantimes.com
+      domain: hindustantimes.com
+    quality: 44
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6078a05fc12d1be6202022c7%2F0x0.jpg%3FcropX1%3D143%26cropX2%3D2523%26cropY1%3D387%26cropY2%3D1502"
-        width: 1200
-        height: 562
+      - url: "https://images.hindustantimes.com/auto/img/2022/01/10/600x338/Aurora_1641802707565_1641802717874.JPG"
+        width: 600
+        height: 337
         isCached: true
   - title: "Self-driving trucks are hitting the roads"
     excerpt: "Studio17’s Ilyana Capellan talks to Daniel Geoulla from B& D Law Group APLC about the autonomous vehicles that are hitting the roads and making the news. Geoulla projects that things"
@@ -73,6 +73,48 @@ related:
       - url: "https://www.kget.com/wp-content/uploads/sites/2/2022/01/snapshot-19.jpg?w=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "5 Best Self-Driving Car Stocks to Buy Today"
+    excerpt: "The best self-driving car stocks are set to revolutionize the auto industry in a way we’ve never seen before. Check out my watchlist below."
+    publishedDateTime: 2022-01-10T10:09:00Z
+    webUrl: "https://investmentu.com/best-self-driving-car-stocks/"
+    type: article
+    provider:
+      name: Investment U
+      domain: investmentu.com
+    quality: 24
+    images:
+      - url: "https://investmentu.com/wp-content/uploads/2022/01/best-self-driving-car-stocks.jpg"
+        width: 730
+        height: 467
+        isCached: true
+  - title: "Self-Driving Truck Makes Delivery 10 Hours Faster Than Human"
+    excerpt: "Right now, there's a shortage of truck drivers in the US and worldwide, exacerbated by the e-commerce boom brought on by the pandemic. One solution to the problem is autonomous trucks, and several companies are in a race to be the first to launch one."
+    publishedDateTime: 2022-01-10T11:47:00Z
+    webUrl: "https://www.peacefmonline.com/pages/local/tech/202201/458602.php"
+    type: article
+    provider:
+      name: Peace FM Online
+      domain: peacefmonline.com
+    quality: 24
+    images:
+      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202201/865806382_819983.jpg"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "Self-driving startup Nuro showcases next-gen grocery getter"
+    excerpt: "Nuro, the self-driving startup attempting to capitalize on the delivery boom by working with partners such as 7-Eleven, FedEx and Kroger, unveiled its third-generation vehicle this week. Instead of following the sequencing of its R1 and R2 prototype predecessors,"
+    publishedDateTime: 2022-01-13T18:29:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/self-driving-startup-nuro-showcases-next-gen-grocery-getter"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/Samsung_Reuters-01_i.jpg"
+        width: 792
+        height: 488
         isCached: true
 
 secured: "wA5kI5QslPFuDWv/440VA4JlzwC1Mf0BiSF/GaSOdMkAcmHdm199DLMeXNn8yFjYChiPx0ibGY7fRvEUATNZqjfqHF4JvLZw03Q4PnvjAzjl4LYXxZdCSY7ZqAKt9vic+B0O2H5Jy9V8dbZynrR0nECJce2wipHVDxcnf67TpQSjkV9tRWW69tManBfeVx/5zt/dMtMbF9ZUphYxfQH5QFYdnecSvpWiHPMt4MtwGWHdAh128k3WBTU1JfM4w9MQ3bVLixEhbCEIjHpgyP+y5uhS9iuPE5AhP7OeNcYYFJ08ObfgFFdEDaZ4SB4mMYv+rxcNWE4Y85BZY7dYOCumGet1J6WHY5xizqNgSGznHgw=;enQsHUM0J7LRxkFwkvW2eg=="

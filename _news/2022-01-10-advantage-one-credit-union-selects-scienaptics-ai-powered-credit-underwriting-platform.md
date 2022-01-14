@@ -38,6 +38,20 @@ related:
         width: 792
         height: 266
         isCached: true
+  - title: "Pathr.ai Announces Strategic Partnership with Ombori to Accelerate Growth for Retailers"
+    excerpt: "Pathr.ai , the industry's first and only artificial intelligence (AI) powered spatial intelligence platform, announced today it is partnering with Ombori , a forward-thinking retail technology firm, delivering the next generation of retail solutions."
+    publishedDateTime: 2022-01-14T07:41:00Z
+    webUrl: "https://menafn.com/1103534067/Pathrai-Announces-Strategic-Partnership-with-Ombori-to-Accelerate-Growth-for-Retailers"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?290310"
+        width: 370
+        height: 250
+        isCached: true
 
 secured: "6ydMi5vNZKoE4Q2tOUwJGEaoGhQa1RAyB9NSsP66jn+usMrQ92TesvdqtuFV+SX5CmVWyniOIec7Pkr6o4B/boCa1uWFktOE9CJZF6pWgaFNPpO3uxUHFZPc0K0e16g8ofxji1nDDN7+ERBQE2NEnGCmaNHJjtCrFtoitT7Pc4iJSo/MOXcUXTVZd/l88063b4qM1SeWwd3aNn+TDFinKvZW06yVDM4rX2RMK9Z3I+gdQGv54vfM4aHFem8WWKLJ1n3bMpBM7KhxHqbm75yYmK4kmqxIfRLggJIBz1ZrWzjsq4cCcqqtFyOQL54EiEi8vFfD18G2i8RYm+lfFsWrk1R7lFRxjsyMLtdz92dKp68=;mQQRv37dgl36n66VG6ljoA=="
 ---

@@ -53,20 +53,6 @@ related:
         width: 600
         height: 305
         isCached: true
-  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
-    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
-    publishedDateTime: 2022-01-13T16:13:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "$40M Available for Artificial Intelligence and Transformative Technology Innovators to Improve Care and Health Outcomes for Older Americans"
     excerpt: "America is getting older faster. According to the U.S. Census Bureau, the number of people aged 65 or older in the United States"
     publishedDateTime: 2022-01-10T12:36:00Z
@@ -78,15 +64,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
-  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
-    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
-    publishedDateTime: 2022-01-13T15:00:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible/article_8df099d3-d5c5-52c4-b300-7e9b1b4eea10.html"
-    type: article
-    provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 3
 
 secured: "LgOBReXZPd/xcO8Be+y0rMV8/RVvCRDyy8KD1bJ7ok/+v26vw/rMCQSCSeLSK3vhoCxo44w60ul+ge+txZgE16ow5ZC2uZec7LTG+dtNyZ+fGE53gXIhMfKx35pev2qsyWWGH8P6jDE5Yfkf+GI1ND9Grvyhai3Ghz98unqjm1RHnisR/FsYlfuizQAqpdLepmAXTtjb/jR4VgA12HVi0Ve9sywruPTbLGdmICnWMCENvBYO5ygSydnRUWWGMWB317HBtyNYpwtWkkBgfIDy/jXJZWArcSDaPokEKMfpErl4jBn1HA/wuzLCOTqdVKHVKDF1caSNJuJc2O0EXgHhClB+UqblvRvXbF2II4Rvt6zAr/YE5ZVAVTRklxQwv3skWJ6u92QMYNCtURm1Msj5idgwwmFPyMjTjKZ6ocz+g4VAskuKBFPlm2IZJYqfqEignpaXTxAKVmrrgl1D2dPR+AMLNaB+QBi3FSj+X+aIVnwmoScinIyeZHlWLdVo2B8q98oCyvs4qoZ9D+DyWzuJFw==;IVmvfTDOZ3bCB+92Rx40ng=="
 ---

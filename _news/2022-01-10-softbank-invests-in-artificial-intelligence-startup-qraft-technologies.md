@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-inte
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
 type: article
 quality: 172
-heat: 222
+heat: 232
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Driven Asset Management Startup, Catapulted To Fame By Tesla Trades, Raises $146M From SoftBank"
+    excerpt: "Artificial intelligence-focused fintech group Qraft Technologies Inc. said it has received a $146 million investment from Japanese conglomerate SoftBank Group Corp. (OTC: SFTBY)."
+    publishedDateTime: 2022-01-14T08:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/etf/ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank-1031102394"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 87
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2012/jp-valery-lvfoii3sjq8-unsplash_2.jpg"
+        width: 1024
+        height: 768
+        isCached: true
   - title: "SoftBank invests in AI start-up Qraft Technologies"
     excerpt: "SoftBank Group <> <> is investing $146M in Qraft Technologies to gain access to the money manager’s artificial-intelligence tools and help seed the"
     publishedDateTime: 2022-01-10T15:16:00Z
