@@ -386,20 +386,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Tesla plans to sell “Full Self-Driving” assistance for over 10,000 dollars"
-    excerpt: "Tesla CEO Elon Musk tweeted on Friday, the firm will increase the cost of its superior assistance package, promoted as Full Self-Driving or FSD, from"
-    publishedDateTime: 2022-01-09T09:58:00Z
-    webUrl: "https://menafn.com/1103509383/Tesla-plans-to-sell-Full-Self-Driving-assistance-for-over-10000-dollars"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/Menafn_News_Images/Local_Aviationtransport_122_menafn.jpg"
-        width: 512
-        height: 341
-        isCached: true
   - title: "Tesla’s ‘Full Self-Driving’ Will Jump to $12,000 and the Only Winner Is Tesla"
     excerpt: "The change was announced in a tweet thread by CEO Elon Musk, who declared Tesla would increase the software's price from $10,000 to $12,000 in the United States on January 17. Musk added in a reply that \"FSD price will rise as we get closer to FSD production code release,"
     publishedDateTime: 2022-01-10T18:47:00Z

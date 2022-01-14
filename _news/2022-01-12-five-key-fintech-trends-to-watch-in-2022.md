@@ -55,20 +55,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Five Key Trends Which Will Change the Data Science Landscape in 2022"
-    excerpt: "I would like to start of by wishing you all a Happy New Year! As many of you may know, data science is transforming businesses world-wide. It has now become an integral part of the enterprise and is now starting to be known as the new oil."
-    publishedDateTime: 2022-01-09T10:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/five-key-trends-which-change-data-science-landscape-2022-kampakis-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQH8bdgpj6FPhQ/article-cover_image-shrink_600_2000/0/1641561555542?e=1647475200&v=beta&t=i2sJHkMWha_d3EfRJoOqDnP7y_jF6W5P5KuFFabDRng"
-        width: 856
-        height: 379
-        isCached: true
 
 secured: "M+O/4XoeHu2bj8GV8dnDiCR/ajy6RIu5GCGUfhzgWVRHVJdSmmhg7oqnRLep8lupOmodnt9PO4+ACuCRb7zXbQoV4t+8fPpR59cIscdz4ngdR0ynPphit4OsJ1E5noOOM9Y9kHZdnk/sfYIholZSBK/99266DXau/YxkM9mOEIIX3NmOMfT3pRXZolRKf9wXXW8H0cYUFDBfcNdeCku6jpRdfpeDdfylzZuv349n6W0Ij3dlldQAEPAJU92EMMwZpwY3PlltwoCzqHEaQQmdUnoHKm/bFEUnmdga60D5cWxofOa4g5RDBjUNWf7ZpKlgdxhIHynZgUvQxzbMffAC0zdvGtbkPfE7Ze55yJqaak0=;OXPv14R0ctmw+DLveRlIqQ=="
 ---

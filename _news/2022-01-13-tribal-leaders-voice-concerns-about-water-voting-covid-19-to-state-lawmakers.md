@@ -41,20 +41,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "AI: A Population Migration Model Integrating Global Climate Change and Covid-19 Impacts"
-    excerpt: "COVID-19 pandemic has bring global economic activity to a near- standstill with countries imposing some travel restrictions on people. On the opposite side, Climate Change affects the flows of migrations and has already started to reshape the world."
-    publishedDateTime: 2022-01-09T10:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-population-migration-model-integrating-global-climate-nko-o"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 29
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGogPJcPLJSCA/article-cover_image-shrink_720_1280/0/1609326937890?e=1647475200&v=beta&t=6qfVvD7v3cZDkTxb16Hi_V_rStlw5n-RRTX97ydikrc"
-        width: 1280
-        height: 636
-        isCached: true
   - title: "Top 3 Autonomous Cars Market Trends to Watch Post-COVID"
     excerpt: "Key Prominent Players Covered in the Autonomous Cars Market are Autoliv Inc., Aptiv, Waymo LLC, Robert Bosch GmbH, Daimler AG, Baidu, AutoX, Inc., Pony.ai, Ford Motor Company, HYUNDAI"
     publishedDateTime: 2022-01-13T07:21:00Z

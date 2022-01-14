@@ -18,22 +18,17 @@ topics:
   - AI
 
 related:
-  - title: "The AI Bill Of Rights: Protecting Americans From The Dangers Of Artificial Intelligence"
-    excerpt: "The White House is proposing an AI Bill of Rights to guard against these problems and ensure AI systems do not harm the people."
-    publishedDateTime: 2022-01-09T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/glenngow/2022/01/09/the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/01/09/the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/01/09/the-ai-bill-of-rights-protecting-americans-from-the-dangers-of-artificial-intelligence/amp/"
+  - title: "Employers using artificial intelligence to recruit workers"
+    excerpt: "More employers are turning to artificial intelligence to gain a worker recruitment edge, the Wall Street Journal reports.  By automating previously manual tasks—like prescreening job applicants for basic qualifications,"
+    publishedDateTime: 2022-01-10T15:11:00Z
+    webUrl: "https://www.businessreport.com/business/employers-using-artificial-intelligence-to-recruit-workers"
+    ampWebUrl: "https://www.businessreport.com/business/employers-using-artificial-intelligence-to-recruit-workers?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/employers-using-artificial-intelligence-to-recruit-workers?amp=1"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 94
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d5f552bdb92ece4d034eaa%2F0x0.jpg"
-        width: 700
-        height: 394
-        isCached: true
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 37
 
 secured: "85p5VxYM+ToCiMJW65lNRxex1MRu2cj4Jt3J0HGoDA3abvPiHS7MJIoTDQSRIaedEM2hiLy+QHbB0GO9hmMk4TDYESmD5hkUhJdgZf/Mg5KEqphDYQDnidmTFqOIL3hsgU5HxrfBpV3AZlJeiyMVSCLpDu156h5i6Ljfu57Zv7y4wdK4/zkTsvDOVEpCyhtr5uro3DZXdPGHfZKhOb1LzS9aQdq4EcLoEzRxC0CH8zoqw/GOJmNkW2HUiVUb9nSNInEdE+GaDdCfBoMhWSoHkeycY3eJLMBAn2ST4R8N90qDnM+vAiX5zudbYfec2j+DW4fu5mBiiG89+bCMl8h0giLqxkk3DUbZBZD6I+3mixxKGA1yA9TaCXdcMVU996+k8/jQqfrcMiz+dYMKPykKM5GW6CCj1s5FUyaotGiquibQu6q69oKe/+iaqx0KltSD628CgTylGP796zzicChJrB5sxI4dYUjCMbM6vP7VN+i7vnc4QmtHwh0bDlYBK2n0o5M/zMwd3hTmFaHEUqMykg==;3vAVIr+3jErnNS188Kf2Tw=="
 ---

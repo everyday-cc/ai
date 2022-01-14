@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-soaring-at-263-cagr-to-reach-6459-billion-usd-by-2027-2022-01-10"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -67,7 +67,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1725144/Technavio_AI_Platform.jpg"
         width: 400
@@ -123,6 +123,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?53360"
         width: 436
         height: 249
+        isCached: true
+  - title: "Image Recognition Market Expected to reach $86 billion and CAGR of 21.8% by 2025"
+    excerpt: "The global image recognition market was pegged at $17.91 billion in 2017 and is expected to reach $86 billion by 2025, registering a CAGR of 21.8%"
+    publishedDateTime: 2022-01-14T02:39:00Z
+    webUrl: "https://menafn.com/1103537226/Image-Recognition-Market-Expected-to-reach-86-billion-and-CAGR-of-218-by-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?302108"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "TXoPrVd8ppmcAIQzAcM5zNf5bCXrrcroc5IHXB3M9gjKeBIGJ0SlOSyuEwr28Xuvx+EDtgupypdRy5pxQ4W3WoMl2grwbgeWHTNtV769zCpxxkxkRpi20SBv+6SrSLK/UEW/hxIuB28qcn/VBOfZ/m0J5GrcMB0X4xe2Ns7BNwJOmajFIk81ri10hH0VRxH7q1+8OYe8Asjzg0vXEiU91kRMGzP3nrW7mciZuyngjUlFzktS+YYC4kN3ehXTyABjMzZvteIuyZl3lFoqo8ONV7XQ0pvfV3ZYX6NU1nf6QboyQge9Ra88upwEvYlKraqHQmHvfh3LzOZQd9OStKa4o22F/vCPVf/NPTe6GZYJYU0=;r46yeoi0d+uCGyAVufyAkg=="

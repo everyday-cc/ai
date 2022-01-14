@@ -73,6 +73,20 @@ related:
         width: 600
         height: 324
         isCached: true
+  - title: "It's machine learning, not AI."
+    excerpt: "\"At the moment, the best way to survive a patient with heart failure is calling 911\". This is the response from Jaeson Bang, the CEO of FutureCardia when someone asked him if his startup is adopting AI to predict and prevent patients with heart failure."
+    publishedDateTime: 2022-01-14T02:28:00Z
+    webUrl: "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 56
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFvVKc2mtnqhw/article-cover_image-shrink_600_2000/0/1642127255161?e=1647475200&v=beta&t=Y8Vdhbw9yATaB2IpzTyQ3csWJ4qsUlioGVXg1GBFph8"
+        width: 1385
+        height: 600
+        isCached: true
   - title: "Small Data, AI and ML - Predicting Coup d'état"
     excerpt: "Can AI / ML spot countries at risk of a sudden change in leadership in a coup attempt? Looks like so. Researchers at the University of Central Florida are working with a system called CoupCast to estimate the likelihood that an individual country will undergo a coup d’état."
     publishedDateTime: 2022-01-13T21:22:00Z

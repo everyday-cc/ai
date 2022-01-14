@@ -59,6 +59,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Samsung demos MRAM chip with embedded compute for AI"
+    excerpt: "Samsung has demonstrated an in-memory computing MRAM chip processing stored data, and accurately working on AI problems such as face detection. A Nature paper is coming to explain how it was done This technology could provide low-power dedicated AI chips combining compute and storage to reduce data movement,"
+    publishedDateTime: 2022-01-13T11:40:00Z
+    webUrl: "https://blocksandfiles.com/2022/01/13/mram-chip-with-embedded-compute-demod-for-ai-by-samsung/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 54
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2020/02/brain_neuron.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Samsung’s C-Lab Incubator Champions the 2022 Startup Ecosystem"
     excerpt: "From a Bluetooth-compatible braille device to an LED-guided smart guitar, the entrepreneurs of Samsung's C-Lab are gearing up for CES 2022."
     publishedDateTime: 2022-01-11T18:00:00Z

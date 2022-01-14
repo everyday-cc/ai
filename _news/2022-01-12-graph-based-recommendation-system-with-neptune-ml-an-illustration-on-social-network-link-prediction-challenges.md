@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/graph-based-recommen
 webUrl: "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1111
     height: 630
     isCached: true
-
-related:
-  - title: "Facial emotion recognition may improve automatic speech translation"
-    excerpt: "Meta AI recently published a new framework (AV-HuBERT) to improve automatic speech recognition thanks to lips monitoring, de facto combining Speech with Vision, two of the traditional areas of Artificial Intelligence."
-    publishedDateTime: 2022-01-09T10:54:00Z
-    webUrl: "https://www.linkedin.com/pulse/facial-emotion-recognition-may-improve-automatic-claudio-fantinuoli"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 26
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFeWYqiGiAQvA/article-cover_image-shrink_720_1280/0/1641666117499?e=1647475200&v=beta&t=qP4IsyD6qU3OKozu2-NErJb1jHMYfJu7pLy0PoFQKy8"
-        width: 1280
-        height: 630
-        isCached: true
 
 secured: "VoP47bUBq8LUzBHeQHOyu0zS3m3nzv+tOP9cq8CRm6X1bld1XsGrVPDX9QFckk0kOYT50sDn0anCX14EFZqRNP6I1ZsOf/Qr/XG2R9xa7Y/+MJp4jlpEEQHKW9vcwa8EWwnLNcpqD5FSB9CMyvrrhTvg6EQhA2o5kroV06XJMq2gdYdErr8Vc4ZFNWoRAqvLd7vaC92d3lzJYyUnVLmUmfaFfFNyuSXdMqJ8l8WNoW7OqyVkpJ3ReD/yHv7XA/Lf29IdRQOkfe6hxAJ1jMlzuOa9+8EdY2KDrcNuprpwm3qXreKW9KvdgRS40yxoOGlo2mJHJQmYStr3PNbRFWvv25nN6gdfU5S/2Mt8i/azxOI=;7mLhBRpzn37qWAGJdXr8nA=="
 ---

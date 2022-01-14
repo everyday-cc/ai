@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/samsung-new-mram-in-memory-c
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/?amp"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2022/01/Samsung-is-first-in-the-world-to-invent-MRAM-in-memory-computing-1024x576.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Samsung demos MRAM chip with embedded compute for AI"
+    excerpt: "Samsung has demonstrated an in-memory computing MRAM chip processing stored data, and accurately working on AI problems such as face detection. A Nature paper is coming to explain how it was done This technology could provide low-power dedicated AI chips combining compute and storage to reduce data movement,"
+    publishedDateTime: 2022-01-13T11:40:00Z
+    webUrl: "https://blocksandfiles.com/2022/01/13/mram-chip-with-embedded-compute-demod-for-ai-by-samsung/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 54
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2020/02/brain_neuron.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Samsung’s Breakthrough In Human Brain-Like MRAM Tech Claims To Excel At AI Workloads"
     excerpt: "Without getting into the weedy details, MRAM offers the performance of DRAM with the non-volatility of flash memory. It also uses much less power than DRAM. (If that sounds familiar, you probably read this article yesterday."

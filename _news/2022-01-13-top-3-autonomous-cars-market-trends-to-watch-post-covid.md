@@ -41,20 +41,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "AI: A Population Migration Model Integrating Global Climate Change and Covid-19 Impacts"
-    excerpt: "COVID-19 pandemic has bring global economic activity to a near- standstill with countries imposing some travel restrictions on people. On the opposite side, Climate Change affects the flows of migrations and has already started to reshape the world."
-    publishedDateTime: 2022-01-09T10:24:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-population-migration-model-integrating-global-climate-nko-o"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 29
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGogPJcPLJSCA/article-cover_image-shrink_720_1280/0/1609326937890?e=1647475200&v=beta&t=6qfVvD7v3cZDkTxb16Hi_V_rStlw5n-RRTX97ydikrc"
-        width: 1280
-        height: 636
-        isCached: true
   - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
     publishedDateTime: 2022-01-13T15:25:00Z

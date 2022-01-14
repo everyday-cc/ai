@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Sprout AI Inc. Announces the Change of Its Fiscal Year-End"
+    excerpt: "Sprout AI Inc. (CSE: BYFM) (“Sprout AI” or the “Company”) announces that it has changed its year-end to February 28th from its current fiscal year-end of November 30th. As a result, the Company will report audited financial statements for a 15-month transitional fiscal year from Nov 30th,"
+    publishedDateTime: 2022-01-14T02:19:00Z
+    webUrl: "https://apnews.com/press-release/kisspr/coronavirus-pandemic-technology-business-health-covid-19-pandemic-2c6492bfd4dc1af4c351516d6a737ad6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "biped unveils an AI copilot for blind and visually impaired people at CES 2022"
     excerpt: "CES 2022, swiss startup biped premiered an AI copilot for persons who are blind or have a visual impairment. the companys"
     publishedDateTime: 2022-01-10T10:40:00Z

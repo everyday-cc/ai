@@ -2,9 +2,9 @@
 category: news
 title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
 excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product"
-publishedDateTime: 2022-01-14T00:30:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
+publishedDateTime: 2022-01-13T23:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301460566.html"
+webUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301460566.html"
 type: article
 quality: 25
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.co.uk
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
@@ -54,6 +54,6 @@ related:
         height: 400
         isCached: true
 
-secured: "xar/bsj/WoEtUSeFae/fFluxM+O9cQn0d+YGd3e3jxWbLk49wAtwW4kxf2I9SYrP4vu20rjwogLDN4+dq2PK5nsSruzHcnZls1etQSPACJ1amCGGESHDLEfzhGWOYDKMm0C/iiul+5NW1WfAzzeLGb0TRorJego7s9KhyZbpwe2hanbki7wafrVeQMEYh4Dk9gHriRqmWIZlEAZukJUs5hRNqF381ziwkFnKXaOt8V1pn2ckK1nkizgZCHVncEpugEthgBokOCwo28g4P1LPopHKS25pkV4u9zDvbEh+WeYijYopih14j0g20eczLm5MyQr2GvPuHO9Uc5dM0Qm1IkF47NpPPFWhLj30VAT6eAc=;mr5gLPns6TDlsdnE3HEfDw=="
+secured: "1OKt3UfWyLV9H9ECItCoUTjm/hA/hvJHpsrfV5yRM9+C+LpChAn/bBYWBTdzDTcgG6FngCrcAlYUi7H0M6bNHW8XvtqqOS2vTvUYHQRSuedHRZ09Dr9jYfmckWXi4oV/TUAPSgoansHHm8xbfpW7K+0gh/HpWzqquWNqbN4ALh9lhTAroXwnb+coKPh4ZS2JRy6dC3Wngz0Q4BGua9/Or/2QHs//PfH8C0sFi7SIvdFgMYZtGcJTxrdrMLhnxUy36bLCw+4zXk1S6Fof/THMMTuUta/w/Bhx49fL0NU3gl+UmWR1hYi28t0qmlxhGIVl5eSQAZOWJAKgGWtLxxIgF+p2rtk54vTaHqtl1M+r6m4=;eCCSlaiCAznHTlh6cEeuWg=="
 ---
 

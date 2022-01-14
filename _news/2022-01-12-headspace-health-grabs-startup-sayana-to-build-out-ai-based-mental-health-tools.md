@@ -54,6 +54,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Headspace Health acquires AI-powered Sayana"
+    excerpt: "Digital mental health platform Headspace Health acquired artificial intelligence-powered company Sayana ... Sayana takes methods from psychological therapies such as cognitive behavioral therapy and acceptance commitment therapy to create self-care ..."
+    publishedDateTime: 2022-01-14T02:14:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/headspace-health-acquires-ai-powered-sayana.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "xGqjR4SjLz83GoSSbPFZa2ahsX0R/aVupvLijfPfMdO/fvo1+cyLca8X/0KfCEAtOPb+ofCc5B2hqT/t80riWHjx6zZ1YUyrDgygQDenIV7FjtYwNfrhyzlGYY0BaHbixN/X2JNyOBBmI5mnRBNZSzJuN3w4Tmm83TgGzDojVOyHJsqfYEh98cGlMVs5GD4wLyk4yP7O1t1XhnfShBGT5ajhWDLBaulH2O3qn63le6k8/+hdBiUB7nEqtX/lKZKaH5E3LUWazrKksjUlWI6IHt/86MAyZYtVGEQeN/W0hRYK6/w4+18oRX494P8CTRlTnhEwv2QF8KHQJJlpwZasiAIKrVuXCVLWp6+0L0TkHv0=;oe5gMXAHBhcgd2gm3n1Dzg=="
 ---

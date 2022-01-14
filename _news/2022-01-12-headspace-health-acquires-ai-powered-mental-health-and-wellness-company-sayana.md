@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-power
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/amp/"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://contentstorage-nax1.emarketer.com/fc689f21a4c485515751be40c979d636/default-image-share.png?im=FitAndFill,width=1200,height=630"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Headspace Health acquires AI-powered Sayana"
+    excerpt: "Digital mental health platform Headspace Health acquired artificial intelligence-powered company Sayana ... Sayana takes methods from psychological therapies such as cognitive behavioral therapy and acceptance commitment therapy to create self-care ..."
+    publishedDateTime: 2022-01-14T02:14:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/headspace-health-acquires-ai-powered-sayana.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-og-image.png"
+        width: 800
+        height: 600
         isCached: true
   - title: "Headspace Health grabs startup Sayana to build out AI-based mental health tools"
     excerpt: "Six months after the $3 billion merger with Ginger, Headspace Health acquired Sayana, an AI-driven mental health and wellness company. Sayana will expand Headspace Health’s ability to provide personalized self-care content to its 100 million users,"

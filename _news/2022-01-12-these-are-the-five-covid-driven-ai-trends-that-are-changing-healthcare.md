@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Five Key Trends Which Will Change the Data Science Landscape in 2022"
-    excerpt: "I would like to start of by wishing you all a Happy New Year! As many of you may know, data science is transforming businesses world-wide. It has now become an integral part of the enterprise and is now starting to be known as the new oil."
-    publishedDateTime: 2022-01-09T10:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/five-key-trends-which-change-data-science-landscape-2022-kampakis-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQH8bdgpj6FPhQ/article-cover_image-shrink_600_2000/0/1641561555542?e=1647475200&v=beta&t=i2sJHkMWha_d3EfRJoOqDnP7y_jF6W5P5KuFFabDRng"
-        width: 856
-        height: 379
-        isCached: true
   - title: "Five key fintech trends to watch in 2022"
     excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
     publishedDateTime: 2022-01-12T07:32:00Z

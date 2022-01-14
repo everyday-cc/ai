@@ -64,7 +64,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://mma.prnewswire.com/media/1725144/Technavio_AI_Platform.jpg"
         width: 400
@@ -120,6 +120,20 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?53360"
         width: 436
         height: 249
+        isCached: true
+  - title: "Image Recognition Market Expected to reach $86 billion and CAGR of 21.8% by 2025"
+    excerpt: "The global image recognition market was pegged at $17.91 billion in 2017 and is expected to reach $86 billion by 2025, registering a CAGR of 21.8%"
+    publishedDateTime: 2022-01-14T02:39:00Z
+    webUrl: "https://menafn.com/1103537226/Image-Recognition-Market-Expected-to-reach-86-billion-and-CAGR-of-218-by-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?302108"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "i3F3JAK0Jxwu+Oao6t8s/OoCJq+yBCglsoNJ/kvfD00477ulX/yS8DFKjxAYtKytZjlLLx3vMi5Um5hlcTagJkEqINcqnulXYnIkMJ/AG1u5JKBv8omAnWonbu6jHYicvZUJ4pu0EvwnxiC2hckwt/6zGCXMmJHtIalJMHeS848tyR10Ah9ZPzRPHwGBgSeHOr8sbiegGNp2pHgp0kLib3xNQ4TVUL41syHQW8E14zTB/uQJD0qf+AUA+GpRwGTpX6TA2/d2LArVa0t30Z76wrcC/vFC9P7w5/vVnaHdJMZD4fN+z0fSbVviV15ZOeMdKSuv0Zkdg7M/q5rueYDBUpYeBnr+1Tw2S28/lcenmtM=;jtDSQT7kmYdPeEZdUSUc0Q=="
