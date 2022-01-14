@@ -125,6 +125,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Five key fintech trends to watch in 2022"
+    excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
+    publishedDateTime: 2022-01-12T07:32:00Z
+    webUrl: "https://thepaypers.com/expert-opinion/five-key-fintech-trends-to-watch-in-2022--1253845"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 24
+    images:
+      - url: "https://thepaypers.com/images/social_media/fintech-trends-social-media_LI.png"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "The Fintech Ecosystem in Jersey: Interview With Amy Bryant"
     excerpt: "A special interview with Amy Bryant, Deputy CEO of Jersey Finance on the importance of fintech and how Jersey is growing to meet this demand"
     publishedDateTime: 2022-01-11T17:13:00Z
@@ -138,6 +152,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/DemoDay%20-%20Amy%20Intro.jpg.png?itok=C_xELvbZ"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Top 5 Fintech Trends to Watch in 2022"
+    excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
+    publishedDateTime: 2022-01-14T08:03:00Z
+    webUrl: "https://financialit.net/blog/fintech-trends-banking-nft-blockchain-payment-bnpl/top-5-fintech-trends-watch-2022"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/img_4252.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "TOP CHALLENGES FOR THE FINTECH 2020 – 2022"
     excerpt: "More than a year ago, we published an article about challenges, the fintech faced in 2020. There was a first year of radical changes in the fintech industry due to the first pandemic hit."

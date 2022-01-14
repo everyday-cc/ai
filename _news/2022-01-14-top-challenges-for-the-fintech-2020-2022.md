@@ -129,6 +129,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Five key fintech trends to watch in 2022"
+    excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
+    publishedDateTime: 2022-01-12T07:32:00Z
+    webUrl: "https://thepaypers.com/expert-opinion/five-key-fintech-trends-to-watch-in-2022--1253845"
+    type: article
+    provider:
+      name: The Paypers
+      domain: thepaypers.com
+    quality: 24
+    images:
+      - url: "https://thepaypers.com/images/social_media/fintech-trends-social-media_LI.png"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "The Fintech Ecosystem in Jersey: Interview With Amy Bryant"
     excerpt: "A special interview with Amy Bryant, Deputy CEO of Jersey Finance on the importance of fintech and how Jersey is growing to meet this demand"
     publishedDateTime: 2022-01-11T17:13:00Z
@@ -142,6 +156,20 @@ related:
       - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/DemoDay%20-%20Amy%20Intro.jpg.png?itok=C_xELvbZ"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Top 5 Fintech Trends to Watch in 2022"
+    excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
+    publishedDateTime: 2022-01-14T08:03:00Z
+    webUrl: "https://financialit.net/blog/fintech-trends-banking-nft-blockchain-payment-bnpl/top-5-fintech-trends-watch-2022"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/img_4252.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "AuthBridge fintech Fintelle adds biometric liveness detection, voice authentication"
     excerpt: "Fintelle has updated its technology suite to include voice-based authentication and face biometrics liveness detection capabilities."
@@ -158,6 +186,6 @@ related:
         height: 900
         isCached: true
 
-secured: "VuYX6jI1BDsb7COPYrweGahr5gT7ygSxWdvpmZQSAjPOTNdt6XzPGU4aTFyZgwjhehMVj9oyphl6W5A+Lv04AjOFj6a+VtIDzE/9lF3QyQOtsU125/1ffv2z6Ct6rQi3ZiLMG8adkwYpnkiT/RBn9ZwG87RM1tHfV8A8JwhYj1jR+n58l/Lt1FrYxTaVruS3jLvnsxHaLyDC/quDF1baBQneiAbWMWUy9PShMuQCJzaUHbqu9l12my4GZC8Zdmu4RdzlCqkCMEq//Zha8nTIJxByKw9Qmtwlw4CLaQgZfE4I+O6neLRlkNP+NU6CGt4/rnRqzDuF9ixh/vlgq3fGgoK6Lpd+qG+tGmXl4JFYH5o=;cU/948FjuIPxs7fS8nO0Ng=="
+secured: "d+b4KMlyPaKyLIf70QVy/xPkXCzG3w2p2cn9qwrKFJCLcbwcP7vPGAFLzMTXjJqc6ww+nBwXWJ7fEZxUZBrKb4pyH3ElFeOZOtKm1Zz9UMVuu8lNP5o74YlI8Y7w0zr/cOJc55b/83Y4mRsU5bXosIti5k+fyEwhba0VxpZ+sVDB+qks2LvfLmTB4TfxDWX4XNMV0LRzuXlOyyEzWW9zW0UYwGXQQHzAN6HMKHGHutUWlHCoEiGCfz5s4dlEfM2b7jufl82aMusLbgdvYXVGnm94bvFBrBsSFByZGrB79IrdXGmYRyjf+HQukrxQYJAnh0FGclrPGTGK2xOyy/uBtk7zo21wv8rdA4MJGXEr8EVTOBfaMGQQO1FDQUMNFgIZ12ntSfoajrXQBVU6R8qjhFklzR7/lISmlQ2jCuys8e8tuI6TXA2906127XcD4ADqCOCVa9GLJtqi65yd8sMeJIIa3YRY/R8KWggzbdmOvNALDjrtV7QfW3M1MGvFjTmN8fMqQtpDdYTMiYPJZnj9Ag==;2XkcGM+fcXt5ySf9131HBQ=="
 ---
 

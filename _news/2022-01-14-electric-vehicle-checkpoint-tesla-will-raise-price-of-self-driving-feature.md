@@ -116,20 +116,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Tesla Is Raising Prices for Full Self Driving Once Again"
-    excerpt: "Tesla is now raising the price of its Full Self Driving software once again, bringing the still-in-beta program to $12,000 USD within the U.S. market. According to a tweet from the automaker’s CEO Elon Musk,"
-    publishedDateTime: 2022-01-10T04:05:00Z
-    webUrl: "https://hypebeast.com/2022/1/tesla-elon-musk-full-self-driving-price-increase-12000-usd"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 69
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-elon-musk-full-self-driving-price-increase-12000-usd-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
   - title: "Elon Musk says he’s hiking “full self driving” by another $2,000"
     excerpt: "Tesla's highly controversial \"full self driving\" feature is getting yet another price increase. CEO Elon Musk used his Twitter feed last Friday to announce the price hike, telling his millions of followers,"
     publishedDateTime: 2022-01-10T17:36:00Z

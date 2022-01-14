@@ -25,78 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "The Five Biggest Healthcare Tech Trends In 2022"
-    excerpt: "The healthcare sector is under enormous pressure at the moment, and technology adoption has been accelerating to help deliver better, cheaper, and more personalized healthcare to people. Here we look at the top healthcare tech trends in 2022."
-    publishedDateTime: 2022-01-10T04:15:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/10/the-five-biggest-healthcare-tech-trends-in-2022/amp/"
+  - title: "Changing face of health and healthcare"
+    excerpt: "Foundation highlights the various aspects which will be crucial during and after the pandemic The onset of the COVID-19 pandemic saw the medical fraternity, technology innovators, manufacturers, regulators,"
+    publishedDateTime: 2022-01-10T08:55:00Z
+    webUrl: "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/"
+    ampWebUrl: "https://www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
+    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: expresshealthcare
+      domain: expresshealthcare.in
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dbc007e830ffbf736660a6%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.expresshealthcare.in/wp-content/uploads/2022/01/750-x-400-2.jpg"
+        width: 750
+        height: 400
         isCached: true
-  - title: "MobiDev Listed Top 6 Healthcare Technology Trends in 2022"
-    excerpt: "Stepping into 2022, COVID-19's presence still continues to linger around the world. That being said, it's critical to remain mindful of the tech trends"
-    publishedDateTime: 2022-01-14T12:44:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mobidev-listed-top-6-healthcare-technology-trends-in-2022/article_c7e77c5a-d6a8-5c40-a71a-a4cc57a347e3.html"
+  - title: "IBM wants to exit healthcare by selling its Watson Health business"
+    excerpt: "IBM is attempting to sell its Watson Health business—just around a year after it was first reported to mull a sale in 2021. For context, Watson Health, formed in 2015, develops AI-driven analytics solutions for hospitals,"
+    publishedDateTime: 2022-01-10T05:10:00Z
+    webUrl: "https://www.emarketer.com/content/ibm-wants-exit-healthcare-by-selling-its-watson-health-business"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
+      name: eMarketer
+      domain: emarketer.com
+    quality: 56
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/89/0890c0c6-fc47-5d19-a69d-c6f5cdd65608/61e17fba02f4d.image.jpg?crop=1857%2C975%2C134%2C0&resize=1200%2C630&order=crop%2Cresize"
+      - url: "https://contentstorage-nax1.emarketer.com/5e25b7a923b9f1f715d3079db3bea995/default-image-share.png?im=FitAndFill,width=1200,height=630"
         width: 1200
         height: 630
         isCached: true
-  - title: "Five AI Inference Trends for 2022"
-    excerpt: "It’s an exciting time to be a part of the rapidly growing AI industry, particularly in the field of inference. Once relegated simply to high-end and outrageously expensive computing systems, AI inference has been marching towards the edge at super-fast speeds."
-    publishedDateTime: 2022-01-14T07:26:00Z
-    webUrl: "https://www.design-reuse.com/news/51243/five-ai-inference-trends-for-2022.html"
+  - title: "Electronics companies are changing the face of car manufacturing"
+    excerpt: "For most of the history of motor vehicles, in-car electronics has lagged behind the rest of the consumer industry. Now, that's changing, and, perhaps, electronics companies might have an advantage."
+    publishedDateTime: 2022-01-14T12:31:00Z
+    webUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing"
+    ampWebUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 37
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage51243/2022.jpg"
-        width: 470
-        height: 315
-        isCached: true
-  - title: "Five key fintech trends to watch in 2022"
-    excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
-    publishedDateTime: 2022-01-12T07:32:00Z
-    webUrl: "https://thepaypers.com/expert-opinion/five-key-fintech-trends-to-watch-in-2022--1253845"
-    type: article
-    provider:
-      name: The Paypers
-      domain: thepaypers.com
+      name: redsharknews.com
+      domain: redsharknews.com
     quality: 24
-    images:
-      - url: "https://thepaypers.com/images/social_media/fintech-trends-social-media_LI.png"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Top 5 Fintech Trends to Watch in 2022"
-    excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
-    publishedDateTime: 2022-01-14T08:03:00Z
-    webUrl: "https://financialit.net/blog/fintech-trends-banking-nft-blockchain-payment-bnpl/top-5-fintech-trends-watch-2022"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/img_4252.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
 
 secured: "POoBSZauTSrzYsFoRL81H3rLnfPkmXQEIEKv74iSpxV8D25C1UkezGSR8d18vp7FJcnb4zE8n1LbxGHwO94lF/k21nmkptCNAR/TDwfrxqH/+9GnKl4HaHdGVrPqQC5Qgdw2EbMZNmYkGP2JKITf1lDF33T27vx5gpxAb1hwjIYMzcCuV36ZH3rtLn7UpVka7reK9F8dm7DVBIwBJwXSZFuDlwGUerc87RQHFodHveF72VM301AjMrfZnzC8irCU3ny2S0kcHUkQNZZzS3XW39+OcbAAaGXr+zpQ+3rSfyKyoq0GJmHdnJJ5Q9GmzUn6CCxdrO2QARN7pWIGd2J+uoLur9x1qUV5ls9CXPoJ36pcroQPx6ESyeFjROnytERPjNKpXMbVaY23Dz15/cXL45d0D/PWBn7IjOh+xUKgs3yR+Y8gYRVGCpVIEtCOMCm1HngmuPPRCwXMn8aozOoIXCENF9+JCtB2ZsGWTIJu8V3RqTmKxykhf8kvMZdsI+wlPrChpI6ByGNAS0kqrQxWYQ==;F9p7vberLOeGSyif3/bRsA=="
 ---

@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Cleveland Clinic, Microsoft among organizations in new healthcare AI coalition"
+    excerpt: "Microsoft said the Artificial Intelligence Industry Innovation Coalition aims to accelerate the adoption of AI in healthcare. It plans to do so through showcasing new technologies, educating the industry on AI best practices and use cases,"
+    publishedDateTime: 2022-01-14T16:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/cleveland-clinic-microsoft-among-organizations-in-new-healthcare-ai-coalition.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 67
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Global Voice Recognition Market: Emerging Trends, Major Key Players Microsoft Inc and Google"
     excerpt: "According to the report The Global Voice Recognition Market was estimated to be 9 9 Billion in 2019 and is anticipated to grow at a CAGR of 18 9 from 2020 to 2027 To prevent data breaches a more robust"
     publishedDateTime: 2022-01-10T12:22:00Z

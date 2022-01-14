@@ -42,6 +42,20 @@ related:
         width: 750
         height: 400
         isCached: true
+  - title: "These Are the Five Covid-Driven A.I. Trends That Are Changing Healthcare"
+    excerpt: "For all of its ills, Covid-19 has supercharged consumerism in America's healthcare system, offering tantalizing opportunities for companies interested in lowering health care costs and increasing access to quality medical care."
+    publishedDateTime: 2022-01-11T18:07:00Z
+    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-driving-health-trends-coronavirus-healthcare.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 38
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1284045256_492187_y9ozvu.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Electronics companies are changing the face of car manufacturing"
     excerpt: "For most of the history of motor vehicles, in-car electronics has lagged behind the rest of the consumer industry. Now, that's changing, and, perhaps, electronics companies might have an advantage."
     publishedDateTime: 2022-01-14T12:31:00Z

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Cleveland Clinic, Microsoft among organizations in new healthcare AI coalition"
+    excerpt: "Microsoft said the Artificial Intelligence Industry Innovation Coalition aims to accelerate the adoption of AI in healthcare. It plans to do so through showcasing new technologies, educating the industry on AI best practices and use cases,"
+    publishedDateTime: 2022-01-14T16:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/cleveland-clinic-microsoft-among-organizations-in-new-healthcare-ai-coalition.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 67
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Johnson & Johnson and Microsoft partner up on digital surgery"
     excerpt: "Johnson & Johnson will use Microsoft Azure cloud computing services to better connect surgeons and patients in a digital surgery ecosystem."
     publishedDateTime: 2022-01-10T19:16:00Z

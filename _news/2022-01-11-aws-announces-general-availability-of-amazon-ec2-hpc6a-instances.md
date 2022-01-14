@@ -1,22 +1,28 @@
 ---
 category: news
-title: "AWS Announces General Availability of Amazon EC2 Hpc6a Instances"
-excerpt: "New Amazon EC2 Hpc6a instances powered by AMD EPYC processors are purpose-built for HPC workloads and deliver up to 65% better price performance"
-publishedDateTime: 2022-01-11T05:00:00Z
-originalUrl: "https://www.businesswire.com/news/home/20220110005933/en/AWS-Announces-General-Availability-of-Amazon-EC2-Hpc6a-Instances"
-webUrl: "https://www.businesswire.com/news/home/20220110005933/en/AWS-Announces-General-Availability-of-Amazon-EC2-Hpc6a-Instances"
+title: "AWS Announces General Availability Of Amazon EC2 Hpc6a Instances"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced the general availability of Amazon Elastic Compute Cloud"
+publishedDateTime: 2022-01-11T14:45:00Z
+originalUrl: "https://www.hostreview.com/news/220111-aws-announces-general-availability-of-amazon-ec2-hpc6a-instances"
+webUrl: "https://www.hostreview.com/news/220111-aws-announces-general-availability-of-amazon-ec2-hpc6a-instances"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Host Review
+  domain: hostreview.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances"
@@ -34,6 +40,6 @@ related:
         height: 400
         isCached: true
 
-secured: "XYEWwCGtSUQhLYS0b+vHCvhLOAaYf36TsQdgVVBGIx+enp3fW8HjJB1ENzww73wBpJJLTIfKp6/OFWx4YPDv+K3mTBxxCxX0w0LEJ9b/yDrjUa5FOwzlotPazWHk92v1H06dDgbbjyBvn/KABgABWZ4ezGS+sBZecdzEGFH0vWLCTNoVyo1KwIIdFnhlQqKeDI+BG6TB1l+Bv89mrchVmLVmKNuH0vFDH74Be3lON8BiKkeNzGlqBbxvZ5BOP7iIZqE3MvGFltfTsmxgP0b/OA+ZaaX/+X/HevQ94xK7VNz0SJyEVS5lbGTGTMofNxZnW39IE4UwVMVSCBQLEbh7glpX9WMJZ2UvPNccfzFd7GQ=;pJyruVJWpk9Iyo3FdZlPsQ=="
+secured: "zsHibxlwsG2j9EY/FGqIQ6MEG9omEPj9J7qk2eLwWhN/rE2eljW/ox3uCkzTAkv11/YH8JoJjD4sVoDVZpGZAeXksT5KhKY751m49nkG1FCZvndfHwXKQSHoxvbze16xIzoYZiQ+iXTAmP4o9L0tDitlS9SECo3LYfNFeJ+c8H00OSGSyICupursF+abWnFkSlbZsSnERqfnchdIRCGv6uVOrjnx4WMgC5grEyzLVdEtT71ZI+FtqAOcUe42WNaI8p70co49x9ERQTV1DSe2XhcyjXT8C0GUzHLdh3+a9TCFxzbV1VYc1UORTG1p1Gi9Tc7gKlVeAolgTr7yIanUGSbsmIEUstul9psv/gelXMY=;fCvlazHVSDRFqQ2I2OOeng=="
 ---
 
