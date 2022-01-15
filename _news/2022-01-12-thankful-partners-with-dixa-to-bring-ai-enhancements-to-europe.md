@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/channels/call-center-scheduling/articles/45
 webUrl: "https://www.tmcnet.com/channels/call-center-scheduling/articles/451171-thankful-partners-with-dixa-bring-ai-enhancements-europe.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elements of AI course continues to increase artificial intelligence skills among Europeans"
-    excerpt: "Elements of AI, launched during Finland’s Presidency of the Council of the EU, is the first educational course launched across Europe and an important investment in artificial intelligence (AI) skills throughout the continent."
-    publishedDateTime: 2022-01-10T08:26:00Z
-    webUrl: "https://valtioneuvosto.fi/en/-//1410877/elements-of-ai-course-continues-to-increase-artificial-intelligence-skills-among-europeans"
-    type: article
-    provider:
-      name: valtioneuvosto.fi
-      domain: valtioneuvosto.fi
-    quality: 42
-    images:
-      - url: "https://valtioneuvosto.fi/documents/1410877/15007476/Elements+of+AI+logo.png/207de478-32e9-e856-d7ea-12b19cf8b3f7?t=1588666504000"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Made in emerging Europe: InoBat, Humans.ai"
     excerpt: "Emerging Europe brings you a round-up of the region’s start-ups which recently closed financing rounds, sealed partnerships, or dropped new innovations, this week featuring Slovakia's InoBat and Romania's Humans."
     publishedDateTime: 2022-01-10T10:08:00Z

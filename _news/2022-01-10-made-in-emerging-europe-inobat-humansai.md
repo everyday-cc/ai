@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elements of AI course continues to increase artificial intelligence skills among Europeans"
-    excerpt: "Elements of AI, launched during Finland’s Presidency of the Council of the EU, is the first educational course launched across Europe and an important investment in artificial intelligence (AI) skills throughout the continent."
-    publishedDateTime: 2022-01-10T08:26:00Z
-    webUrl: "https://valtioneuvosto.fi/en/-//1410877/elements-of-ai-course-continues-to-increase-artificial-intelligence-skills-among-europeans"
-    type: article
-    provider:
-      name: valtioneuvosto.fi
-      domain: valtioneuvosto.fi
-    quality: 42
-    images:
-      - url: "https://valtioneuvosto.fi/documents/1410877/15007476/Elements+of+AI+logo.png/207de478-32e9-e856-d7ea-12b19cf8b3f7?t=1588666504000"
-        width: 1024
-        height: 512
-        isCached: true
   - title: "Thankful Partners with Dixa to Bring AI Enhancements to Europe"
     excerpt: "AI-based customer service solution company Thankful announced the formation of a new partnership with Dixa, a customer service platform provider based in the Netherlands. As part of this new business relationship,"
     publishedDateTime: 2022-01-11T21:03:00Z

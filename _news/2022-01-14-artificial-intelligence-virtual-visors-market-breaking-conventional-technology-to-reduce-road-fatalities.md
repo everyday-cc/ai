@@ -74,19 +74,19 @@ related:
         width: 603
         height: 373
         isCached: true
-  - title: "Facial Recognition Readers Solution Market to Witness an Outstanding Growth during 2021-2027 with Leading Regions and Countries Data"
-    excerpt: "Global “Facial Recognition Readers Solution Market\" is expected to grow at a steady growth during the forecast"
-    publishedDateTime: 2022-01-10T08:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-readers-solution-market-to-witness-an-outstanding-growth-during-2021-2027-with-leading-regions-and-countries-data-2022-01-10"
+  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market: Global Industry Analysis and Opportunity Assessment 2021-2027"
+    excerpt: "Pune, India, Data Library Research published a new report. The report provides tacticians, marketers and the senior management with critical information they need to evaluate the global Artificial Intelligence (Ai) in Medical Diagnostics Market as it emerges from COVID-19 shut down."
+    publishedDateTime: 2022-01-14T09:47:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-medical-diagnostics-market-choudhari"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 27
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGelrJ1gANflw/article-cover_image-shrink_720_1280/0/1642153555777?e=1647475200&v=beta&t=6gTk3GVAMkEOKykdcxWaHU5WkREpr4rPUzm_Va76CLU"
         width: 1200
-        height: 630
+        height: 714
         isCached: true
 
 secured: "rtRU7agzDZ5ll6C6rHhCf35W4pVwxt3bt7u+rRfODRqWVkh0V9bIPqHabPH3zIZpV4n2fFJL4NyAATu2vEDL/F1k5P4deb6pqM8AdnzkBNqiAKcIhUz0434VvS5Hbs9kPwXbktZUXCNiVMoQlw1ykbqvebFa6Hx93u+qs+D+uE0a+jx/No89DJ0/T8uE7UbLANGCARa9upChp7RXltPX550XWcGq7GHVQ6KpEHb1Gz5bQP6gEo+HZD/jWvzkh3endtDLoF4WGhfquCwcFcTjnxEORC4nq5NDBo6mTMwifP4V++ZU74nAddncMWHH3TzfWtDBj5ATK0a4kc8gV00Gk+q+VwdqEKoB7C6sL3xltvYj4lqfRTyYTc4Z1Ky5E4ygQVH00fr8k9HFypU12XvoS0SxiqT0WYOXhlkFqdouhSR+ru0iFT2ygcTuZFBLel1IosvFctm99tw2cDY+pno1L4W0gVCEq4LuO4fTbDh9hx496LhLSFgDtsXSjBbeEyDWDiiCLkw3uZ8BfWJo3RBleA==;luzk2MZsJJ25zXAjnHUkxg=="

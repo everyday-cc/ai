@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How is Artificial Intelligence Reshaping the PR Industry?"
+    excerpt: "Many areas of society, economics, and even life, in general, have been completely revolutionized by technological advancements in recent years, leaving them indistinguishable from just a decade ago. This is especially true in the communications profession,"
+    publishedDateTime: 2022-01-13T12:38:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-reshaping-pr-industry-shaikh-sofiyan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFkClOombixdQ/article-cover_image-shrink_720_1280/0/1642077386382?e=1647475200&v=beta&t=9WFsdv4viK4IN8zQgj8dBulNQN7u0yeMAd69As0Uns0"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "How the AI-Enabled Worker Will Deliver Better Government in 2022"
     excerpt: "Looking to 2022 and beyond, we believe this is only the start, and we foresee even more uses for AI in the public sector, as more government institutions find practical applications of AI that ease rote work and deliver better outcomes for the public at large."
     publishedDateTime: 2022-01-13T14:00:00Z

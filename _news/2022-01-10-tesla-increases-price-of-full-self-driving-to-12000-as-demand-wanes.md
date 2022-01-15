@@ -119,17 +119,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Tesla Hikes Price on Full Self-Driving to $12K"
-    excerpt: "(TSLA) is increasing the price of its Full Self-Driving (FSD) feature to $12,000, effective from January 17, 2022. Meanwhile, TSLA shares closed down 3.5% at $1,026.96 on January 7. Tesla formally released the FSD Beta Button in the last week of September to select drivers based on their safety scores."
-    publishedDateTime: 2022-01-10T07:35:00Z
-    webUrl: "https://www.nasdaq.com/articles/tesla-hikes-price-on-full-self-driving-to-%2412k"
-    ampWebUrl: "https://www.nasdaq.com/articles/tesla-hikes-price-on-full-self-driving-to-%2412k?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-hikes-price-on-full-self-driving-to-%2412k?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "Elon Musk says he’s hiking “full self driving” by another $2,000"
     excerpt: "Tesla's highly controversial \"full self driving\" feature is getting yet another price increase. CEO Elon Musk used his Twitter feed last Friday to announce the price hike, telling his millions of followers,"
     publishedDateTime: 2022-01-10T17:36:00Z
@@ -239,6 +228,22 @@ related:
       - url: "https://i.gadgets360cdn.com/large/tesla_model_3_reuters_full_1577690658134.JPG"
         width: 1200
         height: 675
+        isCached: true
+  - title: "DMV 'revisiting' its approach to regulating Tesla's public self-driving test"
+    excerpt: "In light of videos showing self-driving Teslas attempting dangerous maneuvers, the California DMV is considering whether to require the company to conform to the same laws as other robot car makers."
+    publishedDateTime: 2022-01-12T08:17:00Z
+    webUrl: "https://www.aol.com/news/dmv-revisiting-approach-regulating-teslas-011706246.html"
+    ampWebUrl: "https://www.aol.com/amphtml/dmv-revisiting-approach-regulating-teslas-011706246.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/dmv-revisiting-approach-regulating-teslas-011706246.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 56
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/bZgsuFbz4iE2fctJWBR06g--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/85898be2b155b3c6bec23025a6845758"
+        width: 840
+        height: 560
         isCached: true
   - title: "Tesla raises 'Full Self-Driving' software price to $12,000, Musk says"
     excerpt: "The 20 percent price rise comes less than two years since Tesla raised \"Full Self-Driving\" prices to $10,000 from $8,000 in 2020."

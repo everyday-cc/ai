@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 978
         isCached: true
+  - title: "How is Artificial Intelligence Reshaping the PR Industry?"
+    excerpt: "Many areas of society, economics, and even life, in general, have been completely revolutionized by technological advancements in recent years, leaving them indistinguishable from just a decade ago. This is especially true in the communications profession,"
+    publishedDateTime: 2022-01-13T12:38:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-reshaping-pr-industry-shaikh-sofiyan"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFkClOombixdQ/article-cover_image-shrink_720_1280/0/1642077386382?e=1647475200&v=beta&t=9WFsdv4viK4IN8zQgj8dBulNQN7u0yeMAd69As0Uns0"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "72LV4xO5SvjkCEK07WCoLrztgwR6C/Zkb72XlKjDVypYssc0gKE8dV+6lSprKNYQy4NMpRfx5ZdTTi8vDh7B34/+fdlFdTY2ESEAOPnfijEsjjZAWn7Mxh9dthrYHE/H3QuQwS57Ks+FncYW/PeItaStQ1pwxUZVhiggLnyzD3Zt04isf+Iz/DRbrWXw2NchlTzEzIaFcP++ufoAl5HQkj/wu5c0qh8sIIPAMgWJn9mqCuEInT6Kgz2LX1Cpa8MIKuvA7RMWy1IxgCbGW9QtHGVACmFroGIGLXnPCyaJzlPaet3ew+iX9Qou411A6E/SRo6702hxmhW0+Rq3kEsCJB3G7pylNAuRzFOCuENku5nzcLzuYMWDm54Wb1Ov1JnsUYrpUzc4inb+Cud9ttQyvRcy4lk1I3yj+bndju7Dh8jpK+FeslB8S8LbUln1+GepJIKit2YJYeE00mRUypcJGC/L1qys6PyGm1zmiCJh1rsYpRJesNPHb+JeflabOmeD2y+54dz6lkbqVrZzVaHt1w==;k4Rg8fBtseWJbEYBninFnw=="
 ---

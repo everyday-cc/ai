@@ -21,35 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Changing face of health and healthcare"
-    excerpt: "Foundation highlights the various aspects which will be crucial during and after the pandemic The onset of the COVID-19 pandemic saw the medical fraternity, technology innovators, manufacturers, regulators,"
-    publishedDateTime: 2022-01-10T08:55:00Z
-    webUrl: "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/"
-    ampWebUrl: "https://www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
-    cdnAmpWebUrl: "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/"
+  - title: "The Secret Ingredient of Thriving Companies? Human Magic."
+    excerpt: "According to former Best Buy CEO Hubert Joly, it takes several mutually reinforcing elements to create an environment that unleashes the kind of human magic necessary for a company purpose to take root and flourish."
+    publishedDateTime: 2022-01-10T13:15:00Z
+    webUrl: "https://hbr.org/2022/01/the-secret-ingredient-of-thriving-companies-human-magic"
+    ampWebUrl: "https://hbr.org/amp/2022/01/the-secret-ingredient-of-thriving-companies-human-magic"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2022/01/the-secret-ingredient-of-thriving-companies-human-magic"
     type: article
     provider:
-      name: expresshealthcare
-      domain: expresshealthcare.in
-    quality: 59
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 44
     images:
-      - url: "https://www.expresshealthcare.in/wp-content/uploads/2022/01/750-x-400-2.jpg"
-        width: 750
-        height: 400
-        isCached: true
-  - title: "These Are the Five Covid-Driven A.I. Trends That Are Changing Healthcare"
-    excerpt: "For all of its ills, Covid-19 has supercharged consumerism in America's healthcare system, offering tantalizing opportunities for companies interested in lowering health care costs and increasing access to quality medical care."
-    publishedDateTime: 2022-01-11T18:07:00Z
-    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-driving-health-trends-coronavirus-healthcare.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 38
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1284045256_492187_y9ozvu.jpg"
-        width: 1024
-        height: 576
+      - url: "https://hbr.org/resources/images/article_assets/2022/01/Jan22_10_639854106.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "/3BZ6hn1/iROkXm7iNV7AnSJJLk2Hfc/3WGZRrfOScwRvc5X8BzzyQXWXJ5Mlqj8bjLeg0m6RRN/1HrhR/ekTBy7tGMzFqxHMGi9YBtVerAwEwPrrdh1bY/ViuESQZ2jszQrZLZSgFJ22tve63QddKmnA8YPpNDDG+6jzilIs0ZE6I9P/ePKnzeg9wes7++SVCu6uWgsEH7xPRwHk9da8n6D9RZhVPCtubIgJ/yaI8U76dF0tHOd6RVo1cvibgZKF2CX4xETmq5QKUrKdF32VB7AnoytlWR5jTZTyYutMAnDSJO4g4qFWEjIzJN5bpCHbLsM+yYlo8mLCIyArOUywk03FFgUnk6N6x00RGIaipR5tyHkCqPmZUiFWeNWSnR9ax6+OE3FLshaROj+woLGb2Vq71h/ZNGDQPREMfvW+i1nY4oKMZM8Kn2PmH9QOXnCWY5vJfeIGaXIEm9WwTfXWt8MX4YO1gJAK+GeoJJGELGdu81Pj26nQtwCdU0Rr0SnCNuj3f6MCZZ5BQarGY0jxQ==;CKX0Uv0CnxAobFYkX58Zog=="

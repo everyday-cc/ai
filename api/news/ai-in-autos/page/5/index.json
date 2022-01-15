@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-10-top-10-artificial-intelligence-stocks-to-buy-in-december-2021.md",
+      "title": "Top 10 Artificial Intelligence Stocks to Buy in December 2021",
+      "excerpt": "The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. Here are the top artificial intelligence stocks to buy in December 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/top-10-artificial-intelligence-stocks-to-buy-in-december-2021/",
+      "originalUrl": "https://www.analyticsinsight.net/top-10-artificial-intelligence-stocks-to-buy-in-december-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-10-Artificial-Intelligence-Stocks-to-Buy-in-December-2021.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T01:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars.md",
+      "title": "All Hands on Tech – Amazon DeepRacer League encourages developers to train self-driving cars",
+      "excerpt": "At Amazon Web Services re:Invent in Las Vegas this year, Amazon launched an autonomous model car racing league and hosted the first race. Meant as a way to engage developers to train reinforcement learning models, Amazon says it will host more races at its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars",
+      "originalUrl": "https://www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itbusiness.ca/wp-content/uploads/2018/12/AHOT-AWS-Conference-Thumbnail-For-web.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars?amp=1",
+      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/video/all-hands-on-tech-amazon-deepracer-league-encourages-developers-to-train-self-driving-cars?amp=1",
+      "publishedDateTime": "2021-12-09T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Business",
+        "domain": "itbusiness.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-how-self-driving-cars-will-talk-to-pedestrians.md",
       "title": "How self-driving cars will 'talk' to pedestrians",
       "excerpt": "Road safety relies on all types of communication between people and vehicles, and most importantly on a psychologist-coined term, \"communicating intent.\" As pedestrians and fellow drivers we're constantly indicating what we're about to do,",
@@ -1285,101 +1372,6 @@
         "AWS AI",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-robotaxis-approved-to-start-services-in-beijing.md",
-      "title": "Robotaxis approved to start services in Beijing",
-      "excerpt": "Despite Beijing’s tech crackdown on both local and international companies in China, robotaxis have been making the headlines in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
-      "originalUrl": "https://techwireasia.com/2021/12/robotaxis-approved-to-start-services-in-beijing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/11/081_AFPS14105-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/robotaxis-approved-to-start-services-in-beijing/",
-      "publishedDateTime": "2021-12-01T18:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise.md",
-      "title": "Supposing We Restricted AI Self-Driving Cars To Operating On Public Roads Only Late At Night To Sunrise",
-      "excerpt": "One intriguing and controversial proposal about AI self-driving cars involves only allowing them to initially operate during late night and early morning hours. Here's the scoop.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60596518d910750488dc5aaf%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1130%26cropY1%3D0%26cropY2%3D681",
-          "width": 1021,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/01/supposing-we-restricted-ai-self-driving-cars-to-operating-on-public-roads-only-late-at-night-to-sunrise/amp/",
-      "publishedDateTime": "2021-12-01T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Tonner-One World (OTC: TONR) Announces Acquisition of Ai-Powered Cryptocurrency Investment Management Platform."
-excerpt: "Tonner-One World Holdings, Inc “the Company” (OTC: TONR TWTR: @TonnerOne), an aggressive FinTech development company, announces the acquisition of Cryptopro, a Lithuania based Artificial-Intelligence-powered Cryptocurrency,"
-publishedDateTime: 2022-01-14T18:27:00Z
-originalUrl: "https://apnews.com/press-release/globe-newswire/business-investment-management-3e8d22f1184c85d47026374e5cc0056a"
-webUrl: "https://apnews.com/press-release/globe-newswire/business-investment-management-3e8d22f1184c85d47026374e5cc0056a"
+excerpt: "Tonner-One World Holdings, Inc \"the Company\" (OTC:TONR), an aggressive FinTech development company, announces the acquisition"
+publishedDateTime: 2022-01-14T17:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/g25060527/tonner-one-world-otc-tonr-announces-acquisition-of-ai-powered-cryptocurrency-investment-management"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/g25060527/tonner-one-world-otc-tonr-announces-acquisition-of-ai-powered-cryptocurrency-investment-management"
+ampWebUrl: "https://www.benzinga.com/amp/content/25060527"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25060527"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "0xKeI8y5rY3q0kjMSnpNWAwsPVODFXuNaci1M3oro45blFq3GEzHesTColkyLaX+dpaSatih2xNNzL0dQEVlRq4LtMpthWuSXR0AKdWVCNjkTh6NaL4TM/WXR6W1LXev2SwtF60XJ8GFAC9/ao+z20VbGWICPijfrnL9PLd4zbf2LuC5xEWVJF8frjrPal2VFcQKzK72XVGKdNAn96sGNePjRTpIETguriVnK9lyCAKN/KvPCE3peh1VvJFWr+koFaX2/n9lQmqpb2mMkMrCktXx8ZCrHU8hyCtH1K5yn07ezF7FJUd+uB4u5dGz/OygWjg7ddsBLp0/mYxwqroM2Hilz6u5PhvEeXi65baEKHg=;AKDV5k8N0WDl3rBHYxEDDA=="
+secured: "xXSkZlikr1h13hiblvN+4B7qdMy/zgI1X3cttbbGx0Yb3srZzOl8KURUZomxnVj0VeFoGnGMaMwzg+nM+OFgt8jwvnKTG/Hh+7rba9SNN9Jf4s9RF+4CcEf/FOWpYJ+cMlMWn/3F/u0GaoUbzQ5xtLHuH9dZHXSq6AQQoyBm2MdEfCkPA20c8L9dgObKbleygkxsh93Yehu3N+3fUs9l1IHpR+UB7ySg+drQ2du01CWyLSeFaKpuZBn1pJ7eO/d3q/iJ1HLWGV8rMiwWYEjsEgH/yYfJFfQsBt7yFf93+F6cxPAfzjNQBml/krw3Ku3PmG9Am+jb+qq56JCrAo4SitTqpAFZLhqfeo/BtMP1A+4=;FyGVEVD43/KITeJ+C6JFDw=="
 ---
 

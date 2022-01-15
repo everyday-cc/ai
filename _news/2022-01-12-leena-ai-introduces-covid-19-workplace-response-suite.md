@@ -23,17 +23,6 @@ images:
     height: 450
     isCached: true
 
-related:
-  - title: "This New AI-Driven At-Home COVID Test Delivers Your Results Digitally"
-    excerpt: "The newly launched BD Veritor At-Home COVID-19 Test uses AI technology to promote better accuracy by reducing human error and allows you to share your results digitally with friends, family, coworkers,"
-    publishedDateTime: 2022-01-14T02:58:00Z
-    webUrl: "https://www.thedailybeast.com/bd-veritor-at-home-covid-test-review"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
-
 secured: "DR2xvEJkFHG8unHfMLaiszTG89kKyYofPoTP4G+EtZ8agp5FsUoYjgEB2DNIDtoyP1IVRSmCA8inhlCZIQuBAmk0LLCW9pwdM1400DG+dnneLDLAXEVMlUqm+CsHFt1HHLZRkNZEs3Tw9+3uRIcUSihi16pzscl6ggDo1wEqTNNZE2mYfSNxeLaQaMk3HHzP/bUZaqopd6kLcdGL1Y2BiTkvI9I8HaquiADwUrIfcJpdFAYIO2L4gbFdpUk/H2jszgy5An6wWxBmRc6ZZvqY0mU4ysKrb85tSI4wQ1w6+I1FL9pY/hRlta0FH2zTGFBxqPH4Rz5OvdQaer9Tl0/vf6/mzuXB3a0+RPd6u8qdHY0=;Ob5uB0C4ZCg0G4OE7Eg7Og=="
 ---
 

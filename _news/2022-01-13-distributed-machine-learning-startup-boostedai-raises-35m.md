@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/01/12/distributed-machine-learning-s
 webUrl: "https://siliconangle.com/2022/01/12/distributed-machine-learning-startup-boosted-ai-raises-35m/"
 type: article
 quality: 54
-heat: 65
+heat: 64
 published: false
 
 provider:

@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-13T10:07:00Z
 originalUrl: "https://www.linkedin.com/pulse/how-startup-using-ai-create-world-without-sasha-knott"
 webUrl: "https://www.linkedin.com/pulse/how-startup-using-ai-create-world-without-sasha-knott"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFrNg5GuhYOJw/article-cover_image-shrink_720_1280/0/1642068383449?e=1647475200&v=beta&t=Yg_X5il5JW1TFwif3MiCIbc5BXVd0DAwTQiygO1Lr9E"
