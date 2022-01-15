@@ -42,6 +42,20 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "The Hard Problem of AI is the Problem"
+    excerpt: "Much energy and resources are being put into Artificial Intelligence currently. Artificial Intelligence is expected to approach and eclipse human intelligence."
+    publishedDateTime: 2022-01-11T10:30:00Z
+    webUrl: "https://www.linkedin.com/pulse/hard-problem-ai-anders-lisdorf"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFDWKeI54GJnQ/article-cover_image-shrink_720_1280/0/1641896379868?e=1647475200&v=beta&t=qDpzz7WUHrYu6gwtBNjgACgFMKz5rOX5BTTD8ySm5nA"
+        width: 540
+        height: 720
+        isCached: true
   - title: "Artificial intelligence predicts RNA and DNA binding sites to speed up drug discovery"
     excerpt: "Researchers developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
     publishedDateTime: 2022-01-11T16:10:00Z

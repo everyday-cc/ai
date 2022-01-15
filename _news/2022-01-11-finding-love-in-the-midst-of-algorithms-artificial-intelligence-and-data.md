@@ -42,20 +42,6 @@ related:
         width: 600
         height: 330
         isCached: true
-  - title: "AI is coming for copywriters"
-    excerpt: "Artificial intelligence is coming for copywriters, and it’s going to be a tough job market. The irony of the Internet is that it’s made copywriters more important than ever."
-    publishedDateTime: 2022-01-10T16:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-coming-copywriters-brian-nizinsky"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFut7NbZTghZg/article-cover_image-shrink_720_1280/0/1641830396670?e=1647475200&v=beta&t=Pmm4bo6J1eNKk67_4gKwKx8Ul8CNDx-yGfGz5uoE2RE"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "VYqdcFq6K1u8pcFOJjlJ8o14Smfr/8kZuNpOlY31rv4+lSiriFrxePz60s27Cw0o/jvaXeqA+Xk+NfDjnOLgo89SQqYSZ8rWIpFjlVXSok3aGB0FFgibNndt4c4ZKnKRKFN3mcUyKcbiQzufqzEFS5wZSK4n3zUBw3Uyt+AaS8S+WA4sbiRJvZ5y4BxyDGrlizJrjRdjmZ4TnOUY375JShNrX5H6gmwVvmh/Jp7hRDmcfb9No7QHVMGIHsij8VLOwq6mKXeyqV1VS6ctVjkAIZWSwo4svEmd+dE6jd+Lc8Bh4RrO3Hq/HcShEsJr5/4OvdXPf3LksLy9x+A+ZDPy8n+y/qR5hRIZNtc7A66sAJ0=;yKSZmtTUwiqpt9YO/nbYBA=="
 ---

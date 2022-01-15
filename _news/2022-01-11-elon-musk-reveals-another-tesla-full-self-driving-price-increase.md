@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
 type: article
 quality: 89
-heat: 299
+heat: 289
 published: true
 
 provider:
@@ -300,20 +300,6 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web_0_1.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Tesla Hikes Price of Full Self-Driving Package; Cybertruck Production Date Disappears"
-    excerpt: "The cost of Tesla’s Full Self-Driving package will soon increase by 20%, according to recent tweets from CEO Elon Musk."
-    publishedDateTime: 2022-01-10T15:44:00Z
-    webUrl: "https://www.cars.com/articles/tesla-hikes-price-of-full-self-driving-package-cybertruck-production-date-disappears-445687/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 32
-    images:
-      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-37-dynamic--entertainment--front-row--interior.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Tesla’s Full Self-Driving beta includes an ‘assertive’ mode that’s more aggressive on the road"
     excerpt: "If you would want your self-driving Tesla to be more aggressive than the default, it seems that there's an option letting you do just that on the beta."

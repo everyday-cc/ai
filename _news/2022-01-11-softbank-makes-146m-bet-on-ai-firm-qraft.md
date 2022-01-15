@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "SoftBank invests in AI start-up Qraft Technologies"
-    excerpt: "SoftBank Group <> <> is investing $146M in Qraft Technologies to gain access to the money manager’s artificial-intelligence tools and help seed the"
-    publishedDateTime: 2022-01-10T15:16:00Z
-    webUrl: "https://seekingalpha.com/news/3786709-softbank-invests-in-ai-start-up-qraft-technologies"
-    ampWebUrl: "https://seekingalpha.com/amp/news/3786709-softbank-invests-in-ai-start-up-qraft-technologies"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3786709-softbank-invests-in-ai-start-up-qraft-technologies"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 57
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Softbank injects $146 million into AI for asset management firm Qraft"
     excerpt: "AI enabled fintech company Qraft Technologies, Inc. (“Qraft” or “the company”) today announced that it has closed a US$146 million investment from SoftBank Group Corp. (“SoftBank”), which includes primary growth capital and secondary capital that will be used to fund share purchases from investors."
     publishedDateTime: 2022-01-13T11:30:00Z

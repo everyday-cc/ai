@@ -3,10 +3,10 @@ category: news
 title: "Global Smart Hangars Market Research Report 2021 with Focus on Edge Computing, IoT, and Artificial Intelligence - ResearchAndMarkets.com"
 excerpt: "The “Growth Opportunities for Global Smart Hangars” report has been added to ResearchAndMarkets.com’s offering. This research discusses trends like edge computing, IoT, and artificial intelligence with respect to aircraft hangars;"
 publishedDateTime: 2022-01-14T11:07:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-5598b0e7e91541e6aa7497c9a99673b3"
-webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-5598b0e7e91541e6aa7497c9a99673b3"
+originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-5598b0e7e91541e6aa7497c9a99673b3"
+webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-5598b0e7e91541e6aa7497c9a99673b3"
 type: article
-quality: 6
+quality: 4
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI in Robotics
   - AI
 
 images:
@@ -40,6 +39,6 @@ related:
         height: 720
         isCached: true
 
-secured: "+GPMF9ainU/aw4fIereScQb/JOu6aoRHZNQItM2y0xOvFTYDzOYTKgBL9BxBH0dV0/BHgnCdc26WYKXjQGK4Aq0chsM9oEgyNUQrKBg4YxKEDXtto3r2vPRJh3J6EjhE0ilJCcjJ/UzSQyFZcN6rEBc8idLPSDZQAoWzwoes2A8s7McSB7v69O1qwNHxrBpktGInNQc8DhzCHip0IiMfeXoenzSY+cp00W38428aOiKXmbex+nw+VW6nzslY3RENeaURR8/w/Fq6BCkGyryDR5EbPLRolYM+7Gc6n+a/F1Kyi+/9J1GunSeRz1u1eyEcA6gqIcUV1cJWDd14C58bN2hhMAqQuJ+J4iV88wuZG68=;D5xxF1SrHAAPkN72r4x8+Q=="
+secured: "MazLIddL7oGjoWcpN3JTFhDXfjLlndvZaQjAMp4gHZ/+YkR/LoH18gaImP+H0Qr1iMgu/DdD+B/nWioKgTEpxN64GccUNvYuB3LpjAFetg6/5X/uSIwoiVOpjOjyJV1I1iSjV16W2vSDSJIhXblGE1wCkBWgbRf0zKvBRy/bf9gM6i8PUoGDDWD+IERGoJCXK0LP2AJXBjaB7bDvms7eIHU81562HCuuuIoV+doA8PJJIzLsEwoVSUkgrjVCURwd4EJbUdTOWy/r1MkL96BCgUWQJntFlpfKfk90ED2X8WwKU/Th96sWS6LLwhoqgtBoJmBwXhyn5V+KwWq//oQgUqXwDXOx6A7QBMkt9VLQiXs=;/00JTc/JQXvMLHRs2Mjcow=="
 ---
 

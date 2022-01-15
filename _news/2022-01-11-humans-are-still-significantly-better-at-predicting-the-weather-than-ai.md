@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92936-humans-significantly-better-
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2022/01/b744404607f524183cc48bd943733e2f.jpg"
         width: 917
         height: 611
-        isCached: true
-  - title: "AI Isn’t Ready to Take Over Weather Prediction"
-    excerpt: "Despite several decades of computerized automatic forecast development, human-powered predictions assisted by these technologies are more accessible and more accurate than their AI counterparts."
-    publishedDateTime: 2022-01-10T16:58:00Z
-    webUrl: "https://www.extremetech.com/extreme/330378-ai-isnt-ready-to-take-over-weather-prediction"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 37
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/01/Mark-Konig_Unsplash-640x353.jpg"
-        width: 640
-        height: 353
         isCached: true
 
 secured: "mXHThPkGiGcwahDMsdNhp0Twmgp65JV0Dk6uAwsatwfz+iBx8QFhZYKb2Z2DDmflMLPz4HLV9TuvYunyxp3Jp9QrXcvNGmrIHYAgcxvbA/cPI5+ox/qaRAS2emahaNYgvKdho8tRUNg+woQ4o0dTgbGaiXTBgoGtwPrlV1ItTC2R6Xb8LsHtUaOhpWIiUlLc4pk1X4xwKri/ub5RLbC0vBgkrMxuPLTh2zKnjLoiCEqLgrGW+9DfdeJo80/d2oJxW25GcpTfAjLzlPRR3fRSE6hFgrSEmvi3morzZnVY3gqRrWiA2VB/JCsELjAaAFWSlL3/ASKVvt1fX7mwHlQVwMiWQcReCCh5Lsr/isjtyT4=;lxQ28c8h0+h8T7LyBI1QlA=="

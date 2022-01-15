@@ -44,20 +44,6 @@ related:
         width: 2138
         height: 1402
         isCached: true
-  - title: "AI Isn’t Ready to Take Over Weather Prediction"
-    excerpt: "Despite several decades of computerized automatic forecast development, human-powered predictions assisted by these technologies are more accessible and more accurate than their AI counterparts."
-    publishedDateTime: 2022-01-10T16:58:00Z
-    webUrl: "https://www.extremetech.com/extreme/330378-ai-isnt-ready-to-take-over-weather-prediction"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 37
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2022/01/Mark-Konig_Unsplash-640x353.jpg"
-        width: 640
-        height: 353
-        isCached: true
 
 secured: "A4lG7GIATPlATIwUfzUYDkhsMlx2ayjieb2/EhvwmkgPMhIio6nCrTNR20YBG/zZOkIRkDSOoOu3xqQeWiaoopzyO8BTQ1oIEgDakiZeTWe98JiUUtwIsmfnUqxdiFtD/ZoregzvHAdj2YwfK3iZd4/3vKHGfrQtXAuQ5kLRnSuU9GqBKab+33ik40rp+LZIN5sac1wQdeBxeOLF1qX8hOGcRt3C0DNs5egqhK8S+A4+sM9reQMuKMm6BPYLPwBiTTFTvu+U0+J/1bXmcK/SDbTxIYzpyfGXiKG5+bMwZ727VN5qbD4vMomU43FWIaTmOCDbA1l214SuA642c1ie5XwBROXzbu6ivPJgW3dkNij/llcHe1P3O0i+jOMFwS2Q8WKjT+R087Q423gJggUrrKmjGwj0uSlo3eAuz5aBq54W6A494+GOmryGOvvNB62RV3U8fod3ewJNd74MJclVCx8q6GusL9YuQ2gHe5AIrKEP9D3m1iK+49gbyu+v4X0nmVY6/mDUzc0OzMgIQy3Yzw==;0uSCYp2K/tz8uYQNxgkKig=="
 ---

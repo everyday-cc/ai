@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Impact of 5G on Artificial intelligence"
+    excerpt: "Now more and more people are learning about artificial intelligence.  5G has conquered the whole world.  However, what is the connection between them?  In this article we will figure"
+    publishedDateTime: 2022-01-14T13:34:00Z
+    webUrl: "https://www.designyourway.net/blog/misc/impact-of-5g-on-artificial-intelligence/"
+    type: article
+    provider:
+      name: designyourway.net
+      domain: designyourway.net
+    quality: 37
+    images:
+      - url: "https://www.designyourway.net/blog/wp-content/uploads/2022/01/5g.jpg"
+        width: 1000
+        height: 395
+        isCached: true
   - title: "The next generation of energy and environment startups using data and AI to save the planet"
     excerpt: "Energy and the environment were significant threads covered at Web Summit and garner additional importance when considering the travel and accommodation"
     publishedDateTime: 2022-01-13T13:30:00Z

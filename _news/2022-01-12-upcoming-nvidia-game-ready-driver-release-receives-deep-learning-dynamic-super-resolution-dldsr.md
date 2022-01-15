@@ -2,9 +2,9 @@
 category: news
 title: "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)"
 excerpt: "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January"
-publishedDateTime: 2022-01-12T07:44:00Z
-originalUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html"
-webUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html"
+publishedDateTime: 2022-01-12T09:42:00Z
+originalUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr),15.html"
+webUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr),15.html"
 type: article
 quality: 6
 heat: -1
@@ -77,6 +77,6 @@ related:
         height: 900
         isCached: true
 
-secured: "q/BEY0bRFzcNucVr7sG98QYifDrVweCgn2ZNraFmBu11z8CsTT0MD2H2QibV4idV0YBKw2aHLy/MJDJjDmWBv1w3uOvuWm5YEyjz7MWdQbSOSzVNTSJAaLmAE0JhhewvOIQtoXvFiyt47FXIwHyk+58bcVmBGtZavkUx2DFago5Fhf+nAW47r+D4BQ7bmzVYhe5jAsOt053d7puzZiNIkKQekjxREspbI6T+4pF1smCtUe3vAAucKPp6vaVnrfSRbLQUpQ06647EnIMfe7bF7mgLgorJHTHRCNNpRbwnUBlD6q5IbHYJ8DgdwKPYd5EavZib/rYqRkGQThjEktcttoxrr4K6Qi0N7Zq/HRMYMc4opT1E5nSWa4qC+UQvIFg4mLoKkbwd6GWvf5waZ41w34P4KSOCzra8TbJSjt2XXrVmTVas5WC7s4ScHnC+RwT3+9QmgMg3SecMsO8lsWzlym5k+nU0eQ/iAfsEc5C+GaLd3g1vqX7i8d5OABKaD5wBr4KMpfy8+xUl1yTuM4KKJQ==;7uQgmZ8Q3UqqW+a+X5Hv9g=="
+secured: "3R30TQTXZeat3zcF0QVpDcSadR/wipQPxVJ3uhRCBN4eWrIk2PWKykxDAh2fnRLGpexlgjZvfS2F4+Ujj++BwUqio7NvZh1BWqO6r1xPsJUqcm6AYiPnVDEad9DgrBKLpefYqBV1TZhuVBaWO2AZqaxafMqwC8dJaFluWcgoZk0ZKI5ezV8mzr0t8rjQppCxnrThNSMfnmXtv6ix+8sFd2NV9BYDyGwjT2b+xXPIDaORdqd9T+JUljKDXkFN6uhl74p4fb3/VAvcpRO4TfD1vPxh9n0cTtFW5Rhp/NdUwPrdlBGKG8kYpgXn+8XhurTEG+kwMxJdnuDzOycPqLLWSlfQLKfp3jWQE/rJsnCI8fLMfqPfG820KsGnO6ZpnZWzIhcUIzQcKLoISgFIcjbshG2UGwRM291iWsGTQFrLf0In1XC6Asn1uO9c8/iTzp5vL+gWIJWb+w9RrzLZ71JbmBM95NbeIS9YPCWVKBWKhnkKA0zGCHdDOqwftvPPHQ8VcUTuy1ryp+Nm4k3TKXGNIg==;JjIAuF5Z9GFDQVUGhmcciA=="
 ---
 

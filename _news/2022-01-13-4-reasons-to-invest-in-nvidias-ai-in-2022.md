@@ -69,8 +69,8 @@ related:
         isCached: true
   - title: "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)"
     excerpt: "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January"
-    publishedDateTime: 2022-01-12T07:44:00Z
-    webUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html"
+    publishedDateTime: 2022-01-12T09:42:00Z
+    webUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr),15.html"
     type: article
     provider:
       name: Guru3D.com

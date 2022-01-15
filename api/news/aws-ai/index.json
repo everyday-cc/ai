@@ -473,22 +473,13 @@
       "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
       "excerpt": "ARMONK, N.Y., Jan. 7, 2022 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_47a4fdb6-240c-520f-be7c-38bf34d6ad30.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_47a4fdb6-240c-520f-be7c-38bf34d6ad30.html",
+      "webUrl": "https://www.kpvi.com/news/national_news/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_cbc974fe-32b2-5054-9a0e-a8b75340b0f2.html",
+      "originalUrl": "https://www.kpvi.com/news/national_news/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_cbc974fe-32b2-5054-9a0e-a8b75340b0f2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/617ae04d78c95.image.jpg?crop=1981%2C1040%2C5%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -496,8 +487,8 @@
       "publishedDateTime": "2022-01-07T05:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "KPVI",
+        "domain": "kpvi.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's FSD Beta's Driving Modes Bring Up Interesting Ethical Issues We Should Talk About"
-    excerpt: "They seem to have some programming to break at least one law. It's not a huge deal on its own, but it brings up some pretty huge questions"
-    publishedDateTime: 2022-01-10T16:32:00Z
-    webUrl: "https://jalopnik.com/teslas-fsd-betas-driving-modes-bring-up-interesting-eth-1848331683"
-    ampWebUrl: "https://jalopnik.com/teslas-fsd-betas-driving-modes-bring-up-interesting-eth-1848331683/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/teslas-fsd-betas-driving-modes-bring-up-interesting-eth-1848331683/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 67
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/bf671961b46a13f234e5578696aa0260.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
     excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
     publishedDateTime: 2022-01-14T18:00:00Z

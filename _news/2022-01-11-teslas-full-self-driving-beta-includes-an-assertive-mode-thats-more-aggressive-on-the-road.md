@@ -311,20 +311,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Tesla Hikes Price of Full Self-Driving Package; Cybertruck Production Date Disappears"
-    excerpt: "The cost of Tesla’s Full Self-Driving package will soon increase by 20%, according to recent tweets from CEO Elon Musk."
-    publishedDateTime: 2022-01-10T15:44:00Z
-    webUrl: "https://www.cars.com/articles/tesla-hikes-price-of-full-self-driving-package-cybertruck-production-date-disappears-445687/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 32
-    images:
-      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-37-dynamic--entertainment--front-row--interior.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "California DMV to review Tesla’s ‘Full Self-Driving’ and other technology to determine software’s future use"
     excerpt: "A DMV spokeswoman said the department had notified Tesla of the review, which is separate from an evaluation of its use of the term \"Full Self-Driving.\""
     publishedDateTime: 2022-01-12T05:26:00Z

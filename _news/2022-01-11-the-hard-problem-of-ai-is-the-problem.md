@@ -28,36 +28,68 @@ images:
     isCached: true
 
 related:
-  - title: "5 Fresh Examples Of AI"
-    excerpt: "What used to be seen as niche is now widespread, with innovative AI applications across all industries. 86% of companies say AI became a mainstream technology in 2021—and it shows no signs of stopping."
-    publishedDateTime: 2022-01-10T16:00:00Z
-    webUrl: "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/blakemorgan/2022/01/10/5-fresh-examples-of-ai/amp/"
+  - title: "How Protai’s AI-powered platform is improving drug discovery"
+    excerpt: "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform."
+    publishedDateTime: 2022-01-13T18:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/"
+    ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: VentureBeat
+      domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61bb32dce7e4fb522601f127%2F0x0.jpg"
-        width: 1200
-        height: 665
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all"
+        width: 800
+        height: 430
         isCached: true
-  - title: "Impact of 5G on Artificial intelligence"
-    excerpt: "Now more and more people are learning about artificial intelligence.  5G has conquered the whole world.  However, what is the connection between them?  In this article we will figure"
-    publishedDateTime: 2022-01-14T13:34:00Z
-    webUrl: "https://www.designyourway.net/blog/misc/impact-of-5g-on-artificial-intelligence/"
+  - title: "4 ways artificial intelligence is improving mental health therapy"
+    excerpt: "With an increased demand for services and workloads stretched, using AI within mental health services could be a game-changer."
+    publishedDateTime: 2022-01-11T17:57:00Z
+    webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
     type: article
     provider:
-      name: designyourway.net
-      domain: designyourway.net
-    quality: 37
+      name: Big Think
+      domain: bigthink.com
+    quality: 56
     images:
-      - url: "https://www.designyourway.net/blog/wp-content/uploads/2022/01/5g.jpg"
-        width: 1000
-        height: 395
+      - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
+        width: 4098
+        height: 2304
         isCached: true
+  - title: "Artificial intelligence predicts RNA and DNA binding sites to speed up drug discovery"
+    excerpt: "Researchers developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
+    publishedDateTime: 2022-01-11T16:10:00Z
+    webUrl: "https://www.nanowerk.com/news2/biotech/newsid=59510.php"
+    type: article
+    provider:
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 32
+    images:
+      - url: "https://www.nanowerk.com/news2/biotech/id59510_1.jpg"
+        width: 1290
+        height: 574
+        isCached: true
+  - title: "How AI is improving the translation experience for marketers"
+    excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
+    publishedDateTime: 2022-01-10T17:30:00Z
+    webUrl: "https://www.america-retail.com/usa/how-ai-is-improving-the-translation-experience-for-marketers/"
+    type: article
+    provider:
+      name: america-retail.com
+      domain: america-retail.com
+    quality: 19
+  - title: "How AI is being used to improve disability employment"
+    excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"
+    publishedDateTime: 2022-01-13T17:57:00Z
+    webUrl: "https://www.publicnow.com/view/8577DB312DF16BC9561778F10E8C2C5DA84C3480"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 19
 
 secured: "m5q/F9o87HHFGBiMp+u0IfZ4cZRPLFxvoL5Uuxl9UEKTNmgLIlNslNoabsIK8sRBmwRq7rIk1X6NLkVVfsb+K8fEexpLoZSV/GvqQby/xHi4Tb0MWjr3H7mcWt8qYipfkxjPnyFd/cXKTvO2xBPyVzlWyYCBO80EZQ5OWqnLbofTkKG1d8ho7PRGz3PtNq+zzkjeZNEOUw1wzIuScI9mxzPSxv62SyOcKb4Az/eS30mOiR68pqRnKr9i1QuoQnG9gdNi3mftTQdj7I/a7MCv0jaujusAVJp2wAn7w9ut1XC3/34XEjaP7DDT+lR8PgYi7AxBFK9XhqO3e0VlBdg2ClqmicCRprxFV2TmZ3TFoag=;TuLrFqwx6EmGT93YS1Qytw=="
 ---

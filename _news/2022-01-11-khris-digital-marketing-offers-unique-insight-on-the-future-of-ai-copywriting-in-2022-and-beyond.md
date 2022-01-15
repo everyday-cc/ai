@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24985849"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24985849"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.outlookindia.com/public/uploads/articles/2022/1/10/Untitled_design_(3).jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "AI is coming for copywriters"
-    excerpt: "Artificial intelligence is coming for copywriters, and it’s going to be a tough job market. The irony of the Internet is that it’s made copywriters more important than ever."
-    publishedDateTime: 2022-01-10T16:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-coming-copywriters-brian-nizinsky"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFut7NbZTghZg/article-cover_image-shrink_720_1280/0/1641830396670?e=1647475200&v=beta&t=Pmm4bo6J1eNKk67_4gKwKx8Ul8CNDx-yGfGz5uoE2RE"
-        width: 1080
-        height: 720
         isCached: true
 
 secured: "2p0c65ne8w/n6qlvfMQ/Yd9pFnPu1r3JCM0E0UFJiF8aZmqTMVvD0ku06274ao3fmlGGche/BHbeUTzzyvg9jyVz3LLSgXjTHMpOfD1x63Yb6hG+nf+1pcqinMUy7vjH/OmKe5qJCUFDSy9HrPHDHq6/MohSRDvQIzMUsAk1r53iVxtXz2rwFHe46Y9ExHAvFz8JKhhmJIsM5tsem99hH4cgREGaBOMt4rQf/3LAklnAnUWP3bCZD/b2eg0t+zG7upbEGeCz7Coe7g96KAFP/5V1txLOllmOcO8m1Z0BlK0Jp4KP6ATwqdnpkSSBIxSYd1PKgbHplkqJ8npdjf7w5qHN6lpdpe+EGfXZhREwbBQ=;+m+O8K1KIUHyBOMiAc633A=="

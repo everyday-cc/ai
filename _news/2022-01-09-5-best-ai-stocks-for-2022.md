@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "In this article, we will take a look at the 5 best AI stocks for 2022. If you want our detailed analysis of these stocks, go directly to the 10 Best AI Stocks for 2022. Graphics chip giant NVIDIA Corporation (NASDAQ:NVDA) is one of the best AI stocks for 2022."
+excerpt: "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),"
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI Hardware
+  - Microsoft AI
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "/N0ei9BqsFADzV2R4QF0gOvRj/REeQBgtLKrhXEf1fjHsN17tO0XdWZjUiDPhY07zjXEieZ4KDsGCEbWE6H1Y/up6SWZY2jQYekYlWTuF4CBhk0EmbydPFP6vFpqG2bDfypBVoMhBPMR92O4vNXMn7m/xmzAa3DM+rhMuZXQbPjMkDi9wJnWTealUVouH0/Pfsdx5qIUuh1taksxwuvivy8B0ROIdxbDidn995sQGkl2bdsKW6Hjm2hZx6+2zBFpplynKMW8CzMp8DR/Ckqm90/fz37wEABKJGo95YJ1fSuMX4iXudXtiuM/GQgKIdSBSX7Z6rh3aHMuMh36JcB1zj3UKxVUaz7fhb8JFiX4H3A=;H439w+VUUzWPFVXNj6y7fw=="
+secured: "Qn3917Muj20PUotos/IFygexUE+Kqv8WteTSyGjXIlMVdJ4LgZHgZnz936n6MbA0diq20/Xk1uMUJppxW62Z2FRTq5XLA793AnP8RA6SUVFfBMblIYRVHEbMDwDTrtJy4Xlh9ER32z51gZa0MjyWh6Fsh6DsIjG8M0NJc40tC6N4UzAZBDI4U9oyqgLvo1gbIEnQ41M8gALZgi9+dVWFtrkPLI0Erof+Mcx/8TsyB8EL2aLEBYe9tVFozdV29xt54JfYqookMlN4/1JWk9/Oh0D7lNYy3FYyT0f4J8R5StKYlgsamaxreGJbYbgkOc+vv8I3J1IQsM4kYJqFHIEbmDWV4NqsMpi9xmsTsNH1mWU=;fjVfingmWOGoNfG4PbK14g=="
 ---
 

@@ -1,45 +1,26 @@
 ---
 category: news
 title: "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®"
-excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management,"
+excerpt: "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,"
 publishedDateTime: 2022-01-10T15:15:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-supply-chain-market-size-worth--14-3-billion-globally-by-2028-at-20-17-cagr-verified-market-research-301457252.html"
-webUrl: "https://www.prnewswire.com/news-releases/artificial-intelligence-in-supply-chain-market-size-worth--14-3-billion-globally-by-2028-at-20-17-cagr-verified-market-research-301457252.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html"
 type: article
-quality: 23
-heat: -1
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1315349/Verified_Market_Research_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
-related:
-  - title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product"
-    publishedDateTime: 2022-01-13T23:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301460566.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
-
-secured: "hXmUAXdltaLkHJG+9Za3HGMzU5FKfYepMv3QBGdxlNcJnUrK1h3ke14CxyuRLttHkNpGO1MH07Zo85lxKxOwlOvAi2eCsxU5u5RqdPuua2dXLailScz7PWLGBQt/r0+cxPiF5m6UA/BTD35g6Uu+ulbXnBY6bm39B1pTqyyOsPTVsaOtnEqs5CsTzkHfU2mXBn+B+vEt/byN+p50dgWKW44wg+dZE/Z2BftOjvvKOezaH0gOmT0T1mQ4GkXOQIiqfXa9d/D65JCC2oMfl5yPPl7OVKfApnMG7bXlTBOI0gfKMhwblKqr7w0g3uADxOtpu0gm76leMThjqSFzzwFKFg0QhP2nnb/Lk1sotDRH8Vk=;AhvVQfMZc+nr7Vc2G78rlw=="
+secured: "JKjRIbkN2a5njr6el+oIrgwG7/apzPFgfXkiELLZlTlhnGYJtsdo9H3EdK8O2NKsfqJud48kqLGqSn8PVooqIDLmaGUWtUg3YfizFJGHtusXyJ/jfxjdalasYyhL9LCaKVsnb0XuEZ63oURh5vJfDb9KegqYcGOlpSA6C7sFe3KJJvcoxcAABjQ/t2W7m+IrAv2TJ0v30LIfmtLTvKRvCKlP1TGfJtWiUuhSrYOAM+GbdijHi8dQp7XpLFXKKfOYnNkCJPMXeCjlV+nehiYXKDRqRjGYWLPv7DeFCPWav3KWoUU/2PnKLN/7ladch0gX4uyrIiljiC0mAL7Sm+GyP9IfzeEv9mlvE6Y+VCgXjMI=;oLT91w+L2LN4nXdkvj7AyQ=="
 ---
 
