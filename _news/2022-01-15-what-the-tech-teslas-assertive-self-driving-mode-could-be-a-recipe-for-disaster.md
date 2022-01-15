@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Full Self-Driving videos are prompt California's DMV to rethink policy on accidents"
+    excerpt: "In brief California’s Department of Motor Vehicles said it’s “revisiting” its opinion of whether Tesla’s so-called Full Self-Driving feature needs more oversight after a series of videos demonstrate how the technology can be dangerous."
+    publishedDateTime: 2022-01-15T11:01:00Z
+    webUrl: "https://www.theregister.com/2022/01/15/in_brief_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/01/15/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/15/in_brief_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 50
+    images:
+      - url: "https://regmedia.co.uk/2021/04/23/tesla.jpg"
+        width: 1000
+        height: 567
+        isCached: true
 
 secured: "6fTfPXm46Stw621jrvMJdT4ZfwOliPE4ZdWIAluGhikqmQGPPVJPiyXQ4uL9fbNVevlV+ptSWZJa4kHM7xLWYR6pHF8fAQo7mQc/lygt/ONwW3eZDzfjhBzXIJ7EoMvhdzV7lUR7Q0mjNw9sR/YkphVFJvDAn/A7S4Tlc5zy8rTDA70jaa7eL1eIxvPaKTTDPkpvRi3we7yd9ERpC2Y1LsQiZ9HxFyxixkiuBZSHOh1sZud9lkQ6yTN7nbDqEKfFgNuiISD5f3VJUWlrdOlFTyauOFt7+CgoHRT7h9Nxd0J7j0RDkfUqPXf3JBwvUrKo8gqFa334mn5N0N6/t+F4X/JtPpPHLnxkk9OHZ7cHOQo=;qSbefOXxtm8DzbtzBFYgZA=="
 ---

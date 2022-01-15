@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 768
         isCached: true
-  - title: "SoftBank Makes $146M Bet on AI Firm Qraft"
-    excerpt: "One of the largest tech investors globally, SoftBank, is investing $146 million in the South Korean AI company Qraft Technologies to help it expand into the U.S."
-    publishedDateTime: 2022-01-10T21:02:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2022/softbank-makes-146m-bet-on-ai-firm-qraft/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/softbank-makes-146m-bet-on-ai-firm-qraft/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/softbank-makes-146m-bet-on-ai-firm-qraft/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/01/softbank-fintech-investment-alphacredit-457x305.jpg"
-        width: 457
-        height: 305
-        isCached: true
   - title: "Softbank injects $146 million into AI for asset management firm Qraft"
     excerpt: "AI enabled fintech company Qraft Technologies, Inc. (“Qraft” or “the company”) today announced that it has closed a US$146 million investment from SoftBank Group Corp. (“SoftBank”), which includes primary growth capital and secondary capital that will be used to fund share purchases from investors."
     publishedDateTime: 2022-01-13T11:30:00Z

@@ -59,22 +59,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Professor Says Technolgy for Driverless F1 Is Closer Than You Think"
-    excerpt: "Prof. Markus Lienkamp of the Technical University of Munich says an emotional discussion on value of actual drivers is on the horizon."
-    publishedDateTime: 2022-01-10T19:49:00Z
-    webUrl: "https://www.autoweek.com/racing/formula-1/a38711976/driverless-f1-closer-than-you-think/"
-    ampWebUrl: "https://www.autoweek.com/racing/formula-1/amp38711976/driverless-f1-closer-than-you-think/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/racing/formula-1/amp38711976/driverless-f1-closer-than-you-think/"
-    type: article
-    provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-tii-euroracing-autonomous-race-car-passes-the-tum-news-photo-1641842458.jpg?crop=1.00xw:0.753xh;0,0.0978xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Professor Says Technology for Driverless F1 Is Closer Than You Think"
     excerpt: "Lienkamp added that while the human driver at the Formula 1 level still has the upper hand on artificial intelligence ... and similar content at piano.io Waymo and Zeekr Will Create EV Robotaxi ..."
     publishedDateTime: 2022-01-10T23:30:00Z

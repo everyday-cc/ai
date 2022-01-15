@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.reuters.com/resizer/hqaIi_DyIttnxcgs7NH4k0nsFqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVG6QOSCRZNDTAYCWAL4Q7ANN4.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla Full Self-Driving videos are prompt California's DMV to rethink policy on accidents"
+    excerpt: "In brief California’s Department of Motor Vehicles said it’s “revisiting” its opinion of whether Tesla’s so-called Full Self-Driving feature needs more oversight after a series of videos demonstrate how the technology can be dangerous."
+    publishedDateTime: 2022-01-15T11:01:00Z
+    webUrl: "https://www.theregister.com/2022/01/15/in_brief_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/01/15/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/15/in_brief_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 50
+    images:
+      - url: "https://regmedia.co.uk/2021/04/23/tesla.jpg"
+        width: 1000
+        height: 567
         isCached: true
   - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
     excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."

@@ -2,6 +2,102 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2021-12-07-clearview-ai-close-to-being-awarded-a-us-patent-for-its-facial-recognition-tech.md",
+      "title": "Clearview AI close to being awarded a US patent for its facial recognition tech",
+      "excerpt": "Controversial firm Clearview AI is close to being awarded a patent for its facial recognition technology, which is used to scan faces from pictures available on",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "originalUrl": "https://www.techspot.com/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2021/12/2021-12-06-image-9.jpg",
+          "width": 2560,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92508-clearview-ai-close-awarded-us-patent-facial-recognition.html",
+      "publishedDateTime": "2021-12-06T08:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before.md",
+      "title": "AI Is Discovering New Patterns In Pure Mathematics – Some Of Them Never Seen Before",
+      "excerpt": "Advertisement Using artificial intelligence (AI) and machine learning, scientists have created a new mathematical theorem. This discovery is the first to show that artificial intelligence can help with pure mathematics.",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/",
+      "originalUrl": "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/PRI_212914641.jpg",
+          "width": 778,
+          "height": 519,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/ai-is-discovering-new-patterns-in-pure-mathematics-some-of-them-never-seen-before/amp/",
+      "publishedDateTime": "2021-12-06T08:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-artificial-intelligence-driven-care-robots-tackle-the-suicide-rate.md",
       "title": "Artificial Intelligence-driven Care Robots Tackle the Suicide Rate",
       "excerpt": "Artificial intelligence-based care robots will help to communicate with residents who are living alone and dealing with mental health problems. According to government data in South Korea, Chungnam Province,",
@@ -1125,84 +1221,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth.md",
-      "title": "Increasing Investments in NLP in Healthcare and Life Sciences Market Bolsters Industry Growth",
-      "excerpt": "Natural Language Processing or NLP is a rapidly emerging sector in the overall artificial intelligence or AI technological field. Rising investments in the global NLP in healthcare and life sciences market have provided effective solutions to extract ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/",
-      "originalUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2021/12/brain-study-background-mental-health-care-medical-technology-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/increasing-investments-in-nlp-in-healthcare-and-life-sciences-market-bolsters-industry-growth/amp/",
-      "publishedDateTime": "2021-12-05T21:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-06-neuron-soundware-applying-sound-recognition-artificial-intelligence-to-minimize-unplanned-outages-published.md",
-      "title": "Neuron soundware: Applying Sound Recognition & Artificial Intelligence to Minimize Unplanned Outages published",
-      "excerpt": "Neuron soundware has developed a technology for automated predictive maintenance of industrial machinery. It uses sound/vibration analysis of the machines. Czech Republic, Central Europe., December 6,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressreleasepoint.com/neuron-soundware-applying-sound-recognition-artificial-intelligence-minimize-unplanned-outages",
-      "originalUrl": "https://www.pressreleasepoint.com/neuron-soundware-applying-sound-recognition-artificial-intelligence-minimize-unplanned-outages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-05T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KLAS Press Release",
-        "domain": "pressreleasepoint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

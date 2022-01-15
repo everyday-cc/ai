@@ -55,22 +55,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Johnson & Johnson and Microsoft partner up on digital surgery"
-    excerpt: "Johnson & Johnson will use Microsoft Azure cloud computing services to better connect surgeons and patients in a digital surgery ecosystem."
-    publishedDateTime: 2022-01-10T19:16:00Z
-    webUrl: "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/"
-    ampWebUrl: "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/?amp"
-    cdnAmpWebUrl: "https://www-medicaldesignandoutsourcing-com.cdn.ampproject.org/c/s/www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/?amp"
-    type: article
-    provider:
-      name: Medical Design and Outsourcing
-      domain: medicaldesignandoutsourcing.com
-    quality: 59
-    images:
-      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/01/johnson-johnson-multiuse.jpg"
-        width: 770
-        height: 500
-        isCached: true
 
 secured: "ahY5wnegJYXfcRvvf1otswztXXqDdesRiSh1HBrymGAkmdxw92KVnrlZ+zXbWtoh59G5S1MDut7Rwfir1ViArow6OG9Z1dW/2wzmOE1NtbGC/NsW0nfmYtIq1OCMChCIGjMxpTpOpHDSEMdFfuhrf+MG8IAYFFeTj5POgXXm2UR2bvTMg5jjhCdL7RcNpnUseHwx/D7Zgis2w+IUuSEtotZYfmFiK3sDvN7oEGcWYNqaeTUPYPk5AKPaMM8fN6Gv2X0LEEzuf6BiXv1mjAxOpgPlHTJpr+uNEr3xcg7hnRGIa+1dI2dZJQJUm5sA6m+vEK35nHnm2c3qm4rX1mo5rn1us3gb6+/5xO0lg3wDpG5opwpA8ux4mZF8RWp/nVkn6H2cqaLK7I08tmovBLPU/ft0gOhYjo3g0LQjZT48HalEw6QIx1pS/6SnGIZ5sYR2bZMu4T2d/WlN3U0DkUaGilYkvCidYC5bC/RBHHTBGKmGafE7KBBzrJQkUJr39wieSWeTjCCkD1R0KEy0rpcXjg==;7vQha6zfVqAGBCyzicaSkQ=="
 ---

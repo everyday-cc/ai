@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Johnson & Johnson and Microsoft partner up on digital surgery"
-    excerpt: "Johnson & Johnson will use Microsoft Azure cloud computing services to better connect surgeons and patients in a digital surgery ecosystem."
-    publishedDateTime: 2022-01-10T19:16:00Z
-    webUrl: "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/"
-    ampWebUrl: "https://www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/?amp"
-    cdnAmpWebUrl: "https://www-medicaldesignandoutsourcing-com.cdn.ampproject.org/c/s/www.medicaldesignandoutsourcing.com/johnson-johnson-jnj-microsoft-azure-cloud-digital-surgery-partnership/?amp"
-    type: article
-    provider:
-      name: Medical Design and Outsourcing
-      domain: medicaldesignandoutsourcing.com
-    quality: 59
-    images:
-      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/01/johnson-johnson-multiuse.jpg"
-        width: 770
-        height: 500
         isCached: true
   - title: "Microsoft to help Johnson & Johnson transform digital surgery solutions"
     excerpt: "Johnson & Johnson Medical Devices Companies (JJMDC) has partnered with Microsoft to transform its digital surgery solutions. The Microsoft Cloud will support a secure and compliant platform to “improve workflow and enhance surgical decision-making for a better overall customer experience and improved patient outcomes”,"

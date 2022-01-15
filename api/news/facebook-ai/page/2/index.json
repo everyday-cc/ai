@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-10-how-bias-creeps-into-the-ai-designed-to-detect-toxicity.md",
+      "title": "How bias creeps into the AI designed to detect toxicity",
+      "excerpt": "Bias can creep into the AI models used to determine whether comments are 'toxic' versus 'non-toxic,' leading to harmful mistakes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
+      "originalUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/how-bias-creeps-into-the-ai-designed-to-detect-toxicity/amp/",
+      "publishedDateTime": "2021-12-09T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-black-people-use-facebook-more-than-anyone-but-now-theyre-leaving.md",
       "title": "Black people use Facebook more than anyone, but now they're leaving",
       "excerpt": "Brandon Keyes, a 37-year-old Army combat veteran from Detroit, has an on-again, off-again relationship with Facebook. These days, it's mostly off.",

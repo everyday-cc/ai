@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-for
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/"
 type: article
 quality: 81
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dallas is a finalist for $160 million Ford and Argo AI self-driving vehicle facility"
-    excerpt: "The City of Dallas will vote to approve an incentive package aimed at luring the plant to Dallas on Wednesday."
-    publishedDateTime: 2022-01-10T19:03:00Z
-    webUrl: "https://www.dallasnews.com/business/autos/2022/01/10/dallas-is-a-finalist-for-160-million-ford-and-argo-ai-self-driving-vehicle-facility/"
-    ampWebUrl: "https://www.dallasnews.com/business/autos/2022/01/10/dallas-is-a-finalist-for-160-million-ford-and-argo-ai-self-driving-vehicle-facility/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/01/10/dallas-is-a-finalist-for-160-million-ford-and-argo-ai-self-driving-vehicle-facility/?outputType=amp"
-    type: article
-    provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
-    quality: 52
-    images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/JfACz9KM0HQR8HkzHM3EwW33QMc=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/E2WMHE5VWRAENLWRJLBEQS7774.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Dallas approves more than $3 million in incentives to attract Ford self-driving vehicle facility"
     excerpt: "Ford has been working with self-driving vehicle company Argo AI to develop self-driving tech. So far, the initiative has launched tests of delivery"
     publishedDateTime: 2022-01-12T19:25:00Z

@@ -2,6 +2,110 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-12-16-tusimple-locks-in-self-driving-trucks-deal-with-dhl.md",
+      "title": "TuSimple locks in self-driving trucks deal with DHL",
+      "excerpt": "Self-driving trucks developer TuSimple has reached a deal to integrate its autonomous vehicle technology into DHL Supply Chain’s operations. As part of the deal, the contract logistics giant has reserved 100 autonomous trucks that are being co-developed by TuSimple and Navistar.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/tusimple-dhl-deal/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/tusimple-dhl-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/TuSimple_Truck_6.jpg?w=1024",
+          "width": 1024,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/tusimple-dhl-deal/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/tusimple-dhl-deal/amp/",
+      "publishedDateTime": "2021-12-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-why-computers-dont-need-to-match-human-intelligence.md",
+      "title": "Why Computers Don’t Need to Match Human Intelligence",
+      "excerpt": "Speech and language are central to human intelligence, communication, and cognitive processes. Understanding natural language is often viewed as the greatest AI challenge—one that, if solved, could take machines much closer to human intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/deep-learning-versus-human-intelligence/",
+      "originalUrl": "https://www.wired.com/story/deep-learning-versus-human-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61afc200d184762c75e00412/master/pass/WW2022-WIRED-04.jpg",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/deep-learning-versus-human-intelligence/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/deep-learning-versus-human-intelligence/amp",
+      "publishedDateTime": "2021-12-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-mediatek-launches-energy-efficient-5g-smartphone-chip-dimensity-9000.md",
       "title": "MediaTek Launches Energy-Efficient 5G Smartphone Chip Dimensity 9000",
       "excerpt": "Dubbed as Dimensity 9000, MediaTek 5G smartphone chip packs the world’s first Arm Mali-G710 MC10 GPU, integrates MediaTek’s 5th gen APU, Imagiq 790 and more.",
@@ -1062,101 +1166,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-robots-taking-more-jobs-because-of-covid-19-pandemic.md",
-      "title": "Robots taking more jobs because of COVID-19 pandemic",
-      "excerpt": "The coronavirus pandemic very likely accelerated automation and research suggests that we’ll start feeling some effects as early as next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic",
-      "originalUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sbsun.com/wp-content/uploads/2021/12/RDF-L-WAREHOUSES-1203-01.jpg?w=1024&#038;h=682",
-          "width": 1024,
-          "height": 681,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/",
-      "cdnAmpWebUrl": "https://www-sbsun-com.cdn.ampproject.org/c/s/www.sbsun.com/2021/12/15/robots-taking-more-jobs-because-of-covid-19-pandemic/amp/",
-      "publishedDateTime": "2021-12-15T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The San Bernardino Sun",
-        "domain": "sbsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-how-to-contribute-to-better-quality-of-life-with-responsible-ai.md",
-      "title": "How To Contribute To Better Quality Of Life With Responsible AI",
-      "excerpt": "Hitachi is leading with a world-class Responsible AI framework is based on all of the latest ethical standards, legal and best practices, and the company's operational capabilities to manage risk better and work with stakeholders around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/",
-      "originalUrl": "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ba10461f92a1dd1434b3aa%2F0x0.jpg",
-          "width": 1200,
-          "height": 741,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2021/12/15/how-to-contribute-to-better-quality-of-life-with-responsible-ai/amp/",
-      "publishedDateTime": "2021-12-15T07:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],
