@@ -43,20 +43,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Self-Driving Truck Makes Delivery 10 Hours Faster Than Human"
-    excerpt: "Right now, there's a shortage of truck drivers in the US and worldwide, exacerbated by the e-commerce boom brought on by the pandemic. One solution to the problem is autonomous trucks, and several companies are in a race to be the first to launch one."
-    publishedDateTime: 2022-01-10T11:47:00Z
-    webUrl: "https://www.peacefmonline.com/pages/local/tech/202201/458602.php"
-    type: article
-    provider:
-      name: Peace FM Online
-      domain: peacefmonline.com
-    quality: 24
-    images:
-      - url: "https://w5p2r8x5.stackpathcdn.com/photos/news/202201/865806382_819983.jpg"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "t2hju/id9PKPtMihPg9lhomhz+LpiMrqyUTE7CN+Ig6yZzKOHTQ7qBfo5JWKalj7Y1q/SuFDKCODK1b4/SBab3+WOeeAI0Wl2UgaOOBIYbniFtJDjifdzwbUIeW3U+h6F00b++FCEOfBkKmIs9nab6qIUKAEfo9c7FhPkesSC4KKzG3FFiVaLW4mqg7MGYjyxi/pX3m5OnGYx8WN1XFXFx03dpKxIaJ5WRQPLLczYS+XS45edDAp/7+Ev9yqQ6+n+LII4LI+7V8ikw3tlQSaYsa2/rwbrNxtGmcrnW0eiEO0o2ZsBr8YR0siUyWpeKU2G6tpJ1Z85cccTIb/0Ao2+252cZHMhW0Q/SKXNECuyHc=;R19KSlC7SllYfAhI8MRhDw=="
 ---

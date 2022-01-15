@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/24985849"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24985849"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Finding Love In The Midst Of Algorithms, Artificial Intelligence And Data"
+    excerpt: "What sustains the thriving business of love? What has made these apps, agents and companies who broker love, such a success? Here is what my experience taught me."
+    publishedDateTime: 2022-01-11T00:44:00Z
+    webUrl: "https://www.outlookindia.com/website/story/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 56
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/articles/2022/1/10/Untitled_design_(3).jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "AI is coming for copywriters"
     excerpt: "Artificial intelligence is coming for copywriters, and it’s going to be a tough job market. The irony of the Internet is that it’s made copywriters more important than ever."
     publishedDateTime: 2022-01-10T16:11:00Z

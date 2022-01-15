@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/economy/china-economy/article/3163277/chinas-ta
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3163277/chinas-taxpayers-edge-beijing-tightens-oversight-big-data-and"
 type: article
 quality: 74
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "New AI image processing chip for 8K TV unveiled in Beijing"
+    excerpt: "China's first Artificial Intelligence (AI) image processing chip for 8K TV has been released by Hisense in Beijing, CGTN reports. The move is seen by government officials as a milestone in the country's development of key TV technologies. The chip ..."
+    publishedDateTime: 2022-01-13T07:02:00Z
+    webUrl: "https://www.publicnow.com/view/8BA2FC5AFB8DCC48F45693A910B3A6CE2036BEDD"
+    type: article
+    provider:
+      name: publicnow.com
+      domain: publicnow.com
+    quality: 34
 
 secured: "UhJ1WYBk/3/dvLEOphDB4VVGDTCw6vb9+wllill3rXBEtNgcOyqIJ2JJGGd5si+m8W5rLBC4olXjfPK2wF8fbUKVPKRmqyhOIOVDx7a7RdCQwyOqU0+YGQJlQ0jaFq8w+UaUCpQiMLbYeX1BE/iV3Z9I8csomYBNbwMUajNEFrRiuxN6XbCViqARktBEE513WvmU+F1ACg1v0JdZ/K0Cfexe3S/XZEb0LFNUdr+BD1RGQ4babTgkEUHYCZ7AtdB1FJoBavfS3Jfpb6Bf8+UZPx7pexdVKu6jH7jCMg+H0LKBOzVpyrHyfoWvKcq/0EAVycztCysa64/1FbggRw4KOp9m2ihQjqb73udZ48p5u2k=;22BmjKXbJ/Ho0g5t9Df6WQ=="
 ---

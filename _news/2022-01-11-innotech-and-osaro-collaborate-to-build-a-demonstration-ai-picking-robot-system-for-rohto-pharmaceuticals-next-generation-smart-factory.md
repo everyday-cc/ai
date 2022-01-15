@@ -68,17 +68,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "$40M Available for Artificial Intelligence and Transformative Technology Innovators to Improve Care and Health Outcomes for Older Americans"
-    excerpt: "America is getting older faster. According to the U.S. Census Bureau, the number of people aged 65 or older in the United States"
-    publishedDateTime: 2022-01-10T12:36:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/n24968907/40m-available-for-artificial-intelligence-and-transformative-technology-innovators-to-improve-care"
-    ampWebUrl: "https://www.benzinga.com/amp/content/24968907"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24968907"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 22
   - title: "Gulf to drive AI innovation post-pandemic, survey shows"
     excerpt: "While 50 percent of Gulf data workers can now automate tasks, a survey indicates that 97 percent believe that training needs to be made available to all data workers to unlock the value of AI innovation Gulf to drive AI innovation post-pandemic,"
     publishedDateTime: 2022-01-11T08:53:00Z

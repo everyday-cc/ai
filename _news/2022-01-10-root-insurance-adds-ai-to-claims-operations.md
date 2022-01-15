@@ -38,6 +38,20 @@ related:
         width: 966
         height: 578
         isCached: true
+  - title: "Five AI Inference Trends for 2022"
+    excerpt: "It’s an exciting time to be a part of the rapidly growing AI industry, particularly in the field of inference. Once relegated simply to high-end and outrageously expensive computing systems, AI inference has been marching towards the edge at super-fast speeds."
+    publishedDateTime: 2022-01-14T07:26:00Z
+    webUrl: "https://www.design-reuse.com/news/51243/five-ai-inference-trends-for-2022.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 37
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage51243/2022.jpg"
+        width: 470
+        height: 315
+        isCached: true
 
 secured: "ielkN7Wurbm4UbdI0ghuGv38Sw6+op0lyOGGbsuZeUAFH2E3jQqyPSmZQnHrdI38jaWXzrpz9u7adkPNw+s6i/Uu8jluH9XGHW0cYSINa73+kVa3BBrSYUtUv96P96bnKq/9KtGDo4xZV2NdOmverT2PZwSeUHdXyT4KT+eRk0Fm10KG+RnHirK+BWIJQ0PFCP8dnSHey0ODIwQWAXtC4oplnCMuLm8u3SGleeHwCBV8pznOHBZaI86EKPcNFJqDBm5plim4yFExEWlXhkkjz4fC8gOFZo0bmeNgkmIECLJicg0U9nk3rWCeHVerUqGnWVckAum1vQcVJwnYzRW1rDrfWjg9xf5qFhk1w0YPI2U=;gTYyGE68FIhHFQKi/5bpKw=="
 ---

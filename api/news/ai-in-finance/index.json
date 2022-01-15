@@ -107,7 +107,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -139,6 +139,58 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-artificial-intelligence-in-finance.md",
+      "title": "Artificial Intelligence in Finance",
+      "excerpt": "Artificial intelligence can free up personnel, improve security measures and ensure that the business is moving in the right technology-advanced, innovative direction. According to Forbes, 70% of financial firms are using machine learning to predict cash ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-finance-darpan-jain",
+      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-finance-darpan-jain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEQrOJMJnfqHQ/article-cover_image-shrink_600_2000/0/1641894641709?e=1647475200&v=beta&t=XTsqjuKZ3kCp1K3fZfWUDtFDZdtZUpKao_6jfqlPKxA",
+          "width": 966,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -1252,40 +1304,6 @@
       "provider": {
         "name": "academy",
         "domain": "newswit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-hosting-infrastructure-services-market-size-2021-global-industry-share-top-players-opportunities-and-forecast-to-2029.md",
-      "title": "Hosting Infrastructure Services Market Size 2021 Global Industry Share, Top Players, Opportunities And Forecast To 2029",
-      "excerpt": "The global hosting infrastructure services market is estimated to reach a value of US 12 billion in 2019 up from US 11 billion in 2018 according to a recently published report by Future Market Insights FMI Gains remain underpinned by",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "originalUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "publishedDateTime": "2021-12-21T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

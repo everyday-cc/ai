@@ -43,15 +43,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Technology & Innovation Roundup: Self-driving car technology from FAU wins second patent"
-    excerpt: "That’s the idea behind new self-driving car technology coming out of Florida Atlantic University in Boca Raton. The tech, which uses artificial intelligence and machine learning to mimic driving behavior,"
-    publishedDateTime: 2022-01-10T11:17:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2022/01/10/technology-innovation-roundup-01-07-22.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "8HAgI5RlQAnT9N+bV16fjTjkDBHqclS/OkB9g3sStpjlkzv5gqTH+Ry1rn4J2aQ1FVSCtVyeDadi5syB7Sz5McWVATiGCN53or2iJY9cb7YUnS4ZaXu1Gm9ZA2JsvmDoK+QNFDWb+GYsd36714R2gPzhXco9YebYHEKL9KRs1FKsYJ6Juaxfs707dm+jLY8BMmFVBYKkD8qM/yJc4BsHD5tNdSC/7YBbNgakjwmslo4b/Z7TI55h0q/1VVwF5nguvdIUs2Q2ua5+zOpeTLk9Q028Yij+7JC8wmwBEOEub1Q0Gobus6c3Tx0OE7HKbreZOXqRSDx36GhkjFgvICVv/TUm47tVxaYAyh7S1/jJTPc=;UM+YdUY5MOdP6c33zidrNQ=="
 ---

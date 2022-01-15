@@ -73,34 +73,6 @@ related:
         width: 867
         height: 1300
         isCached: true
-  - title: "FinTech and the New Consumer Market"
-    excerpt: "FinTech and the New Consumer Market  - Fintech innovations such as the Internet of Things, artificial intelligence, blockchain, and cloud computing are"
-    publishedDateTime: 2022-01-10T11:16:00Z
-    webUrl: "https://www.cioreview.com/news/fintech-and-the-new-consumer-market-nid-34827-cid-189.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 24
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/skvkm.fintech.jpg"
-        width: 300
-        height: 350
-        isCached: true
-  - title: "The growth of a fintech engineering team"
-    excerpt: "I’m normally behind the scenes, but as the year gets going, I wanted to reflect on some of the changes that our team has been through since we launched Payhawk in 2018. In July 2018, Hristo and I started as the only two employees and engineers at Payhawk."
-    publishedDateTime: 2022-01-10T11:27:00Z
-    webUrl: "https://www.linkedin.com/pulse/growth-fintech-engineering-team-boyko-karadzhov"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEQ3z4GZgUEGg/article-cover_image-shrink_720_1280/0/1641813005654?e=1647475200&v=beta&t=u8bKJWsIxMaB_P1km1rpnddfoFbnLiCvOg8J5H_nr8U"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "EQM Indexes Launches Emerging Markets FinTech Index"
     excerpt: "1 Emerging and frontier markets have provided fertile ground for FinTech solutions, disrupting traditional financial ... Realizeit, the provider of the first-of-its-kind AI-powered adaptive platform that personalizes learning for performance, announced ..."
     publishedDateTime: 2022-01-12T14:53:00Z

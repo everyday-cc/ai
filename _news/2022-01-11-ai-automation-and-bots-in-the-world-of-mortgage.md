@@ -9,8 +9,8 @@ ampWebUrl: "https://www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortg
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/ai-automation-and-bots-in-the-world-of-mortgage/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Dataquest
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Growing Need for AI and Risk Management Solutions Integration"
-    excerpt: "However, another development has occurred: the rise of artificial intelligence (AI), particularly cognitive computing ... and deliver tailored financial services. AI's machine learning algorithms can analyze vast volumes of data for IT security management ..."
-    publishedDateTime: 2022-01-10T11:04:00Z
-    webUrl: "https://www.cioreview.com/news/the-growing-need-for-ai-and-risk-management-solutions-integration--nid-34828-cid-141.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 39
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/s1bem.Captureerm300x350123.jpg"
-        width: 300
-        height: 350
-        isCached: true
   - title: "Automation of Vital Resource will Be Based on Artificial Intelligence"
     excerpt: "Companies are using augmented reality technologies in their manufacturing processes. Lockheed Martin, for example, uses"
     publishedDateTime: 2022-01-10T16:00:00Z

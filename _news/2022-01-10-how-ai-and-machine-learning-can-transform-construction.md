@@ -87,6 +87,20 @@ related:
         width: 1385
         height: 600
         isCached: true
+  - title: "3 Vectors of Artificial Intelligence and Machine Learning"
+    excerpt: "The New Stack Shorts covers three areas that are reshaping business processes and environments - from the intelligent applications that embed AI/ML and take advantage of data, and the system of enablers that allow them to reach scale to the chips that power them."
+    publishedDateTime: 2022-01-13T15:30:00Z
+    webUrl: "https://thenewstack.io/3-vectors-of-artificial-intelligence-and-machine-learning/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 56
+    images:
+      - url: "https://cdn.thenewstack.io/media/2022/01/67e2a21e-tns-shorts-awsmachine-learning.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Small Data, AI and ML - Predicting Coup d'état"
     excerpt: "Can AI / ML spot countries at risk of a sudden change in leadership in a coup attempt? Looks like so. Researchers at the University of Central Florida are working with a system called CoupCast to estimate the likelihood that an individual country will undergo a coup d’état."
     publishedDateTime: 2022-01-13T21:22:00Z

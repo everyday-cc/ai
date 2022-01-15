@@ -43,22 +43,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Big data analytics, AI/ML to be most in-demand skills in India in 2022: Report"
-    excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
-    publishedDateTime: 2022-01-10T11:04:00Z
-    webUrl: "https://www.freepressjournal.in/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/big-data-analytics-aiml-to-be-most-in-demand-skills-in-india-in-2022-report"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 72
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2020-08/9554071a-079c-4e10-9a40-4779953e541e/artificial_intelligence_4550606_1920.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 620
-        isCached: true
   - title: "Big data analytics, AI/ML to be most in-demand skills in India in 2022: Monster report"
     excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
     publishedDateTime: 2022-01-11T07:50:00Z

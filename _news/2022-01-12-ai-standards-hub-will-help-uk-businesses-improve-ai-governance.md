@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961
 cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://techspective.net/wp-content/uploads/2022/01/artificial-intelligence-gfd97c804c_1920.jpg"
         width: 1920
         height: 1280
+        isCached: true
+  - title: "How Upcoming AI Technologies Will Impact Businesses"
+    excerpt: "Robots and automation have long been a part of the manufacturing ... With continuous innovations and new ideas, there are lots of ways that companies can improve thanks to AI. Start researching and stay ahead of the curve."
+    publishedDateTime: 2022-01-12T07:59:00Z
+    webUrl: "https://negosentro.com/how-upcoming-ai-technologies-will-impact-businesses/"
+    type: article
+    provider:
+      name: negosentro.com
+      domain: negosentro.com
+    quality: 39
+    images:
+      - url: "https://negosentro.com/wp-content/uploads/2022/01/jumpstory-download20220112-075819.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "15% of UK businesses have adopted AI"
     excerpt: "A new report from DCMS shows that while over 430,000 businesses are already using AI, there is great potential for further growth."

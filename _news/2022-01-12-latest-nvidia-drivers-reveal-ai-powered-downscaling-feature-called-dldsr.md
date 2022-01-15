@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)"
+    excerpt: "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January"
+    publishedDateTime: 2022-01-12T07:44:00Z
+    webUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 6
 
 secured: "p4D/ERXCe86OO8A4Id0u8a6PsrEY5qOIdri6BRuc900mxo7H9xq18l4GeqvRTHz8h7Dwk0wYRAC8l3YqaBl+hzHsxzYUuefynAcnFAAvG+4rwPd83ivuu0wknggg66kOzwnaiDJhRLHdpSw1EwGpD4NlJ1SsAa9e5NZlb3drDYZ/XMYIia8pgZgK/Z5tWNDp4k39NNFImx3rqvcFcyWaXb1MmBqwoaaEkl8zpCakBn0WW/VE0SoJJ2a3KPLlO2h62xAL4wZGpdM3+bulowkFyJlh4BFv/Kom7TxadKE6TJ4is5pQ5KvOuZAVZmcglmMqx4d3sEBAoPiUoCy/sF5XEoI+hRCorsL3Bdj+6ylr3/2yyhuTxsR6/vFGDNgrP7P2hToV/Wbz+SZ+rZC741K61PftjIf856B0MHSCdsjfWwwU99zX0TWj1k8lXsZ4LToTxJkKeoSs4DEO7x5toafeXG/TppsuPQCkfWuXYDwad6r7RMM6rEMcIdAIN4Y6M/uKiWF75svTBXvaUINDdih7Bg==;6Q9b6pvuNgpMY6M0z8FLQA=="
 ---

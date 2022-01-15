@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90712458/the-metaverse-is-coming-are-y
 webUrl: "https://www.fastcompany.com/90712458/the-metaverse-is-coming-are-your-ethics-ready"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Career Vision: Companies are increasingly using artificial intelligence (AI) to drive their recruiting and hiring, are you ready?"
-    excerpt: "Kevin Field, PhD, is the Research Director at Career Vision, he joins Lisa Dent on Chicago’s Afternoon News to offer tips and advice for job seekers facing a growing trend of algorithms, not"
-    publishedDateTime: 2022-01-13T23:49:00Z
-    webUrl: "https://wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/"
-    ampWebUrl: "https://wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/amp/"
+  - title: "Machine Learning and 5G Are Crucial to Scale the Metaverse"
+    excerpt: "Machine learning and 5G can attract more people in the metaverse and further blur the lines between the virtual and real worlds."
+    publishedDateTime: 2022-01-13T18:17:00Z
+    webUrl: "https://www.bbntimes.com/science/machine-learning-and-5g-are-crucial-to-scale-the-metaverse"
     type: article
     provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 45
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 39
     images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2020/04/CareerVision.jpg?w=1280"
+      - url: "https://www.bbntimes.com/images/articles/global-economy/Machine_Learning_and_5G_Are_Crucial_to_Scale_the_Metaverse.jpeg"
         width: 1280
-        height: 684
-        isCached: true
-  - title: "Using AI for Real-Time Engineering Decisions"
-    excerpt: "MathWorks’ Heather Gorr explains how engineers can apply artificial intelligence to real-time engineering decisions, as well as the issues involving data synchronization."
-    publishedDateTime: 2022-01-12T16:41:00Z
-    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21213913/electronic-design-using-ai-for-realtime-engineering-decisions"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 37
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/01/AI_engineering_promo.61df026b7f048.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+        height: 720
         isCached: true
 
 secured: "nu7n1bfJc33OpNdjKuhwlqqRNeBp9AFQMO8+urUYnWN1OFreST5TLaYnNkBGGBx09xANfLC0yubOvfQ91yxFChSQXXL2spZbMNlbZi8V5DLmCMSDcH+P1YLxQfq+m/xaH0N1ltc1rRHa+udSUHHprClt0y/WhvHSrceGlFNEDZuFObxGumWD/J1qus0PfdUzpvuNb+Yo0qMK44Mey/mBjD/PAyyC2WVAn5YGrDr08XDJSOK1RpSfSv+lDv1QTjoptJi7ZkuzaivPRUVU1FT9aspom7UDY+qLkElFUy2GZR0V1DNEk9VDSQuio7Kl7xECnbl46DbpRhfoENS11KNQOY+oMoF3BKsUQcUeuYCRS7Ma0SfUKoyJSgo9MMc1nVSO0Lj1b9KZi+6QLJlIEasJNmBaADZuuFIDfpi7K38YDObOmU2ALnXjdBznteDvx5KPmu904hx4EWGf7Bb1SJ3c/tklxMpxZ7Nzro7+0jYBTGvf5MclKm+JOGNUHq+gH5UE9fFZ9qG4VLnblQb7sKNpaQ==;FryMO3zx/wzTKIErBctu9A=="

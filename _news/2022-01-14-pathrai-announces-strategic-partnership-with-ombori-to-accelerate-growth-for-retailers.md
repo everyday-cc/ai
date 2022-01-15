@@ -52,15 +52,6 @@ related:
         width: 792
         height: 266
         isCached: true
-  - title: "Scienaptic’s AI-Powered Credit Decisioning Platform Wins 2022 BIG Innovation Award"
-    excerpt: "Leading AI-powered credit decisioning disruptor Scienaptic AI has been named a winner in the 2022 BIG Innovation Awards."
-    publishedDateTime: 2022-01-11T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220111005187/en/Scienaptic’s-AI-Powered-Credit-Decisioning-Platform-Wins-2022-BIG-Innovation-Award"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 11
 
 secured: "X24b5cKgwZCSQKBWUEeGM8x/89KAqdd6AYw7g6dPRYmNOLLtKB4g53+LA7Zddg3aM58UpUYJyn4tlI+A6Wcqy7HrVC6AdkY4POKvtiqGvZa2zkV3WfcKe620e+F21TuvAmUc19L++GWKpILY2GUyXKuHZyY65b5Cj8PHthoHz4vrt1MjA5z/Vp5kD3OWmqnw6+5DuLjPg0a4a8ER/HHTCMLs4MN0MlzOlX3jxz4k+eyPtn33zRu6du+MmiFlBPzLK+9Ti5LnxEa2o7Tfvw+uFAEfoNgbOtmGiC3lhtxXfbh26BILGmmwKb5l1KGEG4c4F6B3qQgFR16/ztC5zlp/kHlm+/UD40Hf2UJSZRIce4s=;T4Rdc4O3hslawl7wJ/HWUg=="
 ---

@@ -26,165 +26,36 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI And Machine Learning To Improve The Health Insurance Process"
-    excerpt: "Health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
-    publishedDateTime: 2022-01-10T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/"
+  - title: "Khris Digital Marketing Offers Unique Insight on the Future of AI Copywriting in 2022 and Beyond"
+    excerpt: "With 2021 squarely in the rearview, digital marketing thought leader Khris Steven of Khris Digital Marketing is breaking down what the future of AI copywriting tools and"
+    publishedDateTime: 2022-01-10T22:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/ab24985849/khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24985849"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24985849"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 61
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.getnews.info/uploads/a9a239dd6e54d62f1111d3ee578b6c18.jpg"
+        width: 600
+        height: 330
         isCached: true
-  - title: "How AI and language intelligence are helping employees learn"
-    excerpt: "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive."
-    publishedDateTime: 2022-01-14T18:40:00Z
-    webUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/"
-    ampWebUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
+  - title: "AI is coming for copywriters"
+    excerpt: "Artificial intelligence is coming for copywriters, and it’s going to be a tough job market. The irony of the Internet is that it’s made copywriters more important than ever."
+    publishedDateTime: 2022-01-10T16:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-coming-copywriters-brian-nizinsky"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "How Protai’s AI-powered platform is improving drug discovery"
-    excerpt: "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform."
-    publishedDateTime: 2022-01-13T18:40:00Z
-    webUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/"
-    ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "4 ways artificial intelligence is improving mental health therapy"
-    excerpt: "With an increased demand for services and workloads stretched, using AI within mental health services could be a game-changer."
-    publishedDateTime: 2022-01-11T17:57:00Z
-    webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
-    type: article
-    provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 56
-    images:
-      - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
-        width: 4098
-        height: 2304
-        isCached: true
-  - title: "3 Vectors of Artificial Intelligence and Machine Learning"
-    excerpt: "The New Stack Shorts covers three areas that are reshaping business processes and environments - from the intelligent applications that embed AI/ML and take advantage of data, and the system of enablers that allow them to reach scale to the chips that power them."
-    publishedDateTime: 2022-01-13T15:30:00Z
-    webUrl: "https://thenewstack.io/3-vectors-of-artificial-intelligence-and-machine-learning/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 56
-    images:
-      - url: "https://cdn.thenewstack.io/media/2022/01/67e2a21e-tns-shorts-awsmachine-learning.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
-    excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
-    publishedDateTime: 2022-01-10T13:00:00Z
-    webUrl: "https://www.cioreview.com/news/product-management-in-the-age-of-artificial-intelligence-and-machine-learning-nid-34835-cid-214.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 55
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/t0ssq.pmmag.jpg"
-        width: 300
-        height: 350
-        isCached: true
-  - title: "Opinion: Using AI and machine learning to improve the health insurance process"
-    excerpt: "In the past decade, health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
-    publishedDateTime: 2022-01-10T14:16:00Z
-    webUrl: "https://www.healthleadersmedia.com/payer/opinion-using-ai-and-machine-learning-improve-health-insurance-process"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 50
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
-        isCached: true
-  - title: "How Upcoming AI Technologies Will Impact Businesses"
-    excerpt: "Robots and automation have long been a part of the manufacturing ... With continuous innovations and new ideas, there are lots of ways that companies can improve thanks to AI. Start researching and stay ahead of the curve."
-    publishedDateTime: 2022-01-12T07:59:00Z
-    webUrl: "https://negosentro.com/how-upcoming-ai-technologies-will-impact-businesses/"
-    type: article
-    provider:
-      name: negosentro.com
-      domain: negosentro.com
-    quality: 39
-    images:
-      - url: "https://negosentro.com/wp-content/uploads/2022/01/jumpstory-download20220112-075819.jpg"
-        width: 1280
-        height: 853
-        isCached: true
-  - title: "CCC: AI Continuing to Infiltrate Claims Process"
-    excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
-    publishedDateTime: 2022-01-11T09:31:00Z
-    webUrl: "https://www.fenderbender.com/articles/17291-ccc-ai-continuing-to-infiltrate-claims-process"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 37
     images:
-      - url: "https://www.fenderbender.com/ext/resources/artificial-intelligence.jpg?height=635&t=1626952330&width=1200"
-        width: 806
-        height: 504
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQFut7NbZTghZg/article-cover_image-shrink_720_1280/0/1641830396670?e=1647475200&v=beta&t=Pmm4bo6J1eNKk67_4gKwKx8Ul8CNDx-yGfGz5uoE2RE"
+        width: 1080
+        height: 720
         isCached: true
-  - title: "New AI image processing chip for 8K TV unveiled in Beijing"
-    excerpt: "China's first Artificial Intelligence (AI) image processing chip for 8K TV has been released by Hisense in Beijing, CGTN reports. The move is seen by government officials as a milestone in the country's development of key TV technologies. The chip ..."
-    publishedDateTime: 2022-01-13T07:02:00Z
-    webUrl: "https://www.publicnow.com/view/8BA2FC5AFB8DCC48F45693A910B3A6CE2036BEDD"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
-  - title: "How AI is improving the translation experience for marketers"
-    excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
-    publishedDateTime: 2022-01-10T17:30:00Z
-    webUrl: "https://www.america-retail.com/usa/how-ai-is-improving-the-translation-experience-for-marketers/"
-    type: article
-    provider:
-      name: america-retail.com
-      domain: america-retail.com
-    quality: 19
-  - title: "How AI is being used to improve disability employment"
-    excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"
-    publishedDateTime: 2022-01-13T17:57:00Z
-    webUrl: "https://www.publicnow.com/view/8577DB312DF16BC9561778F10E8C2C5DA84C3480"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
 
 secured: "VYqdcFq6K1u8pcFOJjlJ8o14Smfr/8kZuNpOlY31rv4+lSiriFrxePz60s27Cw0o/jvaXeqA+Xk+NfDjnOLgo89SQqYSZ8rWIpFjlVXSok3aGB0FFgibNndt4c4ZKnKRKFN3mcUyKcbiQzufqzEFS5wZSK4n3zUBw3Uyt+AaS8S+WA4sbiRJvZ5y4BxyDGrlizJrjRdjmZ4TnOUY375JShNrX5H6gmwVvmh/Jp7hRDmcfb9No7QHVMGIHsij8VLOwq6mKXeyqV1VS6ctVjkAIZWSwo4svEmd+dE6jd+Lc8Bh4RrO3Hq/HcShEsJr5/4OvdXPf3LksLy9x+A+ZDPy8n+y/qR5hRIZNtc7A66sAJ0=;yKSZmtTUwiqpt9YO/nbYBA=="
 ---

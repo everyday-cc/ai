@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-in
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Five AI Inference Trends for 2022"
-    excerpt: "It’s an exciting time to be a part of the rapidly growing AI industry, particularly in the field of inference. Once relegated simply to high-end and outrageously expensive computing systems, AI inference has been marching towards the edge at super-fast speeds."
-    publishedDateTime: 2022-01-14T07:26:00Z
-    webUrl: "https://www.design-reuse.com/news/51243/five-ai-inference-trends-for-2022.html"
+  - title: "How AI and language intelligence are helping employees learn"
+    excerpt: "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive."
+    publishedDateTime: 2022-01-14T18:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/"
+    ampWebUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://www.design-reuse.com/news_img2/homepage51243/2022.jpg"
-        width: 470
-        height: 315
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "How cloud, AI, and machine learning are shaping the new work order"
+    excerpt: "From cloud chaos to clarity.” As enterprises embrace the cloud, AI and deep data analytics, existing jobs, and workplaces will go through a fundamental shift. This transformation will shape the present and future of talent."
+    publishedDateTime: 2022-01-13T20:17:00Z
+    webUrl: "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/"
+    ampWebUrl: "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/01/New-work-order.png"
+        width: 1800
+        height: 1013
         isCached: true
 
 secured: "9NFNkhHE1u9dycBnqTu0YPf+tYGWVBoG+zd0sE3Q8KeRoHFbhdRg+1iGXvCzVrSvOeak+1d5qZl+hiR7a6KRCDjOCwuxZk81AZ9hccK+V22BJPwSuFvfuGtW2uCG40CKO0gdqUDUuzwwYwSfe1zbOBr9C5bXTzk4JiwBckuziSHBCsgJiy2bJNuZrTRhUW3EHw1GB3tov6ql7oV21cInQfnRr0KiyVzTPOY1+IWjw0t7kfj/ohtBJ5zhzttPEFRIrsMlwoG2KNMn8y5f1mEIyee2jcWD1NDcZSOsTFHEUfQFVP+jGcTg9IrP7c2LxxCGnDIapCO1QJlBzUKS8tMNyArPxVxWknp4ZGoefkhMe1JViqN3IrRn5BCc7R08Zruj/LaQ5KsAwGSbADwcvLJXXo6ZrYkyWEWVxbbV58XctMeHvHnNWKQFtrEf2IukP0GM71W9zyBOQ0p+dGt21G83fMo58CIJmj5kInDXJD96i8TlwJwxgAKtRO5XXxlvFfPryuymaySCLftQIsQzZmWI/A==;FA8e4tL5L+E0uROK5+Awlg=="

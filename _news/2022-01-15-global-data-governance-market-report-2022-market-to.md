@@ -51,20 +51,6 @@ related:
         width: 1251
         height: 704
         isCached: true
-  - title: "2022: The Year of Freight Procurement AI"
-    excerpt: "And many shippers and carriers are scrambling to find ways to better navigate new challenges that are here to stay. Enter AI. Renowned for slow-moving technology adoption, the logistics industry is now taking a long, hard look at AI as it tries to build ..."
-    publishedDateTime: 2022-01-10T13:01:00Z
-    webUrl: "https://www.manufacturing.net/supply-chain/blog/21992688/2022-the-year-of-freight-procurement-ai"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 37
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/01/16x9/iStock_850502998.61d8a4778e20f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "VlnFeDTXClijfREGoILte1XZLlrs2rZT35iW4+mgJVK581XW4utpNB7ndFd6yNBwbpSVLFXQ6n88nakfw5N0p8QKn1vpMzQJF0W+qSFUKDTW87OcQ9jxMy5I1mhle1Y8PDe2VIQXfcWgWRxrGXtRgh1kq3Eijh6fGcxuHP5e5n6kKfp7FQHeCdia5HsJelZUyuvMw2fM4kz+WzDRIF/NKNctw6gsNZpfEy6V/hHI8dG6TcPU2WTJLuavhuCzq1rBCtXTtGipiWkBMN+fHX4sYcQ8lNm5clyjF1qUAohQQpaNrqv/qOdOdBaGLR0l7X2pHr+4ZfRo11eAJ7qmzzgGTNikISN55esnqpkV7qKFt8A=;uk2Avv7BHs+BZzXj9HmQEQ=="
 ---

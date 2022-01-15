@@ -24,21 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence could influence hospital triage"
-    excerpt: "As the latest virus surge swamps hospitals, researchers consider the role machine learning could play in making decisions about care."
-    publishedDateTime: 2022-01-12T19:00:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
+  - title: "Artificial Intelligence in Finance"
+    excerpt: "Artificial intelligence can free up personnel, improve security measures and ensure that the business is moving in the right technology-advanced, innovative direction. According to Forbes, 70% of financial firms are using machine learning to predict cash ..."
+    publishedDateTime: 2022-01-11T09:59:00Z
+    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-finance-darpan-jain"
     type: article
     provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
     images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2022/01/GettyImages-1229667700.png?fit=740%2C416"
-        width: 739
-        height: 416
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEQrOJMJnfqHQ/article-cover_image-shrink_600_2000/0/1641894641709?e=1647475200&v=beta&t=XTsqjuKZ3kCp1K3fZfWUDtFDZdtZUpKao_6jfqlPKxA"
+        width: 966
+        height: 578
+        isCached: true
+  - title: "Root Insurance Adds AI to Claims Operations"
+    excerpt: "Root will launch the partnership with the AI Subro solution from Tractable. “Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers."
+    publishedDateTime: 2022-01-10T14:33:00Z
+    webUrl: "https://www.fenderbender.com/articles/17289-root-insurance-adds-ai-to-claims-operations"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 37
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/2021/09/02/pexels-pixabay-373543.jpg?height=635&t=1631180410&width=1200"
+        width: 777
+        height: 518
         isCached: true
 
 secured: "lZSRoZ6pfMPpFWBAjChSuuJbdJ1U2Vuo7pS3jyaBliIAD2ggR3+GhZGRhjkRo5qMejrWOb0GtgyDutQMcapDLieoXGkQhXtG4KB9fgNk2Rn4cI4EFyf1At3U8dbQPvd696XYQy43Bfteg8G+O96BB32zYUzWZvFgAKLRkcr+ZP2ZUoI0V/cXiMZL+PI3ZGFDL5HbYKc1YdX6eoLC+PPhDt9PNPlAIZf5wU5bVHJdiNJI6nQriYScFk+HTesq2cHoPeQAtml79EuxYvkVaps0rqGaWzGwMPrC7KuYuMxIb5FAokZZS5M8/a58JXJZyLkoI1Zqdz4q/HrQT0Q2zxqJ6UJLiDYiXS3MM9wPy677wis=;pYTuGafvSqs+1INXid7i+Q=="

@@ -598,20 +598,29 @@
     {
       "path": "_news/2022-01-09-ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party.md",
       "title": "Ramaphosa uses ANC anniversary speech to stamp his authority on the party",
-      "excerpt": "South African President Cyril Ramaphosa delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was",
+      "excerpt": "South African President Cyril Ramaphosa has delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was the party’s 110th birthday.",
       "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596",
-      "originalUrl": "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174596",
+      "webUrl": "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597",
+      "originalUrl": "https://theconversation.com/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/439887/original/file-20220108-32414-1kh39je.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-08T11:31:00-08:00",
+      "ampWebUrl": "https://theconversation.com/amp/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party-174597",
+      "publishedDateTime": "2022-01-08T12:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Conversation",

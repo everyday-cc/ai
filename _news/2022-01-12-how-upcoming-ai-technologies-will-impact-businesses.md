@@ -25,167 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI And Machine Learning To Improve The Health Insurance Process"
-    excerpt: "Health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
-    publishedDateTime: 2022-01-10T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/10/using-ai-and-machine-learning-to-improve-the-health-insurance-process/amp/"
+  - title: "AI Standards Hub will help UK businesses improve AI governance"
+    excerpt: "The launch of the initiative, led by the Alan Turing Institute, comes as 1.3 million UK businesses are expected to use AI by 2040"
+    publishedDateTime: 2022-01-12T12:31:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61814ed70e1ae168d212c0bd%2F0x0.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI and language intelligence are helping employees learn"
-    excerpt: "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive."
-    publishedDateTime: 2022-01-14T18:40:00Z
-    webUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/"
-    ampWebUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
+      name: IT Pro
+      domain: itpro.co.uk
     quality: 89
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all"
-        width: 1200
-        height: 628
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641989946/itpro/GettyImages-AI-concept.jpg"
+        width: 1260
+        height: 710
         isCached: true
-  - title: "How Protai’s AI-powered platform is improving drug discovery"
-    excerpt: "Protai claims it's reshaping the drug discovery and development process using proteomics and an end-to-end AI-based platform."
-    publishedDateTime: 2022-01-13T18:40:00Z
-    webUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/"
-    ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
+  - title: "The Era of AI is Here and Businesses Love It"
+    excerpt: "The use of artificial intelligence or AI is much more common than most people realize. Although we are far from the threshold of most sci-fi films and the"
+    publishedDateTime: 2022-01-12T19:35:00Z
+    webUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/"
+    ampWebUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
+    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: techspective.net
+      domain: techspective.net
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1331723660-e1642087280811.jpg?fit=800%2C560&strip=all"
-        width: 800
-        height: 430
-        isCached: true
-  - title: "Finding Love In The Midst Of Algorithms, Artificial Intelligence And Data"
-    excerpt: "What sustains the thriving business of love? What has made these apps, agents and companies who broker love, such a success? Here is what my experience taught me."
-    publishedDateTime: 2022-01-11T00:44:00Z
-    webUrl: "https://www.outlookindia.com/website/story/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
-    ampWebUrl: "https://www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 56
-    images:
-      - url: "https://images.outlookindia.com/public/uploads/articles/2022/1/10/Untitled_design_(3).jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "4 ways artificial intelligence is improving mental health therapy"
-    excerpt: "With an increased demand for services and workloads stretched, using AI within mental health services could be a game-changer."
-    publishedDateTime: 2022-01-11T17:57:00Z
-    webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
-    type: article
-    provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 56
-    images:
-      - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
-        width: 4098
-        height: 2304
-        isCached: true
-  - title: "3 Vectors of Artificial Intelligence and Machine Learning"
-    excerpt: "The New Stack Shorts covers three areas that are reshaping business processes and environments - from the intelligent applications that embed AI/ML and take advantage of data, and the system of enablers that allow them to reach scale to the chips that power them."
-    publishedDateTime: 2022-01-13T15:30:00Z
-    webUrl: "https://thenewstack.io/3-vectors-of-artificial-intelligence-and-machine-learning/"
-    type: article
-    provider:
-      name: thenewstack.io
-      domain: thenewstack.io
-    quality: 56
-    images:
-      - url: "https://cdn.thenewstack.io/media/2022/01/67e2a21e-tns-shorts-awsmachine-learning.png"
+      - url: "https://techspective.net/wp-content/uploads/2022/01/artificial-intelligence-gfd97c804c_1920.jpg"
         width: 1920
-        height: 1080
+        height: 1280
         isCached: true
-  - title: "Product Management in the Age of Artificial Intelligence and Machine Learning"
-    excerpt: "Product Management in the Age of Artificial Intelligence and Machine Learning By cioreview - The demand for AI-competent product managers will continue to rise as more firms research and adopt AI. FREMONT,"
-    publishedDateTime: 2022-01-10T13:00:00Z
-    webUrl: "https://www.cioreview.com/news/product-management-in-the-age-of-artificial-intelligence-and-machine-learning-nid-34835-cid-214.html"
+  - title: "15% of UK businesses have adopted AI"
+    excerpt: "A new report from DCMS shows that while over 430,000 businesses are already using AI, there is great potential for further growth."
+    publishedDateTime: 2022-01-13T17:16:00Z
+    webUrl: "https://www.techuk.org/resource/15-of-uk-businesses-have-adopted-ai.html"
     type: article
     provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 55
+      name: techUK
+      domain: techuk.org
+    quality: 39
     images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/t0ssq.pmmag.jpg"
-        width: 300
-        height: 350
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/f12b63e3-8de1-4d35-84fa22dd2862822c/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/AR-AI-industrial-Robot-121487519-web-1500px.jpg"
+        width: 400
+        height: 248
         isCached: true
-  - title: "Opinion: Using AI and machine learning to improve the health insurance process"
-    excerpt: "In the past decade, health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
-    publishedDateTime: 2022-01-10T14:16:00Z
-    webUrl: "https://www.healthleadersmedia.com/payer/opinion-using-ai-and-machine-learning-improve-health-insurance-process"
-    type: article
-    provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 50
-    images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
-        isCached: true
-  - title: "CCC: AI Continuing to Infiltrate Claims Process"
-    excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
-    publishedDateTime: 2022-01-11T09:31:00Z
-    webUrl: "https://www.fenderbender.com/articles/17291-ccc-ai-continuing-to-infiltrate-claims-process"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 37
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/artificial-intelligence.jpg?height=635&t=1626952330&width=1200"
-        width: 806
-        height: 504
-        isCached: true
-  - title: "New AI image processing chip for 8K TV unveiled in Beijing"
-    excerpt: "China's first Artificial Intelligence (AI) image processing chip for 8K TV has been released by Hisense in Beijing, CGTN reports. The move is seen by government officials as a milestone in the country's development of key TV technologies. The chip ..."
-    publishedDateTime: 2022-01-13T07:02:00Z
-    webUrl: "https://www.publicnow.com/view/8BA2FC5AFB8DCC48F45693A910B3A6CE2036BEDD"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
-  - title: "How AI is improving the translation experience for marketers"
-    excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
-    publishedDateTime: 2022-01-10T17:30:00Z
-    webUrl: "https://www.america-retail.com/usa/how-ai-is-improving-the-translation-experience-for-marketers/"
-    type: article
-    provider:
-      name: america-retail.com
-      domain: america-retail.com
-    quality: 19
-  - title: "How AI is being used to improve disability employment"
-    excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"
-    publishedDateTime: 2022-01-13T17:57:00Z
-    webUrl: "https://www.publicnow.com/view/8577DB312DF16BC9561778F10E8C2C5DA84C3480"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 19
 
 secured: "eXNGf4KlA7jjQyT1BW9F396ZXFJFzMiV56MGmtS2qvuM552fS6mx4pBQlSXAdbfwyT9KAnwlBhH2554CZCFEmgGLz2QYAJQLHE8yj3yOsoA3iNY3Tl18WF0o1TwBBMhILkO9QDNq4JOAhRqvp2A2xjU6In7mEHO76pMOc60ke+zAu7PynxRufmoZTbSYZGuGn7wo1lx2KJQhFs0TSO+RYIaXgqx6NvcOL8Z6bJjQsZ7ykRZ3ZnX0nIdyLDIy8Ah66wJ5+AbEqEltRknCeZO1TwDLLUuPJm8ygpXZBj1SirADVDxoNKVp/cmxp2EBH5nWPDde/g7KeIbRbk+yK5vs4sjVhy5TBdtA9V611Tv36JU=;Kr9Fqcr0WKk6rIQNC0JWoA=="
 ---

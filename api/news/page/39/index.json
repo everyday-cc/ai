@@ -2,6 +2,92 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-12-11-evolution-gym-sculpts-novel-robot-bodies-and-brains.md",
+      "title": "Evolution Gym Sculpts Novel Robot Bodies and Brains",
+      "excerpt": "But they usually design an animal-like robot body first and then train an AI to control it. In living creatures, though, the body and brain evolve together to tackle complex tasks. So some researchers are borrowing a page from nature’s playbook to design intelligent,",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
+      "originalUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/0197E040-CFB2-4AE4-99DF0AE00817D3CA.jpg",
+          "width": 790,
+          "height": 496,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
+      "cdnAmpWebUrl": "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/evolution-gym-sculpts-novel-robot-bodies-and-brains/?amp=true",
+      "publishedDateTime": "2021-12-10T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-ai-models-microprocessor-performance-in-real-time.md",
+      "title": "AI models microprocessor performance in real-time",
+      "excerpt": "Computer engineers at Duke University have developed a new AI method for accurately predicting the power consumption of any type of computer processor more than a trillion times per second while barely using any computational power itself.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
+      "originalUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/ai-models-microprocess.jpg",
+          "width": 740,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-12-ai-microprocessor-real-time.amp",
+      "publishedDateTime": "2021-12-10T08:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-deepminds-latest-ai-shines-light-on-dark-room-of-molecules.md",
       "title": "DeepMind’s latest AI shines light on dark room of molecules",
       "excerpt": "DeepMind has created the best chess player, one of the most accurate weather forecasting systems and a poker player that could give the card sharks of Las Vegas a run for their money. In its ...",
@@ -1047,110 +1133,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-brainbox-ai-brings-machine-learning-to-building-controls.md",
-      "title": "BrainBox AI brings machine learning to building controls",
-      "excerpt": "BrainBox AI focuses primarily on controlling HVAC systems, which accounts for the majority of the energy consumption in most buildings.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1282120747-e1638981626372.jpg?fit=800%2C600&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/brainbox-ai-brings-machine-learning-to-building-controls/amp/",
-      "publishedDateTime": "2021-12-09T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-why-ai-is-the-future-of-fraud-detection.md",
-      "title": "Why AI is the future of fraud detection",
-      "excerpt": "A strategic and effective approach to online fraud detection will be needed in order to tackle increasingly sophisticated threats to online retailers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/",
-      "originalUrl": "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/LOGIN-FRAUD-e1639061228103.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/09/why-ai-is-the-future-of-fraud-detection/amp/",
-      "publishedDateTime": "2021-12-09T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

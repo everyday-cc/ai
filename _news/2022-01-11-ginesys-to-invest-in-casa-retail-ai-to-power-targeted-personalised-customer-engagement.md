@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1103516407/Ginesys-to-Invest-in-CASA-Retail-AI-
 webUrl: "https://menafn.com/1103516407/Ginesys-to-Invest-in-CASA-Retail-AI-to-Power-Targeted-Personalised-Customer-Engagement"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 333
     height: 250
     isCached: true
-
-related:
-  - title: "Ginesys to invest in CASA Retail AI to power targeted personalised customer engagement"
-    excerpt: "Ginesys, a leading end-to-end technology solutions provider for retail businesses today announced a strategic investment of USD 10mn over the next 3 years, in CASA Retail AI, to strengthen their custo"
-    publishedDateTime: 2022-01-10T12:30:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/ginesys-to-invest-in-casa-retail-ai-to-power-targeted-personalised-customer-engagement-122011001044_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/ginesys-to-invest-in-casa-retail-ai-to-power-targeted-personalised-customer-engagement-122011001044_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/ginesys-to-invest-in-casa-retail-ai-to-power-targeted-personalised-customer-engagement-122011001044_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 49
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/10/full/20220110172823.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "QpJWowF3jboSUXImjraUF7kH+bXLAG4Y9J6BDZgXs2sWnhMY+HXDTFj72mgSzjbDCBtS0BkZVy1Gn99py99WVMtW9QL84CNXK4FF9/TMuK7yQzyewyePZ9NW3i8HLpbNTN6BLc5BKItoTi0sUK9y3xRjw9owe97XOcuLjWBPLLu9Hte5P41Q9A2o4K+YaFGKzKsCLPpOJvMvRU59H4qin+0d2Ff/dr1NPchG1jRU1WY5M+yFsTBdaPv9+CXUQhS14y0UXnpb1Y5SI65O1TZZkq1L99aRmgD5U8aFjHqaDbW7aM9ux/jtJC4GXe5r5Sb8sS11XLxu78JpdPZU//CXlLJEjHoF9ZdkJfF3kkKJ44A=;f3bNLDy6JAp4DJJkAW9odA=="
 ---

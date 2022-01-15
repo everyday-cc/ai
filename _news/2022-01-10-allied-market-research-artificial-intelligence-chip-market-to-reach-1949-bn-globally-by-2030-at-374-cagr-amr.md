@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54932643-alli
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54932643-allied-market-research-artificial-intelligence-chip-market-to-reach-dollar-194-9-bn-globally-by-2030-at-37-4-cagr-amr-008.htm"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR: AMR"
-    excerpt: "Allied Market Research recently published a report, titled, \"Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and Others), Application (Natural"
-    publishedDateTime: 2022-01-10T12:10:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html"
+  - title: "Global Artificial Intelligence in Supply Chain Management Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Global Artificial Intelligence in Supply Chain Management Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This report examines the importance of AI in transforming SCM,"
+    publishedDateTime: 2022-01-14T10:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-41112fb94b9c4916be089a6a02100106"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 49
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61e013568b8db.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
     excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product"
@@ -56,6 +56,20 @@ related:
       - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
         width: 2000
         height: 1046
+        isCached: true
+  - title: "Global Smart Hangars Market Research Report 2021 with Focus on Edge Computing, IoT, and Artificial Intelligence - ResearchAndMarkets.com"
+    excerpt: "The “Growth Opportunities for Global Smart Hangars” report has been added to ResearchAndMarkets.com’s offering. This research discusses trends like edge computing, IoT, and artificial intelligence with respect to aircraft hangars;"
+    publishedDateTime: 2022-01-14T11:07:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-artificial-intelligence-5598b0e7e91541e6aa7497c9a99673b3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 6
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "QNp2zzqtTRBeHa22Hkrffvrw2VMjQLHL2LOmTq7e/q/hZhg5LMbvaBm2tKFiRVMD6bjoeH+9tYZAj/68GXycoGslJKzI67Fvng2fVR/yt8lsbHMszmGsxX6qtBvlihY1RQZ3UoDPWew6Zg5QKTcx91JnMU8zRwz2KZcKu+RelBGH5KFDDtVEdvmN5A1nNG2bIGt1Ls7+ubSybFypHI7XuuBEYWT/z3zgi2Ue/nef1W2GuEBvo0/hX3EXwF2C7sLQaHzefRVxah7O6k1gu/qbLz7k8JJWH9rVisiqZFZhCLt4Tit0iAKmVgmIhAMLs0rPuZXwBfWCQr6Yv05M1YKfolCqrXNy8BWVX+lrs9MIbLw=;w375O5G1OeMDPF1YhoshSA=="

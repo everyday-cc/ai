@@ -44,6 +44,22 @@ related:
         width: 600
         height: 330
         isCached: true
+  - title: "Finding Love In The Midst Of Algorithms, Artificial Intelligence And Data"
+    excerpt: "What sustains the thriving business of love? What has made these apps, agents and companies who broker love, such a success? Here is what my experience taught me."
+    publishedDateTime: 2022-01-11T00:44:00Z
+    webUrl: "https://www.outlookindia.com/website/story/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    ampWebUrl: "https://www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/website/amp/entertainment-news-finding-love-in-the-midst-of-artificial-intelligence-and-data/409094"
+    type: article
+    provider:
+      name: Outlookindia
+      domain: outlookindia.com
+    quality: 56
+    images:
+      - url: "https://images.outlookindia.com/public/uploads/articles/2022/1/10/Untitled_design_(3).jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "SbVylnTBpV4uMzjglsziHc0mtOGhzoOEn+tx0j9cIKr2J+ekRQb+dwuQmUKsed2D8V1c5oOBudhNJHftKpL9lf61dIHCNh6amayhWlGuxOPzNH8QTFTAkNGqVaQ1uxRWcrY6R1FMv2BRLxd7HIcM+TgaUBvzfKjKY5Z31SS3+rq4HxxafbMziK37mdEDiv6Fkw/8S1gBPedIU/yHScF12l8nMUq0WyCyxNj9TTEzkiLVInRIeU7Vo9KswZLZWB1aZaVc2szoFc5BTncFc0gY9sGHAkbiXjZVZrnu1U2OHsJrdjZKJCQSt76DaRfBgXjUsJ0VQkax9x/GwSleRjEuQgbjFofY2sGYduKBYmNd5zI=;xHAggn8C2dlLt8V5GVxUzg=="
 ---

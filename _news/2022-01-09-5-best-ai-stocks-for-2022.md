@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),"
+excerpt: "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc."
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - Microsoft AI
+  - Google AI
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "VGmiX8gr5YLgxLwTkICMncG3z11IZCsPuvjLck2MXeJ+HEkFbiHG4OPvVk8exEI9Zg9RlSJ9ISaIHiRMzwG/ntEupeFvvu1mdSuzYxJZcTbuoMx4UN8G+2kFmn0qEWUmOW2QrrpAqeVLCtHfmmr7/n2d30U60aBlTL9lJsFxM0wnc5xUdvVlGRJ25QtBBA5B3wtKYpF8fjmlA5S6Yb/JIJA8PXpAJ+IZrYLrsTlAqW5YA0hzosLvCamKRUUXWCoOKAboDEQTtubsYseiIRrHJVTCK1B+6gSiCqFAg/0yk+Eil1hAXdNe8jnjhYS0o9U/bRSvTwOROVptBgeOkVqKPi179psM0/5thjLt8lY0lCk=;Ab1R6uBX2G3v88sHN9aNhw=="
+secured: "sNXTcbX1+J0BiJsmeEWPpWbqPcpoU8xo7H6BHx+ksmyHiWZhjsqxfoUDtLY8VfptWGxeXv/l22kSKzcK2FMeP/lWXzZ7xVqTEOYkjm3d9v67LTtKb5JZUbbpkEfKQoBMxaWnXxsGRp2m/HZWmdDskh8iNkFkW2aB4QZaDQIOTykFeNIF7AyamhRbxT9H1X0eQf0Wv6+el6aI8SO0MzrObyEDFEYz6+f7ojWPJjJajnVUB1Q8NpMu2JTmaJOSsBoFQ893Xm0bKS6eJUFhspcVgMhG6e/1A3zeTKeuHgQpfBFKviWAxe0pSRys3DawhOx/veWd/uwBWXnXp/8MXzBdtCfwfT6Mclmk7krvs9r8Iwk=;M6E6BFGvUin2Ra0JQ1x31g=="
 ---
 

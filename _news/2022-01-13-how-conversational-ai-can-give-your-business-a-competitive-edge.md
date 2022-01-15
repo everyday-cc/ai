@@ -68,6 +68,20 @@ related:
         width: 999
         height: 561
         isCached: true
+  - title: "CCC: AI Continuing to Infiltrate Claims Process"
+    excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
+    publishedDateTime: 2022-01-11T09:31:00Z
+    webUrl: "https://www.fenderbender.com/articles/17291-ccc-ai-continuing-to-infiltrate-claims-process"
+    type: article
+    provider:
+      name: FenderBender
+      domain: fenderbender.com
+    quality: 37
+    images:
+      - url: "https://www.fenderbender.com/ext/resources/artificial-intelligence.jpg?height=635&t=1626952330&width=1200"
+        width: 806
+        height: 504
+        isCached: true
 
 secured: "73yI/f+CeP27UU6sYUHhA39XxhIrXvrgBjGy4opi/I073o61oCMLskw8N7iS08BZdfY7ZnxwNvFg9v35QxgbfHUHzoN81CcvekAQrfiDWi71DLljf4W2A+GyAQDsVR+h4ASr5+t67m2s8pvDjV0cv0ie8bxsBqUQEIE/cPKjJLITOzKXUOLaL4w05ENYVtu4Fw/7ivzEy8TlGw39M9vQNkvnlAcEqfGSIKdPe0NOFZyErDU1YeaUxyYIHiMdPd3yRIml0qRlcksm96uEkRLPQjO25tsQuKrnxDvPoRUFzNjKZd+2twEVxosR1zAE5xd3PrPFjuuZIICGxixv570/gjLrdEVjeqXZMYWOYrEdX3c=;OEYOh3WwAwBjRNOaCKM9rg=="
 ---

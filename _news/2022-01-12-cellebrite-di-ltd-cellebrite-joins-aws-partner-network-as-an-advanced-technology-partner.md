@@ -28,15 +28,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Cellebrite Wins Significant Open-Source Intelligence Solutions Customer Contract"
-    excerpt: "Cellebrite (Nasdaq: CLBT), a global leader in Digital Intelligence (DI) solutions for the public and private sectors, today announced that it has won a significant Open-Source Intelligence (“OSINT”) customer contract following the Company’s acquisition of Digital Clues in November 2021."
-    publishedDateTime: 2022-01-10T12:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-cellebrite-wins-significant-open-source-intelligence-solutions-customer-/2022/01/10/9522565.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "7bSd3zozK9igmbcFPvvkpKHTLGCPIZXsaPJBHZKTxduEW2mJGojm0k1Nvy+xILFUrDkP9orTFPS1SD/451m7url/nzx9/3+rXphT1dMB4rjIVo8TKvCsic6u2M4FQXtz0myMqtwS3NsA8t5l5mS/LRgV7Oei5nOPRitXOIIcTXkZYCzMYtP96aUCauGI5EMZ/XPrZT17Nt+pcTaoGjNQ7XWfkx9YfycBkdQEt9rek66g/caEVHLfT16zFsaO62YVd05Nf600cwnJs9yP+dN5rZ0K2dSoTNX81NmMUsZ273T+GnB94X8EO9fnY9JPXSyYyrp4RMY0cpgh0nzuv6Yn5tDUmlZ0LYff0CVzEyRNQIs=;0ks3pjLNy7a/cRKpt9H7tA=="
 ---

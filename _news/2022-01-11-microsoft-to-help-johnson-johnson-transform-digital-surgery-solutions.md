@@ -71,22 +71,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Global Voice Recognition Market: Emerging Trends, Major Key Players Microsoft Inc and Google"
-    excerpt: "According to the report The Global Voice Recognition Market was estimated to be 9 9 Billion in 2019 and is anticipated to grow at a CAGR of 18 9 from 2020 to 2027 To prevent data breaches a more robust"
-    publishedDateTime: 2022-01-10T12:22:00Z
-    webUrl: "https://www.openpr.com/news/2522279/global-voice-recognition-market-emerging-trends-major-key"
-    ampWebUrl: "https://www.openpr.com/amp/2522279/global-voice-recognition-market-emerging-trends-major-key"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522279/global-voice-recognition-market-emerging-trends-major-key"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 50
-    images:
-      - url: "https://cdn.openpr.com/V/1/V110509863_g.jpg"
-        width: 603
-        height: 394
-        isCached: true
   - title: "Johnson & Johnson Medical Devices Companies Announces Strategic Partnership with Microsoft to Further Enable its Digital Surgery Solutions"
     excerpt: "The Johnson & Johnson Medical Devices Companies (JJMDC)* today announced that it will collaborate with Microsoft to further enable and expand JJMDC's secure and compliant digital surgery ecosystem. The Microsoft Cloud will help JJMDC realize its vision of driving innovation that advances skills,"
     publishedDateTime: 2022-01-10T14:30:00Z

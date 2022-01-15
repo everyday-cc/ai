@@ -2,6 +2,101 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-11-22-india-fintech-forum-unveils-28-high-potential-fintech-startups-for-ifta-2021.md",
+      "title": "India FinTech Forum Unveils 28 high potential fintech startups for IFTA 2021",
+      "excerpt": "India FinTech Forum, a not for profit fintech advocacy group representing Indian fintech companies, has announced 28 fintech startups who will be showcasing their product demos to a high-profile jury from 23 rd  November – 25 th  November 2021 to compete for the Fintech Startup of the Year trophy at the 6 th  edition of India FinTech Awards (IFTA).",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497624.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2021/11/22/9497624.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1693934/FInalists_at_IFTA_2021.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T05:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-22-ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities.md",
+      "title": "AI In Healthcare Presents Unique Challenges And Amazing Opportunities",
+      "excerpt": "Artificial intelligence is a hot topic in almost every industry right now, and healthcare is no exception. The big data revolution has transformed manufacturing supply chains, retail advertising and customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/11/22/ai-in-healthcare-presents-unique-challenges-and-amazing-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6197aa507ff6dfc8338aedb0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-22-ai-in-drug-discovery-market-2021-development-status-and-future-statistics-by-2031.md",
       "title": "AI in Drug Discovery Market 2021 Development Status and Future Statistics by 2031",
       "excerpt": "AI in Drug Discovery Market Introduction According to the report the global AI in drug discovery market was valued at US 0 35 Bn in 2020 and is projected to expand at a CAGR of 36 1 from 2021 to",
@@ -1011,92 +1106,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-mediateks-unveils-pentonic-2000-worlds-first-7nm-tv-chip-decodes-8k120hz.md",
-      "title": "MediaTek's unveils Pentonic 2000, World's first 7nm TV chip, decodes 8K@120Hz",
-      "excerpt": "Following the release of its flagship Dimensity 9000 SoC for smartphones, the company is now releasing its flagship TV chipset, the Pentonic 2000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484",
-      "originalUrl": "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pinkvilla.com/files/styles/ampfront/public/alia_neetu_jug_jugg_jeeyo_main.jpg?itok=QSHfsmA_",
-          "width": 375,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp",
-      "cdnAmpWebUrl": "https://www-pinkvilla-com.cdn.ampproject.org/c/s/www.pinkvilla.com/tech/news/mediatek-s-unveils-pentonic-2000-world-s-first-7nm-tv-chip-decodes-8k-120hz-946484?amp",
-      "publishedDateTime": "2021-11-21T00:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pinkvilla.com",
-        "domain": "pinkvilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-21-how-sms-marketing-continues-to-evolve-via-ai.md",
-      "title": "How SMS marketing continues to evolve via AI",
-      "excerpt": "SMS is exceeding different forms of marketing communication including social media messages and emails. It is mainly because consumers are moving to mobile purchases with online shoppers in India expected to reach 220 million by 2025,",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/",
-      "originalUrl": "https://www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2021/11/Mr.-Tushar-Agarwal.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/writers-alley/how-sms-marketing-continues-to-evolve-via-ai/2373137/lite/",
-      "publishedDateTime": "2021-11-20T22:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

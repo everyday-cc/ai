@@ -99,49 +99,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-14-how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order.md",
-      "title": "How cloud, AI, and machine learning are shaping the new work order",
-      "excerpt": "From cloud chaos to clarity.” As enterprises embrace the cloud, AI and deep data analytics, existing jobs, and workplaces will go through a fundamental shift. This transformation will shape the present and future of talent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/",
-      "originalUrl": "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/01/New-work-order.png",
-          "width": 1800,
-          "height": 1013,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/amp/",
-      "publishedDateTime": "2022-01-13T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-01-13-using-localized-models-to-get-more-from-your-aiml-investments.md",
       "title": "Using Localized Models To Get More From Your AI/ML Investments",
       "excerpt": "There are a lot of opportunities to experiment with localized models to help businesses gain a clearer understanding of their demographics and the unique needs and desires of different locations.",
@@ -481,7 +438,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1431,6 +1388,49 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-global-legal-software-market-report-2021-with-focus-on-machine-learning-researchandmarketscom.md",
+      "title": "Global Legal Software Market Report 2021 with Focus on Machine Learning - ResearchAndMarkets.com",
+      "excerpt": "Global Market Report 2021: COVID-19 Growth and Change to 2030” report has been added to ResearchAndMarkets.com’s offering. The global legal software (focus on machine learning) market is expected to grow from $0.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-software-microsoft-corp-3eef4ecf3cb44b9786a7a855cd53ff46",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-software-microsoft-corp-3eef4ecf3cb44b9786a7a855cd53ff46",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T09:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

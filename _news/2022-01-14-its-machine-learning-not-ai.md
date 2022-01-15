@@ -79,6 +79,20 @@ related:
         width: 600
         height: 324
         isCached: true
+  - title: "3 Vectors of Artificial Intelligence and Machine Learning"
+    excerpt: "The New Stack Shorts covers three areas that are reshaping business processes and environments - from the intelligent applications that embed AI/ML and take advantage of data, and the system of enablers that allow them to reach scale to the chips that power them."
+    publishedDateTime: 2022-01-13T15:30:00Z
+    webUrl: "https://thenewstack.io/3-vectors-of-artificial-intelligence-and-machine-learning/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 56
+    images:
+      - url: "https://cdn.thenewstack.io/media/2022/01/67e2a21e-tns-shorts-awsmachine-learning.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "How AI and machine learning can transform construction"
     excerpt: "Karthik Venkatasubramanian extols the benefits of AI and machine learning and how they can be incorporated into a successful data strategy."
     publishedDateTime: 2022-01-10T14:59:00Z

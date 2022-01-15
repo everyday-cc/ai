@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "SK hynix to diversify chip biz, collaborate with Qualcomm"
-    excerpt: "SK hynix, a South Korean memory chip maker, has said it will invest in the joint establishment of a chip firm in the US with two other subsidiaries of South Korean conglomerate SK Group to diversify its product portfolio and expand its global business."
-    publishedDateTime: 2022-01-10T11:27:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220110/3889950.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
-
 secured: "osgQAI3FOoQ8o3Hp40QcFiAE5+npK+nZFtFGNsAGUnOtqz45+vf5dmFBuO/dYELsUJEIDkIRfeRZkg3PeziqIJjQAqEin/wgKyvJ+S+5IiYFglriz4P+EAPD1oG4LQJgPr17JVmBFvZOMKr5O/Ghs8MIhXyXxkFAoiM13YvUVAuFdY66e6d8bDcIKBxkhk4iKO198jKnCfcuOupebdlyH6JFoTUDzL88zXSZ7mu+DoOGpt70haYDkWz2QINnYNAeADKzTv0ohamMWw9FWbwi9b5cQIR/M1auIbai+NypNbSgHidpIfX413efHiNY9zh355dXdPrmQzjeYpKfItc4PkH34cvqN2mKM4L/kiYMcnRZku8h8Qro8QV73bcFmgdvzlqG5jG2e1QoywOmyuvaqgvg1q+COSvskWndB/lHSnd3pdzKhie9y+zHkX7rVtpjm77B4k4xxO0N/millGuv94yEGHtFpHOvfTMbGwMI2OK9NBsLUlYeH+7xw6OLwPgpA5y+ersE2U1oVNykS/IgCg==;rXjLm8I+1SdVhIh8BymhUg=="
 ---
 

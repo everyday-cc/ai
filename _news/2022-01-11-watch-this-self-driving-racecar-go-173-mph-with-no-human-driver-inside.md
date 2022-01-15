@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-raci
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Technology & Innovation Roundup: Self-driving car technology from FAU wins second patent"
-    excerpt: "That’s the idea behind new self-driving car technology coming out of Florida Atlantic University in Boca Raton. The tech, which uses artificial intelligence and machine learning to mimic driving behavior,"
-    publishedDateTime: 2022-01-10T11:17:00Z
-    webUrl: "https://www.bizjournals.com/southflorida/news/2022/01/10/technology-innovation-roundup-01-07-22.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 0
 
 secured: "CLduAPIBBT9lE3kZmDshiCbJDfJXU2lRMONs5IsDdQ1JYFkbyZOwRDyQWwWxHT1iJlyjUjJWwm+fn+7/chwRPRUQkFL814f2SqQcgQ+Ho+zXAGldCZZqRN8QyKu9dQNM8TkGZNHEnNbPJ+rQfL4V1KOU9Lu4mxYP9nRjdDJQ83wgvZeFu9PhuiTUeNFqg9PVr3kZJthQOzhMsBnHogCrFbQrMiMeyk63O7QdW0LgTdnXUpVOxZgKXWKS7h9Y+l6auYH87RPDwnfPBF2BDSH28G4OPeRGQIDPhcioRZFFGoLUKrUqAmtQYCF7B3NCF9pKK86xOpoVkJyisqZ1R6ub/t/+/phStbMmMjoUuCkdVTY=;hyYalF//USmaQOuMsYXlDw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.lelezard.com/en/news-20193540.html"
 webUrl: "https://www.lelezard.com/en/news-20193540.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Vaccine R&D will be a Substantial Beneficiary of AI in the Epidemiology Market"
-    excerpt: "The 'Artificial Intelligence in Epidemiology Market by AI Type, Infrastructure, Deployment Model, and Services 2022 - 2027' report has been added to ResearchAndMarkets.com's offering. This global AI epidemiology and public health market report provides a comprehensive evaluation of the positive impact that AI technology will produce with respect to healthcare informatics,"
-    publishedDateTime: 2022-01-10T12:45:00Z
-    webUrl: "https://menafn.com/1103514447/Vaccine-RD-will-be-a-Substantial-Beneficiary-of-AI-in-the-Epidemiology-Market"
+  - title: "Global System-on-Chips’ R&D Portfolio Analysis and Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
+    excerpt: "Chips’ R&D Portfolio Analysis and Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This technology and innovation study focuses on the benefits of SoC, the emerging trends in SoC hardware,"
+    publishedDateTime: 2022-01-11T17:38:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-e4a7140664b643b897f8c0b58f8cc0ae"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 33
+      name: Associated Press
+      domain: apnews.com
+    quality: 17
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?137011"
-        width: 372
-        height: 250
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Healthcare Claims Management Global Outlook & Forecast 2022-2027: Advancement of Automated Medical Billing and Management - ResearchAndMarkets.com"
+    excerpt: "The \"Healthcare Claims Management Market - Global Outlook & Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence (AI) has transformed various industries across the globe and radically can alter the healthcare field."
+    publishedDateTime: 2022-01-13T14:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-healthcare-claims-management-global-outlook-forecast-2022-2027-/2022/01/13/9526038.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "jYxQrNZdBvwmcquc8Hx/YYQ5VFrd0R4AJkEVbalGUqlBdx+LJGjNXpZFlwL5OxqkvZGoQb5nH1JxGKmqOVliKnfjyl6gAVYZMEuqyAGbxB0Q8O7q+0nlChF3WPpW8p1zBVhLgZmy7zDEcJizYcO3wPb+9ojL0X7c+taTtE5r+zP7eMys327DwzYbj7eGmJAi16tndSkbuUi+QK3czB72dD6WBq/xQ1x/cO9oonhXLkwS06yySzmnKSIvO1uk29GpbtgGlUSnTPANHc3CCFn7ezdeHkxPIUvx83ZX3+H2SOMXwntCC26blaETlMsVWyLOjRxdvrDL9Wpnf6TuMuR8EPmL4keG+uBblEcdshRXYjY=;aGPf+nScPS6nTcyTOdU6Rg=="
 ---

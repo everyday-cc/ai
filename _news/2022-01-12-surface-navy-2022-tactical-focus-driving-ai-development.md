@@ -9,7 +9,7 @@ ampWebUrl: "https://www.janes.com/amp/surface-navy-2022-tactical-focus-driving-a
 cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2022/01/year-g5a68d3205_1280-e1641032917912.jpg"
         width: 1251
         height: 704
-        isCached: true
-  - title: "2022: The Year of Freight Procurement AI"
-    excerpt: "And many shippers and carriers are scrambling to find ways to better navigate new challenges that are here to stay. Enter AI. Renowned for slow-moving technology adoption, the logistics industry is now taking a long, hard look at AI as it tries to build ..."
-    publishedDateTime: 2022-01-10T13:01:00Z
-    webUrl: "https://www.manufacturing.net/supply-chain/blog/21992688/2022-the-year-of-freight-procurement-ai"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 37
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/01/16x9/iStock_850502998.61d8a4778e20f.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Global Data Governance Market Report 2022: Market to"
     excerpt: "The \"Data Governance - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global market for Data Governance estimated at US$1.8 Billion in the year 2020,"

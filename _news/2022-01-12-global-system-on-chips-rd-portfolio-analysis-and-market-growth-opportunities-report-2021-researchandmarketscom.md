@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/BusinessWire/technology-business-
 webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-e4a7140664b643b897f8c0b58f8cc0ae"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Growth Opportunities for Global Artificial Intelligence in the Automotive Industry - ResearchAndMarkets.com"
+    excerpt: "The \"Growth Opportunities for Global Artificial Intelligence in Automotive\" report has been added to ResearchAndMarkets.com's offering. This research service examines the role artificial intelligence (AI) will play in the transformation of"
+    publishedDateTime: 2022-01-14T17:37:00Z
+    webUrl: "https://www.lelezard.com/en/news-20193540.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 21
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Healthcare Claims Management Global Outlook & Forecast 2022-2027: Advancement of Automated Medical Billing and Management - ResearchAndMarkets.com"
     excerpt: "The \"Healthcare Claims Management Market - Global Outlook & Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence (AI) has transformed various industries across the globe and radically can alter the healthcare field."
     publishedDateTime: 2022-01-13T14:53:00Z

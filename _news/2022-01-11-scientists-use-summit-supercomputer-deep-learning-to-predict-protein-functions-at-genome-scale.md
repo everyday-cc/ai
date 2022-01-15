@@ -27,22 +27,6 @@ images:
     height: 1068
     isCached: true
 
-related:
-  - title: "Scientists use Summit supercomputer, deep learning to predict protein functions at genome scale"
-    excerpt: "A team of scientists led by the Department of Energy’s Oak Ridge National Laboratory and the Georgia Institute of Technology is using supercomputing and revolutionary deep learning tools to predict the structures and roles of thousands of proteins with unknown functions."
-    publishedDateTime: 2022-01-10T12:00:00Z
-    webUrl: "https://www.ornl.gov/news/scientists-use-summit-supercomputer-deep-learning-predict-protein-functions-genome-scale"
-    type: article
-    provider:
-      name: ornl.gov
-      domain: ornl.gov
-    quality: 29
-    images:
-      - url: "https://www.ornl.gov/sites/default/files/styles/main_image_style/public/2022-01/thermosipho_collabfold2.jpg?h=3432ff3c&itok=uMZ154gM"
-        width: 800
-        height: 500
-        isCached: true
-
 secured: "i8mgMo2kPMZdGySKmQat83ImkVym2GfXJOFRceRyd9iEeLRuMp0rEnZU+RHOsHtVa+ognFKWvbYFlfCDC9Plb2OwKkofk/iUzEcKl4D2tpAYq243tEvFaYFi0Dm5XXqbqFd2eJExeDJxOVUS+hXqIhP/t8LQRAOYcpjgrsEfhOcrQ7oT2Sl8SNik+hdNkOPOD/hu/8fTlPgZF7oMKnhAEaMCvusxhfHo86c0BgW7WrCQSPR2pLS8aPtrWgUe5ycqXgLCcXADgTLR2Oyml9ZJ1TAz/e2Vcf2vzrnxGyZP3sE5VHFBOivgLe7O9v3OiQiDcCy3qOV7zx4i6XXg+Sqwy3i3FtVsET7mS86CJdnZKP4=;ac8CNJQFe+F4yEACOsnkOA=="
 ---
 
