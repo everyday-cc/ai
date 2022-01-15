@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robot
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests"
 type: article
 quality: 158
-heat: 188
+heat: 178
 published: true
 
 provider:
@@ -60,15 +60,6 @@ related:
         width: 1600
         height: 910
         isCached: true
-  - title: "Thankful Expands To Europe"
-    excerpt: "Venice, California-based AI customer service software developer Thankful said today that it is expanding into the European market, via a partnership with Netherlands-based Dixa. According to the companies,"
-    publishedDateTime: 2022-01-10T13:59:00Z
-    webUrl: "https://www.socaltech.com/thankful_expands_to_europe/s-0082072.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 4
 
 secured: "F1Gu/lBrvG4Zm3cqQzP8R7aATBWys37i2w+YYntvwSbh2r/dvQ5SsEx1ni+cAm9ciiVNbEELdANHevrv8hdtFifZ5+18YWEwQiwIhXThf5xY4KaWG/1t87SM8xgDFhi7dYsP56lpCYk4XyMhTvSfxZaYb17ROPAvgqUPOZVA2Og4wSkIHisyivsXi5IvaWD/ZQlsKrPko1WkfQ+xv7w12SrDxKKflGtUGdqwBvlmNA8GZltaa24FKIzFbykxVvThYQFouKv5eXI1TvcAQR0W4Q9pxKB4v2XJGDJiSrrZytxs7osc93B/qltbUWSa+tnDmONef0RduyUCN2GPGQ7133HdsJHiR5YX5nUEmzdo6Jk=;X4Ge0qJcl4HFe0QID1VnAg=="
 ---

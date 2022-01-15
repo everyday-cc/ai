@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-07-volvo-takes-on-tesla-as-it-becomes-first-car-maker-to-trial-self-driving-car-with-no-one-behind-the-wheel.md",
+      "title": "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel",
+      "excerpt": "The carmaker has teamed up with road safety tech firm Zenseact and artificial intelligence whizzes at ... and under-the-bonnet hardware which make driverless journeys possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/",
+      "originalUrl": "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/",
+      "publishedDateTime": "2022-01-07T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
       "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
       "excerpt": "ARMONK, N.Y., Jan. 7, 2022 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon ...",
@@ -1118,57 +1161,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-07-the-chillax-baby-mood-ai-smart-monitor-focuses-on-privacy.md",
-      "title": "The Chillax Baby Mood AI Smart Monitor focuses on privacy",
-      "excerpt": "Chillax announces its unique Baby Mood AI smart baby monitor with AI and machine learning that grows with your baby.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
-      "originalUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn.digitaltrends.com/image/digitaltrends/baby-mood-_05-2.jpg",
-          "width": 655,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/chill-announces-baby-mood-ai-smart-baby-monitor/?amp",
-      "publishedDateTime": "2022-01-06T08:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

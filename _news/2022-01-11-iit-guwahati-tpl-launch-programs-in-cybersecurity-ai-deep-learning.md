@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersec
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/04/Are-we-expecting-too-much-from-artificial-intelligence.jpg"
         width: 800
         height: 420
-        isCached: true
-  - title: "IIT-Guwahati To Start PG Programmes in Cybersecurity, Artificial Intelligence And Deep Learning"
-    excerpt: "The candidates can apply for the programme on the official website of IIT Guwahati- iitg.ac.in. The candidates required to have a minimum of 50 per cent marks in bachelor's degree and least two years"
-    publishedDateTime: 2022-01-10T13:21:00Z
-    webUrl: "https://www.ndtv.com/education/iit-guwahat-starts-pg-programmes-in-cybersecurity-artificial-intelligence-deep-leraning-iitg-ac-in"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 42
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2022/1/10/IIT_GA_860.jpeg"
-        width: 860
-        height: 430
         isCached: true
   - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
     excerpt: "Indian Institute of Technology Guwahati (IITG) and Times Professional Learning (TPL), under its brand The Second Wind (TimesTSW), have launched the Post Graduate Certificate Programme in Cybersecurity"

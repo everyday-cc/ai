@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/nuro-third-generation-driverles
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/"
 type: article
 quality: 159
-heat: 219
+heat: 209
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "LG Also Wants to Cash in on Future Driverless Vehicles"
-    excerpt: "Are you excited or not about Apple’s on-again, off-again car project ? You should know that other tech giants are also exploring mobility solutions for the driverless future. At CES 2022 , Sony unveiled a new prototype of its Vision-S electric vehicle and announced the founding of a company to"
-    publishedDateTime: 2022-01-10T13:16:00Z
-    webUrl: "https://www.guideautoweb.com/en/articles/64037/lg-also-wants-to-cash-in-on-future-driverless-vehicles/"
-    ampWebUrl: "https://amp.guideautoweb.com/en/articles/64037/lg-also-wants-to-cash-in-on-future-driverless-vehicles/"
-    cdnAmpWebUrl: "https://amp-guideautoweb-com.cdn.ampproject.org/c/s/amp.guideautoweb.com/en/articles/64037/lg-also-wants-to-cash-in-on-future-driverless-vehicles/"
-    type: article
-    provider:
-      name: Guideautoweb.com
-      domain: guideautoweb.com
-    quality: 59
-    images:
-      - url: "https://i.gaw.to/content/photos/50/62/506244-un-autre-geant-des-technos-s-interesse-a-l-automobile.jpg"
-        width: 1037
-        height: 648
         isCached: true
   - title: "Professor Says Technolgy for Driverless F1 Is Closer Than You Think"
     excerpt: "Prof. Markus Lienkamp of the Technical University of Munich says an emotional discussion on value of actual drivers is on the horizon."

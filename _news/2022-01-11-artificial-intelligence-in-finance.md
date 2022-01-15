@@ -7,8 +7,8 @@ originalUrl: "https://www.linkedin.com/pulse/artificial-intelligence-finance-dar
 webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-finance-darpan-jain"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: LinkedIn
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Root Insurance Adds AI to Claims Operations"
-    excerpt: "Root will launch the partnership with the AI Subro solution from Tractable. “Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers."
-    publishedDateTime: 2022-01-10T14:33:00Z
-    webUrl: "https://www.fenderbender.com/articles/17289-root-insurance-adds-ai-to-claims-operations"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 37
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/2021/09/02/pexels-pixabay-373543.jpg?height=635&t=1631180410&width=1200"
-        width: 777
-        height: 518
-        isCached: true
   - title: "Five AI Inference Trends for 2022"
     excerpt: "It’s an exciting time to be a part of the rapidly growing AI industry, particularly in the field of inference. Once relegated simply to high-end and outrageously expensive computing systems, AI inference has been marching towards the edge at super-fast speeds."
     publishedDateTime: 2022-01-14T07:26:00Z

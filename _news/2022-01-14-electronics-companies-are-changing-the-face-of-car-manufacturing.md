@@ -21,22 +21,29 @@ topics:
   - AI
 
 related:
-  - title: "The Secret Ingredient of Thriving Companies? Human Magic."
-    excerpt: "According to former Best Buy CEO Hubert Joly, it takes several mutually reinforcing elements to create an environment that unleashes the kind of human magic necessary for a company purpose to take root and flourish."
-    publishedDateTime: 2022-01-10T13:15:00Z
-    webUrl: "https://hbr.org/2022/01/the-secret-ingredient-of-thriving-companies-human-magic"
-    ampWebUrl: "https://hbr.org/amp/2022/01/the-secret-ingredient-of-thriving-companies-human-magic"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2022/01/the-secret-ingredient-of-thriving-companies-human-magic"
+  - title: "These Are the Five Covid-Driven A.I. Trends That Are Changing Healthcare"
+    excerpt: "For all of its ills, Covid-19 has supercharged consumerism in America's healthcare system, offering tantalizing opportunities for companies interested in lowering health care costs and increasing access to quality medical care."
+    publishedDateTime: 2022-01-11T18:07:00Z
+    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-driving-health-trends-coronavirus-healthcare.html"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 44
+      name: Inc
+      domain: inc.com
+    quality: 38
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2022/01/Jan22_10_639854106.jpg"
-        width: 1200
-        height: 675
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1284045256_492187_y9ozvu.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "This New AI-Driven At-Home COVID Test Delivers Your Results Digitally"
+    excerpt: "The newly launched BD Veritor At-Home COVID-19 Test uses AI technology to promote better accuracy by reducing human error and allows you to share your results digitally with friends, family, coworkers,"
+    publishedDateTime: 2022-01-14T02:58:00Z
+    webUrl: "https://www.thedailybeast.com/bd-veritor-at-home-covid-test-review"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 17
 
 secured: "/3BZ6hn1/iROkXm7iNV7AnSJJLk2Hfc/3WGZRrfOScwRvc5X8BzzyQXWXJ5Mlqj8bjLeg0m6RRN/1HrhR/ekTBy7tGMzFqxHMGi9YBtVerAwEwPrrdh1bY/ViuESQZ2jszQrZLZSgFJ22tve63QddKmnA8YPpNDDG+6jzilIs0ZE6I9P/ePKnzeg9wes7++SVCu6uWgsEH7xPRwHk9da8n6D9RZhVPCtubIgJ/yaI8U76dF0tHOd6RVo1cvibgZKF2CX4xETmq5QKUrKdF32VB7AnoytlWR5jTZTyYutMAnDSJO4g4qFWEjIzJN5bpCHbLsM+yYlo8mLCIyArOUywk03FFgUnk6N6x00RGIaipR5tyHkCqPmZUiFWeNWSnR9ax6+OE3FLshaROj+woLGb2Vq71h/ZNGDQPREMfvW+i1nY4oKMZM8Kn2PmH9QOXnCWY5vJfeIGaXIEm9WwTfXWt8MX4YO1gJAK+GeoJJGELGdu81Pj26nQtwCdU0Rr0SnCNuj3f6MCZZ5BQarGY0jxQ==;CKX0Uv0CnxAobFYkX58Zog=="
 ---

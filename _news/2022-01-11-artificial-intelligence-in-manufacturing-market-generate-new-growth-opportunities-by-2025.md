@@ -39,6 +39,20 @@ related:
         width: 790
         height: 466
         isCached: true
+  - title: "Global Artificial Intelligence in Supply Chain Management Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Global Artificial Intelligence in Supply Chain Management Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This report examines the importance of AI in transforming SCM,"
+    publishedDateTime: 2022-01-14T10:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-41112fb94b9c4916be089a6a02100106"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "6OIn4bjXQPnFYFlWdNPBTNgy+L3buArEP/atzlgUaIvuExpb4HHjrc6iKyjau1B+n6vdN4W7+nCIGC2t8uqY6rXcrLeMduxIZEm8g1hwK5fH3dg9ya8H6yHjui0FPzj/3UaZtNAPrMMEmtCTQjFCFsjHUF4gJegLa4TXuD+NWtPQoQx4ij+7GMDHsVgRtCQ3TeVqMn8zRHZ87oOPv1iL3jDcE1MGKFHmMxLxsJnZuEZp2XzhOTXJWCNrt8UyCdl8400ZX5SqB2N0GQN/U2RoPDNA7QtZ1FSBOtaoRyOyXQrvCukFrmS/mKnWyOvjkg7NQkbU0xsnoEfL+aXbzpGM/i6tRH3A6OyXwpt/icP7Zzc=;3H0Try0oJiZk5NfUk4jKdg=="
 ---

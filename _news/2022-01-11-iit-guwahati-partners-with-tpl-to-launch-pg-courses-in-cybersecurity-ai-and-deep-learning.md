@@ -60,20 +60,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "IIT-Guwahati To Start PG Programmes in Cybersecurity, Artificial Intelligence And Deep Learning"
-    excerpt: "The candidates can apply for the programme on the official website of IIT Guwahati- iitg.ac.in. The candidates required to have a minimum of 50 per cent marks in bachelor's degree and least two years"
-    publishedDateTime: 2022-01-10T13:21:00Z
-    webUrl: "https://www.ndtv.com/education/iit-guwahat-starts-pg-programmes-in-cybersecurity-artificial-intelligence-deep-leraning-iitg-ac-in"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 42
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2022/1/10/IIT_GA_860.jpeg"
-        width: 860
-        height: 430
-        isCached: true
   - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
     excerpt: "Indian Institute of Technology Guwahati (IITG) and Times Professional Learning (TPL), under its brand The Second Wind (TimesTSW), have launched the Post Graduate Certificate Programme in Cybersecurity"
     publishedDateTime: 2022-01-11T11:50:00Z

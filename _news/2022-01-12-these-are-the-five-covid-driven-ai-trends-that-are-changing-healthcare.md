@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Electronics companies are changing the face of car manufacturing"
+    excerpt: "For most of the history of motor vehicles, in-car electronics has lagged behind the rest of the consumer industry. Now, that's changing, and, perhaps, electronics companies might have an advantage."
+    publishedDateTime: 2022-01-14T12:31:00Z
+    webUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing"
+    ampWebUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
+    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
+    type: article
+    provider:
+      name: redsharknews.com
+      domain: redsharknews.com
+    quality: 24
   - title: "This New AI-Driven At-Home COVID Test Delivers Your Results Digitally"
     excerpt: "The newly launched BD Veritor At-Home COVID-19 Test uses AI technology to promote better accuracy by reducing human error and allows you to share your results digitally with friends, family, coworkers,"
     publishedDateTime: 2022-01-14T02:58:00Z

@@ -2,6 +2,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-04-start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast.md",
+      "title": "Start the New Year Right with TheDetroitBureau’s Headlight News Podcast",
+      "excerpt": "TheDetroitBureau.com covers the top stories occurring in the auto industry in the latest edition of the Headlight News podcast. The weekly roundup includes news, features, reviews and more. The on-again,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedetroitbureau.com/2021/12/geelys-zeekr-to-build-autonomous-vehicles-for-waymo/",
+      "originalUrl": "https://www.thedetroitbureau.com/2022/01/start-the-new-year-right-with-thedetroitbureaus-headlight-news-podcast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thedetroitbureau.com/wp-content/uploads/2021/12/waymo_zeekr-3.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T15:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheDetroitBureau",
+        "domain": "thedetroitbureau.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-logistics-robots-market-size-forecasted-to-reach-valuation-of-usd-1493-billion-in-2027.md",
       "title": "Logistics Robots Market Size Forecasted to Reach Valuation of USD 14.93 Billion in 2027",
       "excerpt": "The global logistics robots market size is expected to reach USD 14.93 billion in 2027 and register a CAGR of 15.3% during the forecast period. Increasing online retail trade and e-commerce has resulted in requirement of logistics robots for quick delivery.",
@@ -1117,48 +1159,6 @@
       "provider": {
         "name": "gadget.co.za",
         "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-what-to-consider-while-planning-ai-budget-for-2022.md",
-      "title": "What to consider while planning AI budget for 2022",
-      "excerpt": "When planning for AI, the budget does not only include the implementation and software costs. There’s a lot more to AI budgets than meets the eye.",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-88652471,imgsize-36498,width-1200,height-628,overlay-etcio/what-to-consider-while-planning-ai-budget-for-2022.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
-      "publishedDateTime": "2022-01-02T17:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null

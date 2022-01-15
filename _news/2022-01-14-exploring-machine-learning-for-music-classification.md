@@ -39,6 +39,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Artificial Intelligence in the Education Sector Market Size, Share, Growth, Trend and Forecast Till 2027"
+    excerpt: "The global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 SURREY, B"
+    publishedDateTime: 2022-01-11T06:51:00Z
+    webUrl: "https://menafn.com/1103517967/Artificial-Intelligence-in-the-Education-Sector-Market-Size-Share-Growth-Trend-and-Forecast-Till-2027"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?740404"
+        width: 374
+        height: 250
+        isCached: true
 
 secured: "CMo6nI8UaO8NsR+td5KlVSo8HGbWJUrX4UBiQ0A3eT3ofwMtPW90O6oJJBjZZQyn9tShaHLktQVN8CQTNis/fZpMfBJrcttn6EOSy/Ubu+vdwxZESuYqlnEevCLK6V9qkGELS/xPY8S8ufRjiUVZSN5wdU4jZxnEbRBJ4wuxLNoN+ldl6iG4zDSxjY63YWsRg5Z4V/34yWhgrBDDpZKJPHu1LcxI0IK8qQ2gsgR1f2pStEwCkQAf9Xnq5KtUgDEtys0vfWW6OElKT2YIU8eaFzY3r5c5F56hl3VvnqEh8V1rtlmsmE+J8ZVcT5GVe29esn/mbJIF2cwh5MlxFCpH7shpQGCxlOh3IN2hvGEKx7Y=;m3vReMRji3qn2I/w6CDj+g=="
 ---

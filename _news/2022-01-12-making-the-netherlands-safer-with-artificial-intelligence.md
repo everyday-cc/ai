@@ -56,15 +56,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Thankful Expands To Europe"
-    excerpt: "Venice, California-based AI customer service software developer Thankful said today that it is expanding into the European market, via a partnership with Netherlands-based Dixa. According to the companies,"
-    publishedDateTime: 2022-01-10T13:59:00Z
-    webUrl: "https://www.socaltech.com/thankful_expands_to_europe/s-0082072.html"
-    type: article
-    provider:
-      name: SocalTech
-      domain: socaltech.com
-    quality: 4
 
 secured: "2bbWlqQghEpxEhbgbnaqOp5UbECZBHLQfKiI6KtuWIl+2Z0InKxXu32X/skoLzpN8lNI7dnATUD1d6D8pDd/VBhtaFQ7/m7EWh7RfflAwbmKrYK9HKat0yD279BBlBNYFZUIDxKBAap58XwP6XeDpvFcruHefyGjADUUJN5+UMpiozyLm3gzJV1f2iA48qh/6ZkMuygeiuYra8N9kv0IShVdFJGUq2nX/5fxiQ6sVqh/yCAAAXBMcWBdqWckgtHztuAI0we8WCUYaiRcKnDdn18fGSJI/OuKeEVODSpYxtW020ncZKSS7KDuB7gOIMMCFPFEe1BMG09cJxpC8WSLAvX+EIHnMPppcb1DnYwZ3Ro=;K/oBmE+NFKjz1S98SSbPLA=="
 ---

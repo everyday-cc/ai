@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advantage One Credit Union selects Scienaptic’s AI-Powered Credit underwriting platform"
-    excerpt: "Leading AI-powered credit decision platform provider, Scienaptic announced today that Advantage One Credit Union has chosen its AI-based underwriting platform to complement its lending process and make advanced loan decisions."
-    publishedDateTime: 2022-01-10T14:13:00Z
-    webUrl: "https://www.cuinsight.com/press-release/advantage-one-credit-union-selects-scienaptics-ai-powered-credit-underwriting-platform"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 29
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
   - title: "Pathr.ai Announces Strategic Partnership with Ombori to Accelerate Growth for Retailers"
     excerpt: "Pathr.ai , the industry's first and only artificial intelligence (AI) powered spatial intelligence platform, announced today it is partnering with Ombori , a forward-thinking retail technology firm, delivering the next generation of retail solutions."
     publishedDateTime: 2022-01-14T07:41:00Z
@@ -52,6 +38,15 @@ related:
         width: 370
         height: 250
         isCached: true
+  - title: "Scienaptic’s AI-Powered Credit Decisioning Platform Wins 2022 BIG Innovation Award"
+    excerpt: "Leading AI-powered credit decisioning disruptor Scienaptic AI has been named a winner in the 2022 BIG Innovation Awards."
+    publishedDateTime: 2022-01-11T19:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20220111005187/en/Scienaptic’s-AI-Powered-Credit-Decisioning-Platform-Wins-2022-BIG-Innovation-Award"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
 
 secured: "NQdXwRY/YWalCGLnV7D0arhHVd9AEeXvfatmaY8t4n6B+BX98p9pl6mBjibu/fIuf0PDl0TPYAyb5CiJMDwQHPgSkB8rGeULajSLnbPmCfLfW9ige215cSvOqGty7DMZoq3+cvxJF36sWPM3EfUTUkGOVVBwHT4AuOZntx1ONM5ND4tDe8QPhIhDVHti7WEfbwXWB0/uyh/PcX9iml7mYZp9sv3G0CRRwHioxffPmA+IHMtlLsL+SZejkHlyDS+v7/+qTBb9ruFD9qCeYve16nDy3MkNWRep3y4AWvrUzo994uN3FDoRZVZEOcSKe61CY9gRGgIvuAbJvky/2c0OGdb2lAoHN1eCRx4iSkBCqRw=;rbHUwOJlT7V81hjGhMkXPQ=="
 ---

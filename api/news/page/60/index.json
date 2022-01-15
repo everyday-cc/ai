@@ -2,6 +2,49 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2021-11-27-uae-launches-first-driverless-autonomous-vehicle.md",
+      "title": "UAE launches first driverless autonomous vehicle",
+      "excerpt": "The driverless and 100% electric shuttle is one of the first-ever autonomous vehicles to be deployed in the UAE in a ‘mixed traffic mode’, as it can drive on the road with other cars",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/business/story/UAE_launches_first_driverless_autonomous_vehicle-WAM20211127065004189/",
+      "originalUrl": "https://www.zawya.com/mena/en/business/story/UAE_launches_first_driverless_autonomous_vehicle-WAM20211127065004189/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/210304070927YBEN.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/WAM20211127065004189/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20211127065004189/",
+      "publishedDateTime": "2021-11-27T01:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-27-itll-be-a-while-fully-automated-driverless-cars-are-further-away-than-you-think.md",
       "title": "It'll Be A While: Fully Automated, Driverless Cars Are Further Away Than You Think",
       "excerpt": "Thus was born Google's Chauffeur project, now Waymo. \"Imagine ... all of the hurdles still to be overcome are related to artificial intelligence-related driving. There's cyber-security.",
@@ -1081,49 +1124,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-26-christiano-cotra-and-yudkowsky-on-ai-progress.md",
-      "title": "Christiano, Cotra, and Yudkowsky on AI progress",
-      "excerpt": "This post is a transcript of a discussion between Paul Christiano, Ajeya Cotra, and Eliezer Yudkowsky on AGI forecasting, following up on Paul and Eliezer's \"Takeoff Speeds\" discussion. Color key: Chat by Paul and EliezerChat by Ajeya 8.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
-      "originalUrl": "https://www.lesswrong.com/posts/7MCqRnZzvszsxgtJi/christiano-cotra-and-yudkowsky-on-ai-progress",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.discordapp.com/attachments/887568029733519391/889924404392370226/ChessEnginePerformance.png",
-          "width": 1146,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LessWrong",
-        "domain": "lesswrong.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

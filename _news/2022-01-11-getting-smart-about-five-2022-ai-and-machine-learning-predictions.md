@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/"
 type: article
 quality: 106
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://cdn.thenewstack.io/media/2022/01/67e2a21e-tns-shorts-awsmachine-learning.png"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "How AI and machine learning can transform construction"
-    excerpt: "Karthik Venkatasubramanian extols the benefits of AI and machine learning and how they can be incorporated into a successful data strategy."
-    publishedDateTime: 2022-01-10T14:59:00Z
-    webUrl: "https://www.bimplus.co.uk/how-ai-and-machine-learning-can-transform-construction/"
-    type: article
-    provider:
-      name: bimplus.co.uk
-      domain: bimplus.co.uk
-    quality: 54
-    images:
-      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/01/Karthik-headshot.jpg"
-        width: 750
-        height: 422
         isCached: true
   - title: "Small Data, AI and ML - Predicting Coup d'état"
     excerpt: "Can AI / ML spot countries at risk of a sudden change in leadership in a coup attempt? Looks like so. Researchers at the University of Central Florida are working with a system called CoupCast to estimate the likelihood that an individual country will undergo a coup d’état."

@@ -2,6 +2,48 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-01-03-what-to-consider-while-planning-ai-budget-for-2022.md",
+      "title": "What to consider while planning AI budget for 2022",
+      "excerpt": "When planning for AI, the budget does not only include the implementation and software costs. There’s a lot more to AI budgets than meets the eye.",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-88652471,imgsize-36498,width-1200,height-628,overlay-etcio/what-to-consider-while-planning-ai-budget-for-2022.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/what-to-consider-while-planning-ai-budget-for-2022/88652471",
+      "publishedDateTime": "2022-01-02T17:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-tesla-rival-races-to-introduce-driverless-cars-by-2024.md",
       "title": "Tesla rival races to introduce driverless cars by 2024",
       "excerpt": "Making predictions about technology is a notoriously dangerous sport, and the onset of driverless cars is a particularly perilous thing to forecast. Google once pledged that the public would be able to buy robot vehicles from 2020 - a deadline that Toyota,",
@@ -1062,59 +1104,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down.md",
-      "title": "Microsoft Has Become One Of The Most Powerful Forces In Healthcare, With No Signs Of Slowing Down",
-      "excerpt": "Microsoft announced its latest venture in healthcare, adding on to its existing repertoire in this industry. In a groundbreaking statement, the technology and innovation giant announced a partnership with renowned pharmaceutical company CVS Health to “reimagine personalized care and accelerate digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ce208dfb05e99a9755465d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4861%26cropY1%3D0%26cropY2%3D2865",
-          "width": 1200,
-          "height": 707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2021/12/30/microsoft-has-become-one-of-the-most-powerful-forces-in-healthcare-with-no-signs-of-slowing-down/amp/",
-      "publishedDateTime": "2021-12-30T12:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

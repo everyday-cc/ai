@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 940
         height: 443
         isCached: true
-  - title: "Johnson & Johnson Medical Devices Companies Announces Strategic Partnership with Microsoft to Further Enable its Digital Surgery Solutions"
-    excerpt: "The Johnson & Johnson Medical Devices Companies (JJMDC)* today announced that it will collaborate with Microsoft to further enable and expand JJMDC's secure and compliant digital surgery ecosystem. The Microsoft Cloud will help JJMDC realize its vision of driving innovation that advances skills,"
-    publishedDateTime: 2022-01-10T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/johnson-johnson-medical-devices-companies-announces-strategic-partnership-with-microsoft-to-further-enable-its-digital-surgery-solutions-1031090788"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 15
 
 secured: "Tc4jotMkOVR9/jpPtvZ6mZ/NhscIFwAKoEBb++Bf7sTdYcBJdOV4Rr9H4x35LW5MNfCsNQdngdRq3yAx9NOIXh4cTOsXhri7fXRCrrT15r9/tizZqX8hLIaE6mPYfYOAoiB4//Zbjk8KVaYQwS5jpVEVE41+0uz8lre8lroAtz7I/C08KcMgfe5HfPLIpf8T/+nt09YTdYrqBUqpmtUyhffGjxRbTgsobQFhVIMzHQdv7Np+Ta/7aoB6793E0ECBYgxPCkT3X9sXw/VRjiJRtYqqBdiKq+1hYGtDXILeAuGWhWWAJwu0CrMlWQZTwqcJTSEOGn4d0mAJXopam3B5rMytNgy+M4gBtR1e0YxjXPc=;gZVwWGtIVyaFOqC9noe6Gw=="
 ---

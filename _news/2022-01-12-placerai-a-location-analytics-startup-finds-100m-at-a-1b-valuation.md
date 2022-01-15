@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-sta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
 type: article
 quality: 187
-heat: 337
+heat: 327
 published: true
 
 provider:
@@ -216,15 +216,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
-    publishedDateTime: 2022-01-10T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
 
 secured: "trg3E/s8c2f68cViwIhA3eLOuzawGyFndWKUpbJcD3jswjX1tuWp7aLRwBYc3ucSpalrvBtxrWEWxtde1oplJSmlwTBbxz6Gfwg4Iu90tGi+2QiCGS8k4RGPGzjBkg5HfTiU+GwXr35dkWniq1bEy08Eph1tfSZOvHKbqt+YiPUi68hJJk97grlFM9+qL34SPX/XzHcy9fV+tgOPxvIkN6dt0Akusj26wZKvVbxKiNvfF61mxpT9MCf1jUVsqDrtlr3sC+UMMNQ1PpKONzIhh717SGT3CIssSzYJ+ZxRwTbyzg/gJDE0r5QstWfCdIaNF5EblD55ZWWa3kbh313lcgaI+WKTEzPB7sjwbjCaL1b61SMzfEVb2WumrOunvBRu5z17Dn0l84aeei3fRRTsoqLyuQv9FKcXQikfsSvTjk2Zwc/y9bTyicK1E1nZ2lSmJ+nXLK0V9vEhoV9qeF9bhkLnXhiUIbg+AWUQquAQFwAmmISpWabgjqhPfhOJ12t9zRgYaocOZ7Fy1zWNojtydCmH8z97PBxh/Lz4PsAiqSA=;MEoUdtoBD3TJ48NpIeuWKw=="
 ---

@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Allied Market Research: Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR: AMR"
-    excerpt: "Rise in need for smart homes & smart cities, advent of quantum computing, and surge in investments in AI startups drive the growth of the global artificial intelligence chip market. PORTLAND"
-    publishedDateTime: 2022-01-10T13:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54932643-allied-market-research-artificial-intelligence-chip-market-to-reach-dollar-194-9-bn-globally-by-2030-at-37-4-cagr-amr-008.htm"
+  - title: "AI research collaboration begins"
+    excerpt: "An associate professor in RIT’s College of Liberal Arts was awarded nearly $2 million by the National Science Foundation to lead a team of RIT faculty addressing a lack of diversity in the artificial intelligence research community and gaps in AI curricula."
+    publishedDateTime: 2022-01-13T09:55:00Z
+    webUrl: "https://www.rit.edu/news/ai-research-collaboration-begins"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 39
+      name: Rochester Institute of Technology
+      domain: rit.edu
+    quality: 37
     images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Global Artificial Intelligence in Supply Chain Management Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
-    excerpt: "The “Global Artificial Intelligence in Supply Chain Management Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This report examines the importance of AI in transforming SCM,"
-    publishedDateTime: 2022-01-14T10:47:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-41112fb94b9c4916be089a6a02100106"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 26
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \"Computer Vision Market by Component (Hardware, Software and Services), Product"
-    publishedDateTime: 2022-01-13T23:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-301460566.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
+      - url: "https://www.rit.edu/sites/rit.edu/files/styles/full/https/cdn.rit.edu/images/news/2022-01/AI-research-ASW_4898.jpg?itok=9cjuXLTQ"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "+GPMF9ainU/aw4fIereScQb/JOu6aoRHZNQItM2y0xOvFTYDzOYTKgBL9BxBH0dV0/BHgnCdc26WYKXjQGK4Aq0chsM9oEgyNUQrKBg4YxKEDXtto3r2vPRJh3J6EjhE0ilJCcjJ/UzSQyFZcN6rEBc8idLPSDZQAoWzwoes2A8s7McSB7v69O1qwNHxrBpktGInNQc8DhzCHip0IiMfeXoenzSY+cp00W38428aOiKXmbex+nw+VW6nzslY3RENeaURR8/w/Fq6BCkGyryDR5EbPLRolYM+7Gc6n+a/F1Kyi+/9J1GunSeRz1u1eyEcA6gqIcUV1cJWDd14C58bN2hhMAqQuJ+J4iV88wuZG68=;D5xxF1SrHAAPkN72r4x8+Q=="

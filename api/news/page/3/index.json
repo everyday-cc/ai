@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-13-machine-learning-ai-used-to-rapidly-detect-sepsis.md",
+      "title": "Machine learning, AI used to rapidly detect sepsis",
+      "excerpt": "Sepsis strikes roughly 2 million people each year and is the cause of one in three hospital deaths in the United States, according to the Centers for Disease Control and Prevention. “Sepsis is the body’s extreme response to an infection and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
+      "originalUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ajc.com/resizer/8fTbEGrlh6x5xJYQWrHSKMW_Q68=/1200x630/d1fegwn2wjh0cs.cloudfront.net/01-12-2022/t_966c65e132e24545b6b37ee7896e70eb_name_sepsis.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp",
+      "publishedDateTime": "2022-01-12T09:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Atlanta Journal-Constitution",
+        "domain": "ajc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-how-to-close-more-deals-with-artificial-intelligence.md",
       "title": "How To Close More Deals With Artificial Intelligence",
       "excerpt": "These days, responsiveness is the number one determining factor between businesses that can and can’t go the distance in the midst of huge external challenges.",
@@ -95,7 +138,7 @@
       "originalUrl": "https://www.msn.com/en-us/lifestyle/shopping/nuro-announces-3rd-gen-driverless-delivery-vehicle/ar-AASHHCc",
       "featuredContent": null,
       "highlight": null,
-      "heat": 219,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -189,7 +232,7 @@
       "originalUrl": "https://seekingalpha.com/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -284,7 +327,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 337,
+      "heat": 327,
       "tags": null,
       "images": [
         {
@@ -852,7 +895,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -904,7 +947,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1127,59 +1170,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker.md",
-      "title": "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker",
-      "excerpt": "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/10/ML-5350-image007-1260x501.png",
-          "width": 1260,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T12:05:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

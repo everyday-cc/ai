@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How COVID broke supply chains, and how AI and blockchain could fix them"
-    excerpt: "When the coronavirus crisis erupted in 2020, it became apparent that the medical emergency was accompanied by severe shortages, especially in some medical devices."
-    publishedDateTime: 2022-01-10T13:25:00Z
-    webUrl: "https://phys.org/news/2022-01-covid-broke-chains-ai-blockchain.html"
-    ampWebUrl: "https://phys.org/news/2022-01-covid-broke-chains-ai-blockchain.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-covid-broke-chains-ai-blockchain.amp"
+  - title: "Building blocks of a cloud-native AI data centre – part I"
+    excerpt: "Cloud-native supercomputer architecture aims to maintain the fastest possible compute, storage and network performance while meeting cloud services requirements, says Werner Coetzee, business development executive at Data Sciences Corporation."
+    publishedDateTime: 2022-01-13T06:36:00Z
+    webUrl: "https://www.itweb.co.za/content/G98YdMLY1aAqX2PD"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/G98YdMLY1aAqX2PD"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/G98YdMLY1aAqX2PD"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
+      name: ITWeb
+      domain: itweb.co.za
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/how-covid-broke-supply.jpg"
-        width: 1000
-        height: 665
-        isCached: true
-  - title: "Artificial Intelligence May Help in the Fight Against COVID-19"
-    excerpt: "Novel machine learning framework could alleviate the work of radiologists by providing fast and accurate disease diagnosis. Click here if this is your press release! - eTurboNews | Trends | Travel New"
-    publishedDateTime: 2022-01-13T02:30:00Z
-    webUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 54
-    images:
-      - url: "https://eturbonews.com/wp-content/uploads/2022/01/A-HOLD-FreeRelease-1.jpg"
-        width: 557
-        height: 386
+      - url: "https://lh3.googleusercontent.com/z5OfrBnxum0G4sy1X-he2-kNZSrtFrbC1noY8PBCsOI-QuFuuqPWFTS3PIh2jMLJhgZxGuuNexVbC4vvC-rzZ1M=w816-h428"
+        width: 761
+        height: 428
         isCached: true
 
 secured: "kF7kPrM/qDkhIdqEj1asn4stLgFO5Y7pB9mD0ZKoDtsVeF2LLz4B1P/B16vNyx48I4tedChjUIQtpoq7CkTiKs9uzGr8fEkVQHfwi8lAf8VLrGzOoDhcMm4f87RX+CHYW3uNUEmXVVOEAfUTPJ3JtgI2UIUvFQ7YaGf2pGJ12z8ZHJvyhVI6BciYgIyjP6wioaVXfdBANRJORqLtbiS6CIaS307rGgLtUVtqIRC+KSO9uG0I0Y6WACemlaOWSJrCfu71Hm36I4R+UUA4k/4flhBJHNllg5RGeDkCJX9Qej1ZceB6jLF7vKCwpdBDjNf4xzIMqqSpRRPJV28wkMHSbzGdzASB9ey8+ldCLsLdFFY=;qzlTol/SOhP7MmQdrSpacw=="

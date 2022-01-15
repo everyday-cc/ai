@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-11-watch-this-self-driving-racecar-go-173-mph-with-no-human-driver-inside.md",
+      "title": "Watch this self-driving racecar go 173 mph with no human driver inside",
+      "excerpt": "Autonomous racecars competed head-to-head at the Indy Autonomous Challenge at CES. The competition aims to improve self-driving technology for use on and off the racetrack.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
+      "originalUrl": "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220110165120-polimove-self-driving-racecar-super-tease.jpeg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
+      "publishedDateTime": "2022-01-10T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond.md",
       "title": "Khris Digital Marketing Offers Unique Insight on the Future of AI Copywriting in 2022 and Beyond",
       "excerpt": "With 2021 squarely in the rearview, digital marketing thought leader Khris Steven of Khris Digital Marketing is breaking down what the future of AI copywriting tools and",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 178,
       "tags": null,
       "images": [
         {
@@ -1165,57 +1217,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-softbank-invests-in-artificial-intelligence-startup-qraft-technologies.md",
-      "title": "SoftBank Invests in Artificial-Intelligence Startup Qraft Technologies",
-      "excerpt": "Qraft Technologies plans to use the $146 million investment to fuel U.S. and China expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "originalUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-464080/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "publishedDateTime": "2022-01-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

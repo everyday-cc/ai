@@ -9,7 +9,7 @@ ampWebUrl: "https://wgnradio.com/chicagos-afternoon-news/career-vision-companies
 cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/amp/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,19 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: Using AI and machine learning to improve the health insurance process"
-    excerpt: "In the past decade, health insurance companies have been looking to artificial intelligence (AI) and machine learning to identify at-risk individuals and reduce rising costs in the healthcare sphere."
-    publishedDateTime: 2022-01-10T14:16:00Z
-    webUrl: "https://www.healthleadersmedia.com/payer/opinion-using-ai-and-machine-learning-improve-health-insurance-process"
+  - title: "The metaverse is coming. Are your ethics ready?"
+    excerpt: "The metaverse allows us to build new constructs with digital avatars; perhaps a unique avatar for each version of self, or at minimum, an avatar that can literally be everywhere at once. It allows people to explore different facets of their personality in ways physical society does not often permit."
+    publishedDateTime: 2022-01-12T15:30:00Z
+    webUrl: "https://www.fastcompany.com/90712458/the-metaverse-is-coming-are-your-ethics-ready"
     type: article
     provider:
-      name: HealthLeaders Media
-      domain: healthleadersmedia.com
-    quality: 50
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 39
     images:
-      - url: "https://www.healthleadersmedia.com/sites/hlmp/files/files/ogdefault.jpg"
-        width: 820
-        height: 312
+      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/01/The-metaverse-is-coming.-Are-your-ethics-ready_.png"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Using AI for Real-Time Engineering Decisions"
+    excerpt: "MathWorks’ Heather Gorr explains how engineers can apply artificial intelligence to real-time engineering decisions, as well as the issues involving data synchronization."
+    publishedDateTime: 2022-01-12T16:41:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21213913/electronic-design-using-ai-for-realtime-engineering-decisions"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 37
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/01/AI_engineering_promo.61df026b7f048.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "TyiOk6sWmXluDGhT6ziAofjG2kzRuSLKOm/Vk+mDUPHOt3WMXnpgxv410OYhnnHsAc3xYy7d0kBjVt4dFgLjZlij+8v2LjMoCXL3KKxK0VC8pmoHhMEoKEMmB37JSI9+GWWIPjDwi4c5QzLnL6cVzswBDlSTqkcZQlGfh+vt7odY6cxZAK/cSOGkwJfJ5MzY9HwGlayJOdzvQtNy05379e93TOcbs6HaGNJvUeNfjCr9VTIBV5RRNlEiADU9uu8QvKnMD6eLrwp8I/f3WqN2pbm8DSE2VyczR9KReQgSbkdtSYzvY6vwOM2PemiCmOTb1uzgzOWlFUGmxT7Yt2WrnIeMHsREGZur2nOktXimIrY0WY5eeOnmfWdUoTKJFi8xAeEANqCa0h9gMdJhOV+l0vdli5U6pkGeb10ipppW/gYOuP735mTeVh360JIubpfVQ0h5j4xqUNToqHTc4YoZpJRxkP7q7453r0W5EkhIiFjI2BbzD6DMOgJ4UT3A+vAaysyN+ZSP9Yb2K4+bWOzrGQ==;BuMtj6Pdxz/MluYiN5K+CQ=="

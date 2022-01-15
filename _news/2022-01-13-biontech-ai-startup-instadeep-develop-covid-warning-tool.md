@@ -9,8 +9,8 @@ ampWebUrl: "https://www.pymnts.com/coronavirus/2022/biontech-ai-startup-instadee
 cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/coronavirus/2022/biontech-ai-startup-instadeep-develop-covid-warning-tool/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: pymnts.com
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence May Help in the Fight Against COVID-19"
+    excerpt: "Novel machine learning framework could alleviate the work of radiologists by providing fast and accurate disease diagnosis. Click here if this is your press release! - eTurboNews | Trends | Travel New"
+    publishedDateTime: 2022-01-13T02:30:00Z
+    webUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 54
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/01/A-HOLD-FreeRelease-1.jpg"
+        width: 557
+        height: 386
+        isCached: true
   - title: "BioNTech and AI start-up develop tool to predict high-risk coronavirus variants"
     excerpt: "A new early warning system can predict the highest-risk coronavirus variants simply from their genetic code, alerting health authorities and vaccine developers to the potential risks months before they spread,"
     publishedDateTime: 2022-01-12T17:22:00Z

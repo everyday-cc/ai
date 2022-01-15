@@ -40,14 +40,19 @@ related:
         height: 450
         isCached: true
   - title: "Healthcare Claims Management Global Outlook & Forecast 2022-2027: Advancement of Automated Medical Billing and Management - ResearchAndMarkets.com"
-    excerpt: "The \"Healthcare Claims Management Market - Global Outlook & Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. Artificial Intelligence (AI) has transformed various industries across the globe and radically can alter the healthcare field."
-    publishedDateTime: 2022-01-13T14:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-healthcare-claims-management-global-outlook-forecast-2022-2027-/2022/01/13/9526038.htm"
+    excerpt: "The “Healthcare Claims Management Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. Artificial Intelligence (AI) has transformed various industries across the globe and radically can alter the healthcare field."
+    publishedDateTime: 2022-01-13T14:49:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-middle-east-artificial-intelligence-b0abe251e34c422f81ef6c2ced6229f0"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 16
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "jYxQrNZdBvwmcquc8Hx/YYQ5VFrd0R4AJkEVbalGUqlBdx+LJGjNXpZFlwL5OxqkvZGoQb5nH1JxGKmqOVliKnfjyl6gAVYZMEuqyAGbxB0Q8O7q+0nlChF3WPpW8p1zBVhLgZmy7zDEcJizYcO3wPb+9ojL0X7c+taTtE5r+zP7eMys327DwzYbj7eGmJAi16tndSkbuUi+QK3czB72dD6WBq/xQ1x/cO9oonhXLkwS06yySzmnKSIvO1uk29GpbtgGlUSnTPANHc3CCFn7ezdeHkxPIUvx83ZX3+H2SOMXwntCC26blaETlMsVWyLOjRxdvrDL9Wpnf6TuMuR8EPmL4keG+uBblEcdshRXYjY=;aGPf+nScPS6nTcyTOdU6Rg=="
 ---

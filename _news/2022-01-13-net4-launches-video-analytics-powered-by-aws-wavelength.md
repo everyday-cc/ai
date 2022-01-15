@@ -75,22 +75,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics: Report"
-    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022. With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI,"
-    publishedDateTime: 2022-01-10T14:14:00Z
-    webUrl: "https://www.business-standard.com/article/companies/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-report-122011001150_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-report-122011001150_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-report-122011001150_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 42
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2017-08/20/full/1503167956-4621.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Machine Learning to Power the Future of Streaming Analytics"
     excerpt: "The incredible amount of data that will be generated in the next few years demands help to manage, mostly in the form of machine learning algorithms."
     publishedDateTime: 2022-01-13T10:15:00Z
@@ -104,22 +88,6 @@ related:
       - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/machinelearning4.jpg"
         width: 976
         height: 400
-        isCached: true
-  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
-    excerpt: "With 2021 being the year of recovery, hiring demand in tech-enabled sectors such as IT, banking, financial services and insurance (BFSI), AI and machine learning will continue to grow in 2022."
-    publishedDateTime: 2022-01-10T13:35:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/articleshow/88814127.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/tech-bytes/2022-to-see-rise-in-adoption-of-chatbots-hiring-in-data-analytics-growth-of-fintech-report/amp_articleshow/88814127.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 33
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-665726,msid-88814157/technology.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
     excerpt: "With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI, the role of AI and machine learning will only continue to grow in 2022, with a significant increase in the demand for related roles,"

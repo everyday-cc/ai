@@ -38,20 +38,6 @@ related:
         width: 966
         height: 578
         isCached: true
-  - title: "Root Insurance Adds AI to Claims Operations"
-    excerpt: "Root will launch the partnership with the AI Subro solution from Tractable. “Implementing AI effectively will set the next generation of insurers apart from incumbents by creating greater efficiencies and a frictionless experience for consumers."
-    publishedDateTime: 2022-01-10T14:33:00Z
-    webUrl: "https://www.fenderbender.com/articles/17289-root-insurance-adds-ai-to-claims-operations"
-    type: article
-    provider:
-      name: FenderBender
-      domain: fenderbender.com
-    quality: 37
-    images:
-      - url: "https://www.fenderbender.com/ext/resources/2021/09/02/pexels-pixabay-373543.jpg?height=635&t=1631180410&width=1200"
-        width: 777
-        height: 518
-        isCached: true
 
 secured: "lZSRoZ6pfMPpFWBAjChSuuJbdJ1U2Vuo7pS3jyaBliIAD2ggR3+GhZGRhjkRo5qMejrWOb0GtgyDutQMcapDLieoXGkQhXtG4KB9fgNk2Rn4cI4EFyf1At3U8dbQPvd696XYQy43Bfteg8G+O96BB32zYUzWZvFgAKLRkcr+ZP2ZUoI0V/cXiMZL+PI3ZGFDL5HbYKc1YdX6eoLC+PPhDt9PNPlAIZf5wU5bVHJdiNJI6nQriYScFk+HTesq2cHoPeQAtml79EuxYvkVaps0rqGaWzGwMPrC7KuYuMxIb5FAokZZS5M8/a58JXJZyLkoI1Zqdz4q/HrQT0Q2zxqJ6UJLiDYiXS3MM9wPy677wis=;pYTuGafvSqs+1INXid7i+Q=="
 ---

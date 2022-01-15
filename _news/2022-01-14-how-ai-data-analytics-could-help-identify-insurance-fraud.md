@@ -212,15 +212,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
-  - title: "SymphonyAI Earns First Place In Business AI and Data Science Analytics Datathon"
-    excerpt: "SymphonyAI, a leader in high-value enterprise AI software solutions for strategic industries, announced it earned first place in the ISB Datathon Case Competition 2021 for advanced analytics and data science."
-    publishedDateTime: 2022-01-10T14:41:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1229637&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 13
 
 secured: "3LqhC9VlovmSws79+V5z3F4R2i89phl31ioCCgSt9yw5yWUSYL21VU/agZ9o/WshNMHxhLJE9ShcGksz7DKtB4V9FS8sQktqIRVLxsCIOugNBTmzYuG3koevg8hRyi0ToH+qyp3pP9R57KG5nGOpA3xgdTabdiU8Ofr8BF+IncJzAYcUw4oaL5fwZfsc6TZharGXmEKzzJfvU7yEnD9i8VmLwNXMhqCVbQ5QWrQ+Fw9cCz4bDCIFwLrhPDbvUQ/5rmpHeytGiZS0+Zc6cOsKPs8VynyFm/nwuS3PrLGnWDyunvV4Albn21uCtx58IxQF/5BAxSE7InVM874nYchgiEhKeEZwMc77AILWL6uKVHc=;i54gEdjdwSyzMYxOgC7YoQ=="
 ---

@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-01-05-the-power-of-deep-learning-in-marketing-campaigns-for-fashion-brands.md",
+      "title": "The Power of Deep Learning in Marketing Campaigns for Fashion Brands",
+      "excerpt": "We can (and do) buy everything online nowadays. There is strong competition in almost every domain, as retailers fight to carve out their digital space, but perhaps no type of online sales is as competitive as fashion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/power-deep-learning-marketing-campaigns-fashion-brands-rob-elms",
+      "originalUrl": "https://www.linkedin.com/pulse/power-deep-learning-marketing-campaigns-fashion-brands-rob-elms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHKIxFSXWTm0g/article-cover_image-shrink_600_2000/0/1641395897480?e=1646870400&v=beta&t=dw-LAm5x5_SjFy813CLh3jNTCzpit4PC0XTti722Ls0",
+          "width": 1559,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T07:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-sensorycloudai-launches-cloud-based-voice-and-vision-ai-services.md",
       "title": "SensoryCloud.ai Launches Cloud-Based Voice and Vision AI Services",
       "excerpt": "Sensory Inc., a Silicon Valley innovator of machine learning solutions for speech recognition and biometric identification, announces the beta release of SensoryCloud.ai,",
@@ -1130,40 +1183,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-self-driving-advances-could-accelerate-in-2022.md",
-      "title": "Self-Driving Advances Could Accelerate in 2022",
-      "excerpt": "The autonomous/self-driving vehicle investment thesis is a mix of frustration and allure, but the latter trait could be highlighted in 2022 as more technological advancements come to pass. Should that happen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "originalUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/self-driving-advances-could-accelerate-in-2022?amp",
-      "publishedDateTime": "2022-01-04T13:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

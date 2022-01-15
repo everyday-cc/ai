@@ -105,20 +105,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "How AI and machine learning can transform construction"
-    excerpt: "Karthik Venkatasubramanian extols the benefits of AI and machine learning and how they can be incorporated into a successful data strategy."
-    publishedDateTime: 2022-01-10T14:59:00Z
-    webUrl: "https://www.bimplus.co.uk/how-ai-and-machine-learning-can-transform-construction/"
-    type: article
-    provider:
-      name: bimplus.co.uk
-      domain: bimplus.co.uk
-    quality: 54
-    images:
-      - url: "https://www.bimplus.co.uk/wp-content/uploads/2022/01/Karthik-headshot.jpg"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "FRvlTV07+PZAHYbi4ap5uvVEQKnJQ7O+j7bviczRzCd+vaOAgVu9EW5gqN3+RoV9ijPHD9cjuhwJfjAK+XkNzxsXw2oOWphjeaLW3jTKzNI2aUUd5lm36/E61jU9ffG9/PDZu4igkvpdxvKR88EIoXI3oOoWiP22TbHXMmKJoj+CyxPIQ2GSowC/gAlqePQgTQ08KS/eWwK4DawfFBYNK/w0V83mUBl2YigVrPLbUsnivhKZUkvwgNj56IkULpOQxOz2se/6/r2knEL+HrwnGP2hhLM1AyDLVwmLbH4jKsFGjwF+jh+m8haLHp2fV1lrT82ZDz93aVZS2lyKpEoC3B8HuMcPtGVzcYMUhTwxgzg=;8Ht5pD4lTfVfqDFndM4CQw=="
 ---

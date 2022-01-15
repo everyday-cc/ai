@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-11-industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker.md",
+      "title": "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker",
+      "excerpt": "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/10/ML-5350-image007-1260x501.png",
+          "width": 1260,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T12:05:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-enterprise-security-at-ces-2022-marked-by-iot-biometrics-and-pc-chips.md",
       "title": "Enterprise Security at CES 2022 Marked by IoT, Biometrics, and PC Chips",
       "excerpt": "Amid the onslaught of mostly consumer-oriented announcements in Las Vegas, a few key items pertaining to enterprise security emerged.",
@@ -614,7 +667,7 @@
       "originalUrl": "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -666,7 +719,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -805,21 +858,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-11-artificial-intelligence-in-finance.md",
-      "title": "Artificial Intelligence in Finance",
-      "excerpt": "Artificial intelligence can free up personnel, improve security measures and ensure that the business is moving in the right technology-advanced, innovative direction. According to Forbes, 70% of financial firms are using machine learning to predict cash ...",
+      "path": "_news/2022-01-11-ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030.md",
+      "title": "AI-Enabled Testing Tools Market revenues will grow at over 13% CAGR through 2030",
+      "excerpt": "As per a most recent report by Future Market Insights (FMI), worldwide AI-Enabled Testing Tools market incomes will develop at more than 13% CAGR through 2030. Telecom firms are utilizing the capability of AI to oversee and evaluate huge volumes of enormous information with an end goal to draw significant bits of knowledge and deal",
       "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/artificial-intelligence-finance-darpan-jain",
-      "originalUrl": "https://www.linkedin.com/pulse/artificial-intelligence-finance-darpan-jain",
+      "webUrl": "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/",
+      "originalUrl": "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEQrOJMJnfqHQ/article-cover_image-shrink_600_2000/0/1641894641709?e=1647475200&v=beta&t=XTsqjuKZ3kCp1K3fZfWUDtFDZdtZUpKao_6jfqlPKxA",
-          "width": 966,
-          "height": 578,
+          "url": "https://techbullion.com/wp-content/uploads/2022/01/AI-Enabled-Testing-Tools.jpg",
+          "width": 2100,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -827,23 +880,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T01:59:00-08:00",
+      "ampWebUrl": "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/",
+      "publishedDateTime": "2022-01-11T01:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -852,8 +896,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Finance"
+        "AI"
       ]
     },
     {
@@ -908,7 +951,7 @@
       "originalUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -1180,58 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-watch-this-self-driving-racecar-go-173-mph-with-no-human-driver-inside.md",
-      "title": "Watch this self-driving racecar go 173 mph with no human driver inside",
-      "excerpt": "Autonomous racecars competed head-to-head at the Indy Autonomous Challenge at CES. The competition aims to improve self-driving technology for use on and off the racetrack.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "originalUrl": "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220110165120-polimove-self-driving-racecar-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "publishedDateTime": "2022-01-10T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

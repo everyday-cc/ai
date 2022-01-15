@@ -2,6 +2,39 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2021-12-12-tega-industries-to-debut-on-december-13-what-could-be-listing-premium.md",
+      "title": "Tega Industries to debut on December 13. What could be listing premium?",
+      "excerpt": "Tega Industries shares were available at a price of Rs 753 per share in the grey market, a massive 66.2 percent or Rs 300 premium over issue price of Rs 453 per share, as per the IPO Watch and IPO Central.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/8ee73509-e364-494e-b4c8-ff9a4f675078",
+      "originalUrl": "https://www.moneycontrol.com/news/business/ipo/tega-industries-to-debut-on-december-13-what-could-be-listing-premium-7816661.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-12T01:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-12-tech-enabled-banking-services-are-the-future-for-the-financial-services-industry.md",
       "title": "Tech-enabled banking services are the future for the financial services industry",
       "excerpt": "As we all know, the COVID-19 pandemic has thrown up many challenges as it has accelerated digital transformation and added urgency across industries. Even prior to the pandemic, the banking sector faced ongoing disruption from fintech entrants into the industry.",
@@ -1117,58 +1150,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-2022-transformations-promise-better-builders-automation-robotics.md",
-      "title": "2022 transformations promise better builders, automation, robotics",
-      "excerpt": "From better automation to robotics, the next year is filled with promise. Here are some of the top predicted transformations in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/12/artificial-intelligence.jpg?w=1200&strip=all",
-          "width": 949,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/2022-transformations-promise-better-business-builders-automation-and-robotics/amp/",
-      "publishedDateTime": "2021-12-10T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

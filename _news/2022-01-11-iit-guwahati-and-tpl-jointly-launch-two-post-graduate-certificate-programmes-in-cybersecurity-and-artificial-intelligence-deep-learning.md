@@ -75,20 +75,6 @@ related:
         width: 800
         height: 420
         isCached: true
-  - title: "IIT-Guwahati To Start PG Programmes in Cybersecurity, Artificial Intelligence And Deep Learning"
-    excerpt: "The candidates can apply for the programme on the official website of IIT Guwahati- iitg.ac.in. The candidates required to have a minimum of 50 per cent marks in bachelor's degree and least two years"
-    publishedDateTime: 2022-01-10T13:21:00Z
-    webUrl: "https://www.ndtv.com/education/iit-guwahat-starts-pg-programmes-in-cybersecurity-artificial-intelligence-deep-leraning-iitg-ac-in"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 42
-    images:
-      - url: "https://cache.careers360.mobi/media/article_images/2022/1/10/IIT_GA_860.jpeg"
-        width: 860
-        height: 430
-        isCached: true
 
 secured: "iUj6Ta71vi/WqgoSurmBgvRIPNilrjYXzIlQtEzbfsVKybSiq/gwybjjAG3u1+okeMLjR7I9sMe/mz6hEp+jEbmqUXcoF2UxFVw7Nli4LS9cDQSN4abL8yNYvOGsH5KoTtxGeNfkt3tmgcAfCzWHYDaE23TFkPLvihWQM7phB6PTRy1hXIbCNU4Yt+QoWwHAc7OH2A58Vp4leEzU8uSCJ3jxHA5JDaRE+fzX4y8q6ao1vJn4iJZdzbu14QVEw+ZlK/wo0LXLfOppOUzLrvmzcNECpWULS/hEGpO5NWOp2lsTr0evw6VeFC6RSiKOWkV7fRDIX5u9NH0jRq2HZQH5n55V01dmh9hTPNMCVCZ8DcD15TcUyrjjCoiWKX/I1R2FEcXEF/pkpv5JVHSlxeTqVnxuq+Z7G84DoBOkMwWJtdNsTpWSEa6NX8ssvFdA0f2O54ueeO0fLTCoY5lxATfbeu7cbn12cm1WE/8IAUeen1eiTalkvfTd0/BWl7s+zAM71iWK6GWoNtwG8PkSLlkhkQ==;E78R+sP/Ph0mlaVb7wUciQ=="
 ---

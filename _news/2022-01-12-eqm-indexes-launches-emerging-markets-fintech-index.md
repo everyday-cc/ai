@@ -69,20 +69,6 @@ related:
         width: 867
         height: 1300
         isCached: true
-  - title: "Top 5 Innovation Trends That Are Changing the FinTech Industry"
-    excerpt: "Top 5 Innovation Trends That Are Changing the FinTech Industry The FinTech industry has skyrocketed over the past few years, disrupting the financial services ecosystem. The pace of change is increasing at an exponential rate,"
-    publishedDateTime: 2022-01-10T13:20:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-5-innovation-trends-changing-fintech-industry"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnBwRPvYaadA/article-cover_image-shrink_600_2000/0/1641820278631?e=1647475200&v=beta&t=tphLI04fPoU5RySHqMmlMGl5OIdQUx6FJAeMaPtny5w"
-        width: 602
-        height: 403
-        isCached: true
   - title: "Five key fintech trends to watch in 2022"
     excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
     publishedDateTime: 2022-01-12T07:32:00Z

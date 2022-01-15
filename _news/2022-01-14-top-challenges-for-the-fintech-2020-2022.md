@@ -73,20 +73,6 @@ related:
         width: 867
         height: 1300
         isCached: true
-  - title: "Top 5 Innovation Trends That Are Changing the FinTech Industry"
-    excerpt: "Top 5 Innovation Trends That Are Changing the FinTech Industry The FinTech industry has skyrocketed over the past few years, disrupting the financial services ecosystem. The pace of change is increasing at an exponential rate,"
-    publishedDateTime: 2022-01-10T13:20:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-5-innovation-trends-changing-fintech-industry"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHnBwRPvYaadA/article-cover_image-shrink_600_2000/0/1641820278631?e=1647475200&v=beta&t=tphLI04fPoU5RySHqMmlMGl5OIdQUx6FJAeMaPtny5w"
-        width: 602
-        height: 403
-        isCached: true
   - title: "EQM Indexes Launches Emerging Markets FinTech Index"
     excerpt: "1 Emerging and frontier markets have provided fertile ground for FinTech solutions, disrupting traditional financial ... Realizeit, the provider of the first-of-its-kind AI-powered adaptive platform that personalizes learning for performance, announced ..."
     publishedDateTime: 2022-01-12T14:53:00Z
