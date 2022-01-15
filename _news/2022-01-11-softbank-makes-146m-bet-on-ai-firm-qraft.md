@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank Invests in Artificial-Intelligence Startup Qraft Technologies"
-    excerpt: "Qraft Technologies plans to use the $146 million investment to fuel U.S. and China expansion."
-    publishedDateTime: 2022-01-10T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
-    ampWebUrl: "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 172
-    images:
-      - url: "https://images.wsj.net/im-464080/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "AI-Driven Asset Management Startup, Catapulted To Fame By Tesla Trades, Raises $146M From SoftBank"
     excerpt: "Artificial intelligence-focused fintech group Qraft Technologies Inc. said it has received a $146 million investment from Japanese conglomerate SoftBank Group Corp. (OTC: SFTBY)."
     publishedDateTime: 2022-01-14T08:23:00Z
@@ -115,6 +99,20 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/03/softbank-e1635444254685.jpg"
         width: 1024
         height: 517
+        isCached: true
+  - title: "Spark, Ten Coves Back Boosted.ai With $35 Million to Expand Asset Management Software"
+    excerpt: "Boosted.ai, a provider of artificial intelligence software to investment management firms, is raising $35 million in a series B round led by Spark Capital and fintech investor Ten Coves Capital. The money will be used to build Boosted Insights,"
+    publishedDateTime: 2022-01-12T16:04:00Z
+    webUrl: "https://www.bloombergquint.com/markets/spark-ten-coves-back-boosted-in-35-million-funding-round"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 32
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "ruIpQe+Y86lzYzeOcD+Ct29/7xlItVSxrvH1UHQf0mWXqTp4lZSoqbP9MVCd+a+jlZYOPkgpnrrQ8uTlLLGpAdB8pPnWXphpVKXdYukjVXXyC++TUgXgCHQ1k23SoSpQNyRzHWOqr1eaX8Ywg9x7oQByudQUSgbvOlirn0aXxXQ+6leLopvOICmLgitBPQajlEa2XNEE+h84e/d8+6IIBxGP3HBf3Ve3zGJCj3IJ4RzqG+KVzG2vzX+NtTiSHPAMdCgPvEp8+pYIFfJyQIJ7iW7T+EHins7CT/a8CjodgaH6tsTX5kIllTGxOrdwFEpfeeLggJXUtAy+9EpqPzjfXgOZOqLq1dBuLYKDGXrT+0A=;xM8Kr//l+R2FiJOL9kPg/A=="

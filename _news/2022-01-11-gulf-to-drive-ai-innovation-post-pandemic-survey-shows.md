@@ -19,31 +19,82 @@ topics:
   - AI
 
 related:
-  - title: "Gulf uniquely placed for AI innovation as 50% of data workers now automate manual tasks"
-    excerpt: "Despite strong progress, research shows that Gulf businesses struggle to unlock the value of AI innovation due to inconsistent staff training"
-    publishedDateTime: 2022-01-10T09:41:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/Gulf_uniquely_placed_for_AI_innovation_as_50_of_data_workers_now_automate_manual_tasks-ZAWYA20220110094114/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/"
+  - title: "New coalition aims to accelerate responsible AI innovation to transform healthcare"
+    excerpt: "The Artificial Intelligence Industry Innovation Coalition (AI3C) leverages the collective brainpower, experience and expertise of the Brookings Institution, Cleveland Clinic, Duke Health, Intermountain Healthcare,"
+    publishedDateTime: 2022-01-14T00:50:00Z
+    webUrl: "https://medcitynews.com/2022/01/new-coalition-aims-to-accelerate-responsible-ai-innovation-to-transform-healthcare/"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 51
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 48
     images:
-      - url: "https://images.zawya.com/pr/images/2022/FPR_2755_2022_01_10.jpg"
-        width: 450
-        height: 305
+      - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
+        width: 788
+        height: 443
         isCached: true
-  - title: "Alteryx: Gulf ripe for AI innovation as 50% of data workers automate tasks"
-    excerpt: "Alteryx unveils new data showing that the Gulf is uniquely placed to drive post-pandemic innovation.. Alteryx: Gulf ripe for AI innovation as 50% of data workers automate tasks. Alteryx, automation, Data,"
-    publishedDateTime: 2022-01-11T09:27:00Z
-    webUrl: "https://www.itp.net/business/alteryx-data-automation-and-ai-potential"
+  - title: "AI the brains driving broad transformation"
+    excerpt: "AI has become a core driving force for the new round of technological and industrial revolution in China, bringing tremendous changes to the country’s development and people’s lives in many fields, including healthcare,"
+    publishedDateTime: 2022-01-11T10:20:00Z
+    webUrl: "https://www.independent.co.uk/asia/china/china-daily/ai-brains-driving-broad-transformation-b1988601.html"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
+      name: The Independent
+      domain: independent.co.uk
+    quality: 39
+    images:
+      - url: "https://static.independent.co.uk/2022/01/07/10/AI.jpg?width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 813
+        isCached: true
+  - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
+    excerpt: "OSARO Inc. a global leader in the development and provision of advanced robotics automation, and INNOTECH CORPORATION, which provides advanced products for electronics and consumer industries, have announced a collaboration to create an innovative demonstration for Rohto Pharmaceutical Co."
+    publishedDateTime: 2022-01-11T15:02:00Z
+    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-san-francisco-robotics-cd7b2bbb6f2048169b1aa520c62aff2c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
+    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
+    publishedDateTime: 2022-01-13T16:13:00Z
+    webUrl: "https://apnews.com/press-release/PRNewswire/coronavirus-pandemic-science-technology-health-data-privacy-5fb450070c1e6b1bd64f03854a53b54b"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "$40M Available for Artificial Intelligence and Transformative Technology Innovators to Improve Care and Health Outcomes for Older Americans"
+    excerpt: "America is getting older faster. According to the U.S. Census Bureau, the number of people aged 65 or older in the United States"
+    publishedDateTime: 2022-01-10T12:36:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/n24968907/40m-available-for-artificial-intelligence-and-transformative-technology-innovators-to-improve-care"
+    ampWebUrl: "https://www.benzinga.com/amp/content/24968907"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24968907"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
+  - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
+    excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
+    publishedDateTime: 2022-01-13T15:00:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/leaders-across-healthcare-academia-and-technology-form-new-coalition-to-transform-healthcare-journey-through-responsible/article_8df099d3-d5c5-52c4-b300-7e9b1b4eea10.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 3
 
 secured: "nJrmhe+yjJyxcszbGBLk+BWNukIg5hsgzoBuhdGgLZIyOq0TT3gGbDObTUXQhNIH+sxghO0RASCWlfb3H4v44xV+qPO0j0XjSicH/9urEqdiPs7YK2yX3OxDmm5zKyu/SVBhdVhtxQV+kwXl4DVjuyUEctTJ0VBL4gT/PrJ1+9SB594VoRFYXi5xK0tBqKVRp5drLIlzGbQv0/Naf5x/3h/3hCs7/xZ4dHAelJ+7qmhAy26NDJKCyrARpGJ6ciGzXRsMuVIPP3Dd+ztRGjD2EN7InL7nTVpKXYNcVsvTcP+AUhYjvXTzvnhEbOcmEqToqI1zdQM0JpM5lWjRj2BoALdV5IBQJB7v/EkLvsExj2w=;0n2yDEu+4Opa/Q5Ot//xJQ=="
 ---

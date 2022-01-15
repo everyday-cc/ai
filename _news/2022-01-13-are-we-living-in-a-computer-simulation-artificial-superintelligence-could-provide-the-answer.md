@@ -24,22 +24,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "The question of whether a computer can think is no more interesting than whether a submarine can swim. Honestly, what is #intelligence?"
-    excerpt: "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.” This quote from Edsger W."
-    publishedDateTime: 2022-01-10T09:40:00Z
-    webUrl: "https://www.linkedin.com/pulse/question-whether-computer-can-think-more-interesting-than-moioli"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 0
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQHJ3vMwsB7OkQ/article-cover_image-shrink_600_2000/0/1641805901694?e=1647475200&v=beta&t=IH6-4UU_iwjWpchq8qRPBN7XTvMxU8zqOyPuUvNjo8w"
-        width: 800
-        height: 399
-        isCached: true
-
 secured: "raI+yylJ/h7dcayjw0kr18msElg20suofFzcow0PvCz0cfI0a4zGhztHtvkzY4122HNF2pEplJ89GrPAvFST2yjL9h1By/RbE6UoTF1jE9kGzs7EX6XC9PVFCiilzl3LoIj+MiyTeM637pJuq93V0B7oPxTQWeh5S2tn+HSf9Phuu6dml2bA1xc6GTocPFJsuOrvRrRendUgjNhmLtR37RJVYQbGLesGGWbjZ3b13fcHszKF92ZO62Koxh07rfqQ+xAwyFphttA99b+tQHU4BZQNlXh/pwzi7XpMmalsp1aF6rhNHH+8kJejJG5vuWgvXIJ5475jKAJepY4b3ab5MnSwqSpeedo2C0p3+tGCwlg=;SJrHoYuEgYvkyS+nOd6JRg=="
 ---
 

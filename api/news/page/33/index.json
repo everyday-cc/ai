@@ -2,6 +2,100 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-12-15-human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars.md",
+      "title": "Human Common-Sense, Animal Cognition, And AI Advances For Autonomous Self-Driving Cars",
+      "excerpt": "Human common sense is difficult for AI developers to infuse into AI systems, including self-driving cars. We might learn something from animal common sense to help out on this vexing matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6112efdc9790843c20a5da1a%2F0x0.jpg%3FcropX1%3D104%26cropX2%3D3904%26cropY1%3D168%26cropY2%3D2702",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2021/12/15/human-common-sense-animal-cognition-and-ai-advances-for-autonomous-self-driving-cars/amp/",
+      "publishedDateTime": "2021-12-15T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-insilico-medicine-launches-trial-for-ai-discovered-drug.md",
+      "title": "Insilico Medicine launches trial for AI-discovered drug",
+      "excerpt": "The artificial intelligence-driven drug discovery company has dosed its first healthy volunteer in a trial for a candidate to treat idiopathic pulmonary fibrosis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
+      "originalUrl": "https://www.outsourcing-pharma.com/Article/2021/12/15/Insilico-Medicine-launches-trial-for-AI-discovered-drug",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/headlines/clinical-development/insilico-medicine-launches-trial-for-ai-discovered-drug/13097532-1-eng-GB/Insilico-Medicine-launches-trial-for-AI-discovered-drug.jpg",
+          "width": 750,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outsourcing-pharma",
+        "domain": "outsourcing-pharma.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-watch-teslas-full-self-driving-beta-tackle-the-tail-of-the-dragon.md",
       "title": "Watch Tesla's Full Self-Driving Beta Tackle The Tail Of The Dragon",
       "excerpt": "For his most recent video, however, Grey abandoned the safety of animation for a dip into the real world, testing his dad’s Tesla Model 3 on the Tail of the Dragon and filming the entire adventure. Watch the video here: For the particularly interested (or particularly bored),",
@@ -1043,109 +1137,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-time-to-set-global-rules-for-ai-warfare-china-tells-un-weapons-review.md",
-      "title": "Time to set global rules for AI warfare, China tells UN weapons review",
-      "excerpt": "Beijing envoy to UN Li Song says China opposes use of AI ‘to seek absolute military superiority and to undermine the sovereignty and territorial security of other countries’.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/china/military/article/3159704/time-set-global-rules-ai-warfare-china-tells-un-weapons-review",
-      "originalUrl": "https://www.scmp.com/news/china/military/article/3159704/time-set-global-rules-ai-warfare-china-tells-un-weapons-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2021/12/14/7d0a5ef8-fc66-4bd8-afd9-119a428021f8_5354c372.jpg?itok=rwvCvgAR&v=1639485539",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/china/military/article/3159704/time-set-global-rules-ai-warfare-china-tells-un-weapons-review",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/china/military/article/3159704/time-set-global-rules-ai-warfare-china-tells-un-weapons-review",
-      "publishedDateTime": "2021-12-14T16:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027.md",
-      "title": "Global Driverless Apron Bus Market 2021 Growth, Trend, Analysis, Future Opportunities and Industry Forecast to 2027",
-      "excerpt": "Dec 15, 2021 (CDN Newswire via Comtex) -- Global Driverless Apron Bus Market ... inventory management by via Artificial Intelligence(AI), product tracking, local production, accessible customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-driverless-apron-bus-market-2021-growth-trend-analysis-future-opportunities-and-industry-forecast-to-2027-2021-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

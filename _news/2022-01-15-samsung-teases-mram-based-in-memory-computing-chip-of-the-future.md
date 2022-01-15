@@ -1,29 +1,22 @@
 ---
 category: news
-title: "Samsung demos MRAM chip with embedded compute for AI"
-excerpt: "Samsung has demonstrated an in-memory computing MRAM chip processing stored data, and accurately working on AI problems such as face detection. A Nature paper is coming to explain how it was done This technology could provide low-power dedicated AI chips combining compute and storage to reduce data movement,"
-publishedDateTime: 2022-01-13T11:40:00Z
-originalUrl: "https://blocksandfiles.com/2022/01/13/mram-chip-with-embedded-compute-demod-for-ai-by-samsung/"
-webUrl: "https://blocksandfiles.com/2022/01/13/mram-chip-with-embedded-compute-demod-for-ai-by-samsung/"
+title: "Samsung teases MRAM-based in-memory computing chip of the future"
+excerpt: "Samsung unveils in-memory computing device based on MRAM technology (Magnetoresistive Random Access Memory), new MRAM cells."
+publishedDateTime: 2022-01-15T01:30:00Z
+originalUrl: "https://www.tweaktown.com/news/84005/samsung-teases-mram-based-in-memory-computing-chip-of-the-future/index.html"
+webUrl: "https://www.tweaktown.com/news/84005/samsung-teases-mram-based-in-memory-computing-chip-of-the-future/index.html"
 type: article
-quality: 56
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: blocksandfiles
-  domain: blocksandfiles.com
+  name: TweakTown
+  domain: tweaktown.com
 
 topics:
   - AI Hardware
   - AI
-  - Machine Learning
-
-images:
-  - url: "https://blocksandfiles.com/wp-content/uploads/2020/02/brain_neuron.jpg"
-    width: 1000
-    height: 667
-    isCached: true
 
 related:
   - title: "Samsung unveils new MRAM-based in-memory computing chip"
@@ -74,6 +67,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Samsung demos MRAM chip with embedded compute for AI"
+    excerpt: "Samsung has demonstrated an in-memory computing MRAM chip processing stored data, and accurately working on AI problems such as face detection. A Nature paper is coming to explain how it was done This technology could provide low-power dedicated AI chips combining compute and storage to reduce data movement,"
+    publishedDateTime: 2022-01-13T11:40:00Z
+    webUrl: "https://blocksandfiles.com/2022/01/13/mram-chip-with-embedded-compute-demod-for-ai-by-samsung/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 56
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2020/02/brain_neuron.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Samsung’s Breakthrough In Human Brain-Like MRAM Tech Claims To Excel At AI Workloads"
     excerpt: "Without getting into the weedy details, MRAM offers the performance of DRAM with the non-volatility of flash memory. It also uses much less power than DRAM. (If that sounds familiar, you probably read this article yesterday."
     publishedDateTime: 2022-01-13T20:10:00Z
@@ -104,16 +111,7 @@ related:
         width: 700
         height: 325
         isCached: true
-  - title: "Samsung teases MRAM-based in-memory computing chip of the future"
-    excerpt: "Samsung unveils in-memory computing device based on MRAM technology (Magnetoresistive Random Access Memory), new MRAM cells."
-    publishedDateTime: 2022-01-15T01:30:00Z
-    webUrl: "https://www.tweaktown.com/news/84005/samsung-teases-mram-based-in-memory-computing-chip-of-the-future/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
 
-secured: "x1W+UbbaGk9oCg88gb7cz7qGLJ+Fp77CQRgc0KDn2nwlJqXRZRAYTcVihuJBOQxFcGO8Rg2ouJlovLdFJrrWGqvp+OTPAjeACUnshoHiQkmjXkgWiowLdwrLDYICrf0YBE/bJxp5qMfdI05sNjbiqvA3Ybctw/tIvmjjXYyXBXlA0gyRZbDfkNr9BDdHZVrPc44dsb56+vHvzpKMQaDXQIMTN/Njbs99Z/R6l+WUwnQC8s9NYTw11ZsFcW2eD1NdKw6lEHc8Ij66UOP4ai1YegdfNcHRH/phCwbOxgWq8XFkVN137coni9XFMtRU6jojCaTX9s+6eTr+yttkAf5eJghlUWe3DekTtWxOWEFNNT+GBxfC6kd65F9UcuKmyTaL5pg7g2FJgk2pw2VRzoNyfVv7zecxmhtZQpgH4XK6Mrlq8DI91XF0iC14Dh50UEaC03JdtnpqZIzOVr0vsZieVNpq+3cFXo0ywhfCR7TjGCjqzNoFsQmVCnk7XZ5riNrf3CPM0rXY3BTKewn5j71akQ==;LcFFHYlOHzlDwG+hlfWt8A=="
+secured: "UqBcaMzJh6TQ3ZKFThzkD5at5s9Ub4g/wRApUWFryl/h4wgtGztXJ3GZOHbN/yRReWPxDZx814sv/VLMe3Rj3zrYX4DiEF8677H8D2lfojd86z6++9eCnVagZgFTDZ3//qShEbewP6QLucjeN6wYdLBfvS0+XV6pfopnd8dyQB4paaamKhEDW7z+88iXOU3hKfhBWAdP4XJKRSqWLuwlgliEPeOo7nEgsReIlnKR1udBaN8F23cZxWLQiPNHKH+gm/h3EJRJqfbcX+TgvJ6KnjKagyqWjcUU2ABfMYdKqRSuN7vH3o5xZ/MMjL7/G+Z/u8zj8Ylm0kXfxjHoVXTJ7/Bn5dwswh2llnNh9rMi128=;ZAgET0uZcxKh++nadIV+fg=="
 ---
 

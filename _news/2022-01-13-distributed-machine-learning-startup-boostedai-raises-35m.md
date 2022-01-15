@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/01/12/distributed-machine-learning-s
 webUrl: "https://siliconangle.com/2022/01/12/distributed-machine-learning-startup-boosted-ai-raises-35m/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 722
     height: 366
     isCached: true
-
-related:
-  - title: "Spark, Ten Coves Back Boosted.ai With $35 Million to Expand Asset Management Software"
-    excerpt: "Boosted.ai, a provider of artificial intelligence software to investment management firms, is raising $35 million in a series B round led by Spark Capital and fintech investor Ten Coves Capital. The money will be used to build Boosted Insights,"
-    publishedDateTime: 2022-01-12T16:04:00Z
-    webUrl: "https://www.bloombergquint.com/markets/spark-ten-coves-back-boosted-in-35-million-funding-round"
-    type: article
-    provider:
-      name: BloombergQuint
-      domain: bloombergquint.com
-    quality: 32
-    images:
-      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "cVdIUBlYfYExkPOPvFW21nv4vVImx6sL07OQ3YIKjTVt1BClwbs4nQLHbzuIlz4jxyN2d7tQ6I64kcnAn/jNjiH4cmGuUUpvdbzHXGqGuhEdUhX/oHiw4hN+8LiKrpm7YbNRdff8crQxs5MOZ5cjUalCV9mTnM3f6jcgBwqMdKAFBoaGjAab4eS4mbG7Iu/GBeMe8pWse9WTiiSC5Z09ocMyJiz72MNl7XDN8QESCdrt94GLYvtVgCd00rhMLftujujVRaY2v0enzew7y8fjRqBKaD8mU+g8KtOj5MJ7WL0X4goDTgrKLJBiZc3HUFloIMJPibTzWGdLfjtILKKImH/0lzEccXJt0awx50ECp+w=;RcwH+mi/OixW13yGIonGwQ=="
 ---

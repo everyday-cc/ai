@@ -43,20 +43,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Self-driving race cars zip into history at CES"
-    excerpt: "A racecar with nobody at the wheel snaked around another to snatch the lead on an oval track at the Consumer Electronics Show in Las Vegas on Jan 7 in an unprecedented high-speed match between self-driving vehicles."
-    publishedDateTime: 2022-01-10T09:38:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/01/10/self-driving-race-cars-zip-into-history-at-ces"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/01/10/1438590.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Technology & Innovation Roundup: Self-driving car technology from FAU wins second patent"
     excerpt: "That’s the idea behind new self-driving car technology coming out of Florida Atlantic University in Boca Raton. The tech, which uses artificial intelligence and machine learning to mimic driving behavior,"
     publishedDateTime: 2022-01-10T11:17:00Z

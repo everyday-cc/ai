@@ -78,6 +78,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Gulf to drive AI innovation post-pandemic, survey shows"
+    excerpt: "While 50 percent of Gulf data workers can now automate tasks, a survey indicates that 97 percent believe that training needs to be made available to all data workers to unlock the value of AI innovation Gulf to drive AI innovation post-pandemic,"
+    publishedDateTime: 2022-01-11T08:53:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/gulf-to-drive-ai-innovation-post-pandemic-survey-shows"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
   - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
     excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
     publishedDateTime: 2022-01-13T15:00:00Z

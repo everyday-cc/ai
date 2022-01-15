@@ -43,20 +43,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "5 Best Self-Driving Car Stocks to Buy Today"
-    excerpt: "The best self-driving car stocks are set to revolutionize the auto industry in a way we’ve never seen before. Check out my watchlist below."
-    publishedDateTime: 2022-01-10T10:09:00Z
-    webUrl: "https://investmentu.com/best-self-driving-car-stocks/"
-    type: article
-    provider:
-      name: Investment U
-      domain: investmentu.com
-    quality: 24
-    images:
-      - url: "https://investmentu.com/wp-content/uploads/2022/01/best-self-driving-car-stocks.jpg"
-        width: 730
-        height: 467
-        isCached: true
   - title: "Self-Driving Truck Makes Delivery 10 Hours Faster Than Human"
     excerpt: "Right now, there's a shortage of truck drivers in the US and worldwide, exacerbated by the e-commerce boom brought on by the pandemic. One solution to the problem is autonomous trucks, and several companies are in a race to be the first to launch one."
     publishedDateTime: 2022-01-10T11:47:00Z

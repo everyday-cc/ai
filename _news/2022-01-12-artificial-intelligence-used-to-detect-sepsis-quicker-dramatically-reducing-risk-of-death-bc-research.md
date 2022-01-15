@@ -73,20 +73,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Using AI in Crime Detection"
-    excerpt: "Using AI in Crime Detection By cio review - As the rate of crime rises, the utilization of existing Artificial Intelligence algorithms is proving to be"
-    publishedDateTime: 2022-01-10T09:43:00Z
-    webUrl: "https://www.cioreview.com/news/using-ai-in-crime-detection-nid-34825-cid-210.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/ommxw.image300x350lawenforcement.jpg"
-        width: 300
-        height: 350
-        isCached: true
 
 secured: "ybt0dvTNHBO1XJGGPMCRVFcy/ulz07ZXyDLFaQkP7ThBbwDuH242/2vdl/PdzZ8oPQzARqYM2QjgjjUpCuRhZ/pmn1pwrHrAH4RHwTPtvrmnbnn2aRueu4VnYofB+3j4gxXapkPQgIsgSt8BO5WjLOM4PA+lwkhnN9Q/gJvTZXdyZT/hJ8mjrV1Iahf4RbfnlkffbDcBOaMVrBhPI6cpFN+X2R2gJ7SOxTL4a7u5ZfUPhl9dnNDyjadstcC80ZdugYYcKlUXpn1L1laU+Gs8m6Ut3PQZM2aGDdH4BhZ/uOvyku0AKwEwRnXZyTZZB00q7et2xE72VI7PSafqnzm72f09G6CEzlxFnT19y7FDvik=;ST7JsArMhJCO+8vpRxWoew=="
 ---

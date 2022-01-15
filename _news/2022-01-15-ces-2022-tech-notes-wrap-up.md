@@ -53,20 +53,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "biped unveils an AI copilot for blind and visually impaired people at CES 2022"
-    excerpt: "CES 2022, swiss startup biped premiered an AI copilot for persons who are blind or have a visual impairment. the companys"
-    publishedDateTime: 2022-01-10T10:40:00Z
-    webUrl: "https://www.designboom.com/technology/biped-ai-copilot-blind-visually-impaired-people-ces-2022-01-10-2022/"
-    type: article
-    provider:
-      name: Designboom
-      domain: designboom.com
-    quality: 33
-    images:
-      - url: "https://www.designboom.com/wp-content/uploads/2022/01/biped-copilot-designboom-1200-1.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "DeepBrain AI, newly revealing its AI Kiosks, was spotlighted by the world stage at CES, and continues the journey by exhibiting at NRF 2022."
     excerpt: "For this year's NRF, DeepBrain AI will be showing how AI Humans can be adopted in commerce. Many innovative changes are being made and one of them is unmanned stores. But there are some downsides to it."
     publishedDateTime: 2022-01-13T08:46:00Z

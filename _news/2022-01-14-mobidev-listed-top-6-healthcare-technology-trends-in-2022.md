@@ -1,29 +1,25 @@
 ---
 category: news
 title: "MobiDev Listed Top 6 Healthcare Technology Trends in 2022"
-excerpt: "Stepping into 2022, COVID-19's presence still continues to linger around the world. That being said, it's critical to remain mindful of the tech trends"
+excerpt: "Stepping into 2022, COVID-19's presence still continues to linger around the world. That being said, it's critical to remain"
 publishedDateTime: 2022-01-14T12:44:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mobidev-listed-top-6-healthcare-technology-trends-in-2022/article_c7e77c5a-d6a8-5c40-a71a-a4cc57a347e3.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/mobidev-listed-top-6-healthcare-technology-trends-in-2022/article_c7e77c5a-d6a8-5c40-a71a-a4cc57a347e3.html"
+originalUrl: "https://www.benzinga.com/pressreleases/22/01/n25054904/mobidev-listed-top-6-healthcare-technology-trends-in-2022"
+webUrl: "https://www.benzinga.com/pressreleases/22/01/n25054904/mobidev-listed-top-6-healthcare-technology-trends-in-2022"
+ampWebUrl: "https://www.benzinga.com/amp/content/25054904"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25054904"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/0/89/0890c0c6-fc47-5d19-a69d-c6f5cdd65608/61e17fba02f4d.image.jpg?crop=1857%2C975%2C134%2C0&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "0tUmugUUbhXT2wKUEQDDvYk3VyD9LStOtFzqaz8z5kROxGFxl5IQ+ulwL7BSIu61QEOeI17F9NfTS5Vcg04obaLYIpgUu0Mg+lNyCdkCbmeQlxI+W4N4DA4qf8WjDtlin0G4jqbiNppwtKWTbAp1krIu3OTlSjFhwsHmYBVw9qM5Rye3MR0CpXS9Lqij33qkGodxUyBpsITTXmZMfigWeTUDYGZOA5R8h0kLS+AT8RoVdt3ZZhXF4fmrsPTHxOyhEqhkHqtzN/wOuyuRB3dGOgOXbogfQgsVRkD7Xkh6Sb6Z3zK6S/q7MZuZVmnO+EDStDA/IVnQocJ0ej09f4Z3QpeAPA+yCK73NDEWEK4ZYaesTSeFsVU0tZSdW64SOiu3Zzx5pYsGpnXxgvDZGHPODUd0urzJHRHNYvzUCYitHNJAbG3KjaioKIhswU37FP8JLfKXEFROce8cGjw5gsFwzH/arTkAn1Hsy+li3G1kfUmpObhl+YOhzPeM72gnVr5uxxky3xnOpGm4q/DDKi7v9Q==;OklLbeLgx1bjNX/gTdgJKw=="
+secured: "cqId28VKUALVp071sNlyMdB/ApGfeRzr/Po0BCRTwVy97ZI0e3ihkv3NvlUXkJQgRIYq9z5HYqnKAImoUO9133FkpDR5Bil7CwdJ0v4tFQER1NM6uQAOnFcq/jFegpru1xYW6CsfT4DbyLkqmx9Zqwdu8DTNweGdP/EIUXU3H63fDbyKDSVY5vYssGsN745kUHdqFNFsBapumWKMj3xS4noNiVfX2D/s+ogHMoY+BGUCuQTTT6VMau2ks2wUKBCaOEcoGHQr1LbZkz7BrJlFnkVVpD4sABqhxPOQp2/FRW37KjKcC8BLeronYqLPWC06H5lNmfWEblbNQ7HPgEWtPFOd/TClOsLp6udQREDgnZg=;FzK+D3GrW0j46HUiF+KQ/A=="
 ---
 

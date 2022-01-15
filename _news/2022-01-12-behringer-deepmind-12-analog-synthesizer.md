@@ -24,6 +24,22 @@ images:
     height: 800
     isCached: true
 
+related:
+  - title: "DeepMind’s language model RETRO proves bigger is not always better"
+    excerpt: "Large language models are all the rage now, especially after the launch of Gpt-3. Ever since, AI powerhouses have come up with bigger and more sophisticated language models to push the frontiers of the NLP game."
+    publishedDateTime: 2022-01-12T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/deepminds-language-model-retro-proves-bigger-is-not-always-better/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/10/DeepMind-Reinforcement-Learning-1.png"
+        width: 2048
+        height: 1152
+        isCached: true
+
 secured: "jT8OiktazhBhaP6GGhwbEckBTxPPQj0bZqtdit/f5NZ8JEe66t+7hAkDvErrSSQfwRJ3FwO1JRzbRYdTxx/wLtH5QO+kTgoAbLvff2yRVfxyxh/lk1pEN4+V+xv+Qt/lsti1EdvpIIHoRTPlxxw4NchMRBTwWfeDvlnke0z+KDmyGfRGpNk0JydUU2TgRy+56GE4vUDyziQcOeyuR75TEV1J0FX0tYNNbpO155+m82i9JAqPwDfRpf8muRhzpScZl6ez09owJxKwdS4doKNDktQoLgr+EbWe16CIRPjhv0dTlHlckCYFs6GjM6/gVeg/WoA1LFnESVECSF9hK0BWb8QotfsNI//TZpt8krAJy90=;piRPnQyfs/d5ejenafHe8A=="
 ---
 

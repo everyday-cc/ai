@@ -86,6 +86,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 22
+  - title: "Gulf to drive AI innovation post-pandemic, survey shows"
+    excerpt: "While 50 percent of Gulf data workers can now automate tasks, a survey indicates that 97 percent believe that training needs to be made available to all data workers to unlock the value of AI innovation Gulf to drive AI innovation post-pandemic,"
+    publishedDateTime: 2022-01-11T08:53:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/gulf-to-drive-ai-innovation-post-pandemic-survey-shows"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "E4nAtQci98B2n9Vq+J1o9EIkDJ9oYS8cZn1F9mB7VmuF/JJsrp1QkAo5g93kst0yMQ2ygtosD7nc5tjoFsBI4TkvXpCrnZVcBAfwwr7LiYraXlCS95UlPYsQAl73zXVLptW6hnRSSNh2owVSeR/Y7pzcYmwSnT9vtzbilOdyOgcWF4+jkkhp4/c9B+FTRCODJyybprDn51ylNOPA+DEN68d0q6pfHUIoxqIg5AzT2bl/GHd3L9OealkcgFNZeiz7sKAaST7m0fttpxIGvGicj3SU7gP9XmW4eJvDo18cNZWZBSYsleSV3ITW5yF1dXpkywpy5xiXs8a9fkM0Jkly0dKdYOz2BqbBAlH3km4IeLnJCfFwl212dI8YFxdiMbs6gnRwRg41d1PpBpsCfLEIq42bwqcwYoG6BSVj6rjpFnxKiKPxm/5tsZaVRVlAnPk1CGW0FcVEbb7+9TjxUPXj5uzz3uqSLCBFKfVx5A4yUznjbK5wfKGubnimazGFv/24BQGgdupUA56zO0VpBPkZdw==;s0sxWW9AQXXyXOR9uVngVg=="
 ---

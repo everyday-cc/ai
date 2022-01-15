@@ -103,6 +103,15 @@ related:
         width: 700
         height: 325
         isCached: true
+  - title: "Samsung teases MRAM-based in-memory computing chip of the future"
+    excerpt: "Samsung unveils in-memory computing device based on MRAM technology (Magnetoresistive Random Access Memory), new MRAM cells."
+    publishedDateTime: 2022-01-15T01:30:00Z
+    webUrl: "https://www.tweaktown.com/news/84005/samsung-teases-mram-based-in-memory-computing-chip-of-the-future/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "Anejkfu08b04l5sxGDCo5l1f0QlQO6viGK0EQLQsEmq70NFUlEJ+RMEwUaIcxgtr2+REgt8EHd5XSMk/s8xa/bvaW2V003r+Mr3kiIsZ31cawypguso9b4ZwMBBEoI3TPYTyld6kTHRyI2OihwAt0H7rJp3afTxWkXGMaNjnwfdn2togHy/KZPi8STGG+VHmdCfnsaNMfxWMLz0GLt8ffKeSujom5V2hccbUVyO1oiphC4ffzI0tSEeIRjM88h+Q4jHATc2QvdSFBiSJtXnZl1jL/ILf1C33MhEdnrGHstASVi951GYcFcphDlOJzNJafC5feamLD6LRb1BLJdUMI+NrybTPbdErYSZTjROnqpd33oay4S/LLd/E2i8ggeLOi724ZD5a+Q73DZMaa2UgL7wmgnjt9W5YGAXc09vO59ACCOJJ4zwaXZY7n54nlClim70iKBsJhs/JpTI1iCK9xJZY7q+CUKjJ8wYOasWAQNc44kat4ixkjP8cGp4YxJ26/6LjxfJ0Jq0KT35/yFZb5A==;ieR1mJGkj1S+6hPw8dXxVQ=="
 ---

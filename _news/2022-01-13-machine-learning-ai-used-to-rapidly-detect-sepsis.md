@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect
 cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -72,20 +72,6 @@ related:
       - url: "https://healthcare-in-europe.com/media/story/26372/rect-01-university-of-british-columbia.jpg"
         width: 400
         height: 240
-        isCached: true
-  - title: "Using AI in Crime Detection"
-    excerpt: "Using AI in Crime Detection By cio review - As the rate of crime rises, the utilization of existing Artificial Intelligence algorithms is proving to be"
-    publishedDateTime: 2022-01-10T09:43:00Z
-    webUrl: "https://www.cioreview.com/news/using-ai-in-crime-detection-nid-34825-cid-210.html"
-    type: article
-    provider:
-      name: CIOReview
-      domain: cioreview.com
-    quality: 37
-    images:
-      - url: "https://www.cioreview.com/news_new/sliderimage/ommxw.image300x350lawenforcement.jpg"
-        width: 300
-        height: 350
         isCached: true
 
 secured: "mPzZCR/icpCLuyMWi0aWsrSVN5kxIjS8SuZSzWurmdU60kG3SlLCIDTX+c2cq8I+MFyx9+Mf1Ftjabalay/xQbTmfsRiU8TywFnB8JCsVI1nZb+JeEJTzC5C8nNQ2ImmOhEvx+LpimB6KFi9YLEQjK6ZMLdl+w/c91Uh48rPapqUPPW2hudv797V+asPfe0vjq1iIyVqAhFv8DEWisewIWlXV+7zmD27mQSs16keoAEQZlAscTu7hvtQ1DkPQp9aDc6sggyrdD+Je7T0zWRqQPccmnmMWxQX87M6NveepACSYE48h2qoe9qeW0Rdz17KuXsViZgtOfWmqHGAEs07GH8QgmxzKXh/a42CALn2sBQ=;FI5+aJYwrXWJ64kquqhcpA=="

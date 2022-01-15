@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Made in emerging Europe: InoBat, Humans.ai"
-    excerpt: "Emerging Europe brings you a round-up of the region’s start-ups which recently closed financing rounds, sealed partnerships, or dropped new innovations, this week featuring Slovakia's InoBat and Romania's Humans."
-    publishedDateTime: 2022-01-10T10:08:00Z
-    webUrl: "https://emerging-europe.com/business/made-in-emerging-europe-inobat-humans-ai/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 37
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2022/01/bigstock-hand-holding-electric-car-char-441591977.jpeg"
-        width: 1600
-        height: 1067
-        isCached: true
-
 secured: "QXRcQL8dwu8bbQNoyBA8E4pM1AZZh1y5/7Ky8IGIYrmo1OekUTeBQDrY4kPDr2iB4TYBcAulNLYtfNw4Az2vTkf4nDv/fRSpVKwex65vcNtprF2bFgwsCKtwzG06NXZNclv3z+xGynqnFQg8WGGm+A1i33deYwAv7P4u1YW8dXMyt197i2OhAXf3BEDXqFrWelMCD/HhIFsa3oH46yk9griNJZ7g5yVxLbtl+jBgwpYoDFgCwxSsfsws15gufFCxGFY2GlIDXb5wqEpJlaxPR0VpPdty9R+2HggFnnxoxKBAq4ahzcywqCtrOlY/RYwxCg/ZL6249l3JRTXin33J9eZQtR31jeq2jTOJmh7sv1y4dznKJhL5N5CHBQqx6jppWX4maSLG+xr0XsCSSTeQ5L6BSBamudE8Vkk3doEFqHgWVfojylMRigZ8nNSEwqCNOoMnPPCz+1e0a3Zi0wLbALYTKB1dtS27H/LRc1s9RpGFGV9dx6CfP1cB1CMBzV201URPzqG4HubLHsr2NuHz0w==;DofkWJ47K+/VeeMhRhbMHg=="
 ---
 

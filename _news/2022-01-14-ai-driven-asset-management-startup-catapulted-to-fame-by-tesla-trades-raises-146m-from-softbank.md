@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/etf/ai-driven-asset-manag
 webUrl: "https://markets.businessinsider.com/news/etf/ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank-1031102394"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: Business Insider
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "SoftBank Invests in Artificial-Intelligence Startup Qraft Technologies"
-    excerpt: "Qraft Technologies plans to use the $146 million investment to fuel U.S. and China expansion."
-    publishedDateTime: 2022-01-10T11:00:00Z
-    webUrl: "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
-    ampWebUrl: "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 172
-    images:
-      - url: "https://images.wsj.net/im-464080/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "SoftBank invests in AI start-up Qraft Technologies"
     excerpt: "SoftBank Group <> <> is investing $146M in Qraft Technologies to gain access to the money manager’s artificial-intelligence tools and help seed the"
     publishedDateTime: 2022-01-10T15:16:00Z
@@ -122,6 +106,20 @@ related:
       - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/03/softbank-e1635444254685.jpg"
         width: 1024
         height: 517
+        isCached: true
+  - title: "Spark, Ten Coves Back Boosted.ai With $35 Million to Expand Asset Management Software"
+    excerpt: "Boosted.ai, a provider of artificial intelligence software to investment management firms, is raising $35 million in a series B round led by Spark Capital and fintech investor Ten Coves Capital. The money will be used to build Boosted Insights,"
+    publishedDateTime: 2022-01-12T16:04:00Z
+    webUrl: "https://www.bloombergquint.com/markets/spark-ten-coves-back-boosted-in-35-million-funding-round"
+    type: article
+    provider:
+      name: BloombergQuint
+      domain: bloombergquint.com
+    quality: 32
+    images:
+      - url: "https://gumlet.assettype.com/bloombergquint%2F2018-08%2F3a8e2237-2edb-4494-bcf2-231993fb6108%2FBLOOMBERG_LOGO.png?rect=0%2C56%2C1920%2C1008&w=1200&auto=format%2Ccompress&ogImage=true"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "xTii4u9yGDOGKAIVJQFu23GNPR2QHqqEClisExbxwF0WDyi7W/JishqpagoVGQFjFUusYUHCU5ab005Iawo0hyM8HRfj1xbIeH8skbN9UoTERv6l/YSfhHG3vHEOZKDEo7/L9W7su8VfndbvBxPKXg9T+eK2jTEyup0a7COBjUCIIGz6pM5Tv4UUD8UG8ZDUSCH3w8/xtvTfg9VaN1pXkTWZP7L0A5DS25MSTEV+FF2V1JrIGiuhZkHmd+j8gWsutuwnjhtM0o9A7qjrKQzDeahTphH3H5djscAYSPMOisivdnDjFfHskDR5QHSTwiEMtynmRpNLNLpY9sCE0C5IJMMK9jKAp4ytZIIspqyPKerShorPXCqF+zOcJwH+jcS+rVNTXDVh5yi5sMopi1E0BO2T7veXj7egcv4uujEwJA49QH7JdD2BTGzebYevd0lLPUEOz5+yCWQMog+nq6CPMDONNoruDQz348SPsqZW1pbG6uaMedcm9o3UrqBqOdIwPa/TGI54h/o6OI3WQvauyg==;XbKpaGqWUudBwuZhXqCv6g=="
