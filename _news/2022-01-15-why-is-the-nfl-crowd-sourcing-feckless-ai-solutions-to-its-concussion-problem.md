@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-14T20:15:00Z
 originalUrl: "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem"
 webUrl: "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
 images:
   - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fwtfnfl.jpg&signature=9fa80da85c44e5785b125cf3026e7b65"
@@ -27,6 +28,6 @@ images:
     height: 640
     isCached: true
 
-secured: "+Wibc2ZSnr5/QeiTy5+mT3VWdG+EA1GHyYEHHLXj60pHEdSFV7ncB3/xbDKODM4Nqjx/WYtzQr4KPQEd+lwawtPvGbF+qjn5GpMkY4kkQqKzfeNHFs+KSHz4/lt3wedf1fCzTsEei6SjCfneqnG4JK6jw0L99qOk6vwoHnyFvjXZQpBTJGpf6xf6Xyuz3Rnz8hXrCM0FoXUXxAZ2axDNAl5b0YLe74lv/2eU/W0yAo5RWgI3ckKludaZb8ftfqkZ89J461NaqGc0I7CHWt8lIMqGrfX3iJw/MakOpW6BgSlqIg9O3wAxFQuaLrF295zPoCNYh+ltx8e608ot+WvMT+Krp3Z+B+uzN7GkpL+lSgQ=;nXERUs1SOcDZiOeGIKRFkA=="
+secured: "wYEyLp2y9kODkACSeiWciiLMdOa+FxPpZRea0A7RVgqhZrF6MeMya1zrf2JssXZCsSuf/lw41Bb9YBGufw1NSCHrLm6ML3Mo63w/qECE4+ZMVY66pjuSkoclmoR4Lb1qovVikDvM64QFwaoyXV2zPEvMGLV1r8B/I1l+8w097kPIgE20T1PHKPXsXHrurEFaQLNyUNU4jIr8gExaYI8CKlp6ywRYRdHlseM0m3imrpffZZ4WVx0/Q/hzYLJDbE3fGzL41rjfJUcWHYI85/hm9YCw2Hod3PUml76SrcivffdtFUuT4VYilQzFazPClX6s2sq9LgyqgepXtZdnXJMGc9GBI3u4GHP54P6xTHYXBww8LNLvbB3P+DaHnohHaEWRXE1ITeIJH/tcxJoABtLs2b4pND0CNtq+YeGj7ILn1GtQGUrK+zGiFTqWeBYc72xd7b/X+wvavPgpio+RJyUtoOO38m/geiton/NDvaQJpHS6dN8UZ/qjnrCXwQHYZov6ac/p0m3VDcUC++1O5OWqUg==;D9Melmh8VL9hFw/JLQ6gXg=="
 ---
 

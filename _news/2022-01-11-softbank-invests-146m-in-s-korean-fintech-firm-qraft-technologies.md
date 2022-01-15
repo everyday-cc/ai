@@ -53,22 +53,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "SoftBank invests in artificial-intelligence startup Qraft Technologies"
-    excerpt: "SoftBank Group Corp. is investing $146 million in Qraft Technologies Inc. to gain access to the money manager’s artificial-intelligence tools and help seed the startup’s growth. Qraft, which manages $1."
-    publishedDateTime: 2022-01-10T23:52:00Z
-    webUrl: "https://www.livemint.com/companies/start-ups/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816887072.html"
-    ampWebUrl: "https://www.livemint.com/companies/start-ups/softbank-invests-in-artificial-intelligence-startup-qraft-technologies/amp-11641816887072.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/softbank-invests-in-artificial-intelligence-startup-qraft-technologies/amp-11641816887072.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 42
-    images:
-      - url: "https://images.livemint.com/img/2022/01/10/600x338/DELHIVERY-IPO-1_1641817041330_1641817057832.JPG"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Spark, Ten Coves Back Boosted.ai With $35 Million to Expand Asset Management Software"
     excerpt: "Boosted.ai, a provider of artificial intelligence software to investment management firms, is raising $35 million in a series B round led by Spark Capital and fintech investor Ten Coves Capital. The money will be used to build Boosted Insights,"
     publishedDateTime: 2022-01-12T16:04:00Z

@@ -75,21 +75,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Professor Says Technology for Driverless F1 Is Closer Than You Think"
-    excerpt: "Lienkamp added that while the human driver at the Formula 1 level still has the upper hand on artificial intelligence ... and similar content at piano.io Waymo and Zeekr Will Create EV Robotaxi ..."
-    publishedDateTime: 2022-01-10T23:30:00Z
-    webUrl: "https://www.autoweek.com/racing/formula-1/a38711976/driverless-f1-closer-than-you-think/"
-    ampWebUrl: "https://www.autoweek.com/racing/formula-1/amp38711976/driverless-f1-closer-than-you-think/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/racing/formula-1/amp38711976/driverless-f1-closer-than-you-think/"
+  - title: "UH-Maui hits the gas on driverless tech"
+    excerpt: "The University of Hawaii Maui College is making history as it helps develop driverless vehicle technology that is being put to the test in some of the earliest autonomous car racing competitions across the country."
+    publishedDateTime: 2022-01-15T15:54:00Z
+    webUrl: "https://www.mauinews.com/news/local-news/2022/01/uh-maui-hits-the-gas-on-driverless-tech/"
     type: article
     provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 59
+      name: The Maui News
+      domain: mauinews.com
+    quality: 39
     images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-tii-euroracing-autonomous-race-car-passes-the-tum-news-photo-1641842458.jpg?crop=1.00xw:0.753xh;0,0.0978xh&resize=1200:*"
-        width: 1200
-        height: 602
+      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2022/01/15052516/os-uhmc-driverless-AI-Racing-Tech.jpg"
+        width: 600
+        height: 399
         isCached: true
 
 secured: "IgtyJJ1949xXiEw42UgM4Uluyx9zqOtzBGq/LNaZfSu4/vhkt+G6cwRq3hy43nYu+HAtayMH5w57Y2ZlT+CUjjwA3A8y6f+1PLq2xfXiZIlWV7ISEJmBB636Dfr6Jh8shxKKIMkqkNK/anj1+8royRRFac7RvwPrM5Jraqj+FkREFQ6E1oako9EtPFJP2UjWu2baNPQD5C1niSSLsk3USvauDplIvO1xb3ojKM/z8AFDgE8bABTPlTW6iyiEK0k7ahoig0LXdMvqKYxwarrMK5cSDC89mIxBhZVy2RJvppwhr0dvax7mktySs2ptY7/mJNTuOvusB1Le5URC+cO89PusxvLl8Uiwtt2aFf0f5DU=;5c+H2JGc6adNhxqFz3ssgQ=="

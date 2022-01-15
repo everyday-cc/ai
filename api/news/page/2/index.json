@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-14-michael-jordan-joins-uaes-artificial-intelligence-university.md",
+      "title": "Michael Jordan joins UAE's artificial intelligence university",
+      "excerpt": "Celebrated academic and thought leader in machine learning and AI research, UC Berkeley Distinguished Professor Michael I. Jordan, has been named laureate professor at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/mena/en/life/story/Michael_Jordan_joins_UAEs_artificial_intelligence_university-SNG_277923760/",
+      "originalUrl": "https://www.zawya.com/mena/en/life/story/Michael_Jordan_joins_UAEs_artificial_intelligence_university-SNG_277923760/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.zawya.com/images/cia/zAmp/180620130010CTNU.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/SNG_277923760/",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/SNG_277923760/",
+      "publishedDateTime": "2022-01-13T20:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-chinas-taxpayers-on-edge-as-beijing-tightens-oversight-with-big-data-and-artificial-intelligence.md",
       "title": "China’s taxpayers on edge as Beijing tightens oversight with big data and artificial intelligence",
       "excerpt": "From small business owners to the wealthy, Chinese are bracing for greater scrutiny under a new tax surveillance system that will deploy big data and artificial intelligence.",
@@ -498,48 +540,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-vecow-movai-team-up-to-provide-amr-solutions.md",
-      "title": "Vecow, MOV.AI team up to provide AMR solutions",
-      "excerpt": "Vecow and MOV.AI plan to provide an AMR solution containing the Vecow ECX-1000 Series Fanless System and MOV.AI Robotics Engine Platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/vecow-mov-ai-team-up-to-provide-amr-solutions/",
-      "originalUrl": "https://www.therobotreport.com/vecow-mov-ai-team-up-to-provide-amr-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/01/featured-web-vescow-mov.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },

@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Professor Says Technology for Driverless F1 Is Closer Than You Think"
-    excerpt: "Lienkamp added that while the human driver at the Formula 1 level still has the upper hand on artificial intelligence ... and similar content at piano.io Waymo and Zeekr Will Create EV Robotaxi ..."
-    publishedDateTime: 2022-01-10T23:30:00Z
-    webUrl: "https://www.autoweek.com/racing/formula-1/a38711976/driverless-f1-closer-than-you-think/"
-    ampWebUrl: "https://www.autoweek.com/racing/formula-1/amp38711976/driverless-f1-closer-than-you-think/"
-    cdnAmpWebUrl: "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/racing/formula-1/amp38711976/driverless-f1-closer-than-you-think/"
-    type: article
-    provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 59
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/the-tii-euroracing-autonomous-race-car-passes-the-tum-news-photo-1641842458.jpg?crop=1.00xw:0.753xh;0,0.0978xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
   - title: "Dude, Where’s My Driverless Car?"
     excerpt: "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way"
     publishedDateTime: 2022-01-13T18:47:00Z
@@ -90,6 +74,20 @@ related:
       - url: "https://www.businessbecause.com/uploads/default/news/images/1641574105.png"
         width: 750
         height: 468
+        isCached: true
+  - title: "UH-Maui hits the gas on driverless tech"
+    excerpt: "The University of Hawaii Maui College is making history as it helps develop driverless vehicle technology that is being put to the test in some of the earliest autonomous car racing competitions across the country."
+    publishedDateTime: 2022-01-15T15:54:00Z
+    webUrl: "https://www.mauinews.com/news/local-news/2022/01/uh-maui-hits-the-gas-on-driverless-tech/"
+    type: article
+    provider:
+      name: The Maui News
+      domain: mauinews.com
+    quality: 39
+    images:
+      - url: "https://ogden_images.s3.amazonaws.com/www.mauinews.com/images/2022/01/15052516/os-uhmc-driverless-AI-Racing-Tech.jpg"
+        width: 600
+        height: 399
         isCached: true
 
 secured: "rUN1H4K0+n/d5FwDY/Segq3kObcRwM6WEb9xKr27BY82/TSX82S3vhNiDawMZGDLGVVjp8iC63gRqRY/HccZhvDxUcMv6HdrWLoWC1QmI789a9Gu21qgDbnTEOOGzUT1FBfnSlgbNDPAK2U6Cxdj7TS1rC3UL3Wfmnlp2e+rntWM2Ik9MHncIIjaiY6VSmXy/RdfkdjtFzR3ZvUhGGTfpOByYB188/TuHkc9xNn5zCUtrZQ6ml5EnyDzJndtu2+6BZncr7k1L+Gv+4B/PF/lWZdLoIXiQbJvQm/fkP48zTGIWeY/8oKr5w8mYQps21cV4GVyq4Cd+3aTvXgKQzFysjzKzWiN7DgYm//MBlrvI79pfNERYT+di9k48HbfIZjZXNBxiIRT19cwqwak0frMhLCk40Z9JtQ925XEygh3GmvVRGKON64q6CKGqJdn+Jbfr5Zv98xtVDDBKMZP8YCXNW69dClC0U35mOvakVBDNUMtExRVloVClPdZy0X8n6GsTxL3m/ipHOXm76nobg7TcTV/gGRt2sBGP6J2r3wssuY=;64VoUiVsYeg8r6RSLnVrPQ=="

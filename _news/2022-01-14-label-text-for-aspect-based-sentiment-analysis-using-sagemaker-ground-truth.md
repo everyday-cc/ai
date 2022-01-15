@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/labeling-text-for-as
 webUrl: "https://aws.amazon.com/blogs/machine-learning/labeling-text-for-aspect-based-sentiment-analysis-using-sagemaker-ground-truth/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
