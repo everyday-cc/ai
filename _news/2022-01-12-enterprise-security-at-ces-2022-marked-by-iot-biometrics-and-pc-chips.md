@@ -7,8 +7,8 @@ originalUrl: "https://www.darkreading.com/dr-tech/enterprise-security-at-ces-202
 webUrl: "https://www.darkreading.com/dr-tech/enterprise-security-at-ces-2022-marked-by-iot-biometrics-and-pc-chips"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Dark Reading
@@ -39,20 +39,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/01161503/handcuffs.jpg"
         width: 1200
         height: 709
-        isCached: true
-  - title: "China intensifies biometrics, video surveillance research as social credit market builds"
-    excerpt: "China leads all other nations in publishing research on the visual surveillance of populations, one of the most controversial segments of biometrics."
-    publishedDateTime: 2022-01-10T18:19:00Z
-    webUrl: "https://www.biometricupdate.com/202201/china-intensifies-biometrics-video-surveillance-research-as-social-credit-market-builds"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
         isCached: true
 
 secured: "yjBmuWjpUTr4NjE2Tar5V87OL2hFq7wyhO2qsj2poguPRfdCesej54Od1dlGH00ZlS+GvA+dz1k7mqOl7QOp1UScydvd/j55hmylyus1ypXqPC1M070XqE4zLrU081yagw9Vbn2c6WyokNve9m/0k027tVFl1DwKmdtR3yG4d8W7Xo9DRJrFQ8OESmgxwZZW+/rkV51pdWkh1fatOEq2RthTygEt5ae4LsiT61BdPizVzKhjC4phoCmKt1gGnlxpfgqbt/sIK6ZVtwTxI/DpJP0CJaGj3mPxNUzvPrxulLZ+eKe/hnrtH6c9Oh419kEJpmW9EN3KrOWyWHtbp3QnaeSOXeiJQlg0toYZqHRtIfE=;Qii65+BykH4wOtYdfW5RlA=="

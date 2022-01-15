@@ -630,49 +630,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-12-sophia-the-robot-interviewed-during-tech-with-soul.md",
-      "title": "Sophia the Robot interviewed during Tech with Soul",
-      "excerpt": "Sophia the Robot said she’s committed to improving the quality of life for all people throughout the world, and asserted that artificial intelligence (AI) can help bring racial equality, economic",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.html",
-      "originalUrl": "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/miamitimesonline.com/content/tncms/custom/image/b4f5338a-6dd9-11ea-8081-4fee519df8b2.png",
-          "width": 1256,
-          "height": 1261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.amp.html",
-      "cdnAmpWebUrl": "https://www-miamitimesonline-com.cdn.ampproject.org/c/s/www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.amp.html",
-      "publishedDateTime": "2022-01-12T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Miami Times",
-        "domain": "miamitimesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-11-doosan-robotics-raises-337-million-in-funding.md",
       "title": "Doosan Robotics Raises $33.7 million in Funding",
       "excerpt": "Doosan Robotics, a South Korea-based developer of collaborative robotic arms, last week announced $33.7 million in funding, led Praxis Capital Partners and Korea Investment Partners. Funds will be used to expand global sales base and strengthen R&D to attract additional partnerships both global and domestic.",
@@ -1408,6 +1365,54 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-artificial-intelligence-stocks-the-10-best-ai-companies.md",
+      "title": "Artificial Intelligence Stocks: The 10 Best AI Companies",
+      "excerpt": "AI stocks may be excellent long-term investments. The global artificial intelligence market is on track to hit more than $554 billion in total revenue by 2024, according to market researcher IDC.",
+      "sourceUrl": null,
+      "webUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "originalUrl": "https://wtop.com/news/2022/01/artificial-intelligence-stocks-the-10-best-ai-companies-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOP News",
+        "domain": "wtop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "IBM AI",
+        "Microsoft AI",
+        "AWS AI"
       ]
     }
   ],

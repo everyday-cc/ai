@@ -24,6 +24,22 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "UAE - Nobel Laureates to discuss the future of science at Vietnam’s VinFuture Award Week"
+    excerpt: "HANOI, VIETNAM – Media OutReach – 14 January 2022 – As part of the VinFuture Award Week (Jan 18 – 21, in Hanoi), the“Science for Life” Symposium will see some of humanity's greatest thinkers give detailed predictions about the future of mankind."
+    publishedDateTime: 2022-01-15T09:43:00Z
+    webUrl: "https://menafn.com/1103543067/UAE-Nobel-Laureates-to-discuss-the-future-of-science-at-Vietnams-VinFuture-Award-Week"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 15
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?139300"
+        width: 370
+        height: 250
+        isCached: true
+
 secured: "RhvH15xaPKDPAqGhQbnDDKPabWzVnIXAAQVFkcR9WaV7FKBt3/v5Yz8i6CQ5sSp8dsOVfCwu7orBdlkngMHnrASsuQV9x+eJ2nwvj8CayjZfqkE26XdW4vKSqRX8r3wBNP7JqG+TFb69n4NFezCaOWMEwzVjtHiXxg3WSWlvxwvoCvXIek1yxitv6oAzkAVTx3C0x2es+eeTsRpArHcVUS4xG1xSpsU3B0GkuJHPrtqMJTrDfFlfHqdxmXYRs0TAFmHx8ytEv8Cf+sIl523//JSXwnU7fPI6UX2mjYMoGIwwutcjEb9On94R/7OXaZFIWJx3qrPbh52LALFEb/dJ/xSk0N8W8hvgI7eQQw6/lS8=;IPPsbjROF88xgNWVP9HyPw=="
 ---
 

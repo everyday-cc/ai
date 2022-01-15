@@ -39,20 +39,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "China intensifies biometrics, video surveillance research as social credit market builds"
-    excerpt: "China leads all other nations in publishing research on the visual surveillance of populations, one of the most controversial segments of biometrics."
-    publishedDateTime: 2022-01-10T18:19:00Z
-    webUrl: "https://www.biometricupdate.com/202201/china-intensifies-biometrics-video-surveillance-research-as-social-credit-market-builds"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 15
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/11113259/public-safety-camera.jpg"
-        width: 1200
-        height: 914
-        isCached: true
 
 secured: "w8p1sc7TzCFvTbf+BsMwv5K0ags8QeEc25Kv+FNNKMTEytkETRYh+gE/MedkCgtMKvpsb54Xpa3JB1aJMoMkySN95LH1XiaHg78zUXuurO2QdhAuFmV5/Y4WQQOYE8AgXqO/JM+YBRtj95tQt1d1/dJbdzT5WZJZgLk+bwPcYQNMJumT+uk2WmkTjfr3bWzNEQMojIAlgnP925r1JwcQJMs0a8O889sXw61Pa1kCoeWd00CChLPV+FaBj+zioVogKwPuI1NyAUqeCb0NKrHDVMmgTTt6H2AP/crrspE17eZFg1Sb1YaUNKrbYnAsrEQ98C5r9Bu1VRhAMFp3/+SH0d9NPYqpc77KJ8gs0MAa8shtrUuQR9hsVlIhk5Vdpu2Y+VbSzgAufaSMKqr1LbfezgF9XXIYQFALRYmJDqtvvOgc283uHUHEYxTxE4Al0sxrwiuajq2k1IgTQQzi32XhqKEMwiHIj+tH3R+z1tzeaedAFQFaettbTV/zyTKFZSJlvc7/b3UrmeQcZ9P6516czw==;M2LmhxH6husAHKLdUTHoag=="
 ---

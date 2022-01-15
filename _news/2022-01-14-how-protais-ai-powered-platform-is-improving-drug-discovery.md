@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1290
         height: 574
         isCached: true
-  - title: "How AI is improving the translation experience for marketers"
-    excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
-    publishedDateTime: 2022-01-10T17:30:00Z
-    webUrl: "https://www.america-retail.com/usa/how-ai-is-improving-the-translation-experience-for-marketers/"
-    type: article
-    provider:
-      name: america-retail.com
-      domain: america-retail.com
-    quality: 19
   - title: "How AI is being used to improve disability employment"
     excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"
     publishedDateTime: 2022-01-13T17:57:00Z

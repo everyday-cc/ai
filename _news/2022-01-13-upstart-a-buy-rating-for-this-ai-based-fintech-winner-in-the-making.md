@@ -1,27 +1,29 @@
 ---
 category: news
-title: "EQM Indexes Launches Emerging Markets FinTech Index"
-excerpt: "1 Emerging and frontier markets have provided fertile ground for FinTech solutions, disrupting traditional financial ... Realizeit, the provider of the first-of-its-kind AI-powered adaptive platform that personalizes learning for performance, announced ..."
-publishedDateTime: 2022-01-12T14:53:00Z
-originalUrl: "https://www.lelezard.com/en/news-20189213.html"
-webUrl: "https://www.lelezard.com/en/news-20189213.html"
+title: "Upstart: A Buy Rating For This AI-Based Fintech Winner In The Making"
+excerpt: "Upstart's superior AI-based model brings strong value proposition to consumers and bank partners. Read more to see why UPST is a Buy now and my PT."
+publishedDateTime: 2022-01-13T07:06:00Z
+originalUrl: "https://seekingalpha.com/article/4479438-upstart-upst-fintech-winner-stock-buy"
+webUrl: "https://seekingalpha.com/article/4479438-upstart-upst-fintech-winner-stock-buy"
+ampWebUrl: "https://seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
+cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
 type: article
-quality: 24
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Le Lézard
-  domain: lelezard.com
+  name: Seeking Alpha
+  domain: seekingalpha.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-    width: 640
-    height: 480
+  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1283432364/medium_image_1283432364.jpg"
+    width: 768
+    height: 567
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
       - url: "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg"
         width: 500
         height: 236
-        isCached: true
-  - title: "Upstart: A Buy Rating For This AI-Based Fintech Winner In The Making"
-    excerpt: "Upstart's superior AI-based model brings strong value proposition to consumers and bank partners. Read more to see why UPST is a Buy now and my PT."
-    publishedDateTime: 2022-01-13T07:06:00Z
-    webUrl: "https://seekingalpha.com/article/4479438-upstart-upst-fintech-winner-stock-buy"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 59
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1283432364/medium_image_1283432364.jpg"
-        width: 768
-        height: 567
         isCached: true
   - title: "Robo Inu Finance aims to create payment methods using the FinTech industry"
     excerpt: "Robo Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial"
@@ -84,6 +70,20 @@ related:
       - url: "https://retailinsider.b-cdn.net/wp-content/uploads/2022/01/pexels-photo-5076516.jpeg"
         width: 867
         height: 1300
+        isCached: true
+  - title: "EQM Indexes Launches Emerging Markets FinTech Index"
+    excerpt: "1 Emerging and frontier markets have provided fertile ground for FinTech solutions, disrupting traditional financial ... Realizeit, the provider of the first-of-its-kind AI-powered adaptive platform that personalizes learning for performance, announced ..."
+    publishedDateTime: 2022-01-12T14:53:00Z
+    webUrl: "https://www.lelezard.com/en/news-20189213.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 24
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Five key fintech trends to watch in 2022"
     excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
@@ -156,6 +156,6 @@ related:
         height: 900
         isCached: true
 
-secured: "vzgHwv97B6cSVbK+efx7E++rI+OxQuSFnve/Qqp8H3Ty/Tnrutr8Bny/QZUc74JyJ/69TKE0zAUYPyuwfuRvv2mZST9JTrSUQ+Et2SY0f8hM7vzSs5cwNyEcOpUV8LFA7WLjk20RmG/tbI6e3UJ3XRymSO49OXSOCoEEYYw1ePuAgfUf141dk23+rV42jLj1TpnVKxsjkMXl3+TrtluZlSmW/vmE70FkPRFYPaV2cFWC5OoN3LwFsTQhZDzP1ry/Oat1b44oBowKpZxeEOMppxfGCKt7iq9WSIFG4tZiWwynIXyQnTS7DzrPIJ4mAo1Iv3VOeY8Wm22vzfC+wRlkALlZQyOoED/zGXemj4IVbIo=;jnAkhVl73W2y/3wNvmbgEA=="
+secured: "paLar1gkbar1bIZp2m7CSABzMGEEZdLxuCennatHKZ5vDKPBIJfjtz9BN8AEbBp7z7U+rxyz7dI7WX0901ZlscpXxGEwgJgBa/jCohAO38BDORE0RXm1rXTqRIIw4YGokhzpm0mytKZyIvB3AJI7RX7f9eG+qdYc3y/M1TB9vyxLfriwd5VWUoNKQmloL5aFqdu9rKIJc1CY3FfB8GpsWiJr9gGN03xT0kDo5QrieX0BxgJogr9BWEuTxrVr0B+26h+4aDOJMGEZDaCkRWf8UEYg298RMcvd9lDGVLH3/R9wpmgLeijP0Sh8Rd1eM4vCMPii+0yvqvtGLZWknQOxYpeRnYmFS1iqrTRhJB04650=;H8Ab4vTmFQ8mZtnvEvwe7Q=="
 ---
 

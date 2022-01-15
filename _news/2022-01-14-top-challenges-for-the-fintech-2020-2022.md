@@ -45,6 +45,22 @@ related:
         width: 500
         height: 236
         isCached: true
+  - title: "Upstart: A Buy Rating For This AI-Based Fintech Winner In The Making"
+    excerpt: "Upstart's superior AI-based model brings strong value proposition to consumers and bank partners. Read more to see why UPST is a Buy now and my PT."
+    publishedDateTime: 2022-01-13T07:06:00Z
+    webUrl: "https://seekingalpha.com/article/4479438-upstart-upst-fintech-winner-stock-buy"
+    ampWebUrl: "https://seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
+    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 59
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1283432364/medium_image_1283432364.jpg"
+        width: 768
+        height: 567
+        isCached: true
   - title: "Robo Inu Finance aims to create payment methods using the FinTech industry"
     excerpt: "Robo Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial"
     publishedDateTime: 2022-01-13T11:42:00Z

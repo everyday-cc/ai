@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
       - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/machinelearning4.jpg"
         width: 976
         height: 400
-        isCached: true
-  - title: "2022 to see rise in adoption of chatbots, hiring in data analytics, growth of fintech: Report"
-    excerpt: "With the rapid tech adoption across industries and entirely tech-enabled sectors such as IT and BFSI, the role of AI and machine learning will only continue to grow in 2022, with a significant increase in the demand for related roles,"
-    publishedDateTime: 2022-01-10T18:24:00Z
-    webUrl: "https://www.indiatvnews.com/business/news/adopting-chatbots-hiring-in-data-analytics-to-see-rise-in-2022-says-report-2022-01-10-753776"
-    ampWebUrl: "https://www.indiatvnews.com/amp/business/news/adopting-chatbots-hiring-in-data-analytics-to-see-rise-in-2022-says-report-2022-01-10-753776"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/business/news/adopting-chatbots-hiring-in-data-analytics-to-see-rise-in-2022-says-report-2022-01-10-753776"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 33
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/01/chatbots-1641837702.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "ZtPMvVdrCz+hHYsMNnEpSZ+EVfn6OAVTk9yHcWMyAhCf9ACfIy4Sce1c5vrUiab/j+WbT/KMksaiT9LtvlE2cgygt45knQljWM57Umu9lUSbnhcVn0O9t1u0UcltdQKCgvdab7j6jidiNhiof0bAXHKe2ekj4EFj1QBay2PRLFjwoxR8trf/qNPU+yBXIGM20b2tjSEFM4pFm/g+hv5Q6QAUOL3E0MlVQQI2DnTU3tXtLHI/atOn47KBIi2XDfc/TUk7IFmMuRKuqZQJ96Rf5ROdmNBqOSTVuMbt2gXO1ucHrsbBuv5oJjhTT+O0EwcK8yvSShGdAtTNgGvhZsMf46xwAdW0ySiN3QPept/A9Ls=;0x4dTKacptVA5m9Sla4Few=="

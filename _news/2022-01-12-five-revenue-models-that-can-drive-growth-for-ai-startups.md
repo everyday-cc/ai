@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Speeds Up Derivative Models for Bank of Montreal"
-    excerpt: "This requires high-performance computing power to run complex derivatives models - which find fair prices for financial contracts - as close to real time as possible. \"You don't want to trade today on yesterday's data."
-    publishedDateTime: 2022-01-10T18:46:00Z
-    webUrl: "https://www.publicnow.com/view/30699AD3A518943912481444BF8219A180430519"
-    type: article
-    provider:
-      name: publicnow.com
-      domain: publicnow.com
-    quality: 34
   - title: "Moment AI: Automotive safety startup builds AI for self-driving cars"
     excerpt: "Moment AI develops a software for the autonomous vehicle industry to protect vulnerable drivers from accidents — and now see why this Arlington company is one of our Startups to Watch for 2022."
     publishedDateTime: 2022-01-14T09:00:00Z

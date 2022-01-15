@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-addres
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/"
 type: article
 quality: 70
-heat: 100
+heat: 80
 published: true
 
 provider:
@@ -46,24 +46,6 @@ related:
         width: 457
         height: 274
         isCached: true
-  - title: "DEBIOPHARM INVESTS IN VERISIM LIFE'S $15M SERIES A ROUND TO ADVANCE AI-ENABLED DRUG RESEARCH"
-    excerpt: "Debiopharm (  ), a Swiss biopharmaceutical company, announced today their co-investment in California -based start-up VeriSIM Life's $15 Million Series A Round to advance their mission to accelerate drug development via technology powered by artificial intelligence (AI)."
-    publishedDateTime: 2022-01-10T18:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-debiopharm-invests-verisim-lifes-15m-series-round-advance-/2022/01/10/9523113.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
-  - title: "Debiopharm International SA: DEBIOPHARM INVESTS IN VERISIM LIFE'S $15M SERIES A ROUND TO ADVANCE AI-ENABLED DRUG RESEARCH"
-    excerpt: "Funding to support BIOiSIM computational platform to reduce the need for animal testing by selecting compounds showing promise to cure a disease prior to research in humans LAUSANNE, Switzerland"
-    publishedDateTime: 2022-01-10T18:29:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54935953-debiopharm-international-sa-debiopharm-invests-in-verisim-life-s-dollar-15m-series-a-round-to-advance-ai-enabled-drug-research-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "hEHvf4rHkGCVigRqTLqyQOrQmY6s1Z/UMV325rsP4QQAzA8VlosYbMl557TIufLpY4igwhka6r+bDn97bScq/3qcNtMeLYIYKgt3qAfWFZxe44CppCo1PI22rrZbMA2nSSVVvSNhRSQP0uaC+Sifzsj9M892dNfN0qrh6jWlYtU4IJbsfDHu/lDqFm2i7SbPMZeOEKktUdFpuR4EEnkVsVXn8JglsJXYXH0leLYfqXGxziii/DaBSy87F8oVutklpySeZBDYRpbU1MFVJ1wfchrCClpkez0c+wSwTAT9tTKmebMG2N/E0OSfWRKekh8wbi5SziW171rug4QIBrK36USmR4WN4+DGKw7lMxWwonc=;Y/7WQVgTuMqrLlO49IHtgQ=="
 ---

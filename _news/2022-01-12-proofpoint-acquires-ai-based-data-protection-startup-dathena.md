@@ -2,17 +2,17 @@
 category: news
 title: "Proofpoint Acquires AI-Based Data Protection Startup Dathena"
 excerpt: "Proofpoint, which was acquired by private equity firm Thoma Bravo in 2021, has merged with Dathena, a New York-based AI data protection platform. Dathena's platform"
-publishedDateTime: 2022-01-12T23:15:00Z
-originalUrl: "https://www.govinfosecurity.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300"
-webUrl: "https://www.govinfosecurity.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300"
+publishedDateTime: 2022-01-12T00:00:00Z
+originalUrl: "https://www.databreachtoday.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300"
+webUrl: "https://www.databreachtoday.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: HHS
-  domain: govinfosecurity.com
+  name: DataBreachToday
+  domain: databreachtoday.com
 
 topics:
   - AI
@@ -54,12 +54,12 @@ related:
         isCached: true
   - title: "Proofpoint Acquires AI-Based Data Protection Startup Dathena"
     excerpt: "Proofpoint, which was acquired by private equity firm Thoma Bravo in 2021, has merged with Dathena, a New York-based AI data protection platform. Dathena's platform"
-    publishedDateTime: 2022-01-12T00:00:00Z
-    webUrl: "https://www.databreachtoday.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300"
+    publishedDateTime: 2022-01-12T23:15:00Z
+    webUrl: "https://www.govinfosecurity.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300"
     type: article
     provider:
-      name: DataBreachToday
-      domain: databreachtoday.com
+      name: HHS
+      domain: govinfosecurity.com
     quality: 37
     images:
       - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-showcase_image-4-a-18300.jpg"
@@ -67,6 +67,6 @@ related:
         height: 520
         isCached: true
 
-secured: "kq5d07PaDG4t78tfbBzVXItcYDJB29Mj6+loA7/AfeW3AwGXzKTqgp/wZp6ikcoiqn3xhO8PSpbFwdsGajWlyi8mOGIeezdyVVe/F1hx/jwDhZiTgkfCZ/GQXJmkln0aHBj9U81WWan4fZnpQs55P1WV4VrF9hZ0b/mFOg5KxIANPXJZcj1fBg6du0+tNMnDcrD06cT2/Ng0R5tud0xovtA2LLqtTRktSRNkTHeZsanwbzZq4dfRJ+wHIanD1FyNE+llRP+lSj8Wl8idYqz5Od8rnUzz0qJpaZ8mIE+4TaSCWx8jahgLETGOlB+RIl3DHOFXR5st+KoCxw7vwo9phLUh14G+rC9iUydf7ND2mSI=;laJ1/oX9wb82vJFBvsz7fg=="
+secured: "pEcMnVLy1HxRs45laNLntG7f3SQuS1D5G+FXg64FH+Vxbw8u7kaEJrfA0V7cysfC2LQKebDxkQ0gVvJ5m2NFvnBth3JGyMWPD4dcM5xmC69EthyNvmSrR4fX4naIxrYZzwB8se6zN0Dium2rbnJMacRxhwquX9OUe8lginAxHKadTahccPK2GSuaBkQkBBfokllePofweFoxH1Jok7x9ccphsTmySdC1DfyYbVDdw0/lTaw4rv+XchlTWjAYcGVQ26aqmzA+LjBhMt4QAij8HCPjk8TYgvQTi9EGdKJwIxJfX7zeb9lv/wz2DhPYUyenJ/FS5x5P4Xx8HhT0d0hyCc2VvObGNTzZkbQi/nRpPg4=;Utd9o45ZaqanAHSUi92KHA=="
 ---
 

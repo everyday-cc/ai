@@ -77,15 +77,6 @@ related:
         width: 1290
         height: 574
         isCached: true
-  - title: "How AI is improving the translation experience for marketers"
-    excerpt: "Mention artificial intelligence when discussing language services and most people would agree that machine learning has led to faster translation and localization. But has it made them better?"
-    publishedDateTime: 2022-01-10T17:30:00Z
-    webUrl: "https://www.america-retail.com/usa/how-ai-is-improving-the-translation-experience-for-marketers/"
-    type: article
-    provider:
-      name: america-retail.com
-      domain: america-retail.com
-    quality: 19
 
 secured: "eqrmuLx6iy1VEI+IWnbog50CsnvbdPVPiNbpUbuwqKe6366mdz/O4lYMigP/6nihDr+AjkK9rYvHw//Q4zLZXsKqRJD6n6lgtr7ZotEMyh4H0VBHXNceQv6rguUk6sd+h1vFmZRliK8xVj6muAVWNklwF47W9eGA4WWoASO6PO1A0WMMWNms0rUy+66gO2hqwJM+Thqoq/PzUFyH06kr+eklA9OWvr7SfPI+nNNI4XZ9MOoHTybFUI5SMPSsdLV3lYcH5QsZFT/9oLY32ETl744eVRUNoWMdJEyPozC5Iklq8K3lSqSs+XEEZP8we7mxq5r1RgA/P8ZyGp3NIl+Df/k3HyyyfIvR8tQ5qSjQQbI=;iu27sack+gliw3LU/Vwgkw=="
 ---

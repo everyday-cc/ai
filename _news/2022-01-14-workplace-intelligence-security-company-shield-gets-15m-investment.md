@@ -43,24 +43,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "DEBIOPHARM INVESTS IN VERISIM LIFE'S $15M SERIES A ROUND TO ADVANCE AI-ENABLED DRUG RESEARCH"
-    excerpt: "Debiopharm (  ), a Swiss biopharmaceutical company, announced today their co-investment in California -based start-up VeriSIM Life's $15 Million Series A Round to advance their mission to accelerate drug development via technology powered by artificial intelligence (AI)."
-    publishedDateTime: 2022-01-10T18:35:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-debiopharm-invests-verisim-lifes-15m-series-round-advance-/2022/01/10/9523113.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
-  - title: "Debiopharm International SA: DEBIOPHARM INVESTS IN VERISIM LIFE'S $15M SERIES A ROUND TO ADVANCE AI-ENABLED DRUG RESEARCH"
-    excerpt: "Funding to support BIOiSIM computational platform to reduce the need for animal testing by selecting compounds showing promise to cure a disease prior to research in humans LAUSANNE, Switzerland"
-    publishedDateTime: 2022-01-10T18:29:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54935953-debiopharm-international-sa-debiopharm-invests-in-verisim-life-s-dollar-15m-series-a-round-to-advance-ai-enabled-drug-research-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "YVx4lGHlSD8A+8t53/akn+7oSzC7e/3ldI9rKltOAIbPEcWOxFZNjyvHli5wYcFUFsrktbk2ijpiKOM53o4uHmebyr0Yc1S2DVBNVuiXSYBf4D/+6VFPIoCHxHhlan4a2pLEJmV/9VFAFKe5nWh8SE+NtfXLivP8DRAuSu0wxqPC1Jasbo3idgCCpCx4pl9+SFNp2oYAVWm4JbO3aUkpJ5H1xLU7gwz1zkVVx232mFHA6NG2cClwZXGDd/OYnUSbHwxNEv7dGsX3mcAc1EBw5jQKayPnh0j/AxdEVUFFZH+2EgiR+DujheR9TFefGvHlwENmT12OjbSTibypEDa1hpAdOmKw1opFwjxXiCpaxVU=;meFLvzgF2u5epsc5oxABCA=="
 ---

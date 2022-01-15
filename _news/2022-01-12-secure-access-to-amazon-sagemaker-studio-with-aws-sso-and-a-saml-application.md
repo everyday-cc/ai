@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How ReliaQuest uses Amazon SageMaker to accelerate its AI innovation by 35x "
-    excerpt: "Cybersecurity continues to be a top concern for enterprises. Yet the constantly evolving threat landscape that they face makes it harder than ever to be confident in their cybersecurity protections. To&nbsp;address&nbsp;this,&nbsp;ReliaQuest built&nbsp;GreyMatter,&nbsp;an Open XDR-as-a-Service platform&nbsp;that"
-    publishedDateTime: 2022-01-10T17:59:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-reliaquest-uses-amazon-sagemaker-to-accelerate-its-ai-innovation-by-35x/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/30/ML-6323-image001.jpg"
-        width: 1200
-        height: 514
-        isCached: true
   - title: "Develop an automatic review image inspection service with Amazon SageMaker"
     excerpt: "This is a guest post by Jihye Park, a Data Scientist at MUSINSA.&nbsp; MUSINSA is one of the largest online fashion platforms in South Korea, serving 8.4M customers and selling 6,000 fashion brands. Our monthly user traffic reaches 4M, and over 90% of our demographics consist of teens and young adults"
     publishedDateTime: 2022-01-10T22:15:42Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.miamitimesonline.com/business/technology/sophia-the-robo
 cdnAmpWebUrl: "https://www-miamitimesonline-com.cdn.ampproject.org/c/s/www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Miami Times
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sophia the Robot Commits to Helping End Global Racism and Injustice"
-    excerpt: "Sophia the Robot said she’s committed to improving the quality of life for all people throughout the world, and asserted that artificial intelligence (AI) can help bring racial equality, economic equity,"
-    publishedDateTime: 2022-01-10T17:48:00Z
-    webUrl: "https://www.washingtoninformer.com/sophia-the-robot-commits-to-helping-end-global-racism-and-injustice/"
-    type: article
-    provider:
-      name: The Washington Informer
-      domain: washingtoninformer.com
-    quality: 39
-    images:
-      - url: "https://www.washingtoninformer.com/wp-content/uploads/2022/01/image-37.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
   - title: "Sophia the Robot Commits to Help End Global Racism and Injustice"
     excerpt: "We need to create a society that is based on equality and justice for all. It’s paramount for humans and AI to work together. We should celebrate diversity and I believe we will see a decrease in racism,"
     publishedDateTime: 2022-01-13T00:00:00Z

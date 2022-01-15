@@ -533,7 +533,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -724,49 +724,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-12-sophia-the-robot-interviewed-during-tech-with-soul.md",
-      "title": "Sophia the Robot interviewed during Tech with Soul",
-      "excerpt": "Sophia the Robot said she’s committed to improving the quality of life for all people throughout the world, and asserted that artificial intelligence (AI) can help bring racial equality, economic",
-      "sourceUrl": null,
-      "webUrl": "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.html",
-      "originalUrl": "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/miamitimesonline.com/content/tncms/custom/image/b4f5338a-6dd9-11ea-8081-4fee519df8b2.png",
-          "width": 1256,
-          "height": 1261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.amp.html",
-      "cdnAmpWebUrl": "https://www-miamitimesonline-com.cdn.ampproject.org/c/s/www.miamitimesonline.com/business/technology/sophia-the-robot-interviewed-during-tech-with-soul/article_3c70874c-7350-11ec-9faf-0bbf1f39882c.amp.html",
-      "publishedDateTime": "2022-01-12T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Miami Times",
-        "domain": "miamitimesonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-12-aiml-at-scale-the-next-horizon-for-ppgs-data-strategy.md",
       "title": "AI/ML at scale: The next horizon for PPG’s data strategy",
       "excerpt": "At PPG, data is key not only to IT strategy, but to enabling business strategy, says Jeff Lipniskis, global IT director. With a solid foundation in place, his focus now is on being AI ready.",
@@ -895,7 +852,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -947,7 +904,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1170,6 +1127,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker.md",
+      "title": "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker",
+      "excerpt": "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/10/ML-5350-image007-1260x501.png",
+          "width": 1260,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T12:05:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
       ]
     }
   ],

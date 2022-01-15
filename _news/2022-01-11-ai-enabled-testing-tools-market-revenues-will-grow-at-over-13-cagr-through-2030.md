@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/ai-enabled-testing-tools-market-revenues-wil
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Impacts
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Business Intelligence Platform Market to Exhibit 10% CAGR through 2029"
-    excerpt: "New Study Reports \" Business Intelligence Platform Market 2021 Global Opportunities, Challenges, Strategies and Forecasts 2029\" has been Added on PersistenceMarketResearch. Report Details: Technological advancements in business intelligence platforms such as artificial intelligence,"
-    publishedDateTime: 2022-01-10T17:34:00Z
-    webUrl: "https://www.openpr.com/news/2522581/business-intelligence-platform-market-to-exhibit-10-cagr"
-    ampWebUrl: "https://www.openpr.com/amp/2522581/business-intelligence-platform-market-to-exhibit-10-cagr"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2522581/business-intelligence-platform-market-to-exhibit-10-cagr"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 44
-    images:
-      - url: "https://cdn.openpr.com/V/1/V110625747_g.jpg"
-        width: 620
-        height: 485
-        isCached: true
   - title: "Artificial Intelligence In Drug Discovery Market To Gain A CAGR Of 40.8% By 2025"
     excerpt: "The incorporation of AI and machine learning tools in drug discovery and development applications can improve healthcare outcomes by enhancing overall efficiency. As per MRFR, the Artificial Intelligence in Drug Discovery Market is estimated to gain a USD 2,"
     publishedDateTime: 2022-01-13T07:13:00Z

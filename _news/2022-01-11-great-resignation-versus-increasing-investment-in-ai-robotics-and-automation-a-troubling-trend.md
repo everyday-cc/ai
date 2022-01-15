@@ -45,20 +45,6 @@ related:
         width: 1260
         height: 501
         isCached: true
-  - title: "How ReliaQuest uses Amazon SageMaker to accelerate its AI innovation by 35x "
-    excerpt: "Cybersecurity continues to be a top concern for enterprises. Yet the constantly evolving threat landscape that they face makes it harder than ever to be confident in their cybersecurity protections. To&nbsp;address&nbsp;this,&nbsp;ReliaQuest built&nbsp;GreyMatter,&nbsp;an Open XDR-as-a-Service platform&nbsp;that"
-    publishedDateTime: 2022-01-10T17:59:10Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-reliaquest-uses-amazon-sagemaker-to-accelerate-its-ai-innovation-by-35x/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/30/ML-6323-image001.jpg"
-        width: 1200
-        height: 514
-        isCached: true
   - title: "Secure access to Amazon SageMaker Studio with AWS SSO and a SAML application"
     excerpt: "Cloud security at AWS is the highest priority. Amazon SageMaker Studio offers various mechanisms to protect your data and code using integration with AWS security services like AWS Identity and Access Management (IAM), AWS Key Management Service (AWS KMS), or network isolation with Amazon Virtual Private"
     publishedDateTime: 2022-01-12T21:02:00Z
