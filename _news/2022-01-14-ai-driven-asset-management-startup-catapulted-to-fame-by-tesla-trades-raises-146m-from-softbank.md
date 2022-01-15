@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/etf/ai-driven-asset-manag
 webUrl: "https://markets.businessinsider.com/news/etf/ai-driven-asset-management-startup-catapulted-to-fame-by-tesla-trades-raises-146m-from-softbank-1031102394"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo.png"
         width: 512
         height: 512
-        isCached: true
-  - title: "SoftBank invests $146m in S Korean fintech firm Qraft Technologies"
-    excerpt: "South Korea-based AI-enabled fintech company Qraft Technologies, Inc. (Qraft) has raised $146 million from Japanese behemoth SoftBank Group Corp as the company carves out its expansion plans in the US and China,"
-    publishedDateTime: 2022-01-11T04:24:00Z
-    webUrl: "https://www.dealstreetasia.com/stories/softbank-qraft-technologies-276891/"
-    type: article
-    provider:
-      name: dealstreetasia
-      domain: dealstreetasia.com
-    quality: 39
-    images:
-      - url: "https://dealstreetwebsite.s3.amazonaws.com/uploads/2021/03/softbank-e1635444254685.jpg"
-        width: 1024
-        height: 517
         isCached: true
   - title: "Spark, Ten Coves Back Boosted.ai With $35 Million to Expand Asset Management Software"
     excerpt: "Boosted.ai, a provider of artificial intelligence software to investment management firms, is raising $35 million in a series B round led by Spark Capital and fintech investor Ten Coves Capital. The money will be used to build Boosted Insights,"

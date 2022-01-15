@@ -53,7 +53,7 @@ related:
     provider:
       name: The Pioneer
       domain: dailypioneer.com
-    quality: 37
+    quality: 41
     images:
       - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/ai-trends-for-2022-2022-01-16.jpg"
         width: 1000

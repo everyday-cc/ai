@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "The California-based tech giant utilizes AI in blocking misinformation and other harmful content on its family of apps. Additionally, AI tools developed by Meta Platforms, Inc. (NASDAQ:FB) play a major role in improving the customer shopping experience on Facebook,"
+excerpt: "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc."
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - Facebook AI
+  - Google AI
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "rZnZA7dS/syYonir9kPK/QeQFQPMdC1FM9mFTBFqGBDM44d6WwoESIPkuZEeiu4ok5jr5uzmvNPmFRDNE692hQ2jeSdlvYzFFJhQExZphO4/sEEoNOftIUby20mWXoyaSQ/8thq81FFOnrTUBkT5Ft4SUvSdghxqiMDAjK4GcQ7r3AwIHyazVRzyxBYfwfRnqtP7In7PMymtPMUEc7/uCewN8v2yEunx8I5lKu82deemc/CUua5NPacKFFChOQYKuZsjyzOlewfwMezOZqKQVZOtE51egPLxgDMabtNBVnXj+KWCqazQyDNx42fdtdJuCptiNty7pM/qFALHICW7wg45z71B5D8NhL+ZYhjudeM=;ewv/MukH5eEvIt6UKauqKQ=="
+secured: "9uAJBx2N7pLDmqQcA9w3swJE/PeEL5aS+TLADrFX/SeLju4lfGF7kwPcnKR0vtOKvnaXLLzaDBWUlGfAT3AHXIoT3XafrY8StNItHqMT90ZkJrlgtEdnE+M4Xpa4juGfxrLcSlkW4lVJouY8MfZYAZuntwfa2MlOc0KBE+VM4zGDheu+qvlvfgGEKQ6n69ScJij02L1IzrHSIv0UAHSsDeOpM0pdlqoFIop4NNWNQToJ+T40rncbiDpuRvSzTtxtE5vbHzPzSSqyDHX9vtvBxAeDKtqRMAJVYj5HKRBUJgHgfPm4B1+Z7rLt2NEQbTS3i6Z2AKlIAdZhDJ4jqon0KpI7lA0TvW/7+p2mLdCgos0=;NlzhnQNe25qUJpKVc+Scew=="
 ---
 
