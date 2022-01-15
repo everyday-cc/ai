@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-13-chinese-self-driving-chip-startup-secures-investment-from-bosch.md",
+      "title": "Chinese self-driving chip startup secures investment from Bosch",
+      "excerpt": "Boyuan Capital, an investment arm of German car supplier Bosch, has invested an undisclosed sum into Chinese semiconductor startup Black Sesame, making its first bet on artificial intelligence chips for self-driving vehicles in China.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
+      "originalUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
+      "publishedDateTime": "2022-01-13T00:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-cogniteams-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai.md",
       "title": "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI",
       "excerpt": "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development",
@@ -602,7 +646,7 @@
       "originalUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1124,49 +1168,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-surface-navy-2022-tactical-focus-driving-ai-development.md",
-      "title": "Surface Navy 2022: Tactical focus driving AI development",
-      "excerpt": "US Navy (USN) leaders are looking to leverage advanced technological capabilities in artificial intelligence (AI) and machine learning (ML) in the tactical",
-      "sourceUrl": null,
-      "webUrl": "https://www.janes.com/defence-news/defence/latest/surface-navy-2022-tactical-focus-driving-ai-development",
-      "originalUrl": "https://www.janes.com/defence-news/defence/latest/surface-navy-2022-tactical-focus-driving-ai-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.janes.com/images/default-source/news-images/bsp_11674-idr-15802.jpg?sfvrsn=fd3d809b_2",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "publishedDateTime": "2022-01-11T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

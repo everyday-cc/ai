@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
 type: article
 quality: 73
-heat: 103
+heat: 83
 published: true
 
 provider:
@@ -31,49 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "California DMV reviewing approach to regulating Tesla's public self-driving test - report"
-    excerpt: "California is reevaluating Tesla Inc's Full Self-Driving (FSD) test program, to determine if the electric-car maker's software should fall under its motor vehicle department's autonomous vehicle regulations,"
-    publishedDateTime: 2022-01-12T08:40:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/california-dmv-reviewing-approach-regulating-teslas-public-self-driving-test-2022-01-12/"
+  - title: "California reviews whether Tesla’s self-driving tests require oversight"
+    excerpt: "DMV revisiting prior decision that full self-driving is not subject to its regulations on autonomous vehicles"
+    publishedDateTime: 2022-01-13T16:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
+      name: The Guardian
+      domain: theguardian.com
+    quality: 59
     images:
-      - url: "https://www.reuters.com/resizer/hqaIi_DyIttnxcgs7NH4k0nsFqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVG6QOSCRZNDTAYCWAL4Q7ANN4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla Full Self-Driving videos are prompt California's DMV to rethink policy on accidents"
-    excerpt: "In brief California’s Department of Motor Vehicles said it’s “revisiting” its opinion of whether Tesla’s so-called Full Self-Driving feature needs more oversight after a series of videos demonstrate how the technology can be dangerous."
-    publishedDateTime: 2022-01-15T11:01:00Z
-    webUrl: "https://www.theregister.com/2022/01/15/in_brief_ai/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/01/15/in_brief_ai/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/15/in_brief_ai/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 50
-    images:
-      - url: "https://regmedia.co.uk/2021/04/23/tesla.jpg"
-        width: 1000
-        height: 567
-        isCached: true
-  - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
-    excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
-    publishedDateTime: 2022-01-14T18:00:00Z
-    webUrl: "https://recombu.com/general/article/what-the-tech-teslas-assertive-self-driving-mode-could-be-a-recipe-for-disaster"
-    type: article
-    provider:
-      name: Recombu
-      domain: recombu.com
-    quality: 33
-    images:
-      - url: "https://recombu-images.imgix.net/app/uploads/2022/01/WTT-59.jpg?fm=pjpg&ixlib=php-3.3.0"
-        width: 940
-        height: 627
+      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "rcoAcCPWFY20VkaRSc+pmcBlHqWBspG6cILYneglzMeMvfPX94ZJbjsl8Es52s8XGvEYTJ04TPrF2Esli+WHCbsw1eAMgpnCwHOxpEhs3+I3cJS/pO1yR//C5gwL86SwmS3J7xSY7LBSu/DJOnCgqe12fBesRa/UM8k6ShTWEoX0Bs5FkMGG2rYc3hST/YSkOAHEC3PDxh8sKWrtC7S+x7eW8Vi0+hNacK4JqSYf223kaXlNW7UEfGFEE/cQjFi3BifWHkZR3WdGp0P3hRjATQjpsAZObb7YCCf2nHTc8EllyCiQfTAKUjS8lwzAf4nVs5YjZSKez5tm63mZwEMZ2SLNTg2uTtGaX72dYzrDqeiG0EjuVecGW45yAdp3UOLdOdC6479OUtlLLoxnfIvMSE6fNX6sDu2XU9LMlMV5jPgOzgPf8IMjmM03aQAbtk5RiNo13aAP/+iLVaEwz7JCkuYWvj+6Ec+MDhyL0cBjMJqJjFtjSGcot6xdgACFrn75hOwx7kPdoy9JhX4qQjPUaw==;5aDnJhMqtCjfwzMTPPmNkw=="

@@ -2,6 +2,58 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2021-12-02-ai-to-see-stricter-regulatory-scrutiny-starting-in-2022-predicts-deloitte.md",
+      "title": "AI to see stricter regulatory scrutiny starting in 2022, predicts Deloitte",
+      "excerpt": "SEE: Artificial intelligence ethics policy (TechRepublic Premium) Looking at the overall AI landscape, including machine learning, deep learning and neural networks, Deloitte said it believes that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ai-to-see-stricter-regulatory-scrutiny-starting-in-2022-predicts-deloitte/",
+      "originalUrl": "https://www.techrepublic.com/article/ai-to-see-stricter-regulatory-scrutiny-starting-in-2022-predicts-deloitte/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/29/97cf2d45-3a8f-4f7e-a02e-5c5a699d6ad2/resize/1200x/d9622b2aa968ed3a9f556c28214c1296/shutterstock-1438802396.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-to-see-stricter-regulatory-scrutiny-starting-in-2022-predicts-deloitte/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-to-see-stricter-regulatory-scrutiny-starting-in-2022-predicts-deloitte/",
+      "publishedDateTime": "2021-12-01T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-study-shows-how-machine-learning-could-improve-covid-19-predictive-models.md",
       "title": "Study shows how machine learning could improve COVID-19 predictive models",
       "excerpt": "Throughout the COVID-19 pandemic, case rates have ebbed and flowed in ways that have been hard for epidemiological models to predict. A new study by mathematicians from Brown University uses an advanced machine learning technique to explore the strengths and weaknesses of commonly used models,",
@@ -1131,49 +1183,6 @@
         "AI",
         "Math for AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-deep-learning-dreams-up-new-protein-structures.md",
-      "title": "Deep Learning Dreams Up New Protein Structures",
-      "excerpt": "Just as convincing images of cats can be created using artificial intelligence, new proteins can now be made using similar tools.",
-      "sourceUrl": null,
-      "webUrl": "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures",
-      "originalUrl": "https://news.rpi.edu/content/2021/12/01/deep-learning-dreams-new-protein-structures",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://rpi.edu/dept/cct/apps/web-branding/v1/header/meganav/img/thearch.jpg",
-          "width": 667,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T07:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RPI News",
-        "domain": "rpi.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

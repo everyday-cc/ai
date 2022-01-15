@@ -27,35 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Winners of the Merck Foundation ‘More Than a Mother’ 2021 media recognition awards announced"
-    excerpt: "The winners of the Merck Foundation Africa Media Recognition Awards ‘More Than a Mother’ 2021 were announced recently. The awards were announced by Senator Dr Rasha Kelej, Chi"
-    publishedDateTime: 2022-01-12T14:29:00Z
-    webUrl: "https://economist.com.na/67333/businesswoman/winners-of-the-merck-foundation-more-than-a-mother-2021-media-recognition-awards-announced/"
+  - title: "Somaliland offers to resist growing Chinese influence in Africa as it seeks US recognition"
+    excerpt: "The territory, which split from Somalia 30 years ago and has growing links with Taiwan, is trying to win diplomatic support in Washington."
+    publishedDateTime: 2022-01-15T18:00:00Z
+    webUrl: "https://www.scmp.com/news/china/diplomacy/article/3163472/somaliland-offers-resist-growing-chinese-influence-africa-it"
     type: article
     provider:
-      name: economist.com.na
-      domain: economist.com.na
-    quality: 13
+      name: South China Morning Post
+      domain: scmp.com
+    quality: 44
     images:
-      - url: "https://economist.com.na/wp-content/uploads/2017/12/tech-news-reading.jpg"
-        width: 323
-        height: 362
-        isCached: true
-  - title: "Merck Foundation CEO and African First Ladies announce the winners of Merck Foundation \" More Than a Mother\" 2021 media recognition awards"
-    excerpt: "Merck Foundation ( the philanthropic arm of Merck KGaA Germany in partnership with African First Ladies announced the winners of Merck Foundation Africa Media Recognition Awards “More Than a Mother” 2021."
-    publishedDateTime: 2022-01-12T15:40:00Z
-    webUrl: "https://www.zawya.com/mena/en/press-releases/story/Merck_Foundation_CEO_and_African_First_Ladies_announce_the_winners_of_Merck_Foundation__More_Than_a_Mother_2021_media_recognition_awards-AFPR1201202220136/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/AFPR1201202220136/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/AFPR1201202220136/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 10
-    images:
-      - url: "https://www.africa-newsroom.com/files/large/590f88951bdceec"
-        width: 2126
-        height: 1417
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/14/e871fd38-1bfa-488f-9cfe-f9bf252a98ba_c8ccf4b0.jpg?itok=GbhcSgsG&v=1642167452"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Merck Foundation announces 63 winners of Merck Foundation Africa Media Recognition Awards 2021 in partnership With African First Ladies"
     excerpt: "Merck Foundation, the philanthropic arm of Merck KGaA Germany in partnership with African First Ladies announced the winners of Merck Foundation Africa Media Recognition Awards \"More Than a Mother\" 2021."

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk reveals another Tesla “Full Self-Driving” price increase"
-    excerpt: "Tesla may be credited for turning the automotive industry on its head and pushing forward battery-powered cars and power solutions, but that might not be what it’s remembered for. Company"
-    publishedDateTime: 2022-01-11T02:40:00Z
-    webUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/"
-    ampWebUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 89
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2022/01/tesla-model-y-1.jpg"
-        width: 1440
-        height: 820
-        isCached: true
   - title: "Tesla Full Self-Driving has an 'Assertive' mode that can make rolling stops"
     excerpt: "Tesla's polarizing Full Self-Driving beta software is back with another round of controversy. Now included with the software are profiles that change the behavior of the software, and one selection may engage in behavior that violates US traffic laws."
     publishedDateTime: 2022-01-11T16:55:00Z
@@ -59,21 +43,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Electric Vehicle Checkpoint: Tesla Will Raise Price of Self-Driving Feature"
-    excerpt: "See the latest news for the top stocks in the electric vehicle space including Ford, Rivian, Lucid, Nio, and more."
-    publishedDateTime: 2022-01-13T16:00:00Z
-    webUrl: "https://www.thestreet.com/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature"
-    ampWebUrl: "https://www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature"
+  - title: "Tesla Restores Its “Assertive” Self-Driving Mode"
+    excerpt: "Tesla Inc (NASDAQ:TSLA) has reinstated the “assertive” self-driving mode. The company had issued an update in October containing the function —plus the “chill” and “average” modes— but removed it"
+    publishedDateTime: 2022-01-11T15:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/412550"
     type: article
     provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 72
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
     images:
-      - url: "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTgyODY1MjE0OTAxODU1NTg0/nyse-trader_4.jpg"
-        width: 620
-        height: 349
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-412550.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "California DMV reviewing approach to regulating Tesla's public self-driving test - report"
+    excerpt: "California is reevaluating Tesla Inc's Full Self-Driving (FSD) test program, to determine if the electric-car maker's software should fall under its motor vehicle department's autonomous vehicle regulations,"
+    publishedDateTime: 2022-01-12T08:40:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/california-dmv-reviewing-approach-regulating-teslas-public-self-driving-test-2022-01-12/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 60
+    images:
+      - url: "https://www.reuters.com/resizer/hqaIi_DyIttnxcgs7NH4k0nsFqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVG6QOSCRZNDTAYCWAL4Q7ANN4.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Tesla's Full Self-Driving programme under reevaluation in US: Report"
     excerpt: "Tesla's Full Self-Driving test programme is being reevaluated by Californian authorities to determine if its software should fall under its motor vehicle department's autonomous vehicle regulations, the Los Angeles Times reported."
@@ -123,22 +119,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "California reviews whether Tesla’s self-driving tests require oversight"
-    excerpt: "DMV revisiting prior decision that full self-driving is not subject to its regulations on autonomous vehicles"
-    publishedDateTime: 2022-01-13T16:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 59
-    images:
-      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Tesla Full Self-Driving Test Being Re-Evaluated by California DMV: Report"
     excerpt: "Tesla vehicles with the older 10.3 FSD software repeatedly provided forward collision warnings when there was no immediate danger."
     publishedDateTime: 2022-01-12T10:47:00Z
@@ -171,6 +151,22 @@ related:
         width: 840
         height: 560
         isCached: true
+  - title: "Tesla Full Self-Driving videos are prompt California's DMV to rethink policy on accidents"
+    excerpt: "In brief California’s Department of Motor Vehicles said it’s “revisiting” its opinion of whether Tesla’s so-called Full Self-Driving feature needs more oversight after a series of videos demonstrate how the technology can be dangerous."
+    publishedDateTime: 2022-01-15T11:01:00Z
+    webUrl: "https://www.theregister.com/2022/01/15/in_brief_ai/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/01/15/in_brief_ai/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/15/in_brief_ai/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 50
+    images:
+      - url: "https://regmedia.co.uk/2021/04/23/tesla.jpg"
+        width: 1000
+        height: 567
+        isCached: true
   - title: "Tesla adds chill and assertive self-driving modes"
     excerpt: "Tesla's automated driver assist feature has added an assertive driving mode. The setting will follow other cars more"
     publishedDateTime: 2022-01-12T03:59:00Z
@@ -184,6 +180,20 @@ related:
       - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-11-134342000.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Tesla Restores Its 'Assertive' Self-Driving Mode"
+    excerpt: "Free-Photos / Pixabay Tesla Inc (NASDAQ:TSLA) has reinstated the“assertive” self-driving mode. The company had issued an update in October"
+    publishedDateTime: 2022-01-11T18:40:00Z
+    webUrl: "https://menafn.com/1103522257/Tesla-Restores-Its-Assertive-Self-Driving-Mode&source=22"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/11/V_c159aimage_story.jpg"
+        width: 600
+        height: 400
         isCached: true
   - title: "California regulator revisiting Tesla’s Full Self-Driving beta software"
     excerpt: "Recently a letter was sent to State Senator Lena Gonzalez, the agency now says it is “revisiting” that decision."
@@ -213,19 +223,19 @@ related:
         width: 960
         height: 480
         isCached: true
-  - title: "California reviews whether Tesla's self-driving tests require regulatory oversight"
-    excerpt: "State regulator cites \"videos showing a dangerous use of that technology\" and federal investigations into Tesla vehicle crashes."
-    publishedDateTime: 2022-01-12T21:06:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/teslas-self-driving-tests-might-require-regulatory-oversight-calif"
+  - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
+    excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
+    publishedDateTime: 2022-01-14T18:00:00Z
+    webUrl: "https://recombu.com/general/article/what-the-tech-teslas-assertive-self-driving-mode-could-be-a-recipe-for-disaster"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Recombu
+      domain: recombu.com
     quality: 33
     images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web_0_1.jpg"
-        width: 800
-        height: 600
+      - url: "https://recombu-images.imgix.net/app/uploads/2022/01/WTT-59.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 940
+        height: 627
         isCached: true
   - title: "Tesla’s Full Self-Driving beta includes an ‘assertive’ mode that’s more aggressive on the road"
     excerpt: "If you would want your self-driving Tesla to be more aggressive than the default, it seems that there's an option letting you do just that on the beta."

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI trends for 2022"
+    excerpt: "Artificial Intelligence with more funding, government incentivised research and tech companies accelerating growth in this space, writes Andrew Yan-Tak Ng, a computer scientist and technology entrepre"
+    publishedDateTime: 2022-01-15T18:32:00Z
+    webUrl: "https://www.dailypioneer.com/2022/sunday-edition/ai-trends-for-2022.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/ai-trends-for-2022-2022-01-16.jpg"
+        width: 1000
+        height: 800
+        isCached: true
 
 secured: "NaOS+iUZ7UrMx7YHzBLfh7RuoHXj7ieIAIxnEUu5gxeVDS+ws5W+wn6tqN4feM3gNHgT5V6eRS1B5ECpT+8l6N/t80ngV7ZwDiCvH7aJfGBMFdaeMpwDhgHDUUyv2W5CArMPkCAVNImD0fVe/BRyad6z5yKO2eMjy0dvQlf9qX8aPiheeFkwi3jEf3ERE6HWsIwZJYtnpE0GnVWKVkLmE1tuEqwL7m64Vv1RoRIHYx4W/YnBCC1/DVw4XPrHbJyyDrYCjUnJDgJyGaT7MZOF8l0416DR2qX1LUYUTf7YLB8C60rYdQNn9Ay2dW2ggcY2/NgCz04gRoxMnoI5cY8TBjvSOxr/s3JFxLuFVUaXZcQ=;QC7jFgXfHZbZfrCKH+PZ+w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/has-ai-found-a-treatment-fo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/f16_1222x_0.jpg"
         width: 1222
         height: 676
+        isCached: true
+  - title: "AI trends for 2022"
+    excerpt: "Artificial Intelligence with more funding, government incentivised research and tech companies accelerating growth in this space, writes Andrew Yan-Tak Ng, a computer scientist and technology entrepre"
+    publishedDateTime: 2022-01-15T18:32:00Z
+    webUrl: "https://www.dailypioneer.com/2022/sunday-edition/ai-trends-for-2022.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 37
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/ai-trends-for-2022-2022-01-16.jpg"
+        width: 1000
+        height: 800
         isCached: true
 
 secured: "fHzMZEtkilzxrX9a6KaBiZzK57XcU8kNUHMxui+2N2msIO36E2V3xZT0rACvqlwZJJOUUCD5UUT0HQHL7vCq9WQ3WFZaSIpIp+qKytpivCoEzIH7op5aTKletgOjwx9kYFNLIoOx8PQv1LBB5QJrSgUMV860dx6+ckfHQYgjWXJ+dUX53XvBVrkrRx7PtNpuGP41YnQSw7uJF/WKQy9zPdrNCB3ZlonL+CL1wpSjiVqFgZ3DDXjGaorcATFJpcoDKpGnDPO1EcktxDgBSlQE37IpoCGU40fbiJtAnQ0VvsW7bIM8gV6xmLf0gQaVcKd1qxAoGZarC9D/Fd5iQf40c9tGpfAxNFuW30W1giRsWmRnMvSahNNaiEXPfuqPhK6BPGPamrMXXgvi9iWRoOlMzLdrfGHFEJ31ScDBx615Nx8talfkztCRCtJ6J+lD3pHsTv1bVxj5ayf13gzG2uCDUpyJtvAjuX+WvV5YOjSvjU/SfYiYjSNBk23re2P7Z8MkMJCCq+GqaC7CF9qZSa1v9g==;HNv1gXFGnodh8DFMQk2Ktw=="

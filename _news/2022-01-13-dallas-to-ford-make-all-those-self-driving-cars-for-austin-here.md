@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Dallas wants to be the site of Ford and Argo AI’s next autonomous vehicle facility"
-    excerpt: "Dallas council members will vote Wednesday on whether to approve an economic development agreement with Ford in the hopes of being home to the automaker’s next autonomous vehicle facility. Ford, an investor and customer of AV technology company Argo AI,"
-    publishedDateTime: 2022-01-11T01:32:00Z
-    webUrl: "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/"
-    ampWebUrl: "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024"
-        width: 1024
-        height: 592
-        isCached: true
   - title: "Dallas approves more than $3 million in incentives to attract Ford self-driving vehicle facility"
     excerpt: "Ford has been working with self-driving vehicle company Argo AI to develop self-driving tech. So far, the initiative has launched tests of delivery"
     publishedDateTime: 2022-01-12T19:25:00Z

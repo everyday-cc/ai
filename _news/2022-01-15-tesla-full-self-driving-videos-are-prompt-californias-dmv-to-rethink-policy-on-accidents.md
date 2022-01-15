@@ -27,21 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’"
-    excerpt: "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”."
-    publishedDateTime: 2022-01-12T13:20:00Z
-    webUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/"
-    ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
+  - title: "Tesla Full Self-Driving has an 'Assertive' mode that can make rolling stops"
+    excerpt: "Tesla's polarizing Full Self-Driving beta software is back with another round of controversy. Now included with the software are profiles that change the behavior of the software, and one selection may engage in behavior that violates US traffic laws."
+    publishedDateTime: 2022-01-11T16:55:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-assertive-mode-rolling-stops/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
+      name: CNET
+      domain: cnet.com
+    quality: 87
     images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      - url: "https://www.cnet.com/a/img/ZznhwJPP1wmRpl5zBeqxPLaLpBs=/2021/07/19/56f4362c-0a83-43a4-bbbd-42f736aa06ce/ogi-fsd.jpg"
         width: 1200
-        height: 628
+        height: 630
+        isCached: true
+  - title: "Tesla Restores Its “Assertive” Self-Driving Mode"
+    excerpt: "Tesla Inc (NASDAQ:TSLA) has reinstated the “assertive” self-driving mode. The company had issued an update in October containing the function —plus the “chill” and “average” modes— but removed it"
+    publishedDateTime: 2022-01-11T15:03:00Z
+    webUrl: "https://www.entrepreneur.com/article/412550"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 69
+    images:
+      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-412550.jpeg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "California DMV reviewing approach to regulating Tesla's public self-driving test - report"
     excerpt: "California is reevaluating Tesla Inc's Full Self-Driving (FSD) test program, to determine if the electric-car maker's software should fall under its motor vehicle department's autonomous vehicle regulations,"
@@ -57,6 +71,158 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla's Full Self-Driving programme under reevaluation in US: Report"
+    excerpt: "Tesla's Full Self-Driving test programme is being reevaluated by Californian authorities to determine if its software should fall under its motor vehicle department's autonomous vehicle regulations, the Los Angeles Times reported."
+    publishedDateTime: 2022-01-12T09:44:00Z
+    webUrl: "https://inshorts.com/en/news/teslas-full-selfdriving-programme-under-reevaluation-in-us-report-1641980679441"
+    ampWebUrl: "https://inshorts.com/m/en/amp_news/teslas-full-selfdriving-programme-under-reevaluation-in-us-report-1641980679441"
+    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/teslas-full-selfdriving-programme-under-reevaluation-in-us-report-1641980679441"
+    type: article
+    provider:
+      name: Inshorts
+      domain: inshorts.com
+    quality: 59
+    images:
+      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/01_jan/12_wed/img_1641979176093_593.jpg?"
+        width: 960
+        height: 640
+        isCached: true
+  - title: "California May Finally Regulate Tesla's \"Full Self-Driving\" Beta Test"
+    excerpt: "California allows vehicle manufacturers to implement Level 2 systems in production vehicles but has much more stringent requirements for tests of any semi-autonomous system meant to move further up the chain."
+    publishedDateTime: 2022-01-12T17:00:00Z
+    webUrl: "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132"
+    ampWebUrl: "https://jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 59
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/2c5c03495b6e5210a97c22476d2fec12.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "California’s DMV Reevaluating Stance On Tesla’s Full Self-Driving Beta"
+    excerpt: "The DMV had previously considered Tesla's FSD as a Level 2 system, but videos and software updates are forcing a rethink"
+    publishedDateTime: 2022-01-12T18:28:00Z
+    webUrl: "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/"
+    ampWebUrl: "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 59
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
+  - title: "Tesla's self-driving software is under scanner in this state"
+    excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
+    publishedDateTime: 2022-01-13T12:06:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Tesla Full Self-Driving Test Being Re-Evaluated by California DMV: Report"
+    excerpt: "Tesla vehicles with the older 10.3 FSD software repeatedly provided forward collision warnings when there was no immediate danger."
+    publishedDateTime: 2022-01-12T10:47:00Z
+    webUrl: "https://gadgets.ndtv.com/transportation/news/tesla-full-self-driving-fsd-test-pilot-program-california-us-dmv-evaluate-review-2703874"
+    ampWebUrl: "https://gadgets.ndtv.com/transportation/news/tesla-full-self-driving-fsd-test-pilot-program-california-us-dmv-evaluate-review-2703874/amp"
+    cdnAmpWebUrl: "https://gadgets-ndtv-com.cdn.ampproject.org/c/s/gadgets.ndtv.com/transportation/news/tesla-full-self-driving-fsd-test-pilot-program-california-us-dmv-evaluate-review-2703874/amp"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 58
+    images:
+      - url: "https://i.gadgets360cdn.com/large/tesla_model_3_reuters_full_1577690658134.JPG"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "DMV 'revisiting' its approach to regulating Tesla's public self-driving test"
+    excerpt: "In light of videos showing self-driving Teslas attempting dangerous maneuvers, the California DMV is considering whether to require the company to conform to the same laws as other robot car makers."
+    publishedDateTime: 2022-01-12T08:17:00Z
+    webUrl: "https://www.aol.com/news/dmv-revisiting-approach-regulating-teslas-011706246.html"
+    ampWebUrl: "https://www.aol.com/amphtml/dmv-revisiting-approach-regulating-teslas-011706246.html"
+    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/dmv-revisiting-approach-regulating-teslas-011706246.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 56
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/bZgsuFbz4iE2fctJWBR06g--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/85898be2b155b3c6bec23025a6845758"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "Tesla adds chill and assertive self-driving modes"
+    excerpt: "Tesla's automated driver assist feature has added an assertive driving mode. The setting will follow other cars more"
+    publishedDateTime: 2022-01-12T03:59:00Z
+    webUrl: "https://www.businessghana.com/site/news/Technology/254221/Tesla-adds-chill-and-assertive-self-driving-modes"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 39
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-11-134342000.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Tesla Restores Its 'Assertive' Self-Driving Mode"
+    excerpt: "Free-Photos / Pixabay Tesla Inc (NASDAQ:TSLA) has reinstated the“assertive” self-driving mode. The company had issued an update in October"
+    publishedDateTime: 2022-01-11T18:40:00Z
+    webUrl: "https://menafn.com/1103522257/Tesla-Restores-Its-Assertive-Self-Driving-Mode&source=22"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/11/V_c159aimage_story.jpg"
+        width: 600
+        height: 400
+        isCached: true
+  - title: "California regulator revisiting Tesla’s Full Self-Driving beta software"
+    excerpt: "Recently a letter was sent to State Senator Lena Gonzalez, the agency now says it is “revisiting” that decision."
+    publishedDateTime: 2022-01-14T05:43:00Z
+    webUrl: "https://techstory.in/california-regulator-revisiting-teslas-full-self-driving-beta-software/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
+        width: 940
+        height: 516
+        isCached: true
+  - title: "Tesla's Full Self-Driving Beta Might Just Help Drivers Perform Rolling Stops"
+    excerpt: "Drivers using Tesla ‘s Full Self-Driving (FSD) beta can now choose between three different driving profiles that will determine how the car will react to various situations on the road. Tesla is offering a “Chill,"
+    publishedDateTime: 2022-01-11T08:03:00Z
+    webUrl: "https://hypebeast.com/2022/1/tesla-full-self-driving-beta-assertive-mode-perform-rolling-stops"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 36
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-full-self-driving-beta-assertive-mode-perform-rolling-stops-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
   - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
     excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
     publishedDateTime: 2022-01-14T18:00:00Z
@@ -70,6 +236,34 @@ related:
       - url: "https://recombu-images.imgix.net/app/uploads/2022/01/WTT-59.jpg?fm=pjpg&ixlib=php-3.3.0"
         width: 940
         height: 627
+        isCached: true
+  - title: "Tesla’s Full Self-Driving beta includes an ‘assertive’ mode that’s more aggressive on the road"
+    excerpt: "If you would want your self-driving Tesla to be more aggressive than the default, it seems that there's an option letting you do just that on the beta."
+    publishedDateTime: 2022-01-11T12:16:00Z
+    webUrl: "https://recombu.com/general/article/teslas-full-self-driving-beta-includes-an-assertive-mode-thats-more-aggressive-on-the-road"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 27
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2021/04/tesla-model-y.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 940
+        height: 492
+        isCached: true
+  - title: "California DMV to review Tesla’s ‘Full Self-Driving’ and other technology to determine software’s future use"
+    excerpt: "A DMV spokeswoman said the department had notified Tesla of the review, which is separate from an evaluation of its use of the term \"Full Self-Driving.\""
+    publishedDateTime: 2022-01-12T05:26:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/01/11/tesla-dmv-fsd/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 20
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XJW5RITSX4I6ZITNDQQ4C2Y4SM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "4z+VFrlAifBrO4H9hx1inpu0ol10r2l1I7iCIhXgRW4kG6o3Pq+9IFzJioGW6YmIrNN+HHVSkV5XChZVd3yixsRSvooIB2hKcFyspd51R+GpZZdWFQItIqTF954r3OE+OXwU7OMG5+bKFyPVFlDcA2Xayp7grXQHJt6peZIIGbcKtFXAzerJVT/MXf2dkqY+NeR7iVME1QCcUij1A1hySRz0GWk2BP5uBNfE1rvS6aH3Ew0AfTeKp0quS12s7pcoXVX6qExego504flfgR6Djp5RmSz5rEmMEGV77l5hSFAyZ92tSyjPYoni+TDIgOeU7GcJ5t+6zedwow6ka8/ys2/N9DBShFqnxoYyVUQJWWGeA3LLcLclRBG9O0+rnQV0SPhPkay887nZ1uPHL+uZAsb1XvDGQcwlhpA2TXQlPd4NvFUh3VypaC56ksVnmdyAKLtZbb83t/47zyqo2z5dNJ+Lql/UZrg2joduyeR0I7aV+v09YseSn+++lRa2c3V98+1r7naFY7LtP6CrZLsEiQ==;0NM2p9IiVT69Kv/M4UNvrA=="

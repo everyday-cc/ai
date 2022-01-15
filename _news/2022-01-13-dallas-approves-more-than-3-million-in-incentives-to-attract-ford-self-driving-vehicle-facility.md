@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/autos/2022/01/12/dallas-approves
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/01/12/dallas-approves-more-than-3-million-in-incentives-to-attract-ford-self-driving-vehicle-facility/?outputType=amp"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dallas wants to be the site of Ford and Argo AI’s next autonomous vehicle facility"
-    excerpt: "Dallas council members will vote Wednesday on whether to approve an economic development agreement with Ford in the hopes of being home to the automaker’s next autonomous vehicle facility. Ford, an investor and customer of AV technology company Argo AI,"
-    publishedDateTime: 2022-01-11T01:32:00Z
-    webUrl: "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/"
-    ampWebUrl: "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 81
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024"
-        width: 1024
-        height: 592
-        isCached: true
   - title: "Dallas to Ford: Make all those self-driving cars for Austin here"
     excerpt: "The city of Dallas gave the green light to a new autonomous-vehicle factory. Now the ball is in Ford's court. On Wednesday, the City Council authorized an economic development agreement with Ford Autonomous Vehicles LLC,"
     publishedDateTime: 2022-01-12T19:45:00Z

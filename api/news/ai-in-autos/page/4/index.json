@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-17-connected-autonomous-shared-and-electric-case-market-outlook-2027-tmr.md",
+      "title": "Connected, Autonomous, Shared, and Electric (CASE) Market – Outlook 2027 – TMR",
+      "excerpt": "and Artificial Intelligence (AI), has led to a revolution in vehicle manufacturing. This has further helped in the development of driverless cars. Want to know the obstructions to your company’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/connected-autonomous-shared-and-electric-case-market-outlook-2027-tmr",
+      "originalUrl": "https://www.digitaljournal.com/pr/connected-autonomous-shared-and-electric-case-market-outlook-2027-tmr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/Spider-Man-Sony-1K-e1640613949235-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T12:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode.md",
       "title": "Waymo says self-driving car that struck pedestrian in San Francisco was in manual mode",
       "excerpt": "A Waymo self-driving Jaguar I-Pace that struck a pedestrian in San Francisco on Wednesday evening was in manual mode, the company told TechCrunch in response to an initial report posted on Reddit. Waymo says the vehicle was in manual mode at the time,",
@@ -1356,50 +1399,6 @@
         "AI in Robotics",
         "Machine Learning",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-11-top-free-artificial-intelligence-courses-to-take-up-in-2022.md",
-      "title": "Top Free Artificial Intelligence Courses to Take up in 2022",
-      "excerpt": "Artificial Intelligence makes it all possible and more. Artificial Intelligence is a useful skill to keep under your belt, especially since it was all the rage right now, as the dot-com boom a few years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-free-artificial-intelligence-courses-to-take-up-in-2022/",
-      "originalUrl": "https://www.analyticsinsight.net/top-free-artificial-intelligence-courses-to-take-up-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Free-Artificial-Intelligence-Courses-to-Take-up-in-2022.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-11T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
