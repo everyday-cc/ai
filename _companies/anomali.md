@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Anomali"
   url: "https://twitter.com/Anomali"
-  followers: 8991
+  followers: 8992
 
 locations:
   - Redwood City, CA
