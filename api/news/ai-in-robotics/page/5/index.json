@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-14-who-killed-the-robot-dog.md",
+      "title": "Who Killed the Robot Dog?",
+      "excerpt": "The robotic companion was once a dream of techno-utopianism, but has instead become a terrifying weapon. What happened?",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
+      "originalUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7e77093c301c027def249/master/pass/Who-Killed-the-Robot-Dog-.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/robot-dog-artificial-intelligence-history/amp",
+      "publishedDateTime": "2021-12-14T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-2022-a-major-revolution-in-robotics.md",
+      "title": "2022: A major revolution in robotics",
+      "excerpt": "For a while now, those who track robotics development have taken note of a quiet revolution in the sector. While self-driving cars have grabbed all the headlines, the work happening at the intersection of AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
+      "originalUrl": "https://www.zdnet.com/article/2022-prediction-a-major-revolution-in-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/973d8007f08fa9b55dc91f02b215eb7b896350b4/2020/12/29/fa09a230-70f1-4a74-8169-e198645005b3/robot-robot-arm-strong-machine.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2022-prediction-a-major-revolution-in-robotics/",
+      "publishedDateTime": "2021-12-14T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2021-12-14-see-little-robots-get-swole-in-this-virtual-gym.md",
       "title": "See Little Robots Get Swole in This Virtual 'Gym'",
       "excerpt": "The bizarre robots look like cobbled-together Tetris pieces. A new system \"evolves\" them to run, climb, and throw stuff better.",
@@ -1245,93 +1350,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-moderna-stock-is-sold-by-this-robot-trader-it-bought-tesla-and-merck-instead.md",
-      "title": "Moderna Stock Is Sold by This Robot Trader. It Bought Tesla and Merck Instead.",
-      "excerpt": "Artificial intelligence-run fund AMOM also loaded up on shares of Netflix, and bet big on a very low-profile medical device specialist.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
-      "originalUrl": "https://www.barrons.com/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159?refsec=hp_INTERESTS_technical-analysis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-77576/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/moderna-stock-sold-by-robot-trader-bought-tesla-merck-51638973159",
-      "publishedDateTime": "2021-12-08T06:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles.md",
-      "title": "Robot-assisted assembly of high-voltage connectors for electric vehicles",
-      "excerpt": "Against this background, a pioneering system with six Stäubli robots, 13 image processing systems and inline quality control at every ... immediately springs to mind: How did the designers ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103326141/Robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles",
-      "originalUrl": "https://menafn.com/1103326141/Robot-assisted-assembly-of-high-voltage-connectors-for-electric-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2021-12/08/R&AN_550eeimage_story.jpg",
-          "width": 800,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T06:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

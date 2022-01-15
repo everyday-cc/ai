@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-28-more-chinese-automakers-collaborating-on-evs-avs.md",
+      "title": "More Chinese automakers collaborating on EVs, AVs",
+      "excerpt": "More Chinese carmakers and tech companies are working together to get ahead in EVs and AVs as the world pushes towards greener vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
+      "originalUrl": "https://techwireasia.com/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/12/000_9NK3DU-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
+      "publishedDateTime": "2021-12-27T19:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators.md",
       "title": "Baidu Create 2021 Successfully Launched In Metaverse, Ushering In A Golden Decade Of AI For Creators",
       "excerpt": "Having L4 intelligent driving capabilities, Baidu's smart EV venture, Jidu Auto, has been designed to operate under the concepts of \"free movement\", \"natural communication\", and \"self-improvement\".",
@@ -1310,58 +1353,6 @@
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode.md",
-      "title": "Waymo says self-driving car that struck pedestrian in San Francisco was in manual mode",
-      "excerpt": "A Waymo self-driving Jaguar I-Pace that struck a pedestrian in San Francisco on Wednesday evening was in manual mode, the company told TechCrunch in response to an initial report posted on Reddit. Waymo says the vehicle was in manual mode at the time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
-      "originalUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/06/waymo-ipace.jpeg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/waymo-says-self-driving-car-that-struck-pedestrian-in-san-francisco-was-in-manual-mode/amp/",
-      "publishedDateTime": "2021-12-16T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

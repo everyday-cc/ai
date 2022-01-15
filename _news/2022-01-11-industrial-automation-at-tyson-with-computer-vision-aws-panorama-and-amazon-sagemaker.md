@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/industrial-automatio
 webUrl: "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/"
 type: article
 quality: 113
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/30/ML-5366-image003-680x630.png"
         width: 680
         height: 630
-        isCached: true
-  - title: "Develop an automatic review image inspection service with Amazon SageMaker"
-    excerpt: "This is a guest post by Jihye Park, a Data Scientist at MUSINSA.&nbsp; MUSINSA is one of the largest online fashion platforms in South Korea, serving 8.4M customers and selling 6,000 fashion brands. Our monthly user traffic reaches 4M, and over 90% of our demographics consist of teens and young adults"
-    publishedDateTime: 2022-01-10T22:15:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/develop-an-automatic-review-image-inspection-service-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/04/ML-6091-image001.jpg"
-        width: 2048
-        height: 1536
         isCached: true
   - title: "Optimize your inference jobs using dynamic batch inference with TorchServe on Amazon SageMaker"
     excerpt: "In deep learning, batch processing refers to feeding multiple inputs into a model. Although it’s essential during training, it can be very helpful to manage the cost and optimize throughput during inference time as well. Hardware accelerators are optimized for parallelism, and batching helps saturate"

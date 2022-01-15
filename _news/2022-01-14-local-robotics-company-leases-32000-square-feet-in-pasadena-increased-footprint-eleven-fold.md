@@ -6,9 +6,9 @@ publishedDateTime: 2022-01-13T22:45:00Z
 originalUrl: "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold"
 webUrl: "https://www.pasadenanow.com/main/local-robotics-company-leases-32000-square-feet-in-pasadena-increased-footprint-eleven-fold"
 type: article
-quality: 43
-heat: 43
-published: false
+quality: 143
+heat: 153
+published: true
 
 provider:
   name: Pasadena Now
@@ -35,6 +35,6 @@ related:
       domain: bizjournals.com
     quality: 34
 
-secured: "Y2RjN4WmXhoFA1Jq5hnB3hKISQ/xhkvCST4pikjhpT4sDbA6FWAGiXRFMreo+IG54VGA+w9uwRFVDNk5ngwC4D6hYYUOq6xmKAgHD6qwKCFdUmWdV2HhNxHoXqHr7xb4x2mQ9ygbYC2MUaj9FODSAGOZNugvHv9U85QIe174zzbGficiLjoBtL+7asz3jx3Hu1XPdCg0gBK0v/CINk1VLrEN7bDD7MxIkt0by4vIRG4PHkq1LNWzkCeuBoZm9UnyW9allwLYmtaVpssGYAfdrTB9Pa0aArrSTHVwFD5XLxmDLoHIAUWpjv2aC22oZL1aXa8FNK1NtdpJxkUjRNHEUmWjFLiQlwuiDIttENFR2sJeQEnNfLxrr3vvvSh/Q+cb7RPT5SzY3/qje60htuEO5q9Skl7XUcPQ+OU/u0xKRmt92gNK4pESz3gC64opInysTwPGCiho8bqae1qZNot7fvgYsxNnYB0hTGzZj4gpznoqZ9P344g/M3WgxUs6YJRIGVpwQsCwoZQtm4A/2QNb1w==;e/AZtKfUkbwqE8826Jk3Zg=="
+secured: "6IfAPv1R5v2XH2Qs/vSZ+R/gpBBfkzQgGhKeruu8RDNxqQJDBHKbWz+APc4QZV9WErn+IH4fBXkbdOh2xjpuOqtnAemNfX9T+EvraML/EuQinf5EYtBNkhOVzRuR/ROUqyg8EPRXjSGgLmeibtHJy7a9yv4OWpNH8UZVWvcm7PtgiH77ovApqiy6WfgCXDGERGLV64bmcM1LdZxmNpaWE68MMLIGz5oGLMf/ahYRl4RVcjcLPfGY8Kfij13/5514/f2LEg5KC0TgoHpGwtf/OTNzimejyL3lxSwTKMFj5AlsRVW69Inc3tPVi6MHebeZH960Y4vOOizRT4mM1hdb7xxeRAC8Uct0zFDPgWUtRuNbiQ3Tqes6rxx3hAwAsqOTAQalJjWt+2OvetzMDnCmadz7YDP8g1wu1/yZza+gXZRbPXx7x6ky8I+4uATSQJWB+TVFHQ9jYjkGyl0+3Hal26NlfUcMJb0+6ZuQ9mSq/r2cHfZWPvFu3HllvjAHNMGZPZQk37MZfAVd8jWoIZl0ocToBvpAgD76kzNg+4FjAoM=;5KgpFFKjasWZ28qJ9KF35A=="
 ---
 

@@ -2,6 +2,414 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-01-05-nvidia-wants-omniverse-to-be-metaverse-builders-glue.md",
+      "title": "Nvidia wants Omniverse to be metaverse builders' glue",
+      "excerpt": "The free collaborative 3D graphics and rendering toolkit comes out of public beta, and its cross-app support could be a sign of where all the other VR/AR tools need to go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/nvidia-wants-omniverse-to-be-metaverse-builders-glue/ar-AASqkWf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/cryso2yyzDiLrn1C8sMAb-IIdCA=/1200x630/2022/01/04/41284882-37c0-400a-8286-4e1f1a780479/nvidia-omniverse-audio2face-rhino.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
+      "publishedDateTime": "2022-01-04T08:45:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
+        "domain": "cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-waking-up-on-indias-first-legal-challenge-to-the-deployment-of-facial-recognition-technology.md",
+      "title": "Waking up on India's First Legal Challenge to the deployment of Facial Recognition Technology",
+      "excerpt": "The Telangana high court issued notices on Monday to the state and Hyderabad police commissioner to respond to a PIL questioning the alleged use of face recognition technology (FRT) by officials without the sanction of law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
+      "originalUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGjOZzgeJ5iQA/article-cover_image-shrink_720_1280/0/1641313661810?e=1647475200&v=beta&t=21jmnJ2hhv9pbckNo9OL63WRwXockzu2e-aHASsg-j8",
+          "width": 1216,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T08:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-with-intel-mobileyes-newest-chip-automakers-can-bring-automated-driving-to-cars.md",
+      "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars",
+      "excerpt": "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
+      "originalUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/21065_ME_CHIP_EyeQ-Ultra.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
+      "publishedDateTime": "2022-01-04T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-future-of-work-computer-vision-and-machine-learning-may-soon-bolster-restaurant-jobs.md",
+      "title": "Future of Work: Computer vision and machine learning may soon bolster restaurant jobs",
+      "excerpt": "Chipotle CEO Brian Niccol expects the restaurant industry to adopt more emerging technologies to deal with challenges like supply chain snags, worker turnover and inefficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2022/t_bec7b19019f440cca2783637ba05c5da_name_Chipotle_Thumb_2.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-a-neural-network-solves-grades-generates-university-level-mathematics-problems-by-program-synthesis.md",
+      "title": "A Neural Network Solves, Grades & Generates University-Level Mathematics Problems by Program Synthesis",
+      "excerpt": "Despite the impressive achievements of deep neural networks (DNNs) in recent years, researchers generally believe these models are still not “intelligent” enough to solve advanced mathematical problems in calculus,",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/",
+      "originalUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/amp/",
+      "publishedDateTime": "2022-01-04T07:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-tekion-expands-cloud-hosting-options-with-microsoft-azure.md",
+      "title": "Tekion Expands Cloud Hosting Options with Microsoft Azure",
+      "excerpt": "Tekion, innovator of the first and fastest cloud-native automotive retail SaaS platform, today announced a collaboration with Microsoft to enable new capabilities for automotive manufacturers using Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-pleasanton-237142d575404ce4912d3cadb9ac4f73",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-the-machine-learning-future-is-now-how-ai-is-disrupting-entire-industries.md",
+      "title": "The Machine Learning Future Is Now: How AI is Disrupting Entire Industries",
+      "excerpt": "M achine learning and artificial intelligence (AI) are no longer the concepts of science fiction – they’re a $1.41 billion industry that is already making big changes to the way we understand and use immense databases for a wide range of purposes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries",
+      "originalUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-machine-learning-future-is-now%3A-how-ai-is-disrupting-entire-industries?amp",
+      "publishedDateTime": "2022-01-04T06:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh.md",
+      "title": "CES 2022 Innovation Awards: An airbag for your hips, a hands-free selfie drone and VR for ADH",
+      "excerpt": "This collection of products from the CES 2022 Innovation Awards will help your life in ways you never imagined.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
+      "originalUrl": "https://www.techrepublic.com/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/04/8104ba05-afbc-46b9-849c-82b6df46f80d/resize/400x/094cd4415c823d97fe5579ea3b4ded4d/air-neo-1111233-2-2.jpg",
+          "width": 400,
+          "height": 301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ces-2022-innovation-awards-an-airbag-for-your-hips-a-hands-free-selfie-drone-and-vr-for-adh/",
+      "publishedDateTime": "2022-01-04T06:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-04-gestalt-diagnostics-and-mindpeak-provide-the-first-artificial-intelligence-based-diagnostics-solution-used-in-clinical-routine-pathology-in-the.md",
+      "title": "Gestalt Diagnostics and MindPeak provide the first Artificial Intelligence based diagnostics solution used in clinical routine pathology in the USA",
+      "excerpt": "Hamburg, Germany, based Mindpeak and Spokane, WA, based Gestalt Diagnostics have achieved a major success on their way to improve patient care with Digital Pathology and Artificial Intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-health-united-states-spokane-artificial-intelligence-192541526b721f6e8f049dabf37fb267",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-health-united-states-spokane-artificial-intelligence-192541526b721f6e8f049dabf37fb267",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-04T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-04-ai-ml-bubble-to-the-top-in-new-beverage-ordering-solution.md",
       "title": "AI, ML bubble to the top in new beverage-ordering solution",
       "excerpt": "The Bees application empowers users to place orders anytime, anywhere. They can order an array of products, earn rewards where applicable, gain insights on how their business is performing, and have flexibility with delivery dates and times.",
@@ -721,405 +1129,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-why-2022-will-be-an-ai-powered-renaissance.md",
-      "title": "Why 2022 Will Be An AI-Powered Renaissance",
-      "excerpt": "Now, electronic brains powered by human-designed AI are poised to play the role of protagonists in 2022 and potentially accelerate progress in our society to drive our very own Renaissance. Some say that the best way to predict the future is to create it,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ee774eeb3fc470007021921%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/04/why-2022-will-be-an-ai-powered-renaissance/amp/",
-      "publishedDateTime": "2022-01-04T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-google-has-deepmind-microsoft-has-openai-will-aws-be-left-behind.md",
-      "title": "Google has DeepMind, Microsoft has OpenAI. Will AWS be left behind?",
-      "excerpt": "AWS has been inconspicuous when it comes to collaboration with similar AI research labs. Does this pose a major disadvantage when compared to Google and Microsoft?",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/google-has-deepmind-microsoft-has-openai-will-aws-be-left-behind/",
-      "originalUrl": "https://analyticsindiamag.com/google-has-deepmind-microsoft-has-openai-will-aws-be-left-behind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/AILab_AIM.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-caris-life-sciences-to-present-at-the-40th-annual-jp-morgan-healthcare-conference.md",
-      "title": "Caris Life Sciences to Present at the 40th Annual J.P. Morgan Healthcare Conference",
-      "excerpt": "Caris Life Sciences® (Caris), the leading molecular science and technology company actively developing and delivering innovative solutions to revolutionize healthcare, announced today that",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
-      "originalUrl": "https://www.kpvi.com/news/national_news/caris-life-sciences-to-present-at-the-40th-annual-j-p-morgan-healthcare-conference/article_00e4850e-80b9-5c5a-8dd0-8753956320d8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KPVI",
-        "domain": "kpvi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery.md",
-      "title": "AI, robotics, home care and mental health to lead healthcare delivery",
-      "excerpt": "Healthcare delivery in the country is going to witness further changes this year in the wake of continuing Covid-19 pandemic. Segments like home healthcare, mental health screening and use of technologies like telemedicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
-      "originalUrl": "https://www.fortuneindia.com/enterprise/ai-robotics-home-care-and-mental-health-to-lead-healthcare-delivery/106600",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.assettype.com/fortuneindia/2022-01/ba479e76-de7f-4731-ab85-6b3dc3aa840c/GettyImages_1335397034_copy.jpg?w=700",
-          "width": 700,
-          "height": 434,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune India",
-        "domain": "fortuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-patent-issued-for-method-and-system-for-customizing-a-vehicle-uspto-11200609-united-services-automobile-association.md",
-      "title": "Patent Issued for Method and system for customizing a vehicle (USPTO 11200609): United Services Automobile Association",
-      "excerpt": "From Alexandria, Virginia, NewsRx journalists report that a patent by the inventors Bourn, Gary Don, Dennis, Jr., Doyle Russell, Latronico, Brian Thomas, Mays, Teresa A., Phelps, David Anthony, Spears,",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-method-and-system-for-customizing-a-vehicle-uspto-11200609-united-services-automobile-association",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/patent-issued-for-method-and-system-for-customizing-a-vehicle-uspto-11200609-united-services-automobile-association",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/uploads/2021/04/inn-og-default.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T20:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence.md",
-      "title": "Fractures Through X-rays Detected Accurately by AI (artificial Intelligence)",
-      "excerpt": "X-rays that are positive for fracture can be quickly detected by a new AI (artificial intelligence) algorithm, thereby improving the care by reducing patient waiting time and diagnostic errors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
-      "originalUrl": "https://www.medindia.net/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/x-ray1.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/fractures-through-x-rays-detected-accurately-by-ai-artificial-intelligence-204996-1.htm",
-      "publishedDateTime": "2022-01-03T20:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-spreading-the-wing-to-enter-taiwans-robotics-market-to-catch-up-with-amr-trend.md",
-      "title": "Spreading the wing to enter Taiwan's robotics market to catch up with AMR trend",
-      "excerpt": "All major robotic manufacturers invested a lot to keep up with the trend of AMR. In the Automation Taipei exhibition, many players have launched their flagship AMR products",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
-      "originalUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
-          "width": 299,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/spreading-wing-enter-taiwans-robotics-market-catch-amr-trend?amp",
-      "publishedDateTime": "2022-01-03T18:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-how-computer-vision-can-boost-your-e-commerce-conversions.md",
-      "title": "How Computer Vision Can Boost Your E-Commerce Conversions",
-      "excerpt": "Managing images is one of the most important activities an e-commerce site has to carry out. Let's explore how computer vision and digital asset management can boost your e-commerce conversions. AI is reshaping how businesses carry out their digital ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business.com/articles/how-computer-vision-boosts-ecommerce-conversions/",
-      "originalUrl": "https://www.business.com/articles/how-computer-vision-boosts-ecommerce-conversions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.business.com/images/content/5e8/e5e799c658a2c748b4576/1500-0-",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business.com",
-        "domain": "business.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-microsoft-takes-azure-to-the-next-level.md",
-      "title": "Microsoft takes Azure to the next level",
-      "excerpt": "Microsoft first developed its cloud computing ... new capabilities for Azure Cognitive Services, Azure Digital Twins, and general availability of Azure IoT Central. Azure came to blockchain ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
-      "originalUrl": "https://sdtimes.com/msft/microsoft-takes-azure-to-the-next-level/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2019/01/MicrosoftAzure.jpg",
-          "width": 660,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -24,19 +24,61 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Finance"
-    excerpt: "Artificial intelligence can free up personnel, improve security measures and ensure that the business is moving in the right technology-advanced, innovative direction. According to Forbes, 70% of financial firms are using machine learning to predict cash ..."
-    publishedDateTime: 2022-01-11T09:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-finance-darpan-jain"
+  - title: "Top Data Science & AI Trends For 2022"
+    excerpt: "After a pandemic-driven start to 2020, enterprises across industries realised the significance of AI and Data Sciences. Its adoption accelerated, and leaders correctly predicted growth in the industry in all aspects."
+    publishedDateTime: 2022-01-12T11:24:00Z
+    webUrl: "https://analyticsindiamag.com/top-data-science-ai-trends-for-2022/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Trends-Report-Banner-scaled.jpg"
+        width: 2560
+        height: 1280
+        isCached: true
+  - title: "AI Trends—What to Expect in 2022 & Beyond"
+    excerpt: "As the number of AI use cases increases, this spurs the evolution of this technology in novel and unprecedented ways. This TEC Team post looks at some of the drivers of the next-generation AI such as use of synthetic data and simulation and looks at AI trends such as responsible and explainable AI."
+    publishedDateTime: 2022-01-13T17:37:00Z
+    webUrl: "https://www3.technologyevaluation.com/research/article/ai-trends.html"
+    type: article
+    provider:
+      name: TEC
+      domain: technologyevaluation.com
+    quality: 39
+    images:
+      - url: "https://technologyevaluation.azureedge.net/getattachment/83fe42b7-8d1e-50a8-a979-b18b48c2313a/shutterstock-human-robot-mutlitasking-thumb.jpg?source=tw2&ext=.jpg"
+        width: 386
+        height: 500
+        isCached: true
+  - title: "2021 AI Recap & Founders’ Predictions for 2022"
+    excerpt: "Originally posted on  Blog by Jodi Lifschitz As we continue to spear our heads through Covid we can clearly see that the tech industry did not let the global pandemic get in the way of its progress. In fact,"
+    publishedDateTime: 2022-01-11T09:51:00Z
+    webUrl: "https://www.linkedin.com/pulse/2021-ai-recap-founders-predictions-2022-dataloop"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 54
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEQrOJMJnfqHQ/article-cover_image-shrink_600_2000/0/1641894641709?e=1647475200&v=beta&t=XTsqjuKZ3kCp1K3fZfWUDtFDZdtZUpKao_6jfqlPKxA"
-        width: 966
-        height: 578
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEVM5XQOPL99g/article-cover_image-shrink_720_1280/0/1641893053016?e=1647475200&v=beta&t=pqvzcFTl0LSjS5IBRKSVYzdQLbxfkBghNmJ6sc5tLZ0"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tech Trends: Sensor Fusion Pushes AI Forward"
+    excerpt: "Combining data from multiple sensors can ease the strict reliance on video surveillance when creating deep learning algorithms"
+    publishedDateTime: 2022-01-14T15:30:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21250598/tech-trends-sensor-fusion-pushes-ai-forward"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 37
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/12/Coulombe__Brian.61bcb95e59904.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "lZSRoZ6pfMPpFWBAjChSuuJbdJ1U2Vuo7pS3jyaBliIAD2ggR3+GhZGRhjkRo5qMejrWOb0GtgyDutQMcapDLieoXGkQhXtG4KB9fgNk2Rn4cI4EFyf1At3U8dbQPvd696XYQy43Bfteg8G+O96BB32zYUzWZvFgAKLRkcr+ZP2ZUoI0V/cXiMZL+PI3ZGFDL5HbYKc1YdX6eoLC+PPhDt9PNPlAIZf5wU5bVHJdiNJI6nQriYScFk+HTesq2cHoPeQAtml79EuxYvkVaps0rqGaWzGwMPrC7KuYuMxIb5FAokZZS5M8/a58JXJZyLkoI1Zqdz4q/HrQT0Q2zxqJ6UJLiDYiXS3MM9wPy677wis=;pYTuGafvSqs+1INXid7i+Q=="

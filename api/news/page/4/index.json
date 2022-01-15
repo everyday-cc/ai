@@ -2,6 +2,292 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
+      "title": "How managed services will evolve in 2022: The data analytics revolution",
+      "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
+      "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1171422745-e1641922862738.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
+      "publishedDateTime": "2022-01-11T22:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry.md",
+      "title": "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry",
+      "excerpt": "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg",
+          "width": 500,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/25011004",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004",
+      "publishedDateTime": "2022-01-11T22:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-dunwoody-gains-national-recognition-for-combating-sex-trafficking.md",
+      "title": "Dunwoody gains national recognition for combating sex trafficking",
+      "excerpt": "DUNWOODY, Ga. - Tuesday was National Human Trafficking Awareness Day, and one metro Atlanta city is being recognized as a City of Freedom for taking action against trafficking. The city of Dunwoody’s mayor just signed a proclamation urging its employees ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking",
+      "originalUrl": "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/01/932/470/35QT5QT5.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp",
+      "cdnAmpWebUrl": "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp",
+      "publishedDateTime": "2022-01-11T20:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX 5 Atlanta",
+        "domain": "fox5atlanta.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands.md",
+      "title": "An AI-Created Politician Draws the Attention as Deep Learning Technology Expands",
+      "excerpt": "In Seoul, South Korea, an AI-created model, an avatar of a politician — candidate Al Yoon Suk-yeol — draws the attention of the crowds on a big screen. DeepBrain AI’s human model was the result of hundreds of hours of recorded video used to learn the person’s voice,",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
+      "originalUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2022/01/AI-politician.jpg",
+          "width": 860,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
+      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
+      "publishedDateTime": "2022-01-11T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
+      "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
+      "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/412667",
+      "originalUrl": "https://www.entrepreneur.com/article/412667",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412667.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T14:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature-called-dldsr.md",
+      "title": "Latest Nvidia drivers reveal AI-powered downscaling feature called DLDSR",
+      "excerpt": "Dynamic Super Resolution is Nvidia’s method for letting users easily downsample games. It renders a game at a higher resolution, then shrinks it back down to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
+      "originalUrl": "https://www.techspot.com/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-11-image-21.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
+      "publishedDateTime": "2022-01-11T12:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker.md",
       "title": "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker",
       "excerpt": "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting",
@@ -10,7 +296,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -426,7 +712,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/veea-and-conxai-fuse-edge-computing-connectivity-and-ai-technology-1031093761",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -900,21 +1186,21 @@
       ]
     },
     {
-      "path": "_news/2022-01-11-university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust.md",
-      "title": "University of Cambridge: Community of ethical hackers needed to prevent AI’s looming ‘crisis of trust’",
-      "excerpt": "The Artificial Intelligence industry should create a global community of hackers and 'threat modellers' dedicated to stress-testing the harm potential of new AI products in order to earn the trust of governments and the public before it’s too late.",
+      "path": "_news/2022-01-11-scientists-employ-ai-to-predict-which-viruses-could-infect-humans-in-future.md",
+      "title": "Scientists employ AI to predict which viruses could infect humans in future",
+      "excerpt": "Daniel Becker, an assistant professor of biology in the University of Oklahoma's Dodge Family College of Arts and Sciences, has been leading a proactive modeling study over the last year and a half to identify bat species that are likely to carry betacoronaviruses,",
       "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "originalUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
+      "webUrl": "https://www.news-medical.net/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/cambridge-University.jpg",
-          "width": 400,
-          "height": 400,
+          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
+          "width": 973,
+          "height": 514,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -922,13 +1208,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-cambridge-community-of-ethical-hackers-needed-to-prevent-ais-looming-crisis-of-trust-2/",
-      "publishedDateTime": "2022-01-10T20:29:00-08:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220111/Scientists-employ-AI-to-predict-which-viruses-could-infect-humans-in-future.aspx",
+      "publishedDateTime": "2022-01-10T22:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -938,301 +1224,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-elon-musk-reveals-another-tesla-full-self-driving-price-increase.md",
-      "title": "Elon Musk reveals another Tesla “Full Self-Driving” price increase",
-      "excerpt": "Tesla may be credited for turning the automotive industry on its head and pushing forward battery-powered cars and power solutions, but that might not be what it’s remembered for. Company",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/",
-      "originalUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2022/01/tesla-model-y-1.jpg",
-          "width": 1440,
-          "height": 820,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/",
-      "publishedDateTime": "2022-01-10T18:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-will-artificial-intelligence-be-taking-your-next-drive-thru-order.md",
-      "title": "Will Artificial Intelligence Be Taking Your Next Drive-Thru Order?",
-      "excerpt": "Many people have experienced ordering fast food in a drive-thru and opening the bag later to find their French fries are missing, or their burgers are covered in ketchup they did not want. Artificial intelligence (AI) may make ordering food through a talking box easier,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/",
-      "originalUrl": "https://www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dcf833608447f229f8d8c0%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5077%26cropY1%3D0%26cropY2%3D3386",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2022/01/10/will-artificial-intelligence-be-taking-your-next-drive-thru-order/amp/",
-      "publishedDateTime": "2022-01-10T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-doosan-robotics-raises-337-million-in-funding.md",
-      "title": "Doosan Robotics Raises $33.7 million in Funding",
-      "excerpt": "Doosan Robotics, a South Korea-based developer of collaborative robotic arms, last week announced $33.7 million in funding, led Praxis Capital Partners and Korea Investment Partners. Funds will be used to expand global sales base and strengthen R&D to attract additional partnerships both global and domestic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/investments-and-expansions/22412-doosan-robotics-raises-33-7-million-in-funding",
-      "originalUrl": "https://www.thefastmode.com/investments-and-expansions/22412-doosan-robotics-raises-33-7-million-in-funding",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/6d5d7f5e080163f1711b73910da57301.jpg?t=20220111_020921",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility.md",
-      "title": "Dallas wants to be the site of Ford and Argo AI’s next autonomous vehicle facility",
-      "excerpt": "Dallas council members will vote Wednesday on whether to approve an economic development agreement with Ford in the hopes of being home to the automaker’s next autonomous vehicle facility. Ford, an investor and customer of AV technology company Argo AI,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/",
-      "originalUrl": "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/1_QTFqvEO6Ycqd6nqk9Cd-vA.jpeg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/10/dallas-wants-to-be-the-site-of-ford-and-argo-ais-next-autonomous-vehicle-facility/amp/",
-      "publishedDateTime": "2022-01-10T17:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-watch-this-self-driving-racecar-go-173-mph-with-no-human-driver-inside.md",
-      "title": "Watch this self-driving racecar go 173 mph with no human driver inside",
-      "excerpt": "Autonomous racecars competed head-to-head at the Indy Autonomous Challenge at CES. The competition aims to improve self-driving technology for use on and off the racetrack.",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "originalUrl": "https://edition.cnn.com/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220110165120-polimove-self-driving-racecar-super-tease.jpeg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/01/10/self-driving-racing-cars-orig.cnn-business",
-      "publishedDateTime": "2022-01-10T14:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond.md",
-      "title": "Khris Digital Marketing Offers Unique Insight on the Future of AI Copywriting in 2022 and Beyond",
-      "excerpt": "With 2021 squarely in the rearview, digital marketing thought leader Khris Steven of Khris Digital Marketing is breaking down what the future of AI copywriting tools and",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/ab24985849/khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/ab24985849/khris-digital-marketing-offers-unique-insight-on-the-future-of-ai-copywriting-in-2022-and-beyond",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/a9a239dd6e54d62f1111d3ee578b6c18.jpg",
-          "width": 600,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24985849",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24985849",
-      "publishedDateTime": "2022-01-10T14:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

@@ -73,20 +73,6 @@ related:
         width: 680
         height: 630
         isCached: true
-  - title: "Develop an automatic review image inspection service with Amazon SageMaker"
-    excerpt: "This is a guest post by Jihye Park, a Data Scientist at MUSINSA.&nbsp; MUSINSA is one of the largest online fashion platforms in South Korea, serving 8.4M customers and selling 6,000 fashion brands. Our monthly user traffic reaches 4M, and over 90% of our demographics consist of teens and young adults"
-    publishedDateTime: 2022-01-10T22:15:42Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/develop-an-automatic-review-image-inspection-service-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/04/ML-6091-image001.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
 
 secured: "VoJKWfoTg/dozHcegj4EhqksbvkNQ1f8onBA2zXfqyFMz2a3tRq3UC1+ohtmyhOCWg0D6mX5LfUvK7Xm5U8jBdCgE0RsVBkAm8m17HSv+cqFZtCBjeW6ggElkkHMfZRGroowiWr5O1+umX33Tj3eDV5L9WsqHaL+dvsAzWg71U4Sq6PidmhoGnx340QkcTkz0wN2GDu2i7H2IFxJd+pPQf2HNjdK6eSGCZ8Gp9umlms/Y1zwb/bJIEmMNFhvI3wACE5HC+/s76uwXY/AVfUSXyn75ovm6A7w1d00Zfnn22fUHMHrTFpR8k/QhSASiSA3sqAUjniY7O7QtUs2JpECHTbKrprNPeRoOHfMeNNHXLM=;y9AjbrFaKTBFyqEYWayFHg=="
 ---

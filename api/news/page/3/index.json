@@ -2,6 +2,281 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-13-cogniteams-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai.md",
+      "title": "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI",
+      "excerpt": "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development",
+      "sourceUrl": null,
+      "webUrl": "https://www.thefastmode.com/technology-solutions/22443-cogniteam-s-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai",
+      "originalUrl": "https://www.thefastmode.com/technology-solutions/22443-cogniteam-s-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thefastmode.com/media/k2/items/src/7827149b6074de43d8f06fef9ab86bcb.jpg?t=20220113_014842",
+          "width": 752,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Deep",
+        "domain": "thefastmode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-just-in-pentagon-research-priorities-to-include-microelectronics-next-g.md",
+      "title": "JUST IN: Pentagon Research Priorities to Include Microelectronics, 'Next-G'",
+      "excerpt": "The Pentagon's research and engineering office's list of 14 technology priorities will be revealed as early as Jan. 17, Undersecretary of Defense for Research and Engineering Heidi Shyu told reporters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nationaldefensemagazine.org/articles/2022/1/13/pentagon-re-chief-to-prioritize-microelectronics-ai",
+      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2022/1/13/pentagon-re-chief-to-prioritize-microelectronics-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2022/shyu_jh.ashx?h=500&w=878&la=en&hash=EAA527C73047AE120D324B6AA277E215",
+          "width": 878,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "National Defense Magazine",
+        "domain": "nationaldefensemagazine.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion.md",
+      "title": "Philippines’ neobank Tonik builds on Google Cloud to speed up financial inclusion",
+      "excerpt": "The Philippines’ first licensed neobank Tonik Digital Bank, hastens underbanked financial inclusion locally by leveraging Google Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://techwireasia.com/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
+      "originalUrl": "https://techwireasia.com/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.techwireasia.com/wp-content/uploads/2022/01/Philippines-digital-banking-450x300.jpg",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techwireasia.com/amp/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
+      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
+      "publishedDateTime": "2022-01-12T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techwireasia.com",
+        "domain": "techwireasia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges.md",
+      "title": "Graph-based recommendation system with Neptune ML: An illustration on social network link prediction challenges",
+      "excerpt": "Recommendation systems are one of the most widely adopted machine learning (ML) technologies in real-world applications, ranging from social networks to ecommerce platforms. Users of many online systems rely on recommendation systems to make new friendships, discover new music according to suggested",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/04/ML-6681-image003-1111x630.png",
+          "width": 1111,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T14:50:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-biontech-ai-startup-instadeep-develop-covid-warning-tool.md",
+      "title": "BioNTech, AI Startup InstaDeep Develop COVID Warning Tool",
+      "excerpt": "AI startup InstaDeep and BioNTech, which helped develop one of the leading COVID-19 vaccines, have developed an early warning tool for COVID-19 variants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/coronavirus/2022/biontech-ai-startup-instadeep-develop-covid-warning-tool/",
+      "originalUrl": "https://www.pymnts.com/coronavirus/2022/biontech-ai-startup-instadeep-develop-covid-warning-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/biontech-instadeep-warning-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/coronavirus/2022/biontech-ai-startup-instadeep-develop-covid-warning-tool/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/coronavirus/2022/biontech-ai-startup-instadeep-develop-covid-warning-tool/amp/",
+      "publishedDateTime": "2022-01-12T13:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-goodwin-partner-joins-legal-tech-startup-hyperdraft-as-top-lawyer.md",
+      "title": "Goodwin partner joins legal tech startup HyperDraft as top lawyer",
+      "excerpt": "Goodwin Procter partner Sean Greaney has left the firm to serve as the top lawyer for HyperDraft AI, the legal document software startup said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/legal/legalindustry/goodwin-partner-joins-legal-tech-startup-hyperdraft-top-lawyer-2022-01-12/",
+      "originalUrl": "https://www.reuters.com/legal/legalindustry/goodwin-partner-joins-legal-tech-startup-hyperdraft-top-lawyer-2022-01-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/qqybS2QcLYzGCyY9p6tnwIjQwr8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WXFVMCNQZBO2XLDIKCTXAIMFPM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T11:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-landingai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy.md",
       "title": "Landing.AI hires vision expert Dechow to correct the Big Data fallacy",
       "excerpt": "Practical application of deep learning may require focusing less on giant datasets, more on the way examples of training data are handled, says Andrew Ng.",
@@ -828,7 +1103,7 @@
       "originalUrl": "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards",
       "featuredContent": null,
       "highlight": null,
-      "heat": 214,
+      "heat": 204,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -892,292 +1167,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
-      "title": "How managed services will evolve in 2022: The data analytics revolution",
-      "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1171422745-e1641922862738.jpg?fit=800%2C533&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/",
-      "publishedDateTime": "2022-01-11T22:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry.md",
-      "title": "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry",
-      "excerpt": "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg",
-          "width": 500,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/25011004",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004",
-      "publishedDateTime": "2022-01-11T22:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-dunwoody-gains-national-recognition-for-combating-sex-trafficking.md",
-      "title": "Dunwoody gains national recognition for combating sex trafficking",
-      "excerpt": "DUNWOODY, Ga. - Tuesday was National Human Trafficking Awareness Day, and one metro Atlanta city is being recognized as a City of Freedom for taking action against trafficking. The city of Dunwoody’s mayor just signed a proclamation urging its employees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking",
-      "originalUrl": "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/01/932/470/35QT5QT5.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp",
-      "cdnAmpWebUrl": "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp",
-      "publishedDateTime": "2022-01-11T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 5 Atlanta",
-        "domain": "fox5atlanta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands.md",
-      "title": "An AI-Created Politician Draws the Attention as Deep Learning Technology Expands",
-      "excerpt": "In Seoul, South Korea, an AI-created model, an avatar of a politician — candidate Al Yoon Suk-yeol — draws the attention of the crowds on a big screen. DeepBrain AI’s human model was the result of hundreds of hours of recorded video used to learn the person’s voice,",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
-      "originalUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iblnews.org/wp-content/uploads/2022/01/AI-politician.jpg",
-          "width": 860,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
-      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
-      "publishedDateTime": "2022-01-11T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
-      "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
-      "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/412667",
-      "originalUrl": "https://www.entrepreneur.com/article/412667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-412667.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature-called-dldsr.md",
-      "title": "Latest Nvidia drivers reveal AI-powered downscaling feature called DLDSR",
-      "excerpt": "Dynamic Super Resolution is Nvidia’s method for letting users easily downsample games. It renders a game at a higher resolution, then shrinks it back down to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
-      "originalUrl": "https://www.techspot.com/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-11-image-21.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92952-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature.html",
-      "publishedDateTime": "2022-01-11T12:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

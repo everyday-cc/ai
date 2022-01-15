@@ -7,7 +7,7 @@ originalUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-driving
 webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-driving-health-trends-coronavirus-healthcare.html"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,26 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Electronics companies are changing the face of car manufacturing"
-    excerpt: "For most of the history of motor vehicles, in-car electronics has lagged behind the rest of the consumer industry. Now, that's changing, and, perhaps, electronics companies might have an advantage."
-    publishedDateTime: 2022-01-14T12:31:00Z
-    webUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing"
-    ampWebUrl: "https://www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/electronics-companies-are-changing-the-face-of-car-manufacturing?hs_amp=true"
+  - title: "Chinese restaurant chain is forced to use ROBOT waiters during the Covid pandemic"
+    excerpt: "Directors at The Chinese Buffet unveiled one BellaBot in each of four restaurants in Liverpool, St Helens, Bolton and Wigan, to serve food to diners in place of humans."
+    publishedDateTime: 2022-01-14T13:02:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
+    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
     type: article
     provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 24
-  - title: "This New AI-Driven At-Home COVID Test Delivers Your Results Digitally"
-    excerpt: "The newly launched BD Veritor At-Home COVID-19 Test uses AI technology to promote better accuracy by reducing human error and allows you to share your results digitally with friends, family, coworkers,"
-    publishedDateTime: 2022-01-14T02:58:00Z
-    webUrl: "https://www.thedailybeast.com/bd-veritor-at-home-covid-test-review"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 17
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 69
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2022/01/14/13/52927541-0-image-a-63_1642165520636.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "POoBSZauTSrzYsFoRL81H3rLnfPkmXQEIEKv74iSpxV8D25C1UkezGSR8d18vp7FJcnb4zE8n1LbxGHwO94lF/k21nmkptCNAR/TDwfrxqH/+9GnKl4HaHdGVrPqQC5Qgdw2EbMZNmYkGP2JKITf1lDF33T27vx5gpxAb1hwjIYMzcCuV36ZH3rtLn7UpVka7reK9F8dm7DVBIwBJwXSZFuDlwGUerc87RQHFodHveF72VM301AjMrfZnzC8irCU3ny2S0kcHUkQNZZzS3XW39+OcbAAaGXr+zpQ+3rSfyKyoq0GJmHdnJJ5Q9GmzUn6CCxdrO2QARN7pWIGd2J+uoLur9x1qUV5ls9CXPoJ36pcroQPx6ESyeFjROnytERPjNKpXMbVaY23Dz15/cXL45d0D/PWBn7IjOh+xUKgs3yR+Y8gYRVGCpVIEtCOMCm1HngmuPPRCwXMn8aozOoIXCENF9+JCtB2ZsGWTIJu8V3RqTmKxykhf8kvMZdsI+wlPrChpI6ByGNAS0kqrQxWYQ==;F9p7vberLOeGSyif3/bRsA=="
 ---

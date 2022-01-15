@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-31-discover-dollar-helps-enterprises-recover-overpayments-using-microsofts-ai-technologies.md",
+      "title": "Discover Dollar helps enterprises recover overpayments using Microsoft’s AI technologies",
+      "excerpt": "As a user of Microsoft technologies, Discover Dollar leverages the latest AI technologies like cognitive capabilities, AI, and ML services along with the Analytics stack to enhance the customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2021/12/discover-dollar-helps-enterprises-recover-overpayments-microsofts-ai-technologies/amp",
+      "originalUrl": "https://yourstory.com/2021/12/discover-dollar-helps-enterprises-recover-overpayments-microsofts-ai-technologies/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/F800x400-e-1640929232908.png ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2021/12/discover-dollar-helps-enterprises-recover-overpayments-microsofts-ai-technologies/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/12/discover-dollar-helps-enterprises-recover-overpayments-microsofts-ai-technologies/amp",
+      "publishedDateTime": "2021-12-30T21:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-rezos-ai-powered-contact-center-delivers-faster-results-with-microsofts-ai-capabilities.md",
       "title": "Rezo’s AI-powered contact center delivers faster results with Microsoft’s AI capabilities",
       "excerpt": "Azure AI helps startups access high-quality vision, speech, language and decision-making ... supporting a wide range of use cases, including translation for call centers, web page localisation ...",
@@ -1301,58 +1344,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-innoveo-and-techforceai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises.md",
-      "title": "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises",
-      "excerpt": "Adding to the robust catalog of Innoveo's pre-built industry accelerators, this partnership will enable Innoveo to provide out-of-the box capabilities powered by artificial intelligence (AI) and natural language processing (NLP) across intelligent OCR,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/innoveo-and-techforce-ai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises-1031050525",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/innoveo-and-techforce-ai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises-1031050525",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1170184/Innoveo_Logo.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T06:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

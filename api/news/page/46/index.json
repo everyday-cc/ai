@@ -2,6 +2,384 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-12-07-university-wide-institute-to-integrate-natural-artificial-intelligence.md",
+      "title": "University-wide Institute to Integrate Natural, Artificial Intelligence",
+      "excerpt": "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://news.harvard.edu/gazette/story/2021/12/new-harvard-institute-to-study-natural-artificial-intelligence/",
+      "originalUrl": "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-how-ai-ethics-falls-short-preserving-jobs-is-not-enough.md",
+      "title": "How AI ethics falls short - preserving jobs is not enough",
+      "excerpt": "AI ethics has been a hot topic for about five years, but are we getting to the fundamental issues? Here's why well-intentioned ideas for preventing AI job loss come up short.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
+      "originalUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
+          "width": 1277,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
+      "publishedDateTime": "2021-12-07T02:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed.md",
+      "title": "Artificial intelligence carries a huge upside. But potential harms need to be managed",
+      "excerpt": "The increasing use of artificial intelligence and machine learning in public decision making is raising critical issues around fairness and human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
+      "originalUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/436064/original/file-20211207-27-1vcec0k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop",
+          "width": 320,
+          "height": 224,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
+      "publishedDateTime": "2021-12-07T02:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based-blood-test.md",
+      "title": "Flagship Pioneering Launches Harbinger Health to Detect Early Cancer with a Simple, Bio-AI Based Blood Test",
+      "excerpt": "Flagship Pioneering today announced the launch of Harbinger Health, a bioplatform company pioneering the detection of early cancer with a simple blood test",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based-blood-test-301438732.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based/article_d1a3b857-7adf-59c4-9ab6-4c6bae8b3f2b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1027035/Flagship_Pioneering_Logo.jpg?p=facebook",
+          "width": 1500,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-your-face-is-or-will-be-your-boarding-pass.md",
+      "title": "Your Face Is, or Will Be, Your Boarding Pass",
+      "excerpt": "Tech-driven changes are coming fast and furiously to airports, including advancements in biometrics that verify identity and shorten security procedures for those passengers who opt into the programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
+      "originalUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/12/02/business/02biometrics-video-still/02biometrics-video-still-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/12/07/travel/biometrics-airports-security.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/07/travel/biometrics-airports-security.amp.html",
+      "publishedDateTime": "2021-12-07T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-we-cant-let-robots-control-nuclear-arsenals.md",
+      "title": "We can’t let robots control nuclear arsenals",
+      "excerpt": "New Zealand has just joined 30 other nations in advocating a ban on “lethal autonomous weapons”, or “killer robots” as the ... defences on a hair-trigger controlled by its own AI, across ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=92c9ead0d6bd32c383d7568860fe691e",
+      "originalUrl": "https://www.thetimes.co.uk/article/we-cant-let-robots-control-nuclear-arsenals-3hzf7jwrm?shareToken=92c9ead0d6bd32c383d7568860fe691e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times",
+        "domain": "thetimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-uk-us-facial-recognition-firm-clearview-ai-faces-17m-fine-for-breaching-data-protection-law-considers-appealing.md",
+      "title": "UK: US facial recognition firm Clearview AI faces £17m fine for breaching data protection law, considers appealing",
+      "excerpt": "A US company that gathered photos of people from Facebook and other social media sites for use in facial recognition by its clients is facing a £17m fine after the Information Commissioner’s Office (ICO) found it had committed “serious breaches” of data protection law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-humanrights.org/de/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/",
+      "originalUrl": "https://www.business-humanrights.org/de/latest-news/uk-us-facial-recognition-firm-faces-17m-fine-for-breaching-data-protection-law-the-company-considers-an-appeal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "洗護用品和肥皂",
+        "domain": "business-humanrights.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly.md",
+      "title": "New resources and tools to enable product leaders to implement AI responsibly",
+      "excerpt": "As AI becomes more deeply embedded in our everyday lives, it is incumbent upon all of us to be thoughtful and responsible in how we apply it to benefit people and society. Join our digital event, Put Responsible AI into Practice, to learn more about these updates, including new guidelines for product",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/",
+      "originalUrl": "https://azure.microsoft.com/blog/new-resources-and-tools-to-enable-product-leaders-to-implement-ai-responsibly/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/9a2deb3b-438c-4517-8ab4-7b4fb079d7c7.gif",
+          "width": 1478,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T01:00:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-07-meta-selects-aws-as-key-long-term-strategic-cloud-provider.md",
+      "title": "Meta Selects AWS as Key, Long-Term Strategic Cloud Provider",
+      "excerpt": "It will also use AWS’s compute services to accelerate artificial intelligence (AI) research and development for its Meta AI group. In addition, Meta and AWS will work together to improve the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider",
+      "originalUrl": "https://www.businesswire.com/news/home/20211201005108/en/Meta-Selects-AWS-as-Key-Long-Term-Strategic-Cloud-Provider",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T00:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-07-intel-plans-to-take-self-driving-car-unit-mobileye-public.md",
       "title": "Intel plans to take self-driving car unit Mobileye public",
       "excerpt": "Intel Corp said on Monday it plans to take self-driving-car unit Mobileye public in the United States in mid-2022, a deal which could value the Israeli unit at more than $50 billion, a person familiar with the matter told Reuters.",
@@ -726,446 +1104,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-intel-will-take-its-mobileye-automotive-unit-public-in-2022.md",
-      "title": "Intel will take its Mobileye automotive unit public in 2022.",
-      "excerpt": "The chip maker’s Israeli subsidiary builds driver-assistance technology for major automakers and is now testing self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "originalUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 352,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/12/06/multimedia/06mobileye/06mobileye-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/12/06/technology/intel-mobileye-ipo.amp.html",
-      "publishedDateTime": "2021-12-06T14:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-clearview-ais-search-engine-for-faces-set-to-receive-patent.md",
-      "title": "Clearview AI's 'Search Engine for Faces' Set to Receive Patent",
-      "excerpt": "Privacy experts worry the patent could normalize Clearview’s controversial data scraping practices in lieu of meaningful legal constraints.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "originalUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ueqb57yidtjtmqxjectm.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/clearview-ais-search-engine-for-faces-set-to-receive-pa-1848166740/amp",
-      "publishedDateTime": "2021-12-06T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-german-language-service-provider-milengo-expands-to-the-us.md",
-      "title": "German Language Service Provider Milengo Expands to the US",
-      "excerpt": "Combining a global pool of more than 1,200 qualified in-country linguists with an inhouse team of machine translation and language AI experts, allows Milengo to offer their customers tailored ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "originalUrl": "https://www.digitaljournal.com/pr/german-language-service-provider-milengo-expands-to-the-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/AAA-3-2-e1639857192200-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T11:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-va-aims-to-reduce-administrative-tasks-with-ai-machine-learning.md",
-      "title": "VA Aims To Reduce Administrative Tasks With AI, Machine Learning",
-      "excerpt": "A wide-reaching program looks for fresh machine learning technology to complete menial procedures and tasks, allowing VA clinicians and partners to focus on care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "originalUrl": "https://www.nextgov.com/emerging-tech/2021/12/va-aims-reduce-administrative-tasks-ai-machine-learning/187310/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.nextgov.com/media/img/cd/2021/12/06/america_united_states_department_of_veterans_affairs_picture_id1152538330_3/open-graph.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nextgov",
-        "domain": "nextgov.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-deep-learning-dreams-up-new-protein-structures.md",
-      "title": "Deep learning dreams up new protein structures",
-      "excerpt": "In recent years, artificial intelligence techniques like neural networks and deep learning have revolutionized the accuracy of this work. “For this project, we made up completely random protein ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
-      "originalUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.troyrecord.com/wp-content/uploads/2021/07/troy-1.jpg",
-          "width": 2100,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
-      "cdnAmpWebUrl": "https://www-troyrecord-com.cdn.ampproject.org/c/s/www.troyrecord.com/2021/12/06/deep-learning-dreams-up-new-protein-structures/amp/",
-      "publishedDateTime": "2021-12-06T10:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Troy Record",
-        "domain": "troyrecord.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-human-intuition-and-machine-reasoning-ais-helping-us-solve-giant-math-puzzles.md",
-      "title": "Human intuition and machine reasoning: AI’s helping us solve giant math puzzles",
-      "excerpt": "Mathematical discoveries take creativity – and now a little help from AI. Here's how neural nets are helping us develop intuition.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-helping-us-solve-giant-math-puzzles-syndication",
-      "originalUrl": "https://thenextweb.com/news/human-intuition-machine-reasoning-ais-helping-us-solve-giant-math-puzzles-syndication",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FMathematician-teacher-AI-math-blackboard-hed.jpg&signature=ce79ebf5b685916e316302e581625ff6",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-06T10:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-a-serious-game-microsoft-azure-champions-user-generated-content.md",
-      "title": "A Serious Game: Microsoft Azure Champions ‘User Generated Content’",
-      "excerpt": "User Generated Content brings communities together to turn games into ever-evolving platforms. By providing game developers with a set of tools to create open environments for players, they can increase engagement while empowering individual creators to share and monetize their work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ad1e960cc6e9b23cb90539%2F0x0.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2021/12/06/a-serious-game-microsoft-azure-champions-user-generated-content/amp/",
-      "publishedDateTime": "2021-12-06T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters.md",
-      "title": "Alethea AI, BeingAI, and Binance NFT launch NFT-based AI game characters",
-      "excerpt": "Alethea AI and BeingAI are collaborating with the Binance NFT marketplace to introduce the AI game characters that are based on NFTs.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/06/alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters/",
-      "originalUrl": "https://venturebeat.com/2021/12/06/alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/BEING-AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 698,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/06/alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/alethea-ai-beingai-and-binance-nft-launch-nft-based-ai-game-characters/amp/",
-      "publishedDateTime": "2021-12-06T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-report-ai-investments-see-largest-year-over-year-growth-in-20-years.md",
-      "title": "Report: AI investments see largest year-over-year growth in 20 years",
-      "excerpt": "Results indicate that COVID-19 has contributed to a surging global interest in AI from both governments and investors.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
-      "originalUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/data_globe-e1637353198623.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/06/report-ai-investments-see-largest-year-over-year-growth-in-20-years/amp/",
-      "publishedDateTime": "2021-12-06T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

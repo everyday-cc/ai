@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Proofpoint Buys AI-Powered Data Protection Startup Dathena"
-    excerpt: "Proofpoint has purchased Dathena to help organizations better understand information risk and eliminate data loss through artificial intelligence-based data classification."
-    publishedDateTime: 2022-01-10T22:56:00Z
-    webUrl: "https://www.crn.com/news/security/proofpoint-buys-ai-powered-data-protection-startup-dathena"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 37
-    images:
-      - url: "https://www.crn.com/resources/026e-137434fc73b3-5e5c01c10dad-1000/acquisition-2021.jpg"
-        width: 609
-        height: 458
-        isCached: true
   - title: "Proofpoint Acquires AI-Based Data Protection Startup Dathena"
     excerpt: "Proofpoint, which was acquired by private equity firm Thoma Bravo in 2021, has merged with Dathena, a New York-based AI data protection platform. Dathena's platform"
     publishedDateTime: 2022-01-12T00:00:00Z

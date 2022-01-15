@@ -108,15 +108,6 @@ related:
         width: 960
         height: 640
         isCached: true
-  - title: "Measuring Trust in AI"
-    excerpt: "As part of this study, the team developed an octagonal visual metric, analogous to a rating system, which could be useful to AI researchers who wish to know how their work may be perceived by the public."
-    publishedDateTime: 2022-01-11T15:43:00Z
-    webUrl: "https://cacm.acm.org/news/257780-measuring-trust-in-ai"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
   - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional Investors"
     excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Se"
     publishedDateTime: 2022-01-12T19:00:00Z

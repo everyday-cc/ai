@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/elon-musk-reveals-another-tesla-full-self-
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/elon-musk-reveals-another-tesla-full-self-driving-price-increase-10706569/amp/"
 type: article
 quality: 89
-heat: 249
+heat: 239
 published: true
 
 provider:
@@ -174,20 +174,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/bZgsuFbz4iE2fctJWBR06g--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/85898be2b155b3c6bec23025a6845758"
         width: 840
         height: 560
-        isCached: true
-  - title: "Tesla's Full Self-Driving Software Is Getting a 20% Price Hike"
-    excerpt: "Tesla CEO Elon Musk announced that Tesla's Full Self-Driving (FSD) software will be priced at $12,000 starting on January 17, up from $10,000 This price jump isn't unprecedented. The last time Tesla's FSD price increased was in October 2020,"
-    publishedDateTime: 2022-01-10T22:53:00Z
-    webUrl: "https://www.timesunion.com/business/article/Tesla-s-Full-Self-Driving-Software-Is-Getting-a-16764096.php"
-    type: article
-    provider:
-      name: Times Union
-      domain: timesunion.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/23/43/17/21902317/3/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Tesla adds chill and assertive self-driving modes"
     excerpt: "Tesla's automated driver assist feature has added an assertive driving mode. The setting will follow other cars more"

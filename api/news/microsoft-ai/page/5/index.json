@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-11-29-artificial-intelligence-ai-in-construction-market-growing-at-a-cagr-351-key-player-oracle-microsoft-alice-technologies-darktrace-autodesk.md",
+      "title": "Artificial Intelligence (AI) in Construction Market Growing at a CAGR 35.1% | Key Player Oracle, Microsoft, Alice Technologies, DarKTrace, Autodesk",
+      "excerpt": "Artificial Intelligence (AI ... and related services. In July 2017, IBM launched its Watson-based service platform, created on cloud and designed to enhance service providers’ operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-growing-at-a-cagr-35-1-key-player-oracle-microsoft-alice-technologies-darktrace-autodesk",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-construction-market-growing-at-a-cagr-35-1-key-player-oracle-microsoft-alice-technologies-darktrace-autodesk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/12/Thailand_tourism-Phuket-AFP-1K-05-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-29T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-29-how-the-public-clouds-are-innovating-on-ai.md",
       "title": "How the public clouds are innovating on AI",
       "excerpt": "Companies without the resources to develop in-house machine learning models are turning to the big cloud providers.",

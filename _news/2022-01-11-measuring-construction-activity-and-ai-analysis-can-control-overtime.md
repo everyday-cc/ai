@@ -39,22 +39,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "Adding AI to the Construction Industry, Munich’s Conxai Raises $3M"
-    excerpt: "Munich-based Conxai has raised 2.7 million euros ($3 million) to harness artificial intelligence (AI) for the construction sector."
-    publishedDateTime: 2022-01-10T22:25:00Z
-    webUrl: "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/"
-    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/adding-ai-to-the-construction-industry-munichs-conxai-raises-3m/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/09/Construction-1-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "CCC: AI Continuing to Infiltrate Claims Process"
     excerpt: "CCC Intelligent Solutions has announced there has been a 50 percent year-over-year increase in AI adoption for auto claims. The company also reported that more than 9 million unique claims have been processed using a CCC deep learning AI solution,"
     publishedDateTime: 2022-01-11T09:31:00Z

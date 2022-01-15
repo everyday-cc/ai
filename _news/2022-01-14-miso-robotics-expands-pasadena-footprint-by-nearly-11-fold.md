@@ -27,7 +27,7 @@ related:
     provider:
       name: Pasadena Now
       domain: pasadenanow.com
-    quality: 43
+    quality: 143
     images:
       - url: "https://www.pasadenanow.com/main/wp-content/uploads/2022/01/Flippy-2-CROP-740x400-1.jpg"
         width: 740

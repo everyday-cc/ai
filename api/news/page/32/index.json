@@ -2,6 +2,454 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-12-16-innoveo-and-techforceai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises.md",
+      "title": "Innoveo and Techforce.ai Announce Strategic Partnership to Accelerate Adoption of Intelligent Automation Within Enterprises",
+      "excerpt": "Adding to the robust catalog of Innoveo's pre-built industry accelerators, this partnership will enable Innoveo to provide out-of-the box capabilities powered by artificial intelligence (AI) and natural language processing (NLP) across intelligent OCR,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/innoveo-and-techforce-ai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises-1031050525",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/innoveo-and-techforce-ai-announce-strategic-partnership-to-accelerate-adoption-of-intelligent-automation-within-enterprises-1031050525",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1170184/Innoveo_Logo.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-16T06:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment.md",
+      "title": "DataRobot’s DataRobot Core aims to accelerate AI system deployment",
+      "excerpt": "DataRobot 's new DataRobot Core platform is designed to deliver improved AI design tools to enterprises in a range of industries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/02/cc9cf1dd-062b-48eb-9b71-9332024facbf.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/datarobots-datarobot-core-aims-to-accelerate-ai-system-deployment/amp/",
+      "publishedDateTime": "2021-12-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-elementary-raises-30m-for-ai-that-automates-physical-product-inspections.md",
+      "title": "Elementary raises $30M for AI that automates physical product inspections",
+      "excerpt": "Elementary, a company developing an AI platform for automating physical product inspections, has raised $30 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/4d006010-e497-496d-8ac8-5d5df66bc4e9-e1593109151202.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/elementary-raises-30m-for-ai-that-automates-physical-product-inspections/amp/",
+      "publishedDateTime": "2021-12-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-octoml-helps-enterprise-automate-with-ml-platform-for-the-edge.md",
+      "title": "OctoML helps enterprise automate with ML platform for the edge",
+      "excerpt": "OctoML’s machine learning platform is an edge AI optimization solution, a category of solutions designed to optimize the performance of AI solutions at the network’s edge with automated deployment, so that engineers don’t have to spend hours on administration and manual optimization.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
+      "originalUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/04/edge.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/octoml-helps-enterprise-automate-with-ml-platform-for-the-edge/amp/",
+      "publishedDateTime": "2021-12-16T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-cxos-are-we-ready-for-ai-to-assist-human-decision-making.md",
+      "title": "CXOs: Are we ready for AI to assist human decision-making?",
+      "excerpt": "One of the emerging areas of AI use in corporations is to assist in human decisions. But is it ready, and are the decision-makers ready for it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "originalUrl": "https://www.techrepublic.com/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2020/06/22/dc4f3ea0-7e2a-4004-95d2-1fab64569c11/resize/1200x/ca7456a835809cd381be2ca48389655b/ai.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/cxos-are-we-ready-for-ai-to-assist-human-decision-making/",
+      "publishedDateTime": "2021-12-16T05:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022.md",
+      "title": "Motional and Uber partner to launch autonomous delivery pilot in Santa Monica in 2022",
+      "excerpt": "Motional, a driverless technology company, is partnering with Uber to launch an autonomous delivery pilot in Santa Monica, according to Motional. Uber Eats customers will be able to order restaurant meal kits to be delivered to them via one of Motional’s retrofitted all-electric Hyundai",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/12/image001.png?w=1024",
+          "width": 1024,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/motional-and-uber-partner-to-launch-autonomous-delivery-pilot-in-santa-monica-in-2022/amp/",
+      "publishedDateTime": "2021-12-16T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3.md",
+      "title": "Artificial Intelligence Technology Solutions Announces Delivery Robot Development, Update to S-3",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), a global leader in AI-driven security and productivity solutions for enterprise clients, announced that its subsidiary, Robotic Assistance Devices Mobile Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24643155/artificial-intelligence-technology-solutions-announces-delivery-robot-development-update-to-s-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24643155",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24643155",
+      "publishedDateTime": "2021-12-16T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-france-latest-to-slap-clearview-ai-with-order-to-delete-data.md",
+      "title": "France latest to slap Clearview AI with order to delete data",
+      "excerpt": "Controversial facial recognition company, Clearview AI, which has amassed a database of some 10 billion images by scraping selfies off the Internet so it can sell an identity-matching service to law enforcement,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/",
+      "originalUrl": "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 237,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/06/getty-facial-face-recognition.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/clearview-gdpr-breaches-france/amp/",
+      "publishedDateTime": "2021-12-16T04:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-chinas-mobile-robots-attract-big-money.md",
+      "title": "China's mobile robots attract big money",
+      "excerpt": "ForwardX Robotics, which makes autonomous mobile robots for materials handling, recently announced the completion of its Series C. The funding is part of a broader narrative playing out in China, where the domestic robotics sector has soared thanks to an onshoring push by the government and heavy investment in the country's tech sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chinas-mobile-robots-attract-big-money/",
+      "originalUrl": "https://www.zdnet.com/article/chinas-mobile-robots-attract-big-money/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5dce89a691ea8dcac36796b22896df3b969c1501/2021/12/15/527b9de4-4508-4363-ab64-b5466ad23eca/forwardx-robotics.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chinas-mobile-robots-attract-big-money/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chinas-mobile-robots-attract-big-money/",
+      "publishedDateTime": "2021-12-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-16-tusimple-locks-in-self-driving-trucks-deal-with-dhl.md",
       "title": "TuSimple locks in self-driving trucks deal with DHL",
       "excerpt": "Self-driving trucks developer TuSimple has reached a deal to integrate its autonomous vehicle technology into DHL Supply Chain’s operations. As part of the deal, the contract logistics giant has reserved 100 autonomous trucks that are being co-developed by TuSimple and Navistar.",
@@ -716,456 +1164,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-regulators-must-root-out-bias-in-ai-based-lending.md",
-      "title": "Regulators must root out bias in AI-based lending",
-      "excerpt": "It’s pretty clear that the move to AI and machine learning is well underway in financial services. A 2020 survey of lenders found that 88% of them plan to increase their investment in AI in the coming years specifically for use in evaluating credit risk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbanker.com/opinion/banking-regulators-must-root-out-bias-in-ai-based-lending",
-      "originalUrl": "https://www.americanbanker.com/opinion/banking-regulators-must-root-out-bias-in-ai-based-lending",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://arizent.brightspotcdn.com/dims4/default/283708b/2147483647/strip/true/crop/4500x2363+0+319/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2Fba%2Fa4%2Ff0aaeb11494f8b26a8abe3df8de2%2Fai.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "American Banker",
-        "domain": "americanbanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model.md",
-      "title": "Build a computer vision model using Amazon Rekognition Custom Labels and compare the results with a custom trained TensorFlow model",
-      "excerpt": "Building accurate computer vision models to detect objects in images requires deep knowledge of each step in the process—from labeling, processing, and preparing the training and validation data, to making the right model choice and tuning the model’s hyperparameters adequately to achieve the maximum",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-computer-vision-model-using-amazon-rekognition-custom-labels-and-compare-the-results-with-a-custom-trained-tensorflow-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/10/ML-3316-image001.jpg",
-          "width": 701,
-          "height": 371,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T12:14:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round.md",
-      "title": "AI-powered VFX startup Wonder Dynamics raises $10M A round",
-      "excerpt": "Wonder Dynamics aims to make “blockbuster-level” visual effects achievable by living-room-level creators using AI and cloud services, though it has kept its product closely under wraps. The secretive company,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/",
-      "originalUrl": "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/Hiretual-Techcrunch_article_2_image_2.jpeg?w=1024",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/ai-powered-vfx-startup-wonder-dynamics-raises-10m-a-round/amp/",
-      "publishedDateTime": "2021-12-15T11:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-neural-network-20-a-game-changer.md",
-      "title": "Neural Network 2.0: A Game Changer",
-      "excerpt": "Uniquify, a Silicon Valley neural network technology and AI edge computing company, is introducing a transformative neural network fabric technology at CES 2022. Today’s neural network technology utilizes multiply-accumulate (MAC)-based operations to realize visual,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-business-718d23215f893089e3775d4adf93ef8b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026.md",
-      "title": "Artificial Intelligence (AI) in Drug Discovery Market Trends, Overview, Key Value, Demand and Forecast 2026",
-      "excerpt": "Global Artificial Intelligence (AI) in Drug Discovery Market Research Report provides key analysis on the market status of the Artificial Intelligence (AI) in Drug Discovery manufacturers with best facts and figures,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-trends-overview-key-value-demand-and-forecast-2026-2021-12-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T10:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-us-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance.md",
-      "title": "U.S. Set to Ban American Investment in Some Chinese Companies Over Surveillance",
-      "excerpt": "A draft Treasury Department announcement says the companies, including a major drone maker, participate in China’s mass surveillance of Muslim ethnic groups.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
-      "originalUrl": "https://www.wsj.com/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-452768/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/u-s-set-to-ban-american-investment-in-some-chinese-companies-over-surveillance-11639588940",
-      "publishedDateTime": "2021-12-15T10:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-kalendar-ai-wants-its-sales-bots-to-win-your-next-customers.md",
-      "title": "Kalendar AI wants its sales bots to win your next customers",
-      "excerpt": "Kalendar AI, a San Francisco-based startup that’s been building on top of GPT-3‘s language model — developing a SaaS for automating lead generation and sales outreach to make it easier for ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/15/kalendar-ai-pre-seed/",
-      "originalUrl": "https://techcrunch.com/2021/12/15/kalendar-ai-pre-seed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/IMG_4925.png?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/15/kalendar-ai-pre-seed/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/15/kalendar-ai-pre-seed/amp/",
-      "publishedDateTime": "2021-12-15T09:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-lenovo-delivers-ai-enhanced-edge-computing-with-nvidia-gpus.md",
-      "title": "Lenovo Delivers AI-Enhanced Edge Computing with NVIDIA GPUs",
-      "excerpt": "The ThinkEdge SE450 is the latest example of how continuing technological evolution substantially impacts and transforms the ways that organizations benefit from computing innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/lenovo-delivers-ai-enhanced-edge-computing-with-nvidia-gpus/",
-      "originalUrl": "https://www.eweek.com/cloud/lenovo-delivers-ai-enhanced-edge-computing-with-nvidia-gpus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2021/04/data-center.jpeg",
-          "width": 1920,
-          "height": 1087,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-the-many-faces-of-artificial-intelligence.md",
-      "title": "The many faces of artificial intelligence",
-      "excerpt": "Artificial intelligence has graduated from science fiction to being applied to almost everything. One dental hygiene manufacturer has even claimed its electric toothbrushes now incorporate the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp",
-      "publishedDateTime": "2021-12-15T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

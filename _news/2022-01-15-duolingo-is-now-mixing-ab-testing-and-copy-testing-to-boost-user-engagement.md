@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-cop
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/duolingo-is-now-mixing-ab-testing-and-copy-testing-to-boost-user-engagement/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:
