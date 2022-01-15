@@ -38,20 +38,6 @@ related:
         width: 790
         height: 466
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market Generate New Growth Opportunities By 2025"
-    excerpt: "AMR Logo Artificial Intelligence in the manufacturing market is forecasted to grow at a high rate owing to the accelerating innovations i"
-    publishedDateTime: 2022-01-11T05:51:00Z
-    webUrl: "https://menafn.com/1103517811/Artificial-Intelligence-in-Manufacturing-Market-Generate-New-Growth-Opportunities-By-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/11/EP_3c611image_story.jpeg"
-        width: 480
-        height: 400
-        isCached: true
 
 secured: "re3ByvW3nMcGyFFTdZXnvIVdAwBGsf4j4xnB6bznEbFI14KpAaA38myqscZBmF/fnKRofnunGvebBxRzrQ5/iEgpnQ4RtBX4QZq989HchedlUO+IIXMyMsz1LzxAy04iEe9kogqTyuf9Fml7yPSE+hV6tbdjxbUXdbmrZgJuAF3qB05d21w9+wa7AHe3W8I9f+cXlgeROpGYx1ccheOu0S8TqddYLJeWW6llS5umk7mi+09/L873XHjUu7RKSZgNwUNF+vQyKgkhOovNXbjcXYWsDx7H8h3RUR6eb/+6WBxeHNAcX5rBa6B+36bbDdaaDZWBiniIxOHRyfEDI2lXtvHcQJUAxTkX/TWco8Y7PII=;M7had0E3sVucyCrHq8EIAw=="
 ---

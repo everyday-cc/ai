@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-12-29-futurism-launches-zero-trust-managed-security-acceleration-services.md",
+      "title": "Futurism Launches 'Zero Trust Managed Security Acceleration Services'",
+      "excerpt": "all integrated with IBM Watson – the AI for smarter business. Zero Trust is a conceptual and architectural framework for moving security from a network-oriented, perimeter-based security ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/futurism-launches-zero-trust-managed-security-acceleration-services",
+      "originalUrl": "https://www.digitaljournal.com/pr/futurism-launches-zero-trust-managed-security-acceleration-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newswire.com/files/x/6c/7d/4d417b9a4c759dabe0d0feb14674.jpg",
+          "width": 512,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T08:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-75-of-acquiring-banks-use-artificial-intelligence-to-detect-card-transaction-fraud.md",
       "title": "75% of Acquiring Banks Use Artificial Intelligence to Detect Card Transaction Fraud",
       "excerpt": "AI In Focus, a PYMNTS and Brighterion collaboration, found that AI and related tech are needed to manage increases in both payments volume and fraud attacks.",
@@ -1098,57 +1142,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force.md",
-      "title": "BMW, IKEA Using AI-Powered Exoskeleton That Adds 66 Pounds Of Lift Force",
-      "excerpt": "Powered by a hot-swappable 40-volt battery, it consists of carbon-fiber backpack-like unit that connects to your body at the chest, hips, and upper legs. When the AI-enabled unit senses that you are trying to lift,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ca23fc1d7ac666fbd10953%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2021/12/27/bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force/amp/",
-      "publishedDateTime": "2021-12-27T12:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

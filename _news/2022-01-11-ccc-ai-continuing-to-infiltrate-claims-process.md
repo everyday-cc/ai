@@ -52,20 +52,6 @@ related:
         width: 999
         height: 561
         isCached: true
-  - title: "How Conversational AI Can Give Your Business A Competitive Edge"
-    excerpt: "AI is transforming different aspects of running a business, including communication with customers. The need for offline call centers may soon decline, as"
-    publishedDateTime: 2022-01-12T16:42:00Z
-    webUrl: "https://www.techshout.com/how-conversational-ai-can-give-your-business-a-competitive-edge/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 37
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/04/artificial-intelligence-ai.jpg"
-        width: 690
-        height: 388
-        isCached: true
 
 secured: "OeeG3hwBa1a/bzYc6sQNdGsXTHHPHMaHRo48HCWE2qcI+R4skDAoACNTZ1JR4AGrKIQVqMKQbiOqQWeoAPA9eS1y44dh+QOFoxsTPwn6Bl9wS5DRU/Hu2XygqLXynfCWrbD9CXv4RbFerGrqSynx7Yx5Sidkerkq3FQSMsLTvakB6VeX/VkpDk5S0sHoE0HrYBrfNojSzhjcdFCw/FQXWUx0A6v4mYETyjQqAxRdL36LRiw2oTLVv6yq/ocwx/CIiYiI5A7+naaRn3l87VK++Za0tvUkwCEezaLmUn5VRbbkOrqMQg3VjRU1If6MBOEKIVTDHmz+8SriI8rRmSjEeHWSt1qSDzA3ISTY+mM2CDZa3h9LlAgzH2orjvDwNlRqurCFwsM0L21/WTMcvS/2pkUAMXNyJ6BTpqPfPJQJoJ7UstcGLCw4yQUdS1bS+Q+OILZJK9vMHGVt5nLdFCJN4oxDrFIJ+xiIgVTi4zKq9b/gZ8ttHSbqBRMsaKhhC/sBCZcxFmn2SRwYG2CTiyuPew==;WicaJWaxrYZrH7eai5JvIg=="
 ---

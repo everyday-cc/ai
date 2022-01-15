@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/veea-and-conxai-fu
 webUrl: "https://markets.businessinsider.com/news/stocks/veea-and-conxai-fuse-edge-computing-connectivity-and-ai-technology-1031093761"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://www.fenderbender.com/ext/resources/artificial-intelligence.jpg?height=635&t=1626952330&width=1200"
         width: 806
         height: 504
-        isCached: true
-  - title: "How Conversational AI Can Give Your Business A Competitive Edge"
-    excerpt: "AI is transforming different aspects of running a business, including communication with customers. The need for offline call centers may soon decline, as"
-    publishedDateTime: 2022-01-12T16:42:00Z
-    webUrl: "https://www.techshout.com/how-conversational-ai-can-give-your-business-a-competitive-edge/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 37
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2021/04/artificial-intelligence-ai.jpg"
-        width: 690
-        height: 388
         isCached: true
 
 secured: "0K+QSaXaaeD4mBeYqQRFE2dp8ZUCgJ6sDiLnQD6xNehHsPU5qSid3ZWHwdmwNPkY4wgFd1QoF8egGt9NQhXG+TbIvnbGamGlVZYIgbA5dEQSGOWhk08IFXpZtvDepiIHBPBAHtqJIpVabOh/gWVQGBqQbjvp2LRFIOv0vR+WMQlW7Uv2kV3LgJ9TojIBGLfkloOvqQRzV3bPWQBwuZg5aHYQHZqy6sX8dlaCU4vyrH6kHVUg+Nv+653/M9f2gq6Ku3i7S26P0xRq+C4PDkSoGxYDQ8bEqYNUYQP3vVhH9ImqaF2EZDadv76g8V9EJrSB8jQejIYId14E0b0+qpKZF/qkD5wb9G8xH80tm80aTmddb84SNXBxQ0E6B/ZjllHkRWigMCmNbpJe9f4j81fgOIvrh/+HlqRWIJ8FdGmSJRynA7hSp4WgtWKYS3O+7lHGyFhvIOmO0VpIBwDJYgUwSvSuFC5U6JPuCIVYENFrtUxvgsEufhLGW0upTlFSbETgz5ajTk0jjFQckf5I/ZssqA==;2foeVOcV9Inl4Bnp9f/mKA=="

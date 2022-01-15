@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Manufacturing Market Generate New Growth Opportunities By 2025"
-    excerpt: "AMR Logo Artificial Intelligence in the manufacturing market is forecasted to grow at a high rate owing to the accelerating innovations i"
-    publishedDateTime: 2022-01-11T05:51:00Z
-    webUrl: "https://menafn.com/1103517811/Artificial-Intelligence-in-Manufacturing-Market-Generate-New-Growth-Opportunities-By-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/11/EP_3c611image_story.jpeg"
-        width: 480
-        height: 400
-        isCached: true
   - title: "Global Artificial Intelligence in Supply Chain Management Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
     excerpt: "The “Global Artificial Intelligence in Supply Chain Management Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This report examines the importance of AI in transforming SCM,"
     publishedDateTime: 2022-01-14T10:47:00Z

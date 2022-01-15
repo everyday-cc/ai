@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/413080"
 webUrl: "https://www.entrepreneur.com/article/413080"
 type: article
 quality: 86
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 2236
         height: 1341
         isCached: true
-  - title: "Microland Has Earned the Microsoft Azure Virtual Desktop Advanced Specialization"
-    excerpt: "This specialization demonstrates our expertise in assessment, design, implementation, and optimization of virtual desktop infrastructure in Azure  - Report on The Eastern Herald"
-    publishedDateTime: 2022-01-11T05:07:00Z
-    webUrl: "https://www.easternherald.com/2022/01/11/microland-has-earned-the-microsoft-azure-virtual-desktop-advanced-specialization/"
-    type: article
-    provider:
-      name: easternherald.com
-      domain: easternherald.com
-    quality: 29
 
 secured: "78aitQudVfkqEXQESXpp7h+TfFUcdYh9eKO5WAx6SYq2b2I5AYJV9KzqPoK7AJmgFfIW9NdA6tsFcyR+l9MPsiKguaH6Oo6bojqGBp1ZdEX8eP9p9kUw+PDQjBRAj05AWe0iuryWNUovhR+L+RVM4juko73/UwV+QEs+OzLieegkQ5Te4bFiQ/fcxuEC6Bbvfouz7pRC/U+qDb2ioNNMfJQohJWed3DfA7vUFLAuIrRI34Oc1E5Rn7T9k435xcp4ZDCISg6YWrZtAt0PE720VjNgKedRXEDYo8ZlSzNG8vImHJy5Hs1Xw8BkUPsGEKR1rGZzxVaEpHdoXUMGN8wNhLl006aArZlOhCP2uv3/k7VY2K47KUlFZh7UjVbAfTALmG3+YRCspx4y4sdVi0IN6xw5ZvKVKiKN4rDa36cdO4KEN7CswjlNT6CGuHp2/yIE3npV2hf421GIcjERPTxmcUcc++N45p5EOqxbGhK8diW4tXl83szLS3CKnJnujKELhCqj1Sr2YZzlb/bPVG+yEA==;xF3rMlWPvxN5hVzndVa6tw=="
 ---

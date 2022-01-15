@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/article/412942"
 webUrl: "https://www.entrepreneur.com/article/412942"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in the Education Sector Market Size, Share, Growth, Trend and Forecast Till 2027"
-    excerpt: "The global artificial intelligence in the education sector market is expected to reach amarket size of USD 17.83 Billion by 2027 SURREY, B"
-    publishedDateTime: 2022-01-11T06:51:00Z
-    webUrl: "https://menafn.com/1103517967/Artificial-Intelligence-in-the-Education-Sector-Market-Size-Share-Growth-Trend-and-Forecast-Till-2027"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?740404"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Exploring Machine Learning for Music Classification"
     excerpt: "Exploring Machine Learning for Music Classification - music-classification/README.md at main · Jaykakkad82/music-classification"
     publishedDateTime: 2022-01-14T07:06:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Saudi Arabia to deploy ‘Robots’ to serve ZamZam bottles"
-    excerpt: "The robot will be able to distribute 30 bottles per round, with each round lasting for 10 minutes. (Saudi Press Agency)] Makkah al-Mukarramah: ZamZam water is served in the Two Holy Mosques - in Makkah and The Prophet’s Mosque in Madinah,"
-    publishedDateTime: 2022-01-11T06:56:00Z
-    webUrl: "https://ummid.com/news/2022/january/11.01.2022/saudi-arabia-to-deploy-robots-to-serve-zamzam-bottles.html"
-    type: article
-    provider:
-      name: Ummid
-      domain: ummid.com
-    quality: 39
-    images:
-      - url: "https://ummid.com/news/2022/january/11.01.2022/zamzam.jpg"
-        width: 790
-        height: 530
-        isCached: true
   - title: "Smart robot to distribute Zamzam water"
     excerpt: "The Grand Mosque in Makkah has rolled out a robot to distribute Zamzam water bottles. Undersecretary of the Zamzam Watering Department for Field Affairs at the Grand Mosque Badr Al Luqmani said the smart robot technology is based on an autonomous distribution of Zamzam water bottles within the health protocols and precautionary measures against COVID-19,"
     publishedDateTime: 2022-01-11T10:27:00Z

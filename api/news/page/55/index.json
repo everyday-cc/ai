@@ -2,6 +2,57 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-12-02-facebook-whistle-blower-returns-to-congress-to-talk-regulation.md",
+      "title": "Facebook Whistle-Blower Returns to Congress to Talk Regulation",
+      "excerpt": "The whistle-blower who revealed thousands of internal Facebook documents is renewing her call for regulation of a social-media business model that she says puts profits over the health of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2021-12-01/facebook-whistle-blower-returns-to-congress-to-talk-regulation",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-01/facebook-whistle-blower-returns-to-congress-to-talk-regulation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ickWzvb8ed8A/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-maths-researchers-hail-breakthrough-in-applications-of-artificial-intelligence.md",
       "title": "Maths researchers hail breakthrough in applications of artificial intelligence",
       "excerpt": "For the first time, computer scientists and mathematicians have used artificial intelligence to help prove or suggest new mathematical theorems in the complex fields of knot theory and representation theory.",
@@ -1117,58 +1168,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-twitch-will-use-machine-learning-to-catch-ban-dodging-trolls.md",
-      "title": "Twitch will use machine learning to catch ban-dodging trolls",
-      "excerpt": "Twitch is introducing a new machine learning feature to help streamers protect their channels from people who may be attempting to avoid bans..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html",
-      "originalUrl": "https://www.engadget.com/twitch-suspicious-user-detection-announcement-000510859.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-images/2019-10/cf1228f0-eb47-11e9-b7bf-ed13b8e4c860",
-          "width": 5076,
-          "height": 3384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T20:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
