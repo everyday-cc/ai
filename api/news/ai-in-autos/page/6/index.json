@@ -2,49 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-12-04-top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond.md",
-      "title": "Top Developments in Artificial Intelligence that Will Shape 2022 and Beyond",
-      "excerpt": "AI is the force behind many modern technological comforts. Everything in the digital era is powered by artificial intelligence and its sub-technologies. Check out the lists of the top developments in artificial intelligence that will shape 2022 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond/",
-      "originalUrl": "https://www.analyticsinsight.net/top-developments-in-artificial-intelligence-that-will-shape-2022-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-Developments-in-Artificial-Intelligence-that-Will-Shape-2022-and-Beyond.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-04T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-02-ponyai-begins-paid-autonomous-robotaxi-services-in-china.md",
       "title": "Pony.ai begins paid autonomous robotaxi services in China",
       "excerpt": "Pony.ai has become one of the few autonomous vehicle companies to begin charging for robotaxi services in Beijing, China, after receiving approval from the city. With approval, Pony.ai will be permitted to charge money for robotaxi rides from the public,",
@@ -1355,6 +1312,40 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-stocks-to-buy-now.md",
+      "title": "Stocks to Buy Now",
+      "excerpt": "It even has an artificial intelligence engine called Koa that ... Nvidia has more employees working on driverless cars than Alphabet's Waymo, an actual driverless car project.",
+      "sourceUrl": null,
+      "webUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
+      "originalUrl": "https://moneymorning.com/tag/stocks-to-buy/?moneymorning_signup=complete&email=bhogge%40live.com&email=bhogge%40live.com&moneymorning_subscribe=complete",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Money Morning",
+        "domain": "moneymorning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

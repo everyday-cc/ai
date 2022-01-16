@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "Fractal acquires Neal Analytics to expand cloud AI offerings"
-    excerpt: "Neal Analytics strengthens Fractal’s AI engineering capabilities & cloud-first offerings on Microsoft’s multi cloud ecosystems and enables clients to scale AI and power decisions. Fractal, (fractal.ai),"
-    publishedDateTime: 2022-01-12T04:34:00Z
-    webUrl: "https://www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/"
-    ampWebUrl: "https://www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "AI is leveraging advanced analytics for physical security operations"
     excerpt: "Enterprise organizations need to move beyond static forensic security mindsets and embrace software as a force multiplier"
     publishedDateTime: 2022-01-14T18:36:00Z

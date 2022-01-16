@@ -66,6 +66,20 @@ related:
         width: 847
         height: 720
         isCached: true
+  - title: "Government backed AI hubs launched"
+    excerpt: "The Alan Turing Institute has been selected to lead pilot of a new AI Standards Hub supported by the British… | Digital | Online | Government | Technology | Innovation | Technology | National |"
+    publishedDateTime: 2022-01-12T12:32:00Z
+    webUrl: "https://bdaily.co.uk/articles/2022/01/12/government-backed-ai-hubs-launched"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 39
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/oTyBxcBcUVwzaucUDPyVPxgMV1rQcn2P5utBn5cM.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=6ae4e4cf649f6c488974d54c32965b0c"
+        width: 940
+        height: 430
+        isCached: true
   - title: "Alan Turing Institute to lead AI Standards Hub"
     excerpt: "The UK Government has announced the creation of an AI Standards Hub to work on improving the governance of artificial intelligence. A pilot of the hub – an online platform to bring together the national AI community – will be led by the Alan Turing Institute supported by the British Standards Institution and National Physical Laboratory."
     publishedDateTime: 2022-01-13T00:04:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-17-how-ai-will-drive-the-hybrid-work-environment.md",
+      "title": "How AI will drive the hybrid work environment",
+      "excerpt": "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
+      "originalUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Remote-Work.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
+      "publishedDateTime": "2022-01-16T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-16-what-ai-could-be-like-when-you-plug-a-computer-into-your-brain.md",
       "title": "What AI could be like when you plug a computer into your brain",
       "excerpt": "Everyone expects a strong AI to be built by an engineer, but in reality, a doctor might be standing at the cradle of real AI.",
@@ -210,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1433,61 +1485,6 @@
         "AI",
         "Facebook AI",
         "AI Ethics",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-30-2021-was-a-breakthrough-year-for-ai.md",
-      "title": "2021 was a breakthrough year for AI",
-      "excerpt": "As 2021 comes to a close, we take a quick look at all the major developments that took place in the AI space worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
-      "originalUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/29/2021-was-a-breakthrough-year-for-ai/amp/",
-      "publishedDateTime": "2021-12-29T16:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI",
         "Microsoft AI",
         "Natural Language Processing"
       ]

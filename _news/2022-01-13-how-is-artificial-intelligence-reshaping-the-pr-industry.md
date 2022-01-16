@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 978
         isCached: true
-  - title: "How the AI-Enabled Worker Will Deliver Better Government in 2022"
-    excerpt: "Looking to 2022 and beyond, we believe this is only the start, and we foresee even more uses for AI in the public sector, as more government institutions find practical applications of AI that ease rote work and deliver better outcomes for the public at large."
-    publishedDateTime: 2022-01-13T14:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/01/how-ai-enabled-worker-will-deliver-better-government-2022/360645/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/12/aiNG20220112/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "8vR+9wLG5BQ7XyMdpZiqnC076sCUMruSy76Nbfa6X4x0APnMmymig0+HNc0cmmvaSTHMsQv2nDK+xSvNRapw766D0zHmENZEReaZT8AxmTqctuC/H2rjxOwzragnnenUipKtHZgQPvqNaIGM6bnTXuzyq3FBJMiBt5JwvLQX5j9Xkk6WUVOpRUvA0XErPlWHcMbbm2MgMngU+8eXuxAjYqP4poX5YIUq1ib4G1r56gXyVUuvrqoLjMBsmL3FaYkTbxtBG9ARwhBH+vMStmJQAWQFr3QSYJ9m3fXx43cNj85LEu2RMekAxgQ9Gc+4hnA7FzDVKxdzp/keUgTsBs9xueirr9bClbG8D8bA0TW1e4bcoYKuSYDvS/pOhXzRgFkMcdPKyKprn/eiIbCGQL0t0Xa0felOqVm41B+t5ojAZntHmnwWqiFH4QQwD2GRS1lb95VyRMMW44DgSU3woFfpRPxZj6tbICw0PZX47oauzAgHxyx0W+wxmu1og09cgTgTaqbpRc3Nmr/xjkKBbvJiZg==;HZVOfIs5qpGEgzOTMvjRZg=="
 ---

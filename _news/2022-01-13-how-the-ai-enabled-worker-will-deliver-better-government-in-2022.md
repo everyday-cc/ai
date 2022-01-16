@@ -24,33 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "16 Industries And Functions That Will Benefit From AI In 2022 And Beyond"
-    excerpt: "The experts of Forbes Technology Council are always looking ahead to the latest trends in cutting-edge technology. Below, 16 of them share the industries they believe have the most to gain from implementing AI as well as how the technology will be specifically applied in 2022 and beyond."
-    publishedDateTime: 2022-01-13T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/"
+  - title: "How AI will drive the hybrid work environment"
+    excerpt: "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple."
+    publishedDateTime: 2022-01-16T20:15:00Z
+    webUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/"
+    ampWebUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 88
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df1425c8d22322f13806f0%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Remote-Work.jpg?w=1200&strip=all"
         width: 1200
-        height: 978
+        height: 671
         isCached: true
-  - title: "How is Artificial Intelligence Reshaping the PR Industry?"
-    excerpt: "Many areas of society, economics, and even life, in general, have been completely revolutionized by technological advancements in recent years, leaving them indistinguishable from just a decade ago. This is especially true in the communications profession,"
-    publishedDateTime: 2022-01-13T12:38:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-reshaping-pr-industry-shaikh-sofiyan"
+  - title: "How AI will change the future of marketing"
+    excerpt: "We are in now 2022 and the future will be going to adopt more advanced technologies like AI, Metaverse, Cloud Computing and many more. Already many companies like Facebook, Amazon, Flipkart and Google already adopted AI-powered tools."
+    publishedDateTime: 2022-01-15T06:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-change-future-marketing-bidhan-senapati"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 37
+    quality: 54
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFkClOombixdQ/article-cover_image-shrink_720_1280/0/1642077386382?e=1647475200&v=beta&t=9WFsdv4viK4IN8zQgj8dBulNQN7u0yeMAd69As0Uns0"
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEk4sCiITbWcw/article-cover_image-shrink_720_1280/0/1642228820551?e=1648080000&v=beta&t=Ose0Ywrx9C2kD50VcX8d3AMhIZExyVpp5Fj3dkhbb4E"
         width: 1280
         height: 720
         isCached: true

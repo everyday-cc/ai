@@ -263,7 +263,7 @@
       "originalUrl": "https://www.thestreet.com/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -340,50 +340,6 @@
         "AI",
         "AI in Security",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-chinese-self-driving-chip-startup-secures-investment-from-bosch.md",
-      "title": "Chinese self-driving chip startup secures investment from Bosch",
-      "excerpt": "Boyuan Capital, an investment arm of German car supplier Bosch, has invested an undisclosed sum into Chinese semiconductor startup Black Sesame, making its first bet on artificial intelligence chips for self-driving vehicles in China.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
-      "originalUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/01/13/chinese-self-driving-chip-startup-secures-investment-from-bosch/",
-      "publishedDateTime": "2022-01-13T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1441,6 +1397,58 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-gm-reveals-new-self-driving-cadillac-concept-car-plans-to-offer-personal-autonomous-vehicles-by-mid-decade.md",
+      "title": "GM reveals new self-driving Cadillac concept car, plans to offer personal autonomous vehicles by mid-decade",
+      "excerpt": "General Motors unveiled a new personal self-driving electric concept car from its luxury brand Cadillac during the CES technology show Wednesday. The sleek two-passenger vehicle, called InnerSpace, is part of the brand's Halo Concept Portfolio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html",
+      "originalUrl": "https://www.cnbc.com/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106997147-1641406573507-Cadillac-Halo-Concept-InnerSpace-001.jpg?v=1641406634",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/01/05/gm-ceo-mary-barra-unveils-new-self-driving-cadillac-concept-vehicle.html",
+      "publishedDateTime": "2022-01-05T16:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

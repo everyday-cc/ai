@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-17-how-ai-will-drive-the-hybrid-work-environment.md",
+      "title": "How AI will drive the hybrid work environment",
+      "excerpt": "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
+      "originalUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/Remote-Work.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/",
+      "publishedDateTime": "2022-01-16T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-16-data-users-demand-simple-actionable-insights-quickly.md",
       "title": "Data users demand simple actionable insights quickly",
       "excerpt": "Big data, cloud computing, and analytics bring tremendous power. To share that, we must provide simple, impactful insights to data users.",
@@ -1139,60 +1191,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-amazon-fixes-security-flaw-in-aws-glue-service.md",
-      "title": "Amazon fixes security flaw in AWS Glue service",
-      "excerpt": "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/",
-      "publishedDateTime": "2022-01-14T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security",
-        "AWS AI"
       ]
     }
   ],

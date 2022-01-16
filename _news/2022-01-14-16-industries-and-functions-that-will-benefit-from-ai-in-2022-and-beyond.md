@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQFkClOombixdQ/article-cover_image-shrink_720_1280/0/1642077386382?e=1647475200&v=beta&t=9WFsdv4viK4IN8zQgj8dBulNQN7u0yeMAd69As0Uns0"
         width: 1280
         height: 720
-        isCached: true
-  - title: "How the AI-Enabled Worker Will Deliver Better Government in 2022"
-    excerpt: "Looking to 2022 and beyond, we believe this is only the start, and we foresee even more uses for AI in the public sector, as more government institutions find practical applications of AI that ease rote work and deliver better outcomes for the public at large."
-    publishedDateTime: 2022-01-13T14:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/01/how-ai-enabled-worker-will-deliver-better-government-2022/360645/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/12/aiNG20220112/open-graph.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "KkBykgjp/6OflkIm4PD+0hVnsSB8GQ7nd60lakZIK1myP/xpZolUol2TyBQI0ngZTdiNxPEj7giQXTTKFIBOPEUE/C6a8vEYKZYClNTLuzHP0EXhrh8eR9WyWPzVR9xIqPM8+Jfy2dgts7+Ki9gZMtzyv2gKR/jEgaH8iINB8dHYvE4D6YZPzJvTW6tn5KgEVCehyw+3kgrk13JjBAgWNhdkUCDvgaLQByaPjtvMRxx4mt5EFd5zwAMsxzVcSyTG836ig2CYRPmZUcouePrVRHKnXy/AsB9CSRhcru8vtqZcCt1vFc+ASuhM8HHXJD3sIYqVltkls2rU9wqP54ZOhSAvKgBjwVcJM6hACQCifJlb9pVe0wPtWcHQ7VonTJDaSMD+uFkTtBwuBp0gc5Yug1+my3NNSgM3B2mJHafg3ek1Pn3uWq/xSpCzQJDtQjUeQYgm/V9SiYVKG9S72zspMtK/35c9jAHUGVKwefFIQ6+AoZu5sABMSAFJVO0iTOsPZcAdOiHezG+zoSaoIepYHw==;j/chyTFPBRoABzR7uDxu3w=="

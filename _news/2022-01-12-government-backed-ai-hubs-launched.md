@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Can new UK Hub shape global AI standards?"
-excerpt: "Can Brexit Britain really influence and hold its own on AI standards, when the US tech giants have their own agenda? Hot on the heels of the UK's National AI Strategy - launched in September last year - comes the AI Standards Hub,"
-publishedDateTime: 2022-01-14T09:11:00Z
-originalUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards"
-webUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards"
-ampWebUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
-cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
+title: "Government backed AI hubs launched"
+excerpt: "The Alan Turing Institute has been selected to lead pilot of a new AI Standards Hub supported by the British… | Digital | Online | Government | Technology | Innovation | Technology | National |"
+publishedDateTime: 2022-01-12T12:32:00Z
+originalUrl: "https://bdaily.co.uk/articles/2022/01/12/government-backed-ai-hubs-launched"
+webUrl: "https://bdaily.co.uk/articles/2022/01/12/government-backed-ai-hubs-launched"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Diginomica
-  domain: diginomica.com
+  name: Bdaily Business Network
+  domain: bdaily.co.uk
 
 topics:
-  - AI Ethics
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
-    width: 640
-    height: 384
+  - url: "https://bdaily.co.uk/images/uploads/oTyBxcBcUVwzaucUDPyVPxgMV1rQcn2P5utBn5cM.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=6ae4e4cf649f6c488974d54c32965b0c"
+    width: 940
+    height: 430
     isCached: true
 
 related:
@@ -38,6 +36,22 @@ related:
       name: Computer Weekly
       domain: computerweekly.com
     quality: 134
+  - title: "Can new UK Hub shape global AI standards?"
+    excerpt: "Can Brexit Britain really influence and hold its own on AI standards, when the US tech giants have their own agenda? Hot on the heels of the UK's National AI Strategy - launched in September last year - comes the AI Standards Hub,"
+    publishedDateTime: 2022-01-14T09:11:00Z
+    webUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards"
+    ampWebUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
+        width: 640
+        height: 384
+        isCached: true
   - title: "DCMS initiative to set standards for AI"
     excerpt: "The Alan Turing Institute, supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government"
     publishedDateTime: 2022-01-12T11:08:00Z
@@ -51,20 +65,6 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/01/12110327/DA075902-4F1D-459C-9DF1-7317E370696B.jpeg"
         width: 847
         height: 720
-        isCached: true
-  - title: "Government backed AI hubs launched"
-    excerpt: "The Alan Turing Institute has been selected to lead pilot of a new AI Standards Hub supported by the British… | Digital | Online | Government | Technology | Innovation | Technology | National |"
-    publishedDateTime: 2022-01-12T12:32:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/01/12/government-backed-ai-hubs-launched"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 39
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/oTyBxcBcUVwzaucUDPyVPxgMV1rQcn2P5utBn5cM.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=6ae4e4cf649f6c488974d54c32965b0c"
-        width: 940
-        height: 430
         isCached: true
   - title: "Alan Turing Institute to lead AI Standards Hub"
     excerpt: "The UK Government has announced the creation of an AI Standards Hub to work on improving the governance of artificial intelligence. A pilot of the hub – an online platform to bring together the national AI community – will be led by the Alan Turing Institute supported by the British Standards Institution and National Physical Laboratory."
@@ -132,6 +132,6 @@ related:
       domain: businesswire.com
     quality: 0
 
-secured: "/+svmMqNV/YADHld2135YvS5N1C+wlFX2Kder4vOaarziuQKEQ3i+X0Fh8+kpd6iCkR+0g8mrNnwDl8ZauxJvZ7PBMjHXaLPN2r3Ja49SdDKW5WV4BYCpZuhiKMOEfDG5Xc86UJptBIJ34PXvQtK5bRkpAQVbXu11EgKBvlXhvJt6P2AT42oU5Rb3uyckS0wd5dbg4z8Qw2wn6NHWsaFO1qWLtJfZv3pTNywaZiCSk9OORD8QVghp0tebH06vZ1OhaIZ3Tged+r5EzfMwJ/MzN8n7LHGTbxMMR5ZA3WbliTeZm2xGpx8HpMes+wcG4W6y+yB49kY1m4Q7ufaZKSw6nepqcDu4xfyvvo82EoSTSyNTm461pQnj3yfW3ZjR83xjYkTeCV9JiP5mI7j5bEjelLhJzCIRpy5sfdSa7UMVwYJ5D0WIx3YoxMDPB6TEQG6PiLa2KsNEYxDnPm2EAkADD5Ycw0oE1Zkqyu75GEtA3COcshmq5/MlEvw7i8mC5XKTM57tCetV/ofA7seAC6tPg==;NA1bxo3E0Ox52EISsKOIZw=="
+secured: "KxPbfoR7mVGRCHWk8gzJOLcjK57H4h8lEFvG/ckvzePw+H08Xk8mfvy7b3bXHaMMpugX/vyejYDK9HU6XOQLhaAI9Fh4MmdVyRtBY2W6LxbhPHwYPErEnuKuCAmFFjycUI7gwzC6OowixbF5siqIaL/fwLYz7CVbp4U1MQm7Oot6vNUZ6ik3Dhqo44SclJoo/+RJAafSaEC76rOHliTVQ/5sE9BxDooNk27DgsfV6s24K5vjPwo2CXNq4Tid4+o/prhIOdbeqCwhEiY3yjjoLugoL8L3J+iwySqhPMqDEIpkZkR2W4rl2fuIYxGb8dei0udI84c+gx31Rcz1TYxhmPzghdWvITxT43xSqCyPg+g=;+l21Cy6XRVQJ6uNWq8fcfw=="
 ---
 

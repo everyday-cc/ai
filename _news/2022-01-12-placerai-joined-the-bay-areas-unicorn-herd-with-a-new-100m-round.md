@@ -50,22 +50,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "Fractal acquires Neal Analytics to expand cloud AI offerings"
-    excerpt: "Neal Analytics strengthens Fractal’s AI engineering capabilities & cloud-first offerings on Microsoft’s multi cloud ecosystems and enables clients to scale AI and power decisions. Fractal, (fractal.ai),"
-    publishedDateTime: 2022-01-12T04:34:00Z
-    webUrl: "https://www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/"
-    ampWebUrl: "https://www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/fractal-acquires-neal-analytics-to-expand-cloud-ai-offerings/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 59
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
-        width: 800
-        height: 420
-        isCached: true
   - title: "Location Analytics Platform Placer.ai Raises $100M in Series C Round"
     excerpt: "Placer.ai, a location analytics platform serving companies with data around consumer foot traffic, has raised $100 million in a Series C round."
     publishedDateTime: 2022-01-13T03:43:00Z

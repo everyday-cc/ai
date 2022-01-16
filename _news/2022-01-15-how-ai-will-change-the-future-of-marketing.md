@@ -29,35 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "The future of farming? Think artificial intelligence, robots, and drones."
-    excerpt: "The outfit at Iowa State, founded last September, is one of 11 established in eight disciplines, including agriculture, following a $220 million investment from the National Science Foundation and the Department of Agriculture,"
-    publishedDateTime: 2022-01-13T13:00:00Z
-    webUrl: "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/"
-    ampWebUrl: "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/"
-    cdnAmpWebUrl: "https://grist-org.cdn.ampproject.org/c/s/grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/"
+  - title: "How AI will drive the hybrid work environment"
+    excerpt: "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple."
+    publishedDateTime: 2022-01-16T20:15:00Z
+    webUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/"
+    ampWebUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
     type: article
     provider:
-      name: Grist
-      domain: grist.org
-    quality: 73
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://grist.org/fix/wp-content/uploads/sites/3/2022/01/WhatsNext_AI.jpg"
-        width: 1600
-        height: 900
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Remote-Work.jpg?w=1200&strip=all"
+        width: 1200
+        height: 671
         isCached: true
-  - title: "The US Army sees a future of robots and AI. But what if budget cuts and leadership changes get in the way?"
-    excerpt: "Four years into Army Futures Command, experts say the effort is on track, but they warn that leadership changes, potential budget cuts and a few contracting and technological hiccups could put it at risk."
-    publishedDateTime: 2022-01-12T21:11:00Z
-    webUrl: "https://www.marinecorpstimes.com/land/2022/01/10/the-us-army-put-experimentation-and-prototyping-at-the-core-of-its-modernization-initiative-is-it-working/"
+  - title: "How the AI-Enabled Worker Will Deliver Better Government in 2022"
+    excerpt: "Looking to 2022 and beyond, we believe this is only the start, and we foresee even more uses for AI in the public sector, as more government institutions find practical applications of AI that ease rote work and deliver better outcomes for the public at large."
+    publishedDateTime: 2022-01-13T14:00:00Z
+    webUrl: "https://www.nextgov.com/ideas/2022/01/how-ai-enabled-worker-will-deliver-better-government-2022/360645/"
     type: article
     provider:
-      name: Marine Corps Times
-      domain: marinecorpstimes.com
-    quality: 36
+      name: Nextgov
+      domain: nextgov.com
+    quality: 37
     images:
-      - url: "https://www.marinecorpstimes.com/resizer/4Ia3JMNdxDUWE9VFZ7pncFrSVnI=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/BAH43C34Y5FLPNRYXYXBVDFRAM.jpg"
-        width: 1024
-        height: 683
+      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/12/aiNG20220112/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "hurHJbDwtB1tiCwzwlr4/eGodhcPJJkdUv5EKdnc6epT7SdTVxFVM3D6UOPszT/D5Nfzh3j9OasJuGz2dVoWq8YIldQbhdYIt0fh4eCGECGIRq7gHi6b65ApfcLjpqQd7H2gHiSr4muRdvn8MJOx539BlAnNppTbnbR4GTK5WnQxwFQolqnfTlHwamf/Ds6jPendFoEqejNB1H+frVegwOfWTlfS9KvjS66vqTXuiHMrdvCZ3JUm/J60ZnweaBbrZ6f/toFOrqDm++KoyOdyuNLgHbmuk50jmvf06wjw7xrqjdhoRkg8FcLbVmyHe9oN/XmaUe2dADFtS57Xng8Zm4q7qy5RvJx0/wkIzFbF724=;4BHgor8ePW97dE6vYn29eQ=="
