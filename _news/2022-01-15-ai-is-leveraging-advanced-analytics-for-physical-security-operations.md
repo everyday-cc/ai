@@ -184,15 +184,6 @@ related:
         width: 1200
         height: 817
         isCached: true
-  - title: "Fractal expands cloud AI offerings with the acquisition of Neal Analytics"
-    excerpt: "Fractal's acquisition of Neal Analytics will deepen Fractal's capability to scale AI on Microsoft's multi cloud ecosystems for its Fortune 500 clients and further expand its presence in North"
-    publishedDateTime: 2022-01-11T22:56:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-01/54941204-fractal-expands-cloud-ai-offerings-with-the-acquisition-of-neal-analytics-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
   - title: "Placer.ai joined the Bay Area's unicorn herd with a new $100M round"
     excerpt: "Placer Labs Inc. The startup, which does business as Placer.ai, announced Wednesday its backers valued it at $1 billion as part of its latest funding round, a $100 million Series C. That's nearly triple the $350 million valuation they assigned it in its Series B round last April,"
     publishedDateTime: 2022-01-12T12:00:00Z

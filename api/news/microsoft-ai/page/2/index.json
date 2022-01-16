@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-01-model-based-reasoning-in-distributed-cognitive-systems.md",
+      "title": "Model-Based Reasoning in Distributed Cognitive Systems",
+      "excerpt": "Model-Based Reasoning in Distributed Cognitive Systems - Volume 73 Issue 5 Skip to main content Accessibility help We use cookies to distinguish you from other users and to provide you with a better experience on our websites.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "originalUrl": "https://www.cambridge.org/core/journals/philosophy-of-science/article/modelbased-reasoning-in-distributed-cognitive-systems/B49F43E888758A831887A08929C15533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-31T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-31-discover-dollar-helps-enterprises-recover-overpayments-using-microsofts-ai-technologies.md",
       "title": "Discover Dollar helps enterprises recover overpayments using Microsoft’s AI technologies",
       "excerpt": "As a user of Microsoft technologies, Discover Dollar leverages the latest AI technologies like cognitive capabilities, AI, and ML services along with the Analytics stack to enhance the customer ...",
@@ -1299,58 +1333,6 @@
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform.md",
-      "title": "Gtmhub raises $120M to expand its automatic OKR-tracking platform",
-      "excerpt": "Gtmhub, a company developing OKR-tracking software, has raised $120 million in capital, bringing its total raised to over $161 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/iStock-1329436296.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/gtmhub-raises-120m-to-expand-its-automatic-okr-tracking-platform/amp/",
-      "publishedDateTime": "2021-12-16T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
