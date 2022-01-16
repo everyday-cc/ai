@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 661
+heat: 667
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 12575908
+  followers: 12577791
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "p6/MCaR+MyOO8QrFDgBJDl7lv5njLtDDdREK36YHUQoww1/nSicxezeeGv2pHXqjyrMPp8rUZq+fc/oBlUjjWqSE/T5dnPdsv0rHezAAZWg+s42NVSAqIQkfrPS5txQqjMpAa+0tllnRM4C1KEc7WXP/aTZ/xgM4j1cHkahurSBiNiI/sKerWTdBLdh3b4jKr5zruz5NIePcJA0ruO+FPdz/b9X5RvljzcabiOPHoOJX1uGIZw3Lfc+F43nOubOFW2B0p2V6bppcXHYMbIVV66dxZfRScHmD5xJtw5is99q2/GFwsK/2Ht9kQ4Iucv7fFv/W5I51K1DOSbTcOthlgwzbPO2vyhs6EGmNtiWZANQoH9PAgByz9t3XD76O4+P/wcYBlVVb5EuHakwPiD7cPrpURU+0GCMu3lKtV/eNmvI=;CSEjTaVW2eEdJQZk7vL57w=="
+secured: "aD6Ky/iDI5xd593ROryzzl/GAmFm0YSr9jZ7W0w55mf0iPIbM3d2P39f8U5IknKiVixV4nM7SA3FZJj8zHgqOYLSrk7yY7xwxiEgF+jBBc+DBL8KH7BkiZ3RTguV7oOy/7Od6+zwJrOwSSro9Tkm/JylCraG0PMcR54a0KTtBgUeGFrZnAHlD4ojsBAcaHzr5jPA7gaXU880hR1tIYzQngkjS8VM5wv3DZdH/4ena/NgIl5LmTUkxbYl5MN4E9P56M8cNjIYQYOLKJI+P8iAYusOZDMmGE0Z4wREd9YlMn8gwNvuzxkdDIZff7K/uIWKzY10R9o7nVV0t33e1sZFEpb6oOdS4s6W2LMtAffaiVzOYJK/SkggAYicl1YJiQ+/9yC4BZM2x4omunmKroxG9mBrhgQ6ypw/7FHRqSRKxeU=;can9GGunnyLV+1EuhIJN0Q=="
 ---
 

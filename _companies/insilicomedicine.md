@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "InsilicoMeds"
   url: "https://twitter.com/InsilicoMeds"
-  followers: 4409
+  followers: 4411
 
 size: 11-50 employees
 yearFounded: 2014
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=EUr-rkXsBUs"
 
-secured: "fsCqzEY7yEu38k03RtvThK6I1g0vwVuu3xKJMVdS60hrXYeryegpNecYMb4+rMrTXvNfCPr4gXuiiThB/HBJGkOt36UgRJ2KkXWiIv4aH01NRy1cNpAr3kj13FTsM+1UO1t+4+uE3e6AANHjAEbQxHaWT/HxaX4/E+GPh/tNc27I7Fdjv9eAxdzMwUcpwEouzC4GtiUuDDwr0ko89O6h+eMV8R7GUrZHG7gfqLtCeVbU4MGWjXNdxCoX35Gb1xvcHJqT/40hxBs1C2m2uHAd2gEJEossUhXPSH55XV4c0QO5zPA+Xp7ZYrzSCZ+Df/mQNQjhabfWKOjUlJXcv0aorUS3jHJGSBFbaT+wb/fmOi7AXSijMFg14L07bYvfA7rszzwOtO+d0IaV87hyBgbsMOAsFNIfkX0RJiBTYIOsQVQ=;/ITCRDE6EdCc+szBzsQU0g=="
+secured: "K/6tdU7s17wheRFtMbiZc76SKc82e+MpEvHoq0y7sFiu48DUno7/xCRbtcPJF7+UI5u3LhzJ/+RPOfduekTf3zQ/o/U0v5l3ZmVsqYgOizsp6Ol5zNxPKnu656CHQKfw7tXHiP5D4cTFOmGIaTNf+jO+VfCkzqqh/AjPJ3wk0nXh1iBBdgqumLwPE1UBA04qKwhYbkbf9KgGEtfRjaenINV9SiAx1GJVbeQ6/E9EzuDUPlTbOnVYQQoDlCtaSdEeCIMOhAWZIP48CO+g8NUPLHC4B1Nv7paBVOxmIy2O4mbQqrBmCl7wD6sa26nDiPenbHbrTRFDnedmeeU+P+mc30a5zv0i8/jMYdzN1gTG9G1rSu6CRcug0Z0frMt/nqAAT1L2SHSkJcIyAdcpHzuKZNu0OQIWsJCMER+3TmN6AhU=;xL2HjDitffLqigpovmjIYQ=="
 ---
 

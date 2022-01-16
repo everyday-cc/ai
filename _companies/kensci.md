@@ -2,7 +2,7 @@
 name: "KenSci"
 overview: "Digital primary care for less. Get answers and chat with a doctor for less than a co-pay without leaving your couch."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.kensci.com
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "KenSci"
   url: "https://twitter.com/KenSci"
-  followers: 1524
+  followers: 1525
 
 size: 51-200 employees
 yearFounded: 2015
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "KenSci"
 
-secured: "PsN6QBfX1OoaqsPuS1yEwXbcf/or6/5yK0bbfFmgIURVH9KK1gnU8seM3m/vX64Sj4p40WvN2UosxL7MmI/53Z0zLa51NZ/F2e++XUthqnyRJipRmsKCr925z5W4Zh3NeG+zmn9pUGsXL9sQ2Rmda010i/Z5Z9oY8VWDBPfjtnjV2PfSWNsrMbotM3aGlqb372rdewzgz043Wexco6WErnIg63X0/0YezR6XJJczGB+DI/FCtj+wDWDm+T/njmXaE8EKkBW/VqISdQkHx9RprFjEg4V84Kb+hr0Rdd7Gej/hy3lRA40i7skdUcTRg0RLoTyDYP83YcfKr1tk61pTnyEiJse+hdy7CrRzQ64iGJieS9TfqUtR56BJN+U2pCXhe0bFcjvu6llBXzavEfOj46pgInirjwiv+LGgzsXMBdQ=;Na1ulw6Ge4S2IBRsmJ6kng=="
+secured: "RpKtx3a33tYmh8JjSLQtttiBQBGMWfwASiqyc4Anlsp85ndmGOtSGPa6fyC8nkJjuju6zaHrnzWeF0bUjjh+f3OcEChcOtlnDLp2EzM2SiRVhmCnAe225ReOrfs82s8ItaA2RasLus3EBL3tmrA5k5GYWugPnBcRkY9DPj6Mt93X7YwSXiS9LW7T2JUYWRVBdxWkvd9ihL3RMY48Y+6NwndgCy9e8ji7AWGIOECZexyXyTfIW9XvLpJq03BUsz8jJAvOL8+RWSadLhYwsK3/hezhY3kPXx9xKd3inLM9csC4orXXKicFNgnj/fllTliXbvaOYwkoIi5HisHjb8q37MTsTOjex6xJSGXM3NdYKzbtapD0zy5ibT50qOsvm68Y5EEgcD3Gbr7boJpvtuCJTZOQLwy+lcHEc+bO8S2iEmM=;N43olfcdZu+Pvk+Jj+KqLQ=="
 ---
 
