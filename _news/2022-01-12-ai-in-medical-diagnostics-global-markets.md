@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/25011222"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011222"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,33 +21,21 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning In Drug Discovery and Diagnostics Market Trends and Forecast"
-    excerpt: "Deep Learning in Drug Discovery and Diagnostics Market is expected to value over USD xx billion by 2027 end and register a CAGR of xx% from the forec"
-    publishedDateTime: 2022-01-12T13:42:00Z
-    webUrl: "https://menafn.com/1103527504/Deep-Learning-In-Drug-Discovery-and-Diagnostics-Market-Trends-and-Forecast"
+  - title: "Gestalt Diagnostics’ AI-based digital pathology platform adopted for clinical use by large U.S. lab"
+    excerpt: "Local health sciences company Gestalt Diagnostics says it has achieved a significant milestone by using artificial intelligence and digital pathology to improve patient care."
+    publishedDateTime: 2022-01-16T12:05:00Z
+    webUrl: "https://www.spokesman.com/stories/2022/jan/16/gestalt-diagnostics-ai-based-digital-pathology-pla/"
+    ampWebUrl: "https://www.spokesman.com/stories/2022/jan/16/gestalt-diagnostics-ai-based-digital-pathology-pla/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/jan/16/gestalt-diagnostics-ai-based-digital-pathology-pla/?amp-content=amp"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 43
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?868007"
-        width: 374
-        height: 250
-        isCached: true
-  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market: Global Industry Analysis and Opportunity Assessment 2021-2027"
-    excerpt: "Pune, India, Data Library Research published a new report. The report provides tacticians, marketers and the senior management with critical information they need to evaluate the global Artificial Intelligence (Ai) in Medical Diagnostics Market as it emerges from COVID-19 shut down."
-    publishedDateTime: 2022-01-14T09:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-medical-diagnostics-market-choudhari"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 27
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGelrJ1gANflw/article-cover_image-shrink_720_1280/0/1642153555777?e=1647475200&v=beta&t=6gTk3GVAMkEOKykdcxWaHU5WkREpr4rPUzm_Va76CLU"
-        width: 1200
-        height: 714
+      - url: "https://thumb.spokesman.com/Mkf21O8kO-9QPshCWicznCr0O9g=/480x0/media.spokesman.com/photos/2022/01/14/61df5ebdde41f.hires.jpg"
+        width: 480
+        height: 271
         isCached: true
 
 secured: "Szi9rDsPepli89X3VGnUq5wmfHGBQUOuzEqmodMyJvLByM9zMr0ouhxdDh9aNFRIJbvxzWVqc0maOJOCieIwQnanRtuBWP3w1+xGi1loMAXs1M2kjm7Jqtpaen9qwE4eIQRI0jq8de90E9Q9yRSbgSJu0lw1BiiH3VEsBTMIagJm5q4HDe6Y2pvaVETsoTt7POpMQZQH0QvL9VfmJHid4uSBEtoq3iVVtKnsqf4TvxoG5dYTy0qfB7siFaZ7Rl4u/lWQJFDOmcILLERei0nYa6DCfp7zJ1oVAedSVW5E1Ih0SlMXLKtWu7UDdBREIlGyd9vwdKmx+XlgKlXzyAdYnSp6kX+I/di2q8lnV46/wLQ=;N5PZWqRDI/Q9xeT80LE42A=="

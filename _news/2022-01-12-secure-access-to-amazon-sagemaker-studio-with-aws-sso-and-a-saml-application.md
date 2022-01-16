@@ -29,33 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker"
-    excerpt: "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting"
-    publishedDateTime: 2022-01-11T20:05:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/"
+  - title: "Amazon fixes security flaw in AWS Glue service"
+    excerpt: "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service."
+    publishedDateTime: 2022-01-14T13:05:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 113
+      name: ZDNet
+      domain: zdnet.com
+    quality: 108
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/10/ML-5350-image007-1260x501.png"
-        width: 1260
-        height: 501
-        isCached: true
-  - title: "Optimize your inference jobs using dynamic batch inference with TorchServe on Amazon SageMaker"
-    excerpt: "In deep learning, batch processing refers to feeding multiple inputs into a model. Although it’s essential during training, it can be very helpful to manage the cost and optimize throughput during inference time as well. Hardware accelerators are optimized for parallelism, and batching helps saturate"
-    publishedDateTime: 2022-01-12T23:37:41Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/optimize-your-inference-jobs-using-dynamic-batch-inference-with-torchserve-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 77
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
+      - url: "https://www.zdnet.com/a/img/resize/5ce181958b42162c42543bf7eefa3ab6467f7c9c/2021/12/01/bf754524-8f7c-47d1-8b10-d0f28da9d080/20211201-sf-dec.jpg?width=1200&height=675&fit=crop&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "eCmyZdVOGV/xHuC0E6L1XpVbUYSz0QVcSg3yalaJo4C/rLNSNm7QptmGrL+TElp3Yi5tkcV+HN5INHozxdz8dVZodkmvM2rpqpI6EU5NQPHQNCHiWOqsh1DJ9IN8ku7KECNqpBmRTYK3UbzND1J1fqDYeLWzVaVtbpZGtmO41XybsTAmaMWHBrWhhoid5h/YNsTWClZVbHT/bGXEkqV2rlueXE2ORmEbgOguAfJtl2lzUX0vsU7MYScaNIudjGsVZwM9MzQsiamJKpOkA4tMk8Udis9yGJGZ7BrqwABeuRXVXP7bXHGpPn+aT9Dv+eBQwpHFFKvQvHOU6xM7jx0rzLJ4rXHAUFqHd9YqGvjgU+A=;o+vs9FYtp4h4YPcljLGMQw=="

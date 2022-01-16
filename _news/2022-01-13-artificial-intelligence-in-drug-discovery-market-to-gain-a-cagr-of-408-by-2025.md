@@ -7,7 +7,7 @@ originalUrl: "https://www.medgadget.com/2022/01/artificial-intelligence-in-drug-
 webUrl: "https://www.medgadget.com/2022/01/artificial-intelligence-in-drug-discovery-market-to-gain-a-cagr-of-40-8-by-2025.html"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -19,18 +19,18 @@ topics:
   - AI
 
 related:
-  - title: "Image Recognition Market Expected to reach $86 billion and CAGR of 21.8% by 2025"
-    excerpt: "The global image recognition market was pegged at $17.91 billion in 2017 and is expected to reach $86 billion by 2025, registering a CAGR of 21.8%"
-    publishedDateTime: 2022-01-14T02:39:00Z
-    webUrl: "https://menafn.com/1103537226/Image-Recognition-Market-Expected-to-reach-86-billion-and-CAGR-of-218-by-2025"
+  - title: "Deep Learning In Drug Discovery and Diagnostics Market Trends and Forecast"
+    excerpt: "Deep Learning in Drug Discovery and Diagnostics Market is expected to value over USD xx billion by 2027 end and register a CAGR of xx% from the forec"
+    publishedDateTime: 2022-01-12T13:42:00Z
+    webUrl: "https://menafn.com/1103527504/Deep-Learning-In-Drug-Discovery-and-Diagnostics-Market-Trends-and-Forecast"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 19
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?302108"
-        width: 443
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_3.jpg?868007"
+        width: 374
         height: 250
         isCached: true
 

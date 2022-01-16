@@ -24,6 +24,22 @@ images:
     height: 1046
     isCached: true
 
-secured: "buMoeunUWBmtxcbKiKAJMxVB72sBVc9GTujo6W96G4co2HxcgorzZ+dYKi1rEuYCSThcVECLFqvlaCdfNIft9UOtBQ6SghD5Uggx62+6/019pFC+akHwPypOkRnwhYP935kPt0ZZHrN/oMpPTaSWp6A47mshjJT1wpq+7qCMEIbMW/CKMcejV40VAWEzCUTWPqkgLu6+0VmffkB0lAffJ+s5krY1kT7YYheK4T0VXfiwy3Eqjlsus37QYauDeaefVXQIPmd39JLNfwLK7xjtbAmhjt6WrvHLqD1rOioXO5RWnhGiM/KXtYEGRFSaDG7CZEwlsof7nGYuq/oKMNKJ+iQIzMzafl3KW83+hxfr6O4=;4mrABjm7JetTbrGOiF+tyw=="
+related:
+  - title: "Image Recognition Market Expected to reach $86 billion and CAGR of 21.8% by 2025"
+    excerpt: "The global image recognition market was pegged at $17.91 billion in 2017 and is expected to reach $86 billion by 2025, registering a CAGR of 21.8%"
+    publishedDateTime: 2022-01-14T02:39:00Z
+    webUrl: "https://menafn.com/1103537226/Image-Recognition-Market-Expected-to-reach-86-billion-and-CAGR-of-218-by-2025"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?302108"
+        width: 443
+        height: 250
+        isCached: true
+
+secured: "DLkj+gy2bCapfL12K7dFpMQvmGqbkB/BWZSTm0j7YQlVMMcE2WhAgR4U82kkUMaoG7qTTejr1vC8rGRj9s0kDDDl+5Ajbuc88RB0aZDFjpICV70kKs33A41LGXoWE5kduJzrLnMGj5ZDI+0oNF34v0NiyRm0NBmy2h7nGzMDQ0fSMXBgKj0NcEDufQHVhLbYY8AzYCMwkFYq94yj6Klg2ezxt4jPkjepPhaH4xidKOxXdbuix9/iuKJ3uPH+bbsrXmlz9jDGaXVKX7h7PaQQoSu0OvzihD/8pZRTwA+5AGz077dzfsfMCZqJbVP3aQ63HQ5IwJrFywHfZiECTEpD9rrSp14rAVU0klAHaDW2qvU=;uFqQFhSw8xZX72tBjlyKnw=="
 ---
 

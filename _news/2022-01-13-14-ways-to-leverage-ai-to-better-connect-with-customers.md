@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 819
     isCached: true
-
-related:
-  - title: "Veea, CONXAI Connect Construction with Real Time AI Assistance"
-    excerpt: "Even the best laid plans experience hiccups. Measure twice and cut once only goes so far in optimizing construction plans, as even the best supervisor can make an error. Engineering and construction are two industries with slower than expected AI adoption,"
-    publishedDateTime: 2022-01-11T19:24:00Z
-    webUrl: "https://www.iotevolutionworld.com/fog/articles/451164-veea-conxai-connect-construction-with-real-time-ai.htm"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 37
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-jan/6301620456-AdobeStock_237320164_connected_Construction_SUPERSIZE.jpg"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "NQu1iu9kxGjQXoG4g5D5Kh9vYbeSGwW15+68cIfCfqaNQV/Wmz6fCOinJ3vVHKCK5e72Q8rI6zb3i2LiAWxn6dPK4yQWj5NcUw9JEKFrgl1FOBtUgzA2np5VcdnYCptV8gMjnHvw4Ig5TyS0HN6plSQkNcNiymp1SaKjVeakn+H16ZkcentTS8oF5vSvUNivdp0J/2WaeIgUP/yKmtiQLVNK6SMbfCMNF46sOSCLbuuI2+05Cfg2yzo8GlMsSx6potnc0xGwfbzInMquKfc6fkaP/2ljjuc9cz7uOoRRIoA2IrF3hzPx2c+B+yG+rRGjskFeW+nS2SFdbYfZQLTSf8lkRFetlb1LYK4H1k6NhP4dLpGhVwnQVag0kBLrDSzNuN7VepkmHTMnXKLS4I559rIViW+8AtN9sXwX835VetEyJxhz0Fkth/gR828l7Xv6Wd23BzJ15wUSIXhiIWUHZ5sn3LjzgVZhr14fRup782cIJURc3bg63gPikoC1HnAMp+ZAca5C7tV6RJia1saobA==;Ua0pD1fmWX2YtSvTURN9IA=="
 ---

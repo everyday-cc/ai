@@ -24,21 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "Corsight AI reveals its top facial recognition technology trends predictions for 2022"
-    excerpt: "In 2022 and beyond, Facial Recognition Technology (FRT) will play a key role in the future of global urban development and improving the experience of smart citizens. From personal convenience,"
-    publishedDateTime: 2022-01-13T12:02:00Z
-    webUrl: "https://www.sourcesecurity.com/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html?ref=nav"
-    ampWebUrl: "https://www.sourcesecurity.com/amp/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html"
-    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html"
+  - title: "3 Key Differences Between AI And Robotics"
+    excerpt: "Despite having a few common elements, AI and robotics are not the same. To understand the difference between the two, one can imagine AI to be the brain and robots to be the body of artificially intelligent robots—the combination of AI and robotics."
+    publishedDateTime: 2022-01-16T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/"
+    ampWebUrl: "https://www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/16/3-key-differences-between-ai-and-robotics/amp/"
     type: article
     provider:
-      name: SourceSecurity
-      domain: sourcesecurity.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 119
     images:
-      - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/identity-and-access-management-key-to-how-companies-secure-assets-in-2022-920x533.jpg"
-        width: 612
-        height: 355
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d670b81998bdcbce034eac%2F0x0.jpg"
+        width: 1200
+        height: 827
+        isCached: true
+  - title: "Cannabis firm to use AI, robotics-based logistics system"
+    excerpt: "A robotic and artificial intelligence (AI) startup is providing retail logistics and workflows for Collective Cannabis, a cannabis dispensary. Wings will provide its EXO delivery system that is designed to automate retail logistics."
+    publishedDateTime: 2022-01-14T13:38:00Z
+    webUrl: "https://electronics360.globalspec.com/article/17653/cannabis-firm-to-use-ai-robotics-based-logistics-system"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 69
+    images:
+      - url: "https://electronics360.globalspec.com/images/assets/653/17653/cannibis.jpg"
+        width: 752
+        height: 423
         isCached: true
 
 secured: "lZSRoZ6pfMPpFWBAjChSuuJbdJ1U2Vuo7pS3jyaBliIAD2ggR3+GhZGRhjkRo5qMejrWOb0GtgyDutQMcapDLieoXGkQhXtG4KB9fgNk2Rn4cI4EFyf1At3U8dbQPvd696XYQy43Bfteg8G+O96BB32zYUzWZvFgAKLRkcr+ZP2ZUoI0V/cXiMZL+PI3ZGFDL5HbYKc1YdX6eoLC+PPhDt9PNPlAIZf5wU5bVHJdiNJI6nQriYScFk+HTesq2cHoPeQAtml79EuxYvkVaps0rqGaWzGwMPrC7KuYuMxIb5FAokZZS5M8/a58JXJZyLkoI1Zqdz4q/HrQT0Q2zxqJ6UJLiDYiXS3MM9wPy677wis=;pYTuGafvSqs+1INXid7i+Q=="

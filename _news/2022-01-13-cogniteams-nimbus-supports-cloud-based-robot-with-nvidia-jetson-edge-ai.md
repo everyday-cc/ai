@@ -7,7 +7,7 @@ originalUrl: "https://www.thefastmode.com/technology-solutions/22443-cogniteam-s
 webUrl: "https://www.thefastmode.com/technology-solutions/22443-cogniteam-s-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai"
 type: article
 quality: 55
-heat: 65
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform"
-    excerpt: "Cogniteam today announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development and deployment platform, allowing cloud-enabled deployments to use NVIDIA technology for the first time."
-    publishedDateTime: 2022-01-11T21:47:00Z
-    webUrl: "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/"
+  - title: "4 Reasons to Invest in Nvidia's AI in 2022"
+    excerpt: "This is where the AI part comes in, a few years ago, when researchers were trying to build the first AI models that really worked, technology had not caught up with the idea yet. We needed massive lakes of data and we needed processors that could move that data around."
+    publishedDateTime: 2022-01-13T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?time=1642082401"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 41
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2022/01/Cogniteam_Nimbus-Screenshot.jpeg"
-        width: 700
-        height: 390
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "L2n8gsOVB9Kw9HMysZFUKOAwok3wJK2EZ5xPgknBZJI58pXmR0NU5PhunYGB48uRBEFaZzIZti7tlGQABpfhog7KbKmwC6V+CkJrumdGwq0XV8FqUShi99P7XqyZJ6FNAEo/cM80XU1r6l56Ugu/MQwptaGLo6Q8pdYx0+GRZhC6HkchaLLTG9bodNuaMcU7F0aXLv2VzrNeplNRHcgsxlkVDKQPoPDLJw87QbLnqcMdP+Td67+s5up/vM9tsqDLLttJEJ0CnI0Vt/BBoYdlpW2+BnM51yHuZwuu+huaaBVtkXPpDxu8xmMFfZlkjqS6pxYSydbKtdjtuEFklH717DYRwPtELMHSISjY2W5SRh60Aai46Q6XrK2UqEorEcGCRfEx5LfcymT5UdH70yytNI35+9VcDhQ1Mkp3C9qb5zfcbeZR5pMXecZzO8haMVTaHHz17rGSYLHLsloFfTBeHuLbzagUBcyeeDwZDowbm/q7sG59VxOsuIKoGK9URyWwEYn7g8WGsLYLPUOD66LM/A==;LD24jsS1tT8NlHZA6yjL/g=="
 ---

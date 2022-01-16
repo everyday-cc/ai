@@ -29,33 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker"
-    excerpt: "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting"
-    publishedDateTime: 2022-01-11T20:05:52Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker/"
+  - title: "Label text for aspect-based sentiment analysis using SageMaker Ground Truth"
+    excerpt: "The Amazon Machine Learning Solutions Lab (MLSL) recently created a tool for annotating text with named-entity recognition (NER) and relationship labels using Amazon SageMaker Ground Truth.&nbsp;Annotators use this tool to label text with named entities and link their relationships, thereby building"
+    publishedDateTime: 2022-01-14T21:31:59Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/labeling-text-for-aspect-based-sentiment-analysis-using-sagemaker-ground-truth/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 113
+    quality: 87
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/10/ML-5350-image007-1260x501.png"
-        width: 1260
-        height: 501
-        isCached: true
-  - title: "Secure access to Amazon SageMaker Studio with AWS SSO and a SAML application"
-    excerpt: "Cloud security at AWS is the highest priority. Amazon SageMaker Studio offers various mechanisms to protect your data and code using integration with AWS security services like AWS Identity and Access Management (IAM), AWS Key Management Service (AWS KMS), or network isolation with Amazon Virtual Private"
-    publishedDateTime: 2022-01-12T21:02:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/secure-access-to-amazon-sagemaker-studio-with-aws-sso-and-a-saml-application/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/30/ML-5366-image003-680x630.png"
-        width: 680
-        height: 630
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/06/ML-4415-image005.png"
+        width: 864
+        height: 699
         isCached: true
 
 secured: "VoJKWfoTg/dozHcegj4EhqksbvkNQ1f8onBA2zXfqyFMz2a3tRq3UC1+ohtmyhOCWg0D6mX5LfUvK7Xm5U8jBdCgE0RsVBkAm8m17HSv+cqFZtCBjeW6ggElkkHMfZRGroowiWr5O1+umX33Tj3eDV5L9WsqHaL+dvsAzWg71U4Sq6PidmhoGnx340QkcTkz0wN2GDu2i7H2IFxJd+pPQf2HNjdK6eSGCZ8Gp9umlms/Y1zwb/bJIEmMNFhvI3wACE5HC+/s76uwXY/AVfUSXyn75ovm6A7w1d00Zfnn22fUHMHrTFpR8k/QhSASiSA3sqAUjniY7O7QtUs2JpECHTbKrprNPeRoOHfMeNNHXLM=;y9AjbrFaKTBFyqEYWayFHg=="
