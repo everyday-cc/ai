@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-compe
 ampWebUrl: "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/"
 type: article
-quality: 89
-heat: 109
+quality: 91
+heat: 111
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1287119472.jpg?w=1200&strip=all"
@@ -62,6 +63,6 @@ related:
         height: 388
         isCached: true
 
-secured: "ixosmjmfCfPfBZbogWFYZIJNThI+hpopUOHD6ArzA5k7XFHc4FK5USM5qpLwf2kHc8Qe5tkn0VffWLh6FAgx/Fc/XYK169gNOQ2wDX2Wl3Wz+khMNpAGxQpWECeur893TYJOpIEeEfl1jE7IDEVXVL3wlZh/9/O1f94v9x0tB7X1v+a9P2MTh65QzWJoaSLlL/WBMCt53oxhY95+P0dfZ/6Ytujsao8ct2ZmuqnKXQXWV/KfH4S3bK5QTl5LGCYDK6GUdUIAoRxTAbogDmlNnhSBI299HfxXtUg31onhZametFLsbsh7XIFcRSNlZMjcDiDK6pvQiW88xS8tFvfj/TYepBOxiU+RtZlpIpzguiw=;VoBoZWps3UgFUapjkVdNvw=="
+secured: "3+yG6iPsYPir10fyZX70j4BfOKvj7IJp93lgcFujnGMXCc7+xjCFuz3KNT5bz3YWqGW5uiFBu79zzKarviiqbrgKaejnXAQHbzyC2Ra4XyYIrc+Gs8NqmBNPnY3BAqfNqsm9B1xZVHeHfUU5JB914lds93XIfoEZD84PUPnNUDJwA9H7MSS5vItqXVTgQdgGtdSS0NJSPbUKtn+KQPBBKnFiAGJOkehWlzpAAzX2Gm9hUfwo5/Eud0baqUhcT8T8gzOLPuJLRMBRcdyjDh0LaDUr9bOCDAmr0q30g+ZwPaRSrY6A9ZrUoai5uamNKFTdjpll4TuxeypwRZ2GBop9gswq3YXPkH5Bx7XzhSisRAh2ig/suvbI3vuX/ROKISklbLKvQexUKKkyIcwuNhTb9oxC7gkbWIEpTB/HFiy7Te0XnkrSxbO5757ov0BQ9Lplo4tErq6gxUPB0JNNjfLMrvoJtrMlQg/gb+WH/HwsrfBtFWGKM9MWhyIIHceOeOYNgfz43Jc08QM54SJbfRHssg==;zYmD2YmjFAiEltbEcyzNcA=="
 ---
 

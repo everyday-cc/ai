@@ -52,34 +52,6 @@ related:
         width: 386
         height: 500
         isCached: true
-  - title: "2021 AI Recap & Founders’ Predictions for 2022"
-    excerpt: "Originally posted on  Blog by Jodi Lifschitz As we continue to spear our heads through Covid we can clearly see that the tech industry did not let the global pandemic get in the way of its progress. In fact,"
-    publishedDateTime: 2022-01-11T09:51:00Z
-    webUrl: "https://www.linkedin.com/pulse/2021-ai-recap-founders-predictions-2022-dataloop"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEVM5XQOPL99g/article-cover_image-shrink_720_1280/0/1641893053016?e=1647475200&v=beta&t=pqvzcFTl0LSjS5IBRKSVYzdQLbxfkBghNmJ6sc5tLZ0"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Five AI Inference Trends for 2022"
-    excerpt: "It’s an exciting time to be a part of the rapidly growing AI industry, particularly in the field of inference. Once relegated simply to high-end and outrageously expensive computing systems, AI inference has been marching towards the edge at super-fast speeds."
-    publishedDateTime: 2022-01-14T07:26:00Z
-    webUrl: "https://www.design-reuse.com/news/51243/five-ai-inference-trends-for-2022.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 37
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage51243/2022.jpg"
-        width: 470
-        height: 315
-        isCached: true
 
 secured: "pOy4cqlKVLnUFi8m8ho10HQqW+4lK5RZ11MlimGNyyOvou/SybgrTGAPuOFF7uYIguj2e0LDDGErGOdR4txIVLELFI4+OmH42NTsdYR43hOJmFx68CODRuGd/2UAm5yQrPPKTn5njNFhQ1nueearbYkmVkQzh77pRhf15whXWPuZ2qTc6FcRCVsrcRY6IjDuxMiwyxTgJR4iBkld7R8dgQnFoXUPZ4Tw9IHQpL4+4RyNpaAhzqDLcyRaee479NOuAzpcRSqxW05M54Mo3O928SkqhyMtvCt3nymH6EWS22me0GeyuRO3HKbvF0dulmemZz140TmuIEcOHdFCMREGkwdR0sSXZE40cJeKySagj88=;asVHdAIUrd9zlVAIaFODNQ=="
 ---

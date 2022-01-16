@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Big data analytics, AI/ML to be most in-demand skills in India in 2022: Monster report"
-    excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
-    publishedDateTime: 2022-01-11T07:50:00Z
-    webUrl: "https://www.thenewsminute.com/article/big-data-analytics-aiml-be-most-demand-skills-india-2022-monster-report-159726"
-    ampWebUrl: "https://www.thenewsminute.com/article/big-data-analytics-aiml-be-most-demand-skills-india-2022-monster-report-159726?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/big-data-analytics-aiml-be-most-demand-skills-india-2022-monster-report-159726?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 68
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/ArtificialIntelligence_Pixabay_11012022_1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Net4 launches video analytics powered by AWS Wavelength"
     excerpt: "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,"
     publishedDateTime: 2022-01-13T12:02:00Z

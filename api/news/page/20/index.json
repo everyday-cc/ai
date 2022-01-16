@@ -2,6 +2,110 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-28-baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators.md",
+      "title": "Baidu Create 2021 Successfully Launched In Metaverse, Ushering In A Golden Decade Of AI For Creators",
+      "excerpt": "Having L4 intelligent driving capabilities, Baidu's smart EV venture, Jidu Auto, has been designed to operate under the concepts of \"free movement\", \"natural communication\", and \"self-improvement\".",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1716650/Baidu_Chief_Executive_Officer_Chairman_Co_Founder_Robin_Li_welcomed_a.jpg",
+          "width": 400,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-27T13:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-28-amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g.md",
+      "title": "Amazon AWS Outages Highlight Promise And Peril Of Public Clouds For 5G",
+      "excerpt": "Users endure frequent and long outages for cloud-based services like ecommerce or gaming but expect greater uptime for mobile connectivity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/",
+      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c9bde2e52ca88e8f8fba46%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/amp/",
+      "publishedDateTime": "2021-12-27T12:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-bmw-ikea-using-ai-powered-exoskeleton-that-adds-66-pounds-of-lift-force.md",
       "title": "BMW, IKEA Using AI-Powered Exoskeleton That Adds 66 Pounds Of Lift Force",
       "excerpt": "Powered by a hot-swappable 40-volt battery, it consists of carbon-fiber backpack-like unit that connects to your body at the chest, hips, and upper legs. When the AI-enabled unit senses that you are trying to lift,",
@@ -1031,101 +1135,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-how-machine-intelligence-is-changing-the-modern-world.md",
-      "title": "How Machine Intelligence Is Changing The Modern World",
-      "excerpt": "Specialists and mass media expect technology advancements to allow complete redefining of the role of machine intelligence in modern life. This is about the development of computer vision, natural language processing and neural networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6166fb6f1b212a984a12fd25%2F0x0.jpg",
-          "width": 1200,
-          "height": 786,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2021/12/27/how-machine-intelligence-is-changing-the-modern-world/amp/",
-      "publishedDateTime": "2021-12-27T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-artificial-intelligence-in-education-market-analysis-size-share.md",
-      "title": "Artificial Intelligence in Education Market Analysis, Size, Share",
-      "excerpt": "The global artificial intelligence in education market is expected to surpass US$ 4,340 million by 2027, growing at a CAGR of 31%. The primary market participants in the global artificial intelligence in education market include Amazon Web Services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm",
-      "originalUrl": "https://www.pr-inside.com/artificial-intelligence-in-education-market-analysis-size-share-r4860169.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.pr-inside.com/images/uploads/pr/2021/109014/20211227_ami_109014.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T02:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR-Inside",
-        "domain": "pr-inside.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

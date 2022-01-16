@@ -26,6 +26,17 @@ images:
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in January"
+    excerpt: "With Deere, among other companies, it is clear that artificial intelligence is making its way into nearly every part of our world, and there are three companies you can invest in today that I think could be the best companies to capitalize on it."
+    publishedDateTime: 2022-01-15T11:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
+  - title: "3 Top Artificial Intelligence Stocks to Buy in January"
     excerpt: "Nearly every business is using artificial intelligence in some form today, but these three companies have AI at their core. Upstart and Lemonade are both using AI to make decisions in industries that haven't been disrupted in years."
     publishedDateTime: 2022-01-15T16:24:00Z
     webUrl: "https://www.fool.com/investing/2022/01/15/3-top-artificial-intelligence-stocks-to-buy-in-jan/"

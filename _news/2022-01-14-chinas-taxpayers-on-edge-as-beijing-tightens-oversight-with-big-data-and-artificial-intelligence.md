@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/economy/china-economy/article/3163277/chinas-ta
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/economy/china-economy/article/3163277/chinas-taxpayers-edge-beijing-tightens-oversight-big-data-and"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-13-corsight-ai-reveals-its-top-facial-recognition-technology-trends-predictions-for-2022.md",
+      "title": "Corsight AI reveals its top facial recognition technology trends predictions for 2022",
+      "excerpt": "In 2022 and beyond, Facial Recognition Technology (FRT) will play a key role in the future of global urban development and improving the experience of smart citizens. From personal convenience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/identity-and-access-management-key-to-how-companies-secure-assets-in-2022-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html",
+      "publishedDateTime": "2022-01-13T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-landingai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy.md",
       "title": "Landing.AI hires vision expert Dechow to correct the Big Data fallacy",
       "excerpt": "Practical application of deep learning may require focusing less on giant datasets, more on the way examples of training data are handled, says Andrew Ng.",
@@ -1386,59 +1429,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-03-identity-verification-using-amazon-rekognition.md",
-      "title": "Identity verification using Amazon Rekognition",
-      "excerpt": "In-person user identity verification is slow to scale, costly, and high friction for users. Machine learning (ML) powered facial recognition technology can enable online user identity verification. Amazon Rekognition offers pre-trained facial recognition capabilities that you can quickly add to your",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/03/ML-7111-featured-image2.png",
-          "width": 488,
-          "height": 344,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-03T14:22:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

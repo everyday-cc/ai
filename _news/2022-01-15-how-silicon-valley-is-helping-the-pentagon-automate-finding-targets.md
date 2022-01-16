@@ -3,8 +3,8 @@ category: news
 title: "How Silicon Valley Is Helping the Pentagon Automate Finding Targets"
 excerpt: "The contracts with tech companies reveal a desire to increase the fundamental tempo of intelligence collection and, with it, targeting."
 publishedDateTime: 2022-01-14T18:03:00Z
-originalUrl: "https://www.military.com/daily-news/2022/01/14/how-silicon-valley-helping-pentagon-automate-finding-targets.html"
-webUrl: "https://www.military.com/daily-news/2022/01/14/how-silicon-valley-helping-pentagon-automate-finding-targets.html"
+originalUrl: "https://365.military.com/daily-news/2022/01/14/how-silicon-valley-helping-pentagon-automate-finding-targets.html"
+webUrl: "https://365.military.com/daily-news/2022/01/14/how-silicon-valley-helping-pentagon-automate-finding-targets.html"
 ampWebUrl: "https://www.military.com/daily-news/2022/01/14/how-silicon-valley-helping-pentagon-automate-finding-targets.html/amp"
 cdnAmpWebUrl: "https://www-military-com.cdn.ampproject.org/c/s/www.military.com/daily-news/2022/01/14/how-silicon-valley-helping-pentagon-automate-finding-targets.html/amp"
 type: article
@@ -26,6 +26,6 @@ images:
     height: 414
     isCached: true
 
-secured: "6hsCc22FW/EuAgltow/XeLlJqen9wXX4cYkDIz9Wk6a8FxK2jCNXYk2HgiTjCaBftWUUXUodtSEn88fuI0CPt6nNyXgakb4pPf7OnIMQA8vzCaKkws/ixohvJM9vTSWc3LHePDO7dCsBr/1UBj5ngLMRKBNH70h4IkwsHfBiUcrOrwckYan9D4J0ARay8zzFqntEZsjf+Wg81OoOaGDOQg2Yjk5g4uKF7qUWtNK7jdL9/adVOGzqTTq2/IIDsnSm4EYIMBnZal5WJo0whS4FMCJFRWkkWjziTU7azs6O5FIKnRLeQ4e9/A5Opp8WI2D6ViujqZugA/6Uh3x8FP5yFKUVbf7S7gyG8wGbLCTBv1EoTtmWnUhr+rRdWc/WNej5Vvq9oZIZu5Ma9QEDLUgV4o/DrViCfMf/U2kY4+zxFU9fNlnX9r0mjHI5uB81nXc3e0VU3uJSVGiL5SX48jKt90J0CmwYG2rKopi4kRrAPlL4D3gt+r7h9c2apSbkLW5ig2m4TjvM3JNIfk3rmsqfOA==;jYogQfn3sMUXyvVxaTrnzw=="
+secured: "JmsynJHHuD0e7FnuLTtIW8Jv+ndTKY18K+ycpDIE37fn5iNJANvjJgSKUns30smEY8WInYo4uMrCAhOU4+5juwu5kMEtF4Km8NXv0pt05PuUqIA5ohZjhyQpZKCjf8M9n8w1Kse26qXFJ5+fSnf9kzSRXQvYDnGBCxZZJAvSMe31Fdk005WQOsnpolPrqSDNfkc2ns1RDSCj4yJuOXZQZKO0F3A5dwjTmPIKm+MQytw3S7YNqalfkZqssjlGJt9VcSkgN8dZp5KNJEIjELmXi+q5hoRr9wSAUxp6hGp8TfaVQycDgKTy0oJEe5YdMw9VeNf0McbS4MRPyuQZz2hETTuBQw/ZOJR1VlTh6lqVgb4=;oEnLbJ1cG3efmTGUdH4NEg=="
 ---
 

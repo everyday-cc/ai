@@ -39,6 +39,20 @@ related:
         width: 788
         height: 443
         isCached: true
+  - title: "Smarter, more efficient AI for innovation: my research perspective for 2022"
+    excerpt: "Imagine if this article had been written by a machine. A human would have provided only the title or the introductory question."
+    publishedDateTime: 2022-01-14T17:50:00Z
+    webUrl: "https://www.linkedin.com/pulse/smarter-more-efficient-ai-innovation-my-research-perspective-haas"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG9h1oBMBVaTQ/article-cover_image-shrink_600_2000/0/1642180355179?e=1648080000&v=beta&t=xZ2Q1JTvDmbVdntQoOwo7S9NO9jY6AnI2mhGn94ePrw"
+        width: 404
+        height: 403
+        isCached: true
   - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
     excerpt: "OSARO Inc. a global leader in the development and provision of advanced robotics automation, and INNOTECH CORPORATION, which provides advanced products for electronics and consumer industries, have announced a collaboration to create an innovative demonstration for Rohto Pharmaceutical Co."
     publishedDateTime: 2022-01-11T15:02:00Z
@@ -67,15 +81,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Gulf to drive AI innovation post-pandemic, survey shows"
-    excerpt: "While 50 percent of Gulf data workers can now automate tasks, a survey indicates that 97 percent believe that training needs to be made available to all data workers to unlock the value of AI innovation Gulf to drive AI innovation post-pandemic,"
-    publishedDateTime: 2022-01-11T08:53:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/technology/gulf-to-drive-ai-innovation-post-pandemic-survey-shows"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
   - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
     excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial"
     publishedDateTime: 2022-01-13T15:00:00Z

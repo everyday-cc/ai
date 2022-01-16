@@ -2,6 +2,92 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-09-top-5-ai-announcements-at-ces-2022.md",
+      "title": "Top 5 AI announcements at CES 2022",
+      "excerpt": "CES is the world’s most prominent technology event, serving as a testing ground for new technologies and worldwide innovators. This is where the world’s most well-known brands conduct business and meet new partners,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-5-ai-announcements-at-ces-2022/",
+      "originalUrl": "https://analyticsindiamag.com/top-5-ai-announcements-at-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Ces-banner_11zon.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-09T01:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-09-a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life.md",
+      "title": "A Colorado 'fusioneer' invented a painting robot and an inspiring way of life",
+      "excerpt": "And the robot holding a paintbrush. One look at this room can be overwhelming for visitors, so Paul Kirby likes to start simple. It’s an old trick he learned as a ski instructor in Vail, when he realized every skier has slightly different goals for the slopes.",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html",
+      "originalUrl": "https://gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/7/06/706e6ce4-31c4-11ec-86ee-e3f2172a650e/6170469d72c59.image.jpg?resize=1024%2C711",
+          "width": 1024,
+          "height": 711,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html",
+      "cdnAmpWebUrl": "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/news/local/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_2865b804-2d22-11ec-85ed-97ddac08177d.amp.html",
+      "publishedDateTime": "2022-01-08T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-09-face-off-are-ai-devices-with-voice-assistants-good-for-households-with-children.md",
       "title": "Face Off: Are AI devices with voice assistants good for households with children?",
       "excerpt": "Each week, two of our readers debate a hot topic in a showdown that does not necessarily reflect their personal viewpoint. This week, they discuss whether devices like Alexa are appropriate for homes with kids.",
@@ -106,6 +192,57 @@
       ]
     },
     {
+      "path": "_news/2022-01-09-could-artificial-intelligence-do-more-harm-than-good-to-society.md",
+      "title": "Could Artificial Intelligence Do More Harm Than Good to Society?",
+      "excerpt": "In an increasingly digitized world, the artificial intelligence (AI) boom is only getting started. But could the risks of artificial intelligence outweigh the potential benefits these technologies might lend to society in the years ahead?",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/01/08/could-artificial-intelligence-do-more-harm-than-go/",
+      "originalUrl": "https://www.fool.com/investing/2022/01/08/could-artificial-intelligence-do-more-harm-than-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/659353/gettyimages-1310293181.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-08T13:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-09-ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party.md",
       "title": "Ramaphosa uses ANC anniversary speech to stamp his authority on the party",
       "excerpt": "South African President Cyril Ramaphosa has delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was the party’s 110th birthday.",
@@ -151,10 +288,10 @@
     {
       "path": "_news/2022-01-09-5-best-ai-stocks-for-2022.md",
       "title": "5 Best AI Stocks for 2022",
-      "excerpt": "The California-based tech giant utilizes AI in blocking misinformation and other harmful content on its family of apps. Additionally, AI tools developed by Meta Platforms, Inc. (NASDAQ:FB) play a major role in improving the customer shopping experience on Facebook,",
+      "excerpt": "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -187,40 +324,7 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-could-artificial-intelligence-do-more-harm-than-good-to-society.md",
-      "title": "Could Artificial Intelligence Do More Harm Than Good to Society?",
-      "excerpt": "I n an increasingly digitized world, the artificial intelligence (AI) boom is only getting started. But could the risks of artificial intelligence outweigh the potential benefits these technologies might lend to society in the years ahead?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society",
-      "originalUrl": "https://www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society?amp",
-      "publishedDateTime": "2022-01-08T09:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1126,102 +1230,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-why-nvidia-is-needhams-top-aiml-stock-pick-for-2022.md",
-      "title": "Why Nvidia Is Needham's Top AI/ML Stock Pick For 2022",
-      "excerpt": "Semiconductor stocks outperformed the broader technology sector for a third year running in 2021, and entering 2022, mega-trends such as the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/24947489/why-nvidia-is-needhams-top-aiml-stock-pick-for-2022",
-      "originalUrl": "https://www.benzinga.com/analyst-ratings/analyst-color/22/01/24947489/why-nvidia-is-needhams-top-aiml-stock-pick-for-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/artificial-intelligence-gc3f7ba6fb_1920.jpg",
-          "width": 1920,
-          "height": 1285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24947489",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24947489",
-      "publishedDateTime": "2022-01-07T11:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-absci-and-deep-learnings-quest-for-the-perfect-protein.md",
-      "title": "Absci and deep learning's quest for the perfect protein",
-      "excerpt": "The company has used one giant A.I. representation of proteins to broaden the search for novel biologics, and hopes to do everything in silico someday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "originalUrl": "https://www.zdnet.com/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2f9500d3248e27e084c1639b553b1684c9998a30/2022/01/07/d62778de-642e-4ac1-91fb-7c07b0416f00/mathew-4039.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 1803,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/absci-and-deep-learnings-quest-for-the-perfect-protein/",
-      "publishedDateTime": "2022-01-07T10:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

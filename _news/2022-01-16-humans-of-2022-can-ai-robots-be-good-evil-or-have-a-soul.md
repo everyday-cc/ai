@@ -8,8 +8,8 @@ webUrl: "https://www.timesunion.com/news/article/Humans-of-2022-AI-robots-are-br
 ampWebUrl: "https://www.timesunion.com/news/amp/Humans-of-2022-AI-robots-are-brilliant-can-they-16742741.php"
 cdnAmpWebUrl: "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Humans-of-2022-AI-robots-are-brilliant-can-they-16742741.php"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 77
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - IBM AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/23/35/11/21877335/5/400x0.jpg"

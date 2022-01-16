@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-16-humans-of-2022-can-ai-robots-be-good-evil-or-have-a-soul.md",
+      "title": "Humans of 2022! Can AI robots be good, evil or have a soul?",
+      "excerpt": "RPI students work on robots with RPI computer science professor Selmer Bringsjord (standing) who also holds a philosophy degree. Bringsjord and RPI colleague Jim Hendler are Artificial Intelligence experts who explore whether a robot can ever develop what humans call a soul or morality?",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesunion.com/news/article/Humans-of-2022-AI-robots-are-brilliant-can-they-16742741.php",
+      "originalUrl": "https://www.timesunion.com/news/article/Humans-of-2022-AI-robots-are-brilliant-can-they-16742741.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/23/35/11/21877335/5/400x0.jpg",
+          "width": 400,
+          "height": 266,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesunion.com/news/amp/Humans-of-2022-AI-robots-are-brilliant-can-they-16742741.php",
+      "cdnAmpWebUrl": "https://www-timesunion-com.cdn.ampproject.org/c/s/www.timesunion.com/news/amp/Humans-of-2022-AI-robots-are-brilliant-can-they-16742741.php",
+      "publishedDateTime": "2022-01-15T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times Union",
+        "domain": "timesunion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-09-ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange.md",
       "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
       "excerpt": "© 2022 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
@@ -155,22 +199,13 @@
       "title": "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange",
       "excerpt": "ARMONK, N.Y., Jan. 7, 2022 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_47a4fdb6-240c-520f-be7c-38bf34d6ad30.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_47a4fdb6-240c-520f-be7c-38bf34d6ad30.html",
+      "webUrl": "https://www.kpvi.com/news/national_news/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_cbc974fe-32b2-5054-9a0e-a8b75340b0f2.html",
+      "originalUrl": "https://www.kpvi.com/news/national_news/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_cbc974fe-32b2-5054-9a0e-a8b75340b0f2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/c4/3c44b97d-0034-5635-9bab-e62fbd3c1611/617ae04d78c95.image.jpg?crop=1981%2C1040%2C5%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -178,8 +213,8 @@
       "publishedDateTime": "2022-01-07T05:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
+        "name": "KPVI",
+        "domain": "kpvi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1342,49 +1377,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-25-hire-mobile-app-developers-in-england.md",
-      "title": "Hire Mobile App Developers in England",
-      "excerpt": "Hire the best freelance Mobile App Developers in England on Upwork™, the world’s top freelancing website. It’s simple to post your job and we’ll quickly match you with the top Mobile App Developers in England for your Mobile App Development project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.upwork.com/hire/mobile-app-developers/england-gb/",
-      "originalUrl": "https://www.upwork.com/hire/mobile-app-developers/england-gb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-25T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Upwork",
-        "domain": "upwork.com",
         "images": null,
         "publishers": null,
         "authors": null

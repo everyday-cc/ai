@@ -2,6 +2,51 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-13-artificial-intelligence-in-security-market-to-see-booming-growth-acalvio-cylance-ibm-micron.md",
+      "title": "Artificial Intelligence in Security Market to See Booming Growth | Acalvio, Cylance, IBM, Micron",
+      "excerpt": "Advance Market Analytics published a new research publication on Artificial Intelligence in Security Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "originalUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/V/1/V113166983_g.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
+      "publishedDateTime": "2022-01-13T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-sezzle-takes-aim-at-bnpl-fraud-with-ai-machine-learning.md",
       "title": "Sezzle Takes Aim at BNPL Fraud With AI, Machine Learning",
       "excerpt": "The latest in digital fraud 2. An interview with Sezzle on using technology like AI and ML to reduce fraud 3. A Deep Dive on fraud in buy now, pay later",
@@ -1145,49 +1190,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines.md",
-      "title": "Fomo launches “Fomo Robotics” to offer UV Disinfection Machines",
-      "excerpt": "IAQ Technologies LLC, a wholly owned subsidiaries of Fomo (FOMC) and Energy Intelligence Center LLC plans to offer UV Disinfection Robots, designed and sold by a leading provider",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "originalUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
-      "publishedDateTime": "2022-01-12T02:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

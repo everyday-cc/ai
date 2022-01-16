@@ -64,7 +64,7 @@
       "originalUrl": "https://www.openpr.com/news/2526894/the-neuropathic-pain-market-to-get-driven-by-machine-learning",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -149,7 +149,7 @@
       "originalUrl": "https://www.scmp.com/economy/china-economy/article/3163277/chinas-taxpayers-edge-beijing-tightens-oversight-big-data-and",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1088,7 +1088,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1127,6 +1127,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-corsight-ai-reveals-its-top-facial-recognition-technology-trends-predictions-for-2022.md",
+      "title": "Corsight AI reveals its top facial recognition technology trends predictions for 2022",
+      "excerpt": "In 2022 and beyond, Facial Recognition Technology (FRT) will play a key role in the future of global urban development and improving the experience of smart citizens. From personal convenience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.sourcesecurity.com/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html?ref=nav",
+      "originalUrl": "https://www.sourcesecurity.com/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html?ref=nav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/identity-and-access-management-key-to-how-companies-secure-assets-in-2022-920x533.jpg",
+          "width": 612,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html",
+      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html",
+      "publishedDateTime": "2022-01-13T04:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1180,51 +1223,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-artificial-intelligence-in-security-market-to-see-booming-growth-acalvio-cylance-ibm-micron.md",
-      "title": "Artificial Intelligence in Security Market to See Booming Growth | Acalvio, Cylance, IBM, Micron",
-      "excerpt": "Advance Market Analytics published a new research publication on Artificial Intelligence in Security Market Insights to 2026 with 232 pages and enriched with self explained Tables and charts in presentable format In the Study you will find new evolving Trends",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "originalUrl": "https://www.openpr.com/news/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/V/1/V113166983_g.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2526101/artificial-intelligence-in-security-market-to-see-booming",
-      "publishedDateTime": "2022-01-13T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
       ]
     }
   ],

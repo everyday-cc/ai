@@ -2,6 +2,102 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2021-12-02-deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics.md",
+      "title": "DeepMind claims AI has aided new discoveries and insights in mathematics",
+      "excerpt": "Learn more DeepMind, the AI research laboratory funded by Google’s parent company, Alphabet, today published the results of a collaboration between it and mathematicians to apply AI toward ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
+      "originalUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
+          "width": 1198,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/01/deepmind-claims-ai-has-aided-new-discoveries-and-insights-in-mathematics/amp/",
+      "publishedDateTime": "2021-12-01T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-02-meet-xenobots-worlds-first-living-robots-that-can-reproduce.md",
+      "title": "Meet Xenobots, World's First Living Robots That Can Reproduce",
+      "excerpt": "Engineered by computers and created from the stem cell of the African clawed frog Xenopus laevis, from where its name is originally derived, were first introduced in 2020 to the world.",
+      "sourceUrl": null,
+      "webUrl": "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "originalUrl": "https://thelogicalindian.com/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thelogicalindian.com/h-upload/2021/11/29/400x400_207630-untitled-design-2021-11-29t103354438.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "cdnAmpWebUrl": "https://thelogicalindian-com.cdn.ampproject.org/c/s/thelogicalindian.com/amp/technology/xenobots-worlds-first-reproducing-living-robots-32326",
+      "publishedDateTime": "2021-12-01T08:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Logical Indian",
+        "domain": "thelogicalindian.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-02-facebook-whistle-blower-returns-to-congress-to-talk-regulation.md",
       "title": "Facebook Whistle-Blower Returns to Congress to Talk Regulation",
       "excerpt": "The whistle-blower who revealed thousands of internal Facebook documents is renewing her call for regulation of a social-media business model that she says puts profits over the health of its ...",
@@ -1064,101 +1160,6 @@
         "name": "BGR",
         "domain": "www.bgr.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-scientists-create-living-robots-that-can-reproduce-on-their-own.md",
-      "title": "Scientists create living robots that can reproduce on their own",
-      "excerpt": "In 2020, scientists unveiled the creation of extremely small robots (less than a milimeter wide) made from stem cells of the African clawed frog. Called xenobots, these tiny autonomous creatures were designed using artificial intelligence to resemble Pacman-like shapes,",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own",
-      "originalUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/xenobots-reproduce-header_dhke.620.png",
-          "width": 620,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/life/18408/scientists-create-living-robots-that-can-reproduce-on-their-own?amp=1",
-      "publishedDateTime": "2021-11-30T20:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-gpu-market-size-industry-forecast-report-to-2024.md",
-      "title": "GPU Market Size | Industry Forecast Report To 2024",
-      "excerpt": "GPU Market is set to exceed USD 80 billion by 2024; according to a new research report by Global Market Insights, Inc. Ever increasing demand for advanced graphics processing across several sectors is majorly driving the graphics processing unit (GPU) market trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-market-size-industry-forecast-report-to-2024-2021-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-30T20:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

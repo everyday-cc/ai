@@ -152,6 +152,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Foot Traffic Analytics Firm Placer.ai Raises $100M At $1B Valuation"
+    excerpt: "Israeli-founded firm Placer.ai provides analysis about foot traffic in retail centers, theme parks, stadiums, and other areas."
+    publishedDateTime: 2022-01-16T00:01:00Z
+    webUrl: "https://nocamels.com/2022/01/foot-placer-ai-analytics-retail/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/high-grass-ge20682a07_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
   - title: "The Briefing: TravelPerk Picks Up $115M, Placer.ai Lands $100M, And More"
     excerpt: "Placer.ai, developer of software for tracking and analyzing retail foot traffic, raised $100 million in fresh funding round led by Product Hunt CEO Josh Buckley at a reported valuation of over $1 billion."
     publishedDateTime: 2022-01-12T14:04:00Z
@@ -194,15 +208,6 @@ related:
         width: 1200
         height: 817
         isCached: true
-  - title: "Fractal expands cloud AI offerings with the acquisition of Neal Analytics"
-    excerpt: "Fractal, (fractal.ai), a global provider of artificial intelligence and advanced analytics to Fortune 500® companies, today announced"
-    publishedDateTime: 2022-01-11T08:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fractal-expands-cloud-ai-offerings-with-the-acquisition-of-neal-analytics-301458023.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 18
   - title: "Placer.ai joined the Bay Area's unicorn herd with a new $100M round"
     excerpt: "Placer Labs Inc. The startup, which does business as Placer.ai, announced Wednesday its backers valued it at $1 billion as part of its latest funding round, a $100 million Series C. That's nearly triple the $350 million valuation they assigned it in its Series B round last April,"
     publishedDateTime: 2022-01-12T12:00:00Z

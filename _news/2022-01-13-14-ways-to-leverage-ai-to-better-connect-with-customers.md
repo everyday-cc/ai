@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "AI to benefit customers and developers in real estate"
-    excerpt: "The current global crisis due to Omicron and COVID cases is also pushing both, developers and customers, to go for online booking of retail and residential spaces. This would eventually compel the arrival of AI and ML in the Indian real-estate sector."
-    publishedDateTime: 2022-01-11T08:50:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220111/3890527.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "NQu1iu9kxGjQXoG4g5D5Kh9vYbeSGwW15+68cIfCfqaNQV/Wmz6fCOinJ3vVHKCK5e72Q8rI6zb3i2LiAWxn6dPK4yQWj5NcUw9JEKFrgl1FOBtUgzA2np5VcdnYCptV8gMjnHvw4Ig5TyS0HN6plSQkNcNiymp1SaKjVeakn+H16ZkcentTS8oF5vSvUNivdp0J/2WaeIgUP/yKmtiQLVNK6SMbfCMNF46sOSCLbuuI2+05Cfg2yzo8GlMsSx6potnc0xGwfbzInMquKfc6fkaP/2ljjuc9cz7uOoRRIoA2IrF3hzPx2c+B+yG+rRGjskFeW+nS2SFdbYfZQLTSf8lkRFetlb1LYK4H1k6NhP4dLpGhVwnQVag0kBLrDSzNuN7VepkmHTMnXKLS4I559rIViW+8AtN9sXwX835VetEyJxhz0Fkth/gR828l7Xv6Wd23BzJ15wUSIXhiIWUHZ5sn3LjzgVZhr14fRup782cIJURc3bg63gPikoC1HnAMp+ZAca5C7tV6RJia1saobA==;Ua0pD1fmWX2YtSvTURN9IA=="
 ---

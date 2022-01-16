@@ -43,22 +43,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Big data analytics, AI/ML to be most in-demand skills in India in 2022: Monster report"
-    excerpt: "The need for skilling and upskilling reached a new high amid the pandemic and in 2022, big data analytics, along with AI/ML, are forecast to be most in-demand skills in India, a new report showed on Monday."
-    publishedDateTime: 2022-01-11T07:50:00Z
-    webUrl: "https://www.thenewsminute.com/article/big-data-analytics-aiml-be-most-demand-skills-india-2022-monster-report-159726"
-    ampWebUrl: "https://www.thenewsminute.com/article/big-data-analytics-aiml-be-most-demand-skills-india-2022-monster-report-159726?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/big-data-analytics-aiml-be-most-demand-skills-india-2022-monster-report-159726?amp"
-    type: article
-    provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 68
-    images:
-      - url: "https://www.thenewsminute.com/sites/default/files/ArtificialIntelligence_Pixabay_11012022_1200.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sacrificing Some Performance To Make Cloud Data Analytics Portable"
     excerpt: "Amazon Web Services, Microsoft Azure, and Google Cloud – are all addressing the same issues of scale, performance, and economics"
     publishedDateTime: 2022-01-12T19:17:00Z

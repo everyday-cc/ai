@@ -213,20 +213,6 @@ related:
         width: 940
         height: 516
         isCached: true
-  - title: "Tesla's Full Self-Driving Beta Might Just Help Drivers Perform Rolling Stops"
-    excerpt: "Drivers using Tesla ‘s Full Self-Driving (FSD) beta can now choose between three different driving profiles that will determine how the car will react to various situations on the road. Tesla is offering a “Chill,"
-    publishedDateTime: 2022-01-11T08:03:00Z
-    webUrl: "https://hypebeast.com/2022/1/tesla-full-self-driving-beta-assertive-mode-perform-rolling-stops"
-    type: article
-    provider:
-      name: Hypebeast
-      domain: hypebeast.com
-    quality: 36
-    images:
-      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F01%2Ftesla-full-self-driving-beta-assertive-mode-perform-rolling-stops-tw.jpg?w=960&cbr=1&q=90&fit=max"
-        width: 960
-        height: 480
-        isCached: true
   - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
     excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
     publishedDateTime: 2022-01-14T18:00:00Z

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-12-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines.md",
+      "title": "Fomo launches “Fomo Robotics” to offer UV Disinfection Machines",
+      "excerpt": "IAQ Technologies LLC, a wholly owned subsidiaries of Fomo (FOMC) and Energy Intelligence Center LLC plans to offer UV Disinfection Robots, designed and sold by a leading provider",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "originalUrl": "https://seekingalpha.com/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787382-fomo-launches-fomo-robotics-to-offer-uv-disinfection-machines",
+      "publishedDateTime": "2022-01-12T02:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-aiml-at-scale-the-next-horizon-for-ppgs-data-strategy.md",
       "title": "AI/ML at scale: The next horizon for PPG’s data strategy",
       "excerpt": "At PPG, data is key not only to IT strategy, but to enabling business strategy, says Jeff Lipniskis, global IT director. With a solid foundation in place, his focus now is on being AI ready.",
@@ -130,7 +173,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -624,7 +667,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-assertive-mode-rolling-stops/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 237,
       "tags": null,
       "images": [
         {
@@ -1173,49 +1216,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-corsight-ai-reduces-bias-in-its-facial-recognition-technology.md",
-      "title": "Corsight AI reduces bias in its facial recognition technology",
-      "excerpt": "Corsight AI, announces a reduction in both gender and racial bias within its Autonomous AI-powered solution, Fortify.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
-      "originalUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s33644.pcdn.co/wp-content/uploads/2018/08/facial-recognition-e1533212864558.jpeg",
-          "width": 388,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
-      "publishedDateTime": "2022-01-11T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ifsecglobal.com",
-        "domain": "ifsecglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

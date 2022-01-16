@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dqindia.com/iit-guwahati-launches-post-graduate-certific
 cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-launches-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-and-deep-learning/amp/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning"
-    excerpt: "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning."
-    publishedDateTime: 2022-01-11T07:48:00Z
-    webUrl: "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/"
-    ampWebUrl: "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/"
-    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/"
-    type: article
-    provider:
-      name: Dataquest
-      domain: dqindia.com
-    quality: 74
-    images:
-      - url: "https://www.dqindia.com/wp-content/uploads/2021/09/Blockchain-in-healthcare1.jpg"
-        width: 800
-        height: 420
-        isCached: true
-  - title: "IIT Guwahati partners with TPL to launch PG courses in Cybersecurity, AI and Deep Learning"
-    excerpt: "Guwahati has signed an agreement with Times Professional Learning (TPL) to begin postgraduate certificate programmes in Cybersecurity, Artificial Intelligence and Deep Learning. The courses are aimed at providing career enhancement and skill upgradation to working professionals in line with the demands of the corporate world."
-    publishedDateTime: 2022-01-11T08:16:00Z
-    webUrl: "https://www.telegraphindia.com/edugraph/news/iit-guwahati-partners-with-tpl-to-launch-pg-courses-in-cybersecurity-ai-and-deep-learning/cid/1847104"
-    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/iit-guwahati-partners-with-tpl-to-launch-pg-courses-in-cybersecurity-ai-and-deep-learning/cid/1847104"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/iit-guwahati-partners-with-tpl-to-launch-pg-courses-in-cybersecurity-ai-and-deep-learning/cid/1847104"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 66
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Jan/1641888660_iit-guwahati-22.jpeg"
-        width: 558
-        height: 372
-        isCached: true
   - title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
     excerpt: "Indian Institute of Technology Guwahati (IITG) and Times Professional Learning (TPL), under its brand The Second Wind (TimesTSW), have launched the Post Graduate Certificate Programme in Cybersecurity"
     publishedDateTime: 2022-01-11T11:50:00Z

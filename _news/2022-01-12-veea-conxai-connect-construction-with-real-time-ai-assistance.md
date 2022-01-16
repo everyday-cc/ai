@@ -40,15 +40,6 @@ related:
         width: 1200
         height: 819
         isCached: true
-  - title: "AI to benefit customers and developers in real estate"
-    excerpt: "The current global crisis due to Omicron and COVID cases is also pushing both, developers and customers, to go for online booking of retail and residential spaces. This would eventually compel the arrival of AI and ML in the Indian real-estate sector."
-    publishedDateTime: 2022-01-11T08:50:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20220111/3890527.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 17
 
 secured: "lHO7LE1+tHBI+RFkNIPkadk09SPqhBfGmUlYN+VkNljLZDfmMSR9Udy582T+3lGSFwvkxLk/8ge0xRu/NHvJuQmem5eF3J4QuRaaeHfc7zf62kf1oQNUPX8ftTMotqCPuDs7x6VMK4S2cMn8OOEV+FQuWjrfeCQaoGlKAwqoKF8GVA4NUctxJPfzYSBNSAfjcEyaV4U5bov/yaF3nnR0xv0JWZRFW+h0GgZfXpL060ngDnWQc3gGbfevkZc/hZWdeSXo9t7TcHrLwzHneul1NIFkEB1bM5b0e2aXs82d+BEqJLbz10KKgODrglBQMx2nD3Pxbanyp2I5vUzQ4q/fkD2p0bvvZLICqBV6aCS5+BM=;i/RaaLNn8BSST8BwKo1wEw=="
 ---

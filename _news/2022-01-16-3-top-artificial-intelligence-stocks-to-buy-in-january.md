@@ -7,8 +7,8 @@ originalUrl: "https://www.fool.com/investing/2022/01/15/3-top-artificial-intelli
 webUrl: "https://www.fool.com/investing/2022/01/15/3-top-artificial-intelligence-stocks-to-buy-in-jan/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Motley Fool
@@ -28,6 +28,17 @@ images:
     isCached: true
 
 related:
+  - title: "3 Top Artificial Intelligence Stocks to Buy in January"
+    excerpt: "With Deere, among other companies, it is clear that artificial intelligence is making its way into nearly every part of our world, and there are three companies you can invest in today that I think could be the best companies to capitalize on it."
+    publishedDateTime: 2022-01-15T11:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january"
+    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Healthcare AI Acquisition Corp’s (NASDAQ:HAIAU) Quiet Period Will Expire on January 19th"
     excerpt: "Healthcare AI Acquisition’s (NASDAQ:HAIAU) quiet period will end on Wednesday, January 19th. Healthcare AI Acquisition had issued 20,000,000 shares in its IPO on December 10th. The total size of the offering was $200,"
     publishedDateTime: 2022-01-12T05:16:00Z

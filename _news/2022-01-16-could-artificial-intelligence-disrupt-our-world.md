@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-15T22:52:00Z
 originalUrl: "https://cherwell.org/2022/01/15/could-artificial-intelligence-disrupt-our-world/"
 webUrl: "https://cherwell.org/2022/01/15/could-artificial-intelligence-disrupt-our-world/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cherwell.org/wp-content/uploads/2022/01/2018-07-15-07-19-50-1200x800-1-e1642186824906.jpeg"
@@ -24,6 +25,6 @@ images:
     height: 506
     isCached: true
 
-secured: "7o8eP9Ntet7SEzBEeawgZVpYJKRztNwy1wellHluY0m9LQvHFcGG9ergLAtFNkeh4bS8Gd6Dic5/mwmzvyawJjD4r8gG+yjlrNxKYPUh+LybWbOuG3Ie5nJ0QntR9/gwRybkNLGg6YdHNxQG4GfC4j+Om0VUOsxEO2NTRTHbP2f0TfkJ2SSkr54rkLaah3fkdMsE7LrdisoFd/T21jA2pRun1rLYQs6X51pmIA6bG0gstXjiEogim9SISVJ8n0DKDhQ4gXLgteL/HJrwLE/NLn1NLRlo14YKWPFYBy5gAcJ73mbM4ZR7EhiQOqEwHVXi8wWM7gp63hOjtr2v6wVFw2/Kz78i/zP0DvrydqBYamQ=;u9K1VMMTYEkGfeWN4OQucA=="
+secured: "1lBfgmtpi3yf74ugopK07JLH69Dzihl1RfxOOidzPI1O6AvRzX7OODqPVS5BILW1FdXrew851fQX2rdGjfXkYugRpHaucIhzqScI2FjPOTBsTKTtbjw5AJsvfLPxMFJcM/RVyKaUfbEUDBC3qzBv9lpsEZ4LQ+WsT21c7MqWfgoSP0W2yQb5my2+8WT68kRyy538VmdbcrFy+aRDOeswSp4DtevOhzH1zpnF0+S1+l7Y9pbmCZRgLIdJ1zCiMN1PBjp0NPKjmEPCXHRsGPTCSVE1eC+JbRbesf9cpqvANGmUN71HjnEWD2QZFqeK8+YaLOB1qqsvCgOXOj7uSYZ2lv/1H6ti7O8113SRVQmyx9KYxdANQVs/kAFpWQ7O1l6F08hxxlB7EJgVjQ+7CLnFGTduxfMbhU/R/HTYf1V2qaB/wJcW1kiytdJxsrv/d3CpcHmFS1dqz/stHB2eZibIs2IAQB+HHAABO5gO+D3qlgdb4polTOyWp8zKmnecmaHwNXcemNJ375a2/+QvPMWf0Q==;L3fyBNWft+Q0PMgDc8msZw=="
 ---
 

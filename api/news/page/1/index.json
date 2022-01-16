@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "AI Ethics",
+        "Facebook AI"
       ]
     },
     {
@@ -62,7 +63,7 @@
       "originalUrl": "https://www.timesunion.com/news/article/Humans-of-2022-AI-robots-are-brilliant-can-they-16742741.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -93,49 +94,32 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
-      "path": "_news/2022-01-16-3-top-artificial-intelligence-stocks-to-buy-in-january.md",
+      "path": "_news/2022-01-15-3-top-artificial-intelligence-stocks-to-buy-in-january.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in January",
-      "excerpt": "Nearly every business is using artificial intelligence in some form today, but these three companies have AI at their core. Upstart and Lemonade are both using AI to make decisions in industries that haven't been disrupted in years.",
+      "excerpt": "With Deere, among other companies, it is clear that artificial intelligence is making its way into nearly every part of our world, and there are three companies you can invest in today that I think could be the best companies to capitalize on it.",
       "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/15/3-top-artificial-intelligence-stocks-to-buy-in-jan/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/15/3-top-artificial-intelligence-stocks-to-buy-in-jan/",
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/660607/ai-button-on-a-circuit-board.jpg",
-          "width": 2190,
-          "height": 1369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-15T08:24:00-08:00",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-january?amp",
+      "publishedDateTime": "2022-01-15T03:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

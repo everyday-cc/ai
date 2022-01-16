@@ -2,6 +2,99 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2021-12-29-china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes.md",
+      "title": "China Has Developed An AI ‘Prosecutor’ That Can Charge People With Crimes",
+      "excerpt": "Advertisement Chinese researchers have developed a ‘prosecutor’ that can charge people with crimes using artificial intelligence. The technology can detect ‘dissent’ and other offenses such as fraud,",
+      "sourceUrl": null,
+      "webUrl": "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/",
+      "originalUrl": "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/AI-Prosecutor-China-1-1640663571.jpg",
+          "width": 600,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/",
+      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/china-has-developed-an-ai-prosecutor-that-can-charge-people-with-crimes/amp/",
+      "publishedDateTime": "2021-12-28T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wonderful Engineering",
+        "domain": "wonderfulengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-chinese-professor-lands-34-billion-fortune-with-sensetime-ipo.md",
+      "title": "Chinese Professor Lands $3.4 Billion Fortune With SenseTime IPO",
+      "excerpt": "Just weeks after the U.S. placed a unit of SenseTime Group Inc. on a blacklist for alleged human rights violations, the firm is about to make founder Tang Xiao’ou one of the world’s richest people.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.yahoo.com/news/chinese-professor-lands-3-4-170000404.html",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2021-12-28/chinese-professor-defies-odds-on-way-to-3-4-billion-fortune",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 222,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/QsTJaoukRkpOL4vgk74xWg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/hITtFV9UNrwC3P.08DChNw--~B/aD0xMzYxO3c9MTk5OTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/bloomberg_markets_842/a935a2be1444e0667fa9f9e11c3e7bd8",
+          "width": 1175,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html",
+      "cdnAmpWebUrl": "https://finance-yahoo-com.cdn.ampproject.org/c/s/finance.yahoo.com/amphtml/news/chinese-professor-lands-3-4-170000404.html",
+      "publishedDateTime": "2021-12-28T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-futurism-launches-zero-trust-managed-security-acceleration-services.md",
       "title": "Futurism Launches 'Zero Trust Managed Security Acceleration Services'",
       "excerpt": "all integrated with IBM Watson – the AI for smarter business. Zero Trust is a conceptual and architectural framework for moving security from a network-oriented, perimeter-based security ...",
@@ -1038,110 +1131,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators.md",
-      "title": "Baidu Create 2021 Successfully Launched In Metaverse, Ushering In A Golden Decade Of AI For Creators",
-      "excerpt": "Having L4 intelligent driving capabilities, Baidu's smart EV venture, Jidu Auto, has been designed to operate under the concepts of \"free movement\", \"natural communication\", and \"self-improvement\".",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-create-2021-successfully-launched-in-metaverse-ushering-in-a-golden-decade-of-ai-for-creators-1031066915",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1716650/Baidu_Chief_Executive_Officer_Chairman_Co_Founder_Robin_Li_welcomed_a.jpg",
-          "width": 400,
-          "height": 278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g.md",
-      "title": "Amazon AWS Outages Highlight Promise And Peril Of Public Clouds For 5G",
-      "excerpt": "Users endure frequent and long outages for cloud-based services like ecommerce or gaming but expect greater uptime for mobile connectivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/",
-      "originalUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c9bde2e52ca88e8f8fba46%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roslynlayton/2021/12/27/amazon-aws-outages-highlight-promise-and-peril-of-public-clouds-for-5g/amp/",
-      "publishedDateTime": "2021-12-27T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
