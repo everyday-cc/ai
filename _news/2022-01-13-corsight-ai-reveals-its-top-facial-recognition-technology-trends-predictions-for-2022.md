@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/corsight-ai-reveals-top-faci
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/corsight-ai-reveals-top-facial-recognition-co-1590149149-ga.1642054888.html"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "2021 AI Recap & Founders’ Predictions for 2022"
-    excerpt: "Originally posted on  Blog by Jodi Lifschitz As we continue to spear our heads through Covid we can clearly see that the tech industry did not let the global pandemic get in the way of its progress. In fact,"
-    publishedDateTime: 2022-01-11T09:51:00Z
-    webUrl: "https://www.linkedin.com/pulse/2021-ai-recap-founders-predictions-2022-dataloop"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEVM5XQOPL99g/article-cover_image-shrink_720_1280/0/1641893053016?e=1647475200&v=beta&t=pqvzcFTl0LSjS5IBRKSVYzdQLbxfkBghNmJ6sc5tLZ0"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Five AI Inference Trends for 2022"
     excerpt: "It’s an exciting time to be a part of the rapidly growing AI industry, particularly in the field of inference. Once relegated simply to high-end and outrageously expensive computing systems, AI inference has been marching towards the edge at super-fast speeds."
     publishedDateTime: 2022-01-14T07:26:00Z

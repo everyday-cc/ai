@@ -50,34 +50,18 @@ related:
         height: 2304
         isCached: true
   - title: "Artificial intelligence predicts RNA and DNA binding sites to speed up drug discovery"
-    excerpt: "The iMolecule group from Skoltech has developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
-    publishedDateTime: 2022-01-11T16:24:00Z
-    webUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.html"
-    ampWebUrl: "https://phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-artificial-intelligence-rna-dna-sites.amp"
+    excerpt: "Researchers developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
+    publishedDateTime: 2022-01-11T16:10:00Z
+    webUrl: "https://www.nanowerk.com/news2/biotech/newsid=59510.php"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 50
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 32
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-2.jpg"
-        width: 1474
-        height: 656
-        isCached: true
-  - title: "The Hard Problem of AI is the Problem"
-    excerpt: "Much energy and resources are being put into Artificial Intelligence currently. Artificial Intelligence is expected to approach and eclipse human intelligence."
-    publishedDateTime: 2022-01-11T10:30:00Z
-    webUrl: "https://www.linkedin.com/pulse/hard-problem-ai-anders-lisdorf"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFDWKeI54GJnQ/article-cover_image-shrink_720_1280/0/1641896379868?e=1647475200&v=beta&t=qDpzz7WUHrYu6gwtBNjgACgFMKz5rOX5BTTD8ySm5nA"
-        width: 540
-        height: 720
+      - url: "https://www.nanowerk.com/news2/biotech/id59510_1.jpg"
+        width: 1290
+        height: 574
         isCached: true
 
 secured: "eqrmuLx6iy1VEI+IWnbog50CsnvbdPVPiNbpUbuwqKe6366mdz/O4lYMigP/6nihDr+AjkK9rYvHw//Q4zLZXsKqRJD6n6lgtr7ZotEMyh4H0VBHXNceQv6rguUk6sd+h1vFmZRliK8xVj6muAVWNklwF47W9eGA4WWoASO6PO1A0WMMWNms0rUy+66gO2hqwJM+Thqoq/PzUFyH06kr+eklA9OWvr7SfPI+nNNI4XZ9MOoHTybFUI5SMPSsdLV3lYcH5QsZFT/9oLY32ETl744eVRUNoWMdJEyPozC5Iklq8K3lSqSs+XEEZP8we7mxq5r1RgA/P8ZyGp3NIl+Df/k3HyyyfIvR8tQ5qSjQQbI=;iu27sack+gliw3LU/Vwgkw=="

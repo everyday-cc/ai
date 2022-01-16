@@ -7,7 +7,7 @@ originalUrl: "https://www.franchisetimes.com/franchise_news/checkers-installing-
 webUrl: "https://www.franchisetimes.com/franchise_news/checkers-installing-voice-ai-in-all-company-run-locations/article_b4d593ac-7577-11ec-aab8-0fb934cd9896.html"
 type: article
 quality: 137
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Finance"
-    excerpt: "Artificial intelligence can free up personnel, improve security measures and ensure that the business is moving in the right technology-advanced, innovative direction. According to Forbes, 70% of financial firms are using machine learning to predict cash ..."
-    publishedDateTime: 2022-01-11T09:59:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-finance-darpan-jain"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEQrOJMJnfqHQ/article-cover_image-shrink_600_2000/0/1641894641709?e=1647475200&v=beta&t=XTsqjuKZ3kCp1K3fZfWUDtFDZdtZUpKao_6jfqlPKxA"
-        width: 966
-        height: 578
-        isCached: true
   - title: "Measuring Trust in AI"
     excerpt: "As part of this study, the team developed an octagonal visual metric, analogous to a rating system, which could be useful to AI researchers who wish to know how their work may be perceived by the public."
     publishedDateTime: 2022-01-11T15:43:00Z

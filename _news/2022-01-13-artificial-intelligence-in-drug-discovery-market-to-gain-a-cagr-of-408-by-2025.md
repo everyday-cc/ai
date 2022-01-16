@@ -7,7 +7,7 @@ originalUrl: "https://www.medgadget.com/2022/01/artificial-intelligence-in-drug-
 webUrl: "https://www.medgadget.com/2022/01/artificial-intelligence-in-drug-discovery-market-to-gain-a-cagr-of-40-8-by-2025.html"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AI-Enabled Testing Tools Market revenues will grow at over 13% CAGR through 2030"
-    excerpt: "As per a most recent report by Future Market Insights (FMI), worldwide AI-Enabled Testing Tools market incomes will develop at more than 13% CAGR through 2030. Telecom firms are utilizing the capability of AI to oversee and evaluate huge volumes of enormous information with an end goal to draw significant bits of knowledge and deal"
-    publishedDateTime: 2022-01-11T09:34:00Z
-    webUrl: "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/"
-    ampWebUrl: "https://techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/ai-enabled-testing-tools-market-revenues-will-grow-at-over-13-cagr-through-2030/amp/"
+  - title: "Image Recognition Market Expected to reach $86 billion and CAGR of 21.8% by 2025"
+    excerpt: "The global image recognition market was pegged at $17.91 billion in 2017 and is expected to reach $86 billion by 2025, registering a CAGR of 21.8%"
+    publishedDateTime: 2022-01-14T02:39:00Z
+    webUrl: "https://menafn.com/1103537226/Image-Recognition-Market-Expected-to-reach-86-billion-and-CAGR-of-218-by-2025"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/01/AI-Enabled-Testing-Tools.jpg"
-        width: 2100
-        height: 900
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?302108"
+        width: 443
+        height: 250
         isCached: true
 
 secured: "dgs0LehRlopU67gSIzNagkryYtP9F2dh6ME/JYoBEODPpmFH56iYGBpdzD6+Q9xE2m0wab5KQFUyi+lLO9b2chI4lF13w2oVpmcVVeolofCbYn3wtdhpk6sz57PQ9y01XbGuLJC7sEh6EcQwdEP0lj6HcXkll4RtpPeBaTA8xq9MEH20qzU5aDDrOsxMVeHHGyPGq3Pt1UIglVnkLcwtDViquI07INVVOHQeoWWv80QDKLqJN1neYuEVFe/+1w/cVd1mx/asZvgQLgZuvDpW1KGcb3mN6xsAajFYYJrtgJYM22wrIRpvDsOHof4i/KFkB+0g6V0uTjwmCv+c9s1V49jWAdsUp6X2UnstTKDRZZ0F+QJtPtl1ApZu7aMwoNPriGrWOSiAUr7qnU/sYMhy8utL45hqIDkbNjMJPKiesxMQ9HFs4Azdv0EIqciHsXtoVzmjJb+KyB8X6apnUtGkpOWgceNuM2BiMgQx9Ne8ZiVipdppacZAu1Ml4IT28KwNUAz+it7iuEnvK1FkXApsyw==;WSYjCz8LohNxari34R0M/A=="

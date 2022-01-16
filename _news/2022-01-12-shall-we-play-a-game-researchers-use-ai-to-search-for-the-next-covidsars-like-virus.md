@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/shall-we-play-a-game-researchers-use-ai-t
 webUrl: "https://scitechdaily.com/shall-we-play-a-game-researchers-use-ai-to-search-for-the-next-covid-sars-like-virus/"
 type: article
 quality: 30
-heat: -1
+heat: 30
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 2560
     height: 1040
     isCached: true
-
-related:
-  - title: "Researchers use artificial intelligence to guide the search for the next SARS-like virus"
-    excerpt: "Scientists have demonstrated the power of artificial intelligence to predict which viruses -- like SARS-CoV-2, the virus that led to the COVID-19 pandemic -- could infect humans, which animals host them,"
-    publishedDateTime: 2022-01-12T01:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/01/220110184916.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 38
 
 secured: "TKFQ9Lwj4k+zj7e4XP7QRPol5E15gg8pdHj0YgiZXNrfk4kdMi/geLmzCtR3DYczjTv0Lu37C4galRo+mWp8nEViCRZota4KDl1cDvfx3LjlVHViU7mTqE8fcGJIqnUCpAWu1tdgmAinwkkHyKUr9PUIg7v1t6goVtw3ERPAxBvJKukVsGrhXV60ReborN/u6gXSo0DK3Lf3RBWC0Kk/+LHiDDeDR7JSsXhmW6HoLVGUg9jBGLHk7wpfYFPaXFdb/CnyC5Cp9xQPOCu8R3V5QqcXNpzHWY2zJ74EfAoKjoTrPhDHLDT79rukNuv01U9p5Z/vaPpcj7Qf/6GLUfeuZ12qveUs5GgtvY/DNyfvkHg=;OjKxn5mg1XE/U9WbWhbpWg=="
 ---

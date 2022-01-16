@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Growth Opportunities for Global Artificial Intelligence in the Automotive Industry - ResearchAndMarkets.com"
-    excerpt: "The \"Growth Opportunities for Global Artificial Intelligence in Automotive\" report has been added to ResearchAndMarkets.com's offering. This research service examines the role artificial intelligence (AI) will play in the transformation of"
-    publishedDateTime: 2022-01-14T17:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-20193540.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Global System-on-Chips’ R&D Portfolio Analysis and Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
     excerpt: "Chips’ R&D Portfolio Analysis and Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This technology and innovation study focuses on the benefits of SoC, the emerging trends in SoC hardware,"
     publishedDateTime: 2022-01-11T17:38:00Z

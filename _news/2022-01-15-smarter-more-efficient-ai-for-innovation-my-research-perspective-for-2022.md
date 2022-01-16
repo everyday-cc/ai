@@ -43,20 +43,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "AI the brains driving broad transformation"
-    excerpt: "AI has become a core driving force for the new round of technological and industrial revolution in China, bringing tremendous changes to the country’s development and people’s lives in many fields, including healthcare,"
-    publishedDateTime: 2022-01-11T10:20:00Z
-    webUrl: "https://www.independent.co.uk/asia/china/china-daily/ai-brains-driving-broad-transformation-b1988601.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 39
-    images:
-      - url: "https://static.independent.co.uk/2022/01/07/10/AI.jpg?width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 813
-        isCached: true
   - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
     excerpt: "OSARO Inc. a global leader in the development and provision of advanced robotics automation, and INNOTECH CORPORATION, which provides advanced products for electronics and consumer industries, have announced a collaboration to create an innovative demonstration for Rohto Pharmaceutical Co."
     publishedDateTime: 2022-01-11T15:02:00Z
@@ -95,6 +81,6 @@ related:
       domain: wfmz.com
     quality: 3
 
-secured: "44x1u8huYInbMVSFQ48Pjv/PrDY9KcCNtSJ8qyVfBuZUvcvFtKBn7/sfCD9oHitLteq2HyTwM7cesSI2NQiGgUs3x/46ckrl2VxB8TFGTGzeMh8AXyXYuaWqL5nDhaR0mrRA99PHF82iaTW4Im6FLnMM/MJHA1lPFkFIji8t0N/ivIRg2+rtv9ETvNyMaEJv8xZ5uqHwROe9+dcjg7dKmQ0vTIeXiFSgwsj62HsNqfReZL48O6sGkOopw38Sz0ETdl5RFPEcp4UWLmUytbfsgNlF3o4Jm83SygpI5yX6K4gdkJUM8B27SjbMn5LfpxPvouFvUihQwqaFuz3nVLu3Lc+Be67eRwwVuJ958uvqbSw=;rzvI+SBci+OiG3BFWcebHg=="
+secured: "Nl3iiMdy8hBqRJgJhhYWHkvWXJn7caZMLxDG1Uk+u1vzFS1CqH0e2A71NCtB8HR9npCukOPsDQIBVHphUT8rdS4bsgeUfR2zzS4mOjhizR1PlCR55svvKwL9P07keFppDJBnTgnehtESJGVml6IbsgGM4+37PZyXcrBXxkpv1qIn+X2rrxuqt6eXRl9n3orNVdJ0tSHaOSoC73exa+ChOTUMZ9qK2YUpMgfiyasUXu0ln/+iw1CxDKgjpFbuFe5fV+ZC0jAPoP9fwAUF/o6CzpGlvs3vdGfLaiJErarF7h2ItgZ+Z2WNAh+aTfCj/PMwo7MtA9GX7Tcdn5kTWsb1Og/7TJOaklgLPahgPmwdNhSs3WTSY4HtN6NOMUHO4nOO1MeUtq+tqB5N6TCvKKl38jIq/ZKL2ExA6ieZPY8i7g9to6mx2aL4tJCsXCnxBZOehvXboKWl7re6wGoWONMCL4laUB5u72LW7kKUijNsWKgEeyJGzyOtxSuSLAagnLuk8WRoWxR4jACMktTiuF7rPg==;80XPxdMTrdnBwV2hCXJAMA=="
 ---
 

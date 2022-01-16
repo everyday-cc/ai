@@ -40,20 +40,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "2021 AI Recap & Founders’ Predictions for 2022"
-    excerpt: "Originally posted on  Blog by Jodi Lifschitz As we continue to spear our heads through Covid we can clearly see that the tech industry did not let the global pandemic get in the way of its progress. In fact,"
-    publishedDateTime: 2022-01-11T09:51:00Z
-    webUrl: "https://www.linkedin.com/pulse/2021-ai-recap-founders-predictions-2022-dataloop"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQEVM5XQOPL99g/article-cover_image-shrink_720_1280/0/1641893053016?e=1647475200&v=beta&t=pqvzcFTl0LSjS5IBRKSVYzdQLbxfkBghNmJ6sc5tLZ0"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "lZSRoZ6pfMPpFWBAjChSuuJbdJ1U2Vuo7pS3jyaBliIAD2ggR3+GhZGRhjkRo5qMejrWOb0GtgyDutQMcapDLieoXGkQhXtG4KB9fgNk2Rn4cI4EFyf1At3U8dbQPvd696XYQy43Bfteg8G+O96BB32zYUzWZvFgAKLRkcr+ZP2ZUoI0V/cXiMZL+PI3ZGFDL5HbYKc1YdX6eoLC+PPhDt9PNPlAIZf5wU5bVHJdiNJI6nQriYScFk+HTesq2cHoPeQAtml79EuxYvkVaps0rqGaWzGwMPrC7KuYuMxIb5FAokZZS5M8/a58JXJZyLkoI1Zqdz4q/HrQT0Q2zxqJ6UJLiDYiXS3MM9wPy677wis=;pYTuGafvSqs+1INXid7i+Q=="
 ---

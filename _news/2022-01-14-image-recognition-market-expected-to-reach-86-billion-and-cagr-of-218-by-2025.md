@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Market to Reach $41.11 Bn, Globally, by 2030 at 16.0% CAGR: Allied Market Research"
-    excerpt: "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. Faster processing, better accuracy, and economic ..."
-    publishedDateTime: 2022-01-14T00:38:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/computer-vision-market-to-reach-41-11-bn-globally-by-2030-at-16-0-cagr-allied-market-research-850701489.html"
+  - title: "Artificial Intelligence In Drug Discovery Market To Gain A CAGR Of 40.8% By 2025"
+    excerpt: "The incorporation of AI and machine learning tools in drug discovery and development applications can improve healthcare outcomes by enhancing overall efficiency. As per MRFR, the Artificial Intelligence in Drug Discovery Market is estimated to gain a USD 2,"
+    publishedDateTime: 2022-01-13T07:13:00Z
+    webUrl: "https://www.medgadget.com/2022/01/artificial-intelligence-in-drug-discovery-market-to-gain-a-cagr-of-40-8-by-2025.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-        width: 2000
-        height: 1046
-        isCached: true
+      name: Medgadget
+      domain: medgadget.com
+    quality: 29
 
 secured: "YaCJenwkJbVOoObWCrZN9T+5cGvtiuwyX3jfVZrnuSroKXjOBmJoI/Z4y9lDS45dWwa2U/JmwDWDAiO5mtF2z5FKj5xqGD0Ks8b7ISWbkKDXVRU9KZgLlP/p+CXD8opMdF7XFannSqU8R6zA1tV35W6qLNzfky7p6LhadHax/v/BK5HFhAPaQYunwCZobHHb3ay4xKC9/W9ZmtLH836P6Lg3m4GmqqI6RAS7CGPc106aHZcKnrO1tiXFWszPKDqCk4XN24WQqzo6ZxtzjcvoqcKMofT15z3WG8uGxohqu/PWw8gU7mZLuzHOUsB9fKIy9h4tRrc3OWCeRQnetbIKNVhoTQuH5w/SvCcedu6myQo=;hedNaAbSMnz2OSJkWPfJ7g=="
 ---
