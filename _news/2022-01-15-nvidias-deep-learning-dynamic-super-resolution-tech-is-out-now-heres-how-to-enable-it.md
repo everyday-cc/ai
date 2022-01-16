@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA announces DLDSR (Deep Learning Dynamic Super Resolution) tech"
-    excerpt: "NVIDIA's new DLDSR improves upon DSR by adding an AR network that requires less input pixels: DLDSR 2.25X compares to DSR 4X."
-    publishedDateTime: 2022-01-12T01:42:00Z
-    webUrl: "https://www.tweaktown.com/news/83943/nvidia-announces-dldsr-deep-learning-dynamic-super-resolution-tech/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)"
     excerpt: "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January"
     publishedDateTime: 2022-01-12T09:42:00Z

@@ -93,7 +93,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -191,49 +192,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-09-5-best-ai-stocks-for-2022.md",
-      "title": "5 Best AI Stocks for 2022",
-      "excerpt": "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
-          "width": 1920,
-          "height": 1044,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-08T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     },
     {
@@ -1414,6 +1372,59 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-unlocking-human-rights-information-with-machine-learning.md",
+      "title": "Unlocking human rights information with machine learning",
+      "excerpt": "Human rights defenders need information from many sources to do their work effectively. But as issues evolve and new precedents are set, finding the right information to defend a particular case can be like looking for a needle in a haystack.For example, a human rights advocate campaigning for LGBTQ",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/unlocking-human-rights-information-with-machine-learning/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/unlocking-human-rights-information-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TF_X_HURIDOCS_008.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 729,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-org/unlocking-human-rights-information-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-org/unlocking-human-rights-information-with-machine-learning/amp/",
+      "publishedDateTime": "2021-12-08T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
       ]
     }
   ],

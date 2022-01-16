@@ -93,7 +93,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -144,15 +145,15 @@
       "title": "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers",
       "excerpt": "Concept: San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers. TinyML is an ML technique that can be implemented in low-energy systems including sensors to perform automated ...",
       "sourceUrl": null,
-      "webUrl": "https://www.just-drinks.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
-      "originalUrl": "https://www.just-drinks.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
+      "webUrl": "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
+      "originalUrl": "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.just-drinks.com/wp-content/uploads/sites/36/2022/01/shutterstock_767487700.jpg",
+          "url": "https://www.just-style.com/wp-content/uploads/sites/34/2022/01/shutterstock_767487700.jpg",
           "width": 500,
           "height": 277,
           "title": null,
@@ -164,11 +165,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T04:23:00-08:00",
+      "publishedDateTime": "2022-01-11T04:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Drinks",
-        "domain": "just-drinks.com",
+        "name": "Companies",
+        "domain": "just-style.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -394,8 +395,8 @@
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?352192",
-          "width": 378,
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?97154",
+          "width": 315,
           "height": 250,
           "title": null,
           "attribution": null,

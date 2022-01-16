@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-sta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
 type: article
 quality: 187
-heat: 307
+heat: 308
 published: true
 
 provider:

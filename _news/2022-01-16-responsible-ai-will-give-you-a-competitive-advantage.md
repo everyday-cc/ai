@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/"
 type: article
 quality: 91
-heat: 102
+heat: 101
 published: true
 
 provider:

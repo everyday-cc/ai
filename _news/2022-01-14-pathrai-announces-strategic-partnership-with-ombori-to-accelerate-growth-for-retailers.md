@@ -24,20 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Scienaptic fully integrates with CU*Answers for deploying AI-powered credit decisions"
-    excerpt: "Leading AI-powered credit decisioning platform provider, Scienaptic AI announced its full integration with CU*Answers. The seamless integration of Scienpatic’s AI-powered decisioning will provide new opportunities for CU*Answers credit union partners looking to expand credit access for their members."
-    publishedDateTime: 2022-01-13T22:27:00Z
-    webUrl: "https://www.cuinsight.com/press-release/scienaptic-fully-integrates-with-cuanswers-for-deploying-ai-powered-credit-decisions"
+  - title: "Pathr.ai Announces Partnership with The Lionesque..."
+    excerpt: "NRF Jacob K. Javits Convention Center, NYC, Booth #948 –Pathr.ai, the industry's first and only Artificial Intelligence"
+    publishedDateTime: 2022-01-16T12:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25068734/pathr-ai-announces-partnership-with-the-lionesque-group-and-mg2-to-deliver-pop-up-shop-analytics-f"
+    ampWebUrl: "https://www.benzinga.com/amp/content/25068734"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25068734"
     type: article
     provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 30
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
 
 secured: "X24b5cKgwZCSQKBWUEeGM8x/89KAqdd6AYw7g6dPRYmNOLLtKB4g53+LA7Zddg3aM58UpUYJyn4tlI+A6Wcqy7HrVC6AdkY4POKvtiqGvZa2zkV3WfcKe620e+F21TuvAmUc19L++GWKpILY2GUyXKuHZyY65b5Cj8PHthoHz4vrt1MjA5z/Vp5kD3OWmqnw6+5DuLjPg0a4a8ER/HHTCMLs4MN0MlzOlX3jxz4k+eyPtn33zRu6du+MmiFlBPzLK+9Ti5LnxEa2o7Tfvw+uFAEfoNgbOtmGiC3lhtxXfbh26BILGmmwKb5l1KGEG4c4F6B3qQgFR16/ztC5zlp/kHlm+/UD40Hf2UJSZRIce4s=;T4Rdc4O3hslawl7wJ/HWUg=="
 ---

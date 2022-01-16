@@ -1,29 +1,21 @@
 ---
 category: news
 title: "Could Artificial Intelligence Do More Harm Than Good to Society?"
-excerpt: "In an increasingly digitized world, the artificial intelligence (AI) boom is only getting started. But could the risks of artificial intelligence outweigh the potential benefits these technologies might lend to society in the years ahead?"
-publishedDateTime: 2022-01-08T21:45:00Z
-originalUrl: "https://www.fool.com/investing/2022/01/08/could-artificial-intelligence-do-more-harm-than-go/"
-webUrl: "https://www.fool.com/investing/2022/01/08/could-artificial-intelligence-do-more-harm-than-go/"
+excerpt: "I n an increasingly digitized world, the artificial intelligence (AI) boom is only getting started. But could the risks of artificial intelligence outweigh the potential benefits these technologies might lend to society in the years ahead?"
+publishedDateTime: 2022-01-08T17:45:00Z
+originalUrl: "https://www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society"
+webUrl: "https://www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society"
+ampWebUrl: "https://www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society?amp"
 type: article
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI
 
-images:
-  - url: "https://g.foolcdn.com/editorial/images/659353/gettyimages-1310293181.jpg"
-    width: 2000
-    height: 1500
-    isCached: true
-
-secured: "nEH0Ogyg28Aq3eSN8xrRUgkf0h9c3kI4zgdRvwfQEHSRu8QURguFZ9HL48pXEZJ118B+3/dUplPsRXuPokLC5DztsNgrg3gtjp2csjUgO72cf7SfNXgbLoJMgTmBhUbag0CiwtU5IOlyv+l5GOGXW/fEwrBvDP6Jp1i3zAwR6A38ckogV2LAg4+8D9SEgBPJFctuSOAKhKA00RrQMBANz2nlc5T+LYjtGZbPOGtLVU7HlVC7UbM1P0vkykxV33OfcwkbMpYDCYmg3+lzLOWP30E095qotkIYT/4PEeaWk/DbhyubMoQCqmVeRBLbQqO+n0g9TNzigN1huDmPqOfkXKxNaOE0G2FH02RYp6oj2WQ=;gpFz+U7B7NB1XQmSJ1HgGw=="
+secured: "ktc5yQ5S3ye+M3QuP9pxEpO5g+fO65nOWXtextNfN1LfTNzTAHHzugogYmwWr58uvUaxukMIc1b7QIfwNKimVEGt+xPCeZVdcbpadLDYqkj999EUQx/Kr2JGEEyXZJu7LqxI7p8A2fJnE5tD2jQ/YkJBI/ueCnpLfhGN+FlP1rBxExKBgLOPiT++IllntIQ/7ytvpNVHuaiBfQpWyD7qJ03GegMBP/URBH9WlNJgkiV6086YU80mDkGX//RxUQHQF1MVYly3xxEG959SpmUnmVCKEjjz+50R/IIcyfZQClsGMlhbGvwyhrw5lx69c+QGUT4NxxrmUxeQfa6o2w6zflqew63iT44zCLGOnsl2HL8=;SxcM6eo6adHj4Q4QT6dwrg=="
 ---
 

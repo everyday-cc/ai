@@ -666,57 +666,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-09-could-artificial-intelligence-do-more-harm-than-good-to-society.md",
-      "title": "Could Artificial Intelligence Do More Harm Than Good to Society?",
-      "excerpt": "In an increasingly digitized world, the artificial intelligence (AI) boom is only getting started. But could the risks of artificial intelligence outweigh the potential benefits these technologies might lend to society in the years ahead?",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/01/08/could-artificial-intelligence-do-more-harm-than-go/",
-      "originalUrl": "https://www.fool.com/investing/2022/01/08/could-artificial-intelligence-do-more-harm-than-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/659353/gettyimages-1310293181.jpg",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-08T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-09-ramaphosa-uses-anc-anniversary-speech-to-stamp-his-authority-on-the-party.md",
       "title": "Ramaphosa uses ANC anniversary speech to stamp his authority on the party",
       "excerpt": "South African President Cyril Ramaphosa has delivered a speech to mark the anniversary of the formation of the African National Congress (ANC) over which he also presides as president. It was the party’s 110th birthday.",
@@ -762,10 +711,10 @@
     {
       "path": "_news/2022-01-09-5-best-ai-stocks-for-2022.md",
       "title": "5 Best AI Stocks for 2022",
-      "excerpt": "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc.",
+      "excerpt": "Software giant Microsoft Corporation (NASDAQ:MSFT) is one of the best AI stocks for 2022, as the Washington-based company continues to grow its AI and cloud computing platform, Azure. Morgan Stanley analyst Keith Weiss is bullish on Microsoft Corporation (NASDAQ:MSFT),",
       "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/",
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/5/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -798,7 +747,40 @@
         "news"
       ],
       "topics": [
-        "Google AI",
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-09-could-artificial-intelligence-do-more-harm-than-good-to-society.md",
+      "title": "Could Artificial Intelligence Do More Harm Than Good to Society?",
+      "excerpt": "I n an increasingly digitized world, the artificial intelligence (AI) boom is only getting started. But could the risks of artificial intelligence outweigh the potential benefits these technologies might lend to society in the years ahead?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society",
+      "originalUrl": "https://www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/could-artificial-intelligence-do-more-harm-than-good-to-society?amp",
+      "publishedDateTime": "2022-01-08T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },

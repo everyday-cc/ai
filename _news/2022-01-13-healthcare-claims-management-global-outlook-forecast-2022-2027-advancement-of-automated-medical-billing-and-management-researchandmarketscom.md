@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 714
         isCached: true
-  - title: "Growth Opportunities for Global Artificial Intelligence in the Automotive Industry - ResearchAndMarkets.com"
-    excerpt: "The \"Growth Opportunities for Global Artificial Intelligence in Automotive\" report has been added to ResearchAndMarkets.com's offering. This research service examines the role artificial intelligence (AI) will play in the transformation of"
-    publishedDateTime: 2022-01-14T17:37:00Z
-    webUrl: "https://www.lelezard.com/en/news-20193540.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 21
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "eeARDCyuJQKk/jPtk09Zud1/rljDOJmWOzEko7+60EYEqrO9iFMiCHAIuoWaBrVUSlMMRARXz8r8eJd1umlsAQCAt6KGZuCxyNYSPFk4ABIHmbzZxs6bBwgqB9I04pqgIk1zZ8Jc69D3zImAQsyTYosGqGEfXJzGx7yNTv57iXf5Orzo03NZZi/BmTApv8TS6bBmK4ntjqiF+vCcEK+IYj8QMeOI243HRrx6OeoxEyUdnDMI9LDUJsUfjVlCt7rh5V7e2+gRE2eChDYT4ljFpWS4X0Oxnyap3B0u8EM8C91ze6aiO6Dx9Ugu6X8FoAWYZ7zNFdS7xh423oCt73N6umDZ+dFNIYtbNRzA+VSTSgU=;pR0VygCfJNDtn+MMn/Nkrg=="
 ---
