@@ -24,35 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Career Vision: Companies are increasingly using artificial intelligence (AI) to drive their recruiting and hiring, are you ready?"
-    excerpt: "Kevin Field, PhD, is the Research Director at Career Vision, he joins Lisa Dent on Chicago’s Afternoon News to offer tips and advice for job seekers facing a growing trend of algorithms, not"
-    publishedDateTime: 2022-01-13T23:49:00Z
-    webUrl: "https://wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/"
-    ampWebUrl: "https://wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/chicagos-afternoon-news/career-vision-companies-are-increasingly-using-artificial-intelligence-ai-to-drive-their-recruiting-and-hiring-are-you-ready/amp/"
+  - title: "The U.S. Air Force Is Building Artificial Intelligence Bombs for the F-16"
+    excerpt: "Two Air Force F-16 jets fired Small Diameter Bombs were able to share threat data with one another. Here's What to Remember: The collaborative weapons experiment is showing great promise. Two Air Force F-16 jets fired Small Diameter Bombs were able to share threat data with one another while in flight to a target using an emerging kind of collaborative weapons coordination,"
+    publishedDateTime: 2022-01-15T03:30:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/us-air-force-building-artificial-intelligence-bombs-f-16-199358"
     type: article
     provider:
-      name: WGN Radio
-      domain: wgnradio.com
-    quality: 45
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 51
     images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2020/04/CareerVision.jpg?w=1280"
-        width: 1280
-        height: 684
+      - url: "https://nationalinterest.org/sites/default/files/main_images/f16_1222x_0.jpg"
+        width: 1222
+        height: 676
         isCached: true
-  - title: "The metaverse is coming. Are your ethics ready?"
-    excerpt: "The metaverse allows us to build new constructs with digital avatars; perhaps a unique avatar for each version of self, or at minimum, an avatar that can literally be everywhere at once. It allows people to explore different facets of their personality in ways physical society does not often permit."
-    publishedDateTime: 2022-01-12T15:30:00Z
-    webUrl: "https://www.fastcompany.com/90712458/the-metaverse-is-coming-are-your-ethics-ready"
+  - title: "The Manufacturing World Is Ready for Open-Source AI"
+    excerpt: "One might assume that artificial intelligence can be easily applied to industrial manufacturing. This is unfortunately not the case."
+    publishedDateTime: 2022-01-12T12:32:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34308-the-manufacturing-world-is-ready-for-a-wordpress-for-ai"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 39
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 37
     images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/01/The-metaverse-is-coming.-Are-your-ethics-ready_.png"
-        width: 1280
-        height: 720
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2022/0111_code.png?height=635&t=1641960813&width=1200"
+        width: 847
+        height: 635
         isCached: true
 
 secured: "ajEiWI6Nz8Rw5UYJiCDOButNKusOf3wJ894/ZyhJS2jvdZBYhH6atZsISx2LYYamzYINJ560bYlsyyaGq+BTGb9FX3aayB2eEo2Z+7ErbvFhiAYzJy0Aac4nnnu7ks+lNcoXQmPUltspRj6e86NSJpqnZHYDAKPexjOIvIrw8nc7rZZx4FvJCPJZPhURVzGIpvFHUbBeyp5O6A3VjJmdEmVfC9wmXF27XK7f139Gah9K4iBNW71G052nbZAMLaj5OSc7mB8X7XucQp5L5NqwxnJUccSjGpZwOeWANlWxWJeyRHrFFn5oDbO8CFQAqpH5JxoEBni063OHWUPCWxf0H6BCCT6c45+XpRALZyjxxR0=;ZygTOWignb7WZLmUMUfDPA=="

@@ -59,6 +59,20 @@ related:
         width: 739
         height: 416
         isCached: true
+  - title: "3 Vectors of Artificial Intelligence and Machine Learning"
+    excerpt: "The New Stack Shorts covers three areas that are reshaping business processes and environments - from the intelligent applications that embed AI/ML and take advantage of data, and the system of enablers that allow them to reach scale to the chips that power them."
+    publishedDateTime: 2022-01-13T15:30:00Z
+    webUrl: "https://thenewstack.io/3-vectors-of-artificial-intelligence-and-machine-learning/"
+    type: article
+    provider:
+      name: thenewstack.io
+      domain: thenewstack.io
+    quality: 56
+    images:
+      - url: "https://cdn.thenewstack.io/media/2022/01/67e2a21e-tns-shorts-awsmachine-learning.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "wUOM7CRPoAVSOiNJlJGpaDjZoXQYPqLrYAKpHNinzZ/LXICU4AAIVoPZLPCyFhIEkEd/T7xtITS+UWP2eNJSV7ZvyfO659yWLbNeZHh2QtakGml1N+iMMmq3BGQnz3/+SiAjaIcvB++oi2HNgzZYr0glNhcHaCRAL5kOY9bq0fFWl9WMvP00Gu0Ej//uhkghXsvv+3pTqtHCM9iaYfcVvkCF0HPRS+gVX4rbnaTsu00O5wd4HN1pf4tmrUBea3ItkPlyzETnB9jpicE1rI9I81E74NLqbpcp3opNplKGhBAK7mng6LMxztrCNk5ZRm53tiFtJCQ9KaZxCmGcZtVSnuTIkDXmgLgy1/0wm8xxA8U=;cjOCNnvP/sLM36F2lv4udw=="
 ---

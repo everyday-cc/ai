@@ -26,81 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Getting Smart About Five 2022 AI And Machine Learning Predictions"
-    excerpt: "As new technologies exit the realm of dreams and enter the realm of possibility and reality, there’s always a reckoning with their true capabilities. In 2021, I saw teams build the foundations for some really important AI changes in 2022."
-    publishedDateTime: 2022-01-11T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/"
+  - title: "How AI and language intelligence are helping employees learn"
+    excerpt: "Embrace the transformation AI and language intelligence offer to see how human-machine collaboration can help businesses thrive."
+    publishedDateTime: 2022-01-14T18:40:00Z
+    webUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/"
+    ampWebUrl: "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dcad5888028e02db6660ac%2F0x0.jpg"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-970562458.jpg?w=1200&strip=all"
         width: 1200
-        height: 688
+        height: 628
         isCached: true
-  - title: "Balancing AI And Humanity: Five CX Predictions For 2022"
-    excerpt: "While 2021 was a year of transition from the digital back to the physical world, I predict that 2022 will be an exciting time for blending the best of AI with the best of humanity."
-    publishedDateTime: 2022-01-13T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/balancing-ai-and-humanity-five-cx-predictions-for-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/balancing-ai-and-humanity-five-cx-predictions-for-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/balancing-ai-and-humanity-five-cx-predictions-for-2022/amp/"
+  - title: "How cloud, AI, and machine learning are shaping the new work order"
+    excerpt: "From cloud chaos to clarity.” As enterprises embrace the cloud, AI and deep data analytics, existing jobs, and workplaces will go through a fundamental shift. This transformation will shape the present and future of talent."
+    publishedDateTime: 2022-01-13T20:17:00Z
+    webUrl: "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/"
+    ampWebUrl: "https://www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/01/13/1043529/how-cloud-ai-and-machine-learning-are-shaping-the-new-work-order/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F60258b7025105a1c7f5b548e%2F0x0.jpg"
-        width: 1200
-        height: 798
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/01/New-work-order.png"
+        width: 1800
+        height: 1013
         isCached: true
-  - title: "Artificial intelligence learns to predict solar flux"
-    excerpt: "Researchers from the Department of Computer Systems Engineering at Universidad Politécnica de Madrid,in collaboration with the University of Strathclyde (UK), used a deep learning approach that had previously shown promising performance in other forecasting problems,"
-    publishedDateTime: 2022-01-12T14:31:00Z
-    webUrl: "https://phys.org/news/2022-01-artificial-intelligence-solar-flux.html"
-    ampWebUrl: "https://phys.org/news/2022-01-artificial-intelligence-solar-flux.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-artificial-intelligence-solar-flux.amp"
+  - title: "How artificial intelligence could influence hospital triage"
+    excerpt: "As the latest virus surge swamps hospitals, researchers consider the role machine learning could play in making decisions about care."
+    publishedDateTime: 2022-01-12T19:00:00Z
+    webUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage/"
+    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
+    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
+      name: Marketplace
+      domain: marketplace.org
     quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-3.jpg"
-        width: 600
-        height: 324
-        isCached: true
-  - title: "It's machine learning, not AI."
-    excerpt: "\"At the moment, the best way to survive a patient with heart failure is calling 911\". This is the response from Jaeson Bang, the CEO of FutureCardia when someone asked him if his startup is adopting AI to predict and prevent patients with heart failure."
-    publishedDateTime: 2022-01-14T02:28:00Z
-    webUrl: "https://www.linkedin.com/pulse/its-machine-learning-ai-son-le-thanh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 58
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFvVKc2mtnqhw/article-cover_image-shrink_600_2000/0/1642127255161?e=1647475200&v=beta&t=Y8Vdhbw9yATaB2IpzTyQ3csWJ4qsUlioGVXg1GBFph8"
-        width: 1385
-        height: 600
-        isCached: true
-  - title: "Small Data, AI and ML - Predicting Coup d'état"
-    excerpt: "Can AI / ML spot countries at risk of a sudden change in leadership in a coup attempt? Looks like so. Researchers at the University of Central Florida are working with a system called CoupCast to estimate the likelihood that an individual country will undergo a coup d’état."
-    publishedDateTime: 2022-01-13T21:22:00Z
-    webUrl: "https://www.linkedin.com/pulse/small-data-ai-ml-predicting-coup-d%25C3%25A9tat-srinivasan-sankar"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQH9jIN-eqMkzg/article-cover_image-shrink_600_2000/0/1642105649075?e=1647475200&v=beta&t=NTT3oVKPm_NoL1Ath2x30jU3i5NdTSge3borhBhIi9E"
-        width: 1080
-        height: 505
+      - url: "https://www.marketplace.org/wp-content/uploads/2022/01/GettyImages-1229667700.png?fit=740%2C416"
+        width: 739
+        height: 416
         isCached: true
 
 secured: "LSAP+zt5lAQ4+wjafdqV/NCdg9Fvb41Q5T2IlxjrQCleRXf140j/QKNs4oe+Hk64KQ6eBX9zmUDlpsQIrK4TVJbueZ9Za0qDu7mJW73SpNZywzchzLEoy0cfhdpfe18aN9ZMVIp+CgG/P3BGgsmitsZenxGXDyuCChfFQfzf9pOlaFJoQP1kDt6sberKka0yLOV7Mx7ejlMBwPmERb8ts5ukGswzbQHgJOlFQw3l4KxuRol7yeucflTnjFlQW0wgwrWbW60WP+xY/qyQgyJBPwKboOr09HpyH1Y7ffniRiqIU2Am1WBy5pHykbrBYXJdAt/cXXeLTQbggqWvMVWnP34e3FiyJ5bM0WzAgaguZ7BJ0YVIOtaPiGmhN9Ndy2/LkDn7q6WLj4kxd2wcTUIknJzNnu34ga0JzrH4Saj6h4WWP3WZdapiFTSuelDPmlh4PkcJCzJ1JKgsco1qQL7HOy3o3oVfgtKhjhQJa2uUMRSHEnAzEeBDZyG02y/UlfSLfp7+3T4o1Oww2woRmlzHNg==;3ZJhMeOIOeodGjuaOEKR3g=="

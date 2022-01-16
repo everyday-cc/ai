@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Using AI for Real-Time Engineering Decisions"
-    excerpt: "MathWorks’ Heather Gorr explains how engineers can apply artificial intelligence to real-time engineering decisions, as well as the issues involving data synchronization."
-    publishedDateTime: 2022-01-12T16:41:00Z
-    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21213913/electronic-design-using-ai-for-realtime-engineering-decisions"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 37
-    images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/01/AI_engineering_promo.61df026b7f048.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TyiOk6sWmXluDGhT6ziAofjG2kzRuSLKOm/Vk+mDUPHOt3WMXnpgxv410OYhnnHsAc3xYy7d0kBjVt4dFgLjZlij+8v2LjMoCXL3KKxK0VC8pmoHhMEoKEMmB37JSI9+GWWIPjDwi4c5QzLnL6cVzswBDlSTqkcZQlGfh+vt7odY6cxZAK/cSOGkwJfJ5MzY9HwGlayJOdzvQtNy05379e93TOcbs6HaGNJvUeNfjCr9VTIBV5RRNlEiADU9uu8QvKnMD6eLrwp8I/f3WqN2pbm8DSE2VyczR9KReQgSbkdtSYzvY6vwOM2PemiCmOTb1uzgzOWlFUGmxT7Yt2WrnIeMHsREGZur2nOktXimIrY0WY5eeOnmfWdUoTKJFi8xAeEANqCa0h9gMdJhOV+l0vdli5U6pkGeb10ipppW/gYOuP735mTeVh360JIubpfVQ0h5j4xqUNToqHTc4YoZpJRxkP7q7453r0W5EkhIiFjI2BbzD6DMOgJ4UT3A+vAaysyN+ZSP9Yb2K4+bWOzrGQ==;BuMtj6Pdxz/MluYiN5K+CQ=="
 ---

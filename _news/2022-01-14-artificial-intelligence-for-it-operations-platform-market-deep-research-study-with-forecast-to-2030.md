@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "Global Smart Hangars Market Research Report 2021 with Focus on Edge Computing, IoT, and Artificial Intelligence - ResearchAndMarkets.com"
-    excerpt: "The “Growth Opportunities for Global Smart Hangars” report has been added to ResearchAndMarkets.com’s offering. This research discusses trends like edge computing, IoT, and artificial intelligence with respect to aircraft hangars;"
-    publishedDateTime: 2022-01-14T11:07:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-artificial-intelligence-5598b0e7e91541e6aa7497c9a99673b3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 4
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-
 secured: "tXbGRh1I2k+piUvFu85Lj+Zw3Enb+gMeecLduJLVuSSmJov9cZHpm0e5Jv7Ln6gwiJbOh5zZTkHflolrK9Hhl2gbzL9Ab/cqjU1CMeEJB2wYVraBqxYvwx2qEd3VwgsVAPMmvX+kFhCIqUSSp/TdMUw7qIB4BI/MpB7cYRovxsLrbTOa1Fm3Fz3ag0CmABCZDN7ixtSEuz6f4yjYpkwfGat8+QZFak8jZRgaIJmApZcW+esB8hS++t1A3jUfDTTVbHLVvcXVNnwOHhUTSnIXgwJuUB+hVP8cbSqpTcCcZc5ysFKOQgyU7aDpqtw0gu2kDYtI4nndU3EbTjMmlBTWDNMhFYuuB3c1PL0qjIP6fJU=;WqY2QqFX7eyvq5y34xpWww=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-01-14T17:50:00Z
 originalUrl: "https://www.linkedin.com/pulse/smarter-more-efficient-ai-innovation-my-research-perspective-haas"
 webUrl: "https://www.linkedin.com/pulse/smarter-more-efficient-ai-innovation-my-research-perspective-haas"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG9h1oBMBVaTQ/article-cover_image-shrink_600_2000/0/1642180355179?e=1648080000&v=beta&t=xZ2Q1JTvDmbVdntQoOwo7S9NO9jY6AnI2mhGn94ePrw"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "AI and Marketing: 2022 and Beyond"
+    excerpt: "The Future of Artificial Intelligence in Marketing Artificial intelligence has already made significant strides in the realm of self-driving cars, but what role will it play in marketing? A recent sur"
+    publishedDateTime: 2022-01-15T01:55:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-marketing-2022-beyond-michael-paul"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFkMFg6Inus8Q/article-cover_image-shrink_720_1280/0/1642211702252?e=1648080000&v=beta&t=gdC_Xnatd8xBRKqzZLoGYT42Y_9WgA1E2Xjh9e5uNtk"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Speech Analytics Market worth $4.5 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a research report \" Speech Analytics Market by Component (Solutions and Services), Application (Risk & Compliance Management, Sentiment Analysis), Organization Size, Deployment Mode (Cloud,"
     publishedDateTime: 2022-01-13T14:33:00Z

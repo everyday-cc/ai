@@ -43,22 +43,6 @@ related:
         width: 1260
         height: 501
         isCached: true
-  - title: "Great Resignation Versus Increasing Investment In AI, Robotics And Automation: A Troubling Trend"
-    excerpt: "Hiring continues to sputter, while investors are declaring the \"golden age of automation.\" Are we automating the workforce of the future?"
-    publishedDateTime: 2022-01-11T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/"
-    ampWebUrl: "https://www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chriswestfall/2022/01/11/great-resignation-versus-increasing-investment-in-ai-robotics-and-automation-a-troubling-trend/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61da04449c481c9368077737%2F0x0.jpg%3FcropX1%3D75%26cropX2%3D3585%26cropY1%3D0%26cropY2%3D1974"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Secure access to Amazon SageMaker Studio with AWS SSO and a SAML application"
     excerpt: "Cloud security at AWS is the highest priority. Amazon SageMaker Studio offers various mechanisms to protect your data and code using integration with AWS security services like AWS Identity and Access Management (IAM), AWS Key Management Service (AWS KMS), or network isolation with Amazon Virtual Private"
     publishedDateTime: 2022-01-12T21:02:00Z

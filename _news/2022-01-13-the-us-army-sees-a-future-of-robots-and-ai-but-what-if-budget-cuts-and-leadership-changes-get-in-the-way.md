@@ -41,6 +41,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How AI will change the future of marketing"
+    excerpt: "We are in now 2022 and the future will be going to adopt more advanced technologies like AI, Metaverse, Cloud Computing and many more. Already many companies like Facebook, Amazon, Flipkart and Google already adopted AI-powered tools."
+    publishedDateTime: 2022-01-15T06:44:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-change-future-marketing-bidhan-senapati"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEk4sCiITbWcw/article-cover_image-shrink_720_1280/0/1642228820551?e=1648080000&v=beta&t=Ose0Ywrx9C2kD50VcX8d3AMhIZExyVpp5Fj3dkhbb4E"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "uyBMVYCJGQ05mIzkVMx4YMY3KC96bfiICAcr4/W+Ie3F0CjAwMARhCPPB+QanPV8wj6VHJmboeVwo6djBK3BxaQVQjgb0sPnLNeJUOWGFbHb25ngEmcK64zvnCp/2Nc13LgijPfXJNJrXc9Llpd/+hXzP7iONzUvyYocgZZf+3SIZqklqzck5JmSjp71IIOggkgjI2ovlSt9eYJ7p0qIfyQjS3D1Zt3euE771Zxz6PonJkIVs94AGyqRgiO6ZZ8TjpZtCWfi22w7ORQSs3DibouPzdC29SbuPhnq7XaNN8h8INViksm3F5Gu9wx1sG/eiBqcYGKkojwW88KZYsWVdHrSB7FExs77BQwtzoGkhtERQGDwwA2AVUOMW25IUHCSUjH9rH2k2Y3oAY6I+vuPHF75xrzO0Y6izPcXec8APg96iO05spGfxLkDp7HxawJscwCsDBjaXeLtFxAHDwxI+ynrOWazkWoHkaAxoz9rCZaizEe/iYmaXjUuTUvaAkSD5L2H7R5SsDR7dk7/cV/AAw==;Snh+AJuFtiH5Imn0S98ddg=="
 ---

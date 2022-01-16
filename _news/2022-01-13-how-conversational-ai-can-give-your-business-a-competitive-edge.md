@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AI Helps Sports Professionals Maintain a Competitive Edge"
-    excerpt: "Although it took a few years for professional sports to catch up with the world of finance, data analysis is now fundamental to many aspects of athletic endeavor."
-    publishedDateTime: 2022-01-11T11:28:00Z
-    webUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=451"
-    ampWebUrl: "https://www.azorobotics.com/amp/article.aspx?ArticleID=451"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=451"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_451_16419002267984651.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "73yI/f+CeP27UU6sYUHhA39XxhIrXvrgBjGy4opi/I073o61oCMLskw8N7iS08BZdfY7ZnxwNvFg9v35QxgbfHUHzoN81CcvekAQrfiDWi71DLljf4W2A+GyAQDsVR+h4ASr5+t67m2s8pvDjV0cv0ie8bxsBqUQEIE/cPKjJLITOzKXUOLaL4w05ENYVtu4Fw/7ivzEy8TlGw39M9vQNkvnlAcEqfGSIKdPe0NOFZyErDU1YeaUxyYIHiMdPd3yRIml0qRlcksm96uEkRLPQjO25tsQuKrnxDvPoRUFzNjKZd+2twEVxosR1zAE5xd3PrPFjuuZIICGxixv570/gjLrdEVjeqXZMYWOYrEdX3c=;OEYOh3WwAwBjRNOaCKM9rg=="
 ---

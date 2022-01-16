@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) in Security Market: Emerging Trends, Major Key Players NVIDIA Corporation (US) and Intel Corporation (US)"
-    excerpt: "According to the report The global Artificial AI in Security market size is expected to reach 20 94 Billion by 2028 growing at the CAGR of 18 65 from 2021 to 2028 The major factor driving the growth of"
-    publishedDateTime: 2022-01-11T12:24:00Z
-    webUrl: "https://www.openpr.com/news/2523696/global-artificial-intelligence-ai-in-security-market"
-    ampWebUrl: "https://www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2523696/global-artificial-intelligence-ai-in-security-market"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 54
-    images:
-      - url: "https://cdn.openpr.com/V/1/V111113641_g.jpg"
-        width: 603
-        height: 380
-        isCached: true
   - title: "Global Artificial Neural Network Market: Emerging Trends, Major Key Players Google and IBM"
     excerpt: "According to the report The global Artificial Neural Network market size is expected to grow from XX Million in 2020 to XX Million by 2028 growing at the CAGR of more than 22 from 2021 to 2028 The major driver"
     publishedDateTime: 2022-01-13T12:14:00Z
@@ -57,20 +41,6 @@ related:
       - url: "https://cdn.openpr.com/V/1/V113377635_g.jpg"
         width: 603
         height: 373
-        isCached: true
-  - title: "Artificial Intelligence (Ai) in Medical Diagnostics Market: Global Industry Analysis and Opportunity Assessment 2021-2027"
-    excerpt: "Pune, India, Data Library Research published a new report. The report provides tacticians, marketers and the senior management with critical information they need to evaluate the global Artificial Intelligence (Ai) in Medical Diagnostics Market as it emerges from COVID-19 shut down."
-    publishedDateTime: 2022-01-14T09:47:00Z
-    webUrl: "https://www.linkedin.com/pulse/artificial-intelligence-ai-medical-diagnostics-market-choudhari"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 27
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGelrJ1gANflw/article-cover_image-shrink_720_1280/0/1642153555777?e=1647475200&v=beta&t=6gTk3GVAMkEOKykdcxWaHU5WkREpr4rPUzm_Va76CLU"
-        width: 1200
-        height: 714
         isCached: true
 
 secured: "rtRU7agzDZ5ll6C6rHhCf35W4pVwxt3bt7u+rRfODRqWVkh0V9bIPqHabPH3zIZpV4n2fFJL4NyAATu2vEDL/F1k5P4deb6pqM8AdnzkBNqiAKcIhUz0434VvS5Hbs9kPwXbktZUXCNiVMoQlw1ykbqvebFa6Hx93u+qs+D+uE0a+jx/No89DJ0/T8uE7UbLANGCARa9upChp7RXltPX550XWcGq7GHVQ6KpEHb1Gz5bQP6gEo+HZD/jWvzkh3endtDLoF4WGhfquCwcFcTjnxEORC4nq5NDBo6mTMwifP4V++ZU74nAddncMWHH3TzfWtDBj5ATK0a4kc8gV00Gk+q+VwdqEKoB7C6sL3xltvYj4lqfRTyYTc4Z1Ky5E4ygQVH00fr8k9HFypU12XvoS0SxiqT0WYOXhlkFqdouhSR+ru0iFT2ygcTuZFBLel1IosvFctm99tw2cDY+pno1L4W0gVCEq4LuO4fTbDh9hx496LhLSFgDtsXSjBbeEyDWDiiCLkw3uZ8BfWJo3RBleA==;luzk2MZsJJ25zXAjnHUkxg=="

@@ -2,28 +2,25 @@
 category: news
 title: "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers"
 excerpt: "Concept: San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers. TinyML is an ML technique that can be implemented in low-energy systems including sensors to perform automated ..."
-publishedDateTime: 2022-01-11T12:21:00Z
-originalUrl: "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
-webUrl: "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+publishedDateTime: 2022-01-11T12:23:00Z
+originalUrl: "https://www.just-drinks.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+webUrl: "https://www.just-drinks.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Companies
-  domain: just-style.com
+  name: Drinks
+  domain: just-drinks.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.just-style.com/wp-content/uploads/sites/34/2022/01/shutterstock_767487700.jpg"
+  - url: "https://www.just-drinks.com/wp-content/uploads/sites/36/2022/01/shutterstock_767487700.jpg"
     width: 500
     height: 277
     isCached: true
 
-secured: "tKdpeYdnX7fxySvuloF1YhyIq3pvO97ibjyuHl09qRsjQUHCHVggtHVIOsawW1QJDQ+U0NsOkCytzqfKkcIxQPdzhFr6l/ydoKm+AfstTfZ271nSF/xROKLIg8h9XSp6AwCkq3ayoigDXswRppvM/qOozgSfJyKHgrKmWue/c6JZaE3c0FwrFE6oRsjabfOgi539z655Uu2secdS3qi9tP5QnsktF1qTUzzmcn4v0vGCpmwgN04HGkRF2cIEWpxZKfGnZCTLG6iO5U12Cenrw2Q7Cm4CoTNzvde//KPluoGdUFTrysQYyPyXmhyPv+dnWW+Imon+LnZD7hu6EbRvYRvWBiKhuTZMdf4UlOVI1LM=;NqyaLQ+olvpY3i3t0VjAQw=="
+secured: "/B24k7ZtjQTxpJ0Zi6aiZ2ynw4ojeIBx2kqUD20fDXlMgdkTdwGEj47J9c38lBlGKaQEtn3uC/7giMv/Yndg6YlXiOV/M/fXRyaRudLCA06F8++HyG/2c6GkjwyrVNwrYBiFdTqMehQIiaAF3s7GqiUlQAj6+DbdHiPAqd0Q+st43p7tPWWb4REUqlkPlff/FWu51DoS0sivtrXw1NEGjvR2LYDbiaUO2nwdQL/NQ81RNC7uLW6astQdSoM8QZ+dRYkbWwnweX9v9RhJ1vwTQWG8saE2kR1XTn0/Z3BjkWrNVa1EF3/cRsvzTsLNC/fWO2XWxU7AdwAeDJQf1W0XsxESGtekxwdNe0Di/syAelM=;Y7+XHFeQSTfNOHSWGoHgxw=="
 ---
 

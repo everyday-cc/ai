@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-co
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/15/responsible-ai-will-give-you-a-competitive-advantage/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI Helps Sports Professionals Maintain a Competitive Edge"
-    excerpt: "Although it took a few years for professional sports to catch up with the world of finance, data analysis is now fundamental to many aspects of athletic endeavor."
-    publishedDateTime: 2022-01-11T11:28:00Z
-    webUrl: "https://www.azorobotics.com/Article.aspx?ArticleID=451"
-    ampWebUrl: "https://www.azorobotics.com/amp/article.aspx?ArticleID=451"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/article.aspx?ArticleID=451"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/Article_Images/ImageForArticle_451_16419002267984651.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "How Conversational AI Can Give Your Business A Competitive Edge"
     excerpt: "AI is transforming different aspects of running a business, including communication with customers. The need for offline call centers may soon decline, as"
     publishedDateTime: 2022-01-12T16:42:00Z

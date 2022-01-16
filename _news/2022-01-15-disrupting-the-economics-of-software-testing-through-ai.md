@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/test/disrupting-the-economics-of-software-test
 webUrl: "https://sdtimes.com/test/disrupting-the-economics-of-software-testing-through-ai/"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 917
     height: 611
     isCached: true
-
-related:
-  - title: "Humans are still significantly better at predicting the weather than AI"
-    excerpt: "Despite all the progress that has been made in the realm of technology, AI, and machine learning, weather companies have not yet handed over the keys"
-    publishedDateTime: 2022-01-11T11:13:00Z
-    webUrl: "https://www.techspot.com/news/92936-humans-significantly-better-predicting-weather-than-ai.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 87
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-10-image-37.jpg"
-        width: 2138
-        height: 1402
-        isCached: true
 
 secured: "A4lG7GIATPlATIwUfzUYDkhsMlx2ayjieb2/EhvwmkgPMhIio6nCrTNR20YBG/zZOkIRkDSOoOu3xqQeWiaoopzyO8BTQ1oIEgDakiZeTWe98JiUUtwIsmfnUqxdiFtD/ZoregzvHAdj2YwfK3iZd4/3vKHGfrQtXAuQ5kLRnSuU9GqBKab+33ik40rp+LZIN5sac1wQdeBxeOLF1qX8hOGcRt3C0DNs5egqhK8S+A4+sM9reQMuKMm6BPYLPwBiTTFTvu+U0+J/1bXmcK/SDbTxIYzpyfGXiKG5+bMwZ727VN5qbD4vMomU43FWIaTmOCDbA1l214SuA642c1ie5XwBROXzbu6ivPJgW3dkNij/llcHe1P3O0i+jOMFwS2Q8WKjT+R087Q423gJggUrrKmjGwj0uSlo3eAuz5aBq54W6A494+GOmryGOvvNB62RV3U8fod3ewJNd74MJclVCx8q6GusL9YuQ2gHe5AIrKEP9D3m1iK+49gbyu+v4X0nmVY6/mDUzc0OzMgIQy3Yzw==;0uSCYp2K/tz8uYQNxgkKig=="
 ---

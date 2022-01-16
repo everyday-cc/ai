@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-sta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
 type: article
 quality: 187
-heat: 327
+heat: 317
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://www.dqindia.com/wp-content/uploads/2021/09/AI-is-great-data-is-even-better1.jpg"
         width: 800
         height: 420
-        isCached: true
-  - title: "AI firm Fractal buys cloud and data player Neal Analytics for unknown sum"
-    excerpt: "Neal Analytics is a Microsoft Gold Consulting Partner supporting its cross-industry clients, such as PepsiCo and Microsoft, in their data-driven transformation initiatives"
-    publishedDateTime: 2022-01-11T11:14:00Z
-    webUrl: "https://www.business-standard.com/article/companies/ai-firm-fractal-buys-cloud-and-data-player-neal-analytics-for-unknown-sum-122011101029_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-firm-fractal-buys-cloud-and-data-player-neal-analytics-for-unknown-sum-122011101029_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-firm-fractal-buys-cloud-and-data-player-neal-analytics-for-unknown-sum-122011101029_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-07/09/full/1594315734-4321.jpg&width=1200"
-        width: 1200
-        height: 900
         isCached: true
   - title: "Location Analytics Platform Placer.ai Raises $100M in Series C Round"
     excerpt: "Placer.ai, a location analytics platform serving companies with data around consumer foot traffic, has raised $100 million in a Series C round."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-trade-could-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022?amp"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Global AI Regulation Could Come in 2022 With Broad Principles"
-    excerpt: "Regulating AI is complex, and it is very likely errors will be made. Pablo Molina, CISO at Drexel University says that this won´t keep regulators from adopting rules in 2022."
-    publishedDateTime: 2022-01-11T11:47:00Z
-    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2022/global-ai-regulation-could-come-in-2022-with-broad-principles/"
-    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2022/global-ai-regulation-could-come-in-2022-with-broad-principles/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2022/global-ai-regulation-could-come-in-2022-with-broad-principles/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 57
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Top AI Trends to expect in 2022"
     excerpt: "We live in an AI-driven world. Artificial intelligence (AI) has had a significant impact on the strengthening and transformation of industries all over the world. As we go deeper into a digitally altered society,"
     publishedDateTime: 2022-01-14T04:37:00Z

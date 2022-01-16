@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "AI firm Fractal buys cloud and data player Neal Analytics for unknown sum"
-    excerpt: "Neal Analytics is a Microsoft Gold Consulting Partner supporting its cross-industry clients, such as PepsiCo and Microsoft, in their data-driven transformation initiatives"
-    publishedDateTime: 2022-01-11T11:14:00Z
-    webUrl: "https://www.business-standard.com/article/companies/ai-firm-fractal-buys-cloud-and-data-player-neal-analytics-for-unknown-sum-122011101029_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/ai-firm-fractal-buys-cloud-and-data-player-neal-analytics-for-unknown-sum-122011101029_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/ai-firm-fractal-buys-cloud-and-data-player-neal-analytics-for-unknown-sum-122011101029_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 58
-    images:
-      - url: "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2020-07/09/full/1594315734-4321.jpg&width=1200"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Location Analytics Platform Placer.ai Raises $100M in Series C Round"
     excerpt: "Placer.ai, a location analytics platform serving companies with data around consumer foot traffic, has raised $100 million in a Series C round."
     publishedDateTime: 2022-01-13T03:43:00Z

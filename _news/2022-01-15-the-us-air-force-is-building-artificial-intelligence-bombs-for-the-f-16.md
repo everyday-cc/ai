@@ -7,8 +7,8 @@ originalUrl: "https://nationalinterest.org/blog/reboot/us-air-force-building-art
 webUrl: "https://nationalinterest.org/blog/reboot/us-air-force-building-artificial-intelligence-bombs-f-16-199358"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 71
+published: true
 
 provider:
   name: The National Interest
@@ -24,35 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Has AI found a treatment for Fragile X?"
-    excerpt: "What if AI can substantially speed it up? That's the premise of Quris, an artificial intelligence company hoping to disrupt the pharmaceutical arena. The company just announced the final close of $28 million in seed funding to support its clinical prediction platform."
-    publishedDateTime: 2022-01-11T12:00:00Z
-    webUrl: "https://www.zdnet.com/article/has-ai-found-a-treatment-for-fragile-x/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/has-ai-found-a-treatment-for-fragile-x/"
+  - title: "The Manufacturing World Is Ready for Open-Source AI"
+    excerpt: "One might assume that artificial intelligence can be easily applied to industrial manufacturing. This is unfortunately not the case."
+    publishedDateTime: 2022-01-12T12:32:00Z
+    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34308-the-manufacturing-world-is-ready-for-a-wordpress-for-ai"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 37
     images:
-      - url: "https://www.zdnet.com/a/img/resize/a735ce92987d1c2468957f5b2ba40babd8f10947/2022/01/10/774ba7aa-3d2e-48aa-a3e0-4f7599319aaa/fragile-x.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 675
+      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2022/0111_code.png?height=635&t=1641960813&width=1200"
+        width: 847
+        height: 635
         isCached: true
-  - title: "AI trends for 2022"
-    excerpt: "Artificial Intelligence with more funding, government incentivised research and tech companies accelerating growth in this space, writes Andrew Yan-Tak Ng, a computer scientist and technology entrepre"
-    publishedDateTime: 2022-01-15T18:32:00Z
-    webUrl: "https://www.dailypioneer.com/2022/sunday-edition/ai-trends-for-2022.html"
+  - title: "Using AI for Real-Time Engineering Decisions"
+    excerpt: "MathWorks’ Heather Gorr explains how engineers can apply artificial intelligence to real-time engineering decisions, as well as the issues involving data synchronization."
+    publishedDateTime: 2022-01-12T16:41:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21213913/electronic-design-using-ai-for-realtime-engineering-decisions"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 41
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 37
     images:
-      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/ai-trends-for-2022-2022-01-16.jpg"
-        width: 1000
-        height: 800
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/01/AI_engineering_promo.61df026b7f048.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "NaOS+iUZ7UrMx7YHzBLfh7RuoHXj7ieIAIxnEUu5gxeVDS+ws5W+wn6tqN4feM3gNHgT5V6eRS1B5ECpT+8l6N/t80ngV7ZwDiCvH7aJfGBMFdaeMpwDhgHDUUyv2W5CArMPkCAVNImD0fVe/BRyad6z5yKO2eMjy0dvQlf9qX8aPiheeFkwi3jEf3ERE6HWsIwZJYtnpE0GnVWKVkLmE1tuEqwL7m64Vv1RoRIHYx4W/YnBCC1/DVw4XPrHbJyyDrYCjUnJDgJyGaT7MZOF8l0416DR2qX1LUYUTf7YLB8C60rYdQNn9Ay2dW2ggcY2/NgCz04gRoxMnoI5cY8TBjvSOxr/s3JFxLuFVUaXZcQ=;QC7jFgXfHZbZfrCKH+PZ+w=="

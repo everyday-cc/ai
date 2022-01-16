@@ -30,6 +30,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "AI and Marketing: 2022 and Beyond"
+    excerpt: "The Future of Artificial Intelligence in Marketing Artificial intelligence has already made significant strides in the realm of self-driving cars, but what role will it play in marketing? A recent sur"
+    publishedDateTime: 2022-01-15T01:55:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-marketing-2022-beyond-michael-paul"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFkMFg6Inus8Q/article-cover_image-shrink_720_1280/0/1642211702252?e=1648080000&v=beta&t=gdC_Xnatd8xBRKqzZLoGYT42Y_9WgA1E2Xjh9e5uNtk"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3f67t+tSBiKcCNb82lD3YZyVKqNsaeLdxRZPtGlLGrZq472oyLZJJjV6V0/IoN/Sxq8KYBzrjt9mwWkUmIOw4OHdWOMSbCdPRSYLYBJS3vIrbLFJBhvB6SUXI7v9BkWI6ZrjxOOlSbbTmbmN7+sp3ntQkCxo9CNN65iAbtTMk/f8BYXRrq9vPl1ji4BZNPT0uyNRer18kNFebY0T9VouibrlxceOOQdKTLIRb/DZh2t1JsXzXN57ZH/cCHsmNi+Ad7lSdGxhLcD/oXUegDJh9Z/nT1N3Nz00ZwtAIdY9JHcT50IhR2+tCRoBELaM/Xw4TEVmElmgU6XypYjA+m+IYD96j1nyQv1F7GN0znlwmyKQbmS5TeT19nRpYXpv4gVLzvjMYqCZXSkt/w/jPPFaTdcm6+zkCin+1F8iOw0jjN6XJOoZ95SrmivGeopq6Aivu8I9fIjnWx3bilreXVD0ew4aciZ5q3tvJobqUw2/KQLdqgaf0xqqphbuVwLyHj/QKLdqzef2KJKjjBDcc28jTA==;y1w1I8ghg0MN+wDGm96Zyw=="
 ---

@@ -1,24 +1,29 @@
 ---
 category: news
 title: "The Carl Kruse Blog Invites Everyone To SETI Chat: Artificial Intelligence, Augmenting Humanity For Good"
-excerpt: "An upcoming discussion on artificial intelligence and its effects on humanity. MIAMI (PRWEB) January 15, 2022 Artificial intelligence (AI) is a technological"
-publishedDateTime: 2022-01-15T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/p25067296/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/p25067296/the-carl-kruse-blog-invites-everyone-to-seti-chat-artificial-intelligence-augmenting-humanity-for-"
-ampWebUrl: "https://www.benzinga.com/amp/content/25067296"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25067296"
+excerpt: "Artificial intelligence (AI) is a technological breakthrough enabling algorithms to absorb and understand data, as well as learn on its own. Many human tasks have been automated by well-trained AI, which can perform repetitive activities far"
+publishedDateTime: 2022-01-15T17:10:00Z
+originalUrl: "https://www.lelezard.com/en/news-20193949.html"
+webUrl: "https://www.lelezard.com/en/news-20193949.html"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Le Lézard
+  domain: lelezard.com
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "FGNq4mYceSPcd9PcV1jH8i6MPHYGpjP/h22tXa6ruMkTvMexWx3NQ6arfPXzung/RlD71fxn8UZKWoKrf0ASL8fXvkSoOC4WV3IdybIfhFWQjtm14c3SYJViD9oudGErU8WivDB2lRoe08n/jcL7u850nCj7alaSTTZMo79I2ap3gu2P71VvPAkDpRIY/ZhPrpDlBwvJ6hRSP6i/QPE1F1Zm6T7GzxxkyadIHROKWtBIoWscO+0UvUP9NZi1dtKMc/KOoLx9+oyWuLzR+q44PVGC+oy1jOAeXfIFp6nRIm244F1HdrzX1TtkisbOhpijzHDPNfrp4ggidR8gbrmetRGW8OMjg5IrCCCT5MckkDM=;hQQTUo+3kBdqNVvRo2AIaQ=="
+images:
+  - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "9IUX/0TTDfv+jrD/7EqQUkL1q9UHsbZbnxeGqatLgxbcklQrsKfN9iWj2LIEOTRgBBbQ6DuTeBNUIoAsjc9XS84ae3Dm/VKCA/WYWbHEFO54i2q9W2+JwHV30gZHNp4tqcJ3AFrPSEIlssgWbk9o1R+rQrAClYzYZ7FwwueiOgQgD+DirYUeRYOKFvFvQUBg57oM96m5O3uo+58K4NxIKnwiTaKy6a8HbifT2FtuYLhY+U5p6uaKV2hHxM2JCiqXB41dR45lT5zagNh5Vu/pexJAc+jHyRZ/mNSCOEjWSNvA2sdUqvwa+8ejv165bHTNGCfwkuRLPNXD4DL6WYVnWaWkfEvjiA29fIziPt4EAeA=;YHW/VPMMkOwNaZ/ijQyFbw=="
 ---
 
