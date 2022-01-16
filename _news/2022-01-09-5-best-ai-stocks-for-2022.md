@@ -1,10 +1,10 @@
 ---
 category: news
 title: "5 Best AI Stocks for 2022"
-excerpt: "In this article, we will take a look at the 5 best AI stocks for 2022. If you want our detailed analysis of these stocks, go directly to the 10 Best AI Stocks for 2022. Graphics chip giant NVIDIA Corporation (NASDAQ:NVDA) is one of the best AI stocks for 2022."
+excerpt: "(NASDAQ:GOOGL) develops a wide range of AI products and services, including its self-driving car company, Waymo. It’s behind DeepMind, and Google Duplex, an AI voice interface. In early November, Alphabet Inc."
 publishedDateTime: 2022-01-08T20:10:00Z
-originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/"
-webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/"
+originalUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
+webUrl: "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/2/"
 type: article
 
 provider:
@@ -12,7 +12,7 @@ provider:
   domain: insidermonkey.com
 
 topics:
-  - AI Hardware
+  - Google AI
   - AI
 
 images:
@@ -21,6 +21,6 @@ images:
     height: 1044
     isCached: true
 
-secured: "PLM0lUY+2+mBTaDPbAXPLjdw6iQV7dbSgcWhKLxSxp3eAdNKdjmW2gTzIP5s65IkjQ1yB0v2mlTfCpzzvW/LB4XjKyxU+HUnCiPG4DzglDioFAjOUk8VaErWyEVzO1BQDEI4e82ZM53EiuQuxFq7quETnofhrtIMM2q0AWVbnhnC1HJC6K445EP+dcFp9lxDKlOn13lyvD1RVnYrH8izPJYqH6YwXQIjybZPiOmkikslp9kkeuSyTSKEKNNeDpTS4rgG+jHxvyDE7yd9jx4BkkUcTsNdnKLJXvgSyDKKJbBzaCBTirix7QP4aFHWKEV5fFZaqYCrv5WWJlId3mDYMB0FkKLq0uWgbtu5z8Bhmjs=;U6bgy71zUtY/8Uw6HMwjrA=="
+secured: "WUrdt7/p3TN+31Qy+Jt2n7OWU/KzHfOMsHtz19DtRc9o2zMUP3nqafE+vuWLNQxYbMyrdumKhx5m4oooB/z/hraWm6KWFJ+w9EkDPJJ3zTCqq4FoJ24QQ8lr2F5kkTT1z139Rok2dodW3U8/VEqTv7zeqyyzC4wC/PNiHX15MRaJbdom8URt7LPh1UYoURXttb4kBtyow1Rde1uzun1IaNUn1MBNKwLljVZnFZkWPo1Ued1Ruk7eMl1nT7zJi8gukjjXRntRfeqmJQeIniq7IRXvnXnLrnfVcH4x9z6kyYIfyDqvREqahnhwyjIzAfDOD/SvEIUrZDPJkqg7oMNVQyZS/X4WaUNbCbrzC9LIzbc=;DfO63NxrPi0JdlCMGwp21w=="
 ---
 

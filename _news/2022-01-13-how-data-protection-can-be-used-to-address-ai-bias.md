@@ -27,20 +27,6 @@ images:
 related:
   - title: "Proofpoint Acquires AI-Based Data Protection Startup Dathena"
     excerpt: "Proofpoint, which was acquired by private equity firm Thoma Bravo in 2021, has merged with Dathena, a New York-based AI data protection platform. Dathena's platform"
-    publishedDateTime: 2022-01-12T00:00:00Z
-    webUrl: "https://www.databreachtoday.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300"
-    type: article
-    provider:
-      name: DataBreachToday
-      domain: databreachtoday.com
-    quality: 37
-    images:
-      - url: "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-showcase_image-4-a-18300.jpg"
-        width: 860
-        height: 520
-        isCached: true
-  - title: "Proofpoint Acquires AI-Based Data Protection Startup Dathena"
-    excerpt: "Proofpoint, which was acquired by private equity firm Thoma Bravo in 2021, has merged with Dathena, a New York-based AI data protection platform. Dathena's platform"
     publishedDateTime: 2022-01-12T23:15:00Z
     webUrl: "https://www.govinfosecurity.com/proofpoint-acquires-ai-based-data-protection-startup-dathena-a-18300"
     type: article

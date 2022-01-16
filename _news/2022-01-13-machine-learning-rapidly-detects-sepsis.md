@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence used to detect sepsis quicker, 'dramatically' reducing risk of death: B.C. research"
-    excerpt: "Researchers out of the University of British Columbia have found that artificial intelligence can detect sepsis quicker."
-    publishedDateTime: 2022-01-11T23:26:00Z
-    webUrl: "https://bc.ctvnews.ca/artificial-intelligence-used-to-detect-sepsis-quicker-dramatically-reducing-risk-of-death-b-c-research-1.5736181"
-    ampWebUrl: "https://beta.ctvnews.ca/local/british-columbia/2022/1/11/1_5736181.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2022/1/11/1_5736181.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 41
-    images:
-      - url: "https://beta.ctvnews.ca/local/british-columbia/2022/1/11/1_5736181/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-        width: 1020
-        height: 574
-        isCached: true
 
 secured: "OdfEtw+7rImSSGDXqGqqTevGpFVFfOn4o/UEp4zz5nCjd25MNW4zNq9ambdYhTiLJtpGMlVSdmt4QbYZnPaiid43BbVc5C8ObOcvI0CubYuqEBfs2JKHuQNpLVvQH8QnEW2N94UaTi9lIcBUp/0159diWpepMeT6cTg72lR8M0d/6FpPW1MZaKtRrPzmDJS/h/6LsgYGSpC+f3fbec6eOhGiLK4VZuLOupVU7D4bAASJHZvoXUSMsgXs5kgyp1KCo/3jjuoxU3k5a6QJedrQnpIuM8wBg7geahRm1CxiI1jgmJBjHxxeIz/tVK7ilMYa9X+gCxdLbgLrakf6wOQNe9g03WksdAlCUX4SwAB9C3NPCvnY4hqXmfYRvHHyoGGAVpAvSWZYpl6uMehAWVQm19A0zbINcPUY3Asspq9VCr3XZzjhWk3sZx0VB/YlP9Lv7KkyC8aKdW3iAu7T/aK/++HAGtKg9ioz5TIALqcFoYx/mjr5IAO+hCyKLO328pe5eThQFWEw/tTfTRYNKjE3eg==;mge9vXEPJsjpZ4vGe6aJqA=="
 ---
