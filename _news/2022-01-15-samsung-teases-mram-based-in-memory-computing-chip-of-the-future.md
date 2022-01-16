@@ -111,20 +111,6 @@ related:
         width: 1129
         height: 720
         isCached: true
-  - title: "Samsung’s C-Lab Incubator Champions the 2022 Startup Ecosystem"
-    excerpt: "From a Bluetooth-compatible braille device to an LED-guided smart guitar, the entrepreneurs of Samsung's C-Lab are gearing up for CES 2022."
-    publishedDateTime: 2022-01-11T18:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/samsungs-c-lab-incubator-champions-2022-startup-ecosystem/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 22
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Petnow.jpg"
-        width: 700
-        height: 325
-        isCached: true
 
 secured: "UqBcaMzJh6TQ3ZKFThzkD5at5s9Ub4g/wRApUWFryl/h4wgtGztXJ3GZOHbN/yRReWPxDZx814sv/VLMe3Rj3zrYX4DiEF8677H8D2lfojd86z6++9eCnVagZgFTDZ3//qShEbewP6QLucjeN6wYdLBfvS0+XV6pfopnd8dyQB4paaamKhEDW7z+88iXOU3hKfhBWAdP4XJKRSqWLuwlgliEPeOo7nEgsReIlnKR1udBaN8F23cZxWLQiPNHKH+gm/h3EJRJqfbcX+TgvJ6KnjKagyqWjcUU2ABfMYdKqRSuN7vH3o5xZ/MMjL7/G+Z/u8zj8Ylm0kXfxjHoVXTJ7/Bn5dwswh2llnNh9rMi128=;ZAgET0uZcxKh++nadIV+fg=="
 ---

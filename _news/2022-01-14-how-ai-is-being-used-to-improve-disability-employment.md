@@ -35,20 +35,6 @@ related:
         width: 800
         height: 430
         isCached: true
-  - title: "4 ways artificial intelligence is improving mental health therapy"
-    excerpt: "With an increased demand for services and workloads stretched, using AI within mental health services could be a game-changer."
-    publishedDateTime: 2022-01-11T17:57:00Z
-    webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
-    type: article
-    provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 56
-    images:
-      - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
-        width: 4098
-        height: 2304
-        isCached: true
 
 secured: "eqrmuLx6iy1VEI+IWnbog50CsnvbdPVPiNbpUbuwqKe6366mdz/O4lYMigP/6nihDr+AjkK9rYvHw//Q4zLZXsKqRJD6n6lgtr7ZotEMyh4H0VBHXNceQv6rguUk6sd+h1vFmZRliK8xVj6muAVWNklwF47W9eGA4WWoASO6PO1A0WMMWNms0rUy+66gO2hqwJM+Thqoq/PzUFyH06kr+eklA9OWvr7SfPI+nNNI4XZ9MOoHTybFUI5SMPSsdLV3lYcH5QsZFT/9oLY32ETl744eVRUNoWMdJEyPozC5Iklq8K3lSqSs+XEEZP8we7mxq5r1RgA/P8ZyGp3NIl+Df/k3HyyyfIvR8tQ5qSjQQbI=;iu27sack+gliw3LU/Vwgkw=="
 ---

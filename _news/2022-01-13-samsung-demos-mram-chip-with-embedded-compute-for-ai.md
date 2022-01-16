@@ -104,20 +104,6 @@ related:
         width: 1129
         height: 720
         isCached: true
-  - title: "Samsung’s C-Lab Incubator Champions the 2022 Startup Ecosystem"
-    excerpt: "From a Bluetooth-compatible braille device to an LED-guided smart guitar, the entrepreneurs of Samsung's C-Lab are gearing up for CES 2022."
-    publishedDateTime: 2022-01-11T18:00:00Z
-    webUrl: "https://www.allaboutcircuits.com/news/samsungs-c-lab-incubator-champions-2022-startup-ecosystem/"
-    type: article
-    provider:
-      name: All About Circuits
-      domain: allaboutcircuits.com
-    quality: 22
-    images:
-      - url: "https://www.allaboutcircuits.com/uploads/thumbnails/Petnow.jpg"
-        width: 700
-        height: 325
-        isCached: true
   - title: "Samsung teases MRAM-based in-memory computing chip of the future"
     excerpt: "Samsung unveils in-memory computing device based on MRAM technology (Magnetoresistive Random Access Memory), new MRAM cells."
     publishedDateTime: 2022-01-15T01:30:00Z

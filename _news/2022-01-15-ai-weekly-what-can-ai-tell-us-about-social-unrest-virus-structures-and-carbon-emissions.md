@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-abo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

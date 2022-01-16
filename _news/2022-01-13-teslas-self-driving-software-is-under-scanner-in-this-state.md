@@ -9,8 +9,8 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-softwa
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Restores Its 'Assertive' Self-Driving Mode"
-    excerpt: "Free-Photos / Pixabay Tesla Inc (NASDAQ:TSLA) has reinstated the“assertive” self-driving mode. The company had issued an update in October"
-    publishedDateTime: 2022-01-11T18:40:00Z
-    webUrl: "https://menafn.com/1103522257/Tesla-Restores-Its-Assertive-Self-Driving-Mode&source=22"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/11/V_c159aimage_story.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "California reviews whether Tesla's self-driving tests require regulatory oversight"
     excerpt: "State regulator cites \"videos showing a dangerous use of that technology\" and federal investigations into Tesla vehicle crashes."
     publishedDateTime: 2022-01-12T21:06:00Z

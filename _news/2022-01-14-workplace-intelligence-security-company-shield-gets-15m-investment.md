@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "MOSTLY AI Secures $25M in Series B Funding for Its Synthetic Data Platform"
+    excerpt: "MOSTLY AI has raised $25 million in Series B funding to advance its artificial intelligence synthetic data platform in a round led by Molten Ventures."
+    publishedDateTime: 2022-01-11T22:18:00Z
+    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2022/mostly-ai-secures-25m-in-series-b-funding-for-its-synthetic-data-platform/"
+    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2022/mostly-ai-secures-25m-in-series-b-funding-for-its-synthetic-data-platform/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2022/mostly-ai-secures-25m-in-series-b-funding-for-its-synthetic-data-platform/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 55
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/investment-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
 
 secured: "YVx4lGHlSD8A+8t53/akn+7oSzC7e/3ldI9rKltOAIbPEcWOxFZNjyvHli5wYcFUFsrktbk2ijpiKOM53o4uHmebyr0Yc1S2DVBNVuiXSYBf4D/+6VFPIoCHxHhlan4a2pLEJmV/9VFAFKe5nWh8SE+NtfXLivP8DRAuSu0wxqPC1Jasbo3idgCCpCx4pl9+SFNp2oYAVWm4JbO3aUkpJ5H1xLU7gwz1zkVVx232mFHA6NG2cClwZXGDd/OYnUSbHwxNEv7dGsX3mcAc1EBw5jQKayPnh0j/AxdEVUFFZH+2EgiR+DujheR9TFefGvHlwENmT12OjbSTibypEDa1hpAdOmKw1opFwjxXiCpaxVU=;meFLvzgF2u5epsc5oxABCA=="
 ---

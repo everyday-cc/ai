@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-addres
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/13/shield-bags-15m-series-a-to-address-surging-demand-for-its-ai-powered-communication-compliance-platform/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
     quality: 59
     images:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/investments-funding-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "MOSTLY AI Secures $25M in Series B Funding for Its Synthetic Data Platform"
+    excerpt: "MOSTLY AI has raised $25 million in Series B funding to advance its artificial intelligence synthetic data platform in a round led by Molten Ventures."
+    publishedDateTime: 2022-01-11T22:18:00Z
+    webUrl: "https://www.pymnts.com/artificial-intelligence-2/2022/mostly-ai-secures-25m-in-series-b-funding-for-its-synthetic-data-platform/"
+    ampWebUrl: "https://www.pymnts.com/artificial-intelligence-2/2022/mostly-ai-secures-25m-in-series-b-funding-for-its-synthetic-data-platform/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/artificial-intelligence-2/2022/mostly-ai-secures-25m-in-series-b-funding-for-its-synthetic-data-platform/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 55
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/investment-457x274.jpg"
         width: 457
         height: 274
         isCached: true

@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "The Fintech Ecosystem in Jersey: Interview With Amy Bryant"
-    excerpt: "A special interview with Amy Bryant, Deputy CEO of Jersey Finance on the importance of fintech and how Jersey is growing to meet this demand"
-    publishedDateTime: 2022-01-11T17:13:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-ecosystem-jersey-interview-amy-bryant"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/DemoDay%20-%20Amy%20Intro.jpg.png?itok=C_xELvbZ"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top 5 Fintech Trends to Watch in 2022"
     excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
     publishedDateTime: 2022-01-14T08:03:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/01/12/ai-powered-transcription-platform-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/ai-powered-transcription-platform-deepscribe-raises-30m-to-unburden-doctors-from-tedious-data-entry/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: TechCrunch
@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "DeepScribe Raises $30M To Become First Widely Accepted Application of Voice + AI in Healthcare"
-    excerpt: "Press Release DeepScribe, the first widely accepted application of voice and AI technology in healthcare, announced today that it has raised $30 million led by Nina Achadjian at Index Ventures, with participation from Alex Wang,"
-    publishedDateTime: 2022-01-11T17:25:00Z
-    webUrl: "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/"
-    ampWebUrl: "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/amp/"
+  - title: "Distributed machine learning startup Boosted.ai raises $35M"
+    excerpt: "Distributed machine learning startup Boosted.ai revealed today it has raised $35 million in new funding to scale up its web-based platform that brings explainable machine learning tools to investment managers."
+    publishedDateTime: 2022-01-13T01:49:00Z
+    webUrl: "https://siliconangle.com/2022/01/12/distributed-machine-learning-startup-boosted-ai-raises-35m/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 92
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://i0.wp.com/mms.businesswire.com/media/20220111005911/en/1325062/4/Deepscribe-22.jpg?strip=all&ssl=1"
-        width: 480
-        height: 321
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/boostedai.png"
+        width: 722
+        height: 366
         isCached: true
 
 secured: "vnTIuliMQG0vQAcXHiOvN+JkT3VOV9O0xjivXp1yTjc4RFCHDAU8u0YX3Bnh+Y3K4OmSijWrgC5a3h5xqSR1Q8qbeETpVGMJ9wMokI4XOR2DmUdB/e1AwktnbuK/0Bt0IQZyrZd7N7xOtGGD4Qk+Ttkhw/t7+CaeZ0C6j/GGwbLhBIxF5VkRuuxRqc6qZNwsaNmTKtQleLEczdyJ0t9/Ed3A3Rin24fJMOVNQU9OIjpwgffaTwlIufNZjHluBob5vuW6wJZBNom1kERCiCUXI3lv6+1K+FCQhzwKPeY1c/tBMIqUsq5CGw7EoCHDUU10NIy/kuDh77N2XQHzZwH1tAy+q930wz11dfisWHtI1fAjy3MyxTbmZ44QQUOVBtEkHLl6bd+DA7ypXAZP3Ztzg6+ZsqHsOfUKGyJsnF1dlAkUa2/7qSPMkbeLv2oxCBpz/g9eqD3tfpYa1Wlig9QEn4LFjfmHvuUigRsrsiPU9nxUfIOCv3TrzaXyB9rKrCCRoZP45k8CBBzv3MEVdQ4kIg==;Ia8z4wpsV/rBk/Y3h0jVXg=="

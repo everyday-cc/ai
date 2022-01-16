@@ -41,21 +41,7 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "These Are the Five Covid-Driven A.I. Trends That Are Changing Healthcare"
-    excerpt: "For all of its ills, Covid-19 has supercharged consumerism in America's healthcare system, offering tantalizing opportunities for companies interested in lowering health care costs and increasing access to quality medical care."
-    publishedDateTime: 2022-01-11T18:07:00Z
-    webUrl: "https://www.inc.com/melissa-angell/artificial-intelligence-driving-health-trends-coronavirus-healthcare.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 38
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1284045256_492187_y9ozvu.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
-secured: "yJczbehVX+9gLU335MYjV8McRTy0LgRRDUiFAey4VXz9fg49Zf/phVH5Cc/M048cEumhn7D92Q/q8Y78Xl3MrDThu89c2nKMGUIzFpXFKk1RWAnfz3kkEssTVWhRCPsE1xBJdzzUF/mC9WVYMTTU5LVaqizaNAI7J+/TJ4saSAN4zvJnxIQeBKX6WKJ0AN63LhTpc/vOLUlY+YaoW41olmp4vL0gSC12G5FhTQzRKomEUkMYEFdrBpfsQH0EL7ypP8iW/mX78SWbj99DeALVWF/fo2bMuemX0mXN+xu58TLRMWrerIJnRHWr5vYJR3s62bQBxfP2B2pXDf2ZTemstL6YKoDn3kEHHB0yWgn5J0A=;MF7sRAIC7t/ca3/aZmdHig=="
+secured: "3W+NKlSd8RNbMWM0fPKuSgZbhwfBZ2Nw/pqJZPH4qtpIXOcp7wYuPHBbT650+j/SL/8CmBXha/P4DuAJhxtW4SaloXTgogQRm/qWqiF9ly5pc67yIdUAsreSnj4j1XLcy+MxEq0s5jzyzLP8ACXadKC7htAl/Yhr3Eldku8aIsvDjA52BEspYKycIZd2CF0eNx0+QR2wChfCcitgH3UeoI4vQFOOd7UXnURtuWcyrI2Yo4BHd9RAbCTLtPkL4W/SjDxJmnZOlXAfZjU/ceuCxe5ZofAc+C7OCupKNmwNvjyP41DMZqKNojxj8ok8NvQZXcI76gv10pPr+lrvyCzvIJQOlsCEX+3qJ2bM3qHfGHnJ5qAAXG0YD++PItkm5+EoTVZXIgDk/LjyvifuSqZnJSJ+cuR7FvIrhhjjEQ29Fm4laawjw0VBXKNoKizMZh/5t7mi6NKW9J+Vlw2W8Ut8hV8iMlVl5+62TdI23VgfnWmvzhl5huRyU1VpBavNegU8X7jZm6WB5qCrd+3PekrG4Q==;066QaU19Bb8hcz3mYBn3lw=="
 ---
 

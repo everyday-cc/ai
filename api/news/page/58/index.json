@@ -2,6 +2,49 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2021-11-30-cyber-monday-shark-deal-save-50-off-av1010ae-iq-robot-vacuum-with-xl-self-empty-base.md",
+      "title": "Cyber Monday Shark Deal: Save 50% Off AV1010AE IQ Robot Vacuum with XL Self-Empty Base",
+      "excerpt": "You can also control your Shark ... bin after each session (both robot vacs do that for you), the dust and dirt around your home will be the last thing on your mind. We recommend both vacuum ...",
+      "sourceUrl": null,
+      "webUrl": "https://heavy.com/deals/shark-iq-robot-vacuum-cyber-monday-deal/",
+      "originalUrl": "https://heavy.com/deals/shark-iq-robot-vacuum-cyber-monday-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://heavy.com/wp-content/uploads/2021/06/Shark-AV1010AE-IQ-Robot-Vacuum-with-XL-Self-Empty-Base.jpg?quality=65&strip=all",
+          "width": 780,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://heavy.com/deals/shark-iq-robot-vacuum-cyber-monday-deal/amp/",
+      "cdnAmpWebUrl": "https://heavy-com.cdn.ampproject.org/c/s/heavy.com/deals/shark-iq-robot-vacuum-cyber-monday-deal/amp/",
+      "publishedDateTime": "2021-11-30T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Heavy.com",
+        "domain": "heavy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-30-aig-selects-aws-as-its-preferred-public-cloud-provider.md",
       "title": "AIG Selects AWS as Its Preferred Public Cloud Provider",
       "excerpt": "(NYSE: AIG), a leading global insurance company, has selected AWS as its preferred public cloud provider. The global insurance provider chose AWS for its proven reliability, security, and comprehensive set of cloud capabilities.",
@@ -1097,59 +1140,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2021-11-30-how-hiya-taps-ai-to-kill-phone-spam.md",
-      "title": "How Hiya taps AI to kill phone spam",
-      "excerpt": "The company claims its new adaptive AI is much more effective than conventional tactics that only react to known numbers for phone spam.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/",
-      "originalUrl": "https://venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1329425423-e1638200728634.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/11/29/how-hiya-taps-ai-to-kill-phone-spam/amp/",
-      "publishedDateTime": "2021-11-29T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

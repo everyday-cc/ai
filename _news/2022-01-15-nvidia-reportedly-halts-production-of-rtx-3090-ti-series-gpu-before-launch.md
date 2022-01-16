@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techworm.net/2022/01/nvidia-production-rtx-3090-ti-serie
 cdnAmpWebUrl: "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2022/01/nvidia-production-rtx-3090-ti-series.html/amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "NVIDIA Just Launched A Burlier GeForce RTX 3080 GPU And It Doesn't Just Have More Memory"
-    excerpt: "There's now officially an upgraded version of the GeForce RTX 3080 with more CUDA cores, more memory, and of course a higher price tag."
-    publishedDateTime: 2022-01-11T17:19:00Z
-    webUrl: "https://hothardware.com/news/nvidia-geforce-rtx-3080-gpu-more-memory"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-geforce-rtx-3080-gpu-more-memory"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-geforce-rtx-3080-gpu-more-memory"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 50
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/57338/content/GeForce_RTX_3080.jpg"
-        width: 708
-        height: 398
-        isCached: true
 
 secured: "TWKWXnIu5UP+2qkixJCVjomAiT3k9Y6IhH2FiNpuktr1ZdFv33glNTz+/jVvSwrEIkE+PpMCX7OVnybUwX4c44Z9mgMoQ9RWgUtFCHXrq8U9eAa+Qc9HMusgkX07RVHv59JkgfCjQqF3Rlc2eti9ITAhvbQYVM/1f9BGOVJaI0DtZ8SrdudE8H/8dF4SbQOBUJ/0V+MhRLoEz89Ctug/kuuswWU4bCm6CoMYULOivXSrqpdCRLOhK3lOQf2C033d2/fcqbbseQ7v3vxjggm0dGUgpqQI4T2ty92a350RomcpU59L7RM71W3b2QOodoLRNsWkjCGTPkWTtZSfgr2HOq7eUB9/AFcMhVZHx3aK6mZ6UFrjoaBJ/ru1BP6vI3tXJoDheYBHZUM4vASM/hd4opHrN83gpOB/FN0JVM4fkhOD1x++62jCA7pqmFt3wlKHMsEu0Csd1Zv6guPJTDQR3U/W2H7UpeCTyuhi9+sbC0wc1TrPqrU+uwmtlfeuQe+DB7SQQxjj4uNGDa/TnTFziQ==;24gNARtThH+3BySxmYD7UA=="
 ---

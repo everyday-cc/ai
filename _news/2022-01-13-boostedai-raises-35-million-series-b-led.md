@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Distributed machine learning startup Boosted.ai raises $35M"
-    excerpt: "Distributed machine learning startup Boosted.ai revealed today it has raised $35 million in new funding to scale up its web-based platform that brings explainable machine learning tools to investment managers."
-    publishedDateTime: 2022-01-13T01:49:00Z
-    webUrl: "https://siliconangle.com/2022/01/12/distributed-machine-learning-startup-boosted-ai-raises-35m/"
+  - title: "Less than half of radiology departments surveyed offer AI-related educational initiatives"
+    excerpt: "Less than half of radiology departments offer artificial intelligence-related educational initiatives, with even fewer employing formal AI leaders, according to new research published Tuesday. Imaging has seen considerable interest in AI and particularly deep learning in recent years,"
+    publishedDateTime: 2022-01-12T08:28:00Z
+    webUrl: "https://www.radiologybusiness.com/topics/artificial-intelligence/radiology-departments-ai-artificial-intelligence-education"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
+      name: Radiology Business
+      domain: radiologybusiness.com
+    quality: 28
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/05/boostedai.png"
-        width: 722
-        height: 366
+      - url: "https://www.radiologybusiness.com/sites/default/files/styles/facebook/public/2018-07/istock-670825168_super.jpg?itok=AYxcCgNC"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "+AJawduvrmmYqsPQ3TSNnvR60wbR7yxTgN1+PXJtzuHGWFEZqzGMyUD+5obFIorScLfFqZDdxLo83wsctoc/NC5VFyPz3Vpu22ZEEi5T5JtX86WS9tNN7JiHk+ep+B5EMHJoAOZB+Lqy0M8naGT9JqzWSSh7iQ76RzNY5fIZ93aTJ92SH2OuSLgW5rQHA8mYpbIirzinnEHYUPmhXvrAUx1RB9BTSEKQvOUw6SUk1yPPyCWbOVvjXiKYG85bHffD9qv2B/HM7jI+tZZhCswqjIWrqyiZfmT57b4Nw6DN2PQ5WRCbAnXIrm8y+tjmMjnPbNBywhdn+sZPNanyV2GuckLDDBYhAjxp4xbE2Aj5mgg=;U85zolLd4vxgc7T/mpCm/Q=="

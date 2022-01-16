@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "The Fintech Ecosystem in Jersey: Interview With Amy Bryant"
-    excerpt: "A special interview with Amy Bryant, Deputy CEO of Jersey Finance on the importance of fintech and how Jersey is growing to meet this demand"
-    publishedDateTime: 2022-01-11T17:13:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-ecosystem-jersey-interview-amy-bryant"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://fintechmagazine.com/sites/default/files/styles/og_image/public/image/DemoDay%20-%20Amy%20Intro.jpg.png?itok=C_xELvbZ"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "TOP CHALLENGES FOR THE FINTECH 2020 – 2022"
     excerpt: "More than a year ago, we published an article about challenges, the fintech faced in 2020. There was a first year of radical changes in the fintech industry due to the first pandemic hit."
     publishedDateTime: 2022-01-13T17:29:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "4 ways artificial intelligence is improving mental health therapy"
-    excerpt: "With an increased demand for services and workloads stretched, using AI within mental health services could be a game-changer."
-    publishedDateTime: 2022-01-11T17:57:00Z
-    webUrl: "https://bigthink.com/neuropsych/artificial-intelligence-mental-health/"
-    type: article
-    provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 56
-    images:
-      - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
-        width: 4098
-        height: 2304
-        isCached: true
   - title: "How AI is being used to improve disability employment"
     excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"
     publishedDateTime: 2022-01-13T17:57:00Z
