@@ -2,99 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2021-12-17-artificial-intelligence-accurately-predicts-who-will-develop-dementia-in-two-years.md",
-      "title": "Artificial intelligence accurately predicts who will develop dementia in two years",
-      "excerpt": "Artificial intelligence can predict which people who attend memory clinics will develop dementia within two years with 92 percent accuracy, a largescale new study has concluded.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.html",
-      "originalUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/dementia.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2021-12-artificial-intelligence-accurately-dementia-years.amp",
-      "publishedDateTime": "2021-12-16T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-continual-raises-4m-for-its-ai-powered-data-platform.md",
-      "title": "Continual raises $4M for its AI-powered data platform",
-      "excerpt": "Continual, a startup that aims to bring operational AI to the modern data warehouse-centric data stack, today announced that it has raised a $4 million seed round led by Amplify Partners, with Illuminate Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/",
-      "originalUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/12/continual_graph.jpg?w=680",
-          "width": 680,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/12/16/continual-raises-4m-for-its-ai-powered-data-platform/amp/",
-      "publishedDateTime": "2021-12-16T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-16-why-some-psychedelic-assisted-therapy-clinics-are-turning-to-artificial-intelligence-for-digital-mental-therapies.md",
       "title": "Why Some Psychedelic Assisted Therapy Clinics Are Turning To Artificial Intelligence for Digital Mental Therapies",
       "excerpt": "The bottom line: Psychedelic therapy is still in its early days ... evidence-backed protocols and Artificial Intelligence data systems. Geoff Belair, MINDCURE's Chief Technology Officer, said ...",
@@ -1163,6 +1070,74 @@
       "sourceUrl": null,
       "webUrl": "https://www.cambridge.org/core/journals/public-health-nutrition/article/breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-crosssectional-population-level-study/1468D5C45FDA98D16D29A99CA6C4373B",
       "originalUrl": "https://www.cambridge.org/core/journals/public-health-nutrition/article/breakfast-skipping-and-cognitive-and-emotional-engagement-at-school-a-crosssectional-population-level-study/1468D5C45FDA98D16D29A99CA6C4373B",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-mind-controlled-robots-now-one-step-closer.md",
+      "title": "Mind-controlled robots now one step closer",
+      "excerpt": "Tetraplegic patients are prisoners of their own bodies, unable to speak or perform the slightest movement. Researchers have been working for years to develop systems that can help these patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/938162",
+      "originalUrl": "https://www.eurekalert.org/news-releases/938162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-16-plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3-year-old-children-the-skot-cohort-studies.md",
+      "title": "Plasma vitamin B12 concentration is positively associated with cognitive development in healthy Danish 3-year-old children; the SKOT cohort studies",
+      "excerpt": "Sophie H Christensen [Opens in a new window], HTML view is not available for this content. However, as you have access to this content, a full PDF is available via the ‘Save PDF’ action button. Adequate vitamin B12 and folate concentrations are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3yearold-children-the-skot-cohort-studies/4A324620BEE475E8AAB414D683A8B83F",
+      "originalUrl": "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/plasma-vitamin-b12-concentration-is-positively-associated-with-cognitive-development-in-healthy-danish-3yearold-children-the-skot-cohort-studies/4A324620BEE475E8AAB414D683A8B83F",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

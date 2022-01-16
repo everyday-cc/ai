@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-f
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/deepscribe-raises-30m-to-become-first-widely-accepted-application-of-voice-ai-in-healthcare/amp/"
 type: article
 quality: 92
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup DeepScribe Raises $30 Million To Help Prevent Physician Burnout"
-    excerpt: "The San Francisco-based startup uses AI to transcribe doctors' interactions with their patients, which saves them an average of three hours of work a day."
-    publishedDateTime: 2022-01-11T13:04:00Z
-    webUrl: "https://www.forbes.com/sites/rebeccaszkutak/2022/01/11/ai-startup-deepscribe-raises-30-million-to-help-prevent-physician-burnout/"
-    ampWebUrl: "https://www.forbes.com/sites/rebeccaszkutak/2022/01/11/ai-startup-deepscribe-raises-30-million-to-help-prevent-physician-burnout/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccaszkutak/2022/01/11/ai-startup-deepscribe-raises-30-million-to-help-prevent-physician-burnout/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 85
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dc6c853130b369a1f8d8c1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1280%26cropY1%3D1%26cropY2%3D721"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI-powered transcription platform DeepScribe raises $30M to unburden doctors from tedious data entry"
     excerpt: "DeepScribe, an AI-powered medical transcription platform, has raised $30 million in series A funding led by Nina Achadjian at Index Ventures, with participation from Scale.ai CEO Alex Wang, Figma CEO Dylan Field,"
     publishedDateTime: 2022-01-12T17:26:00Z

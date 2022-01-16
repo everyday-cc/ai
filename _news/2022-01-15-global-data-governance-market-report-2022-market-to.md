@@ -35,22 +35,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Artificial intelligence, data and 2022: What experts at SAS are expecting"
-    excerpt: "If anything, the onslaught of the COVID pandemic is driving further research into artificial intelligence and data analytics as companies and researchers try to capitalize on changes in worforce, research and development,"
-    publishedDateTime: 2022-01-11T14:07:00Z
-    webUrl: "https://wraltechwire.com/2022/01/11/artificial-intelligence-data-and-2022-what-experts-at-sas-are-expecting/"
-    ampWebUrl: "https://wraltechwire.com/2022/01/11/artificial-intelligence-data-and-2022-what-experts-at-sas-are-expecting/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/01/11/artificial-intelligence-data-and-2022-what-experts-at-sas-are-expecting/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 58
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/01/year-g5a68d3205_1280-e1641032917912.jpg"
-        width: 1251
-        height: 704
-        isCached: true
 
 secured: "VlnFeDTXClijfREGoILte1XZLlrs2rZT35iW4+mgJVK581XW4utpNB7ndFd6yNBwbpSVLFXQ6n88nakfw5N0p8QKn1vpMzQJF0W+qSFUKDTW87OcQ9jxMy5I1mhle1Y8PDe2VIQXfcWgWRxrGXtRgh1kq3Eijh6fGcxuHP5e5n6kKfp7FQHeCdia5HsJelZUyuvMw2fM4kz+WzDRIF/NKNctw6gsNZpfEy6V/hHI8dG6TcPU2WTJLuavhuCzq1rBCtXTtGipiWkBMN+fHX4sYcQ8lNm5clyjF1qUAohQQpaNrqv/qOdOdBaGLR0l7X2pHr+4ZfRo11eAJ7qmzzgGTNikISN55esnqpkV7qKFt8A=;uk2Avv7BHs+BZzXj9HmQEQ=="
 ---

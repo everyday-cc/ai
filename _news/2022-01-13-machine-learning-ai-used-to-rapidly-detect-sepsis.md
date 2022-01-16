@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect
 cdnAmpWebUrl: "https://www-ajc-com.cdn.ampproject.org/c/s/www.ajc.com/pulse/machine-learning-ai-used-to-rapidly-detect-sepsis/NLFUE4IIGZHAXKHQP3VORTKFDM/?outputType=amp"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning and AI used to rapidly detect sepsis, cutting risk of death dramatically"
-    excerpt: "A groundbreaking advance in quickly detecting sepsis using machine learning has been pioneered by researchers in the Hancock Lab and the department of microbiology and immunology at UBC."
-    publishedDateTime: 2022-01-11T14:34:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 65
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-and-a.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Artificial intelligence used to detect sepsis quicker, 'dramatically' reducing risk of death: B.C. research"
     excerpt: "Researchers out of the University of British Columbia have found that artificial intelligence can detect sepsis quicker."
     publishedDateTime: 2022-01-11T23:26:00Z

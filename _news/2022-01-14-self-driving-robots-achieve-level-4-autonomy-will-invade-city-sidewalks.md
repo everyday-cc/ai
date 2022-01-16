@@ -55,24 +55,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Pudu Robotics Commercial Service Robots Shine on World Stage at CES 2022"
-    excerpt: "Pudu Robotics, the global leader in commercial service robots, has wrapped up a highly successful showcase at CES 2022, which took place between January 5-7 in Las Vegas, Nevada, United States. In addition to exhibiting its flagship commercial service robots in the global arena,"
-    publishedDateTime: 2022-01-11T14:13:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/pudu-robotics-commercial-service-robots-shine-on-world-stage-at-ces-2022/18049/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 33
-  - title: "Ready, set, robot! National Robot Drawing and Story Competitions for Primary Schoolchildren Now Officially Open For Entries"
-    excerpt: "\"Once Upon A Robot\" writing competition and \"Draw A Robot\" design challenge launch today, offering unique prizes; budding artists and authors invited to enter London, United Kingdom, January 11th 2022—The EPSRC UK Robotics and Autonomous Systems (UK-RAS) Network is today pleased to announce the official launch of its 2022 competitions to get the UK's primary schoolchildren drawing and writing about all things \"robot\"."
-    publishedDateTime: 2022-01-11T14:11:00Z
-    webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/ready-set-robot-national-robot-drawing-and-story-competitions-for-primary-schoolchildren-now-officially-open-for-entries/18048/"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 0
 
 secured: "k1SFi1Mu+QWS03OKsJ88E/jdwLUOI2WTdZXmoX3Am/TzP6XK9sfYCA9dkIf0SM4STZWWuklRq0aOSCVf2a/P+WqB8rSwTga51C6NNi/WQZMptUrm1PeOk/ryvJuLJhnOqtCkans6iRbI+kyRRJ8yU/gBpEsMqNRHMEyxzYo1V+0RR0Ix7AGO/2VhzbXrNXhmyK6Vu49I7Hk3QQB2b8nK4jpIJKXq5GKva029sV7JI9Q8+Z+lONWuas+THJSDIHwpjh8UT8/wGkFQA3gR8Mo3LudEO3eFvyC2VsKMHPyVhtV1zrUbFoaJz5CHPAkJmWpsebLSMmIkLzQO3rmT6Zs+oQORmiQMYAJ3XZv3ugAtNeA=;ixANXnDx7S6QdxWfblVaRA=="
 ---

@@ -542,7 +542,7 @@
       "originalUrl": "https://www.prnewswire.com/news-releases/serve-robotics-becomes-first-autonomous-vehicle-company-to-commercially-launch-level-4-self-driving-robots-301460151.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -617,50 +617,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-cogniteams-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai.md",
-      "title": "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI",
-      "excerpt": "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/22443-cogniteam-s-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/22443-cogniteam-s-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/7827149b6074de43d8f06fef9ab86bcb.jpg?t=20220113_014842",
-          "width": 752,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T17:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1391,6 +1347,58 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-01-07-words-youve-longed-to-hear-come-and-be-touched-by-a-robot.md",
+      "title": "Words you've longed to hear: 'Come and be touched by a robot'",
+      "excerpt": "But then I read the immortal words of Consumer Technology Association president and CEO Gary Shapiro, in the Las Vegas Review-Journal: \"We will all be taking risks. But without risk there is no innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
+      "originalUrl": "https://www.zdnet.com/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/b8d8feedfe9075695ddcdfcc5c65fbfa69d73a12/2022/01/05/bae42c57-1981-455c-aceb-3f44d068b608/screen-shot-2022-01-05-at-9-36-27-am.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/words-youve-longed-to-hear-come-and-be-touched-by-a-robot/",
+      "publishedDateTime": "2022-01-07T04:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning and AI used to rapidly detect sepsis, cutting risk of death dramatically"
-    excerpt: "A groundbreaking advance in quickly detecting sepsis using machine learning has been pioneered by researchers in the Hancock Lab and the department of microbiology and immunology at UBC."
-    publishedDateTime: 2022-01-11T14:34:00Z
-    webUrl: "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-machine-ai-rapidly-sepsis-death.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 65
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/machine-learning-and-a.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Machine learning rapidly detects sepsis"
     excerpt: "Researchers at University of British Columbia used artificial intelligence to identify sets of genes that predict whether a patient will acquire severe sepsis."
     publishedDateTime: 2022-01-13T07:00:00Z

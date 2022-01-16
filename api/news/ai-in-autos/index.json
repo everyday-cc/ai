@@ -482,49 +482,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-12-surface-navy-2022-tactical-focus-driving-ai-development.md",
-      "title": "Surface Navy 2022: Tactical focus driving AI development",
-      "excerpt": "US Navy (USN) leaders are looking to leverage advanced technological capabilities in artificial intelligence (AI) and machine learning (ML) in the tactical",
-      "sourceUrl": null,
-      "webUrl": "https://www.janes.com/defence-news/defence/latest/surface-navy-2022-tactical-focus-driving-ai-development",
-      "originalUrl": "https://www.janes.com/defence-news/defence/latest/surface-navy-2022-tactical-focus-driving-ai-development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.janes.com/images/default-source/news-images/bsp_11674-idr-15802.jpg?sfvrsn=fd3d809b_2",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/surface-navy-2022-tactical-focus-driving-ai-development/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "publishedDateTime": "2022-01-11T22:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-12-tesla-full-self-driving-has-an-assertive-mode-that-can-make-rolling-stops.md",
       "title": "Tesla Full Self-Driving has an 'Assertive' mode that can make rolling stops",
       "excerpt": "Tesla's polarizing Full Self-Driving beta software is back with another round of controversy. Now included with the software are profiles that change the behavior of the software, and one selection may engage in behavior that violates US traffic laws.",
@@ -1440,6 +1397,50 @@
         "IBM AI",
         "Microsoft AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you.md",
+      "title": "John Deere and Naio robot tractor may be heading to a farm near you",
+      "excerpt": "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/01/06/1600x900/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641471074615_1641471101321.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
+      "publishedDateTime": "2022-01-06T02:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],
