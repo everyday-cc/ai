@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry"
-    excerpt: "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry."
-    publishedDateTime: 2022-01-12T06:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25011004"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
-    images:
-      - url: "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg"
-        width: 500
-        height: 236
-        isCached: true
   - title: "Upstart: A Buy Rating For This AI-Based Fintech Winner In The Making"
     excerpt: "Upstart's superior AI-based model brings strong value proposition to consumers and bank partners. Read more to see why UPST is a Buy now and my PT."
     publishedDateTime: 2022-01-13T07:06:00Z
@@ -85,20 +69,6 @@ related:
         width: 867
         height: 1300
         isCached: true
-  - title: "EQM Indexes Launches Emerging Markets FinTech Index"
-    excerpt: "1 Emerging and frontier markets have provided fertile ground for FinTech solutions, disrupting traditional financial ... Realizeit, the provider of the first-of-its-kind AI-powered adaptive platform that personalizes learning for performance, announced ..."
-    publishedDateTime: 2022-01-12T14:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-20189213.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Five key fintech trends to watch in 2022"
     excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
     publishedDateTime: 2022-01-12T07:32:00Z
@@ -127,19 +97,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AuthBridge fintech Fintelle adds biometric liveness detection, voice authentication"
-    excerpt: "Fintelle has updated its technology suite to include voice-based authentication and face biometrics liveness detection capabilities."
-    publishedDateTime: 2022-01-13T22:05:00Z
-    webUrl: "https://www.biometricupdate.com/202201/authbridge-fintech-fintelle-adds-biometric-liveness-detection-voice-authentication"
+  - title: "Road to 2022: Setting up an AI-Automation consumer service model to keep up with the FinTech advancements"
+    excerpt: "Shefali Khalsa explains how setting up AI-Automation consumer service model can help keep up with the fintech advancements in the industry."
+    publishedDateTime: 2022-01-13T10:25:00Z
+    webUrl: "https://www.socialsamosa.com/2022/01/road-to-2022-ai-automation-consumer-service-model-to-keep-up-with-fintech-advancements/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 22
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/01/8.jpeg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "7/yZXUp+rW6+RmoyYm+uLY+teno7inztGa09AtWICLxoiCvx/dYeaEOXZDnjRkYeLqh63s+Ar4LhK2nJzCdRVWOUcPhfNnK+rRAV0+4fGXAjCBM29fO64tydVnNsxqgCYSvOEIxjZYMBGYg8pEieI2fAyHwvXirmxKR9vchE8YiisXYOwfDRSQUpEnTue50DEeHnGjElDLiygOP0afr51xkCWS1Sc4t0qBnuWm2btZRL/q6wJcD++3rZo6FAHQSbf7oMYjg8KcWe8mFQA2azpH4iM/0GzXav4yVTXCxa5XQekHH/dzk443az+PXgu6TU0nVtng2xXDBqFRaqvyTkauoPSEQqlyC2FKAYPq/pz+c=;74kYcA99AYPo5YggFgI1uA=="

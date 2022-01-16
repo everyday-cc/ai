@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How managed services will evolve in 2022: The data analytics revolution"
-    excerpt: "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments."
-    publishedDateTime: 2022-01-12T06:50:00Z
-    webUrl: "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/"
-    ampWebUrl: "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1171422745-e1641922862738.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Net4 launches video analytics powered by AWS Wavelength"
     excerpt: "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,"
     publishedDateTime: 2022-01-13T12:02:00Z

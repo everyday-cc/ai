@@ -25,121 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry"
-    excerpt: "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry."
-    publishedDateTime: 2022-01-12T06:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25011004"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004"
+  - title: "Saudi fintech joins battle for US retail investors"
+    excerpt: "RIYADH: Saudi entrepreneur Nezar Bakhsh has joined the battle for US retail investors after launching a financial technology startup that sells stock trading advice to traders. His Quant Alpha platform offers artificial intelligence-powered software for investors,"
+    publishedDateTime: 2022-01-16T15:18:00Z
+    webUrl: "https://www.zawya.com/uae/en/business/story/Saudi_fintech_joins_battle_for_US_retail_investors-SNG_278890775/"
+    ampWebUrl: "https://www.zawya.com/uae/en/story/amp/SNG_278890775/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/uae/en/story/amp/SNG_278890775/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
-    images:
-      - url: "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg"
-        width: 500
-        height: 236
-        isCached: true
-  - title: "Upstart: A Buy Rating For This AI-Based Fintech Winner In The Making"
-    excerpt: "Upstart's superior AI-based model brings strong value proposition to consumers and bank partners. Read more to see why UPST is a Buy now and my PT."
-    publishedDateTime: 2022-01-13T07:06:00Z
-    webUrl: "https://seekingalpha.com/article/4479438-upstart-upst-fintech-winner-stock-buy"
-    ampWebUrl: "https://seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
-    cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
+      name: Zawya
+      domain: zawya.com
     quality: 59
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1283432364/medium_image_1283432364.jpg"
-        width: 768
-        height: 567
-        isCached: true
-  - title: "Robo Inu Finance aims to create payment methods using the FinTech industry"
-    excerpt: "Robo Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial"
-    publishedDateTime: 2022-01-13T11:42:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/robo-inu-finance-aims-to-create-payment-methods-using-the-fintech-industry/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 52
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2022/01/8c_8LinT_400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Fintech and the Retail Industry"
-    excerpt: "Yes, it’s a new buzzword in the retail industry, but there is a lot more to it. So what exactly does “Fintech” mean? Fintech is a term that covers a wide range of financial technologies, like e-commerce,"
-    publishedDateTime: 2022-01-12T20:51:00Z
-    webUrl: "https://retail-insider.com/articles/2022/01/fintech-and-the-retail-industry/"
-    type: article
-    provider:
-      name: Retail Insider
-      domain: retail-insider.com
-    quality: 39
-    images:
-      - url: "https://retailinsider.b-cdn.net/wp-content/uploads/2022/01/pexels-photo-5076516.jpeg"
-        width: 867
-        height: 1300
-        isCached: true
-  - title: "Five key fintech trends to watch in 2022"
-    excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
-    publishedDateTime: 2022-01-12T07:32:00Z
-    webUrl: "https://thepaypers.com/expert-opinion/five-key-fintech-trends-to-watch-in-2022--1253845"
-    type: article
-    provider:
-      name: The Paypers
-      domain: thepaypers.com
-    quality: 24
-    images:
-      - url: "https://thepaypers.com/images/social_media/fintech-trends-social-media_LI.png"
+      - url: "https://images.zawya.com/images/cia/zAmp/210516074158XLWJ.jpg"
         width: 1200
-        height: 627
-        isCached: true
-  - title: "Top 5 Fintech Trends to Watch in 2022"
-    excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
-    publishedDateTime: 2022-01-14T08:03:00Z
-    webUrl: "https://financialit.net/blog/fintech-trends-banking-nft-blockchain-payment-bnpl/top-5-fintech-trends-watch-2022"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/img_4252.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
-  - title: "TOP CHALLENGES FOR THE FINTECH 2020 – 2022"
-    excerpt: "More than a year ago, we published an article about challenges, the fintech faced in 2020. There was a first year of radical changes in the fintech industry due to the first pandemic hit."
-    publishedDateTime: 2022-01-13T17:29:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-challenges-fintech-2020-2022-slava-s-"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 24
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEG8AheauFsGA/article-cover_image-shrink_720_1280/0/1642094648115?e=1647475200&v=beta&t=iN2EjCQAUnJhv6ARTCkVvAB1LKiBxV8d0Y-P0fRq9aY"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "AuthBridge fintech Fintelle adds biometric liveness detection, voice authentication"
-    excerpt: "Fintelle has updated its technology suite to include voice-based authentication and face biometrics liveness detection capabilities."
-    publishedDateTime: 2022-01-13T22:05:00Z
-    webUrl: "https://www.biometricupdate.com/202201/authbridge-fintech-fintelle-adds-biometric-liveness-detection-voice-authentication"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg"
-        width: 1200
-        height: 900
+        height: 800
         isCached: true
 
 secured: "vzgHwv97B6cSVbK+efx7E++rI+OxQuSFnve/Qqp8H3Ty/Tnrutr8Bny/QZUc74JyJ/69TKE0zAUYPyuwfuRvv2mZST9JTrSUQ+Et2SY0f8hM7vzSs5cwNyEcOpUV8LFA7WLjk20RmG/tbI6e3UJ3XRymSO49OXSOCoEEYYw1ePuAgfUf141dk23+rV42jLj1TpnVKxsjkMXl3+TrtluZlSmW/vmE70FkPRFYPaV2cFWC5OoN3LwFsTQhZDzP1ry/Oat1b44oBowKpZxeEOMppxfGCKt7iq9WSIFG4tZiWwynIXyQnTS7DzrPIJ4mAo1Iv3VOeY8Wm22vzfC+wRlkALlZQyOoED/zGXemj4IVbIo=;jnAkhVl73W2y/3wNvmbgEA=="

@@ -181,20 +181,6 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "California DMV to review Tesla’s ‘Full Self-Driving’ and other technology to determine software’s future use"
-    excerpt: "A DMV spokeswoman said the department had notified Tesla of the review, which is separate from an evaluation of its use of the term \"Full Self-Driving.\""
-    publishedDateTime: 2022-01-12T05:26:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/01/11/tesla-dmv-fsd/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 20
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XJW5RITSX4I6ZITNDQQ4C2Y4SM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "Dvgggf4CYxzGuE4QjHJfJh6mVT3DuUlyoCskaD//HB7FGLzCRcyQS0Q+WVOqWb7HAQFJg2rMT94ZHmaQJMXto3035vQsvVqsvLuM+4vqc24yne96DG+F3xTNZmPyF/2EhRL8FS1e8/7eZwhg2kJLihL9wvZH8n8ODwt+kG44xu6RfOITHpzyyeeW2Gh1BpCrj9DL+k7grj7BsYj/5ddmUfQq0LrYFPol6MRYFn2ks8gV+cxZwyw6cxtdLLICcIR4dSCuOaA6IJz6N7lEDlq3D7dIXSpnGancEXjjxkkT98JTQEG6qFss8P/HPWn+8URRUkwnBSvZ3Zm4DMfVQyWOom6N3hdimw/015ruiBfrHCI=;l8DTYhVxdDji3SdRvl18Mw=="
 ---

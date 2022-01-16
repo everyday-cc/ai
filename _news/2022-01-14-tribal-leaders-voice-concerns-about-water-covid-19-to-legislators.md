@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "AI Innovations Accelerated By Government And Business Leadership Fight Against COVID-19."
+    excerpt: "There is nothing more important in our economy than the health and wellness of all citizens during COVID-19. AI is playing a major role in advancing research and enable new innovations. Government Grants,"
+    publishedDateTime: 2022-01-16T20:03:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/"
+    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 78
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e46c533aba23572e6b1daf%2F0x0.jpg"
+        width: 1200
+        height: 593
+        isCached: true
+  - title: "Artificial Intelligence May Help in the Fight Against COVID-19"
+    excerpt: "Novel machine learning framework could alleviate the work of radiologists by providing fast and accurate disease diagnosis. Click here if this is your press release! - eTurboNews | Trends | Travel New"
+    publishedDateTime: 2022-01-13T02:30:00Z
+    webUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
+    type: article
+    provider:
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 54
+    images:
+      - url: "https://eturbonews.com/wp-content/uploads/2022/01/A-HOLD-FreeRelease-1.jpg"
+        width: 557
+        height: 386
+        isCached: true
   - title: "Tribal leaders voice concerns about water, voting, COVID"
     excerpt: "Water rights, the ongoing impacts of the COVID-19 pandemic, voting rights, and infrastructure needs were some of the common issues that several tribal leaders from across Arizona talked about during their visit to the Capitol to talk with legislative leaders about their respective sovereign nations as part of the 27th Annual Indian Nations and Tribes Legislative Day."
     publishedDateTime: 2022-01-13T19:51:00Z
@@ -41,19 +71,19 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Top 3 Autonomous Cars Market Trends to Watch Post-COVID"
-    excerpt: "Key Prominent Players Covered in the Autonomous Cars Market are Autoliv Inc., Aptiv, Waymo LLC, Robert Bosch GmbH, Daimler AG, Baidu, AutoX, Inc., Pony.ai, Ford Motor Company, HYUNDAI"
-    publishedDateTime: 2022-01-13T07:21:00Z
-    webUrl: "https://www.wicz.com/story/45643442/top-3-autonomous-cars-market-trends-to-watch-post-covid"
+  - title: "Leena AI introduces Covid-19 Workplace Response Suite"
+    excerpt: "Leena AI, the company that’s revolutionizing enterprise employee experience, today launched the Covid-19 Workplace Response Suite. The new product helps organizations track and maintain employee vaccination records,"
+    publishedDateTime: 2022-01-12T13:05:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-health-768400e893346cf50ad4e6df53cbd394"
     type: article
     provider:
-      name: FOX 40 WICZ TV
-      domain: wicz.com
-    quality: 24
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
     images:
-      - url: "https://ABSOLUTEREPORTS.images.worldnow.com/images/22021329_G.png?lastEditedDate=1642040505000"
-        width: 450
-        height: 350
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."

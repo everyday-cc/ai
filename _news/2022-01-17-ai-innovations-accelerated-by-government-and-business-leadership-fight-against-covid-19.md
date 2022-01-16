@@ -1,45 +1,48 @@
 ---
 category: news
-title: "Artificial Intelligence May Help in the Fight Against COVID-19"
-excerpt: "Novel machine learning framework could alleviate the work of radiologists by providing fast and accurate disease diagnosis. Click here if this is your press release! - eTurboNews | Trends | Travel New"
-publishedDateTime: 2022-01-13T02:30:00Z
-originalUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
-webUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
+title: "AI Innovations Accelerated By Government And Business Leadership Fight Against COVID-19."
+excerpt: "There is nothing more important in our economy than the health and wellness of all citizens during COVID-19. AI is playing a major role in advancing research and enable new innovations. Government Grants,"
+publishedDateTime: 2022-01-16T20:03:00Z
+originalUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/"
+webUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/"
+ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
 type: article
-quality: 54
-heat: -1
-published: false
+quality: 78
+heat: 128
+published: true
 
 provider:
-  name: eTurboNews
-  domain: eturbonews.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://eturbonews.com/wp-content/uploads/2022/01/A-HOLD-FreeRelease-1.jpg"
-    width: 557
-    height: 386
+  - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e46c533aba23572e6b1daf%2F0x0.jpg"
+    width: 1200
+    height: 593
     isCached: true
 
 related:
-  - title: "AI Innovations Accelerated By Government And Business Leadership Fight Against COVID-19."
-    excerpt: "There is nothing more important in our economy than the health and wellness of all citizens during COVID-19. AI is playing a major role in advancing research and enable new innovations. Government Grants,"
-    publishedDateTime: 2022-01-16T20:03:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/"
-    ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
+  - title: "Artificial Intelligence May Help in the Fight Against COVID-19"
+    excerpt: "Novel machine learning framework could alleviate the work of radiologists by providing fast and accurate disease diagnosis. Click here if this is your press release! - eTurboNews | Trends | Travel New"
+    publishedDateTime: 2022-01-13T02:30:00Z
+    webUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 78
+      name: eTurboNews
+      domain: eturbonews.com
+    quality: 54
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e46c533aba23572e6b1daf%2F0x0.jpg"
-        width: 1200
-        height: 593
+      - url: "https://eturbonews.com/wp-content/uploads/2022/01/A-HOLD-FreeRelease-1.jpg"
+        width: 557
+        height: 386
         isCached: true
   - title: "Tribal leaders voice concerns about water, voting, COVID"
     excerpt: "Water rights, the ongoing impacts of the COVID-19 pandemic, voting rights, and infrastructure needs were some of the common issues that several tribal leaders from across Arizona talked about during their visit to the Capitol to talk with legislative leaders about their respective sovereign nations as part of the 27th Annual Indian Nations and Tribes Legislative Day."
@@ -100,6 +103,6 @@ related:
         height: 853
         isCached: true
 
-secured: "udWltw/QkXX2eIXZqs9G5T2FfLHMpKH9nTrEqAmLdtoX3062eNsvm95uoSttp6Z2dwq9XcQxx+B4BUEmLMP9lAUcKZLEN3OGT9E/2fvIONhwsYyF30Smpi5Z+pQ4UuJtbWwLvpb1eYEIQqMRGAwLkOtHUrHRWNbihzTAEqp6PrYTAT7pPe36HIqVbBnQLIhChHj6cR6ra7ODQUGWy+6/Yhm7X1L62trZov/cgons56aMA5pHypb1jmCEuRcnyW7xyKKJbQ1VpaUTYzA10PN+8ePakTURcmRDvtPOqi671l4daIomNrXdFbqz4gCJYH2jYGPD3mV5RvmKmbTxXbmXHRWwz/ZAfIDarqGIu4v+uMgQAzTxLV9BNL2cnZnpfXJlYSTZOsms90YnlbLxofLrka1DWqxR+4vgd8onbI5FCEd4CyyCSHT69edo1TpGukebqxJoXyQTj4iBdgApjEYt02PKFmcs31U+YTiQGfIpXyaCuBYhzfE2xpa6ElapZqUE18vhBJnDWZbuAIQaXnLUzg==;ubBMMDqKd3pMSu4bmshsFA=="
+secured: "9TVZjsLTqe+9J49aKE930EwPbD61/np4QZoLi/ScIIk1zBw2TztpLmv+d+Quu/9b154qvzN2ZQIN1dkxfII9hMOv8XCVvC2QTsak1N2R++u2X2d2xVfZ5DGbCUk1S5cO1D0WosmlIbiwr5+Dy1GjHHlqBk5SBqV93z+8kQhElxR1y9EpvtIQmXk/tgmmdgobmL8lp/A/WfkaZxqgvjue+xegOduZjj8wZklAqEA3Z4jBa+XcSRwvk78d2ygdsrdQqXHlycsQuxD0f8OI3nvWc6eVVx3ExxsXdxT2lWKxJDoBdfkecGINdJsCg/XOjM4HM6lXdj3/0AD7jBQCUl5a0fB4z/JkSBeohkhu2gyhKWY=;NJO4ZmboLljWhFtVb5EqsQ=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 900
         height: 499
         isCached: true
+  - title: "AuthBridge fintech Fintelle adds biometric liveness detection, voice authentication"
+    excerpt: "Fintelle has updated its technology suite to include voice-based authentication and face biometrics liveness detection capabilities."
+    publishedDateTime: 2022-01-13T22:05:00Z
+    webUrl: "https://www.biometricupdate.com/202201/authbridge-fintech-fintelle-adds-biometric-liveness-detection-voice-authentication"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 18
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "ValidSoft Recognized as a Global Voice Biometrics Leader in Opus Analysis on Intelligent Authentication and Fraud Prevention"
     excerpt: "ValidSoft, a transformative provider of voice identity and assurance solutions, has been recognized as a forward global leader for voice biometrics providers in the 2022 Opus Research Intelliview report: Intelligent Authentication and Fraud Prevention Analysis."
     publishedDateTime: 2022-01-13T14:54:00Z

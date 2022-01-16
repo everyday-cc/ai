@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Location analytics company Placer.ai nabs $100M to generate insights from foot traffic"
-excerpt: "Placer.ai gives retailers, hospitality outlets, and real estate companies foot-traffic data to unlock insights on customers and competition."
-publishedDateTime: 2022-01-12T13:00:00Z
-originalUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/"
-webUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/"
-ampWebUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
+title: "What to expect for data prep and data analytics in 2022"
+excerpt: "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ..."
+publishedDateTime: 2022-01-15T00:56:00Z
+originalUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/"
+webUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/"
+ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
 type: article
-quality: 79
+quality: 74
 heat: -1
 published: false
 
@@ -21,12 +21,13 @@ provider:
       height: 50
 
 topics:
+  - IBM AI
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2022/01/analytics-banner-min.0439da31-scaled-1.jpg?w=1200&strip=all"
-    width: 1200
-    height: 665
+  - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1312908513-e1642179371829.jpg?fit=800%2C533&strip=all"
+    width: 800
+    height: 400
     isCached: true
 
 related:
@@ -46,21 +47,21 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "What to expect for data prep and data analytics in 2022"
-    excerpt: "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ..."
-    publishedDateTime: 2022-01-15T00:56:00Z
-    webUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/"
-    ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
+  - title: "Location analytics company Placer.ai nabs $100M to generate insights from foot traffic"
+    excerpt: "Placer.ai gives retailers, hospitality outlets, and real estate companies foot-traffic data to unlock insights on customers and competition."
+    publishedDateTime: 2022-01-12T13:00:00Z
+    webUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/"
+    ampWebUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 74
+    quality: 79
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1312908513-e1642179371829.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/analytics-banner-min.0439da31-scaled-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 665
         isCached: true
   - title: "Location Analytics Platform Placer.ai Raises $100M in Series C Round"
     excerpt: "Placer.ai, a location analytics platform serving companies with data around consumer foot traffic, has raised $100 million in a Series C round."
@@ -197,6 +198,6 @@ related:
       domain: bizjournals.com
     quality: 17
 
-secured: "lsjGvico/zC4drCkEWz6YZw+HESpl5YkvoI/kzHOgVB6kptGNlZdF7L368BUS4raog3H11AjVJ/bC9QHNPioM4O7on4yAG/Hw6fR5xIa9+Pe+PJv0bAXavW8NkHS70A8wSNigMEm4X3EbqsuH+dicjQWEyXOFupRvypDXUp+05t2UcZ3bkR8yPxZIUkqTLgKX8kWuI9Uf0X28QOMHlZpzd9Lq9wJVWGCz3iOmOqxRIiQcsSQVLRdO6kdn86QOfAYEKSGBKEqqgFncvFsplg/PlBPSAPJUgr+skysGZ6nZeylYgiRzS7lygl/ETHebu290easnqKhE3yA4DXhD7tuFbhOplV4ymMFfg9g1crYWrJSA+rMRylOdXWLqfSweTC348gsnU7GiV4/V36yzBxNYeOxCFA+G6qsSdpOQphBzA165dHrXlwYVcSmzTLsD3Ng4DtAe5mKtB+1PDIUVyRGWpjWysLW1tpf2jVR3J+XCKy4bsoYe06izkekKs7FKyb7qrIdPHH7uY9kXko2cOWPKA==;tr0RAlgpXf85Vli2Y8tPRw=="
+secured: "GllCsg1shtYLT3HpyQfgE6BwrLzUEam/5YfIsCVPvyxPZQEM5WmmLhl+qCQv0L67BdqrGqjxZ31Yo4GWL2l0jjxtwNbUtueudo7QomDT4E5odEA1Gyj0wfUHsgh9eQdzkKTkpnGhCeolo0fth2cS/zrlDkZfAMrVwQZj4rd+cj5RouGp0MZNxsKqIUIIW6jlgjmjC4xWOiNg0rZ2v0NcQRxhmF47GlcLjHhVe80xKg5RDkVzK9qVHIEcnWV6yYvIpv6FKPI+07GRCGVo/3CgdKly9BNZ7y7AK1IhI6GEP342H6TAro/hb2rcEDtZX6uYjwhIfGLInp1l+dC1F1OERSvZta94xZB02gNFf1a2OZM=;jnN1Wh3ftbs8HUHsvmuvPQ=="
 ---
 

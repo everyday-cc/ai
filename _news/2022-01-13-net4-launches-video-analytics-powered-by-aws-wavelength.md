@@ -9,8 +9,8 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/net4-launches-video-analytic
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: SourceSecurity
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How managed services will evolve in 2022: The data analytics revolution"
-    excerpt: "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments."
-    publishedDateTime: 2022-01-12T06:50:00Z
-    webUrl: "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/"
-    ampWebUrl: "https://venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/how-managed-services-will-evolve-in-2022-the-data-analytics-revolution/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1171422745-e1641922862738.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Sacrificing Some Performance To Make Cloud Data Analytics Portable"
     excerpt: "Amazon Web Services, Microsoft Azure, and Google Cloud – are all addressing the same issues of scale, performance, and economics"
     publishedDateTime: 2022-01-12T19:17:00Z

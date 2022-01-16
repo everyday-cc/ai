@@ -9,8 +9,8 @@ ampWebUrl: "https://seekingalpha.com/amp/article/4479438-upstart-upst-fintech-wi
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Seeking Alpha
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry"
-    excerpt: "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry."
-    publishedDateTime: 2022-01-12T06:29:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/01/g25011004/robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry"
-    ampWebUrl: "https://www.benzinga.com/amp/content/25011004"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/25011004"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 66
-    images:
-      - url: "https://marketersmedia.com/wp-content/uploads/2022/01/5-8-500x236.jpg"
-        width: 500
-        height: 236
-        isCached: true
   - title: "Robo Inu Finance aims to create payment methods using the FinTech industry"
     excerpt: "Robo Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial"
     publishedDateTime: 2022-01-13T11:42:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://retailinsider.b-cdn.net/wp-content/uploads/2022/01/pexels-photo-5076516.jpeg"
         width: 867
         height: 1300
-        isCached: true
-  - title: "EQM Indexes Launches Emerging Markets FinTech Index"
-    excerpt: "1 Emerging and frontier markets have provided fertile ground for FinTech solutions, disrupting traditional financial ... Realizeit, the provider of the first-of-its-kind AI-powered adaptive platform that personalizes learning for performance, announced ..."
-    publishedDateTime: 2022-01-12T14:53:00Z
-    webUrl: "https://www.lelezard.com/en/news-20189213.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 24
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/science-technology.jpg"
-        width: 640
-        height: 480
         isCached: true
   - title: "Five key fintech trends to watch in 2022"
     excerpt: "Fintechs and banks are in a race to innovate, but with the emergence of new technologies, banks have to adapt to current trends. Abdul Naushad, the CEO of Buckzy Payments has identified five core fintech trends to watch"
@@ -127,19 +97,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AuthBridge fintech Fintelle adds biometric liveness detection, voice authentication"
-    excerpt: "Fintelle has updated its technology suite to include voice-based authentication and face biometrics liveness detection capabilities."
-    publishedDateTime: 2022-01-13T22:05:00Z
-    webUrl: "https://www.biometricupdate.com/202201/authbridge-fintech-fintelle-adds-biometric-liveness-detection-voice-authentication"
+  - title: "Road to 2022: Setting up an AI-Automation consumer service model to keep up with the FinTech advancements"
+    excerpt: "Shefali Khalsa explains how setting up AI-Automation consumer service model can help keep up with the fintech advancements in the industry."
+    publishedDateTime: 2022-01-13T10:25:00Z
+    webUrl: "https://www.socialsamosa.com/2022/01/road-to-2022-ai-automation-consumer-service-model-to-keep-up-with-fintech-advancements/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
+      name: Social Samosa
+      domain: socialsamosa.com
+    quality: 22
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/21110527/passive-biometric-liveness.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.socialsamosa.com/wp-content/uploads/2022/01/8.jpeg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "68aS0NjsmPAS6Ewy6l0qeFFpaDLL7xEBooq9lMpoStF+29daLM8dcTYcQiQPO7k5HNss+x0onQy+hifl+Se96bk9Nd6yG0mmbQ8J3bnpyW2Kr9+Kr49rB+8k35P//kak3Qn0gNK+0e8d/ueFGAxx7USki3Rjq/qgr/U/VGx25qtDHShgXuACqshV909bTF5iTJHje8nDVng6tln3iLp7UMWhB2iXsKcuBf3p/au5VKYsZt6wZK6ZcbKirQDO2+HQ2TTe8WHNcUgGMeTO5KNW65Sn01U4tVNU34bZawq+rTTGilyICM5Imnuz/vDuHENFLzc5tAWeka11Jb9sET92yWZ5sy82zSh+HylRe2DyzqTxUvcB1O0krgr4t2i4rfGzSApTiAp3dbHLrm/XzvMyu3jO4K/k3XW3cXe0O2+gfx8xuWpUTSUBGxaciNQPlhBnWWJzC8BovC+Y0g/RSTvqpFd+sLCEsM12dpcjQZNj18ZT58AeGnUhlV+wRtFQQ9frbb+WCTsyf4byYsjDul3ZLw==;sufk+WsW1MCJnPibs6YjuA=="

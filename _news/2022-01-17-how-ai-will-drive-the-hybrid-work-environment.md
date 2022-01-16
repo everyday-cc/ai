@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 110
 published: true
 
 provider:
@@ -60,6 +60,6 @@ related:
         height: 400
         isCached: true
 
-secured: "GH7rMhRdkB74WKZxz4qdRyqw5XFq5tVmuc/IxiwOV5saDO9RCtgJTFgWf7tKVXzvWgEQcRdlzkjImjtdOEhAP0x8nGJEcRvP1YxaYHhJaFhJvvNpPYU/zioAxsx8jc9ZMmCWblrpoviVkFZvhLgl0hsqBu5JZTx0PIzjLJtkoUKOIX83ylLiakwwuuQMBQPhdWkkMcIBdqO2LR0rrUUFEp1S5yb8ixTlwgkzbHv2tfFQ9YrUr8/D6fZ8CM47PhGn1VfvpJn76G/qxpmdcbWkkf4nis+AeJv5wl8Nv5K2SNgR0LSBvsn26GLOGbmJdIIp6zXyb6lTCJhURIAFnhssoKfYMLKnS7M/8Ohs/EjyD8M=;UQaQ0a558hfOi884IpPP8Q=="
+secured: "EbPygjv6oddtjeRWBqjl6K98OzhFSLe8YJuD5/PDw20MzXJmkkVLsu0wyCuJ/Es8js323QmHFL+szYWM5cm0inN5zpuxGh6vtt3tuQ5odA04SAq19UwMeYSOBokSOkanA9Aizx/+ybwAYvswrcKF4cLK5oISkQzI3E+w5046Iq0WSwEQGuQes+kowW1TBa/2hZw9YavOxXjbDMmnTylOJ8fLNWlWcBFVfF+0POVGpI7UB1C2ygykyLNSCOPt+aWNIEdsF2zGa/wUMraj4HAnqqnd1YKGLij3bUpDTpAIW6seOY0plOtDWyOM0wWMrKsCbWVLcBTAmhpzGdlA6k3p4Lz3BjQwf3KZJI16yEALw0Xm8/RlyE6QMvJGy/5UjPgxQvfPnFghT3Q2TfHY7sdHkFV+wLgO9PVLVeHUUZnR3aP+fQ4nfR0NbBz6jxFlGAXfveE9kouFEjuahyssSf62TEL3/cTo7yAZJD590EpGYK8nUPYF0kIfemzpNzr96NKF3q4U+aKZno4EJTs5SYUEDw==;NoDHEc0kDBrAk07Q9I/i/w=="
 ---
 

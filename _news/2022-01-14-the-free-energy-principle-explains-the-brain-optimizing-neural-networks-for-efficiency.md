@@ -41,6 +41,15 @@ related:
         width: 1789
         height: 679
         isCached: true
+  - title: "The free-energy principle explains the brain"
+    excerpt: "The free-energy principle can explain how neural networks are optimized for efficiency, according to new research. This finding will be useful for analyzing impaired brain function in thought disorders as well as for generating optimized neural networks for artificial intelligences."
+    publishedDateTime: 2022-01-16T14:22:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/01/220114074515.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
 
 secured: "tfAH3L2Xnr2OiwHuteauwy21+ezxnx6Nyv1g+aG5QBrsPe3xJjS4IXmgNzIhtgLj2YSwjJnn0w4Flhj8I7NhdZH5iaPoswhLVKxBqUtwZRGWLj4r94SJVsSHMeZ7GqzZr85aAo4cEJuE+szJej1f/RW/Z9wsS5kGWP1dISg7hXHG6JOI3TZjdDu6zrU/vr3uC93QpoaGZs7q+x5RYGV681by7dB5C2Bk521DTGMV3YvA9dFBCQI4xDLT2cafqaopiyhyap3pIRyG5N3IA+RVxAJdmAwzkuVbiChArKWr23PsyOEiSSSJ0eB9MPgvLv8b7vE9kCGABDQtH1LkHe4eM2AK3wyBkas2qkEdVHVO4vPTRL78vBWLWHd5rR0piBhDEQjHTvTk5rs6Yft8nXoIPXYgnqpND0zn7WmK3PJCq4xQyNzluCs5OoEl59oKOXFQX6TL1ItBHUgoh5rI0WkogU0L99eMzLKy1zRclhbPIAKcSN/sHFI9FeO7sDkV+Fl0/E3YQopKDhKU74oSSFucVw==;rcyyXEHK0f95IRjaR7NHDw=="
 ---

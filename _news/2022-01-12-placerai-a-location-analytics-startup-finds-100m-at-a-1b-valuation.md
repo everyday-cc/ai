@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-sta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
 type: article
 quality: 187
-heat: 298
+heat: 308
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/01/analytics-banner-min.0439da31-scaled-1.jpg?w=1200&strip=all"
         width: 1200
         height: 665
+        isCached: true
+  - title: "What to expect for data prep and data analytics in 2022"
+    excerpt: "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ..."
+    publishedDateTime: 2022-01-15T00:56:00Z
+    webUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/"
+    ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1312908513-e1642179371829.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
         isCached: true
   - title: "Location Analytics Platform Placer.ai Raises $100M in Series C Round"
     excerpt: "Placer.ai, a location analytics platform serving companies with data around consumer foot traffic, has raised $100 million in a Series C round."
