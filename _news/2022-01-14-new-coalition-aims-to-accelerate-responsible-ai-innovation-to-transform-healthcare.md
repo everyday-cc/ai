@@ -39,20 +39,6 @@ related:
         width: 404
         height: 403
         isCached: true
-  - title: "INNOTECH and OSARO Collaborate to Build a Demonstration AI Picking Robot System for Rohto Pharmaceutical’s Next-generation Smart Factory"
-    excerpt: "OSARO Inc. a global leader in the development and provision of advanced robotics automation, and INNOTECH CORPORATION, which provides advanced products for electronics and consumer industries, have announced a collaboration to create an innovative demonstration for Rohto Pharmaceutical Co."
-    publishedDateTime: 2022-01-11T15:02:00Z
-    webUrl: "https://apnews.com/press-release/BusinessWire/technology-business-health-san-francisco-robotics-cd7b2bbb6f2048169b1aa520c62aff2c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
     excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
     publishedDateTime: 2022-01-13T16:13:00Z

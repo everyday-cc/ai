@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-
 webUrl: "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Biometric Companies
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "New face biometric systems spread around borders but Congress has questions"
-    excerpt: "A pair of senators ask the CBP for visibility into its use of facial recognition systems to collect data from citizens as they leave and enter the nation."
-    publishedDateTime: 2022-01-11T16:56:00Z
-    webUrl: "https://www.biometricupdate.com/202201/new-face-biometric-systems-spread-around-borders-but-congress-has-questions"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2019/10/02081827/CBPs-Simplified-Arrival-process-to-capture-the-facial-biometrics-of-foreign-nationals-arriving-in-the-country-at-Detroit-Metropolitan-Airport.jpg"
-        width: 2000
-        height: 1126
-        isCached: true
   - title: "ValidSoft Recognized as a Global Voice Biometrics Leader in Opus Analysis on Intelligent Authentication and Fraud Prevention"
     excerpt: "ValidSoft, a transformative provider of voice identity and assurance solutions, has been recognized as a forward global leader for voice biometrics providers in the 2022 Opus Research Intelliview report: Intelligent Authentication and Fraud Prevention Analysis."
     publishedDateTime: 2022-01-13T14:54:00Z

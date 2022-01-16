@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/regulation-safety/teslas-self-driving-tes
 webUrl: "https://www.autonews.com/regulation-safety/teslas-self-driving-tests-might-require-regulatory-oversight-calif"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Tesla's self-driving software is under scanner in this state"
+    excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
+    publishedDateTime: 2022-01-13T12:06:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Tesla Restores Its 'Assertive' Self-Driving Mode"
+    excerpt: "Free-Photos / Pixabay Tesla Inc (NASDAQ:TSLA) has reinstated the“assertive” self-driving mode. The company had issued an update in October"
+    publishedDateTime: 2022-01-11T18:40:00Z
+    webUrl: "https://menafn.com/1103522257/Tesla-Restores-Its-Assertive-Self-Driving-Mode&source=22"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-01/11/V_c159aimage_story.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "yggQnGkcS0g48zjTu21munL6MJ8PYxDcS7CJGtxWDse7nceCjyTX1Zjca/GOMERAA0I+CMKt2QLHjFNVzZseNvMIbs20lGQmmXk9Y7PzuvmOsK/EGQB2IR1YC1rVUKKOCwgCX/32STCs7ja2X/nuFppN4A7AXydlQ7ykxwSYq/a3Hx2jAllEmSVPOyJkvfK0JBL3u8SzVKwNN8ixXpRwYFa93T85WIg1ET19mXyQvUuZA3b4uomEEeUW3u66UnS/oziyNKzMWkCj8CVzYXg08bSao/13AuMOIdO5e2BTC8k+jO884IyTMlTYrCEkzn3V961XpSL2kWON3lwZZlBclFlFr7HhUsV2Q4droOc2lO1vUlw/GIuJrg3+Uj6mjO4Y6pJpaJTwO2eo83YR5Nnfb1qcXg4VmLc/HUQVyErk1JVFLxxunIHyjMY249fhXPY6vFDXX6AOXuio7gaObjdyzJt7wdZgii9NXcDp6shOmpBPwZ7LRHUc10hhOlcf4d+eX9HgDJB44ndSb3BBoKmSkQ==;X5fk0CP+VjwOpws2Mh2gvg=="
 ---

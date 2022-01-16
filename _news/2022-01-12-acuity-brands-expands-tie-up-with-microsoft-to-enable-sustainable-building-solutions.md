@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/news/3787506-acuity-brands-expands-tie-up-with-microsoft-to-enable-sustainable-building-solutions"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
         width: 800
         height: 600
-        isCached: true
-  - title: "Microsoft to help Johnson & Johnson transform digital surgery solutions"
-    excerpt: "Johnson & Johnson Medical Devices Companies (JJMDC) has partnered with Microsoft to transform its digital surgery solutions. The Microsoft Cloud will support a secure and compliant platform to “improve workflow and enhance surgical decision-making for a better overall customer experience and improved patient outcomes”,"
-    publishedDateTime: 2022-01-11T15:05:00Z
-    webUrl: "https://www.technologyrecord.com/Home/microsoft-to-help-johnson-johnson-transform-digital-surgery-solutions-127939"
-    type: article
-    provider:
-      name: technologyrecord.com
-      domain: technologyrecord.com
-    quality: 39
-    images:
-      - url: "https://www.technologyrecord.com/Portals/0/EasyDNNnews/10666/img-Johnson-Johnson-medical-devices_web.jpg"
-        width: 940
-        height: 443
         isCached: true
 
 secured: "Tc4jotMkOVR9/jpPtvZ6mZ/NhscIFwAKoEBb++Bf7sTdYcBJdOV4Rr9H4x35LW5MNfCsNQdngdRq3yAx9NOIXh4cTOsXhri7fXRCrrT15r9/tizZqX8hLIaE6mPYfYOAoiB4//Zbjk8KVaYQwS5jpVEVE41+0uz8lre8lroAtz7I/C08KcMgfe5HfPLIpf8T/+nt09YTdYrqBUqpmtUyhffGjxRbTgsobQFhVIMzHQdv7Np+Ta/7aoB6793E0ECBYgxPCkT3X9sXw/VRjiJRtYqqBdiKq+1hYGtDXILeAuGWhWWAJwu0CrMlWQZTwqcJTSEOGn4d0mAJXopam3B5rMytNgy+M4gBtR1e0YxjXPc=;gZVwWGtIVyaFOqC9noe6Gw=="

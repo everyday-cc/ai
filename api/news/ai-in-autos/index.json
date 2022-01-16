@@ -263,7 +263,7 @@
       "originalUrl": "https://www.thestreet.com/technology/electric-vehicle-checkpoint-tesla-will-raise-price-of-self-driving-feature",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -284,6 +284,49 @@
       "provider": {
         "name": "TheStreet.com",
         "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-teslas-self-driving-software-is-under-scanner-in-this-state.md",
+      "title": "Tesla's self-driving software is under scanner in this state",
+      "excerpt": "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html",
+      "publishedDateTime": "2022-01-13T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -438,7 +481,7 @@
       "originalUrl": "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -1397,50 +1440,6 @@
         "IBM AI",
         "Microsoft AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you.md",
-      "title": "John Deere and Naio robot tractor may be heading to a farm near you",
-      "excerpt": "Venerable American farm equipment manufacturer John Deere and French agricultural robot start-up Naio debuted their latest innovations at the Consumer Electronics Show, which began Wednesday in Las Vegas.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2022/01/06/1600x900/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641471074615_1641471101321.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/john-deere-and-naio-robot-tractor-may-be-heading-to-a-farm-near-you-71641466484377.html",
-      "publishedDateTime": "2022-01-06T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

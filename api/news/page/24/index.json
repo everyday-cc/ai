@@ -2,6 +2,92 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-12-23-gpu-accelerated-data-analytics-startup-brytlyt-raises-5m.md",
+      "title": "GPU-accelerated data analytics startup Brytlyt raises $5M",
+      "excerpt": "British data analytics and visualization technology startup Brytlyt Ltd. revealed today that it has closed on a $5 million round led by AlbionVC. Existing investors Amadeus Capital Partners and Finch Capital also participated in the Series A extension.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2021/12/22/gpu-accelerated-data-analytics-startup-brytlyt-raises-5m/",
+      "originalUrl": "https://siliconangle.com/2021/12/22/gpu-accelerated-data-analytics-startup-brytlyt-raises-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/12/Brytlyt-768x513.jpg",
+          "width": 768,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-deepmind-just-taught-ai-how-to-win-a-game-without-knowing-the-rules.md",
+      "title": "DeepMind just taught AI how to win a game without knowing the rules",
+      "excerpt": "Alphabet's AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that computers ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
+      "originalUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=82&strip=all",
+          "width": 1599,
+          "height": 1066,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
+      "publishedDateTime": "2021-12-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till-2024.md",
       "title": "Natural Language Processing (NLP) Market||Industry Analysis Insights, Future Growth, and Forecast till - 2024",
       "excerpt": "Japan, Japan, Thu, 23 Dec 2021 04:35:31 / Comserve Inc. / -- MarketsandMarkets forecasts the global Natural Language Processing (NLP) market size to grow from USD 10.2 billion in 2019 to USD 26.4 ...",
@@ -1093,101 +1179,6 @@
         "Natural Language Processing",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-how-to-use-the-power-of-ai-for-marketing-success.md",
-      "title": "How To Use The Power Of AI For Marketing Success",
-      "excerpt": "Marketing has evolved over the past decades, and we’re now in an era of digital revolution where marketing is completely dependent on consumers who dictate what content they want to receive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d51a170ebe018990edc6%2F0x0.jpg",
-          "width": 1161,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/",
-      "publishedDateTime": "2021-12-22T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-campuses-law-enforcement-reckon-with-facial-recognition-bans.md",
-      "title": "Campuses, Law Enforcement Reckon with Facial Recognition Bans",
-      "excerpt": "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
-      "originalUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2021/12/Facial-recogntion-Adobe-by-Fractal-Pictures-scaled.jpeg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

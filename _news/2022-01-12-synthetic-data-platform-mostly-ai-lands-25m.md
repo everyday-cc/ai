@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/11/synthetic-data-platform-mostly-ai-lands-25m/amp/"
 type: article
 quality: 187
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2021/12/investment-457x274.jpg"
         width: 457
         height: 274
-        isCached: true
-  - title: "MOSTLY AI Raises $25M, Expected to Continue Expansion in European, U.S. Markets"
-    excerpt: "MOSTLY AI, an Austrian data privacy startup, has raised $25 million in Series B funding led by Molten Ventures with"
-    publishedDateTime: 2022-01-11T16:43:00Z
-    webUrl: "https://www.corporatecomplianceinsights.com/mostly-ai-raises-25m/"
-    type: article
-    provider:
-      name: corporatecomplianceinsights.com
-      domain: corporatecomplianceinsights.com
-    quality: 33
-    images:
-      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2022/01/mostly-ai-series-b-01.jpg"
-        width: 1500
-        height: 1126
         isCached: true
 
 secured: "GI7AUE3HYN4tIfzPfTFo/SGB15pPieNDwu/oxAC7Q0tuujNM7yLeL17vsKCDF3PTVR/PgOLgeg+tGJ3P7aqYI/LAjRrljeFni2qNMAb+EGi4L3rCHAB3gdparK9ObZm54XberorBns3GOnG1Wyy25tJ8xYcx8wprpl3bMldpzpzQ6hvb5hApK7LxB+tQguCQv3p0BDjF4diPziS1Diz35NsvTCzFqVw6y3uKslxRU7BcbIlfTz3DYdllJ4Xu4QgzLkJOXehUSNaUdyJmBCNv7cHDU56dIm/Jl551t1FQc/zv2+Mw1qRe5fkPx38C0lHM4FBUu4fxleQnDZB3ZNBPHCEk4Sa0nTYz8fxr/nRA2FT5lqTtarrh9+YNmATdn4R1t9nb0NCt5ukQGXOJzqg8PsaO9by/z71firhjV/XatBcr49iwWDSdZ0w8MU1njd8bfS40V17mf3f+qa5b/X4svwniLm1kBwjRsvWuPpp0dBnyFaFblhR+2Vj9Uw88/fvSBDDAWhaDTQq378bBbR3z/HjhhfXzZCBBwTpZPndzyW8=;3wArYTdMsp92F5kVMeZRHg=="

@@ -41,6 +41,20 @@ related:
         width: 636
         height: 382
         isCached: true
+  - title: "Chinese robot companies increase investment as country aims to become global hub"
+    excerpt: "China recently unveiled a plan to become a global robotics hub by 2025. CGTN's Wu Lei visited two robot and AI companies to learn about the opportunities and challenges in the sector."
+    publishedDateTime: 2022-01-16T07:48:00Z
+    webUrl: "https://news.cgtn.com/news/2022-01-16/Chinese-robot-companies-increase-investment-16RPGm7kkUg/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 49
+    images:
+      - url: "https://video.cgtn.com/news/2022-01-16/Chinese-robot-companies-increase-investment-16RPGm7kkUg/video/d7bb7a7605ff4190bc1d1a30d679a78d/d7bb7a7605ff4190bc1d1a30d679a78d-1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "POoBSZauTSrzYsFoRL81H3rLnfPkmXQEIEKv74iSpxV8D25C1UkezGSR8d18vp7FJcnb4zE8n1LbxGHwO94lF/k21nmkptCNAR/TDwfrxqH/+9GnKl4HaHdGVrPqQC5Qgdw2EbMZNmYkGP2JKITf1lDF33T27vx5gpxAb1hwjIYMzcCuV36ZH3rtLn7UpVka7reK9F8dm7DVBIwBJwXSZFuDlwGUerc87RQHFodHveF72VM301AjMrfZnzC8irCU3ny2S0kcHUkQNZZzS3XW39+OcbAAaGXr+zpQ+3rSfyKyoq0GJmHdnJJ5Q9GmzUn6CCxdrO2QARN7pWIGd2J+uoLur9x1qUV5ls9CXPoJ36pcroQPx6ESyeFjROnytERPjNKpXMbVaY23Dz15/cXL45d0D/PWBn7IjOh+xUKgs3yR+Y8gYRVGCpVIEtCOMCm1HngmuPPRCwXMn8aozOoIXCENF9+JCtB2ZsGWTIJu8V3RqTmKxykhf8kvMZdsI+wlPrChpI6ByGNAS0kqrQxWYQ==;F9p7vberLOeGSyif3/bRsA=="
 ---

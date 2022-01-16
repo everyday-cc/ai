@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-29-nvidia-plans-to-be-a-force-behind-level-5-autonomous-vehicles.md",
+      "title": "Nvidia Plans to Be a Force Behind Level 5 Autonomous Vehicles",
+      "excerpt": "The company calls Pegasus, “The world's first artificial intelligence computer designed to drive fully ... essentially functioning as a mobile office or living room.\" Driverless cars will enable new ride- and car-sharing services,” Huang said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
+      "originalUrl": "https://www.designnews.com/electronics-test/nvidia-plans-be-force-behind-level-5-autonomous-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Nvidia%20Drive%20PX%20Pegasus.jpg",
+          "width": 1024,
+          "height": 614,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-28-autonomous-vehicles-market-is-gaining-momentum-by-key-players-tata-motors-tesla-toyota-uber.md",
       "title": "Autonomous Vehicles Market is Gaining Momentum by key players Tata Motors, Tesla, Toyota, Uber",
       "excerpt": "A new research document is added in HTF MI database of 66 pages titled as Autonomous Vehicles Thematic Research with detailed analysis Competitive landscape forecast and strategies Latest analysis highlights high growth emerging players and leaders by market share that",
@@ -1310,49 +1353,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit.md",
-      "title": "Intel steers toward driverless future with Mobileye self-driving car unit",
-      "excerpt": "Intel Corp's Mobileye is piloting a robotaxi service in Paris presently, and plans to take its self-driving car unit public in the US in mid-2022",
-      "sourceUrl": null,
-      "webUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "originalUrl": "https://techhq.com/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techhq.com/wp-content/uploads/2021/12/063_902802574-375x210.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "cdnAmpWebUrl": "https://techhq-com.cdn.ampproject.org/c/s/techhq.com/amp/2021/12/intel-steers-toward-driverless-future-with-mobileye-self-driving-car-unit/",
-      "publishedDateTime": "2021-12-17T02:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechHQ",
-        "domain": "techhq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

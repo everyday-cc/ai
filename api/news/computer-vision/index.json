@@ -150,49 +150,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-12-dunwoody-gains-national-recognition-for-combating-sex-trafficking.md",
-      "title": "Dunwoody gains national recognition for combating sex trafficking",
-      "excerpt": "DUNWOODY, Ga. - Tuesday was National Human Trafficking Awareness Day, and one metro Atlanta city is being recognized as a City of Freedom for taking action against trafficking. The city of Dunwoody’s mayor just signed a proclamation urging its employees ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking",
-      "originalUrl": "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2022/01/932/470/35QT5QT5.jpg?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp",
-      "cdnAmpWebUrl": "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/news/dunwoody-gains-national-recognition-for-combating-sex-trafficking.amp",
-      "publishedDateTime": "2022-01-11T20:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX 5 Atlanta",
-        "domain": "fox5atlanta.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-11-industrial-automation-at-tyson-with-computer-vision-aws-panorama-and-amazon-sagemaker.md",
       "title": "Industrial automation at Tyson with computer vision, AWS Panorama, and Amazon SageMaker",
       "excerpt": "This is the first in a two-part blog series on how Tyson Foods, Inc., is utilizing Amazon SageMaker and AWS Panorama to automate industrial processes at their meat packing plants by bringing the benefits of artificial intelligence applications at the edge. In part one, we discuss an inventory counting",
@@ -1429,6 +1386,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-identity-verification-using-amazon-rekognition.md",
+      "title": "Identity verification using Amazon Rekognition",
+      "excerpt": "In-person user identity verification is slow to scale, costly, and high friction for users. Machine learning (ML) powered facial recognition technology can enable online user identity verification. Amazon Rekognition offers pre-trained facial recognition capabilities that you can quickly add to your",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identity-verification-using-amazon-rekognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/03/ML-7111-featured-image2.png",
+          "width": 488,
+          "height": 344,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T14:22:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
       ]
     }
   ],

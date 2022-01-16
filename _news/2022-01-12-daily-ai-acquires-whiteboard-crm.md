@@ -7,7 +7,7 @@ originalUrl: "https://nationalmortgageprofessional.com/news/daily-ai-acquires-wh
 webUrl: "https://nationalmortgageprofessional.com/news/daily-ai-acquires-whiteboard-crm"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 600
     height: 300
     isCached: true
-
-related:
-  - title: "Daily AI Acquires Whiteboard for Mortgage CRM Software"
-    excerpt: "AI, a mortgage lending solutions provider, has acquired Whiteboard CRM. Whiteboard provides a mortgage CRM built to accelerate lead management, partner relationships, team production and revenue growth."
-    publishedDateTime: 2022-01-11T16:04:00Z
-    webUrl: "https://mortgageorb.com/daily-ai-acquires-whiteboard-for-mortgage-crm-software"
-    type: article
-    provider:
-      name: Texas
-      domain: mortgageorb.com
-    quality: 54
-    images:
-      - url: "https://mortgageorb.com/wp-content/uploads/2022/01/Whiteboard-Dashboard.png"
-        width: 952
-        height: 580
-        isCached: true
 
 secured: "SD20Ineb5pb1Eplbsp9htEFN6jNvq8xW8HaWTRkW5cT0JjC1syOS/CAJ1OrNGvJ1+MgamkCHavVYC8YcyEJNs1Kkec5WWfhYdmJ0ujqNGT2zlj4EJefKx7YB33T0usTr75TZzOcAodUdXpIqo6ExDj5bYjP1bLxJ0lUBQUV/4In7jjV9wG8fMZRJkxfFojl7N6Df5QdIvDaGSj48JlMDdpT1ZuOeNF5E+rClh6nyyXeb3CbJuk6bpc+Pe/YGy4/1vYo9vNQqJ3P0UnTMcm6VRam+LKT1D8m2n/a+jmbbxYCZq2kF/OMJ+czm2gWlMfPJnxhVGnAHdYYO8fl3/fKtnnH+l3cxbF+C7I70LNSUWcc=;whCjRV4YQSA7MJCTWzBWMQ=="
 ---

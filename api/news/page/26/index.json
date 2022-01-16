@@ -2,6 +2,100 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-12-21-the-single-misconception-holding-back-conversational-ai.md",
+      "title": "The Single Misconception Holding Back Conversational AI",
+      "excerpt": "\"The execution of conversational AI has failed to live up to its potential—at least so far.\" Jason Mars explores the single greatest hurdle in the way of conversational AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c20728170ebe018990ee92%2F0x0.jpg",
+          "width": 1200,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-21-the-global-deep-learning-market-is-projected-to-reach-us605-billion-by-2025.md",
+      "title": "The Global Deep Learning Market is Projected to Reach US$60.5 Billion by 2025",
+      "excerpt": "Deep learning is a division of machine learning that uses layered algorithmic models for analyzing data. The deep learning market is gaining prominence on account of its complex data-driven applications including voice and image recognition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
+      "originalUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/The-Global-Deep-Learning-Market-is-Projected-to-Reach-US60.5-Billion-by-2025.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T07:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics Insight",
+        "domain": "analyticsinsight.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-unique-material-could-further-artificial-intelligence-research.md",
       "title": "Unique Material Could Further Artificial Intelligence Research",
       "excerpt": "A unique material, nickel oxide, demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals, as my colleagu",
@@ -1024,93 +1118,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-iiit-hyderabad-announces-1-year-research-translation-fellowship-for-working-professionals.md",
-      "title": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals",
-      "excerpt": "IIIT Hyderabad announces 1-year Research Translation Fellowship for working professionals. Program to work on creating products and solutions from research. Take courses under Pro",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2021/12/21/9515116.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
-          "width": 1577,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T02:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-what-does-an-ai-actually-think-of-ai-ethics.md",
-      "title": "What Does An AI Actually Think Of AI Ethics?",
-      "excerpt": "We can imagine that AI will not only be the subject of the debate for decades to come – but a versatile, articulate, morally agnostic participant in the debate itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "originalUrl": "https://www.boomlive.in/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boomlive.in/h-upload/2021/12/21/965896-ai-megatron-oxford-union.jpg",
-          "width": 1280,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/ai-oxford-union-artificial-intelligence-debate-megatron-16102",
-      "publishedDateTime": "2021-12-21T01:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BOOM",
-        "domain": "boomlive.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

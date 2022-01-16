@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Full Self-Driving has an 'Assertive' mode that can make rolling stops"
-    excerpt: "Tesla's polarizing Full Self-Driving beta software is back with another round of controversy. Now included with the software are profiles that change the behavior of the software, and one selection may engage in behavior that violates US traffic laws."
-    publishedDateTime: 2022-01-11T16:55:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-full-self-driving-assertive-mode-rolling-stops/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-assertive-mode-rolling-stops/"
+  - title: "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’"
+    excerpt: "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”."
+    publishedDateTime: 2022-01-12T13:20:00Z
+    webUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/"
+    ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Electrek
+      domain: electrek.co
+    quality: 73
     images:
-      - url: "https://www.cnet.com/a/img/ZznhwJPP1wmRpl5zBeqxPLaLpBs=/2021/07/19/56f4362c-0a83-43a4-bbbd-42f736aa06ce/ogi-fsd.jpg"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla Restores Its “Assertive” Self-Driving Mode"
-    excerpt: "Tesla Inc (NASDAQ:TSLA) has reinstated the “assertive” self-driving mode. The company had issued an update in October containing the function —plus the “chill” and “average” modes— but removed it"
-    publishedDateTime: 2022-01-11T15:03:00Z
-    webUrl: "https://www.entrepreneur.com/article/412550"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 69
-    images:
-      - url: "https://assets.entrepreneur.com/providers/valuewalk/hero-image-valuewalk-412550.jpeg"
-        width: 1280
-        height: 853
+        height: 628
         isCached: true
   - title: "California DMV reviewing approach to regulating Tesla's public self-driving test - report"
     excerpt: "California is reevaluating Tesla Inc's Full Self-Driving (FSD) test program, to determine if the electric-car maker's software should fall under its motor vehicle department's autonomous vehicle regulations,"
@@ -119,21 +105,21 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Tesla's self-driving software is under scanner in this state"
-    excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
-    publishedDateTime: 2022-01-13T12:06:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
+  - title: "California reviews whether Tesla’s self-driving tests require oversight"
+    excerpt: "DMV revisiting prior decision that full self-driving is not subject to its regulations on autonomous vehicles"
+    publishedDateTime: 2022-01-13T16:13:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jan/13/california-reviews-tesla-self-driving-tests-require-oversight"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 59
     images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG"
-        width: 600
-        height: 338
+      - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
+        width: 620
+        height: 372
         isCached: true
   - title: "Tesla Full Self-Driving Test Being Re-Evaluated by California DMV: Report"
     excerpt: "Tesla vehicles with the older 10.3 FSD software repeatedly provided forward collision warnings when there was no immediate danger."
@@ -166,34 +152,6 @@ related:
       - url: "https://regmedia.co.uk/2021/04/23/tesla.jpg"
         width: 1000
         height: 567
-        isCached: true
-  - title: "Tesla adds chill and assertive self-driving modes"
-    excerpt: "Tesla's automated driver assist feature has added an assertive driving mode. The setting will follow other cars more"
-    publishedDateTime: 2022-01-12T03:59:00Z
-    webUrl: "https://www.businessghana.com/site/news/Technology/254221/Tesla-adds-chill-and-assertive-self-driving-modes"
-    type: article
-    provider:
-      name: BusinessGhana
-      domain: businessghana.com
-    quality: 39
-    images:
-      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-01-11-134342000.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Tesla Restores Its 'Assertive' Self-Driving Mode"
-    excerpt: "Free-Photos / Pixabay Tesla Inc (NASDAQ:TSLA) has reinstated the“assertive” self-driving mode. The company had issued an update in October"
-    publishedDateTime: 2022-01-11T18:40:00Z
-    webUrl: "https://menafn.com/1103522257/Tesla-Restores-Its-Assertive-Self-Driving-Mode&source=22"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-01/11/V_c159aimage_story.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "California regulator revisiting Tesla’s Full Self-Driving beta software"
     excerpt: "Recently a letter was sent to State Senator Lena Gonzalez, the agency now says it is “revisiting” that decision."

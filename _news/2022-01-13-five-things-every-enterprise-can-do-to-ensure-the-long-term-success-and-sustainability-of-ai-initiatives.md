@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Forbes
@@ -31,51 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Acquires Envizi to Help Organizations Accelerate Sustainability Initiatives and Achieve Environmental Goals"
-    excerpt: "This acquisition builds ... most comprehensive AI software to help them accelerate their sustainability initiatives and support their environmental goals, IBM is also using its software to improve ..."
-    publishedDateTime: 2022-01-11T15:29:00Z
-    webUrl: "https://newsroom.ibm.com/2022-01-11-IBM-Acquires-Envizi-to-Help-Organizations-Accelerate-Sustainability-Initiatives-and-Achieve-Environmental-Goals?lnk=ushpv18nf1"
+  - title: "Retail Industry Reshapes with Hybrid Cloud and AI to Help Meet Shifting Consumer Shopping and Sustainability Preferences"
+    excerpt: "Institute for Business Value, in association with the National Retail Federation, the world's largest retail trade association, released their second global study*, \" Consumers want it all ,\" which reveals rising consumer preferences for sustainability and shopping journeys splintered across multiple digital,"
+    publishedDateTime: 2022-01-13T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/retail-industry-reshapes-with-hybrid-cloud-and-ai-to-help-meet-shifting-consumer-shopping-and-sustainability-preferences-1031100016"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 147
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 44
     images:
-      - url: "https://newsroom.ibm.com/image/Largo+Announcement_Social_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "IBM looks to sustainability with acquisition of emissions data company Envizi"
-    excerpt: "Perhaps IBM has decided the Watson brand has lost some of its shine over the years and has moved on from attaching the name to every AI-driven solution in the company. The company notes that it is ..."
-    publishedDateTime: 2022-01-11T17:49:00Z
-    webUrl: "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/"
-    ampWebUrl: "https://techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/11/ibm-looks-to-sustainability-with-acquisition-of-emissions-data-company-envizi/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 86
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1234056550.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "IBM deals again, this time acquiring Australian firm in sustainability solutions move"
-    excerpt: "In a move to bolster its sustainability business, IBM has acquired Australia-based Envizi, a provider of data and analytics software focused on environmental performance management. Interestingly, IBM already was using Envizi as part of a growing portfolio of offerings dealing with supply chains,"
-    publishedDateTime: 2022-01-11T16:02:00Z
-    webUrl: "https://wraltechwire.com/2022/01/11/ibm-deals-again-this-time-acquiring-australian-firm-in-sustainability-solutions-move/"
-    ampWebUrl: "https://wraltechwire.com/2022/01/11/ibm-deals-again-this-time-acquiring-australian-firm-in-sustainability-solutions-move/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/01/11/ibm-deals-again-this-time-acquiring-australian-firm-in-sustainability-solutions-move/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 52
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg"
-        width: 6000
-        height: 4000
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+        width: 400
+        height: 209
         isCached: true
 
 secured: "WpMLa+IKRoTEHBBDGShRhv5LuEDtH1Xigzxqu5jvnuMbLLcNUuVRZfozACK8A2k1fHSb/Zo4R/Hl/qbxSCjPHCiqrJdr0EUR31XxrVboXvuwyAxtu2UTlZNv3LWDCNcVGf4Nf8fz4RfNUaEB3aE1nkAiRK2XbYKLAu94L8qOOoMyOzOCjlz3WDl42C9mI5V4XSNmBxJLy0GIx36WcTsvCFUzNBzpLNIryBW/RMWHqAY0uaG+KUiywvGjQk5s2ZpDZtHx+0qdXJcm9gPJagBndEFSvwZAxCM4tN3Y205dWfXH9eDtaWMyA7jL4ch5qWERea2fXp9/Q94glV76Qi6bKljli3aG+6MT8oQ8iJSmS+Ow9ptbn4w0lX8CkO/QfLvmZSPpCLCXLRpN8+CNtwMtEyVrhz2aRsTi8yBwJxUEqT5XXFTCTIurO4Xksx1cZUfsxFEUeOayYAHGzRvSUNNCZldGakMFcNzJbYfNek6SxBJ8ZlpqS8tku0a9THoamjbi7vZwzo0BM2iAfemjPQiXAA==;M10pLMB8Bm5wxh2En8tTBw=="

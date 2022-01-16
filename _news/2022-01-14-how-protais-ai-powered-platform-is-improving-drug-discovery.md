@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://bigthink.com/wp-content/uploads/2022/01/daniel-thomas-HA-0i0E7sq4-unsplash.jpg"
         width: 4098
         height: 2304
-        isCached: true
-  - title: "Artificial intelligence predicts RNA and DNA binding sites to speed up drug discovery"
-    excerpt: "Researchers developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
-    publishedDateTime: 2022-01-11T16:10:00Z
-    webUrl: "https://www.nanowerk.com/news2/biotech/newsid=59510.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 32
-    images:
-      - url: "https://www.nanowerk.com/news2/biotech/id59510_1.jpg"
-        width: 1290
-        height: 574
         isCached: true
   - title: "How AI is being used to improve disability employment"
     excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"

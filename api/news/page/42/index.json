@@ -2,6 +2,92 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-12-09-transient-review-ps4-a-lovecraftian-story-set-in-a-cyberpunk-world-that-doesnt-do-either-one-justice.md",
+      "title": "Transient Review (PS4) – A Lovecraftian Story Set In A Cyberpunk World That Doesn’t Do Either One Justice",
+      "excerpt": "Transient is a Cyberpunk Lovcraftien horror story that is too confusing to follow and leaves a lot to be desired. Read our Transient PS4 review.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psu.com/reviews/transient-review-ps4/",
+      "originalUrl": "https://www.psu.com/reviews/transient-review-ps4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.psu.com/wp/wp-content/uploads/2020/08/transient-ps4-news-reviews-videos.jpg",
+          "width": 1214,
+          "height": 736,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Play Station Universe",
+        "domain": "psu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-09-timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds.md",
+      "title": "Timekettle WT2 Edge: 1st Bi-Directional Simultaneous AI Translation Earbuds",
+      "excerpt": "For example, if we are in conference with foreign-language speakers, we normally have such kind of sense that we have to wait for the translation for a long time once we use some translation tools ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
+      "originalUrl": "https://www.digitaljournal.com/pr/timekettle-wt2-edge-1st-bi-directional-simultaneous-ai-translation-earbuds",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accesswire.com/users/newswire/images/676729/image.png",
+          "width": 602,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-09T02:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-09-berlin-is-leading-germany-in-ai-startups.md",
       "title": "Berlin is Leading Germany in AI Startups",
       "excerpt": "Berlin is actively taking part in this AI revolution of new startups and cutting-edge research. With a total of more than 300 AI companies, the city is a European center for innovators and visionaries in the field.",
@@ -1061,101 +1147,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-microsoft-corporation-msft-presents-at-ubs-2021-global-tmt-conference-transcript.md",
-      "title": "Microsoft Corporation (MSFT) Presents at UBS 2021 Global TMT Conference (Transcript)",
-      "excerpt": "UBS 2021 Global TMT Conference December 08, 2021 12:00 PM ET Company Participants Corey Sanders - Corporate VP, Microsoft Commercial Solution",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4474165-microsoft-corporation-msft-presents-ubs-2021-global-tmt-conference-transcript",
-      "publishedDateTime": "2021-12-08T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-new-windows-11-build-tests-voice-access-spotlight-backgrounds.md",
-      "title": "New Windows 11 build tests Voice Access, Spotlight backgrounds",
-      "excerpt": "Microsoft's Windows 11 Insider Build 22518 adds Voice Access for controlling your PC with your voice. Plus a new \"Spotlight\" background feature has been added, and Widgets has been reworked.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html",
-      "originalUrl": "https://www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2021/12/Voice-access-tutorial.png?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/558293/new-windows-11-build-tests-voice-access-spotlight-backgrounds-feature.html/amp",
-      "publishedDateTime": "2021-12-08T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -42,20 +42,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "MOSTLY AI Raises $25M, Expected to Continue Expansion in European, U.S. Markets"
-    excerpt: "MOSTLY AI, an Austrian data privacy startup, has raised $25 million in Series B funding led by Molten Ventures with"
-    publishedDateTime: 2022-01-11T16:43:00Z
-    webUrl: "https://www.corporatecomplianceinsights.com/mostly-ai-raises-25m/"
-    type: article
-    provider:
-      name: corporatecomplianceinsights.com
-      domain: corporatecomplianceinsights.com
-    quality: 33
-    images:
-      - url: "https://www.corporatecomplianceinsights.com/wp-content/uploads/2022/01/mostly-ai-series-b-01.jpg"
-        width: 1500
-        height: 1126
-        isCached: true
 
 secured: "n3pJf697Sdu918X0iaqgYePfDMx9hK9MNwmTWdKVhLJL7M2wYq5sFUIbn+/W8XMjs/bab+mQbCmwV0eyN6t1ZkSHL6AXmhurVEq5GBlkNeT5dIIWDPWsgfw4c4JOqtTD1Mc0py2hTHf8bIgtZJBwefSV8ACUqw/DDENlpUpngNcyfjbaEH6Xso6rPY2FfQppcxnOv1NS3fvRVnU9bfL5GIKQgmyMU0x82s4ZOC70Z4BQx1wBko++BC1kkf9bd/XOgXQkIQRy0U5YNs7T5wzvxHgMXz0UoXIHw6ZSDgPoNBGrbdBMXNsz23b/a+27Y4PfG/501T805lL2f8fTiyJ0fHvPnhLxA1mFquw5daAdBO0=;fSMfNOzssba1odfB1eXlOQ=="
 ---

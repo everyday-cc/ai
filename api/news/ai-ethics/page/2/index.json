@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-12-22-can-ai-tell-a-good-story.md",
+      "title": "Can AI tell a good story?",
+      "excerpt": "Deep-Story: Artificial Intelligence and Next Generation Storytelling I am an author and screenwriter and love the creative process – from the first inspiration to the finished book and film. Currently the mystical dance with the muse can take years and includes many highs and even more lows which test the perseverance of the writer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.innovatorsmag.com/can-ai-tell-a-good-story/",
+      "originalUrl": "https://www.innovatorsmag.com/can-ai-tell-a-good-story/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.innovatorsmag.com/wp-content/uploads/2021/12/etienne-girardet-EP6_VZhzXM8-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.innovatorsmag.com/can-ai-tell-a-good-story/amp/",
+      "cdnAmpWebUrl": "https://www-innovatorsmag-com.cdn.ampproject.org/c/s/www.innovatorsmag.com/can-ai-tell-a-good-story/amp/",
+      "publishedDateTime": "2021-12-21T20:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "innovatorsmag.com",
+        "domain": "innovatorsmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-c3ai-digital-transformation-institute-announces-call-for-proposals-for-ai-to-transform-cybersecurity-and-secure-critical-infrastructure.md",
       "title": "C3.ai Digital Transformation Institute Announces Call for Proposals for AI to Transform Cybersecurity and Secure Critical Infrastructure",
       "excerpt": "The C3.ai Digital Transformation Institute invites scholars, software developers, and researchers to advance the science of digital transformation with artificial intelligence (AI) designed to harden information security (Infosec) and secure critical infrastructure.",
@@ -1368,49 +1411,6 @@
         "Computer Vision",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project.md",
-      "title": "Google ethical AI co-lead Timnit Gebru launches own research project",
-      "excerpt": "Google scientist Dr Timnit Gebru's exit exposes rift in its ethical AI unit, head Jeff Dean faces criticism. Gebru was ousted from Google after a falling out with manag",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2020/12/Dr-Timnit-Gebru-770x433.jpg?impolicy=website&width=770&height=431",
-          "width": 770,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project-7788841.html/amp",
-      "publishedDateTime": "2021-12-03T02:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

@@ -49,20 +49,6 @@ related:
         width: 4098
         height: 2304
         isCached: true
-  - title: "Artificial intelligence predicts RNA and DNA binding sites to speed up drug discovery"
-    excerpt: "Researchers developed an artificial intelligence-driven solution that uses data on the structure of RNA or DNA molecules to identify sites on them where interaction with potential drug candidates can occur."
-    publishedDateTime: 2022-01-11T16:10:00Z
-    webUrl: "https://www.nanowerk.com/news2/biotech/newsid=59510.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 32
-    images:
-      - url: "https://www.nanowerk.com/news2/biotech/id59510_1.jpg"
-        width: 1290
-        height: 574
-        isCached: true
 
 secured: "eqrmuLx6iy1VEI+IWnbog50CsnvbdPVPiNbpUbuwqKe6366mdz/O4lYMigP/6nihDr+AjkK9rYvHw//Q4zLZXsKqRJD6n6lgtr7ZotEMyh4H0VBHXNceQv6rguUk6sd+h1vFmZRliK8xVj6muAVWNklwF47W9eGA4WWoASO6PO1A0WMMWNms0rUy+66gO2hqwJM+Thqoq/PzUFyH06kr+eklA9OWvr7SfPI+nNNI4XZ9MOoHTybFUI5SMPSsdLV3lYcH5QsZFT/9oLY32ETl744eVRUNoWMdJEyPozC5Iklq8K3lSqSs+XEEZP8we7mxq5r1RgA/P8ZyGp3NIl+Df/k3HyyyfIvR8tQ5qSjQQbI=;iu27sack+gliw3LU/Vwgkw=="
 ---

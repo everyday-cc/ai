@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-12-30-optical-chip-that-can-efficiently-solve-complex-ai-problems.md",
-      "title": "Optical Chip That Can Efficiently Solve Complex AI Problems",
-      "excerpt": "They combine photonics and electronics to process information at ultra-high speeds, low latency and low power consumption",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2021/12/Lightelligence-PACE.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/optical-chip-efficiently-solve-complex-ai-problems/amp",
-      "publishedDateTime": "2021-12-30T02:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2021-12-30-alibabas-research-academy-identifies-ai-applications-in-science-new-photonic-chips-as-top-tech-trends-for-2022.md",
       "title": "Alibaba’s research academy identifies AI applications in science, new photonic chips as top tech trends for 2022",
       "excerpt": "Artificial intelligence to improve scientific research and renewable energy, and photonics chips that work faster and use less energy, were two top future tech trends identified by Alibaba’s DAMO academy.",
@@ -1376,6 +1333,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-14-can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides.md",
+      "title": "Can an Artificial Intelligence Be Ethical? Researchers Asked AI, and It Sees Both Sides",
+      "excerpt": "A team of researchers asked an artificial intelligence program whether or not it can be ethical! And it turns out AI ethics might depend on us.",
+      "sourceUrl": null,
+      "webUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
+      "originalUrl": "https://interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DMqo0wx/sizes/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides_resize_md.jpg",
+          "width": 744,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
+      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/can-an-artificial-intelligence-be-ethical-researchers-asked-ai-and-it-sees-both-sides",
+      "publishedDateTime": "2021-12-13T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Interesting Engineering",
+        "domain": "interestingengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

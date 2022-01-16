@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Chinese robot companies increase investment as country aims to become global hub"
+    excerpt: "China recently unveiled a plan to become a global robotics hub by 2025. CGTN's Wu Lei visited two robot and AI companies to learn about the opportunities and challenges in the sector."
+    publishedDateTime: 2022-01-16T07:48:00Z
+    webUrl: "https://news.cgtn.com/news/2022-01-16/Chinese-robot-companies-increase-investment-16RPGm7kkUg/index.html"
+    type: article
+    provider:
+      name: CGTN
+      domain: cgtn.com
+    quality: 49
+    images:
+      - url: "https://video.cgtn.com/news/2022-01-16/Chinese-robot-companies-increase-investment-16RPGm7kkUg/video/d7bb7a7605ff4190bc1d1a30d679a78d/d7bb7a7605ff4190bc1d1a30d679a78d-1280.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "These Are the Five Covid-Driven A.I. Trends That Are Changing Healthcare"
     excerpt: "For all of its ills, Covid-19 has supercharged consumerism in America's healthcare system, offering tantalizing opportunities for companies interested in lowering health care costs and increasing access to quality medical care."
     publishedDateTime: 2022-01-11T18:07:00Z

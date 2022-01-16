@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-08-natural-language-processing-and-conversational-ai-in-the-call-center.md",
+      "title": "Natural Language Processing and Conversational AI in the Call Center",
+      "excerpt": "Natural language processing (NLP) and conversational AI are often used together with machine learning, natural language understanding (NLU) to create sophisticated applications that enable machines to communicate with human beings. This article will look ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
+      "originalUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cmswire.com/-/media/a40ebbb5088c4bb7a3be22349378658d.ashx?mw=1024",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
+      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/customer-experience/natural-language-programming-and-conversational-ai-in-the-call-center/amp/",
+      "publishedDateTime": "2021-12-08T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CMS Wire",
+        "domain": "cmswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-qa-more-sustainable-concrete-with-machine-learning.md",
       "title": "Q&A: More-sustainable concrete with machine learning",
       "excerpt": "MIT-IBM Watson AI Lab researchers aim to design concrete recipe mixtures that use AI to shrink its environmental footprint and cost, while recycling byproducts and increasing performance.",
@@ -1359,59 +1403,6 @@
         "Machine Learning",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-aws-brings-no-code-to-amazon-sagemaker-machine-learning.md",
-      "title": "AWS brings no-code to Amazon SageMaker machine learning",
-      "excerpt": "Amazon SageMaker Canvas provides a visual interface for preparing data and training models, no programming or machine learning expertise required.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/09/hands_of_robot_and_human_touch_amid_virtual_networked_connections_circuits_binary_code_digital_identity_artificial_intelligence_machine_learning_innovation_future_by_ipopba_gettyimages-1206796363_2400x1600-100858181-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3643471/aws-brings-no-code-to-amazon-sagemaker-machine-learning.amp.html",
-      "publishedDateTime": "2021-12-02T12:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

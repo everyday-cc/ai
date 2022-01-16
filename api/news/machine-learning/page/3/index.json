@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-23-introducing-hybrid-machine-learning.md",
+      "title": "Introducing hybrid machine learning",
+      "excerpt": "Gartner predicts that by the end of 2024, 75% of enterprises will shift from piloting to operationalizing artificial intelligence (AI), and the vast majority of workloads will end up in the cloud in the long run. For some enterprises that plan to migrate to the cloud, the complexity, magnitude, and length",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hybrid-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-hybrid-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/20/architecturepattern-1.jpg",
+          "width": 825,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T12:13:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-use-deep-learning-frameworks-natively-in-amazon-sagemaker-processing.md",
       "title": "Use deep learning frameworks natively in Amazon SageMaker Processing",
       "excerpt": "Until recently, customers who wanted to use a deep learning (DL) framework with Amazon SageMaker Processing faced increased complexity compared to those using scikit-learn or Apache Spark. This post shows you how SageMaker Processing has simplified running machine learning (ML) preprocessing and postprocessing",
@@ -1409,59 +1462,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-the-many-faces-of-artificial-intelligence.md",
-      "title": "The many faces of artificial intelligence",
-      "excerpt": "Artificial intelligence has graduated from science fiction to being applied to almost everything. One dental hygiene manufacturer has even claimed its electric toothbrushes now incorporate the technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1625755860/artificial_intelligence_machine_learning.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361842/the-many-faces-of-artificial-intelligence?amp",
-      "publishedDateTime": "2021-12-15T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

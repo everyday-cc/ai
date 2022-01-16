@@ -43,20 +43,6 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Second Starbucks store wins union recognition after US labour board ruling"
-    excerpt: "STARBUCKS workers at Buffalo’s Genesee Street cafe became the latest to join the Starbucks Workers United revolution sweeping the United States after voting in favour of union representation. The National Labour Relations Board ruled in favour of the global coffee chain’s employees,"
-    publishedDateTime: 2022-01-11T16:41:00Z
-    webUrl: "https://morningstaronline.co.uk/article/w/second-starbucks-store-wins-union-recognition-after-labour-board-ruling"
-    type: article
-    provider:
-      name: Morning Star
-      domain: morningstaronline.co.uk
-    quality: 22
-    images:
-      - url: "https://morningstaronline.co.uk/sites/default/files/AP21354602509275.jpg"
-        width: 1185
-        height: 790
-        isCached: true
 
 secured: "ctN86kbvr9kMyBCjSpW9oH3luFadxpo0xwKIZCLzQJr57eY1GICU+Z+jIiAh04UsbZIvav8wKwJKhXWpAwiiHmgb0qULtWSir7jikn//TNZXtrDlFv20TrYRjmfNbWfbRLXKqku5MV4AeoLMDWyWuGs3F3j5krninXVBHD3Kzec8L2KW0hTA+oa9YcDJAt4DK8ERvnL70rGAwqrGx1PhwYgD3pjjY/+TsVW0VvQwUe89Q6CBdYoGq0TD6Th6iw9Gt6f2i82qISrZ7lOLHDkP+QBq6PyWwCr7kGHdJBvrnKNqcT5rT2Ev1w7vYN9SwYWJ/UmGG6RvE5dJYUn2AgPOdGEWJ4Ybkf9UQyktnNYRds4=;NApFSopN3oLOgYDIDHw9rg=="
 ---
