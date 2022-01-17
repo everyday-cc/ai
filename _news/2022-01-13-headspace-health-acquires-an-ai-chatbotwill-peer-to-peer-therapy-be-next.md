@@ -7,8 +7,8 @@ originalUrl: "https://www.emarketer.com/content/headspace-health-acquired-ai-cha
 webUrl: "https://www.emarketer.com/content/headspace-health-acquired-ai-chatbot-will-peer-to-peer-therapy-next"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 72
+published: true
 
 provider:
   name: eMarketer
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Headspace Health acquires AI-powered mental health and wellness company Sayana"
-    excerpt: "Headspace Health has acquired Sayana, an AI-powered mental health and wellness company, for an undisclosed amount. Headspace Health says the acquisition of the San Francisco-based company will expand its ability to provide personalized self-care to its users."
-    publishedDateTime: 2022-01-12T13:00:00Z
-    webUrl: "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/"
-    ampWebUrl: "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 83
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/01/HH_Sayana.png?w=1024"
-        width: 1022
-        height: 535
-        isCached: true
   - title: "Headspace Health acquires AI-powered Sayana"
     excerpt: "Digital mental health platform Headspace Health acquired artificial intelligence-powered company Sayana ... Sayana takes methods from psychological therapies such as cognitive behavioral therapy and acceptance commitment therapy to create self-care ..."
     publishedDateTime: 2022-01-14T02:14:00Z

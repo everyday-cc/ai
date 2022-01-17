@@ -2,6 +2,128 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-11-24-robotics-and-artificial-intelligence-to-improve-health-rehabilitation.md",
+      "title": "Robotics and artificial intelligence to improve health rehabilitation",
+      "excerpt": "A Universidad Carlos III de Madrid (UC3M) spin-off, Inrobics Social Robotics, S.L.L., has developed a robotic device that provides an innovative motor and cognitive rehabilitation service that can be used at health centers as well as at home.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotics-and-artificia.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp",
+      "publishedDateTime": "2021-11-23T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-how-artificial-intelligence-is-improving-cancer-research.md",
+      "title": "How Artificial Intelligence is Improving Cancer Research",
+      "excerpt": "Today, though, humanity has a powerful new ally in the fight to eliminate cancer: artificial intelligence. AI and machine learning algorithms gather the data needed to understand cancer holistically and support cancer researchers by providing them with a deeper level of insight than ever available before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research",
+      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp",
+      "publishedDateTime": "2021-11-23T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-23-scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis.md",
+      "title": "Scaling for the future of ophthalmology with artificial intelligence powered by Azure Healthcare APIs",
+      "excerpt": "ZEISS partnered with Microsoft to power the ZEISS Medical Ecosystem with the Azure Healthcare APIs. Azure Healthcare APIs allow for data to be standardized and exchanged between the ZEISS medical centers and their devices across the world while leveraging Microsoft's geo-support for data residency requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
+      "originalUrl": "https://azure.microsoft.com/blog/scaling-for-the-future-of-ophthalmology-with-artificial-intelligence-powered-by-azure-healthcare-apis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2021-11-23-healthcare-triangle-hcti-selected-by-monument-health-to-automate-document-processing.md",
       "title": "Healthcare Triangle (HCTI) Selected By Monument Health to Automate Document Processing",
       "excerpt": "Healthcare Triangle, Inc. (HCTI) to provide Monument Health with critical support to unlock the data in the documents and gain a comprehensive view of patients&CloseCurlyQuote; medical history PLEASANTON,",

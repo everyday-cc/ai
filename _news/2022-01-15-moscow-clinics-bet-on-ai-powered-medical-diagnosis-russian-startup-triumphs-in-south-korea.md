@@ -3,8 +3,8 @@ category: news
 title: "Moscow clinics bet on AI-powered medical diagnosis, Russian startup triumphs in South Korea"
 excerpt: "No less than two million preliminary diagnoses using a neural network were made to date in Moscow during medical home visits, city authorities"
 publishedDateTime: 2022-01-14T16:29:00Z
-originalUrl: "https://intellinews.com/moscow-clinics-bet-on-ai-powered-medical-diagnosis-russian-startup-triumphs-in-south-korea-231860/?source=russia"
-webUrl: "https://intellinews.com/moscow-clinics-bet-on-ai-powered-medical-diagnosis-russian-startup-triumphs-in-south-korea-231860/?source=russia"
+originalUrl: "https://www.intellinews.com/moscow-clinics-bet-on-ai-powered-medical-diagnosis-russian-startup-triumphs-in-south-korea-231860/"
+webUrl: "https://www.intellinews.com/moscow-clinics-bet-on-ai-powered-medical-diagnosis-russian-startup-triumphs-in-south-korea-231860/"
 type: article
 quality: 27
 heat: 27
@@ -23,6 +23,6 @@ images:
     height: 510
     isCached: true
 
-secured: "ZUnpExa+d2JP0xeulUbUje+kea4Xpmcd4CZEqHg+BbmppM2xPHxAbIjcL5/n5HNEnrcgYhn1OxdFXI69hZ/CquhNlm6LDQbhxcwdOwHDu06vfHnIZelyAcKDv2jcXoA+6MXcJrmWdKNW7f5F12cLCZRI7Dn2jwiSKE2tmlKERLHzQbHRLnKdMBZQcM3HUu/2G3tBoKOw8JH9QPy8nijfVchWkfwp2RlNdNU3ytYfQKpuiIKEdGSRXFdzn1r7lK4HQo9ZKvx8YmyqTIOxMgiQX1YztSPeOAvb0fwWKMZvEAOJ3E6F+pjDSEO/REZKBa42lqqCDYZEIafpnTRZqO13maoM161vcPk8gZKgjXTO9oI=;5aKbSwAVZ2BOMTuKaFy06A=="
+secured: "ES1DATOJpvmF9RRcFB6uSWEMnRSnUM4C9KvlaQNXqgtIDXKrQAgSrNHzesCRm5hRFbUrz+0fC/f1+avLlmB3TOV7Aki2cvnLftninW3QFAmH2UaTdMIyNvRE/bla5HybYFBu2vmy8LUi7r/Tpgjb6sQwrO+nwRfDmcWw6NBcC0MKWnHsQOyKRvXlaFJzlczbdUjnQVgZrBiuTGA5Mgd6D6vRovJINssmwU23OzmEZyjaQHS2x7V9Q9k8ciAidrkQR8Y+pQTcWMaG5QiR+++kcbp1XavvKlFVnfbZL2bO0c5zpeIY8e8TmbdsR/fcjxyHUTeUK1wBURFkE1h3GUkDCTB4ZlgzmS/6dg3uHh8FlJg=;T+DDmBql8DZnoAHC0HvOMw=="
 ---
 

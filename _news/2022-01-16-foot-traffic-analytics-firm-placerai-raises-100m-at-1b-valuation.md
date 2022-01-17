@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 680
         isCached: true
-  - title: "Location analytics company Placer.ai nabs $100M to generate insights from foot traffic"
-    excerpt: "Placer.ai gives retailers, hospitality outlets, and real estate companies foot-traffic data to unlock insights on customers and competition."
-    publishedDateTime: 2022-01-12T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/"
-    ampWebUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/analytics-banner-min.0439da31-scaled-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 665
-        isCached: true
   - title: "What to expect for data prep and data analytics in 2022"
     excerpt: "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ..."
     publishedDateTime: 2022-01-15T00:56:00Z
@@ -101,20 +85,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/GettyImages_1276589384.61e1b2419bc26.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AIOps startup BigPanda raises $190M at $1.2B valuation"
-    excerpt: "BigPanda Inc., a fast-growing startup competing in the AIOps segment of the enterprise software market, today said that it has closed a $190 million funding round at a $1.2 billion valuation. Advent International and Insight Partners co-led the round."
-    publishedDateTime: 2022-01-12T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/01/12/draft-aiops-startup-bigpanda-raises-190m-at-1-2b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/unsplash.png"
-        width: 850
-        height: 477
         isCached: true
   - title: "Location data firm Placer.ai hits unicorn status with $100M Series C"
     excerpt: "Placer.ai hits unicorn status with $100 million Series C, planning to double its headcount and expand its data offerings to new clients."
@@ -183,15 +153,6 @@ related:
         width: 1200
         height: 817
         isCached: true
-  - title: "Placer.ai joined the Bay Area's unicorn herd with a new $100M round"
-    excerpt: "Placer Labs Inc. The startup, which does business as Placer.ai, announced Wednesday its backers valued it at $1 billion as part of its latest funding round, a $100 million Series C. That's nearly triple the $350 million valuation they assigned it in its Series B round last April,"
-    publishedDateTime: 2022-01-12T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/01/12/placer-ai-joins-unicorns-with-new-funding-round.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "zrL790rZpZdtjCfuX7k7V+xJ0lwex/JlPsSuFh9keK0Rm0Zm6ZKJT7WaAwYdIc4AlVtQ0SQYws0j2rnVGx2xI880RPuRmgWf/8uI++/zPrVJj9oEedNvOxfcdtdwhf+4Knr7Y9RACqyw+tLNtp7kWXz6InpWRxrYB09hxYI1TL7jqui4Z1D0bH7cYQnABH5cCpZAFhNOEw5bZqOsBgyljlM2yYhqL9tqICS3SWVoi781l3bxrRJtVoZn7AZzgPKrA27IYVd8ariT/1ngsu9OH1ypdp5IJBqJR8H6jfZM75qvb5Oj7Qx5Xf+9og50FrSS+IC7/6rxs9IfN8+Sz4BedFw0ysVCkrTkZxjH8AbvHRbRjbUGZxi0eDrVoRwr7cNO5U1IwwQauTsP6DpB50Pzt4W8+jUubWKpUl3hp4ZfyDYBJzUdP8oHtFVimSB2p5g6gxVkIOADvEXF9BMcixeAWlJtF/Z7z0HoYgtKGF5Ycq03CmJuBie/H1/SoIfYbW8dMGgn6VZdHRRQsK8c1uUlfw==;1ZlG7ORnnMDrfDe5S5rsbw=="
 ---

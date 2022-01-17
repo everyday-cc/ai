@@ -227,50 +227,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-12-cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform.md",
-      "title": "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform",
-      "excerpt": "Cogniteam today announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development and deployment platform, allowing cloud-enabled deployments to use NVIDIA technology for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/",
-      "originalUrl": "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2022/01/Cogniteam_Nimbus-Screenshot.jpeg",
-          "width": 700,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T13:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-01-12-latest-nvidia-drivers-reveal-ai-powered-downscaling-feature-called-dldsr.md",
       "title": "Latest Nvidia drivers reveal AI-powered downscaling feature called DLDSR",
       "excerpt": "Dynamic Super Resolution is Nvidia’s method for letting users easily downsample games. It renders a game at a higher resolution, then shrinks it back down to",
@@ -420,24 +376,33 @@
     {
       "path": "_news/2022-01-10-artificial-intelligence-chip-market-to-reach-1949-bn-globally-by-2030-at-374-cagr-amr.md",
       "title": "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR: AMR",
-      "excerpt": "Allied Market Research recently published a report, titled, \"Artificial Intelligence Chip Market by Chip Type (GPU, ASIC,",
+      "excerpt": "Allied Market Research recently published a report, titled, \"Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and Others), Application (Natural",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/01/n24967954/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr-amr",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/01/n24967954/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr-amr",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61e13cad38317.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/24967954",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24967954",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-01-10T04:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -447,9 +412,52 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI in Healthcare",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-01-09-5-best-ai-stocks-for-2022.md",
+      "title": "5 Best AI Stocks for 2022",
+      "excerpt": "In this article, we will take a look at the 5 best AI stocks for 2022. If you want our detailed analysis of these stocks, go directly to the 10 Best AI Stocks for 2022. Graphics chip giant NVIDIA Corporation (NASDAQ:NVDA) is one of the best AI stocks for 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-08T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -848,6 +856,49 @@
       "provider": {
         "name": "Sharecast",
         "domain": "sharecast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-car-makers-lock-in-long-term-deals-with-chip-giants-for-future-autonomous-vehicles.md",
+      "title": "Car makers lock in long-term deals with chip giants for future autonomous vehicles",
+      "excerpt": "The battle between chip giants in the autonomous vehicle space isn't a two-horse race like it was for desktop PCs. Car makers have a somewhat wider choice of silicon vendors. At CES, Intel, Qualcomm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
+      "originalUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/12/07/car_shutterstock.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
+      "publishedDateTime": "2022-01-06T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1312,42 +1363,8 @@
       "title": "Inspur Information Identified as a Strong Performer in AI Infrastructure Report",
       "excerpt": "Inspur Information, a leading IT infrastructure solutions provider, announced today that Forrester, a leading global research company, released The Forrester Wave™: AI Infrastructure, Q4 2021, which identified Inspur Information as a Strong Performer and recognized its full-stack AI solutions.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-inspur-information-identified-as-strong-performer-ai-infrastructure-/2022/01/04/9519559.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-inspur-information-identified-as-strong-performer-ai-infrastructure-/2022/01/04/9519559.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-deeplite-accelerates-ai-on-arm-cpus-using-ultra-compact-quantization.md",
-      "title": "Deeplite Accelerates AI on Arm CPUs Using Ultra-Compact Quantization",
-      "excerpt": "DeepliteRT allows customers to utilize existing Arm CPUs for computer vision at the edge while delivering GPU-level performance MONTREAL, Jan. 4, 2022 /PRNewswire/ -- Deeplite, a provider of AI optimization software designed to make AI model inference faster,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/canada-montreal-c2d711001ce55536dd3fc24b073c10e1",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/canada-montreal-c2d711001ce55536dd3fc24b073c10e1",
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-9dd91b63072a41d99ad49448991e2f5b",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-9dd91b63072a41d99ad49448991e2f5b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1366,7 +1383,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T05:44:00-08:00",
+      "publishedDateTime": "2022-01-04T06:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",

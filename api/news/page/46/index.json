@@ -2,6 +2,300 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2021-12-08-neuralink-and-tesla-have-an-ai-problem-that-elons-money-cant-solve.md",
+      "title": "Neuralink and Tesla have an AI problem that Elon’s money can’t solve",
+      "excerpt": "What do Tesla's FSD system, Neuralink's algorithms, and lazy people all have in common? It'd be great if they worked.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
+      "originalUrl": "https://thenextweb.com/news/neuralink-tesla-have-an-ai-problem-elons-money-cant-solve",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2Felon-burn-money.jpg&signature=e036468bf08b9464f7f31ef7c598bb32",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T14:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-qa-more-sustainable-concrete-with-machine-learning.md",
+      "title": "Q&A: More-sustainable concrete with machine learning",
+      "excerpt": "MIT-IBM Watson AI Lab researchers aim to design concrete recipe mixtures that use AI to shrink its environmental footprint and cost, while recycling byproducts and increasing performance.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
+      "originalUrl": "https://news.mit.edu/2021/more-sustainable-concrete-machine-learning-1207",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202111/man-making-cement.jpg",
+          "width": 999,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-ex-tesla-engineers-claim-full-self-driving-autopilot-video-was-manipulated-and-edited-out-barrier-collision.md",
+      "title": "Ex Tesla Engineers Claim Full-Self Driving Autopilot Video Was Manipulated And Edited Out Barrier Collision",
+      "excerpt": "The former Tesla engineers accuse the company of misleading the public by using tech not available to customers",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/",
+      "originalUrl": "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/ex-tesla-engineers-claim-video-promoting-full-self-driving-autopilot-2-0-edited-out-collision-with-a-barrier/amp/",
+      "publishedDateTime": "2021-12-07T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-operational-intelligence-startup-netspring-lands-13m.md",
+      "title": "Operational intelligence startup NetSpring lands $13M",
+      "excerpt": "NetSpring, a startup offering an AI-driven operational intelligence solution, today announced it has raised $13 million in a series A round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-554489637-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/operational-intelligence-startup-netspring-lands-13m/amp/",
+      "publishedDateTime": "2021-12-07T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-automl-market-revenue-to-surpass-148308-million-by-2030-says-ps-intelligence.md",
+      "title": "AutoML Market Revenue to Surpass $14,830.8 Million by 2030, Says P&S Intelligence",
+      "excerpt": "NEW YORK, Dec. 6, 2021 /PRNewswire/ -- From $346.2 million in 2020, the automated machine learning market is predicted to reach $14,830.8 million by 2030, demonstrating a CAGR of 45.6% from 2020 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/automl-market-revenue-to-surpass-14-830-8-million-by-2030-says-p-amp-s-intelligence-883853650.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1224988/P_and_S_Intelligence_Logo.jpg?p=facebook",
+          "width": 1498,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-07T12:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-identity-verification-startup-incode-raises-220m.md",
+      "title": "Identity verification startup Incode raises $220M",
+      "excerpt": "Incode, a company developing an AI-powered identity verification product, has raised $220 million in venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/",
+      "originalUrl": "https://venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/10/GettyImages-522152569-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/identity-verification-startup-incode-raises-220m/amp/",
+      "publishedDateTime": "2021-12-07T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-3-impacts-of-ai-in-the-machine-translation-industry.md",
       "title": "3 Impacts of AI in the Machine Translation Industry",
       "excerpt": "Given that there are over 7,000 languages, content creation ... One of the key drivers of the advanced AI software being deployed for translation services is the access to huge datasets and ...",
@@ -908,273 +1202,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-facial-recognition-isnt-working-for-some-windows-11-users.md",
-      "title": "Facial recognition isn’t working for some Windows 11 users",
-      "excerpt": "Some Windows 11 users are claiming that the facial recognition software won't work, but the OS isn't to blame, but the hardware itself.",
-      "sourceUrl": null,
-      "webUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
-      "originalUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.windowsreport.com/wp-content/uploads/2021/12/facial-recognition-windows-11.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://windowsreport.com/facial-recognition-not-working-windows-11/?amp",
-      "cdnAmpWebUrl": "https://windowsreport-com.cdn.ampproject.org/c/s/windowsreport.com/facial-recognition-not-working-windows-11/?amp",
-      "publishedDateTime": "2021-12-07T04:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows",
-        "domain": "windowsreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-what-marketing-teams-need-to-know-about-codeless-ai-infrastructure.md",
-      "title": "What Marketing Teams Need To Know About Codeless AI Infrastructure",
-      "excerpt": "Codeless or no-code AI infrastructure is a testament to data scientists working in tandem with domain experts to build products for particular purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61ae0dc401c039d48f234705%2F0x0.jpg",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/07/what-marketing-teams-need-to-know-about-codeless-ai-infrastructure/amp/",
-      "publishedDateTime": "2021-12-07T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-university-wide-institute-to-integrate-natural-artificial-intelligence.md",
-      "title": "University-wide Institute to Integrate Natural, Artificial Intelligence",
-      "excerpt": "Harvard University on Tuesday launched the Kempner Institute for the Study of Natural and Artificial Intelligence, a new University-wide initiative standing at the intersection of neuroscience and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://news.harvard.edu/gazette/story/2021/12/new-harvard-institute-to-study-natural-artificial-intelligence/",
-      "originalUrl": "https://hms.harvard.edu/news/university-wide-institute-integrate-natural-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.harvard.edu/wp-content/uploads/2021/11/AI_Social-1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-how-ai-ethics-falls-short-preserving-jobs-is-not-enough.md",
-      "title": "How AI ethics falls short - preserving jobs is not enough",
-      "excerpt": "AI ethics has been a hot topic for about five years, but are we getting to the fundamental issues? Here's why well-intentioned ideas for preventing AI job loss come up short.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
-      "originalUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2019-09/code-of-ethics.jpg",
-          "width": 1277,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-ai-ethics-falls-short-preserving-jobs-not-enough?amp",
-      "publishedDateTime": "2021-12-07T02:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed.md",
-      "title": "Artificial intelligence carries a huge upside. But potential harms need to be managed",
-      "excerpt": "The increasing use of artificial intelligence and machine learning in public decision making is raising critical issues around fairness and human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "originalUrl": "https://theconversation.com/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/436064/original/file-20211207-27-1vcec0k.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=224&fit=crop",
-          "width": 320,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-carries-a-huge-upside-but-potential-harms-need-to-be-managed-173073",
-      "publishedDateTime": "2021-12-07T02:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-07-flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based-blood-test.md",
-      "title": "Flagship Pioneering Launches Harbinger Health to Detect Early Cancer with a Simple, Bio-AI Based Blood Test",
-      "excerpt": "Flagship Pioneering today announced the launch of Harbinger Health, a bioplatform company pioneering the detection of early cancer with a simple blood test",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based-blood-test-301438732.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_health/flagship-pioneering-launches-harbinger-health-to-detect-early-cancer-with-a-simple-bio-ai-based/article_d1a3b857-7adf-59c4-9ab6-4c6bae8b3f2b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1027035/Flagship_Pioneering_Logo.jpg?p=facebook",
-          "width": 1500,
-          "height": 785,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T02:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

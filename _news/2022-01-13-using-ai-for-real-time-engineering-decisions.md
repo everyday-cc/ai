@@ -38,20 +38,15 @@ related:
         width: 1222
         height: 676
         isCached: true
-  - title: "The Manufacturing World Is Ready for Open-Source AI"
-    excerpt: "One might assume that artificial intelligence can be easily applied to industrial manufacturing. This is unfortunately not the case."
-    publishedDateTime: 2022-01-12T12:32:00Z
-    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34308-the-manufacturing-world-is-ready-for-a-wordpress-for-ai"
+  - title: "Moment AI: Automotive safety startup builds AI for self-driving cars"
+    excerpt: "Moment AI develops a software for the autonomous vehicle industry to protect vulnerable drivers from accidents — and now see why this Arlington company is one of our Startups to Watch for 2022."
+    publishedDateTime: 2022-01-14T09:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2022/01/14/startups-to-watch-moment-ai-self-driving-car-tech.html"
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 37
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2022/0111_code.png?height=635&t=1641960813&width=1200"
-        width: 847
-        height: 635
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "ajEiWI6Nz8Rw5UYJiCDOButNKusOf3wJ894/ZyhJS2jvdZBYhH6atZsISx2LYYamzYINJ560bYlsyyaGq+BTGb9FX3aayB2eEo2Z+7ErbvFhiAYzJy0Aac4nnnu7ks+lNcoXQmPUltspRj6e86NSJpqnZHYDAKPexjOIvIrw8nc7rZZx4FvJCPJZPhURVzGIpvFHUbBeyp5O6A3VjJmdEmVfC9wmXF27XK7f139Gah9K4iBNW71G052nbZAMLaj5OSc7mB8X7XucQp5L5NqwxnJUccSjGpZwOeWANlWxWJeyRHrFFn5oDbO8CFQAqpH5JxoEBni063OHWUPCWxf0H6BCCT6c45+XpRALZyjxxR0=;ZygTOWignb7WZLmUMUfDPA=="
 ---

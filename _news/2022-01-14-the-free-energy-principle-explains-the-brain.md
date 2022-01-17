@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-01-free-energy-principle-brain.a
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-01-free-energy-principle-brain.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Free-energy principle can explain how neural networks are optimized for efficiency"
+    excerpt: "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency."
+    publishedDateTime: 2022-01-17T04:48:00Z
+    webUrl: "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 68
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "The free-energy principle explains the brain"
     excerpt: "The free-energy principle can explain how neural networks are optimized for efficiency, according to new research. This finding will be useful for analyzing impaired brain function in thought disorders as well as for generating optimized neural networks for artificial intelligences."
     publishedDateTime: 2022-01-16T14:22:00Z

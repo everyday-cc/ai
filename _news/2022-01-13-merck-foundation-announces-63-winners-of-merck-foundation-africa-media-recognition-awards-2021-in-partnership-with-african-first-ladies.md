@@ -33,22 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Merck Foundation announces 63 winners of Merck Foundation Africa Media Recognition Awards 2021 in partnership With African First Ladies"
-    excerpt: "Merck Foundation, the philanthropic arm of Merck KGaA Germany in partnership with African First Ladies announced the winners of Merck Foundation Africa Media"
-    publishedDateTime: 2022-01-12T12:31:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/merck-foundation-announces-63-winners-of-merck-foundation-africa-media-recognition-awards-2021-in-partnership-with-african-first-ladies-122011201095_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/merck-foundation-announces-63-winners-of-merck-foundation-africa-media-recognition-awards-2021-in-partnership-with-african-first-ladies-122011201095_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/merck-foundation-announces-63-winners-of-merck-foundation-africa-media-recognition-awards-2021-in-partnership-with-african-first-ladies-122011201095_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 12
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/12/full/20220112172812.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "yWdO8PVjm9LQcULqGsVIF+qw3PWTcMOEpa/HQ4RKr2t29JP8y8cEDrxa3nBGz/lZwWLRXF9Bf0GUAYNFv5KCeA+UM5KiInLkFZSasLq3P6e7yC9K85xANKLRVoMYyL58XiZA3TROT5CLOtRNBKOkA7O4GxatwOryUPN1F90i8SAHTvCXDyJBlzNy/Z1b+opI7G6AA0a8TL17lDQn7HgmxrPLvHLjUMG+FvARUcNXwmoqZRJvpFxGGdpYRyL2RsNLbALgXIEGCqIWN0j02jFS4Wb28k/TCxz2kbhrAiX0tTW6uLUmZQHIxLFnCfr8cqWHuvLoBNB9VciYwWCaSGQB9ASDU2t0adNQiYlxdavtsH8=;m/pff7yjYBHLlI7CRxW/FQ=="
 ---

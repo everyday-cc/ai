@@ -7,7 +7,7 @@ originalUrl: "https://www3.technologyevaluation.com/research/article/ai-trends.h
 webUrl: "https://www3.technologyevaluation.com/research/article/ai-trends.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Data Science & AI Trends For 2022"
-    excerpt: "After a pandemic-driven start to 2020, enterprises across industries realised the significance of AI and Data Sciences. Its adoption accelerated, and leaders correctly predicted growth in the industry in all aspects."
-    publishedDateTime: 2022-01-12T11:24:00Z
-    webUrl: "https://analyticsindiamag.com/top-data-science-ai-trends-for-2022/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Trends-Report-Banner-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
-  - title: "Tech Trends: Sensor Fusion Pushes AI Forward"
-    excerpt: "Combining data from multiple sensors can ease the strict reliance on video surveillance when creating deep learning algorithms"
-    publishedDateTime: 2022-01-14T15:30:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21250598/tech-trends-sensor-fusion-pushes-ai-forward"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 37
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/12/Coulombe__Brian.61bcb95e59904.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Top Data Science & AI Trends For 2022"
     excerpt: "MLDS 2022 is just 2 days away.  Machine Learning Developers Summit is our flagship developers conference and is scheduled for 19-20th Jan, virtually."
     publishedDateTime: 2022-01-16T10:54:00Z

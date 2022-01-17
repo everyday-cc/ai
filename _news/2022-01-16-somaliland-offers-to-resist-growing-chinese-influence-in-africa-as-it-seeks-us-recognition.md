@@ -30,22 +30,6 @@ images:
 
 related:
   - title: "Merck Foundation announces 63 winners of Merck Foundation Africa Media Recognition Awards 2021 in partnership With African First Ladies"
-    excerpt: "Merck Foundation, the philanthropic arm of Merck KGaA Germany in partnership with African First Ladies announced the winners of Merck Foundation Africa Media"
-    publishedDateTime: 2022-01-12T12:31:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/merck-foundation-announces-63-winners-of-merck-foundation-africa-media-recognition-awards-2021-in-partnership-with-african-first-ladies-122011201095_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/merck-foundation-announces-63-winners-of-merck-foundation-africa-media-recognition-awards-2021-in-partnership-with-african-first-ladies-122011201095_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/merck-foundation-announces-63-winners-of-merck-foundation-africa-media-recognition-awards-2021-in-partnership-with-african-first-ladies-122011201095_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 12
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-01/12/full/20220112172812.jpg"
-        width: 600
-        height: 450
-        isCached: true
-  - title: "Merck Foundation announces 63 winners of Merck Foundation Africa Media Recognition Awards 2021 in partnership With African First Ladies"
     excerpt: "Merck Foundation, the philanthropic arm of Merck KGaA Germany in partnership with African First Ladies announced the winners of Merck Foundation Africa Media Recognition Awards \"More Than a Mother\" 2021."
     publishedDateTime: 2022-01-13T00:20:00Z
     webUrl: "https://news.webindia123.com/news/Articles/Business/20220112/3891372.html"

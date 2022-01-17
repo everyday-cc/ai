@@ -19,21 +19,33 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Five Revenue Models That Can Drive Growth For AI Startups"
-    excerpt: "However, true AI startups — ones whose products are built on proprietary, computational, deep-tech AI — are just now emerging in larger numbers, finding markets for their technology among a wide range of industries eager to automate their businesses."
-    publishedDateTime: 2022-01-12T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/01/12/five-revenue-models-that-can-drive-growth-for-ai-startups/amp/"
+  - title: "The U.S. Air Force Is Building Artificial Intelligence Bombs for the F-16"
+    excerpt: "Two Air Force F-16 jets fired Small Diameter Bombs were able to share threat data with one another. Here's What to Remember: The collaborative weapons experiment is showing great promise. Two Air Force F-16 jets fired Small Diameter Bombs were able to share threat data with one another while in flight to a target using an emerging kind of collaborative weapons coordination,"
+    publishedDateTime: 2022-01-15T03:30:00Z
+    webUrl: "https://nationalinterest.org/blog/reboot/us-air-force-building-artificial-intelligence-bombs-f-16-199358"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The National Interest
+      domain: nationalinterest.org
+    quality: 51
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dd841f3f24fc2994034ea8%2F0x0.jpg"
+      - url: "https://nationalinterest.org/sites/default/files/main_images/f16_1222x_0.jpg"
+        width: 1222
+        height: 676
+        isCached: true
+  - title: "Using AI for Real-Time Engineering Decisions"
+    excerpt: "MathWorks’ Heather Gorr explains how engineers can apply artificial intelligence to real-time engineering decisions, as well as the issues involving data synchronization."
+    publishedDateTime: 2022-01-12T16:41:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/article/21213913/electronic-design-using-ai-for-realtime-engineering-decisions"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 37
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/01/AI_engineering_promo.61df026b7f048.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 900
+        height: 630
         isCached: true
 
 secured: "fek6P8FEUSpH8yYTg7I32GGKpQcBHJeew+MXl4JkIX/qbPNtx1Ec2tg0z+VfMaz3rfLpnblnEoristd+ZHnQOAF8HDEwYUO55GBeJM9kvwp5K/0I0rtzrdvRw7TgXGc9LBPcev56Q/+F/j9RY7BhlkglFovk64yA1kmkf3KxJdeDE0dgYVHZ0fW+GAObD6mBTlhWLCcoLa/27MnuXDhfI65PcCwBDNyXYY/G1X950fMC+sRGDGc2pAbhUkP/LuHH8jRGb3Ks0wAzWksGTy4Nh61vW/q4prfLvbCQACu9iuZrOoFR+tOuAwPO1NfCT/T8kTD2yhnyceldPgm+RmNQ1Aoz1k+hT9aO7JjpRJCiwrLP6NzoOlyhFyoyhGS5xM3U+Ua83gp8N0prASIiMX6Y/c9LxCqX2Yu8y9xN50rg2qmKFMSmW2HiJTo5hjJchw7+w8dG55kd52ix0vR7fyu6SfaTOMXi1WXybjWNMh3ALSx9j1lOdf9SPMuVlV6fe0/ZDhRF8LIkH4jgpLKddf7Jfw==;ckFoj1GbNCcRJB8RE5nUIw=="

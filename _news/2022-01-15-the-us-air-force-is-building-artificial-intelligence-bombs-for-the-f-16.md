@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Manufacturing World Is Ready for Open-Source AI"
-    excerpt: "One might assume that artificial intelligence can be easily applied to industrial manufacturing. This is unfortunately not the case."
-    publishedDateTime: 2022-01-12T12:32:00Z
-    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/34308-the-manufacturing-world-is-ready-for-a-wordpress-for-ai"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 37
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/0-images/article-images/2022/0111_code.png?height=635&t=1641960813&width=1200"
-        width: 847
-        height: 635
-        isCached: true
   - title: "Using AI for Real-Time Engineering Decisions"
     excerpt: "MathWorks’ Heather Gorr explains how engineers can apply artificial intelligence to real-time engineering decisions, as well as the issues involving data synchronization."
     publishedDateTime: 2022-01-12T16:41:00Z
@@ -52,6 +38,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Moment AI: Automotive safety startup builds AI for self-driving cars"
+    excerpt: "Moment AI develops a software for the autonomous vehicle industry to protect vulnerable drivers from accidents — and now see why this Arlington company is one of our Startups to Watch for 2022."
+    publishedDateTime: 2022-01-14T09:00:00Z
+    webUrl: "https://www.bizjournals.com/washington/news/2022/01/14/startups-to-watch-moment-ai-self-driving-car-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "NaOS+iUZ7UrMx7YHzBLfh7RuoHXj7ieIAIxnEUu5gxeVDS+ws5W+wn6tqN4feM3gNHgT5V6eRS1B5ECpT+8l6N/t80ngV7ZwDiCvH7aJfGBMFdaeMpwDhgHDUUyv2W5CArMPkCAVNImD0fVe/BRyad6z5yKO2eMjy0dvQlf9qX8aPiheeFkwi3jEf3ERE6HWsIwZJYtnpE0GnVWKVkLmE1tuEqwL7m64Vv1RoRIHYx4W/YnBCC1/DVw4XPrHbJyyDrYCjUnJDgJyGaT7MZOF8l0416DR2qX1LUYUTf7YLB8C60rYdQNn9Ay2dW2ggcY2/NgCz04gRoxMnoI5cY8TBjvSOxr/s3JFxLuFVUaXZcQ=;QC7jFgXfHZbZfrCKH+PZ+w=="
 ---

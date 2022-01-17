@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-13-five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives.md",
+      "title": "Five Things Every Enterprise Can Do To Ensure The Long-Term Success And Sustainability Of AI Initiatives",
+      "excerpt": "As companies prioritize sustainable value creation, it’s past time for AI to become a bigger part of the conversation. By taking these five steps, organizations can go a long way in achieving resilient AI initiatives that benefit all stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e04920093cc7466934b4ed%2F0x0.jpg",
+          "width": 1200,
+          "height": 823,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/01/13/five-things-every-enterprise-can-do-to-ensure-the-long-term-success-and-sustainability-of-ai-initiatives/amp/",
+      "publishedDateTime": "2022-01-13T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform.md",
+      "title": "How was my pitch, Jenny? Zoom's venture fund invests in conversational AI platform",
+      "excerpt": "Second Nature uses natural language processing and subject matter experts to build sales skills and product knowledge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
+      "originalUrl": "https://www.techrepublic.com/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2022/01/13/3f149792-bfed-4dec-9ea4-240158b8d3c2/resize/1200x/30778448d1a8d8309ebad3f0df49e1a6/second-nature-analysis-screenshot.jpg",
+          "width": 1200,
+          "height": 935,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/",
+      "publishedDateTime": "2022-01-13T07:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-rackspace-taps-digivante-to-offer-ai-based-application-testing.md",
       "title": "Rackspace taps Digivante to offer AI-based application testing",
       "excerpt": "Rackspace has partnered with Digivante to offer artificial intelligence (AI) -based application testing services to its customers in Europe, the Middle East, and Africa. The partnership will help significantly reduce testing cycle times for Rackspace customers,",
@@ -752,6 +856,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-13-headspace-health-acquires-an-ai-chatbotwill-peer-to-peer-therapy-be-next.md",
+      "title": "Headspace Health acquires an AI chatbot—will peer-to-peer therapy be next?",
+      "excerpt": "In wake of Headspace Health’s acquisition of AI chatbot Sayana, we explore how telemental health firms might look to stand out from the pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.emarketer.com/content/headspace-health-acquired-ai-chatbot-will-peer-to-peer-therapy-next",
+      "originalUrl": "https://www.emarketer.com/content/headspace-health-acquired-ai-chatbot-will-peer-to-peer-therapy-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://contentstorage-nax1.emarketer.com/fc689f21a4c485515751be40c979d636/default-image-share.png?im=FitAndFill,width=1200,height=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T21:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eMarketer",
+        "domain": "emarketer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-just-in-pentagon-research-priorities-to-include-microelectronics-next-g.md",
       "title": "JUST IN: Pentagon Research Priorities to Include Microelectronics, 'Next-G'",
       "excerpt": "The Pentagon's research and engineering office's list of 14 technology priorities will be revealed as early as Jan. 17, Undersecretary of Defense for Research and Engineering Heidi Shyu told reporters.",
@@ -1042,134 +1189,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-how-to-close-more-deals-with-artificial-intelligence.md",
-      "title": "How To Close More Deals With Artificial Intelligence",
-      "excerpt": "These days, responsiveness is the number one determining factor between businesses that can and can’t go the distance in the midst of huge external challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61def87513ac86adcd34b4ef%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/01/12/how-to-close-more-deals-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-01-12T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-artificial-intelligence-trade-could-roar-back-in-2022.md",
-      "title": "Artificial Intelligence Trade Could Roar Back in 2022",
-      "excerpt": "Artificial intelligence (AI) is one of the premier disruptive technologies, but that status didn't prevent some AI equities from sliding alongside other innovative growth fare in 2021. However, it wasn't an entirely lost year for AI investors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022",
-      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022?amp",
-      "publishedDateTime": "2022-01-12T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-nuro-announces-3rd-gen-driverless-delivery-vehicle.md",
-      "title": "Nuro announces 3rd-gen driverless delivery vehicle",
-      "excerpt": "The cute little Nuro pod gets a big cargo upgrade and new sensors. Remember Nuro? You know, they make the cute little driverless delivery pods and they've partnered with companies like Kroger, FedEx,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/",
-      "originalUrl": "https://www.msn.com/en-us/lifestyle/shopping/nuro-announces-3rd-gen-driverless-delivery-vehicle/ar-AASHHCc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/SGxZeFDiIQh6cIx9DHeuWGlgWwc=/2022/01/11/c0fbe27d-6be4-4702-aca0-7637dc5ebaed/nuro-family-groceries.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nuro-third-generation-driverless-delivery-pod/",
-      "publishedDateTime": "2022-01-12T06:00:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/",
-        "domain": "cnet.com/roadshow/news/nuro-third-generation-driverless-delivery-pod/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

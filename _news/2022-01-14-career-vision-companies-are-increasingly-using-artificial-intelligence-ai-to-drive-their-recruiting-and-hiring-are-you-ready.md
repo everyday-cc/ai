@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Why AI Writing Assistants are a Good Thing for Content Creation"
+    excerpt: "AI writing assistants are software tools that are disrupting copywriting and content creation. So you've heard of AI writing assistants, but how do they work? AI writing assistants are software tools that automatically generate content for a set of parameters."
+    publishedDateTime: 2022-01-17T03:08:00Z
+    webUrl: "https://www.chron.com/business/article/Why-AI-Writing-Assistants-are-a-Good-Thing-for-16780295.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 37
+    images:
+      - url: "https://s.hdnux.com/photos/01/23/50/44/21924126/3/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "TyiOk6sWmXluDGhT6ziAofjG2kzRuSLKOm/Vk+mDUPHOt3WMXnpgxv410OYhnnHsAc3xYy7d0kBjVt4dFgLjZlij+8v2LjMoCXL3KKxK0VC8pmoHhMEoKEMmB37JSI9+GWWIPjDwi4c5QzLnL6cVzswBDlSTqkcZQlGfh+vt7odY6cxZAK/cSOGkwJfJ5MzY9HwGlayJOdzvQtNy05379e93TOcbs6HaGNJvUeNfjCr9VTIBV5RRNlEiADU9uu8QvKnMD6eLrwp8I/f3WqN2pbm8DSE2VyczR9KReQgSbkdtSYzvY6vwOM2PemiCmOTb1uzgzOWlFUGmxT7Yt2WrnIeMHsREGZur2nOktXimIrY0WY5eeOnmfWdUoTKJFi8xAeEANqCa0h9gMdJhOV+l0vdli5U6pkGeb10ipppW/gYOuP735mTeVh360JIubpfVQ0h5j4xqUNToqHTc4YoZpJRxkP7q7453r0W5EkhIiFjI2BbzD6DMOgJ4UT3A+vAaysyN+ZSP9Yb2K4+bWOzrGQ==;BuMtj6Pdxz/MluYiN5K+CQ=="
 ---

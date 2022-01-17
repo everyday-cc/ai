@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-16-when-it-comes-to-health-care-ai-has-a-long-way-to-go.md",
+      "title": "When It Comes to Health Care, AI Has a Long Way to Go",
+      "excerpt": "Medical information is more complex and less available than the web data that many algorithms were trained on, so results can be misleading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
+      "originalUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61e22d6b844ec857b7138306/master/pass/healthcare-ai.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/health-care-ai-long-way-to-go/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/health-care-ai-long-way-to-go/amp",
+      "publishedDateTime": "2022-01-16T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-labour-peers-ai-healthcare-firm-sensyne-says-cash-is-running-out.md",
       "title": "Labour peer’s AI healthcare firm Sensyne says cash is running out",
       "excerpt": "Data analytics company run by Paul Drayson says money could run out in weeks unless it finds emergency funding",
@@ -95,6 +147,49 @@
         "AI in Autos",
         "AI",
         "AI in Security",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-headspace-health-acquires-an-ai-chatbotwill-peer-to-peer-therapy-be-next.md",
+      "title": "Headspace Health acquires an AI chatbot—will peer-to-peer therapy be next?",
+      "excerpt": "In wake of Headspace Health’s acquisition of AI chatbot Sayana, we explore how telemental health firms might look to stand out from the pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.emarketer.com/content/headspace-health-acquired-ai-chatbot-will-peer-to-peer-therapy-next",
+      "originalUrl": "https://www.emarketer.com/content/headspace-health-acquired-ai-chatbot-will-peer-to-peer-therapy-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://contentstorage-nax1.emarketer.com/fc689f21a4c485515751be40c979d636/default-image-share.png?im=FitAndFill,width=1200,height=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T21:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eMarketer",
+        "domain": "emarketer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "AI in Healthcare"
       ]
     },
@@ -321,6 +416,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-10-artificial-intelligence-chip-market-to-reach-1949-bn-globally-by-2030-at-374-cagr-amr.md",
+      "title": "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR: AMR",
+      "excerpt": "Allied Market Research recently published a report, titled, \"Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and Others), Application (Natural",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4/article_7ac96726-b1ee-598f-864a-a2f3352fb763.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61e13cad38317.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-10T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -1266,162 +1405,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-chinese-tech-company-baidu-says-artificial-intelligence-is-entering-a-golden-age-on-the-mainland.md",
-      "title": "Chinese tech company Baidu says artificial intelligence is entering a ‘golden age’ on the mainland",
-      "excerpt": "The company tells its annual developers’ conference, Baidu Create, that an expanding pool of talent is contributing to China’s AI development, with innovations in transportation, health care and space exploration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says",
-      "originalUrl": "https://www.scmp.com/presented/tech/topics/ai-china-brink-golden-age/article/3161249/chinese-tech-company-baidu-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2021/12/28/caae92d2-6785-11ec-b7f8-afe79af1793e_image_hires_140747.png?itok=lQzGPHlG&v=1640671694",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-27T22:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-healthcare-artificial-intelligence-ai-market-global-outlook-forecast-2021-2026.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market - Global Outlook & Forecast 2021-2026",
-      "excerpt": "The global healthcare artificial i (AI) market was valued at USD 4.56 Billion in 2020 and is expected to reach USD 44.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
-      "originalUrl": "https://www.linkedin.com/pulse/healthcare-artificial-intelligence-ai-market-global-outlook-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQFN3KUv92pUiA/article-cover_image-shrink_720_1280/0/1640584699270?e=1646265600&v=beta&t=NJFZ9MBZ46wpmQCKKHH9iE-Nkg81eoZOPikGjeSauBg",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2021-12-27-how-ai-is-helping-people-with-therapy.md",
-      "title": "How AI is helping people with therapy",
-      "excerpt": "She agrees. It sounds like a normal therapy session, until you learn that Tash's therapist is generated by artificial intelligence, and she's speaking to it via an app on her phone. Tash is one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/future/article/20211210-would-you-talk-to-an-ai-therapist",
-      "originalUrl": "https://www.bbc.com/future/article/20211210-would-you-talk-to-an-ai-therapist",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/live/624x351/p0b97h8w.jpg",
-          "width": 624,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-26T09:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

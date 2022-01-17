@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-sta
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
 type: article
 quality: 187
-heat: 307
+heat: 277
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Location analytics company Placer.ai nabs $100M to generate insights from foot traffic"
-    excerpt: "Placer.ai gives retailers, hospitality outlets, and real estate companies foot-traffic data to unlock insights on customers and competition."
-    publishedDateTime: 2022-01-12T13:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/"
-    ampWebUrl: "https://venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/location-analytics-company-placer-ai-nabs-100m-to-glean-insights-from-foot-traffic/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/01/analytics-banner-min.0439da31-scaled-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 665
-        isCached: true
   - title: "What to expect for data prep and data analytics in 2022"
     excerpt: "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ..."
     publishedDateTime: 2022-01-15T00:56:00Z
@@ -91,20 +75,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/GettyImages_1276589384.61e1b2419bc26.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AIOps startup BigPanda raises $190M at $1.2B valuation"
-    excerpt: "BigPanda Inc., a fast-growing startup competing in the AIOps segment of the enterprise software market, today said that it has closed a $190 million funding round at a $1.2 billion valuation. Advent International and Insight Partners co-led the round."
-    publishedDateTime: 2022-01-12T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/01/12/draft-aiops-startup-bigpanda-raises-190m-at-1-2b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/unsplash.png"
-        width: 850
-        height: 477
         isCached: true
   - title: "Location data firm Placer.ai hits unicorn status with $100M Series C"
     excerpt: "Placer.ai hits unicorn status with $100 million Series C, planning to double its headcount and expand its data offerings to new clients."
@@ -187,15 +157,6 @@ related:
         width: 1200
         height: 817
         isCached: true
-  - title: "Placer.ai joined the Bay Area's unicorn herd with a new $100M round"
-    excerpt: "Placer Labs Inc. The startup, which does business as Placer.ai, announced Wednesday its backers valued it at $1 billion as part of its latest funding round, a $100 million Series C. That's nearly triple the $350 million valuation they assigned it in its Series B round last April,"
-    publishedDateTime: 2022-01-12T12:00:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2022/01/12/placer-ai-joins-unicorns-with-new-funding-round.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
 
 secured: "trg3E/s8c2f68cViwIhA3eLOuzawGyFndWKUpbJcD3jswjX1tuWp7aLRwBYc3ucSpalrvBtxrWEWxtde1oplJSmlwTBbxz6Gfwg4Iu90tGi+2QiCGS8k4RGPGzjBkg5HfTiU+GwXr35dkWniq1bEy08Eph1tfSZOvHKbqt+YiPUi68hJJk97grlFM9+qL34SPX/XzHcy9fV+tgOPxvIkN6dt0Akusj26wZKvVbxKiNvfF61mxpT9MCf1jUVsqDrtlr3sC+UMMNQ1PpKONzIhh717SGT3CIssSzYJ+ZxRwTbyzg/gJDE0r5QstWfCdIaNF5EblD55ZWWa3kbh313lcgaI+WKTEzPB7sjwbjCaL1b61SMzfEVb2WumrOunvBRu5z17Dn0l84aeei3fRRTsoqLyuQv9FKcXQikfsSvTjk2Zwc/y9bTyicK1E1nZ2lSmJ+nXLK0V9vEhoV9qeF9bhkLnXhiUIbg+AWUQquAQFwAmmISpWabgjqhPfhOJ12t9zRgYaocOZ7Fy1zWNojtydCmH8z97PBxh/Lz4PsAiqSA=;MEoUdtoBD3TJ48NpIeuWKw=="
 ---

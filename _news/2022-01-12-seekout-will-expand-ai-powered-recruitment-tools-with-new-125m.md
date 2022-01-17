@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-re
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Second Nature raises $12.5M to coach salespeople with AI-powered avatars"
-    excerpt: "Second Nature, a startup developing AI-powered avatars to coach salespeople, has raised $12.5 million in venture capital."
-    publishedDateTime: 2022-01-12T12:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/"
-    ampWebUrl: "https://venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1261563652.jpg?w=1200&strip=all"
-        width: 1200
-        height: 591
-        isCached: true
   - title: "The Top AI-Powered Recruitment Changes to Consider in 2022"
     excerpt: "Artificial intelligence has become a necessity for employers willing to stay on top of their game. AI-driven recruitment is inevitable, and innovative solutions will continue popping up throughout 202"
     publishedDateTime: 2022-01-14T08:31:00Z

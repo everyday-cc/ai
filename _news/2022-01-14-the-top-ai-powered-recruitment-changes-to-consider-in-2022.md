@@ -45,22 +45,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Second Nature raises $12.5M to coach salespeople with AI-powered avatars"
-    excerpt: "Second Nature, a startup developing AI-powered avatars to coach salespeople, has raised $12.5 million in venture capital."
-    publishedDateTime: 2022-01-12T12:00:00Z
-    webUrl: "https://venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/"
-    ampWebUrl: "https://venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/second-nature-raises-12-5m-to-coach-salespeople-with-ai-powered-avatars/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1261563652.jpg?w=1200&strip=all"
-        width: 1200
-        height: 591
-        isCached: true
 
 secured: "CUZLpU2Xv+JfZO06Jc+N9+lnmi3q05WTno1OyvgrkK1qgggY+LEsjk0mUA0KMuQjp4Nns71uD1susjqrM/Ea39r/qx38raZLdrSZ0+m8cU1ennJJgK9h3dSpRxbZHp3u7lFJJeyyelaYW3URKs0rc1me9djM/sfaze4MicJIKMIzeFIwXFAzO4UMOHhCMXH2uOJb5Qse1QgQE5EgqAcKVmsjP6ufW0xviT//qLsZsJJ6P6KqCVrschBJJsTv5CGXF1+sAShSmwUIigIb0l3BbRMrUvRRG1EOCPkdAsJu1Wo4Ibyq2PCmulsjZKAQpuqqRrXxaAetyrwdfbdY/OmnoBhpE2tiwkWWujzJAXqqYAE=;sRsD14BTb5hYFVWXAAQ6MQ=="
 ---

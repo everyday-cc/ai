@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-12-01-aurora-accelerates-development-of-the-aurora-driver-with-aws.md",
+      "title": "Aurora Accelerates Development of the Aurora Driver with AWS",
+      "excerpt": "Aurora uses AWS’s proven infrastructure and unparalleled portfolio of capabilities to safely accelerate the development of the Aurora Driver, its scalable self-driving vehicle technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS",
+      "originalUrl": "https://www.businesswire.com/news/home/20211201005041/en/Aurora-Accelerates-Development-of-the-Aurora-Driver-with-AWS/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-01T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-01-aws-announces-six-new-amazon-sagemaker-capabilities.md",
       "title": "AWS Announces Six New Amazon SageMaker Capabilities",
       "excerpt": "The MarketWatch News Department was not involved in the creation of this content. LAS VEGAS, (BUSINESS WIRE) -- Today, at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc ...",
@@ -1363,49 +1397,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-richemont-selects-aws-as-its-preferred-cloud-provider-to-drive-product-innovation.md",
-      "title": "Richemont Selects AWS as Its Preferred Cloud Provider to Drive Product Innovation",
-      "excerpt": "Richemont Selects AWS as Its Preferred Cloud Provider to Drive Product Innovation. Today, Amazon Web Services (News - Alert), an Amazon.com, Inc. company (NASDAQ: AMZN), announced",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/channels/call-center-scheduling/news/-richemont-selects-aws-as-its-preferred-cloud-provider-/2021/11/23/9498245.htm",
-      "originalUrl": "https://www.tmcnet.com/channels/call-center-scheduling/news/-richemont-selects-aws-as-its-preferred-cloud-provider-/2021/11/23/9498245.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/channels/call-center-scheduling/new/images/wp-right1.jpg",
-          "width": 336,
-          "height": 280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-22T21:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

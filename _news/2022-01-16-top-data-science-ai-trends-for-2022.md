@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Top Data Science & AI Trends For 2022"
-    excerpt: "After a pandemic-driven start to 2020, enterprises across industries realised the significance of AI and Data Sciences. Its adoption accelerated, and leaders correctly predicted growth in the industry in all aspects."
-    publishedDateTime: 2022-01-12T11:24:00Z
-    webUrl: "https://analyticsindiamag.com/top-data-science-ai-trends-for-2022/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/Trends-Report-Banner-scaled.jpg"
-        width: 2560
-        height: 1280
-        isCached: true
   - title: "AI Trends—What to Expect in 2022 & Beyond"
     excerpt: "As the number of AI use cases increases, this spurs the evolution of this technology in novel and unprecedented ways. This TEC Team post looks at some of the drivers of the next-generation AI such as use of synthetic data and simulation and looks at AI trends such as responsible and explainable AI."
     publishedDateTime: 2022-01-13T17:37:00Z
@@ -56,21 +42,7 @@ related:
         width: 386
         height: 500
         isCached: true
-  - title: "Tech Trends: Sensor Fusion Pushes AI Forward"
-    excerpt: "Combining data from multiple sensors can ease the strict reliance on video surveillance when creating deep learning algorithms"
-    publishedDateTime: 2022-01-14T15:30:00Z
-    webUrl: "https://www.securityinfowatch.com/video-surveillance/article/21250598/tech-trends-sensor-fusion-pushes-ai-forward"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 37
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2021/12/Coulombe__Brian.61bcb95e59904.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "GE7JT0d6hmzM2u3ClsE95Jkm/odDV3lGunF8XIuzxFg101xFSJFHUZ5luzmwJ6LmvwjMf9J2xyaGbUv7mKqrJ5tk8iK04vlqWsug92zq5nWKbmQbNHnDDKDAFP3wJ8NQT4oAmlMnBwkHQmfCQld0MB24uCDMEC6UdJsXS+65Jw6ngfmEfSnbD9XLrH+PSOWy9UB9GI8I04Y+xUs2UxnDzrb6PWWqdP+LdOqwOsCfWMhjp1yDwVulmOng2Ak72syMhApDUZ8iPFN5DD7VoOD3JsCIeC5dfl3guX0TGWxSMgGIueWCjO5QJQpHpT0Ky9Vx7Bt+08gWXaEGkJctoLBgBrXfY1ffNW+prMv9mlN2ePo=;W96HHcN8sKO90evyw/PWbQ=="
+secured: "R2F3RbXqflIY6EYUzuD55mQt5huEpvAjhOVGp+XoslXFMveaYF9JC7DyzVplYaQO5PZ9ch6yk35HkYG+Dx5cPPnweUPJx57gD2koowfnvs8ge3pu9pLWj2OWDwXp5kZDIP99GnOgvKY/1B4j3qg53+CQhcba+eRIVY3ycJ9xZS/FMwau7hBTzyDHLUEAFXLv5IPYoo5YhNBkZ4zLps1NuDe0CuWIp7WQqwVtIHcQCNT22yBqu9DJJv36beeipPIuLK1gUdX9VWBmIujQQP0toMky7zwPZHofh8/v8VyG3Ijrf2sljavg4haqHz2vn/SzuOIrTbWgZ1q6Ts91naNK5j975P0GVEhuQOjPgBFF1QK0puzi0FQRSzc6enyqsbhLUxVUNx2LCdPFoJ2B2RcX4N85xq/xUeZoON8X2GLWJwiVaPj2SUNjZ9wY/l9VtM7AcBqLCmpQdBcg6+keGj0tJOY5oEud/1rTMFvcy/whTJZ9Gci1HcaF687O8YOXofGEbn2NDekZPPY41GohddT5PA==;M1D6ZAB9Xdq9wQN8zHxq3A=="
 ---
 
