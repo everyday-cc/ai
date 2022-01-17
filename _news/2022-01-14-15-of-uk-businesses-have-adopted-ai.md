@@ -57,19 +57,91 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "How Upcoming AI Technologies Will Impact Businesses"
-    excerpt: "Robots and automation have long been a part of the manufacturing ... With continuous innovations and new ideas, there are lots of ways that companies can improve thanks to AI. Start researching and stay ahead of the curve."
-    publishedDateTime: 2022-01-12T07:59:00Z
-    webUrl: "https://negosentro.com/how-upcoming-ai-technologies-will-impact-businesses/"
+  - title: "Can new UK Hub shape global AI standards?"
+    excerpt: "Can Brexit Britain really influence and hold its own on AI standards, when the US tech giants have their own agenda? Hot on the heels of the UK's National AI Strategy - launched in September last year - comes the AI Standards Hub,"
+    publishedDateTime: 2022-01-14T09:11:00Z
+    webUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards"
+    ampWebUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
     type: article
     provider:
-      name: negosentro.com
-      domain: negosentro.com
+      name: Diginomica
+      domain: diginomica.com
+    quality: 59
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
+        width: 640
+        height: 384
+        isCached: true
+  - title: "DCMS initiative to set standards for AI"
+    excerpt: "The Alan Turing Institute, supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government"
+    publishedDateTime: 2022-01-12T11:08:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/dcms-initiative-set-standards-ai-2022-01/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
     quality: 39
     images:
-      - url: "https://negosentro.com/wp-content/uploads/2022/01/jumpstory-download20220112-075819.jpg"
-        width: 1280
-        height: 853
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/01/12110327/DA075902-4F1D-459C-9DF1-7317E370696B.jpeg"
+        width: 847
+        height: 720
+        isCached: true
+  - title: "Government backed AI hubs launched"
+    excerpt: "The Alan Turing Institute has been selected to lead pilot of a new AI Standards Hub supported by the British… | Digital | Online | Government | Technology | Innovation | Technology | National |"
+    publishedDateTime: 2022-01-12T12:32:00Z
+    webUrl: "https://bdaily.co.uk/articles/2022/01/12/government-backed-ai-hubs-launched"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 39
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/oTyBxcBcUVwzaucUDPyVPxgMV1rQcn2P5utBn5cM.jpeg?w=940&h=430&fm=jpg&fit=crop-50-50&s=6ae4e4cf649f6c488974d54c32965b0c"
+        width: 940
+        height: 430
+        isCached: true
+  - title: "Alan Turing Institute to lead AI Standards Hub"
+    excerpt: "The UK Government has announced the creation of an AI Standards Hub to work on improving the governance of artificial intelligence. A pilot of the hub – an online platform to bring together the national AI community – will be led by the Alan Turing Institute supported by the British Standards Institution and National Physical Laboratory."
+    publishedDateTime: 2022-01-13T00:04:00Z
+    webUrl: "https://www.ukauthority.com/articles/alan-turing-institute-to-lead-ai-standards-hub/"
+    type: article
+    provider:
+      name: ukauthority.com
+      domain: ukauthority.com
+    quality: 39
+    images:
+      - url: "https://www.ukauthority.com/media/11108/ai-standards-hub-logo-govuk-ogl.jpg"
+        width: 500
+        height: 324
+        isCached: true
+  - title: "New hub launched to test AI standards"
+    excerpt: "The Alan Turing Institute has been selected to lead a pilot AI Standards Hub, set to work closely with members of the AI community"
+    publishedDateTime: 2022-01-12T16:52:00Z
+    webUrl: "https://www.techuk.org/resource/new-hub-launched-to-test-ai-standards.html"
+    type: article
+    provider:
+      name: techUK
+      domain: techuk.org
+    quality: 39
+    images:
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/cbbd3a03-45dd-4050-99d9080c5a591e80/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/Whitehall-city-65234851-web-1500px.jpg"
+        width: 400
+        height: 276
+        isCached: true
+  - title: "New UK initiative to shape global standards for Artificial Intelligence"
+    excerpt: "The Alan Turing Institute (@turinginst), supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government initiative to lead in shaping global technical standards for Artificial Intelligence."
+    publishedDateTime: 2022-01-13T09:40:00Z
+    webUrl: "https://www.fenews.co.uk/education/dcms-news-release-new-uk-initiative-to-shape-global-standards-for-artificial-intelligence/"
+    type: article
+    provider:
+      name: fenews.co.uk
+      domain: fenews.co.uk
+    quality: 39
+    images:
+      - url: "https://www.fenews.co.uk/wp-content/uploads/2021/09/46fc9920bc.png"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "kwEyEOIIsrfTYpAf82jjsaOUnj6iIFDEEJb+CZEdhY5qkkgBvfa9+mWGn6dHEVhqFpQmas0+cRwRX+T1tkW/ZYG0R22FnuIUrMuhlq8df0JpFtyYnC13vfsA+NbdaFCQZ+LpMWrG7v33LlqEImVU3b0x0o5QkeePP5cYQoKcstbg2nb8PQctcyxgnvWyRQYkHDMgeUw9pfDPobqxqenZmwZUKT2InWA/1lpSGkaqTqdvG2JuEStMCm4ivoNKwthHQoOinVyDlif7zLM/Gt88C86v6CVNxc6fBPd8xEfehoJTxPuaPuZAFAC9PD42/NjrZxVqpt4hy589hSkcp6MDn048FgPE83T2FwtzrZq6Dcg=;xUSTRLzY6ufjG6vaBS6g0A=="

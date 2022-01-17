@@ -25,17 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Government backs Turing Institute in bid to set global AI technical standards"
-    excerpt: "The DCMS has announced an AI Standards Hub, comprising The Alan Turing Institute, the National Physical Laboratory and the British Standards Institution to set a global bar for AI technical standards."
-    publishedDateTime: 2022-01-12T09:00:00Z
-    webUrl: "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards"
-    ampWebUrl: "https://www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1"
-    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252511914/Government-backs-Turing-Institute-in-bid-to-set-global-AI-technical-standards?amp=1"
+  - title: "AI Standards Hub will help UK businesses improve AI governance"
+    excerpt: "The launch of the initiative, led by the Alan Turing Institute, comes as 1.3 million UK businesses are expected to use AI by 2040"
+    publishedDateTime: 2022-01-12T12:31:00Z
+    webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical"
+    ampWebUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
+    cdnAmpWebUrl: "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp"
     type: article
     provider:
-      name: Computer Weekly
-      domain: computerweekly.com
-    quality: 134
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 89
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641989946/itpro/GettyImages-AI-concept.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "The Era of AI is Here and Businesses Love It"
+    excerpt: "The use of artificial intelligence or AI is much more common than most people realize. Although we are far from the threshold of most sci-fi films and the"
+    publishedDateTime: 2022-01-12T19:35:00Z
+    webUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/"
+    ampWebUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
+    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
+    type: article
+    provider:
+      name: techspective.net
+      domain: techspective.net
+    quality: 59
+    images:
+      - url: "https://techspective.net/wp-content/uploads/2022/01/artificial-intelligence-gfd97c804c_1920.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Can new UK Hub shape global AI standards?"
     excerpt: "Can Brexit Britain really influence and hold its own on AI standards, when the US tech giants have their own agenda? Hot on the heels of the UK's National AI Strategy - launched in September last year - comes the AI Standards Hub,"
     publishedDateTime: 2022-01-14T09:11:00Z
@@ -108,29 +129,20 @@ related:
         width: 400
         height: 276
         isCached: true
-  - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional In"
-    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Series B financing round, led by Ten Coves Capital and Spark Capital."
-    publishedDateTime: 2022-01-12T14:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=599340"
+  - title: "15% of UK businesses have adopted AI"
+    excerpt: "A new report from DCMS shows that while over 430,000 businesses are already using AI, there is great potential for further growth."
+    publishedDateTime: 2022-01-13T17:16:00Z
+    webUrl: "https://www.techuk.org/resource/15-of-uk-businesses-have-adopted-ai.html"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 14
+      name: techUK
+      domain: techuk.org
+    quality: 39
     images:
-      - url: "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg"
-        width: 580
-        height: 339
+      - url: "https://pixl8-cloud-techuk.s3.eu-west-2.amazonaws.com/prod/public/f12b63e3-8de1-4d35-84fa22dd2862822c/opengraphimage_83f4e8796336604b59d7216d0ecd81a5/AR-AI-industrial-Robot-121487519-web-1500px.jpg"
+        width: 400
+        height: 248
         isCached: true
-  - title: "Boosted.ai Raises $35 Million Series B Led by Ten Coves Capital and Spark Capital to Expand Explainable Machine Learning Platform for Institutional Investors"
-    excerpt: "Boosted.ai, the leading distributed machine learning platform for global investment professionals, today announced the closing of a $35 million USD Se"
-    publishedDateTime: 2022-01-12T19:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20220112005316/en/Boosted.ai-Raises-35-Million-Series-B-Led-by-Ten-Coves-Capital-and-Spark-Capital-to-Expand-Explainable-Machine-Learning-Platform-for-Institutional-Investors"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "5BwNRiiEIitFxFSe4nTJaiZ/a/QhXzOZmpLtD2W2kytrkN85mL+p1TQJt6qBv4ptZdrzXOzGDlIFw56IPiqVJCa3/e6CxAkUy7rrsqhAOnA9eCWcn5vH/rQRjlUFARVdctxXskF0+HS9BMegzlArS7uH+rW1N+iHpSsDG9sykCNN2ZjV+gB5+JgLLhM8bpt6bwUN//sYvkDpEVpwEwwSioPAEdUwPth1BVKPSA1A+mV2PCIe8iA6RUWCZy73/ALWA5A9mXinHhx4YSzlw9q7uNoQzOM7xrc+j84/m/eXbF6R4V5ls8BhrcsPe7rb/44czSg9X3otTBd53tB2/EPG+oM2lFauoPE3LcD69iVrYy0=;JVYeYdUzYBDxRHRtxlKssw=="
 ---

@@ -35,6 +35,20 @@ related:
         width: 800
         height: 430
         isCached: true
+  - title: "Table is set for AI to advance in drug discovery"
+    excerpt: "The pharmaceutical industry marked several breakthroughs in the deployment of artificial intelligence in 2021, positioning AI to make significant advances in drug discovery labs in 2022. AI software developers and service companies that are pursuing their own drug discovery leaped forward last year."
+    publishedDateTime: 2022-01-17T00:38:00Z
+    webUrl: "https://pubs.acs.org/doi/10.1021/cen-10002-cover15"
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 39
+    images:
+      - url: "https://pubs.acs.org/pb-assets/images/footer_logos/logo-cope-1525375622977.png"
+        width: 323
+        height: 208
+        isCached: true
 
 secured: "eqrmuLx6iy1VEI+IWnbog50CsnvbdPVPiNbpUbuwqKe6366mdz/O4lYMigP/6nihDr+AjkK9rYvHw//Q4zLZXsKqRJD6n6lgtr7ZotEMyh4H0VBHXNceQv6rguUk6sd+h1vFmZRliK8xVj6muAVWNklwF47W9eGA4WWoASO6PO1A0WMMWNms0rUy+66gO2hqwJM+Thqoq/PzUFyH06kr+eklA9OWvr7SfPI+nNNI4XZ9MOoHTybFUI5SMPSsdLV3lYcH5QsZFT/9oLY32ETl744eVRUNoWMdJEyPozC5Iklq8K3lSqSs+XEEZP8we7mxq5r1RgA/P8ZyGp3NIl+Df/k3HyyyfIvR8tQ5qSjQQbI=;iu27sack+gliw3LU/Vwgkw=="
 ---

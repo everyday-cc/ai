@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-08-self-driving-truck-company-torc-robotics-picks-austin-for-tech-hub.md",
+      "title": "Self-driving truck company Torc Robotics picks Austin for tech hub",
+      "excerpt": "Torc says it chose Austin because of its deep talent pool as well as its location along the Southwest shipping corridor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.statesman.com/story/business/2022/01/07/torc-robotics-opening-austin-engineering-hub-accelerate-development-its-self-driving-truck-technolog/9118962002/",
+      "originalUrl": "https://www.msn.com/en-us/autos/news/self-driving-truck-company-torc-robotics-picks-austin-for-tech-hub/ar-AASxzw7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/01/06/NAAS/faf46096-7cbd-44f0-8597-5fafbf3d41b4-torc2.jpg?auto=webp&crop=1185,667,x14,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.statesman.com/amp/9118962002",
+      "cdnAmpWebUrl": "https://amp-statesman-com.cdn.ampproject.org/c/s/amp.statesman.com/amp/9118962002",
+      "publishedDateTime": "2022-01-07T09:00:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "statesman.com/story/business/2022/01/07/torc-robotics-opening-austin-engineering-hub-accelerate-development-its-self-driving-truck-technolog/9118962002/",
+        "domain": "statesman.com/story/business/2022/01/07/torc-robotics-opening-austin-engineering-hub-accelerate-development-its-self-driving-truck-technolog/9118962002/",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-the-best-robot-vacuums-of-ces-2022.md",
       "title": "The best robot vacuums of CES 2022",
       "excerpt": "Several new floor cleaning robots were revealed at CES 2022. Find out what's new on the botvac scene, and what new technology they're armed with.",
@@ -913,17 +956,17 @@
       "title": "UBTECH Showcases Autonomous UV-C Robot at CES 2022",
       "excerpt": "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484",
-      "originalUrl": "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510",
+          "width": 400,
+          "height": 510,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -933,11 +976,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T04:13:00-08:00",
+      "publishedDateTime": "2022-01-04T03:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1351,50 +1394,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-machine-learning-program-connects-to-human-brain-and-commands-robots.md",
-      "title": "Machine-Learning Program Connects to Human Brain and Commands Robots",
-      "excerpt": "Researchers at Ecole Polytechnique Fédérale de Lausanne have developed a machine-learning program that can be connected to a human brain and used to command a robot. The program can alter the robot’s movements based on electrical signals from the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
-      "originalUrl": "https://www.unite.ai/machine-learning-program-connects-to-human-brain-and-commands-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.Uu7U~1cdff/w:942/h:600/q:auto/https://www.unite.ai/wp-content/uploads/2021/12/brain-2676370_1280.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-30T11:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

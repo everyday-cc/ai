@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
 type: article
 quality: 73
-heat: 173
+heat: 153
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "California DMV reviewing approach to regulating Tesla's public self-driving test - report"
-    excerpt: "California is reevaluating Tesla Inc's Full Self-Driving (FSD) test program, to determine if the electric-car maker's software should fall under its motor vehicle department's autonomous vehicle regulations,"
-    publishedDateTime: 2022-01-12T08:40:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/california-dmv-reviewing-approach-regulating-teslas-public-self-driving-test-2022-01-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 60
-    images:
-      - url: "https://www.reuters.com/resizer/hqaIi_DyIttnxcgs7NH4k0nsFqc=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/GVG6QOSCRZNDTAYCWAL4Q7ANN4.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla's Full Self-Driving programme under reevaluation in US: Report"
     excerpt: "Tesla's Full Self-Driving test programme is being reevaluated by Californian authorities to determine if its software should fall under its motor vehicle department's autonomous vehicle regulations, the Los Angeles Times reported."
     publishedDateTime: 2022-01-12T09:44:00Z
@@ -124,22 +110,6 @@ related:
       - url: "https://i.gadgets360cdn.com/large/tesla_model_3_reuters_full_1577690658134.JPG"
         width: 1200
         height: 675
-        isCached: true
-  - title: "DMV 'revisiting' its approach to regulating Tesla's public self-driving test"
-    excerpt: "In light of videos showing self-driving Teslas attempting dangerous maneuvers, the California DMV is considering whether to require the company to conform to the same laws as other robot car makers."
-    publishedDateTime: 2022-01-12T08:17:00Z
-    webUrl: "https://www.aol.com/news/dmv-revisiting-approach-regulating-teslas-011706246.html"
-    ampWebUrl: "https://www.aol.com/amphtml/dmv-revisiting-approach-regulating-teslas-011706246.html"
-    cdnAmpWebUrl: "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/dmv-revisiting-approach-regulating-teslas-011706246.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 56
-    images:
-      - url: "https://s.yimg.com/uu/api/res/1.2/bZgsuFbz4iE2fctJWBR06g--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/85898be2b155b3c6bec23025a6845758"
-        width: 840
-        height: 560
         isCached: true
   - title: "Tesla Full Self-Driving videos are prompt California's DMV to rethink policy on accidents"
     excerpt: "In brief California’s Department of Motor Vehicles said it’s “revisiting” its opinion of whether Tesla’s so-called Full Self-Driving feature needs more oversight after a series of videos demonstrate how the technology can be dangerous."

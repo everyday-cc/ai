@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/13/how-protais-ai-powered-platform-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/how-protais-ai-powered-platform-is-improving-drug-discovery/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Table is set for AI to advance in drug discovery"
+    excerpt: "The pharmaceutical industry marked several breakthroughs in the deployment of artificial intelligence in 2021, positioning AI to make significant advances in drug discovery labs in 2022. AI software developers and service companies that are pursuing their own drug discovery leaped forward last year."
+    publishedDateTime: 2022-01-17T00:38:00Z
+    webUrl: "https://pubs.acs.org/doi/10.1021/cen-10002-cover15"
+    type: article
+    provider:
+      name: C&EN
+      domain: acs.org
+    quality: 39
+    images:
+      - url: "https://pubs.acs.org/pb-assets/images/footer_logos/logo-cope-1525375622977.png"
+        width: 323
+        height: 208
+        isCached: true
   - title: "How AI is being used to improve disability employment"
     excerpt: "Now, he is eager to scale that success by enabling any company with a job board and make it easy for any person with a disability to use their voice to discover and apply for jobs. On Zammo's journey to apply AI in accessibility scenarios,"
     publishedDateTime: 2022-01-13T17:57:00Z

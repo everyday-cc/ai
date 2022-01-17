@@ -2,6 +2,110 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-01-03-ai-for-speech-recognition-market-is-booming-worldwide-google-apple-ibm.md",
+      "title": "AI for Speech Recognition Market is Booming Worldwide | Google, Apple, IBM",
+      "excerpt": "Advance Market Analytics published a new research publication on “AI for Speech Recognition Market Insights, to 2026″ with 232 pages and enriched with self-explained Tables and charts in presentable format.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/ai-speech-recognition-market-booming-worldwide-google-ajay-jadhav",
+      "originalUrl": "https://www.linkedin.com/pulse/ai-speech-recognition-market-booming-worldwide-google-ajay-jadhav",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFDsXy5f3t48Q/article-cover_image-shrink_720_1280/0/1641207989252?e=1646870400&v=beta&t=rU8Dbxv60xLUWiQyiXxOKiWcaqsAZ7Q7Ss58ixVGry0",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-03T03:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-03-how-ar-and-computer-vision-lead-to-smart-policing.md",
+      "title": "How AR And Computer Vision Lead To Smart Policing",
+      "excerpt": "AR and computer vision play their part in smart city policing by automating routine yet critical tasks performed by law enforcement personnel.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d2ae2e967372eeb3ce8cd4%2F0x0.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/01/03/how-ar-and-computer-vision-lead-to-smart-policing/amp/",
+      "publishedDateTime": "2022-01-03T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-03-jetour-x-1-hybrid-suv-unveiled-with-huawei-l3-autonomous-driving.md",
       "title": "Jetour X-1 Hybrid SUV unveiled, with Huawei L3 autonomous driving",
       "excerpt": "JETOUR Motors has just announced a new hybrid vehicle. It is the Jetour X-1 Hybrid SUV crossover, which is powered by the Huawei L3 autonomous driving assistance system and more. For those unaware, the Chinese company is a sub brand of Chery Automobiles.",
@@ -1009,93 +1113,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-rezos-ai-powered-contact-center-delivers-faster-results-with-microsofts-ai-capabilities.md",
-      "title": "Rezo’s AI-powered contact center delivers faster results with Microsoft’s AI capabilities",
-      "excerpt": "Azure AI helps startups access high-quality vision, speech, language and decision-making ... supporting a wide range of use cases, including translation for call centers, web page localisation ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
-      "originalUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/2d86ed30b28211e8b2e7114aea10c711/F800x400-d-1640887464935.png ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2021/12/rezos-microsofts-ai-capabilities-powered-contact-center-delivers-faster-results/amp",
-      "publishedDateTime": "2021-12-30T21:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-31-bow-down-before-this-us310000-massage-mega-robot-human.md",
-      "title": "Bow down before this US$310,000 massage mega-robot, human",
-      "excerpt": "A startup called Massage Robotics is launching its flagship robot at CES: A two-armed, seven-square-foot mega-bot that can understand verbal commands, is powered by a neural network of other robots with which it exchanges data in real time,",
-      "sourceUrl": null,
-      "webUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
-      "originalUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_sea/article/b/bow-down-b/bow-down-before-this-310000-massage-mega-robot-human_b6bz.620.jpg",
-          "width": 619,
-          "height": 273,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
-      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/health-wellness/18801/bow-down-before-this-us310000-massage-mega-robot-human?amp=1",
-      "publishedDateTime": "2021-12-30T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

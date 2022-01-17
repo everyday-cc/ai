@@ -2,6 +2,101 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-12-10-this-humanoid-robot-is-about-to-fly-like-iron-man.md",
+      "title": "This humanoid robot is about to fly like Iron Man",
+      "excerpt": "It’s common for researchers around the world to conduct investigations into creating better drone aircraft. It’s also common for researchers to conduct investigations into building",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/",
+      "originalUrl": "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2021/12/ironcub-original-crop.jpg",
+          "width": 1440,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/this-humanoid-robot-is-about-to-fly-like-iron-man-09701672/amp/",
+      "publishedDateTime": "2021-12-09T09:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-10-how-k12-schools-can-use-artificial-intelligence-in-education.md",
+      "title": "How K–12 Schools Can Use Artificial Intelligence in Education",
+      "excerpt": "What role will artificial intelligence play in the future of education? For educators, AI can feel like an exciting development — or a terrifying unknown. AI technology is advancing quickly and creating solutions once thought impossible.",
+      "sourceUrl": null,
+      "webUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
+      "originalUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://edtechmagazine.com/k12/k12/higher/sites/edtechmagazine.com.k12/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202112/GettyImages-1220250522.jpg?itok=y0r6bHRt",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
+      "cdnAmpWebUrl": "https://edtechmagazine-com.cdn.ampproject.org/c/s/edtechmagazine.com/k12/k12/higher/article/2021/12/how-k-12-schools-can-use-artificial-intelligence-education-perfcon?amp",
+      "publishedDateTime": "2021-12-09T08:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-10-robust-intelligence-raises-30m-series-b-to-stress-test-ai-models.md",
       "title": "Robust Intelligence raises $30M Series B to stress test AI models",
       "excerpt": "Robust Intelligence, an AI startup that helps businesses stress test their AI models and prevent them from failing, today announced that it has raised a $30 million Series B funding round led by Tiger Global.",
@@ -1034,101 +1129,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company.md",
-      "title": "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company",
-      "excerpt": "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ...",
-      "sourceUrl": null,
-      "webUrl": "https://br.advfn.com/noticias/BW/2020/artigo/83750981",
-      "originalUrl": "https://br.advfn.com/noticias/BW/2020/artigo/83750981",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://br.advfn.com/p.php?pid=staticchart&s=NASDAQ:MELI&p=5&t=52",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ADVFN",
-        "domain": "advfn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-simulating-matter-on-the-quantum-scale-with-ai.md",
-      "title": "Simulating matter on the quantum scale with AI",
-      "excerpt": "Using neural networks to model electron interactions in molecules and materials, advancing the state-of-the-art towards the long-standing challenge of the density functional in quantum chemistry",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI",
-      "originalUrl": "https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 249,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/sbg0s5HRyjgaED1YsDARdTCWIS4nO0lR2kaC1j0016qpQa6rM7G26aIUSOWfgZATVsh0jRZ1v3Jjfb8Yd4nzX-0OYrHSK1u0NJO5b51kCqPlGuAGdQ",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-08T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

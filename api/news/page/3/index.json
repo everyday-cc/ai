@@ -622,7 +622,7 @@
       "originalUrl": "https://seekingalpha.com/article/4479438-upstart-upst-fintech-winner-stock-buy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -653,6 +653,49 @@
       ],
       "topics": [
         "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-orai-robotics-raises-inr-65-cr-in-pre-series-a-round-led-by-inflection-point-ventures.md",
+      "title": "ORAI Robotics Raises INR 6.5 Cr in Pre-series a Round Led by Inflection Point Ventures",
+      "excerpt": "Sujit Das Biswas, CTO & Swapnil Jain, CEO ORAI Robotics is an integrated conversational AI platform focused at maximising",
+      "sourceUrl": null,
+      "webUrl": "https://www.indianweb2.com/2022/01/orai-robotics-raises-inr-65-cr-in-pre.html",
+      "originalUrl": "https://www.indianweb2.com/2022/01/orai-robotics-raises-inr-65-cr-in-pre.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/a/AVvXsEi-55sk0UPRjuXp0VEHwUIeE-_dB8pASiF95yLJ5HKHBIlw_ogifsLTwu97CCxGyPedDJprFoyMc-r7KJTiQcFKXgUJCHsZduGi7bxo-kSN1aKvZTNYb2JaxaBlv1rCmePKXitKowKzQp5eVm1DdXCakmGdW-sdo9PO9VRO3tVQWE5IfoKYOStz4src=s16000",
+          "width": 1812,
+          "height": 1251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-12T22:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "indianweb2.com",
+        "domain": "indianweb2.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1118,57 +1161,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-seekout-will-expand-ai-powered-recruitment-tools-with-new-125m.md",
-      "title": "SeekOut will expand AI-powered recruitment tools with new $125M",
-      "excerpt": "SeekOut, an AI-powered recruitment platform, has raised $125 million in funding to expand its software platform.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/",
-      "originalUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-1092756998-e1636570502724.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/12/seekout-will-expand-ai-powered-recruitment-tools-with-new-125m/amp/",
-      "publishedDateTime": "2022-01-12T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

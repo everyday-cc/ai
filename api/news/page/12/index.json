@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-06-qualcomm-aims-to-serve-next-gen-cars-with-snapdragon-ride-vision-and-digital-chassis.md",
+      "title": "Qualcomm aims to serve next-gen cars with Snapdragon Ride Vision and Digital Chassis",
+      "excerpt": "Companies like the Intel's Mobileye, graphics giant Nvidia, and Qualcomm are all using CES 2022 to announce their newest offerings for the automotive industry, as well",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
+      "originalUrl": "https://www.techspot.com/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-05-image-14.jpg",
+          "width": 1376,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92864-qualcomm-aims-serve-next-gen-cars-snapdragon-ride.html",
+      "publishedDateTime": "2022-01-05T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-ces-2022-watch-gms-self-driving-car-reveal-and-more-big-reveals-here.md",
       "title": "CES 2022: Watch GM's self driving car reveal and more big reveals here",
       "excerpt": "GM will be kicking off Wednesday's CES day, and you can watch reveals from LG, Samsung and more. CES 2022 is underway, with the convention officially opening in Las Vegas Wednesday along with a digital experience for those who can't make it to the show.",
@@ -319,6 +371,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-a-new-method-to-make-ai-generated-voices-more-expressive.md",
+      "title": "A new method to make AI-generated voices more expressive",
+      "excerpt": "Researchers have found a way to make AI-generated voices ... voice-overs in animated movies, automatic translation of speech in multiple languages–and more.The method could also help create ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/939258",
+      "originalUrl": "https://www.eurekalert.org/news-releases/939258",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/images/audioicon_e4_rel.jpg",
+          "width": 585,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T05:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1064,109 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-how-incorta-uses-ai-to-address-supply-chain-issues.md",
-      "title": "How Incorta uses AI to address supply-chain issues",
-      "excerpt": "With the pandemic slowing down production lines and transportation, the 'supply chain' is regularly in headlines. Incorta hopes to improve it with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/",
-      "originalUrl": "https://venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/supply_chain-e1624645852641.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/how-incorta-uses-ai-to-address-supply-chain-issues/amp/",
-      "publishedDateTime": "2022-01-04T15:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread.md",
-      "title": "LiLz uses computer vision to read gauges and dials where humans prefer not to tread",
-      "excerpt": "No one wants to be the maintenance worker who has to hike through half a mile of damp hallways just to check the pressure gauge on a valve somewhere. LiLz makes it possible to keep an eye on such inconvenient physical interfaces remotely with a clever and practical application of machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/",
-      "originalUrl": "https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/lilzgauge-main-image.jpg?w=1024",
-          "width": 1024,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/lilz-uses-computer-vision-to-read-gauges-and-dials-where-humans-prefer-not-to-tread/amp/",
-      "publishedDateTime": "2022-01-04T15:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

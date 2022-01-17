@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-12-22-introducing-timekettle-wt2-edge-translator-earbuds-with-trending-features-and-specifications.md",
+      "title": "Introducing Timekettle WT2 Edge Translator Earbuds with Trending Features and Specifications",
+      "excerpt": "Founded in 2016, Timekettle Technologies is committed to building a global brand of AI translator ... directional simultaneous translation earbuds with support for 40 languages and 93 accents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/introducing-timekettle-wt2-edge-translator-earbuds-with-trending-features-and-specifications",
+      "originalUrl": "https://www.digitaljournal.com/pr/introducing-timekettle-wt2-edge-translator-earbuds-with-trending-features-and-specifications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/DDD-9-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-21T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-microsoft-partners-with-royal-spanish-academy-for-language-resources.md",
       "title": "Microsoft partners with Royal Spanish Academy for language resources",
       "excerpt": "The Royal Spanish Academy (RAE) and Microsoft have signed an agreement to promote the correct use of Spanish online as part of the Spanish Language and Artificial Intelligence (LEIA) project. The RAE will provide Microsoft with access to the Diccionario de la lengua española or Dictionary of the Spanish Language – comprising of around 375,",
@@ -1362,58 +1405,6 @@
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-natural-language-processing-is-shaping-intelligent-automation.md",
-      "title": "Natural language processing is shaping intelligent automation",
-      "excerpt": "The content of this article is inspired by Pascal’s book Intelligent Automation. Natural language processing is the name usually given to computers’ ability to perform linguistic tasks ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/",
-      "originalUrl": "https://venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/01/shutterstock_529299211.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/08/natural-language-processing-is-shaping-intelligent-automation/amp/",
-      "publishedDateTime": "2021-12-08T14:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

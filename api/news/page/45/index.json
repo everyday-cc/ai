@@ -2,6 +2,92 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2021-12-08-jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc.md",
+      "title": "JPIN announces strategic investment in AI-driven fintech company TSLC",
+      "excerpt": "The new capital will be used to fuel the growth of TSLCs digital lending operations, grow its global talent pool, step up business development, deepen its AI and predictive analytics capabilities and expand into selecting emerging and frontier markets.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/articleshow/88162825.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/articleshow/88162825.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-5508,msid-88162849/ai.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/small-biz/sme-sector/jpin-announces-strategic-investment-in-ai-driven-fintech-company-tslc/amp_articleshow/88162825.cms",
+      "publishedDateTime": "2021-12-08T00:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-08-no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper.md",
+      "title": "No animals harmed in new chip drug tests that are faster and cheaper",
+      "excerpt": "And that’s why some of the most impressive minds in science are behind Israeli startup Quris, which is rolling out the world’s first clinical-prediction AI (artificial intelligence) platform to evaluate the safety and efficacy of new drugs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
+      "originalUrl": "https://www.israel21c.org/no-animals-harmed-in-new-chip-drug-tests-that-are-faster-and-cheaper/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.israel21c.org/wp-content/uploads/2021/11/quris_ChipOnChip-main.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-08T00:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Israel21c",
+        "domain": "israel21c.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-how-ai-powered-banking-is-impacting-revenue.md",
       "title": "How AI powered banking is impacting revenue",
       "excerpt": "Artificial intelligence (AI) continues to entrench itself in financial institution infrastructure, and many credit unions are turning to AI to solve call center and overall member communication challenges.",
@@ -1087,109 +1173,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-please-hold-how-ai-is-changing-customer-service-in-call-centers.md",
-      "title": "Please hold: How AI is changing customer service in call centers",
-      "excerpt": "Advances in AI and NLP provide powerful tools to support agents, increase efficiency, cut costs, and greatly enhance customer experiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/",
-      "originalUrl": "https://venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-684584328.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/07/please-hold-how-ai-is-changing-customer-service-in-call-centers/amp/",
-      "publishedDateTime": "2021-12-07T11:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-08-a-system-for-designing-and-training-intelligent-soft-robots.md",
-      "title": "A system for designing and training intelligent soft robots",
-      "excerpt": "Scientists from MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL) have designed “Evolution Gym,” a large-scale testing system for co-optimizing the design and control of soft robots,",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2021/system-designing-training-intelligent-soft-robots-1207",
-      "originalUrl": "https://news.mit.edu/2021/system-designing-training-intelligent-soft-robots-1207",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202112/Evolution-Gym-CSAIL.jpg",
-          "width": 950,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-07T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
