@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-12-09-edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding.md",
+      "title": "Edge Impulse wants to bring machine learning at the edge to everyone, announces $34M Series B funding",
+      "excerpt": "M funding, and customers including the likes of NASA, in a bit over 2 years. Edge Impulse is riding the wave of machine learning at the edge",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding/",
+      "originalUrl": "https://www.zdnet.com/article/edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2c5e44d5305d1970d75539cc4a72fddb3fdbbc68/2021/12/09/945c6753-e73d-4e5d-b4e8-e57c4cc01233/edge-impulse-series-b-announcement-graphic.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/edge-impulse-wants-to-bring-machine-learning-at-the-edge-to-everyone-announces-34m-series-b-funding/",
+      "publishedDateTime": "2021-12-09T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-08-aws-deep-learning-amis-new-framework-specific-dlamis-for-production-complement-the-original-multi-framework-dlamis.md",
       "title": "AWS Deep Learning AMIs: New framework-specific DLAMIs for production complement the original multi-framework DLAMIs",
       "excerpt": "Since its launch in November 2017, the&nbsp;AWS Deep Learning Amazon Machine Image (DLAMI) has been the preferred method for running deep learning frameworks on Amazon Elastic Compute Cloud (Amazon EC2). For deep learning practitioners and learners who want to accelerate deep learning in the cloud, the",
@@ -1352,58 +1404,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-emerging-ai-companies-are-driving-a-paradigm-shift-in-ml.md",
-      "title": "Emerging AI Companies Are Driving A Paradigm Shift in ML",
-      "excerpt": "Leadership from Cruise and Facebook AI discuss the emergence of AI native companies and the paradigm shift being driven by advances in ML and robotics. Just as web transformed business, then the emergence of mobile and cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/",
-      "originalUrl": "https://techcrunch.com/video/emerging-ai-companies-are-driving-a-paradigm-shift-in-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.vidible.tv/prod/2021-12/01/61a7d5b4d0cfc04f658ab6fd/61a7d658b3835047bf8f1227_o_U_v1.jpg?w=640&h=360",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T18:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -39,20 +39,6 @@ related:
         width: 900
         height: 499
         isCached: true
-  - title: "Rank One to supply face biometrics SDK to US Marshals Service for prisoner transfers"
-    excerpt: "The technology provides touchless biometric verification of prisoners’ identities at a distance during transport and outdoor prisoner exchanges."
-    publishedDateTime: 2022-01-12T19:51:00Z
-    webUrl: "https://www.biometricupdate.com/202201/rank-one-to-supply-face-biometrics-sdk-to-us-marshals-service-for-prisoner-transfers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 17
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/12/01161503/handcuffs.jpg"
-        width: 1200
-        height: 709
-        isCached: true
   - title: "ValidSoft Recognized as a Global Voice Biometrics Leader in Opus Analysis on Intelligent Authentication and Fraud Prevention"
     excerpt: "ValidSoft, a transformative provider of voice identity and assurance solutions, has been recognized as a forward global leader for voice biometrics providers in the 2022 Opus Research Intelliview report: Intelligent Authentication and Fraud Prevention Analysis."
     publishedDateTime: 2022-01-13T14:54:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -35,6 +35,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFkMFg6Inus8Q/article-cover_image-shrink_720_1280/0/1642211702252?e=1648080000&v=beta&t=gdC_Xnatd8xBRKqzZLoGYT42Y_9WgA1E2Xjh9e5uNtk"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Self-Driving Cars Market worth 62.4 million units by 2030 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "Driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle (Hatchback, Coupe & Sports Car, Sedan, SUV), Level of Autonomy (L1, L2, L3, L4, L5), Mobility Type, EV, and Region"
+    publishedDateTime: 2022-01-17T12:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-20194350.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Speech Analytics Market worth $4.5 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a research report \" Speech Analytics Market by Component (Solutions and Services), Application (Risk & Compliance Management, Sentiment Analysis), Organization Size, Deployment Mode (Cloud,"

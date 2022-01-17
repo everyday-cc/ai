@@ -265,6 +265,49 @@
       ]
     },
     {
+      "path": "_news/2022-01-09-5-best-ai-stocks-for-2022.md",
+      "title": "5 Best AI Stocks for 2022",
+      "excerpt": "The California-based tech giant utilizes AI in blocking misinformation and other harmful content on its family of apps. Additionally, AI tools developed by Meta Platforms, Inc. (NASDAQ:FB) play a major role in improving the customer shopping experience on Facebook,",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-stocks-for-2022-1016679/4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/06120633/Artificial-Intelligence-piqsels.com-id-jcurz.jpg",
+          "width": 1920,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-08T12:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-08-meta-claims-its-ai-improves-speech-recognition-quality-by-reading-lips.md",
       "title": "Meta claims its AI improves speech recognition quality by reading lips",
       "excerpt": "People perceive speech both by listening to it and watching the lip movements of speakers. In fact, studies show that visual cues play a key role in language learning. By contrast",
@@ -845,19 +888,19 @@
     {
       "path": "_news/2021-12-29-what-happens-when-an-ai-knows-how-you-feel.md",
       "title": "What Happens When an AI Knows How You Feel?",
-      "excerpt": "Technology used to only deliver our messages. Now it wants to write them for us by understanding our emotions.",
+      "excerpt": "The following month, Facebook announced AI “conflict alerts” for groups ... or detect them remotely.” Timmons’ research, which involves building computational models of human behavior ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
-      "originalUrl": "https://www.wired.com/story/artificial-emotional-intelligence/",
+      "webUrl": "https://www.wired.co.uk/article/artificial-emotional-intelligence",
+      "originalUrl": "https://www.wired.co.uk/article/artificial-emotional-intelligence",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/61bc7f6c70540627801a5b48/master/pass/Business-AI-Emotions-1290287917-648538841-2.jpg",
-          "width": 2400,
-          "height": 1600,
+          "url": "https://media.wired.co.uk/photos/61a89ffd4895f86a1b3b1186/16:9/w_1280,c_limit/1822-WIRED-01%20copy.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -865,23 +908,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/artificial-emotional-intelligence/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/artificial-emotional-intelligence/amp",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-29T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1355,60 +1389,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-the-limitations-of-scaling-up-ai-language-models.md",
-      "title": "The limitations of scaling up AI language models",
-      "excerpt": "In a panel at NeurIPS 2021, experts discussed the limitations of training larger and larger natural language models akin to OpenAI's GPT-3.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
-      "originalUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/01/GPT-3-applications-products-startups-cropped.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/10/the-limitations-of-scaling-up-ai-language-models/amp/",
-      "publishedDateTime": "2021-12-10T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware"
       ]
     }
   ],

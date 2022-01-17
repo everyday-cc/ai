@@ -9,7 +9,7 @@ ampWebUrl: "https://seekingalpha.com/amp/article/4479438-upstart-upst-fintech-wi
 cdnAmpWebUrl: "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4479438-upstart-upst-fintech-winner-stock-buy"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2022/01/8c_8LinT_400x400.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "Fintech and the Retail Industry"
-    excerpt: "Yes, it’s a new buzzword in the retail industry, but there is a lot more to it. So what exactly does “Fintech” mean? Fintech is a term that covers a wide range of financial technologies, like e-commerce,"
-    publishedDateTime: 2022-01-12T20:51:00Z
-    webUrl: "https://retail-insider.com/articles/2022/01/fintech-and-the-retail-industry/"
-    type: article
-    provider:
-      name: Retail Insider
-      domain: retail-insider.com
-    quality: 39
-    images:
-      - url: "https://retailinsider.b-cdn.net/wp-content/uploads/2022/01/pexels-photo-5076516.jpeg"
-        width: 867
-        height: 1300
         isCached: true
   - title: "Top 5 Fintech Trends to Watch in 2022"
     excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."

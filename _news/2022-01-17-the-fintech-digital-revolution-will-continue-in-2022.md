@@ -59,20 +59,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Fintech and the Retail Industry"
-    excerpt: "Yes, it’s a new buzzword in the retail industry, but there is a lot more to it. So what exactly does “Fintech” mean? Fintech is a term that covers a wide range of financial technologies, like e-commerce,"
-    publishedDateTime: 2022-01-12T20:51:00Z
-    webUrl: "https://retail-insider.com/articles/2022/01/fintech-and-the-retail-industry/"
-    type: article
-    provider:
-      name: Retail Insider
-      domain: retail-insider.com
-    quality: 39
-    images:
-      - url: "https://retailinsider.b-cdn.net/wp-content/uploads/2022/01/pexels-photo-5076516.jpeg"
-        width: 867
-        height: 1300
-        isCached: true
   - title: "Top 5 Fintech Trends to Watch in 2022"
     excerpt: "An astonishingly rapid rise in demand for innovations after the COVID-19 outburst in early 2020 has been a reminder of the power technologies have over the whole world. Fintech is not an exception."
     publishedDateTime: 2022-01-14T08:03:00Z
@@ -116,6 +102,6 @@ related:
         height: 450
         isCached: true
 
-secured: "FX2sl9xjbOg+qyvaV9VJF6nGXclq1foLeuKmAZi6FAEe7oDCw5oQra11xu9itx/QgabbJyJcGj8e/yY6w0xQDR/xfFEo0wAXlzFVpF6AMzPzxCRqQQKBuW5aKrGIzbNLJMiqwI96QT2F1PvLIq+EySfOYft+L71pn50TEEKNh6RvYJz4uE3zJkERqt4Jd0uyjO3bFJjE4TVK1ECEv+ZW/VtOEK1GAFFIYTpspP0GKfIUd+q383SaX6GURFetCYkm3XxaW3f02OL7pc5Jw3Gh69XfIdnC3yuTAMoz+6EjXlZVs0tlfTq1/yZjQtuxPlHhHo4d3ioGjXoQiHiBNdxvMep0xU10eUS9phrFD8ESwqQ=;72J310OUk8RInfx4CZwTdw=="
+secured: "wXq+eBswDb0im8hfYIlURn0MLczheftu1msXxKXxUn0K66bY226ZHwnkf7q9Mp7VeuSAmQca23TTZRe1eK+McIaL2YBNaFd5qZOsPJklz/cW4xsfISnEGbOjIDloXEOo+CwakFYzKQvH4vNFBUoEeG4T67O9mns/Htg8Tt1PsjxoHveZHCYGvpumOgtzN4XOfpqiiDK6DXHaP8GGUAEYjCugIqY5H98nWEp8i9ZflBawGuq3Ame58Wd4XmNqnky+60IOUMqLj0PHOWQH6suTIwtZCBXrLt5p01c2CsYDvcYndgHE3PjW7m9l1PLvyRQoPaFra7BbF1N/2oFLqmUVyVW6ch15vBAs0hUB3DodVpgwerYylt3eM48UGgp40nwizLx9GnCceaxs2KV5p1ODVbduoT4U9Ef9EOVL/xYclmI1Lkf4dJIh4JSnhdbX3APFlqjpG53SqWJHo7Q6CL6yW7KMCw4CEW0Mki/vMp1F51AVnx71+Oow62OjOMeYC0K35lO7qgLiC2o+rouLwlj6PA==;iM9KlAqd6n609rEUwEYlVg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.techuk.org/resource/15-of-uk-businesses-have-adopted-a
 webUrl: "https://www.techuk.org/resource/15-of-uk-businesses-have-adopted-ai.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 400
     height: 248
     isCached: true
-
-related:
-  - title: "The Era of AI is Here and Businesses Love It"
-    excerpt: "The use of artificial intelligence or AI is much more common than most people realize. Although we are far from the threshold of most sci-fi films and the"
-    publishedDateTime: 2022-01-12T19:35:00Z
-    webUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/"
-    ampWebUrl: "https://techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
-    cdnAmpWebUrl: "https://techspective-net.cdn.ampproject.org/c/s/techspective.net/2022/01/12/the-era-of-ai-is-here-and-businesses-love-it/amp/"
-    type: article
-    provider:
-      name: techspective.net
-      domain: techspective.net
-    quality: 59
-    images:
-      - url: "https://techspective.net/wp-content/uploads/2022/01/artificial-intelligence-gfd97c804c_1920.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "kwEyEOIIsrfTYpAf82jjsaOUnj6iIFDEEJb+CZEdhY5qkkgBvfa9+mWGn6dHEVhqFpQmas0+cRwRX+T1tkW/ZYG0R22FnuIUrMuhlq8df0JpFtyYnC13vfsA+NbdaFCQZ+LpMWrG7v33LlqEImVU3b0x0o5QkeePP5cYQoKcstbg2nb8PQctcyxgnvWyRQYkHDMgeUw9pfDPobqxqenZmwZUKT2InWA/1lpSGkaqTqdvG2JuEStMCm4ivoNKwthHQoOinVyDlif7zLM/Gt88C86v6CVNxc6fBPd8xEfehoJTxPuaPuZAFAC9PD42/NjrZxVqpt4hy589hSkcp6MDn048FgPE83T2FwtzrZq6Dcg=;xUSTRLzY6ufjG6vaBS6g0A=="
 ---

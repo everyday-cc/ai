@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-01-05-how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe.md",
+      "title": "How Wix empowers customer care with AI capabilities using Amazon Transcribe",
+      "excerpt": "With over 200 million users worldwide, Wix is a leading cloud-based development platform for building fully personalized, high-quality websites. Wix makes it easy for anyone to create a beautiful and professional web presence. When Wix started, it was easy to understand user sentiment and identify product",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-wix-empowers-customer-care-with-ai-capabilities-using-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/21/ml-5841-image003.png",
+          "width": 1432,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T13:21:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-06-as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity.md",
+      "title": "As third-party cookies fade, the cold start problem becomes an opportunity",
+      "excerpt": "The demise of the third-party cookie could transform the cold start problem into an opportunity for businesses and their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/",
+      "originalUrl": "https://venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-526977673.jpg?fit=800%2C420&strip=all",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/05/as-third-party-cookies-fade-the-cold-start-problem-becomes-an-opportunity/amp/",
+      "publishedDateTime": "2022-01-05T13:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-06-mobileyes-self-driving-secret-200pb-of-data.md",
       "title": "Mobileye's Self-Driving Secret? 200PB of Data",
       "excerpt": "Mobileye is sitting on a virtual treasure trove of driving data - some 200 petabytes worth. When combined with Mobileye's state-of-the-art computer vision technology and extremely capable natural language understanding (NLU) models,",
@@ -1060,91 +1164,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-amazons-alexa-and-ciscos-webex-are-heading-to-deep-space-on-nasas-upcoming-moon-mission.md",
-      "title": "Amazon’s Alexa and Cisco’s Webex are heading to deep space on NASA’s upcoming Moon mission",
-      "excerpt": "A version of Amazon’s Alexa voice assistant and Cisco’s Webex videoconferencing platform will be included on the flight to space, part of a technology demonstration to see if these tools might benefit future astronauts flying to distant destinations like the Moon and Mars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/1/5/22866746/nasa-artemis-i-amazon-alexa-cisco-webex-lockheed-martin-orion",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/amazon-e2-80-99s-alexa-and-cisco-e2-80-99s-webex-are-heading-to-deep-space-on-nasa-e2-80-99s-upcoming-moon-mission/ar-AASspQE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/Boc52GW4Yzm31bzDh4-WqnItxSc=/0x75:3840x2085/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23145599/Callisto_on_board_Orion.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theverge.com/2022/1/5/22866746/nasa-artemis-i-amazon-alexa-cisco-webex-lockheed-martin-orion",
-        "domain": "theverge.com/2022/1/5/22866746/nasa-artemis-i-amazon-alexa-cisco-webex-lockheed-martin-orion",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of-autonomous-innovations-at-ces-2022.md",
-      "title": "Doosan Robotics Inc Unveils Unprecedented \"NINA\" Camera Robot System Along with Leading Edge Suite of Autonomous Innovations at CES 2022",
-      "excerpt": "CES -- Doosan Robotics Inc, one of the world's leading cobot manufacturers, announced it will be exhibiting at the",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_stocks/doosan-robotics-inc-unveils-unprecedented-nina-camera-robot-system-along-with-leading-edge-suite-of/article_bc9ff60b-dfbc-5aca-a697-68ae18346e33.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/6a/46ae82aa-7c6a-588e-90e5-fdaaf33762ba/61d5a5c86a8dc.image.jpg?crop=1154%2C606%2C0%2C594&resize=1154%2C606&order=crop%2Cresize",
-          "width": 1154,
-          "height": 606,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-05T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2022-01-15-why-is-the-nfl-crowd-sourcing-feckless-ai-solutions-to-its-concussion-problem.md",
+      "title": "Why is the NFL crowd-sourcing feckless AI solutions to its concussion problem?",
+      "excerpt": "Some companies have too much data and not enough humans to review. The NFL has the opposite problem. So why is it crowd-sourcing solutions?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
+      "originalUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fwtfnfl.jpg&signature=9fa80da85c44e5785b125cf3026e7b65",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-amazon-fixes-security-flaw-in-aws-glue-service.md",
       "title": "Amazon fixes security flaw in AWS Glue service",
       "excerpt": "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.zdnet.com/article/amazon-fixes-security-flaw-in-aws-glue-service/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -654,29 +706,20 @@
     {
       "path": "_news/2022-01-06-veriff-joins-aws-partner-network.md",
       "title": "Veriff joins AWS Partner Network",
-      "excerpt": "By joining the APN as an AWS Advanced Technology Partner ... What will be the biggest security trends in 2021? “2021 will see artificial intelligence (AI) become more mainstream. There will be increased deployment in edge devices, including cameras ...",
+      "excerpt": "Veriff, a global identity verification (IDV) provider announced that it has joined the Amazon Web Services (AWS) Partner Network (APN). By joining the APN as an AWS Advanced Technology Partner,",
       "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html?ref=nav",
-      "originalUrl": "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html?ref=nav",
+      "webUrl": "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/img/news/612/robo-shadow-cyber-security-platform-software-reporting-devices-920x533.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/veriff-joins-aws-partner-network-co-1537871022-ga-co-1641455926-ga.1641455325.html",
-      "publishedDateTime": "2022-01-06T04:45:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T04:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "SourceSecurity",
@@ -1433,58 +1476,6 @@
         "AWS AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes.md",
-      "title": "Why Expert Intelligence Is The Secret To Achieving Customer Outcomes",
-      "excerpt": "The only way to achieve an outcome-driven business model is to put experts from your ecosystem into the operating system of your company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F606b3f0f6cb5aa8f491ac04a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2021/12/21/why-expert-intelligence-is-the-secret-to-achieving-customer-outcomes/amp/",
-      "publishedDateTime": "2021-12-21T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

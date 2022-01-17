@@ -2,6 +2,100 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-12-17-the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters.md",
+      "title": "The Sims 4 could use AI to automatically turn photographs into characters",
+      "excerpt": "A patent filed by EA back in April 2020 (and subsequently approved in October 2021) reveals AI technology that could be used in The Sims 4 game to turn pictures of people into in-game characters with just two clicks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "originalUrl": "https://www.techradar.com/nz/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4H5BcPERVpvbyTHyV6wHsP-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/the-sims-4-could-use-ai-to-automatically-turn-photographs-into-characters",
+      "publishedDateTime": "2021-12-17T03:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now-freely-connect-to-the-dbc-network.md",
+      "title": "DeepBrain Chain computing power mainnet launches online, meaning all GPU servers can now freely connect to the DBC network",
+      "excerpt": "With the advent of the digital era represented by Metaverse + AI, high performance computing power （GPU）will become the most important basic resource.Singapore - December 17, 2021 — As Metaverse become the new hot space to enter,",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now",
+      "originalUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/themes/asiaone_amp/logo.png",
+          "width": 299,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/deepbrain-chain-computing-power-mainnet-launches-online-meaning-all-gpu-servers-can-now?amp",
+      "publishedDateTime": "2021-12-17T03:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-levis-ai-chief-says-algorithms-have-helped-boost-revenue.md",
       "title": "Levi’s AI Chief Says Algorithms Have Helped Boost Revenue",
       "excerpt": "The use of AI has helped the apparel company make better decisions in areas such as pricing and shipping, Chief Strategy and AI Officer Katia Walsh says.",
@@ -1033,101 +1127,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-meta-releases-bean-machine-to-help-measure-ai-model-uncertainty.md",
-      "title": "Meta releases Bean Machine to help measure AI model uncertainty",
-      "excerpt": "Meta (formerly Facebook) has released Bean Machine, a tool designed to help measure uncertainty in AI and machine learning models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
-      "originalUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/11/Abstract-AI-4-color-e1638226936634.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/16/meta-releases-bean-machine-to-help-measure-ai-model-uncertainty/amp/",
-      "publishedDateTime": "2021-12-16T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-artificial-intelligence-in-platform-as-a-service-paas-market.md",
-      "title": "Artificial Intelligence in Platform as a Service (PaaS) Market",
-      "excerpt": "Latest Study on Industrial Growth of Global Artificial Intelligence in Platform as a Service (PaaS) Market 2021-2027. A detailed study accumulated to offer Latest insights about acute features of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "originalUrl": "https://www.openpr.com/news/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/U/c/Uc16495437_g.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2502345/artificial-intelligence-in-platform-as-a-service-paas-market",
-      "publishedDateTime": "2021-12-16T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

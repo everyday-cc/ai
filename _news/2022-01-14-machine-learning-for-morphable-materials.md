@@ -22,22 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Machine learning for morphable materials"
-    excerpt: "Researchers have developed a platform that uses machine learning to program the transformation of 2D stretchable surfaces into specific 3D shapes."
-    publishedDateTime: 2022-01-12T19:46:00Z
-    webUrl: "https://www.nanowerk.com/nanotechnology-news2/newsid=59532.php"
-    type: article
-    provider:
-      name: Nanowerk
-      domain: nanowerk.com
-    quality: 39
-    images:
-      - url: "https://www.nanowerk.com/nanotechnology-news2/id59532_1.jpg"
-        width: 870
-        height: 312
-        isCached: true
-
 secured: "ev2I5fwGpO0yj5zkyfnOvRWkM1nz9CYhgIsB0amOGv7yDbwoMQzWXtd1WtHuQ2y/B8j9/Fw3l3TJtohDNXJ47HmcKMAhIX1LlKmMdy5Xu2lw3S/YXu2xK9n9ddznH9ZTDiel25OyO4X0WcINjnp1ScSRPQ+1GVv0w6Cq1Q1c4zSrzc+RoG1S4aXI820jiFbjxNIPBfwGGVyhNb4TOtgecM+NoBJIk/ixC65l/GJtGr6bieiNfU4mewp85/ZLUpp2gPn+MGbT6Ul82FNfa4ThpEy9Hxcng3SPjNviXWR2DorHuVPuw5dxabo+Rtzn+Dq7YpwEi+mAN8Z36No3JO0S2PHwhYDJupgJCqjmf68EV8I=;2nGibl0WrRAoZBMo6X+paQ=="
 ---
 

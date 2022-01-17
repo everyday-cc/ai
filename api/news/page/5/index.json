@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-01-12-an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands.md",
+      "title": "An AI-Created Politician Draws the Attention as Deep Learning Technology Expands",
+      "excerpt": "In Seoul, South Korea, an AI-created model, an avatar of a politician — candidate Al Yoon Suk-yeol — draws the attention of the crowds on a big screen. DeepBrain AI’s human model was the result of hundreds of hours of recorded video used to learn the person’s voice,",
+      "sourceUrl": null,
+      "webUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
+      "originalUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iblnews.org/wp-content/uploads/2022/01/AI-politician.jpg",
+          "width": 860,
+          "height": 476,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
+      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
+      "publishedDateTime": "2022-01-11T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBL News",
+        "domain": "iblnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-amazon-amzn-boosts-aws-portfolio-with-new-ec2-instances.md",
       "title": "Amazon (AMZN) Boosts AWS Portfolio with New EC2 Instances",
       "excerpt": "AWS announces the general availability of purpose-built Amazon EC2 instances, Hpc6a, which are designed for HPC workloads.",
@@ -52,6 +95,50 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-12-cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform.md",
+      "title": "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform",
+      "excerpt": "Cogniteam today announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development and deployment platform, allowing cloud-enabled deployments to use NVIDIA technology for the first time.",
+      "sourceUrl": null,
+      "webUrl": "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/",
+      "originalUrl": "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidebigdata.com/wp-content/uploads/2022/01/Cogniteam_Nimbus-Screenshot.jpeg",
+          "width": 700,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T13:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insidebigdata.com",
+        "domain": "insidebigdata.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1060,50 +1147,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-11-computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030.md",
-      "title": "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030",
-      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Jan 11, 2022, 04:47 /Comserve / -- The global Computer Vision in Healthcare market is segregated on the basis of Product & Service as Software, Hardware ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1103519871/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030",
-      "originalUrl": "https://menafn.com/1103519871/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?513748",
-          "width": 376,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-01-11-top-free-no-code-ml-platforms-in-2022.md",
       "title": "Top free no-code ML platforms in 2022",
       "excerpt": "According to a Gartner Magic Quadrant analysis, 65 percent of application development will be done on no-code/low-code platforms by 2024. No-code application platforms have contributed to productivity gains in a short span of time by assisting businesses in automating and digitising processes.",
@@ -1186,49 +1229,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning.md",
-      "title": "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning",
-      "excerpt": "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
-      "originalUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.dqindia.com/wp-content/uploads/2021/09/Blockchain-in-healthcare1.jpg",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning/amp/",
-      "publishedDateTime": "2022-01-10T23:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

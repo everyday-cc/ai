@@ -3,12 +3,12 @@ category: news
 title: "Net4 launches video analytics powered by AWS Wavelength"
 excerpt: "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,"
 publishedDateTime: 2022-01-13T12:02:00Z
-originalUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
-webUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
+originalUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html?ref=nav"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
@@ -19,12 +19,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/identity-and-access-management-key-to-how-companies-secure-assets-in-2022-920x533.jpg"
-    width: 612
-    height: 355
-    isCached: true
 
 related:
   - title: "What to expect for data prep and data analytics in 2022"
@@ -73,22 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sacrificing Some Performance To Make Cloud Data Analytics Portable"
-    excerpt: "Amazon Web Services, Microsoft Azure, and Google Cloud – are all addressing the same issues of scale, performance, and economics"
-    publishedDateTime: 2022-01-12T19:17:00Z
-    webUrl: "https://www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/"
-    ampWebUrl: "https://www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 44
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/ab_cloud-logo-scaled.jpg"
-        width: 2560
-        height: 1706
-        isCached: true
   - title: "Machine Learning to Power the Future of Streaming Analytics"
     excerpt: "The incredible amount of data that will be generated in the next few years demands help to manage, mostly in the form of machine learning algorithms."
     publishedDateTime: 2022-01-13T10:15:00Z
@@ -131,21 +109,7 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Location analytics startup Placer.ai closes $100M investment at $1B valuation"
-    excerpt: "Startup Placer.ai, which helps retailers analyze foot traffic at their stores to identify opportunities for business growth, today revealed that it has closed a $100 million funding round at a $1 billion valuation."
-    publishedDateTime: 2022-01-12T20:07:00Z
-    webUrl: "https://siliconangle.com/2022/01/12/location-analytics-startup-placer-ai-closes-100m-investment-1b-valuation/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 34
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/Image-3.png"
-        width: 800
-        height: 450
-        isCached: true
 
-secured: "GicyxnKTmv61nmNC97+3kE4PjqKF74AsQjg4eHU8gfiyqWWzmw95vpaRupWUDfmGl41NxKNb8+JU7Qmgau+MSVkyLgZ7c6rAadCQcUCUfcmolxgpQTV7O/EwDXskjh487d2C96oozMcZGkV3nl3Tpcmd6YWe17mfK4bT9fIbXRt2xbaUB3L681yHIz9bC6epSdO2AJJbydtSxT4O3Gm5DGM5s3hbffHC+W7yDacRmGSi6x9tLaYvMyBFJPSvNRtWYEHgMpigAmBhEb9HNwAhO6vDGzFw/ugG7tcgvkURhnL3FWETWAHfpAc9jqWJsw8Q5Q9NyZ5mjrATHLcG5G+i4dTT6xEIAGDO0oefpmLNCy0=;IscRP25Ela2Ol06XZhu8Aw=="
+secured: "dp7rSY94gRFRdmRTS5aoMJXnT5IaBhnEjQ/FP2FPfzHS28uldOB0gTC/LI/vZGgLzxtHjZE5FZO8fUaKB1WrcPlP60K7UxOSnjfJCwhY1gmCd9BmihredOGWPjX9o83CdQF7WgOXBuLDQ6QAYSBSQHdVr40pb2AVKvRp75YntacvznmmqDKnKvf8LzFGZJ2dw5LdTWvpUNzkze3K46+jP9L7nRPxWsafGqxOqryGvPQVPIjojmAFQ5Ljkpyq6XT/h8yTY4fV6+l+E9gdz8GPR3PMHfwdH8WMi3Ib5MfT6j3L5ko39lo6HiDaoEj/9rYg7jeW+IZ4Q/P+PU5yLL2M8x+HDK1nQc48nZPZYp0TF/k=;6WsWhUTBXLAMdFdFmpYE0A=="
 ---
 

@@ -67,6 +67,22 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Lenovo expands edge computing portfolio with AI-focused Nvidia GPUs"
+    excerpt: "Lenovo’s latest addition to the ThinkEdge portfolio of edge-computing devices packs Nvidia GPUs with AI capabilities into a ruggedized design that’s roughly the size of a laptop. The ThinkEdge SE450 is a 2U,"
+    publishedDateTime: 2022-01-17T11:00:00Z
+    webUrl: "https://www.networkworld.com/article/3647009/lenovo-expands-edge-computing-portfolio-with-ai-focused-nvidia-gpus.html"
+    ampWebUrl: "https://www.networkworld.com/article/3647009/lenovo-expands-edge-computing-portfolio-with-ai-focused-nvidia-gpus.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3647009/lenovo-expands-edge-computing-portfolio-with-ai-focused-nvidia-gpus.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/10/edge-computing-100908672-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "L2n8gsOVB9Kw9HMysZFUKOAwok3wJK2EZ5xPgknBZJI58pXmR0NU5PhunYGB48uRBEFaZzIZti7tlGQABpfhog7KbKmwC6V+CkJrumdGwq0XV8FqUShi99P7XqyZJ6FNAEo/cM80XU1r6l56Ugu/MQwptaGLo6Q8pdYx0+GRZhC6HkchaLLTG9bodNuaMcU7F0aXLv2VzrNeplNRHcgsxlkVDKQPoPDLJw87QbLnqcMdP+Td67+s5up/vM9tsqDLLttJEJ0CnI0Vt/BBoYdlpW2+BnM51yHuZwuu+huaaBVtkXPpDxu8xmMFfZlkjqS6pxYSydbKtdjtuEFklH717DYRwPtELMHSISjY2W5SRh60Aai46Q6XrK2UqEorEcGCRfEx5LfcymT5UdH70yytNI35+9VcDhQ1Mkp3C9qb5zfcbeZR5pMXecZzO8haMVTaHHz17rGSYLHLsloFfTBeHuLbzagUBcyeeDwZDowbm/q7sG59VxOsuIKoGK9URyWwEYn7g8WGsLYLPUOD66LM/A==;LD24jsS1tT8NlHZA6yjL/g=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-fixes-security-flaw-in-aws-glue-service/"
 type: article
 quality: 108
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Secure access to Amazon SageMaker Studio with AWS SSO and a SAML application"
-    excerpt: "Cloud security at AWS is the highest priority. Amazon SageMaker Studio offers various mechanisms to protect your data and code using integration with AWS security services like AWS Identity and Access Management (IAM), AWS Key Management Service (AWS KMS), or network isolation with Amazon Virtual Private"
-    publishedDateTime: 2022-01-12T21:02:00Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/secure-access-to-amazon-sagemaker-studio-with-aws-sso-and-a-saml-application/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 101
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/30/ML-5366-image003-680x630.png"
-        width: 680
-        height: 630
-        isCached: true
 
 secured: "vdyHOtNIJSKn6k08ESrtZINOL/nnpm07hejALjgQyDSfz1Tp3XhXs8ObRODgRFWwa5PKOCQtssqW2JQ8ddgxAPe2BH+e2iEcdol8CXGYb47qtJGpedk7RNAzplKtokn1em0JYlcOx1f+oO9xvcj+EhxGkncubdygI5X/LuIRwsLt+2V+RNBltyozSMjFkjMKw13jfQqC80T7P7XR68bPynBmCU+58zMuP9o8PWOLbLlKzZQsfLPrnJqWwyX6fVlzEYwW3TIp1vbjKsw0PMFQ0vDp+8m4FHTlImihQfI7DIiJFs0dP5ALIjV84VOLankg6HdEC30wW2osS1LcZCWZiCRQtUCLd+/xZid0l9+tvCf6CF7+hyBzWZ603gQkMMIv0Rfe6Mv13YY+hsb3/YSX+2gxMwqs9Molx1n+GwFuA8b+Hme8uWjwMzqpr1DuaBYW3zdJ5MC0hxyTBZbOmsd9o9fo0PV9V6T4ggwyFRBEs6o8+JEC01z8Z6R27xl5bPVo4+0sUdIqRfRHvlhJL7oihw==;qINorEkonYyTLHtXqJH7rw=="
 ---

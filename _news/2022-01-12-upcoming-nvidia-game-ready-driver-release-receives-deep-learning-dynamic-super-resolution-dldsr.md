@@ -2,13 +2,10 @@
 category: news
 title: "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)"
 excerpt: "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January"
-publishedDateTime: 2022-01-12T09:42:00Z
-originalUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr),15.html"
-webUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr),15.html"
+publishedDateTime: 2022-01-12T07:44:00Z
+originalUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html"
+webUrl: "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html"
 type: article
-quality: 6
-heat: -1
-published: false
 
 provider:
   name: Guru3D.com
@@ -18,22 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Nvidia’s Deep Learning Dynamic Super Resolution tech is out now – here’s how to enable it"
-    excerpt: "Nvidia's DLDSR, which downsamples games for higher detail at a lower performance cost, is now available on GeForce RTX GPUs via driver update."
-    publishedDateTime: 2022-01-14T16:39:00Z
-    webUrl: "https://www.rockpapershotgun.com/nvidias-deep-learning-dynamic-super-resolution-tech-is-out-now-heres-how-to-enable-it"
-    type: article
-    provider:
-      name: Rock, Paper, Shotgun
-      domain: rockpapershotgun.com
-    quality: 30
-    images:
-      - url: "https://assets2.rockpapershotgun.com/god-of-war-world-serpent.png/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-world-serpent.png"
-        width: 1600
-        height: 900
-        isCached: true
-
-secured: "3R30TQTXZeat3zcF0QVpDcSadR/wipQPxVJ3uhRCBN4eWrIk2PWKykxDAh2fnRLGpexlgjZvfS2F4+Ujj++BwUqio7NvZh1BWqO6r1xPsJUqcm6AYiPnVDEad9DgrBKLpefYqBV1TZhuVBaWO2AZqaxafMqwC8dJaFluWcgoZk0ZKI5ezV8mzr0t8rjQppCxnrThNSMfnmXtv6ix+8sFd2NV9BYDyGwjT2b+xXPIDaORdqd9T+JUljKDXkFN6uhl74p4fb3/VAvcpRO4TfD1vPxh9n0cTtFW5Rhp/NdUwPrdlBGKG8kYpgXn+8XhurTEG+kwMxJdnuDzOycPqLLWSlfQLKfp3jWQE/rJsnCI8fLMfqPfG820KsGnO6ZpnZWzIhcUIzQcKLoISgFIcjbshG2UGwRM291iWsGTQFrLf0In1XC6Asn1uO9c8/iTzp5vL+gWIJWb+w9RrzLZ71JbmBM95NbeIS9YPCWVKBWKhnkKA0zGCHdDOqwftvPPHQ8VcUTuy1ryp+Nm4k3TKXGNIg==;JjIAuF5Z9GFDQVUGhmcciA=="
+secured: "drNfbJchRFDHCasU1vkA3iPKpQOxQC0Zdit60TQq9biP1Q6aNzZdIErQvOTlz9qggYCoS92PcdIqLobN1rsjUxy3s9yFXfXi8CSMuHIOLcOi7qUEx3rW7hFP1Zyq45WwMX31yrW/8jnVgR52Ln7P1ZfXd0Scme8sqshN1ETquXyYBP2v+0YPa48Rpp+ZbIKTqBxYnDY+Mm86CuRz7rFI35cBic8eBTKK8McWh2DnzB8x698DNFINDo0L3UsqjgWdDLPS5tUD9nyGzu7QdScvxgrqJLSpLx06cZ9i2C80Y0U5rlK/naYQd6JpqxPezCMJFSvziySQIbEsPGn0pRqU4OOSGbYDiouAH2J71GNPn1uvLK6WDFSBJrm98owy8LCpKqByKCLJh6KB/4bHYBpGrkSp8SWtOxnGnGqzdoIm1dD7Zucn05V4OVn3RNjoxDAxHHiHX+ExhsakhEUCS/HPwKlRdCCeDknHTXbmMaTGQHz7z4l9HOR1Xu15pmtLMcdHPGcEND/uwbHt6FM/udbtNw==;NO6zyZxSOD67qbaHa6xZFA=="
 ---
 

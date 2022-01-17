@@ -40,6 +40,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
+  - title: "Self-Driving Cars Market worth 62.4 million units by 2030 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "Driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle (Hatchback, Coupe & Sports Car, Sedan, SUV), Level of Autonomy (L1, L2, L3, L4, L5), Mobility Type, EV, and Region"
+    publishedDateTime: 2022-01-17T12:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-20194350.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Speech Analytics Market worth $4.5 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a research report \" Speech Analytics Market by Component (Solutions and Services), Application (Risk & Compliance Management, Sentiment Analysis), Organization Size, Deployment Mode (Cloud,"
     publishedDateTime: 2022-01-13T14:33:00Z

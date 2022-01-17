@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-13-californias-dmv-reevaluating-stance-on-teslas-full-self-driving-beta.md",
+      "title": "California’s DMV Reevaluating Stance On Tesla’s Full Self-Driving Beta",
+      "excerpt": "The DMV had previously considered Tesla's FSD as a Level 2 system, but videos and software updates are forcing a rethink",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/",
+      "originalUrl": "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/",
+      "publishedDateTime": "2022-01-12T10:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-landingai-hires-vision-expert-dechow-to-correct-the-big-data-fallacy.md",
       "title": "Landing.AI hires vision expert Dechow to correct the Big Data fallacy",
       "excerpt": "Practical application of deep learning may require focusing less on giant datasets, more on the way examples of training data are handled, says Andrew Ng.",
@@ -991,6 +1034,40 @@
       ]
     },
     {
+      "path": "_news/2022-01-12-upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-dldsr.md",
+      "title": "Upcoming NVIDIA Game-Ready Driver Release Receives Deep Learning Dynamic Super Resolution (DLDSR)",
+      "excerpt": "In a blog post released yesterday, NVIDIA detailed the features of their next game-ready GeForce driver, which will be available to the general public on January",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
+      "originalUrl": "https://www.guru3d.com/news-story/upcoming-nvidia-game-ready-driver-release-receives-deep-learning-dynamic-super-resolution-(dldsr).html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-12-how-managed-services-will-evolve-in-2022-the-data-analytics-revolution.md",
       "title": "How managed services will evolve in 2022: The data analytics revolution",
       "excerpt": "In 2022, cloud managed service providers look to support decision-makers in configuring and maintaining data stored in cloud environments.",
@@ -1082,83 +1159,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands.md",
-      "title": "An AI-Created Politician Draws the Attention as Deep Learning Technology Expands",
-      "excerpt": "In Seoul, South Korea, an AI-created model, an avatar of a politician — candidate Al Yoon Suk-yeol — draws the attention of the crowds on a big screen. DeepBrain AI’s human model was the result of hundreds of hours of recorded video used to learn the person’s voice,",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
-      "originalUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iblnews.org/wp-content/uploads/2022/01/AI-politician.jpg",
-          "width": 860,
-          "height": 476,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
-      "cdnAmpWebUrl": "https://iblnews-org.cdn.ampproject.org/c/s/iblnews.org/an-ai-created-politician-draws-the-attention-as-deep-learning-technology-expands/amp/",
-      "publishedDateTime": "2022-01-11T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform.md",
-      "title": "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform",
-      "excerpt": "Cogniteam integrates NVIDIA Isaac GEMs into Nimbus, streamlining robotics from development to deployment leveraging the NVIDIA Jetson platform",
-      "sourceUrl": null,
-      "webUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
-      "originalUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T14:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics Tomorrow",
-        "domain": "roboticstomorrow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

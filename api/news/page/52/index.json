@@ -2,6 +2,101 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2021-12-03-real-world-computer-vision-applications-communications-experts-should-understand.md",
+      "title": "Real-World Computer Vision Applications Communications Experts Should Understand",
+      "excerpt": "As this technology gets better and better, I think we’re going to find more ways to use it to make our lives safer and better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f353f32349adf926e0401fb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5600%26cropY1%3D617%26cropY2%3D3768",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2021/12/03/real-world-computer-vision-applications-communications-experts-should-understand/amp/",
+      "publishedDateTime": "2021-12-03T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-03-us-government-sues-to-block-40-billion-nvidia-arm-chip-deal.md",
+      "title": "US government sues to block $40 billion Nvidia-Arm chip deal",
+      "excerpt": "The Federal Trade Commission said the deal would create a powerful company that could hurt the growth of new technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/",
+      "originalUrl": "https://www.detroitnews.com/story/business/2021/12/03/ftc-nvidia-arm-chip-deal/8849542002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/12/03/PDTN/7f39b23b-daeb-4203-af90-f4d9295d4832-AP21336801147181.jpg?auto=webp&crop=3659,2058,x1,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.detroitnews.com/amp/8849542002",
+      "cdnAmpWebUrl": "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/8849542002",
+      "publishedDateTime": "2021-12-03T02:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-google-ethical-ai-co-lead-timnit-gebru-launches-own-research-project.md",
       "title": "Google ethical AI co-lead Timnit Gebru launches own research project",
       "excerpt": "Google scientist Dr Timnit Gebru's exit exposes rift in its ethical AI unit, head Jeff Dean faces criticism. Gebru was ousted from Google after a falling out with manag",
@@ -1045,103 +1140,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-after-being-pushed-out-of-google-timnit-gebru-forms-her-own-ai-research-institute-dair.md",
-      "title": "After being pushed out of Google, Timnit Gebru forms her own AI research institute: DAIR",
-      "excerpt": "Timnit Gebru, one of the leaders of Google’s ethics in AI team and one of the foremost experts in that topic, was fired after sending an email of concern to her team. Now she has set up shop herself with a brand new research institute,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dair-institute.org/press-release",
-      "originalUrl": "https://techcrunch.com/2021/12/02/google-timnit-gebru-ai-research-dair/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/wc2kmxvk/production/8ba934ca12f0a32532ca9cca98d37500b7641e93-1440x695.png",
-          "width": 1440,
-          "height": 695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T11:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-03-this-russian-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots.md",
-      "title": "This Russian Company Will Pay You $200,000 To Use Your Face And Voice On Their Robots",
-      "excerpt": "Advertisement Promobotis is a Russian robotic company that is offering $200,000 to people in return for the right to use their face and voice on its robots forever. The company is currently developing “a humanoid robot assistant which will work in hotels,",
-      "sourceUrl": null,
-      "webUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
-      "originalUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wonderfulengineering.com/wp-content/uploads/2021/12/imgonline-com-ua-resize-Sl7zbvKjbvj7Ba1n.jpg",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
-      "cdnAmpWebUrl": "https://wonderfulengineering-com.cdn.ampproject.org/c/s/wonderfulengineering.com/this-company-will-pay-you-200000-to-use-your-face-and-voice-on-their-robots/amp/",
-      "publishedDateTime": "2021-12-02T10:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wonderful Engineering",
-        "domain": "wonderfulengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

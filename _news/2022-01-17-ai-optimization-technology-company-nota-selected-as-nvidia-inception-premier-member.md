@@ -55,6 +55,22 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Lenovo expands edge computing portfolio with AI-focused Nvidia GPUs"
+    excerpt: "Lenovo’s latest addition to the ThinkEdge portfolio of edge-computing devices packs Nvidia GPUs with AI capabilities into a ruggedized design that’s roughly the size of a laptop. The ThinkEdge SE450 is a 2U,"
+    publishedDateTime: 2022-01-17T11:00:00Z
+    webUrl: "https://www.networkworld.com/article/3647009/lenovo-expands-edge-computing-portfolio-with-ai-focused-nvidia-gpus.html"
+    ampWebUrl: "https://www.networkworld.com/article/3647009/lenovo-expands-edge-computing-portfolio-with-ai-focused-nvidia-gpus.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3647009/lenovo-expands-edge-computing-portfolio-with-ai-focused-nvidia-gpus.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2021/10/edge-computing-100908672-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI"
     excerpt: "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development"
     publishedDateTime: 2022-01-13T01:49:00Z

@@ -10,7 +10,7 @@
       "originalUrl": "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -598,7 +598,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -717,6 +717,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-why-is-the-nfl-crowd-sourcing-feckless-ai-solutions-to-its-concussion-problem.md",
+      "title": "Why is the NFL crowd-sourcing feckless AI solutions to its concussion problem?",
+      "excerpt": "Some companies have too much data and not enough humans to review. The NFL has the opposite problem. So why is it crowd-sourcing solutions?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
+      "originalUrl": "https://thenextweb.com/news/why-nfl-crowd-sourcing-feckless-ai-solutions-concussion-problem",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F01%2Fwtfnfl.jpg&signature=9fa80da85c44e5785b125cf3026e7b65",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -994,7 +1046,7 @@
       "originalUrl": "https://www.biometricupdate.com/202201/ramco-systems-builds-voice-biometric-authentication-on-azure-cognitive-services",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1038,7 +1090,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1165,60 +1217,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-flipping-the-lens-on-fear-loathing-of-aiml-in-asian-robotics-review.md",
-      "title": "Flipping The Lens On Fear & Loathing of AI/ML - In Asian Robotics Review",
-      "excerpt": "Asian Robotics Review published an article about my annual Highlights and Milestones in AI in Healthcare report. I'm sharing the article here with permission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
-      "originalUrl": "https://www.linkedin.com/pulse/flipping-lens-fear-loathing-aiml-asian-robotics-review-colangelo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C5612AQEF4M4Cxd7VHA/article-cover_image-shrink_600_2000/0/1642107776452?e=1647475200&v=beta&t=PvX-aOxcIBd3ow0QxB7pKK1SgAWqiMeWN7sQ0se_RxA",
-          "width": 1162,
-          "height": 593,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
       ]
     }
   ],

@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GT Voice: Pacific island countries need Chinese investment"
+    excerpt: "The massive eruption of an underwater volcano off Tonga, which triggered tsunami waves to hit the Pacific island nation and other locations in the Pacific, has become a focus of global headlines. Tonga is in need of emergency aid,"
+    publishedDateTime: 2022-01-17T12:13:00Z
+    webUrl: "https://www.globaltimes.cn/page/202201/1246180.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 24
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-01-16/08271bee-a89f-4676-927f-38be49a6cd2d.jpeg"
+        width: 2000
+        height: 1200
+        isCached: true
 
 secured: "dvnbemhv8fw3AiinUstK56LuF3ZjlSpoam0OmzsE5Mk0aTLtOI8gkcuCHVqGpud8vlbH5pJa6iCt7bmRLhImppQGDv6DzZavxlahBQ8NzQFFyiVnK4AnUpL5JEuHMlhQg7MEzFGTW73JPMJXyP0ix2XvzO9g1HTNQbrfetipZdEJKJbfUa5t+aLwLiTyp0mEIx3ffISrPEJp8yPFgAtVCJUcv4IJ1N7NpResDJNWxgfE9ykpKBECWnAUAUiJAjm7747fk3UPR3FIvjaCnJpmFAoYaHM0U/CjFrfdcUpTZLtkZE5U/PF53Y2Zj8QIVCeuiPVGhvB8q6fXrDOrp8bOlgeXJ4bN7owS8QbwXBLUUdo=;OoE5Sl4v42kqqUPlp2FZBw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/corpcounsel/2022/01/13/goodwin-procter-partner
 webUrl: "https://www.law.com/corpcounsel/2022/01/13/goodwin-procter-partner-joins-legal-tech-startup-as-first-ever-gc/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 767
     height: 633
     isCached: true
-
-related:
-  - title: "Goodwin partner joins legal tech startup HyperDraft as top lawyer"
-    excerpt: "Goodwin Procter partner Sean Greaney has left the firm to serve as the top lawyer for HyperDraft AI, the legal document software startup said on Wednesday."
-    publishedDateTime: 2022-01-12T19:58:00Z
-    webUrl: "https://www.reuters.com/legal/legalindustry/goodwin-partner-joins-legal-tech-startup-hyperdraft-top-lawyer-2022-01-12/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 52
-    images:
-      - url: "https://www.reuters.com/resizer/qqybS2QcLYzGCyY9p6tnwIjQwr8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WXFVMCNQZBO2XLDIKCTXAIMFPM.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "vhJ2rIor6t7k/i5GJml2mRFxTDwzlzWnntPzIFEJgcbwOaaBszorKFGS3fkHVZm+FKRMrE39ev+PLxn9kz5eIFhGSsixEZksawrFgeLB48sUVxBEqbEPqyqM4u0Q5o7cic/amGtg6sgKmREBYEmdRYIHxxBWotWBhUxl/HQ7dua7Q1UppwaLL0W7CEHdRl71ykkToGBtWM7tn/bRWbHkdMJbnSi2SkjeMNKXWS4cjthqCcD/NHKTFfjoeiPOcZZc51YZ80wMPS/aHh1ybM4lmagQ5Buu/8C/ZVyFfPaYBI42ofg0byStlX0v1wzsHroGtZh0yRUK7l9dNGQmH5/+1RyBolhmRqmtk6qKllyjaw/R9JDT6hrP43soglA2HvMFv1eDwCgjRyFTWB4mg42xgelJm32cvTu91HlS+osIsWp+W9CavK/Xyg3U3nFs8bQCHbW4QbB2Uy9fTBj0XXWbTiOvfOO1A/elGHD2IIEkx6iw3VaQFiSgYzn+wdB5GRcnYLvhviJOBgHfTjRygGcHXA==;PukdRspl8AMdsz9JRIogmg=="
 ---

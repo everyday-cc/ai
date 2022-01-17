@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2022/01/joe-gadd-DYLsNF8hNho-unsplash.jpg?x15995"
         width: 800
         height: 533
+        isCached: true
+  - title: "GT Voice: Pacific island countries need Chinese investment"
+    excerpt: "The massive eruption of an underwater volcano off Tonga, which triggered tsunami waves to hit the Pacific island nation and other locations in the Pacific, has become a focus of global headlines. Tonga is in need of emergency aid,"
+    publishedDateTime: 2022-01-17T12:13:00Z
+    webUrl: "https://www.globaltimes.cn/page/202201/1246180.shtml"
+    type: article
+    provider:
+      name: Global Times
+      domain: globaltimes.cn
+    quality: 24
+    images:
+      - url: "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-01-16/08271bee-a89f-4676-927f-38be49a6cd2d.jpeg"
+        width: 2000
+        height: 1200
         isCached: true
 
 secured: "Cz5bBAKnl7wHmWZFllsOQ8RiY8pUE+03rwiaA4F9xF6Uo08HBrkmQA3FErhJNRBF8j/7S2eEgsnr2ABuDRvQYTEsTROqN4iiZoBvnKJgVrivfLTGMo4MgOeb2AJc3hW20RcCurmiB8JxjaH/5vZeaYYcILWvNR8LquWH3JKHOG/AiIwmNWueqMm1ivx0vt8dw8Vbl78nbXjMPiGZV2AWekI+tAnHyF+UvO5tS4Z2x3Rhh9yvPV3X58jeourGseK1QRg3v1hpouyLnJP6CbCAp/JxyK3nhS7WBFF731j0/IM+Ux8403bdNNBrdWUszjPvSPxzyIkM7xCfhf2raln6aCuC7BrR1rKK7ko6S+34hQxkcChFGl1q6PoKfJYfTw6XWzJITiL+EWBW6qoV0VIgNjSpbdQD3z6omjEY1/wR+MNk99Qr6OwcYkfPFMwm7sONAeUkA1Hky2ci8vk6lCjUt75GFVELnuJpCjT3LnWdrBGNSKcOOn0WeCfkClqH/vLZ8/CLLkdGpIITVGJTLeay/Q==;EnmhxJDM4774JayPgzi7Xw=="

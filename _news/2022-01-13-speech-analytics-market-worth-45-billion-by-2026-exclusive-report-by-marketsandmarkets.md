@@ -44,6 +44,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Self-Driving Cars Market worth 62.4 million units by 2030 - Exclusive Report by MarketsandMarketstm"
+    excerpt: "Driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle (Hatchback, Coupe & Sports Car, Sedan, SUV), Level of Autonomy (L1, L2, L3, L4, L5), Mobility Type, EV, and Region"
+    publishedDateTime: 2022-01-17T12:40:00Z
+    webUrl: "https://www.lelezard.com/en/news-20194350.html"
+    type: article
+    provider:
+      name: Le Lézard
+      domain: lelezard.com
+    quality: 10
+    images:
+      - url: "https://www.lelezard.com/img/pr_sections/transportation.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "3f67t+tSBiKcCNb82lD3YZyVKqNsaeLdxRZPtGlLGrZq472oyLZJJjV6V0/IoN/Sxq8KYBzrjt9mwWkUmIOw4OHdWOMSbCdPRSYLYBJS3vIrbLFJBhvB6SUXI7v9BkWI6ZrjxOOlSbbTmbmN7+sp3ntQkCxo9CNN65iAbtTMk/f8BYXRrq9vPl1ji4BZNPT0uyNRer18kNFebY0T9VouibrlxceOOQdKTLIRb/DZh2t1JsXzXN57ZH/cCHsmNi+Ad7lSdGxhLcD/oXUegDJh9Z/nT1N3Nz00ZwtAIdY9JHcT50IhR2+tCRoBELaM/Xw4TEVmElmgU6XypYjA+m+IYD96j1nyQv1F7GN0znlwmyKQbmS5TeT19nRpYXpv4gVLzvjMYqCZXSkt/w/jPPFaTdcm6+zkCin+1F8iOw0jjN6XJOoZ95SrmivGeopq6Aivu8I9fIjnWx3bilreXVD0ew4aciZ5q3tvJobqUw2/KQLdqgaf0xqqphbuVwLyHj/QKLdqzef2KJKjjBDcc28jTA==;y1w1I8ghg0MN+wDGm96Zyw=="
 ---
