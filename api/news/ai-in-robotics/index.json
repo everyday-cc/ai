@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-17-roomba-j7-plus-vs-jet-bot-ai-plus-can-these-robot-vacuums-pass-the-poop-test.md",
+      "title": "Roomba j7 Plus vs. Jet Bot AI Plus: can these robot vacuums pass the poop test?",
+      "excerpt": "But is this feature worth splashing out on a top-of-the-line bot for? I put two of the newest to the test — iRobot’s Roomba j7 ($650 for the vacuum, $850 for the j7 Plus version with the auto-empty base) and Samsung’s Jet Bot AI Plus ($1,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
+      "originalUrl": "https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/5t0Y73CMlU0v_aM0IW41rB_rfWs=/0x0:2040x1360/1400x933/filters:focal(881x943:1207x1269):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70399687/vtuohy_220110_4963_0019.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test",
+      "publishedDateTime": "2022-01-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-01-17-3-ways-that-artificial-intelligence-ai-will-change-your-job-forever.md",
       "title": "3 Ways That Artificial Intelligence (AI) Will Change Your Job Forever",
       "excerpt": "Artificial Intelligence is becoming more capable by the day, learning new skills, and with it, changing the jobs and tasks humans will perform in the future. Here we look at how artificial intelligence (AI) will change our jobs forever.",
@@ -158,7 +211,7 @@
       "originalUrl": "https://venturebeat.com/2022/01/14/how-ai-and-language-intelligence-are-helping-employees-learn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -210,7 +263,7 @@
       "originalUrl": "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -689,7 +742,7 @@
       "originalUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -822,33 +875,24 @@
     {
       "path": "_news/2022-01-12-cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform.md",
       "title": "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform",
-      "excerpt": "Cogniteam today announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development and deployment platform, allowing cloud-enabled deployments to use NVIDIA technology for the first time.",
+      "excerpt": "Cogniteam integrates NVIDIA Isaac GEMs into Nimbus, streamlining robotics from development to deployment leveraging the NVIDIA Jetson platform",
       "sourceUrl": null,
-      "webUrl": "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/",
-      "originalUrl": "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/",
+      "webUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
+      "originalUrl": "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://insidebigdata.com/wp-content/uploads/2022/01/Cogniteam_Nimbus-Screenshot.jpeg",
-          "width": 700,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-11T13:47:00-08:00",
+      "publishedDateTime": "2022-01-11T14:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "insidebigdata.com",
-        "domain": "insidebigdata.com",
+        "name": "Robotics Tomorrow",
+        "domain": "roboticstomorrow.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -858,9 +902,8 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1330,58 +1373,6 @@
         "name": "The Gazette",
         "domain": "gazette.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-08-alibabas-auto-driving-lab-chief-wang-gang-leaves-to-start-his-own-business.md",
-      "title": "Alibaba’s auto driving lab chief Wang Gang leaves to start his own business",
-      "excerpt": "Wang Gang, a former vice-president with e-commerce giant Alibaba Group Holding and head of its autonomous driving lab in the DAMO Academy, has quit to start his own business, becoming the latest top scientist to leave a Chinese Big Tech firm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3162591/alibabas-auto-driving-lab-chief-wang-gang-leaves-start-his-own?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3162591/alibabas-auto-driving-lab-chief-wang-gang-leaves-start-his-own?module=live&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/07/276c6878-88a2-4863-b8de-3bff084db059_b4fb157a.jpg?itok=pnps6mB1&v=1641553678",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3162591/alibabas-auto-driving-lab-chief-wang-gang-leaves-start-his-own",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3162591/alibabas-auto-driving-lab-chief-wang-gang-leaves-start-his-own",
-      "publishedDateTime": "2022-01-08T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence in Supply Chain Management Market Growth Opportunities Report 2021 - ResearchAndMarkets.com"
+    excerpt: "The “Global Artificial Intelligence in Supply Chain Management Growth Opportunities” report has been added to ResearchAndMarkets.com’s offering. This report examines the importance of AI in transforming SCM,"
+    publishedDateTime: 2022-01-14T10:47:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-41112fb94b9c4916be089a6a02100106"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Healthcare Claims Management Global Outlook & Forecast 2022-2027: Advancement of Automated Medical Billing and Management - ResearchAndMarkets.com"
     excerpt: "The “Healthcare Claims Management Market - Global Outlook & Forecast 2022-2027” report has been added to ResearchAndMarkets.com’s offering. Artificial Intelligence (AI) has transformed various industries across the globe and radically can alter the healthcare field."
     publishedDateTime: 2022-01-13T14:49:00Z

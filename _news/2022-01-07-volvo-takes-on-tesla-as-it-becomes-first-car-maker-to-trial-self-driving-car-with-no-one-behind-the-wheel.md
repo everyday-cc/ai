@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Volvo takes on Tesla as it becomes first car maker to trial self-driving car with NO ONE behind the wheel"
-excerpt: "The carmaker has teamed up with road safety tech firm Zenseact and artificial intelligence whizzes at ... and under-the-bonnet hardware which make driverless journeys possible."
-publishedDateTime: 2022-01-07T14:27:00Z
-originalUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
-webUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/"
-ampWebUrl: "https://www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
-cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/17249764/volvo-trial-self-driving-car-electric-suv/amp/"
+excerpt: "The Swedish car manufacturer announced plans to test its Ride Pilot driverless tech on California ... road safety tech firm Zenseact and artificial intelligence whizzes at Luminar to build Ride ..."
+publishedDateTime: 2022-01-07T14:29:00Z
+originalUrl: "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/"
+webUrl: "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/"
+ampWebUrl: "https://www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/"
+cdnAmpWebUrl: "https://www-thesun-ie.cdn.ampproject.org/c/s/www.thesun.ie/motors/8170845/volvo-trial-self-driving-car-electric-suv/amp/"
 type: article
 
 provider:
-  name: The Sun
-  domain: thesun.co.uk
+  name: Irish Sun
+  domain: thesun.ie
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.thesun.co.uk/wp-content/uploads/2022/01/jw-volvo-lidar-comp.jpeg?strip=all&quality=100&w=1200&h=800&crop=1"
-    width: 1200
-    height: 800
+  - url: "https://www.thesun.ie/wp-content/uploads/sites/3/2022/01/jw-volvo-lidar-comp.jpe?strip=all&quality=100&w=1200&h=800&crop=1"
+    width: 1500
+    height: 1000
     isCached: true
 
-secured: "EntjewyFlEp/8GSAqUF1FwpBuxtzx8MCR+1+4qZXQFRwdAIfU+vNcTcCCzBS7LeIBj30bVJ7GPBGV8oQ1WScrtAcgb3a8pXZk8r4c7CLhiCC+W7lC+9hHDOo1WINN6DcWn2iqrYOFfl4Hg2SHoOj9yyvzmwb1e6nufmIwRsFjQabz7VEjhcEbQ01svXVeMirmJVFY7IkT6G3hqI363TiLCYeY40SBmQZgC3sXwIdcnfsMsMBd4xcWVm0Fsm4b4403b0zqfRIKTlqMRh+AK741wtlAS9hMGIwsd6K4eO46ywW24O0iwEg8QErBZ1507rsKsjtUKRn4VMjHEA2BWKQfxAPNaLclT5Aa5nBTch0Bns=;1N5KRi/XK1DqmyWP5/rRDg=="
+secured: "qi0hm5uWe50PhDQuwg08AlkrqNJgkgZ2gpn71lgcIjmnvHLRdCSsOnVE7vBvUS2V8gFAWAYyRtIi8r7+S9S9f9VJ5h9PG7STNM8C9F0SY6ccuZWhfBG5MbTywnBv/X4EHvPDshRltX2/iY2FxB61YNbidIiaeqheDFl3zEro0j6QA8fvYWxFicajkhi/tu+PZ4bsZrrqiwbel32/HguNFGbwaq5nJCtFVNqcRHCoJbfp82m8vhqIGowMVKkon954vs2nBW9OUIvVDmwszKvYFgcYpEDuUSd0GflOmI7/6Od6UPL9HokhVmDbsNkvlzxFVDHnYm0M9Dako19pNIJ4oE9dneBM1eYWKq2j7UpVWpc=;1m0JVsB/ZTb6Pv4yXixfkw=="
 ---
 

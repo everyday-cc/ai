@@ -58,6 +58,17 @@ related:
         width: 1800
         height: 1013
         isCached: true
+  - title: "Intelligent gaming: How Artificial Intelligence and machine learning raise the stakes"
+    excerpt: "From using computers to work faster to now teaching computers to work themselves, we’ve achieved quantum leaps when it comes to the possibilities of computer technology. Driving this new generation forward are the developments"
+    publishedDateTime: 2022-01-17T12:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 62
 
 secured: "LSAP+zt5lAQ4+wjafdqV/NCdg9Fvb41Q5T2IlxjrQCleRXf140j/QKNs4oe+Hk64KQ6eBX9zmUDlpsQIrK4TVJbueZ9Za0qDu7mJW73SpNZywzchzLEoy0cfhdpfe18aN9ZMVIp+CgG/P3BGgsmitsZenxGXDyuCChfFQfzf9pOlaFJoQP1kDt6sberKka0yLOV7Mx7ejlMBwPmERb8ts5ukGswzbQHgJOlFQw3l4KxuRol7yeucflTnjFlQW0wgwrWbW60WP+xY/qyQgyJBPwKboOr09HpyH1Y7ffniRiqIU2Am1WBy5pHykbrBYXJdAt/cXXeLTQbggqWvMVWnP34e3FiyJ5bM0WzAgaguZ7BJ0YVIOtaPiGmhN9Ndy2/LkDn7q6WLj4kxd2wcTUIknJzNnu34ga0JzrH4Saj6h4WWP3WZdapiFTSuelDPmlh4PkcJCzJ1JKgsco1qQL7HOy3o3oVfgtKhjhQJa2uUMRSHEnAzEeBDZyG02y/UlfSLfp7+3T4o1Oww2woRmlzHNg==;3ZJhMeOIOeodGjuaOEKR3g=="
 ---

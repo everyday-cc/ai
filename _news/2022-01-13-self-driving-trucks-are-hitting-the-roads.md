@@ -26,22 +26,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Self-driving tractors are next big change for farmers"
-    excerpt: "Self-steering tractors are nothing new to Minnesota farmer Doug Nimz, who, four years ago, first used a new type of John Deere tractor on his 2,000-acre corn and soybean farm"
-    publishedDateTime: 2022-01-12T21:49:00Z
-    webUrl: "https://www.malaysiasun.com/news/272160137/self-driving-tractors-are-next-big-change-for-farmers"
-    type: article
-    provider:
-      name: Malaysia Sun
-      domain: malaysiasun.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1641967875865.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
 secured: "t2hju/id9PKPtMihPg9lhomhz+LpiMrqyUTE7CN+Ig6yZzKOHTQ7qBfo5JWKalj7Y1q/SuFDKCODK1b4/SBab3+WOeeAI0Wl2UgaOOBIYbniFtJDjifdzwbUIeW3U+h6F00b++FCEOfBkKmIs9nab6qIUKAEfo9c7FhPkesSC4KKzG3FFiVaLW4mqg7MGYjyxi/pX3m5OnGYx8WN1XFXFx03dpKxIaJ5WRQPLLczYS+XS45edDAp/7+Ev9yqQ6+n+LII4LI+7V8ikw3tlQSaYsa2/rwbrNxtGmcrnW0eiEO0o2ZsBr8YR0siUyWpeKU2G6tpJ1Z85cccTIb/0Ao2+252cZHMhW0Q/SKXNECuyHc=;R19KSlC7SllYfAhI8MRhDw=="
 ---
 

@@ -29,21 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "Roborock vs. Roomba: 2 impressive robot vacuum mop combos compared"
-    excerpt: "When the vacuum is done it will then instruct the Braava to start mopping. Both devices share your home's ... Another company, Samsung, made similar claims, but unfortunately, its Jet Bot AI Plus couldn't perform as advertised, so I'll need to test ..."
-    publishedDateTime: 2022-01-14T18:25:00Z
-    webUrl: "https://www.cnet.com/home/kitchen-and-household/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/"
+  - title: "Roomba j7 Plus vs. Jet Bot AI Plus: can these robot vacuums pass the poop test?"
+    excerpt: "But is this feature worth splashing out on a top-of-the-line bot for? I put two of the newest to the test — iRobot’s Roomba j7 ($650 for the vacuum, $850 for the j7 Plus version with the auto-empty base) and Samsung’s Jet Bot AI Plus ($1,"
+    publishedDateTime: 2022-01-17T13:00:00Z
+    webUrl: "https://www.theverge.com/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test"
+    ampWebUrl: "https://www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/22880352/irobot-roomba-j7-plus-samsung-jet-bot-ai-plus-robot-vacuum-review-comparison-test"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: The Verge
+      domain: theverge.com
+    quality: 102
     images:
-      - url: "https://www.cnet.com/a/img/wBwmRgI6ss08ArJU5-SSMcfUo_s=/1200x630/2022/01/04/1c7cad62-3698-4e16-85c4-713ad851a0ee/roborock-s7-maxv-ultra-1.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn.vox-cdn.com/thumbor/5t0Y73CMlU0v_aM0IW41rB_rfWs=/0x0:2040x1360/1400x933/filters:focal(881x943:1207x1269):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70399687/vtuohy_220110_4963_0019.0.jpg"
+        width: 1400
+        height: 933
         isCached: true
 
 secured: "s7retgYtA1W+Iu1+81q6aMT/Pa/K2Z/zAdDaOfoPD0dN4u3ZOZXZv4V8QjiMLKY1Q1psSGvgftEh6u0bMtuZUWr85igB1EZ0oFLy8WoBsc7fSY1iTxsm4AYxD6TOBtZeGGBCau1O7Ilkkkanw0qj+xEdDDo+JUdXiEBc88H90+8EMn8DDi73zTQCCamnZzFGwfxw7LZEpVgKRSPu7nk1nDT1C66IaP+gTJzF+HosioTQUr/5ydOW0ewp5okWFKlhqKnf/p/ZtkNzn5caYgZzPDr1nW/j9dv+NPvcE4F5/Z80v28wC6zD5kuZ2tynkdIU9PmpNcPDBeSL5F/lw+BNEVtzTRsSu5kO2EB5h+2M0t0x+KvgY1D3IoU+6gUXioEHw1aq1KLurxaIJ3SsPsXT+xkPQESV30MLiD9+FTNzIndmAiiWGxNRv5gPshKk26dqlT3L6NxPDgD3I1mN4x+wdyMva5gzX+hSQ2RnP97L3J1xTcM/V+cAaUugLhC2GpsRIw1snsCsFxSZoWp5/OP2xQ==;lCA8cdMa5Z35wVbfd3E+Bg=="

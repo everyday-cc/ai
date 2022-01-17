@@ -2,6 +2,144 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-01-15-can-ai-beat-the-market-10-stocks-to-watch.md",
+      "title": "Can AI Beat the Market? 10 Stocks to Watch",
+      "excerpt": "The company's AI algorithms analyze more than 900 fundamental, technical and sentiment data points per day for 1,000 U.S.-listed shares and 600 stocks listed in Europe. Danelfin says that in total, its AI predictive scoring capability churns through 10,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch",
+      "originalUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp",
+      "publishedDateTime": "2022-01-14T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-labour-peers-ai-healthcare-firm-sensyne-says-cash-is-running-out.md",
+      "title": "Labour peer’s AI healthcare firm Sensyne says cash is running out",
+      "excerpt": "Data analytics company run by Paul Drayson says money could run out in weeks unless it finds emergency funding",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
+      "originalUrl": "https://www.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0df2065643f93ef32c4d73da6014a74bd3b8c764/0_72_2160_1296/master/2160.jpg?width=620&quality=85&auto=format&fit=max&s=b29e1cab3c4596aef467c022ebe84b22",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2022/jan/14/labour-peers-ai-healthcare-firm-sensyne-warns-cash-is-running-out",
+      "publishedDateTime": "2022-01-14T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-01-15-ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions.md",
+      "title": "AI Weekly: What can AI tell us about social unrest, virus structures, and carbon emissions?",
+      "excerpt": "Predicting unrest and virus structures. Reducing emissions from planes using algorithms. That's a few of the headlines in AI this week.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
+      "originalUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/06/airplane.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/ai-weekly-what-can-ai-tell-us-about-social-unrest-virus-structures-and-carbon-emissions/amp/",
+      "publishedDateTime": "2022-01-14T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-flipping-the-lens-on-fear-loathing-of-aiml-in-asian-robotics-review.md",
       "title": "Flipping The Lens On Fear & Loathing of AI/ML - In Asian Robotics Review",
       "excerpt": "Asian Robotics Review published an article about my annual Highlights and Milestones in AI in Healthcare report. I'm sharing the article here with permission.",
@@ -1048,154 +1186,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-sales-enablement-startup-highspot-raises-248m-at-35b-valuation.md",
-      "title": "Sales enablement startup Highspot raises $248M at $3.5B valuation",
-      "excerpt": "Sales software maker Highspot Inc. today said that it has raised a $248 million funding round after growing revenues nearly tenfold over the last three years. B Capital Group and D1 Capital Partners,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/",
-      "originalUrl": "https://siliconangle.com/2022/01/13/sales-enablement-startup-highspot-raises-248m-3-5b-valuation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1138450928.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
-      "publishedDateTime": "2022-01-13T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-microsoft-msft-accelerates-manufacturing-homegrown-chips.md",
-      "title": "Microsoft (MSFT) Accelerates Manufacturing Homegrown Chips",
-      "excerpt": "Microsoft (MSFT) hires key Apple engineer Mike Filippo to manufacture in-house processors for the servers running its cloud-computing services and Surface line of personal computers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/413080",
-      "originalUrl": "https://www.entrepreneur.com/article/413080",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413080.jpeg",
-          "width": 635,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-13T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond.md",
-      "title": "16 Industries And Functions That Will Benefit From AI In 2022 And Beyond",
-      "excerpt": "The experts of Forbes Technology Council are always looking ahead to the latest trends in cutting-edge technology. Below, 16 of them share the industries they believe have the most to gain from implementing AI as well as how the technology will be specifically applied in 2022 and beyond.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df1425c8d22322f13806f0%2F0x0.jpg",
-          "width": 1200,
-          "height": 978,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
-      "publishedDateTime": "2022-01-13T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

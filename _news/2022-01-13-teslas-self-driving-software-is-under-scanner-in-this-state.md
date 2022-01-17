@@ -9,8 +9,8 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-softwa
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
 type: article
 quality: 59
-heat: 99
-published: true
+heat: -1
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla releases new Full Self-Driving Beta 10.9 software update, announces expansion in Canada"
+    excerpt: "Tesla is starting to push a new version (10.9) of its Full Self-Driving Beta software update with some improvements, and Elon Musk announced an expansion of the test program in Canada. For more than a year now,"
+    publishedDateTime: 2022-01-17T13:31:00Z
+    webUrl: "https://electrek.co/2022/01/17/tesla-releases-full-self-driving-beta-10-9-software-update-announces-expansion-canada/"
+    ampWebUrl: "https://electrek.co/2022/01/17/tesla-releases-full-self-driving-beta-10-9-software-update-announces-expansion-canada/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/17/tesla-releases-full-self-driving-beta-10-9-software-update-announces-expansion-canada/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "California reviews whether Tesla’s self-driving tests require oversight"
     excerpt: "DMV revisiting prior decision that full self-driving is not subject to its regulations on autonomous vehicles"
     publishedDateTime: 2022-01-13T16:13:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
         width: 940
         height: 516
-        isCached: true
-  - title: "California reviews whether Tesla's self-driving tests require regulatory oversight"
-    excerpt: "State regulator cites \"videos showing a dangerous use of that technology\" and federal investigations into Tesla vehicle crashes."
-    publishedDateTime: 2022-01-12T21:06:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/teslas-self-driving-tests-might-require-regulatory-oversight-calif"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 33
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web_0_1.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "WfImGm/j+EXJw+LgQFTGnur+mQIVKkPFFGjYalb/7HbUvAQ4UzloheETaco3babFCyjU2GtiTG9k/tnXNKWnWiXNdsAg71fA1+zd+sPs1HxvzmpIgnEi8kdDsDR/yFuSRndsDflwCGvK6kekpvImn6ssjpcd+ou+4ayNNugbiFyVfWjdrsSDJq0R1a9PEILt7+hZlIQCGhsM1gqlXK7Rr1L1J13cPwSgxJIZwY2RWAOmeL78ctJMUU+Ut02xFpq5u9zYIRL/JhwN8AKrrr5FPqDjL/g80IEzlIS0CSfmCfS2tJV272tUt5+HrxzhKm2jctAhh2XzcAvXmLHcLcuD/grVE03zKnqLjQFgzWTLqUKWM+fV8ZS8owmGDEcAW2f/z+rGMJlnNpARUQHm8x6/g+FUb/33px69/U5JX27dWP1Wc97tCTsnXN2UnaGvPUFjraGBIEd5DbI7KI9A9kW12wpPk3eCS2QzJj0YSnkr2601eaQrH22bmOZrUe3+clX3fQNmkq6uskwjUl3yBLn9dg==;LNhNhVHJqIGWJe0lTxFgGg=="

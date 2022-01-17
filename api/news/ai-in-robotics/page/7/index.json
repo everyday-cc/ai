@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-12-04-how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools.md",
+      "title": "How the 'Great Resignation' is accelerating the use of robotics and AI-based tools",
+      "excerpt": "artificial intelligence with machine learning, robotics, high-speed data streaming and a slew of other technologies, Reinharz says. The revolution will include the use of autonomous remote services, commonly known as robotics, and will benefit industries ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/",
+      "originalUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.benefitspro.com/contrib/content/uploads/sites/412/2021/12/Artificial-Intelligence-AI-robot-tech-automate.jpg",
+          "width": 617,
+          "height": 412,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/?amp=1",
+      "cdnAmpWebUrl": "https://www-benefitspro-com.cdn.ampproject.org/c/s/www.benefitspro.com/2021/12/03/how-the-great-resignation-is-accelerating-the-use-of-robotics-and-ai-based-tools/?amp=1",
+      "publishedDateTime": "2021-12-03T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benefits Pro",
+        "domain": "benefitspro.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-03-humanoid-robot-ameca-shows-most-accurate-facial-expressions-in-new-video-watch.md",
       "title": "Humanoid Robot 'Ameca' Shows Most Accurate Facial Expressions In New Video; WATCH",
       "excerpt": "The UK’s Cornwall-based firm Engineered Arts has unveiled a humanoid robot Ameca that can display human-like expressions with the most accuracy.",
@@ -1321,58 +1364,6 @@
         "name": "Heavy.com",
         "domain": "heavy.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-29-robotics-startup-fjdynamics-raises-70m-to-make-manual-labor-easier.md",
-      "title": "Robotics startup FJDynamics raises $70M to make manual labor easier",
-      "excerpt": "FJDynamics, founded by DJI’s former chief scientist Wu Di, just closed a Series B round of $70 million as it advances its goal to empower workers in the harshest environment with robotic technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/",
-      "originalUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/2421637834861_.pic_hd-e1638163752386.jpg?w=823",
-          "width": 823,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2021/11/28/fj-dynamics-70-million-funding/amp/",
-      "publishedDateTime": "2021-11-28T21:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

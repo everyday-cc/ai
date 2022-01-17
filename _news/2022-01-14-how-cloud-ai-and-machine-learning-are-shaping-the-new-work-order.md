@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Intelligent gaming: How Artificial Intelligence and machine learning raise the stakes"
+    excerpt: "From using computers to work faster to now teaching computers to work themselves, we’ve achieved quantum leaps when it comes to the possibilities of computer technology. Driving this new generation forward are the developments"
+    publishedDateTime: 2022-01-17T12:53:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/intelligent-gaming-how-artificial-intelligence-and-machine-learning-raise-the-stakes/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 62
   - title: "3 Vectors of Artificial Intelligence and Machine Learning"
     excerpt: "The New Stack Shorts covers three areas that are reshaping business processes and environments - from the intelligent applications that embed AI/ML and take advantage of data, and the system of enablers that allow them to reach scale to the chips that power them."
     publishedDateTime: 2022-01-13T15:30:00Z

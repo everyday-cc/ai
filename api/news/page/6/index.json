@@ -2,6 +2,196 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-11-getting-smart-about-five-2022-ai-and-machine-learning-predictions.md",
+      "title": "Getting Smart About Five 2022 AI And Machine Learning Predictions",
+      "excerpt": "As new technologies exit the realm of dreams and enter the realm of possibility and reality, there’s always a reckoning with their true capabilities. In 2021, I saw teams build the foundations for some really important AI changes in 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dcad5888028e02db6660ac%2F0x0.jpg",
+          "width": 1200,
+          "height": 688,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/01/11/getting-smart-about-five-2022-ai-and-machine-learning-predictions/amp/",
+      "publishedDateTime": "2022-01-11T03:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-humans-are-still-significantly-better-at-predicting-the-weather-than-ai.md",
+      "title": "Humans are still significantly better at predicting the weather than AI",
+      "excerpt": "Despite all the progress that has been made in the realm of technology, AI, and machine learning, weather companies have not yet handed over the keys",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
+      "originalUrl": "https://www.techspot.com/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/01/2022-01-10-image-37.jpg",
+          "width": 2138,
+          "height": 1402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/92936-humans-significantly-better-predicting-weather-than-ai.html",
+      "publishedDateTime": "2022-01-11T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-top-free-no-code-ml-platforms-in-2022.md",
+      "title": "Top free no-code ML platforms in 2022",
+      "excerpt": "According to a Gartner Magic Quadrant analysis, 65 percent of application development will be done on no-code/low-code platforms by 2024. No-code application platforms have contributed to productivity gains in a short span of time by assisting businesses in automating and digitising processes.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/top-free-no-code-ml-platforms-in-2022/",
+      "originalUrl": "https://analyticsindiamag.com/top-free-no-code-ml-platforms-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/01/ML-BANNER_11zon.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T02:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-corsight-ai-reduces-bias-in-its-facial-recognition-technology.md",
+      "title": "Corsight AI reduces bias in its facial recognition technology",
+      "excerpt": "Corsight AI, announces a reduction in both gender and racial bias within its Autonomous AI-powered solution, Fortify.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
+      "originalUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s33644.pcdn.co/wp-content/uploads/2018/08/facial-recognition-e1533212864558.jpeg",
+          "width": 388,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/smart-security/corsight-ai-reduces-bias-in-its-facial-recognition-technology/amp/",
+      "publishedDateTime": "2022-01-11T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ifsecglobal.com",
+        "domain": "ifsecglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-iit-guwahati-tpl-launch-programs-in-cybersecurity-ai-deep-learning.md",
       "title": "IIT Guwahati, TPL launch programs in cybersecurity, AI & Deep Learning",
       "excerpt": "The program aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as AI & Deep Learning.",
@@ -1005,196 +1195,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-artificial-intelligence-in-supply-chain-market-size-worth-143-billion-globally-by-2028-at-2017-cagr-verified-market-research.md",
-      "title": "Artificial Intelligence In Supply Chain Market size worth $ 14.3 Billion, Globally, by 2028 at 20.17% CAGR: Verified Market Research®",
-      "excerpt": "Verified Market Research recently published a report, \"Artificial Intelligence In Supply Chain Market\" By Application (Fleet Management, Supply Chain Planning, Warehouse Management,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/artificial-intelligence-in-supply-chain-market-size-worth-14-3-billion-globally-by-2028-at/article_ffc35451-e281-505b-8077-c6b983615249.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/4/dc/4dcf305a-e12f-5e56-b5de-b4e2c8e49254/6081772d937fa.image.jpg?crop=1446%2C759%2C627%2C0&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-autonomous-tractors-with-robot-brains-are-coming-to-take-over-the-farm.md",
-      "title": "Autonomous Tractors with Robot Brains Are Coming to Take Over the Farm",
-      "excerpt": "John Deere revealed a self-driving tractor at CES with traditional diesel power, while Monarch's was autonomous and electric.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoweek.com/news/future-cars/a38705415/autonomous-tractors-robot-brains-for-farming/",
-      "originalUrl": "https://www.autoweek.com/news/future-cars/a38705415/autonomous-tractors-robot-brains-for-farming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/monarch-3-1641775695.png?crop=1.00xw:0.708xh;0,0.132xh&resize=1200:*",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoweek.com/news/future-cars/amp38705415/autonomous-tractors-robot-brains-for-farming/",
-      "cdnAmpWebUrl": "https://www-autoweek-com.cdn.ampproject.org/c/s/www.autoweek.com/news/future-cars/amp38705415/autonomous-tractors-robot-brains-for-farming/",
-      "publishedDateTime": "2022-01-10T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoweek",
-        "domain": "autoweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights.md",
-      "title": "IFF And SleepScore Labs Develop Fragrance That Targets Sleepless Nights",
-      "excerpt": "IFF and SleepScore Labs have partnered to develop a scent that will help consumers get a better night’s sleep based on science and data and creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/",
-      "originalUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61dba89ae7c75c3c0e034eaa%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sharonedelson/2022/01/10/iff-and-sleepscore-labs-develop-fragrance-that-targets-sleepless-nights/amp/",
-      "publishedDateTime": "2022-01-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-when-mind-melds-with-machine-whos-in-control.md",
-      "title": "When Mind Melds With Machine, Who’s in Control?",
-      "excerpt": "Brain-computer interfaces are getting better all the time—and they’re about to land us in a philosophical quagmire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface/",
-      "originalUrl": "https://www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61d782e91c1a4c101b0f4b91/master/pass/When-Mind-Melds-with-Machine,-Who%E2%80%99s-in-Control-.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/when-mind-melds-machine-whos-in-control-brain-computer-interface/amp",
-      "publishedDateTime": "2022-01-10T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

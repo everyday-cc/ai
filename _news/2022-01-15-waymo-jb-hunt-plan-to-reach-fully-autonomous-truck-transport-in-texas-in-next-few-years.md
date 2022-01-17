@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dallasnews.com/business/technology/2022/01/14/waymo-jb-h
 cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/?outputType=amp"
 type: article
 quality: 148
-heat: 168
+heat: 178
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Waymo and J.B. Hunt expand autonomous trucking partnership"
+    excerpt: "Back in the summer of 2021, we reported on a newly formed partnership between autonomous vehicle developer Waymo and trucking company J.B. Hunt. Well, now, according to a blog post published on Friday by Waymo,"
+    publishedDateTime: 2022-01-17T14:00:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/waymo-jb-hunt-partnership-expanded/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-jb-hunt-partnership-expanded/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-jb-hunt-partnership-expanded/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/QuBZCKQalShPdGt42jTbBsCuB9Q=/2021/06/09/0de5bc3e-0dba-4b63-a565-0627fe3040d0/1-9mdaeoy-fpxsle9usrp7pa.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Waymo, J.B. Hunt Sign Deal to Use Self-Driving Trucks in Texas"
     excerpt: "Alphabet Inc.’s Waymo signed a multiyear deal with J.B. Hunt Transport Services Inc. to haul freight using autonomous trucks in Texas, its latest bid to reshape transportation with self-driving technology."
     publishedDateTime: 2022-01-14T14:00:00Z

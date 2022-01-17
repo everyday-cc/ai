@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-01-14-sales-enablement-startup-highspot-raises-248m-at-35b-valuation.md",
+      "title": "Sales enablement startup Highspot raises $248M at $3.5B valuation",
+      "excerpt": "Sales software maker Highspot Inc. today said that it has raised a $248 million funding round after growing revenues nearly tenfold over the last three years. B Capital Group and D1 Capital Partners,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/",
+      "originalUrl": "https://siliconangle.com/2022/01/13/sales-enablement-startup-highspot-raises-248m-3-5b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/06/GettyImages-1138450928.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/13/highspot-raises-248m-to-bolster-sales-enablement-using-ai/amp/",
+      "publishedDateTime": "2022-01-13T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic.md",
+      "title": "New startup shows how emotion-detecting AI is intrinsically problematic",
+      "excerpt": "Hume, a new company emerging from stealth, claims that it is 'ethically' applying emotion AI. But the science is shaky at best.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
+      "originalUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/YouFirst-AI-emotion-tracking-brand-video-campaigns.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/",
+      "publishedDateTime": "2022-01-13T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-microsoft-msft-accelerates-manufacturing-homegrown-chips.md",
+      "title": "Microsoft (MSFT) Accelerates Manufacturing Homegrown Chips",
+      "excerpt": "Microsoft (MSFT) hires key Apple engineer Mike Filippo to manufacture in-house processors for the servers running its cloud-computing services and Surface line of personal computers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/413080",
+      "originalUrl": "https://www.entrepreneur.com/article/413080",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413080.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond.md",
+      "title": "16 Industries And Functions That Will Benefit From AI In 2022 And Beyond",
+      "excerpt": "The experts of Forbes Technology Council are always looking ahead to the latest trends in cutting-edge technology. Below, 16 of them share the industries they believe have the most to gain from implementing AI as well as how the technology will be specifically applied in 2022 and beyond.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df1425c8d22322f13806f0%2F0x0.jpg",
+          "width": 1200,
+          "height": 978,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/01/13/16-industries-and-functions-that-will-benefit-from-ai-in-2022-and-beyond/amp/",
+      "publishedDateTime": "2022-01-13T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-advancing-genomics-to-better-understand-and-treat-disease.md",
       "title": "Advancing genomics to better understand and treat disease",
       "excerpt": "Genome sequencing can help us better understand, diagnose and treat disease. For example, healthcare providers are increasingly using genome sequencing to diagnose rare genetic diseases, such as elevated risk for breast cancer or pulmonary arterial hypertension, which are estimated to affect roughly",
@@ -647,7 +846,7 @@
       "originalUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -729,49 +928,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-teslas-self-driving-software-is-under-scanner-in-this-state.md",
-      "title": "Tesla's self-driving software is under scanner in this state",
-      "excerpt": "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html",
-      "publishedDateTime": "2022-01-13T04:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1042,153 +1198,6 @@
         "name": "Zawya",
         "domain": "zawya.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-just-in-pentagon-research-priorities-to-include-microelectronics-next-g.md",
-      "title": "JUST IN: Pentagon Research Priorities to Include Microelectronics, 'Next-G'",
-      "excerpt": "The Pentagon's research and engineering office's list of 14 technology priorities will be revealed as early as Jan. 17, Undersecretary of Defense for Research and Engineering Heidi Shyu told reporters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationaldefensemagazine.org/articles/2022/1/13/pentagon-re-chief-to-prioritize-microelectronics-ai",
-      "originalUrl": "https://www.nationaldefensemagazine.org/articles/2022/1/13/pentagon-re-chief-to-prioritize-microelectronics-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2022/shyu_jh.ashx?h=500&w=878&la=en&hash=EAA527C73047AE120D324B6AA277E215",
-          "width": 878,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Defense Magazine",
-        "domain": "nationaldefensemagazine.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges.md",
-      "title": "Graph-based recommendation system with Neptune ML: An illustration on social network link prediction challenges",
-      "excerpt": "Recommendation systems are one of the most widely adopted machine learning (ML) technologies in real-world applications, ranging from social networks to ecommerce platforms. Users of many online systems rely on recommendation systems to make new friendships, discover new music according to suggested",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/graph-based-recommendation-system-with-neptune-ml-an-illustration-on-social-network-link-prediction-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/01/04/ML-6681-image003-1111x630.png",
-          "width": 1111,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-12T14:50:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-01-13-nuro-add-airbags-for-people-to-self-driving-delivery-vehicles.md",
-      "title": "Nuro Add Airbags (for People) to Self-Driving Delivery Vehicles",
-      "excerpt": "Pedestrians can be an absent-minded bunch, so Nuro's newest delivery bot adds an external airbag to protect those who may collide with it on the sidewalk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles",
-      "originalUrl": "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/0450pNfKRBwFezwmdnvuEr0-1.fit_lim.size_1200x630.v1642009417.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/nuro-add-airbags-for-people-to-self-driving-delivery-vehicles?amp=true",
-      "publishedDateTime": "2022-01-12T10:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

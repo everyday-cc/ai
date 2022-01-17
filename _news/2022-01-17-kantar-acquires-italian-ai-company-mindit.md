@@ -9,8 +9,8 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5094492&name=kantar-a
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5094492&name=kantar-acquires-italian-ai-company-mindit"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: research
@@ -24,6 +24,36 @@ images:
     width: 1000
     height: 581
     isCached: true
+
+related:
+  - title: "Kantar acquires Bologna-based AI specialist MindIT"
+    excerpt: "Fresh off the divestment of Kantar’s reputation division (now part of Onclusive), the London-based company has acquired decision support systems software house MindIT. A spinout of Bologna University,"
+    publishedDateTime: 2022-01-17T13:27:00Z
+    webUrl: "https://tech.eu/brief/kantar-acquires-bologna-based-ai-specialist-mindit/"
+    type: article
+    provider:
+      name: Tech.eu
+      domain: tech.eu
+    quality: 37
+    images:
+      - url: "https://tech.eu/wp-content/uploads/2022/01/kantar22.png"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "MindIT Artificial Intelligence Team join Kantar to advance consumer goods revenue management portfolio"
+    excerpt: "Kantar, the world’s leading data-driven analytics and brand consulting company today announces the acquisition of all software intellectual property (IP) and the development team from MindIT, the Bologna,"
+    publishedDateTime: 2022-01-17T12:45:00Z
+    webUrl: "https://www.retailtimes.co.uk/mindit-artificial-intelligence-team-join-kantar-to-advance-consumer-goods-revenue-management-portfolio/"
+    type: article
+    provider:
+      name: Retail Times
+      domain: retailtimes.co.uk
+    quality: 21
+    images:
+      - url: "http://www.retailtimes.co.uk/wp-content/uploads/2013/10/RTnewsletter-logo.jpg"
+        width: 560
+        height: 420
+        isCached: true
 
 secured: "jGW2EFjzcUqUM3OZ2TTu1r7KDqIUnVAoZVP1JFEYAHviBdQ7gv0UdttFzNtRxTpORNBcSgaS1xKTNHtaZuzH5q+t1NqohQrk4kKK1ZPc/mBZUfKxvQB1ZntXGeDLiR7FLZZ/does5JAiN6hwm0MJn5b8Bw15OcRVRdzY7ZQT3GuZDItCOF8B6+7o1vMJsjCiFW8vUio4qF4ZMjeKfDv4kZq/cC5ydMqPagmsgmnGOUQcYPhQsctc43px+ETBlNAIlO/kvLs9voBLb/a/ENBpnwlthO6AM5BF/vAKbE+wYaIx/DRvWCBPna4yifFuyo/SwHp7u0bvKFeQYCnqNA6ST+QGDyh0z22ZOcvDvOsYnv4=;xkC4Hx5dKr6bujmbp0KDjw=="
 ---

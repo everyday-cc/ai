@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla releases new Full Self-Driving Beta 10.9 software update, announces expansion in Canada"
+    excerpt: "Tesla is starting to push a new version (10.9) of its Full Self-Driving Beta software update with some improvements, and Elon Musk announced an expansion of the test program in Canada. For more than a year now,"
+    publishedDateTime: 2022-01-17T13:31:00Z
+    webUrl: "https://electrek.co/2022/01/17/tesla-releases-full-self-driving-beta-10-9-software-update-announces-expansion-canada/"
+    ampWebUrl: "https://electrek.co/2022/01/17/tesla-releases-full-self-driving-beta-10-9-software-update-announces-expansion-canada/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/17/tesla-releases-full-self-driving-beta-10-9-software-update-announces-expansion-canada/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 78
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla's self-driving software is under scanner in this state"
     excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
     publishedDateTime: 2022-01-13T12:06:00Z
@@ -72,20 +88,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
         width: 940
         height: 516
-        isCached: true
-  - title: "California reviews whether Tesla's self-driving tests require regulatory oversight"
-    excerpt: "State regulator cites \"videos showing a dangerous use of that technology\" and federal investigations into Tesla vehicle crashes."
-    publishedDateTime: 2022-01-12T21:06:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/teslas-self-driving-tests-might-require-regulatory-oversight-calif"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 33
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web_0_1.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "4z+VFrlAifBrO4H9hx1inpu0ol10r2l1I7iCIhXgRW4kG6o3Pq+9IFzJioGW6YmIrNN+HHVSkV5XChZVd3yixsRSvooIB2hKcFyspd51R+GpZZdWFQItIqTF954r3OE+OXwU7OMG5+bKFyPVFlDcA2Xayp7grXQHJt6peZIIGbcKtFXAzerJVT/MXf2dkqY+NeR7iVME1QCcUij1A1hySRz0GWk2BP5uBNfE1rvS6aH3Ew0AfTeKp0quS12s7pcoXVX6qExego504flfgR6Djp5RmSz5rEmMEGV77l5hSFAyZ92tSyjPYoni+TDIgOeU7GcJ5t+6zedwow6ka8/ys2/N9DBShFqnxoYyVUQJWWGeA3LLcLclRBG9O0+rnQV0SPhPkay887nZ1uPHL+uZAsb1XvDGQcwlhpA2TXQlPd4NvFUh3VypaC56ksVnmdyAKLtZbb83t/47zyqo2z5dNJ+Lql/UZrg2joduyeR0I7aV+v09YseSn+++lRa2c3V98+1r7naFY7LtP6CrZLsEiQ==;0NM2p9IiVT69Kv/M4UNvrA=="

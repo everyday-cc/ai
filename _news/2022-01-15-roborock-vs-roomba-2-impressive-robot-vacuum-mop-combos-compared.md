@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/"
 type: article
 quality: 89
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "The Roomba j7+ poop-detecting robot vacuum is $250 off right now"
-    excerpt: "If you made the resolution to tidy up more regularly in 2022, a robot vacuum can help with that. And for those that hate cleaning, investing in a robot vacuum with self-emptying functionality can make it so you rarely have to interact with the machine."
-    publishedDateTime: 2022-01-15T15:32:00Z
-    webUrl: "https://www.engadget.com/the-roomba-j7-poop-detecting-robot-vacuum-is-250-off-right-now-150019435.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 69
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2021-09/11a98c61-10d7-11ec-9f7d-d8630d5ddafa"
-        width: 2048
-        height: 1621
-        isCached: true
 
 secured: "ok01V8Ds3/Sj6hazWXYtYHMTgk/aAeb5lzRLrW9CV0UpwXa4td4zvXQ4d5KGRITCHgybQPoAHtZcwkdaI2QWOrwhY85ZvQ3pRrh51uW2f6k/OtNz3ZAhl/oY6Omr4C7lByvirgP+EMPWPYSImY59U0bmLSZf95DFP13GZXqiKHqLw/nik9/UePqB2PWktxhW/XMbX6pFWl2ZAKpznS/8dlp7dhwVjhBO82/zA5qOxECcTaan2DUjXHLddedkwHIURyye8k/KLuuq7dNPghCCDGJwS3J4Xymcb261DX7veWtwcZKB/mJwixSgsFf67X7544UJZdorQjASrwbf6RF7+VGS5UyEid/2U6yhtN0r1Fe6dSfPIV8FOqcCZlvklyNMoo6Tj2aaLW9xgiNL1+iZtwVpE1297k2dBt8U6myJhI3WJ2W3LZGAwqYsLIOj3bITObcZ8rbxJK5BlwHGpPVtl+p7QMWa1giyYMAUAdiqcPV1NQU4MwPhMG7mWA4MoKPjDr7dpmdkzscAvNyuTRWl3A==;GlUoQyw6WP5uaNEFFo0TCQ=="
 ---
