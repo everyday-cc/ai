@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk claims there has been no crash in Tesla’s Full Self-Driving Beta over a year into the program"
+    excerpt: "Elon Musk claims that Tesla has not had a single crash in its Full Self-Driving Beta program since the start over a year ago, but that’s just as much proof that the testers are being careful as a proof that the system is safe."
+    publishedDateTime: 2022-01-17T19:08:00Z
+    webUrl: "https://electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/"
+    ampWebUrl: "https://electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 88
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-CEO-Elon-Musk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla releases new Full Self-Driving Beta 10.9 software update, announces expansion in Canada"
     excerpt: "Tesla is starting to push a new version (10.9) of its Full Self-Driving Beta software update with some improvements, and Elon Musk announced an expansion of the test program in Canada. For more than a year now,"
     publishedDateTime: 2022-01-17T13:31:00Z
@@ -89,6 +105,20 @@ related:
         width: 940
         height: 516
         isCached: true
+  - title: "Tesla Has 'Assertive' Self-Driving Mode"
+    excerpt: "It would take you hours to drive down a street in any urban area.” Now it appears that Tesla has come up with a solution to this problem in its full self-driving beta: an \"assertive\" mode where the car \"may perform rolling stops."
+    publishedDateTime: 2022-01-17T20:00:00Z
+    webUrl: "https://www.treehugger.com/tesla-assertive-self-driving-mode-5216150"
+    type: article
+    provider:
+      name: TreeHugger
+      domain: treehugger.com
+    quality: 39
+    images:
+      - url: "https://www.treehugger.com/thmb/pDRleLxdTnHbA-yA3-1B1zzxXQQ=/1024x683/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__treehugger__images__2019__08__GettyImages-1012871806-d81a58d2c6674e8fab14000acfcbf522.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Musk Confirms Tesla Full Self-Driving Beta Release in Canada in 2-4 Weeks"
     excerpt: "Tesla CEO Elon Musk has just shared another update on the highly anticipated Full Self-Driving (FSD) beta release in Canada while responding to a query about its status on Twitter (via TeslaNorth). “We will start rolling out FSD beta in Canada cautiously in next 2 to 4 weeks,"
     publishedDateTime: 2022-01-17T17:42:00Z
@@ -102,6 +132,20 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/01/fsd-10.8-beta-full-screen.jpeg"
         width: 640
         height: 480
+        isCached: true
+  - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
+    excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
+    publishedDateTime: 2022-01-14T18:00:00Z
+    webUrl: "https://recombu.com/general/article/what-the-tech-teslas-assertive-self-driving-mode-could-be-a-recipe-for-disaster"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 33
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2022/01/WTT-59.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 940
+        height: 627
         isCached: true
 
 secured: "WfImGm/j+EXJw+LgQFTGnur+mQIVKkPFFGjYalb/7HbUvAQ4UzloheETaco3babFCyjU2GtiTG9k/tnXNKWnWiXNdsAg71fA1+zd+sPs1HxvzmpIgnEi8kdDsDR/yFuSRndsDflwCGvK6kekpvImn6ssjpcd+ou+4ayNNugbiFyVfWjdrsSDJq0R1a9PEILt7+hZlIQCGhsM1gqlXK7Rr1L1J13cPwSgxJIZwY2RWAOmeL78ctJMUU+Ut02xFpq5u9zYIRL/JhwN8AKrrr5FPqDjL/g80IEzlIS0CSfmCfS2tJV272tUt5+HrxzhKm2jctAhh2XzcAvXmLHcLcuD/grVE03zKnqLjQFgzWTLqUKWM+fV8ZS8owmGDEcAW2f/z+rGMJlnNpARUQHm8x6/g+FUb/33px69/U5JX27dWP1Wc97tCTsnXN2UnaGvPUFjraGBIEd5DbI7KI9A9kW12wpPk3eCS2QzJj0YSnkr2601eaQrH22bmOZrUe3+clX3fQNmkq6uskwjUl3yBLn9dg==;LNhNhVHJqIGWJe0lTxFgGg=="

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Edge Impulse Leverages TinyML and AutoML for Efficient Microcontrollers"
-excerpt: "Concept: San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers. TinyML is an ML technique that can be implemented in low-energy systems including sensors to perform automated ..."
-publishedDateTime: 2022-01-11T12:21:00Z
-originalUrl: "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
-webUrl: "https://www.just-style.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+excerpt: "San Jose’s technology startup Edge Impulse has leveraged TinyML and AutoML technologies to bring AI capabilities to microcontrollers."
+publishedDateTime: 2022-01-11T12:47:00Z
+originalUrl: "https://www.packaging-gateway.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
+webUrl: "https://www.packaging-gateway.com/research-reports/edge-impulse-leverages-tinyml-and-automl-for-efficient-microcontrollers/"
 type: article
 
 provider:
-  name: Companies
-  domain: just-style.com
+  name: Packaging Gateway
+  domain: packaging-gateway.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.just-style.com/wp-content/uploads/sites/34/2022/01/shutterstock_767487700.jpg"
+  - url: "https://www.packaging-gateway.com/wp-content/uploads/sites/16/2022/01/shutterstock_767487700.jpg"
     width: 500
     height: 277
     isCached: true
 
-secured: "H+OKwRL7gOGGVO1bSG+kWWdt9RIQyGQ4RPkzpGU1bo2J5g6tjv1chprww1oYvVpbQuYxcHjGJufW8nyN+ul0yLZVr0Sv/xp62HHu8POpAW2f57sf2gVcgNgg+i2//6vFowoTvdM/SDQy32EPKe5SqFiqCRVJpGZbKRqW2CX77z41AXjpt/hNjgvGzxLr7mUk3rrhLy3zgXy/VUBgZWdNj40DVeRp9bBA73mlbbyY7GYQ1JOQFAxDKlT332/kQnMRHQ4Ibr/8nfkMYxD7VV3iU40Cwal7vGRho7OdA8qNfVEC73sZTztPAIDVKz3ld58smMHQcq2tQ86gKsJurfqmhkvA350XdjJ3rxK+1BIIjM0=;2NJAPs3zi4iSI+0cUg68tw=="
+secured: "CdJgHAErvQ5Cgmms1KRJubzZnd4MOIi+UUn67KMAQjYHQtkrpMAfBri7P7bevskzX0OLUw80dnwCq1yFWwdKvQSge4MzTCF4y6fjyYa0QD3pTUTDaZbjAFWE2VKf5LRr9B8/wNnE/P1d/9AdxasaopYXXJbN/OkPZoFIs5NJLGZYujB1f1hDco9DTz3yWGSoPkZwgys4j+kLWHMQ4eRrKRfWRIGN9IvvysG8sc6B9XU5x7J147fkbeMUhQ6qso75tVqZqKfn8g2zb91FiGMz6lF5T9s7b2FZyagsGA3jD2rJjHJIJVCrqDgy+h6FkPS8BPZaPFpkloqRsBVbnGpitq6W2FOO9z643lf0TY9vEbE=;RnKW3cfgvOk/1azkldu7Og=="
 ---
 

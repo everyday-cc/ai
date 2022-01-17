@@ -3,8 +3,8 @@ category: news
 title: "Alcatraz AI announces Security Executive Marco Emrich joins the company as Head of International Sales"
 excerpt: "Alcatraz AI announced Marco Emrich is joining the company as Head of International Sales. Emrich brings his expansive experience to Alcatraz AI and will be key in scaling Alcatraz AI’s"
 publishedDateTime: 2022-01-17T18:43:00Z
-originalUrl: "https://www.sourcesecurity.com/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html"
+webUrl: "https://www.sourcesecurity.com/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/alcatraz-ai-announces-security-executive-marco-co-1554360262-ga.1642415498.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 355
     isCached: true
 
-secured: "C8IqhRiSk1318xlVkMMAvtO7aeTsL1iGVA+BqjiRnXrwMpXhD8iZz2vCpP31r0LnGxKlr2p2fjg+RcnQCEoKay9RDcHNQlFzoagYp0WBDBIhZhwJVq2HUsxd+iycTf83N88iQo4toMaxjGBA+Hm+nvB9QjYpJjVOCati9zczj5S6yHcXhu3DNt8BUy8svLf2lT2Qc/vrfXy42Xh6aR9cYph8GB16u1Ibqk+v7T4DYGjKfTgFzEO1JktzOFDAq6Y1f/luXSatq6XSzqNEixkU4Zi78wsF6d5hF/kA9VUzeNTI75QfETaY8j+GNLAhD1ucCEQQDUTcWao2wkweZcHzS1CO8Cot7IOICnTW4eZj4/w=;kjQNVwAnDO8HlNwgQ78WoA=="
+secured: "d0RZ3zhFo1VOmc5LToXHpCnvP2scq9QH2X0bU339wcSU9DcPNDiFwun1YgxJTfj3gWVTeXULw2vFUHTlqZlmy1Usx3gNR7XEuqKyLO2P5Ti4gIqtuAzTqsX4Q3aWwP4BIPERIr/eDa/e/sQhyMIOMagPD3YKkXB/PZx/xLPAnMIQKQCIwIJk3bMpmSgDQiM+jO5mJaotXWY8yeqLkCbRFpV3DgjmszjtqhziD4YP4tL6EnNikqSD82S33LLnSBx8t/l4u4T5THDfoLqJcRt3Etl7c7e1wvawhvFwr5NusuLlrezgkqWV3ZoZBIZW/mAI6ENgZIXowixOnKI5N54QCxuDS/4wj3xBRtkbCFHYBrk=;zFqcqKWfR+r7YNteffpoNw=="
 ---
 

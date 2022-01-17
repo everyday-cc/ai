@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
+    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science."
+    publishedDateTime: 2022-01-17T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://mma.prnewswire.com/media/1724963/image_1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Top AI Trends to expect in 2022"
     excerpt: "We live in an AI-driven world. Artificial intelligence (AI) has had a significant impact on the strengthening and transformation of industries all over the world. As we go deeper into a digitally altered society,"
     publishedDateTime: 2022-01-14T04:37:00Z
@@ -52,20 +66,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/10/edge-computing-100908672-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
-    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science."
-    publishedDateTime: 2022-01-17T08:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-d5d68b6143801d42a8b2ce6b1e7c6daf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Uax0W7ZKxrkuXJbEdxKPS+mkJDou+jTwYnrQ4BXIsSyIQYbi9fWAvVJ6jMZwqFsN5kZZXE/OFugVW23woxhpc7Q+XwooPLo7r72UxepScBNlkLE+j0qBVRuidjfKZ932/kzpyI0NfNJ0sYYQsygGLvX6Q7qYfzoxA37bT5S+SV4E/MIa7zoNLFFnKT6izdoNPYJnWCkPuDtho+PAZN3DSuDcy7FFsV6/QYqgG3dugki83LtkV757RTRgQddCFBjEM0nLFuzmElnVeEmYaQ2zsMswJY7CmzovQvZPl2EyPu2KHfv1LufpPsYvOx2RA7/ntnbo+B86x2PDSuXrndz6w1X+XDjw+jCWwxNDi5DL3vPtYogYqwsZ2s58TglfO49/1fSqHFYusD9Ne9xPJkoKoUzzLutVhtISErcV7/AMTS2Cuaaf//RAqNQOB7ihBpUrrssJRLwcdG8wRq6WKfoTO+/sXUoCt8ZHuoneZHv+61TiNC3SJS6xruOekba52Qmkh7BEswcAIHYsJ9I+EW62dg==;M3UOJJXM97m207DSCnwX5A=="

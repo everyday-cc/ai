@@ -37,6 +37,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
+    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science."
+    publishedDateTime: 2022-01-17T08:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+    images:
+      - url: "https://mma.prnewswire.com/media/1724963/image_1.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Lenovo expands edge computing portfolio with AI-focused Nvidia GPUs"
     excerpt: "Lenovo’s latest addition to the ThinkEdge portfolio of edge-computing devices packs Nvidia GPUs with AI capabilities into a ruggedized design that’s roughly the size of a laptop. The ThinkEdge SE450 is a 2U,"
     publishedDateTime: 2022-01-17T11:00:00Z
@@ -52,20 +66,6 @@ related:
       - url: "https://images.idgesg.net/images/article/2021/10/edge-computing-100908672-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
-    excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science."
-    publishedDateTime: 2022-01-17T08:01:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-d5d68b6143801d42a8b2ce6b1e7c6daf"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 31
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "nanHp05Z8kbRvMD5PgBurrbFR8F5NH9NmN1jw0JabNpZ5+7XSNbCQHLKMwtpb4Vq45Y/xAeIzE79nCYfHultDpKoODN+2YRbS3yF2IT8HrfDwIYg2VKwNB9JSfMY4tcfSOAayLvthT247SYjW04QCmh2RjAXg6Jq/XIjsrhfrUxQis43T2rVdShG3GXBHLyrrd4dTlLdpujhloSNJ3L2xE0FPHA38m/DuiETARf/sVnB9AKrbix6DdPQvj77HLADQ2yF5maZQuCQjodnr2pv1iXB6vY/xV0AfZAv7ffIED11Shdc5qz+0rTup2SYgzoXYT+whOQdvNqJwLxB/sfa/OSkFSqwMvaj33E3tWWgUIU=;6//RptM6NHFWqMEkfPIU6w=="

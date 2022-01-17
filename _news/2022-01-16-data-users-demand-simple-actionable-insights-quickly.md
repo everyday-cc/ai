@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/16/data-users-demand-simple-actionab
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/data-users-demand-simple-actionable-insights-quickly/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

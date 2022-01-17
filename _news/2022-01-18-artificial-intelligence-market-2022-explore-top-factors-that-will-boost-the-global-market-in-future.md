@@ -6,8 +6,8 @@ publishedDateTime: 2022-01-17T18:40:00Z
 originalUrl: "https://menafn.com/1103551179/Artificial-Intelligence-Market-2022-Explore-top-factors-that-will-boost-the-global-market-in-future"
 webUrl: "https://menafn.com/1103551179/Artificial-Intelligence-Market-2022-Explore-top-factors-that-will-boost-the-global-market-in-future"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?657753"

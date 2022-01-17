@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-01-ai-tweets-debating-vaccination-climate
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-01-ai-tweets-debating-vaccination-climate.amp"
 type: article
 quality: 54
-heat: 74
+heat: 75
 published: true
 
 provider:

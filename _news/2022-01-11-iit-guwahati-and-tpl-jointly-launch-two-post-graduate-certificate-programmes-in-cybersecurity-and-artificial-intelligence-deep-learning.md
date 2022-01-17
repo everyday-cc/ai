@@ -1,28 +1,26 @@
 ---
 category: news
 title: "IIT Guwahati and TPL jointly launch two Post Graduate Certificate Programmes in Cybersecurity and Artificial Intelligence & Deep Learning"
-excerpt: "Indian Institute of Technology Guwahati (IITG) and Times Professional Learning (TPL), under its brand The Second Wind (TimesTSW), have launched the Post Graduate Certificate Programme in Cybersecurity"
-publishedDateTime: 2022-01-11T11:50:00Z
-originalUrl: "https://indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
-webUrl: "https://indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
-ampWebUrl: "https://indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
-cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning-2/"
+excerpt: "Designed for working professionals, programme aims to upskill & reskill candidates for fast-moving careers in cybersecurity as well as Artificial Intelligence & Deep Learning Indian Insti - Mediawire"
+publishedDateTime: 2022-01-11T09:55:00Z
+originalUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
+webUrl: "https://timesofindia.indiatimes.com/home/education/news/iit-guwahati-and-tpl-jointly-launch-two-post-graduate-certificate-programmes-in-cybersecurity-and-artificial-intelligence-deep-learning/articleshow/88831553.cms"
 type: article
 
 provider:
-  name: India Education Diary
-  domain: indiaeducationdiary.in
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://indiaeducationdiary.in/wp-content/uploads/2020/12/IIT-Guwahati-main-gate.jpeg"
-    width: 279
-    height: 210
+  - url: "https://static.toiimg.com/thumb/msid-88831553,width-1070,height-580,imgsize-1594541,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    width: 1069
+    height: 580
     isCached: true
 
-secured: "36Jsh+j96mT/Byact9auC0aPouH5cBxvS56RRgC0baVN1ta3vgp02OO49tDyC/FxPj1cn6StYBjtwB9fhIf5E44HoWsCc28NonxESFOafh+W23fyuoHHUT6LYYlUDYkhdK4JlFdV5xLdsGw4zlBkiDemAIeNVwETW4h7LVbd78TTnWCEdPZ9HgnNWl2ovNy+POs03MUAVYvHB6Adbm1p63vgjYDBADSJiikf9P6K5Nm0HiFwahrWg59wvZxepoQVP94xRrOKi9kOnA4wbK1l2OlR+CMjTG30uuil9+Hoj4xofbFcmHH2U8LuOj/UuLMyopBJuIKLnIYPizydguCrHaoX0BTKzmNC4274TLuuOXBVWtFJ/ye6Jlr1NUvBu6tSiyaDJF5ZM6pme2JI4fA8ENcgcTSF3onsGgsSjNdE0MjrRco1SGcwNz4mbJX5dUK3oY1lR5DSUwPVFqrur5GA3WQiIMMcrffqmCMnXIcqD2/QOMNEpWjP4qDDO4t9h20kj+BhlIu3ZGJ0YmK+QCjQBQ==;K+w/21cfGhp/BCMFhwf1AA=="
+secured: "jx7FPl/17ETSwsLEqmCClxPUMi0roUXhrpMOk9I/WOAfmvkbERUL0zM4UPFhPYdtgZWAynfkJdyzoE/VqRleVRZn8iqwrkx5SrhcyWh9Q+oN+i2FuwfvWIJ8TBJk0XQbmg+lnJB/bgQERNLYwZ57cj3H2RTskNOVGqiy5YhfV6aO/WDr+sMZSKopaLXhW9Z6ChIQNnQFmptQPFs3+6zj2zY9MLt87FY+MQnWrzXMl2V31ENgSZGc9eFbDR61RWOQCWjEhh1t4E7wrnvYxWm8Hiekj8GfW63KvU03RXOfcJBq3x3BjIq9XFyuM4A7Dud+xHhYh95UDKe8KvmCAKtF5ERf0WAYOShpFZ3KLYeUe3s=;MwK6gVQORzX4G816DEvLWQ=="
 ---
 

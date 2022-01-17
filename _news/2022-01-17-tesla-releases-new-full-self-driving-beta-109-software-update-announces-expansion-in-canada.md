@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2022/01/17/tesla-releases-full-self-driving-beta
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/17/tesla-releases-full-self-driving-beta-10-9-software-update-announces-expansion-canada/amp/"
 type: article
 quality: 78
-heat: 128
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk claims there has been no crash in Tesla’s Full Self-Driving Beta over a year into the program"
+    excerpt: "Elon Musk claims that Tesla has not had a single crash in its Full Self-Driving Beta program since the start over a year ago, but that’s just as much proof that the testers are being careful as a proof that the system is safe."
+    publishedDateTime: 2022-01-17T19:08:00Z
+    webUrl: "https://electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/"
+    ampWebUrl: "https://electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 88
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-CEO-Elon-Musk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla's self-driving software is under scanner in this state"
     excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
     publishedDateTime: 2022-01-13T12:06:00Z
@@ -93,6 +109,20 @@ related:
         width: 940
         height: 516
         isCached: true
+  - title: "Tesla Has 'Assertive' Self-Driving Mode"
+    excerpt: "It would take you hours to drive down a street in any urban area.” Now it appears that Tesla has come up with a solution to this problem in its full self-driving beta: an \"assertive\" mode where the car \"may perform rolling stops."
+    publishedDateTime: 2022-01-17T20:00:00Z
+    webUrl: "https://www.treehugger.com/tesla-assertive-self-driving-mode-5216150"
+    type: article
+    provider:
+      name: TreeHugger
+      domain: treehugger.com
+    quality: 39
+    images:
+      - url: "https://www.treehugger.com/thmb/pDRleLxdTnHbA-yA3-1B1zzxXQQ=/1024x683/filters:fill(auto,1)/__opt__aboutcom__coeus__resources__content_migration__treehugger__images__2019__08__GettyImages-1012871806-d81a58d2c6674e8fab14000acfcbf522.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Musk Confirms Tesla Full Self-Driving Beta Release in Canada in 2-4 Weeks"
     excerpt: "Tesla CEO Elon Musk has just shared another update on the highly anticipated Full Self-Driving (FSD) beta release in Canada while responding to a query about its status on Twitter (via TeslaNorth). “We will start rolling out FSD beta in Canada cautiously in next 2 to 4 weeks,"
     publishedDateTime: 2022-01-17T17:42:00Z
@@ -106,6 +136,20 @@ related:
       - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/01/fsd-10.8-beta-full-screen.jpeg"
         width: 640
         height: 480
+        isCached: true
+  - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
+    excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
+    publishedDateTime: 2022-01-14T18:00:00Z
+    webUrl: "https://recombu.com/general/article/what-the-tech-teslas-assertive-self-driving-mode-could-be-a-recipe-for-disaster"
+    type: article
+    provider:
+      name: Recombu
+      domain: recombu.com
+    quality: 33
+    images:
+      - url: "https://recombu-images.imgix.net/app/uploads/2022/01/WTT-59.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 940
+        height: 627
         isCached: true
 
 secured: "yn3iWAuhfuSU2QiWYJ6QUv34IsPj46Pyz/cswr1bPusMl9J3T5ysKXoTv5kWZ6Wh/aKViwPe0F8vLLvdgL8sR9TzOtx6PZpXjzuGAHwTS8H9KMyZQX/7VvNtBLP3TTo0IKjl5mDMBjzqaWR38BfieG6DxqXAFaHdg4PhBPyhXozNnNeLei/7WZq/x1WQ5LfYUB6HNvfFTkPIY1QH3ZBEpKUsDkIz72MWQNVCynrgsRHSvT5Qa93YL4s+m1T5B+CrZ2EgIJd814sUoVheOAAsMolE9J901wfhzBS8LJCVN/rwzxX/ceCYnp+RwhyaeRmgv2nd09vUpzIqv6Z2i1M8A1Ik7dzwczDb34hjci2O+atYapH5NnrwZsYw2dyW75siy6pPui8IPNjJNkZM4V6rcSc7WJm7EEoJxpcFr+2YwRXjSkU9m8tC2BGnZ+oo2WLwTzmdSr4n7garC/BkDLE6bId6e4lFzVS0tvpkk5T4T0pJvxMTWbv65fu8Ws2VgWK74nRhs3dM48h6+Xut4D9Zlw==;/PmtkbvAbW9tKcxfm7O4gQ=="
