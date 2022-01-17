@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 593
         isCached: true
-  - title: "Artificial Intelligence May Help in the Fight Against COVID-19"
-    excerpt: "Novel machine learning framework could alleviate the work of radiologists by providing fast and accurate disease diagnosis. Click here if this is your press release! - eTurboNews | Trends | Travel New"
-    publishedDateTime: 2022-01-13T02:30:00Z
-    webUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 54
-    images:
-      - url: "https://eturbonews.com/wp-content/uploads/2022/01/A-HOLD-FreeRelease-1.jpg"
-        width: 557
-        height: 386
-        isCached: true
   - title: "Tribal leaders voice concerns about water, covid-19 to legislators"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
     publishedDateTime: 2022-01-14T05:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/01/17/tesla-releases-full-self-driving-beta
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/17/tesla-releases-full-self-driving-beta-10-9-software-update-announces-expansion-canada/amp/"
 type: article
 quality: 78
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2022/01/tesla-ai-day-fsd-demo.png"
         width: 940
         height: 516
+        isCached: true
+  - title: "Musk Confirms Tesla Full Self-Driving Beta Release in Canada in 2-4 Weeks"
+    excerpt: "Tesla CEO Elon Musk has just shared another update on the highly anticipated Full Self-Driving (FSD) beta release in Canada while responding to a query about its status on Twitter (via TeslaNorth). “We will start rolling out FSD beta in Canada cautiously in next 2 to 4 weeks,"
+    publishedDateTime: 2022-01-17T17:42:00Z
+    webUrl: "https://www.iphoneincanada.ca/tesla/tesla-fsd-canada-release-date-confirmed/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 38
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/01/fsd-10.8-beta-full-screen.jpeg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "yn3iWAuhfuSU2QiWYJ6QUv34IsPj46Pyz/cswr1bPusMl9J3T5ysKXoTv5kWZ6Wh/aKViwPe0F8vLLvdgL8sR9TzOtx6PZpXjzuGAHwTS8H9KMyZQX/7VvNtBLP3TTo0IKjl5mDMBjzqaWR38BfieG6DxqXAFaHdg4PhBPyhXozNnNeLei/7WZq/x1WQ5LfYUB6HNvfFTkPIY1QH3ZBEpKUsDkIz72MWQNVCynrgsRHSvT5Qa93YL4s+m1T5B+CrZ2EgIJd814sUoVheOAAsMolE9J901wfhzBS8LJCVN/rwzxX/ceCYnp+RwhyaeRmgv2nd09vUpzIqv6Z2i1M8A1Ik7dzwczDb34hjci2O+atYapH5NnrwZsYw2dyW75siy6pPui8IPNjJNkZM4V6rcSc7WJm7EEoJxpcFr+2YwRXjSkU9m8tC2BGnZ+oo2WLwTzmdSr4n7garC/BkDLE6bId6e4lFzVS0tvpkk5T4T0pJvxMTWbv65fu8Ws2VgWK74nRhs3dM48h6+Xut4D9Zlw==;/PmtkbvAbW9tKcxfm7O4gQ=="

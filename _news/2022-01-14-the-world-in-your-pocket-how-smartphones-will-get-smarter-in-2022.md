@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/the-world-in-your-pocket-how-sm
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/the-world-in-your-pocket-how-smartphones-get-smarter-in-2022/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborock-vs-roomba-2-impressive-robot-vacuum-mop-combos-compared/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

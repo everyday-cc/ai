@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-11-robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution.md",
+      "title": "Robotic Arms Are Using Machine Learning to Reach Deeper Into Distribution",
+      "excerpt": "Advances in technology are moving automated picking systems from the lab to labor-strapped warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution-11641852537",
+      "originalUrl": "https://www.wsj.com/articles/robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution-11641852537",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-465171/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution-11641852537",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/robotic-arms-are-using-machine-learning-to-reach-deeper-into-distribution-11641852537",
+      "publishedDateTime": "2022-01-10T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life.md",
+      "title": "A Colorado 'fusioneer' invented a painting robot and an inspiring way of life",
+      "excerpt": "And the robot holding a paintbrush. One look at this room can be overwhelming for visitors, so Paul Kirby likes to start simple. It’s an old trick he learned as a ski instructor in Vail, when he realized every skier has slightly different goals for the slopes.",
+      "sourceUrl": null,
+      "webUrl": "https://gazette.com/thetribune/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_77ae7a0e-70e3-11ec-841e-5f01b22f6456.html",
+      "originalUrl": "https://gazette.com/thetribune/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_77ae7a0e-70e3-11ec-841e-5f01b22f6456.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/e/3d/e3dd0110-31c2-11ec-9b30-efc3f7160521/6170440c59475.image.jpg?resize=1024%2C701",
+          "width": 1024,
+          "height": 701,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gazette.com/thetribune/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_77ae7a0e-70e3-11ec-841e-5f01b22f6456.amp.html",
+      "cdnAmpWebUrl": "https://gazette-com.cdn.ampproject.org/c/s/gazette.com/thetribune/a-colorado-fusioneer-invented-a-painting-robot-and-an-inspiring-way-of-life/article_77ae7a0e-70e3-11ec-841e-5f01b22f6456.amp.html",
+      "publishedDateTime": "2022-01-10T12:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gazette",
+        "domain": "gazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-inside-bigscience-the-quest-to-build-a-powerful-open-language-model.md",
       "title": "Inside BigScience, the quest to build a powerful open language model",
       "excerpt": "Hugging Face's BigScience project is making progress toward developing an open, massive -- and highly capable -- natural language model.",
@@ -1104,92 +1199,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-changing-face-of-health-and-healthcare.md",
-      "title": "Changing face of health and healthcare",
-      "excerpt": "Foundation highlights the various aspects which will be crucial during and after the pandemic The onset of the COVID-19 pandemic saw the medical fraternity, technology innovators, manufacturers, regulators,",
-      "sourceUrl": null,
-      "webUrl": "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/",
-      "originalUrl": "https://www.expresshealthcare.in/news/changing-face-of-health-and-healthcare/432942/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.expresshealthcare.in/wp-content/uploads/2022/01/750-x-400-2.jpg",
-          "width": 750,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/",
-      "cdnAmpWebUrl": "https://www-expresshealthcare-in.cdn.ampproject.org/c/s/www.expresshealthcare.in/amp/news/changing-face-of-health-and-healthcare/432942/",
-      "publishedDateTime": "2022-01-10T00:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "expresshealthcare",
-        "domain": "expresshealthcare.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-extending-microsofts-azure-digital-twins-for-real-time-analytics.md",
-      "title": "Extending Microsoft’s Azure Digital Twins for real-time analytics",
-      "excerpt": "As countless applications need to track live systems, developers face the challenge of implementing real-time analytics that can react to incoming telemetry and quickly identify problems or opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://developer-tech.com/news/2022/jan/10/extending-microsoft-azure-digital-twins-real-time-analytics/",
-      "originalUrl": "https://developer-tech.com/news/2022/jan/10/extending-microsoft-azure-digital-twins-real-time-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://developer-tech.com/wp-content/uploads/sites/3/2022/01/extending-azure-digital-twins-real-time-analytics-developer-cloud-iot-platform-scaleout-software.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T00:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Developer Tech",
-        "domain": "developer-tech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

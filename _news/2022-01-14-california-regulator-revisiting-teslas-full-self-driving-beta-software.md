@@ -89,6 +89,20 @@ related:
         width: 1000
         height: 567
         isCached: true
+  - title: "Musk Confirms Tesla Full Self-Driving Beta Release in Canada in 2-4 Weeks"
+    excerpt: "Tesla CEO Elon Musk has just shared another update on the highly anticipated Full Self-Driving (FSD) beta release in Canada while responding to a query about its status on Twitter (via TeslaNorth). “We will start rolling out FSD beta in Canada cautiously in next 2 to 4 weeks,"
+    publishedDateTime: 2022-01-17T17:42:00Z
+    webUrl: "https://www.iphoneincanada.ca/tesla/tesla-fsd-canada-release-date-confirmed/"
+    type: article
+    provider:
+      name: iPhone in Canada
+      domain: iphoneincanada.ca
+    quality: 38
+    images:
+      - url: "https://cdn.iphoneincanada.ca/wp-content/uploads/2022/01/fsd-10.8-beta-full-screen.jpeg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "/xUPWqim6ko1O6fNc+7ALT90CsRW/aCc38UUl+RN6iyIBS7cKZDsvQ5wzE7duOqwWJCS9VGMKoDbpqiRdR0D4PZrxKruo91Al4mxv0Ifw4KgLIfxTg3FG0FvZL+fyJ9tC4Xy6z87z6/bF6qPUYLGjlPsyEkoLml1U4pVNdpigrD0v7FhnDB1a9kZIsg3wJ4H2fgQaVSvmY5IKkvIXESQBk/N/S9nRoFiU536ZyNrmOPQjxB5xEP8wkB6yM3NTUzD489MgizUiZ06jJup6LahJPR81ODvauDxD9wM8vxRDZ34JQG1gMSFhuKYShcGGynYtlxvlGv5uE+Wq4vB3NaUZYfoH+rHVVXhDHkMjvRT1T8=;oLVqWtgaqaTf5Gq3g8t5jA=="
 ---

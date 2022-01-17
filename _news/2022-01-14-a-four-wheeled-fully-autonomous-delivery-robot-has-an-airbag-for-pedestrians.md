@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.interestingengineering.com/a-four-wheeled-fully-autonomo
 cdnAmpWebUrl: "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/a-four-wheeled-fully-autonomous-delivery-robot-has-an-airbag-for-pedestrians"
 type: article
 quality: 71
-heat: 82
+heat: 81
 published: true
 
 provider:

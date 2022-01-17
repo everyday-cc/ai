@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-global-data-governance-market-repo
 webUrl: "https://www.tmcnet.com/usubmit/-global-data-governance-market-report-2022-market-reach-/2022/01/14/9526844.htm"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Artificial Intelligence Market 2022: Explore top factors that will boost the global market in future"
+    excerpt: "The global artificial intelligence (AI) market was pegged at $4.06 billion in 2016 and is projected to reach $169.41 billion by 2025, registering"
+    publishedDateTime: 2022-01-17T18:40:00Z
+    webUrl: "https://menafn.com/1103551179/Artificial-Intelligence-Market-2022-Explore-top-factors-that-will-boost-the-global-market-in-future"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?657753"
+        width: 516
+        height: 250
+        isCached: true
 
 secured: "VlnFeDTXClijfREGoILte1XZLlrs2rZT35iW4+mgJVK581XW4utpNB7ndFd6yNBwbpSVLFXQ6n88nakfw5N0p8QKn1vpMzQJF0W+qSFUKDTW87OcQ9jxMy5I1mhle1Y8PDe2VIQXfcWgWRxrGXtRgh1kq3Eijh6fGcxuHP5e5n6kKfp7FQHeCdia5HsJelZUyuvMw2fM4kz+WzDRIF/NKNctw6gsNZpfEy6V/hHI8dG6TcPU2WTJLuavhuCzq1rBCtXTtGipiWkBMN+fHX4sYcQ8lNm5clyjF1qUAohQQpaNrqv/qOdOdBaGLR0l7X2pHr+4ZfRo11eAJ7qmzzgGTNikISN55esnqpkV7qKFt8A=;uk2Avv7BHs+BZzXj9HmQEQ=="
 ---

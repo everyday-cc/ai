@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-lo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/16/7bridges-raises-17m-to-automate-logistics-supply-chains-using-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

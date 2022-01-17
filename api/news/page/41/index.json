@@ -2,6 +2,103 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2021-12-10-live-transcriptions-of-f1-races-using-amazon-transcribe.md",
+      "title": "Live transcriptions of F1 races using Amazon Transcribe",
+      "excerpt": "The Formula 1 (F1) live steaming service, F1 TV, has live automated closed captions in three different languages: English, Spanish, and French. For the 2021 season, FORMULA 1 has achieved another technological breakthrough, building a fully automated workflow to create closed captions in three languages",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/live-transcriptions-of-f1-races-using-amazon-transcribe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-10T12:08:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-11-microsoft-aims-to-make-developers-lives-easier-with-deep-learning-bug-hunt.md",
+      "title": "Microsoft aims to make developers lives' easier with deep learning bug hunt",
+      "excerpt": "Bugs are a real thorn in developers' sides. That's why Microsoft researchers are training AI to do the work for them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt",
+      "originalUrl": "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/08/grounded-screenshot-ladybug-01.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp",
+      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/microsoft-aims-make-developers-lives-easier-deep-learning-bug-hunt?amp",
+      "publishedDateTime": "2021-12-10T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-11-lenders-use-ai-to-offer-low-credit-score-personal-loans-to-borrowers.md",
       "title": "Lenders use AI to offer low credit score personal loans to borrowers",
       "excerpt": "Fintech lenders are increasing their use of AI to go beyond the traditional credit scores and offer personal loans to borrowers with lower credit scores.",
@@ -1078,93 +1175,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders.md",
-      "title": "How Sars is using machine learning and big data to nail tax offenders",
-      "excerpt": "The South African Revenue Service said its efforts to expand the use of data to detect tax non-compliance is beginning to bear fruit.",
-      "sourceUrl": null,
-      "webUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
-      "originalUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcentral.co.za/wp-content/uploads/2021/09/tax-2156-1120-2.jpg",
-          "width": 2156,
-          "height": 1120,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
-      "cdnAmpWebUrl": "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/how-sars-is-using-machine-learning-and-big-data-to-nail-tax-offenders/205845/?amp=1",
-      "publishedDateTime": "2021-12-10T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCentral",
-        "domain": "techcentral.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-top-10-artificial-intelligence-stocks-to-buy-in-december-2021.md",
-      "title": "Top 10 Artificial Intelligence Stocks to Buy in December 2021",
-      "excerpt": "The rise of artificial intelligence, automation and robots is disrupting virtually every major industry and business. Here are the top artificial intelligence stocks to buy in December 2021",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/top-10-artificial-intelligence-stocks-to-buy-in-december-2021/",
-      "originalUrl": "https://www.analyticsinsight.net/top-10-artificial-intelligence-stocks-to-buy-in-december-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/Top-10-Artificial-Intelligence-Stocks-to-Buy-in-December-2021.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-10T01:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -40,6 +40,20 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "XMachina AI acquires Bain Public in its second acquisition since forming in mid-2021"
+    excerpt: "XMachina AI Inc. has acquired Bain Public Inc. for an undisclosed amount of cash and shares. The latter are set up to vest over time. XMachina is a Montréal-based firm that specializes in the acquisition of artificial intelligence (AI) companies."
+    publishedDateTime: 2022-01-17T18:46:00Z
+    webUrl: "https://betakit.com/xmachina-ai-acquires-bain-public-in-its-second-acquisition-since-forming-in-mid-2021/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 30
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2021/09/Artificial-intelligence.jpg"
+        width: 1050
+        height: 700
+        isCached: true
   - title: "MindIT Artificial Intelligence Team join Kantar to advance consumer goods revenue management portfolio"
     excerpt: "Kantar, the world’s leading data-driven analytics and brand consulting company today announces the acquisition of all software intellectual property (IP) and the development team from MindIT, the Bologna,"
     publishedDateTime: 2022-01-17T12:45:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/01/16/ai-innovations-accelerated-by-government-and-business-leadership-fight-against-covid-19/amp/"
 type: article
 quality: 78
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence May Help in the Fight Against COVID-19"
-    excerpt: "Novel machine learning framework could alleviate the work of radiologists by providing fast and accurate disease diagnosis. Click here if this is your press release! - eTurboNews | Trends | Travel New"
-    publishedDateTime: 2022-01-13T02:30:00Z
-    webUrl: "https://eturbonews.com/3014247/artificial-intelligence-may-help-in-the-fight-against-covid-19/"
-    type: article
-    provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 54
-    images:
-      - url: "https://eturbonews.com/wp-content/uploads/2022/01/A-HOLD-FreeRelease-1.jpg"
-        width: 557
-        height: 386
-        isCached: true
   - title: "Tribal leaders voice concerns about water, voting, COVID"
     excerpt: "Water rights, the ongoing impacts of the COVID-19 pandemic, voting rights, and infrastructure needs were some of the common issues that several tribal leaders from across Arizona talked about during their visit to the Capitol to talk with legislative leaders about their respective sovereign nations as part of the 27th Annual Indian Nations and Tribes Legislative Day."
     publishedDateTime: 2022-01-13T19:51:00Z

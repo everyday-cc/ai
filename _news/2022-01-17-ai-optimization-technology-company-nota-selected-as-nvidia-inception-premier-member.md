@@ -2,29 +2,25 @@
 category: news
 title: "AI Optimization Technology Company Nota Selected as NVIDIA Inception Premier Member"
 excerpt: "Nota (CEO Myungsu Chae), an AI optimization technology company, announced that it has been promoted to Premier status in the NVIDIA Inception program. NVIDIA Inception nurtures cutting-edge startups revolutionizing industries with advancements in AI and data science."
-publishedDateTime: 2022-01-17T08:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-optimization-technology-company-nota-selected-as-nvidia-inception-premier-member-1031105822"
+publishedDateTime: 2022-01-17T08:01:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-d5d68b6143801d42a8b2ce6b1e7c6daf"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-d5d68b6143801d42a8b2ce6b1e7c6daf"
 type: article
-quality: 61
+quality: 31
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1724963/image_1.jpg"
-    width: 400
-    height: 300
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -71,21 +67,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI"
-    excerpt: "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development"
-    publishedDateTime: 2022-01-13T01:49:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/22443-cogniteam-s-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 55
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/7827149b6074de43d8f06fef9ab86bcb.jpg?t=20220113_014842"
-        width: 752
-        height: 408
-        isCached: true
 
-secured: "VGQn94HN75eQ7t38AhqsPnJpP9MGcXfpPVUFy3X8mjTlKiQorZnqE+YzXYKTYFe+EZwkadcCHen3q532UacWBO7zsb942V5jRGwQZMM7Hhcg81yZmaTY/nMwVYhn6I7ES3jpgrXVTGCfd+yYk9yfGsOlXSW9bWIopPT5vcd8LRedD9gOdwMN//UVPkokzI0/jf1NXfeMSE3EMA4sTDH4I0CenvBSqcUTnC56QbBi1Y4RcxuEfY1Rv16CK+sHuWelruVPQL9e+8FThQyG6ARcyQyzB27XmX9IYle2F/2FvHtkGb/6/Vyb6H3sP3MHhm3vhy3ytDmSG4d6m1t0SOJ5bMpuhVQ/QK5KLF87w3d30ryafwIYOzmJQjwD4vat4cmdbyz0f3cXYtHUEbvSH5bMF7xpVF6y86jf1pzL9u9SAdztT5Lfo73DkC7u40BrW8clOj8/dzbHb3Tsknr8450iprV/jmObh9aWVa7wGAXLpB6zmTZfYgntFCTv8h6F8FEoNHiQ6dTtOcbehQRypJZT0g==;UzIEoCSMV1D7Nh/qqn6Omw=="
+secured: "MhTSGyhPbNdSy2uBaH/ljAPYlcMfbM8RTWMA8np1XPfdrEGHoPV7CiM0v7Rt7flafOfkL7JJ1RjREjjeQ+/JJDXbL1AcZQs1X8WnopuuuUpk+Wohxv07oAuIy+FK8QOp9jJIxAnb5wU/Fn/v2TkwrBs0C0yM1TByRxCXZgr8Y454sDOZpDehY6uHX/TaE8Ix4Gz4Zy9frrOQZQewCFAE0XasRroCK4Tu+GFaqEHZPVbf/VTTP4/HZH2hdUjd8EE6NuZMZKP30OYAU/qB5sAOF2tbwjJSWi9w6ozX3+TLEhDIggyhtUidS+4PCse1LYY+T0gSximo8oOjM1O57XN0cz6pRJa3MgoLVzQ2yc4zyeA=;rjNc7GI5/Hd5tD5jy1zZSg=="
 ---
 

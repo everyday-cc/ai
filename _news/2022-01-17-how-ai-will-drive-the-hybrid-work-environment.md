@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 100
 published: true
 
 provider:

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Deep learning has deep problems"
-excerpt: "Can’t multi-taskDeep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the inability"
+excerpt: "Can’t multi-task Deep learning has some major issues which will eventually lead it to become a dead end. For 20 years, deep learning has come to dominate artificial intelligence research and applications through a series of useful commercial applications But according to IEEE Spectrum the"
 publishedDateTime: 2022-01-14T12:56:00Z
-originalUrl: "https://www.fudzilla.com/news/ai/54203-deep-learning-has-deep-problems"
-webUrl: "https://www.fudzilla.com/news/ai/54203-deep-learning-has-deep-problems"
+originalUrl: "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems"
+webUrl: "https://www.fudzilla.com/news/ai/54205-deep-learning-has-deep-problems"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "BMWh5RC6F4MRoKfSs1yToSqT/AWKSiqKubrDxrwF9ZDjNYenoZuXF0cHP3hDgKINuiOlpiXKeTwLkE98dbIipMB1J1K/CAGktKCfM80Y21xhUiQ1TRSTTMR6m61Jg9zx27cVvDENCY5MzcjYmrJQHNwFRDwJjpGp4yhN7ANwREk0tMb/pHSc/2Y/TRGrD3rLlNf83LUe2SQ/b6iy+cZLl2OmSF2VKIXScU6uB15jp8w8T2JNfxbf6+NOK+PvcZvj/KtvuFFzTjNIYWn7L6ovWJdt18nK8wvPqkYQrONRh8gOWBOwq69c4ftTCnR8wzO58uQC2iJr4LQHRuAoatJryUS0BjRdNeZhlJUkHOU3vRGWANW2mD+FQFCAU6aLPtGSF5/VnZPBhb/Yb03A4KJOlftH121VpNEgCmbCg897ThCr0FlRtw0gkYWgsebBRta864CRrr+pn4dz9K2YbgyRf656f7sFUzNDle1a9SsNyyjpHc2dLaRAb2VIDOmpL9Rjy+wCo42nAYyLPgIBt88L1w==;T+2pnQDpSeEeoeJ4ybIkfg=="
+images:
+  - url: "https://www.fudzilla.com/media/k2/items/cache/f97416722213d9fce2e04a73b9cf58df_L.jpg"
+    width: 620
+    height: 465
+    isCached: true
+
+secured: "r8lwshUHlNQUxqIcJ+SnbilUTxNcQ+9TiUs5pM47h4qRg4qTFyueGKPl72XPrJSfTcET0qykogt52NA+fCVuDfyYRPtHwbUEasImu4E/wHG2P9Rj59BwYs8g0rJ2MAtzZ7V6Ltz2nva074pDclZPd0a+thNGhsOuiX8Nrb19kyeCGIRPeUhLJ58Ov2yXHx8iR6vFwZivfySeQyvC1P9useCo2ojilkRwByxV/bO4QElkKCI6T9RsNv5s5dRPBP3K14P7aq5qRDUeZbQ46w53UNls3hLxm1HGfow13IOH+YX4rOaRoA4USSvI7pHlr3FvirbTAUorGhX7Z/8Gfim6+o4tfmhUVUEIVp0pB5WEvzQ=;qbkw9A8MznzV+0ItYAGDrw=="
 ---
 
