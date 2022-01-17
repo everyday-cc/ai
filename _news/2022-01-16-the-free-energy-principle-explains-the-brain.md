@@ -55,6 +55,22 @@ related:
         width: 1789
         height: 679
         isCached: true
+  - title: "Learn the Basis for Optimized Neural Network"
+    excerpt: "‘Free-energy principle may be the basis for the optimized efficiency of any neural network that may further help in analyzing impaired brain function and for artificial intelligence."
+    publishedDateTime: 2022-01-14T23:58:00Z
+    webUrl: "https://www.medindia.net/news/learn-the-basis-for-optimized-neural-network-205176-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/learn-the-basis-for-optimized-neural-network-205176-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/learn-the-basis-for-optimized-neural-network-205176-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 59
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/stem-cell-parkinsons-disease.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
   - title: "The Free-Energy Principle Explains the Brain – Optimizing Neural Networks for Efficiency"
     excerpt: "The RIKEN Center for Brain Science (CBS) in Japan, along with colleagues, has shown that the free-energy principle can explain how neural networks are optimized for efficiency. Published in the scientific journal Communications Biology,"
     publishedDateTime: 2022-01-14T10:00:00Z

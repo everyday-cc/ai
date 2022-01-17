@@ -2,6 +2,303 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-12-17-this-archaeologist-fights-tomb-raiders-with-google-earth.md",
+      "title": "This archaeologist fights tomb raiders with Google Earth",
+      "excerpt": "In the summer, Dr. Gino Caspari’s day starts at 5:30 a.m. in Siberia, where he studies the ancient Scythians with the Swiss National Science Foundation. There, he looks for burial places of these nomadic warriors who rode through Asia 2,500 years ago. The work isn’t easy, from dealing with extreme temperatures,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/",
+      "originalUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/15M.Jendryke.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/earth/archaeologist-fights-tomb-raiders-google-earth/amp/",
+      "publishedDateTime": "2021-12-17T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028.md",
+      "title": "Computer Vision in Healthcare Market Overview by Rising Trends and Demand 2021 to 2028",
+      "excerpt": "Market Research Engine is a global market research and consulting organization. We provide market intelligence in emerging, niche technologies and markets. Our market analysis powered by rigorous ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-overview-by-rising-trends-and-demand-2021-to-2028-2021-12-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-18-clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator.md",
+      "title": "Clearview AI to Stop Facial Recognition and Delete Data, Says French Regulator",
+      "excerpt": "The French regulator CNIL ( Conseil Nationale de l’Informatique et des Libertés) on Thursday (Dec. 16) issued an order against Clearview AI requesting that the company stop collecting and using images and personal data obtained through facial recognition and to delete this data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "originalUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/clearview-ai-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/biometrics/2021/clearview-ai-to-stop-facial-recognition-and-delete-data-says-french-regulator/amp/",
+      "publishedDateTime": "2021-12-17T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-surprise-surprise-teslas-full-self-driving-beta-causes-accident.md",
+      "title": "Surprise, Surprise: Tesla’s Full Self-Driving Beta Causes Accident",
+      "excerpt": "Despite all the safety concerns around Tesla’s Full Self-Driving beta, a select number of Tesla owners continue to test out the systems on public roads. These videos perfectly demonstrate just how far Tesla’s driver-assistance system needs to come if it is to ever replace human drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
+      "originalUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2021/12/Tesla-Autopilot-Crash.gif",
+          "width": 600,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2021/12/surprise-surprise-teslas-full-self-driving-beta-still-has-issues/amp/",
+      "publishedDateTime": "2021-12-17T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-3-big-problems-with-datasets-in-ai-and-machine-learning.md",
+      "title": "3 big problems with datasets in AI and machine learning",
+      "excerpt": "Datasets in AI and machine learning contain many flaws. Some might be fixable, according to experts -- given enough time and resources.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/11/GettyImages-886575164.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/17/3-big-problems-with-datasets-in-ai-and-machine-learning/amp/",
+      "publishedDateTime": "2021-12-17T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-17-top-5-podcasts-on-artificial-intelligence-everyone-should-make-time-to-listen-to-in-2021.md",
+      "title": "Top 5 Podcasts on Artificial Intelligence Everyone Should Make Time to Listen to in 2021",
+      "excerpt": "Have you ever wondered how Netflix always suggests the perfect films for your tastes? Or how Tesla can create self-driving cars? Artificial Intelligence is behind much of the innovative technology we see today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/top-5-podcasts-artificial-intelligence-everyone-should-",
+      "originalUrl": "https://www.linkedin.com/pulse/top-5-podcasts-artificial-intelligence-everyone-should-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQEgSardIuRNZg/article-cover_image-shrink_720_1280/0/1639750626705?e=1645660800&v=beta&t=fRnbA1w1yXBaNpOYUyUgKPSSQO8tVHSMtUzuJCU5LAE",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-17T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-17-commerceai-expands-platform-availability-with-launch-into-microsoft-azure-marketplace.md",
       "title": "Commerce.AI Expands Platform Availability With Launch Into Microsoft Azure Marketplace",
       "excerpt": "Microsoft Azure customers worldwide now gain access to Commerce.AI, giving companies and their teams an easy way to leverage the power of unstructured data to build next-generation customer ...",
@@ -900,263 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-mind-controlled-robots-now-one-step-closer.md",
-      "title": "Mind-controlled robots now one step closer",
-      "excerpt": "(Nanowerk News) Tetraplegic patients are prisoners of their own bodies, unable to speak or perform the slightest movement. Researchers have been working for years to develop systems that can help these patients carry out some tasks on their own. “People ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=59395.php",
-      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=59395.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-17T00:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-artificial-intelligence-ai-helps-predict-dementia-risk.md",
-      "title": "Artificial Intelligence (AI) Helps Predict Dementia Risk",
-      "excerpt": "Artificial intelligence was found to help predict which people who attend memory clinics will develop dementia within two years with 92% accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-pros-and-cons.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-ai-helps-predict-dementia-risk-204746-1.htm",
-      "publishedDateTime": "2021-12-17T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-samsung-jetbot-ai-review.md",
-      "title": "Samsung JetBot AI+ review",
-      "excerpt": "This intelligent and gentle cleaner is packed with features like livestream home monitoring, object recognition, multiple cleaning pattern options, and a self-emptying base. On paper, it’s one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
-      "originalUrl": "https://www.tomsguide.com/reviews/samsung-jetbot-ai-plus",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/BLS6YRHSXT9fdVWemg9qvD-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-machine-learning-certification-platforms-that-work.md",
-      "title": "Machine Learning Certification Platforms That Work",
-      "excerpt": "According to International Data Corporation, more than half of the world's economy will be digitised by 2023. As a result, businesses can expect to increase their investments in advanced technologies in order to prepare for the transition to a new digitised economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/machine-learning-certification-platforms-work-aman-kumar-singh",
-      "originalUrl": "https://www.linkedin.com/pulse/machine-learning-certification-platforms-work-aman-kumar-singh",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQHDArpJAx8Gzw/article-cover_image-shrink_720_1280/0/1639723108193?e=1645660800&v=beta&t=F86oZfVxpasgz8ygtgnanoP7Yd2lrD9VNwf_jmf21V0",
-          "width": 1280,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T22:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-france-orders-clearview-ai-to-delete-facial-recognition-data.md",
-      "title": "France orders Clearview AI to delete facial recognition data",
-      "excerpt": "Frances data privacy watchdog CNIL has ordered controversial facial recognition start-up Clearview AI that has collected 10 billion images worldwide to stop using data from people based in the country.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "originalUrl": "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sify.com/uploads/artificial_intelligence_sify_vifhGVahjidab.jpg",
-          "width": 1200,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "cdnAmpWebUrl": "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/finance/france-orders-clearview-ai-to-delete-facial-recognition-data-news-technology-vmrgCLbjjdhfc.html",
-      "publishedDateTime": "2021-12-16T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sify.com",
-        "domain": "sify.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-17-fintech-firm-avant-debuts-avant-banking.md",
-      "title": "FinTech Firm Avant Debuts Avant Banking",
-      "excerpt": "FinTech Avant is launching Avant Banking, a mobile banking solution with a transparent fee structure, early payday funds for direct deposit customers and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
-      "originalUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2021/12/avant-banking-fintech-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/banking/2021/fintech-firm-avant-debuts-avant-banking/amp/",
-      "publishedDateTime": "2021-12-16T18:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

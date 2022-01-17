@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-was-my-pitch-jen
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1725799/VeriSIM.jpg"
         width: 400
         height: 247
-        isCached: true
-  - title: "Conversational AI platform Orai raises Rs 6.5 cr in pre-Series A round led by Inflection Point Ventures"
-    excerpt: "Conversational AI platform Orai has announced it has raised Rs 6.5 crore in a pre-Series A round led by Inflection Point Ventures, angel investment platform. The funds raised will be utilised in expansion in sales and marketing,"
-    publishedDateTime: 2022-01-13T06:30:00Z
-    webUrl: "https://www.freepressjournal.in/business/conversational-ai-platform-orai-raises-rs-65-cr-in-pre-series-a-round-led-by-inflection-point-ventures"
-    ampWebUrl: "https://www.freepressjournal.in/amp/business/conversational-ai-platform-orai-raises-rs-65-cr-in-pre-series-a-round-led-by-inflection-point-ventures"
-    cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/business/conversational-ai-platform-orai-raises-rs-65-cr-in-pre-series-a-round-led-by-inflection-point-ventures"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 41
-    images:
-      - url: "https://images.assettype.com/freepressjournal/2022-01/9ba31fb1-3074-4bb4-a850-37ffcd9663bc/Co_founders_L_R_Sujit_Das_Biswas__CTO___Swapnil_Jain__CEO.png?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true"
-        width: 1199
-        height: 828
         isCached: true
   - title: "The Army Invests in Artificial Intelligence for Next Generation Combat Vehicles"
     excerpt: "Predictive maintenance, long-range precision fires, and the Next Generation Combat Vehicle are primary focuses of the U.S. Army Artificial Intelligence (AI) task force. Kris Osborn at Warrior Maven reports."

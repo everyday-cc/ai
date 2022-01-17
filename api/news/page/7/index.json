@@ -2,6 +2,150 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-11-jdcom-opens-robotic-shops-in-the-netherlands-as-chinese-e-commerce-giant-tests-new-model-in-europe.md",
+      "title": "JD.com opens robotic shops in the Netherlands as Chinese e-commerce giant tests new model in Europe",
+      "excerpt": "JD.com has remained largely unscathed by government’s tech crackdown but new markets are key to offset slower consumer spending in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/10/091cf70a-db49-4b80-82a6-b402c01fe2f0_92b0c6d5.jpg?itok=5t6ipMJf&v=1641810010",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
+      "publishedDateTime": "2022-01-10T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-lg-electronics-joins-ibm-quantum-network-to-research-ai-iot-and-more.md",
+      "title": "LG Electronics joins IBM Quantum Network to research AI, IoT, and more",
+      "excerpt": "The two companies plan to spend the next three years exploring applications of quantum computing to support connected cars, digital transformation, and robotics applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "originalUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
+      "publishedDateTime": "2022-01-10T13:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-stagezero-raises-18m-to-combine-mobile-game-rewards-and-ai-training-data.md",
+      "title": "StageZero raises $1.8M to combine mobile game rewards and AI training data",
+      "excerpt": "StageZero has raised $1.8 million in funding to give gamers rewards for participating in in-app tasks that generate AI training data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/",
+      "originalUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/stagezero-3.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/amp/",
+      "publishedDateTime": "2022-01-10T13:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-future-developments-in-ai-could-make-your-credit-score-obsolete.md",
       "title": "Future developments in AI could make your credit score obsolete",
       "excerpt": "While AI won't replace credit scores overnight, it is clear that it has the potential to do so in the future, changing lives across the globe.",
@@ -1067,145 +1211,6 @@
         "Google AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-softbank-invests-in-artificial-intelligence-startup-qraft-technologies.md",
-      "title": "SoftBank Invests in Artificial-Intelligence Startup Qraft Technologies",
-      "excerpt": "Qraft Technologies plans to use the $146 million investment to fuel U.S. and China expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "originalUrl": "https://www.wsj.com/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-464080/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/softbank-invests-in-artificial-intelligence-startup-qraft-technologies-11641816004",
-      "publishedDateTime": "2022-01-10T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-ola-2-security-camera-with-face-recognition-ai-and-more-hits-kickstarter.md",
-      "title": "OLA 2 security camera with face recognition, AI and more hits Kickstarter",
-      "excerpt": "If you are in the market for a new security camera you might be interested in the OLA 2 launched via Kickstarter this month offering, facial",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
-      "originalUrl": "https://www.geeky-gadgets.com/ola-2-security-camera-10-01-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/01/home-security-camera-outdoor.jpg",
-          "width": 700,
-          "height": 472,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-10T02:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-01-10-gulf-uniquely-placed-for-ai-innovation-as-50-of-data-workers-now-automate-manual-tasks.md",
-      "title": "Gulf uniquely placed for AI innovation as 50% of data workers now automate manual tasks",
-      "excerpt": "Despite strong progress, research shows that Gulf businesses struggle to unlock the value of AI innovation due to inconsistent staff training",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/Gulf_uniquely_placed_for_AI_innovation_as_50_of_data_workers_now_automate_manual_tasks-ZAWYA20220110094114/",
-      "originalUrl": "https://www.zawya.com/saudi-arabia/en/press-releases/story/Gulf_uniquely_placed_for_AI_innovation_as_50_of_data_workers_now_automate_manual_tasks-ZAWYA20220110094114/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2022/FPR_2755_2022_01_10.jpg",
-          "width": 450,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20220110094114/",
-      "publishedDateTime": "2022-01-10T01:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

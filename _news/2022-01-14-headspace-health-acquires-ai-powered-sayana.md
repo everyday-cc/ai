@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/digital-health/headspace-hea
 webUrl: "https://www.beckershospitalreview.com/digital-health/headspace-health-acquires-ai-powered-sayana.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 800
     height: 600
     isCached: true
-
-related:
-  - title: "Headspace Health acquires an AI chatbot—will peer-to-peer therapy be next?"
-    excerpt: "In wake of Headspace Health’s acquisition of AI chatbot Sayana, we explore how telemental health firms might look to stand out from the pack."
-    publishedDateTime: 2022-01-13T05:15:00Z
-    webUrl: "https://www.emarketer.com/content/headspace-health-acquired-ai-chatbot-will-peer-to-peer-therapy-next"
-    type: article
-    provider:
-      name: eMarketer
-      domain: emarketer.com
-    quality: 52
-    images:
-      - url: "https://contentstorage-nax1.emarketer.com/fc689f21a4c485515751be40c979d636/default-image-share.png?im=FitAndFill,width=1200,height=630"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "5H8si2SOfboNGYNQXyhtFc74MkbipMxM/jUKLG39ho3LBBssDFJxWTb8Y70aDafMa9r36h8Cb9ol/viFAu1LQOXUrjMswPDsoCz71AfrYcVkzVT7qurE0bmx3y5mPtFiWTCKn1RPcg2FSg69TdfS9RxGbtj6LXPLYzlwlryfkZmsHzbcB+k+hjDJDQRDl6lE/LIKC0m96oWqCyYvPRpzPSmKIU+SUU1E34IFg1iwsavkwl48QVIQuB94UBX548N8W9E+7qv1rYenXweZpx6jnd2WyP2MmpCK3q1uQ7B62f8R7Q4GmW322RnZZJJULu9wXYvVRBspxWAGmcVgbmjB0pCoRkJhw4V/+UZ1FkfbRRk=;L8gcnJ7JtdDP4T+L7eijRg=="
 ---

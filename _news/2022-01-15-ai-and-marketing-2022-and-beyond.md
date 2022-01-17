@@ -40,6 +40,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 71
+  - title: "How Artificial Intelligence Affects Digital Marketing"
+    excerpt: "Hundreds of sectors are being transformed by artificial intelligence. Artificial intelligence is transforming the way brands do business in a variety of industries, including finance, technology, and retail."
+    publishedDateTime: 2022-01-16T09:35:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-affects-digital-marketing-obeysekara"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHBHUJW_wkr1Q/article-cover_image-shrink_600_2000/0/1642322967715?e=1648080000&v=beta&t=E2n7Xr2FkTpE8bY9nhpPX2XgU22VYINHmHaF-y7PUaM"
+        width: 1013
+        height: 440
+        isCached: true
   - title: "Self-Driving Cars Market worth 62.4 million units by 2030 - Exclusive Report by MarketsandMarketstm"
     excerpt: "Driving Cars Market by Component (Radar, LiDAR, Ultrasonic, & Camera Unit), Vehicle (Hatchback, Coupe & Sports Car, Sedan, SUV), Level of Autonomy (L1, L2, L3, L4, L5), Mobility Type, EV, and Region"
     publishedDateTime: 2022-01-17T12:40:00Z

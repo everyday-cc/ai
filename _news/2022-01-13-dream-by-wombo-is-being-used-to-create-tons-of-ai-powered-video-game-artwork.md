@@ -9,8 +9,8 @@ ampWebUrl: "https://automaton-media.com/en/news/20220113-8419/amp/"
 cdnAmpWebUrl: "https://automaton--media-com.cdn.ampproject.org/c/s/automaton-media.com/en/news/20220113-8419/amp/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: automaton-media
@@ -39,6 +39,20 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4E12AQFrNg5GuhYOJw/article-cover_image-shrink_720_1280/0/1642068383449?e=1647475200&v=beta&t=Yg_X5il5JW1TFwif3MiCIbc5BXVd0DAwTQiygO1Lr9E"
         width: 1080
         height: 720
+        isCached: true
+  - title: "AR’s Games Set To Launch World’s First Artificial Intelligence Based – Augmented Reality Video Game"
+    excerpt: "The Real Tournament, made exclusively for mobile devices, will combine artificial intelligence and augmented reality to create a first-person shooting"
+    publishedDateTime: 2022-01-17T21:10:00Z
+    webUrl: "https://www.digitaljournal.com/pr/ars-games-set-to-launch-worlds-first-artificial-intelligence-based-augmented-reality-video-game"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 23
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/01/AAA-6-600x337.png"
+        width: 600
+        height: 337
         isCached: true
 
 secured: "MOt+zo6gX+tDiX/13BD9I1s/deNFVbMNaQw7BiyWaoKXeQgALOkRsnITI0wFgxCgmMnN6D5h/OO2snNOZlPACEDLu8/HBJVMUy1E++VgTwwpW0KD922MVLWJsXO8fR3pCXYMKyXGmvWgi1qpZsZDj7HjACLWI/1pOSrxMTrP1eAPI/ckvCQgaUIOeLA/5yly6zMHacyshpXB90CsAlu7vjVsGIaoRWVCpeyQ49FYLKX8ay8cJpZGvqa03pMZdJ/wASoBubaTwCDkmd1wYn3zoHpKqC4lUPZRDL/QzY9BfSriz3Ums92slOk5lAcdXqUU9O5qbJfK2/tusgxcVNdEUXZ++dN4RTFBrvZpVEd6XuCCvkV0N489dM93yDr3p57WJxV+Yaff5faVUA+DAbnUrkp4H+KvdIGsACLz/YtwPJUT9K93PFMTYeVX85R4uW0rwugqGT7v+bK+ZYrJfxpl3ZYm92Z12O4yTcA0/5cMNUrVVEZLPZGz7WzA642CRto2pl352ns5oHii2l6m+G1PaA==;3tJgiFE2kS3MZw/nH7hEHA=="

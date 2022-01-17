@@ -2,6 +2,274 @@
   "page": 66,
   "value": [
     {
+      "path": "_news/2021-11-24-little-big-robots-mech-battle-is-a-pvp-multiplayer-robot-battling-game-out-now-on-android-in-select-countries.md",
+      "title": "Little Big Robots. Mech Battle is a PvP multiplayer robot battling game, out now on Android in select countries",
+      "excerpt": "Little Big Robots. Mech Battle is a fast-paced multiplayer battle game featuring giant robots. Each robot is unique, be it design or skill-wise. As you might have already guessed, you play as a robot and take down enemy robots controlled by other players",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocketgamer.com/little-big-robots-mech-battle/out-now-on-android-in-select-countries/",
+      "originalUrl": "https://www.pocketgamer.com/little-big-robots-mech-battle/out-now-on-android-in-select-countries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.pocketgamer.com/artwork/na-33569-1637690283/little-big-robots.-mech-battle.jpg",
+          "width": 1010,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocketgamer",
+        "domain": "pocketgamer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027.md",
+      "title": "Global Natural Language Processing (NLP) Market 2021 Key Dynamics, Recent and Future Demand, Trend, Analysis upto 2027",
+      "excerpt": "Global Natural Language Processing (NLP) Market Growth (Status and Outlook) 2021-2027 issued by MarketandResearch.biz offers an in-depth evaluation of all happenings in this market. The report gives an appraisal of the market size and comparing revenue inference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-natural-language-processing-nlp-market-2021-key-dynamics-recent-and-future-demand-trend-analysis-upto-2027-2021-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-11-23T10:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-robot-company-will-pay-200k-for-your-faceif-its-friendly-enough.md",
+      "title": "Robot Company Will Pay $200k for Your Face—If It’s Friendly Enough",
+      "excerpt": "The company is ready to pay out $200,000 to somebody willing to transfer the rights to use one’s face forever.” You could live forever. Promobot is considering people of all genders and races over 25,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
+      "originalUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/010771dd428e3f09f26866cbe7bd78e8.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/robot-company-will-pay-200k-for-your-face-if-it-s-frie-1848110723/amp",
+      "publishedDateTime": "2021-11-23T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-robotics-and-artificial-intelligence-to-improve-health-rehabilitation.md",
+      "title": "Robotics and artificial intelligence to improve health rehabilitation",
+      "excerpt": "A Universidad Carlos III de Madrid (UC3M) spin-off, Inrobics Social Robotics, S.L.L., has developed a robotic device that provides an innovative motor and cognitive rehabilitation service that can be used at health centers as well as at home.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html",
+      "originalUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2021/robotics-and-artificia.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2021-11-robotics-artificial-intelligence-health.amp",
+      "publishedDateTime": "2021-11-23T09:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-nft-authentication-startup-origyn-raises-20-million.md",
+      "title": "NFT Authentication Startup ORIGYN Raises $20 Million",
+      "excerpt": "ORIGYN Foundation, an NFT authentication start-up based in Switzerland, has secured $20 million in funding from investors like Paris Hilton, Bill Ackman, and Polychain Capital, among others. The non-profit,",
+      "sourceUrl": null,
+      "webUrl": "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million",
+      "originalUrl": "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/5abcf2bb-41ea-43b1-b701-3d79640030f1.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp",
+      "cdnAmpWebUrl": "https://cheddar-com.cdn.ampproject.org/c/s/cheddar.com/media/nft-authentication-startup-origyn-raises-20-million.amp",
+      "publishedDateTime": "2021-11-23T09:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cheddar",
+        "domain": "cheddar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-11-24-how-artificial-intelligence-is-improving-cancer-research.md",
+      "title": "How Artificial Intelligence is Improving Cancer Research",
+      "excerpt": "Today, though, humanity has a powerful new ally in the fight to eliminate cancer: artificial intelligence. AI and machine learning algorithms gather the data needed to understand cancer holistically and support cancer researchers by providing them with a deeper level of insight than ever available before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research",
+      "originalUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/how-artificial-intelligence-is-improving-cancer-research?amp",
+      "publishedDateTime": "2021-11-23T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-11-24-ai-tech-top-5-ai-chips-that-made-it-to-the-market-in-2021.md",
       "title": "AI Tech: Top 5 AI Chips That Made It to The Market in 2021",
       "excerpt": "There has been immense growth in the domain of artificial intelligence and machine learning. Thus, more developed AI chips and hardware are being formulated and released to match the processing abilities of complex neural networks.",
@@ -850,265 +1118,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding.md",
-      "title": "AI-based Robotics Startup Haber Raises $27 Mn In Series B Funding",
-      "excerpt": "Haber develops AI-driven robots which automate the manual process of sample collection, measurement, analysis, and intervention at factories.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
-      "originalUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2021/11/trademo-ft-social-02-1-300x225.jpg",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-based-robotics-startup-haber-raises-27-mn-in-series-b-funding/amp/",
-      "publishedDateTime": "2021-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-robots-for-the-win-during-ecommerce-holiday-crunch.md",
-      "title": "Robots for the win during ecommerce holiday crunch",
-      "excerpt": "Between labor shortages, COVID continuing to wreak havoc on the supply chain, and the upcoming holiday season (in which eCommerce is expected to grow up to 15%), retailers, eCommerce, and warehouses will face a challenging few months to meet increased consumer demands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/robots-for-the-win-during-ecommerce-crunch/",
-      "originalUrl": "https://www.zdnet.com/article/robots-for-the-win-during-ecommerce-crunch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/071fc579b11fc5f8254621a0b7f3f4f4e58dbf47/2021/11/19/e111dedd-8bb2-4944-af46-19babbfc10cb/berkshire-grey-robtotic-picking-general-merchandise-1000x842.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 812,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/robots-for-the-win-during-ecommerce-crunch/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/robots-for-the-win-during-ecommerce-crunch/",
-      "publishedDateTime": "2021-11-23T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning.md",
-      "title": "Apollo Tyres Goes All-In on AWS to Make Factories Smarter with IoT and Machine Learning",
-      "excerpt": "Amazon Web Services (AWS) announced that Apollo Tyres, India’s leading tyre manufacturer, is going all-in on AWS to digitally transform. By moving all of its IT infrastructure to",
-      "sourceUrl": null,
-      "webUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "originalUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2021/11/Apollo-Tyres_AWS-2.jpg?fit=800%2C532&ssl=1",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/apollo-tyres-goes-all-in-on-aws-to-make-factories-smarter-with-iot-and-machine-learning/",
-      "publishedDateTime": "2021-11-23T03:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odisha Diary",
-        "domain": "orissadiary.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-artificial-intelligence-powers-protein-folding-predictions.md",
-      "title": "Artificial intelligence powers protein-folding predictions",
-      "excerpt": "Deep-learning algorithms such as AlphaFold2 and RoseTTAFold can now predict a protein’s 3D shape from its linear sequence — a huge boon to structural biologists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-021-03499-y?code=b17f9aab-d5dd-4a67-9622-b8ccfdd47c47&error=cookies_not_supported",
-      "originalUrl": "https://www.nature.com/articles/d41586-021-03499-y?code=b17f9aab-d5dd-4a67-9622-b8ccfdd47c47&error=cookies_not_supported",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-021-03499-y/d41586-021-03499-y_19875776.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T03:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-nvidia-gaugan2-ai-can-create-photorealistic-artwork-from-words.md",
-      "title": "NVIDIA GauGAN2 AI can create photorealistic artwork from words",
-      "excerpt": "NVIDIA has released a new demonstration of its latest GauGAN AI in the form of GauGAN2 which uses deep learning models",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/nvidia-gaugan2-ai-can-create-photorealistic-artwork-23-11-2021/",
-      "originalUrl": "https://www.geeky-gadgets.com/nvidia-gaugan2-ai-can-create-photorealistic-artwork-23-11-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2021/11/NVIDIA-GauGAN2-text-to-image-technology.jpg",
-          "width": 700,
-          "height": 477,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-23-promethium-announces-issuance-of-a-us-patent-for-natural-language-processing-technology.md",
-      "title": "Promethium Announces Issuance of a U.S. Patent for Natural Language Processing Technology",
-      "excerpt": "Augmented data management and analytics innovator Promethium today announced that the U.S. Patent and Trademark Office has issued a new patent No. 11,074,252, (the '252 patent) further strengthening the company's intellectual property position and capabilities in the data analytics and management industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-promethium-announces-issuance-a-us-patent-natural-language-/2021/11/23/9498348.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-promethium-announces-issuance-a-us-patent-natural-language-/2021/11/23/9498348.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-23T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,100 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-01-13-the-future-of-farming-think-artificial-intelligence-robots-and-drones.md",
+      "title": "The future of farming? Think artificial intelligence, robots, and drones.",
+      "excerpt": "The outfit at Iowa State, founded last September, is one of 11 established in eight disciplines, including agriculture, following a $220 million investment from the National Science Foundation and the Department of Agriculture,",
+      "sourceUrl": null,
+      "webUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
+      "originalUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://grist.org/fix/wp-content/uploads/sites/3/2022/01/WhatsNext_AI.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
+      "cdnAmpWebUrl": "https://grist-org.cdn.ampproject.org/c/s/grist.org/fix/future-farming-artificial-intelligence-robots-drones-precision-agriculture/amp/",
+      "publishedDateTime": "2022-01-13T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Grist",
+        "domain": "grist.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-14-ways-to-leverage-ai-to-better-connect-with-customers.md",
+      "title": "14 Ways To Leverage AI To Better Connect With Customers",
+      "excerpt": "In 2022, marketers will no doubt find more unique ways to incorporate AI into their operations to enhance campaigns while boosting the effectiveness of data analysis and the accuracy of reporting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61df4cda763af9c8f4a29ba3%2F0x0.jpg",
+          "width": 1200,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/01/13/14-ways-to-leverage-ai-to-better-connect-with-customers/amp/",
+      "publishedDateTime": "2022-01-13T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-13-using-localized-models-to-get-more-from-your-aiml-investments.md",
       "title": "Using Localized Models To Get More From Your AI/ML Investments",
       "excerpt": "There are a lot of opportunities to experiment with localized models to help businesses gain a clearer understanding of their demographics and the unique needs and desires of different locations.",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/01/13/using-localized-models-to-get-more-from-your-aiml-investments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -192,6 +286,48 @@
         "Machine Learning",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-dream-by-wombo-is-being-used-to-create-tons-of-ai-powered-video-game-artwork.md",
+      "title": "Dream by Wombo is being used to create tons of AI-powered video game artwork",
+      "excerpt": "Dream by Wombo is being used to create tons of AI-powered video game artwork. While Dream was released in November, it looks like it started catching on in Japan around December and January.",
+      "sourceUrl": null,
+      "webUrl": "https://automaton-media.com/en/news/20220113-8419/",
+      "originalUrl": "https://automaton-media.com/en/news/20220113-8419/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://automaton-media.com/en/wp-content/uploads/2022/01/20220113-188537-header.jpg",
+          "width": 1372,
+          "height": 686,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://automaton-media.com/en/news/20220113-8419/amp/",
+      "cdnAmpWebUrl": "https://automaton--media-com.cdn.ampproject.org/c/s/automaton-media.com/en/news/20220113-8419/amp/",
+      "publishedDateTime": "2022-01-13T00:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "automaton-media",
+        "domain": "automaton-media.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1016,161 +1152,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana.md",
-      "title": "Headspace Health acquires AI-powered mental health and wellness company Sayana",
-      "excerpt": "Headspace Health has acquired Sayana, an AI-powered mental health and wellness company, for an undisclosed amount. Headspace Health says the acquisition of the San Francisco-based company will expand its ability to provide personalized self-care to its users.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/",
-      "originalUrl": "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/HH_Sayana.png?w=1024",
-          "width": 1022,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/headspace-health-acquires-ai-powered-mental-health-and-wellness-company-sayana/amp/",
-      "publishedDateTime": "2022-01-12T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-ai-standards-hub-will-help-uk-businesses-improve-ai-governance.md",
-      "title": "AI Standards Hub will help UK businesses improve AI governance",
-      "excerpt": "The launch of the initiative, led by the Alan Turing Institute, comes as 1.3 million UK businesses are expected to use AI by 2040",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1641989946/itpro/GettyImages-AI-concept.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp",
-      "cdnAmpWebUrl": "https://www-itpro-co-uk.cdn.ampproject.org/c/s/www.itpro.co.uk/technology/artificial-intelligence-ai/361961/newly-launched-ai-standard-hub-to-create-practical?amp",
-      "publishedDateTime": "2022-01-12T04:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-12-snowflake-stock-looks-like-a-buy-at-300.md",
-      "title": "Snowflake Stock Looks Like A Buy At $300",
-      "excerpt": "Cloud-based data warehousing specialist Snowflake stock (NYSE: SNOW) stock has declined by almost 15% over the last month, trading at about $300 per share currently. The decline comes on the back of a broader sell-off in software names and high-multiple",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61b4a0f0e0601e4e30a76c44%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/01/12/snowflake-stock-looks-like-a-buy-at-300/amp/",
-      "publishedDateTime": "2022-01-12T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -1,21 +1,27 @@
 ---
 category: news
 title: "IBM Watson Advertising Brings AI-Driven Weather Analytics to AWS Data Exchange"
-excerpt: "ARMONK, N.Y., Jan. 7, 2022 /PRNewswire/ -- IBM Watson Advertising (NYSE: IBM) today announced the availability of data from The Weather Company, an IBM Business, on AWS Data Exchange, an Amazon ..."
-publishedDateTime: 2022-01-07T13:26:00Z
-originalUrl: "https://www.kpvi.com/news/national_news/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_cbc974fe-32b2-5054-9a0e-a8b75340b0f2.html"
-webUrl: "https://www.kpvi.com/news/national_news/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange/article_cbc974fe-32b2-5054-9a0e-a8b75340b0f2.html"
+excerpt: "Providing data from the world's most accurate weather forecaster1, IBM Watson Advertising's Weather Analytics harness the relationship between weather and consumer behavior using artificial intelligence to extract deep insights to help businesses make more ..."
+publishedDateTime: 2022-01-07T13:02:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange"
+webUrl: "https://stockhouse.com/news/press-releases/2022/01/07/ibm-watson-advertising-brings-ai-driven-weather-analytics-to-aws-data-exchange"
 type: article
 
 provider:
-  name: KPVI
-  domain: kpvi.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - IBM AI
   - AI
   - AWS AI
 
-secured: "WMDViMiLWuWeWis0/za9f//xxdJWu2o9XA+SqLQUrVIs4/4HNQhNQGe3dtijUD2wTc4qWACDUFbuWWVAm48OSq8A4MXg8ugbjt0xa8QH/ZFn8SurInHyJTxIutdFSx8nyi/+KsqJxFrRcRDworYEPscqI0CvS/qZ/IRaYZgspVevK0Xzqw4VhXIl+wkBVXDB4dAsm47eH85Sp1/l6xpj02XnZMbeiZbdv6JPwUKviZmb7G1/3blvj458m+3Lovg4o6cHWr26sdqGFGUvIewL83hxN/WzQPzSq8cU9T/rdWxNDHelBl72H8yWjnL40UGBcY/Gv3dhRDaBKi1IO2Ce02t4/OPrft5AtWMG1IACyBo=;Pn36xREBUBZWoYNH/6+Qrg=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "2RPIwj30zUCXoF76hbcWQO9KgHnZTATEnRXamTgPYBxHGCghQ2Ks72bUC14SJrdjgk+INquP58oCoJOIwJx6wFxhWSyCVFoxpQc/LdMFSsQjTnI+vPB/sSrqV5tid+JWIpkUXFqHWYr4V9x191CRu7innpWszORqsqps65CYidHfvp3LUVwvO92d9OrCNvslfi6GTs0ukL4CjbbtYBFjp2iCWMHIrtHs/DvMwR6o5La2dLxHN54CnIfq9T+z3BmJvRa+XuuLbH1aOaK/KPl3/8PAmwpZ2ZUFkRALD6rNe6Ed3YHXqwE8ekkXToJjT6lTjBdtDSttkLbQbNuxf6gXq4Sfjbz+XhSnFwowDwtgC+E=;dg7y7JY6uuTNetR2n4mwOw=="
 ---
 

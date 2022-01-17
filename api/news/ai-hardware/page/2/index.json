@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-01-04-inspur-information-identified-as-a-strong-performer-in-ai-infrastructure-report.md",
-      "title": "Inspur Information Identified as a Strong Performer in AI Infrastructure Report",
-      "excerpt": "Inspur Information, a leading IT infrastructure solutions provider, announced today that Forrester, a leading global research company, released The Forrester Wave™: AI Infrastructure, Q4 2021, which identified Inspur Information as a Strong Performer and recognized its full-stack AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-business-9dd91b63072a41d99ad49448991e2f5b",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-business-9dd91b63072a41d99ad49448991e2f5b",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-04-deeplite-accelerates-ai-on-arm-cpus-using-ultra-compact-quantization.md",
       "title": "Deeplite Accelerates AI on Arm CPUs Using Ultra-Compact Quantization",
       "excerpt": "DeepliteRT allows customers to utilize existing Arm CPUs for computer vision at the edge while delivering GPU-level performance MONTREAL, Jan. 4, 2022 /PRNewswire/ -- Deeplite, a provider of AI optimization software designed to make AI model inference faster,",
@@ -1356,6 +1313,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-15-the-battle-of-ai-processors-begins-in-2018.md",
+      "title": "The Battle of AI Processors Begins in 2018",
+      "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
+      "originalUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20TPU.png",
+          "width": 1000,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-14T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

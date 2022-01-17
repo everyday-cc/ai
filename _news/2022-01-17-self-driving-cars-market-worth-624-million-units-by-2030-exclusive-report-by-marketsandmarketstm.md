@@ -50,6 +50,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Artificial Intelligence Affects Digital Marketing"
+    excerpt: "Hundreds of sectors are being transformed by artificial intelligence. Artificial intelligence is transforming the way brands do business in a variety of industries, including finance, technology, and retail."
+    publishedDateTime: 2022-01-16T09:35:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-affects-digital-marketing-obeysekara"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQHBHUJW_wkr1Q/article-cover_image-shrink_600_2000/0/1642322967715?e=1648080000&v=beta&t=E2n7Xr2FkTpE8bY9nhpPX2XgU22VYINHmHaF-y7PUaM"
+        width: 1013
+        height: 440
+        isCached: true
   - title: "Speech Analytics Market worth $4.5 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a research report \" Speech Analytics Market by Component (Solutions and Services), Application (Risk & Compliance Management, Sentiment Analysis), Organization Size, Deployment Mode (Cloud,"
     publishedDateTime: 2022-01-13T14:33:00Z

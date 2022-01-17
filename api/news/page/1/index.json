@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-01-18-5-stocks-offering-exposure-to-the-promising-semiconductor-industry.md",
+      "title": "5 Stocks Offering Exposure to the Promising Semiconductor Industry",
+      "excerpt": "The Analog/Mixed Signal Semiconductor industry is one of the most attractive segments of the market where secular growth drivers are huge and deep. ADI, MCHP, MPWR, NXPI and ON",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/413594",
+      "originalUrl": "https://www.entrepreneur.com/article/413594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/providers/zacks/hero-image-zacks-413594.jpeg",
+          "width": 635,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-17T14:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-new-york-times-ad-warns-against-teslas-full-self-driving.md",
+      "title": "New York Times ad warns against Tesla’s “Full Self-Driving”",
+      "excerpt": "A full page advertisement in Sunday’s New York Times took aim at Tesla’s “Full Self-Driving” software, calling it “the worst software ever sold by a Fortune 500 company” and offering $10,000, the same price as the software itself to the first person who could",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/",
+      "originalUrl": "https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/Dawn-Project-ad.jpeg?w=600",
+          "width": 600,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/17/new-york-times-ad-warns-against-teslas-full-self-driving/amp/",
+      "publishedDateTime": "2022-01-17T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-18-with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales.md",
+      "title": "With surge of online buying, retailers now looking to artificial intelligence to help boost sales",
+      "excerpt": "Retailers are looking at new ways to boost their bottom lines, especially after a disappointing holiday season where sales fell nearly 2 percent in December. To help",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbs17.com/news/investigators/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/",
+      "originalUrl": "https://www.cbs17.com/news/investigators/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cbs17.com/wp-content/uploads/sites/29/2022/01/shopping.jpg?w=1280",
+          "width": 700,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbs17.com/news/investigators/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/",
+      "cdnAmpWebUrl": "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/with-surge-of-online-buying-retailers-now-looking-to-artificial-intelligence-to-help-boost-sales/amp/",
+      "publishedDateTime": "2022-01-17T13:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS17 Raleigh",
+        "domain": "cbs17.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-01-18-walgreens-moves-to-ai-driven-search-experience-with-algolia.md",
       "title": "Walgreens moves to AI-driven search experience with Algolia",
       "excerpt": "The companies hope to provide an AI-driven solution that analyzes users' search terms, predict their intent, and deliver more search results.",
@@ -51,58 +198,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-18-elon-musk-claims-there-has-been-no-crash-in-teslas-full-self-driving-beta-over-a-year-into-the-program.md",
-      "title": "Elon Musk claims there has been no crash in Tesla’s Full Self-Driving Beta over a year into the program",
-      "excerpt": "Elon Musk claims that Tesla has not had a single crash in its Full Self-Driving Beta program since the start over a year ago, but that’s just as much proof that the testers are being careful as a proof that the system is safe.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/",
-      "originalUrl": "https://electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2020/09/Tesla-CEO-Elon-Musk.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/17/elon-musk-claims-no-crash-tesla-full-self-driving-beta/amp/",
-      "publishedDateTime": "2022-01-17T11:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -518,7 +613,7 @@
       "originalUrl": "https://www.news-medical.net/news/20220116/Free-energy-principle-can-explain-how-neural-networks-are-optimized-for-efficiency.aspx",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1096,101 +1191,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-15-waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years.md",
-      "title": "Waymo, J.B. Hunt plan to reach fully autonomous truck transport in Texas in ‘next few years’",
-      "excerpt": "Waymo has been developing its primary operations center in Texas, which is expected to potentially accommodate hundreds of trucks and personnel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/",
-      "originalUrl": "https://www.msn.com/en-us/autos/news/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-e2-80-98next-few-years-e2-80-99/ar-AASMRBt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/vwwc6YNUKVZOAUJ_qrAovdaQs3g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/QTOZOLCUO5GH5NWLTAKJQPAVII.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/?outputType=amp",
-      "publishedDateTime": "2022-01-14T15:15:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/",
-        "domain": "dallasnews.com/business/technology/2022/01/14/waymo-jb-hunt-plan-to-reach-fully-autonomous-truck-transport-in-texas-in-next-few-years/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-14-label-text-for-aspect-based-sentiment-analysis-using-sagemaker-ground-truth.md",
-      "title": "Label text for aspect-based sentiment analysis using SageMaker Ground Truth",
-      "excerpt": "The Amazon Machine Learning Solutions Lab (MLSL) recently created a tool for annotating text with named-entity recognition (NER) and relationship labels using Amazon SageMaker Ground Truth.&nbsp;Annotators use this tool to label text with named entities and link their relationships, thereby building",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/labeling-text-for-aspect-based-sentiment-analysis-using-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/labeling-text-for-aspect-based-sentiment-analysis-using-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2021/12/06/ML-4415-image005.png",
-          "width": 864,
-          "height": 699,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-14T13:31:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

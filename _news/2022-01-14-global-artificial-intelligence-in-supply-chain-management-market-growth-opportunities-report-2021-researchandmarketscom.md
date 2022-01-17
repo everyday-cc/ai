@@ -52,20 +52,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Worldwide AI in Medical Diagnostics Industry to 2026 - Investments in the AI Health Sector is Driving Growth - ResearchAndMarkets.com"
-    excerpt: "Global Markets\" report has been added to ResearchAndMarkets.com's offering. The current report offers a detailed picture of the AI medical diagnostics market. This report highlights the current and future"
-    publishedDateTime: 2022-01-17T15:22:00Z
-    webUrl: "https://www.lelezard.com/en/news-20194713.html"
-    type: article
-    provider:
-      name: Le Lézard
-      domain: lelezard.com
-    quality: 8
-    images:
-      - url: "https://www.lelezard.com/img/pr_sections/health.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "FB8Lyx0cUqz8q7BeXjpEcrM4Valk+sJ+FnWgIB+BcZJG3fxWv4OyvUEukfXW34QIf3I8Lbkulk2H3liOxf+nJnuFKW5w9agyEOvbJsMRfFCnELcnaCosMsu4IWGqVsp22xOZnqQ+wY48EP2bgYQdaoPqsgJ/pnDyqTsVwac05+PC+el80eoQXqO1vrV4H/pVagfSW7ZC3/SbHRvNgBGMToyOCMJKx8d7YsQLzsqbO3xy5Qz71oBK58L3L4rtm0xZ7UxTU4RSsa4Pmnifq9l0JipBz+UBhOo7kKPAEFMya5Bb9GuNdcERSGddDtTlYaGf98jaHVbKdYmAjpmncBviXJ0PtGhbsSpLRAUK3WVy+Es=;QnNwWwq+dfKkd4agZQiYdg=="
 ---

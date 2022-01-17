@@ -2,6 +2,162 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-01-11-ibm-acquires-envizi-to-help-organizations-accelerate-sustainability-initiatives-and-achieve-environmental-goals.md",
+      "title": "IBM Acquires Envizi to Help Organizations Accelerate Sustainability Initiatives and Achieve Environmental Goals",
+      "excerpt": "This acquisition builds ... most comprehensive AI software to help them accelerate their sustainability initiatives and support their environmental goals, IBM is also using its software to improve ...",
+      "sourceUrl": null,
+      "webUrl": "https://newsroom.ibm.com/2022-01-11-IBM-Acquires-Envizi-to-Help-Organizations-Accelerate-Sustainability-Initiatives-and-Achieve-Environmental-Goals?lnk=ushpv18nf1",
+      "originalUrl": "https://www.marketwatch.com/press-release/ibm-acquires-envizi-to-help-organizations-accelerate-sustainability-initiatives-and-achieve-environmental-goals-2022-01-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsroom.ibm.com/image/Largo+Announcement_Social_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-open-the-pod-bay-doors-please-hal-metas-ai-simulates-lip-reading.md",
+      "title": "Open the pod bay doors, please, HAL: Meta's AI simulates lip-reading",
+      "excerpt": "The software uses the popular approach of \"attention\" to make videos of speakers' lips and audio waveforms reinforce one another in ways much more efficient and accurate than prior approaches.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "originalUrl": "https://www.zdnet.com/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/82312686fb708271d62d05573eb5b4c7c7bcfa50/2022/01/11/95887186-2304-4c82-b423-e501095fe40d/png-image-13.png?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 690,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/open-the-pod-bay-doors-please-hal-metas-ai-finds-a-more-efficient-path-to-lip-reading/",
+      "publishedDateTime": "2022-01-11T07:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-01-11-daily-ai-acquires-whiteboard-crm.md",
+      "title": "Daily AI Acquires Whiteboard CRM",
+      "excerpt": "Today, Daily AI, the provider of intelligent solutions for the future of mortgage lending, announced that it has acquired Whiteboard CRM. Whiteboard provides a mortgage CRM built to accelerate lead management,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/daily-ai-acquires-whiteboard-crm-1031094241",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/daily-ai-acquires-whiteboard-crm-1031094241",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1722346/Daily_AI_Logo.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-11T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-01-11-guardrail-failure-companies-are-losing-revenue-and-customers-due-to-ai-bias.md",
       "title": "Guardrail failure: Companies are losing revenue and customers due to AI bias",
       "excerpt": "New survey finds that 80% U.S. firms found problems despite having bias monitoring or algorithm tests already in place.",
@@ -1034,150 +1190,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-jdcom-opens-robotic-shops-in-the-netherlands-as-chinese-e-commerce-giant-tests-new-model-in-europe.md",
-      "title": "JD.com opens robotic shops in the Netherlands as Chinese e-commerce giant tests new model in Europe",
-      "excerpt": "JD.com has remained largely unscathed by government’s tech crackdown but new markets are key to offset slower consumer spending in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/01/10/091cf70a-db49-4b80-82a6-b402c01fe2f0_92b0c6d5.jpg?itok=5t6ipMJf&v=1641810010",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3162840/jdcom-opens-robotic-shops-netherlands-chinese-e-commerce-giant-tests",
-      "publishedDateTime": "2022-01-10T14:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-lg-electronics-joins-ibm-quantum-network-to-research-ai-iot-and-more.md",
-      "title": "LG Electronics joins IBM Quantum Network to research AI, IoT, and more",
-      "excerpt": "The two companies plan to spend the next three years exploring applications of quantum computing to support connected cars, digital transformation, and robotics applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "originalUrl": "https://www.zdnet.com/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/lg-electronics-joining-ibm-quantum-network-for-research-into-ai-iot-and-more/",
-      "publishedDateTime": "2022-01-10T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-11-stagezero-raises-18m-to-combine-mobile-game-rewards-and-ai-training-data.md",
-      "title": "StageZero raises $1.8M to combine mobile game rewards and AI training data",
-      "excerpt": "StageZero has raised $1.8 million in funding to give gamers rewards for participating in in-app tasks that generate AI training data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/",
-      "originalUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/stagezero-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 755,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/10/stagezero-raises-1-8m-to-combine-mobile-game-rewards-and-ai-training-data/amp/",
-      "publishedDateTime": "2022-01-10T13:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

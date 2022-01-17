@@ -2,6 +2,294 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-24-at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future.md",
+      "title": "At-Fault Robotaxi accidents For Waymo, Pony.AI, Olli And What They Mean For The Future",
+      "excerpt": "different robotaxi-related accidents at the end of this year raise some interesting issues about what they mean going forward.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c3afe0943c99e74c35c794%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2021/12/23/at-fault-robotaxi-accidents-for-waymo-ponyai-olli-and-what-they-mean-for-the-future/amp/",
+      "publishedDateTime": "2021-12-23T09:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2021-12-24-gartner-magic-quadrant-for-data-science-and-machine-learning-platforms.md",
+      "title": "Gartner Magic Quadrant for Data Science and Machine Learning Platforms",
+      "excerpt": "The latest Gartner Magic Quadrant for Data Science and Machine Learning Platforms has just been released, and IBM is delighted to be",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/gartner-magic-quadrant-for-data-science-and-machine-learning-platforms/",
+      "publishedDateTime": "2021-12-23T08:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-instacart-is-vetting-a-self-driving-robot-as-it-looks-to-speed-up-delivery-and-challenge-gopuff-jokr-and-buyk-leaked-documents-show.md",
+      "title": "Instacart is vetting a self-driving robot as it looks to speed up delivery and challenge Gopuff, Jokr, and Buyk, leaked documents show",
+      "excerpt": "Leaked documents show Instacart is vetting robotics warehouse startup Tortoise, as it looks to challenge Gopuff, Jokr, and other ultrafast delivery players",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
+      "originalUrl": "https://www.msn.com/en-us/news/technology/instacart-is-vetting-a-self-driving-robot-as-it-looks-to-speed-up-delivery-and-challenge-gopuff-jokr-and-buyk-leaked-documents-show/ar-AAS40JC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/61c36d6617dae400125adef3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T07:39:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
+        "domain": "businessinsider.com/instacart-vetting-robotics-warehouse-startup-tortoise-documents-2021-12",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-finetuning-technological-systems-for-healthcare-with-natural-language-processing.md",
+      "title": "Finetuning Technological Systems for Healthcare with Natural Language Processing",
+      "excerpt": "Natural language processing or NLP is a technological innovation that allows machines to understand human expression and predict human behaviour. Natural language or the language used by humans to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-post/finetuning-technological-systems-for-healthcare-with-natural-language-processing-101640270063565.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-post/finetuning-technological-systems-for-healthcare-with-natural-language-processing-101640270063565.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2021/12/23/1600x900/unnamed_(2)_(1)_1640270151576_1640270155692.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-post/finetuning-technological-systems-for-healthcare-with-natural-language-processing-101640270063565-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-post/finetuning-technological-systems-for-healthcare-with-natural-language-processing-101640270063565-amp.html",
+      "publishedDateTime": "2021-12-23T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-open-source-nlp-is-fueling-a-new-wave-of-startups.md",
+      "title": "Open source NLP is fueling a new wave of startups",
+      "excerpt": "A growing number of startups are offering open source language models as a service, competing with heavyweights like OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2021/12/23/open-source-nlp-is-fueling-a-new-wave-of-startups/",
+      "originalUrl": "https://venturebeat.com/2021/12/23/open-source-nlp-is-fueling-a-new-wave-of-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/09/natural-language-processing-e1572968977211.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2021/12/23/open-source-nlp-is-fueling-a-new-wave-of-startups/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2021/12/23/open-source-nlp-is-fueling-a-new-wave-of-startups/amp/",
+      "publishedDateTime": "2021-12-23T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-cfte-with-its-mission-of-education-at-scale-in-fintech-with-2021-a-year-of-limitless-possibilities.md",
+      "title": "CFTE with its mission of education at scale in Fintech with 2021 a year of limitless possibilities",
+      "excerpt": "And it's a wrap for 2021 ! What a year ! ✨ as the Co-founder of CFTE, I find myself reflecting on the past year. 2021 has brought a lot of ups and downs to everyone, and we hope that you were safe this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D",
+      "originalUrl": "https://www.linkedin.com/pulse/cfte-its-mission-education-fintech-scale-2021-year-limitless-nguyen/?trackingId=pBA26QHIQUWZxW3P0WVs5A%3D%3D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E12AQFLSa4vMp8XqA/article-cover_image-shrink_720_1280/0/1640193398856?e=1646870400&v=beta&t=26PAPjp8ikt6PHh00U_mkbFzM5gKDmJeKMyeEeSlhs4",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T06:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-five-predictions-for-ai-in-2022.md",
       "title": "Five Predictions For AI In 2022",
       "excerpt": "ML models. It will also be a time of incredible opportunity to make an impact. Here are five outcomes that seem increasingly likely in 2022.",
@@ -869,281 +1157,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-deepmind-just-taught-ai-how-to-win-a-game-without-knowing-the-rules.md",
-      "title": "DeepMind just taught AI how to win a game without knowing the rules",
-      "excerpt": "Alphabet's AI division DeepMind created an algorithm that allows a computer to master a game without knowing the rules beforehand. DeepMind’s previous AI algorithms were so good that computers ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
-      "originalUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2020/12/AI-concept.jpg?quality=82&strip=all",
-          "width": 1599,
-          "height": 1066,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/deepmind-muzero-ai-wins-games-without-knowing-rules/amp/",
-      "publishedDateTime": "2021-12-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till-2024.md",
-      "title": "Natural Language Processing (NLP) Market||Industry Analysis Insights, Future Growth, and Forecast till - 2024",
-      "excerpt": "Japan, Japan, Thu, 23 Dec 2021 04:35:31 / Comserve Inc. / -- MarketsandMarkets forecasts the global Natural Language Processing (NLP) market size to grow from USD 10.2 billion in 2019 to USD 26.4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-marketindustry-analysis-insights-future-growth-and-forecast-till---2024-2021-12-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-artificial-intelligence-may-be-just-code-but-its-our-code.md",
-      "title": "Artificial Intelligence May Be Just Code, But It’s Our Code",
-      "excerpt": "The reality is that an AI is just a statistical engine, and in a lot of cases, it’s a bad statistical engine.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F6012edfc63c56a43fc8d45ed%2F0x0.jpg",
-          "width": 1200,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2021/12/22/artificial-intelligence-may-be-just-code-but-its-our-code/amp/",
-      "publishedDateTime": "2021-12-22T14:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-insights-on-the-artificial-intelligence-in-remote-patient-monitoring-global-market-to-2026-featuring-100-plus-aicure-and-cardiomo-among-others.md",
-      "title": "Insights on the Artificial Intelligence in Remote Patient Monitoring Global Market to 2026 - Featuring 100 Plus, AiCure and Cardiomo Among Others",
-      "excerpt": "The \"Artificial Intelligence In Remote Patient Monitoring Market Research Report by Product, by Solution, by Technology, by Application, by Region - Global Forecast to 2026 - Cumulative Impact of COVID-19\" report has been added",
-      "sourceUrl": null,
-      "webUrl": "https://www.lelezard.com/en/news-20169786.html",
-      "originalUrl": "https://www.lelezard.com/en/news-20169786.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lelezard.com/img/pr_sections/health.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Le Lézard",
-        "domain": "lelezard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-novel-biosensors-set-to-revolutionize-brain-controlled-robotics.md",
-      "title": "Novel biosensors set to revolutionize brain-controlled robotics",
-      "excerpt": "A novel carbon-based biosensor is set to drive new innovations in brain-controlled robotics. The biosensor adheres to the skin of the face and head in order to detect electrical signals being sent by the brain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2021/12/211222100804.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-23-the-future-of-natural-language-processing-is-bright.md",
-      "title": "The Future of Natural Language Processing is Bright",
-      "excerpt": "Natural language processing (NLP) denotes the use of artificial intelligence (AI) to manipulate written or spoken languages. Like the air we breathe, NLP is so pervasive today that we hardly notice it. When you use Alexa, you are conversing with an NLP ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
-      "originalUrl": "https://www.itbusinessedge.com/development/the-future-of-natural-language-processing-is-bright/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itbusinessedge.com/wp-content/uploads/2021/12/The-Future-of-Natural-Language-Processing-is-Bright.jpeg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-22T13:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business Edge",
-        "domain": "itbusinessedge.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,306 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-01-05-hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar.md",
+      "title": "Hong Kong Billionaire Professor Adds $2 Billion To His Wealth As Shares Of AI Giant SenseTime Soar",
+      "excerpt": "Shares of SenseTime have almost doubled since its closely watched IPO last week, adding $2 billion to the net worth of Tang Xiao’ou, cofounder and the largest shareholder of the Chinese AI giant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/",
+      "originalUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61d576d8aceb0ad88f55465d%2F0x0.jpg",
+          "width": 1200,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simranvaswani/2022/01/05/hong-kong-billionaire-professor-adds-2-billion-to-his-wealth-as-shares-of-ai-giant-sensetime-soar/amp/",
+      "publishedDateTime": "2022-01-05T02:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-and-more-at-ces-2022.md",
+      "title": "Anker shows off the tiniest 100W charger we’ve ever seen and more at CES 2022",
+      "excerpt": "Anker just announced the 736 Nano II Charger at CES 2022, along with a bunch of other products spanning the projector, webcam, and smart home categories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/",
+      "originalUrl": "https://www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/01/Anker-100W-charger.jpg",
+          "width": 1500,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/01/05/anker-shows-off-the-tiniest-100w-charger-weve-ever-seen-at-ces-2022/?amp=1",
+      "publishedDateTime": "2022-01-05T01:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg.md",
+      "title": "AI startup Fractal becomes unicorn with $360 million investment from TPG",
+      "excerpt": "Fractal has raised $360 million from TPG in a new financing round and entered the unicorn club as the Mumbai and New York-based AI startup, which counts Google and Wells Fargo among its customers, scales its offerings and begins preparation for an IPO.",
+      "sourceUrl": null,
+      "webUrl": "https://news.yahoo.com/ai-startup-fractal-becomes-unicorn-093148938.html",
+      "originalUrl": "https://techcrunch.com/2022/01/05/ai-startup-fractal-becomes-unicorn-with-360-million-investment-from-tpg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 276,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/yjWJApiXP.r3.tXCfl4n6Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD01NjU-/https://s.yimg.com/uu/api/res/1.2/tRJXoqN6AhGj67TxBBsBaQ--~B/aD00MDAwO3c9ODUwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/techcrunch_350/9d520e0099165578729ab4784e4fc873",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-deere-rolls-out-fully-autonomous-tractor-at-ces.md",
+      "title": "Deere rolls out fully autonomous tractor at CES",
+      "excerpt": "The images are fed to the onboard computer, where a convolutional neural network—an advanced form of artificial intelligence that analyzes images—classifies pixels in milliseconds, identifies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/deere-rolls-out-fully-autonomous-tractor-at-ces-11641394480799.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/deere-rolls-out-fully-autonomous-tractor-at-ces-11641394480799.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/01/05/600x338/US-TECHNOLOGY-SCIENCE-LIFESTYLE-COMPUTERS-ELECTRONICS-31_1641394574301_1641394627276.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/deere-rolls-out-fully-autonomous-tractor-at-ces/amp-11641394480799.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/deere-rolls-out-fully-autonomous-tractor-at-ces/amp-11641394480799.html",
+      "publishedDateTime": "2022-01-05T00:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-accelerate-the-in-vehicle-digital-experience-with-azure-cognitive-services.md",
+      "title": "Accelerate the in-vehicle digital experience with Azure Cognitive Services",
+      "excerpt": "Microsoft is helping to reshape the automotive industry in the way it serves its drivers with in-vehicle infotainment systems. Together with the car manufacturers, Microsoft is creating new driving experiences with speech based on the text-to-speech and speech-to-text capabilities within Azure Cognitive",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
+      "originalUrl": "https://azure.microsoft.com/blog/accelerate-the-invehicle-digital-experience-with-azure-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/832c79d4-6a7e-4c24-bb1f-cd13680e49ec.jpg",
+          "width": 1074,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-05T00:00:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-05-ai-could-repair-the-damage-done-by-data-overload.md",
+      "title": "AI could repair the damage done by data overload",
+      "excerpt": "With AI we can start leveraging data to empower connections and enhance problem-solving, collaboration, and finding the answers we need.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
+      "originalUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-494436399.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/04/ai-could-repair-the-damage-done-by-data-overload/amp/",
+      "publishedDateTime": "2022-01-04T16:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-05-how-incorta-uses-ai-to-address-supply-chain-issues.md",
       "title": "How Incorta uses AI to address supply-chain issues",
       "excerpt": "With the pandemic slowing down production lines and transportation, the 'supply chain' is regularly in headlines. Incorta hopes to improve it with AI.",
@@ -932,286 +1232,6 @@
         "AI in Healthcare",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-faster-than-tesla-the-team-deploying-neural-networks-in-one-day.md",
-      "title": "Faster Than Tesla: The Team Deploying Neural Networks in One Day",
-      "excerpt": "In pursuit of higher velocity innovation, Iandola was drawn to defense tech company Anduril. Today he works as head of perception, training deep neural networks for Anduril’s products to understand their surroundings and provide operators with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.builtinla.com/2022/01/04/anduril-team-deploying-neural-networks-faster",
-      "originalUrl": "https://www.builtinla.com/2022/01/04/anduril-team-deploying-neural-networks-faster",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.builtinla.com/sites/www.builtinla.com/files/styles/og/public/2022-01/NeuralNetwork.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T09:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Built In",
-        "domain": "builtinla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-nvidia-wants-omniverse-to-be-metaverse-builders-glue.md",
-      "title": "Nvidia wants Omniverse to be metaverse builders' glue",
-      "excerpt": "The free collaborative 3D graphics and rendering toolkit comes out of public beta, and its cross-app support could be a sign of where all the other VR/AR tools need to go.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-      "originalUrl": "https://www.msn.com/en-us/news/technology/nvidia-wants-omniverse-to-be-metaverse-builders-glue/ar-AASqkWf",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/cryso2yyzDiLrn1C8sMAb-IIdCA=/1200x630/2022/01/04/41284882-37c0-400a-8286-4e1f1a780479/nvidia-omniverse-audio2face-rhino.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-      "publishedDateTime": "2022-01-04T08:45:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-        "domain": "cnet.com/tech/computing/nvidia-wants-omniverse-to-be-metaverse-builders-glue/",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-waking-up-on-indias-first-legal-challenge-to-the-deployment-of-facial-recognition-technology.md",
-      "title": "Waking up on India's First Legal Challenge to the deployment of Facial Recognition Technology",
-      "excerpt": "The Telangana high court issued notices on Monday to the state and Hyderabad police commissioner to respond to a PIL questioning the alleged use of face recognition technology (FRT) by officials without the sanction of law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
-      "originalUrl": "https://www.linkedin.com/pulse/waking-up-indias-first-legal-challenge-deployment-facial-kapat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGjOZzgeJ5iQA/article-cover_image-shrink_720_1280/0/1641313661810?e=1647475200&v=beta&t=21jmnJ2hhv9pbckNo9OL63WRwXockzu2e-aHASsg-j8",
-          "width": 1216,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T08:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-05-with-intel-mobileyes-newest-chip-automakers-can-bring-automated-driving-to-cars.md",
-      "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars",
-      "excerpt": "Intel subsidiary Mobileye is plans to bring a new supercomputer to market designed to give passenger cars, trucks and SUVs autonomous driving powers. The company introduced Tuesday at the 2022 CES tech trade show a new system-on-chip called EyeQ Ultra that is purpose-built for autonomous driving.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/21065_ME_CHIP_EyeQ-Ultra.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/04/intels-mobileye-autonomous-driving-chip-for-consumer-vehicles/amp/",
-      "publishedDateTime": "2022-01-04T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-future-of-work-computer-vision-and-machine-learning-may-soon-bolster-restaurant-jobs.md",
-      "title": "Future of Work: Computer vision and machine learning may soon bolster restaurant jobs",
-      "excerpt": "Chipotle CEO Brian Niccol expects the restaurant industry to adopt more emerging technologies to deal with challenges like supply chain snags, worker turnover and inefficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2022/01/04/chipotle-brian-niccol-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-03-2022/t_bec7b19019f440cca2783637ba05c5da_name_Chipotle_Thumb_2.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-04T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-01-04-a-neural-network-solves-grades-generates-university-level-mathematics-problems-by-program-synthesis.md",
-      "title": "A Neural Network Solves, Grades & Generates University-Level Mathematics Problems by Program Synthesis",
-      "excerpt": "Despite the impressive achievements of deep neural networks (DNNs) in recent years, researchers generally believe these models are still not “intelligent” enough to solve advanced mathematical problems in calculus,",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/",
-      "originalUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/01/04/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-177/amp/",
-      "publishedDateTime": "2022-01-04T07:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

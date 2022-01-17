@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "RTA forum reviews traffic rules of driverless flying taxis in Dubai"
-    excerpt: "DUBAI- Dubai’s Roads and Transport Authority (RTA) has recently held the first legal forum to review the rules and regulations governing operations for passenger transport autonomous air vehicles. This preliminary step aims to chart out suitable structures and develop rules and regulations required for the operation of this ultra-advanced mode of future transportation."
-    publishedDateTime: 2022-01-13T06:31:00Z
-    webUrl: "https://www.zawya.com/mena/en/legal/story/RTA_forum_reviews_traffic_rules_of_driverless_flying_taxis_in_Dubai-WAM20220112142948653/"
-    ampWebUrl: "https://www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/WAM20220112142948653/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 74
-    images:
-      - url: "https://images.zawya.com/images/cia/zAmp/170926082913CCGH.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Dude, Where’s My Driverless Car?"
     excerpt: "When will driverless cars hit the road? While car manufacturers and tech giants are making optimistic predictions about the future of autonomous vehicles, there are many challenges in the way"
     publishedDateTime: 2022-01-13T18:47:00Z
