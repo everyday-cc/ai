@@ -29,35 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "How AI will drive the hybrid work environment"
-    excerpt: "Artificial intelligence has the capacity to vastly improve work-from-home and hybrid work environments. But getting there will not be as simple."
-    publishedDateTime: 2022-01-16T20:15:00Z
-    webUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/"
-    ampWebUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
+  - title: "3 Ways That Artificial Intelligence (AI) Will Change Your Job Forever"
+    excerpt: "Artificial Intelligence is becoming more capable by the day, learning new skills, and with it, changing the jobs and tasks humans will perform in the future. Here we look at how artificial intelligence (AI) will change our jobs forever."
+    publishedDateTime: 2022-01-17T04:27:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/01/17/3-ways-that-artificial-intelligence-ai-will-change-your-job-forever/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 102
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/12/Remote-Work.jpg?w=1200&strip=all"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61e4fde1134e946cf9b0f30d%2F0x0.jpg"
         width: 1200
-        height: 671
-        isCached: true
-  - title: "How the AI-Enabled Worker Will Deliver Better Government in 2022"
-    excerpt: "Looking to 2022 and beyond, we believe this is only the start, and we foresee even more uses for AI in the public sector, as more government institutions find practical applications of AI that ease rote work and deliver better outcomes for the public at large."
-    publishedDateTime: 2022-01-13T14:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/01/how-ai-enabled-worker-will-deliver-better-government-2022/360645/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 37
-    images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2022/01/12/aiNG20220112/open-graph.jpg"
-        width: 400
-        height: 400
+        height: 800
         isCached: true
 
 secured: "hurHJbDwtB1tiCwzwlr4/eGodhcPJJkdUv5EKdnc6epT7SdTVxFVM3D6UOPszT/D5Nfzh3j9OasJuGz2dVoWq8YIldQbhdYIt0fh4eCGECGIRq7gHi6b65ApfcLjpqQd7H2gHiSr4muRdvn8MJOx539BlAnNppTbnbR4GTK5WnQxwFQolqnfTlHwamf/Ds6jPendFoEqejNB1H+frVegwOfWTlfS9KvjS66vqTXuiHMrdvCZ3JUm/J60ZnweaBbrZ6f/toFOrqDm++KoyOdyuNLgHbmuk50jmvf06wjw7xrqjdhoRkg8FcLbVmyHe9oN/XmaUe2dADFtS57Xng8Zm4q7qy5RvJx0/wkIzFbF724=;4BHgor8ePW97dE6vYn29eQ=="

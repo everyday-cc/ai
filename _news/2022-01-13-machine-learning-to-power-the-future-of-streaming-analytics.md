@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "What to expect for data prep and data analytics in 2022"
+    excerpt: "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ..."
+    publishedDateTime: 2022-01-15T00:56:00Z
+    webUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/"
+    ampWebUrl: "https://venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/14/what-to-expect-for-data-prep-and-data-analytics-in-2022/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1312908513-e1642179371829.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Net4 launches video analytics powered by AWS Wavelength"
     excerpt: "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,"
     publishedDateTime: 2022-01-13T12:02:00Z
@@ -41,6 +57,36 @@ related:
         width: 612
         height: 355
         isCached: true
+  - title: "Location Analytics Platform Placer.ai Raises $100M in Series C Round"
+    excerpt: "Placer.ai, a location analytics platform serving companies with data around consumer foot traffic, has raised $100 million in a Series C round."
+    publishedDateTime: 2022-01-13T03:43:00Z
+    webUrl: "https://www.pymnts.com/news/investment-tracker/2022/location-analytics-platform-placer-ai-raises-100m-in-series-c-round/"
+    ampWebUrl: "https://www.pymnts.com/news/investment-tracker/2022/location-analytics-platform-placer-ai-raises-100m-in-series-c-round/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2022/location-analytics-platform-placer-ai-raises-100m-in-series-c-round/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 57
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2022/01/placerai-investment-100m-457x274.jpg"
+        width: 457
+        height: 274
+        isCached: true
+  - title: "AI is leveraging advanced analytics for physical security operations"
+    excerpt: "Enterprise organizations need to move beyond static forensic security mindsets and embrace software as a force multiplier"
+    publishedDateTime: 2022-01-14T18:36:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/article/21253250/ai-is-leveraging-advanced-analytics-for-physical-security-operations"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 54
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/01/GettyImages_1276589384.61e1b2419bc26.png?auto=format&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Sacrificing Some Performance To Make Cloud Data Analytics Portable"
     excerpt: "Amazon Web Services, Microsoft Azure, and Google Cloud – are all addressing the same issues of scale, performance, and economics"
     publishedDateTime: 2022-01-12T19:17:00Z
@@ -56,6 +102,62 @@ related:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/ab_cloud-logo-scaled.jpg"
         width: 2560
         height: 1706
+        isCached: true
+  - title: "How AI, data analytics could help identify insurance fraud"
+    excerpt: "New methods, using artificial intelligence, ease the fraud detection burden and help insurance companies stay one step ahead."
+    publishedDateTime: 2022-01-14T12:32:00Z
+    webUrl: "https://www.dig-in.com/opinion/ai-data-analytics-could-help-identify-insurance-fraud"
+    type: article
+    provider:
+      name: Digital Insurance
+      domain: dig-in.com
+    quality: 37
+    images:
+      - url: "https://arizent.brightspotcdn.com/dims4/default/d15acc7/2147483647/strip/true/crop/3998x2099+0+229/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F09%2F4e%2F1615ed59434bbce101ea51ab318a%2F366275900.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Foot Traffic Analytics Firm Placer.ai Raises $100M At $1B Valuation"
+    excerpt: "Israeli-founded firm Placer.ai provides analysis about foot traffic in retail centers, theme parks, stadiums, and other areas."
+    publishedDateTime: 2022-01-16T00:01:00Z
+    webUrl: "https://nocamels.com/2022/01/foot-placer-ai-analytics-retail/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/high-grass-ge20682a07_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Location analytics startup Placer.ai closes $100M investment at $1B valuation"
+    excerpt: "Startup Placer.ai, which helps retailers analyze foot traffic at their stores to identify opportunities for business growth, today revealed that it has closed a $100 million funding round at a $1 billion valuation."
+    publishedDateTime: 2022-01-12T20:07:00Z
+    webUrl: "https://siliconangle.com/2022/01/12/location-analytics-startup-placer-ai-closes-100m-investment-1b-valuation/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/01/Image-3.png"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Real Estate Industry Gets In On $100M Funding Round For Location Analytics Startup Placer.ai"
+    excerpt: "The funding round included CRE players J.M Schapiro, Eliot Bencuya, Jeff Karsh, Daniel Klein and Majestic Realty."
+    publishedDateTime: 2022-01-12T18:14:00Z
+    webUrl: "https://www.bisnow.com/national/news/commercial-real-estate/placer-ai-1-billion-valuation-111483"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 26
+    images:
+      - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2022%2F01%2F61df0ea382dca-screen-shot-2022-01-12-at-9-22-48-am.png&width=1200&sign=Ax_3TVJGo3Q-8FaTUFp3xmD2AoMdMJycACnWR9LFkb0"
+        width: 1200
+        height: 817
         isCached: true
 
 secured: "l3xR9Wzp24D8Nm8J4UAgtbPW9QOtB4covXYvsG1bGg5ikF8T67y5PR944MiORfj14xcih971aUQ7PBYwahA3M/WnFRJhTDneB+Cv1l/TuOcObVJmh0X39izRnp0TJfTIoTbeQ52l54jQtYfRAVGWIkiNJHOA4BJnxIHn7MbeFc6SXOolvt1msSFtfxUltKlYoqmvw4srtOTsqWIxYknhcc7vsIFVX5Tgy9NykhjJwdN5LUEEjLR2uMua1ZReW7/kCEFFbPYIbB760R0DU4qHxse2JTGqr2KO3eZ1Nb/vVx2cjXnTEPraOfXGgxcKCcoGqNHGnyLi2/t+2aXZJiSZ4bQAQ/lYI6aawldk4C/WwEoazUato3BPLXwENs7zqUQqLEf4cCV88THPje/dX/gZVCAZoPbEov5M1Z+nKdWZkf6Qc2GBESHzHcPwP08WI0uzeZbJDLJ9JpnS2UqPIC++LLX5Xb0C+7IythbqXQJbCEpJ8c7mgJ0CoEMIVl13lqLdtjJD5ZQsfuFBshLnleAWnA==;g/B3aWMzBLBAHBL9+Z0Nxg=="

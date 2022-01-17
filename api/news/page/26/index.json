@@ -2,6 +2,283 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-12-22-face-recognition-is-being-bannedbut-its-still-everywhere.md",
+      "title": "Face Recognition Is Being Banned—but It’s Still Everywhere",
+      "excerpt": "Two dozen cities and states prohibit use of the tech. But it’s on phones and is increasingly used in airports and in banks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
+      "originalUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/61b7bd8612b63df686feb19d/master/pass/yir-jennysharaf-aiface-1192570719.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-banned-but-everywhere/amp",
+      "publishedDateTime": "2021-12-22T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-ethics-at-the-heart-of-emerging-ai-strategies.md",
+      "title": "Ethics at the heart of emerging AI strategies",
+      "excerpt": "But there remain concerns around the rapid spread of AI, and there is an increasing focus on the ethics surrounding the technology.  While AI is forecast to deliver as much as a 10% boost to the UK economy over the next decade,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/ehandbook/Ethics-at-the-heart-of-emerging-AI-strategies",
+      "originalUrl": "https://www.computerweekly.com/ehandbook/Ethics-at-the-heart-of-emerging-AI-strategies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/Cover_Ethic_at_the_heart_of_emerging_AI_strategies.png",
+          "width": 883,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T03:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-can-ai-actually-understand-what-we-are-saying-scientists-are-divided.md",
+      "title": "Can AI actually understand what we are saying? Scientists are divided",
+      "excerpt": "Scientists argue that large language models can teach us about “the nature of language, understanding, intelligence, sociality, and personhood\"",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-understand-what-we-are-saying-scientists-divided-syndication",
+      "originalUrl": "https://thenextweb.com/news/ai-understand-what-we-are-saying-scientists-divided-syndication",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F12%2FBDHedjpg.jpg&signature=a835e3cfd92b6b341294a40ee9c66e9b",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-how-to-use-the-power-of-ai-for-marketing-success.md",
+      "title": "How To Use The Power Of AI For Marketing Success",
+      "excerpt": "Marketing has evolved over the past decades, and we’re now in an era of digital revolution where marketing is completely dependent on consumers who dictate what content they want to receive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c1d51a170ebe018990edc6%2F0x0.jpg",
+          "width": 1161,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2021/12/22/how-to-use-the-power-of-ai-for-marketing-success/amp/",
+      "publishedDateTime": "2021-12-22T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-campuses-law-enforcement-reckon-with-facial-recognition-bans.md",
+      "title": "Campuses, Law Enforcement Reckon with Facial Recognition Bans",
+      "excerpt": "Implementing facial recognition is becoming more cumbersome as an increasing number of cities and states restrict the use of this technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
+      "originalUrl": "https://www.campussafetymagazine.com/news/campuses-law-enforcement-reckon-with-facial-recognition-bans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2021/12/Facial-recogntion-Adobe-by-Fractal-Pictures-scaled.jpeg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-22T02:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Campus Safety Magazine",
+        "domain": "campussafetymagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-the-global-image-recognition-market-stood-at-usd27764-billion-in-2020-and-is-growing-with-a-cagr-of-1759-to-reach-usd73344-billion-by-2026.md",
+      "title": "The global image recognition market stood at USD27.764 billion in 2020 and is growing with a CAGR of 17.59% to reach USD73.344 billion by 2026",
+      "excerpt": "Reportlinker.com announces the release of the report \"Global Image Recognition Market, By Component, By Technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/21/12/g24734672/the-global-image-recognition-market-stood-at-usd27-764-billion-in-2020-and-is-growing-with-a-cagr-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/21/12/g24734672/the-global-image-recognition-market-stood-at-usd27-764-billion-in-2020-and-is-growing-with-a-cagr-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/24734672",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/24734672",
+      "publishedDateTime": "2021-12-22T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-22-cars-are-getting-better-at-driving-themselves-but-you-still-cant-sit-back-and-nap.md",
       "title": "Cars are getting better at driving themselves, but you still can't sit back and nap",
       "excerpt": "\"There are exactly zero self-driving cars available for purchase ... they can have clear safety benefits. Baidu Apollo Robotaxis move on a street in Beijing on May 2. Chinese tech giant Baidu ...",
@@ -823,271 +1100,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-hosting-infrastructure-services-market-size-2021-global-industry-share-top-players-opportunities-and-forecast-to-2029.md",
-      "title": "Hosting Infrastructure Services Market Size 2021 Global Industry Share, Top Players, Opportunities And Forecast To 2029",
-      "excerpt": "The global hosting infrastructure services market is estimated to reach a value of US 12 billion in 2019 up from US 11 billion in 2018 according to a recently published report by Future Market Insights FMI Gains remain underpinned by",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "originalUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
-      "publishedDateTime": "2021-12-21T08:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations.md",
-      "title": "Nanome uses VR to build molecules and reality check AI recommendations",
-      "excerpt": "Chemists can manipulate molecules, watch proteins interact and share their work with colleagues in the virtual reality platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "originalUrl": "https://www.techrepublic.com/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/12/21/8d1dbbcf-b504-4280-bcbb-446527541fbc/resize/1200x/6a99c0ca19d2f3cf1532999ac411c2b1/nanome01.jpg",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/nanome-uses-vr-to-build-molecules-and-reality-check-ai-recommendations/",
-      "publishedDateTime": "2021-12-21T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-introducing-timekettle-wt2-edge-translator-earbuds-with-trending-features-and-specifications.md",
-      "title": "Introducing Timekettle WT2 Edge Translator Earbuds with Trending Features and Specifications",
-      "excerpt": "Founded in 2016, Timekettle Technologies is committed to building a global brand of AI translator ... directional simultaneous translation earbuds with support for 40 languages and 93 accents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/introducing-timekettle-wt2-edge-translator-earbuds-with-trending-features-and-specifications",
-      "originalUrl": "https://www.digitaljournal.com/pr/introducing-timekettle-wt2-edge-translator-earbuds-with-trending-features-and-specifications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/DDD-9-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-the-single-misconception-holding-back-conversational-ai.md",
-      "title": "The Single Misconception Holding Back Conversational AI",
-      "excerpt": "\"The execution of conversational AI has failed to live up to its potential—at least so far.\" Jason Mars explores the single greatest hurdle in the way of conversational AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2021/12/21/the-single-misconception-holding-back-conversational-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F61c20728170ebe018990ee92%2F0x0.jpg",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T07:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-the-global-deep-learning-market-is-projected-to-reach-us605-billion-by-2025.md",
-      "title": "The Global Deep Learning Market is Projected to Reach US$60.5 Billion by 2025",
-      "excerpt": "Deep learning is a division of machine learning that uses layered algorithmic models for analyzing data. The deep learning market is gaining prominence on account of its complex data-driven applications including voice and image recognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
-      "originalUrl": "https://www.analyticsinsight.net/the-global-deep-learning-market-is-projected-to-reach-us60-5-billion-by-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.analyticsinsight.net/wp-content/uploads/2021/12/The-Global-Deep-Learning-Market-is-Projected-to-Reach-US60.5-Billion-by-2025.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics Insight",
-        "domain": "analyticsinsight.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-unique-material-could-further-artificial-intelligence-research.md",
-      "title": "Unique Material Could Further Artificial Intelligence Research",
-      "excerpt": "A unique material, nickel oxide, demonstrates the ability to learn things about its environment in a way that emulates the most basic learning abilities of animals, as my colleagu",
-      "sourceUrl": null,
-      "webUrl": "https://www.manufacturing.net/home/news/21965008/unique-material-could-further-artificial-intelligence-research",
-      "originalUrl": "https://www.manufacturing.net/home/news/21965008/unique-material-could-further-artificial-intelligence-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.manufacturing.net/files/base/indm/multi/image/2021/12/16x9/iStock_1179697528.61c1f2c000c27.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 673,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-21T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Manufacturing",
-        "domain": "manufacturing.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

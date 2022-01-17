@@ -152,6 +152,50 @@
       ]
     },
     {
+      "path": "_news/2022-01-15-cleveland-clinic-microsoft-among-organizations-in-new-healthcare-ai-coalition.md",
+      "title": "Cleveland Clinic, Microsoft among organizations in new healthcare AI coalition",
+      "excerpt": "Microsoft said the Artificial Intelligence Industry Innovation Coalition aims to accelerate the adoption of AI in healthcare. It plans to do so through showcasing new technologies, educating the industry on AI best practices and use cases,",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/cleveland-clinic-microsoft-among-organizations-in-new-healthcare-ai-coalition.html",
+      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/cleveland-clinic-microsoft-among-organizations-in-new-healthcare-ai-coalition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-14T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Hospital Review",
+        "domain": "beckershospitalreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-14-amazon-fixes-security-flaw-in-aws-glue-service.md",
       "title": "Amazon fixes security flaw in AWS Glue service",
       "excerpt": "Amazon Web Services fixes a flaw that could give an attacker access to data of other users on its Glue managed data integration service.",
@@ -1418,49 +1462,6 @@
       "provider": {
         "name": "Cambridge University Press",
         "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-02-covid-is-making-americans-stupid-study-shows-worrying-about-virus-leads-to-people-making-bad-choices-and-performing-poorly-on-simple-cognitive.md",
-      "title": "COVID is making Americans stupid: Study shows worrying about virus leads to people making bad choices and performing poorly on simple cognitive tests",
-      "excerpt": "The basic cognitive abilities measured here are crucial for healthy daily living and decision-making,' said study author and McGill graduate student Kevin da Silva Castanheira in a statement ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-10362429/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-10362429/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/01/02/14/52464417-0-image-a-2_1641135531927.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-10362429/amp/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-10362429/amp/Study-shows-worrying-COVID-leads-bad-choices-performing-poorly-cognitive-tests.html",
-      "publishedDateTime": "2022-01-02T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

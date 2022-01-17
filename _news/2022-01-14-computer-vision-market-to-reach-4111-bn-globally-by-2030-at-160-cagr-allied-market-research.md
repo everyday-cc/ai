@@ -24,22 +24,6 @@ images:
     height: 1046
     isCached: true
 
-related:
-  - title: "Image Recognition Market Expected to reach $86 billion and CAGR of 21.8% by 2025"
-    excerpt: "The global image recognition market was pegged at $17.91 billion in 2017 and is expected to reach $86 billion by 2025, registering a CAGR of 21.8%"
-    publishedDateTime: 2022-01-14T02:39:00Z
-    webUrl: "https://menafn.com/1103537226/Image-Recognition-Market-Expected-to-reach-86-billion-and-CAGR-of-218-by-2025"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?302108"
-        width: 443
-        height: 250
-        isCached: true
-
-secured: "rYqcg4qcZSfT06iwr8hZN6SoNCu9f42VJ4iRhYSf+tIa/qYvS61aDTB+JqcOuJDZx+bb/s3ZXQn18+1ssEx7YZx96ciEAMr30cjY8rPsCl0DfJCNyOrgRmdZ0HCLkWC1BBatIX78Sol5aKXfJJXO7pLfBjIxAz1Df91nxhrJTGGwQ4wiaKTElh9b5WnTIx/WiwasM8t19SBztj/UTAWS88ygUiLpghhxMfMYxI6r1nLJx6I/t3QForXIbUYvDecgdDTrUamwZdN8Mn43XI66yV9f44EltfLHcb9fMfhfkxnKmQIRvV+5qsWUPPNTdm3sEt5GUj9796NxX/HDmAdlyCIbjs3cCZiXd/ysbNrhpzw=;qf13L/M3vSETQUUwxFtAHw=="
+secured: "TakYgshn5lQzRH36OZ6S+dUK3z6s0PTvjUrUVNlhC+KsJHSiv8nXfVFYU1AYMR1Al5EhxPCTAEs9AfjF9gRpapV0lk/yil1OFHtJ/XsY0K10i4VV2sPss0iO4sVjjnzQUrOtbH7cZxytS5zrps4aNqAVnXYXLzXRHLzaMZFtxnA2AEwLjVIQfpKPNPVzfUEF4qSW4opYZ9deJkmIsa15Awb9wMdvrXf3nV0zNKHK94U2yyhu4Zg9mKXsfy1JwKSCPZAiK64ATX5rn7lKY0ITG0vBZD4cAgfWARE5/6nfihJME+qoWl7mPcjpXJkbao3V9huwj+1mC4Xm/oddGiGJjuLOCTsCnQJVKT6KIvX4z/A=;CxBHSmTZGZF2+SKCHFijGw=="
 ---
 

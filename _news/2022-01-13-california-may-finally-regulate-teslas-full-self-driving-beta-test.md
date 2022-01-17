@@ -9,8 +9,8 @@ ampWebUrl: "https://jalopnik.com/california-may-finally-regulate-teslas-full-sel
 cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-may-finally-regulate-teslas-full-self-drivi-1848345132/amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: Jalopnik
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla could be forced to report Full Self-Driving Beta data to DMV after ‘videos showing dangerous use’"
-    excerpt: "Tesla, who managed to avoid reporting autonomous driving data to the DMV, could be forced to open the books on its Full Self-Driving (FSD) Beta to the California DMV after what the latter called “videos showing dangerous use”."
-    publishedDateTime: 2022-01-12T13:20:00Z
-    webUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/"
-    ampWebUrl: "https://electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/01/12/tesla-forced-report-full-self-driving-beta-data-dmv-after-videos-showing-dangerous-use/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 73
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "California’s DMV Reevaluating Stance On Tesla’s Full Self-Driving Beta"
     excerpt: "The DMV had previously considered Tesla's FSD as a Level 2 system, but videos and software updates are forcing a rethink"
     publishedDateTime: 2022-01-12T18:28:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-1024x555.jpg"
         width: 1024
         height: 555
+        isCached: true
+  - title: "Tesla's self-driving software is under scanner in this state"
+    excerpt: "Tesla reportedly avoided state regulatory oversight by telling the Department of Motor Vehicles that its FSD features do not make its cars fully autonomous."
+    publishedDateTime: 2022-01-13T12:06:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state-41642074918728.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/01/13/600x338/TESLA-CALIFORNIA-FSD-0_1642046417398_1642075413072.JPG"
+        width: 600
+        height: 338
         isCached: true
   - title: "California reviews whether Tesla’s self-driving tests require oversight"
     excerpt: "DMV revisiting prior decision that full self-driving is not subject to its regulations on autonomous vehicles"
@@ -105,19 +105,19 @@ related:
         width: 940
         height: 516
         isCached: true
-  - title: "What the Tech: Tesla’s “assertive” self-driving mode could be a recipe for disaster"
-    excerpt: "Tesla has added an \"assertive mode\" to it's Self-Driving Beta, but the last thing we need is aggressive autonomous vehicles on our roads."
-    publishedDateTime: 2022-01-14T18:00:00Z
-    webUrl: "https://recombu.com/general/article/what-the-tech-teslas-assertive-self-driving-mode-could-be-a-recipe-for-disaster"
+  - title: "California reviews whether Tesla's self-driving tests require regulatory oversight"
+    excerpt: "State regulator cites \"videos showing a dangerous use of that technology\" and federal investigations into Tesla vehicle crashes."
+    publishedDateTime: 2022-01-12T21:06:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/teslas-self-driving-tests-might-require-regulatory-oversight-calif"
     type: article
     provider:
-      name: Recombu
-      domain: recombu.com
+      name: Automotive News
+      domain: autonews.com
     quality: 33
     images:
-      - url: "https://recombu-images.imgix.net/app/uploads/2022/01/WTT-59.jpg?fm=pjpg&ixlib=php-3.3.0"
-        width: 940
-        height: 627
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Tesla%20logo%20car%20web_0_1.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "1N276PkPacUuOpY94XvfOCzv3zjDQBLunADX2373rRVZYek+a/N3IKM3fbZ+pjOoD0LlcIKE5+iXK7B6aoeGo7sy8VYHkN1Ru4vL4diE1y4gmXYzdcIdQ94xpwWxVItz+b74LY9d1PhLoBYbBcGM3I7Zptvsy9Jttkvt+k3r0Jjs9nIBGcDcJNoK6FnSfvjnBZo0wYr9HPpdPT6Ao4ShEjD58Pg8wjn4xQaP/tkArnoE+4AbffOt8Zyse8d6jsFJF4nBYn1i/tFj9nzyh1L2/OKzJW+DoS/m8g20viyIOdVZ7J9XdroJCsgaR/6zA9gTB25Z4RRjRaI2B6LAdyAHrI3MDagbCehrun0THIfASYU=;sihwj5M6nj54MUoJtIUIIg=="

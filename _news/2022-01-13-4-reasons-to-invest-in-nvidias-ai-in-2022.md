@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "Top AI Trends to expect in 2022"
+    excerpt: "We live in an AI-driven world. Artificial intelligence (AI) has had a significant impact on the strengthening and transformation of industries all over the world. As we go deeper into a digitally altered society,"
+    publishedDateTime: 2022-01-14T04:37:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/top-ai-trends-to-expect-in-2022/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/top-ai-trends-to-expect-in-2022/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/top-ai-trends-to-expect-in-2022/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
+        isCached: true
   - title: "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI"
     excerpt: "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development"
     publishedDateTime: 2022-01-13T01:49:00Z

@@ -19,6 +19,34 @@ topics:
   - AI
 
 related:
+  - title: "Cleveland Clinic, Microsoft among organizations in new healthcare AI coalition"
+    excerpt: "Microsoft said the Artificial Intelligence Industry Innovation Coalition aims to accelerate the adoption of AI in healthcare. It plans to do so through showcasing new technologies, educating the industry on AI best practices and use cases,"
+    publishedDateTime: 2022-01-14T16:22:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/cleveland-clinic-microsoft-among-organizations-in-new-healthcare-ai-coalition.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 67
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/healthcare-information-technology/8.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI Meeting Assistant isLucid Jumps on Microsoft Teams Corporate Bandwagon"
+    excerpt: "Microsoft loved the idea and signed a new partnership in Europe. This is how Microsoft Teams has landed a new internal app with a unique feature. IsLucid is a smart digital assistant for conference calls that can finally turn our voice to text to tasks in project management systems such as Jira,"
+    publishedDateTime: 2022-01-12T17:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ai-meeting-assistant-islucid-jumps-microsoft-teams-corporate-/2022/01/12/9525238.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 53
+    images:
+      - url: "https://www.prdistribution.com/spirit/uploads/pressreleases/2022/29693421.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New coalition aims to accelerate responsible AI innovation to transform healthcare"
     excerpt: "The Artificial Intelligence Industry Innovation Coalition (AI3C) leverages the collective brainpower, experience and expertise of the Brookings Institution, Cleveland Clinic, Duke Health, Intermountain Healthcare,"
     publishedDateTime: 2022-01-14T00:50:00Z
@@ -32,20 +60,6 @@ related:
       - url: "https://medcitynews.com/uploads/2018/06/GettyImages-865552594.jpg"
         width: 788
         height: 443
-        isCached: true
-  - title: "Smarter, more efficient AI for innovation: my research perspective for 2022"
-    excerpt: "Imagine if this article had been written by a machine. A human would have provided only the title or the introductory question."
-    publishedDateTime: 2022-01-14T17:50:00Z
-    webUrl: "https://www.linkedin.com/pulse/smarter-more-efficient-ai-innovation-my-research-perspective-haas"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQG9h1oBMBVaTQ/article-cover_image-shrink_600_2000/0/1642180355179?e=1648080000&v=beta&t=xZ2Q1JTvDmbVdntQoOwo7S9NO9jY6AnI2mhGn94ePrw"
-        width: 404
-        height: 403
         isCached: true
   - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
     excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."

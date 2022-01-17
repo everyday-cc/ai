@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-wat
 ampWebUrl: "https://www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-ai-beat-the-market-10-stocks-to-watch?amp"
 type: article
-quality: 69
-heat: 89
+quality: 71
+heat: 91
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Finance
 
 related:
   - title: "AI and Marketing: 2022 and Beyond"

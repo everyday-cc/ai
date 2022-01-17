@@ -29,7 +29,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "AI and Marketing: 2022 and Beyond"
     excerpt: "The Future of Artificial Intelligence in Marketing Artificial intelligence has already made significant strides in the realm of self-driving cars, but what role will it play in marketing? A recent sur"
     publishedDateTime: 2022-01-15T01:55:00Z

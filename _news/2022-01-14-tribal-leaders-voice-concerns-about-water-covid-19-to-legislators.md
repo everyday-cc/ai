@@ -71,20 +71,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Leena AI introduces Covid-19 Workplace Response Suite"
-    excerpt: "Leena AI, the company that’s revolutionizing enterprise employee experience, today launched the Covid-19 Workplace Response Suite. The new product helps organizations track and maintain employee vaccination records,"
-    publishedDateTime: 2022-01-12T13:05:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/coronavirus-pandemic-health-768400e893346cf50ad4e6df53cbd394"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Tribal leaders voice concerns about water, voting, COVID-19 to state lawmakers"
     excerpt: "Lewis said that, by coming together as tribal and state leaders, progress was made in a number of other important areas, including transportation to the recognition of traditional regalia during High School graduation ceremonies. “This mutual respect and ..."
     publishedDateTime: 2022-01-13T15:25:00Z

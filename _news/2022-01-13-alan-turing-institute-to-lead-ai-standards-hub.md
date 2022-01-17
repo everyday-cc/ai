@@ -35,7 +35,7 @@ related:
     provider:
       name: Diginomica
       domain: diginomica.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"
         width: 640

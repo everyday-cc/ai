@@ -1,20 +1,27 @@
 ---
 category: news
 title: "Cogniteam’s Nimbus Supports Cloud-Enabled Robot Deployment Powered by NVIDIA Jetson Edge AI Platform"
-excerpt: "Cogniteam integrates NVIDIA Isaac GEMs into Nimbus, streamlining robotics from development to deployment leveraging the NVIDIA Jetson platform"
-publishedDateTime: 2022-01-11T22:13:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/"
-webUrl: "https://www.roboticstomorrow.com/news/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform-/18055/"
+excerpt: "Cogniteam today announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development and deployment platform, allowing cloud-enabled deployments to use NVIDIA technology for the first time."
+publishedDateTime: 2022-01-11T21:47:00Z
+originalUrl: "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/"
+webUrl: "https://insidebigdata.com/2022/01/11/cogniteams-nimbus-supports-cloud-enabled-robot-deployment-powered-by-nvidia-jetson-edge-ai-platform/"
 type: article
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: insidebigdata.com
+  domain: insidebigdata.com
 
 topics:
-  - AI in Robotics
+  - AI Hardware
   - AI
+  - AI in Robotics
 
-secured: "TjVhHlBIdbBsuiRMl8hYMS0CGIGqzpWv1Wl9LB5ggz06/Y+lFGrcwL/oIVJkNtBqaItjhPpQ/WELNQrQ2pIOYE8sdl95v/R44hOHNs3T+R6dklbi5onOB6jVjOc24Y/HB2jAmFdltKe96htAwLPd043v0i5+nageGiNgaTBmXInwu3jFhb6UzET2z/b6LCCEr2ddE/MAWIUHBGzOp046QWORuKRO78R0N3YZxVXe1H/Nn1aIB9c4yp3VYqx+DeoUXCwWQK3fAOSKdsblsFHMUzdLFTSJfRdrP0PSXYZUubJ5ZXcZRpoRJJt1eqgwNqdUUuhjVzmhFK0rm8Z1FgL4SDFKb8u5J6fRbn7SG66Hkj8=;R6O9xfww+m5t0QLVOw8AqQ=="
+images:
+  - url: "https://insidebigdata.com/wp-content/uploads/2022/01/Cogniteam_Nimbus-Screenshot.jpeg"
+    width: 700
+    height: 390
+    isCached: true
+
+secured: "sMmaAjpStWC02FPvE0RXzaKtsIC/R2EkWvXkf75QxzhIbcE8fIjOkxrXu/2qOKUD8rwYI2dKfRHHQc3Pc0VhBMtnLD6uMUCH/V68sekMn9axMYYFrYYbn3UZUwaj8abN4FG3odY5wZgzkHkDgXiJMlW4duVjQj5ctReC2qdbfPFvBhey+fy2qkcka2O8hzT+3eO2wVhyPdZnvB8Rg9Hf/qRHNFKMIgN9aFtYbk6BzolLHFUhJzWOX8n8oVT1Ws5oeCceBEDMiwDndQXDiW3X0GVH9GnqG5QwMBz5sJCGUvjIzofi7af55HHs1KC4n2qj6gf/9l3cTSjHa1OHu7X3VNP8ylwpPmS2LX/zBNNXCDQ=;VkZe8cWwKyQ6t4Z8lTC6KQ=="
 ---
 

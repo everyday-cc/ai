@@ -26,17 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Trade Could Roar Back in 2022"
-    excerpt: "Artificial intelligence (AI) is one of the premier disruptive technologies, but that status didn't prevent some AI equities from sliding alongside other innovative growth fare in 2021. However, it wasn't an entirely lost year for AI investors,"
-    publishedDateTime: 2022-01-12T14:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022"
-    ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-trade-could-roar-back-in-2022?amp"
+  - title: "4 Reasons to Invest in Nvidia's AI in 2022"
+    excerpt: "This is where the AI part comes in, a few years ago, when researchers were trying to build the first AI models that really worked, technology had not caught up with the idea yet. We needed massive lakes of data and we needed processors that could move that data around."
+    publishedDateTime: 2022-01-13T14:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?time=1642082401"
+    ampWebUrl: "https://www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-reasons-to-invest-in-nvidias-ai-in-2022?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Cogniteam’s Nimbus Supports Cloud-based Robot with NVIDIA Jetson Edge AI"
+    excerpt: "Cogniteam on Wednesday announced it is supporting the NVIDIA Jetson edge AI platform into its cloud-based robotics development"
+    publishedDateTime: 2022-01-13T01:49:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/22443-cogniteam-s-nimbus-supports-cloud-based-robot-with-nvidia-jetson-edge-ai"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 55
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/7827149b6074de43d8f06fef9ab86bcb.jpg?t=20220113_014842"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "nanHp05Z8kbRvMD5PgBurrbFR8F5NH9NmN1jw0JabNpZ5+7XSNbCQHLKMwtpb4Vq45Y/xAeIzE79nCYfHultDpKoODN+2YRbS3yF2IT8HrfDwIYg2VKwNB9JSfMY4tcfSOAayLvthT247SYjW04QCmh2RjAXg6Jq/XIjsrhfrUxQis43T2rVdShG3GXBHLyrrd4dTlLdpujhloSNJ3L2xE0FPHA38m/DuiETARf/sVnB9AKrbix6DdPQvj77HLADQ2yF5maZQuCQjodnr2pv1iXB6vY/xV0AfZAv7ffIED11Shdc5qz+0rTup2SYgzoXYT+whOQdvNqJwLxB/sfa/OSkFSqwMvaj33E3tWWgUIU=;6//RptM6NHFWqMEkfPIU6w=="
 ---

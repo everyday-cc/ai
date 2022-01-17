@@ -56,20 +56,6 @@ related:
         width: 400
         height: 247
         isCached: true
-  - title: "Zoom Invests In Israeli AI-Powered Sales Coaching Solution"
-    excerpt: "Second Nature offers a software platform for immersive sales simulations in natural language with an AI conversation partner called 'Jenny.'"
-    publishedDateTime: 2022-01-12T13:49:00Z
-    webUrl: "https://nocamels.com/2022/01/zoom-sales-coaching-second-nature/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/second.jpg"
-        width: 1200
-        height: 841
-        isCached: true
   - title: "The Army Invests in Artificial Intelligence for Next Generation Combat Vehicles"
     excerpt: "Predictive maintenance, long-range precision fires, and the Next Generation Combat Vehicle are primary focuses of the U.S. Army Artificial Intelligence (AI) task force. Kris Osborn at Warrior Maven reports."
     publishedDateTime: 2022-01-13T13:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/16/how-ai-will-drive-the-hybrid-work-environment/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI will change the future of marketing"
-    excerpt: "We are in now 2022 and the future will be going to adopt more advanced technologies like AI, Metaverse, Cloud Computing and many more. Already many companies like Facebook, Amazon, Flipkart and Google already adopted AI-powered tools."
-    publishedDateTime: 2022-01-15T06:44:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-ai-change-future-marketing-bidhan-senapati"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 54
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQEk4sCiITbWcw/article-cover_image-shrink_720_1280/0/1642228820551?e=1648080000&v=beta&t=Ose0Ywrx9C2kD50VcX8d3AMhIZExyVpp5Fj3dkhbb4E"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How the AI-Enabled Worker Will Deliver Better Government in 2022"
     excerpt: "Looking to 2022 and beyond, we believe this is only the start, and we foresee even more uses for AI in the public sector, as more government institutions find practical applications of AI that ease rote work and deliver better outcomes for the public at large."
     publishedDateTime: 2022-01-13T14:00:00Z

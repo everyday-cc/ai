@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Sense and Sensitivity in self-driving cars"
+    excerpt: "The eco-system in India for self-driving technology is flourishing, with innovation occurring at every level including sensor technology."
+    publishedDateTime: 2022-01-17T04:51:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/sense-and-sensitivity-in-self-driving-cars/article38280953.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/sense-and-sensitivity-in-self-driving-cars/article38280953.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/sense-and-sensitivity-in-self-driving-cars/article38280953.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://www.thehindu.com/sci-tech/technology/5cpt16/article38280952.ece/ALTERNATES/LANDSCAPE_615/TH-----GENERAL-MOTORS-DRIVERLESS-CAR"
+        width: 615
+        height: 384
+        isCached: true
 
 secured: "AQW3ywv9nruRlZqX08uSg2teVzPyUhTPWjR73Q+2ng7gA8nXCFtjpn2EMswq+J5HQ8cJBMrNSEAX3FnCw7A4v629ERUbC/58IOBYMFQHHeIlRvp3Ic6IAHGYikKlOIQf1Ik7Sxj/yR6R0ydSQja68ET9K2VerqCIXkJRUnMkKuGQi3Kw2eXo3oFh2kIMXtw8gK5e2KKhRleBviWqe3uIwvOLtUOeGulax+bkUUvxTXTL1qnN0mlWGncQ9+pblj+DatcGpvMXFOHE8ePsGO7qmr504I7F0e7CJLjzFTEH/EC1k8+62IeS2H7XLItYgRtsqjQHuwZ0/nk+H+pzPIlt/ACafUy8KNvkJz1cRFEn58/67DmKt7JQ3oKn3kR+dUrJo2sSC63x+XeDlm752IHlBHtVhQdJ0JPELrh2POLzgbvaFtgT57dR8TjRD6jEkb+pyTHAiLqWDeBOtNDvoADn6yig9nE47UF4bT7PYpiL5SL6xXH2rbCqlrsyGG9moEXIzxSYpReWMe7H4+aiplrSlg==;5G4c/whokln8vdmfvOuCVg=="
 ---

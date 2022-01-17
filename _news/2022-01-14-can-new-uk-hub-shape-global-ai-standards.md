@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards"
 ampWebUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
 type: article
-quality: 59
-heat: 89
+quality: 61
+heat: 91
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Finance
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2019-11/AAE94690-8272-4B0C-B0F8-0BD74D98E409.jpeg"

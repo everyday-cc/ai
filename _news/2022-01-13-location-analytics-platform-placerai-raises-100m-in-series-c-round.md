@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Placer.ai, a location analytics startup, finds $100M at a $1B valuation"
-    excerpt: "Many of us are moving around these days a lot less than we used to — because of Covid, we’re working from home instead of an office; and we are traveling and going out less. Now, as we shift back into more “normal” behavior,"
-    publishedDateTime: 2022-01-12T13:08:00Z
-    webUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/"
-    ampWebUrl: "https://techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/01/12/placer-ai-a-location-analytics-startup-finds-100m-at-a-1b-valuation/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 187
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-76530606.jpg?w=1024"
-        width: 1024
-        height: 680
-        isCached: true
   - title: "What to expect for data prep and data analytics in 2022"
     excerpt: "general manager of IBM AI Applications in the announcement. In the future, IBM intends to integrate Envizi with some of its existing solutions including IBM Maximo, IBM sterling, IBM Environmental ..."
     publishedDateTime: 2022-01-15T00:56:00Z
@@ -58,6 +42,22 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Net4 launches video analytics powered by AWS Wavelength"
+    excerpt: "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,"
+    publishedDateTime: 2022-01-13T12:02:00Z
+    webUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
+    ampWebUrl: "https://www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
+    cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 59
+    images:
+      - url: "https://security-img.scdn6.secure.raxcdn.com/img/news/612/identity-and-access-management-key-to-how-companies-secure-assets-in-2022-920x533.jpg"
+        width: 612
+        height: 355
+        isCached: true
   - title: "AI is leveraging advanced analytics for physical security operations"
     excerpt: "Enterprise organizations need to move beyond static forensic security mindsets and embrace software as a force multiplier"
     publishedDateTime: 2022-01-14T18:36:00Z
@@ -72,17 +72,36 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Location data firm Placer.ai hits unicorn status with $100M Series C"
-    excerpt: "Placer.ai hits unicorn status with $100 million Series C, planning to double its headcount and expand its data offerings to new clients."
-    publishedDateTime: 2022-01-12T17:00:00Z
-    webUrl: "https://therealdeal.com/miami/2022/01/12/location-data-firm-placer-ai-hits-unicorn-status-with-100m-series-c/"
-    ampWebUrl: "https://therealdeal.com/miami/2022/01/12/location-data-firm-placer-ai-hits-unicorn-status-with-100m-series-c/amp/"
-    cdnAmpWebUrl: "https://therealdeal-com.cdn.ampproject.org/c/s/therealdeal.com/miami/2022/01/12/location-data-firm-placer-ai-hits-unicorn-status-with-100m-series-c/amp/"
+  - title: "Sacrificing Some Performance To Make Cloud Data Analytics Portable"
+    excerpt: "Amazon Web Services, Microsoft Azure, and Google Cloud – are all addressing the same issues of scale, performance, and economics"
+    publishedDateTime: 2022-01-12T19:17:00Z
+    webUrl: "https://www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/"
+    ampWebUrl: "https://www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/01/12/sacrificing-some-performance-to-make-cloud-data-analytics-portable/amp/"
     type: article
     provider:
-      name: The Real Deal
-      domain: therealdeal.com
-    quality: 37
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 44
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2019/11/ab_cloud-logo-scaled.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
+  - title: "Machine Learning to Power the Future of Streaming Analytics"
+    excerpt: "The incredible amount of data that will be generated in the next few years demands help to manage, mostly in the form of machine learning algorithms."
+    publishedDateTime: 2022-01-13T10:15:00Z
+    webUrl: "https://tdwi.org/articles/2022/01/13/adv-all-machine-learning-to-power-the-future-of-streaming-analytics.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 39
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/machinelearning4.jpg"
+        width: 976
+        height: 400
+        isCached: true
   - title: "How AI, data analytics could help identify insurance fraud"
     excerpt: "New methods, using artificial intelligence, ease the fraud detection burden and help insurance companies stay one step ahead."
     publishedDateTime: 2022-01-14T12:32:00Z
@@ -110,20 +129,6 @@ related:
       - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/high-grass-ge20682a07_1280.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "The Briefing: TravelPerk Picks Up $115M, Placer.ai Lands $100M, And More"
-    excerpt: "Placer.ai, developer of software for tracking and analyzing retail foot traffic, raised $100 million in fresh funding round led by Product Hunt CEO Josh Buckley at a reported valuation of over $1 billion."
-    publishedDateTime: 2022-01-12T14:04:00Z
-    webUrl: "https://news.crunchbase.com/news/briefing-1-12-22/"
-    type: article
-    provider:
-      name: crunchbase
-      domain: crunchbase.com
-    quality: 36
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2021/09/The_Briefing-rs.jpg"
-        width: 900
-        height: 506
         isCached: true
   - title: "Location analytics startup Placer.ai closes $100M investment at $1B valuation"
     excerpt: "Startup Placer.ai, which helps retailers analyze foot traffic at their stores to identify opportunities for business growth, today revealed that it has closed a $100 million funding round at a $1 billion valuation."

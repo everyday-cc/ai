@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-was-my-pitch-jen
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-was-my-pitch-jenny-zooms-venture-fund-invests-in-conversational-ai-platform/"
 type: article
 quality: 83
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1725799/VeriSIM.jpg"
         width: 400
         height: 247
-        isCached: true
-  - title: "Zoom Invests In Israeli AI-Powered Sales Coaching Solution"
-    excerpt: "Second Nature offers a software platform for immersive sales simulations in natural language with an AI conversation partner called 'Jenny.'"
-    publishedDateTime: 2022-01-12T13:49:00Z
-    webUrl: "https://nocamels.com/2022/01/zoom-sales-coaching-second-nature/"
-    type: article
-    provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
-    quality: 54
-    images:
-      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/01/second.jpg"
-        width: 1200
-        height: 841
         isCached: true
   - title: "Conversational AI platform Orai raises Rs 6.5 cr in pre-Series A round led by Inflection Point Ventures"
     excerpt: "Conversational AI platform Orai has announced it has raised Rs 6.5 crore in a pre-Series A round led by Inflection Point Ventures, angel investment platform. The funds raised will be utilised in expansion in sales and marketing,"

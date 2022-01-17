@@ -15,6 +15,8 @@ topics:
   - AI in Healthcare
   - AI
   - AI Hardware
+  - Natural Language Processing
+  - AI in Robotics
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/e/79/e79888c9-ebc6-5414-a76f-bf7b0ade2200/61e13cad38317.image.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize"
@@ -22,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "eMoNHS3L4lY00uBwn7XS6nKXxfkPg66bj/oEoqrKzWyjbzpPHhg1mlWpOHbLkpn0hJaOscr7LrLN3Kwzs//bkrObYl5UCNWefKqWo/vaHAMzlQc5c3z19MQhP7a0ySiAzjaGYfybOs0jdlZePKez48uo9km4xozNsp5pGWCPZkba4ebgCgixfJV08bJA+2ejWmOM8oRRT30MR1n2dHYkQOCT2/ul1OP+p9W6j+qcbyGJmqhnf7RYJXs9cDzVVHjAydHppprb8sP8aCVjNYOujjzgHYtoK9buW8J7KdM83ZiA/U2+lRVAwyPG62kDB0YsTZc04+MrFJ8M4cnOcK80DGSygeLAAOGls+J+mSSuSkU=;oVIgF+JAgb2ZheNGmQbJXg=="
+secured: "b4oqEBTU5QUG3JrmArzDL/+oJawwio66NKNggf6xS3vNSQ7rUEk/L+QZaighCh4BEQnnsqluIUSvXPvCIFi1VdMWHSNDzJ1PvxuT/pX3UabSvIKXyeL3ubKpQ4rrJEqhD4FJDrH7fSPdCRvxIRaI1nNiP4CTLjFF8XDe4XfkH2ca5FPLa6b+PzppGay8aeupefbno3yh+OSfKDEIiNrDOzGj88STIgyhF741+3JpBSjUf6dE47A2W239MzuuELju0I+YxH6E7/5DRmN/lmKqhyb7IB1PjYat4BkXJuXXMcAk5qSyj+GMIDBTsa6DGSHN/9mHfRccDGzo+Ov/2IXLh99F8JLejnEop1RR6G6l1VlmzEjXC0UV05/rsNvrRRQP+yi9ep8/jWh7HWHiLYirSNnRGvs9jHv4vQLaYyc42DyaPkEJv+NCCa7kDNtKFuIX00U190z3/Ebfytn5HLH1gI8iYYwwqg5osR8MPqk7bmbokn6yncl4naMaG1ytyDk5og8R5eDP1+XFTCowtD2lKQ==;kmmQW3NEb6ywdHZofCxUXg=="
 ---
 

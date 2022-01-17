@@ -39,7 +39,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "Speech Analytics Market worth $4.5 billion by 2026 - Exclusive Report by MarketsandMarkets™"
     excerpt: "According to a research report \" Speech Analytics Market by Component (Solutions and Services), Application (Risk & Compliance Management, Sentiment Analysis), Organization Size, Deployment Mode (Cloud,"
     publishedDateTime: 2022-01-13T14:33:00Z
