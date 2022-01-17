@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How artificial intelligence could influence hospital triage"
-    excerpt: "As the latest virus surge swamps hospitals, researchers consider the role machine learning could play in making decisions about care."
-    publishedDateTime: 2022-01-12T19:00:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2022/01/GettyImages-1229667700.png?fit=740%2C416"
-        width: 739
-        height: 416
-        isCached: true
   - title: "3 Vectors of Artificial Intelligence and Machine Learning"
     excerpt: "The New Stack Shorts covers three areas that are reshaping business processes and environments - from the intelligent applications that embed AI/ML and take advantage of data, and the system of enablers that allow them to reach scale to the chips that power them."
     publishedDateTime: 2022-01-13T15:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.beckershospitalreview.com/healthcare-information-techn
 webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/cleveland-clinic-microsoft-among-organizations-in-new-healthcare-ai-coalition.html"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Meeting Assistant isLucid Jumps on Microsoft Teams Corporate Bandwagon"
-    excerpt: "Microsoft loved the idea and signed a new partnership in Europe. This is how Microsoft Teams has landed a new internal app with a unique feature. IsLucid is a smart digital assistant for conference calls that can finally turn our voice to text to tasks in project management systems such as Jira,"
-    publishedDateTime: 2022-01-12T17:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-meeting-assistant-islucid-jumps-microsoft-teams-corporate-/2022/01/12/9525238.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 53
-    images:
-      - url: "https://www.prdistribution.com/spirit/uploads/pressreleases/2022/29693421.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "New coalition aims to accelerate responsible AI innovation to transform healthcare"
     excerpt: "The Artificial Intelligence Industry Innovation Coalition (AI3C) leverages the collective brainpower, experience and expertise of the Brookings Institution, Cleveland Clinic, Duke Health, Intermountain Healthcare,"
     publishedDateTime: 2022-01-14T00:50:00Z

@@ -2,6 +2,94 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-12-29-indias-airtel-tcs-tap-robotics-to-build-5g-based-units.md",
+      "title": "India's Airtel, TCS tap robotics to build 5G-based units",
+      "excerpt": "Indian telecom operator Bharti Airtel and IT giant Tata Consultancy Services (TCS) have joined hands to build a 5G-based remote working technology using robotics. Both the companies are currently running the trials in Airtel's 5G lab at Manesar,",
+      "sourceUrl": null,
+      "webUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
+      "originalUrl": "https://developingtelecoms.com/telecom-technology/enterprise-ecosystems/12596-india-s-airtel-tcs-tap-robotics-to-build-5g-based-units.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.developingtelecoms.com/images/stories/Places/India_-_train_journey.jpg",
+          "width": 600,
+          "height": 449,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-28T21:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "developingtelecoms.com",
+        "domain": "developingtelecoms.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2021-12-29-mcdonalds-moves-closer-to-robot-drive-through-lanes.md",
+      "title": "McDonald's Moves Closer to Robot Drive-Through Lanes",
+      "excerpt": "McDonald's With a Side of IBM Watson IBM acquired McDonald's McD Tech ... Moving forward, IBM’s expertise in building customer care solutions with AI and natural language processing will help ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
+      "originalUrl": "https://www.thestreet.com/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgxMjQxNDgzNDU2Njg1NDE2/theranos_holmes_1_052421.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/mcdonalds-moves-closer-to-robot-drive-through-lanes",
+      "publishedDateTime": "2021-12-28T19:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2021-12-29-china-unveils-five-year-plan-for-robotics.md",
       "title": "China unveils five-year plan for robotics",
       "excerpt": "The five-year plan details the overarching goal of making China a key source of global robotics innovation by 2025.",
@@ -1063,92 +1151,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-india-must-remain-practical-amid-politics-around-killer-robots.md",
-      "title": "India Must Remain Practical Amid Politics Around ‘Killer Robots’",
-      "excerpt": "Lethal Autonomous Weapons are systems that make their own decisions on who to kill, thus raising ethical questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thequint.com/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
-      "originalUrl": "https://www.thequint.com/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thequint.com/thequint%2F2021-12%2F4a9b2ee4-42be-463d-a970-7e5d06ef108d%2Fhero_image_4__2_.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thequint.com/amp/story/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
-      "cdnAmpWebUrl": "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/voices/opinion/india-must-take-a-practical-approach-amid-politics-around-killer-robots",
-      "publishedDateTime": "2021-12-27T19:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Quint",
-        "domain": "thequint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-28-more-chinese-automakers-collaborating-on-evs-avs.md",
-      "title": "More Chinese automakers collaborating on EVs, AVs",
-      "excerpt": "More Chinese carmakers and tech companies are working together to get ahead in EVs and AVs as the world pushes towards greener vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
-      "originalUrl": "https://techwireasia.com/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2021/12/000_9NK3DU-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2021/12/more-chinese-automakers-collaborating-on-evs-avs/",
-      "publishedDateTime": "2021-12-27T19:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

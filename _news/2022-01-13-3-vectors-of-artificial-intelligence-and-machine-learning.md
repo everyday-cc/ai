@@ -58,22 +58,6 @@ related:
         width: 1800
         height: 1013
         isCached: true
-  - title: "How artificial intelligence could influence hospital triage"
-    excerpt: "As the latest virus surge swamps hospitals, researchers consider the role machine learning could play in making decisions about care."
-    publishedDateTime: 2022-01-12T19:00:00Z
-    webUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage/"
-    ampWebUrl: "https://www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
-    cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/shows/marketplace-tech/how-artificial-intelligence-could-influence-hospital-triage?amp"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 59
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2022/01/GettyImages-1229667700.png?fit=740%2C416"
-        width: 739
-        height: 416
-        isCached: true
 
 secured: "LSAP+zt5lAQ4+wjafdqV/NCdg9Fvb41Q5T2IlxjrQCleRXf140j/QKNs4oe+Hk64KQ6eBX9zmUDlpsQIrK4TVJbueZ9Za0qDu7mJW73SpNZywzchzLEoy0cfhdpfe18aN9ZMVIp+CgG/P3BGgsmitsZenxGXDyuCChfFQfzf9pOlaFJoQP1kDt6sberKka0yLOV7Mx7ejlMBwPmERb8ts5ukGswzbQHgJOlFQw3l4KxuRol7yeucflTnjFlQW0wgwrWbW60WP+xY/qyQgyJBPwKboOr09HpyH1Y7ffniRiqIU2Am1WBy5pHykbrBYXJdAt/cXXeLTQbggqWvMVWnP34e3FiyJ5bM0WzAgaguZ7BJ0YVIOtaPiGmhN9Ndy2/LkDn7q6WLj4kxd2wcTUIknJzNnu34ga0JzrH4Saj6h4WWP3WZdapiFTSuelDPmlh4PkcJCzJ1JKgsco1qQL7HOy3o3oVfgtKhjhQJa2uUMRSHEnAzEeBDZyG02y/UlfSLfp7+3T4o1Oww2woRmlzHNg==;3ZJhMeOIOeodGjuaOEKR3g=="
 ---

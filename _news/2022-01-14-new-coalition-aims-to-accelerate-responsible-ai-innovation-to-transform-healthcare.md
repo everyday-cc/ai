@@ -39,20 +39,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "AI Meeting Assistant isLucid Jumps on Microsoft Teams Corporate Bandwagon"
-    excerpt: "Microsoft loved the idea and signed a new partnership in Europe. This is how Microsoft Teams has landed a new internal app with a unique feature. IsLucid is a smart digital assistant for conference calls that can finally turn our voice to text to tasks in project management systems such as Jira,"
-    publishedDateTime: 2022-01-12T17:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-meeting-assistant-islucid-jumps-microsoft-teams-corporate-/2022/01/12/9525238.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 53
-    images:
-      - url: "https://www.prdistribution.com/spirit/uploads/pressreleases/2022/29693421.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Leaders across healthcare, academia and technology form new coalition to transform healthcare journey through responsible AI adoption"
     excerpt: "On Thursday, leading public, private, educational and research organizations across the U.S. healthcare and life sciences industries announced the formation of the Artificial Intelligence Industry Innovation Coalition (AI3C)."
     publishedDateTime: 2022-01-13T16:13:00Z

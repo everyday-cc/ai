@@ -145,20 +145,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Real Estate Industry Gets In On $100M Funding Round For Location Analytics Startup Placer.ai"
-    excerpt: "The funding round included CRE players J.M Schapiro, Eliot Bencuya, Jeff Karsh, Daniel Klein and Majestic Realty."
-    publishedDateTime: 2022-01-12T18:14:00Z
-    webUrl: "https://www.bisnow.com/national/news/commercial-real-estate/placer-ai-1-billion-valuation-111483"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 26
-    images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2022%2F01%2F61df0ea382dca-screen-shot-2022-01-12-at-9-22-48-am.png&width=1200&sign=Ax_3TVJGo3Q-8FaTUFp3xmD2AoMdMJycACnWR9LFkb0"
-        width: 1200
-        height: 817
-        isCached: true
 
 secured: "z8TYwLfvpmwAu+/OqbbV/mHdgDZuphOPLygQMzb4WpESvjU2qr90wtCHMIyKOKVmJ4TUIWtG23K52JwkGrViUx8uANhHnnJouPv4/TXR4XUV77rJtOMw45r/ToedLUEhb2J0UL0fF7goM78vSjt990e6iLS1bexr7TuuqvOC/DKkZWEl6ES64rcch7ev0KEi2LezGPp9rB3hXOkJCoB0ZG8H8wNTjyF3XgeVDzYkBO2von02eDbKUgwlGzVaHA7c2XNgLtirT6ba4+MX+CLRMZdugXAk6TjQlHzMuKHTV/T1RPchbfZUHdZxrAs+j9vbISAyhe3N9ok+OwVCmigGOWTG3tyqw9dxz4rI3m91BM8rk95il6fH2lk77RQAgjiHrIIahjpWsCQP7UamAES0jyPLbxG60hn4xXm0KbjP34fITYYqg7RWsPz+ywArpW7eXYeyj3c8S1/btT8PpURNuB3qMtQz8DJEt2Y9afXoeTM1WhXpqYSycYuoRpjYGol+ShIM9vpvmFGL9dPyjTqF6g==;459zmbAKgL1y5YCXaYzsAw=="
 ---

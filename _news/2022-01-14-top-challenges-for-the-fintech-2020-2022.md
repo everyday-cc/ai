@@ -87,6 +87,20 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "The Fintech Digital Revolution Will Continue in 2022"
+    excerpt: "The Fundamentals of Fintech Tackling the Security Issues For the Future E-Book $12.95 ORDER- Call +1 888 857 9203 +2348133877820 meritgroupinternational@yahoo."
+    publishedDateTime: 2022-01-17T09:35:00Z
+    webUrl: "https://www.linkedin.com/pulse/fintech-digital-revolution-continue-2022-akintayo-joda"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGKOimwmNACFA/article-cover_image-shrink_600_2000/0/1642411919611?e=1648080000&v=beta&t=7AKEop4kRCWyDlqRVN6TIg658ElusU9uekw2RWiehs0"
+        width: 750
+        height: 554
+        isCached: true
   - title: "Road to 2022: Setting up an AI-Automation consumer service model to keep up with the FinTech advancements"
     excerpt: "Shefali Khalsa explains how setting up AI-Automation consumer service model can help keep up with the fintech advancements in the industry."
     publishedDateTime: 2022-01-13T10:25:00Z

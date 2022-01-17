@@ -9,8 +9,8 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/teslas-self-driving-softwa
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/teslas-self-driving-software-is-under-scanner-in-this-state/amp-41642074918728.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "California’s DMV Reevaluating Stance On Tesla’s Full Self-Driving Beta"
-    excerpt: "The DMV had previously considered Tesla's FSD as a Level 2 system, but videos and software updates are forcing a rethink"
-    publishedDateTime: 2022-01-12T18:28:00Z
-    webUrl: "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/"
-    ampWebUrl: "https://www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/01/california-dmv-reevaluating-stance-on-teslas-self-driving/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 59
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/10/Tesla-Full-Self-Driving-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "California reviews whether Tesla’s self-driving tests require oversight"
     excerpt: "DMV revisiting prior decision that full self-driving is not subject to its regulations on autonomous vehicles"
     publishedDateTime: 2022-01-13T16:13:00Z

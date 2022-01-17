@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Computer Vision in Healthcare Market: Qualitative Analysis, Quantitative Analysis, Forecast up to 2030"
-excerpt: "The global Computer Vision in Healthcare market is segregated on the basis of Product & Service as Software, Hardware, and Networks. The Global Computer Vision in Healthcare Market is expected to be around US$ 416 Billion by 2025 at a CAGR of 21."
-publishedDateTime: 2022-01-11T03:47:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/01/24988482/computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030"
-webUrl: "https://www.benzinga.com/pressreleases/22/01/24988482/computer-vision-in-healthcare-market-qualitative-analysis-quantitative-analysis-forecast-up-to-2030"
+excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Jan 11, 2022, 04:47 /Comserve / -- The global Computer Vision in Healthcare market is segregated on the basis of Product & Service as Software, Hardware ..."
+publishedDateTime: 2022-01-11T10:40:00Z
+originalUrl: "https://menafn.com/1103519871/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030"
+webUrl: "https://menafn.com/1103519871/Computer-Vision-in-Healthcare-Market-Qualitative-Analysis-Quantitative-Analysis-Forecast-up-to-2030"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Computer Vision
@@ -17,11 +17,11 @@ topics:
   - AI in Healthcare
 
 images:
-  - url: "https://cdn.benzinga.com/files/imagecache/og_image_social_share_1200x630/sites/all/themes/bz2/images/bz-icon.png"
-    width: 1200
-    height: 630
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?513748"
+    width: 376
+    height: 250
     isCached: true
 
-secured: "T1h3gy27EpyZqCaq2+lCWXC7bTCKZtxInTwMa2jc/YuQe4bzlm+XipLxSUYssaEBcngj3H2tLAIIoGz5ImZm849DJE+p8OXkqkYM1AAhlnF5jv5jLWmLaPHqBTcXAj6Ti7aDYDn+rZBIAgs+12hiQ4YA8hMbzl++f58AZpEj0pKmj0CCJyzyCKuSu86WEnpN1vJCf7rk63NBTkKdH61EW5pt2vPQu7GhlgMAab6bRQqiDcj0byye+9n1hxcAX3zhgtbTkBzPBj15MK1M6mWeoqDC6WzeCXLRbZY6Ngn32NOqxUK8KuwtZOgcUaIHPlO/c+qwdj7YlM7dVbLug3eDtejBe0HVaFX2+RRva0ZUmc8=;qhpGAgiRyjtL59rqWhDwow=="
+secured: "Mi/uDebgqTCUH3wXgy/9U2e5cAf8mM325m6KUsQ0zrQFpNpjrSDPV1JLV0NSwiei1ZUpD2zwCSmYPKFfLdBeonjU1D3SEVOJX2UCJj03kOzd02voSTTG0WUs6klqxcC4mSUO1nBCNuk/Ks+53GTEmnpGQPBM1Wx9ZKmTSTfml0u7UKeEPvqxxA2+XiuxVRxc6SgBpHesSLZ68P21vC5xR7+g4UlpbqHGp1oExc1x74LONL48uMppkqIRL9BSYHNbCEfMTzoCsTFzXbD1aI/Z2s8TJ0ZaJJfe987TO5vYKaUvhKF6cPTAnwtt1j0CNHrdD3Xmimf9/AavRMMaq6qcmf2rnTYXAjKR9ogdylrCak4=;LDp/mgaIouMH871kLAzEWQ=="
 ---
 

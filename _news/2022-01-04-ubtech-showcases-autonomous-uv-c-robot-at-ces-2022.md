@@ -2,25 +2,25 @@
 category: news
 title: "UBTECH Showcases Autonomous UV-C Robot at CES 2022"
 excerpt: "UBTECH Robotics, a global leader in intelligent humanoid robotics and AI technologies, today announced the market availability of the newest addition to its portfolio of humanoid robots at CES 2022: ADIBOT-A,"
-publishedDateTime: 2022-01-04T11:13:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/ubtech-showcases-autonomous-uv-c-robot-at-ces-2022/article_44b819cb-3c4d-5371-b66a-6c997447ecb2.html"
+publishedDateTime: 2022-01-04T12:13:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484"
+webUrl: "https://apnews.com/press-release/business-wire/coronavirus-pandemic-technology-health-robotics-5d618fe4711b4ad4867fa34097904484"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/c/1f/c1f2828a-b1d4-5233-9a08-059a0959b0f0/61d43b2513baa.image.jpg?resize=400%2C510"
-    width: 400
-    height: 510
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Z3u3zSraURm3lBvwKB5vjGLU32XS4bLvCYo45YjxEuZskpsY7vegVakVX6by4P0HJqr6WjYHuII+0fgZKx/G7r+9VqbJ3zgVlYJiSMYQj+zlMVRrwd2rr7wVqnrRMLjpMB44M/Wvq0mFkb8OOuZlJqQPEBHUY7Etj4VuivX4bc+8yjSoAkW61NFkuu/4Kuq7pxRidW8NCv9Q7rihqRywMcKCbI21W+RgrprfSQhjyNgOyTIxDNkN2c65a3JfPlU8+Ecwm7mHOF2wpXbKS0PabdZFnSaJ5r/heDuu8iI0gJ5LfUgrfQX+oo7gbqMI7sCbJv8uo1BDYNZVYcvDt9RYRnlFv1bxUTeUU9ZZ5NqxN5U=;aBnPyHKtBmoj0hWsMqkVyw=="
+secured: "mJdMPFatY4KZ23nzx2WcL4wq1AfcF0EPJ3t9Kb9LiXHXubsET2dYMHQ/KjUQObBxpfTgnd68lRCgdWn69y6KB7ERFuMaSY5912Ch9m89E0W5GEC4nZok/2XV950YBwzyCeRLWBWEtJVICetzRiOytDqAUchO8T49/xWMRu8zE0P8L9GLrjDDbe4cT6CHoPOOohTo28X9RCEFzNBqSJc9xvrucVjyNhz3O20AIcM1qKUWgDVSRwn47re2aE9FTyoOWMr6329OvNO8gWFoE7mXphBybZ5tk6Gehi6BFKCvWtIfJ/LUGrUDlGjtkIg93M/ispwC5f71maT/iUmc95owcE+4d8jtpK5SLRwJlQMzTvE=;te9U2L23FRBHEFMT8xpPQg=="
 ---
 

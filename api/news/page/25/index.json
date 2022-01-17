@@ -2,6 +2,92 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-12-23-interview-ibms-phil-anderson-on-ethics-and-ai.md",
+      "title": "Interview: IBM’s Phil Anderson on ethics and AI",
+      "excerpt": "IBM South Africa's Phil Anderson joins the podcast to unpack AI and the ethical concerns around the use of the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/",
+      "originalUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcentral.co.za/wp-content/uploads/2021/12/phil-anderson-2156-1120.jpg",
+          "width": 2156,
+          "height": 1120,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/?amp=1",
+      "cdnAmpWebUrl": "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/interview-ibm-phil-anderson-ethical-ai-ibmprom/206240/?amp=1",
+      "publishedDateTime": "2021-12-23T00:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCentral",
+        "domain": "techcentral.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-23-seven-ways-robots-help-improve-our-lives.md",
+      "title": "Seven Ways Robots Help Improve Our Lives",
+      "excerpt": "Depictions of robots have been common in science fiction stories for decades. Sometimes they are helpful, sometimes they are villains, sometimes they work with humans, and sometimes they try to destroy humans (à la Terminator).",
+      "sourceUrl": null,
+      "webUrl": "https://www.smallbusinessbonfire.com/seven-ways-robots-help-improve-our-lives/",
+      "originalUrl": "https://www.smallbusinessbonfire.com/seven-ways-robots-help-improve-our-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smallbusinessbonfire.com/wp-content/uploads/2021/12/Robots.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-23T00:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "How to Write a Fact Sheet",
+        "domain": "smallbusinessbonfire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2021-12-23-eu-oks-microsofts-197b-deal-to-buy-telemedicine-tech-firm-nuance.md",
       "title": "EU OKs Microsoft's $19.7B Deal to Buy Telemedicine Tech Firm Nuance",
       "excerpt": "The European Union has cleared Microsoft’s buy of Nuance, an artificial intelligence (AI) and cloud computing company, as it doesn’t pose competition concerns.",
@@ -1049,109 +1135,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.md",
-      "title": "UN talks to ban 'slaughterbots' collapsed — here's why that matters",
-      "excerpt": "A UN conference failed to agree on banning the use and development of so-called \"slaughterbots\" at a meeting in Geneva last week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "originalUrl": "https://www.cnbc.com/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106992652-1640169480556-gettyimages-1236334796-Armed_Police_Training.jpeg?v=1640176120",
-          "width": 4000,
-          "height": 2629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/12/22/un-talks-to-ban-slaughterbots-collapsed-heres-why-that-matters.html",
-      "publishedDateTime": "2021-12-22T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-22-face-recognition-is-being-bannedbut-its-still-everywhere.md",
-      "title": "Face Recognition Is Being Banned—but It’s Still Everywhere",
-      "excerpt": "Two dozen cities and states prohibit use of the tech. But it’s on phones and is increasingly used in airports and in banks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
-      "originalUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/61b7bd8612b63df686feb19d/master/pass/yir-jennysharaf-aiface-1192570719.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/face-recognition-banned-but-everywhere/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/face-recognition-banned-but-everywhere/amp",
-      "publishedDateTime": "2021-12-22T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

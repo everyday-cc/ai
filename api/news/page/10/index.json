@@ -2,6 +2,48 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-01-07-sanofi-makes-ai-play-putting-up-100m-and-billions-in-biobucks-to-form-broad-deal-with-exscientia.md",
+      "title": "Sanofi makes AI play, putting up $100M and billions in biobucks to form broad deal with Exscientia",
+      "excerpt": "Sanofi is getting deeper into AI-driven R&D. After working with AI drug discovery shop Exscientia for five years, Sanofi has significantly expanded its relationship, putting up $100 million and $5.2 billion on the backend for the chance to work on up to 15 small molecules across oncology and immunology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia",
+      "originalUrl": "https://www.fiercebiotech.com/biotech/sanofi-makes-ai-play-putting-up-100m-and-billions-biobucks-to-form-broad-deal-exscientia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercebiotech/1641487855/Sanofi.jpg/Sanofi.jpg?VersionId=iGMK6OHqHmXYmaa5FawGN5L8VNKX49li",
+          "width": 800,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-06T21:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-01-07-ai-weiwei-doesnt-care-what-the-critics-think.md",
       "title": "Ai Weiwei Doesn't Care What the Critics Think",
       "excerpt": "Emma Barnett meets with the acclaimed artist and dissident Ai Weiwei to talk about his detention in China, his fight for human rights and the art of protest. (Source: Bloomberg)",
@@ -1087,49 +1129,6 @@
       "provider": {
         "name": "Sharecast",
         "domain": "sharecast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-06-car-makers-lock-in-long-term-deals-with-chip-giants-for-future-autonomous-vehicles.md",
-      "title": "Car makers lock in long-term deals with chip giants for future autonomous vehicles",
-      "excerpt": "The battle between chip giants in the autonomous vehicle space isn't a two-horse race like it was for desktop PCs. Car makers have a somewhat wider choice of silicon vendors. At CES, Intel, Qualcomm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
-      "originalUrl": "https://www.theregister.com/2022/01/06/self_driving_car_makers_chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/12/07/car_shutterstock.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/01/06/self_driving_car_makers_chips/",
-      "publishedDateTime": "2022-01-06T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null
