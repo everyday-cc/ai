@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/samsung-new-mram-in-memory-c
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/samsung-new-mram-in-memory-computing-chip-hits-98-percent-accuracy-in-ai/?amp"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -116,6 +116,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "AI Computing Comes to Memory Chips: Samsung will double performance of neural nets with processing-in-memory"
+    excerpt: "Abstract: John von Neumann's original computer architecture, where logic and memory are separate domains, has had a good run. But some companies are betting that it's time for a change."
+    publishedDateTime: 2022-01-17T15:14:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9676364"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 15
 
 secured: "rfriWZYpSFtJKGQhFlRcbM+ldyOp9pm/m12HFz46YSx3XDLPGQluDBs+DlNULGGF+8ej2VImdlU+f0/9sisrN1tjyCni0ycd7vLgSSUmQ9OpDriX4/KqIn6Qk7vmYwN4bbTcM0JAvNOj/m5UCDrfg4B1qVQPpQg17WYddyr5dBywH2pJ9990VUUhQeikeO7AO2KTOZNN+rPxlP3PjrkSH+i3WPIeHJozbohnm3u8S9htqWmVDGlM4SxB4aWqsAr8+9EARi8ES7UpaC148BrRKbGXyoykhvBmxyUtE+woumsw7igwE87bkb6iqtyN5AQoPfD8OLlzuSaEUgDq0kAd2Yu2CJNXlws3s5qkQa3tsDCRVVuLeJuIjif8feOvKMHAKShVIG3UWLWdc10r+MEwu9sIa/TuBeCJR/nz9wJ18j7F+UFCSWyaZPN+R2cOs6XBeVIGzm45P8pgvNreK5H42+kX4NPNAOLkkUHighjpJdf7k7lmybxT1YkPvpkJIDiJckWvZ8pannFLYcnt6o7SRw==;/L8GHISdb8dQSBDb6SKg5Q=="
 ---

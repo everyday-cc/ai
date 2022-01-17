@@ -7,7 +7,7 @@ originalUrl: "https://www.rockpapershotgun.com/nvidias-deep-learning-dynamic-sup
 webUrl: "https://www.rockpapershotgun.com/nvidias-deep-learning-dynamic-super-resolution-tech-is-out-now-heres-how-to-enable-it"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Explained: What is the new Deep Learning Dynamic Super Resolution tech and how it can be useful"
+    excerpt: "If the game supports 4K, DSR renders that game at a higher more detailed resolution and again shrinks the result down to the resolution that your moni"
+    publishedDateTime: 2022-01-17T15:41:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/articleshow/88957507.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/amp_articleshow/88957507.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/explained-what-is-the-new-deep-learning-dynamic-super-resolution-tech-and-how-it-can-be-useful/amp_articleshow/88957507.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 62
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-88957515,width-1070,height-580,imgsize-103729,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
 
 secured: "A9RsaGdznPxFoXOTqBcnvud0RTUGBTaKYShSLp5SCfw3z3wWV+dBygoLjwkXvptFpfjFt0OkgV+nNRD6x0eDoFAGeZc6SlJrhh78As/2q5yBWYVtOFN0hn+R55XmjyeYui3f2igzh6960305m4JCPBte4kL+sX3Y175iWE08txYdyjmKwRvAj5qcwTHMrzx59L4VDxY+r0KemHuoWD28nu4E4RjQLtVV9hZLdHhlPUNVS0nk3r3L3LUVUNo9POktK+qRSXdTo+7APOho4vLaR7R47HaKYUOpoENTFClxINRdk9N5vETNxlZFMLH6ZIEE5aHvX/UYtEZ9MZl1VNiKjbHpChXdzkgGdPbv1ISJxK/aFE0z+e6u2+l80CFrD3uRuLGM7l6yvsX+s4B7+ozTYLrH34QEetCGYH4qWzxnM61Xfc7QlLu0oeUAaRHp7wGMX6CGaA2Al4aRKzTtWbhH4JmqFcL/BLraSPu4dU6C2fzD2j1F3nrktW3aCGKT9mNi/Hn6C06W2tL17WIn0LVmIw==;cgeRRrEPBNMdWpZbTvfSUw=="
 ---

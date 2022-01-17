@@ -112,6 +112,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 19
+  - title: "AI Computing Comes to Memory Chips: Samsung will double performance of neural nets with processing-in-memory"
+    excerpt: "Abstract: John von Neumann's original computer architecture, where logic and memory are separate domains, has had a good run. But some companies are betting that it's time for a change."
+    publishedDateTime: 2022-01-17T15:14:00Z
+    webUrl: "https://ieeexplore.ieee.org/document/9676364"
+    type: article
+    provider:
+      name: IEEE
+      domain: ieee.org
+    quality: 15
 
 secured: "Anejkfu08b04l5sxGDCo5l1f0QlQO6viGK0EQLQsEmq70NFUlEJ+RMEwUaIcxgtr2+REgt8EHd5XSMk/s8xa/bvaW2V003r+Mr3kiIsZ31cawypguso9b4ZwMBBEoI3TPYTyld6kTHRyI2OihwAt0H7rJp3afTxWkXGMaNjnwfdn2togHy/KZPi8STGG+VHmdCfnsaNMfxWMLz0GLt8ffKeSujom5V2hccbUVyO1oiphC4ffzI0tSEeIRjM88h+Q4jHATc2QvdSFBiSJtXnZl1jL/ILf1C33MhEdnrGHstASVi951GYcFcphDlOJzNJafC5feamLD6LRb1BLJdUMI+NrybTPbdErYSZTjROnqpd33oay4S/LLd/E2i8ggeLOi724ZD5a+Q73DZMaa2UgL7wmgnjt9W5YGAXc09vO59ACCOJJ4zwaXZY7n54nlClim70iKBsJhs/JpTI1iCK9xJZY7q+CUKjJ8wYOasWAQNc44kat4ixkjP8cGp4YxJ26/6LjxfJ0Jq0KT35/yFZb5A==;ieR1mJGkj1S+6hPw8dXxVQ=="
 ---

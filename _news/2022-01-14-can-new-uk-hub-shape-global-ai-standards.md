@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/can-new-uk-hub-shape-global-ai-standards?amp"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alan Turing Institute to lead AI Standards Hub"
-    excerpt: "The UK Government has announced the creation of an AI Standards Hub to work on improving the governance of artificial intelligence. A pilot of the hub – an online platform to bring together the national AI community – will be led by the Alan Turing Institute supported by the British Standards Institution and National Physical Laboratory."
-    publishedDateTime: 2022-01-13T00:04:00Z
-    webUrl: "https://www.ukauthority.com/articles/alan-turing-institute-to-lead-ai-standards-hub/"
-    type: article
-    provider:
-      name: ukauthority.com
-      domain: ukauthority.com
-    quality: 39
-    images:
-      - url: "https://www.ukauthority.com/media/11108/ai-standards-hub-logo-govuk-ogl.jpg"
-        width: 500
-        height: 324
-        isCached: true
   - title: "New UK initiative to shape global standards for Artificial Intelligence"
     excerpt: "The Alan Turing Institute (@turinginst), supported by the British Standards Institution (BSI) and the National Physical Laboratory (NPL), will pilot a new UK government initiative to lead in shaping global technical standards for Artificial Intelligence."
     publishedDateTime: 2022-01-13T09:40:00Z

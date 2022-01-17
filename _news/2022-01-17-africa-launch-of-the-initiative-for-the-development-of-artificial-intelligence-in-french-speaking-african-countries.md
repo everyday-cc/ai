@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Canadian fintech Periculum, officially launches in Nigeria, set to build credit assessment infrastructure for Africa"
-    excerpt: "Periculum helps its banking and lending customers identify fraud risk, assess creditworthiness, and analyze existing data"
-    publishedDateTime: 2022-01-17T08:01:00Z
-    webUrl: "https://www.africa-newsroom.com/press/canadian-fintech-periculum-officially-launches-in-nigeria-set-to-build-credit-assessment-infrastructure-for-africa?lang=en"
-    type: article
-    provider:
-      name: APO Group English
-      domain: africa-newsroom.com
-    quality: 1
-    images:
-      - url: "https://www.africa-newsroom.com/uploads/socialshare.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
-secured: "iXoX+nPnrheWYk8oBJ6bxxSadLXQDvU8ZVJLQDckr9dFcyEI2CYohsSfDc0/eZaH2NS9ZKVvuM6sgGu3RETzYHKywMOQQYEcMrKCm4z5bi6y6TtUuGvn8QjY/5mFopmoFpy1wyfDypViapWb4VVpuyGY8gPEVVfT8ABCNK3eDsCaVwQehA+/YuzR/0XDrAnxXIHnOLXlXrzHg5rR3gRegqKOr7jUxG+8/AxsDt5QZ/9B3/Soq9+N3n/78eeQcJg2i2h7ShL4KpccK0de8ADOK9L8tF/JzwVjwxssEST8fLkP2LWu4xX6/3w808GJh3UY53tTVX6ZMUM1vEEbgYp2eefXbzuA7RimW29Cu8gyZGo=;+l4TNvqxCv4rmIaLK17veg=="
+secured: "Wk1pFcrBHJGI03VHFTB/YXD7WP/Sk1DUr+9lBXbBq0gK60fKsWOeUGcPTbUyt5cb8O0YC2+nhhik4wkR2K/kiV3eGzU/1GD0udKUVRQAsY4/EGWnBxHahUtSeKL5gayRXy1qgiDPX1HnvWTdO+cileCTEp7DqB7IX0f4s+l/aCgJ+Nzc5yPXRRu2qkr9rLJUdezZbdhEorW8T69MKlFkkAznditQ9fuy0ffJPOMVmbN88aIfrV+KBH9GyRHJ2/9XyaxHG+2fIh/zOcldTH0qRcZ7Z58qhfJGBWzx2Wja/ciloqQHZjvpO0DGiFQA4MS/iSEL+//Cl+oDnwUag0c9Ml96stCMcxTItMc4V392bqd4XSz9+yTPKaawXnU8X0jc7abotbGuH3ajFhiOF+JSYtg1oJpHe6ln5ihQLwQt2L4BByIC04JzChcJwNUAL7Y/5LSGOWgwv8vBYZsUemfihzA+v1iNquB2LyzdbC4iwdQswzQYKX8YqPm3ktvbcZh8CBri4Knt8y7FAmiM0fcf/Q==;XHCp8z8lMN9/nGx4e7Us6w=="
 ---
 

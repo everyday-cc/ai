@@ -19,6 +19,17 @@ topics:
   - AI
 
 related:
+  - title: "Cadence (CDNS) Spurs Depth Perception With Tensilica Vision Q7 DSP"
+    excerpt: "Cadence Design Systems, Inc. CDNS recently announced that it has collaborated with a depth-sensing and perception technology company — Light — to deploy its Tensilica Vision Q7 DSP solution. The new-age offering has been infused in Light’s Clarity Depth Perception Platform."
+    publishedDateTime: 2022-01-17T13:24:00Z
+    webUrl: "https://www.nasdaq.com/articles/cadence-cdns-spurs-depth-perception-with-tensilica-vision-q7-dsp"
+    ampWebUrl: "https://www.nasdaq.com/articles/cadence-cdns-spurs-depth-perception-with-tensilica-vision-q7-dsp?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cadence-cdns-spurs-depth-perception-with-tensilica-vision-q7-dsp?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Light Leverages Cadence Tensilica Vision Q7 DSP for Enhanced Depth Perception in Next-Generation ADAS Systems"
     excerpt: "Light™ and Cadence Design Systems, Inc. (Nasdaq: CDNS) today announced that Light has deployed the Cadence® Tensilica® Vision Q7 DSP for use"
     publishedDateTime: 2022-01-13T14:45:00Z

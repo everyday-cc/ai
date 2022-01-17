@@ -8,8 +8,8 @@ webUrl: "https://www.provideocoalition.com/zeoshi-ai-with-a-difference/"
 ampWebUrl: "https://www.provideocoalition.com/zeoshi-ai-with-a-difference/amp/"
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/zeoshi-ai-with-a-difference/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.provideocoalition.com/wp-content/uploads/zeoshi-thumb.jpg"
@@ -25,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "WFXjkyoW/ELlb8KtwOy2O6kf75GxCHlyb/ePiC/KGrUghPAl49NgFB5+5RwiGyFSUQxslk+8oLfXV+yO2gtKI3TiI3XrwnflLwUMbFTy09sr5vJQQW/dWLGuxisgDeJi6SxfWEiK+ZS60fwURtPdAx23yOoSTKqegPqJyhDni9KiAZv1w5X90Jh0z6gB6XaKoq1LgeAtWBHUas4qhlU0B5WtCKFYitqTPFiwDy+tBPZ5cNBLgWbY0WeQKAvzES7ml2h19bPCmCgUYHxkOgKen9vaJo3fw4h1nDt7sjZC4vbukPwDbLuwDT9IXq6f9OibUyQBVG5wBaFv1ZJS+aEQ/dA7HiGdPPZbIetjIbUEW+U=;e/SzEuX8FLgRBdHaWl3W6Q=="
+secured: "gPqs+AJxyuWufzv7YunJxoZ4HjaCkysTs476oYBMZOV70O8pdUP/cZr8RWMSW2j/OQjVBTAywuxFTjZKZQn8MaE0YU1f+HzNOJZfgfXQ+ixDFVOvSnOEae03Tph6E3hxSVIaB+ONyx3eGCYv9OAqhMmzfUC/h3lHjIEwB10hHrSaosu1IOkIHqe3756XxpoVVH1dXxiZc7ap+UIfvT81Q3CRFdmu/ALqlsx9mOWTherX4hrvfpBdbAQ957/RLu+whK5Hcryqz0DCItfeWGay5aLxwtVh0xxfUeQ8RmNoQFUL7+Et12YNSsfZIyifxQM/GDeAlXws4RZeXNS7JJee8MXZrnIw058ldcnnQ1pSjhmF7xFxc0jf2bDIaivjWDQ7qzQPHAKxiOqNSuzz3SwF1x6gjNcqJ15uZNyLIzT08PJNViRdCzOO0E/pjhJ6dNqj+9UsznbOtdoUa+pcIgqjMAuwQpdeRYVDGZDI4TP1c5XjCQcJeDeVscB4YynotqHTGm3ahIhpXmen3t8hO7qByQ==;dd87h0+ZkSIfDbrrBvOmJw=="
 ---
 

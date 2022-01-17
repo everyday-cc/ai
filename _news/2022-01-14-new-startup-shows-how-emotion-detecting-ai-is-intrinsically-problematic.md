@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detect
 ampWebUrl: "https://venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/01/17/new-startup-shows-how-emotion-detecting-ai-is-intrinsically-problematic/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/10/YouFirst-AI-emotion-tracking-brand-video-campaigns.jpg?w=1200&strip=all"
@@ -29,6 +31,6 @@ images:
     height: 697
     isCached: true
 
-secured: "sP8FkLsGuGzG83UeoFQ23lcOxsiAxKf9eUZOCJHuqBzh+5wQy+ar7RXJsSf4Kd4S027PWIEfuReBYvR09K3b93J2DlNAK0ojdmLTtxz573t0dQYm1QywX/UoCFfpvMg9CUQJGmg1ICDFB2WwXWYYzEZH4gTeu4GnrAxU9AdPLVDcsa3g8hT5TwmJxfHyyzDGnXihI+djRHrbZ3UNLwiYwp9dXh3YcJw5Z2U4Z5tNtv5STkkakakOb+GHY05NeQA4ykjMT9IWX5VozBIGlhqBRmVPpU5e3pdVBdKO/qqBwBY0P/5ANd7nYCz2+sfQMCarvKSpJS2VXywWDmUy3NruRiq55sYVPjqPTH1v3OJYdiE=;fhTPR25mokfbPpyrRoI8Bw=="
+secured: "R5E6gYbseizRGam5bFkPh+U8iHBKsvVNrp/CjsK3ct3MYA4RyO3+PdVoemVrGUOHqzBYygw6FNrWbHcbNZV6/GpHrHAmU6368w62wRheS+Es6pi7H/ii9lerw13nlIr3ckIgrV5cceLANileLU5lp0fHU69KEv7tuaLnkB8qRukIic9Ior8l1tu26c5HcpMRdjsDW3HS03JI0eoVj+SYiR+eCqTfu5B2xfprzfZsnVCEn50AHdZ2hjZc1rjYIMID2M9EGZ6iPRlA2xuuSL7Z+mJSAWdMx+laiknXzjN6vKq8olWbwa+XXy4N7GQqDS3m/iCiqIdPgCpGSL8YIe6ACRNbMn7+ZCjaFKUOc9zwPcQB9EHYZ56m16+bqMZYMoxuLFw74SkPO1c+uJuxR77j2Yz6r8YU7pE9ozvmGDeypdtnwQEUEJwaYRWA2dVJd8E7B6Ixi/9oAFW4T7xkeTvXwVdjmcpbCkX4B0gdASDZvZH+6gO4S/itc71uWLe+nBCiLpvF8h32ERgTDCFA/kL0hA==;lWGMjgQtcoehmzxSxNhvEA=="
 ---
 
