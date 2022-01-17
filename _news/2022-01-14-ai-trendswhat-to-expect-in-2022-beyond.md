@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Top Data Science & AI Trends For 2022"
+    excerpt: "MLDS 2022 is just 2 days away.  Machine Learning Developers Summit is our flagship developers conference and is scheduled for 19-20th Jan, virtually."
+    publishedDateTime: 2022-01-16T10:54:00Z
+    webUrl: "https://www.linkedin.com/pulse/top-data-science-ai-trends-2022-bhasker-gupta"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEJ_J56FjjIHQ/article-cover_image-shrink_720_1280/0/1642330006381?e=1648080000&v=beta&t=hyaUpek-tDKP8XvlsFpI1G_hxp9LAboVLw-c6KjupeU"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "0wQM/OjeT+6Tv7O514oAxX8wMwynuHWkZTJ5M4Lq0IAir8Jui2EZ9ZSK6TDbzTjrkekt0nlWd8tGJj5VXuzQbeFpjBqToXvYXJwoH41HybV1mrC7JQa39M7MzBJViAREdMmJNVUDKajMe2hOrSvMLWEqKzJ2J3n44qSpSLLOUg46yzJWtO+Ow3FGmvEQlv75LhbWlOv93Xx1x31Bt0mNl0LzxvyyRVb5vm1lv5xfECIIrgn7BqInzq2o7BPmCMwsUvESgQlMPn3xWBrDz2HzUUYUIlgjGLO+OoEeJPF8q7oThfDBZ6JV+sI/neI4uLLjaxcITXGuJ12z/OniLmObjzICc9TQ7RevXFPdXrSwqYqRLATV/F7QfKlIIO0XviSGLbh+EMhbknzeF+T+FVH1/egf0Zjq1s6PioVUJ959JulQqZHauutfaDUI8LEXlrDy6vAT6hJN6Nc+q9mINLi5Uhu/2i26eXN0qYr6vW5g5Qt7ims4cTiJg6tUdY0RDlV+l+t+YVSc9OIvJHCnJEZzjw==;oTwOC9uxGFZpECSd8V1Y+g=="
 ---

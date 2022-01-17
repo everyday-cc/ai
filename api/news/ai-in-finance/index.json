@@ -99,49 +99,6 @@
       ]
     },
     {
-      "path": "_news/2022-01-13-philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion.md",
-      "title": "Philippines’ neobank Tonik builds on Google Cloud to speed up financial inclusion",
-      "excerpt": "The Philippines’ first licensed neobank Tonik Digital Bank, hastens underbanked financial inclusion locally by leveraging Google Cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://techwireasia.com/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
-      "originalUrl": "https://techwireasia.com/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.techwireasia.com/wp-content/uploads/2022/01/Philippines-digital-banking-450x300.jpg",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techwireasia.com/amp/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
-      "cdnAmpWebUrl": "https://techwireasia-com.cdn.ampproject.org/c/s/techwireasia.com/amp/2022/01/philippines-neobank-tonik-builds-on-google-cloud-to-speed-up-financial-inclusion/",
-      "publishedDateTime": "2022-01-12T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techwireasia.com",
-        "domain": "techwireasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-01-12-robo-inu-finance-aims-to-create-a-new-era-of-payment-methods-using-the-fintech-industry.md",
       "title": "Robo Inu Finance Aims to Create a New Era of Payment Methods Using the Fintech Industry",
       "excerpt": "Robu Inu Finance was born with the vision to build an open ecosystem for everyone regardless of their age or background to gain financial freedom. They are creating a financial tool for individuals to manage their finances better and for companies to leverage an AI to enhance people's lives in the fintech industry.",
@@ -1313,6 +1270,40 @@
       "provider": {
         "name": "academy",
         "domain": "newswit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2021-12-22-hosting-infrastructure-services-market-size-2021-global-industry-share-top-players-opportunities-and-forecast-to-2029.md",
+      "title": "Hosting Infrastructure Services Market Size 2021 Global Industry Share, Top Players, Opportunities And Forecast To 2029",
+      "excerpt": "The global hosting infrastructure services market is estimated to reach a value of US 12 billion in 2019 up from US 11 billion in 2018 according to a recently published report by Future Market Insights FMI Gains remain underpinned by",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
+      "originalUrl": "https://www.openpr.com/news/2506997/hosting-infrastructure-services-market-size-2021-global",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2506997/hosting-infrastructure-services-market-size-2021-global",
+      "publishedDateTime": "2021-12-21T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
         "images": null,
         "publishers": null,
         "authors": null

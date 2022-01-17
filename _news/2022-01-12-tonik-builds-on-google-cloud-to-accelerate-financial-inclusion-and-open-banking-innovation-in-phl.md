@@ -41,20 +41,6 @@ related:
         width: 450
         height: 300
         isCached: true
-  - title: "Tonik improves financial inclusion through Google Cloud partnership"
-    excerpt: "Singapore-based digital bank, <a href=' target='_blank'>Tonik, has tapped <a href=' target='_blank'>Google Cloud’s platform to improve financial inclusion for all"
-    publishedDateTime: 2022-01-12T10:57:00Z
-    webUrl: "https://thepaypers.com/online-mobile-banking/tonik-improves-financial-inclusion-through-google-cloud-partnership--1253855"
-    type: article
-    provider:
-      name: The Paypers
-      domain: thepaypers.com
-    quality: 24
-    images:
-      - url: "https://thepaypers.com/images/linked-share.png"
-        width: 663
-        height: 347
-        isCached: true
 
 secured: "dHUJnobSsfkSZapve3//ttwvVciUsA3lQd2BvjEH8GYAH4VZ3sSZfKZEKAoUR+Qdiq/zd2mQNVzcZZ0csU7cxes+naRabJiI4HvtyGQfPyMvY3ptHjcxWxGLcgVy4SUiiV0E3f3ew+UW0nBsAVONRG37Tx3wToV17pOwuHIYucF9osHXaZ6aPN0kFLTQE0NHCCyr8g1n7XdAcYgR4KTnrKS4+9qQhTRt6Q/rDuoxph5u98fButPCP/HOUdRKTKcbKmxu7qAlRJAUfwNRCokBB6Us/p7zwpylfFkxgL//R4puBQoM7bc6VosVNb2e05JamMuSU7e/4hUDW5/F39lDgw23C9H++JFNwcv85vjaJww=;/XEWKrB/qaoTAWGV5Dd2jw=="
 ---

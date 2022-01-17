@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10402701/amp/Chinese-restaurant-chain-forced-use-ROBOT-waiters-Covid-pandemic.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://video.cgtn.com/news/2022-01-16/Chinese-robot-companies-increase-investment-16RPGm7kkUg/video/d7bb7a7605ff4190bc1d1a30d679a78d/d7bb7a7605ff4190bc1d1a30d679a78d-1280.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Co-op stores using risky Chinese facial recognition technology to track their shoppers"
+    excerpt: "Facial recognition technology, made by a Chinese state-owned company that is currently listed as a security threat by the Ministry of Defence, has been"
+    publishedDateTime: 2022-01-16T15:27:00Z
+    webUrl: "https://www.euroweeklynews.com/2022/01/16/co-op-stores-using-risky-chinese-facial-recognition-technology/"
+    type: article
+    provider:
+      name: Euro Weekly News
+      domain: euroweeklynews.com
+    quality: 31
+    images:
+      - url: "https://cdn.euroweeklynews.com/wp-content/uploads/2022/01/joe-gadd-DYLsNF8hNho-unsplash.jpg?x15995"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "Cz5bBAKnl7wHmWZFllsOQ8RiY8pUE+03rwiaA4F9xF6Uo08HBrkmQA3FErhJNRBF8j/7S2eEgsnr2ABuDRvQYTEsTROqN4iiZoBvnKJgVrivfLTGMo4MgOeb2AJc3hW20RcCurmiB8JxjaH/5vZeaYYcILWvNR8LquWH3JKHOG/AiIwmNWueqMm1ivx0vt8dw8Vbl78nbXjMPiGZV2AWekI+tAnHyF+UvO5tS4Z2x3Rhh9yvPV3X58jeourGseK1QRg3v1hpouyLnJP6CbCAp/JxyK3nhS7WBFF731j0/IM+Ux8403bdNNBrdWUszjPvSPxzyIkM7xCfhf2raln6aCuC7BrR1rKK7ko6S+34hQxkcChFGl1q6PoKfJYfTw6XWzJITiL+EWBW6qoV0VIgNjSpbdQD3z6omjEY1/wR+MNk99Qr6OwcYkfPFMwm7sONAeUkA1Hky2ci8vk6lCjUt75GFVELnuJpCjT3LnWdrBGNSKcOOn0WeCfkClqH/vLZ8/CLLkdGpIITVGJTLeay/Q==;EnmhxJDM4774JayPgzi7Xw=="

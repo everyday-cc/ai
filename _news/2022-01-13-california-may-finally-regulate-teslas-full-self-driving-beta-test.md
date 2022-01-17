@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla's Full Self-Driving programme under reevaluation in US: Report"
-    excerpt: "Tesla's Full Self-Driving test programme is being reevaluated by Californian authorities to determine if its software should fall under its motor vehicle department's autonomous vehicle regulations, the Los Angeles Times reported."
-    publishedDateTime: 2022-01-12T09:44:00Z
-    webUrl: "https://inshorts.com/en/news/teslas-full-selfdriving-programme-under-reevaluation-in-us-report-1641980679441"
-    ampWebUrl: "https://inshorts.com/m/en/amp_news/teslas-full-selfdriving-programme-under-reevaluation-in-us-report-1641980679441"
-    cdnAmpWebUrl: "https://inshorts-com.cdn.ampproject.org/c/s/inshorts.com/m/en/amp_news/teslas-full-selfdriving-programme-under-reevaluation-in-us-report-1641980679441"
-    type: article
-    provider:
-      name: Inshorts
-      domain: inshorts.com
-    quality: 59
-    images:
-      - url: "https://static.inshorts.com/inshorts/images/v1/variants/jpg/m/2022/01_jan/12_wed/img_1641979176093_593.jpg?"
-        width: 960
-        height: 640
-        isCached: true
   - title: "California’s DMV Reevaluating Stance On Tesla’s Full Self-Driving Beta"
     excerpt: "The DMV had previously considered Tesla's FSD as a Level 2 system, but videos and software updates are forcing a rethink"
     publishedDateTime: 2022-01-12T18:28:00Z
@@ -90,22 +74,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_76_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=08ca4535493b4135d951bd1f818477af"
         width: 620
         height: 372
-        isCached: true
-  - title: "Tesla Full Self-Driving Test Being Re-Evaluated by California DMV: Report"
-    excerpt: "Tesla vehicles with the older 10.3 FSD software repeatedly provided forward collision warnings when there was no immediate danger."
-    publishedDateTime: 2022-01-12T10:47:00Z
-    webUrl: "https://gadgets.ndtv.com/transportation/news/tesla-full-self-driving-fsd-test-pilot-program-california-us-dmv-evaluate-review-2703874"
-    ampWebUrl: "https://gadgets.ndtv.com/transportation/news/tesla-full-self-driving-fsd-test-pilot-program-california-us-dmv-evaluate-review-2703874/amp"
-    cdnAmpWebUrl: "https://gadgets-ndtv-com.cdn.ampproject.org/c/s/gadgets.ndtv.com/transportation/news/tesla-full-self-driving-fsd-test-pilot-program-california-us-dmv-evaluate-review-2703874/amp"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 58
-    images:
-      - url: "https://i.gadgets360cdn.com/large/tesla_model_3_reuters_full_1577690658134.JPG"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Tesla Full Self-Driving videos are prompt California's DMV to rethink policy on accidents"
     excerpt: "In brief California’s Department of Motor Vehicles said it’s “revisiting” its opinion of whether Tesla’s so-called Full Self-Driving feature needs more oversight after a series of videos demonstrate how the technology can be dangerous."

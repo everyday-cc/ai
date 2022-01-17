@@ -3,8 +3,8 @@ category: news
 title: "Net4 launches video analytics powered by AWS Wavelength"
 excerpt: "Net4, a UK-based technology service provider, has launched its video analytics platform, known as Net4.Vision, which is powered by AWS Wavelength.Alex Taylor, Net4's CEO said,"
 publishedDateTime: 2022-01-13T12:02:00Z
-originalUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html?ref=nav"
-webUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html?ref=nav"
+originalUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
+webUrl: "https://www.sourcesecurity.com/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
 ampWebUrl: "https://www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/net4-launches-video-analytics-powered-aws-co-1642065194-ga-npr.1642067029.html"
 type: article
@@ -58,6 +58,6 @@ related:
         height: 400
         isCached: true
 
-secured: "njiu+5kDjfp4AGlBszTzlmED7N2W63BJL1PpAi1i+31A2S5XeCQd/skbvaOsQrvMtXv2QmZrA49C2NfaLhvzoi1pZKkLW86eB4Iw+xigVF0xR2QKDqhydTjg8e4vjwRXB3Nj49TbrQi3UQkea0yn7FaKGWeflsgq6Bv5N0EMUnlE20r4ckH6rirsr96HZQgA54YbixYPS4VkFCaVyDk6WOfhaDMOuQVR2FDGBCK/NitRL4/7keYxYZY84A9YN+q6obDCoOivbswyXiWVBTU3lgck06kaEm00nc9BlCNRBssUBszgZxqaJpHZc638Z5/O3DWiRYSFNvA0lS1FW5nnjjVT5g0vJLwqpnOcbyW3lVU=;C9p2MyvdBceuVuSopME5sA=="
+secured: "GicyxnKTmv61nmNC97+3kE4PjqKF74AsQjg4eHU8gfiyqWWzmw95vpaRupWUDfmGl41NxKNb8+JU7Qmgau+MSVkyLgZ7c6rAadCQcUCUfcmolxgpQTV7O/EwDXskjh487d2C96oozMcZGkV3nl3Tpcmd6YWe17mfK4bT9fIbXRt2xbaUB3L681yHIz9bC6epSdO2AJJbydtSxT4O3Gm5DGM5s3hbffHC+W7yDacRmGSi6x9tLaYvMyBFJPSvNRtWYEHgMpigAmBhEb9HNwAhO6vDGzFw/ugG7tcgvkURhnL3FWETWAHfpAc9jqWJsw8Q5Q9NyZ5mjrATHLcG5G+i4dTT6xEIAGDO0oefpmLNCy0=;IscRP25Ela2Ol06XZhu8Aw=="
 ---
 
